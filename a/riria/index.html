@@ -842,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781376707789">
+<meta name="sc-build" content="1781377039429">
 <meta name="description" content="RIRIA is an electronic artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 17 more. Often billed alongside Diffrent, Ryota and ryota dj. Next up: Fira Gran Via, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/riria/">
 <meta property="og:type" content="profile">
@@ -2194,19 +2194,19 @@
     }
     function myHandle(){ return currentUser ? currentUser.handle : null; }
     function shareArtist(slug, name){
-      var url=shareUrl({artist:slug, d:currentDate||null, u:myHandle()});
+      var url=shareUrl({artist:slug, d:currentDate||null});
       doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this DJ')+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
-      // Share the canonical event page (#e/<id>); keep ?u= for sender attribution.
-      var u=myHandle();
-      var url=location.origin+location.pathname+(u?('?u='+encodeURIComponent(u)):'')+'#e/'+encodeURIComponent(id);
+      // Canonical event path — NOT location.pathname+#hash (which pinned the event
+      // to whatever page you were on and broke under path routing).
+      var url=location.origin+SC_BASE+'e/'+encodeURIComponent(id);
       var t=(title||'Event')+(venue?(' · '+venue):'');
       doShare({ title:t, text:t+' — preview every DJ on soundcheck', url:url });
     }
     function sharePicks(){
       if(!pickCount()) return;
-      var url=shareUrl({picks:encodePicks(picks), u:myHandle()});
+      var url=shareUrl({picks:encodePicks(picks)});
       var a=Object.keys(picks.artists).filter(function(s){return artStatus(s)==='wanna_see';}).length;
       var e=Object.keys(picks.events).filter(function(i){return evtStatus(i)==='going';}).length;
       var bits=[]; if(e) bits.push(e+' event'+(e===1?'':'s')); if(a) bits.push(a+' artist'+(a===1?'':'s'));
