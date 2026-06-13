@@ -2822,7 +2822,7 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var cy=cityLabel(g.city);
             return '<li><span class="gh-date">'+esc(d)+'</span>'+
-              '<button class="gh-venue" type="button" data-venue="'+esc(g.venue||'')+'">'+esc(g.venue||'—')+'</button>'+
+              '<button class="gh-venue" type="button" data-venue="'+esc(g.venue||'')+'" data-city="'+esc(g.city||'')+'">'+esc(g.venue||'—')+'</button>'+
               (cy?'<span class="gh-city">'+esc(cy)+'</span>':'')+'</li>';
           }).join('')+'</ul>';
         }
@@ -2831,7 +2831,7 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); openArtist(slug); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); openArtist(slug); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        document.querySelectorAll('#page-body .gh-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue, b.dataset.city||null); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
         var up=document.getElementById('ap-upcoming');
         var rows=(a.upcoming||[]).map(function(g){
@@ -2871,12 +2871,17 @@
     // slug resolves). Idempotent, so it accepts either a name (from a click) or
     // an already-slugged value (from a /v/<slug> cold-load).
     function venueSlug(s){ return String(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
-    async function openVenue(input){
+    async function openVenue(input, cityHint){
       var slug=venueSlug(input);
-      setRoute('v/'+slug);
+      // Venues are city-scoped: /<city>/v/<slug>. Default to the city in the URL
+      // or the one being browsed; corrected to the venue's real city after fetch.
+      var city=(cityHint || pathCitySlug() || currentCity || 'london');
+      var url=SC_BASE+city+'/v/'+slug;
+      if(location.pathname!==url) history.pushState({sc:1},'',url);
       openPanel('<div class="empty">Loading…</div>');
       try{
-        var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)); var v=await r.json();
+        var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)+'&city='+encodeURIComponent(city)); var v=await r.json();
+        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/v/'+slug); }
         var dispName=v.name||input;
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
         var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'"></span>';
@@ -3050,7 +3055,7 @@
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
       else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));
-      else if(hash.indexOf('v/')===0) openVenue(hash.slice(2));
+      else if(hash.indexOf('v/')===0) openVenue(hash.slice(2), pathCitySlug());
       else if(hash.indexOf('e/')===0) openEvent(hash.slice(2));
       else if(hash.indexOf('n/')===0) openNight(hash.slice(2));
     }
@@ -3368,22 +3373,29 @@
     // Promo/share URL shown on taste cards + share text — tracks the live domain.
     function shareHost(){ return /(^|\.)soundcheck\.club$/.test(location.hostname) ? 'soundcheck.club' : '6minutes.club/soundcheck'; }
     function onScPath(){ return location.pathname.indexOf(SC_BASE)===0; }
-    // Entity pages (artist/user/venue/event/night) are global — they live at
-    // top-level, city-less paths: /a/<slug>, /u/<handle>, /v/<name>, … (served
-    // via the Pages 404.html SPA fallback). pathRoute() pulls that route off the
-    // path so it's distinguished from a city segment.
-    var ENTITY_RE=/^(a|u|v|e|n)\/.+/;
+    // Artist/user/event/night are GLOBAL — city-less top-level paths: /a/<slug>,
+    // /u/<handle>, /e/<id>, /n/<id>. Venues are CITY-scoped (a venue lives in one
+    // city), so they sit under the city: /<city>/v/<slug>. All served via the
+    // Pages 404.html SPA fallback. pathRoute() returns the render-route (e.g.
+    // 'v/fold' or 'a/objekt'); pathCitySlug() returns the city segment.
+    var ENTITY_RE=/^(a|u|e|n)\/.+/;          // global, city-less
+    var CITY_SEG_RE=/^(a|u|v|e|n)$/;         // reserved first segments (never a city)
     function pathRoute(){
       if(!onScPath()) return null;
       var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
       try{ rest=decodeURIComponent(rest); }catch(_){}
-      return ENTITY_RE.test(rest) ? rest : null;
+      if(ENTITY_RE.test(rest)) return rest;              // /a|u|e|n/<id>
+      var m=rest.match(/^[a-z0-9-]+\/(v\/.+)$/);         // /<city>/v/<slug>
+      if(m) return m[1];
+      if(/^v\/.+/.test(rest)) return rest;               // legacy city-less /v/<slug>
+      return null;
     }
     function pathCitySlug(){
-      if(!onScPath() || pathRoute()) return null;   // entity route, not a city
+      if(!onScPath()) return null;
       var seg=(location.pathname.slice(SC_BASE.length).split('/')[0]||'').toLowerCase();
       if(!seg || seg.indexOf('.')>=0) return null; // '' or index.html → no city segment
-      return seg;
+      if(CITY_SEG_RE.test(seg)) return null;       // entity prefix, not a city
+      return seg;                                  // city — incl. /<city>/v/<slug>
     }
     function cityPath(slug){ return SC_BASE + slug + '/'; }
     // _cityExplicit: the URL chose the city (path or ?city=). Only when it
@@ -3673,10 +3685,11 @@
     // Path entity route (/a/<slug> via the Pages 404 fallback) OR a #hash route.
     var _bootRoute=currentRoute();
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
-      var _isEntity=ENTITY_RE.test(_bootRoute);
-      // Insert a "home" entry beneath the page so Back lands on the grid.
-      history.replaceState({sc:1},'', _isEntity ? cityPath(currentCity) : (location.pathname+location.search));
-      history.pushState({sc:1},'', _isEntity ? (SC_BASE+_bootRoute) : ('#'+_bootRoute));
+      var _isPath=!!pathRoute();   // entity (/a/…) or city-scoped venue (/<city>/v/…)
+      // Insert a "home" entry beneath the page so Back lands on the grid. For path
+      // routes the page URL is already correct (location.pathname); hash routes get '#'.
+      history.replaceState({sc:1},'', _isPath ? cityPath(currentCity) : (location.pathname+location.search));
+      history.pushState({sc:1},'', _isPath ? (location.pathname+location.search) : ('#'+_bootRoute));
       setTimeout(handleRoute, 400);
     }
   </script>
