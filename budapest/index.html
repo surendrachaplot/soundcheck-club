@@ -478,7 +478,7 @@
     .page-back { background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 15px 8px 12px; font:600 var(--fs-xs) var(--body); cursor:pointer; display:inline-flex; align-items:center; gap:5px; }
     .page-back:hover { border-color:var(--accent); color:var(--accent); }
     .page-view h3 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
-    #page-body { max-width:760px; }
+    #page-body { max-width:none; }   /* full home width (.wrap caps at 1180) */
 
     /* ── Phase 3/4 panels (profile / feed / artist / venue) reuse tray shell ── */
     .panel-stat { display:flex; gap:20px; margin:4px 0 14px; color:var(--muted); font-size:var(--fs-sm); }
@@ -560,7 +560,7 @@
     .prof-tabs button { background:none; border:none; color:var(--muted); font:700 var(--fs-sm) var(--body); padding:6px 2px 12px; cursor:pointer; border-bottom:2px solid transparent; }
     .prof-tabs button.on { color:var(--fg); border-bottom-color:var(--accent); }
     .ptiles { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; max-width:520px; }
-    .ptiles.ptiles-wide { max-width:none; }   /* plays-alongside: span the full page width */
+    .ptiles.ptiles-wide { max-width:none; grid-template-columns:repeat(auto-fill,minmax(100px,1fr)); }   /* plays-alongside: full width, ~half-size tiles */
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
