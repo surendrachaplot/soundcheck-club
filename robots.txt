@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soundcheck.club/sitemap.xml
