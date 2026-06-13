@@ -830,7 +830,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781361801000">
+<meta name="sc-build" content="1781361978261">
 </head>
 <body>
   <main class="wrap">
@@ -3608,6 +3608,9 @@
     document.getElementById('hdr-search').addEventListener('click',openSearch);
     friBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[0], 'fri'); });
     satBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[1], 'sat'); });
+    // On Saturday the upcoming "Friday" pill points at yesterday — hide it so the
+    // bar shows just Saturday (today) + Pick a date. Sun–Fri keep both pills.
+    if(new Date().getDay()===6) friBtn.style.display='none';
     pickDateBtn.addEventListener('click',openCal);
 
     // ── on-brand calendar (Pick a date — single day or range) ──
@@ -3715,6 +3718,7 @@
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
+    else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
     else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
 
     // Deep link to a page (#u/handle, #feed, #a/slug, #v/name, #log, #picks,
