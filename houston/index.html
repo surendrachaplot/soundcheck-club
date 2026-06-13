@@ -830,7 +830,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781357547381">
+<meta name="sc-build" content="1781361225896">
 </head>
 <body>
   <main class="wrap">
@@ -2828,7 +2828,11 @@
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
-          h+='<div class="sec-h" style="margin-top:24px">Plays alongside</div>'+
+          h+='<div class="sec-h" style="margin-top:24px;display:flex;align-items:center;justify-content:space-between;gap:12px">'+
+              '<span>Plays alongside</span>'+
+              '<button class="ev-radio" id="ap-scene" type="button" style="margin:0">'+RADIO_SVG+'<span>'+(onAir?'On air':'Tune in')+'</span></button>'+
+            '</div>'+
+            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Hit play for a radio of '+esc(a.name||slug)+' and the DJs they share lineups with.</p>'+
             '<div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
         }
         h+='<div id="ap-upcoming"></div>';
@@ -2845,6 +2849,7 @@
         openPanel(h);
         setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:location.origin+SC_BASE+'a/'+slug, description:a.description||'' });
         document.getElementById('ap-radio').addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
+        var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); openArtist(slug); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); openArtist(slug); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
