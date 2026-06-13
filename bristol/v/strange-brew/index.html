@@ -267,6 +267,9 @@
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
+    .info .nm.linky, .info .sub.linky { cursor:pointer; }
+    .info .nm.linky:hover { text-decoration:underline; }
+    .info .sub.linky:hover { color:var(--fg); text-decoration:underline; }
     .transport { display:flex; align-items:center; gap:14px; }
     .scrub { display:flex; align-items:center; gap:10px; }
     .scrub .t { font-variant-numeric:tabular-nums; color:var(--muted); font-size:var(--fs-xs); white-space:nowrap; }
@@ -396,6 +399,12 @@
     .ev-radio { display:inline-flex; align-self:flex-start; width:fit-content; max-width:100%; align-items:center; gap:8px; margin:10px 0 2px; background:rgba(255,122,107,0.08); border:1px solid rgba(255,122,107,0.35); color:var(--accent); border-radius:999px; padding:7px 13px; font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .ev-radio svg { width:var(--icon-sm); height:var(--icon-sm); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .ev-radio:hover { background:rgba(255,122,107,0.16); }
+    /* event page: genre chips, add-to-calendar, directions, lineup avatars */
+    .ev-genres { display:flex; flex-wrap:wrap; gap:6px; margin:12px 0 0; }
+    .gchip { font:600 var(--fs-xs) var(--body); letter-spacing:0.02em; color:var(--muted); background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:4px 10px; text-transform:capitalize; }
+    .ev-directions { display:inline-block; margin:8px 0 10px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; color:var(--accent); text-decoration:none; }
+    .ev-directions:hover { text-decoration:underline; }
+    .sheet-line li .ln-av { width:30px; height:30px; border-radius:50%; flex:0 0 auto; background-size:cover; background-position:center; background-color:var(--surface); margin-right:2px; }
 
     /* picks tray (modal) */
     .picks-tray-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.62); backdrop-filter:blur(3px); z-index:75; display:flex; align-items:flex-end; justify-content:center; opacity:0; pointer-events:none; transition:opacity 0.22s; overscroll-behavior:contain; }
@@ -810,7 +819,9 @@
     /* search page */
     .search-box input { width:100%; max-width:560px; background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:14px 16px; font:500 var(--fs-md) var(--body); outline:none; }
     /* venue map */
-    .venue-map { width:100%; height:min(72vh,640px); border-radius:14px; overflow:hidden; border:1px solid var(--border); background:#15131a; }
+    /* isolate traps Leaflet's high internal z-indexes (panes/controls/popups ~200–1000)
+       in the map's own stacking context, so the player dock (z-index 60) always sits on top. */
+    .venue-map { width:100%; height:min(72vh,640px); border-radius:14px; overflow:hidden; border:1px solid var(--border); background:#15131a; position:relative; z-index:0; isolation:isolate; }
     .venue-map .leaflet-tile-pane { filter:saturate(0.9); }
     .leaflet-popup-content-wrapper, .leaflet-popup-tip { background:var(--surface); color:var(--fg); box-shadow:0 8px 24px rgba(0,0,0,0.5); }
     .leaflet-popup-content { font:500 var(--fs-base) var(--body); margin:11px 13px; }
@@ -830,6 +841,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
+<meta name="sc-build" content="1781364355099">
 <meta name="description" content="Strange Brew is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including Afriquoi, ALYA L, Chiedza and Dom Carlo and 2 more. Browse dates, set times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.">
 <link rel="canonical" href="https://soundcheck.club/bristol/v/strange-brew/">
 <meta property="og:type" content="profile">
@@ -1212,6 +1224,12 @@
     function isSmallScreen(){ return window.matchMedia && matchMedia('(max-width:620px)').matches; }
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
+      // Make the now-playing artist + venue tappable (jump to their pages; the set keeps playing).
+      var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'';
+      dockName.classList.toggle('linky', !!navSlug);
+      dockName.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
+      dockSrc.classList.toggle('linky', !!navVenue);
+      dockSrc.onclick = navVenue ? function(){ openVenue(navVenue); } : null;
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
@@ -1799,6 +1817,9 @@
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
       document.querySelectorAll('.seen-btn[data-seen-art="'+k+'"]').forEach(function(b){ b.classList.toggle('on', st==='seen'); });
+      // artist-page action buttons (immediate optimistic state, no re-render)
+      document.querySelectorAll('.act-btn[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+      document.querySelectorAll('.act-btn[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
     }
     function refreshEventButtons(id){
       var k=CSS.escape(id), on=isEventPicked(id);
@@ -2822,21 +2843,22 @@
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
-        var stats=[];
-        if(a.seen) stats.push('<span><b>'+a.seen+'</b> seen live</span>');
-        if(a.networkSeen) stats.push('<span class="pf-friends"><b>'+a.networkSeen+'</b> friends seen</span>');
-        if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
+        // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         h+='<div class="artist-actions">'+
           '<button class="act-btn radio'+(onAir?' on':'')+'" id="ap-radio" type="button">'+RADIO_SVG+'<span>'+(onAir?'Stop radio':'Tune in')+'</span></button>'+
-          '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
-          '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
+          '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
+          '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
-          h+='<div class="sec-h" style="margin-top:24px">Plays alongside</div>'+
+          h+='<div class="sec-h" style="margin-top:24px;display:flex;align-items:center;justify-content:space-between;gap:12px">'+
+              '<span>Plays alongside</span>'+
+              '<button class="ev-radio" id="ap-scene" type="button" style="margin:0">'+RADIO_SVG+'<span>'+(onAir?'On air':'Tune in')+'</span></button>'+
+            '</div>'+
+            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Hit play for a radio of '+esc(a.name||slug)+' and the DJs they share lineups with.</p>'+
             '<div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
         }
         h+='<div id="ap-upcoming"></div>';
@@ -2853,8 +2875,11 @@
         openPanel(h);
         setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:location.origin+SC_BASE+'a/'+slug, description:a.description||'' });
         document.getElementById('ap-radio').addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
-        document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); openArtist(slug); });
-        document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); openArtist(slug); });
+        var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
+        // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
+        // immediately and sync to the DB in the background — no full re-render.
+        document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
+        document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         document.querySelectorAll('#page-body .gh-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue, b.dataset.city||null); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
@@ -2914,7 +2939,7 @@
         var stats=[];
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
         if(v.logged) stats.push('<span><b>'+v.logged+'</b> logged</span>');
-        if(v.going) stats.push('<span><b>'+v.going+'</b> saved upcoming</span>');
+        // "saved upcoming" (going) count hidden — no social proof yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
@@ -2935,7 +2960,7 @@
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
           loadLeaflet(function(){
-            if(location.hash.indexOf('v/')<0 || !document.getElementById('venue-loc')) return;
+            if(currentRoute().indexOf('v/')!==0 || !document.getElementById('venue-loc')) return;   // path-routed, not hash
             var map=L.map(locEl,{ scrollWheelZoom:false }).setView([v.lat,v.lng], 15);
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
             L.circleMarker([v.lat,v.lng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(dispName)+'</b>'+(v.address?'<br><span style="color:#9292a0">'+esc(v.address)+'</span>':''));
@@ -2967,30 +2992,83 @@
             (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
           '</div>'+
         '</div>'+
+        '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb + add-to-calendar (filled by renderEventRich) */
         ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
         '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
         '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
+    // ── event page enrichment (genres, blurb, map, recommendations) ──
+    function musicEventLD(ev){
+      var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
+      if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
+      var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
+      if(perf.length) o.performer=perf;
+      if(ev.poster) o.image=imgUrl(ev.poster,640);
+      return o;
+    }
+    // Fill the two placeholders eventPageHTML left, using the enriched event.
+    function renderEventRich(ev){
+      var top=document.getElementById('ev-meta-rich');
+      if(top){
+        var th='';
+        if((ev.genres||[]).length) th+='<div class="ev-genres">'+ev.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        if(ev.description) th+='<p class="seo-desc">'+esc(ev.description)+'</p>';
+        top.innerHTML=th;
+      }
+      var rich=document.getElementById('ev-rich');
+      if(rich){
+        var rh='';
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          rh+='<div class="sec-h" style="margin-top:26px">Location</div>'+(ev.venueAddress?'<div class="venue-addr">'+esc(ev.venueAddress)+'</div>':'')+
+            '<a class="ev-directions" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions &rsaquo;</a>'+
+            '<div id="ev-loc" class="venue-map" style="height:240px"></div>';
+        }
+        if((ev.alsoOn||[]).length) rh+='<div class="sec-h" style="margin-top:26px">Also on that night</div><div id="ev-alsoon"></div>';
+        rich.innerHTML=rh;
+        if((ev.alsoOn||[]).length) mountEventCards(document.getElementById('ev-alsoon'), ev.alsoOn);
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          var locEl=document.getElementById('ev-loc');
+          loadLeaflet(function(){
+            if(currentRoute().indexOf('e/')!==0 || !document.getElementById('ev-loc')) return;
+            var map=L.map(locEl,{ scrollWheelZoom:false }).setView([ev.venueLat,ev.venueLng], 15);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
+            L.circleMarker([ev.venueLat,ev.venueLng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(ev.venue||'')+'</b>'+(ev.venueAddress?'<br><span style="color:#9292a0">'+esc(ev.venueAddress)+'</span>':''));
+            setTimeout(function(){ map.invalidateSize(); },120);
+          });
+        }
+      }
+      // lineup avatars + section tiles open via existing wireCard/venue-link delegation
+      document.querySelectorAll('#page-body .sheet-line .ln-av[data-artist]').forEach(function(el){ el.style.cursor='pointer'; el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
+      setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', musicEventLD(ev));
+    }
+    function mapEventDetail(d){
+      return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
+        _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
+        startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
+        city:d.city, genres:d.genres||[], description:d.description||'',
+        venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
+        alsoOn:d.also_on||[],
+        artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
+    }
     async function openEvent(id){
       id=String(id);
       setRoute('e/'+encodeURIComponent(id));
-      var ev=lookup.byEvent[id];
-      if(ev){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); return; }
-      openPanel('<div class="empty">Loading…</div>');
+      var cached=lookup.byEvent[id];
+      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); wireEventRadio(cached); }
+      else openPanel('<div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
         if(!r.ok) throw 0;
-        var d=await r.json();
-        ev={ id:String(d.id), title:d.title, venue:d.venue, poster:d.poster_url,
-          _day: d.event_date ? fmtEventDay(d.event_date) : '',
-          startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
-          _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
-          artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
-        if(location.hash.indexOf('e/')<0) return;   // navigated away while loading
-        openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev);
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
+        var ev=mapEventDetail(await r.json());
+        if(currentRoute().indexOf('e/')!==0) return;   // navigated away while loading (path-routed, not hash)
+        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); }
+        renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
+      }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
     }
 
     // ---- log a gig ----
@@ -3183,7 +3261,8 @@
         var pickedRow = slug && sharedPicks && (sharedPicks.artists||[]).indexOf(slug)>=0 ? ' picked' : '';
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+av+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
@@ -3336,7 +3415,9 @@
       if(typeof prewarmRadio==='function' && !radio.on) setTimeout(prewarmRadio, 1200);
     }
     // Phase 5: social proof — save counts + friends-going on event cards.
+    // Disabled for now: we don't surface any "how many going" numbers yet.
     async function decorateProof(events){
+      return; // social proof hidden — early stage
       var ids=events.map(function(e){ return e.id; }).filter(function(x){ return x!=null; }).map(String);
       if(!ids.length) return;
       try{
@@ -3607,6 +3688,9 @@
     document.getElementById('hdr-search').addEventListener('click',openSearch);
     friBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[0], 'fri'); });
     satBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[1], 'sat'); });
+    // On Saturday the upcoming "Friday" pill points at yesterday — hide it so the
+    // bar shows just Saturday (today) + Pick a date. Sun–Fri keep both pills.
+    if(new Date().getDay()===6) friBtn.style.display='none';
     pickDateBtn.addEventListener('click',openCal);
 
     // ── on-brand calendar (Pick a date — single day or range) ──
@@ -3711,22 +3795,27 @@
     sharedSingle = _qe ? {kind:'event', id:_qe} : (_qa ? {kind:'artist', slug:_qa} : null);
     sharedFrom = (_qs.get('u')||'').toLowerCase().replace(/[^a-z0-9]/g,'') || null; // sender handle (#42)
     var _shareDate = _qsd || (sharedPicks && sharedPicks.date) || null;
+    // Capture the boot route + URL BEFORE the default-landing load() runs:
+    // load()/loadWeekend() synchronously replaceState to ?date=/?weekend=, which
+    // would otherwise wipe an entity path (/a/<slug>, /<city>/v/<slug>) before we
+    // read it — sending every refresh of a page back to the home grid.
+    var _bootRoute=currentRoute();
+    var _bootIsPath=!!(onScPath() && pathRoute());
+    var _bootUrl=location.pathname+location.search;
+
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
+    else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
     else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
 
-    // Deep link to a page (#u/handle, #feed, #a/slug, #v/name, #log, #picks,
-    // #account)? Insert a "home" entry beneath it so Back lands on the grid
-    // rather than leaving the site, then render the page.
-    // Path entity route (/a/<slug> via the Pages 404 fallback) OR a #hash route.
-    var _bootRoute=currentRoute();
+    // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
+    // overlay)? The default landing above set up the home grid underneath; now
+    // restore the captured page URL (load() just rewrote it) and route over it so
+    // Back lands on the grid.
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
-      var _isPath=!!pathRoute();   // entity (/a/…) or city-scoped venue (/<city>/v/…)
-      // Insert a "home" entry beneath the page so Back lands on the grid. For path
-      // routes the page URL is already correct (location.pathname); hash routes get '#'.
-      history.replaceState({sc:1},'', _isPath ? cityPath(currentCity) : (location.pathname+location.search));
-      history.pushState({sc:1},'', _isPath ? (location.pathname+location.search) : ('#'+_bootRoute));
+      history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
+      history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       setTimeout(handleRoute, 400);
     }
   </script>
