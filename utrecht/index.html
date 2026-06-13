@@ -267,6 +267,9 @@
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
+    .info .nm.linky, .info .sub.linky { cursor:pointer; }
+    .info .nm.linky:hover { text-decoration:underline; }
+    .info .sub.linky:hover { color:var(--fg); text-decoration:underline; }
     .transport { display:flex; align-items:center; gap:14px; }
     .scrub { display:flex; align-items:center; gap:10px; }
     .scrub .t { font-variant-numeric:tabular-nums; color:var(--muted); font-size:var(--fs-xs); white-space:nowrap; }
@@ -839,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781363987604">
+<meta name="sc-build" content="1781364164001">
 </head>
 <body>
   <main class="wrap">
@@ -1213,6 +1216,12 @@
     function isSmallScreen(){ return window.matchMedia && matchMedia('(max-width:620px)').matches; }
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
+      // Make the now-playing artist + venue tappable (jump to their pages; the set keeps playing).
+      var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'';
+      dockName.classList.toggle('linky', !!navSlug);
+      dockName.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
+      dockSrc.classList.toggle('linky', !!navVenue);
+      dockSrc.onclick = navVenue ? function(){ openVenue(navVenue); } : null;
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
