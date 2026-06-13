@@ -839,7 +839,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781363873983">
+<meta name="sc-build" content="1781363987604">
 </head>
 <body>
   <main class="wrap">
@@ -3029,10 +3029,8 @@
             '<a class="ev-directions" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions &rsaquo;</a>'+
             '<div id="ev-loc" class="venue-map" style="height:240px"></div>';
         }
-        if((ev.alsoPlaying||[]).length) rh+='<div class="sec-h" style="margin-top:26px">These DJs also play</div><div id="ev-alsoplaying"></div>';
         if((ev.alsoOn||[]).length) rh+='<div class="sec-h" style="margin-top:26px">Also on that night</div><div id="ev-alsoon"></div>';
         rich.innerHTML=rh;
-        if((ev.alsoPlaying||[]).length) mountEventCards(document.getElementById('ev-alsoplaying'), ev.alsoPlaying);
         if((ev.alsoOn||[]).length) mountEventCards(document.getElementById('ev-alsoon'), ev.alsoOn);
         if(ev.venueLat!=null && ev.venueLng!=null){
           var locEl=document.getElementById('ev-loc');
@@ -3056,7 +3054,7 @@
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
         city:d.city, genres:d.genres||[], description:d.description||'',
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
-        alsoOn:d.also_on||[], alsoPlaying:d.also_playing||[],
+        alsoOn:d.also_on||[],
         artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
     }
     async function openEvent(id){
