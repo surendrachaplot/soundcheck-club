@@ -842,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781365168463">
+<meta name="sc-build" content="1781365321486">
 <meta name="description" content="Ella Knight is an electronic artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside MiNNA, Scarlett O'Malley and Dan Shake. Next up: Steelyard Kelham, Sheffield.">
 <link rel="canonical" href="https://soundcheck.club/a/ellaknight/">
 <meta property="og:type" content="profile">
@@ -1227,11 +1227,11 @@
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
       // Make the now-playing artist + venue tappable (jump to their pages; the set keeps playing).
-      var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'';
+      var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'', navCity=(btn&&btn.dataset&&btn.dataset.city)||'';
       dockName.classList.toggle('linky', !!navSlug);
       dockName.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
       dockSrc.classList.toggle('linky', !!navVenue);
-      dockSrc.onclick = navVenue ? function(){ openVenue(navVenue); } : null;
+      dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
@@ -1290,7 +1290,7 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'YouTube', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', !isSmallScreen());
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
         pos=0; paintScrub(); startPoll();
@@ -2848,8 +2848,11 @@
         // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
+        // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
+        var nextGig=(a.upcoming&&a.upcoming[0])||null;
+        var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
         h+='<div class="artist-actions">'+
-          '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
+          '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
           '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
