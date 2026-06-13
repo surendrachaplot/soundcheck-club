@@ -570,6 +570,7 @@
     .artist-head.artist-hero { flex-direction:column; align-items:flex-start; gap:16px; }
     .artist-head.artist-hero .artist-av { width:min(132px,32vw); height:min(132px,32vw); border-radius:18px; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
+    .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* event page header — same grammar as .artist-head, with a contained poster */
     .event-head { display:flex; align-items:flex-start; gap:16px; }
     .event-head .poster.ev-poster { width:108px; height:144px; aspect-ratio:auto; border-radius:14px; margin-bottom:0; flex-shrink:0; }
@@ -2565,8 +2566,21 @@
     function hidePage(){
       if(!document.body.classList.contains('page-on')) return;
       document.body.classList.remove('page-on'); pageView.hidden=true; pageView.innerHTML='';
+      resetSeo();
       if(typeof syncTabs==='function') setTimeout(syncTabs,0);
     }
+    // ── per-page SEO: update <title> + meta description + JSON-LD live so the SPA
+    // (and any non-pre-rendered entity) carries the right tags. Static pre-rendered
+    // pages already bake these in; this keeps in-app navigation + social shares right.
+    var _seoDefaultTitle=document.title;
+    function _metaDesc(){ var m=document.querySelector('meta[name="description"]'); if(!m){ m=document.createElement('meta'); m.name='description'; document.head.appendChild(m); } return m; }
+    function setSeo(title, desc, jsonld){
+      if(title) document.title=title;
+      if(desc!=null) _metaDesc().setAttribute('content', desc);
+      var s=document.getElementById('seo-jsonld'); if(s) s.remove();
+      if(jsonld){ s=document.createElement('script'); s.type='application/ld+json'; s.id='seo-jsonld'; s.textContent=JSON.stringify(jsonld); document.head.appendChild(s); }
+    }
+    function resetSeo(){ setSeo(_seoDefaultTitle, '', null); }
     // The in-app "Back" steps one level through real history (matches the
     // browser back button). At the app's first entry it lands on home.
     function goBack(){ history.back(); }
@@ -2803,6 +2817,7 @@
         if(a.seen) stats.push('<span><b>'+a.seen+'</b> seen live</span>');
         if(a.networkSeen) stats.push('<span class="pf-friends"><b>'+a.networkSeen+'</b> friends seen</span>');
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
+        if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         h+='<div class="artist-actions">'+
           '<button class="act-btn radio'+(onAir?' on':'')+'" id="ap-radio" type="button">'+RADIO_SVG+'<span>'+(onAir?'Stop radio':'Tune in')+'</span></button>'+
@@ -2827,6 +2842,7 @@
           }).join('')+'</ul>';
         }
         openPanel(h);
+        setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:location.origin+SC_BASE+'a/'+slug, description:a.description||'' });
         document.getElementById('ap-radio').addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); openArtist(slug); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); openArtist(slug); });
@@ -2891,11 +2907,13 @@
         if(v.logged) stats.push('<span><b>'+v.logged+'</b> logged</span>');
         if(v.going) stats.push('<span><b>'+v.going+'</b> saved upcoming</span>');
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
+        if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
         h+='<div id="vp-upcoming"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
+        setSeo(dispName+" — what's on & tickets | soundcheck", v.description||'', { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:location.origin+SC_BASE+(v.city||currentCity||'london')+'/v/'+venueSlug(dispName), description:v.description||'', address:v.address||undefined });
         var vfBtn=document.getElementById('vf-btn');
         if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
         var cbBtn=document.getElementById('vp-claim');
