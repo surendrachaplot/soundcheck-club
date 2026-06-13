@@ -830,18 +830,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="description" content="Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: TBA, Brussels.">
+<meta name="description" content="Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Place du Congrès, Brussels.">
 <link rel="canonical" href="https://soundcheck.club/a/jenniferloveless/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Jennifer Loveless — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: TBA, Brussels.">
+<meta property="og:description" content="Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Place du Congrès, Brussels.">
 <meta property="og:url" content="https://soundcheck.club/a/jenniferloveless/">
 <meta property="og:image" content="https://i1.sndcdn.com/avatars-cQkBn5yVtntLyME3-PtVy9g-t500x500.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Jennifer Loveless","url":"https://soundcheck.club/a/jenniferloveless/","description":"Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: TBA, Brussels.","image":"https://i1.sndcdn.com/avatars-cQkBn5yVtntLyME3-PtVy9g-t500x500.jpg"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Jennifer Loveless","url":"https://soundcheck.club/a/jenniferloveless/","description":"Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Place du Congrès, Brussels.","image":"https://i1.sndcdn.com/avatars-cQkBn5yVtntLyME3-PtVy9g-t500x500.jpg"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Jennifer Loveless</h1><p>Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: TBA, Brussels.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/jenniferloveless/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Jennifer Loveless</h1><p>Jennifer Loveless is an electronic artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Fafi Abdel Nour, ISAbella and Shanti Celeste. Next up: Place du Congrès, Brussels.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/jenniferloveless/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3491,14 +3491,24 @@
     function openCityPicker(){
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       var rows=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
-        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
+        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
       }).join('');
       ov.innerHTML='<div class="auth-box" style="max-width:420px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
-        '<div class="city-list">'+rows+'</div></div>';
+        '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+        '<div class="city-list">'+rows+'</div>'+
+        '<div class="empty city-none" style="display:none;padding:14px 0">No city matches that.</div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
+      var inp=ov.querySelector('#city-search'), none=ov.querySelector('.city-none');
+      var allRows=[].slice.call(ov.querySelectorAll('.city-row'));
+      inp.addEventListener('input',function(){
+        var q=inp.value.trim().toLowerCase(); var shown=0;
+        allRows.forEach(function(r){ var hit=!q || r.getAttribute('data-name').indexOf(q)>=0; r.style.display=hit?'':'none'; if(hit) shown++; });
+        none.style.display=shown?'none':'block';
+      });
+      setTimeout(function(){ inp.focus(); },60);
       ov.addEventListener('click',function(e){
         if(e.target===ov){ close(); return; }
         var b=e.target.closest('.city-row[data-city]');
