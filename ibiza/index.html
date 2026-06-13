@@ -819,7 +819,9 @@
     /* search page */
     .search-box input { width:100%; max-width:560px; background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:14px 16px; font:500 var(--fs-md) var(--body); outline:none; }
     /* venue map */
-    .venue-map { width:100%; height:min(72vh,640px); border-radius:14px; overflow:hidden; border:1px solid var(--border); background:#15131a; }
+    /* isolate traps Leaflet's high internal z-indexes (panes/controls/popups ~200–1000)
+       in the map's own stacking context, so the player dock (z-index 60) always sits on top. */
+    .venue-map { width:100%; height:min(72vh,640px); border-radius:14px; overflow:hidden; border:1px solid var(--border); background:#15131a; position:relative; z-index:0; isolation:isolate; }
     .venue-map .leaflet-tile-pane { filter:saturate(0.9); }
     .leaflet-popup-content-wrapper, .leaflet-popup-tip { background:var(--surface); color:var(--fg); box-shadow:0 8px 24px rgba(0,0,0,0.5); }
     .leaflet-popup-content { font:500 var(--fs-base) var(--body); margin:11px 13px; }
@@ -839,7 +841,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781364249710">
+<meta name="sc-build" content="1781364355099">
 </head>
 <body>
   <main class="wrap">
