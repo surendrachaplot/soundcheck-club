@@ -839,7 +839,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781363638093">
+<meta name="sc-build" content="1781363873983">
 </head>
 <body>
   <main class="wrap">
@@ -3799,23 +3799,27 @@
     sharedSingle = _qe ? {kind:'event', id:_qe} : (_qa ? {kind:'artist', slug:_qa} : null);
     sharedFrom = (_qs.get('u')||'').toLowerCase().replace(/[^a-z0-9]/g,'') || null; // sender handle (#42)
     var _shareDate = _qsd || (sharedPicks && sharedPicks.date) || null;
+    // Capture the boot route + URL BEFORE the default-landing load() runs:
+    // load()/loadWeekend() synchronously replaceState to ?date=/?weekend=, which
+    // would otherwise wipe an entity path (/a/<slug>, /<city>/v/<slug>) before we
+    // read it — sending every refresh of a page back to the home grid.
+    var _bootRoute=currentRoute();
+    var _bootIsPath=!!(onScPath() && pathRoute());
+    var _bootUrl=location.pathname+location.search;
+
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
     else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
     else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
 
-    // Deep link to a page (#u/handle, #feed, #a/slug, #v/name, #log, #picks,
-    // #account)? Insert a "home" entry beneath it so Back lands on the grid
-    // rather than leaving the site, then render the page.
-    // Path entity route (/a/<slug> via the Pages 404 fallback) OR a #hash route.
-    var _bootRoute=currentRoute();
+    // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
+    // overlay)? The default landing above set up the home grid underneath; now
+    // restore the captured page URL (load() just rewrote it) and route over it so
+    // Back lands on the grid.
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
-      var _isPath=!!pathRoute();   // entity (/a/…) or city-scoped venue (/<city>/v/…)
-      // Insert a "home" entry beneath the page so Back lands on the grid. For path
-      // routes the page URL is already correct (location.pathname); hash routes get '#'.
-      history.replaceState({sc:1},'', _isPath ? cityPath(currentCity) : (location.pathname+location.search));
-      history.pushState({sc:1},'', _isPath ? (location.pathname+location.search) : ('#'+_bootRoute));
+      history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
+      history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       setTimeout(handleRoute, 400);
     }
   </script>
