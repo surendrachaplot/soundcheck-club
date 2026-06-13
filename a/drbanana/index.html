@@ -603,6 +603,7 @@
     .act-btn.radio.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .act-btn.on svg { fill:currentColor; stroke:currentColor; }
     .act-btn.radio svg { fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    .act-btn.radio svg.brand path, .act-btn.radio svg.brand polygon { stroke:none; } /* YouTube logo keeps its own red/white fills */
     .act-btn.radio.on svg { fill:none; stroke:currentColor; }
     /* plays-alongside chips + gig-history timeline (artist page) */
     .along-row { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 4px; }
@@ -841,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781364355099">
+<meta name="sc-build" content="1781365021191">
 <meta name="description" content="Dr Banana is an electronic artist tracked on soundcheck, with 209 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Esferic Bcn, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/drbanana/">
 <meta property="og:type" content="profile">
@@ -2848,7 +2849,7 @@
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         h+='<div class="artist-actions">'+
-          '<button class="act-btn radio'+(onAir?' on':'')+'" id="ap-radio" type="button">'+RADIO_SVG+'<span>'+(onAir?'Stop radio':'Tune in')+'</span></button>'+
+          '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
           '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
@@ -2875,7 +2876,11 @@
         }
         openPanel(h);
         setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:location.origin+SC_BASE+'a/'+slug, description:a.description||'' });
-        document.getElementById('ap-radio').addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
+        // "Tune in" plays the artist's own YouTube set in the dock (same flow as the
+        // home-page lineup play buttons), so the dock's clickable name/venue apply.
+        var apRadio=document.getElementById('ap-radio');
+        apRadio.addEventListener('pointerdown',function(){ prefetchYt(apRadio); },{passive:true});
+        apRadio.addEventListener('click',function(){ handleYtClick(apRadio); });
         var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
         // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
         // immediately and sync to the DB in the background — no full re-render.
