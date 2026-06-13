@@ -1637,11 +1637,11 @@
 
     // ── mobile bottom nav ──
     function syncTabs(){
-      var onPage=document.body.classList.contains('page-on'), hash=location.hash;
+      var onPage=document.body.classList.contains('page-on'), route=currentRoute();
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
-      setTab('bnav-picks', hash==='#picks');
-      setTab('bnav-profile', hash==='#account' || (currentUser && hash==='#u/'+currentUser.handle));
+      setTab('bnav-picks', route==='picks');
+      setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
     }
@@ -3032,8 +3032,11 @@
     }
 
     // ---- hash router (#u/<handle>, #feed, #a/<slug>, #v/<name>, #log) ----
+    // The active route: entity pages come off the path (/a/<slug>), nav overlays
+    // off the hash. '' = home (no overlay).
+    function currentRoute(){ return pathRoute() || decodeURIComponent(location.hash.replace(/^#/,'')); }
     function handleRoute(){
-      var hash=decodeURIComponent(location.hash.replace(/^#/,''));
+      var hash=currentRoute();
       if(!hash){ hidePage(); return; }   // browser-back off a page → home
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
@@ -3048,7 +3051,12 @@
     }
     // Push a real history entry per forward navigation (pushState doesn't fire
     // popstate, so no double-render). Back/forward fire popstate → handleRoute.
-    function setRoute(route){ if(('#'+route)===location.hash) return; history.pushState({sc:1},'','#'+route); }
+    function setRoute(route){
+      if(currentRoute()===route) return;   // already here — no duplicate history entry
+      // Entity routes → clean city-less path (/a/<slug>); nav overlays → hash.
+      var url = ENTITY_RE.test(route) ? (SC_BASE + route.replace(/^([a-z]\/)(.*)$/, function(_,p,s){ return p+encodeURIComponent(decodeURIComponent(s)); })) : (SC_BASE + '#' + route);
+      history.pushState({sc:1},'',url);
+    }
     window.addEventListener('popstate', handleRoute);
 
     // ── incoming-share state (set on boot from URL params) ──
@@ -3355,8 +3363,19 @@
     // Promo/share URL shown on taste cards + share text — tracks the live domain.
     function shareHost(){ return /(^|\.)soundcheck\.club$/.test(location.hostname) ? 'soundcheck.club' : '6minutes.club/soundcheck'; }
     function onScPath(){ return location.pathname.indexOf(SC_BASE)===0; }
-    function pathCitySlug(){
+    // Entity pages (artist/user/venue/event/night) are global — they live at
+    // top-level, city-less paths: /a/<slug>, /u/<handle>, /v/<name>, … (served
+    // via the Pages 404.html SPA fallback). pathRoute() pulls that route off the
+    // path so it's distinguished from a city segment.
+    var ENTITY_RE=/^(a|u|v|e|n)\/.+/;
+    function pathRoute(){
       if(!onScPath()) return null;
+      var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
+      try{ rest=decodeURIComponent(rest); }catch(_){}
+      return ENTITY_RE.test(rest) ? rest : null;
+    }
+    function pathCitySlug(){
+      if(!onScPath() || pathRoute()) return null;   // entity route, not a city
       var seg=(location.pathname.slice(SC_BASE.length).split('/')[0]||'').toLowerCase();
       if(!seg || seg.indexOf('.')>=0) return null; // '' or index.html → no city segment
       return seg;
@@ -3376,7 +3395,7 @@
     // Canonicalize to the path form before the first loader writes its query
     // string: legacy ?city= links AND bare /soundcheck/ (every city, London
     // included, lives at /soundcheck/<slug>/).
-    if(onScPath() && (!pathCitySlug() || (new URLSearchParams(location.search).get('city')))){
+    if(onScPath() && !pathRoute() && (!pathCitySlug() || (new URLSearchParams(location.search).get('city')))){
       var _cu=new URL(location.href); _cu.searchParams.delete('city');
       history.replaceState(history.state,'', cityPath(currentCity)+_cu.search+_cu.hash);
     }
@@ -3646,10 +3665,13 @@
     // Deep link to a page (#u/handle, #feed, #a/slug, #v/name, #log, #picks,
     // #account)? Insert a "home" entry beneath it so Back lands on the grid
     // rather than leaving the site, then render the page.
-    var _hashRoute=location.hash.replace(/^#/,'');
-    if(_hashRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_hashRoute)){
-      history.replaceState({sc:1},'',location.pathname+location.search); // home
-      history.pushState({sc:1},'','#'+_hashRoute);                       // the page
+    // Path entity route (/a/<slug> via the Pages 404 fallback) OR a #hash route.
+    var _bootRoute=currentRoute();
+    if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
+      var _isEntity=ENTITY_RE.test(_bootRoute);
+      // Insert a "home" entry beneath the page so Back lands on the grid.
+      history.replaceState({sc:1},'', _isEntity ? cityPath(currentCity) : (location.pathname+location.search));
+      history.pushState({sc:1},'', _isEntity ? (SC_BASE+_bootRoute) : ('#'+_bootRoute));
       setTimeout(handleRoute, 400);
     }
   </script>
