@@ -2867,12 +2867,17 @@
         .then(function(r){ if(!r.ok) throw 0; })
         .catch(function(){ btn.classList.toggle('following', !willFollow); btn.textContent=!willFollow?'Following':'Follow venue'; v.following=!willFollow; showToast('Couldn’t update.'); });
     }
-    async function openVenue(name){
-      setRoute('v/'+encodeURIComponent(name));
+    // slugify a venue name → URL slug (must match the backend's slugify so the
+    // slug resolves). Idempotent, so it accepts either a name (from a click) or
+    // an already-slugged value (from a /v/<slug> cold-load).
+    function venueSlug(s){ return String(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+    async function openVenue(input){
+      var slug=venueSlug(input);
+      setRoute('v/'+slug);
       openPanel('<div class="empty">Loading…</div>');
       try{
-        var r=await authedFetch('/api/venue?name='+encodeURIComponent(name)); var v=await r.json();
-        var dispName=v.name||name;
+        var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)); var v=await r.json();
+        var dispName=v.name||input;
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
         var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'"></span>';
         var h='<div class="artist-head">'+av+'<div class="artist-head-tx"><h3>'+esc(dispName)+'</h3><div class="sub">'+sub+'</div></div></div>';
