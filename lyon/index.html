@@ -396,6 +396,15 @@
     .ev-radio { display:inline-flex; align-self:flex-start; width:fit-content; max-width:100%; align-items:center; gap:8px; margin:10px 0 2px; background:rgba(255,122,107,0.08); border:1px solid rgba(255,122,107,0.35); color:var(--accent); border-radius:999px; padding:7px 13px; font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .ev-radio svg { width:var(--icon-sm); height:var(--icon-sm); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .ev-radio:hover { background:rgba(255,122,107,0.16); }
+    /* event page: genre chips, add-to-calendar, directions, lineup avatars */
+    .ev-genres { display:flex; flex-wrap:wrap; gap:6px; margin:12px 0 0; }
+    .gchip { font:600 var(--fs-xs) var(--body); letter-spacing:0.02em; color:var(--muted); background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:4px 10px; text-transform:capitalize; }
+    .ev-cal { display:inline-flex; align-items:center; gap:8px; margin:14px 0 0; background:var(--surface); border:1px solid var(--line); color:var(--fg); border-radius:999px; padding:8px 14px; font:700 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .ev-cal:hover { border-color:var(--accent); color:var(--accent); }
+    .ev-cal svg { width:var(--icon-sm); height:var(--icon-sm); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    .ev-directions { display:inline-block; margin:8px 0 10px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; color:var(--accent); text-decoration:none; }
+    .ev-directions:hover { text-decoration:underline; }
+    .sheet-line li .ln-av { width:30px; height:30px; border-radius:50%; flex:0 0 auto; background-size:cover; background-position:center; background-color:var(--surface); margin-right:2px; }
 
     /* picks tray (modal) */
     .picks-tray-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.62); backdrop-filter:blur(3px); z-index:75; display:flex; align-items:flex-end; justify-content:center; opacity:0; pointer-events:none; transition:opacity 0.22s; overscroll-behavior:contain; }
@@ -830,7 +839,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781361978261">
+<meta name="sc-build" content="1781363638093">
 </head>
 <body>
   <main class="wrap">
@@ -2966,30 +2975,104 @@
             (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
           '</div>'+
         '</div>'+
+        '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb + add-to-calendar (filled by renderEventRich) */
         ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
         '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
         '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
+    // ── event page enrichment (genres, blurb, calendar, map, recommendations) ──
+    function pad2(n){ return (n<10?'0':'')+n; }
+    function icsStamp(dt){ return dt.getUTCFullYear()+pad2(dt.getUTCMonth()+1)+pad2(dt.getUTCDate())+'T'+pad2(dt.getUTCHours())+pad2(dt.getUTCMinutes())+'00Z'; }
+    function icsEsc(s){ return String(s||'').replace(/([,;\\])/g,'\\$1').replace(/\n/g,'\\n'); }
+    function downloadICS(ev){
+      var start;
+      if(ev.startTime && /T\d{2}:\d{2}/.test(ev.startTime)) start=new Date(ev.startTime);
+      else if(ev.event_date) start=new Date(ev.event_date+'T22:00:00');
+      if(!start || isNaN(start)) return;
+      var end=new Date(start.getTime()+6*3600*1000);
+      var loc=(ev.venue||'')+(ev.venueAddress?', '+ev.venueAddress:'');
+      var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//soundcheck//EN','CALSCALE:GREGORIAN','BEGIN:VEVENT',
+        'UID:sc-'+ev.id+'@soundcheck.club','DTSTAMP:'+icsStamp(new Date()),'DTSTART:'+icsStamp(start),'DTEND:'+icsStamp(end),
+        'SUMMARY:'+icsEsc(ev.title||'Event'),'LOCATION:'+icsEsc(loc),'URL:'+location.origin+SC_BASE+'e/'+ev.id,'END:VEVENT','END:VCALENDAR'].join('\r\n');
+      var a=document.createElement('a'); a.href='data:text/calendar;charset=utf-8,'+encodeURIComponent(ics);
+      a.download=(ev.title||'event').replace(/[^a-z0-9]+/gi,'-').toLowerCase().replace(/^-+|-+$/g,'')+'.ics';
+      document.body.appendChild(a); a.click(); a.remove();
+    }
+    function musicEventLD(ev){
+      var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
+      if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
+      var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
+      if(perf.length) o.performer=perf;
+      if(ev.poster) o.image=imgUrl(ev.poster,640);
+      return o;
+    }
+    // Fill the two placeholders eventPageHTML left, using the enriched event.
+    function renderEventRich(ev){
+      var top=document.getElementById('ev-meta-rich');
+      if(top){
+        var th='';
+        if((ev.genres||[]).length) th+='<div class="ev-genres">'+ev.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        if(ev.description) th+='<p class="seo-desc">'+esc(ev.description)+'</p>';
+        if(ev.event_date) th+='<div><button class="ev-cal" id="ev-cal" type="button"><svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg><span>Add to calendar</span></button></div>';
+        top.innerHTML=th;
+        var cb=document.getElementById('ev-cal'); if(cb) cb.addEventListener('click',function(){ downloadICS(ev); });
+      }
+      var rich=document.getElementById('ev-rich');
+      if(rich){
+        var rh='';
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          rh+='<div class="sec-h" style="margin-top:26px">Location</div>'+(ev.venueAddress?'<div class="venue-addr">'+esc(ev.venueAddress)+'</div>':'')+
+            '<a class="ev-directions" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions &rsaquo;</a>'+
+            '<div id="ev-loc" class="venue-map" style="height:240px"></div>';
+        }
+        if((ev.alsoPlaying||[]).length) rh+='<div class="sec-h" style="margin-top:26px">These DJs also play</div><div id="ev-alsoplaying"></div>';
+        if((ev.alsoOn||[]).length) rh+='<div class="sec-h" style="margin-top:26px">Also on that night</div><div id="ev-alsoon"></div>';
+        rich.innerHTML=rh;
+        if((ev.alsoPlaying||[]).length) mountEventCards(document.getElementById('ev-alsoplaying'), ev.alsoPlaying);
+        if((ev.alsoOn||[]).length) mountEventCards(document.getElementById('ev-alsoon'), ev.alsoOn);
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          var locEl=document.getElementById('ev-loc');
+          loadLeaflet(function(){
+            if(currentRoute().indexOf('e/')!==0 || !document.getElementById('ev-loc')) return;
+            var map=L.map(locEl,{ scrollWheelZoom:false }).setView([ev.venueLat,ev.venueLng], 15);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
+            L.circleMarker([ev.venueLat,ev.venueLng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(ev.venue||'')+'</b>'+(ev.venueAddress?'<br><span style="color:#9292a0">'+esc(ev.venueAddress)+'</span>':''));
+            setTimeout(function(){ map.invalidateSize(); },120);
+          });
+        }
+      }
+      // lineup avatars + section tiles open via existing wireCard/venue-link delegation
+      document.querySelectorAll('#page-body .sheet-line .ln-av[data-artist]').forEach(function(el){ el.style.cursor='pointer'; el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
+      setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', musicEventLD(ev));
+    }
+    function mapEventDetail(d){
+      return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
+        _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
+        startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
+        city:d.city, genres:d.genres||[], description:d.description||'',
+        venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
+        alsoOn:d.also_on||[], alsoPlaying:d.also_playing||[],
+        artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
+    }
     async function openEvent(id){
       id=String(id);
       setRoute('e/'+encodeURIComponent(id));
-      var ev=lookup.byEvent[id];
-      if(ev){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); return; }
-      openPanel('<div class="empty">Loading…</div>');
+      var cached=lookup.byEvent[id];
+      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); wireEventRadio(cached); }
+      else openPanel('<div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
         if(!r.ok) throw 0;
-        var d=await r.json();
-        ev={ id:String(d.id), title:d.title, venue:d.venue, poster:d.poster_url,
-          _day: d.event_date ? fmtEventDay(d.event_date) : '',
-          startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
-          _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
-          artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
+        var ev=mapEventDetail(await r.json());
         if(currentRoute().indexOf('e/')!==0) return;   // navigated away while loading (path-routed, not hash)
-        openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev);
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
+        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); }
+        renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
+      }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
     }
 
     // ---- log a gig ----
@@ -3182,7 +3265,8 @@
         var pickedRow = slug && sharedPicks && (sharedPicks.artists||[]).indexOf(slug)>=0 ? ' picked' : '';
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+av+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
