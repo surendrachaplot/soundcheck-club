@@ -402,9 +402,6 @@
     /* event page: genre chips, add-to-calendar, directions, lineup avatars */
     .ev-genres { display:flex; flex-wrap:wrap; gap:6px; margin:12px 0 0; }
     .gchip { font:600 var(--fs-xs) var(--body); letter-spacing:0.02em; color:var(--muted); background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:4px 10px; text-transform:capitalize; }
-    .ev-cal { display:inline-flex; align-items:center; gap:8px; margin:14px 0 0; background:var(--surface); border:1px solid var(--line); color:var(--fg); border-radius:999px; padding:8px 14px; font:700 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
-    .ev-cal:hover { border-color:var(--accent); color:var(--accent); }
-    .ev-cal svg { width:var(--icon-sm); height:var(--icon-sm); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .ev-directions { display:inline-block; margin:8px 0 10px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; color:var(--accent); text-decoration:none; }
     .ev-directions:hover { text-decoration:underline; }
     .sheet-line li .ln-av { width:30px; height:30px; border-radius:50%; flex:0 0 auto; background-size:cover; background-position:center; background-color:var(--surface); margin-right:2px; }
@@ -842,7 +839,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781364164001">
+<meta name="sc-build" content="1781364249710">
 </head>
 <body>
   <main class="wrap">
@@ -2992,24 +2989,7 @@
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
-    // ── event page enrichment (genres, blurb, calendar, map, recommendations) ──
-    function pad2(n){ return (n<10?'0':'')+n; }
-    function icsStamp(dt){ return dt.getUTCFullYear()+pad2(dt.getUTCMonth()+1)+pad2(dt.getUTCDate())+'T'+pad2(dt.getUTCHours())+pad2(dt.getUTCMinutes())+'00Z'; }
-    function icsEsc(s){ return String(s||'').replace(/([,;\\])/g,'\\$1').replace(/\n/g,'\\n'); }
-    function downloadICS(ev){
-      var start;
-      if(ev.startTime && /T\d{2}:\d{2}/.test(ev.startTime)) start=new Date(ev.startTime);
-      else if(ev.event_date) start=new Date(ev.event_date+'T22:00:00');
-      if(!start || isNaN(start)) return;
-      var end=new Date(start.getTime()+6*3600*1000);
-      var loc=(ev.venue||'')+(ev.venueAddress?', '+ev.venueAddress:'');
-      var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//soundcheck//EN','CALSCALE:GREGORIAN','BEGIN:VEVENT',
-        'UID:sc-'+ev.id+'@soundcheck.club','DTSTAMP:'+icsStamp(new Date()),'DTSTART:'+icsStamp(start),'DTEND:'+icsStamp(end),
-        'SUMMARY:'+icsEsc(ev.title||'Event'),'LOCATION:'+icsEsc(loc),'URL:'+location.origin+SC_BASE+'e/'+ev.id,'END:VEVENT','END:VCALENDAR'].join('\r\n');
-      var a=document.createElement('a'); a.href='data:text/calendar;charset=utf-8,'+encodeURIComponent(ics);
-      a.download=(ev.title||'event').replace(/[^a-z0-9]+/gi,'-').toLowerCase().replace(/^-+|-+$/g,'')+'.ics';
-      document.body.appendChild(a); a.click(); a.remove();
-    }
+    // ── event page enrichment (genres, blurb, map, recommendations) ──
     function musicEventLD(ev){
       var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
       if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
@@ -3026,9 +3006,7 @@
         var th='';
         if((ev.genres||[]).length) th+='<div class="ev-genres">'+ev.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if(ev.description) th+='<p class="seo-desc">'+esc(ev.description)+'</p>';
-        if(ev.event_date) th+='<div><button class="ev-cal" id="ev-cal" type="button"><svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg><span>Add to calendar</span></button></div>';
         top.innerHTML=th;
-        var cb=document.getElementById('ev-cal'); if(cb) cb.addEventListener('click',function(){ downloadICS(ev); });
       }
       var rich=document.getElementById('ev-rich');
       if(rich){
