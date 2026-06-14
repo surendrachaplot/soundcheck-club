@@ -581,6 +581,18 @@
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* event page header — same grammar as .artist-head, with a contained poster */
+    /* event page: the poster carries the details, so show it BIG, uncropped + unfiltered */
+    .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
+    .ev-poster-big img { display:block; width:100%; height:auto; }
+    .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
+    /* event page two-column: poster column (sticky) + main column; recs full-width below */
+    .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
+    @media (min-width:760px){
+      .ev-layout { grid-template-columns:minmax(260px,360px) 1fr; align-items:start; }
+      .ev-col-poster { position:sticky; top:16px; }
+      .ev-col-poster .ev-poster-big { margin:0; max-width:none; }
+      .ev-col-main { min-width:0; }
+    }
     .event-head { display:flex; align-items:flex-start; gap:16px; }
     .event-head .poster.ev-poster { width:108px; height:144px; aspect-ratio:auto; border-radius:14px; margin-bottom:0; flex-shrink:0; }
     .event-head .poster.ev-poster .gen { padding:8px; }
@@ -842,18 +854,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Doudou MD is an electronic artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Hito Scheveningen, Thehague.">
+<meta name="sc-build" content="1781467205682">
+<meta name="description" content="Doudou MD is an electronic artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 36 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Plage Privée Parc de Miribel, Lyon.">
 <link rel="canonical" href="https://soundcheck.club/a/doudoumd/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Doudou MD — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Doudou MD is an electronic artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Hito Scheveningen, Thehague.">
+<meta property="og:description" content="Doudou MD is an electronic artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 36 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Plage Privée Parc de Miribel, Lyon.">
 <meta property="og:url" content="https://soundcheck.club/a/doudoumd/">
+<meta property="og:image" content="https://static.ra.co/images/profiles/square/doudoumd.jpg?dateUpdated=1636541539000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Doudou MD","url":"https://soundcheck.club/a/doudoumd/","description":"Doudou MD is an electronic artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Hito Scheveningen, Thehague."}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Doudou MD","url":"https://soundcheck.club/a/doudoumd/","description":"Doudou MD is an electronic artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 36 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Plage Privée Parc de Miribel, Lyon.","image":"https://static.ra.co/images/profiles/square/doudoumd.jpg?dateUpdated=1636541539000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Doudou MD</h1><p>Doudou MD is an electronic artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Hito Scheveningen, Thehague.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/doudoumd/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Doudou MD</h1><p>Doudou MD is an electronic artist tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 36 more. Often billed alongside Samuel Deep, DJ Senc and Ogazón. Next up: Plage Privée Parc de Miribel, Lyon.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/doudoumd/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -2559,6 +2572,7 @@
 
     // ── account hub page (tapping the @handle chip lands here) ──
     var HUB_IC={
+      upcoming:'<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>',
       picks:'<svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>',
       profile:'<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>',
       feed:'<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
@@ -2582,6 +2596,7 @@
             '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+diary.length+'</div><div class="l">Gigs</div></button>'+
           '</div>'+
           '<div class="hub-tiles">'+
+            hubTile('hub-upcoming', HUB_IC.upcoming, 'Coming up', 'For you')+
             hubTile('hub-picks', HUB_IC.picks, 'My picks', 'Wanna-see &amp; saved')+
             hubTile('hub-profile', HUB_IC.profile, 'My profile', 'How others see you')+
             hubTile('hub-feed', HUB_IC.feed, 'Feed', 'Your follows')+
@@ -2598,6 +2613,7 @@
         '</div>';
         var rest=document.getElementById('hub-rest'); if(!rest) return; rest.innerHTML=h;
         document.getElementById('hub-handle').addEventListener('click',function(){ openHandleModal(true); });
+        document.getElementById('hub-upcoming').addEventListener('click',openUpcoming);
         document.getElementById('hub-picks').addEventListener('click',openMyPicks);
         document.getElementById('hub-profile').addEventListener('click',function(){ openProfile(currentUser.handle); });
         document.getElementById('hub-feed').addEventListener('click',openFeed);
@@ -2713,6 +2729,22 @@
     }
 
     // ---- feed ----
+    async function openUpcoming(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('upcoming');
+      openPanel('<h3>Coming up for you</h3><div class="empty">Loading…</div>');
+      try{
+        var r=await authedFetch('/api/upcoming'); var j=await r.json();
+        var va=j.artists||[], vv=j.venues||[];
+        var h='<h3>Coming up for you</h3><div class="sub" style="margin-bottom:14px">Next shows from artists you wanna see &amp; venues you follow.</div>';
+        if(!va.length && !vv.length){ h+='<div class="empty">Heart artists you wanna see and follow a few venues &mdash; their upcoming shows land here.</div>'; openPanel(h); return; }
+        if(va.length) h+='<div class="sec-h">Artists you wanna see</div><div id="up-artists"></div>';
+        if(vv.length) h+='<div class="sec-h" style="margin-top:24px">Venues you follow</div><div id="up-venues"></div>';
+        openPanel(h);
+        if(va.length) mountEventCards(document.getElementById('up-artists'), va);
+        if(vv.length) mountEventCards(document.getElementById('up-venues'), vv);
+      }catch(_){ openPanel('<h3>Coming up for you</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+    }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
@@ -3020,21 +3052,27 @@
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
       var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
       var n=(ev.artists||[]).length;
-      var posterImg = ev.poster ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,320)+'" alt="" onerror="this.style.display=\'none\'">' : '';
-      return '<div class="event-head">'+
-          '<div class="poster ev-poster">'+genPoster(ev.title||'Event')+posterImg+'<span class="tint"></span></div>'+
-          '<div class="event-head-tx">'+
-            (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
-            '<h3>'+esc(ev.title||'Event')+'</h3>'+
-            '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-            (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+      // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
+      // gradient fallback only when there's no real poster.
+      var posterBig = ev.poster
+        ? '<div class="ev-poster-big"><img loading="lazy" decoding="async" src="'+imgUrl(ev.poster,1000)+'" alt="" onerror="var p=this.closest(\'.ev-poster-big\'); if(p) p.style.display=\'none\'"></div>'
+        : '<div class="poster ev-poster-gen">'+genPoster(ev.title||'Event')+'</div>';
+      return '<div class="ev-layout">'+
+          '<div class="ev-col-poster">'+posterBig+'</div>'+
+          '<div class="ev-col-main">'+
+            '<div class="event-head-tx">'+
+              (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
+              '<h3>'+esc(ev.title||'Event')+'</h3>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
+              (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+            '</div>'+
+            '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
+            ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
+            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
+            '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
           '</div>'+
         '</div>'+
-        '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb + add-to-calendar (filled by renderEventRich) */
-        ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-        '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
-        '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-        '<div id="ev-rich"></div>'+        /* location map + recommendations (filled by renderEventRich) */
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
@@ -3194,6 +3232,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='picks') openMyPicks();
+      else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
@@ -3300,7 +3339,7 @@
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
         var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+av+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
@@ -3854,7 +3893,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

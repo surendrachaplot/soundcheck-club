@@ -585,6 +585,14 @@
     .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
     .ev-poster-big img { display:block; width:100%; height:auto; }
     .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
+    /* event page two-column: poster column (sticky) + main column; recs full-width below */
+    .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
+    @media (min-width:760px){
+      .ev-layout { grid-template-columns:minmax(260px,360px) 1fr; align-items:start; }
+      .ev-col-poster { position:sticky; top:16px; }
+      .ev-col-poster .ev-poster-big { margin:0; max-width:none; }
+      .ev-col-main { min-width:0; }
+    }
     .event-head { display:flex; align-items:flex-start; gap:16px; }
     .event-head .poster.ev-poster { width:108px; height:144px; aspect-ratio:auto; border-radius:14px; margin-bottom:0; flex-shrink:0; }
     .event-head .poster.ev-poster .gen { padding:8px; }
@@ -846,7 +854,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781459483704">
+<meta name="sc-build" content="1781467205682">
 <meta name="description" content="Maceo Plex is an electronic artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Adam Beyer, Seth Troxler and Raxon. Next up: Poble Espanyol, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/maceoplex/">
 <meta property="og:type" content="profile">
@@ -3049,18 +3057,22 @@
       var posterBig = ev.poster
         ? '<div class="ev-poster-big"><img loading="lazy" decoding="async" src="'+imgUrl(ev.poster,1000)+'" alt="" onerror="var p=this.closest(\'.ev-poster-big\'); if(p) p.style.display=\'none\'"></div>'
         : '<div class="poster ev-poster-gen">'+genPoster(ev.title||'Event')+'</div>';
-      return posterBig+
-          '<div class="event-head-tx">'+
-            (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
-            '<h3>'+esc(ev.title||'Event')+'</h3>'+
-            '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-            (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+      return '<div class="ev-layout">'+
+          '<div class="ev-col-poster">'+posterBig+'</div>'+
+          '<div class="ev-col-main">'+
+            '<div class="event-head-tx">'+
+              (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
+              '<h3>'+esc(ev.title||'Event')+'</h3>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
+              (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+            '</div>'+
+            '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
+            ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
+            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
+            '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
           '</div>'+
-        '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb + add-to-calendar (filled by renderEventRich) */
-        ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-        '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
-        '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-        '<div id="ev-rich"></div>'+        /* location map + recommendations (filled by renderEventRich) */
+        '</div>'+
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
@@ -3327,7 +3339,7 @@
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
         var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+av+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
