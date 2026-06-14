@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="X CLUB. is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside KETTAMA, VTSS and 999999999. Next up: Kalle Rooftop Neukölln, Berlin.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="X CLUB. is an electronic artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 48 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Kalle Rooftop Neukölln, Berlin.">
 <link rel="canonical" href="https://soundcheck.club/a/xclub/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="X CLUB. — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="X CLUB. is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside KETTAMA, VTSS and 999999999. Next up: Kalle Rooftop Neukölln, Berlin.">
+<meta property="og:description" content="X CLUB. is an electronic artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 48 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Kalle Rooftop Neukölln, Berlin.">
 <meta property="og:url" content="https://soundcheck.club/a/xclub/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"X CLUB.","url":"https://soundcheck.club/a/xclub/","description":"X CLUB. is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside KETTAMA, VTSS and 999999999. Next up: Kalle Rooftop Neukölln, Berlin."}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"X CLUB.","url":"https://soundcheck.club/a/xclub/","description":"X CLUB. is an electronic artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 48 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Kalle Rooftop Neukölln, Berlin."}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>X CLUB.</h1><p>X CLUB. is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside KETTAMA, VTSS and 999999999. Next up: Kalle Rooftop Neukölln, Berlin.</p><p>12 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/xclub/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>X CLUB.</h1><p>X CLUB. is an electronic artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 48 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Kalle Rooftop Neukölln, Berlin.</p><p>12 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/xclub/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

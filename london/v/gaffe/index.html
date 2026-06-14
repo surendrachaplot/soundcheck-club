@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Gaffe is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Gaffe is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.">
 <link rel="canonical" href="https://soundcheck.club/london/v/gaffe/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Gaffe — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Gaffe is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.">
+<meta property="og:description" content="Gaffe is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.">
 <meta property="og:url" content="https://soundcheck.club/london/v/gaffe/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Gaffe","url":"https://soundcheck.club/london/v/gaffe/","description":"Gaffe is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.","address":"1 Anthony Way, N18 3QT"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Gaffe","url":"https://soundcheck.club/london/v/gaffe/","description":"Gaffe is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.","address":"1 Anthony Way, N18 3QT"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Gaffe</h1><p>Gaffe is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.</p><p>14 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/gaffe/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Gaffe</h1><p>Gaffe is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 1BYAKKO, Justine Perry, Mattia Koväl and Adam Pits and 2 more. Browse dates, set times and who's playing. 1 Anthony Way, N18 3QT.</p><p>13 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/gaffe/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

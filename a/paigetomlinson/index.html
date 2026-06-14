@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Paige Tomlinson is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, Gaskin and L.P. Rhythm. Next up: The Prince Consort, Brisbane.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Paige Tomlinson is an electronic artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: The Prince Consort, Brisbane.">
 <link rel="canonical" href="https://soundcheck.club/a/paigetomlinson/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Paige Tomlinson — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Paige Tomlinson is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, Gaskin and L.P. Rhythm. Next up: The Prince Consort, Brisbane.">
+<meta property="og:description" content="Paige Tomlinson is an electronic artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: The Prince Consort, Brisbane.">
 <meta property="og:url" content="https://soundcheck.club/a/paigetomlinson/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Paige Tomlinson","url":"https://soundcheck.club/a/paigetomlinson/","description":"Paige Tomlinson is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, Gaskin and L.P. Rhythm. Next up: The Prince Consort, Brisbane."}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Paige Tomlinson","url":"https://soundcheck.club/a/paigetomlinson/","description":"Paige Tomlinson is an electronic artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: The Prince Consort, Brisbane."}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Paige Tomlinson</h1><p>Paige Tomlinson is an electronic artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, Gaskin and L.P. Rhythm. Next up: The Prince Consort, Brisbane.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/paigetomlinson/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Paige Tomlinson</h1><p>Paige Tomlinson is an electronic artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 27 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: The Prince Consort, Brisbane.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/paigetomlinson/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

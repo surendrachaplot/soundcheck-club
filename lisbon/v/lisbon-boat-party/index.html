@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 39 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 38 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.">
 <link rel="canonical" href="https://soundcheck.club/lisbon/v/lisbon-boat-party/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Lisbon Boat Party — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 39 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.">
+<meta property="og:description" content="Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 38 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.">
 <meta property="og:url" content="https://soundcheck.club/lisbon/v/lisbon-boat-party/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Lisbon Boat Party","url":"https://soundcheck.club/lisbon/v/lisbon-boat-party/","description":"Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 39 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.","address":"Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Lisbon Boat Party","url":"https://soundcheck.club/lisbon/v/lisbon-boat-party/","description":"Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 38 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.","address":"Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Lisbon Boat Party</h1><p>Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 39 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.</p><p>39 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/lisbon/v/lisbon-boat-party/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Lisbon Boat Party</h1><p>Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 38 upcoming nights. Browse dates, set times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.</p><p>38 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/lisbon/v/lisbon-boat-party/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

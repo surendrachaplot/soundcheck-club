@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Toman is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside ANOTR, Dennis Cruz and East End Dubs. Next up: Bosc Tancat / Diverbosc, Barcelona.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Toman is an electronic artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside ANOTR, Ben Sterling and Hot Since 82. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/toman/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Toman — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Toman is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside ANOTR, Dennis Cruz and East End Dubs. Next up: Bosc Tancat / Diverbosc, Barcelona.">
+<meta property="og:description" content="Toman is an electronic artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside ANOTR, Ben Sterling and Hot Since 82. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/toman/">
 <meta property="og:image" content="https://i1.sndcdn.com/avatars-pPIgrhKtXfhVTzWc-cB6AgA-t500x500.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Toman","url":"https://soundcheck.club/a/toman/","description":"Toman is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside ANOTR, Dennis Cruz and East End Dubs. Next up: Bosc Tancat / Diverbosc, Barcelona.","image":"https://i1.sndcdn.com/avatars-pPIgrhKtXfhVTzWc-cB6AgA-t500x500.jpg"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Toman","url":"https://soundcheck.club/a/toman/","description":"Toman is an electronic artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside ANOTR, Ben Sterling and Hot Since 82. Next up: Bosc Tancat / Diverbosc, Barcelona.","image":"https://i1.sndcdn.com/avatars-pPIgrhKtXfhVTzWc-cB6AgA-t500x500.jpg"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Toman</h1><p>Toman is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside ANOTR, Dennis Cruz and East End Dubs. Next up: Bosc Tancat / Diverbosc, Barcelona.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/toman/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Toman</h1><p>Toman is an electronic artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside ANOTR, Ben Sterling and Hot Since 82. Next up: Bosc Tancat / Diverbosc, Barcelona.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/toman/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

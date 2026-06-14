@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 16 upcoming nights, with line-ups including A.Well, ADMINISTRATOR, Airwolf Paradise and Amity and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including A.Well, Airwolf Paradise, Amity and Anima Omada and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.">
 <link rel="canonical" href="https://soundcheck.club/melbourne/v/revolver-upstairs/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Revolver Upstairs — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 16 upcoming nights, with line-ups including A.Well, ADMINISTRATOR, Airwolf Paradise and Amity and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.">
+<meta property="og:description" content="Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including A.Well, Airwolf Paradise, Amity and Anima Omada and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.">
 <meta property="og:url" content="https://soundcheck.club/melbourne/v/revolver-upstairs/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Revolver Upstairs","url":"https://soundcheck.club/melbourne/v/revolver-upstairs/","description":"Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 16 upcoming nights, with line-ups including A.Well, ADMINISTRATOR, Airwolf Paradise and Amity and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.","address":"229 Chapel St, Prahran VIC 3181, Australia"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Revolver Upstairs","url":"https://soundcheck.club/melbourne/v/revolver-upstairs/","description":"Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including A.Well, Airwolf Paradise, Amity and Anima Omada and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.","address":"229 Chapel St, Prahran VIC 3181, Australia"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Revolver Upstairs</h1><p>Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 16 upcoming nights, with line-ups including A.Well, ADMINISTRATOR, Airwolf Paradise and Amity and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.</p><p>16 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/melbourne/v/revolver-upstairs/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Revolver Upstairs</h1><p>Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including A.Well, Airwolf Paradise, Amity and Anima Omada and 2 more. Browse dates, set times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.</p><p>13 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/melbourne/v/revolver-upstairs/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Interplanetary Criminal is an electronic artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 44 more. Often billed alongside Main Phase, DJ Heartstring and MALUGI. Next up: Balkenhaven, Amsterdam.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Interplanetary Criminal is an electronic artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 60 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: DC-10, Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/interplanetarycriminal/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Interplanetary Criminal — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Interplanetary Criminal is an electronic artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 44 more. Often billed alongside Main Phase, DJ Heartstring and MALUGI. Next up: Balkenhaven, Amsterdam.">
+<meta property="og:description" content="Interplanetary Criminal is an electronic artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 60 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: DC-10, Ibiza.">
 <meta property="og:url" content="https://soundcheck.club/a/interplanetarycriminal/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/interplanetarycriminal.jpg?dateUpdated=1501520807000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Interplanetary Criminal","url":"https://soundcheck.club/a/interplanetarycriminal/","description":"Interplanetary Criminal is an electronic artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 44 more. Often billed alongside Main Phase, DJ Heartstring and MALUGI. Next up: Balkenhaven, Amsterdam.","image":"https://static.ra.co/images/profiles/interplanetarycriminal.jpg?dateUpdated=1501520807000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Interplanetary Criminal","url":"https://soundcheck.club/a/interplanetarycriminal/","description":"Interplanetary Criminal is an electronic artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 60 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: DC-10, Ibiza.","image":"https://static.ra.co/images/profiles/interplanetarycriminal.jpg?dateUpdated=1501520807000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Interplanetary Criminal</h1><p>Interplanetary Criminal is an electronic artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 44 more. Often billed alongside Main Phase, DJ Heartstring and MALUGI. Next up: Balkenhaven, Amsterdam.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/interplanetarycriminal/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Interplanetary Criminal</h1><p>Interplanetary Criminal is an electronic artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 60 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: DC-10, Ibiza.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/interplanetarycriminal/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

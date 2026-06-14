@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.">
 <link rel="canonical" href="https://soundcheck.club/miami/v/do-not-sit-on-the-furniture/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Do Not Sit On The Furniture — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.">
+<meta property="og:description" content="Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.">
 <meta property="og:url" content="https://soundcheck.club/miami/v/do-not-sit-on-the-furniture/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Do Not Sit On The Furniture","url":"https://soundcheck.club/miami/v/do-not-sit-on-the-furniture/","description":"Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.","address":"423 16th St, Miami Beach, FL 33139"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Do Not Sit On The Furniture","url":"https://soundcheck.club/miami/v/do-not-sit-on-the-furniture/","description":"Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.","address":"423 16th St, Miami Beach, FL 33139"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Do Not Sit On The Furniture</h1><p>Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.</p><p>22 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/miami/v/do-not-sit-on-the-furniture/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Do Not Sit On The Furniture</h1><p>Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including baez, DAVI, Gadi Mitrani and Jessy Nimni and 2 more. Browse dates, set times and who's playing. 423 16th St, Miami Beach, FL 33139.</p><p>21 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/miami/v/do-not-sit-on-the-furniture/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

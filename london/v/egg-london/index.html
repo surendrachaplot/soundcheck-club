@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Egg London is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Egg London is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.">
 <link rel="canonical" href="https://soundcheck.club/london/v/egg-london/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Egg London — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Egg London is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.">
+<meta property="og:description" content="Egg London is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.">
 <meta property="og:url" content="https://soundcheck.club/london/v/egg-london/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Egg London","url":"https://soundcheck.club/london/v/egg-london/","description":"Egg London is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.","address":"5-13 Vale Royal, London, N7 9AP"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Egg London","url":"https://soundcheck.club/london/v/egg-london/","description":"Egg London is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.","address":"5-13 Vale Royal, London, N7 9AP"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Egg London</h1><p>Egg London is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.</p><p>41 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/egg-london/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Egg London</h1><p>Egg London is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.</p><p>35 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/egg-london/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

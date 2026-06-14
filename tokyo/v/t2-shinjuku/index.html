@@ -842,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
+<meta name="sc-build" content="1781455611938">
 <meta name="description" content="T2 Shinjuku is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including BLACK(JP), HiTOMi, NIKI (JP) and SWAGGER. Browse dates, set times and who's playing. 7F, 7-1-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo.">
 <link rel="canonical" href="https://soundcheck.club/tokyo/v/t2-shinjuku/">
 <meta property="og:type" content="profile">
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

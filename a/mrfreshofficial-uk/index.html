@@ -842,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
+<meta name="sc-build" content="1781455611938">
 <meta name="description" content="Mr Fresh Official is an electronic artist tracked on soundcheck, with 137 sets logged across London. Often billed alongside VanRock, NYCity Soundz and Eddie Van Poppel. Next up: Crown Pier, London.">
 <link rel="canonical" href="https://soundcheck.club/a/mrfreshofficial-uk/">
 <meta property="og:type" content="profile">
@@ -854,7 +854,7 @@
 <script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Mr Fresh Official","url":"https://soundcheck.club/a/mrfreshofficial-uk/","description":"Mr Fresh Official is an electronic artist tracked on soundcheck, with 137 sets logged across London. Often billed alongside VanRock, NYCity Soundz and Eddie Van Poppel. Next up: Crown Pier, London.","image":"https://static.ra.co/images/profiles/mrfreshofficial-uk.jpg?dateUpdated=1491828290550"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mr Fresh Official</h1><p>Mr Fresh Official is an electronic artist tracked on soundcheck, with 137 sets logged across London. Often billed alongside VanRock, NYCity Soundz and Eddie Van Poppel. Next up: Crown Pier, London.</p><p>14 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/mrfreshofficial-uk/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mr Fresh Official</h1><p>Mr Fresh Official is an electronic artist tracked on soundcheck, with 137 sets logged across London. Often billed alongside VanRock, NYCity Soundz and Eddie Van Poppel. Next up: Crown Pier, London.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/mrfreshofficial-uk/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

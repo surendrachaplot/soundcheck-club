@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Club Vinyl is a music venue in Denver listed on soundcheck. 30 upcoming nights, with line-ups including BL3SS, bradeazy, DATSKO and EMBRZ (IE) and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Club Vinyl is a music venue in Denver listed on soundcheck. 29 upcoming nights, with line-ups including BL3SS, DATSKO, EMBRZ (IE) and INVT and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.">
 <link rel="canonical" href="https://soundcheck.club/denver/v/club-vinyl/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Club Vinyl — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Club Vinyl is a music venue in Denver listed on soundcheck. 30 upcoming nights, with line-ups including BL3SS, bradeazy, DATSKO and EMBRZ (IE) and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.">
+<meta property="og:description" content="Club Vinyl is a music venue in Denver listed on soundcheck. 29 upcoming nights, with line-ups including BL3SS, DATSKO, EMBRZ (IE) and INVT and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.">
 <meta property="og:url" content="https://soundcheck.club/denver/v/club-vinyl/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Club Vinyl","url":"https://soundcheck.club/denver/v/club-vinyl/","description":"Club Vinyl is a music venue in Denver listed on soundcheck. 30 upcoming nights, with line-ups including BL3SS, bradeazy, DATSKO and EMBRZ (IE) and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.","address":"1082 Broadway; Denver, CO 80203; United States"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Club Vinyl","url":"https://soundcheck.club/denver/v/club-vinyl/","description":"Club Vinyl is a music venue in Denver listed on soundcheck. 29 upcoming nights, with line-ups including BL3SS, DATSKO, EMBRZ (IE) and INVT and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.","address":"1082 Broadway; Denver, CO 80203; United States"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Club Vinyl</h1><p>Club Vinyl is a music venue in Denver listed on soundcheck. 30 upcoming nights, with line-ups including BL3SS, bradeazy, DATSKO and EMBRZ (IE) and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.</p><p>30 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/denver/v/club-vinyl/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Club Vinyl</h1><p>Club Vinyl is a music venue in Denver listed on soundcheck. 29 upcoming nights, with line-ups including BL3SS, DATSKO, EMBRZ (IE) and INVT and 2 more. Browse dates, set times and who's playing. 1082 Broadway; Denver, CO 80203; United States.</p><p>29 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/denver/v/club-vinyl/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

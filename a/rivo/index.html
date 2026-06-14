@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Rivo is an electronic artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Barcelona and Budapest and 8 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Rivo is an electronic artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.">
 <link rel="canonical" href="https://soundcheck.club/a/rivo/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Rivo — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Rivo is an electronic artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Barcelona and Budapest and 8 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.">
+<meta property="og:description" content="Rivo is an electronic artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.">
 <meta property="og:url" content="https://soundcheck.club/a/rivo/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/rivo.jpg?dateUpdated=1750754811000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Rivo","url":"https://soundcheck.club/a/rivo/","description":"Rivo is an electronic artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Barcelona and Budapest and 8 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.","image":"https://static.ra.co/images/profiles/square/rivo.jpg?dateUpdated=1750754811000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Rivo","url":"https://soundcheck.club/a/rivo/","description":"Rivo is an electronic artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.","image":"https://static.ra.co/images/profiles/square/rivo.jpg?dateUpdated=1750754811000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Rivo</h1><p>Rivo is an electronic artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Barcelona and Budapest and 8 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/rivo/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Rivo</h1><p>Rivo is an electronic artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hippodrome de Vincennes, Paris.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/rivo/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

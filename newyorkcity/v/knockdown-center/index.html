@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.">
 <link rel="canonical" href="https://soundcheck.club/newyorkcity/v/knockdown-center/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Knockdown Center — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.">
+<meta property="og:description" content="Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.">
 <meta property="og:url" content="https://soundcheck.club/newyorkcity/v/knockdown-center/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Knockdown Center","url":"https://soundcheck.club/newyorkcity/v/knockdown-center/","description":"Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.","address":"52-19 Flushing Ave., Queens, NY 11378 USA"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Knockdown Center","url":"https://soundcheck.club/newyorkcity/v/knockdown-center/","description":"Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.","address":"52-19 Flushing Ave., Queens, NY 11378 USA"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Knockdown Center</h1><p>Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.</p><p>20 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/newyorkcity/v/knockdown-center/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Knockdown Center</h1><p>Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including Âme, AMÉMÉ, Ammo Avenue and Ana B and 2 more. Browse dates, set times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.</p><p>19 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/newyorkcity/v/knockdown-center/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

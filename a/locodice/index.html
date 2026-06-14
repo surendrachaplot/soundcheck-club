@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Loco Dice is an electronic artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Marco Carola, Jamie Jones and SYREETA. Next up: TBA - Honi Beach Club - Póvoa de Varzim, Porto.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Loco Dice is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Marco Carola, Jamie Jones and Seth Troxler. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/locodice/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Loco Dice — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Loco Dice is an electronic artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Marco Carola, Jamie Jones and SYREETA. Next up: TBA - Honi Beach Club - Póvoa de Varzim, Porto.">
+<meta property="og:description" content="Loco Dice is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Marco Carola, Jamie Jones and Seth Troxler. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/locodice/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/locodice.jpg?dateUpdated=1598860219000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Loco Dice","url":"https://soundcheck.club/a/locodice/","description":"Loco Dice is an electronic artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Marco Carola, Jamie Jones and SYREETA. Next up: TBA - Honi Beach Club - Póvoa de Varzim, Porto.","image":"https://static.ra.co/images/profiles/square/locodice.jpg?dateUpdated=1598860219000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Loco Dice","url":"https://soundcheck.club/a/locodice/","description":"Loco Dice is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Marco Carola, Jamie Jones and Seth Troxler. Next up: Bosc Tancat / Diverbosc, Barcelona.","image":"https://static.ra.co/images/profiles/square/locodice.jpg?dateUpdated=1598860219000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Loco Dice</h1><p>Loco Dice is an electronic artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside Marco Carola, Jamie Jones and SYREETA. Next up: TBA - Honi Beach Club - Póvoa de Varzim, Porto.</p><p>11 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/locodice/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Loco Dice</h1><p>Loco Dice is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 31 more. Often billed alongside Marco Carola, Jamie Jones and Seth Troxler. Next up: Bosc Tancat / Diverbosc, Barcelona.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/locodice/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

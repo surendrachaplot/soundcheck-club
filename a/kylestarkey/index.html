@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Kyle Starkey is an electronic artist tracked on soundcheck, with 127 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 28 more. Often billed alongside DART, Benwal and Faster Horses. Next up: RSO.BERLIN, Berlin.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Kyle Starkey is an electronic artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Club 69, Glasgow.">
 <link rel="canonical" href="https://soundcheck.club/a/kylestarkey/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Kyle Starkey — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Kyle Starkey is an electronic artist tracked on soundcheck, with 127 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 28 more. Often billed alongside DART, Benwal and Faster Horses. Next up: RSO.BERLIN, Berlin.">
+<meta property="og:description" content="Kyle Starkey is an electronic artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Club 69, Glasgow.">
 <meta property="og:url" content="https://soundcheck.club/a/kylestarkey/">
 <meta property="og:image" content="https://i1.sndcdn.com/avatars-8UK2Igy6JSia7ECi-3UpnCQ-t500x500.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Kyle Starkey","url":"https://soundcheck.club/a/kylestarkey/","description":"Kyle Starkey is an electronic artist tracked on soundcheck, with 127 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 28 more. Often billed alongside DART, Benwal and Faster Horses. Next up: RSO.BERLIN, Berlin.","image":"https://i1.sndcdn.com/avatars-8UK2Igy6JSia7ECi-3UpnCQ-t500x500.jpg"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Kyle Starkey","url":"https://soundcheck.club/a/kylestarkey/","description":"Kyle Starkey is an electronic artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Club 69, Glasgow.","image":"https://i1.sndcdn.com/avatars-8UK2Igy6JSia7ECi-3UpnCQ-t500x500.jpg"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Kyle Starkey</h1><p>Kyle Starkey is an electronic artist tracked on soundcheck, with 127 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 28 more. Often billed alongside DART, Benwal and Faster Horses. Next up: RSO.BERLIN, Berlin.</p><p>14 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/kylestarkey/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Kyle Starkey</h1><p>Kyle Starkey is an electronic artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Club 69, Glasgow.</p><p>13 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/kylestarkey/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Octo Octa is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: Prince Charles, Berlin.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Octo Octa is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Belfast and 42 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: The Cause, London.">
 <link rel="canonical" href="https://soundcheck.club/a/octoocta/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Octo Octa — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Octo Octa is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: Prince Charles, Berlin.">
+<meta property="og:description" content="Octo Octa is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Belfast and 42 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: The Cause, London.">
 <meta property="og:url" content="https://soundcheck.club/a/octoocta/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/octoocta.jpg?dateUpdated=1741885233953">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Octo Octa","url":"https://soundcheck.club/a/octoocta/","description":"Octo Octa is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: Prince Charles, Berlin.","image":"https://static.ra.co/images/profiles/octoocta.jpg?dateUpdated=1741885233953"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Octo Octa","url":"https://soundcheck.club/a/octoocta/","description":"Octo Octa is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Belfast and 42 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: The Cause, London.","image":"https://static.ra.co/images/profiles/octoocta.jpg?dateUpdated=1741885233953"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Octo Octa</h1><p>Octo Octa is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: Prince Charles, Berlin.</p><p>15 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/octoocta/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Octo Octa</h1><p>Octo Octa is an electronic artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Belfast and 42 more. Often billed alongside Eris Drew, Fafi Abdel Nour and Ogazón. Next up: The Cause, London.</p><p>14 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/octoocta/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

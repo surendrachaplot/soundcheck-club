@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Thuishaven is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including 999999999, AAT (NL), AIS (2) and Ale De Tuglie and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and An Gelo and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.">
 <link rel="canonical" href="https://soundcheck.club/amsterdam/v/thuishaven/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Thuishaven — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Thuishaven is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including 999999999, AAT (NL), AIS (2) and Ale De Tuglie and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.">
+<meta property="og:description" content="Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and An Gelo and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.">
 <meta property="og:url" content="https://soundcheck.club/amsterdam/v/thuishaven/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Thuishaven","url":"https://soundcheck.club/amsterdam/v/thuishaven/","description":"Thuishaven is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including 999999999, AAT (NL), AIS (2) and Ale De Tuglie and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.","address":"Contactweg 68, 1014BW, Amsterdam, Nederland"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Thuishaven","url":"https://soundcheck.club/amsterdam/v/thuishaven/","description":"Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and An Gelo and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.","address":"Contactweg 68, 1014BW, Amsterdam, Nederland"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Thuishaven</h1><p>Thuishaven is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including 999999999, AAT (NL), AIS (2) and Ale De Tuglie and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.</p><p>23 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/amsterdam/v/thuishaven/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Thuishaven</h1><p>Thuishaven is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and An Gelo and 2 more. Browse dates, set times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.</p><p>22 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/amsterdam/v/thuishaven/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

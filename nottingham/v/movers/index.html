@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Movers is a music venue in Nottingham listed on soundcheck. 15 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.">
 <link rel="canonical" href="https://soundcheck.club/nottingham/v/movers/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Movers — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.">
+<meta property="og:description" content="Movers is a music venue in Nottingham listed on soundcheck. 15 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.">
 <meta property="og:url" content="https://soundcheck.club/nottingham/v/movers/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Movers","url":"https://soundcheck.club/nottingham/v/movers/","description":"Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.","address":"15 Hockley, Nottingham, NG1 1FH"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Movers","url":"https://soundcheck.club/nottingham/v/movers/","description":"Movers is a music venue in Nottingham listed on soundcheck. 15 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.","address":"15 Hockley, Nottingham, NG1 1FH"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Movers</h1><p>Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.</p><p>16 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/nottingham/v/movers/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Movers</h1><p>Movers is a music venue in Nottingham listed on soundcheck. 15 upcoming nights, with line-ups including Alex Traska, Giles Smith and Loose Joints. Browse dates, set times and who's playing. 15 Hockley, Nottingham, NG1 1FH.</p><p>15 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/nottingham/v/movers/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

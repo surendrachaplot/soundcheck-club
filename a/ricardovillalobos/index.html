@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Ricardo Villalobos is an electronic artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 14 more. Often billed alongside Raresh, Craig Richards and Mar-T. Next up: Spook Club, Valencia.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Ricardo Villalobos is an electronic artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, Craig Richards and O.BEE. Next up: Amnesia Ibiza, Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/ricardovillalobos/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Ricardo Villalobos — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Ricardo Villalobos is an electronic artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 14 more. Often billed alongside Raresh, Craig Richards and Mar-T. Next up: Spook Club, Valencia.">
+<meta property="og:description" content="Ricardo Villalobos is an electronic artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, Craig Richards and O.BEE. Next up: Amnesia Ibiza, Ibiza.">
 <meta property="og:url" content="https://soundcheck.club/a/ricardovillalobos/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/ricardovillalobos.jpg?dateUpdated=1515412011000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Ricardo Villalobos","url":"https://soundcheck.club/a/ricardovillalobos/","description":"Ricardo Villalobos is an electronic artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 14 more. Often billed alongside Raresh, Craig Richards and Mar-T. Next up: Spook Club, Valencia.","image":"https://static.ra.co/images/profiles/square/ricardovillalobos.jpg?dateUpdated=1515412011000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Ricardo Villalobos","url":"https://soundcheck.club/a/ricardovillalobos/","description":"Ricardo Villalobos is an electronic artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, Craig Richards and O.BEE. Next up: Amnesia Ibiza, Ibiza.","image":"https://static.ra.co/images/profiles/square/ricardovillalobos.jpg?dateUpdated=1515412011000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Ricardo Villalobos</h1><p>Ricardo Villalobos is an electronic artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 14 more. Often billed alongside Raresh, Craig Richards and Mar-T. Next up: Spook Club, Valencia.</p><p>11 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/ricardovillalobos/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Ricardo Villalobos</h1><p>Ricardo Villalobos is an electronic artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, Craig Richards and O.BEE. Next up: Amnesia Ibiza, Ibiza.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/ricardovillalobos/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

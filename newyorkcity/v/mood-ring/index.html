@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 9to5000, Precolumbian, Actual Angel and AJACENT and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Mood Ring is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 9to5000, Precolumbian, AJACENT and alysia and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.">
 <link rel="canonical" href="https://soundcheck.club/newyorkcity/v/mood-ring/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Mood Ring — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 9to5000, Precolumbian, Actual Angel and AJACENT and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.">
+<meta property="og:description" content="Mood Ring is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 9to5000, Precolumbian, AJACENT and alysia and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.">
 <meta property="og:url" content="https://soundcheck.club/newyorkcity/v/mood-ring/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Mood Ring","url":"https://soundcheck.club/newyorkcity/v/mood-ring/","description":"Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 9to5000, Precolumbian, Actual Angel and AJACENT and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.","address":"1260 Myrtle Ave, Brooklyn, NY 11221, USA"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Mood Ring","url":"https://soundcheck.club/newyorkcity/v/mood-ring/","description":"Mood Ring is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 9to5000, Precolumbian, AJACENT and alysia and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.","address":"1260 Myrtle Ave, Brooklyn, NY 11221, USA"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mood Ring</h1><p>Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 9to5000, Precolumbian, Actual Angel and AJACENT and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.</p><p>19 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/newyorkcity/v/mood-ring/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mood Ring</h1><p>Mood Ring is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 9to5000, Precolumbian, AJACENT and alysia and 2 more. Browse dates, set times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.</p><p>18 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/newyorkcity/v/mood-ring/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

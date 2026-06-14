@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="I Hate Models is an electronic artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside 999999999, Kobosil and DYEN. Next up: Hippodrome De Longchamp, Paris.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="I Hate Models is an electronic artist tracked on soundcheck, with 209 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside 999999999, Nico Moreno and Kobosil. Next up: Hippodrome De Longchamp, Paris.">
 <link rel="canonical" href="https://soundcheck.club/a/ihatemodels/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="I Hate Models — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="I Hate Models is an electronic artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside 999999999, Kobosil and DYEN. Next up: Hippodrome De Longchamp, Paris.">
+<meta property="og:description" content="I Hate Models is an electronic artist tracked on soundcheck, with 209 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside 999999999, Nico Moreno and Kobosil. Next up: Hippodrome De Longchamp, Paris.">
 <meta property="og:url" content="https://soundcheck.club/a/ihatemodels/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/ihatemodels.jpg?dateUpdated=1503902169000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"I Hate Models","url":"https://soundcheck.club/a/ihatemodels/","description":"I Hate Models is an electronic artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside 999999999, Kobosil and DYEN. Next up: Hippodrome De Longchamp, Paris.","image":"https://static.ra.co/images/profiles/square/ihatemodels.jpg?dateUpdated=1503902169000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"I Hate Models","url":"https://soundcheck.club/a/ihatemodels/","description":"I Hate Models is an electronic artist tracked on soundcheck, with 209 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside 999999999, Nico Moreno and Kobosil. Next up: Hippodrome De Longchamp, Paris.","image":"https://static.ra.co/images/profiles/square/ihatemodels.jpg?dateUpdated=1503902169000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>I Hate Models</h1><p>I Hate Models is an electronic artist tracked on soundcheck, with 172 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside 999999999, Kobosil and DYEN. Next up: Hippodrome De Longchamp, Paris.</p><p>12 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/ihatemodels/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>I Hate Models</h1><p>I Hate Models is an electronic artist tracked on soundcheck, with 209 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside 999999999, Nico Moreno and Kobosil. Next up: Hippodrome De Longchamp, Paris.</p><p>12 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/ihatemodels/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

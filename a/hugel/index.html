@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Hugel is an electronic artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Dusseldorf and 15 more. Often billed alongside Miss Monique, AARON SEVILLA and Marten Lou. Next up: Hï Ibiza, Ibiza.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Hugel is an electronic artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Auckland and Austin and 24 more. Often billed alongside Miss Monique, Eran Hersh and Tini Gessler. Next up: Hï Ibiza, Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/hugel/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Hugel — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Hugel is an electronic artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Dusseldorf and 15 more. Often billed alongside Miss Monique, AARON SEVILLA and Marten Lou. Next up: Hï Ibiza, Ibiza.">
+<meta property="og:description" content="Hugel is an electronic artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Auckland and Austin and 24 more. Often billed alongside Miss Monique, Eran Hersh and Tini Gessler. Next up: Hï Ibiza, Ibiza.">
 <meta property="og:url" content="https://soundcheck.club/a/hugel/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/hugel.jpg?dateUpdated=1456310416860">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Hugel","url":"https://soundcheck.club/a/hugel/","description":"Hugel is an electronic artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Dusseldorf and 15 more. Often billed alongside Miss Monique, AARON SEVILLA and Marten Lou. Next up: Hï Ibiza, Ibiza.","image":"https://static.ra.co/images/profiles/hugel.jpg?dateUpdated=1456310416860"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Hugel","url":"https://soundcheck.club/a/hugel/","description":"Hugel is an electronic artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Auckland and Austin and 24 more. Often billed alongside Miss Monique, Eran Hersh and Tini Gessler. Next up: Hï Ibiza, Ibiza.","image":"https://static.ra.co/images/profiles/hugel.jpg?dateUpdated=1456310416860"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Hugel</h1><p>Hugel is an electronic artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Dusseldorf and 15 more. Often billed alongside Miss Monique, AARON SEVILLA and Marten Lou. Next up: Hï Ibiza, Ibiza.</p><p>18 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/hugel/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Hugel</h1><p>Hugel is an electronic artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Auckland and Austin and 24 more. Often billed alongside Miss Monique, Eran Hersh and Tini Gessler. Next up: Hï Ibiza, Ibiza.</p><p>18 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/hugel/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

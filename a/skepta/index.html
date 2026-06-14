@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Skepta is an electronic artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside Black Coffee, SYREETA and TSHA. Next up: Hï Ibiza, Ibiza.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Skepta is an electronic artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Black Coffee, TSHA and Loco Dice. Next up: Fira Gran Via, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/skepta/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Skepta — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Skepta is an electronic artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside Black Coffee, SYREETA and TSHA. Next up: Hï Ibiza, Ibiza.">
+<meta property="og:description" content="Skepta is an electronic artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Black Coffee, TSHA and Loco Dice. Next up: Fira Gran Via, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/skepta/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/skepta.jpg?dateUpdated=1464961296000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Skepta","url":"https://soundcheck.club/a/skepta/","description":"Skepta is an electronic artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside Black Coffee, SYREETA and TSHA. Next up: Hï Ibiza, Ibiza.","image":"https://static.ra.co/images/profiles/square/skepta.jpg?dateUpdated=1464961296000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Skepta","url":"https://soundcheck.club/a/skepta/","description":"Skepta is an electronic artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Black Coffee, TSHA and Loco Dice. Next up: Fira Gran Via, Barcelona.","image":"https://static.ra.co/images/profiles/square/skepta.jpg?dateUpdated=1464961296000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Skepta</h1><p>Skepta is an electronic artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside Black Coffee, SYREETA and TSHA. Next up: Hï Ibiza, Ibiza.</p><p>14 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/skepta/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Skepta</h1><p>Skepta is an electronic artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Black Coffee, TSHA and Loco Dice. Next up: Fira Gran Via, Barcelona.</p><p>13 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/skepta/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

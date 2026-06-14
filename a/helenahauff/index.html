@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Helena Hauff is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside DVS1, Job Jobse and DAX J. Next up: Sophie Festival, Malaga.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Helena Hauff is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 51 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Castell de BEN Viure, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/helenahauff/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Helena Hauff — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Helena Hauff is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside DVS1, Job Jobse and DAX J. Next up: Sophie Festival, Malaga.">
+<meta property="og:description" content="Helena Hauff is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 51 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Castell de BEN Viure, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/helenahauff/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Helena Hauff","url":"https://soundcheck.club/a/helenahauff/","description":"Helena Hauff is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside DVS1, Job Jobse and DAX J. Next up: Sophie Festival, Malaga."}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Helena Hauff","url":"https://soundcheck.club/a/helenahauff/","description":"Helena Hauff is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 51 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Castell de BEN Viure, Barcelona."}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Helena Hauff</h1><p>Helena Hauff is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside DVS1, Job Jobse and DAX J. Next up: Sophie Festival, Malaga.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/helenahauff/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Helena Hauff</h1><p>Helena Hauff is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 51 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Castell de BEN Viure, Barcelona.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/helenahauff/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

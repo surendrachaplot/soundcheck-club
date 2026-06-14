@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Piem is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Piem is an electronic artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/piem/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Piem — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Piem is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.">
+<meta property="og:description" content="Piem is an electronic artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/piem/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/piem.jpg?dateUpdated=1765831217773">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Piem","url":"https://soundcheck.club/a/piem/","description":"Piem is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.","image":"https://static.ra.co/images/profiles/square/piem.jpg?dateUpdated=1765831217773"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Piem","url":"https://soundcheck.club/a/piem/","description":"Piem is an electronic artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.","image":"https://static.ra.co/images/profiles/square/piem.jpg?dateUpdated=1765831217773"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Piem</h1><p>Piem is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/piem/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Piem</h1><p>Piem is an electronic artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside Nesi, Tamborero and Alice Youngling. Next up: W Barcelona, Barcelona.</p><p>10 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/piem/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

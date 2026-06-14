@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="The Flinders is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including &lt;777&gt;, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including &lt;777&gt;, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.">
 <link rel="canonical" href="https://soundcheck.club/sydney/v/the-flinders/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="The Flinders — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="The Flinders is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including &lt;777&gt;, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing.">
+<meta property="og:description" content="The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including &lt;777&gt;, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.">
 <meta property="og:url" content="https://soundcheck.club/sydney/v/the-flinders/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"The Flinders","url":"https://soundcheck.club/sydney/v/the-flinders/","description":"The Flinders is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including \u003c777>, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing."}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"The Flinders","url":"https://soundcheck.club/sydney/v/the-flinders/","description":"The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including \u003c777>, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.","address":"63-65 Flinders St; Darlinghurst, NSW 2010; Australia"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>The Flinders</h1><p>The Flinders is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including &lt;777&gt;, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing.</p><p>11 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/sydney/v/the-flinders/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>The Flinders</h1><p>The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including &lt;777&gt;, 2LUX, ARTISAH and Bleach and 2 more. Browse dates, set times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.</p><p>10 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/sydney/v/the-flinders/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

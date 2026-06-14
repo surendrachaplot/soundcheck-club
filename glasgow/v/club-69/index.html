@@ -842,7 +842,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
+<meta name="sc-build" content="1781455611938">
 <meta name="description" content="Club 69 is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including A-TØN, Chris Kerr, DJ John Paul and Fionn Curran and 2 more. Browse dates, set times and who's playing. 40 New Sneddon St; Paisley, PA3 2AZ.">
 <link rel="canonical" href="https://soundcheck.club/glasgow/v/club-69/">
 <meta property="og:type" content="profile">
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

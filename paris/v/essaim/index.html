@@ -842,18 +842,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="essaim is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha &amp; Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha &amp; Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.">
 <link rel="canonical" href="https://soundcheck.club/paris/v/essaim/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="essaim — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="essaim is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha &amp; Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.">
+<meta property="og:description" content="essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha &amp; Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.">
 <meta property="og:url" content="https://soundcheck.club/paris/v/essaim/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"essaim","url":"https://soundcheck.club/paris/v/essaim/","description":"essaim is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha & Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.","address":"14 Rue Philippe de Girard, 75010 Paris"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"essaim","url":"https://soundcheck.club/paris/v/essaim/","description":"essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha & Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.","address":"14 Rue Philippe de Girard, 75010 Paris"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>essaim</h1><p>essaim is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha &amp; Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.</p><p>17 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/paris/v/essaim/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>essaim</h1><p>essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Askkin, Audrey Danza, Blasha &amp; Allatt and Cabanne and 2 more. Browse dates, set times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.</p><p>16 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/paris/v/essaim/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3854,7 +3854,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

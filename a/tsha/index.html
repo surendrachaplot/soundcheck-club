@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="TSHA is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Honey Dijon, KILIMANJARO and Eliza Rose. Next up: Fira Gran Via, Barcelona.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="TSHA is an electronic artist tracked on soundcheck, with 139 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Honey Dijon, KILIMANJARO and Seth Troxler. Next up: Fira Gran Via, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/tsha/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="TSHA — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="TSHA is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Honey Dijon, KILIMANJARO and Eliza Rose. Next up: Fira Gran Via, Barcelona.">
+<meta property="og:description" content="TSHA is an electronic artist tracked on soundcheck, with 139 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Honey Dijon, KILIMANJARO and Seth Troxler. Next up: Fira Gran Via, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/tsha/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/tsha.jpg?dateUpdated=1542813313447">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"TSHA","url":"https://soundcheck.club/a/tsha/","description":"TSHA is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Honey Dijon, KILIMANJARO and Eliza Rose. Next up: Fira Gran Via, Barcelona.","image":"https://static.ra.co/images/profiles/square/tsha.jpg?dateUpdated=1542813313447"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"TSHA","url":"https://soundcheck.club/a/tsha/","description":"TSHA is an electronic artist tracked on soundcheck, with 139 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Honey Dijon, KILIMANJARO and Seth Troxler. Next up: Fira Gran Via, Barcelona.","image":"https://static.ra.co/images/profiles/square/tsha.jpg?dateUpdated=1542813313447"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>TSHA</h1><p>TSHA is an electronic artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Honey Dijon, KILIMANJARO and Eliza Rose. Next up: Fira Gran Via, Barcelona.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/tsha/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>TSHA</h1><p>TSHA is an electronic artist tracked on soundcheck, with 139 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Honey Dijon, KILIMANJARO and Seth Troxler. Next up: Fira Gran Via, Barcelona.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/tsha/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

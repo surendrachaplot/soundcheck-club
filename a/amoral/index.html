@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="AMORAL is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Rene Wise, Beste Hira and Blasha &amp; Allatt. Next up: The Carpet Shop, London.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="AMORAL is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Rene Wise, MARRØN and Beste Hira. Next up: The Carpet Shop, London.">
 <link rel="canonical" href="https://soundcheck.club/a/amoral/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="AMORAL — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="AMORAL is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Rene Wise, Beste Hira and Blasha &amp; Allatt. Next up: The Carpet Shop, London.">
+<meta property="og:description" content="AMORAL is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Rene Wise, MARRØN and Beste Hira. Next up: The Carpet Shop, London.">
 <meta property="og:url" content="https://soundcheck.club/a/amoral/">
 <meta property="og:image" content="https://i1.sndcdn.com/avatars-az4XXBImpWnsNZkO-B3RurQ-t500x500.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"AMORAL","url":"https://soundcheck.club/a/amoral/","description":"AMORAL is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Rene Wise, Beste Hira and Blasha & Allatt. Next up: The Carpet Shop, London.","image":"https://i1.sndcdn.com/avatars-az4XXBImpWnsNZkO-B3RurQ-t500x500.jpg"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"AMORAL","url":"https://soundcheck.club/a/amoral/","description":"AMORAL is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Rene Wise, MARRØN and Beste Hira. Next up: The Carpet Shop, London.","image":"https://i1.sndcdn.com/avatars-az4XXBImpWnsNZkO-B3RurQ-t500x500.jpg"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>AMORAL</h1><p>AMORAL is an electronic artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Rene Wise, Beste Hira and Blasha &amp; Allatt. Next up: The Carpet Shop, London.</p><p>11 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/amoral/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>AMORAL</h1><p>AMORAL is an electronic artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Rene Wise, MARRØN and Beste Hira. Next up: The Carpet Shop, London.</p><p>11 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/amoral/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

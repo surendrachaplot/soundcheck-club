@@ -842,19 +842,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781377039429">
-<meta name="description" content="Adrian Mills is an electronic artist tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 38 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Mondo, Madrid.">
+<meta name="sc-build" content="1781455611938">
+<meta name="description" content="Adrian Mills is an electronic artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/adrianmills/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Adrian Mills — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Adrian Mills is an electronic artist tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 38 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Mondo, Madrid.">
+<meta property="og:description" content="Adrian Mills is an electronic artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/adrianmills/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/adrianmills.jpg?dateUpdated=1649771878000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Adrian Mills","url":"https://soundcheck.club/a/adrianmills/","description":"Adrian Mills is an electronic artist tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 38 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Mondo, Madrid.","image":"https://static.ra.co/images/profiles/square/adrianmills.jpg?dateUpdated=1649771878000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Adrian Mills","url":"https://soundcheck.club/a/adrianmills/","description":"Adrian Mills is an electronic artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Bosc Tancat / Diverbosc, Barcelona.","image":"https://static.ra.co/images/profiles/square/adrianmills.jpg?dateUpdated=1649771878000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Adrian Mills</h1><p>Adrian Mills is an electronic artist tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 38 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Mondo, Madrid.</p><p>19 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/adrianmills/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Adrian Mills</h1><p>Adrian Mills is an electronic artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 48 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Bosc Tancat / Diverbosc, Barcelona.</p><p>17 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/adrianmills/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3855,7 +3855,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>
