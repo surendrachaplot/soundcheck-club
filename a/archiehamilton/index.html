@@ -846,7 +846,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781459084675">
+<meta name="sc-build" content="1781459483704">
 <meta name="description" content="Archie Hamilton is an electronic artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Jamie Jones, East End Dubs and ALISHA. Next up: Ku Barcelona, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/archiehamilton/">
 <meta property="og:type" content="profile">
@@ -2564,6 +2564,7 @@
 
     // ── account hub page (tapping the @handle chip lands here) ──
     var HUB_IC={
+      upcoming:'<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>',
       picks:'<svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>',
       profile:'<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>',
       feed:'<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
@@ -2587,6 +2588,7 @@
             '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+diary.length+'</div><div class="l">Gigs</div></button>'+
           '</div>'+
           '<div class="hub-tiles">'+
+            hubTile('hub-upcoming', HUB_IC.upcoming, 'Coming up', 'For you')+
             hubTile('hub-picks', HUB_IC.picks, 'My picks', 'Wanna-see &amp; saved')+
             hubTile('hub-profile', HUB_IC.profile, 'My profile', 'How others see you')+
             hubTile('hub-feed', HUB_IC.feed, 'Feed', 'Your follows')+
@@ -2603,6 +2605,7 @@
         '</div>';
         var rest=document.getElementById('hub-rest'); if(!rest) return; rest.innerHTML=h;
         document.getElementById('hub-handle').addEventListener('click',function(){ openHandleModal(true); });
+        document.getElementById('hub-upcoming').addEventListener('click',openUpcoming);
         document.getElementById('hub-picks').addEventListener('click',openMyPicks);
         document.getElementById('hub-profile').addEventListener('click',function(){ openProfile(currentUser.handle); });
         document.getElementById('hub-feed').addEventListener('click',openFeed);
@@ -2718,6 +2721,22 @@
     }
 
     // ---- feed ----
+    async function openUpcoming(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('upcoming');
+      openPanel('<h3>Coming up for you</h3><div class="empty">Loading…</div>');
+      try{
+        var r=await authedFetch('/api/upcoming'); var j=await r.json();
+        var va=j.artists||[], vv=j.venues||[];
+        var h='<h3>Coming up for you</h3><div class="sub" style="margin-bottom:14px">Next shows from artists you wanna see &amp; venues you follow.</div>';
+        if(!va.length && !vv.length){ h+='<div class="empty">Heart artists you wanna see and follow a few venues &mdash; their upcoming shows land here.</div>'; openPanel(h); return; }
+        if(va.length) h+='<div class="sec-h">Artists you wanna see</div><div id="up-artists"></div>';
+        if(vv.length) h+='<div class="sec-h" style="margin-top:24px">Venues you follow</div><div id="up-venues"></div>';
+        openPanel(h);
+        if(va.length) mountEventCards(document.getElementById('up-artists'), va);
+        if(vv.length) mountEventCards(document.getElementById('up-venues'), vv);
+      }catch(_){ openPanel('<h3>Coming up for you</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+    }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
@@ -3201,6 +3220,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='picks') openMyPicks();
+      else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
