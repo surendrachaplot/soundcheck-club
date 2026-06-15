@@ -294,13 +294,15 @@
     .dock:not(.expanded) .main { flex:1; min-width:0; display:flex; align-items:center; gap:18px; padding-right:84px; }
     .dock:not(.expanded) .info { flex:0 0 auto; max-width:200px; }
     .dock:not(.expanded) .scrub { flex:1; min-width:0; }
-    /* collapsed = minimal: only play/pause + close; tap the art to re-expand */
+    /* collapsed = minimal: only play/pause + chevron + close (hide prev/next/skip) */
     .dock:not(.expanded) #dock-prev,
     .dock:not(.expanded) #dock-next,
     .dock:not(.expanded) #skip-back,
-    .dock:not(.expanded) #skip-fwd,
-    .dock:not(.expanded) #dock-exp { display:none; }
+    .dock:not(.expanded) #skip-fwd { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
+    /* chevron stays visible in BOTH states (web + mobile) so there's always a
+       working collapse/expand toggle — not just tap-the-art to expand. */
+    #dock-exp { display:inline-flex; }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -580,7 +582,24 @@
     .artist-head.artist-hero .artist-av { width:min(132px,32vw); height:min(132px,32vw); border-radius:18px; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
+    /* external link pills (artist socials / venue website) */
+    .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
+    .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
+    .slink:hover { border-color:var(--accent); color:var(--accent); }
+    .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     /* event page header — same grammar as .artist-head, with a contained poster */
+    /* event page: the poster carries the details, so show it BIG, uncropped + unfiltered */
+    .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
+    .ev-poster-big img { display:block; width:100%; height:auto; }
+    .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
+    /* event page two-column: poster column (sticky) + main column; recs full-width below */
+    .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
+    @media (min-width:760px){
+      .ev-layout { grid-template-columns:minmax(260px,360px) 1fr; align-items:start; }
+      .ev-col-poster { position:sticky; top:16px; }
+      .ev-col-poster .ev-poster-big { margin:0; max-width:none; }
+      .ev-col-main { min-width:0; }
+    }
     .event-head { display:flex; align-items:flex-start; gap:16px; }
     .event-head .poster.ev-poster { width:108px; height:144px; aspect-ratio:auto; border-radius:14px; margin-bottom:0; flex-shrink:0; }
     .event-head .poster.ev-poster .gen { padding:8px; }
@@ -757,6 +776,15 @@
       body.radio-on .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
       body.radio-on { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
     }
+    /* Desktop on-air radio = a flush full-width bottom bar, matching the collapsed
+       dock (no bottom nav here, so it sits at the very bottom like .dock). */
+    @media (min-width:621px){
+      body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
+      body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
+      body.radio-on .radio-fab .rf-main { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
+      body.radio-on { padding-bottom:96px; }
+    }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
     /* city picker */
     .city-list { display:grid; grid-template-columns:1fr 1fr; gap:8px; max-height:54vh; overflow-y:auto; margin-top:6px; }
@@ -842,18 +870,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781365321486">
-<meta name="description" content="Rex Club is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.">
+<meta name="sc-build" content="1781544947815">
+<meta name="description" content="Rex Club is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.">
 <link rel="canonical" href="https://soundcheck.club/paris/v/rex-club/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Rex Club — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Rex Club is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.">
+<meta property="og:description" content="Rex Club is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.">
 <meta property="og:url" content="https://soundcheck.club/paris/v/rex-club/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Rex Club","url":"https://soundcheck.club/paris/v/rex-club/","description":"Rex Club is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.","address":"5 boulevard Poissonnière; 75002; Paris; France"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Rex Club","url":"https://soundcheck.club/paris/v/rex-club/","description":"Rex Club is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.","address":"5 boulevard Poissonnière; 75002; Paris; France"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Rex Club</h1><p>Rex Club is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.</p><p>9 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/paris/v/rex-club/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Rex Club</h1><p>Rex Club is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Ann Clue, Butch2Bitch, Deniz Bul and DJ Senc and 2 more. Browse dates, set times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.</p><p>10 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/paris/v/rex-club/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -958,8 +986,11 @@
       <div id="auth-sent-state" class="sent" hidden>
         <div class="big">&#9993;&#65039;</div>
         <h3>Check your inbox.</h3>
-        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device and you&rsquo;re in.</p>
-        <button class="go" type="button" id="auth-sent-done">Done</button>
+        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
+        <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
+        <button class="go" type="button" id="auth-code-go">Sign in with code</button>
+        <div class="err" id="auth-code-err"></div>
+        <button type="button" id="auth-sent-done" style="background:none;border:none;color:var(--muted);font:600 var(--fs-sm) var(--body);margin-top:12px;cursor:pointer;">Done</button>
       </div>
     </div>
   </div>
@@ -978,6 +1009,7 @@
   <!-- mobile bottom nav -->
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
+    <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
     <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Picks"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
   </nav>
@@ -1014,6 +1046,19 @@
 
     var SC_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg>';
     var YT_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg>';
+    // External link pills for artist socials / venue website (opens a new tab).
+    var LINK_ICONS={
+      soundcloud:'<svg viewBox="0 0 24 24"><path d="M4 14v4M7 12v6M10 10v8M13 9v9"/><path d="M16 11a4 4 0 0 1 0 8h-3V9.5a5 5 0 0 1 7.2 2"/></svg>',
+      instagram:'<svg viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="19" height="19" rx="5.2"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1"/></svg>',
+      website:'<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c3 3 3 16 0 19M12 2.5c-3 3-3 16 0 19"/></svg>'
+    };
+    function socialLinksHTML(o){
+      o=o||{}; var b=[];
+      if(o.soundcloud) b.push('<a class="slink" href="'+esc(o.soundcloud)+'" target="_blank" rel="noopener" aria-label="SoundCloud">'+LINK_ICONS.soundcloud+'</a>');
+      if(o.instagram)  b.push('<a class="slink" href="'+esc(o.instagram)+'" target="_blank" rel="noopener" aria-label="Instagram">'+LINK_ICONS.instagram+'</a>');
+      if(o.website)    b.push('<a class="slink" href="'+esc(o.website)+'" target="_blank" rel="noopener" aria-label="Website">'+LINK_ICONS.website+'</a>');
+      return b.length ? '<div class="slinks">'+b.join('')+'</div>' : '';
+    }
 
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
@@ -1266,7 +1311,7 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
       loadScApi(function(){
@@ -1289,7 +1334,7 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
         pos=0; paintScrub(); startPoll();
@@ -1669,6 +1714,7 @@
       var onPage=document.body.classList.contains('page-on'), route=currentRoute();
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
+      setTab('bnav-search', route==='search');
       setTab('bnav-picks', route==='picks');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
@@ -1678,6 +1724,7 @@
       if(document.body.classList.contains('page-on')) goGrid();
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
+    document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-picks').addEventListener('click',function(){ openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
@@ -1887,10 +1934,16 @@
       adoptLegacyLocal();
     }
     // City preference (server-side) applies only when the URL didn't pick one.
+    // No saved city either (new/undecided visitor) → guess from IP via /api/geo.
+    var _geoTried=false;
     function applyPrefCity(){
       try{
-        if(_cityExplicit || !prefs.city || prefs.city===currentCity) return;
-        if(typeof setCity==='function') setCity(String(prefs.city));
+        if(_cityExplicit) return;
+        if(prefs.city){ if(prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); return; }
+        if(_geoTried) return; _geoTried=true;
+        fetch(API_BASE+'/api/geo').then(function(r){ return r.json(); }).then(function(j){
+          if(j && j.city && j.city!==currentCity && !_cityExplicit && !prefs.city && typeof setCity==='function') setCity(String(j.city));
+        }).catch(function(){});
       }catch(_){}
     }
     // One-time adoption: push any pre-cookie-era localStorage state to the
@@ -1947,7 +2000,7 @@
 
     // sign-in modal
     var authOv=document.getElementById('auth-overlay');
-    function openAuth(){ document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
+    function openAuth(){ document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
     function closeAuth(){ authOv.classList.remove('show'); }
 
     // ── claim / rename handle (Reddit-style u/) ──
@@ -2082,6 +2135,30 @@
     }
     document.getElementById('auth-close').addEventListener('click',closeAuth);
     document.getElementById('auth-sent-done').addEventListener('click',closeAuth);
+    // PWA-friendly sign-in: verify the emailed code in THIS context so the session
+    // cookie lands in the (installed) app, not whatever browser opened the link.
+    document.getElementById('auth-code-go').addEventListener('click',async function(){
+      var email=(document.getElementById('auth-sent-to').textContent||'').trim().toLowerCase();
+      var code=(document.getElementById('auth-code').value||'').trim();
+      var err=document.getElementById('auth-code-err'), btn=this;
+      if(code.replace(/[^a-z0-9]/gi,'').length<4){ err.textContent='Enter the code from the email.'; return; }
+      btn.disabled=true; err.textContent='';
+      try{
+        var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email, code:code }) });
+        var j=await r.json().catch(function(){return {};});
+        if(!r.ok || !j.ok){ err.textContent=(r.status===400?'That code is wrong or expired.':'Something went wrong — try again.'); btn.disabled=false; return; }
+        if(j.token) _memToken=j.token;   // cookie is primary; bearer covers this page-load
+        var hadLocal=pickCount()>0;
+        closeAuth();
+        await loadMe(); renderAccount();
+        if(currentUser && hadLocal){
+          authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
+                                  events:Object.keys(picks.events).map(function(i){return {id:i,title:picks.events[i].title,venue:picks.events[i].venue,day:picks.events[i].day};}) })
+          }).then(function(){ showToast('Signed in — your picks are saved'); }).catch(function(){});
+        } else { showToast('Signed in'); }
+      }catch(_){ err.textContent='Network error — try again.'; btn.disabled=false; }
+    });
     authOv.addEventListener('click',function(e){ if(e.target===authOv) closeAuth(); });
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&authOv.classList.contains('show')) closeAuth(); });
     document.getElementById('auth-form').addEventListener('submit',async function(e){
@@ -2163,19 +2240,19 @@
     }
     function myHandle(){ return currentUser ? currentUser.handle : null; }
     function shareArtist(slug, name){
-      var url=shareUrl({artist:slug, d:currentDate||null, u:myHandle()});
+      var url=shareUrl({artist:slug, d:currentDate||null});
       doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this DJ')+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
-      // Share the canonical event page (#e/<id>); keep ?u= for sender attribution.
-      var u=myHandle();
-      var url=location.origin+location.pathname+(u?('?u='+encodeURIComponent(u)):'')+'#e/'+encodeURIComponent(id);
+      // Canonical event path — NOT location.pathname+#hash (which pinned the event
+      // to whatever page you were on and broke under path routing).
+      var url=location.origin+SC_BASE+'e/'+encodeURIComponent(id);
       var t=(title||'Event')+(venue?(' · '+venue):'');
       doShare({ title:t, text:t+' — preview every DJ on soundcheck', url:url });
     }
     function sharePicks(){
       if(!pickCount()) return;
-      var url=shareUrl({picks:encodePicks(picks), u:myHandle()});
+      var url=shareUrl({picks:encodePicks(picks)});
       var a=Object.keys(picks.artists).filter(function(s){return artStatus(s)==='wanna_see';}).length;
       var e=Object.keys(picks.events).filter(function(i){return evtStatus(i)==='going';}).length;
       var bits=[]; if(e) bits.push(e+' event'+(e===1?'':'s')); if(a) bits.push(a+' artist'+(a===1?'':'s'));
@@ -2529,6 +2606,7 @@
 
     // ── account hub page (tapping the @handle chip lands here) ──
     var HUB_IC={
+      upcoming:'<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>',
       picks:'<svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>',
       profile:'<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>',
       feed:'<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
@@ -2552,6 +2630,7 @@
             '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+diary.length+'</div><div class="l">Gigs</div></button>'+
           '</div>'+
           '<div class="hub-tiles">'+
+            hubTile('hub-upcoming', HUB_IC.upcoming, 'Coming up', 'For you')+
             hubTile('hub-picks', HUB_IC.picks, 'My picks', 'Wanna-see &amp; saved')+
             hubTile('hub-profile', HUB_IC.profile, 'My profile', 'How others see you')+
             hubTile('hub-feed', HUB_IC.feed, 'Feed', 'Your follows')+
@@ -2568,6 +2647,7 @@
         '</div>';
         var rest=document.getElementById('hub-rest'); if(!rest) return; rest.innerHTML=h;
         document.getElementById('hub-handle').addEventListener('click',function(){ openHandleModal(true); });
+        document.getElementById('hub-upcoming').addEventListener('click',openUpcoming);
         document.getElementById('hub-picks').addEventListener('click',openMyPicks);
         document.getElementById('hub-profile').addEventListener('click',function(){ openProfile(currentUser.handle); });
         document.getElementById('hub-feed').addEventListener('click',openFeed);
@@ -2683,6 +2763,22 @@
     }
 
     // ---- feed ----
+    async function openUpcoming(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('upcoming');
+      openPanel('<h3>Coming up for you</h3><div class="empty">Loading…</div>');
+      try{
+        var r=await authedFetch('/api/upcoming'); var j=await r.json();
+        var va=j.artists||[], vv=j.venues||[];
+        var h='<h3>Coming up for you</h3><div class="sub" style="margin-bottom:14px">Next shows from artists you wanna see &amp; venues you follow.</div>';
+        if(!va.length && !vv.length){ h+='<div class="empty">Heart artists you wanna see and follow a few venues &mdash; their upcoming shows land here.</div>'; openPanel(h); return; }
+        if(va.length) h+='<div class="sec-h">Artists you wanna see</div><div id="up-artists"></div>';
+        if(vv.length) h+='<div class="sec-h" style="margin-top:24px">Venues you follow</div><div id="up-venues"></div>';
+        openPanel(h);
+        if(va.length) mountEventCards(document.getElementById('up-artists'), va);
+        if(vv.length) mountEventCards(document.getElementById('up-venues'), vv);
+      }catch(_){ openPanel('<h3>Coming up for you</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+    }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
@@ -2846,6 +2942,7 @@
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
         // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
+        h+=socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website });
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
@@ -2950,6 +3047,7 @@
         // "saved upcoming" (going) count hidden — no social proof yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
+        h+=socialLinksHTML({ website:v.website });
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
         h+='<div id="vp-upcoming"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
@@ -2985,26 +3083,34 @@
     }
     function eventPageHTML(ev){
       var time=formatTime(ev.startTime)||ev._time||'';
+      var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
+      var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
       var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
       var n=(ev.artists||[]).length;
-      var posterImg = ev.poster ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,320)+'" alt="" onerror="this.style.display=\'none\'">' : '';
-      return '<div class="event-head">'+
-          '<div class="poster ev-poster">'+genPoster(ev.title||'Event')+posterImg+'<span class="tint"></span></div>'+
-          '<div class="event-head-tx">'+
-            (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
-            '<h3>'+esc(ev.title||'Event')+'</h3>'+
-            '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-            (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+      // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
+      // gradient fallback only when there's no real poster.
+      var posterBig = ev.poster
+        ? '<div class="ev-poster-big"><img loading="lazy" decoding="async" src="'+imgUrl(ev.poster,1000)+'" alt="" onerror="var p=this.closest(\'.ev-poster-big\'); if(p) p.style.display=\'none\'"></div>'
+        : '<div class="poster ev-poster-gen">'+genPoster(ev.title||'Event')+'</div>';
+      return '<div class="ev-layout">'+
+          '<div class="ev-col-poster">'+posterBig+'</div>'+
+          '<div class="ev-col-main">'+
+            '<div class="event-head-tx">'+
+              (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
+              '<h3>'+esc(ev.title||'Event')+'</h3>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
+              (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+            '</div>'+
+            '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
+            ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
+            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
+            '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
           '</div>'+
         '</div>'+
-        '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb + add-to-calendar (filled by renderEventRich) */
-        ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-        '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
-        '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-        '<div id="ev-rich"></div>'+        /* location map + recommendations (filled by renderEventRich) */
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
@@ -3020,6 +3126,10 @@
     }
     // Fill the two placeholders eventPageHTML left, using the enriched event.
     function renderEventRich(ev){
+      // Always show the date: the fetched detail is authoritative (has event_date),
+      // so fill the header's #ev-when even if the cached open had no/partial date.
+      var when=document.getElementById('ev-when');
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTime(ev.startTime)||ev._time||''; when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';
@@ -3164,6 +3274,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='picks') openMyPicks();
+      else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
@@ -3270,7 +3381,7 @@
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
         var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+av+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
@@ -3824,7 +3935,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>

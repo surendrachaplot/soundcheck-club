@@ -294,16 +294,15 @@
     .dock:not(.expanded) .main { flex:1; min-width:0; display:flex; align-items:center; gap:18px; padding-right:84px; }
     .dock:not(.expanded) .info { flex:0 0 auto; max-width:200px; }
     .dock:not(.expanded) .scrub { flex:1; min-width:0; }
-    /* collapsed = minimal: only play/pause + close; tap the art to re-expand */
+    /* collapsed = minimal: only play/pause + chevron + close (hide prev/next/skip) */
     .dock:not(.expanded) #dock-prev,
     .dock:not(.expanded) #dock-next,
     .dock:not(.expanded) #skip-back,
-    .dock:not(.expanded) #skip-fwd,
-    .dock:not(.expanded) #dock-exp { display:none; }
+    .dock:not(.expanded) #skip-fwd { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
-    /* desktop: keep the expand chevron visible while collapsed, so there's always
-       a way back to the video even when a track has no poster art to tap. */
-    @media (min-width:621px){ .dock:not(.expanded) #dock-exp { display:inline-flex; } }
+    /* chevron stays visible in BOTH states (web + mobile) so there's always a
+       working collapse/expand toggle — not just tap-the-art to expand. */
+    #dock-exp { display:inline-flex; }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -871,18 +870,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781544395569">
-<meta name="description" content="E1 is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.">
+<meta name="sc-build" content="1781544947815">
+<meta name="description" content="E1 is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.">
 <link rel="canonical" href="https://soundcheck.club/london/v/e1/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="E1 — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="E1 is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.">
+<meta property="og:description" content="E1 is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.">
 <meta property="og:url" content="https://soundcheck.club/london/v/e1/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"E1","url":"https://soundcheck.club/london/v/e1/","description":"E1 is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.","address":"110 Pennington Street, Wapping, London E1W 2BB"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"E1","url":"https://soundcheck.club/london/v/e1/","description":"E1 is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.","address":"110 Pennington Street, Wapping, London E1W 2BB"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>E1</h1><p>E1 is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.</p><p>27 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/e1/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>E1</h1><p>E1 is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Ade Smilez, ADRIANNA, Afem Syko and AnD and 2 more. Browse dates, set times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.</p><p>28 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/e1/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -1312,7 +1311,7 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', false); // open collapsed (web + mobile); chevron expands to the video
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
       loadScApi(function(){
@@ -1335,7 +1334,7 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', false); // open collapsed (web + mobile); chevron expands to the video
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
         pos=0; paintScrub(); startPoll();
