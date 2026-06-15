@@ -580,6 +580,11 @@
     .artist-head.artist-hero .artist-av { width:min(132px,32vw); height:min(132px,32vw); border-radius:18px; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
+    /* external link pills (artist socials / venue website) */
+    .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
+    .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
+    .slink:hover { border-color:var(--accent); color:var(--accent); }
+    .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     /* event page header — same grammar as .artist-head, with a contained poster */
     /* event page: the poster carries the details, so show it BIG, uncropped + unfiltered */
     .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
@@ -854,7 +859,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781537044303">
+<meta name="sc-build" content="1781543841631">
 <meta name="description" content="Q Nightclub is a music venue in Seattle listed on soundcheck. 19 upcoming nights, with line-ups including BL3SS, camoufly, Coco &amp; Breezy and Cosmic Gate and 2 more. Browse dates, set times and who's playing. 1426 Broadway, Seattle, WA..">
 <link rel="canonical" href="https://soundcheck.club/seattle/v/q-nightclub/">
 <meta property="og:type" content="profile">
@@ -1030,6 +1035,19 @@
 
     var SC_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg>';
     var YT_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg>';
+    // External link pills for artist socials / venue website (opens a new tab).
+    var LINK_ICONS={
+      soundcloud:'<svg viewBox="0 0 24 24"><path d="M4 14v4M7 12v6M10 10v8M13 9v9"/><path d="M16 11a4 4 0 0 1 0 8h-3V9.5a5 5 0 0 1 7.2 2"/></svg>',
+      instagram:'<svg viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="19" height="19" rx="5.2"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1"/></svg>',
+      website:'<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c3 3 3 16 0 19M12 2.5c-3 3-3 16 0 19"/></svg>'
+    };
+    function socialLinksHTML(o){
+      o=o||{}; var b=[];
+      if(o.soundcloud) b.push('<a class="slink" href="'+esc(o.soundcloud)+'" target="_blank" rel="noopener" aria-label="SoundCloud">'+LINK_ICONS.soundcloud+'</a>');
+      if(o.instagram)  b.push('<a class="slink" href="'+esc(o.instagram)+'" target="_blank" rel="noopener" aria-label="Instagram">'+LINK_ICONS.instagram+'</a>');
+      if(o.website)    b.push('<a class="slink" href="'+esc(o.website)+'" target="_blank" rel="noopener" aria-label="Website">'+LINK_ICONS.website+'</a>');
+      return b.length ? '<div class="slinks">'+b.join('')+'</div>' : '';
+    }
 
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
@@ -1905,10 +1923,16 @@
       adoptLegacyLocal();
     }
     // City preference (server-side) applies only when the URL didn't pick one.
+    // No saved city either (new/undecided visitor) → guess from IP via /api/geo.
+    var _geoTried=false;
     function applyPrefCity(){
       try{
-        if(_cityExplicit || !prefs.city || prefs.city===currentCity) return;
-        if(typeof setCity==='function') setCity(String(prefs.city));
+        if(_cityExplicit) return;
+        if(prefs.city){ if(prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); return; }
+        if(_geoTried) return; _geoTried=true;
+        fetch(API_BASE+'/api/geo').then(function(r){ return r.json(); }).then(function(j){
+          if(j && j.city && j.city!==currentCity && !_cityExplicit && !prefs.city && typeof setCity==='function') setCity(String(j.city));
+        }).catch(function(){});
       }catch(_){}
     }
     // One-time adoption: push any pre-cookie-era localStorage state to the
@@ -2907,6 +2931,7 @@
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
         // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
+        h+=socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website });
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
@@ -3011,6 +3036,7 @@
         // "saved upcoming" (going) count hidden — no social proof yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
+        h+=socialLinksHTML({ website:v.website });
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
         h+='<div id="vp-upcoming"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
