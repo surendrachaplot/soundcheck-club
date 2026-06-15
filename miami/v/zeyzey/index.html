@@ -87,7 +87,9 @@
     .qchip.alt { display:inline-flex; align-items:center; gap:7px; }
     .qchip.alt svg { width:var(--icon-sm); height:var(--icon-sm); }
     .datebar .push { margin-left:auto; }
-    @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; } }
+    @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; }
+      /* mobile: just the date picker (defaults to the next Friday) */
+      #pick-fri, #pick-sat { display:none; } }
     /* Touch screens: enlarge the small round icon-buttons to a comfier tap target. */
     @media (pointer:coarse){
       .heart, .share-btn { width:34px; height:34px; }
@@ -609,7 +611,8 @@
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* external link pills (artist socials / venue website) */
     .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
-    .artist-head-tx .slinks { margin:12px 0 0; }
+    .ah-namerow { display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+    .ah-namerow .slinks { margin:0; }
     .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
     .slink:hover { border-color:var(--accent); color:var(--accent); }
     .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
@@ -899,13 +902,15 @@
     .site-foot .dot { opacity:0.45; }
     .site-foot .foot-cta { color:var(--accent); font-weight:700; }
     .se-form { display:flex; flex-direction:column; gap:8px; margin-top:16px; }
-    .se-form input { padding:11px 14px; border:1px solid var(--border); border-radius:8px; font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
-    .se-form input:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
+    .se-form input, .se-form select, .se-form textarea { padding:11px 14px; border:1px solid var(--border); border-radius:8px; font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
+    .se-form input:focus, .se-form select:focus, .se-form textarea:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
+    .se-form textarea { resize:vertical; min-height:88px; }
+    .se-note { color:var(--muted); font-size:var(--fs-xs); margin-top:12px; line-height:1.4; }
     .se-form button { background:var(--accent); color:var(--accent-ink); border:none; border-radius:8px; padding:12px 18px; font:inherit; font-weight:700; font-size:var(--fs-base); cursor:pointer; margin-top:4px; }
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781564621759">
+<meta name="sc-build" content="1781565116276">
 <meta name="description" content="ZeyZey is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Bad Tuner, CRi, gum.mp3 and Simon Doty. Browse dates, set times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.">
 <link rel="canonical" href="https://soundcheck.club/miami/v/zeyzey/">
 <meta property="og:type" content="profile">
@@ -1190,7 +1195,7 @@
     function gateForPlay(){
       if(hasEmail()) return Promise.resolve(true);
       if(playCount() < 1) return Promise.resolve(true);   // first one is free
-      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile and save the artists you play. The music keeps playing in the meantime.' });
+      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges
@@ -1238,16 +1243,16 @@
       var ov=document.createElement('div'); ov.className='email-overlay';
       ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
         '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
-        '<h3>Add an <span class="ac">event</span>.</h3>'+
-        '<p>Missing a night you know about? Send it over and we&rsquo;ll get it listed.</p>'+
+        '<h3>Get your event <span class="ac">listed</span>.</h3>'+
+        '<p>Promoter, artist or venue? Drop us a line.</p>'+
         '<form class="se-form">'+
-          '<input type="text" name="name" placeholder="Event / night name" required>'+
-          '<input type="text" name="venue" placeholder="Venue" required>'+
-          '<input type="text" name="date" placeholder="Date (e.g. Sat 5 Jul)">'+
-          '<input type="url" name="link" placeholder="Link — RA, tickets, Instagram…">'+
-          '<input type="email" name="email" placeholder="Your email (optional)" autocomplete="email">'+
-          '<button type="submit">Send it in</button>'+
+          '<input type="text" name="name" placeholder="Your name" required autocomplete="name">'+
+          '<input type="email" name="email" placeholder="Your email" required autocomplete="email">'+
+          '<select name="role" required><option value="" disabled selected>I&rsquo;m a&hellip;</option><option>Promoter</option><option>Artist</option><option>Venue</option></select>'+
+          '<textarea name="message" rows="4" placeholder="Tell us about your event" required></textarea>'+
+          '<button type="submit">Submit</button>'+
         '</form>'+
+        '<p class="se-note">Submit this and we&rsquo;ll get in touch to list your event.</p>'+
         '<p class="email-err" aria-live="polite"></p></div>';
       document.body.appendChild(ov);
       var modal=ov.querySelector('.email-modal'), form=ov.querySelector('form'),
@@ -1262,8 +1267,8 @@
       form.addEventListener('submit',async function(e){
         e.preventDefault(); errEl.textContent='';
         var get=function(k){ var el=form.querySelector('[name='+k+']'); return el?el.value.trim():''; };
-        var data={ name:get('name'), venue:get('venue'), date:get('date'), link:get('link'), email:get('email') };
-        if(!data.name||!data.venue){ errEl.textContent='Add at least the event name and venue.'; return; }
+        var data={ name:get('name'), email:get('email'), role:get('role'), message:get('message') };
+        if(!data.name||!data.email||!data.message){ errEl.textContent='Fill in your name, email and a few words about the event.'; return; }
         submit.disabled=true; submit.textContent='Sending…';
         try{
           var r=await authedFetch('/api/submit-event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(data) });
@@ -3094,7 +3099,7 @@
         // generated marble underneath; real photo overlays and falls back on error
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>';
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div></div>';
         // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
@@ -3909,6 +3914,8 @@
       var fri=new Date(sat); fri.setDate(sat.getDate()-1);
       return [isoOf(fri), isoOf(sat)];
     }
+    // The next upcoming Friday (today if it IS Friday) — the default landing.
+    function nextFridayISO(){ var d=new Date(); d.setDate(d.getDate()+((5-d.getDay()+7)%7)); return isoOf(d); }
     async function loadWeekend(offset){
       offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
       var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
@@ -4068,8 +4075,7 @@
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
-    else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
-    else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
+    else load(nextFridayISO(), 'fri'); // default landing: the next Friday
 
     // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
     // overlay)? The default landing above set up the home grid underneath; now
