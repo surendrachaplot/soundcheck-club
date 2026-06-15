@@ -386,6 +386,10 @@
     /* on air, match the dock's now-playing type exactly (.info .nm / .sub) */
     .radio-fab.onair .rf-t { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:150px; font:700 var(--fs-md) var(--head); text-transform:none; letter-spacing:-0.01em; color:var(--fg); }
     .radio-fab.onair .rf-sub { font:600 var(--fs-xs) var(--body); letter-spacing:0; opacity:1; color:var(--muted); }
+    .radio-fab .rf-on { color:var(--accent); font-weight:700; letter-spacing:0.06em; text-transform:uppercase; }
+    .rf-link { color:var(--fg); cursor:pointer; text-decoration:none; }
+    .rf-link:hover { color:var(--accent); text-decoration:underline; }
+    .radio-fab.onair .rf-sub .rf-link { color:var(--fg); }
     /* inline actions on the on-air pill: heart the DJ + jump to their page */
     .rf-act { display:none; }
     .radio-fab.onair .rf-act { display:inline-flex; }
@@ -771,7 +775,7 @@
       body.radio-on .radio-fab { width:100%; max-width:none; padding:11px 14px; border-radius:22px 22px 0 0; border:1px solid rgba(255,255,255,0.14); border-bottom:none;
         background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); color:var(--accent); }
-      body.radio-on .radio-fab .rf-main { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
       body.radio-on .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
       body.radio-on { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
@@ -781,7 +785,7 @@
     @media (min-width:621px){
       body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
       body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
-      body.radio-on .radio-fab .rf-main { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
       body.radio-on { padding-bottom:96px; }
     }
@@ -870,7 +874,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781544947815">
+<meta name="sc-build" content="1781545266894">
 <meta name="description" content="Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights, with line-ups including AG (1), Aleister, Amarji King and Ameera and 2 more. Browse dates, set times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.">
 <link rel="canonical" href="https://soundcheck.club/newyorkcity/v/jupiter-disco/">
 <meta property="og:type" content="profile">
@@ -999,8 +1003,8 @@
     <div class="radio-fab" id="radio-fab">
       <button class="rf-main" id="radio-fab-main" type="button" aria-label="Play the weekend radio">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
-        <span class="rf-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></span>
       </button>
+      <div class="rf-tx" id="radio-fab-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></div>
       <button class="heart rf-act" id="radio-fab-heart" type="button" aria-label="Heart this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
       <button class="rf-act rf-go" id="radio-fab-go" type="button" aria-label="Open artist page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg></button>
     </div>
@@ -1591,8 +1595,11 @@
     }
     function radioFabUpdate(entry){
       var t=document.getElementById('radio-fab-label'), sub=document.getElementById('radio-fab-sub');
-      if(t) t.textContent='On air — '+entry.name;
-      if(sub){ if(entry.venue){ sub.hidden=false; sub.textContent=entry.venue; } else sub.hidden=true; }
+      if(t) t.innerHTML='<span class="rf-on">On air</span> &middot; <a class="rf-link" data-rf-artist>'+esc(entry.name)+'</a>';
+      if(sub){ if(entry.venue){ sub.hidden=false; sub.innerHTML='Next playing at <a class="rf-link" data-rf-venue>'+esc(entry.venue)+'</a>'; } else { sub.hidden=true; sub.innerHTML=''; } }
+      // artist + venue jump to their pages (stopPropagation so they don't toggle play)
+      var al=t&&t.querySelector('[data-rf-artist]'); if(al) al.onclick=function(e){ e.stopPropagation(); if(entry.slug&&typeof openArtist==='function') openArtist(entry.slug); };
+      var vl=sub&&sub.querySelector('[data-rf-venue]'); if(vl) vl.onclick=function(e){ e.stopPropagation(); if(entry.venue&&typeof openVenue==='function') openVenue(entry.venue); };
       // inline actions: heart reflects pick state (kept in sync by refreshArtistButtons
       // via data-pick-art); the arrow jumps to this DJ's page.
       var h=document.getElementById('radio-fab-heart');
@@ -2333,6 +2340,8 @@
       }catch(_){}
     }
     document.getElementById('radio-fab-main').addEventListener('click',function(){ startRadio(); });
+    // text block is no longer inside the play button — clicking it while idle still starts radio
+    document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
     document.getElementById('radio-fab-heart').addEventListener('click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
     });
