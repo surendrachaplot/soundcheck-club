@@ -303,9 +303,14 @@
     .dock:not(.expanded) #skip-back,
     .dock:not(.expanded) #skip-fwd { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
-    /* chevron stays visible in BOTH states (web + mobile) so there's always a
-       working collapse/expand toggle — not just tap-the-art to expand. */
-    #dock-exp { display:inline-flex; }
+    /* Tap-to-toggle: collapsed bar taps to expand; the expanded sheet shows a
+       grab-handle (tap to collapse). No fiddly corner chevron. */
+    .dock:not(.expanded) .panel { cursor:pointer; }
+    .dock-grab { display:none; }
+    .dock.expanded .dock-grab { display:flex; position:absolute; top:0; left:50%; transform:translateX(-50%); width:120px; height:26px; align-items:center; justify-content:center; cursor:pointer; z-index:4; -webkit-tap-highlight-color:transparent; }
+    .dock.expanded .dock-grab span { width:40px; height:4px; border-radius:99px; background:rgba(255,255,255,0.3); transition:background .15s; }
+    .dock.expanded .dock-grab:hover span, .dock.expanded .dock-grab:focus-visible span { background:var(--accent); }
+    .dock.expanded .dock-grab:focus-visible { outline:none; }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -900,7 +905,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781564075814">
+<meta name="sc-build" content="1781564621759">
 <meta name="description" content="Jamie Jones is an electronic artist tracked on soundcheck, with 179 sets logged across Amsterdam, Bali, Barcelona and Bucharest and 27 more. Often billed alongside Joseph Capriati, ALISHA and Manda Moor. Next up: [UNVRS], Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/jamiejones/">
 <meta property="og:type" content="profile">
@@ -978,8 +983,8 @@
 
   <div class="dock" id="dock" role="region" aria-label="Now playing">
     <div class="panel">
+      <div class="dock-grab" id="dock-grab" role="button" tabindex="0" aria-label="Expand or collapse player"><span></span></div>
       <div class="corner">
-        <button class="iconbtn" id="dock-exp" type="button" aria-label="Collapse video"></button>
         <button class="iconbtn" id="dock-close" type="button" aria-label="Stop and close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button>
       </div>
       <div class="video-wrap" id="dock-media"></div>
@@ -1284,13 +1289,13 @@
     // ── player dock ──
     var dock=document.getElementById('dock'), dockMedia=document.getElementById('dock-media'),
         dockName=document.getElementById('dock-name'), dockSrc=document.getElementById('dock-src'),
-        dockThumb=document.getElementById('dock-thumb'), dockExp=document.getElementById('dock-exp'),
+        dockThumb=document.getElementById('dock-thumb'), dockGrab=document.getElementById('dock-grab'),
         dockPP=document.getElementById('dock-pp'), toastEl=document.getElementById('toast');
     var CHEV_UP='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>';
     var CHEV_DOWN='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>';
     var PP_PLAY='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>';
     var PP_PAUSE='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>';
-    function setExpIcon(){ var on=dock.classList.contains('expanded'); dockExp.innerHTML=on?CHEV_DOWN:CHEV_UP; dockExp.setAttribute('aria-label', on?'Collapse video':'Expand video'); }
+    function setExpIcon(){ if(dockGrab) dockGrab.setAttribute('aria-label', dock.classList.contains('expanded')?'Collapse player':'Expand player'); }
     function setDockPad(){ document.body.classList.toggle('dock-collapsed', !dock.classList.contains('expanded')); }
 
     function showToast(text){ toastEl.textContent=text; toastEl.classList.add('show'); clearTimeout(toastEl._t); toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },2800); }
@@ -1362,7 +1367,6 @@
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
       if(expand) dock.classList.add('expanded'); else dock.classList.remove('expanded');
-      dockExp.style.display='';   // CSS hides it while collapsed
       setExpIcon(); setDockPad();
       btn.classList.add('playing'); setState(btn,'■');
       active={ button:btn };
@@ -1456,12 +1460,18 @@
         if(ytPlayer.getPlayerState()===1) ytPlayer.pauseVideo(); else ytPlayer.playVideo();
       } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
     });
-    dockExp.addEventListener('click',function(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); });
-    // Tap anywhere on the collapsed bar (not the controls or scrubber) to expand.
+    function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
+    if(dockGrab){
+      dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
+      dockGrab.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggleDock(); } });
+    }
+    // Tap the bar to toggle — expand when collapsed, collapse when expanded —
+    // but never when the tap lands on a control, link, the scrubber, or the video.
     dock.querySelector('.panel').addEventListener('click',function(e){
-      if(!active || dock.classList.contains('expanded')) return;
-      if(e.target.closest('button') || e.target.closest('.scrub')) return;
-      dock.classList.add('expanded'); setExpIcon(); setDockPad();
+      if(!active) return;
+      if(e.target.closest('button') || e.target.closest('a') || e.target.closest('.linky') ||
+         e.target.closest('.scrub') || e.target.closest('.video-wrap') || e.target.closest('.dock-grab')) return;
+      toggleDock();
     });
     document.getElementById('dock-close').addEventListener('click',function(){ stopActive(); });
 
