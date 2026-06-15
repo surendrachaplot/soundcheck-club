@@ -604,6 +604,7 @@
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* external link pills (artist socials / venue website) */
     .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
+    .artist-head-tx .slinks { margin:12px 0 0; }
     .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
     .slink:hover { border-color:var(--accent); color:var(--accent); }
     .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
@@ -891,8 +892,15 @@
     .site-foot a { color:var(--muted); text-decoration:none; font-weight:600; }
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
+    .site-foot .foot-cta { color:var(--accent); font-weight:700; }
+    .se-form { display:flex; flex-direction:column; gap:8px; margin-top:16px; }
+    .se-form input { padding:11px 14px; border:1px solid var(--border); border-radius:8px; font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
+    .se-form input:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
+    .se-form button { background:var(--accent); color:var(--accent-ink); border:none; border-radius:8px; padding:12px 18px; font:inherit; font-weight:700; font-size:var(--fs-base); cursor:pointer; margin-top:4px; }
+    .se-form button:hover { opacity:0.9; }
+    .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781563138280">
+<meta name="sc-build" content="1781564075814">
 <meta name="description" content="AAT (NL) is an electronic artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Boomerang Beach, Thehague.">
 <link rel="canonical" href="https://soundcheck.club/a/aat-nl/">
 <meta property="og:type" content="profile">
@@ -955,6 +963,8 @@
       <a href="/">6 Minutes &rarr;</a>
     </div>
     <footer class="site-foot">
+      <a href="#" id="foot-submit" class="foot-cta">Don&rsquo;t see your event here? Let us know &rsaquo;</a>
+      <span class="dot">&middot;</span>
       <span>soundcheck &mdash; a 6 Minutes project</span>
       <span class="dot">&middot;</span>
       <a href="https://6minutes.club">6 Minutes</a>
@@ -1034,7 +1044,7 @@
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
-    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Picks"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
+    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
   </nav>
 
@@ -1219,6 +1229,49 @@
         });
       });
     }
+    // "Don't see your event here?" — a small form that emails the details to us.
+    function openSubmitEvent(){
+      var ov=document.createElement('div'); ov.className='email-overlay';
+      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
+        '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
+        '<h3>Add an <span class="ac">event</span>.</h3>'+
+        '<p>Missing a night you know about? Send it over and we&rsquo;ll get it listed.</p>'+
+        '<form class="se-form">'+
+          '<input type="text" name="name" placeholder="Event / night name" required>'+
+          '<input type="text" name="venue" placeholder="Venue" required>'+
+          '<input type="text" name="date" placeholder="Date (e.g. Sat 5 Jul)">'+
+          '<input type="url" name="link" placeholder="Link — RA, tickets, Instagram…">'+
+          '<input type="email" name="email" placeholder="Your email (optional)" autocomplete="email">'+
+          '<button type="submit">Send it in</button>'+
+        '</form>'+
+        '<p class="email-err" aria-live="polite"></p></div>';
+      document.body.appendChild(ov);
+      var modal=ov.querySelector('.email-modal'), form=ov.querySelector('form'),
+          closeBtn=ov.querySelector('.email-close'), errEl=ov.querySelector('.email-err'),
+          submit=ov.querySelector('button[type=submit]');
+      setTimeout(function(){ var f=ov.querySelector('input'); if(f) f.focus(); },30);
+      function dismiss(){ ov.remove(); document.removeEventListener('keydown',onEsc); }
+      function onEsc(e){ if(e.key==='Escape') dismiss(); }
+      document.addEventListener('keydown',onEsc);
+      closeBtn.addEventListener('click',dismiss);
+      ov.addEventListener('click',function(e){ if(e.target===ov) dismiss(); });
+      form.addEventListener('submit',async function(e){
+        e.preventDefault(); errEl.textContent='';
+        var get=function(k){ var el=form.querySelector('[name='+k+']'); return el?el.value.trim():''; };
+        var data={ name:get('name'), venue:get('venue'), date:get('date'), link:get('link'), email:get('email') };
+        if(!data.name||!data.venue){ errEl.textContent='Add at least the event name and venue.'; return; }
+        submit.disabled=true; submit.textContent='Sending…';
+        try{
+          var r=await authedFetch('/api/submit-event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(data) });
+          if(!r.ok) throw 0;
+          modal.innerHTML='<button class="email-close" type="button" aria-label="Close">&times;</button><h3>Thanks &mdash; got it.</h3><p>We&rsquo;ll take a look and get it added soon.</p>';
+          modal.querySelector('.email-close').addEventListener('click',dismiss);
+          setTimeout(dismiss, 2800);
+        }catch(_){ submit.disabled=false; submit.textContent='Send it in'; errEl.textContent='Couldn’t send that — try again in a moment.'; }
+      });
+    }
+    var _footSubmit=document.getElementById('foot-submit');
+    if(_footSubmit) _footSubmit.addEventListener('click',function(e){ e.preventDefault(); openSubmitEvent(); });
     // Persistent nudge to finish sign-up; hidden once they're actually signed in.
     function showSignupBanner(email){
       if(currentUser) return;
@@ -1768,7 +1821,7 @@
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
       setTab('bnav-search', route==='search');
-      setTab('bnav-picks', route==='picks');
+      setTab('bnav-picks', route==='upcoming');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
@@ -1778,7 +1831,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ openMyPicks(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
 
@@ -2836,14 +2889,12 @@
             '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(feeds.venues.length)+'</button>'+
             '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(feeds.friends.length)+'</button>'+
           '</div>'+
-          '<div class="upc-sub" id="upc-sub"></div><div id="upc-body"></div>';
+          '<div id="upc-body"></div>';
         openPanel(h);
-        var SUBS={ artists:'Next shows from artists you wanna see.', venues:'Next nights at venues you follow.', friends:'Upcoming gigs the people you follow wanna see.' };
         var EMPTY={ artists:'Heart some artists &mdash; their next shows show up here.', venues:'Follow venues &mdash; their upcoming nights land here.', friends:'Follow people &mdash; the gigs they wanna see appear here.' };
-        var subEl=document.getElementById('upc-sub'), bodyEl=document.getElementById('upc-body');
+        var bodyEl=document.getElementById('upc-body');
         function showTab(tab){
           panelBody.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
-          subEl.textContent=SUBS[tab];
           var rows=feeds[tab];
           if(!rows.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
           mountEventCards(bodyEl, rows);
@@ -3034,10 +3085,9 @@
         // generated marble underneath; real photo overlays and falls back on error
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>';
         // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
-        h+=socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website });
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
