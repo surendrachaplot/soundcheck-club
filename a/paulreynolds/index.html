@@ -301,6 +301,9 @@
     .dock:not(.expanded) #skip-fwd,
     .dock:not(.expanded) #dock-exp { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
+    /* desktop: keep the expand chevron visible while collapsed, so there's always
+       a way back to the video even when a track has no poster art to tap. */
+    @media (min-width:621px){ .dock:not(.expanded) #dock-exp { display:inline-flex; } }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -774,6 +777,15 @@
       body.radio-on .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
       body.radio-on { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
     }
+    /* Desktop on-air radio = a flush full-width bottom bar, matching the collapsed
+       dock (no bottom nav here, so it sits at the very bottom like .dock). */
+    @media (min-width:621px){
+      body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
+      body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
+      body.radio-on .radio-fab .rf-main { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
+      body.radio-on { padding-bottom:96px; }
+    }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
     /* city picker */
     .city-list { display:grid; grid-template-columns:1fr 1fr; gap:8px; max-height:54vh; overflow-y:auto; margin-top:6px; }
@@ -859,7 +871,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781543841631">
+<meta name="sc-build" content="1781544395569">
 <meta name="description" content="Paul Reynolds is an electronic artist tracked on soundcheck, with 133 sets logged across Barcelona, Ibiza, Liverpool and London. Often billed alongside Black Coffee, Damian Lazarus and David Guetta. Next up: Ushuaïa Ibiza, Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/paulreynolds/">
 <meta property="og:type" content="profile">
@@ -1301,7 +1313,7 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', false); // open collapsed (web + mobile); chevron expands to the video
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
       loadScApi(function(){
@@ -1324,7 +1336,7 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', false); // open collapsed (web + mobile); chevron expands to the video
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
         pos=0; paintScrub(); startPoll();
