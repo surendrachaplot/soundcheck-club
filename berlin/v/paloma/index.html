@@ -854,18 +854,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781467205682">
-<meta name="description" content="Paloma is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Bézier and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.">
+<meta name="sc-build" content="1781537044303">
+<meta name="description" content="Paloma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Black Mirror Park and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.">
 <link rel="canonical" href="https://soundcheck.club/berlin/v/paloma/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Paloma — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Paloma is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Bézier and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.">
+<meta property="og:description" content="Paloma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Black Mirror Park and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.">
 <meta property="og:url" content="https://soundcheck.club/berlin/v/paloma/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Paloma","url":"https://soundcheck.club/berlin/v/paloma/","description":"Paloma is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Bézier and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.","address":"Skalitzer Str. 135, 10999 Berlin"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Paloma","url":"https://soundcheck.club/berlin/v/paloma/","description":"Paloma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Black Mirror Park and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.","address":"Skalitzer Str. 135, 10999 Berlin"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Paloma</h1><p>Paloma is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Bézier and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.</p><p>15 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/berlin/v/paloma/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Paloma</h1><p>Paloma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including bb:fm, Behrang Mohammadi, Ben Mono and Black Mirror Park and 2 more. Browse dates, set times and who's playing. Skalitzer Str. 135, 10999 Berlin.</p><p>14 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/berlin/v/paloma/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3046,6 +3046,8 @@
     }
     function eventPageHTML(ev){
       var time=formatTime(ev.startTime)||ev._time||'';
+      var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
+      var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
@@ -3062,7 +3064,7 @@
             '<div class="event-head-tx">'+
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
-              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
               (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
             '</div>'+
             '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
@@ -3087,6 +3089,10 @@
     }
     // Fill the two placeholders eventPageHTML left, using the enriched event.
     function renderEventRich(ev){
+      // Always show the date: the fetched detail is authoritative (has event_date),
+      // so fill the header's #ev-when even if the cached open had no/partial date.
+      var when=document.getElementById('ev-when');
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTime(ev.startTime)||ev._time||''; when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';

@@ -854,19 +854,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781467205682">
-<meta name="description" content="Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Pilar - VUB, Brussels.">
+<meta name="sc-build" content="1781537044303">
+<meta name="description" content="Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Capitol Theatre, Dusseldorf.">
 <link rel="canonical" href="https://soundcheck.club/a/sinabathaie/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Sina Bathaie — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Pilar - VUB, Brussels.">
+<meta property="og:description" content="Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Capitol Theatre, Dusseldorf.">
 <meta property="og:url" content="https://soundcheck.club/a/sinabathaie/">
 <meta property="og:image" content="https://i1.sndcdn.com/avatars-oGnrsRNVhm3KSSLh-PPqTyA-t500x500.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Sina Bathaie","url":"https://soundcheck.club/a/sinabathaie/","description":"Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Pilar - VUB, Brussels.","image":"https://i1.sndcdn.com/avatars-oGnrsRNVhm3KSSLh-PPqTyA-t500x500.jpg"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Sina Bathaie","url":"https://soundcheck.club/a/sinabathaie/","description":"Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Capitol Theatre, Dusseldorf.","image":"https://i1.sndcdn.com/avatars-oGnrsRNVhm3KSSLh-PPqTyA-t500x500.jpg"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Sina Bathaie</h1><p>Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Pilar - VUB, Brussels.</p><p>19 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/sinabathaie/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Sina Bathaie</h1><p>Sina Bathaie is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Austin and 40 more. Next up: Capitol Theatre, Dusseldorf.</p><p>18 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/sinabathaie/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3047,6 +3047,8 @@
     }
     function eventPageHTML(ev){
       var time=formatTime(ev.startTime)||ev._time||'';
+      var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
+      var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
@@ -3063,7 +3065,7 @@
             '<div class="event-head-tx">'+
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
-              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
               (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
             '</div>'+
             '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
@@ -3088,6 +3090,10 @@
     }
     // Fill the two placeholders eventPageHTML left, using the enriched event.
     function renderEventRich(ev){
+      // Always show the date: the fetched detail is authoritative (has event_date),
+      // so fill the header's #ev-when even if the cached open had no/partial date.
+      var when=document.getElementById('ev-when');
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTime(ev.startTime)||ev._time||''; when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';
