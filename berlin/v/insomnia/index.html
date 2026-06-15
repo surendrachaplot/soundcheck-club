@@ -544,6 +544,16 @@
     .muted { color:var(--muted); }
     .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-sm); letter-spacing:0.02em; margin:0 0 12px; display:flex; align-items:center; justify-content:space-between; }
     .sec-h .more { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); cursor:pointer; }
+    .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
+    .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:10px; padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
+    .upc-tab.on { background:var(--accent); color:var(--accent-ink); }
+    .upc-n { font-size:var(--fs-xs); font-weight:700; opacity:0.7; }
+    .upc-tab.on .upc-n { opacity:1; }
+    .upc-sub { color:var(--muted); font-size:var(--fs-sm); font-weight:500; margin:0 0 14px; }
+    .fnd-proof { display:inline-flex; align-items:center; gap:6px; color:var(--accent); font-size:var(--fs-xs); font-weight:700; margin-top:4px; line-height:1.3; }
+    .fnd-proof svg { width:13px; height:13px; flex:none; }
+    .fnd-proof .lk { color:var(--accent); cursor:pointer; }
+    .fnd-proof .lk:hover { text-decoration:underline; }
     .hub-stats { display:grid; grid-template-columns:repeat(3,1fr); gap:9px; margin:18px 0; max-width:520px; }
     .hub-stat { background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:14px 10px; text-align:center; cursor:pointer; width:100%; font:inherit; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .hub-stat:hover { border-color:var(--accent); }
@@ -874,7 +884,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781545266894">
+<meta name="sc-build" content="1781560743978">
 <meta name="description" content="Insomnia is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Amorelie, Andrea Marino, Bäggy and Bi Män and 2 more. Browse dates, set times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.">
 <link rel="canonical" href="https://soundcheck.club/berlin/v/insomnia/">
 <meta property="og:type" content="profile">
@@ -2775,18 +2785,56 @@
     async function openUpcoming(){
       if(!currentUser){ openAuth(); return; }
       setRoute('upcoming');
-      openPanel('<h3>Coming up for you</h3><div class="empty">Loading…</div>');
+      openPanel('<h3>Coming up</h3><div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/upcoming'); var j=await r.json();
-        var va=j.artists||[], vv=j.venues||[];
-        var h='<h3>Coming up for you</h3><div class="sub" style="margin-bottom:14px">Next shows from artists you wanna see &amp; venues you follow.</div>';
-        if(!va.length && !vv.length){ h+='<div class="empty">Heart artists you wanna see and follow a few venues &mdash; their upcoming shows land here.</div>'; openPanel(h); return; }
-        if(va.length) h+='<div class="sec-h">Artists you wanna see</div><div id="up-artists"></div>';
-        if(vv.length) h+='<div class="sec-h" style="margin-top:24px">Venues you follow</div><div id="up-venues"></div>';
+        var feeds={ artists:j.artists||[], venues:j.venues||[], friends:j.friends||[] };
+        if(!feeds.artists.length && !feeds.venues.length && !feeds.friends.length){
+          openPanel('<h3>Coming up</h3><div class="empty">Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.</div>'); return;
+        }
+        function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
+        var h='<h3>Coming up</h3>'+
+          '<div class="upc-tabs" role="tablist">'+
+            '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(feeds.artists.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(feeds.venues.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(feeds.friends.length)+'</button>'+
+          '</div>'+
+          '<div class="upc-sub" id="upc-sub"></div><div id="upc-body"></div>';
         openPanel(h);
-        if(va.length) mountEventCards(document.getElementById('up-artists'), va);
-        if(vv.length) mountEventCards(document.getElementById('up-venues'), vv);
-      }catch(_){ openPanel('<h3>Coming up for you</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+        var SUBS={ artists:'Next shows from artists you wanna see.', venues:'Next nights at venues you follow.', friends:'Upcoming gigs the people you follow wanna see.' };
+        var EMPTY={ artists:'Heart some artists &mdash; their next shows show up here.', venues:'Follow venues &mdash; their upcoming nights land here.', friends:'Follow people &mdash; the gigs they wanna see appear here.' };
+        var subEl=document.getElementById('upc-sub'), bodyEl=document.getElementById('upc-body');
+        function showTab(tab){
+          panelBody.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          subEl.textContent=SUBS[tab];
+          var rows=feeds[tab];
+          if(!rows.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
+          mountEventCards(bodyEl, rows);
+          if(tab==='friends') decorateFriendCards(bodyEl, rows);
+        }
+        panelBody.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        showTab(feeds.artists.length?'artists':feeds.venues.length?'venues':'friends');
+      }catch(_){ openPanel('<h3>Coming up</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+    }
+    // Friends tab: annotate each event card with who (of the people you follow)
+    // wanna-sees an act on the bill. Reuses the (now-empty) .proof slot.
+    function decorateFriendCards(scope, rows){
+      var byId={}; (rows||[]).forEach(function(e){ if(e.id!=null) byId[String(e.id)]=e; });
+      scope.querySelectorAll('.gcard').forEach(function(c){
+        var ev=byId[c.getAttribute('data-evt')]; if(!ev||!ev.friends||!ev.friends.length) return;
+        var fr=ev.friends.slice(0,3).map(function(f){ return '<span class="lk" data-profile="'+esc(f.handle)+'">'+esc(f.name||('u/'+f.handle))+'</span>'; });
+        var extra=ev.friends.length-fr.length, names, verb=' want to see this';
+        if(extra>0){ names=fr.join(', ')+' +'+extra+' more'; }
+        else if(fr.length===1){ names=fr[0]; verb=' wants to see this'; }
+        else if(fr.length===2){ names=fr[0]+' &amp; '+fr[1]; }
+        else { names=fr[0]+', '+fr[1]+' &amp; '+fr[2]; }
+        var slot=c.querySelector('.proof');
+        if(slot){
+          slot.classList.add('on');
+          slot.innerHTML='<span class="fnd-proof">'+HEART_SVG+'<span>'+names+verb+'</span></span>';
+          slot.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openProfile(b.dataset.profile); }); });
+        }
+      });
     }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }

@@ -267,6 +267,9 @@
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
+    .info .nm.linky, .info .sub.linky { cursor:pointer; }
+    .info .nm.linky:hover { text-decoration:underline; }
+    .info .sub.linky:hover { color:var(--fg); text-decoration:underline; }
     .transport { display:flex; align-items:center; gap:14px; }
     .scrub { display:flex; align-items:center; gap:10px; }
     .scrub .t { font-variant-numeric:tabular-nums; color:var(--muted); font-size:var(--fs-xs); white-space:nowrap; }
@@ -291,13 +294,15 @@
     .dock:not(.expanded) .main { flex:1; min-width:0; display:flex; align-items:center; gap:18px; padding-right:84px; }
     .dock:not(.expanded) .info { flex:0 0 auto; max-width:200px; }
     .dock:not(.expanded) .scrub { flex:1; min-width:0; }
-    /* collapsed = minimal: only play/pause + close; tap the art to re-expand */
+    /* collapsed = minimal: only play/pause + chevron + close (hide prev/next/skip) */
     .dock:not(.expanded) #dock-prev,
     .dock:not(.expanded) #dock-next,
     .dock:not(.expanded) #skip-back,
-    .dock:not(.expanded) #skip-fwd,
-    .dock:not(.expanded) #dock-exp { display:none; }
+    .dock:not(.expanded) #skip-fwd { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
+    /* chevron stays visible in BOTH states (web + mobile) so there's always a
+       working collapse/expand toggle — not just tap-the-art to expand. */
+    #dock-exp { display:inline-flex; }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -381,6 +386,10 @@
     /* on air, match the dock's now-playing type exactly (.info .nm / .sub) */
     .radio-fab.onair .rf-t { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:150px; font:700 var(--fs-md) var(--head); text-transform:none; letter-spacing:-0.01em; color:var(--fg); }
     .radio-fab.onair .rf-sub { font:600 var(--fs-xs) var(--body); letter-spacing:0; opacity:1; color:var(--muted); }
+    .radio-fab .rf-on { color:var(--accent); font-weight:700; letter-spacing:0.06em; text-transform:uppercase; }
+    .rf-link { color:var(--fg); cursor:pointer; text-decoration:none; }
+    .rf-link:hover { color:var(--accent); text-decoration:underline; }
+    .radio-fab.onair .rf-sub .rf-link { color:var(--fg); }
     /* inline actions on the on-air pill: heart the DJ + jump to their page */
     .rf-act { display:none; }
     .radio-fab.onair .rf-act { display:inline-flex; }
@@ -396,6 +405,12 @@
     .ev-radio { display:inline-flex; align-self:flex-start; width:fit-content; max-width:100%; align-items:center; gap:8px; margin:10px 0 2px; background:rgba(255,122,107,0.08); border:1px solid rgba(255,122,107,0.35); color:var(--accent); border-radius:999px; padding:7px 13px; font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .ev-radio svg { width:var(--icon-sm); height:var(--icon-sm); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .ev-radio:hover { background:rgba(255,122,107,0.16); }
+    /* event page: genre chips, add-to-calendar, directions, lineup avatars */
+    .ev-genres { display:flex; flex-wrap:wrap; gap:6px; margin:12px 0 0; }
+    .gchip { font:600 var(--fs-xs) var(--body); letter-spacing:0.02em; color:var(--muted); background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:4px 10px; text-transform:capitalize; }
+    .ev-directions { display:inline-block; margin:8px 0 10px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; color:var(--accent); text-decoration:none; }
+    .ev-directions:hover { text-decoration:underline; }
+    .sheet-line li .ln-av { width:30px; height:30px; border-radius:50%; flex:0 0 auto; background-size:cover; background-position:center; background-color:var(--surface); margin-right:2px; }
 
     /* picks tray (modal) */
     .picks-tray-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.62); backdrop-filter:blur(3px); z-index:75; display:flex; align-items:flex-end; justify-content:center; opacity:0; pointer-events:none; transition:opacity 0.22s; overscroll-behavior:contain; }
@@ -529,6 +544,16 @@
     .muted { color:var(--muted); }
     .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-sm); letter-spacing:0.02em; margin:0 0 12px; display:flex; align-items:center; justify-content:space-between; }
     .sec-h .more { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); cursor:pointer; }
+    .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
+    .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:10px; padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
+    .upc-tab.on { background:var(--accent); color:var(--accent-ink); }
+    .upc-n { font-size:var(--fs-xs); font-weight:700; opacity:0.7; }
+    .upc-tab.on .upc-n { opacity:1; }
+    .upc-sub { color:var(--muted); font-size:var(--fs-sm); font-weight:500; margin:0 0 14px; }
+    .fnd-proof { display:inline-flex; align-items:center; gap:6px; color:var(--accent); font-size:var(--fs-xs); font-weight:700; margin-top:4px; line-height:1.3; }
+    .fnd-proof svg { width:13px; height:13px; flex:none; }
+    .fnd-proof .lk { color:var(--accent); cursor:pointer; }
+    .fnd-proof .lk:hover { text-decoration:underline; }
     .hub-stats { display:grid; grid-template-columns:repeat(3,1fr); gap:9px; margin:18px 0; max-width:520px; }
     .hub-stat { background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:14px 10px; text-align:center; cursor:pointer; width:100%; font:inherit; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .hub-stat:hover { border-color:var(--accent); }
@@ -571,7 +596,24 @@
     .artist-head.artist-hero .artist-av { width:min(132px,32vw); height:min(132px,32vw); border-radius:18px; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
+    /* external link pills (artist socials / venue website) */
+    .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
+    .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
+    .slink:hover { border-color:var(--accent); color:var(--accent); }
+    .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     /* event page header — same grammar as .artist-head, with a contained poster */
+    /* event page: the poster carries the details, so show it BIG, uncropped + unfiltered */
+    .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
+    .ev-poster-big img { display:block; width:100%; height:auto; }
+    .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
+    /* event page two-column: poster column (sticky) + main column; recs full-width below */
+    .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
+    @media (min-width:760px){
+      .ev-layout { grid-template-columns:minmax(260px,360px) 1fr; align-items:start; }
+      .ev-col-poster { position:sticky; top:16px; }
+      .ev-col-poster .ev-poster-big { margin:0; max-width:none; }
+      .ev-col-main { min-width:0; }
+    }
     .event-head { display:flex; align-items:flex-start; gap:16px; }
     .event-head .poster.ev-poster { width:108px; height:144px; aspect-ratio:auto; border-radius:14px; margin-bottom:0; flex-shrink:0; }
     .event-head .poster.ev-poster .gen { padding:8px; }
@@ -594,6 +636,7 @@
     .act-btn.radio.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .act-btn.on svg { fill:currentColor; stroke:currentColor; }
     .act-btn.radio svg { fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    .act-btn.radio svg.brand path, .act-btn.radio svg.brand polygon { stroke:none; } /* YouTube logo keeps its own red/white fills */
     .act-btn.radio.on svg { fill:none; stroke:currentColor; }
     /* plays-alongside chips + gig-history timeline (artist page) */
     .along-row { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 4px; }
@@ -742,10 +785,19 @@
       body.radio-on .radio-fab { width:100%; max-width:none; padding:11px 14px; border-radius:22px 22px 0 0; border:1px solid rgba(255,255,255,0.14); border-bottom:none;
         background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); color:var(--accent); }
-      body.radio-on .radio-fab .rf-main { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
       body.radio-on .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
       body.radio-on { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
+    }
+    /* Desktop on-air radio = a flush full-width bottom bar, matching the collapsed
+       dock (no bottom nav here, so it sits at the very bottom like .dock). */
+    @media (min-width:621px){
+      body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
+      body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
+      body.radio-on { padding-bottom:96px; }
     }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
     /* city picker */
@@ -810,7 +862,9 @@
     /* search page */
     .search-box input { width:100%; max-width:560px; background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:14px 16px; font:500 var(--fs-md) var(--body); outline:none; }
     /* venue map */
-    .venue-map { width:100%; height:min(72vh,640px); border-radius:14px; overflow:hidden; border:1px solid var(--border); background:#15131a; }
+    /* isolate traps Leaflet's high internal z-indexes (panes/controls/popups ~200–1000)
+       in the map's own stacking context, so the player dock (z-index 60) always sits on top. */
+    .venue-map { width:100%; height:min(72vh,640px); border-radius:14px; overflow:hidden; border:1px solid var(--border); background:#15131a; position:relative; z-index:0; isolation:isolate; }
     .venue-map .leaflet-tile-pane { filter:saturate(0.9); }
     .leaflet-popup-content-wrapper, .leaflet-popup-tip { background:var(--surface); color:var(--fg); box-shadow:0 8px 24px rgba(0,0,0,0.5); }
     .leaflet-popup-content { font:500 var(--fs-base) var(--body); margin:11px 13px; }
@@ -830,17 +884,18 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="description" content="Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Adam Shelton, Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.">
+<meta name="sc-build" content="1781560743978">
+<meta name="description" content="Grub Records is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.">
 <link rel="canonical" href="https://soundcheck.club/sheffield/v/grub-records/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Grub Records — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Adam Shelton, Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.">
+<meta property="og:description" content="Grub Records is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.">
 <meta property="og:url" content="https://soundcheck.club/sheffield/v/grub-records/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Grub Records","url":"https://soundcheck.club/sheffield/v/grub-records/","description":"Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Adam Shelton, Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.","address":"Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Grub Records","url":"https://soundcheck.club/sheffield/v/grub-records/","description":"Grub Records is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.","address":"Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Grub Records</h1><p>Grub Records is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Adam Shelton, Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.</p><p>7 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/sheffield/v/grub-records/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Grub Records</h1><p>Grub Records is a music venue in Sheffield listed on soundcheck. 11 upcoming nights, with line-ups including Paniolo, Reuben G and TB-316. Browse dates, set times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.</p><p>11 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/sheffield/v/grub-records/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -945,8 +1000,11 @@
       <div id="auth-sent-state" class="sent" hidden>
         <div class="big">&#9993;&#65039;</div>
         <h3>Check your inbox.</h3>
-        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device and you&rsquo;re in.</p>
-        <button class="go" type="button" id="auth-sent-done">Done</button>
+        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
+        <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
+        <button class="go" type="button" id="auth-code-go">Sign in with code</button>
+        <div class="err" id="auth-code-err"></div>
+        <button type="button" id="auth-sent-done" style="background:none;border:none;color:var(--muted);font:600 var(--fs-sm) var(--body);margin-top:12px;cursor:pointer;">Done</button>
       </div>
     </div>
   </div>
@@ -955,8 +1013,8 @@
     <div class="radio-fab" id="radio-fab">
       <button class="rf-main" id="radio-fab-main" type="button" aria-label="Play the weekend radio">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
-        <span class="rf-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></span>
       </button>
+      <div class="rf-tx" id="radio-fab-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></div>
       <button class="heart rf-act" id="radio-fab-heart" type="button" aria-label="Heart this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
       <button class="rf-act rf-go" id="radio-fab-go" type="button" aria-label="Open artist page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg></button>
     </div>
@@ -965,6 +1023,7 @@
   <!-- mobile bottom nav -->
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
+    <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
     <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Picks"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
   </nav>
@@ -1001,6 +1060,19 @@
 
     var SC_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg>';
     var YT_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg>';
+    // External link pills for artist socials / venue website (opens a new tab).
+    var LINK_ICONS={
+      soundcloud:'<svg viewBox="0 0 24 24"><path d="M4 14v4M7 12v6M10 10v8M13 9v9"/><path d="M16 11a4 4 0 0 1 0 8h-3V9.5a5 5 0 0 1 7.2 2"/></svg>',
+      instagram:'<svg viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="19" height="19" rx="5.2"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1"/></svg>',
+      website:'<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c3 3 3 16 0 19M12 2.5c-3 3-3 16 0 19"/></svg>'
+    };
+    function socialLinksHTML(o){
+      o=o||{}; var b=[];
+      if(o.soundcloud) b.push('<a class="slink" href="'+esc(o.soundcloud)+'" target="_blank" rel="noopener" aria-label="SoundCloud">'+LINK_ICONS.soundcloud+'</a>');
+      if(o.instagram)  b.push('<a class="slink" href="'+esc(o.instagram)+'" target="_blank" rel="noopener" aria-label="Instagram">'+LINK_ICONS.instagram+'</a>');
+      if(o.website)    b.push('<a class="slink" href="'+esc(o.website)+'" target="_blank" rel="noopener" aria-label="Website">'+LINK_ICONS.website+'</a>');
+      return b.length ? '<div class="slinks">'+b.join('')+'</div>' : '';
+    }
 
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
@@ -1212,6 +1284,12 @@
     function isSmallScreen(){ return window.matchMedia && matchMedia('(max-width:620px)').matches; }
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
+      // Make the now-playing artist + venue tappable (jump to their pages; the set keeps playing).
+      var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'', navCity=(btn&&btn.dataset&&btn.dataset.city)||'';
+      dockName.classList.toggle('linky', !!navSlug);
+      dockName.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
+      dockSrc.classList.toggle('linky', !!navVenue);
+      dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
@@ -1247,7 +1325,7 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
       loadScApi(function(){
@@ -1270,7 +1348,7 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'YouTube', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
         pos=0; paintScrub(); startPoll();
@@ -1527,8 +1605,11 @@
     }
     function radioFabUpdate(entry){
       var t=document.getElementById('radio-fab-label'), sub=document.getElementById('radio-fab-sub');
-      if(t) t.textContent='On air — '+entry.name;
-      if(sub){ if(entry.venue){ sub.hidden=false; sub.textContent=entry.venue; } else sub.hidden=true; }
+      if(t) t.innerHTML='<span class="rf-on">On air</span> &middot; <a class="rf-link" data-rf-artist>'+esc(entry.name)+'</a>';
+      if(sub){ if(entry.venue){ sub.hidden=false; sub.innerHTML='Next playing at <a class="rf-link" data-rf-venue>'+esc(entry.venue)+'</a>'; } else { sub.hidden=true; sub.innerHTML=''; } }
+      // artist + venue jump to their pages (stopPropagation so they don't toggle play)
+      var al=t&&t.querySelector('[data-rf-artist]'); if(al) al.onclick=function(e){ e.stopPropagation(); if(entry.slug&&typeof openArtist==='function') openArtist(entry.slug); };
+      var vl=sub&&sub.querySelector('[data-rf-venue]'); if(vl) vl.onclick=function(e){ e.stopPropagation(); if(entry.venue&&typeof openVenue==='function') openVenue(entry.venue); };
       // inline actions: heart reflects pick state (kept in sync by refreshArtistButtons
       // via data-pick-art); the arrow jumps to this DJ's page.
       var h=document.getElementById('radio-fab-heart');
@@ -1650,6 +1731,7 @@
       var onPage=document.body.classList.contains('page-on'), route=currentRoute();
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
+      setTab('bnav-search', route==='search');
       setTab('bnav-picks', route==='picks');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
@@ -1659,6 +1741,7 @@
       if(document.body.classList.contains('page-on')) goGrid();
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
+    document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-picks').addEventListener('click',function(){ openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
@@ -1799,6 +1882,9 @@
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
       document.querySelectorAll('.seen-btn[data-seen-art="'+k+'"]').forEach(function(b){ b.classList.toggle('on', st==='seen'); });
+      // artist-page action buttons (immediate optimistic state, no re-render)
+      document.querySelectorAll('.act-btn[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+      document.querySelectorAll('.act-btn[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
     }
     function refreshEventButtons(id){
       var k=CSS.escape(id), on=isEventPicked(id);
@@ -1865,10 +1951,16 @@
       adoptLegacyLocal();
     }
     // City preference (server-side) applies only when the URL didn't pick one.
+    // No saved city either (new/undecided visitor) → guess from IP via /api/geo.
+    var _geoTried=false;
     function applyPrefCity(){
       try{
-        if(_cityExplicit || !prefs.city || prefs.city===currentCity) return;
-        if(typeof setCity==='function') setCity(String(prefs.city));
+        if(_cityExplicit) return;
+        if(prefs.city){ if(prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); return; }
+        if(_geoTried) return; _geoTried=true;
+        fetch(API_BASE+'/api/geo').then(function(r){ return r.json(); }).then(function(j){
+          if(j && j.city && j.city!==currentCity && !_cityExplicit && !prefs.city && typeof setCity==='function') setCity(String(j.city));
+        }).catch(function(){});
       }catch(_){}
     }
     // One-time adoption: push any pre-cookie-era localStorage state to the
@@ -1925,7 +2017,7 @@
 
     // sign-in modal
     var authOv=document.getElementById('auth-overlay');
-    function openAuth(){ document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
+    function openAuth(){ document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
     function closeAuth(){ authOv.classList.remove('show'); }
 
     // ── claim / rename handle (Reddit-style u/) ──
@@ -2060,6 +2152,30 @@
     }
     document.getElementById('auth-close').addEventListener('click',closeAuth);
     document.getElementById('auth-sent-done').addEventListener('click',closeAuth);
+    // PWA-friendly sign-in: verify the emailed code in THIS context so the session
+    // cookie lands in the (installed) app, not whatever browser opened the link.
+    document.getElementById('auth-code-go').addEventListener('click',async function(){
+      var email=(document.getElementById('auth-sent-to').textContent||'').trim().toLowerCase();
+      var code=(document.getElementById('auth-code').value||'').trim();
+      var err=document.getElementById('auth-code-err'), btn=this;
+      if(code.replace(/[^a-z0-9]/gi,'').length<4){ err.textContent='Enter the code from the email.'; return; }
+      btn.disabled=true; err.textContent='';
+      try{
+        var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email, code:code }) });
+        var j=await r.json().catch(function(){return {};});
+        if(!r.ok || !j.ok){ err.textContent=(r.status===400?'That code is wrong or expired.':'Something went wrong — try again.'); btn.disabled=false; return; }
+        if(j.token) _memToken=j.token;   // cookie is primary; bearer covers this page-load
+        var hadLocal=pickCount()>0;
+        closeAuth();
+        await loadMe(); renderAccount();
+        if(currentUser && hadLocal){
+          authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
+                                  events:Object.keys(picks.events).map(function(i){return {id:i,title:picks.events[i].title,venue:picks.events[i].venue,day:picks.events[i].day};}) })
+          }).then(function(){ showToast('Signed in — your picks are saved'); }).catch(function(){});
+        } else { showToast('Signed in'); }
+      }catch(_){ err.textContent='Network error — try again.'; btn.disabled=false; }
+    });
     authOv.addEventListener('click',function(e){ if(e.target===authOv) closeAuth(); });
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&authOv.classList.contains('show')) closeAuth(); });
     document.getElementById('auth-form').addEventListener('submit',async function(e){
@@ -2141,19 +2257,19 @@
     }
     function myHandle(){ return currentUser ? currentUser.handle : null; }
     function shareArtist(slug, name){
-      var url=shareUrl({artist:slug, d:currentDate||null, u:myHandle()});
+      var url=shareUrl({artist:slug, d:currentDate||null});
       doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this DJ')+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
-      // Share the canonical event page (#e/<id>); keep ?u= for sender attribution.
-      var u=myHandle();
-      var url=location.origin+location.pathname+(u?('?u='+encodeURIComponent(u)):'')+'#e/'+encodeURIComponent(id);
+      // Canonical event path — NOT location.pathname+#hash (which pinned the event
+      // to whatever page you were on and broke under path routing).
+      var url=location.origin+SC_BASE+'e/'+encodeURIComponent(id);
       var t=(title||'Event')+(venue?(' · '+venue):'');
       doShare({ title:t, text:t+' — preview every DJ on soundcheck', url:url });
     }
     function sharePicks(){
       if(!pickCount()) return;
-      var url=shareUrl({picks:encodePicks(picks), u:myHandle()});
+      var url=shareUrl({picks:encodePicks(picks)});
       var a=Object.keys(picks.artists).filter(function(s){return artStatus(s)==='wanna_see';}).length;
       var e=Object.keys(picks.events).filter(function(i){return evtStatus(i)==='going';}).length;
       var bits=[]; if(e) bits.push(e+' event'+(e===1?'':'s')); if(a) bits.push(a+' artist'+(a===1?'':'s'));
@@ -2234,6 +2350,8 @@
       }catch(_){}
     }
     document.getElementById('radio-fab-main').addEventListener('click',function(){ startRadio(); });
+    // text block is no longer inside the play button — clicking it while idle still starts radio
+    document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
     document.getElementById('radio-fab-heart').addEventListener('click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
     });
@@ -2507,6 +2625,7 @@
 
     // ── account hub page (tapping the @handle chip lands here) ──
     var HUB_IC={
+      upcoming:'<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>',
       picks:'<svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>',
       profile:'<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>',
       feed:'<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
@@ -2530,6 +2649,7 @@
             '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+diary.length+'</div><div class="l">Gigs</div></button>'+
           '</div>'+
           '<div class="hub-tiles">'+
+            hubTile('hub-upcoming', HUB_IC.upcoming, 'Coming up', 'For you')+
             hubTile('hub-picks', HUB_IC.picks, 'My picks', 'Wanna-see &amp; saved')+
             hubTile('hub-profile', HUB_IC.profile, 'My profile', 'How others see you')+
             hubTile('hub-feed', HUB_IC.feed, 'Feed', 'Your follows')+
@@ -2546,6 +2666,7 @@
         '</div>';
         var rest=document.getElementById('hub-rest'); if(!rest) return; rest.innerHTML=h;
         document.getElementById('hub-handle').addEventListener('click',function(){ openHandleModal(true); });
+        document.getElementById('hub-upcoming').addEventListener('click',openUpcoming);
         document.getElementById('hub-picks').addEventListener('click',openMyPicks);
         document.getElementById('hub-profile').addEventListener('click',function(){ openProfile(currentUser.handle); });
         document.getElementById('hub-feed').addEventListener('click',openFeed);
@@ -2661,6 +2782,60 @@
     }
 
     // ---- feed ----
+    async function openUpcoming(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('upcoming');
+      openPanel('<h3>Coming up</h3><div class="empty">Loading…</div>');
+      try{
+        var r=await authedFetch('/api/upcoming'); var j=await r.json();
+        var feeds={ artists:j.artists||[], venues:j.venues||[], friends:j.friends||[] };
+        if(!feeds.artists.length && !feeds.venues.length && !feeds.friends.length){
+          openPanel('<h3>Coming up</h3><div class="empty">Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.</div>'); return;
+        }
+        function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
+        var h='<h3>Coming up</h3>'+
+          '<div class="upc-tabs" role="tablist">'+
+            '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(feeds.artists.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(feeds.venues.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(feeds.friends.length)+'</button>'+
+          '</div>'+
+          '<div class="upc-sub" id="upc-sub"></div><div id="upc-body"></div>';
+        openPanel(h);
+        var SUBS={ artists:'Next shows from artists you wanna see.', venues:'Next nights at venues you follow.', friends:'Upcoming gigs the people you follow wanna see.' };
+        var EMPTY={ artists:'Heart some artists &mdash; their next shows show up here.', venues:'Follow venues &mdash; their upcoming nights land here.', friends:'Follow people &mdash; the gigs they wanna see appear here.' };
+        var subEl=document.getElementById('upc-sub'), bodyEl=document.getElementById('upc-body');
+        function showTab(tab){
+          panelBody.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          subEl.textContent=SUBS[tab];
+          var rows=feeds[tab];
+          if(!rows.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
+          mountEventCards(bodyEl, rows);
+          if(tab==='friends') decorateFriendCards(bodyEl, rows);
+        }
+        panelBody.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        showTab(feeds.artists.length?'artists':feeds.venues.length?'venues':'friends');
+      }catch(_){ openPanel('<h3>Coming up</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+    }
+    // Friends tab: annotate each event card with who (of the people you follow)
+    // wanna-sees an act on the bill. Reuses the (now-empty) .proof slot.
+    function decorateFriendCards(scope, rows){
+      var byId={}; (rows||[]).forEach(function(e){ if(e.id!=null) byId[String(e.id)]=e; });
+      scope.querySelectorAll('.gcard').forEach(function(c){
+        var ev=byId[c.getAttribute('data-evt')]; if(!ev||!ev.friends||!ev.friends.length) return;
+        var fr=ev.friends.slice(0,3).map(function(f){ return '<span class="lk" data-profile="'+esc(f.handle)+'">'+esc(f.name||('u/'+f.handle))+'</span>'; });
+        var extra=ev.friends.length-fr.length, names, verb=' want to see this';
+        if(extra>0){ names=fr.join(', ')+' +'+extra+' more'; }
+        else if(fr.length===1){ names=fr[0]; verb=' wants to see this'; }
+        else if(fr.length===2){ names=fr[0]+' &amp; '+fr[1]; }
+        else { names=fr[0]+', '+fr[1]+' &amp; '+fr[2]; }
+        var slot=c.querySelector('.proof');
+        if(slot){
+          slot.classList.add('on');
+          slot.innerHTML='<span class="fnd-proof">'+HEART_SVG+'<span>'+names+verb+'</span></span>';
+          slot.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openProfile(b.dataset.profile); }); });
+        }
+      });
+    }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
@@ -2822,21 +2997,26 @@
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
-        var stats=[];
-        if(a.seen) stats.push('<span><b>'+a.seen+'</b> seen live</span>');
-        if(a.networkSeen) stats.push('<span class="pf-friends"><b>'+a.networkSeen+'</b> friends seen</span>');
-        if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
+        // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
+        h+=socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website });
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
+        // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
+        var nextGig=(a.upcoming&&a.upcoming[0])||null;
+        var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
         h+='<div class="artist-actions">'+
-          '<button class="act-btn radio'+(onAir?' on':'')+'" id="ap-radio" type="button">'+RADIO_SVG+'<span>'+(onAir?'Stop radio':'Tune in')+'</span></button>'+
-          '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
-          '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
+          '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
+          '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
+          '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
-          h+='<div class="sec-h" style="margin-top:24px">Plays alongside</div>'+
+          h+='<div class="sec-h" style="margin-top:24px;display:flex;align-items:center;justify-content:space-between;gap:12px">'+
+              '<span>Plays alongside</span>'+
+              '<button class="ev-radio" id="ap-scene" type="button" style="margin:0">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
+            '</div>'+
+            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Hit play for a radio of '+esc(a.name||slug)+' and the DJs they share lineups with.</p>'+
             '<div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
         }
         h+='<div id="ap-upcoming"></div>';
@@ -2852,9 +3032,16 @@
         }
         openPanel(h);
         setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:location.origin+SC_BASE+'a/'+slug, description:a.description||'' });
-        document.getElementById('ap-radio').addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
-        document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); openArtist(slug); });
-        document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); openArtist(slug); });
+        // "Tune in" plays the artist's own YouTube set in the dock (same flow as the
+        // home-page lineup play buttons), so the dock's clickable name/venue apply.
+        var apRadio=document.getElementById('ap-radio');
+        apRadio.addEventListener('pointerdown',function(){ prefetchYt(apRadio); },{passive:true});
+        apRadio.addEventListener('click',function(){ handleYtClick(apRadio); });
+        var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
+        // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
+        // immediately and sync to the DB in the background — no full re-render.
+        document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
+        document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         document.querySelectorAll('#page-body .gh-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue, b.dataset.city||null); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
@@ -2914,9 +3101,10 @@
         var stats=[];
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
         if(v.logged) stats.push('<span><b>'+v.logged+'</b> logged</span>');
-        if(v.going) stats.push('<span><b>'+v.going+'</b> saved upcoming</span>');
+        // "saved upcoming" (going) count hidden — no social proof yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
+        h+=socialLinksHTML({ website:v.website });
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
         h+='<div id="vp-upcoming"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
@@ -2935,7 +3123,7 @@
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
           loadLeaflet(function(){
-            if(location.hash.indexOf('v/')<0 || !document.getElementById('venue-loc')) return;
+            if(currentRoute().indexOf('v/')!==0 || !document.getElementById('venue-loc')) return;   // path-routed, not hash
             var map=L.map(locEl,{ scrollWheelZoom:false }).setView([v.lat,v.lng], 15);
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
             L.circleMarker([v.lat,v.lng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(dispName)+'</b>'+(v.address?'<br><span style="color:#9292a0">'+esc(v.address)+'</span>':''));
@@ -2952,45 +3140,110 @@
     }
     function eventPageHTML(ev){
       var time=formatTime(ev.startTime)||ev._time||'';
+      var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
+      var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
       var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
       var n=(ev.artists||[]).length;
-      var posterImg = ev.poster ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,320)+'" alt="" onerror="this.style.display=\'none\'">' : '';
-      return '<div class="event-head">'+
-          '<div class="poster ev-poster">'+genPoster(ev.title||'Event')+posterImg+'<span class="tint"></span></div>'+
-          '<div class="event-head-tx">'+
-            (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
-            '<h3>'+esc(ev.title||'Event')+'</h3>'+
-            '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-            (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+      // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
+      // gradient fallback only when there's no real poster.
+      var posterBig = ev.poster
+        ? '<div class="ev-poster-big"><img loading="lazy" decoding="async" src="'+imgUrl(ev.poster,1000)+'" alt="" onerror="var p=this.closest(\'.ev-poster-big\'); if(p) p.style.display=\'none\'"></div>'
+        : '<div class="poster ev-poster-gen">'+genPoster(ev.title||'Event')+'</div>';
+      return '<div class="ev-layout">'+
+          '<div class="ev-col-poster">'+posterBig+'</div>'+
+          '<div class="ev-col-main">'+
+            '<div class="event-head-tx">'+
+              (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
+              '<h3>'+esc(ev.title||'Event')+'</h3>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
+              (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+            '</div>'+
+            '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
+            ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
+            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
+            '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
           '</div>'+
         '</div>'+
-        ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-        '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
-        '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
+    // ── event page enrichment (genres, blurb, map, recommendations) ──
+    function musicEventLD(ev){
+      var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
+      if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
+      var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
+      if(perf.length) o.performer=perf;
+      if(ev.poster) o.image=imgUrl(ev.poster,640);
+      return o;
+    }
+    // Fill the two placeholders eventPageHTML left, using the enriched event.
+    function renderEventRich(ev){
+      // Always show the date: the fetched detail is authoritative (has event_date),
+      // so fill the header's #ev-when even if the cached open had no/partial date.
+      var when=document.getElementById('ev-when');
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTime(ev.startTime)||ev._time||''; when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
+      var top=document.getElementById('ev-meta-rich');
+      if(top){
+        var th='';
+        if((ev.genres||[]).length) th+='<div class="ev-genres">'+ev.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        if(ev.description) th+='<p class="seo-desc">'+esc(ev.description)+'</p>';
+        top.innerHTML=th;
+      }
+      var rich=document.getElementById('ev-rich');
+      if(rich){
+        var rh='';
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          rh+='<div class="sec-h" style="margin-top:26px">Location</div>'+(ev.venueAddress?'<div class="venue-addr">'+esc(ev.venueAddress)+'</div>':'')+
+            '<a class="ev-directions" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions &rsaquo;</a>'+
+            '<div id="ev-loc" class="venue-map" style="height:240px"></div>';
+        }
+        if((ev.alsoOn||[]).length) rh+='<div class="sec-h" style="margin-top:26px">Also on that night</div><div id="ev-alsoon"></div>';
+        rich.innerHTML=rh;
+        if((ev.alsoOn||[]).length) mountEventCards(document.getElementById('ev-alsoon'), ev.alsoOn);
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          var locEl=document.getElementById('ev-loc');
+          loadLeaflet(function(){
+            if(currentRoute().indexOf('e/')!==0 || !document.getElementById('ev-loc')) return;
+            var map=L.map(locEl,{ scrollWheelZoom:false }).setView([ev.venueLat,ev.venueLng], 15);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
+            L.circleMarker([ev.venueLat,ev.venueLng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(ev.venue||'')+'</b>'+(ev.venueAddress?'<br><span style="color:#9292a0">'+esc(ev.venueAddress)+'</span>':''));
+            setTimeout(function(){ map.invalidateSize(); },120);
+          });
+        }
+      }
+      // lineup avatars + section tiles open via existing wireCard/venue-link delegation
+      document.querySelectorAll('#page-body .sheet-line .ln-av[data-artist]').forEach(function(el){ el.style.cursor='pointer'; el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
+      setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', musicEventLD(ev));
+    }
+    function mapEventDetail(d){
+      return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
+        _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
+        startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
+        city:d.city, genres:d.genres||[], description:d.description||'',
+        venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
+        alsoOn:d.also_on||[],
+        artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
+    }
     async function openEvent(id){
       id=String(id);
       setRoute('e/'+encodeURIComponent(id));
-      var ev=lookup.byEvent[id];
-      if(ev){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); return; }
-      openPanel('<div class="empty">Loading…</div>');
+      var cached=lookup.byEvent[id];
+      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); wireEventRadio(cached); }
+      else openPanel('<div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
         if(!r.ok) throw 0;
-        var d=await r.json();
-        ev={ id:String(d.id), title:d.title, venue:d.venue, poster:d.poster_url,
-          _day: d.event_date ? fmtEventDay(d.event_date) : '',
-          startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
-          _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
-          artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
-        if(location.hash.indexOf('e/')<0) return;   // navigated away while loading
-        openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev);
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
+        var ev=mapEventDetail(await r.json());
+        if(currentRoute().indexOf('e/')!==0) return;   // navigated away while loading (path-routed, not hash)
+        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); }
+        renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
+      }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
     }
 
     // ---- log a gig ----
@@ -3078,6 +3331,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='picks') openMyPicks();
+      else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
@@ -3183,7 +3437,8 @@
         var pickedRow = slug && sharedPicks && (sharedPicks.artists||[]).indexOf(slug)>=0 ? ' picked' : '';
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
@@ -3336,7 +3591,9 @@
       if(typeof prewarmRadio==='function' && !radio.on) setTimeout(prewarmRadio, 1200);
     }
     // Phase 5: social proof — save counts + friends-going on event cards.
+    // Disabled for now: we don't surface any "how many going" numbers yet.
     async function decorateProof(events){
+      return; // social proof hidden — early stage
       var ids=events.map(function(e){ return e.id; }).filter(function(x){ return x!=null; }).map(String);
       if(!ids.length) return;
       try{
@@ -3490,14 +3747,24 @@
     function openCityPicker(){
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       var rows=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
-        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
+        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
       }).join('');
       ov.innerHTML='<div class="auth-box" style="max-width:420px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
-        '<div class="city-list">'+rows+'</div></div>';
+        '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+        '<div class="city-list">'+rows+'</div>'+
+        '<div class="empty city-none" style="display:none;padding:14px 0">No city matches that.</div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
+      var inp=ov.querySelector('#city-search'), none=ov.querySelector('.city-none');
+      var allRows=[].slice.call(ov.querySelectorAll('.city-row'));
+      inp.addEventListener('input',function(){
+        var q=inp.value.trim().toLowerCase(); var shown=0;
+        allRows.forEach(function(r){ var hit=!q || r.getAttribute('data-name').indexOf(q)>=0; r.style.display=hit?'':'none'; if(hit) shown++; });
+        none.style.display=shown?'none':'block';
+      });
+      setTimeout(function(){ inp.focus(); },60);
       ov.addEventListener('click',function(e){
         if(e.target===ov){ close(); return; }
         var b=e.target.closest('.city-row[data-city]');
@@ -3597,6 +3864,9 @@
     document.getElementById('hdr-search').addEventListener('click',openSearch);
     friBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[0], 'fri'); });
     satBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[1], 'sat'); });
+    // On Saturday the upcoming "Friday" pill points at yesterday — hide it so the
+    // bar shows just Saturday (today) + Pick a date. Sun–Fri keep both pills.
+    if(new Date().getDay()===6) friBtn.style.display='none';
     pickDateBtn.addEventListener('click',openCal);
 
     // ── on-brand calendar (Pick a date — single day or range) ──
@@ -3701,23 +3971,31 @@
     sharedSingle = _qe ? {kind:'event', id:_qe} : (_qa ? {kind:'artist', slug:_qa} : null);
     sharedFrom = (_qs.get('u')||'').toLowerCase().replace(/[^a-z0-9]/g,'') || null; // sender handle (#42)
     var _shareDate = _qsd || (sharedPicks && sharedPicks.date) || null;
+    // Capture the boot route + URL BEFORE the default-landing load() runs:
+    // load()/loadWeekend() synchronously replaceState to ?date=/?weekend=, which
+    // would otherwise wipe an entity path (/a/<slug>, /<city>/v/<slug>) before we
+    // read it — sending every refresh of a page back to the home grid.
+    var _bootRoute=currentRoute();
+    var _bootIsPath=!!(onScPath() && pathRoute());
+    var _bootUrl=location.pathname+location.search;
+
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
+    else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
     else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
 
-    // Deep link to a page (#u/handle, #feed, #a/slug, #v/name, #log, #picks,
-    // #account)? Insert a "home" entry beneath it so Back lands on the grid
-    // rather than leaving the site, then render the page.
-    // Path entity route (/a/<slug> via the Pages 404 fallback) OR a #hash route.
-    var _bootRoute=currentRoute();
+    // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
+    // overlay)? The default landing above set up the home grid underneath; now
+    // restore the captured page URL (load() just rewrote it) and route over it so
+    // Back lands on the grid.
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
-      var _isPath=!!pathRoute();   // entity (/a/…) or city-scoped venue (/<city>/v/…)
-      // Insert a "home" entry beneath the page so Back lands on the grid. For path
-      // routes the page URL is already correct (location.pathname); hash routes get '#'.
-      history.replaceState({sc:1},'', _isPath ? cityPath(currentCity) : (location.pathname+location.search));
-      history.pushState({sc:1},'', _isPath ? (location.pathname+location.search) : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
+      history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>
