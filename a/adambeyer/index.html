@@ -9,6 +9,9 @@
   <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage-800.woff2" crossorigin />
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-400.woff2" crossorigin />
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-500.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage-700.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-600.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-700.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.6minutes.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -22,15 +25,15 @@
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
   <style>
     /* ── self-hosted fonts (Latin slices from Google, vendored in /fonts) ── */
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/bricolage-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/bricolage-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/bricolage-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/bricolage-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:800;font-display:swap;src:url(/fonts/bricolage-800.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/inter-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/inter-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/inter-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400;font-display:optional;src:url(/fonts/bricolage-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:500;font-display:optional;src:url(/fonts/bricolage-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:600;font-display:optional;src:url(/fonts/bricolage-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:700;font-display:optional;src:url(/fonts/bricolage-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:800;font-display:optional;src:url(/fonts/bricolage-800.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:optional;src:url(/fonts/inter-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:optional;src:url(/fonts/inter-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:optional;src:url(/fonts/inter-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:optional;src:url(/fonts/inter-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 
     *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
     :root {
@@ -889,19 +892,19 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781561589880">
-<meta name="description" content="Adam Beyer is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.">
+<meta name="sc-build" content="1781562331148">
+<meta name="description" content="Adam Beyer is an electronic artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.">
 <link rel="canonical" href="https://soundcheck.club/a/adambeyer/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Adam Beyer — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Adam Beyer is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.">
+<meta property="og:description" content="Adam Beyer is an electronic artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.">
 <meta property="og:url" content="https://soundcheck.club/a/adambeyer/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/adambeyer.jpg?dateUpdated=1507716771000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Adam Beyer","url":"https://soundcheck.club/a/adambeyer/","description":"Adam Beyer is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.","image":"https://static.ra.co/images/profiles/square/adambeyer.jpg?dateUpdated=1507716771000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Adam Beyer","url":"https://soundcheck.club/a/adambeyer/","description":"Adam Beyer is an electronic artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.","image":"https://static.ra.co/images/profiles/square/adambeyer.jpg?dateUpdated=1507716771000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Adam Beyer</h1><p>Adam Beyer is an electronic artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.</p><p>15 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/adambeyer/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Adam Beyer</h1><p>Adam Beyer is an electronic artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: BK Backyard, Newyorkcity.</p><p>15 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/adambeyer/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
