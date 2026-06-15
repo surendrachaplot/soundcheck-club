@@ -892,7 +892,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781562331148">
+<meta name="sc-build" content="1781563024291">
 <meta name="description" content="Mad Radio Miami is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Blame (EC), Chuck Daniels, Darelectric and Discofuturo and 2 more. Browse dates, set times and who's playing. 7700 Biscayne Blvd, Miami, FL 33138.">
 <link rel="canonical" href="https://soundcheck.club/miami/v/mad-radio-miami/">
 <meta property="og:type" content="profile">
@@ -1086,6 +1086,8 @@
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
     function formatTime(iso){ if(!iso) return ''; var m=/T(\d{2}:\d{2})/.exec(iso); return m?m[1]:''; }
+    // "23:00 – 06:00" when both are known; just the start otherwise. fb = a non-ISO start (e.g. "23:00").
+    function formatTimeRange(s,e,fb){ var a=formatTime(s)||fb||'', b=formatTime(e); return (a&&b)?(a+' – '+b):a; }
     function normaliseSc(url){ if(!url) return null; var u=url.trim(); if(!/^https?:\/\//i.test(u)) u='https://'+u; u=u.replace(/^https?:\/\/www\.soundcloud\.com/i,'https://soundcloud.com'); return u.replace(/\/+$/,''); }
 
     var RE_FOLD=/\bfold\b/i, RE_MOT=/\bm\.?\s?o\.?\s?t\b/i, RE_PHONOX=/\bphonox\b/i, RE_ORMSIDE=/\bormside\b/i, RE_CARPET=/\bcarpet\s?shop\b/i;
@@ -1173,19 +1175,22 @@
     function gateForPlay(){
       if(hasEmail()) return Promise.resolve(true);
       if(playCount() < 1) return Promise.resolve(true);   // first one is free
-      return ensureEmailGate();
+      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile and save the artists you play. The music keeps playing in the meantime.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges
     // their anonymous picks. Also subscribes the email to the weekly list.
-    function ensureEmailGate(){
+    function ensureEmailGate(opts){
       if(hasEmail()) return Promise.resolve(true);
+      opts=opts||{};
+      var gHead=opts.heading||'Save it with a <span class="ac">free account</span>.';
+      var gBody=opts.body||'Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile.';
       return new Promise(function(resolve){
         var ov=document.createElement('div'); ov.className='email-overlay';
         ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
           '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
-          '<h3>Save it with a <span class="ac">free account</span>.</h3>'+
-          '<p>Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile. Nothing stops playing in the meantime.</p>'+
+          '<h3>'+gHead+'</h3>'+
+          '<p>'+gBody+'</p>'+
           '<form class="email-form"><input type="email" required placeholder="you@somewhere.com" autocomplete="email" /><button type="submit">Send my link</button></form>'+
           '<p class="email-err" aria-live="polite"></p></div>';
         document.body.appendChild(ov);
@@ -2903,7 +2908,7 @@
       var evs=(rows||[]).map(function(g){
         return { id:g.id, title:g.title, venue:g.venue,
           _day:fmtDateLabel(String(g.event_date).slice(0,10)),
-          startTime:g.start_time, poster:g.poster_url,
+          startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
           artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; }) };
       });
       el.innerHTML='<div class="grid">'+evs.map(cardHTML).join('')+'</div>';
@@ -3083,7 +3088,7 @@
             id:g.id, title:g.title, venue:g.venue,
             _city:g.city?cityLabel(g.city):'',
             _day:fmtDateLabel(String(g.event_date).slice(0,10)),
-            startTime:g.start_time, poster:g.poster_url,
+            startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
             artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; })
           };
         });
@@ -3171,7 +3176,7 @@
       catch(_){ return String(d||'').slice(0,10); }
     }
     function eventPageHTML(ev){
-      var time=formatTime(ev.startTime)||ev._time||'';
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
       var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
@@ -3207,6 +3212,7 @@
     function musicEventLD(ev){
       var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
       if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.endTime) o.endDate=ev.endTime;
       if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
       var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
       if(perf.length) o.performer=perf;
@@ -3218,7 +3224,7 @@
       // Always show the date: the fetched detail is authoritative (has event_date),
       // so fill the header's #ev-when even if the cached open had no/partial date.
       var when=document.getElementById('ev-when');
-      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTime(ev.startTime)||ev._time||''; when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';
@@ -3256,6 +3262,7 @@
       return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
         _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
         startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
         city:d.city, genres:d.genres||[], description:d.description||'',
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
@@ -3475,7 +3482,7 @@
       return html;
     }
     function cardHTML(ev){
-      var time=formatTime(ev.startTime);
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var pick=isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
