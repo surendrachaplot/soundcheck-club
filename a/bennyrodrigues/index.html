@@ -397,6 +397,9 @@
     .radio-fab .heart svg { width:var(--icon-sm); height:var(--icon-sm); }
     .rf-go { width:30px; height:30px; border-radius:999px; background:transparent; border:1px solid var(--accent); color:var(--accent); align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; padding:0; -webkit-tap-highlight-color:transparent; }
     .rf-go svg { width:var(--icon-sm); height:var(--icon-sm); }
+    /* explicit stop — filled accent so it reads as the primary "end" control */
+    .rf-stop { width:30px; height:30px; border-radius:999px; background:var(--accent); border:1px solid var(--accent); color:var(--accent-ink); align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; padding:0; -webkit-tap-highlight-color:transparent; }
+    .rf-stop svg { width:var(--icon-xs); height:var(--icon-xs); }
     .rf-go:hover { background:rgba(255,122,107,0.16); }
     /* while on air the pill shows on mobile too (above the nav) — the radio has no overlay */
     body.radio-on .fab-stack { display:flex; }
@@ -795,8 +798,10 @@
     @media (min-width:621px){
       body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
       body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
-      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
+      /* web: artist name + "next playing at venue" share one row (mobile stays stacked) */
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; flex-direction:row; align-items:baseline; gap:16px; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
+      body.radio-on .radio-fab .rf-sub { margin-top:0; }
       body.radio-on { padding-bottom:96px; }
     }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
@@ -884,7 +889,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781560743978">
+<meta name="sc-build" content="1781561283723">
 <meta name="description" content="Benny Rodrigues is an electronic artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 3 more. Often billed alongside Michel de Hey, Prunk and Joëlla Jackson. Next up: Colorado Charlie, Thehague.">
 <link rel="canonical" href="https://soundcheck.club/a/bennyrodrigues/">
 <meta property="og:type" content="profile">
@@ -1018,6 +1023,7 @@
       <div class="rf-tx" id="radio-fab-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></div>
       <button class="heart rf-act" id="radio-fab-heart" type="button" aria-label="Heart this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
       <button class="rf-act rf-go" id="radio-fab-go" type="button" aria-label="Open artist page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg></button>
+      <button class="rf-act rf-stop" id="radio-fab-stop" type="button" aria-label="Stop radio"><svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="6" width="12" height="12" rx="2"/></svg></button>
     </div>
   </div>
 
@@ -2350,9 +2356,10 @@
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
       }catch(_){}
     }
-    document.getElementById('radio-fab-main').addEventListener('click',function(){ startRadio(); });
+    document.getElementById('radio-fab-main').addEventListener('click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
     // text block is no longer inside the play button — clicking it while idle still starts radio
     document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
+    document.getElementById('radio-fab-stop').addEventListener('click',function(e){ e.stopPropagation(); if(typeof radioStop==='function') radioStop(); });
     document.getElementById('radio-fab-heart').addEventListener('click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
     });
@@ -3497,29 +3504,16 @@
       s.position=''; s.top=''; s.left=''; s.right=''; s.width='';
       window.scrollTo(0, savedScrollY);
     }
+    // The quick-peek bottom sheet is retired — every event tap now goes straight to
+    // the full event page. Kept as a thin shim so existing callers keep working;
+    // if an event somehow has no canonical id there's no page to open, so ignore.
     function openSheet(ev){
-      if(!ev) return;
-      var time=formatTime(ev.startTime), eid=ev.id!=null?String(ev.id):'';
-      var evPicked = eid && isEventPicked(eid) ? ' on' : '';
-      var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
-      var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
-      sheetContent.innerHTML=
-        posterHTML(ev)+
-        '<div class="sheet-body">'+
-          (isPickVenue(ev.venue)?'<span class="pick">Pick</span><br>':'')+
-          '<h3>'+esc(ev.title)+(eid?' <a class="see-more" role="button" tabindex="0" data-see-more="'+esc(eid)+'">See more &rsaquo;</a>':'')+'</h3>'+
-          '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-          (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share this event</span></div>' : '')+
-          ((eid&&(ev.artists||[]).length)?'<button class="ev-radio" type="button">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-          '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-          soloCtaHTML(ev)+
-        '</div>';
-      wireCard(sheetContent);
-      var sm=sheetContent.querySelector('.see-more');
-      if(sm) sm.addEventListener('click',function(){ if(eid) openEvent(eid); });
-      var srb=sheetContent.querySelector('.ev-radio');
-      if(srb) srb.addEventListener('click',function(){ startEventRadio(ev); });
-      sheetOv.classList.add('show'); lockBody();
+      if(!ev || ev.id==null) return;
+      var id=String(ev.id);
+      // seed the cache so the page paints instantly (cards on artist/venue/upcoming
+      // pages aren't in rebuildLookup), then enrich from /api/event.
+      if(lookup && lookup.byEvent && !lookup.byEvent[id]) lookup.byEvent[id]=ev;
+      openEvent(id);
     }
     function closeSheet(){ if(!sheetOv.classList.contains('show')) return; sheetOv.classList.remove('show'); unlockBody(); }
     document.getElementById('sheet-close').addEventListener('click',closeSheet);
