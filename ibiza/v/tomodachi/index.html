@@ -889,7 +889,7 @@
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
   </style>
-<meta name="sc-build" content="1781561283723">
+<meta name="sc-build" content="1781561589880">
 <meta name="description" content="Tomodachi is a music venue in Ibiza listed on soundcheck. 39 upcoming nights. Browse dates, set times and who's playing. Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain.">
 <link rel="canonical" href="https://soundcheck.club/ibiza/v/tomodachi/">
 <meta property="og:type" content="profile">
@@ -1492,7 +1492,7 @@
     }
     function radioStop(){
       if(radio.tick){ clearInterval(radio.tick); radio.tick=null; }
-      try{ if(_radioVo){ _radioVo.pause(); } }catch(_){} // stop any station-ID clip
+      try{ if('speechSynthesis' in window) window.speechSynthesis.cancel(); }catch(_){} // stop any station-ID voice
       try{ if(radioYt && radioYt.pauseVideo) radioYt.pauseVideo(); }catch(_){} // keep player alive (stays unlocked)
       radio.on=false; radio.queue=[]; radio.i=-1; radio.played=0; radioScPlaying=false;
       document.body.classList.remove('radio-on');
@@ -1539,20 +1539,41 @@
       showToast('Couldn’t find sets to play.');
       stopActive();
     }
-    // Station-ID voiceover: pre-recorded clips, a random one each time, played
-    // at the start of the radio and between DJs.
-    var RADIO_VO=['sc-id-1.mp3','sc-id-2.mp3','sc-id-3.mp3'];
-    var _radioVo=null;
-    function radioVoEl(){ if(!_radioVo){ _radioVo=new Audio(); _radioVo.preload='auto'; } return _radioVo; }
+    // Station ID: an auto-generated voice (Web Speech API) instead of canned mp3
+    // clips — a short spoken line at the start of the radio and between DJs. The
+    // voice is chosen once from the most natural-sounding one the device offers.
+    var RADIO_LINES=[
+      'You are locked into Soundcheck Radio.',
+      'This is Soundcheck Radio.',
+      'Soundcheck. The sound of the city.',
+      'Soundcheck Radio. Nonstop, all night.',
+      'You are listening to Soundcheck.'
+    ];
+    var _scVoice=null, _scVoicePicked=false;
+    function pickRadioVoice(){
+      if(_scVoicePicked) return _scVoice;
+      if(!('speechSynthesis' in window)){ _scVoicePicked=true; return null; }
+      var vs=window.speechSynthesis.getVoices()||[];
+      if(!vs.length) return null; // not loaded yet — retry on next call / voiceschanged
+      _scVoicePicked=true;
+      // prefer known natural/premium voices, then any English voice, then anything
+      var prefer=[/Google UK English Female/i,/Google US English/i,/Samantha/i,/Serena/i,/Microsoft Aria/i,/Microsoft Jenny/i,/natural/i,/enhanced/i,/premium/i];
+      for(var p=0;p<prefer.length;p++){ for(var i=0;i<vs.length;i++){ if(prefer[p].test(vs[i].name)){ _scVoice=vs[i]; return _scVoice; } } }
+      for(var j=0;j<vs.length;j++){ if(/^en(-|_|$)/i.test(vs[j].lang)){ _scVoice=vs[j]; return _scVoice; } }
+      _scVoice=vs[0]; return _scVoice;
+    }
+    if('speechSynthesis' in window){ try{ window.speechSynthesis.onvoiceschanged=function(){ _scVoicePicked=false; pickRadioVoice(); }; pickRadioVoice(); }catch(_){} }
     function radioPlayVo(onDone){
       var done=false, fin=function(){ if(done) return; done=true; if(onDone) onDone(); };
       try{
-        var a=radioVoEl();
-        a.onended=fin; a.onerror=fin;
-        a.src=SC_BASE+'audio/'+RADIO_VO[Math.floor(Math.random()*RADIO_VO.length)]+'?v=3'; // bump on new clips to bust caches
-        a.currentTime=0; a.volume=1;
-        var p=a.play(); if(p&&p.catch) p.catch(fin);
-        setTimeout(fin, 5000); // safety: never let a stuck clip stall the radio
+        if(!('speechSynthesis' in window)) return fin();
+        var u=new SpeechSynthesisUtterance(RADIO_LINES[Math.floor(Math.random()*RADIO_LINES.length)]);
+        var v=pickRadioVoice(); if(v){ u.voice=v; u.lang=v.lang; } else { u.lang='en-GB'; }
+        u.rate=0.96; u.pitch=1.0; u.volume=1.0;
+        u.onend=fin; u.onerror=fin;
+        window.speechSynthesis.cancel();   // clear any stuck/queued utterance
+        window.speechSynthesis.speak(u);
+        setTimeout(fin, 6000); // safety: never let a stuck voice stall the radio
       }catch(_){ fin(); }
     }
     // Calling this from the start tap also UNLOCKS the audio element on iOS, so
@@ -2890,6 +2911,7 @@
         var open=function(e){ e.preventDefault(); e.stopPropagation(); openSheet(ev); };
         var p=c.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
         var t=c.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
+        var rb=c.querySelector('.ev-radio'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
       });
     }
 
