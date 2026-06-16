@@ -599,6 +599,14 @@
     .prof-statline { flex:1; color:var(--muted); font-size:var(--fs-sm); line-height:1.5; }
     .prof-statline b { color:var(--fg); font-weight:700; }
     .prof-head .follow-btn { flex:none; }
+    /* account = profile + settings: editable avatar + quick-action chips */
+    .prof-head .av-edit { position:relative; padding:0; border:none; background:none; cursor:pointer; flex:none; -webkit-tap-highlight-color:transparent; }
+    .prof-head .av-edit .cam { position:absolute; right:-2px; bottom:-2px; width:22px; height:22px; border-radius:999px; background:var(--accent); color:var(--ink); border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; }
+    .prof-head .av-edit .cam svg { width:var(--icon-xs); height:var(--icon-xs); }
+    .acc-chips { display:flex; gap:9px; flex-wrap:wrap; margin:14px 0 4px; }
+    .acc-chip { display:inline-flex; align-items:center; gap:7px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 14px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
+    .acc-chip:hover { border-color:var(--accent); color:var(--accent); }
+    .acc-chip svg { width:var(--icon-sm); height:var(--icon-sm); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     @media (max-width:620px){
       .prof-head { flex-wrap:wrap; }
       .prof-id { flex:1; }
@@ -929,7 +937,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781614116449">
+<meta name="sc-build" content="1781614857950">
 <meta name="description" content="[UNVRS] is a music venue in Ibiza listed on soundcheck. 91 upcoming nights, with line-ups including 19:26, 8KAYS, Artbat and Adam Sellouk and 2 more. Browse dates, set times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.">
 <link rel="canonical" href="https://soundcheck.club/ibiza/v/unvrs/">
 <meta property="og:type" content="profile">
@@ -2288,8 +2296,7 @@
         if(!r.ok){ showToast(j.error||'Upload failed.'); return; }
         currentUser.avatar=j.avatar||null;
         renderAccount();
-        var hb=document.querySelector('.hub-head .av-lg'); if(hb) hb.style.backgroundImage=avatarBg(currentUser.handle,currentUser.avatar);
-        var rm=document.getElementById('hub-avatar-rm'); if(rm && !currentUser.avatar) rm.remove();
+        if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
         showToast(file?'Photo updated ✓':'Photo removed');
       }catch(_){ showToast('Upload failed.'); }
     }
@@ -2778,47 +2785,56 @@
     };
     function hubRow(id, ic, t, d, cls){ return '<button class="hub-row '+(cls||'')+'" id="'+id+'" type="button"><span class="hr-ic">'+ic+'</span><span class="hr-tx"><span class="hr-t">'+t+'</span>'+(d?'<span class="hr-d">'+d+'</span>':'')+'</span><span class="hr-ch">&rsaquo;</span></button>'; }
     // Account hub — Concept B: stat cards + action tiles + recent diary.
+    // Account = your own profile (same header + Shelves/Diary as /u/) plus a Settings
+    // tab and quick-action chips. Reuses shelfSecHTML/diaryTLHTML/wireShelfBody.
     function openAccount(){
       if(!currentUser){ openAuth(); return; }
       setRoute('account');
-      openPanel('<div class="hub-head"><button class="av-edit" id="hub-avatar" type="button" aria-label="Change photo"><span class="av-lg" style="background-image:'+avatarBg(currentUser.handle,currentUser.avatar)+'"></span><span class="cam"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3z"/><circle cx="12" cy="13" r="3"/></svg></span></button><div><div class="hh-name">u/'+esc(currentUser.handle)+'</div><div class="hh-stat" id="hub-stat">your account</div>'+(currentUser.avatar?'<button class="linklike" id="hub-avatar-rm" type="button" style="background:none;border:none;color:var(--muted);font:600 var(--fs-xs) var(--body);cursor:pointer;padding:4px 0 0;text-decoration:underline">Remove photo</button>':'')+'</div></div><div id="hub-rest"><div class="empty">Loading…</div></div>');
-      document.getElementById('hub-avatar').addEventListener('click',pickAvatar);
-      var rmAv=document.getElementById('hub-avatar-rm'); if(rmAv) rmAv.addEventListener('click',function(){ uploadAvatar(null); });
+      openPanel('<div id="acc-body"><div class="empty">Loading…</div></div>');
       authedFetch('/api/profile?handle='+encodeURIComponent(currentUser.handle)).then(function(r){ return r.json(); }).then(function(p){
-        var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[]}, diary=(p&&p.diary)||[];
-        var st=document.getElementById('hub-stat'); if(st&&p&&p.handle) st.innerHTML='<b>'+(p.followers||0)+'</b> followers &middot; <b>'+(p.following||0)+'</b> following';
-        var h='<div class="hub-stats">'+
-            '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+s.wannaSee.length+'</div><div class="l">Wanna see</div></button>'+
-            '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+s.seen.length+'</div><div class="l">Seen live</div></button>'+
-            '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+diary.length+'</div><div class="l">Gigs</div></button>'+
-          '</div>'+
-          '<div class="hub-tiles">'+
-            hubTile('hub-upcoming', HUB_IC.upcoming, 'Coming up', 'For you')+
-            hubTile('hub-picks', HUB_IC.picks, 'My picks', 'Wanna-see &amp; saved')+
-            hubTile('hub-profile', HUB_IC.profile, 'My profile', 'How others see you')+
-            hubTile('hub-feed', HUB_IC.feed, 'Feed', 'Your follows')+
-            hubTile('hub-log', HUB_IC.log, 'Log a gig', 'Add to diary')+
+        var handle=currentUser.handle;
+        var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[],venues:[]}, diary=(p&&p.diary)||[];
+        var followers=(p&&p.followers)||0;
+        var cam='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3z"/><circle cx="12" cy="13" r="3"/></svg>';
+        var head='<div class="prof-head">'+
+          '<button class="av-edit" id="acc-avatar" type="button" aria-label="Change photo"><span class="prof-av" style="background-image:'+avatarBg(handle,currentUser.avatar)+'"></span><span class="cam">'+cam+'</span></button>'+
+          '<div class="prof-id"><div class="prof-nm">u/'+esc(handle)+'</div><div class="prof-hn">your account</div></div>'+
+          '<div class="prof-statline"><b>'+s.seen.length+'</b> seen &middot; <b>'+s.wannaSee.length+'</b> wanna see &middot; <b>'+diary.length+'</b> gig'+(diary.length===1?'':'s')+' &middot; <b>'+followers+'</b> follower'+(followers===1?'':'s')+'</div>'+
           '</div>';
-        if(diary.length){
-          h+='<div class="hub-diary"><div class="sec-h">Recent diary <span class="more" id="hub-diary-all">All</span></div>'+
-            diary.slice(0,3).map(function(d){ var arts=(d.artists||[]).map(function(a){return a.name||a.slug;}).join(', '); return '<div class="row" data-open-prof="1"><div class="th" style="background:'+artGrad(d.venue||arts||'x')+'"></div><div style="flex:1;min-width:0"><div style="font-weight:600">'+esc(d.venue||'Gig')+'</div><div class="muted" style="font-size:var(--fs-xs)">'+esc(arts)+'</div></div>'+(d.rating?starStr(d.rating):'')+'</div>'; }).join('')+
+        var chips='<div class="acc-chips">'+
+          '<button class="acc-chip" id="acc-coming" type="button">'+HUB_IC.upcoming+'Coming up</button>'+
+          '<button class="acc-chip" id="acc-feed" type="button">'+HUB_IC.feed+'Feed</button>'+
+          '<button class="acc-chip" id="acc-log" type="button">'+HUB_IC.log+'Log a gig</button>'+
+        '</div>';
+        var tabs='<div class="prof-tabs"><button data-atab="shelves" class="on">Shelves</button><button data-atab="diary">Diary</button><button data-atab="settings">Settings</button></div><div id="acc-tabbody"></div>';
+        var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+chips+tabs;
+        document.getElementById('acc-avatar').addEventListener('click',pickAvatar);
+        document.getElementById('acc-coming').addEventListener('click',openUpcoming);
+        document.getElementById('acc-feed').addEventListener('click',openFeed);
+        document.getElementById('acc-log').addEventListener('click',openLog);
+        var body=document.getElementById('acc-tabbody');
+        function settingsHTML(){
+          return '<div style="max-width:520px">'+
+            '<button class="hub-row" id="acc-handle" type="button"><span class="hr-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"/></svg></span><span class="hr-tx"><span class="hr-t">Change handle</span><span class="hr-d">u/'+esc(handle)+'</span></span><span class="hr-ch">&rsaquo;</span></button>'+
+            '<button class="hub-row" id="acc-photo" type="button" style="margin-top:10px"><span class="hr-ic">'+cam+'</span><span class="hr-tx"><span class="hr-t">'+(currentUser.avatar?'Change photo':'Add a photo')+'</span></span><span class="hr-ch">&rsaquo;</span></button>'+
+            (currentUser.avatar?'<button class="hub-row" id="acc-photo-rm" type="button" style="margin-top:10px"><span class="hr-tx"><span class="hr-t">Remove photo</span></span></button>':'')+
+            '<button class="hub-row danger" id="acc-out" type="button" style="margin-top:10px"><span class="hr-ic">'+HUB_IC.out+'</span><span class="hr-tx"><span class="hr-t">Sign out</span></span></button>'+
           '</div>';
         }
-        h+='<div style="margin-top:22px;max-width:520px">'+
-          '<button class="hub-row" id="hub-handle" type="button"><span class="hr-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"/></svg></span><span class="hr-tx"><span class="hr-t">Change handle</span><span class="hr-d">u/'+esc(currentUser.handle)+'</span></span><span class="hr-ch">&rsaquo;</span></button>'+
-          '<button class="hub-row danger" id="hub-out" type="button" style="margin-top:10px"><span class="hr-ic">'+HUB_IC.out+'</span><span class="hr-tx"><span class="hr-t">Sign out</span></span></button>'+
-        '</div>';
-        var rest=document.getElementById('hub-rest'); if(!rest) return; rest.innerHTML=h;
-        document.getElementById('hub-handle').addEventListener('click',function(){ openHandleModal(true); });
-        document.getElementById('hub-upcoming').addEventListener('click',openUpcoming);
-        document.getElementById('hub-picks').addEventListener('click',openMyPicks);
-        document.getElementById('hub-profile').addEventListener('click',function(){ openProfile(currentUser.handle); });
-        document.getElementById('hub-feed').addEventListener('click',openFeed);
-        document.getElementById('hub-log').addEventListener('click',openLog);
-        document.getElementById('hub-out').addEventListener('click',signOut);
-        var all=document.getElementById('hub-diary-all'); if(all) all.addEventListener('click',function(){ openProfile(currentUser.handle); });
-        rest.querySelectorAll('[data-open-prof],[data-go-prof]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(currentUser.handle); }); });
-      }).catch(function(){ var rest=document.getElementById('hub-rest'); if(rest) rest.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
+        function showTab(t){
+          if(t==='shelves'){ body.innerHTML=shelfSecHTML(s, handle); wireShelfBody(body, s, handle); }
+          else if(t==='diary'){ body.innerHTML=diaryTLHTML(diary); }
+          else {
+            body.innerHTML=settingsHTML();
+            var hb=document.getElementById('acc-handle'); if(hb) hb.addEventListener('click',function(){ openHandleModal(true); });
+            var ph=document.getElementById('acc-photo'); if(ph) ph.addEventListener('click',pickAvatar);
+            var pr=document.getElementById('acc-photo-rm'); if(pr) pr.addEventListener('click',function(){ uploadAvatar(null); });
+            var ob=document.getElementById('acc-out'); if(ob) ob.addEventListener('click',signOut);
+          }
+        }
+        showTab('shelves');
+        ab.querySelectorAll('.prof-tabs [data-atab]').forEach(function(b){ b.addEventListener('click',function(){ b.parentNode.querySelectorAll('button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.atab); }); });
+      }).catch(function(){ var ab=document.getElementById('acc-body'); if(ab) ab.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
     }
 
     // ════ Phase 3/4: profiles · feed · artist/venue · diary (account features) ════
@@ -2874,6 +2890,22 @@
     function hubTile(id,ic,t,d){ return '<button class="hub-tile" id="'+id+'" type="button"><span class="ic">'+ic+'</span><div class="t">'+t+'</div><div class="d">'+d+'</div></button>'; }
 
     // ---- profile ----
+    // Shared shelf + diary renderers — used by the public profile AND the account
+    // page so they stay identical (DRY).
+    function shelfSecHTML(s, handle){
+      function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
+      var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
+      x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
+      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ return '<li><span class="open-ev">'+esc(e.title||'Event')+' <small>'+esc(e.venue||'')+'</small></span></li>'; }).join('')+'</ul>'; }
+      if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
+      return x;
+    }
+    function diaryTLHTML(diary){ return diary.length ? '<div class="prof-tl">'+diary.map(function(d,i){ var arts=(d.artists||[]).map(function(a){return a.name||a.slug;}).join(', '); return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card"><div class="vn">'+esc(d.venue||'Gig')+'</div><div class="mt">'+esc(d.gig_date||'')+(arts?(' &middot; '+esc(arts)):'')+(d.rating?(' &middot; '+starStr(d.rating)):'')+'</div>'+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>'; }).join('')+'</div>' : '<div class="empty">No gigs logged yet.</div>'; }
+    function wireShelfBody(body, s, handle){
+      body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); });
+      body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+handle+':'+w).then(function(){ var st='shelf:'+handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); });
+    }
     async function openProfile(handle){
       setRoute('u/'+handle);
       openPanel('<div class="empty">Loading u/'+esc(handle)+'…</div>');
@@ -2893,19 +2925,12 @@
         wireProfile();
         var ptc=document.getElementById('prof-tc'); if(ptc) ptc.addEventListener('click',function(){ openTasteCard(ptc.dataset.handle); });
         var TAB={
-          shelves:function(){
-            function radBtn(which){ var st='shelf:'+p.handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
-            var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
-            x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
-            if(s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ return '<li><span class="open-ev">'+esc(e.title||'Event')+' <small>'+esc(e.venue||'')+'</small></span></li>'; }).join('')+'</ul>'; }
-            if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
-            return x;
-          },
-          diary:function(){ return diary.length ? '<div class="prof-tl">'+diary.map(function(d,i){ var arts=(d.artists||[]).map(function(a){return a.name||a.slug;}).join(', '); return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card"><div class="vn">'+esc(d.venue||'Gig')+'</div><div class="mt">'+esc(d.gig_date||'')+(arts?(' &middot; '+esc(arts)):'')+(d.rating?(' &middot; '+starStr(d.rating)):'')+'</div>'+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>'; }).join('')+'</div>' : '<div class="empty">No gigs logged yet.</div>'; },
+          shelves:function(){ return shelfSecHTML(s, p.handle); },
+          diary:function(){ return diaryTLHTML(diary); },
           network:function(){ return '<div class="panel-stat"><span><b>'+(p.followers||0)+'</b> followers</span><span><b>'+(p.following||0)+'</b> following</span></div>'; }
         };
         var body=document.getElementById('prof-tabbody');
-        function showTab(t){ body.innerHTML=TAB[t](); body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); }); body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); }); body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+p.handle+':'+w).then(function(){ var st='shelf:'+p.handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); }); }
+        function showTab(t){ body.innerHTML=TAB[t](); wireShelfBody(body, s, p.handle); }
         showTab('shelves');
         panelBody.querySelectorAll('.prof-tabs [data-tab]').forEach(function(b){ b.addEventListener('click',function(){ panelBody.querySelectorAll('.prof-tabs button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.tab); }); });
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
