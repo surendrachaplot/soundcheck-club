@@ -615,17 +615,17 @@
     .artist-head .artist-av img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
     .artist-head-tx h3 { margin:0; }
     /* artist page: big square hero photo, name underneath (artist only — not venue) */
-    /* compact horizontal header — avatar + name/socials + actions on one row (was a tall stacked column) */
-    .artist-head.artist-hero { align-items:center; gap:18px; flex-wrap:wrap; }
+    /* header row — avatar + name/socials, with the description alongside on desktop;
+       action buttons go on their own row below (was a tall stacked column). */
+    .artist-head.artist-hero { align-items:center; gap:18px 22px; flex-wrap:wrap; }
     .artist-head.artist-hero .artist-av { width:88px; height:88px; border-radius:18px; }
-    .artist-head.artist-hero .artist-head-tx { flex:1 1 200px; min-width:0; }
+    .artist-head.artist-hero .artist-head-tx { flex:0 0 auto; min-width:0; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
-    .artist-head.artist-hero .artist-actions { margin:0; flex:0 0 auto; }
+    .artist-head.artist-hero .seo-desc { flex:1 1 280px; margin:0; max-width:620px; }
     @media (max-width:620px){
       .artist-head.artist-hero { flex-direction:column; align-items:flex-start; gap:14px; }
       .artist-head.artist-hero .artist-av { width:min(112px,28vw); height:min(112px,28vw); }
-      .artist-head.artist-hero .artist-head-tx { flex:0 0 auto; }
-      .artist-head.artist-hero .artist-actions { flex-basis:100%; width:100%; max-width:none; }
+      .artist-head.artist-hero .seo-desc { flex-basis:auto; }
     }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* external link pills (artist socials / venue website) */
@@ -929,7 +929,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781613553424">
+<meta name="sc-build" content="1781613893493">
 <meta name="description" content="Danny Howard is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 16 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: Pacha Ibiza, Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/dannyhoward/">
 <meta property="og:type" content="profile">
@@ -3151,9 +3151,10 @@
           '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
-        // Compact header row: avatar + name/socials + actions (was a tall stacked hero).
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+actions+'</div>';
-        if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
+        // Header row: avatar + name/socials, with the description alongside on desktop.
+        // Action buttons sit on their own row below.
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        h+=actions;
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
