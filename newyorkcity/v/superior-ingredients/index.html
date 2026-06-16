@@ -584,16 +584,20 @@
     .hub-diary .th { width:40px; height:40px; border-radius:9px; flex-shrink:0; }
 
     /* ── public profile (A/C hybrid): cover + stat strip + tabs + poster shelves + diary timeline ── */
-    .prof-cover { height:128px; border-radius:14px; background:linear-gradient(120deg,var(--accent),#1c1c23 82%); margin-bottom:-36px; }
-    .prof-head { display:flex; align-items:flex-end; justify-content:space-between; padding:0 4px; position:relative; }
-    .prof-av { width:76px; height:76px; border-radius:999px; background:linear-gradient(140deg,var(--accent),#c8503f); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-family:var(--head); font-weight:800; font-size:var(--fs-xl); border:3px solid var(--bg); text-transform:uppercase; }
-    .prof-nm { font-family:var(--head); font-weight:800; font-size:var(--fs-xl); letter-spacing:-0.02em; margin-top:12px; }
-    .prof-hn { color:var(--muted); font-size:var(--fs-base); }
-    .prof-stat { display:flex; border:1px solid var(--border); border-radius:12px; overflow:hidden; margin:16px 0 0; max-width:520px; }
-    .prof-stat div { flex:1; text-align:center; padding:11px 4px; border-right:1px solid var(--border); }
-    .prof-stat div:last-child { border-right:none; }
-    .prof-stat .n { font-family:var(--head); font-weight:800; font-size:var(--fs-md); }
-    .prof-stat .l { font-size:var(--fs-xs); letter-spacing:0.12em; text-transform:uppercase; color:var(--muted); margin-top:2px; }
+    /* compact header — same grammar as the artist/venue pages, stats on one line */
+    .prof-head { display:flex; align-items:center; gap:15px; margin:2px 0 0; }
+    .prof-av { width:60px; height:60px; border-radius:999px; flex:none; background:linear-gradient(140deg,var(--accent),#c8503f); border:none; }
+    .prof-id { min-width:0; }
+    .prof-nm { font-family:var(--head); font-weight:800; font-size:var(--fs-lg); letter-spacing:-0.02em; line-height:1.1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .prof-hn { color:var(--muted); font-size:var(--fs-sm); margin-top:1px; }
+    .prof-statline { flex:1; color:var(--muted); font-size:var(--fs-sm); line-height:1.5; }
+    .prof-statline b { color:var(--fg); font-weight:700; }
+    .prof-head .follow-btn { flex:none; }
+    @media (max-width:620px){
+      .prof-head { flex-wrap:wrap; }
+      .prof-id { flex:1; }
+      .prof-statline { flex-basis:100%; order:3; margin-top:2px; }
+    }
     .prof-tabs { display:flex; gap:20px; border-bottom:1px solid var(--border); margin:20px 0 18px; }
     .prof-tabs button { background:none; border:none; color:var(--muted); font:700 var(--fs-sm) var(--body); padding:6px 2px 12px; cursor:pointer; border-bottom:2px solid transparent; }
     .prof-tabs button.on { color:var(--fg); border-bottom-color:var(--accent); }
@@ -910,7 +914,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781605502823">
+<meta name="sc-build" content="1781610538079">
 <meta name="description" content="Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 23 upcoming nights, with line-ups including Aazure, AC Slater, Andrew Azara and Ankhoï and 2 more. Browse dates, set times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.">
 <link rel="canonical" href="https://soundcheck.club/newyorkcity/v/superior-ingredients/">
 <meta property="og:type" content="profile">
@@ -2842,10 +2846,11 @@
         if(r.status===404){ openPanel('<div class="empty">No soundcheck user u/'+esc(handle)+'.</div>'); return; }
         var p=await r.json();
         var s=p.shelves||{wannaSee:[],seen:[],events:[]}, diary=p.diary||[];
-        var head='<div class="prof-cover"></div><div class="prof-head"><span class="prof-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
-          (p.isMe?'':'<button class="follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button>')+'</div>'+
-          '<div class="prof-nm">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="prof-hn">u/'+esc(p.handle)+'</div>'+
-          '<div class="prof-stat"><div><div class="n">'+s.seen.length+'</div><div class="l">Seen</div></div><div><div class="n">'+s.wannaSee.length+'</div><div class="l">Wanna see</div></div><div><div class="n">'+diary.length+'</div><div class="l">Gigs</div></div><div><div class="n">'+(p.followers||0)+'</div><div class="l">Followers</div></div></div>';
+        var head='<div class="prof-head"><span class="prof-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
+          '<div class="prof-id"><div class="prof-nm">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="prof-hn">u/'+esc(p.handle)+'</div></div>'+
+          '<div class="prof-statline"><b>'+s.seen.length+'</b> seen &middot; <b>'+s.wannaSee.length+'</b> wanna see &middot; <b>'+diary.length+'</b> gig'+(diary.length===1?'':'s')+' &middot; <b>'+(p.followers||0)+'</b> follower'+((p.followers||0)===1?'':'s')+'</div>'+
+          (p.isMe?'':'<button class="follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button>')+
+          '</div>';
         if(!p.locked && ((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length))) head += '<button class="tc-cta" id="prof-tc" data-handle="'+esc(p.handle)+'" style="margin-top:16px">◆ '+(p.isMe?'Share your taste card':(esc('u/'+p.handle)+'’s taste card'))+'</button>';
         if(p.locked){ openPanel(head+'<div class="empty" style="margin-top:18px">This profile is private.</div>'); wireProfile(); return; }
         openPanel(head+'<div class="prof-tabs"><button data-tab="shelves" class="on">Shelves</button><button data-tab="diary">Diary</button><button data-tab="network">Network</button></div><div id="prof-tabbody"></div>');
@@ -2853,8 +2858,8 @@
         var ptc=document.getElementById('prof-tc'); if(ptc) ptc.addEventListener('click',function(){ openTasteCard(ptc.dataset.handle); });
         var TAB={
           shelves:function(){
-            var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')</div>'+(s.wannaSee.length?'<div class="ptiles">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
-            x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')</div>'+(s.seen.length?'<div class="ptiles">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
+            var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
+            x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
             if(s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ return '<li><span class="open-ev">'+esc(e.title||'Event')+' <small>'+esc(e.venue||'')+'</small></span></li>'; }).join('')+'</ul>'; }
             if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
             return x;
