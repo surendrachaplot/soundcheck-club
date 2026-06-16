@@ -285,7 +285,7 @@
     .scrub .bar-knob { position:absolute; top:50%; left:0%; width:13px; height:13px; border-radius:999px; background:var(--accent); transform:translate(-50%,-50%); box-shadow:0 1px 4px rgba(0,0,0,0.45); }
 
     /* expanded: video left, name + transport + scrubber centered on the right */
-    .dock.expanded .panel { display:flex; gap:22px; align-items:center; }
+    .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:42px; }
     .dock.expanded .thumb { display:none; }
     .dock.expanded .main { flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; gap:14px; padding-right:80px; }
     .dock.expanded .info { text-align:center; }
@@ -309,7 +309,7 @@
        grab-handle (tap to collapse). No fiddly corner chevron. */
     .dock:not(.expanded) .panel { cursor:pointer; }
     .dock-grab { display:none; }
-    .dock.expanded .dock-grab { display:flex; position:absolute; top:0; left:50%; transform:translateX(-50%); width:120px; height:26px; align-items:center; justify-content:center; cursor:pointer; z-index:4; -webkit-tap-highlight-color:transparent; }
+    .dock.expanded .dock-grab { display:flex; position:absolute; top:9px; left:50%; transform:translateX(-50%); width:120px; height:26px; align-items:center; justify-content:center; cursor:pointer; z-index:4; -webkit-tap-highlight-color:transparent; }
     .dock.expanded .dock-grab span { width:40px; height:4px; border-radius:99px; background:rgba(255,255,255,0.3); transition:background .15s; }
     .dock.expanded .dock-grab:hover span, .dock.expanded .dock-grab:focus-visible span { background:var(--accent); }
     .dock.expanded .dock-grab:focus-visible { outline:none; }
@@ -916,7 +916,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781611598223">
+<meta name="sc-build" content="1781611880285">
 <meta name="description" content="THE MAGICK BAR is a music venue in Rome listed on soundcheck. 18 upcoming nights, with line-ups including Binh, Cassy, DJ Masda and DJ Red and 2 more. Browse dates, set times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.">
 <link rel="canonical" href="https://soundcheck.club/rome/v/the-magick-bar/">
 <meta property="og:type" content="profile">
@@ -1444,8 +1444,11 @@
       f.allow='autoplay; encrypted-media; picture-in-picture';
       f.allowFullscreen=true;
       f.width=String(sz.w); f.height=String(sz.h);
+      // controls=0 hides YouTube's whole native control bar (scrubber, CC, settings,
+      // share/link, fullscreen) — we drive playback with our own dock transport +
+      // scrubber. rel=0 + modestbranding + iv_load_policy=3 strip the rest of the chrome.
       f.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+
-            '?enablejsapi=1&autoplay=1&rel=0&playsinline=1&start='+start+'&origin='+encodeURIComponent(location.origin);
+            '?enablejsapi=1&autoplay=1&controls=0&rel=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&fs=0&disablekb=1&playsinline=1&start='+start+'&origin='+encodeURIComponent(location.origin);
       dockMedia.innerHTML=''; dockMedia.appendChild(f);
       function build(){
         ytPlayer=new YT.Player(f,{
