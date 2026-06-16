@@ -997,7 +997,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781626681952">
+<meta name="sc-build" content="1781626923749">
 <meta name="description" content="renae is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Adele Tondu, AdomasLP, Akamwave and Aletha and 2 more. Browse dates, set times and who's playing. 45-47 Thomas St, Manchester M4 1NA.">
 <link rel="canonical" href="https://soundcheck.club/manchester/v/renae/">
 <meta property="og:type" content="profile">
@@ -3124,15 +3124,27 @@
         if(!A.length && !V.length && !F.length){
           openPanel('<h3>Coming up</h3><div class="empty">Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.</div>'); return;
         }
-        var h='<h3>Coming up</h3><div class="sub" style="margin-bottom:4px">Next shows from the artists, venues &amp; people you follow.</div>';
-        if(A.length) h+=upSection('Artists', A, 'artist');
-        if(V.length) h+=upSection('Venues', V, 'venue');
-        if(F.length) h+=upSection('Friends', F, 'friend');
-        openPanel(h); wireUpcoming();
+        var feeds={ artists:{list:A,kind:'artist'}, venues:{list:V,kind:'venue'}, friends:{list:F,kind:'friend'} };
+        function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
+        var h='<h3>Coming up</h3>'+
+          '<div class="upc-tabs" role="tablist">'+
+            '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(A.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(V.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(F.length)+'</button>'+
+          '</div><div id="upc-body"></div>';
+        openPanel(h);
+        var EMPTY={ artists:'Heart some artists &mdash; their next shows show up here.', venues:'Follow venues &mdash; their upcoming nights land here.', friends:'Follow people &mdash; the gigs they wanna see appear here.' };
+        var bodyEl=document.getElementById('upc-body');
+        function showTab(tab){
+          panelBody.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          var f=feeds[tab];
+          if(!f.list.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
+          bodyEl.innerHTML='<ul class="cu-list">'+f.list.map(function(e){ return upRow(e, f.kind); }).join('')+'</ul>';
+          wireUpcoming();
+        }
+        panelBody.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        showTab(A.length?'artists':V.length?'venues':'friends');
       }catch(_){ openPanel('<h3>Coming up</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
-    }
-    function upSection(title, list, kind){
-      return '<div class="sec-h" style="margin-top:22px">'+title+' ('+list.length+')</div><ul class="cu-list">'+list.map(function(e){ return upRow(e, kind); }).join('')+'</ul>';
     }
     function upAv(kind, key, name, image, avatar){
       var sq = kind==='venue' ? ' sq' : '';
