@@ -929,7 +929,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781613893493">
+<meta name="sc-build" content="1781614116449">
 <meta name="description" content="Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Justine Perry, Paula Tape, abs8lute and Adiel and 2 more. Browse dates, set times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.">
 <link rel="canonical" href="https://soundcheck.club/berlin/v/berghain-panorama-bar-s-ule/">
 <meta property="og:type" content="profile">
@@ -3265,10 +3265,18 @@
           vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+' ('+up.length+')</div><div id="vp-cards"></div>';
           mountEventCards(document.getElementById('vp-cards'), up);
         }
+        // Past events — same gig-history list pattern as "Past sets" on the artist page.
         var pst=(v.past||[]), vpst=document.getElementById('vp-past');
         if(vpst && pst.length){
-          vpst.innerHTML='<div class="sec-h" style="margin-top:26px">Past events at '+esc(dispName)+' ('+pst.length+')</div><div id="vp-past-cards"></div>';
-          mountEventCards(document.getElementById('vp-past-cards'), pst);
+          vpst.innerHTML='<div class="sec-h" style="margin-top:26px">Past events</div><ul class="gig-history">'+pst.map(function(g){
+            var d=fmtDateLabel(String(g.event_date).slice(0,10));
+            var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+            var label=g.title||line||'Event';
+            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+'</button>'+
+              (line && line!==label ? '<span class="gh-city">'+esc(line)+'</span>' : '')+'</li>';
+          }).join('')+'</ul>';
+          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
         }
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
