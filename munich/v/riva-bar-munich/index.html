@@ -965,7 +965,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781621789567">
+<meta name="sc-build" content="1781622591357">
 <meta name="description" content="RIVA Bar Munich is a music venue in Munich listed on soundcheck. 14 upcoming nights, with line-ups including Robert James Perkins. Browse dates, set times and who's playing. Tal 44     80331 Munich.">
 <link rel="canonical" href="https://soundcheck.club/munich/v/riva-bar-munich/">
 <meta property="og:type" content="profile">
@@ -2981,7 +2981,7 @@
       function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
       var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
       x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
-      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ return '<li><span class="open-ev">'+esc(e.title||'Event')+' <small>'+esc(e.venue||'')+'</small></span></li>'; }).join('')+'</ul>'; }
+      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ var sub=esc(e.venue||'')+(e.day?(' &middot; '+esc(fmtDateLabel(String(e.day).slice(0,10)))):''); return '<li><span class="open-ev"'+(e.id!=null?' data-open-evt="'+esc(String(e.id))+'"':'')+'>'+esc(e.title||'Event')+(sub?' <small>'+sub+'</small>':'')+'</span></li>'; }).join('')+'</ul>'; }
       if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
       return x;
     }
@@ -2989,6 +2989,7 @@
     function wireShelfBody(body, s, handle){
       body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); });
+      body.querySelectorAll('.open-ev[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
       body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+handle+':'+w).then(function(){ var st='shelf:'+handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); });
     }
     async function openProfile(handle){
@@ -3351,7 +3352,7 @@
         if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/v/'+slug); }
         var dispName=v.name||input;
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
-        var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'"></span>';
+        var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'">'+(v.image?'<img src="'+imgUrl(v.image,200)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+'</span>';
         var h='<div class="artist-head">'+av+'<div class="artist-head-tx"><h3>'+esc(dispName)+'</h3><div class="sub">'+sub+'</div></div></div>';
         var stats=[];
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
