@@ -706,9 +706,12 @@
     .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); }
     .gig-history li:last-child { border-bottom:none; }
     .gh-date { color:var(--muted); flex:0 0 auto; min-width:86px; font-variant-numeric:tabular-nums; }
-    .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; }
+    .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; }
     .gh-venue:hover { color:var(--accent); text-decoration:underline; }
+    .gh-venue small { color:var(--muted); font-weight:500; }
     .gh-city { color:var(--muted); flex:0 0 auto; font-size:var(--fs-sm); }
+    .gh-log { flex:0 0 auto; background:none; border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:4px 11px; font:700 var(--fs-sm) var(--body); cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent; }
+    .gh-log:hover { border-color:var(--accent); color:var(--accent); }
     .ptile .pimg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0; }
     .ptile.has-img::after { content:''; position:absolute; inset:0; z-index:1; background:linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0.05) 60%); }
     .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.05; color:#fff; text-shadow:0 1px 8px rgba(0,0,0,0.55); position:relative; z-index:2; text-align:left; }
@@ -732,6 +735,11 @@
     .lg-field textarea { resize:vertical; min-height:72px; }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
     .lg-select:focus { border-color:var(--accent); }
+    /* preselected-night summary (from a "+ Log" button) */
+    .lg-pre { border:1px solid var(--border); border-radius:12px; padding:13px 15px; margin-bottom:16px; background:var(--bg); }
+    .lg-pre-t { font:700 var(--fs-md) var(--head); }
+    .lg-pre-s { color:var(--muted); font-size:var(--fs-sm); margin-top:3px; }
+    .lg-pre-l { color:var(--muted); font-size:var(--fs-sm); margin-top:7px; }
     /* indexed-night picker */
     .lg-events { display:flex; flex-direction:column; gap:8px; max-height:340px; overflow-y:auto; }
     .lg-ev { display:grid; grid-template-columns:auto 1fr; column-gap:13px; row-gap:2px; align-items:center; text-align:left; background:var(--bg); border:1px solid var(--border); border-radius:10px; padding:10px 13px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, background .12s; }
@@ -962,7 +970,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781623295802">
+<meta name="sc-build" content="1781623969429">
 <meta name="description" content="Le Red Room is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including 7AZ (1), Airon, Babaganouschka and Claudel and 2 more. Browse dates, set times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.">
 <link rel="canonical" href="https://soundcheck.club/montreal/v/le-red-room/">
 <meta property="og:type" content="profile">
@@ -2830,7 +2838,7 @@
     // tab and quick-action chips. Reuses shelfSecHTML/diaryTLHTML/wireShelfBody.
     // Account = the profile page exactly + a settings gear in the corner + a
     // "Coming up" banner (previews your next show) above the tabs.
-    function openAccount(){
+    function openAccount(initialTab){
       if(!currentUser){ openAuth(); return; }
       setRoute('account');
       openPanel('<div id="acc-body"><div class="empty">Loading…</div></div>');
@@ -2894,7 +2902,9 @@
           else if(t==='diary'){ body.innerHTML='<div class="sec-h">Diary <span class="more" id="acc-log">+ Log a gig</span></div>'+(diary.length?diaryTLHTML(diary):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>'); var lg=document.getElementById('acc-log'); if(lg) lg.addEventListener('click',openLog); }
           else { body.innerHTML='<div class="panel-stat"><span><b>'+followers+'</b> followers</span><span><b>'+following+'</b> following</span></div>'; }
         }
-        showTab('shelves');
+        var startTab=(initialTab==='diary'||initialTab==='network')?initialTab:'shelves';
+        showTab(startTab);
+        ab.querySelectorAll('.prof-tabs [data-atab]').forEach(function(x){ x.classList.toggle('on', x.dataset.atab===startTab); });
         ab.querySelectorAll('.prof-tabs [data-atab]').forEach(function(b){ b.addEventListener('click',function(){ b.parentNode.querySelectorAll('button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.atab); }); });
       }).catch(function(){ var ab=document.getElementById('acc-body'); if(ab) ab.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
     }
@@ -3275,10 +3285,11 @@
         if((a.history||[]).length){
           h+='<div class="sec-h" style="margin-top:26px">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
-            var cy=cityLabel(g.city);
+            var label=g.title||g.venue||'Event';
+            var sub=(g.title&&g.venue)?g.venue:cityLabel(g.city);
             return '<li><span class="gh-date">'+esc(d)+'</span>'+
-              '<button class="gh-venue" type="button" data-venue="'+esc(g.venue||'')+'" data-city="'+esc(g.city||'')+'">'+esc(g.venue||'—')+'</button>'+
-              (cy?'<span class="gh-city">'+esc(cy)+'</span>':'')+'</li>';
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
         }
         openPanel(h);
@@ -3294,7 +3305,8 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        document.querySelectorAll('#page-body .gh-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue, b.dataset.city||null); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
         var up=document.getElementById('ap-upcoming');
         var rows=(a.upcoming||[]).map(function(g){
@@ -3379,10 +3391,11 @@
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
             return '<li><span class="gh-date">'+esc(d)+'</span>'+
-              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+'</button>'+
-              (line && line!==label ? '<span class="gh-city">'+esc(line)+'</span>' : '')+'</li>';
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
           vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         }
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
@@ -3538,9 +3551,12 @@
         return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
       return '<h3>Log a gig</h3><div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
         '<div style="max-width:540px">'+
-          '<div class="lg-field"><label>City</label><select id="lg-city" class="lg-select">'+cityOpts+'</select></div>'+
-          '<div class="lg-field"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search venues…" autocomplete="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
-          '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
+          '<div id="lg-preselect" style="display:none"></div>'+
+          '<div id="lg-pickers">'+
+            '<div class="lg-field"><label>City</label><select id="lg-city" class="lg-select">'+cityOpts+'</select></div>'+
+            '<div class="lg-field"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search venues…" autocomplete="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+            '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><input type="date" id="lg-date" style="margin-bottom:10px"><div class="lg-events" id="lg-events"></div></div>'+
+          '</div>'+
           '<div id="lg-extra" style="display:none">'+
             '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
             '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
@@ -3551,7 +3567,7 @@
     // Render the venue's indexed nights as a selectable list.
     function renderLgEvents(){
       var el=document.getElementById('lg-events'); if(!el) return;
-      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">No indexed nights at this venue yet — try another.</div>'; return; }
+      if(!lgEventList.length){ var dt=document.getElementById('lg-date'); el.innerHTML='<div class="empty" style="padding:6px 0">'+((dt&&dt.value)?'No indexed night here on that date — try another date.':'No indexed nights at this venue yet — try another.')+'</div>'; return; }
       el.innerHTML=lgEventList.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
         var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
@@ -3566,6 +3582,7 @@
       renderLgEvents();
     }
     // Load the indexed nights for a chosen venue (past nights from /api/venue).
+    // A set date filters to that exact day (any depth); no date → recent nights.
     function loadLgVenue(name){
       lgSel=null; lgEventList=[];
       var city=document.getElementById('lg-city').value;
@@ -3573,27 +3590,50 @@
       var field=document.getElementById('lg-events-field'); field.style.display='';
       document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
       document.getElementById('lg-extra').style.display='none';
-      pubGet('/api/venue?name='+encodeURIComponent(name)+'&city='+encodeURIComponent(city)).then(function(v){
+      var dt=document.getElementById('lg-date'), on=(dt&&dt.value)?('&on='+encodeURIComponent(dt.value)):'';
+      pubGet('/api/venue?name='+encodeURIComponent(name)+'&city='+encodeURIComponent(city)+on).then(function(v){
         lgEventList=(v&&v.past)||[]; renderLgEvents();
       }).catch(function(){ lgEventList=[]; renderLgEvents(); });
+    }
+    // Coming from a "+ Log" button on a past event: skip the pickers, pull the
+    // event's lineup and pre-select it so it's a note-and-save away. Marks the
+    // line-up seen on save like any other log.
+    async function preselectLogEvent(id){
+      var pk=document.getElementById('lg-pickers'); if(pk) pk.style.display='none';
+      var pre=document.getElementById('lg-preselect');
+      if(pre){ pre.style.display=''; pre.innerHTML='<div class="empty" style="padding:6px 0">Loading…</div>'; }
+      try{
+        var r=await authedFetch('/api/event?id='+encodeURIComponent(id)); var ev=await r.json();
+        selectLgEvent({ id:ev.id, title:ev.title, venue:ev.venue, event_date:ev.event_date, lineup:ev.lineup||[] });
+        if(pre){
+          var d=ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'';
+          var ln=(ev.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,4).join(', ');
+          pre.innerHTML='<div class="lg-pre"><div class="lg-pre-t">'+esc(ev.title||ev.venue||'This night')+'</div><div class="lg-pre-s">'+esc(ev.venue||'')+(d?(' &middot; '+esc(d)):'')+'</div>'+(ln?'<div class="lg-pre-l">'+esc(ln)+'</div>':'')+'</div>';
+        }
+      }catch(_){ if(pre) pre.innerHTML='<div class="empty">Couldn&rsquo;t load that night.</div>'; }
     }
     function openLog(prefill){
       setRoute('log');
       lgArtists=[]; lgSel=null; lgEventList=[];
       showPage(logFormHTML());
       wireLog();
+      if(prefill&&prefill.eventId) preselectLogEvent(prefill.eventId);
       // Coming from "log this night" — jump straight to the venue's nights.
-      if(prefill&&prefill.venue) loadLgVenue(prefill.venue);
+      else if(prefill&&prefill.venue) loadLgVenue(prefill.venue);
     }
     function wireLog(){
       document.getElementById('lg-save').addEventListener('click',saveLog);
-      // Re-scope the venue search when the city changes; reset the night list.
+      // Re-scope the venue search when the city changes; reset the night list + date.
       document.getElementById('lg-city').addEventListener('change',function(){
         lgSel=null; lgEventList=[];
         document.getElementById('lg-venue-in').value='';
+        var dt=document.getElementById('lg-date'); if(dt) dt.value='';
         document.getElementById('lg-events-field').style.display='none';
         document.getElementById('lg-extra').style.display='none';
       });
+      // Date filter — re-query the chosen venue's nights for that exact day.
+      var dEl=document.getElementById('lg-date');
+      if(dEl) dEl.addEventListener('change',function(){ var nm=document.getElementById('lg-venue-in').value.trim(); if(nm) loadLgVenue(nm); });
       // Pick an indexed night at the chosen venue.
       document.getElementById('lg-events').addEventListener('click',function(e){ var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]); });
       // Venue picker — scoped to the selected city; shows top venues on focus.
@@ -3622,8 +3662,9 @@
         lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
         savePicks(); afterPicksChanged();
         showToast('Logged to your diary');
-        // replace #log with #picks so Back doesn't return to an empty form
-        history.replaceState({sc:1},'','#picks'); openMyPicks();
+        // land on the diary (account → Diary tab); replace #log so Back doesn't
+        // return to a now-stale form.
+        history.replaceState({sc:1},'','#account'); openAccount('diary');
       }catch(_){ document.getElementById('lg-err').textContent='Network error.'; btn.disabled=false; }
     }
 
