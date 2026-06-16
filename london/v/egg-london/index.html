@@ -506,6 +506,10 @@
     .page-head { display:flex; align-items:center; gap:12px; margin:8px 0 20px; }
     .page-back { background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 15px 8px 12px; font:600 var(--fs-xs) var(--body); cursor:pointer; display:inline-flex; align-items:center; gap:5px; }
     .page-back:hover { border-color:var(--accent); color:var(--accent); }
+    /* Desktop web has the browser's own Back; hide ours there. Keep it on mobile
+       and in the installed PWA (display-mode:standalone = no browser chrome). The
+       empty .page-head stays as a small top spacer. */
+    @media (min-width:621px) and (display-mode: browser){ .page-back { display:none; } }
     .page-view h3 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
     #page-body { max-width:none; }   /* full home width (.wrap caps at 1180) */
 
@@ -916,7 +920,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781611880285">
+<meta name="sc-build" content="1781612477734">
 <meta name="description" content="Egg London is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including ACID HARRY, Beezo, BOA (1) and Carlos Van D and 2 more. Browse dates, set times and who's playing. 5-13 Vale Royal, London, N7 9AP.">
 <link rel="canonical" href="https://soundcheck.club/london/v/egg-london/">
 <meta property="og:type" content="profile">
