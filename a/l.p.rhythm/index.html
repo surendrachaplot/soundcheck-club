@@ -383,6 +383,8 @@
     .sheet-actions .heart, .sheet-actions .share-btn { width:38px; height:38px; }
     .sheet-actions .heart svg, .sheet-actions .share-btn svg { width:var(--icon-sm); height:var(--icon-sm); }
     .sheet-actions .lbl { font-size:var(--fs-xs); font-weight:600; color:var(--muted); }
+    .sheet-actions .act-log { height:38px; padding:0 16px; background:var(--accent); color:var(--accent-ink); border:1px solid var(--accent); border-radius:999px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent; }
+    .sheet-actions .act-log.on { background:transparent; color:var(--accent); }
 
     /* floating "N picks · Share" chip */
     .fab-stack { position:fixed; right:16px; bottom:calc(24px + env(safe-area-inset-bottom)); z-index:55; display:flex; flex-direction:column; align-items:flex-end; gap:10px; }
@@ -1001,7 +1003,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781627247789">
+<meta name="sc-build" content="1781627696107">
 <meta name="description" content="L.P. Rhythm is an electronic artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: ZT Hotel Villa Olimpica, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/l.p.rhythm/">
 <meta property="og:type" content="profile">
@@ -2015,6 +2017,7 @@
           else if(s.dataset.shareEvt) shareEvent(s.dataset.shareEvt, s.dataset.title, s.dataset.venue);
           return;
         }
+        var lg=e.target.closest('.act-log[data-log-evt]'); if(lg){ e.preventDefault(); e.stopPropagation(); openLog({eventId:lg.dataset.logEvt}); return; }
         var an=e.target.closest('.an.linky[data-artist]'); if(an){ e.preventDefault(); e.stopPropagation(); openArtist(an.dataset.artist); return; }
         var vl=e.target.closest('.venue-link[data-venue]'); if(vl && vl.dataset.venue){ e.preventDefault(); e.stopPropagation(); openVenue(vl.dataset.venue); return; }
       });
@@ -3512,6 +3515,10 @@
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
       var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
+      // Past event → "Add to log" / "Logged" (you can't "save/go" to a night that's
+      // already happened); future event keeps the save heart.
+      var isPast = eid && ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
+      var evLog = isPast ? '<button class="act-log'+(ev.logged?' on':'')+'" type="button" data-log-evt="'+esc(eid)+'">'+(ev.logged?'&#10003; Logged':'+ Add to log')+'</button>' : '';
       var n=(ev.artists||[]).length;
       // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
       // gradient fallback only when there's no real poster.
@@ -3525,7 +3532,7 @@
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
               '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
-              (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+              (eid ? '<div class="sheet-actions">'+(isPast ? (evLog+evShare+'<span class="lbl">Log it or share</span>') : (evHeart+evShare+'<span class="lbl">Save or share</span>'))+'</div>' : '')+
             '</div>'+
             '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
             ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
@@ -3554,6 +3561,10 @@
       // so fill the header's #ev-when even if the cached open had no/partial date.
       var when=document.getElementById('ev-when');
       if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
+      // The cached first-paint doesn't know if you've logged this night (only the
+      // fresh /api/event does) — refresh the Add-to-log / Logged button now.
+      var lb=document.querySelector('#page-body .act-log');
+      if(lb){ lb.classList.toggle('on', !!ev.logged); lb.innerHTML = ev.logged ? '&#10003; Logged' : '+ Add to log'; }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';
@@ -3593,7 +3604,7 @@
         startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
         endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
-        city:d.city, genres:d.genres||[], description:d.description||'',
+        city:d.city, genres:d.genres||[], description:d.description||'', logged:!!d.logged,
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
         alsoOn:d.also_on||[],
         artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
