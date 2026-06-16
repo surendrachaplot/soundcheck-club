@@ -989,7 +989,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781625089026">
+<meta name="sc-build" content="1781625526946">
 <meta name="description" content="Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Acid Foxy, Amed Nheiro, Andi Beat and BEJA and 2 more. Browse dates, set times and who's playing. Brückenstraße 1, 10179 Berlin.">
 <link rel="canonical" href="https://soundcheck.club/berlin/v/prisma/">
 <meta property="og:type" content="profile">
@@ -1245,7 +1245,11 @@
     // everyone else via an anonymous users row behind the same HttpOnly session
     // cookie (POST /api/anon/start). Picks live in Postgres through that
     // identity; small UI prefs live in users.prefs (jsonb) via /api/prefs.
-    var prefs={}, anonUser=false, _identityP=null, _memToken='', _meLoaded=false, _hadAccount=false;
+    var prefs={}, anonUser=false, _identityP=null, _memToken='', _meLoaded=false, _hadAccount=false, _meReady=null;
+    // Resolves once the first /api/auth/me has settled. Lets gesture handlers wait
+    // out the auth-unknown window (e.g. a cold-backend refresh) instead of treating
+    // a not-yet-known user as signed out and popping the sign-in form.
+    function whenAuthKnown(){ return _meLoaded ? Promise.resolve() : (_meReady || Promise.resolve()); }
     // Durable, synchronous "this device has signed in before" hint (NOT identity —
     // the session still lives in the HttpOnly cookie). It's readable at boot,
     // before /api/auth/me resolves, so a returning signed-in user is never shown
@@ -1945,7 +1949,7 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
-    document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
+    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
     (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
       if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;   // let new-tab/window through
@@ -2236,7 +2240,13 @@
 
     // sign-in modal
     var authOv=document.getElementById('auth-overlay');
-    function openAuth(){ document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
+    function openAuth(){
+      // Don't pop the sign-in form before we know who they are — on a cold-backend
+      // refresh currentUser is briefly null, and the gesture guards (if(!currentUser)
+      // openAuth()) would otherwise flash it at an already-signed-in user. Wait for
+      // /api/auth/me; only show it if they're genuinely signed out.
+      if(!_meLoaded){ whenAuthKnown().then(function(){ if(!currentUser) openAuth(); }); return; }
+      document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
     function closeAuth(){ authOv.classList.remove('show'); }
 
     // ── claim / rename handle (Reddit-style u/) ──
@@ -2430,7 +2440,7 @@
         history.replaceState(null,'',location.pathname+location.search);
         // First sign-in: migrate any anonymous localStorage picks into the account.
         var hadLocal=pickCount()>0;
-        loadMe().then(function(){
+        _meReady=loadMe().then(function(){
           if(currentUser && hadLocal){
             authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
               body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
@@ -2440,7 +2450,7 @@
         });
         return true;
       }
-      loadMe();
+      _meReady=loadMe();
       return false;
     })();
 
