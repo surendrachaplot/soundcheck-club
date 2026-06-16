@@ -615,9 +615,18 @@
     .artist-head .artist-av img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
     .artist-head-tx h3 { margin:0; }
     /* artist page: big square hero photo, name underneath (artist only — not venue) */
-    .artist-head.artist-hero { flex-direction:column; align-items:flex-start; gap:16px; }
-    .artist-head.artist-hero .artist-av { width:min(132px,32vw); height:min(132px,32vw); border-radius:18px; }
+    /* compact horizontal header — avatar + name/socials + actions on one row (was a tall stacked column) */
+    .artist-head.artist-hero { align-items:center; gap:18px; flex-wrap:wrap; }
+    .artist-head.artist-hero .artist-av { width:88px; height:88px; border-radius:18px; }
+    .artist-head.artist-hero .artist-head-tx { flex:1 1 200px; min-width:0; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
+    .artist-head.artist-hero .artist-actions { margin:0; flex:0 0 auto; }
+    @media (max-width:620px){
+      .artist-head.artist-hero { flex-direction:column; align-items:flex-start; gap:14px; }
+      .artist-head.artist-hero .artist-av { width:min(112px,28vw); height:min(112px,28vw); }
+      .artist-head.artist-hero .artist-head-tx { flex:0 0 auto; }
+      .artist-head.artist-hero .artist-actions { flex-basis:100%; width:100%; max-width:none; }
+    }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* external link pills (artist socials / venue website) */
     .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
@@ -920,7 +929,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781612921887">
+<meta name="sc-build" content="1781613553424">
 <meta name="description" content="Der Weiße Hase is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Algerics, Anubix, August Kind and BB Deng and 2 more. Browse dates, set times and who's playing. Revaler Str 99, 10245 Berlin.">
 <link rel="canonical" href="https://soundcheck.club/berlin/v/der-wei-e-hase/">
 <meta property="og:type" content="profile">
@@ -3132,18 +3141,18 @@
         // generated marble underneath; real photo overlays and falls back on error
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div></div>';
-        // Social-proof counts (seen live / friends seen) intentionally hidden for now.
-        if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
         var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
-        h+='<div class="artist-actions">'+
+        var actions='<div class="artist-actions">'+
           '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
           '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
+        // Compact header row: avatar + name/socials + actions (was a tall stacked hero).
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+actions+'</div>';
+        if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
