@@ -920,7 +920,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781612477734">
+<meta name="sc-build" content="1781612767755">
 <meta name="description" content="Dimitri Vegas &amp; Like Mike are an electronic duo tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Bali and Bangkok and 13 more. Often billed alongside Steve Aoki, Agents Of Time and Alok. Next up: Ushuaïa Ibiza, Ibiza.">
 <link rel="canonical" href="https://soundcheck.club/a/dimitrivegaslikemike/">
 <meta property="og:type" content="profile">
@@ -1867,6 +1867,17 @@
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
+    // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
+    (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
+      if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;   // let new-tab/window through
+      e.preventDefault();
+      if(document.body.classList.contains('page-on') || location.hash){
+        history.pushState({sc:1},'', cityPath(currentCity));
+        hidePage();
+      }
+      window.scrollTo({top:0,behavior:'smooth'});
+      if(typeof syncTabs==='function') syncTabs();
+    }); })();
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
 
     function wireCard(scope){
@@ -3830,6 +3841,7 @@
       var hn=document.getElementById('hero-city-name'); if(hn) hn.textContent=m.name;
       var hc=document.getElementById('hero-city'); if(hc) hc.setAttribute('aria-label','Change city — currently '+m.name);
       var hbn=document.getElementById('hdr-brand-city'); if(hbn) hbn.textContent=m.name; // mobile header brand
+      var lg=document.querySelector('.logo'); if(lg) lg.href=cityPath(currentCity); // home URL (was href="." → broke on deep paths)
     }
     async function loadCities(){
       try{
