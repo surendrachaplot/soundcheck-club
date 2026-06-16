@@ -9,6 +9,9 @@
   <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage-800.woff2" crossorigin />
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-400.woff2" crossorigin />
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-500.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage-700.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-600.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-700.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.6minutes.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -22,15 +25,15 @@
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
   <style>
     /* ── self-hosted fonts (Latin slices from Google, vendored in /fonts) ── */
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/bricolage-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/bricolage-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/bricolage-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/bricolage-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:800;font-display:swap;src:url(/fonts/bricolage-800.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/inter-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/inter-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/inter-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400;font-display:block;src:url(/fonts/bricolage-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:500;font-display:block;src:url(/fonts/bricolage-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:600;font-display:block;src:url(/fonts/bricolage-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:700;font-display:block;src:url(/fonts/bricolage-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:800;font-display:block;src:url(/fonts/bricolage-800.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:block;src:url(/fonts/inter-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:block;src:url(/fonts/inter-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:block;src:url(/fonts/inter-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:block;src:url(/fonts/inter-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 
     *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
     :root {
@@ -84,7 +87,9 @@
     .qchip.alt { display:inline-flex; align-items:center; gap:7px; }
     .qchip.alt svg { width:var(--icon-sm); height:var(--icon-sm); }
     .datebar .push { margin-left:auto; }
-    @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; } }
+    @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; }
+      /* mobile: just the date picker (defaults to the next Friday) */
+      #pick-fri, #pick-sat { display:none; } }
     /* Touch screens: enlarge the small round icon-buttons to a comfier tap target. */
     @media (pointer:coarse){
       .heart, .share-btn { width:34px; height:34px; }
@@ -300,9 +305,14 @@
     .dock:not(.expanded) #skip-back,
     .dock:not(.expanded) #skip-fwd { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
-    /* chevron stays visible in BOTH states (web + mobile) so there's always a
-       working collapse/expand toggle — not just tap-the-art to expand. */
-    #dock-exp { display:inline-flex; }
+    /* Tap-to-toggle: collapsed bar taps to expand; the expanded sheet shows a
+       grab-handle (tap to collapse). No fiddly corner chevron. */
+    .dock:not(.expanded) .panel { cursor:pointer; }
+    .dock-grab { display:none; }
+    .dock.expanded .dock-grab { display:flex; position:absolute; top:0; left:50%; transform:translateX(-50%); width:120px; height:26px; align-items:center; justify-content:center; cursor:pointer; z-index:4; -webkit-tap-highlight-color:transparent; }
+    .dock.expanded .dock-grab span { width:40px; height:4px; border-radius:99px; background:rgba(255,255,255,0.3); transition:background .15s; }
+    .dock.expanded .dock-grab:hover span, .dock.expanded .dock-grab:focus-visible span { background:var(--accent); }
+    .dock.expanded .dock-grab:focus-visible { outline:none; }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -397,6 +407,9 @@
     .radio-fab .heart svg { width:var(--icon-sm); height:var(--icon-sm); }
     .rf-go { width:30px; height:30px; border-radius:999px; background:transparent; border:1px solid var(--accent); color:var(--accent); align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; padding:0; -webkit-tap-highlight-color:transparent; }
     .rf-go svg { width:var(--icon-sm); height:var(--icon-sm); }
+    /* explicit stop — filled accent so it reads as the primary "end" control */
+    .rf-stop { width:30px; height:30px; border-radius:999px; background:var(--accent); border:1px solid var(--accent); color:var(--accent-ink); align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; padding:0; -webkit-tap-highlight-color:transparent; }
+    .rf-stop svg { width:var(--icon-xs); height:var(--icon-xs); }
     .rf-go:hover { background:rgba(255,122,107,0.16); }
     /* while on air the pill shows on mobile too (above the nav) — the radio has no overlay */
     body.radio-on .fab-stack { display:flex; }
@@ -544,6 +557,16 @@
     .muted { color:var(--muted); }
     .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-sm); letter-spacing:0.02em; margin:0 0 12px; display:flex; align-items:center; justify-content:space-between; }
     .sec-h .more { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); cursor:pointer; }
+    .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
+    .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:10px; padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
+    .upc-tab.on { background:var(--accent); color:var(--accent-ink); }
+    .upc-n { font-size:var(--fs-xs); font-weight:700; opacity:0.7; }
+    .upc-tab.on .upc-n { opacity:1; }
+    .upc-sub { color:var(--muted); font-size:var(--fs-sm); font-weight:500; margin:0 0 14px; }
+    .fnd-proof { display:inline-flex; align-items:center; gap:6px; color:var(--accent); font-size:var(--fs-xs); font-weight:700; margin-top:4px; line-height:1.3; }
+    .fnd-proof svg { width:13px; height:13px; flex:none; }
+    .fnd-proof .lk { color:var(--accent); cursor:pointer; }
+    .fnd-proof .lk:hover { text-decoration:underline; }
     .hub-stats { display:grid; grid-template-columns:repeat(3,1fr); gap:9px; margin:18px 0; max-width:520px; }
     .hub-stat { background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:14px 10px; text-align:center; cursor:pointer; width:100%; font:inherit; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .hub-stat:hover { border-color:var(--accent); }
@@ -588,6 +611,8 @@
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
     /* external link pills (artist socials / venue website) */
     .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
+    .ah-namerow { display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+    .ah-namerow .slinks { margin:0; }
     .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
     .slink:hover { border-color:var(--accent); color:var(--accent); }
     .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
@@ -785,8 +810,10 @@
     @media (min-width:621px){
       body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
       body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
-      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
+      /* web: artist name + "next playing at venue" share one row (mobile stays stacked) */
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; flex-direction:row; align-items:baseline; gap:16px; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
+      body.radio-on .radio-fab .rf-sub { margin-top:0; }
       body.radio-on { padding-bottom:96px; }
     }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
@@ -873,20 +900,29 @@
     .site-foot a { color:var(--muted); text-decoration:none; font-weight:600; }
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
+    .site-foot .foot-cta { color:var(--accent); font-weight:700; }
+    .se-form { display:flex; flex-direction:column; gap:8px; margin-top:16px; }
+    .se-form input, .se-form select, .se-form textarea { padding:11px 14px; border:1px solid var(--border); border-radius:8px; font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
+    .se-form input:focus, .se-form select:focus, .se-form textarea:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
+    .se-form textarea { resize:vertical; min-height:88px; }
+    .se-note { color:var(--muted); font-size:var(--fs-xs); margin-top:12px; line-height:1.4; }
+    .se-form button { background:var(--accent); color:var(--accent-ink); border:none; border-radius:8px; padding:12px 18px; font:inherit; font-weight:700; font-size:var(--fs-base); cursor:pointer; margin-top:4px; }
+    .se-form button:hover { opacity:0.9; }
+    .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781545266894">
-<meta name="description" content="Mija is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.">
+<meta name="sc-build" content="1781605502823">
+<meta name="description" content="Mija is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/mija/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Mija — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Mija is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.">
+<meta property="og:description" content="Mija is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/mija/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/mija.jpg?dateUpdated=1746148704077">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Mija","url":"https://soundcheck.club/a/mija/","description":"Mija is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.","image":"https://static.ra.co/images/profiles/square/mija.jpg?dateUpdated=1746148704077"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Mija","url":"https://soundcheck.club/a/mija/","description":"Mija is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.","image":"https://static.ra.co/images/profiles/square/mija.jpg?dateUpdated=1746148704077"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mija</h1><p>Mija is an electronic artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/mija/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mija</h1><p>Mija is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Seaseaclub Barcelona, Barcelona.</p><p>9 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/mija/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -937,6 +973,8 @@
       <a href="/">6 Minutes &rarr;</a>
     </div>
     <footer class="site-foot">
+      <a href="#" id="foot-submit" class="foot-cta">Don&rsquo;t see your event here? Let us know &rsaquo;</a>
+      <span class="dot">&middot;</span>
       <span>soundcheck &mdash; a 6 Minutes project</span>
       <span class="dot">&middot;</span>
       <a href="https://6minutes.club">6 Minutes</a>
@@ -950,8 +988,8 @@
 
   <div class="dock" id="dock" role="region" aria-label="Now playing">
     <div class="panel">
+      <div class="dock-grab" id="dock-grab" role="button" tabindex="0" aria-label="Expand or collapse player"><span></span></div>
       <div class="corner">
-        <button class="iconbtn" id="dock-exp" type="button" aria-label="Collapse video"></button>
         <button class="iconbtn" id="dock-close" type="button" aria-label="Stop and close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button>
       </div>
       <div class="video-wrap" id="dock-media"></div>
@@ -1008,6 +1046,7 @@
       <div class="rf-tx" id="radio-fab-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></div>
       <button class="heart rf-act" id="radio-fab-heart" type="button" aria-label="Heart this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
       <button class="rf-act rf-go" id="radio-fab-go" type="button" aria-label="Open artist page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg></button>
+      <button class="rf-act rf-stop" id="radio-fab-stop" type="button" aria-label="Stop radio"><svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="6" width="12" height="12" rx="2"/></svg></button>
     </div>
   </div>
 
@@ -1015,7 +1054,7 @@
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
-    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Picks"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
+    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
   </nav>
 
@@ -1068,6 +1107,8 @@
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
     function formatTime(iso){ if(!iso) return ''; var m=/T(\d{2}:\d{2})/.exec(iso); return m?m[1]:''; }
+    // "23:00 – 06:00" when both are known; just the start otherwise. fb = a non-ISO start (e.g. "23:00").
+    function formatTimeRange(s,e,fb){ var a=formatTime(s)||fb||'', b=formatTime(e); return (a&&b)?(a+' – '+b):a; }
     function normaliseSc(url){ if(!url) return null; var u=url.trim(); if(!/^https?:\/\//i.test(u)) u='https://'+u; u=u.replace(/^https?:\/\/www\.soundcloud\.com/i,'https://soundcloud.com'); return u.replace(/\/+$/,''); }
 
     var RE_FOLD=/\bfold\b/i, RE_MOT=/\bm\.?\s?o\.?\s?t\b/i, RE_PHONOX=/\bphonox\b/i, RE_ORMSIDE=/\bormside\b/i, RE_CARPET=/\bcarpet\s?shop\b/i;
@@ -1155,19 +1196,22 @@
     function gateForPlay(){
       if(hasEmail()) return Promise.resolve(true);
       if(playCount() < 1) return Promise.resolve(true);   // first one is free
-      return ensureEmailGate();
+      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges
     // their anonymous picks. Also subscribes the email to the weekly list.
-    function ensureEmailGate(){
+    function ensureEmailGate(opts){
       if(hasEmail()) return Promise.resolve(true);
+      opts=opts||{};
+      var gHead=opts.heading||'Save it with a <span class="ac">free account</span>.';
+      var gBody=opts.body||'Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile.';
       return new Promise(function(resolve){
         var ov=document.createElement('div'); ov.className='email-overlay';
         ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
           '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
-          '<h3>Save it with a <span class="ac">free account</span>.</h3>'+
-          '<p>Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile. Nothing stops playing in the meantime.</p>'+
+          '<h3>'+gHead+'</h3>'+
+          '<p>'+gBody+'</p>'+
           '<form class="email-form"><input type="email" required placeholder="you@somewhere.com" autocomplete="email" /><button type="submit">Send my link</button></form>'+
           '<p class="email-err" aria-live="polite"></p></div>';
         document.body.appendChild(ov);
@@ -1195,6 +1239,49 @@
         });
       });
     }
+    // "Don't see your event here?" — a small form that emails the details to us.
+    function openSubmitEvent(){
+      var ov=document.createElement('div'); ov.className='email-overlay';
+      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
+        '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
+        '<h3>Get your event <span class="ac">listed</span>.</h3>'+
+        '<p>Promoter, artist or venue? Drop us a line.</p>'+
+        '<form class="se-form">'+
+          '<input type="text" name="name" placeholder="Your name" required autocomplete="name">'+
+          '<input type="email" name="email" placeholder="Your email" required autocomplete="email">'+
+          '<select name="role" required><option value="" disabled selected>I&rsquo;m a&hellip;</option><option>Promoter</option><option>Artist</option><option>Venue</option></select>'+
+          '<textarea name="message" rows="4" placeholder="Tell us about your event" required></textarea>'+
+          '<button type="submit">Submit</button>'+
+        '</form>'+
+        '<p class="se-note">Submit this and we&rsquo;ll get in touch to list your event.</p>'+
+        '<p class="email-err" aria-live="polite"></p></div>';
+      document.body.appendChild(ov);
+      var modal=ov.querySelector('.email-modal'), form=ov.querySelector('form'),
+          closeBtn=ov.querySelector('.email-close'), errEl=ov.querySelector('.email-err'),
+          submit=ov.querySelector('button[type=submit]');
+      setTimeout(function(){ var f=ov.querySelector('input'); if(f) f.focus(); },30);
+      function dismiss(){ ov.remove(); document.removeEventListener('keydown',onEsc); }
+      function onEsc(e){ if(e.key==='Escape') dismiss(); }
+      document.addEventListener('keydown',onEsc);
+      closeBtn.addEventListener('click',dismiss);
+      ov.addEventListener('click',function(e){ if(e.target===ov) dismiss(); });
+      form.addEventListener('submit',async function(e){
+        e.preventDefault(); errEl.textContent='';
+        var get=function(k){ var el=form.querySelector('[name='+k+']'); return el?el.value.trim():''; };
+        var data={ name:get('name'), email:get('email'), role:get('role'), message:get('message') };
+        if(!data.name||!data.email||!data.message){ errEl.textContent='Fill in your name, email and a few words about the event.'; return; }
+        submit.disabled=true; submit.textContent='Sending…';
+        try{
+          var r=await authedFetch('/api/submit-event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(data) });
+          if(!r.ok) throw 0;
+          modal.innerHTML='<button class="email-close" type="button" aria-label="Close">&times;</button><h3>Thanks &mdash; got it.</h3><p>We&rsquo;ll take a look and get it added soon.</p>';
+          modal.querySelector('.email-close').addEventListener('click',dismiss);
+          setTimeout(dismiss, 2800);
+        }catch(_){ submit.disabled=false; submit.textContent='Send it in'; errEl.textContent='Couldn’t send that — try again in a moment.'; }
+      });
+    }
+    var _footSubmit=document.getElementById('foot-submit');
+    if(_footSubmit) _footSubmit.addEventListener('click',function(e){ e.preventDefault(); openSubmitEvent(); });
     // Persistent nudge to finish sign-up; hidden once they're actually signed in.
     function showSignupBanner(email){
       if(currentUser) return;
@@ -1207,13 +1294,13 @@
     // ── player dock ──
     var dock=document.getElementById('dock'), dockMedia=document.getElementById('dock-media'),
         dockName=document.getElementById('dock-name'), dockSrc=document.getElementById('dock-src'),
-        dockThumb=document.getElementById('dock-thumb'), dockExp=document.getElementById('dock-exp'),
+        dockThumb=document.getElementById('dock-thumb'), dockGrab=document.getElementById('dock-grab'),
         dockPP=document.getElementById('dock-pp'), toastEl=document.getElementById('toast');
     var CHEV_UP='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>';
     var CHEV_DOWN='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>';
     var PP_PLAY='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>';
     var PP_PAUSE='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>';
-    function setExpIcon(){ var on=dock.classList.contains('expanded'); dockExp.innerHTML=on?CHEV_DOWN:CHEV_UP; dockExp.setAttribute('aria-label', on?'Collapse video':'Expand video'); }
+    function setExpIcon(){ if(dockGrab) dockGrab.setAttribute('aria-label', dock.classList.contains('expanded')?'Collapse player':'Expand player'); }
     function setDockPad(){ document.body.classList.toggle('dock-collapsed', !dock.classList.contains('expanded')); }
 
     function showToast(text){ toastEl.textContent=text; toastEl.classList.add('show'); clearTimeout(toastEl._t); toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },2800); }
@@ -1285,7 +1372,6 @@
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
       if(expand) dock.classList.add('expanded'); else dock.classList.remove('expanded');
-      dockExp.style.display='';   // CSS hides it while collapsed
       setExpIcon(); setDockPad();
       btn.classList.add('playing'); setState(btn,'■');
       active={ button:btn };
@@ -1379,12 +1465,18 @@
         if(ytPlayer.getPlayerState()===1) ytPlayer.pauseVideo(); else ytPlayer.playVideo();
       } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
     });
-    dockExp.addEventListener('click',function(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); });
-    // Tap anywhere on the collapsed bar (not the controls or scrubber) to expand.
+    function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
+    if(dockGrab){
+      dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
+      dockGrab.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggleDock(); } });
+    }
+    // Tap the bar to toggle — expand when collapsed, collapse when expanded —
+    // but never when the tap lands on a control, link, the scrubber, or the video.
     dock.querySelector('.panel').addEventListener('click',function(e){
-      if(!active || dock.classList.contains('expanded')) return;
-      if(e.target.closest('button') || e.target.closest('.scrub')) return;
-      dock.classList.add('expanded'); setExpIcon(); setDockPad();
+      if(!active) return;
+      if(e.target.closest('button') || e.target.closest('a') || e.target.closest('.linky') ||
+         e.target.closest('.scrub') || e.target.closest('.video-wrap') || e.target.closest('.dock-grab')) return;
+      toggleDock();
     });
     document.getElementById('dock-close').addEventListener('click',function(){ stopActive(); });
 
@@ -1477,7 +1569,7 @@
     }
     function radioStop(){
       if(radio.tick){ clearInterval(radio.tick); radio.tick=null; }
-      try{ if(_radioVo){ _radioVo.pause(); } }catch(_){} // stop any station-ID clip
+      try{ if('speechSynthesis' in window) window.speechSynthesis.cancel(); }catch(_){} // stop any station-ID voice
       try{ if(radioYt && radioYt.pauseVideo) radioYt.pauseVideo(); }catch(_){} // keep player alive (stays unlocked)
       radio.on=false; radio.queue=[]; radio.i=-1; radio.played=0; radioScPlaying=false;
       document.body.classList.remove('radio-on');
@@ -1524,20 +1616,41 @@
       showToast('Couldn’t find sets to play.');
       stopActive();
     }
-    // Station-ID voiceover: pre-recorded clips, a random one each time, played
-    // at the start of the radio and between DJs.
-    var RADIO_VO=['sc-id-1.mp3','sc-id-2.mp3','sc-id-3.mp3'];
-    var _radioVo=null;
-    function radioVoEl(){ if(!_radioVo){ _radioVo=new Audio(); _radioVo.preload='auto'; } return _radioVo; }
+    // Station ID: an auto-generated voice (Web Speech API) instead of canned mp3
+    // clips — a short spoken line at the start of the radio and between DJs. The
+    // voice is chosen once from the most natural-sounding one the device offers.
+    var RADIO_LINES=[
+      'You are locked into Soundcheck Radio.',
+      'This is Soundcheck Radio.',
+      'Soundcheck. The sound of the city.',
+      'Soundcheck Radio. Nonstop, all night.',
+      'You are listening to Soundcheck.'
+    ];
+    var _scVoice=null, _scVoicePicked=false;
+    function pickRadioVoice(){
+      if(_scVoicePicked) return _scVoice;
+      if(!('speechSynthesis' in window)){ _scVoicePicked=true; return null; }
+      var vs=window.speechSynthesis.getVoices()||[];
+      if(!vs.length) return null; // not loaded yet — retry on next call / voiceschanged
+      _scVoicePicked=true;
+      // prefer known natural/premium voices, then any English voice, then anything
+      var prefer=[/Google UK English Female/i,/Google US English/i,/Samantha/i,/Serena/i,/Microsoft Aria/i,/Microsoft Jenny/i,/natural/i,/enhanced/i,/premium/i];
+      for(var p=0;p<prefer.length;p++){ for(var i=0;i<vs.length;i++){ if(prefer[p].test(vs[i].name)){ _scVoice=vs[i]; return _scVoice; } } }
+      for(var j=0;j<vs.length;j++){ if(/^en(-|_|$)/i.test(vs[j].lang)){ _scVoice=vs[j]; return _scVoice; } }
+      _scVoice=vs[0]; return _scVoice;
+    }
+    if('speechSynthesis' in window){ try{ window.speechSynthesis.onvoiceschanged=function(){ _scVoicePicked=false; pickRadioVoice(); }; pickRadioVoice(); }catch(_){} }
     function radioPlayVo(onDone){
       var done=false, fin=function(){ if(done) return; done=true; if(onDone) onDone(); };
       try{
-        var a=radioVoEl();
-        a.onended=fin; a.onerror=fin;
-        a.src=SC_BASE+'audio/'+RADIO_VO[Math.floor(Math.random()*RADIO_VO.length)]+'?v=3'; // bump on new clips to bust caches
-        a.currentTime=0; a.volume=1;
-        var p=a.play(); if(p&&p.catch) p.catch(fin);
-        setTimeout(fin, 5000); // safety: never let a stuck clip stall the radio
+        if(!('speechSynthesis' in window)) return fin();
+        var u=new SpeechSynthesisUtterance(RADIO_LINES[Math.floor(Math.random()*RADIO_LINES.length)]);
+        var v=pickRadioVoice(); if(v){ u.voice=v; u.lang=v.lang; } else { u.lang='en-GB'; }
+        u.rate=0.96; u.pitch=1.0; u.volume=1.0;
+        u.onend=fin; u.onerror=fin;
+        window.speechSynthesis.cancel();   // clear any stuck/queued utterance
+        window.speechSynthesis.speak(u);
+        setTimeout(fin, 6000); // safety: never let a stuck voice stall the radio
       }catch(_){ fin(); }
     }
     // Calling this from the start tap also UNLOCKS the audio element on iOS, so
@@ -1723,7 +1836,7 @@
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
       setTab('bnav-search', route==='search');
-      setTab('bnav-picks', route==='picks');
+      setTab('bnav-picks', route==='upcoming');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
@@ -1733,7 +1846,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ openMyPicks(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
 
@@ -2340,9 +2453,10 @@
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
       }catch(_){}
     }
-    document.getElementById('radio-fab-main').addEventListener('click',function(){ startRadio(); });
+    document.getElementById('radio-fab-main').addEventListener('click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
     // text block is no longer inside the play button — clicking it while idle still starts radio
     document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
+    document.getElementById('radio-fab-stop').addEventListener('click',function(e){ e.stopPropagation(); if(typeof radioStop==='function') radioStop(); });
     document.getElementById('radio-fab-heart').addEventListener('click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
     });
@@ -2776,18 +2890,54 @@
     async function openUpcoming(){
       if(!currentUser){ openAuth(); return; }
       setRoute('upcoming');
-      openPanel('<h3>Coming up for you</h3><div class="empty">Loading…</div>');
+      openPanel('<h3>Coming up</h3><div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/upcoming'); var j=await r.json();
-        var va=j.artists||[], vv=j.venues||[];
-        var h='<h3>Coming up for you</h3><div class="sub" style="margin-bottom:14px">Next shows from artists you wanna see &amp; venues you follow.</div>';
-        if(!va.length && !vv.length){ h+='<div class="empty">Heart artists you wanna see and follow a few venues &mdash; their upcoming shows land here.</div>'; openPanel(h); return; }
-        if(va.length) h+='<div class="sec-h">Artists you wanna see</div><div id="up-artists"></div>';
-        if(vv.length) h+='<div class="sec-h" style="margin-top:24px">Venues you follow</div><div id="up-venues"></div>';
+        var feeds={ artists:j.artists||[], venues:j.venues||[], friends:j.friends||[] };
+        if(!feeds.artists.length && !feeds.venues.length && !feeds.friends.length){
+          openPanel('<h3>Coming up</h3><div class="empty">Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.</div>'); return;
+        }
+        function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
+        var h='<h3>Coming up</h3>'+
+          '<div class="upc-tabs" role="tablist">'+
+            '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(feeds.artists.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(feeds.venues.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(feeds.friends.length)+'</button>'+
+          '</div>'+
+          '<div id="upc-body"></div>';
         openPanel(h);
-        if(va.length) mountEventCards(document.getElementById('up-artists'), va);
-        if(vv.length) mountEventCards(document.getElementById('up-venues'), vv);
-      }catch(_){ openPanel('<h3>Coming up for you</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+        var EMPTY={ artists:'Heart some artists &mdash; their next shows show up here.', venues:'Follow venues &mdash; their upcoming nights land here.', friends:'Follow people &mdash; the gigs they wanna see appear here.' };
+        var bodyEl=document.getElementById('upc-body');
+        function showTab(tab){
+          panelBody.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          var rows=feeds[tab];
+          if(!rows.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
+          mountEventCards(bodyEl, rows);
+          if(tab==='friends') decorateFriendCards(bodyEl, rows);
+        }
+        panelBody.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        showTab(feeds.artists.length?'artists':feeds.venues.length?'venues':'friends');
+      }catch(_){ openPanel('<h3>Coming up</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+    }
+    // Friends tab: annotate each event card with who (of the people you follow)
+    // wanna-sees an act on the bill. Reuses the (now-empty) .proof slot.
+    function decorateFriendCards(scope, rows){
+      var byId={}; (rows||[]).forEach(function(e){ if(e.id!=null) byId[String(e.id)]=e; });
+      scope.querySelectorAll('.gcard').forEach(function(c){
+        var ev=byId[c.getAttribute('data-evt')]; if(!ev||!ev.friends||!ev.friends.length) return;
+        var fr=ev.friends.slice(0,3).map(function(f){ return '<span class="lk" data-profile="'+esc(f.handle)+'">'+esc(f.name||('u/'+f.handle))+'</span>'; });
+        var extra=ev.friends.length-fr.length, names, verb=' want to see this';
+        if(extra>0){ names=fr.join(', ')+' +'+extra+' more'; }
+        else if(fr.length===1){ names=fr[0]; verb=' wants to see this'; }
+        else if(fr.length===2){ names=fr[0]+' &amp; '+fr[1]; }
+        else { names=fr[0]+', '+fr[1]+' &amp; '+fr[2]; }
+        var slot=c.querySelector('.proof');
+        if(slot){
+          slot.classList.add('on');
+          slot.innerHTML='<span class="fnd-proof">'+HEART_SVG+'<span>'+names+verb+'</span></span>';
+          slot.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openProfile(b.dataset.profile); }); });
+        }
+      });
     }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
@@ -2825,7 +2975,7 @@
       var evs=(rows||[]).map(function(g){
         return { id:g.id, title:g.title, venue:g.venue,
           _day:fmtDateLabel(String(g.event_date).slice(0,10)),
-          startTime:g.start_time, poster:g.poster_url,
+          startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
           artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; }) };
       });
       el.innerHTML='<div class="grid">'+evs.map(cardHTML).join('')+'</div>';
@@ -2836,6 +2986,7 @@
         var open=function(e){ e.preventDefault(); e.stopPropagation(); openSheet(ev); };
         var p=c.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
         var t=c.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
+        var rb=c.querySelector('.ev-radio'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
       });
     }
 
@@ -2949,10 +3100,9 @@
         // generated marble underneath; real photo overlays and falls back on error
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div></div>';
         // Social-proof counts (seen live / friends seen) intentionally hidden for now.
         if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
-        h+=socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website });
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
@@ -3004,7 +3154,7 @@
             id:g.id, title:g.title, venue:g.venue,
             _city:g.city?cityLabel(g.city):'',
             _day:fmtDateLabel(String(g.event_date).slice(0,10)),
-            startTime:g.start_time, poster:g.poster_url,
+            startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
             artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; })
           };
         });
@@ -3092,7 +3242,7 @@
       catch(_){ return String(d||'').slice(0,10); }
     }
     function eventPageHTML(ev){
-      var time=formatTime(ev.startTime)||ev._time||'';
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
       var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
@@ -3128,6 +3278,7 @@
     function musicEventLD(ev){
       var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
       if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.endTime) o.endDate=ev.endTime;
       if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
       var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
       if(perf.length) o.performer=perf;
@@ -3139,7 +3290,7 @@
       // Always show the date: the fetched detail is authoritative (has event_date),
       // so fill the header's #ev-when even if the cached open had no/partial date.
       var when=document.getElementById('ev-when');
-      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTime(ev.startTime)||ev._time||''; when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';
@@ -3177,6 +3328,7 @@
       return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
         _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
         startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
         city:d.city, genres:d.genres||[], description:d.description||'',
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
@@ -3396,7 +3548,7 @@
       return html;
     }
     function cardHTML(ev){
-      var time=formatTime(ev.startTime);
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var pick=isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
@@ -3449,29 +3601,16 @@
       s.position=''; s.top=''; s.left=''; s.right=''; s.width='';
       window.scrollTo(0, savedScrollY);
     }
+    // The quick-peek bottom sheet is retired — every event tap now goes straight to
+    // the full event page. Kept as a thin shim so existing callers keep working;
+    // if an event somehow has no canonical id there's no page to open, so ignore.
     function openSheet(ev){
-      if(!ev) return;
-      var time=formatTime(ev.startTime), eid=ev.id!=null?String(ev.id):'';
-      var evPicked = eid && isEventPicked(eid) ? ' on' : '';
-      var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
-      var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
-      sheetContent.innerHTML=
-        posterHTML(ev)+
-        '<div class="sheet-body">'+
-          (isPickVenue(ev.venue)?'<span class="pick">Pick</span><br>':'')+
-          '<h3>'+esc(ev.title)+(eid?' <a class="see-more" role="button" tabindex="0" data-see-more="'+esc(eid)+'">See more &rsaquo;</a>':'')+'</h3>'+
-          '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-          (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share this event</span></div>' : '')+
-          ((eid&&(ev.artists||[]).length)?'<button class="ev-radio" type="button">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-          '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-          soloCtaHTML(ev)+
-        '</div>';
-      wireCard(sheetContent);
-      var sm=sheetContent.querySelector('.see-more');
-      if(sm) sm.addEventListener('click',function(){ if(eid) openEvent(eid); });
-      var srb=sheetContent.querySelector('.ev-radio');
-      if(srb) srb.addEventListener('click',function(){ startEventRadio(ev); });
-      sheetOv.classList.add('show'); lockBody();
+      if(!ev || ev.id==null) return;
+      var id=String(ev.id);
+      // seed the cache so the page paints instantly (cards on artist/venue/upcoming
+      // pages aren't in rebuildLookup), then enrich from /api/event.
+      if(lookup && lookup.byEvent && !lookup.byEvent[id]) lookup.byEvent[id]=ev;
+      openEvent(id);
     }
     function closeSheet(){ if(!sheetOv.classList.contains('show')) return; sheetOv.classList.remove('show'); unlockBody(); }
     document.getElementById('sheet-close').addEventListener('click',closeSheet);
@@ -3776,6 +3915,8 @@
       var fri=new Date(sat); fri.setDate(sat.getDate()-1);
       return [isoOf(fri), isoOf(sat)];
     }
+    // The next upcoming Friday (today if it IS Friday) — the default landing.
+    function nextFridayISO(){ var d=new Date(); d.setDate(d.getDate()+((5-d.getDay()+7)%7)); return isoOf(d); }
     async function loadWeekend(offset){
       offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
       var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
@@ -3797,6 +3938,7 @@
       if(endISO<startISO){ var t=startISO; startISO=endISO; endISO=t; }
       var span=Math.round((new Date(endISO+'T12:00:00')-new Date(startISO+'T12:00:00'))/86400000)+1;
       if(span<=1) return load(startISO);
+      if(span>RANGE_CAP){ var _dt=new Date(startISO+'T12:00:00'); _dt.setDate(_dt.getDate()+(RANGE_CAP-1)); endISO=isoOf(_dt); span=RANGE_CAP; }
       mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
       document.title='soundcheck by 6 Minutes · '+startISO+' to '+endISO;
       history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
@@ -3826,17 +3968,22 @@
     var calOverlay=document.getElementById('cal-overlay'), calEl=document.getElementById('cal'), calView=null;
     var calMode='day';                  // 'day' | 'range'
     var calRangeStart=null, calRangeEnd=null;   // ISO strings while picking
-    var RANGE_CAP=7;                    // max days in a single range
+    var RANGE_CAP=31;                   // max days in a single range (a full month)
     function inRange(iso, a, b){ return a && b && iso>=a && iso<=b; }
     function buildCal(){
       var tdy=new Date(); tdy.setHours(0,0,0,0);
       var y=calView.getFullYear(), m=calView.getMonth();
       var startDow=new Date(y,m,1).getDay(), days=new Date(y,m+1,0).getDate();
       var dows=['S','M','T','W','T','F','S'], h='';
+      // month bounds (start clamped to today) for Month mode
+      var monFirst=isoOf(new Date(y,m,1)), monLast=isoOf(new Date(y,m+1,0)), _tIso=todayISO();
+      var monStart=(monFirst<_tIso?_tIso:monFirst), monEnd=monLast, monthHasFuture=(monLast>=_tIso);
       // mode toggle
-      h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
-      // hint line (range-only)
-      if(calMode==='range'){
+      h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="month" class="'+(calMode==='month'?'on':'')+'">Month</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
+      // hint line
+      if(calMode==='month'){
+        h+='<div class="cal-hint">All of '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+' &mdash; tap Show, or use &lsaquo; &rsaquo; to change month.</div>';
+      } else if(calMode==='range'){
         var hint = calRangeStart && calRangeEnd ? (fmtRange(calRangeStart, calRangeEnd))
                  : calRangeStart ? ('Start: '+fmtDateLabel(calRangeStart)+' — tap another day to set the end')
                  : 'Tap a day to set the start, then tap another for the end.';
@@ -3856,20 +4003,28 @@
           if(rs && re && di>rs && di<re) cls+=' range-mid';
           if(rs && !calRangeEnd && di===rs) cls+=' range-start range-end';
         }
+        if(calMode==='month' && !past && di>=monStart && di<=monEnd){
+          if(di===monStart && di===monEnd) cls+=' range-start range-end';
+          else if(di===monStart) cls+=' range-start';
+          else if(di===monEnd) cls+=' range-end';
+          else cls+=' range-mid';
+        }
         h+='<div class="'+cls+'" data-iso="'+di+'">'+day+'</div>';
       }
-      var canApply = calMode==='range' && calRangeStart && calRangeEnd;
-      var applyBtn = calMode==='range' ? '<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>' : '';
+      var applyBtn = '';
+      if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
+      else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
       h+='</div><div class="cal-foot"><button id="cal-today" type="button">Today</button>'+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
       calEl.innerHTML=h;
       // wire mode toggle
-      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode==='day'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
+      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode!=='range'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
       document.getElementById('cal-prev').onclick=function(){ calView=new Date(y,m-1,1); buildCal(); };
       document.getElementById('cal-next').onclick=function(){ calView=new Date(y,m+1,1); buildCal(); };
       document.getElementById('cal-today').onclick=function(){ closeCal(); load(todayISO()); };
       document.getElementById('cal-close').onclick=closeCal;
       if(applyBtn){
         document.getElementById('cal-apply').onclick=function(){
+          if(calMode==='month'){ if(!monthHasFuture) return; closeCal(); loadRange(monStart, monEnd); return; }
           if(!calRangeStart||!calRangeEnd) return;
           closeCal(); loadRange(calRangeStart, calRangeEnd);
         };
@@ -3878,6 +4033,7 @@
         c.onclick=function(){
           var iso=c.dataset.iso;
           if(calMode==='day'){ closeCal(); load(iso); return; }
+          if(calMode==='month'){ closeCal(); loadRange(monStart, monEnd); return; }
           // range mode: tap 1 = start, tap 2 = end (swap if before), tap 3 (with full range) = restart
           if(!calRangeStart || (calRangeStart && calRangeEnd)){
             calRangeStart=iso; calRangeEnd=null;
@@ -3935,8 +4091,7 @@
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
-    else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
-    else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
+    else load(nextFridayISO(), 'fri'); // default landing: the next Friday
 
     // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
     // overlay)? The default landing above set up the home grid underneath; now

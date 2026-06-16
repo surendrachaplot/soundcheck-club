@@ -910,7 +910,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781565116276">
+<meta name="sc-build" content="1781605502823">
 <meta name="description" content="V2 Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including KENTARO and TOGASHI. Browse dates, set times and who's playing. Tower of Vabel, 1F/B1F, 7 Chome-13-7 Roppongi, Minato City, Tokyo 106-0032.">
 <link rel="canonical" href="https://soundcheck.club/tokyo/v/v2-tokyo/">
 <meta property="og:type" content="profile">
@@ -3937,6 +3937,7 @@
       if(endISO<startISO){ var t=startISO; startISO=endISO; endISO=t; }
       var span=Math.round((new Date(endISO+'T12:00:00')-new Date(startISO+'T12:00:00'))/86400000)+1;
       if(span<=1) return load(startISO);
+      if(span>RANGE_CAP){ var _dt=new Date(startISO+'T12:00:00'); _dt.setDate(_dt.getDate()+(RANGE_CAP-1)); endISO=isoOf(_dt); span=RANGE_CAP; }
       mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
       document.title='soundcheck by 6 Minutes · '+startISO+' to '+endISO;
       history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
@@ -3966,17 +3967,22 @@
     var calOverlay=document.getElementById('cal-overlay'), calEl=document.getElementById('cal'), calView=null;
     var calMode='day';                  // 'day' | 'range'
     var calRangeStart=null, calRangeEnd=null;   // ISO strings while picking
-    var RANGE_CAP=7;                    // max days in a single range
+    var RANGE_CAP=31;                   // max days in a single range (a full month)
     function inRange(iso, a, b){ return a && b && iso>=a && iso<=b; }
     function buildCal(){
       var tdy=new Date(); tdy.setHours(0,0,0,0);
       var y=calView.getFullYear(), m=calView.getMonth();
       var startDow=new Date(y,m,1).getDay(), days=new Date(y,m+1,0).getDate();
       var dows=['S','M','T','W','T','F','S'], h='';
+      // month bounds (start clamped to today) for Month mode
+      var monFirst=isoOf(new Date(y,m,1)), monLast=isoOf(new Date(y,m+1,0)), _tIso=todayISO();
+      var monStart=(monFirst<_tIso?_tIso:monFirst), monEnd=monLast, monthHasFuture=(monLast>=_tIso);
       // mode toggle
-      h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
-      // hint line (range-only)
-      if(calMode==='range'){
+      h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="month" class="'+(calMode==='month'?'on':'')+'">Month</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
+      // hint line
+      if(calMode==='month'){
+        h+='<div class="cal-hint">All of '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+' &mdash; tap Show, or use &lsaquo; &rsaquo; to change month.</div>';
+      } else if(calMode==='range'){
         var hint = calRangeStart && calRangeEnd ? (fmtRange(calRangeStart, calRangeEnd))
                  : calRangeStart ? ('Start: '+fmtDateLabel(calRangeStart)+' — tap another day to set the end')
                  : 'Tap a day to set the start, then tap another for the end.';
@@ -3996,20 +4002,28 @@
           if(rs && re && di>rs && di<re) cls+=' range-mid';
           if(rs && !calRangeEnd && di===rs) cls+=' range-start range-end';
         }
+        if(calMode==='month' && !past && di>=monStart && di<=monEnd){
+          if(di===monStart && di===monEnd) cls+=' range-start range-end';
+          else if(di===monStart) cls+=' range-start';
+          else if(di===monEnd) cls+=' range-end';
+          else cls+=' range-mid';
+        }
         h+='<div class="'+cls+'" data-iso="'+di+'">'+day+'</div>';
       }
-      var canApply = calMode==='range' && calRangeStart && calRangeEnd;
-      var applyBtn = calMode==='range' ? '<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>' : '';
+      var applyBtn = '';
+      if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
+      else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
       h+='</div><div class="cal-foot"><button id="cal-today" type="button">Today</button>'+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
       calEl.innerHTML=h;
       // wire mode toggle
-      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode==='day'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
+      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode!=='range'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
       document.getElementById('cal-prev').onclick=function(){ calView=new Date(y,m-1,1); buildCal(); };
       document.getElementById('cal-next').onclick=function(){ calView=new Date(y,m+1,1); buildCal(); };
       document.getElementById('cal-today').onclick=function(){ closeCal(); load(todayISO()); };
       document.getElementById('cal-close').onclick=closeCal;
       if(applyBtn){
         document.getElementById('cal-apply').onclick=function(){
+          if(calMode==='month'){ if(!monthHasFuture) return; closeCal(); loadRange(monStart, monEnd); return; }
           if(!calRangeStart||!calRangeEnd) return;
           closeCal(); loadRange(calRangeStart, calRangeEnd);
         };
@@ -4018,6 +4032,7 @@
         c.onclick=function(){
           var iso=c.dataset.iso;
           if(calMode==='day'){ closeCal(); load(iso); return; }
+          if(calMode==='month'){ closeCal(); loadRange(monStart, monEnd); return; }
           // range mode: tap 1 = start, tap 2 = end (swap if before), tap 3 (with full range) = restart
           if(!calRangeStart || (calRangeStart && calRangeEnd)){
             calRangeStart=iso; calRangeEnd=null;
