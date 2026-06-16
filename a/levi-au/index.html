@@ -748,6 +748,9 @@
 
     /* log-a-gig */
     .lg-field { margin-bottom:14px; }
+    .lg-chips { display:flex; flex-wrap:wrap; gap:8px; }
+    .lg-chip { background:var(--bg); border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:7px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s, background .12s; }
+    .lg-chip.on { border-color:var(--accent); color:var(--accent-ink); background:var(--accent); }
     .lg-field label { display:block; font-size:var(--fs-xs); font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:var(--muted); margin-bottom:7px; }
     .lg-field input, .lg-field textarea { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
@@ -989,7 +992,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781625526946">
+<meta name="sc-build" content="1781625914949">
 <meta name="description" content="Levi (AU) is an electronic artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside AJ Christou, Freddy Bello and Wheats. Next up: TBA, Miami.">
 <link rel="canonical" href="https://soundcheck.club/a/levi-au/">
 <meta property="og:type" content="profile">
@@ -3595,6 +3598,7 @@
             '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><input type="date" id="lg-date" style="margin-bottom:10px"><div class="lg-events" id="lg-events"></div></div>'+
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
+            '<div class="lg-field" id="lg-lineup-field"><label>Who did you see?</label><div class="lg-chips" id="lg-lineup"></div></div>'+
             '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
             '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
             '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
@@ -3612,11 +3616,23 @@
         return '<button type="button" class="lg-ev'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||'Club night')+'</span>'+(ln?'<span class="le-l">'+esc(ln)+'</span>':'')+'</button>';
       }).join('');
     }
+    // Real, named acts only — drops empty / "-" placeholder entries from the bill.
+    function lgValidLineup(lineup){ return (lineup||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a && a.slug && a.slug!=='-' && n && n!=='-'; }); }
+    function lgArtistOn(slug){ return lgArtists.some(function(a){ return a.slug===slug; }); }
+    // The bill, as toggle chips — all "seen" by default; tap to drop the ones you
+    // missed (you don't always catch every act).
+    function renderLgLineup(){
+      var el=document.getElementById('lg-lineup'), field=document.getElementById('lg-lineup-field'); if(!el) return;
+      var ln=lgValidLineup(lgSel&&lgSel.lineup);
+      if(!ln.length){ if(field) field.style.display='none'; el.innerHTML=''; return; }
+      if(field) field.style.display='';
+      el.innerHTML=ln.map(function(a){ return '<button type="button" class="lg-chip'+(lgArtistOn(a.slug)?' on':'')+'" data-aslug="'+esc(a.slug)+'" data-aname="'+esc(a.name||a.slug)+'">'+esc(a.name||a.slug)+'</button>'; }).join('');
+    }
     function selectLgEvent(e){
       lgSel={ id:e.id, title:e.title, venue:e.venue, date:e.event_date?String(e.event_date).slice(0,10):null, lineup:e.lineup||[] };
-      lgArtists=(e.lineup||[]).map(function(a){ return {slug:a.slug, name:a.name}; });
+      lgArtists=lgValidLineup(lgSel.lineup).map(function(a){ return {slug:a.slug, name:a.name||a.slug}; }); // default: saw everyone
       document.getElementById('lg-extra').style.display='';
-      renderLgEvents();
+      renderLgLineup(); renderLgEvents();
     }
     // Load the indexed nights for a chosen venue (past nights from /api/venue).
     // A set date filters to that exact day (any depth); no date → recent nights.
@@ -3660,6 +3676,13 @@
     }
     function wireLog(){
       document.getElementById('lg-save').addEventListener('click',saveLog);
+      // Toggle which acts you actually saw (chips); only the lit ones get logged + marked seen.
+      document.getElementById('lg-lineup').addEventListener('click',function(e){
+        var b=e.target.closest('[data-aslug]'); if(!b) return;
+        var slug=b.dataset.aslug;
+        if(lgArtistOn(slug)){ lgArtists=lgArtists.filter(function(a){ return a.slug!==slug; }); b.classList.remove('on'); }
+        else { lgArtists.push({ slug:slug, name:b.dataset.aname }); b.classList.add('on'); }
+      });
       // Re-scope the venue search when the city changes; reset the night list + date.
       document.getElementById('lg-city').addEventListener('change',function(){
         lgSel=null; lgEventList=[];
@@ -3695,10 +3718,11 @@
         var r=await authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
           date:lgSel.date||null, venue:lgSel.venue||null,
           note:document.getElementById('lg-note').value.trim()||null, artists:lgArtists }) });
-        if(!r.ok){ var j=await r.json().catch(function(){return{};}); document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
+        var j=await r.json().catch(function(){return{};});
+        if(!r.ok){ document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
         lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
         savePicks(); afterPicksChanged();
-        showToast('Logged to your diary');
+        showToast(j.updated ? 'Updated your diary' : 'Logged to your diary');
         // land on the diary (account → Diary tab); replace #log so Back doesn't
         // return to a now-stale form.
         history.replaceState({sc:1},'','#account'); openAccount('diary');
