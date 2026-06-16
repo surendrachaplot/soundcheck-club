@@ -740,8 +740,13 @@
     .prof-tl .spine { display:flex; flex-direction:column; align-items:center; }
     .prof-tl .dot { width:10px; height:10px; border-radius:999px; background:var(--accent); margin-top:6px; flex-shrink:0; }
     .prof-tl .ln { flex:1; width:2px; background:var(--border); margin:4px 0; }
-    .prof-tl .card { flex:1; padding-bottom:20px; }
+    .prof-tl .card { flex:1; padding-bottom:20px; position:relative; }
     .prof-tl .vn { font-family:var(--head); font-weight:700; font-size:var(--fs-md); }
+    .dv-venue { background:none; border:0; padding:0; font:inherit; color:inherit; cursor:pointer; text-align:left; }
+    .dv-venue:hover { color:var(--accent); text-decoration:underline; }
+    .dv-del { flex:0 0 auto; margin-left:auto; width:28px; height:28px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--muted); font-size:var(--fs-base); line-height:1; cursor:pointer; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .dv-del:hover { border-color:var(--accent); color:var(--accent); }
+    .prof-tl .card .dv-del { position:absolute; top:0; right:0; margin:0; }
     .prof-tl .mt { color:var(--muted); font-size:var(--fs-xs); margin-top:2px; }
     .prof-tl .nt { font-size:var(--fs-base); margin-top:7px; line-height:1.5; }
     @media (max-width:480px){ .ptiles { grid-template-columns:repeat(3,1fr); } }
@@ -992,7 +997,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781625914949">
+<meta name="sc-build" content="1781626681952">
 <meta name="description" content="The Bridge is a music venue in Losangeles listed on soundcheck. 11 upcoming nights, with line-ups including Afriqua, Ali Farahani, Axel Boman and Azzecca and 2 more. Browse dates, set times and who's playing. 630 S Anderson St, Los Angeles, CA 90023.">
 <link rel="canonical" href="https://soundcheck.club/losangeles/v/the-bridge/">
 <meta property="og:type" content="profile">
@@ -2576,8 +2581,9 @@
       try{
         var r=await authedFetch('/api/diary'); var j=await r.json(); var rows=j.entries||[];
         var el=document.getElementById('mp-diary'); if(!el) return;
-        el.innerHTML='<div class="sec-h">Diary ('+rows.length+') <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
+        el.innerHTML='<div class="sec-h">Diary ('+rows.length+') <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
+        wireDiary(el, true, appendPicksDiary);
       }catch(_){}
     }
     document.getElementById('radio-fab-main').addEventListener('click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
@@ -2931,7 +2937,7 @@
         var body=document.getElementById('acc-tabbody');
         function showTab(t){
           if(t==='shelves'){ body.innerHTML=shelfSecHTML(s, handle); wireShelfBody(body, s, handle); }
-          else if(t==='diary'){ body.innerHTML='<div class="sec-h">Diary <span class="more" id="acc-log">+ Log a gig</span></div>'+(diary.length?diaryTLHTML(diary):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>'); var lg=document.getElementById('acc-log'); if(lg) lg.addEventListener('click',openLog); }
+          else if(t==='diary'){ body.innerHTML='<div class="sec-h">Diary <span class="more" id="acc-log">+ Log a gig</span></div>'+diaryTLHTML(diary, true); var lg=document.getElementById('acc-log'); if(lg) lg.addEventListener('click',openLog); wireDiary(body, true, function(){ openAccount('diary'); }); }
           else { body.innerHTML='<div class="panel-stat"><span><b>'+followers+'</b> followers</span><span><b>'+following+'</b> following</span></div>'; }
         }
         var startTab=(initialTab==='diary'||initialTab==='network')?initialTab:'shelves';
@@ -3023,9 +3029,34 @@
       if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
       return x;
     }
-    function diaryArts(d){ return (d.artists||[]).map(function(a){ return String(a.name||a.slug||'').trim(); }).filter(function(n){ return n && n!=='-'; }).join(', '); }
+    function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
+    function diaryArts(d){ return diaryValid(d).map(function(a){ return a.name||a.slug; }).join(', '); }
     function diaryDateLabel(d){ return d.gig_date ? fmtDateLabel(String(d.gig_date).slice(0,10)) : ''; }
-    function diaryTLHTML(diary){ return diary.length ? '<div class="prof-tl">'+diary.map(function(d,i){ var mt=[diaryDateLabel(d), diaryArts(d)].filter(Boolean).map(esc).join(' &middot; '); return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card"><div class="vn">'+esc(d.venue||'Gig')+'</div>'+(mt?'<div class="mt">'+mt+'</div>':'')+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>'; }).join('')+'</div>' : '<div class="empty">No gigs logged yet.</div>'; }
+    function diaryTLHTML(diary, isMe){
+      if(!diary.length) return '<div class="empty">No gigs logged yet.</div>';
+      return '<div class="prof-tl">'+diary.map(function(d,i){
+        var dl=diaryDateLabel(d), arts=diaryValid(d);
+        var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var tiles = arts.length ? '<div class="ptiles ptiles-wide" style="margin-top:11px">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
+        var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
+        return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card">'+del+'<div class="vn">'+vn+'</div>'+(dl?'<div class="mt">'+esc(dl)+'</div>':'')+tiles+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>';
+      }).join('')+'</div>';
+    }
+    // Wire a rendered diary: artist tiles → artist page, venue → venue page, and
+    // (own diary only) the × → delete, then re-render via onChange.
+    function wireDiary(scope, isMe, onChange){
+      if(!scope) return;
+      scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      scope.querySelectorAll('[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+      if(isMe) scope.querySelectorAll('[data-del]').forEach(function(b){ b.addEventListener('click',function(e){
+        e.stopPropagation(); var id=b.dataset.del; if(!id) return;
+        if(!confirm('Remove this gig from your diary?')) return;
+        b.disabled=true;
+        authedFetch('/api/diary/delete',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ id:id }) })
+          .then(function(r){ if(!r.ok) throw 0; showToast('Removed from your diary'); if(onChange) onChange(); })
+          .catch(function(){ b.disabled=false; showToast('Couldn’t remove that.'); });
+      }); });
+    }
     function wireShelfBody(body, s, handle){
       body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); });
@@ -3052,11 +3083,11 @@
         var ptc=document.getElementById('prof-tc'); if(ptc) ptc.addEventListener('click',function(){ openTasteCard(ptc.dataset.handle); });
         var TAB={
           shelves:function(){ return shelfSecHTML(s, p.handle); },
-          diary:function(){ return diaryTLHTML(diary); },
+          diary:function(){ return diaryTLHTML(diary, p.isMe); },
           network:function(){ return '<div class="panel-stat"><span><b>'+(p.followers||0)+'</b> followers</span><span><b>'+(p.following||0)+'</b> following</span></div>'; }
         };
         var body=document.getElementById('prof-tabbody');
-        function showTab(t){ body.innerHTML=TAB[t](); wireShelfBody(body, s, p.handle); }
+        function showTab(t){ body.innerHTML=TAB[t](); if(t==='diary') wireDiary(body, p.isMe, function(){ openProfile(p.handle); }); else wireShelfBody(body, s, p.handle); }
         showTab('shelves');
         panelBody.querySelectorAll('.prof-tabs [data-tab]').forEach(function(b){ b.addEventListener('click',function(){ panelBody.querySelectorAll('.prof-tabs button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.tab); }); });
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
@@ -3070,10 +3101,12 @@
         try{ await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:fb.dataset.handle}) }); }catch(_){}
       });
     }
-    function diaryListHTML(rows){
+    function diaryListHTML(rows, isMe){
       return '<ul class="tray-line">'+rows.map(function(d){
         var dl=diaryDateLabel(d), arts=diaryArts(d);
-        return '<li><span class="open-ev">'+esc(d.venue||'Gig')+(dl?(' <small>'+esc(dl)+'</small>'):'')+'<br><small>'+esc(arts)+(d.note?(' — '+esc(d.note)):'')+'</small></span></li>';
+        var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
+        return '<li><span class="open-ev">'+vn+(dl?(' <small>'+esc(dl)+'</small>'):'')+'<br><small>'+esc(arts)+(d.note?(' — '+esc(d.note)):'')+'</small></span>'+del+'</li>';
       }).join('')+'</ul>';
     }
 
