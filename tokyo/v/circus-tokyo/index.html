@@ -596,8 +596,9 @@
     .prof-id { min-width:0; }
     .prof-nm { font-family:var(--head); font-weight:800; font-size:var(--fs-lg); letter-spacing:-0.02em; line-height:1.1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .prof-hn { color:var(--muted); font-size:var(--fs-sm); margin-top:1px; }
-    .prof-statline { flex:1; color:var(--muted); font-size:var(--fs-sm); line-height:1.5; }
-    .prof-statline b { color:var(--fg); font-weight:700; }
+    .prof-statline { flex:1; display:flex; flex-wrap:wrap; align-items:baseline; gap:4px 18px; color:var(--muted); font-size:var(--fs-sm); }
+    .prof-statline span { display:inline-flex; align-items:baseline; gap:5px; white-space:nowrap; }
+    .prof-statline b { font-family:var(--head); font-weight:800; font-size:var(--fs-md); color:var(--fg); letter-spacing:-0.01em; }
     .prof-head .follow-btn { flex:none; }
     /* account = profile + settings: editable avatar + quick-action chips */
     .prof-head .av-edit { position:relative; padding:0; border:none; background:none; cursor:pointer; flex:none; -webkit-tap-highlight-color:transparent; }
@@ -937,7 +938,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781614857950">
+<meta name="sc-build" content="1781615443558">
 <meta name="description" content="Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including --- mr ---, Agzilla, chanai and Coretex and 2 more. Browse dates, set times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.">
 <link rel="canonical" href="https://soundcheck.club/tokyo/v/circus-tokyo/">
 <meta property="og:type" content="profile">
@@ -2799,7 +2800,7 @@
         var head='<div class="prof-head">'+
           '<button class="av-edit" id="acc-avatar" type="button" aria-label="Change photo"><span class="prof-av" style="background-image:'+avatarBg(handle,currentUser.avatar)+'"></span><span class="cam">'+cam+'</span></button>'+
           '<div class="prof-id"><div class="prof-nm">u/'+esc(handle)+'</div><div class="prof-hn">your account</div></div>'+
-          '<div class="prof-statline"><b>'+s.seen.length+'</b> seen &middot; <b>'+s.wannaSee.length+'</b> wanna see &middot; <b>'+diary.length+'</b> gig'+(diary.length===1?'':'s')+' &middot; <b>'+followers+'</b> follower'+(followers===1?'':'s')+'</div>'+
+          statLineHTML(s.seen.length, s.wannaSee.length, diary.length, followers)+
           '</div>';
         var chips='<div class="acc-chips">'+
           '<button class="acc-chip" id="acc-coming" type="button">'+HUB_IC.upcoming+'Coming up</button>'+
@@ -2890,6 +2891,12 @@
     function hubTile(id,ic,t,d){ return '<button class="hub-tile" id="'+id+'" type="button"><span class="ic">'+ic+'</span><div class="t">'+t+'</div><div class="d">'+d+'</div></button>'; }
 
     // ---- profile ----
+    // Tidy stat strip — numbers in the display font, muted labels, used on the
+    // profile + account headers.
+    function statLineHTML(seen, wanna, gigs, followers){
+      function unit(n, label){ return '<span><b>'+n+'</b> '+label+'</span>'; }
+      return '<div class="prof-statline">'+unit(seen,'seen')+unit(wanna,'wanna see')+unit(gigs,'gig'+(gigs===1?'':'s'))+unit(followers,'follower'+(followers===1?'':'s'))+'</div>';
+    }
     // Shared shelf + diary renderers — used by the public profile AND the account
     // page so they stay identical (DRY).
     function shelfSecHTML(s, handle){
@@ -2916,7 +2923,7 @@
         var s=p.shelves||{wannaSee:[],seen:[],events:[]}, diary=p.diary||[];
         var head='<div class="prof-head"><span class="prof-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
           '<div class="prof-id"><div class="prof-nm">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="prof-hn">u/'+esc(p.handle)+'</div></div>'+
-          '<div class="prof-statline"><b>'+s.seen.length+'</b> seen &middot; <b>'+s.wannaSee.length+'</b> wanna see &middot; <b>'+diary.length+'</b> gig'+(diary.length===1?'':'s')+' &middot; <b>'+(p.followers||0)+'</b> follower'+((p.followers||0)===1?'':'s')+'</div>'+
+          statLineHTML(s.seen.length, s.wannaSee.length, diary.length, p.followers||0)+
           (p.isMe?'':'<button class="follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button>')+
           '</div>';
         if(!p.locked && ((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length))) head += '<button class="tc-cta" id="prof-tc" data-handle="'+esc(p.handle)+'" style="margin-top:16px">◆ '+(p.isMe?'Share your taste card':(esc('u/'+p.handle)+'’s taste card'))+'</button>';
