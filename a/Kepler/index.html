@@ -608,6 +608,23 @@
     .acc-chip { display:inline-flex; align-items:center; gap:7px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 14px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
     .acc-chip:hover { border-color:var(--accent); color:var(--accent); }
     .acc-chip svg { width:var(--icon-sm); height:var(--icon-sm); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    /* account v3 — settings gear in the header corner + a coming-up banner */
+    .acc-corner { position:relative; flex:none; align-self:flex-start; }
+    .acc-gear { width:40px; height:40px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--fg); display:flex; align-items:center; justify-content:center; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
+    .acc-gear:hover { border-color:var(--accent); color:var(--accent); }
+    .acc-gear svg { width:var(--icon-sm); height:var(--icon-sm); }
+    .acc-pop { position:absolute; top:calc(100% + 8px); right:0; width:222px; background:var(--surface); border:1px solid var(--border); border-radius:13px; padding:6px; z-index:40; box-shadow:0 12px 34px rgba(0,0,0,.32); }
+    .acc-pop button { width:100%; display:flex; align-items:center; gap:11px; background:none; border:none; color:var(--fg); font:600 var(--fs-sm) var(--body); text-align:left; padding:10px 11px; border-radius:9px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .acc-pop button:hover { background:rgba(255,255,255,.06); }
+    .acc-pop button.danger { color:#e8654f; }
+    .acc-pop button svg { width:var(--icon-sm); height:var(--icon-sm); flex:none; opacity:.85; }
+    .acc-pop .sep { height:1px; background:var(--border); margin:5px 6px; }
+    .acc-banner { width:100%; display:flex; align-items:center; gap:14px; text-align:left; margin:16px 0 2px; padding:14px 16px; background:var(--surface); border:1px solid var(--border); border-radius:14px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, transform .12s; }
+    .acc-banner:hover { border-color:var(--accent); }
+    .acc-banner > div { flex:1; min-width:0; }
+    .acc-banner .bk { font:800 var(--fs-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); }
+    .acc-banner .bv { margin-top:3px; color:var(--fg); font-size:var(--fs-sm); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .acc-banner .bch { color:var(--muted); font-size:22px; line-height:1; flex:none; }
     @media (max-width:620px){
       .prof-head { flex-wrap:wrap; }
       .prof-id { flex:1; }
@@ -713,6 +730,16 @@
     .lg-field input, .lg-field textarea { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
     .lg-field textarea { resize:vertical; min-height:72px; }
+    .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
+    .lg-select:focus { border-color:var(--accent); }
+    /* indexed-night picker */
+    .lg-events { display:flex; flex-direction:column; gap:8px; max-height:340px; overflow-y:auto; }
+    .lg-ev { display:grid; grid-template-columns:auto 1fr; column-gap:13px; row-gap:2px; align-items:center; text-align:left; background:var(--bg); border:1px solid var(--border); border-radius:10px; padding:10px 13px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, background .12s; }
+    .lg-ev:hover { border-color:var(--accent); }
+    .lg-ev.on { border-color:var(--accent); background:rgba(255,122,107,0.10); }
+    .lg-ev .le-d { grid-column:1; grid-row:1 / span 2; align-self:center; font:700 var(--fs-sm) var(--head); color:var(--accent); white-space:nowrap; }
+    .lg-ev .le-t { grid-column:2; font-size:var(--fs-base); color:var(--fg); }
+    .lg-ev .le-l { grid-column:2; font-size:var(--fs-sm); color:var(--muted); }
     .stars { display:flex; gap:6px; }
     .stars button { background:transparent; border:none; cursor:pointer; font-size:var(--fs-xl); line-height:1; color:var(--border); padding:0; }
     .stars button.on { color:var(--accent); }
@@ -938,19 +965,19 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781615443558">
-<meta name="description" content="Kepler is an electronic artist tracked on soundcheck, with 134 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.">
+<meta name="sc-build" content="1781621789567">
+<meta name="description" content="Kepler is an electronic artist tracked on soundcheck, with 135 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/a/Kepler/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Kepler — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="Kepler is an electronic artist tracked on soundcheck, with 134 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.">
+<meta property="og:description" content="Kepler is an electronic artist tracked on soundcheck, with 135 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.">
 <meta property="og:url" content="https://soundcheck.club/a/Kepler/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/Kepler.jpg?dateUpdated=1763115517723">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Kepler","url":"https://soundcheck.club/a/Kepler/","description":"Kepler is an electronic artist tracked on soundcheck, with 134 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.","image":"https://static.ra.co/images/profiles/Kepler.jpg?dateUpdated=1763115517723"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"Kepler","url":"https://soundcheck.club/a/Kepler/","description":"Kepler is an electronic artist tracked on soundcheck, with 135 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.","image":"https://static.ra.co/images/profiles/Kepler.jpg?dateUpdated=1763115517723"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Kepler</h1><p>Kepler is an electronic artist tracked on soundcheck, with 134 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.</p><p>13 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/Kepler/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Kepler</h1><p>Kepler is an electronic artist tracked on soundcheck, with 135 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Burnski, Job de Jong and Reeshy. Next up: Bosc Tancat / Diverbosc, Barcelona.</p><p>13 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/a/Kepler/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -1195,7 +1222,12 @@
     // everyone else via an anonymous users row behind the same HttpOnly session
     // cookie (POST /api/anon/start). Picks live in Postgres through that
     // identity; small UI prefs live in users.prefs (jsonb) via /api/prefs.
-    var prefs={}, anonUser=false, _identityP=null, _memToken='';
+    var prefs={}, anonUser=false, _identityP=null, _memToken='', _meLoaded=false, _hadAccount=false;
+    // Durable, synchronous "this device has signed in before" hint (NOT identity —
+    // the session still lives in the HttpOnly cookie). It's readable at boot,
+    // before /api/auth/me resolves, so a returning signed-in user is never shown
+    // the email-capture gate during a slow/cold backend round-trip. Cleared on sign-out.
+    try{ _hadAccount = localStorage.getItem('sc_acct')==='1'; }catch(_){}
     function ensureIdentity(){
       if(currentUser||anonUser) return Promise.resolve(true);
       if(_identityP) return _identityP;
@@ -1216,7 +1248,7 @@
       },400);
     }
 
-    function hasEmail(){ return !!prefs.emailGated || !!currentUser; } // signed-in real users are past the gate
+    function hasEmail(){ return !!prefs.emailGated || !!currentUser || _hadAccount; } // signed-in (or previously-signed-in) users are past the gate
     var _pendingEmail='';
     // The first successful play is free; from the second, ask for an email.
     function playCount(){ return parseInt(prefs.plays,10)||0; }
@@ -1231,6 +1263,12 @@
     // their anonymous picks. Also subscribes the email to the weekly list.
     function ensureEmailGate(opts){
       if(hasEmail()) return Promise.resolve(true);
+      // Don't gate until we actually know the auth state. On a hard refresh the
+      // cached shell paints instantly but /api/auth/me is a cross-origin call
+      // that can lag (cold backend); a tap in that window would otherwise pop the
+      // gate on an already-signed-in user. Treat "unknown" as "let it through" —
+      // once loadMe resolves, a genuinely-anonymous user gates on their next tap.
+      if(!_meLoaded) return Promise.resolve(true);
       opts=opts||{};
       var gHead=opts.heading||'Save it with a <span class="ac">free account</span>.';
       var gBody=opts.body||'Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile.';
@@ -2095,7 +2133,12 @@
         anonUser=!!(j.user && j.user.isAnon);
         if(j.user && j.user.prefs) prefs=Object.assign({}, j.user.prefs, prefs); // local writes this session win
       }catch(_){ currentUser=null; }
+      _meLoaded=true;   // auth state is now known — the gate may decide for real
+      if(currentUser){ _hadAccount=true; try{ localStorage.setItem('sc_acct','1'); }catch(_){} } // remember this device has an account
       renderAccount();
+      // If a gate popped during the auth-unknown window and we now know they're
+      // signed in, retire it — a signed-in user must never face the email gate.
+      if(currentUser){ document.querySelectorAll('.email-overlay').forEach(function(o){ o.remove(); }); }
       if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
       else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
       if(currentUser||anonUser) await hydrateShelf();
@@ -2164,8 +2207,8 @@
     }
     async function signOut(){
       try{ await authedFetch('/api/auth/logout',{ method:'POST' }); }catch(_){}
-      try{ localStorage.removeItem(SESSION_KEY); }catch(_){}
-      currentUser=null; renderAccount(); showToast('Signed out');
+      try{ localStorage.removeItem(SESSION_KEY); localStorage.removeItem('sc_acct'); }catch(_){}
+      _hadAccount=false; currentUser=null; renderAccount(); showToast('Signed out');
     }
 
     // sign-in modal
@@ -2789,50 +2832,71 @@
     // Account hub — Concept B: stat cards + action tiles + recent diary.
     // Account = your own profile (same header + Shelves/Diary as /u/) plus a Settings
     // tab and quick-action chips. Reuses shelfSecHTML/diaryTLHTML/wireShelfBody.
+    // Account = the profile page exactly + a settings gear in the corner + a
+    // "Coming up" banner (previews your next show) above the tabs.
     function openAccount(){
       if(!currentUser){ openAuth(); return; }
       setRoute('account');
       openPanel('<div id="acc-body"><div class="empty">Loading…</div></div>');
-      authedFetch('/api/profile?handle='+encodeURIComponent(currentUser.handle)).then(function(r){ return r.json(); }).then(function(p){
-        var handle=currentUser.handle;
+      var handle=currentUser.handle;
+      Promise.all([
+        authedFetch('/api/profile?handle='+encodeURIComponent(handle)).then(function(r){ return r.json(); }).catch(function(){ return null; }),
+        authedFetch('/api/upcoming').then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; })
+      ]).then(function(res){
+        var p=res[0]||{}, up=res[1]||{};
         var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[],venues:[]}, diary=(p&&p.diary)||[];
-        var followers=(p&&p.followers)||0;
-        var cam='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3z"/><circle cx="12" cy="13" r="3"/></svg>';
+        var followers=p.followers||0, following=p.following||0;
+        var GEAR='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>';
         var head='<div class="prof-head">'+
-          '<button class="av-edit" id="acc-avatar" type="button" aria-label="Change photo"><span class="prof-av" style="background-image:'+avatarBg(handle,currentUser.avatar)+'"></span><span class="cam">'+cam+'</span></button>'+
+          '<span class="prof-av" style="background-image:'+avatarBg(handle,currentUser.avatar)+'"></span>'+
           '<div class="prof-id"><div class="prof-nm">u/'+esc(handle)+'</div><div class="prof-hn">your account</div></div>'+
           statLineHTML(s.seen.length, s.wannaSee.length, diary.length, followers)+
+          '<div class="acc-corner"><button class="acc-gear" id="acc-gear" type="button" aria-label="Settings">'+GEAR+'</button></div>'+
           '</div>';
-        var chips='<div class="acc-chips">'+
-          '<button class="acc-chip" id="acc-coming" type="button">'+HUB_IC.upcoming+'Coming up</button>'+
-          '<button class="acc-chip" id="acc-feed" type="button">'+HUB_IC.feed+'Feed</button>'+
-          '<button class="acc-chip" id="acc-log" type="button">'+HUB_IC.log+'Log a gig</button>'+
-        '</div>';
-        var tabs='<div class="prof-tabs"><button data-atab="shelves" class="on">Shelves</button><button data-atab="diary">Diary</button><button data-atab="settings">Settings</button></div><div id="acc-tabbody"></div>';
-        var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+chips+tabs;
-        document.getElementById('acc-avatar').addEventListener('click',pickAvatar);
-        document.getElementById('acc-coming').addEventListener('click',openUpcoming);
-        document.getElementById('acc-feed').addEventListener('click',openFeed);
-        document.getElementById('acc-log').addEventListener('click',openLog);
-        var body=document.getElementById('acc-tabbody');
-        function settingsHTML(){
-          return '<div style="max-width:520px">'+
-            '<button class="hub-row" id="acc-handle" type="button"><span class="hr-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"/></svg></span><span class="hr-tx"><span class="hr-t">Change handle</span><span class="hr-d">u/'+esc(handle)+'</span></span><span class="hr-ch">&rsaquo;</span></button>'+
-            '<button class="hub-row" id="acc-photo" type="button" style="margin-top:10px"><span class="hr-ic">'+cam+'</span><span class="hr-tx"><span class="hr-t">'+(currentUser.avatar?'Change photo':'Add a photo')+'</span></span><span class="hr-ch">&rsaquo;</span></button>'+
-            (currentUser.avatar?'<button class="hub-row" id="acc-photo-rm" type="button" style="margin-top:10px"><span class="hr-tx"><span class="hr-t">Remove photo</span></span></button>':'')+
-            '<button class="hub-row danger" id="acc-out" type="button" style="margin-top:10px"><span class="hr-ic">'+HUB_IC.out+'</span><span class="hr-tx"><span class="hr-t">Sign out</span></span></button>'+
-          '</div>';
+        // Coming-up banner — soonest show across the artists + venues you follow
+        // (an event can appear in both feeds → dedupe by id before counting).
+        var seen={}, feed=[].concat(up.artists||[], up.venues||[]).filter(function(e){ if(!e||!e.event_date||seen[e.id]) return false; seen[e.id]=1; return true; }).sort(function(a,b){ return String(a.event_date).localeCompare(String(b.event_date)); });
+        var bInner;
+        if(feed.length){
+          var nx=feed[0], who=(nx.lineup&&nx.lineup[0]&&nx.lineup[0].name)||nx.title||'A show', when=fmtDateLabel(String(nx.event_date).slice(0,10)), more=feed.length-1;
+          bInner='<div><div class="bk">Coming up</div><div class="bv">'+esc(who)+(nx.venue?' &middot; '+esc(nx.venue):'')+' &mdash; '+esc(when)+(more>0?'  +'+more+' more':'')+'</div></div>';
+        } else {
+          bInner='<div><div class="bk">Coming up</div><div class="bv">Next shows from the artists &amp; venues you follow</div></div>';
         }
+        var banner='<button class="acc-banner" id="acc-coming" type="button">'+bInner+'<span class="bch">&rsaquo;</span></button>';
+        // Share-your-taste-card CTA — same as the profile page (you have picks).
+        var tasteCTA=((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length)) ? '<button class="tc-cta" id="acc-tc" data-handle="'+esc(handle)+'" style="margin-top:16px">◆ Share your taste card</button>' : '';
+        var tabs='<div class="prof-tabs"><button data-atab="shelves" class="on">Shelves</button><button data-atab="diary">Diary</button><button data-atab="network">Network</button></div><div id="acc-tabbody"></div>';
+        var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+banner+tasteCTA+tabs;
+        document.getElementById('acc-coming').addEventListener('click',openUpcoming);
+        var atc=document.getElementById('acc-tc'); if(atc) atc.addEventListener('click',function(){ openTasteCard(handle); });
+        // settings gear → popover (handle / photo / feed / sign out)
+        function closePop(){ var pp=document.getElementById('acc-pop'); if(pp) pp.remove(); document.removeEventListener('click',closePop); }
+        document.getElementById('acc-gear').addEventListener('click',function(e){
+          e.stopPropagation();
+          if(document.getElementById('acc-pop')){ closePop(); return; }
+          var ic=function(d){ return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+d+'</svg>'; };
+          var pop=document.createElement('div'); pop.className='acc-pop'; pop.id='acc-pop';
+          pop.innerHTML=
+            '<button id="ap-handle">'+ic('<circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"/>')+'Change handle</button>'+
+            '<button id="ap-photo">'+ic('<path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3z"/><circle cx="12" cy="13" r="3"/>')+(currentUser.avatar?'Change photo':'Add a photo')+'</button>'+
+            (currentUser.avatar?'<button id="ap-photo-rm">'+ic('<path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>')+'Remove photo</button>':'')+
+            '<button id="ap-feed">'+ic('<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/>')+'Feed</button>'+
+            '<div class="sep"></div>'+
+            '<button id="ap-out" class="danger">'+ic('<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" x2="9" y1="12" y2="12"/>')+'Sign out</button>';
+          document.querySelector('.acc-corner').appendChild(pop);
+          pop.querySelector('#ap-handle').onclick=function(){ closePop(); openHandleModal(true); };
+          pop.querySelector('#ap-photo').onclick=function(){ closePop(); pickAvatar(); };
+          var rmp=pop.querySelector('#ap-photo-rm'); if(rmp) rmp.onclick=function(){ closePop(); uploadAvatar(null); };
+          pop.querySelector('#ap-feed').onclick=function(){ closePop(); openFeed(); };
+          pop.querySelector('#ap-out').onclick=function(){ closePop(); signOut(); };
+          setTimeout(function(){ document.addEventListener('click',closePop); },0);
+        });
+        var body=document.getElementById('acc-tabbody');
         function showTab(t){
           if(t==='shelves'){ body.innerHTML=shelfSecHTML(s, handle); wireShelfBody(body, s, handle); }
-          else if(t==='diary'){ body.innerHTML=diaryTLHTML(diary); }
-          else {
-            body.innerHTML=settingsHTML();
-            var hb=document.getElementById('acc-handle'); if(hb) hb.addEventListener('click',function(){ openHandleModal(true); });
-            var ph=document.getElementById('acc-photo'); if(ph) ph.addEventListener('click',pickAvatar);
-            var pr=document.getElementById('acc-photo-rm'); if(pr) pr.addEventListener('click',function(){ uploadAvatar(null); });
-            var ob=document.getElementById('acc-out'); if(ob) ob.addEventListener('click',signOut);
-          }
+          else if(t==='diary'){ body.innerHTML='<div class="sec-h">Diary <span class="more" id="acc-log">+ Log a gig</span></div>'+(diary.length?diaryTLHTML(diary):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>'); var lg=document.getElementById('acc-log'); if(lg) lg.addEventListener('click',openLog); }
+          else { body.innerHTML='<div class="panel-stat"><span><b>'+followers+'</b> followers</span><span><b>'+following+'</b> following</span></div>'; }
         }
         showTab('shelves');
         ab.querySelectorAll('.prof-tabs [data-atab]').forEach(function(b){ b.addEventListener('click',function(){ b.parentNode.querySelectorAll('button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.atab); }); });
@@ -2879,7 +2943,21 @@
     // keep the old names so the render fns don't all change
     function openPanel(html){ showPage(html); }
     function closePanel(){ goBack(); }
-    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&document.body.classList.contains('page-on')) goBack(); });
+    // ESC closes the top-most open popup/overlay only — it must NOT navigate a
+    // full page (profile/artist/venue/account) back to home. The static overlays
+    // (#auth-overlay, sheet, cal, the email gate) close via their own ESC
+    // listeners; this covers the dynamically-built auth overlays (handle / claim
+    // / night sign-in / share / taste card) that ship without one.
+    document.addEventListener('keydown',function(e){
+      if(e.key!=='Escape') return;
+      var pops=document.querySelectorAll('.auth-overlay.show');
+      for(var i=pops.length-1;i>=0;i--){
+        if(pops[i].id==='auth-overlay') continue;   // static modal self-handles
+        var btn=pops[i].querySelector('.auth-close');
+        if(btn){ btn.click(); } else { pops[i].remove(); }
+        return;                                      // only the top-most popup
+      }
+    });
     function relTime(iso){ try{ var s=(Date.now()-new Date(iso).getTime())/1000; if(s<60)return'just now'; if(s<3600)return Math.floor(s/60)+'m ago'; if(s<86400)return Math.floor(s/3600)+'h ago'; return Math.floor(s/86400)+'d ago'; }catch(_){ return ''; } }
     function av(handle){ return '<span class="fav" style="background-image:'+avatarBg(handle,null)+'"></span>'; }
     // gradient artist tiles (reuse the poster hue hash)
@@ -3441,7 +3519,7 @@
 
     // ---- log a gig ----
     // ── Log a gig — full page (was a modal) ──
-    var lgArtists=[], lgRating=0;
+    var lgArtists=[], lgRating=0, lgSel=null, lgEventList=[];
     function debounce(fn, ms){ var t; return function(){ var a=arguments, c=this; clearTimeout(t); t=setTimeout(function(){ fn.apply(c,a); }, ms); }; }
     function pubGet(path){ return fetch(API_BASE+path).then(function(r){ return r.json(); }).catch(function(){ return {}; }); }
     function attachSuggest(input, drop, fetcher, onPick){
@@ -3461,49 +3539,92 @@
       input.addEventListener('blur',function(){ setTimeout(hide,160); });
     }
     function renderStars(){ var el=document.getElementById('lg-stars'); if(el) el.innerHTML=[1,2,3,4,5].map(function(n){ return '<button type="button" data-star="'+n+'" class="'+(n<=lgRating?'on':'')+'">★</button>'; }).join(''); }
-    function renderLgArtists(){ var el=document.getElementById('lg-artists'); if(el) el.innerHTML=lgArtists.map(function(a,i){ return '<span class="lg-chip">'+esc(a.name)+'<button type="button" data-rmlg="'+i+'">&times;</button></span>'; }).join(''); }
     function logFormHTML(){
-      return '<h3>Log a gig</h3><div class="sub" style="margin-bottom:16px">Add a night you went to &mdash; it lands in your diary and marks the DJs as seen.</div>'+
-        '<div style="max-width:520px">'+
-          '<div class="lg-field"><label>Find your gig</label><div class="sg-wrap"><input type="text" id="lg-gig-in" placeholder="Search past nights — venue or event…" autocomplete="off"><div class="sg-drop" id="lg-gig-drop"></div></div></div>'+
-          '<div class="lg-field"><label>Date</label><input type="date" id="lg-date"></div>'+
-          '<div class="lg-field"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue" placeholder="FOLD, Phonox, The Cause…" autocomplete="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
-          '<div class="lg-field"><label>Artists you saw</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Type a name…" autocomplete="off"><div class="sg-drop" id="lg-artist-drop"></div></div><div class="lg-artists" id="lg-artists"></div></div>'+
-          '<div class="lg-field"><label>Rating</label><div class="stars" id="lg-stars"></div></div>'+
-          '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
-          '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
-          '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+      var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
+        return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
+      return '<h3>Log a gig</h3><div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
+        '<div style="max-width:540px">'+
+          '<div class="lg-field"><label>City</label><select id="lg-city" class="lg-select">'+cityOpts+'</select></div>'+
+          '<div class="lg-field"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search venues…" autocomplete="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+          '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
+          '<div id="lg-extra" style="display:none">'+
+            '<div class="lg-field"><label>Rating</label><div class="stars" id="lg-stars"></div></div>'+
+            '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
+            '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
+            '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+          '</div>'+
         '</div>';
+    }
+    // Render the venue's indexed nights as a selectable list.
+    function renderLgEvents(){
+      var el=document.getElementById('lg-events'); if(!el) return;
+      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">No indexed nights at this venue yet — try another.</div>'; return; }
+      el.innerHTML=lgEventList.map(function(e,i){
+        var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
+        var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+        var on=lgSel&&lgSel.id===e.id;
+        return '<button type="button" class="lg-ev'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||'Club night')+'</span>'+(ln?'<span class="le-l">'+esc(ln)+'</span>':'')+'</button>';
+      }).join('');
+    }
+    function selectLgEvent(e){
+      lgSel={ id:e.id, title:e.title, venue:e.venue, date:e.event_date?String(e.event_date).slice(0,10):null, lineup:e.lineup||[] };
+      lgArtists=(e.lineup||[]).map(function(a){ return {slug:a.slug, name:a.name}; });
+      document.getElementById('lg-extra').style.display='';
+      renderStars(); renderLgEvents();
+    }
+    // Load the indexed nights for a chosen venue (past nights from /api/venue).
+    function loadLgVenue(name){
+      lgSel=null; lgEventList=[];
+      var city=document.getElementById('lg-city').value;
+      document.getElementById('lg-venue-in').value=name;
+      var field=document.getElementById('lg-events-field'); field.style.display='';
+      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
+      document.getElementById('lg-extra').style.display='none';
+      pubGet('/api/venue?name='+encodeURIComponent(name)+'&city='+encodeURIComponent(city)).then(function(v){
+        lgEventList=(v&&v.past)||[]; renderLgEvents();
+      }).catch(function(){ lgEventList=[]; renderLgEvents(); });
     }
     function openLog(prefill){
       setRoute('log');
-      lgArtists=(prefill&&prefill.artists)?prefill.artists.slice():[]; lgRating=0;
+      lgArtists=[]; lgRating=0; lgSel=null; lgEventList=[];
       showPage(logFormHTML());
-      if(prefill&&prefill.venue) document.getElementById('lg-venue').value=prefill.venue;
-      if(prefill&&prefill.date) document.getElementById('lg-date').value=prefill.date;
-      renderStars(); renderLgArtists(); wireLog();
+      renderStars(); wireLog();
+      // Coming from "log this night" — jump straight to the venue's nights.
+      if(prefill&&prefill.venue) loadLgVenue(prefill.venue);
     }
     function wireLog(){
       document.getElementById('lg-stars').addEventListener('click',function(e){ var b=e.target.closest('[data-star]'); if(b){ lgRating=+b.dataset.star; renderStars(); } });
-      document.getElementById('lg-artists').addEventListener('click',function(e){ var b=e.target.closest('[data-rmlg]'); if(b){ lgArtists.splice(+b.dataset.rmlg,1); renderLgArtists(); } });
-      document.getElementById('lg-artist-in').addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); var v=this.value.trim(); if(v){ lgArtists.push({slug:v.toLowerCase().replace(/[^a-z0-9]+/g,'-'), name:v}); this.value=''; renderLgArtists(); } } });
       document.getElementById('lg-save').addEventListener('click',saveLog);
-      attachSuggest(document.getElementById('lg-gig-in'), document.getElementById('lg-gig-drop'),
-        async function(qv){ var j=await pubGet('/api/gigs?q='+encodeURIComponent(qv)); return (j.gigs||[]).map(function(g){ return { label:esc(g.title||'Gig')+' <small>'+esc(g.venue||'')+(g.event_date?(' · '+esc(String(g.event_date).slice(0,10))):'')+'</small>', g:g }; }); },
-        function(pick){ var g=pick.g; if(g.event_date) document.getElementById('lg-date').value=String(g.event_date).slice(0,10); document.getElementById('lg-venue').value=g.venue||''; var arts=(typeof g.artists==='string'?JSON.parse(g.artists):g.artists)||[]; lgArtists=arts.map(function(a){ return {slug:a.slug, name:a.name}; }); renderLgArtists(); document.getElementById('lg-gig-in').value=g.title||''; });
-      attachSuggest(document.getElementById('lg-venue'), document.getElementById('lg-venue-drop'),
-        async function(qv){ var j=await pubGet('/api/venues?q='+encodeURIComponent(qv)); return (j.venues||[]).map(function(v){ return { label:esc(v.name)+(v.count?(' <small>'+v.count+' nights</small>'):''), name:v.name }; }); },
-        function(pick){ document.getElementById('lg-venue').value=pick.name; });
-      attachSuggest(document.getElementById('lg-artist-in'), document.getElementById('lg-artist-drop'),
-        async function(qv){ var j=await pubGet('/api/artists?q='+encodeURIComponent(qv)); return (j.artists||[]).map(function(a){ return { label:esc(a.name), slug:a.slug, name:a.name }; }); },
-        function(pick){ if(!lgArtists.some(function(x){return x.slug===pick.slug;})){ lgArtists.push({slug:pick.slug, name:pick.name}); renderLgArtists(); } document.getElementById('lg-artist-in').value=''; });
+      // Re-scope the venue search when the city changes; reset the night list.
+      document.getElementById('lg-city').addEventListener('change',function(){
+        lgSel=null; lgEventList=[];
+        document.getElementById('lg-venue-in').value='';
+        document.getElementById('lg-events-field').style.display='none';
+        document.getElementById('lg-extra').style.display='none';
+      });
+      // Pick an indexed night at the chosen venue.
+      document.getElementById('lg-events').addEventListener('click',function(e){ var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]); });
+      // Venue picker — scoped to the selected city; shows top venues on focus.
+      var vin=document.getElementById('lg-venue-in'), vdrop=document.getElementById('lg-venue-drop');
+      function venueFetch(){ var city=document.getElementById('lg-city').value, qv=vin.value.trim();
+        return pubGet('/api/venues?city='+encodeURIComponent(city)+(qv.length>=2?('&q='+encodeURIComponent(qv)):'')).then(function(j){ return j.venues||[]; }); }
+      var curV=[];
+      function showV(list){ curV=list; if(!list.length){ vdrop.classList.remove('show'); vdrop.innerHTML=''; return; }
+        vdrop.innerHTML=list.map(function(v,i){ return '<button type="button" data-vi="'+i+'">'+esc(v.name)+(v.area?(' <small>'+esc(v.area)+'</small>'):'')+'</button>'; }).join('');
+        vdrop.classList.add('show'); }
+      var runV=debounce(function(){ venueFetch().then(showV); },200);
+      vin.addEventListener('focus',function(){ if(!vin.value.trim()) venueFetch().then(showV); });
+      vin.addEventListener('input',runV);
+      vdrop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-vi]'); if(b){ e.preventDefault(); vdrop.classList.remove('show'); loadLgVenue(curV[+b.dataset.vi].name); } });
+      vin.addEventListener('blur',function(){ setTimeout(function(){ vdrop.classList.remove('show'); },160); });
     }
     async function saveLog(){
       if(!currentUser){ openAuth(); return; }
+      if(!lgSel){ document.getElementById('lg-err').textContent='Pick a night first.'; return; }
       var btn=document.getElementById('lg-save'); btn.disabled=true; document.getElementById('lg-err').textContent='';
       try{
         var r=await authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
-          date:document.getElementById('lg-date').value||null, venue:document.getElementById('lg-venue').value.trim()||null,
+          date:lgSel.date||null, venue:lgSel.venue||null,
           note:document.getElementById('lg-note').value.trim()||null, rating:lgRating||null, artists:lgArtists }) });
         if(!r.ok){ var j=await r.json().catch(function(){return{};}); document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
         lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
