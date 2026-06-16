@@ -915,7 +915,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781610973378">
+<meta name="sc-build" content="1781611253932">
 <meta name="description" content="Signal is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including 1morning, 98dots, MORENXXX and Abby Echiverri and 2 more. Browse dates, set times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.">
 <link rel="canonical" href="https://soundcheck.club/newyorkcity/v/signal/">
 <meta property="og:type" content="profile">
@@ -1623,13 +1623,7 @@
     // Station ID: an auto-generated voice (Web Speech API) instead of canned mp3
     // clips — a short spoken line at the start of the radio and between DJs. The
     // voice is chosen once from the most natural-sounding one the device offers.
-    var RADIO_LINES=[
-      'You are locked into Soundcheck Radio.',
-      'This is Soundcheck Radio.',
-      'Soundcheck. The sound of the city.',
-      'Soundcheck Radio. Nonstop, all night.',
-      'You are listening to Soundcheck.'
-    ];
+    var RADIO_LINES=['Soundcheck Radio', 'Soundcheck'];
     var _scVoice=null, _scVoicePicked=false;
     function pickRadioVoice(){
       if(_scVoicePicked) return _scVoice;
@@ -3227,7 +3221,7 @@
         if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
         h+=socialLinksHTML({ website:v.website });
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
-        h+='<div id="vp-upcoming"></div>';
+        h+='<div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
@@ -3240,6 +3234,11 @@
         if(vu && up.length){
           vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+' ('+up.length+')</div><div id="vp-cards"></div>';
           mountEventCards(document.getElementById('vp-cards'), up);
+        }
+        var pst=(v.past||[]), vpst=document.getElementById('vp-past');
+        if(vpst && pst.length){
+          vpst.innerHTML='<div class="sec-h" style="margin-top:26px">Past events at '+esc(dispName)+' ('+pst.length+')</div><div id="vp-past-cards"></div>';
+          mountEventCards(document.getElementById('vp-past-cards'), pst);
         }
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
