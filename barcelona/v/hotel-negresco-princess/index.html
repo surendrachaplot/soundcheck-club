@@ -266,8 +266,12 @@
     .play-main { width:46px; height:46px; border-radius:999px; background:var(--accent); color:var(--ink); border:none; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .play-main .ic { width:var(--icon-md); height:var(--icon-md); }
 
-    .video-wrap { flex:0 0 auto; }
+    .video-wrap { flex:0 0 auto; position:relative; }
     .video-wrap iframe { width:min(420px,42vw); aspect-ratio:16/9; height:auto; border:0; border-radius:10px; display:block; background:#000; max-width:100%; }
+    /* Transparent lid over the YouTube video: eats hover + clicks so YT's chrome
+       (the watch-on-YouTube link, title bar, 'more videos') never surfaces; a click
+       toggles OUR play/pause. The scrubber + transport stay the only controls. */
+    .video-wrap .yt-cover { position:absolute; inset:0; z-index:2; cursor:pointer; background:transparent; border-radius:10px; }
     .video-wrap iframe.sc { position:absolute; width:300px; height:120px; left:0; bottom:0; opacity:0; pointer-events:none; z-index:-1; } /* audio only — album art shows instead */
     .stage-art { width:min(200px,40vw); aspect-ratio:1/1; margin-bottom:0; border-radius:12px; }
 
@@ -1003,7 +1007,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781627696107">
+<meta name="sc-build" content="1781627994663">
 <meta name="description" content="Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including Helen Me Lia. Browse dates, set times and who's playing. C/ de Roger de Llúria, 16, 18, 08010 Barcelona.">
 <link rel="canonical" href="https://soundcheck.club/barcelona/v/hotel-negresco-princess/">
 <meta property="og:type" content="profile">
@@ -1552,6 +1556,9 @@
       f.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+
             '?enablejsapi=1&autoplay=1&controls=0&rel=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&fs=0&disablekb=1&playsinline=1&start='+start+'&origin='+encodeURIComponent(location.origin);
       dockMedia.innerHTML=''; dockMedia.appendChild(f);
+      // Transparent lid over the iframe → no YouTube hover/link chrome; tap = play/pause.
+      var cover=document.createElement('div'); cover.className='yt-cover'; cover.setAttribute('aria-hidden','true');
+      cover.addEventListener('click',togglePlay); dockMedia.appendChild(cover);
       function build(){
         ytPlayer=new YT.Player(f,{
           events:{
@@ -1570,11 +1577,12 @@
       if(window.YT && YT.Player) build(); else { pendingYt=build; loadYtApi(); }
     }
     // dock controls
-    dockPP.addEventListener('click',function(){
+    function togglePlay(){
       if(currentType==='yt' && ytPlayer && ytPlayer.getPlayerState){
         if(ytPlayer.getPlayerState()===1) ytPlayer.pauseVideo(); else ytPlayer.playVideo();
       } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
-    });
+    }
+    dockPP.addEventListener('click',togglePlay);
     function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
     if(dockGrab){
       dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
