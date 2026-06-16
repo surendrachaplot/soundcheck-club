@@ -72,6 +72,10 @@
     .hero { padding:44px 0 28px; display:flex; justify-content:space-between; align-items:flex-end; gap:24px; flex-wrap:wrap; }
     .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; color:var(--accent); margin-bottom:16px; }
     h1 { font-family:var(--head); font-weight:800; font-size:clamp(2.8rem,7vw,5rem); line-height:0.94; letter-spacing:-0.04em; }
+    /* All headings are Bricolage by default — page titles (Coming up, Search, Log a
+       gig…) and the artist/event/venue names are bare <h3>s, so without this they
+       fall back to Inter. Component rules (.gcard h3 etc.) keep their own size/weight. */
+    h2, h3, h4 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
     h1 .ac { color:var(--accent); }
     /* city switcher woven into the headline (replaces the old datebar chip) */
     h1 .city-switch { font:inherit; letter-spacing:inherit; color:inherit; background:none; border:0; padding:0; margin:0; cursor:pointer; display:inline; -webkit-tap-highlight-color:transparent; text-decoration:underline dotted; text-decoration-color:var(--accent); text-decoration-thickness:0.045em; text-underline-offset:0.1em; transition:color .15s ease; }
@@ -997,7 +1001,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781626923749">
+<meta name="sc-build" content="1781627247789">
 <meta name="description" content="Bradley Zero is an electronic artist tracked on soundcheck, with 207 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside MLE (UK), Sally C and Hidden Spheres. Next up: Gorg-O-Mish, Vancouver.">
 <link rel="canonical" href="https://soundcheck.club/a/bradleyzero/">
 <meta property="og:type" content="profile">
