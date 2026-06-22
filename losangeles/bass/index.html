@@ -647,6 +647,16 @@
     .prof-tabs button.on { color:var(--fg); border-bottom-color:var(--accent); }
     .ptiles { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; max-width:520px; }
     .ptiles.ptiles-wide { max-width:none; grid-template-columns:repeat(auto-fill,minmax(100px,1fr)); }   /* plays-alongside: full width, ~half-size tiles */
+    /* DS: similar-artist row ("More like X" / "If you like…") — avatar + name + popularity pill + why-reason + next gig */
+    .sim-row { display:flex; align-items:center; gap:12px; width:100%; text-align:left; background:none; border:none; border-bottom:1px solid var(--line); padding:11px 2px; cursor:pointer; color:inherit; -webkit-tap-highlight-color:transparent; }
+    .sim-row:last-child { border-bottom:none; }
+    .sim-av { flex:none; width:46px; height:46px; border-radius:50%; background-size:cover; background-position:center; background-color:var(--surface); }
+    .sim-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:2px; }
+    .sim-nm { font:700 var(--fs-base) var(--body); display:flex; align-items:center; gap:8px; }
+    .sim-pop { flex:none; font:600 var(--fs-xs) var(--body); color:var(--accent); border:1px solid var(--line); border-radius:999px; padding:1px 7px; }
+    .sim-why { font:500 var(--fs-sm) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .sim-next { flex:none; font:500 var(--fs-xs) var(--body); color:var(--fg); white-space:nowrap; }
+    .sim-go { flex:none; color:var(--muted); font-size:var(--fs-lg); }
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
@@ -1020,7 +1030,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782160276526">
+<meta name="sc-build" content="1782164242712">
 <meta name="description" content="7 upcoming Bass events in Los Angeles. Browse line-ups, dates and venues, preview every DJ, and save the nights you want on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/losangeles/bass/">
 <meta property="og:type" content="website">
@@ -3481,11 +3491,11 @@
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
           h+='<div class="sec-h" style="margin-top:24px">'+
-              '<span>Plays alongside</span>'+
+              '<span>More like '+esc(a.name||slug)+'</span>'+
               '<button class="ev-radio" id="ap-scene" type="button">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
             '</div>'+
-            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Hit play for a radio of '+esc(a.name||slug)+' and the DJs they share lineups with.</p>'+
-            '<div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
+            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Artists who share '+esc(a.name||slug)+'’s lineups, promoters &amp; crowd. Hit play for a radio of all of them.</p>'+
+            '<div id="similar-rail"><div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div></div>';
         }
         h+='<div id="ap-upcoming"></div>';
         // Past sets — the gig-history timeline.
@@ -3513,6 +3523,24 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        // Richer "more like X" — lazy graph recs (co-occurrence + promoters + venues +
+        // co-hearted), each with a why-reason, popularity level + next gig. Replaces
+        // the instant alongside-ptile fallback when it loads; leaves it if it fails.
+        (function(){
+          var rail=document.getElementById('similar-rail'); if(!rail) return;
+          authedFetch('/api/artist/similar?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(j){
+            var sim=(j&&j.similar)||[]; if(!sim.length) return;
+            rail.innerHTML=sim.map(function(s){
+              var pop=s.popularity?'<span class="sim-pop">'+esc(s.popularity)+'</span>':'';
+              var nx=s.next?'<span class="sim-next">'+esc(fmtDateLabel(String(s.next.event_date).slice(0,10)))+(s.next.city?' &middot; '+esc(cityLabel(s.next.city)):'')+'</span>':'';
+              return '<button class="sim-row" type="button" data-artist="'+esc(s.slug)+'">'+
+                '<span class="sim-av" style="background-image:'+avatarBg(s.name,s.image)+'"></span>'+
+                '<span class="sim-tx"><span class="sim-nm">'+esc(s.name)+pop+'</span><span class="sim-why">'+esc(s.why)+'</span></span>'+
+                (nx||'<span></span>')+'<span class="sim-go">&rsaquo;</span></button>';
+            }).join('');
+            rail.querySelectorAll('.sim-row[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+          }).catch(function(){});
+        })();
         // Whole row opens the event (date/title/gap all tap through); the button
         // stays for keyboard/SR users and stops propagation so it fires once.
         document.querySelectorAll('#page-body .gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
