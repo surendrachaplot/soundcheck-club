@@ -758,20 +758,21 @@
     .gh-log:hover { border-color:var(--accent); color:var(--accent); }
     /* "Coming up" — entity row + stacked gig lines */
     .cu-list { list-style:none; margin:0; padding:0; }
-    .cu-list li { display:flex; gap:13px; padding:13px 0; border-bottom:1px solid var(--border); }
+    .cu-list li { display:flex; gap:11px; padding:13px 0; border-bottom:1px solid var(--border); }
     .cu-list li:last-child { border-bottom:none; }
-    .cu-who { flex:0 0 112px; display:flex; flex-direction:column; align-items:flex-start; gap:8px; min-width:0; background:none; border:0; padding:0; text-align:left; cursor:pointer; color:var(--fg); }
+    .cu-who { flex:0 0 94px; display:flex; flex-direction:column; align-items:flex-start; gap:8px; min-width:0; background:none; border:0; padding:0; text-align:left; cursor:pointer; color:var(--fg); }
     .cu-av { width:46px; height:46px; border-radius:50%; flex:0 0 auto; position:relative; overflow:hidden; background-size:cover; background-position:center; }
     .cu-av.sq { border-radius:13px; }
     .cu-av img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
     .cu-nm { font-weight:600; font-size:var(--fs-sm); line-height:1.25; word-break:break-word; }
     .cu-who:hover .cu-nm { color:var(--accent); }
     .cu-gigs { flex:1; min-width:0; display:flex; flex-direction:column; gap:8px; }
-    .cu-gl { display:flex; gap:10px; align-items:baseline; background:none; border:0; padding:0; width:100%; text-align:left; cursor:pointer; color:var(--fg); font:inherit; }
-    .cu-gl .cu-d { color:var(--accent); font-weight:700; font-variant-numeric:tabular-nums; flex:0 0 84px; font-size:var(--fs-base); }
-    .cu-gl .cu-m { color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:var(--fs-base); min-width:0; }
-    .cu-gl .cu-m b { color:var(--fg); font-weight:600; }
-    .cu-gl:hover .cu-m b { color:var(--accent); }
+    .cu-gl { display:flex; gap:9px; align-items:flex-start; background:none; border:0; padding:0; width:100%; text-align:left; cursor:pointer; color:var(--fg); font:inherit; }
+    .cu-gl .cu-d { color:var(--accent); font-weight:700; font-variant-numeric:tabular-nums; flex:0 0 76px; font-size:var(--fs-base); }
+    .cu-gl .cu-m { display:flex; flex-direction:column; gap:1px; min-width:0; font-size:var(--fs-base); }
+    .cu-gl .cu-m1 { color:var(--fg); font-weight:600; line-height:1.3; }
+    .cu-gl .cu-m2 { color:var(--muted); font-size:var(--fs-sm); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .cu-gl:hover .cu-m1 { color:var(--accent); }
     .cu-more { background:none; border:0; padding:2px 0; text-align:left; color:var(--muted); font-size:var(--fs-sm); cursor:pointer; }
     .cu-more:hover { color:var(--accent); }
     .cu-hide { display:none; }
@@ -1037,11 +1038,14 @@
     .search-box input:focus { border-color:var(--accent); }
 
     /* site footer */
-    .site-foot { border-top:1px solid var(--border); margin-top:8px; padding:26px 0 64px; display:flex; gap:14px; align-items:center; flex-wrap:wrap; color:var(--muted); font-size:var(--fs-xs); }
-    .site-foot a { color:var(--muted); text-decoration:none; font-weight:600; }
-    .site-foot a:hover { color:var(--accent); }
-    .site-foot .dot { opacity:0.45; }
-    .site-foot .foot-cta { color:var(--accent); font-weight:700; }
+    .site-foot { border-top:1px solid var(--border); margin-top:18px; padding:24px 0 calc(80px + env(safe-area-inset-bottom)); }
+    .foot-row { display:flex; align-items:center; justify-content:space-between; gap:14px 24px; flex-wrap:wrap; }
+    .foot-logo { font:800 var(--fs-lg) var(--head); color:var(--fg); text-decoration:none; letter-spacing:-0.01em; cursor:pointer; }
+    .foot-logo:hover { color:var(--accent); }
+    .foot-links { display:flex; flex-wrap:wrap; gap:10px 18px; }
+    .foot-links a { color:var(--muted); text-decoration:none; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .foot-links a:hover { color:var(--accent); }
+    .foot-msg { margin-top:18px; color:var(--muted); font:500 var(--fs-sm) var(--body); letter-spacing:0.01em; }
     .se-form { display:flex; flex-direction:column; gap:8px; margin-top:16px; }
     .se-form input, .se-form select, .se-form textarea { padding:11px 14px; border:1px solid var(--border); border-radius:8px; font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
     .se-form input:focus, .se-form select:focus, .se-form textarea:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
@@ -1051,7 +1055,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782166775416">
+<meta name="sc-build" content="1782168334783">
 <meta name="description" content="Liam Palmer is a house and tech house and 2 more artist tracked on soundcheck, with 149 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: LA-YAM Rooftop, London on Sat 4 Jul.">
 <link rel="canonical" href="https://soundcheck.club/dj/liampalmer/">
 <meta property="og:type" content="profile">
@@ -1109,22 +1113,27 @@
     </div>
     <div class="grid" id="grid"></div>
 
-    <div class="teaser">
-      <span class="tt">Come help us build the first <b>community-owned club in London.</b></span>
-      <a href="/">6 Minutes &rarr;</a>
-    </div>
-    <footer class="site-foot">
-      <a href="#" id="foot-submit" class="foot-cta">Don&rsquo;t see your event here? Let us know &rsaquo;</a>
-      <span class="dot">&middot;</span>
-      <span>soundcheck &mdash; a 6 Minutes project</span>
-      <span class="dot">&middot;</span>
-      <a href="https://6minutes.club">6 Minutes</a>
-      <span class="dot">&middot;</span>
-      <a href="design-system.html">Design system</a>
-    </footer>
     </div><!-- /#home -->
 
     <div id="page-view" class="page-view" hidden></div>
+    <!-- persistent footer chrome — shows below whichever view is active (all pages) -->
+    <div class="teaser">
+      <span class="tt">Come help us build the first <b>community-owned club in London.</b></span>
+      <a href="https://6minutes.club">6 Minutes &rarr;</a>
+    </div>
+    <footer class="site-foot">
+      <div class="foot-row">
+        <a class="foot-logo" id="foot-home" role="button" tabindex="0">soundcheck</a>
+        <nav class="foot-links" aria-label="Footer">
+          <a id="foot-discover" role="button" tabindex="0">Discover</a>
+          <a id="foot-cities" role="button" tabindex="0">Cities</a>
+          <a href="https://6minutes.club">6 Minutes</a>
+          <a href="design-system.html">Design system</a>
+          <a href="#" id="foot-submit">Suggest an event</a>
+        </nav>
+      </div>
+      <div class="foot-msg">Made in London with Love 2026 &middot; Free Palestine &middot; No War</div>
+    </footer>
   </main>
 
   <div class="dock" id="dock" role="region" aria-label="Now playing">
@@ -1433,6 +1442,12 @@
     }
     var _footSubmit=document.getElementById('foot-submit');
     if(_footSubmit) _footSubmit.addEventListener('click',function(e){ e.preventDefault(); openSubmitEvent(); });
+    var _footHome=document.getElementById('foot-home');
+    if(_footHome) _footHome.addEventListener('click',function(){ if(document.body.classList.contains('page-on')) goGrid(); window.scrollTo(0,0); });
+    var _footDisc=document.getElementById('foot-discover');
+    if(_footDisc) _footDisc.addEventListener('click',function(){ openDiscover(); });
+    var _footCities=document.getElementById('foot-cities');
+    if(_footCities) _footCities.addEventListener('click',function(){ openCityPicker(); });
     // Persistent nudge to finish sign-up; hidden once they're actually signed in.
     function showSignupBanner(email){
       if(currentUser) return;
@@ -3293,11 +3308,11 @@
     }
     function upGigLine(g, kind, hidden){
       var d=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):'';
-      var label;
-      if(kind==='venue') label='<b>'+esc(g.title||'Club night')+'</b>';
-      else if(kind==='artist'){ var cy=cityLabel(g.city); label='<b>'+esc(g.venue||'')+'</b>'+(cy?' &middot; '+esc(cy):''); }
-      else label='<b>'+esc(g.title||g.venue||'A show')+'</b>'+((g.title&&g.venue)?' &middot; '+esc(g.venue):'');
-      return '<button class="cu-gl'+(hidden?' cu-hide':'')+'" type="button" data-ev="'+esc(String(g.id))+'"><span class="cu-d">'+esc(d)+'</span><span class="cu-m">'+label+'</span></button>';
+      var t1, t2='';
+      if(kind==='venue'){ t1=g.title||'Club night'; }
+      else if(kind==='artist'){ t1=g.venue||'TBA'; t2=cityLabel(g.city)||''; }
+      else { t1=g.title||g.venue||'A show'; t2=(g.title&&g.venue)?g.venue:''; }
+      return '<button class="cu-gl'+(hidden?' cu-hide':'')+'" type="button" data-ev="'+esc(String(g.id))+'"><span class="cu-d">'+esc(d)+'</span><span class="cu-m"><span class="cu-m1">'+esc(t1)+'</span>'+(t2?'<span class="cu-m2">'+esc(t2)+'</span>':'')+'</span></button>';
     }
     function upRow(e, kind){
       var key = kind==='friend' ? e.handle : (kind==='venue' ? (e.slug||e.name) : e.slug);
@@ -4361,11 +4376,7 @@
     // ── multi-city ──
     // Minimal fallback registry so the picker works even if /api/cities is
     // unreachable; replaced by the server list (the source of truth) on boot.
-    var CITY_LIST=[
-      {slug:'london',name:'London',country:'UK'},{slug:'berlin',name:'Berlin',country:'DE'},
-      {slug:'amsterdam',name:'Amsterdam',country:'NL'},{slug:'paris',name:'Paris',country:'FR'},
-      {slug:'barcelona',name:'Barcelona',country:'ES'},{slug:'ibiza',name:'Ibiza',country:'ES'}
-    ];
+    var CITY_LIST=[{"slug":"london","name":"London","country":"UK"},{"slug":"tallinn","name":"Tallinn","country":"EE"},{"slug":"berlin","name":"Berlin","country":"DE"},{"slug":"amsterdam","name":"Amsterdam","country":"NL"},{"slug":"paris","name":"Paris","country":"FR"},{"slug":"barcelona","name":"Barcelona","country":"ES"},{"slug":"ibiza","name":"Ibiza","country":"ES"},{"slug":"malta","name":"Malta","country":"MT"},{"slug":"madrid","name":"Madrid","country":"ES"},{"slug":"lisbon","name":"Lisbon","country":"PT"},{"slug":"porto","name":"Porto","country":"PT"},{"slug":"milan","name":"Milan","country":"IT"},{"slug":"rome","name":"Rome","country":"IT"},{"slug":"brussels","name":"Brussels","country":"BE"},{"slug":"vienna","name":"Vienna","country":"AT"},{"slug":"zurich","name":"Zurich","country":"CH"},{"slug":"copenhagen","name":"Copenhagen","country":"DK"},{"slug":"stockholm","name":"Stockholm","country":"SE"},{"slug":"oslo","name":"Oslo","country":"NO"},{"slug":"warsaw","name":"Warsaw","country":"PL"},{"slug":"krakow","name":"Krakow","country":"PL"},{"slug":"prague","name":"Prague","country":"CZ"},{"slug":"budapest","name":"Budapest","country":"HU"},{"slug":"dublin","name":"Dublin","country":"IE"},{"slug":"athens","name":"Athens","country":"GR"},{"slug":"manchester","name":"Manchester","country":"UK"},{"slug":"glasgow","name":"Glasgow","country":"UK"},{"slug":"bristol","name":"Bristol","country":"UK"},{"slug":"hamburg","name":"Hamburg","country":"DE"},{"slug":"munich","name":"Munich","country":"DE"},{"slug":"cologne","name":"Cologne","country":"DE"},{"slug":"frankfurt","name":"Frankfurt","country":"DE"},{"slug":"rotterdam","name":"Rotterdam","country":"NL"},{"slug":"edinburgh","name":"Edinburgh","country":"UK"},{"slug":"leeds","name":"Leeds","country":"UK"},{"slug":"liverpool","name":"Liverpool","country":"UK"},{"slug":"birmingham","name":"Birmingham","country":"UK"},{"slug":"sheffield","name":"Sheffield","country":"UK"},{"slug":"nottingham","name":"Nottingham","country":"UK"},{"slug":"newcastle","name":"Newcastle","country":"UK"},{"slug":"brighton","name":"Brighton","country":"UK"},{"slug":"belfast","name":"Belfast","country":"UK"},{"slug":"tokyo","name":"Tokyo","country":"JP"},{"slug":"osaka","name":"Osaka","country":"JP"},{"slug":"seoul","name":"Seoul","country":"KR"},{"slug":"singapore","name":"Singapore","country":"SG"},{"slug":"bangkok","name":"Bangkok","country":"TH"},{"slug":"kualalumpur","name":"Kuala Lumpur","country":"MY"},{"slug":"hongkong","name":"Hong Kong","country":"HK"},{"slug":"bali","name":"Bali","country":"ID"},{"slug":"buenosaires","name":"Buenos Aires","country":"AR"},{"slug":"brisbane","name":"Brisbane","country":"AU"},{"slug":"hobart","name":"Hobart","country":"AU"},{"slug":"melbourne","name":"Melbourne","country":"AU"},{"slug":"sydney","name":"Sydney","country":"AU"},{"slug":"antwerp","name":"Antwerp","country":"BE"},{"slug":"ghent","name":"Ghent","country":"BE"},{"slug":"saopaulo","name":"Sao Paulo","country":"BR"},{"slug":"montreal","name":"Montreal","country":"CA"},{"slug":"toronto","name":"Toronto","country":"CA"},{"slug":"vancouver","name":"Vancouver","country":"CA"},{"slug":"shenzhen","name":"Shenzhen","country":"CN"},{"slug":"lyon","name":"Lyon","country":"FR"},{"slug":"marseille","name":"Marseille","country":"FR"},{"slug":"nantes","name":"Nantes","country":"FR"},{"slug":"strasbourg","name":"Strasbourg","country":"FR"},{"slug":"tbilisi","name":"Tbilisi","country":"GE"},{"slug":"dusseldorf","name":"Düsseldorf","country":"DE"},{"slug":"leipzig","name":"Leipzig","country":"DE"},{"slug":"nurnberg","name":"Nürnberg","country":"DE"},{"slug":"stuttgart","name":"Stuttgart","country":"DE"},{"slug":"mykonos","name":"Mykonos","country":"GR"},{"slug":"naples","name":"Naples","country":"IT"},{"slug":"turin","name":"Turin","country":"IT"},{"slug":"kyoto","name":"Kyoto","country":"JP"},{"slug":"riga","name":"Riga","country":"LV"},{"slug":"mexicocity","name":"Mexico City","country":"MX"},{"slug":"thehague","name":"The Hague","country":"NL"},{"slug":"utrecht","name":"Utrecht","country":"NL"},{"slug":"auckland","name":"Auckland","country":"NZ"},{"slug":"bucharest","name":"Bucharest","country":"RO"},{"slug":"belgrade","name":"Belgrade","country":"RS"},{"slug":"malaga","name":"Malaga","country":"ES"},{"slug":"mallorca","name":"Mallorca","country":"ES"},{"slug":"valencia","name":"Valencia","country":"ES"},{"slug":"basel","name":"Basel","country":"CH"},{"slug":"geneva","name":"Geneva","country":"CH"},{"slug":"istanbul","name":"Istanbul","country":"TK"},{"slug":"austin","name":"Austin","country":"US"},{"slug":"boston","name":"Boston","country":"US"},{"slug":"chicago","name":"Chicago","country":"US"},{"slug":"denver","name":"Denver","country":"US"},{"slug":"detroit","name":"Detroit","country":"US"},{"slug":"houston","name":"Houston","country":"US"},{"slug":"losangeles","name":"Los Angeles","country":"US"},{"slug":"miami","name":"Miami","country":"US"},{"slug":"nashville","name":"Nashville","country":"US"},{"slug":"newyorkcity","name":"New York City","country":"US"},{"slug":"philadelphia","name":"Philadelphia","country":"US"},{"slug":"portland","name":"Portland","country":"US"},{"slug":"sandiego","name":"San Diego","country":"US"},{"slug":"sanfrancisco","name":"San Francisco/Oakland","country":"US"},{"slug":"seattle","name":"Seattle","country":"US"},{"slug":"washingtondc","name":"Washington DC","country":"US"}];
     // Canonical city URLs are path-based. On its own domain the app lives at the
     // root (soundcheck.club/<slug>/); on 6minutes.club it lives under /soundcheck/.
     // SC_BASE is the single switch the whole router + asset loader keys off, so
