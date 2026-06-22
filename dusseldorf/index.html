@@ -1011,7 +1011,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782140102756">
+<meta name="sc-build" content="1782141897472">
 </head>
 <body>
   <main class="wrap">
@@ -2507,9 +2507,9 @@
       doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this DJ')+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
-      // Canonical event path — NOT location.pathname+#hash (which pinned the event
-      // to whatever page you were on and broke under path routing).
-      var url=location.origin+SC_BASE+'e/'+encodeURIComponent(id);
+      // Canonical, descriptive event path — NOT location.pathname+#hash (which pinned
+      // the event to whatever page you were on and broke under path routing).
+      var url=location.origin+SC_BASE+eventPath(eventIdOf(id), title, venue)+'/';
       var t=(title||'Event')+(venue?(' · '+venue):'');
       doShare({ title:t, text:t+' — preview every DJ on soundcheck', url:url });
     }
@@ -2984,13 +2984,16 @@
     // pages already bake these in; this keeps in-app navigation + social shares right.
     var _seoDefaultTitle=document.title;
     function _metaDesc(){ var m=document.querySelector('meta[name="description"]'); if(!m){ m=document.createElement('meta'); m.name='description'; document.head.appendChild(m); } return m; }
-    function setSeo(title, desc, jsonld){
+    function _canonLink(){ var l=document.querySelector('link[rel="canonical"]'); if(!l){ l=document.createElement('link'); l.setAttribute('rel','canonical'); document.head.appendChild(l); } return l; }
+    function setSeo(title, desc, jsonld, canonical){
       if(title) document.title=title;
       if(desc!=null) _metaDesc().setAttribute('content', desc);
+      if(canonical) _canonLink().setAttribute('href', canonical);   // keep <link rel=canonical> in step with SPA nav
       var s=document.getElementById('seo-jsonld'); if(s) s.remove();
       if(jsonld){ s=document.createElement('script'); s.type='application/ld+json'; s.id='seo-jsonld'; s.textContent=JSON.stringify(jsonld); document.head.appendChild(s); }
     }
-    function resetSeo(){ setSeo(_seoDefaultTitle, '', null); }
+    // Home/city: canonical points back at the current city home (path-based).
+    function resetSeo(){ setSeo(_seoDefaultTitle, '', null, location.origin+(typeof cityPath==='function'?cityPath(currentCity):SC_BASE)); }
     // The in-app "Back" steps one level through real history (matches the
     // browser back button). At the app's first entry it lands on home.
     function goBack(){ history.back(); }
@@ -3388,7 +3391,7 @@
     }
 
     async function openArtist(slug){
-      setRoute('a/'+slug);
+      setRoute('dj/'+slug);
       openPanel('<div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/artist?slug='+encodeURIComponent(slug)); var a=await r.json();
@@ -3432,7 +3435,8 @@
           }).join('')+'</ul>';
         }
         openPanel(h);
-        setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:location.origin+SC_BASE+'a/'+slug, description:a.description||'' });
+        var _acanon=location.origin+SC_BASE+'dj/'+slug+'/';
+        setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:_acanon, description:a.description||'' }, _acanon);
         // "Tune in" plays the artist's own YouTube set in the dock (same flow as the
         // home-page lineup play buttons), so the dock's clickable name/venue apply.
         var apRadio=document.getElementById('ap-radio');
@@ -3485,17 +3489,24 @@
     // slug resolves). Idempotent, so it accepts either a name (from a click) or
     // an already-slugged value (from a /v/<slug> cold-load).
     function venueSlug(s){ return String(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+    // Descriptive event URL: e/<id>-<who>-at-<venue>. The router resolves on the
+    // leading numeric id only (eventIdOf), so the slug is purely for keywords/SEO
+    // and a stale slug (line-up renamed) still resolves. who = title or top act —
+    // verifiable facts, never an asserted "headliner".
+    function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
+    function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
+    function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
     async function openVenue(input, cityHint){
       var slug=venueSlug(input);
       // Venues are city-scoped: /<city>/v/<slug>. Default to the city in the URL
       // or the one being browsed; corrected to the venue's real city after fetch.
       var city=(cityHint || pathCitySlug() || currentCity || 'london');
-      var url=SC_BASE+city+'/v/'+slug;
+      var url=SC_BASE+city+'/club/'+slug+'/';
       if(location.pathname!==url) history.pushState({sc:1},'',url);
       openPanel('<div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)+'&city='+encodeURIComponent(city)); var v=await r.json();
-        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/v/'+slug); }
+        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/club/'+slug+'/'); }
         var dispName=v.name||input;
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
         var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'">'+(v.image?'<img src="'+imgUrl(v.image,200)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+'</span>';
@@ -3512,7 +3523,8 @@
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
-        setSeo(dispName+" — what's on & tickets | soundcheck", v.description||'', { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:location.origin+SC_BASE+(v.city||currentCity||'london')+'/v/'+venueSlug(dispName), description:v.description||'', address:v.address||undefined });
+        var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
+        setSeo(dispName+" — what's on & tickets | soundcheck", v.description||'', { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:v.description||'', address:v.address||undefined }, _vcanon);
         var vfBtn=document.getElementById('vf-btn');
         if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
         var cbBtn=document.getElementById('vp-claim');
@@ -3539,7 +3551,7 @@
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
           loadLeaflet(function(){
-            if(currentRoute().indexOf('v/')!==0 || !document.getElementById('venue-loc')) return;   // path-routed, not hash
+            var _rt=currentRoute(); if((_rt.indexOf('club/')!==0 && _rt.indexOf('v/')!==0) || !document.getElementById('venue-loc')) return;   // path-routed, not hash
             var map=L.map(locEl,{ scrollWheelZoom:false }).setView([v.lat,v.lng], 15);
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
             L.circleMarker([v.lat,v.lng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(dispName)+'</b>'+(v.address?'<br><span style="color:#9292a0">'+esc(v.address)+'</span>':''));
@@ -3593,7 +3605,7 @@
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
     // ── event page enrichment (genres, blurb, map, recommendations) ──
     function musicEventLD(ev){
-      var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
+      var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+eventPath(ev.id, ev.title||((ev.artists||[])[0]||{}).name, ev.venue)+'/', eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
       if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
       if(ev.endTime) o.endDate=ev.endTime;
       if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
@@ -3643,7 +3655,8 @@
       }
       // lineup avatars + section tiles open via existing wireCard/venue-link delegation
       document.querySelectorAll('#page-body .sheet-line .ln-av[data-artist]').forEach(function(el){ el.style.cursor='pointer'; el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
-      setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', musicEventLD(ev));
+      var _evld=musicEventLD(ev);
+      setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', _evld, _evld.url);
     }
     function mapEventDetail(d){
       return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
@@ -3657,8 +3670,9 @@
         artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
     }
     async function openEvent(id){
-      id=String(id);
-      setRoute('e/'+encodeURIComponent(id));
+      id=eventIdOf(id);   // accept a slugged path (e/<id>-<slug>) or a bare id
+      // Only (re)push if we're not already on this event — preserves a slugged URL.
+      if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
       var cached=lookup.byEvent[id];
       if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); wireEventRadio(cached); }
       else openPanel('<div class="empty">Loading…</div>');
@@ -3666,7 +3680,10 @@
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
         if(!r.ok) throw 0;
         var ev=mapEventDetail(await r.json());
-        if(currentRoute().indexOf('e/')!==0) return;   // navigated away while loading (path-routed, not hash)
+        if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) return;   // navigated away while loading
+        // Upgrade the bare URL to the descriptive, canonical slug now we know who/where.
+        var _who=ev.title||((ev.artists||[])[0]||{}).name||'';
+        history.replaceState({sc:1},'', SC_BASE+eventPath(id,_who,ev.venue)+'/');
         if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); }
         renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
       }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
@@ -3850,8 +3867,10 @@
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
-      else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));
-      else if(hash.indexOf('v/')===0) openVenue(hash.slice(2), pathCitySlug());
+      else if(hash.indexOf('dj/')===0) openArtist(hash.slice(3));
+      else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));          // legacy /a/
+      else if(hash.indexOf('club/')===0) openVenue(hash.slice(5), pathCitySlug());
+      else if(hash.indexOf('v/')===0) openVenue(hash.slice(2), pathCitySlug()); // legacy /v/
       else if(hash.indexOf('e/')===0) openEvent(hash.slice(2));
       else if(hash.indexOf('n/')===0) openNight(hash.slice(2));
     }
@@ -3859,8 +3878,11 @@
     // popstate, so no double-render). Back/forward fire popstate → handleRoute.
     function setRoute(route){
       if(currentRoute()===route) return;   // already here — no duplicate history entry
-      // Entity routes → clean city-less path (/a/<slug>); nav overlays → hash.
-      var url = ENTITY_RE.test(route) ? (SC_BASE + route.replace(/^([a-z]\/)(.*)$/, function(_,p,s){ return p+encodeURIComponent(decodeURIComponent(s)); })) : (SC_BASE + '#' + route);
+      // Entity routes → clean city-less path with a trailing slash (/dj/<slug>/),
+      // matching the pre-rendered canonical; nav overlays → hash.
+      var url = ENTITY_RE.test(route)
+        ? (SC_BASE + route.replace(/^([a-z]+\/)(.*)$/, function(_,p,s){ return p+encodeURIComponent(decodeURIComponent(s)); }) + '/')
+        : (SC_BASE + '#' + route);
       history.pushState({sc:1},'',url);
     }
     window.addEventListener('popstate', handleRoute);
@@ -4159,21 +4181,21 @@
     // Promo/share URL shown on taste cards + share text — tracks the live domain.
     function shareHost(){ return /(^|\.)soundcheck\.club$/.test(location.hostname) ? 'soundcheck.club' : '6minutes.club/soundcheck'; }
     function onScPath(){ return location.pathname.indexOf(SC_BASE)===0; }
-    // Artist/user/event/night are GLOBAL — city-less top-level paths: /a/<slug>,
-    // /u/<handle>, /e/<id>, /n/<id>. Venues are CITY-scoped (a venue lives in one
-    // city), so they sit under the city: /<city>/v/<slug>. All served via the
-    // Pages 404.html SPA fallback. pathRoute() returns the render-route (e.g.
-    // 'v/fold' or 'a/objekt'); pathCitySlug() returns the city segment.
-    var ENTITY_RE=/^(a|u|e|n)\/.+/;          // global, city-less
-    var CITY_SEG_RE=/^(a|u|v|e|n)$/;         // reserved first segments (never a city)
+    // Artist/user/event/night are GLOBAL — city-less top-level paths: /dj/<slug>,
+    // /u/<handle>, /e/<id>-<slug>, /n/<id>. Venues are CITY-scoped (a venue lives in
+    // one city), so they sit under the city: /<city>/club/<slug>. Legacy /a/ and /v/
+    // still resolve. All served via the Pages 404.html SPA fallback. pathRoute()
+    // returns the render-route (e.g. 'club/fold' or 'dj/objekt'); pathCitySlug() the city.
+    var ENTITY_RE=/^(dj|a|u|e|n)\/.+/;       // global, city-less (dj canonical; a = legacy alias)
+    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n)$/; // reserved first segments (never a city)
     function pathRoute(){
       if(!onScPath()) return null;
       var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
       try{ rest=decodeURIComponent(rest); }catch(_){}
-      if(ENTITY_RE.test(rest)) return rest;              // /a|u|e|n/<id>
-      var m=rest.match(/^[a-z0-9-]+\/(v\/.+)$/);         // /<city>/v/<slug>
+      if(ENTITY_RE.test(rest)) return rest;              // /dj|a|u|e|n/<id>
+      var m=rest.match(/^[a-z0-9-]+\/((?:club|v)\/.+)$/);// /<city>/club/<slug> (v = legacy)
       if(m) return m[1];
-      if(/^v\/.+/.test(rest)) return rest;               // legacy city-less /v/<slug>
+      if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
       return null;
     }
     function pathCitySlug(){
@@ -4493,8 +4515,8 @@
     var _shareDate = _qsd || (sharedPicks && sharedPicks.date) || null;
     // Capture the boot route + URL BEFORE the default-landing load() runs:
     // load()/loadWeekend() synchronously replaceState to ?date=/?weekend=, which
-    // would otherwise wipe an entity path (/a/<slug>, /<city>/v/<slug>) before we
-    // read it — sending every refresh of a page back to the home grid.
+    // would otherwise wipe an entity path (/dj/<slug>, /<city>/club/<slug>) before
+    // we read it — sending every refresh of a page back to the home grid.
     var _bootRoute=currentRoute();
     var _bootIsPath=!!(onScPath() && pathRoute());
     var _bootUrl=location.pathname+location.search;
@@ -4504,11 +4526,11 @@
     else if(_shareDate) load(_shareDate);
     else load(nextFridayISO(), 'fri'); // default landing: the next Friday
 
-    // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
-    // overlay)? The default landing above set up the home grid underneath; now
-    // restore the captured page URL (load() just rewrote it) and route over it so
+    // Deep link to a page (dj/slug, u/handle, club/name, e/id, n/id, legacy a//v/,
+    // or a #hash overlay)? The default landing above set up the home grid underneath;
+    // now restore the captured page URL (load() just rewrote it) and route over it so
     // Back lands on the grid.
-    if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|picks|feed|log|u\/|dj\/|a\/|club\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Synchronous (not deferred): the open* handlers add body.page-on before the
