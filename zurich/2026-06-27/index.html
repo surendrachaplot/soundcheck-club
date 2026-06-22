@@ -34,7 +34,7 @@
       --accent:#ff7a6b; --border:#28282f; --ink:#1a0f0e; --accent-ink:#1a0f0e;
       --head:"Bricolage Grotesque",sans-serif; --body:"Inter",sans-serif;
       --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
-      --fs-xs:0.72rem; --fs-sm:0.8rem; --fs-base:0.9rem; --fs-md:1.05rem; --fs-lg:1.4rem; --fs-xl:1.7rem;
+      --fs-xs:0.72rem; --fs-sm:0.8rem; --fs-base:0.9rem; --fs-md:1.05rem; --fs-lg:1.4rem; --fs-xl:1.7rem; --fs-2xl:2rem;
     }
     html { scroll-behavior:smooth; color-scheme:dark; }
     body { background:var(--bg); color:var(--fg); font-family:var(--body); font-size:var(--fs-base); line-height:1.55; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
@@ -563,8 +563,15 @@
 
     /* ── hub (Concept B): stat cards + action tiles + recent diary ── */
     .muted { color:var(--muted); }
-    .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-sm); letter-spacing:0.02em; margin:0 0 12px; display:flex; align-items:center; justify-content:space-between; }
-    .sec-h .more { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); cursor:pointer; }
+    /* Page title (style C): big Bricolage title + short coral underline. */
+    .page-title { font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-0.035em; line-height:1.04; margin:0 0 14px; }
+    .page-title::after { content:""; display:block; width:52px; height:5px; background:var(--accent); border-radius:2px; margin-top:10px; }
+    /* Section header (style 1): coral tick + title + count pill, control pushed right. */
+    .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; margin:0 0 12px; display:flex; align-items:center; gap:9px; }
+    .sec-h::before { content:""; width:3px; height:1.05em; background:var(--accent); border-radius:2px; flex:none; }
+    .sec-h .ct { font:600 var(--fs-xs)/1 var(--body); color:var(--muted); background:#26262d; border-radius:999px; padding:3px 9px; letter-spacing:0; }
+    .sec-h .more { margin-left:auto; font-size:var(--fs-xs); font-weight:600; letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
+    .sec-h .ev-radio { margin-left:auto; }
     .sec-radio { margin:0; padding:5px 12px; flex:none; }
     .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
     .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:10px; padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
@@ -1011,7 +1018,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782141897472">
+<meta name="sc-build" content="1782145169882">
 <meta name="description" content="10 events in Zurich on Sat, 27 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/zurich/2026-06-27/">
 <meta property="og:type" content="website">
@@ -2570,17 +2577,17 @@
       });
       Object.keys(picks.events).forEach(function(i){ if(evtStatus(i)==='going') going.push({i:i, e:picks.events[i]}); });
       var h='';
-      if(going.length){ h+='<div class="sec-h">Saved events ('+going.length+')</div><ul class="tray-line">'+going.map(function(g){ return meRowEvt(g.i, g.e); }).join('')+'</ul>'; }
-      if(wannaComing.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · coming up ('+wannaComing.length+')</div><ul class="tray-line">'+wannaComing.map(function(w){ return meRow(w.nm, (w.ev.venue||'')+(w.ev._day?(' · '+w.ev._day):''), 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
-      if(wannaList.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · on your list ('+wannaList.length+')</div><ul class="tray-line">'+wannaList.map(function(w){ return meRow(w.nm, 'no upcoming London date yet', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
-      if(seen.length){ h+='<div class="sec-h" style="margin-top:18px">Seen live ('+seen.length+')</div><ul class="tray-line">'+seen.map(function(w){ return meRow(w.nm, '', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
+      if(going.length){ h+='<div class="sec-h">Saved events<span class="ct">'+going.length+'</span></div><ul class="tray-line">'+going.map(function(g){ return meRowEvt(g.i, g.e); }).join('')+'</ul>'; }
+      if(wannaComing.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · coming up<span class="ct">'+wannaComing.length+'</span></div><ul class="tray-line">'+wannaComing.map(function(w){ return meRow(w.nm, (w.ev.venue||'')+(w.ev._day?(' · '+w.ev._day):''), 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
+      if(wannaList.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · on your list<span class="ct">'+wannaList.length+'</span></div><ul class="tray-line">'+wannaList.map(function(w){ return meRow(w.nm, 'no upcoming London date yet', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
+      if(seen.length){ h+='<div class="sec-h" style="margin-top:18px">Seen live<span class="ct">'+seen.length+'</span></div><ul class="tray-line">'+seen.map(function(w){ return meRow(w.nm, '', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
       if(!h) h='<div class="empty">Nothing here yet. Heart artists you wanna see, save nights you&rsquo;re going to, and tick DJs you&rsquo;ve seen live.</div>';
       return h;
     }
     function openMyPicks(){
       setRoute('picks');
       var has=pickCount()>0;
-      var h='<h3>My picks</h3><div class="sub" style="margin-bottom:14px">'+(currentUser?('Synced to u/'+esc(currentUser.handle)+' across your devices.'):'Saved on this device &mdash; sign in to keep them.')+'</div>';
+      var h='<h2 class="page-title">My picks</h2><div class="sub" style="margin-bottom:14px">'+(currentUser?('Synced to u/'+esc(currentUser.handle)+' across your devices.'):'Saved on this device &mdash; sign in to keep them.')+'</div>';
       if(has) h+='<div style="display:flex;gap:9px;margin-bottom:20px;max-width:520px"><button class="btn solid" id="mp-share" type="button" style="flex:1;border:none;border-radius:999px;background:var(--accent);color:var(--accent-ink);font:700 var(--fs-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Share my picks</button><button class="btn ghost" id="mp-copy" type="button" style="flex:1;background:transparent;color:var(--fg);border:1px solid var(--border);border-radius:999px;font:700 var(--fs-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Copy link</button></div>';
       var hasArt=Object.keys(picks.artists).length>0;
       if(hasArt) h+='<button class="tc-cta" id="mp-taste" type="button">◆ Share your taste card</button>';
@@ -2602,7 +2609,7 @@
       try{
         var r=await authedFetch('/api/diary'); var j=await r.json(); var rows=j.entries||[];
         var el=document.getElementById('mp-diary'); if(!el) return;
-        el.innerHTML='<div class="sec-h">Diary ('+rows.length+') <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
+        el.innerHTML='<div class="sec-h">Diary<span class="ct">'+rows.length+'</span> <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
         wireDiary(el, true, appendPicksDiary);
       }catch(_){}
@@ -3047,10 +3054,10 @@
     // page so they stay identical (DRY).
     function shelfSecHTML(s, handle){
       function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
-      var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
-      x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
-      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ var sub=esc(e.venue||'')+(e.day?(' &middot; '+esc(fmtDateLabel(String(e.day).slice(0,10)))):''); return '<li><span class="open-ev"'+(e.id!=null?' data-open-evt="'+esc(String(e.id))+'"':'')+'>'+esc(e.title||'Event')+(sub?' <small>'+sub+'</small>':'')+'</span></li>'; }).join('')+'</ul>'; }
-      if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
+      var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
+      x+='<div class="sec-h" style="margin-top:22px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
+      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events<span class="ct">'+s.events.length+'</span></div><ul class="tray-line">'+s.events.map(function(e){ var sub=esc(e.venue||'')+(e.day?(' &middot; '+esc(fmtDateLabel(String(e.day).slice(0,10)))):''); return '<li><span class="open-ev"'+(e.id!=null?' data-open-evt="'+esc(String(e.id))+'"':'')+'>'+esc(e.title||'Event')+(sub?' <small>'+sub+'</small>':'')+'</span></li>'; }).join('')+'</ul>'; }
+      if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues<span class="ct">'+s.venues.length+'</span></div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
       return x;
     }
     function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
@@ -3156,7 +3163,7 @@
       if(!currentUser){ openAuth(); return; }
       setRoute('upcoming');
       upS={ scope:'week', anchor:todayISO(), tab:null };
-      openPanel('<h3>Coming up</h3><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
+      openPanel('<h2 class="page-title">Coming up</h2><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
       renderUpcoming();
     }
     function upScopeBar(){
@@ -3252,10 +3259,10 @@
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
-      openPanel('<h3>Feed</h3><div class="empty">Loading…</div>');
+      openPanel('<h2 class="page-title">Feed</h2><div class="empty">Loading…</div>');
       try{
         var r=await authedFetch('/api/feed'); var j=await r.json(); var rows=j.events||[];
-        var h='<h3>Feed</h3><div class="sub">What the people you follow are into.</div>';
+        var h='<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>';
         if(!rows.length){ h+='<div class="empty">Quiet so far. Follow some people from their profiles and their picks show up here.</div>'; openPanel(h); maybeSuggest(); return; }
         h+='<div style="margin-top:8px">'+rows.map(function(a){
           var verb = a.kind==='wanna_see'?'wants to see':a.kind==='seen'?'saw':a.kind==='save_event'?'saved':a.kind==='follow'?'followed':a.kind==='diary'?'logged a gig at':'·';
@@ -3264,7 +3271,7 @@
           return '<div class="feed-row">'+av(a.author_handle)+'<div><div class="ft"><b class="lk" data-profile="'+esc(a.author_handle)+'">u/'+esc(a.author_handle)+'</b> '+verb+' '+subj+'</div><div class="fw">'+relTime(a.created_at)+'</div></div></div>';
         }).join('')+'</div>';
         openPanel(h); wireFeed();
-      }catch(_){ openPanel('<h3>Feed</h3><div class="empty">Couldn&rsquo;t load the feed.</div>'); }
+      }catch(_){ openPanel('<h2 class="page-title">Feed</h2><div class="empty">Couldn&rsquo;t load the feed.</div>'); }
     }
     function wireFeed(){
       panelBody.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(b.dataset.profile); }); });
@@ -3303,7 +3310,7 @@
     // ── public search (events / venues / artists) ──
     function openSearch(){
       setRoute('search');
-      showPage('<h3>Search</h3><div class="sub" style="margin-bottom:14px">Find events, venues, DJs and people across '+esc(cityMeta().name)+'.</div>'+
+      showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find events, venues, DJs and people across '+esc(cityMeta().name)+'.</div>'+
         '<div class="search-box"><input type="search" id="sx-input" placeholder="Search events, venues, DJs, people…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
         '<div id="sx-results"></div>');
       var input=document.getElementById('sx-input'), results=document.getElementById('sx-results');
@@ -3322,10 +3329,10 @@
       var ev=j.events||[], ven=j.venues||[], art=j.artists||[], peo=j.people||[];
       if(!ev.length && !ven.length && !art.length && !peo.length){ el.innerHTML='<div class="empty" style="padding:20px 0">No matches for &ldquo;'+esc(q)+'&rdquo;.</div>'; return; }
       var h='';
-      if(peo.length){ h+='<div class="sec-h" style="margin-top:10px">People ('+peo.length+')</div><ul class="tray-line" id="sx-peo"></ul>'; }
-      if(art.length){ h+='<div class="sec-h" style="margin-top:'+(peo.length?'24px':'10px')+'">Artists ('+art.length+')</div><div class="ptiles" id="sx-art"></div>'; }
-      if(ven.length){ h+='<div class="sec-h" style="margin-top:24px">Venues ('+ven.length+')</div><ul class="tray-line" id="sx-ven"></ul>'; }
-      if(ev.length){ h+='<div class="sec-h" style="margin-top:24px">Events ('+ev.length+')</div><div id="sx-ev"></div>'; }
+      if(peo.length){ h+='<div class="sec-h" style="margin-top:10px">People<span class="ct">'+peo.length+'</span></div><ul class="tray-line" id="sx-peo"></ul>'; }
+      if(art.length){ h+='<div class="sec-h" style="margin-top:'+(peo.length?'24px':'10px')+'">Artists<span class="ct">'+art.length+'</span></div><div class="ptiles" id="sx-art"></div>'; }
+      if(ven.length){ h+='<div class="sec-h" style="margin-top:24px">Venues<span class="ct">'+ven.length+'</span></div><ul class="tray-line" id="sx-ven"></ul>'; }
+      if(ev.length){ h+='<div class="sec-h" style="margin-top:24px">Events<span class="ct">'+ev.length+'</span></div><div id="sx-ev"></div>'; }
       el.innerHTML=h;
       if(peo.length){
         var pe=document.getElementById('sx-peo');
@@ -3363,7 +3370,7 @@
     async function openMap(){
       setRoute('map');
       var cm=cityMeta();
-      showPage('<h3>Venue map</h3><div class="sub" style="margin-bottom:14px">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
+      showPage('<h2 class="page-title">Venue map</h2><div class="sub" style="margin-bottom:14px">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
       var el=document.getElementById('venue-map');
       loadLeaflet(async function(){
         if(location.hash!=='#map' || !document.getElementById('venue-map')) return; // navigated away while loading
@@ -3426,9 +3433,9 @@
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
-          h+='<div class="sec-h" style="margin-top:24px;display:flex;align-items:center;justify-content:space-between;gap:12px">'+
+          h+='<div class="sec-h" style="margin-top:24px">'+
               '<span>Plays alongside</span>'+
-              '<button class="ev-radio" id="ap-scene" type="button" style="margin:0">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
+              '<button class="ev-radio" id="ap-scene" type="button">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
             '</div>'+
             '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Hit play for a radio of '+esc(a.name||slug)+' and the DJs they share lineups with.</p>'+
             '<div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
@@ -3473,7 +3480,7 @@
           };
         });
         if(up && rows.length){
-          up.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming ('+rows.length+')</div>'+
+          up.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+rows.length+'</span></div>'+
             '<div class="grid">'+rows.map(cardHTML).join('')+'</div>';
           wireCard(up);
           var rmap={}; rows.forEach(function(ev){ if(ev.id!=null) rmap[String(ev.id)]=ev; });
@@ -3542,7 +3549,7 @@
         if(cbBtn) cbBtn.addEventListener('click',function(){ openClaimModal(dispName, v.slug); });
         var up=(v.upcoming||[]), vu=document.getElementById('vp-upcoming');
         if(vu && up.length){
-          vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+' ('+up.length+')</div><div id="vp-cards"></div>';
+          vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+'<span class="ct">'+up.length+'</span></div><div id="vp-cards"></div>';
           mountEventCards(document.getElementById('vp-cards'), up);
         }
         // Past events — same gig-history list pattern as "Past sets" on the artist page.
@@ -3606,7 +3613,7 @@
             '</div>'+
             '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
             ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
+            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?'<span class="ct">'+n+'</span>':'')+'</div>'+
             '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
           '</div>'+
         '</div>'+
@@ -3724,7 +3731,7 @@
     function logFormHTML(){
       var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
         return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
-      return '<h3>Log a gig</h3><div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
+      return '<h2 class="page-title">Log a gig</h2><div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
           '<div id="lg-pickers">'+
