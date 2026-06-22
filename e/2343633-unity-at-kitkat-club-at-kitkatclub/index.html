@@ -730,6 +730,12 @@
     .nm-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:1px; }
     .nm-nm { font:700 var(--fs-base) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .nm-why { font:500 var(--fs-sm) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .nm-note { color:var(--muted); font:500 var(--fs-sm) var(--body); padding:6px 0 2px; }
+    .nm-more { margin-top:10px; background:none; border:none; color:var(--accent); font:700 var(--fs-sm) var(--body); cursor:pointer; padding:4px 0; -webkit-tap-highlight-color:transparent; }
+    .nm-more.open { color:var(--muted); }
+    .nm-more-list { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
+    .nm-mini { background:#26262d; border:none; border-radius:999px; padding:4px 10px; font:600 var(--fs-sm) var(--body); color:var(--fg); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .nm-mini:hover { color:var(--accent); }
     /* DS: venue DNA (F7, behaviorally-derived) */
     .vd-box { margin-top:6px; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 16px; }
     .vd-tags { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:6px; }
@@ -1118,7 +1124,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782170971626">
+<meta name="sc-build" content="1782172092987">
 <meta name="description" content="UNITY AT KITKAT CLUB at KitKatClub on Thu 25 Jun, Berlin. 2 acts on the bill: CIKO and Limoncello. Trance and Techno. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2343633-unity-at-kitkat-club-at-kitkatclub/">
 <meta property="og:type" content="website">
@@ -3954,16 +3960,33 @@
       // so fill the header's #ev-when even if the cached open had no/partial date.
       var when=document.getElementById('ev-when');
       if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
-      // Who not to miss — personalised lineup ranking (signed-in users, ≥2 acts).
+      // Who not to miss — highlights the acts worth catching (personalised when we can,
+      // objective otherwise so it works signed-out). Never lists who to skip; the rest of
+      // the bill collapses behind "+N more".
       var nmEl=document.getElementById('ev-notmiss');
-      if(nmEl && currentUser && (ev.artists||[]).length>=2){
+      if(nmEl && (ev.artists||[]).length>=2){
         authedFetch('/api/event/lineup?id='+encodeURIComponent(ev.id)).then(function(r){ return r.json(); }).then(function(j){
-          var tiers=(j&&j.tiers)||[]; if(!tiers.length) return;
-          nmEl.innerHTML='<div class="nm-box"><div class="nm-k">Who not to miss <small>for your taste</small></div>'+tiers.map(function(t){
-            var cl=t.tier==='Do not miss'?'hi':t.tier==='Worth arriving early'?'mid':t.tier==='Good but not essential'?'ok':'lo';
-            return '<button class="nm-row" type="button" data-artist="'+esc(t.slug)+'"><span class="nm-tier nm-'+cl+'">'+esc(t.tier)+'</span><span class="nm-tx"><span class="nm-nm">'+esc(t.name)+'</span>'+(t.reason?'<span class="nm-why">'+esc(t.reason)+'</span>':'')+'</span></button>';
-          }).join('')+'</div>';
-          nmEl.querySelectorAll('.nm-row[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+          if(!j) return;
+          var hi=(j.highlights||[]), more=(j.more||[]);
+          if(!hi.length && !j.note) return;
+          var sub=j.mode==='personal'?'for your taste':'worth catching';
+          var html='<div class="nm-box"><div class="nm-k">Who not to miss <small>'+sub+'</small></div>';
+          if(hi.length){
+            html+=hi.map(function(t){
+              var cl=t.tier==='Do not miss'?'hi':'mid';
+              return '<button class="nm-row" type="button" data-artist="'+esc(t.slug)+'"><span class="nm-tier nm-'+cl+'">'+esc(t.tier)+'</span><span class="nm-tx"><span class="nm-nm">'+esc(t.name)+'</span>'+(t.reason?'<span class="nm-why">'+esc(t.reason)+'</span>':'')+'</span></button>';
+            }).join('');
+          } else if(j.note){
+            html+='<div class="nm-note">'+esc(j.note)+'</div>';
+          }
+          if(more.length){
+            html+='<button class="nm-more" type="button" id="nm-more-btn">+'+more.length+' more on the bill</button>'+
+              '<div class="nm-more-list" id="nm-more-list" hidden>'+more.map(function(m){ return '<button class="nm-mini" type="button" data-artist="'+esc(m.slug)+'">'+esc(m.name)+'</button>'; }).join('')+'</div>';
+          }
+          html+='</div>';
+          nmEl.innerHTML=html;
+          var mb=document.getElementById('nm-more-btn'); if(mb) mb.addEventListener('click',function(){ var l=document.getElementById('nm-more-list'); if(l){ l.hidden=!l.hidden; mb.classList.toggle('open', !l.hidden); mb.textContent=l.hidden?('+'+more.length+' more on the bill'):'Hide the rest'; } });
+          nmEl.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         }).catch(function(){});
       }
       // The cached first-paint doesn't know if you've logged this night (only the
