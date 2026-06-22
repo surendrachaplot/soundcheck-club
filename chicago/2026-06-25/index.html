@@ -1009,7 +1009,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782150451408">
+<meta name="sc-build" content="1782151023058">
 <meta name="description" content="5 events in Chicago on Thu, 25 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/chicago/2026-06-25/">
 <meta property="og:type" content="website">
@@ -1119,17 +1119,17 @@
       <div id="auth-form-state">
         <div class="eyebrow">Save your picks</div>
         <h3>Sign in to <span style="color:var(--accent)">soundcheck</span>.</h3>
-        <p>No password. We&rsquo;ll email you a one-tap sign-in link, so your picks follow you across devices.</p>
+        <p>No password &mdash; we&rsquo;ll email you a magic link, so your picks follow you across devices.</p>
         <form id="auth-form">
           <input type="email" id="auth-email" placeholder="you@email.com" autocomplete="email" inputmode="email" required>
-          <button class="go" type="submit" id="auth-go">Email me a link</button>
+          <button class="go" type="submit" id="auth-go">Send my magic link</button>
           <div class="err" id="auth-err"></div>
         </form>
       </div>
       <div id="auth-sent-state" class="sent" hidden>
         <div class="big">&#9993;&#65039;</div>
         <h3>Check your inbox.</h3>
-        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
+        <p>We sent a magic link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
         <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
         <button class="go" type="button" id="auth-code-go">Sign in with code</button>
         <div class="err" id="auth-code-err"></div>
@@ -3512,14 +3512,12 @@
         var dispName=v.name||input;
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
         var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'">'+(v.image?'<img src="'+imgUrl(v.image,200)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+'</span>';
-        var h='<div class="artist-head">'+av+'<div class="artist-head-tx"><h3>'+esc(dispName)+'</h3><div class="sub">'+sub+'</div></div></div>';
+        // Venue header mirrors the artist-page hero: logo + name/socials + description.
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3>'+socialLinksHTML({ website:v.website })+'</div>'+(sub?'<div class="sub">'+sub+'</div>':'')+'</div>'+(v.description?'<p class="seo-desc">'+esc(v.description)+'</p>':'')+'</div>';
         var stats=[];
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
-        if(v.logged) stats.push('<span><b>'+v.logged+'</b> logged</span>');
-        // "saved upcoming" (going) count hidden — no social proof yet.
+        // "logged" + "saved upcoming" counts hidden — no social proof surfaced yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
-        if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
-        h+=socialLinksHTML({ website:v.website });
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
         h+='<div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
@@ -4118,6 +4116,12 @@
     // ── status / load ──
     var statusEl=document.getElementById('status');
     function setStatus(html,isErr){ statusEl.innerHTML=html||''; statusEl.className='status'+(isErr?' error':''); }
+    var _retryLoad=null;   // re-runs the last grid loader from the error state
+    function showGridError(){
+      var off=(typeof navigator!=='undefined' && navigator.onLine===false);
+      setStatus((off?'You&rsquo;re offline.':'Couldn&rsquo;t load events.')+' <button class="more-btn" id="grid-retry" type="button">Retry</button>', true);
+      var rb=document.getElementById('grid-retry'); if(rb) rb.addEventListener('click',function(){ if(_retryLoad) _retryLoad(); });
+    }
     function isoOf(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
     function todayISO(){ return isoOf(new Date()); }
     function weekendDates(){ var sat=new Date(); sat.setDate(sat.getDate()+((6-sat.getDay()+7)%7)); var fri=new Date(sat); fri.setDate(sat.getDate()-1); return [isoOf(fri), isoOf(sat)]; }
@@ -4312,6 +4316,7 @@
     // single-day mode
     async function load(date, pick){
       mode='day'; currentDate=date; activePick=pick||(date===todayISO()?'tonight':'date'); syncChips();
+      _retryLoad=function(){ load(date, pick); };
       document.title='soundcheck '+cityMeta().name+' · '+date; history.replaceState(null,'',withCityQS('?date='+date));
       setStatus('<span class="spinner"></span> Loading '+esc(fmtDateLabel(date))+'…'); skeletonGrid();
       try{
@@ -4319,7 +4324,7 @@
         setStatus('');
         renderEvents(json.events, date===todayISO()?'Tonight':fmtDateLabel(date));
         prefetchAround();
-      }catch(err){ setStatus('Error: '+esc(err.message||String(err)),true); }
+      }catch(err){ showGridError(); }
     }
 
     // weekend mode: Friday + Saturday combined. offset 0 = this weekend, 1 = next.
@@ -4332,6 +4337,7 @@
     function nextFridayISO(){ var d=new Date(); d.setDate(d.getDate()+((5-d.getDay()+7)%7)); return isoOf(d); }
     async function loadWeekend(offset){
       offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
+      _retryLoad=function(){ loadWeekend(offset); };
       var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
       document.title='soundcheck '+cityMeta().name+' · '+(offset?'next weekend':'this weekend'); history.replaceState(null,'',withCityQS('?weekend='+(offset+1)));
       setStatus('<span class="spinner"></span> Loading '+(offset?'next':'this')+' weekend…'); skeletonGrid();
@@ -4342,7 +4348,7 @@
         setStatus('');
         renderEvents(fri.concat(sat), offset?'Next weekend':'This weekend');
         prefetchAround();
-      }catch(err){ setStatus('Error: '+esc(err.message||String(err)),true); }
+      }catch(err){ showGridError(); }
     }
 
     // multi-day mode: arbitrary range from the calendar (or ?from=&to=)
@@ -4353,6 +4359,7 @@
       if(span<=1) return load(startISO);
       if(span>RANGE_CAP){ var _dt=new Date(startISO+'T12:00:00'); _dt.setDate(_dt.getDate()+(RANGE_CAP-1)); endISO=isoOf(_dt); span=RANGE_CAP; }
       mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
+      _retryLoad=function(){ loadRange(startISO, endISO); };
       document.title='soundcheck by 6 Minutes · '+startISO+' to '+endISO;
       history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
       setStatus('<span class="spinner"></span> Loading '+span+' days&hellip;'); skeletonGrid();
@@ -4366,7 +4373,7 @@
         });
         setStatus('');
         renderEvents(all, fmtRange(startISO,endISO));
-      }catch(err){ setStatus('Error: '+esc(err.message||String(err)),true); }
+      }catch(err){ showGridError(); }
     }
 
     document.getElementById('hdr-search').addEventListener('click',openSearch);
