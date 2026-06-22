@@ -1009,7 +1009,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782151500015">
+<meta name="sc-build" content="1782152678253">
 <meta name="description" content="Battle Hymn BBQ at BK Backyard on Sun 19 Jul, Newyorkcity. 3 acts on the bill: Chris Cruse, Peter Napoli and Rush Davis. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2442870-battle-hymn-bbq-at-bk-backyard/">
 <meta property="og:type" content="website">
@@ -3438,6 +3438,7 @@
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         h+=actions;
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.

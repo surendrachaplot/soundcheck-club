@@ -1009,19 +1009,19 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782151500015">
-<meta name="description" content="The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: Barbara Hall Park, Toronto on Sun 28 Jun.">
+<meta name="sc-build" content="1782152678253">
+<meta name="description" content="The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: The Opera House, Toronto on Sun 28 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/shapeshifters/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="The Shapeshifters — gigs, sets &amp; upcoming shows | soundcheck">
-<meta property="og:description" content="The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: Barbara Hall Park, Toronto on Sun 28 Jun.">
+<meta property="og:description" content="The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: The Opera House, Toronto on Sun 28 Jun.">
 <meta property="og:url" content="https://soundcheck.club/dj/shapeshifters/">
 <meta property="og:image" content="https://static.ra.co/images/profiles/square/shapeshifters.jpg?dateUpdated=1560330367000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"The Shapeshifters","url":"https://soundcheck.club/dj/shapeshifters/","description":"The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: Barbara Hall Park, Toronto on Sun 28 Jun.","image":"https://static.ra.co/images/profiles/square/shapeshifters.jpg?dateUpdated=1560330367000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicGroup","name":"The Shapeshifters","url":"https://soundcheck.club/dj/shapeshifters/","description":"The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: The Opera House, Toronto on Sun 28 Jun.","image":"https://static.ra.co/images/profiles/square/shapeshifters.jpg?dateUpdated=1560330367000"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>The Shapeshifters</h1><p>The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: Barbara Hall Park, Toronto on Sun 28 Jun.</p><p>7 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/dj/shapeshifters/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>The Shapeshifters</h1><p>The Shapeshifters is an electronic artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 29 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: The Opera House, Toronto on Sun 28 Jun.</p><p>7 upcoming shows.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/dj/shapeshifters/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3437,6 +3437,7 @@
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         h+=actions;
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.

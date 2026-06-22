@@ -1009,7 +1009,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782151500015">
+<meta name="sc-build" content="1782152678253">
 <meta name="description" content="BASHKKA is an electronic artist tracked on soundcheck, with 281 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Roi Perez. Next up: BLITZ, Munich on Sat 27 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/bashkka/">
 <meta property="og:type" content="profile">
@@ -3437,6 +3437,7 @@
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         h+=actions;
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
