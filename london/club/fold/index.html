@@ -663,6 +663,16 @@
     .pp-tags { display:flex; flex-wrap:wrap; gap:8px; }
     .pp-prom { background:#26262d; border:none; border-radius:999px; padding:6px 12px; font:600 var(--fs-sm) var(--body); color:var(--fg); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .pp-prom small { color:var(--muted); margin-left:4px; }
+    /* DS: city scene-guide "one night here" synthesis card */
+    .scene-blurb { background:linear-gradient(135deg, rgba(255,122,107,0.14), rgba(255,122,107,0.04)); border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin:4px 0 8px; }
+    .scene-blurb-k { font:800 var(--fs-xs) var(--body); letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); margin-bottom:6px; }
+    .scene-blurb p { margin:0; font:500 var(--fs-base) var(--body); color:var(--fg); line-height:1.5; }
+    /* DS: scene-guide entry CTA (Discover page) */
+    .scene-cta { display:flex; align-items:center; gap:10px; width:100%; text-align:left; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 16px; margin-bottom:18px; cursor:pointer; color:inherit; -webkit-tap-highlight-color:transparent; }
+    .scene-cta-tx { flex:1; display:flex; flex-direction:column; gap:2px; }
+    .scene-cta-tx b { font:800 var(--fs-base) var(--head); }
+    .scene-cta-tx span { font:500 var(--fs-sm) var(--body); color:var(--muted); }
+    .scene-cta-go { flex:none; color:var(--accent); font-size:var(--fs-xl); }
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
@@ -1036,7 +1046,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782164630386">
+<meta name="sc-build" content="1782165243111">
 <meta name="description" content="FOLD is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 2 boots, Alba Heidari, Alien Communications and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.">
 <link rel="canonical" href="https://soundcheck.club/london/club/fold/">
 <meta property="og:type" content="profile">
@@ -3365,8 +3375,10 @@
         var arts=j.artists||[];
         var sub=j.personalized?'Artists you might like, from who you follow.':'Trending across soundcheck right now.';
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
+        h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Best venues, promoters &amp; artists to watch</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
         openPanel(h);
+        var dcs=document.getElementById('dc-scene'); if(dcs) dcs.addEventListener('click',function(){ openCityScene(currentCity); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
     }
@@ -3598,6 +3610,42 @@
     function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
     function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
     function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
+    async function openCityScene(city){
+      city=(city||currentCity||'london').toLowerCase();
+      var url=SC_BASE+city+'/scene/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
+        var nm=s.cityName||city;
+        var h='<h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">The venues, promoters &amp; artists shaping '+esc(nm)+'’s underground right now.</div>';
+        if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
+        h+='<div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
+        openPanel(h);
+        setSeo(nm+' scene guide — best venues, promoters & artists | soundcheck', 'The venues, promoters and artists shaping '+nm+'’s electronic scene.', null, location.origin+SC_BASE+city+'/scene/');
+        var bv=(s.bestVenues||[]), cv=document.getElementById('cs-venues');
+        if(cv && bv.length){
+          cv.innerHTML='<div class="sec-h" style="margin-top:24px">Best venues</div><div class="pp-tags">'+bv.map(function(v){ return '<button class="pp-prom" type="button" data-venue="'+esc(v.venue)+'">'+esc(v.venue)+' <small>'+v.n+'</small></button>'; }).join('')+'</div>';
+          cv.querySelectorAll('.pp-prom[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
+        }
+        var bp=(s.bestPromoters||[]), cp=document.getElementById('cs-promoters');
+        if(cp && bp.length){
+          cp.innerHTML='<div class="sec-h" style="margin-top:24px">Best promoters</div><div class="pp-tags">'+bp.map(function(p){ return '<button class="pp-prom" type="button" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+' <small>'+p.n+'</small></button>'; }).join('')+'</div>';
+          cp.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
+        }
+        var aw=(s.artistsToWatch||[]), cw=document.getElementById('cs-watch');
+        if(cw && aw.length){
+          cw.innerHTML='<div class="sec-h" style="margin-top:24px">Artists to watch</div><p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Lower-profile names with gigs coming up.</p><div class="ptiles ptiles-wide">'+aw.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
+          cw.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        }
+        var rs=(s.residencies||[]), cr=document.getElementById('cs-resi');
+        if(cr && rs.length){
+          cr.innerHTML='<div class="sec-h" style="margin-top:24px">Regular nights</div><ul class="gig-history">'+rs.map(function(x){
+            return '<li class="gh-row"><span class="gh-date">'+x.n+'×</span><button class="gh-venue" type="button" data-promoter="'+esc(x.promoter_slug)+'"><b>'+esc(x.promoter)+'</b> <small>at '+esc(x.venue)+'</small></button></li>';
+          }).join('')+'</ul>';
+          cr.querySelectorAll('.gh-venue[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
+        }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load the scene guide.</div>'); }
+    }
     async function openPromoter(slug){
       setRoute('promoter/'+slug);
       openPanel(pageSkeleton());
@@ -4017,6 +4065,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='discover') openDiscover();
+      else if(hash==='scene') openCityScene(pathCitySlug());
       else if(hash==='picks') openMyPicks();
       else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
@@ -4335,6 +4384,7 @@
       var m=rest.match(/^[a-z0-9-]+\/((?:club|v)\/.+)$/);// /<city>/club/<slug> (v = legacy)
       if(m) return m[1];
       if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
+      if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
       return null;
     }
     function pathCitySlug(){
@@ -4687,7 +4737,7 @@
     // or a #hash overlay)? The default landing above set up the home grid underneath;
     // now restore the captured page URL (load() just rewrote it) and route over it so
     // Back lands on the grid.
-    if(_bootRoute && /^(account|picks|feed|log|discover|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|promoter\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|picks|feed|log|discover|scene|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|promoter\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Synchronous (not deferred): the open* handlers add body.page-on before the
