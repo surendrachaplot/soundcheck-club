@@ -4,12 +4,13 @@
   <meta charset="utf-8" />
   <title>Club Cheek — what's on, line-ups &amp; tickets | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <!-- Self-hosted Latin font slices (no third-party origin). @font-face is inline
-       in the <style> block; preload the first-paint critical weights. -->
-  <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage-800.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-400.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter-500.woff2" crossorigin />
+  <!-- Self-hosted Latin variable fonts (no third-party origin). One file per family
+       serves every weight via the wght axis — preload both so first-paint text in
+       any weight is ready immediately. @font-face is inline in the <style> block. -->
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
+  <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
   <link rel="preconnect" href="https://api.6minutes.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -21,16 +22,11 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
   <style>
-    /* ── self-hosted fonts (Latin slices from Google, vendored in /fonts) ── */
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/bricolage-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/bricolage-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/bricolage-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/bricolage-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:800;font-display:swap;src:url(/fonts/bricolage-800.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/inter-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/inter-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/inter-600.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/inter-700.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    /* ── self-hosted fonts: one variable woff2 per family (Latin slice), all weights
+       from a single download via the wght axis. font-display:block keeps Bricolage
+       always rendering (never a fallback face). ── */
+    @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400 800;font-display:block;src:url(/fonts/bricolage.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:400 700;font-display:block;src:url(/fonts/inter.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 
     *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
     :root {
@@ -69,6 +65,10 @@
     .hero { padding:44px 0 28px; display:flex; justify-content:space-between; align-items:flex-end; gap:24px; flex-wrap:wrap; }
     .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; color:var(--accent); margin-bottom:16px; }
     h1 { font-family:var(--head); font-weight:800; font-size:clamp(2.8rem,7vw,5rem); line-height:0.94; letter-spacing:-0.04em; }
+    /* All headings are Bricolage by default — page titles (Coming up, Search, Log a
+       gig…) and the artist/event/venue names are bare <h3>s, so without this they
+       fall back to Inter. Component rules (.gcard h3 etc.) keep their own size/weight. */
+    h2, h3, h4 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
     h1 .ac { color:var(--accent); }
     /* city switcher woven into the headline (replaces the old datebar chip) */
     h1 .city-switch { font:inherit; letter-spacing:inherit; color:inherit; background:none; border:0; padding:0; margin:0; cursor:pointer; display:inline; -webkit-tap-highlight-color:transparent; text-decoration:underline dotted; text-decoration-color:var(--accent); text-decoration-thickness:0.045em; text-underline-offset:0.1em; transition:color .15s ease; }
@@ -84,7 +84,9 @@
     .qchip.alt { display:inline-flex; align-items:center; gap:7px; }
     .qchip.alt svg { width:var(--icon-sm); height:var(--icon-sm); }
     .datebar .push { margin-left:auto; }
-    @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; } }
+    @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; }
+      /* mobile: just the date picker (defaults to the next Friday) */
+      #pick-fri, #pick-sat { display:none; } }
     /* Touch screens: enlarge the small round icon-buttons to a comfier tap target. */
     @media (pointer:coarse){
       .heart, .share-btn { width:34px; height:34px; }
@@ -257,8 +259,12 @@
     .play-main { width:46px; height:46px; border-radius:999px; background:var(--accent); color:var(--ink); border:none; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .play-main .ic { width:var(--icon-md); height:var(--icon-md); }
 
-    .video-wrap { flex:0 0 auto; }
+    .video-wrap { flex:0 0 auto; position:relative; }
     .video-wrap iframe { width:min(420px,42vw); aspect-ratio:16/9; height:auto; border:0; border-radius:10px; display:block; background:#000; max-width:100%; }
+    /* Transparent lid over the YouTube video: eats hover + clicks so YT's chrome
+       (the watch-on-YouTube link, title bar, 'more videos') never surfaces; a click
+       toggles OUR play/pause. The scrubber + transport stay the only controls. */
+    .video-wrap .yt-cover { position:absolute; inset:0; z-index:2; cursor:pointer; background:transparent; border-radius:10px; }
     .video-wrap iframe.sc { position:absolute; width:300px; height:120px; left:0; bottom:0; opacity:0; pointer-events:none; z-index:-1; } /* audio only — album art shows instead */
     .stage-art { width:min(200px,40vw); aspect-ratio:1/1; margin-bottom:0; border-radius:12px; }
 
@@ -280,7 +286,7 @@
     .scrub .bar-knob { position:absolute; top:50%; left:0%; width:13px; height:13px; border-radius:999px; background:var(--accent); transform:translate(-50%,-50%); box-shadow:0 1px 4px rgba(0,0,0,0.45); }
 
     /* expanded: video left, name + transport + scrubber centered on the right */
-    .dock.expanded .panel { display:flex; gap:22px; align-items:center; }
+    .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:42px; }
     .dock.expanded .thumb { display:none; }
     .dock.expanded .main { flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; gap:14px; padding-right:80px; }
     .dock.expanded .info { text-align:center; }
@@ -294,13 +300,20 @@
     .dock:not(.expanded) .main { flex:1; min-width:0; display:flex; align-items:center; gap:18px; padding-right:84px; }
     .dock:not(.expanded) .info { flex:0 0 auto; max-width:200px; }
     .dock:not(.expanded) .scrub { flex:1; min-width:0; }
-    /* collapsed = minimal: only play/pause + close; tap the art to re-expand */
+    /* collapsed = minimal: only play/pause + chevron + close (hide prev/next/skip) */
     .dock:not(.expanded) #dock-prev,
     .dock:not(.expanded) #dock-next,
     .dock:not(.expanded) #skip-back,
-    .dock:not(.expanded) #skip-fwd,
-    .dock:not(.expanded) #dock-exp { display:none; }
+    .dock:not(.expanded) #skip-fwd { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
+    /* Tap-to-toggle: collapsed bar taps to expand; the expanded sheet shows a
+       grab-handle (tap to collapse). No fiddly corner chevron. */
+    .dock:not(.expanded) .panel { cursor:pointer; }
+    .dock-grab { display:none; }
+    .dock.expanded .dock-grab { display:flex; position:absolute; top:9px; left:50%; transform:translateX(-50%); width:120px; height:26px; align-items:center; justify-content:center; cursor:pointer; z-index:4; -webkit-tap-highlight-color:transparent; }
+    .dock.expanded .dock-grab span { width:40px; height:4px; border-radius:99px; background:rgba(255,255,255,0.3); transition:background .15s; }
+    .dock.expanded .dock-grab:hover span, .dock.expanded .dock-grab:focus-visible span { background:var(--accent); }
+    .dock.expanded .dock-grab:focus-visible { outline:none; }
 
     body.has-dock { padding-bottom:300px; }
     body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -309,6 +322,7 @@
     .coach { position:absolute; z-index:80; background:var(--accent); color:#1a0f0e; font-size:var(--fs-sm); font-weight:700; padding:9px 13px; border-radius:8px; box-shadow:0 8px 24px rgba(0,0,0,0.35); cursor:pointer; white-space:nowrap; }
     .coach::before { content:''; position:absolute; top:-5px; left:16px; width:10px; height:10px; background:var(--accent); transform:rotate(45deg); }
     .coach b { font-weight:800; }
+    body.page-on .coach { display:none; }   /* home-grid hint only — never over an open page */
 
     /* toast */
     .toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%) translateY(20px); background:var(--surface); border:1px solid var(--border); color:var(--fg); padding:10px 16px; border-radius:8px; font-size:var(--fs-sm); font-weight:500; opacity:0; pointer-events:none; transition:opacity .2s, transform .2s; z-index:90; }
@@ -366,6 +380,8 @@
     .sheet-actions .heart, .sheet-actions .share-btn { width:38px; height:38px; }
     .sheet-actions .heart svg, .sheet-actions .share-btn svg { width:var(--icon-sm); height:var(--icon-sm); }
     .sheet-actions .lbl { font-size:var(--fs-xs); font-weight:600; color:var(--muted); }
+    .sheet-actions .act-log { height:38px; padding:0 16px; background:var(--accent); color:var(--accent-ink); border:1px solid var(--accent); border-radius:999px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent; }
+    .sheet-actions .act-log.on { background:transparent; color:var(--accent); }
 
     /* floating "N picks · Share" chip */
     .fab-stack { position:fixed; right:16px; bottom:calc(24px + env(safe-area-inset-bottom)); z-index:55; display:flex; flex-direction:column; align-items:flex-end; gap:10px; }
@@ -379,11 +395,15 @@
     .radio-fab.onair { background:var(--surface); color:var(--accent); border:1px solid var(--accent); max-width:330px; padding:6px 7px 6px 13px; }
     .radio-fab.onair .rf-main svg { animation:radio-pulse 1.6s ease-in-out infinite; }
     .radio-fab .rf-tx { display:flex; flex-direction:column; align-items:flex-start; text-align:left; min-width:0; }
-    .radio-fab .rf-t { line-height:1.2; }
+    .radio-fab .rf-t { line-height:1.2; font:800 var(--fs-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; }
     .radio-fab .rf-sub { display:block; font:600 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:none; opacity:0.75; margin-top:2px; max-width:150px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* on air, match the dock's now-playing type exactly (.info .nm / .sub) */
     .radio-fab.onair .rf-t { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:150px; font:700 var(--fs-md) var(--head); text-transform:none; letter-spacing:-0.01em; color:var(--fg); }
     .radio-fab.onair .rf-sub { font:600 var(--fs-xs) var(--body); letter-spacing:0; opacity:1; color:var(--muted); }
+    .radio-fab .rf-on { color:var(--accent); font-weight:700; letter-spacing:0.06em; text-transform:uppercase; }
+    .rf-link { color:var(--fg); cursor:pointer; text-decoration:none; }
+    .rf-link:hover { color:var(--accent); text-decoration:underline; }
+    .radio-fab.onair .rf-sub .rf-link { color:var(--fg); }
     /* inline actions on the on-air pill: heart the DJ + jump to their page */
     .rf-act { display:none; }
     .radio-fab.onair .rf-act { display:inline-flex; }
@@ -391,6 +411,9 @@
     .radio-fab .heart svg { width:var(--icon-sm); height:var(--icon-sm); }
     .rf-go { width:30px; height:30px; border-radius:999px; background:transparent; border:1px solid var(--accent); color:var(--accent); align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; padding:0; -webkit-tap-highlight-color:transparent; }
     .rf-go svg { width:var(--icon-sm); height:var(--icon-sm); }
+    /* explicit stop — filled accent so it reads as the primary "end" control */
+    .rf-stop { width:30px; height:30px; border-radius:999px; background:var(--accent); border:1px solid var(--accent); color:var(--accent-ink); align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; padding:0; -webkit-tap-highlight-color:transparent; }
+    .rf-stop svg { width:var(--icon-xs); height:var(--icon-xs); }
     .rf-go:hover { background:rgba(255,122,107,0.16); }
     /* while on air the pill shows on mobile too (above the nav) — the radio has no overlay */
     body.radio-on .fab-stack { display:flex; }
@@ -486,6 +509,10 @@
     .page-head { display:flex; align-items:center; gap:12px; margin:8px 0 20px; }
     .page-back { background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 15px 8px 12px; font:600 var(--fs-xs) var(--body); cursor:pointer; display:inline-flex; align-items:center; gap:5px; }
     .page-back:hover { border-color:var(--accent); color:var(--accent); }
+    /* Desktop web has the browser's own Back; hide ours there. Keep it on mobile
+       and in the installed PWA (display-mode:standalone = no browser chrome). The
+       empty .page-head stays as a small top spacer. */
+    @media (min-width:621px) and (display-mode: browser){ .page-back { display:none; } }
     .page-view h3 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
     #page-body { max-width:none; }   /* full home width (.wrap caps at 1180) */
 
@@ -538,6 +565,17 @@
     .muted { color:var(--muted); }
     .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-sm); letter-spacing:0.02em; margin:0 0 12px; display:flex; align-items:center; justify-content:space-between; }
     .sec-h .more { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); cursor:pointer; }
+    .sec-radio { margin:0; padding:5px 12px; flex:none; }
+    .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
+    .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:10px; padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
+    .upc-tab.on { background:var(--accent); color:var(--accent-ink); }
+    .upc-n { font-size:var(--fs-xs); font-weight:700; opacity:0.7; }
+    .upc-tab.on .upc-n { opacity:1; }
+    .upc-sub { color:var(--muted); font-size:var(--fs-sm); font-weight:500; margin:0 0 14px; }
+    .fnd-proof { display:inline-flex; align-items:center; gap:6px; color:var(--accent); font-size:var(--fs-xs); font-weight:700; margin-top:4px; line-height:1.3; }
+    .fnd-proof svg { width:13px; height:13px; flex:none; }
+    .fnd-proof .lk { color:var(--accent); cursor:pointer; }
+    .fnd-proof .lk:hover { text-decoration:underline; }
     .hub-stats { display:grid; grid-template-columns:repeat(3,1fr); gap:9px; margin:18px 0; max-width:520px; }
     .hub-stat { background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:14px 10px; text-align:center; cursor:pointer; width:100%; font:inherit; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .hub-stat:hover { border-color:var(--accent); }
@@ -555,16 +593,46 @@
     .hub-diary .th { width:40px; height:40px; border-radius:9px; flex-shrink:0; }
 
     /* ── public profile (A/C hybrid): cover + stat strip + tabs + poster shelves + diary timeline ── */
-    .prof-cover { height:128px; border-radius:14px; background:linear-gradient(120deg,var(--accent),#1c1c23 82%); margin-bottom:-36px; }
-    .prof-head { display:flex; align-items:flex-end; justify-content:space-between; padding:0 4px; position:relative; }
-    .prof-av { width:76px; height:76px; border-radius:999px; background:linear-gradient(140deg,var(--accent),#c8503f); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-family:var(--head); font-weight:800; font-size:var(--fs-xl); border:3px solid var(--bg); text-transform:uppercase; }
-    .prof-nm { font-family:var(--head); font-weight:800; font-size:var(--fs-xl); letter-spacing:-0.02em; margin-top:12px; }
-    .prof-hn { color:var(--muted); font-size:var(--fs-base); }
-    .prof-stat { display:flex; border:1px solid var(--border); border-radius:12px; overflow:hidden; margin:16px 0 0; max-width:520px; }
-    .prof-stat div { flex:1; text-align:center; padding:11px 4px; border-right:1px solid var(--border); }
-    .prof-stat div:last-child { border-right:none; }
-    .prof-stat .n { font-family:var(--head); font-weight:800; font-size:var(--fs-md); }
-    .prof-stat .l { font-size:var(--fs-xs); letter-spacing:0.12em; text-transform:uppercase; color:var(--muted); margin-top:2px; }
+    /* compact header — same grammar as the artist/venue pages, stats on one line */
+    .prof-head { display:flex; align-items:center; gap:15px; margin:2px 0 0; }
+    .prof-av { width:60px; height:60px; border-radius:999px; flex:none; background:linear-gradient(140deg,var(--accent),#c8503f); border:none; }
+    .prof-id { min-width:0; }
+    .prof-nm { font-family:var(--head); font-weight:800; font-size:var(--fs-lg); letter-spacing:-0.02em; line-height:1.1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .prof-hn { color:var(--muted); font-size:var(--fs-sm); margin-top:1px; }
+    .prof-statline { flex:1; display:flex; flex-wrap:wrap; align-items:baseline; gap:4px 18px; color:var(--muted); font-size:var(--fs-sm); }
+    .prof-statline span { display:inline-flex; align-items:baseline; gap:5px; white-space:nowrap; }
+    .prof-statline b { font-family:var(--head); font-weight:800; font-size:var(--fs-md); color:var(--fg); letter-spacing:-0.01em; }
+    .prof-head .follow-btn { flex:none; }
+    /* account = profile + settings: editable avatar + quick-action chips */
+    .prof-head .av-edit { position:relative; padding:0; border:none; background:none; cursor:pointer; flex:none; -webkit-tap-highlight-color:transparent; }
+    .prof-head .av-edit .cam { position:absolute; right:-2px; bottom:-2px; width:22px; height:22px; border-radius:999px; background:var(--accent); color:var(--ink); border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; }
+    .prof-head .av-edit .cam svg { width:var(--icon-xs); height:var(--icon-xs); }
+    .acc-chips { display:flex; gap:9px; flex-wrap:wrap; margin:14px 0 4px; }
+    .acc-chip { display:inline-flex; align-items:center; gap:7px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 14px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
+    .acc-chip:hover { border-color:var(--accent); color:var(--accent); }
+    .acc-chip svg { width:var(--icon-sm); height:var(--icon-sm); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+    /* account v3 — settings gear in the header corner + a coming-up banner */
+    .acc-corner { position:relative; flex:none; align-self:flex-start; }
+    .acc-gear { width:40px; height:40px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--fg); display:flex; align-items:center; justify-content:center; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
+    .acc-gear:hover { border-color:var(--accent); color:var(--accent); }
+    .acc-gear svg { width:var(--icon-sm); height:var(--icon-sm); }
+    .acc-pop { position:absolute; top:calc(100% + 8px); right:0; width:222px; background:var(--surface); border:1px solid var(--border); border-radius:13px; padding:6px; z-index:40; box-shadow:0 12px 34px rgba(0,0,0,.32); }
+    .acc-pop button { width:100%; display:flex; align-items:center; gap:11px; background:none; border:none; color:var(--fg); font:600 var(--fs-sm) var(--body); text-align:left; padding:10px 11px; border-radius:9px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .acc-pop button:hover { background:rgba(255,255,255,.06); }
+    .acc-pop button.danger { color:#e8654f; }
+    .acc-pop button svg { width:var(--icon-sm); height:var(--icon-sm); flex:none; opacity:.85; }
+    .acc-pop .sep { height:1px; background:var(--border); margin:5px 6px; }
+    .acc-banner { width:100%; display:flex; align-items:center; gap:14px; text-align:left; margin:16px 0 2px; padding:14px 16px; background:var(--surface); border:1px solid var(--border); border-radius:14px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, transform .12s; }
+    .acc-banner:hover { border-color:var(--accent); }
+    .acc-banner > div { flex:1; min-width:0; }
+    .acc-banner .bk { font:800 var(--fs-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); }
+    .acc-banner .bv { margin-top:3px; color:var(--fg); font-size:var(--fs-sm); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .acc-banner .bch { color:var(--muted); font-size:22px; line-height:1; flex:none; }
+    @media (max-width:620px){
+      .prof-head { flex-wrap:wrap; }
+      .prof-id { flex:1; }
+      .prof-statline { flex-basis:100%; order:3; margin-top:2px; }
+    }
     .prof-tabs { display:flex; gap:20px; border-bottom:1px solid var(--border); margin:20px 0 18px; }
     .prof-tabs button { background:none; border:none; color:var(--muted); font:700 var(--fs-sm) var(--body); padding:6px 2px 12px; cursor:pointer; border-bottom:2px solid transparent; }
     .prof-tabs button.on { color:var(--fg); border-bottom-color:var(--accent); }
@@ -576,11 +644,39 @@
     .artist-head .artist-av img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
     .artist-head-tx h3 { margin:0; }
     /* artist page: big square hero photo, name underneath (artist only — not venue) */
-    .artist-head.artist-hero { flex-direction:column; align-items:flex-start; gap:16px; }
-    .artist-head.artist-hero .artist-av { width:min(132px,32vw); height:min(132px,32vw); border-radius:18px; }
+    /* header row — avatar + name/socials, with the description alongside on desktop;
+       action buttons go on their own row below (was a tall stacked column). */
+    .artist-head.artist-hero { align-items:center; gap:18px 22px; flex-wrap:wrap; }
+    .artist-head.artist-hero .artist-av { width:88px; height:88px; border-radius:18px; }
+    .artist-head.artist-hero .artist-head-tx { flex:0 0 auto; min-width:0; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
+    .artist-head.artist-hero .seo-desc { flex:1 1 280px; margin:0; max-width:620px; }
+    @media (max-width:620px){
+      .artist-head.artist-hero { flex-direction:column; align-items:flex-start; gap:14px; }
+      .artist-head.artist-hero .artist-av { width:min(112px,28vw); height:min(112px,28vw); }
+      .artist-head.artist-hero .seo-desc { flex-basis:auto; }
+    }
     .seo-desc { color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:14px 0 2px; max-width:680px; }
+    /* external link pills (artist socials / venue website) */
+    .slinks { display:flex; gap:10px; margin:14px 0 2px; flex-wrap:wrap; }
+    .ah-namerow { display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+    .ah-namerow .slinks { margin:0; }
+    .slink { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px; border-radius:999px; border:1px solid var(--border); color:var(--muted); -webkit-tap-highlight-color:transparent; }
+    .slink:hover { border-color:var(--accent); color:var(--accent); }
+    .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     /* event page header — same grammar as .artist-head, with a contained poster */
+    /* event page: the poster carries the details, so show it BIG, uncropped + unfiltered */
+    .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
+    .ev-poster-big img { display:block; width:100%; height:auto; }
+    .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
+    /* event page two-column: poster column (sticky) + main column; recs full-width below */
+    .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
+    @media (min-width:760px){
+      .ev-layout { grid-template-columns:minmax(260px,360px) 1fr; align-items:start; }
+      .ev-col-poster { position:sticky; top:16px; }
+      .ev-col-poster .ev-poster-big { margin:0; max-width:none; }
+      .ev-col-main { min-width:0; }
+    }
     .event-head { display:flex; align-items:flex-start; gap:16px; }
     .event-head .poster.ev-poster { width:108px; height:144px; aspect-ratio:auto; border-radius:14px; margin-bottom:0; flex-shrink:0; }
     .event-head .poster.ev-poster .gen { padding:8px; }
@@ -613,9 +709,42 @@
     .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); }
     .gig-history li:last-child { border-bottom:none; }
     .gh-date { color:var(--muted); flex:0 0 auto; min-width:86px; font-variant-numeric:tabular-nums; }
-    .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; }
+    .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; }
     .gh-venue:hover { color:var(--accent); text-decoration:underline; }
+    .gh-venue small { color:var(--muted); font-weight:500; }
     .gh-city { color:var(--muted); flex:0 0 auto; font-size:var(--fs-sm); }
+    .gh-log { flex:0 0 auto; background:none; border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:4px 11px; font:700 var(--fs-sm) var(--body); cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent; }
+    .gh-log:hover { border-color:var(--accent); color:var(--accent); }
+    /* "Coming up" — entity row + stacked gig lines */
+    .cu-list { list-style:none; margin:0; padding:0; }
+    .cu-list li { display:flex; gap:13px; padding:13px 0; border-bottom:1px solid var(--border); }
+    .cu-list li:last-child { border-bottom:none; }
+    .cu-who { flex:0 0 112px; display:flex; flex-direction:column; align-items:flex-start; gap:8px; min-width:0; background:none; border:0; padding:0; text-align:left; cursor:pointer; color:var(--fg); }
+    .cu-av { width:46px; height:46px; border-radius:50%; flex:0 0 auto; position:relative; overflow:hidden; background-size:cover; background-position:center; }
+    .cu-av.sq { border-radius:13px; }
+    .cu-av img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+    .cu-nm { font-weight:600; font-size:var(--fs-sm); line-height:1.25; word-break:break-word; }
+    .cu-who:hover .cu-nm { color:var(--accent); }
+    .cu-gigs { flex:1; min-width:0; display:flex; flex-direction:column; gap:8px; }
+    .cu-gl { display:flex; gap:10px; align-items:baseline; background:none; border:0; padding:0; width:100%; text-align:left; cursor:pointer; color:var(--fg); font:inherit; }
+    .cu-gl .cu-d { color:var(--accent); font-weight:700; font-variant-numeric:tabular-nums; flex:0 0 84px; font-size:var(--fs-base); }
+    .cu-gl .cu-m { color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:var(--fs-base); min-width:0; }
+    .cu-gl .cu-m b { color:var(--fg); font-weight:600; }
+    .cu-gl:hover .cu-m b { color:var(--accent); }
+    .cu-more { background:none; border:0; padding:2px 0; text-align:left; color:var(--muted); font-size:var(--fs-sm); cursor:pointer; }
+    .cu-more:hover { color:var(--accent); }
+    .cu-hide { display:none; }
+    /* Coming up — date scope bar + jump-to-date; entity rows go two-up on desktop */
+    .up-scope { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:2px 0 16px; }
+    .up-chip { font:700 var(--fs-sm) var(--body); color:var(--muted); background:var(--surface); border:1px solid var(--border); border-radius:999px; padding:8px 14px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .up-chip.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .up-reset { padding:8px 12px; font-size:var(--fs-md); line-height:1; }
+    .up-jump { position:relative; display:inline-flex; align-items:center; gap:7px; color:var(--muted); background:var(--surface); border:1px solid var(--border); border-radius:999px; padding:8px 14px; cursor:pointer; font:700 var(--fs-sm) var(--body); }
+    .up-jump.set { color:var(--accent); border-color:var(--accent); }
+    .up-jump svg { width:var(--icon-sm); height:var(--icon-sm); }
+    .up-jump input { position:absolute; inset:0; width:100%; height:100%; opacity:0; cursor:pointer; }
+    @media (min-width:720px){ .cu-grid { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); column-gap:30px; } }
+    .cu-grid > li { min-width:0; }
     .ptile .pimg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0; }
     .ptile.has-img::after { content:''; position:absolute; inset:0; z-index:1; background:linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0.05) 60%); }
     .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.05; color:#fff; text-shadow:0 1px 8px rgba(0,0,0,0.55); position:relative; z-index:2; text-align:left; }
@@ -625,21 +754,41 @@
     .prof-tl .spine { display:flex; flex-direction:column; align-items:center; }
     .prof-tl .dot { width:10px; height:10px; border-radius:999px; background:var(--accent); margin-top:6px; flex-shrink:0; }
     .prof-tl .ln { flex:1; width:2px; background:var(--border); margin:4px 0; }
-    .prof-tl .card { flex:1; padding-bottom:20px; }
+    .prof-tl .card { flex:1; padding-bottom:20px; position:relative; }
     .prof-tl .vn { font-family:var(--head); font-weight:700; font-size:var(--fs-md); }
+    .dv-venue { background:none; border:0; padding:0; font:inherit; color:inherit; cursor:pointer; text-align:left; }
+    .dv-venue:hover { color:var(--accent); text-decoration:underline; }
+    .dv-del { flex:0 0 auto; margin-left:auto; width:28px; height:28px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--muted); font-size:var(--fs-base); line-height:1; cursor:pointer; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .dv-del:hover { border-color:var(--accent); color:var(--accent); }
+    .prof-tl .card .dv-del { position:absolute; top:0; right:0; margin:0; }
     .prof-tl .mt { color:var(--muted); font-size:var(--fs-xs); margin-top:2px; }
     .prof-tl .nt { font-size:var(--fs-base); margin-top:7px; line-height:1.5; }
     @media (max-width:480px){ .ptiles { grid-template-columns:repeat(3,1fr); } }
 
     /* log-a-gig */
     .lg-field { margin-bottom:14px; }
+    .lg-chips { display:flex; flex-wrap:wrap; gap:8px; }
+    .lg-chip { background:var(--bg); border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:7px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s, background .12s; }
+    .lg-chip.on { border-color:var(--accent); color:var(--accent-ink); background:var(--accent); }
     .lg-field label { display:block; font-size:var(--fs-xs); font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:var(--muted); margin-bottom:7px; }
     .lg-field input, .lg-field textarea { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
     .lg-field textarea { resize:vertical; min-height:72px; }
-    .stars { display:flex; gap:6px; }
-    .stars button { background:transparent; border:none; cursor:pointer; font-size:var(--fs-xl); line-height:1; color:var(--border); padding:0; }
-    .stars button.on { color:var(--accent); }
+    .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
+    .lg-select:focus { border-color:var(--accent); }
+    /* preselected-night summary (from a "+ Log" button) */
+    .lg-pre { border:1px solid var(--border); border-radius:12px; padding:13px 15px; margin-bottom:16px; background:var(--bg); }
+    .lg-pre-t { font:700 var(--fs-md) var(--head); }
+    .lg-pre-s { color:var(--muted); font-size:var(--fs-sm); margin-top:3px; }
+    .lg-pre-l { color:var(--muted); font-size:var(--fs-sm); margin-top:7px; }
+    /* indexed-night picker */
+    .lg-events { display:flex; flex-direction:column; gap:8px; max-height:340px; overflow-y:auto; }
+    .lg-ev { display:grid; grid-template-columns:auto 1fr; column-gap:13px; row-gap:2px; align-items:center; text-align:left; background:var(--bg); border:1px solid var(--border); border-radius:10px; padding:10px 13px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, background .12s; }
+    .lg-ev:hover { border-color:var(--accent); }
+    .lg-ev.on { border-color:var(--accent); background:rgba(255,122,107,0.10); }
+    .lg-ev .le-d { grid-column:1; grid-row:1 / span 2; align-self:center; font:700 var(--fs-sm) var(--head); color:var(--accent); white-space:nowrap; }
+    .lg-ev .le-t { grid-column:2; font-size:var(--fs-base); color:var(--fg); }
+    .lg-ev .le-l { grid-column:2; font-size:var(--fs-sm); color:var(--muted); }
     .lg-artists { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
     .lg-chip { background:rgba(255,122,107,0.14); border:1px solid var(--accent); color:var(--fg); border-radius:999px; padding:5px 10px; font-size:var(--fs-sm); display:inline-flex; gap:6px; align-items:center; }
     .lg-chip button { background:none; border:none; color:var(--accent); cursor:pointer; font-size:var(--fs-base); line-height:1; }
@@ -752,10 +901,21 @@
       body.radio-on .radio-fab { width:100%; max-width:none; padding:11px 14px; border-radius:22px 22px 0 0; border:1px solid rgba(255,255,255,0.14); border-bottom:none;
         background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); color:var(--accent); }
-      body.radio-on .radio-fab .rf-main { flex:1; min-width:0; }
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
       body.radio-on .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
       body.radio-on { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
+    }
+    /* Desktop on-air radio = a flush full-width bottom bar, matching the collapsed
+       dock (no bottom nav here, so it sits at the very bottom like .dock). */
+    @media (min-width:621px){
+      body.radio-on .fab-stack { left:0; right:0; bottom:0; z-index:60; display:flex; align-items:stretch; }
+      body.radio-on .radio-fab { width:100%; max-width:none; border:none; border-top:2px solid var(--accent); border-radius:0; background:#15131a; padding:13px 22px; box-shadow:0 -14px 44px rgba(0,0,0,0.5); color:var(--accent); }
+      /* web: artist name + "next playing at venue" share one row (mobile stays stacked) */
+      body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; flex-direction:row; align-items:baseline; gap:16px; }
+      body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
+      body.radio-on .radio-fab .rf-sub { margin-top:0; }
+      body.radio-on { padding-bottom:96px; }
     }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
     /* city picker */
@@ -841,19 +1001,28 @@
     .site-foot a { color:var(--muted); text-decoration:none; font-weight:600; }
     .site-foot a:hover { color:var(--accent); }
     .site-foot .dot { opacity:0.45; }
+    .site-foot .foot-cta { color:var(--accent); font-weight:700; }
+    .se-form { display:flex; flex-direction:column; gap:8px; margin-top:16px; }
+    .se-form input, .se-form select, .se-form textarea { padding:11px 14px; border:1px solid var(--border); border-radius:8px; font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
+    .se-form input:focus, .se-form select:focus, .se-form textarea:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
+    .se-form textarea { resize:vertical; min-height:88px; }
+    .se-note { color:var(--muted); font-size:var(--fs-xs); margin-top:12px; line-height:1.4; }
+    .se-form button { background:var(--accent); color:var(--accent-ink); border:none; border-radius:8px; padding:12px 18px; font:inherit; font-weight:700; font-size:var(--fs-base); cursor:pointer; margin-top:4px; }
+    .se-form button:hover { opacity:0.9; }
+    .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781365321486">
-<meta name="description" content="Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 0RACL3, Beau Wanzer, Bekefi and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.">
+<meta name="sc-build" content="1782140102756">
+<meta name="description" content="Club Cheek is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 0RACL3, Bailey Ibbs, Beau Wanzer and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.">
 <link rel="canonical" href="https://soundcheck.club/london/v/club-cheek/">
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Club Cheek — what's on, line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 0RACL3, Beau Wanzer, Bekefi and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.">
+<meta property="og:description" content="Club Cheek is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 0RACL3, Bailey Ibbs, Beau Wanzer and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.">
 <meta property="og:url" content="https://soundcheck.club/london/v/club-cheek/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Club Cheek","url":"https://soundcheck.club/london/v/club-cheek/","description":"Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 0RACL3, Beau Wanzer, Bekefi and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.","address":"302-304 Barrington Road, London, SW9 7JJ"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"],"name":"Club Cheek","url":"https://soundcheck.club/london/v/club-cheek/","description":"Club Cheek is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 0RACL3, Bailey Ibbs, Beau Wanzer and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.","address":"302-304 Barrington Road, London, SW9 7JJ"}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Club Cheek</h1><p>Club Cheek is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 0RACL3, Beau Wanzer, Bekefi and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.</p><p>9 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/club-cheek/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Club Cheek</h1><p>Club Cheek is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 0RACL3, Bailey Ibbs, Beau Wanzer and Caspa Mono and 2 more. Browse dates, set times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.</p><p>8 upcoming nights.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/london/v/club-cheek/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -904,6 +1073,8 @@
       <a href="/">6 Minutes &rarr;</a>
     </div>
     <footer class="site-foot">
+      <a href="#" id="foot-submit" class="foot-cta">Don&rsquo;t see your event here? Let us know &rsaquo;</a>
+      <span class="dot">&middot;</span>
       <span>soundcheck &mdash; a 6 Minutes project</span>
       <span class="dot">&middot;</span>
       <a href="https://6minutes.club">6 Minutes</a>
@@ -917,8 +1088,8 @@
 
   <div class="dock" id="dock" role="region" aria-label="Now playing">
     <div class="panel">
+      <div class="dock-grab" id="dock-grab" role="button" tabindex="0" aria-label="Expand or collapse player"><span></span></div>
       <div class="corner">
-        <button class="iconbtn" id="dock-exp" type="button" aria-label="Collapse video"></button>
         <button class="iconbtn" id="dock-close" type="button" aria-label="Stop and close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button>
       </div>
       <div class="video-wrap" id="dock-media"></div>
@@ -958,8 +1129,11 @@
       <div id="auth-sent-state" class="sent" hidden>
         <div class="big">&#9993;&#65039;</div>
         <h3>Check your inbox.</h3>
-        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device and you&rsquo;re in.</p>
-        <button class="go" type="button" id="auth-sent-done">Done</button>
+        <p>We sent a sign-in link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
+        <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
+        <button class="go" type="button" id="auth-code-go">Sign in with code</button>
+        <div class="err" id="auth-code-err"></div>
+        <button type="button" id="auth-sent-done" style="background:none;border:none;color:var(--muted);font:600 var(--fs-sm) var(--body);margin-top:12px;cursor:pointer;">Done</button>
       </div>
     </div>
   </div>
@@ -968,17 +1142,19 @@
     <div class="radio-fab" id="radio-fab">
       <button class="rf-main" id="radio-fab-main" type="button" aria-label="Play the weekend radio">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
-        <span class="rf-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></span>
       </button>
+      <div class="rf-tx" id="radio-fab-tx"><span class="rf-t" id="radio-fab-label">Radio</span><span class="rf-sub" id="radio-fab-sub" hidden></span></div>
       <button class="heart rf-act" id="radio-fab-heart" type="button" aria-label="Heart this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
       <button class="rf-act rf-go" id="radio-fab-go" type="button" aria-label="Open artist page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg></button>
+      <button class="rf-act rf-stop" id="radio-fab-stop" type="button" aria-label="Stop radio"><svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="6" width="12" height="12" rx="2"/></svg></button>
     </div>
   </div>
 
   <!-- mobile bottom nav -->
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
-    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Picks"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
+    <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
+    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
   </nav>
 
@@ -1014,10 +1190,25 @@
 
     var SC_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg>';
     var YT_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg>';
+    // External link pills for artist socials / venue website (opens a new tab).
+    var LINK_ICONS={
+      soundcloud:'<svg viewBox="0 0 24 24"><path d="M4 14v4M7 12v6M10 10v8M13 9v9"/><path d="M16 11a4 4 0 0 1 0 8h-3V9.5a5 5 0 0 1 7.2 2"/></svg>',
+      instagram:'<svg viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="19" height="19" rx="5.2"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1"/></svg>',
+      website:'<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c3 3 3 16 0 19M12 2.5c-3 3-3 16 0 19"/></svg>'
+    };
+    function socialLinksHTML(o){
+      o=o||{}; var b=[];
+      if(o.soundcloud) b.push('<a class="slink" href="'+esc(o.soundcloud)+'" target="_blank" rel="noopener" aria-label="SoundCloud">'+LINK_ICONS.soundcloud+'</a>');
+      if(o.instagram)  b.push('<a class="slink" href="'+esc(o.instagram)+'" target="_blank" rel="noopener" aria-label="Instagram">'+LINK_ICONS.instagram+'</a>');
+      if(o.website)    b.push('<a class="slink" href="'+esc(o.website)+'" target="_blank" rel="noopener" aria-label="Website">'+LINK_ICONS.website+'</a>');
+      return b.length ? '<div class="slinks">'+b.join('')+'</div>' : '';
+    }
 
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
     function formatTime(iso){ if(!iso) return ''; var m=/T(\d{2}:\d{2})/.exec(iso); return m?m[1]:''; }
+    // "23:00 – 06:00" when both are known; just the start otherwise. fb = a non-ISO start (e.g. "23:00").
+    function formatTimeRange(s,e,fb){ var a=formatTime(s)||fb||'', b=formatTime(e); return (a&&b)?(a+' – '+b):a; }
     function normaliseSc(url){ if(!url) return null; var u=url.trim(); if(!/^https?:\/\//i.test(u)) u='https://'+u; u=u.replace(/^https?:\/\/www\.soundcloud\.com/i,'https://soundcloud.com'); return u.replace(/\/+$/,''); }
 
     var RE_FOLD=/\bfold\b/i, RE_MOT=/\bm\.?\s?o\.?\s?t\b/i, RE_PHONOX=/\bphonox\b/i, RE_ORMSIDE=/\bormside\b/i, RE_CARPET=/\bcarpet\s?shop\b/i;
@@ -1076,7 +1267,16 @@
     // everyone else via an anonymous users row behind the same HttpOnly session
     // cookie (POST /api/anon/start). Picks live in Postgres through that
     // identity; small UI prefs live in users.prefs (jsonb) via /api/prefs.
-    var prefs={}, anonUser=false, _identityP=null, _memToken='';
+    var prefs={}, anonUser=false, _identityP=null, _memToken='', _meLoaded=false, _hadAccount=false, _meReady=null;
+    // Resolves once the first /api/auth/me has settled. Lets gesture handlers wait
+    // out the auth-unknown window (e.g. a cold-backend refresh) instead of treating
+    // a not-yet-known user as signed out and popping the sign-in form.
+    function whenAuthKnown(){ return _meLoaded ? Promise.resolve() : (_meReady || Promise.resolve()); }
+    // Durable, synchronous "this device has signed in before" hint (NOT identity —
+    // the session still lives in the HttpOnly cookie). It's readable at boot,
+    // before /api/auth/me resolves, so a returning signed-in user is never shown
+    // the email-capture gate during a slow/cold backend round-trip. Cleared on sign-out.
+    try{ _hadAccount = localStorage.getItem('sc_acct')==='1'; }catch(_){}
     function ensureIdentity(){
       if(currentUser||anonUser) return Promise.resolve(true);
       if(_identityP) return _identityP;
@@ -1097,7 +1297,7 @@
       },400);
     }
 
-    function hasEmail(){ return !!prefs.emailGated || !!currentUser; } // signed-in real users are past the gate
+    function hasEmail(){ return !!prefs.emailGated || !!currentUser || _hadAccount; } // signed-in (or previously-signed-in) users are past the gate
     var _pendingEmail='';
     // The first successful play is free; from the second, ask for an email.
     function playCount(){ return parseInt(prefs.plays,10)||0; }
@@ -1105,19 +1305,28 @@
     function gateForPlay(){
       if(hasEmail()) return Promise.resolve(true);
       if(playCount() < 1) return Promise.resolve(true);   // first one is free
-      return ensureEmailGate();
+      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile.' });
     }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges
     // their anonymous picks. Also subscribes the email to the weekly list.
-    function ensureEmailGate(){
+    function ensureEmailGate(opts){
       if(hasEmail()) return Promise.resolve(true);
+      // Don't gate until we actually know the auth state. On a hard refresh the
+      // cached shell paints instantly but /api/auth/me is a cross-origin call
+      // that can lag (cold backend); a tap in that window would otherwise pop the
+      // gate on an already-signed-in user. Treat "unknown" as "let it through" —
+      // once loadMe resolves, a genuinely-anonymous user gates on their next tap.
+      if(!_meLoaded) return Promise.resolve(true);
+      opts=opts||{};
+      var gHead=opts.heading||'Save it with a <span class="ac">free account</span>.';
+      var gBody=opts.body||'Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile.';
       return new Promise(function(resolve){
         var ov=document.createElement('div'); ov.className='email-overlay';
         ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
           '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
-          '<h3>Save it with a <span class="ac">free account</span>.</h3>'+
-          '<p>Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile. Nothing stops playing in the meantime.</p>'+
+          '<h3>'+gHead+'</h3>'+
+          '<p>'+gBody+'</p>'+
           '<form class="email-form"><input type="email" required placeholder="you@somewhere.com" autocomplete="email" /><button type="submit">Send my link</button></form>'+
           '<p class="email-err" aria-live="polite"></p></div>';
         document.body.appendChild(ov);
@@ -1145,6 +1354,49 @@
         });
       });
     }
+    // "Don't see your event here?" — a small form that emails the details to us.
+    function openSubmitEvent(){
+      var ov=document.createElement('div'); ov.className='email-overlay';
+      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
+        '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
+        '<h3>Get your event <span class="ac">listed</span>.</h3>'+
+        '<p>Promoter, artist or venue? Drop us a line.</p>'+
+        '<form class="se-form">'+
+          '<input type="text" name="name" placeholder="Your name" required autocomplete="name">'+
+          '<input type="email" name="email" placeholder="Your email" required autocomplete="email">'+
+          '<select name="role" required><option value="" disabled selected>I&rsquo;m a&hellip;</option><option>Promoter</option><option>Artist</option><option>Venue</option></select>'+
+          '<textarea name="message" rows="4" placeholder="Tell us about your event" required></textarea>'+
+          '<button type="submit">Submit</button>'+
+        '</form>'+
+        '<p class="se-note">Submit this and we&rsquo;ll get in touch to list your event.</p>'+
+        '<p class="email-err" aria-live="polite"></p></div>';
+      document.body.appendChild(ov);
+      var modal=ov.querySelector('.email-modal'), form=ov.querySelector('form'),
+          closeBtn=ov.querySelector('.email-close'), errEl=ov.querySelector('.email-err'),
+          submit=ov.querySelector('button[type=submit]');
+      setTimeout(function(){ var f=ov.querySelector('input'); if(f) f.focus(); },30);
+      function dismiss(){ ov.remove(); document.removeEventListener('keydown',onEsc); }
+      function onEsc(e){ if(e.key==='Escape') dismiss(); }
+      document.addEventListener('keydown',onEsc);
+      closeBtn.addEventListener('click',dismiss);
+      ov.addEventListener('click',function(e){ if(e.target===ov) dismiss(); });
+      form.addEventListener('submit',async function(e){
+        e.preventDefault(); errEl.textContent='';
+        var get=function(k){ var el=form.querySelector('[name='+k+']'); return el?el.value.trim():''; };
+        var data={ name:get('name'), email:get('email'), role:get('role'), message:get('message') };
+        if(!data.name||!data.email||!data.message){ errEl.textContent='Fill in your name, email and a few words about the event.'; return; }
+        submit.disabled=true; submit.textContent='Sending…';
+        try{
+          var r=await authedFetch('/api/submit-event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(data) });
+          if(!r.ok) throw 0;
+          modal.innerHTML='<button class="email-close" type="button" aria-label="Close">&times;</button><h3>Thanks &mdash; got it.</h3><p>We&rsquo;ll take a look and get it added soon.</p>';
+          modal.querySelector('.email-close').addEventListener('click',dismiss);
+          setTimeout(dismiss, 2800);
+        }catch(_){ submit.disabled=false; submit.textContent='Send it in'; errEl.textContent='Couldn’t send that — try again in a moment.'; }
+      });
+    }
+    var _footSubmit=document.getElementById('foot-submit');
+    if(_footSubmit) _footSubmit.addEventListener('click',function(e){ e.preventDefault(); openSubmitEvent(); });
     // Persistent nudge to finish sign-up; hidden once they're actually signed in.
     function showSignupBanner(email){
       if(currentUser) return;
@@ -1157,13 +1409,13 @@
     // ── player dock ──
     var dock=document.getElementById('dock'), dockMedia=document.getElementById('dock-media'),
         dockName=document.getElementById('dock-name'), dockSrc=document.getElementById('dock-src'),
-        dockThumb=document.getElementById('dock-thumb'), dockExp=document.getElementById('dock-exp'),
+        dockThumb=document.getElementById('dock-thumb'), dockGrab=document.getElementById('dock-grab'),
         dockPP=document.getElementById('dock-pp'), toastEl=document.getElementById('toast');
     var CHEV_UP='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>';
     var CHEV_DOWN='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>';
     var PP_PLAY='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>';
     var PP_PAUSE='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>';
-    function setExpIcon(){ var on=dock.classList.contains('expanded'); dockExp.innerHTML=on?CHEV_DOWN:CHEV_UP; dockExp.setAttribute('aria-label', on?'Collapse video':'Expand video'); }
+    function setExpIcon(){ if(dockGrab) dockGrab.setAttribute('aria-label', dock.classList.contains('expanded')?'Collapse player':'Expand player'); }
     function setDockPad(){ document.body.classList.toggle('dock-collapsed', !dock.classList.contains('expanded')); }
 
     function showToast(text){ toastEl.textContent=text; toastEl.classList.add('show'); clearTimeout(toastEl._t); toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },2800); }
@@ -1235,7 +1487,6 @@
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
       if(expand) dock.classList.add('expanded'); else dock.classList.remove('expanded');
-      dockExp.style.display='';   // CSS hides it while collapsed
       setExpIcon(); setDockPad();
       btn.classList.add('playing'); setState(btn,'■');
       active={ button:btn };
@@ -1266,7 +1517,7 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
       loadScApi(function(){
@@ -1289,7 +1540,7 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', !isSmallScreen());
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
         pos=0; paintScrub(); startPoll();
@@ -1303,9 +1554,15 @@
       f.allow='autoplay; encrypted-media; picture-in-picture';
       f.allowFullscreen=true;
       f.width=String(sz.w); f.height=String(sz.h);
+      // controls=0 hides YouTube's whole native control bar (scrubber, CC, settings,
+      // share/link, fullscreen) — we drive playback with our own dock transport +
+      // scrubber. rel=0 + modestbranding + iv_load_policy=3 strip the rest of the chrome.
       f.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+
-            '?enablejsapi=1&autoplay=1&rel=0&playsinline=1&start='+start+'&origin='+encodeURIComponent(location.origin);
+            '?enablejsapi=1&autoplay=1&controls=0&rel=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&fs=0&disablekb=1&playsinline=1&start='+start+'&origin='+encodeURIComponent(location.origin);
       dockMedia.innerHTML=''; dockMedia.appendChild(f);
+      // Transparent lid over the iframe → no YouTube hover/link chrome; tap = play/pause.
+      var cover=document.createElement('div'); cover.className='yt-cover'; cover.setAttribute('aria-hidden','true');
+      cover.addEventListener('click',togglePlay); dockMedia.appendChild(cover);
       function build(){
         ytPlayer=new YT.Player(f,{
           events:{
@@ -1324,17 +1581,24 @@
       if(window.YT && YT.Player) build(); else { pendingYt=build; loadYtApi(); }
     }
     // dock controls
-    dockPP.addEventListener('click',function(){
+    function togglePlay(){
       if(currentType==='yt' && ytPlayer && ytPlayer.getPlayerState){
         if(ytPlayer.getPlayerState()===1) ytPlayer.pauseVideo(); else ytPlayer.playVideo();
       } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
-    });
-    dockExp.addEventListener('click',function(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); });
-    // Tap anywhere on the collapsed bar (not the controls or scrubber) to expand.
+    }
+    dockPP.addEventListener('click',togglePlay);
+    function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
+    if(dockGrab){
+      dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
+      dockGrab.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggleDock(); } });
+    }
+    // Tap the bar to toggle — expand when collapsed, collapse when expanded —
+    // but never when the tap lands on a control, link, the scrubber, or the video.
     dock.querySelector('.panel').addEventListener('click',function(e){
-      if(!active || dock.classList.contains('expanded')) return;
-      if(e.target.closest('button') || e.target.closest('.scrub')) return;
-      dock.classList.add('expanded'); setExpIcon(); setDockPad();
+      if(!active) return;
+      if(e.target.closest('button') || e.target.closest('a') || e.target.closest('.linky') ||
+         e.target.closest('.scrub') || e.target.closest('.video-wrap') || e.target.closest('.dock-grab')) return;
+      toggleDock();
     });
     document.getElementById('dock-close').addEventListener('click',function(){ stopActive(); });
 
@@ -1427,7 +1691,7 @@
     }
     function radioStop(){
       if(radio.tick){ clearInterval(radio.tick); radio.tick=null; }
-      try{ if(_radioVo){ _radioVo.pause(); } }catch(_){} // stop any station-ID clip
+      try{ if('speechSynthesis' in window) window.speechSynthesis.cancel(); }catch(_){} // stop any station-ID voice
       try{ if(radioYt && radioYt.pauseVideo) radioYt.pauseVideo(); }catch(_){} // keep player alive (stays unlocked)
       radio.on=false; radio.queue=[]; radio.i=-1; radio.played=0; radioScPlaying=false;
       document.body.classList.remove('radio-on');
@@ -1474,20 +1738,35 @@
       showToast('Couldn’t find sets to play.');
       stopActive();
     }
-    // Station-ID voiceover: pre-recorded clips, a random one each time, played
-    // at the start of the radio and between DJs.
-    var RADIO_VO=['sc-id-1.mp3','sc-id-2.mp3','sc-id-3.mp3'];
-    var _radioVo=null;
-    function radioVoEl(){ if(!_radioVo){ _radioVo=new Audio(); _radioVo.preload='auto'; } return _radioVo; }
+    // Station ID: an auto-generated voice (Web Speech API) instead of canned mp3
+    // clips — a short spoken line at the start of the radio and between DJs. The
+    // voice is chosen once from the most natural-sounding one the device offers.
+    var RADIO_LINES=['Soundcheck Radio', 'Soundcheck'];
+    var _scVoice=null, _scVoicePicked=false;
+    function pickRadioVoice(){
+      if(_scVoicePicked) return _scVoice;
+      if(!('speechSynthesis' in window)){ _scVoicePicked=true; return null; }
+      var vs=window.speechSynthesis.getVoices()||[];
+      if(!vs.length) return null; // not loaded yet — retry on next call / voiceschanged
+      _scVoicePicked=true;
+      // prefer known natural/premium voices, then any English voice, then anything
+      var prefer=[/Google UK English Female/i,/Google US English/i,/Samantha/i,/Serena/i,/Microsoft Aria/i,/Microsoft Jenny/i,/natural/i,/enhanced/i,/premium/i];
+      for(var p=0;p<prefer.length;p++){ for(var i=0;i<vs.length;i++){ if(prefer[p].test(vs[i].name)){ _scVoice=vs[i]; return _scVoice; } } }
+      for(var j=0;j<vs.length;j++){ if(/^en(-|_|$)/i.test(vs[j].lang)){ _scVoice=vs[j]; return _scVoice; } }
+      _scVoice=vs[0]; return _scVoice;
+    }
+    if('speechSynthesis' in window){ try{ window.speechSynthesis.onvoiceschanged=function(){ _scVoicePicked=false; pickRadioVoice(); }; pickRadioVoice(); }catch(_){} }
     function radioPlayVo(onDone){
       var done=false, fin=function(){ if(done) return; done=true; if(onDone) onDone(); };
       try{
-        var a=radioVoEl();
-        a.onended=fin; a.onerror=fin;
-        a.src=SC_BASE+'audio/'+RADIO_VO[Math.floor(Math.random()*RADIO_VO.length)]+'?v=3'; // bump on new clips to bust caches
-        a.currentTime=0; a.volume=1;
-        var p=a.play(); if(p&&p.catch) p.catch(fin);
-        setTimeout(fin, 5000); // safety: never let a stuck clip stall the radio
+        if(!('speechSynthesis' in window)) return fin();
+        var u=new SpeechSynthesisUtterance(RADIO_LINES[Math.floor(Math.random()*RADIO_LINES.length)]);
+        var v=pickRadioVoice(); if(v){ u.voice=v; u.lang=v.lang; } else { u.lang='en-GB'; }
+        u.rate=0.96; u.pitch=1.0; u.volume=1.0;
+        u.onend=fin; u.onerror=fin;
+        window.speechSynthesis.cancel();   // clear any stuck/queued utterance
+        window.speechSynthesis.speak(u);
+        setTimeout(fin, 6000); // safety: never let a stuck voice stall the radio
       }catch(_){ fin(); }
     }
     // Calling this from the start tap also UNLOCKS the audio element on iOS, so
@@ -1546,8 +1825,11 @@
     }
     function radioFabUpdate(entry){
       var t=document.getElementById('radio-fab-label'), sub=document.getElementById('radio-fab-sub');
-      if(t) t.textContent='On air — '+entry.name;
-      if(sub){ if(entry.venue){ sub.hidden=false; sub.textContent=entry.venue; } else sub.hidden=true; }
+      if(t) t.innerHTML='<span class="rf-on">On air</span> &middot; <a class="rf-link" data-rf-artist>'+esc(entry.name)+'</a>';
+      if(sub){ if(entry.venue){ sub.hidden=false; sub.innerHTML='Next playing at <a class="rf-link" data-rf-venue>'+esc(entry.venue)+'</a>'; } else { sub.hidden=true; sub.innerHTML=''; } }
+      // artist + venue jump to their pages (stopPropagation so they don't toggle play)
+      var al=t&&t.querySelector('[data-rf-artist]'); if(al) al.onclick=function(e){ e.stopPropagation(); if(entry.slug&&typeof openArtist==='function') openArtist(entry.slug); };
+      var vl=sub&&sub.querySelector('[data-rf-venue]'); if(vl) vl.onclick=function(e){ e.stopPropagation(); if(entry.venue&&typeof openVenue==='function') openVenue(entry.venue); };
       // inline actions: heart reflects pick state (kept in sync by refreshArtistButtons
       // via data-pick-art); the arrow jumps to this DJ's page.
       var h=document.getElementById('radio-fab-heart');
@@ -1663,13 +1945,26 @@
       radio.queue=q; radio.on=true; radio.i=-1; radio.station='artist:'+slug;
       radioTuneIn(0); // start with the artist themselves
     }
+    // Station from an arbitrary artist list — e.g. a profile's wanna-see / seen shelf.
+    async function startListRadio(list, stationId){
+      list=(list||[]).filter(function(a){ return a && a.slug; });
+      if(!list.length){ showToast('No artists to play yet.'); return; }
+      if(radio.on && radio.station===stationId){ stopActive(); return; } // toggle off
+      if(!(await gateForPlay())) return;
+      radioSpeakId();
+      var q=list.map(function(a){ return { slug:a.slug, name:a.name||a.slug, yt:null, tried:false, venue:'', day:'', poster:a.image||'', eventId:null }; });
+      stopActive();
+      radio.queue=seededShuffle(q, stationId); radio.on=true; radio.i=-1; radio.station=stationId;
+      radioTuneIn();
+    }
 
     // ── mobile bottom nav ──
     function syncTabs(){
       var onPage=document.body.classList.contains('page-on'), route=currentRoute();
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
-      setTab('bnav-picks', route==='picks');
+      setTab('bnav-search', route==='search');
+      setTab('bnav-picks', route==='upcoming');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
@@ -1678,8 +1973,20 @@
       if(document.body.classList.contains('page-on')) goGrid();
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ openMyPicks(); });
-    document.getElementById('bnav-profile').addEventListener('click',function(){ if(currentUser) openAccount(); else openAuth(); });
+    document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
+    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
+    // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
+    (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
+      if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;   // let new-tab/window through
+      e.preventDefault();
+      if(document.body.classList.contains('page-on') || location.hash){
+        history.pushState({sc:1},'', cityPath(currentCity));
+        hidePage();
+      }
+      window.scrollTo({top:0,behavior:'smooth'});
+      if(typeof syncTabs==='function') syncTabs();
+    }); })();
     window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
 
     function wireCard(scope){
@@ -1721,6 +2028,7 @@
           else if(s.dataset.shareEvt) shareEvent(s.dataset.shareEvt, s.dataset.title, s.dataset.venue);
           return;
         }
+        var lg=e.target.closest('.act-log[data-log-evt]'); if(lg){ e.preventDefault(); e.stopPropagation(); openLog({eventId:lg.dataset.logEvt}); return; }
         var an=e.target.closest('.an.linky[data-artist]'); if(an){ e.preventDefault(); e.stopPropagation(); openArtist(an.dataset.artist); return; }
         var vl=e.target.closest('.venue-link[data-venue]'); if(vl && vl.dataset.venue){ e.preventDefault(); e.stopPropagation(); openVenue(vl.dataset.venue); return; }
       });
@@ -1744,6 +2052,7 @@
     function maybeCoach(){
       if(prefs.coach) return;
       if(coachEl) return;
+      if(document.body.classList.contains('page-on')) return;   // only on the home grid
       var btn=gridEl.querySelector('.play'); if(!btn) return;
       coachEl=document.createElement('div'); coachEl.className='coach';
       coachEl.innerHTML='Tap to <b>preview</b> tonight&rsquo;s DJs';
@@ -1878,7 +2187,12 @@
         anonUser=!!(j.user && j.user.isAnon);
         if(j.user && j.user.prefs) prefs=Object.assign({}, j.user.prefs, prefs); // local writes this session win
       }catch(_){ currentUser=null; }
+      _meLoaded=true;   // auth state is now known — the gate may decide for real
+      if(currentUser){ _hadAccount=true; try{ localStorage.setItem('sc_acct','1'); }catch(_){} } // remember this device has an account
       renderAccount();
+      // If a gate popped during the auth-unknown window and we now know they're
+      // signed in, retire it — a signed-in user must never face the email gate.
+      if(currentUser){ document.querySelectorAll('.email-overlay').forEach(function(o){ o.remove(); }); }
       if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
       else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
       if(currentUser||anonUser) await hydrateShelf();
@@ -1887,10 +2201,16 @@
       adoptLegacyLocal();
     }
     // City preference (server-side) applies only when the URL didn't pick one.
+    // No saved city either (new/undecided visitor) → guess from IP via /api/geo.
+    var _geoTried=false;
     function applyPrefCity(){
       try{
-        if(_cityExplicit || !prefs.city || prefs.city===currentCity) return;
-        if(typeof setCity==='function') setCity(String(prefs.city));
+        if(_cityExplicit) return;
+        if(prefs.city){ if(prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); return; }
+        if(_geoTried) return; _geoTried=true;
+        fetch(API_BASE+'/api/geo').then(function(r){ return r.json(); }).then(function(j){
+          if(j && j.city && j.city!==currentCity && !_cityExplicit && !prefs.city && typeof setCity==='function') setCity(String(j.city));
+        }).catch(function(){});
       }catch(_){}
     }
     // One-time adoption: push any pre-cookie-era localStorage state to the
@@ -1941,13 +2261,19 @@
     }
     async function signOut(){
       try{ await authedFetch('/api/auth/logout',{ method:'POST' }); }catch(_){}
-      try{ localStorage.removeItem(SESSION_KEY); }catch(_){}
-      currentUser=null; renderAccount(); showToast('Signed out');
+      try{ localStorage.removeItem(SESSION_KEY); localStorage.removeItem('sc_acct'); }catch(_){}
+      _hadAccount=false; currentUser=null; renderAccount(); showToast('Signed out');
     }
 
     // sign-in modal
     var authOv=document.getElementById('auth-overlay');
-    function openAuth(){ document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
+    function openAuth(){
+      // Don't pop the sign-in form before we know who they are — on a cold-backend
+      // refresh currentUser is briefly null, and the gesture guards (if(!currentUser)
+      // openAuth()) would otherwise flash it at an already-signed-in user. Wait for
+      // /api/auth/me; only show it if they're genuinely signed out.
+      if(!_meLoaded){ whenAuthKnown().then(function(){ if(!currentUser) openAuth(); }); return; }
+      document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
     function closeAuth(){ authOv.classList.remove('show'); }
 
     // ── claim / rename handle (Reddit-style u/) ──
@@ -2075,13 +2401,36 @@
         if(!r.ok){ showToast(j.error||'Upload failed.'); return; }
         currentUser.avatar=j.avatar||null;
         renderAccount();
-        var hb=document.querySelector('.hub-head .av-lg'); if(hb) hb.style.backgroundImage=avatarBg(currentUser.handle,currentUser.avatar);
-        var rm=document.getElementById('hub-avatar-rm'); if(rm && !currentUser.avatar) rm.remove();
+        if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
         showToast(file?'Photo updated ✓':'Photo removed');
       }catch(_){ showToast('Upload failed.'); }
     }
     document.getElementById('auth-close').addEventListener('click',closeAuth);
     document.getElementById('auth-sent-done').addEventListener('click',closeAuth);
+    // PWA-friendly sign-in: verify the emailed code in THIS context so the session
+    // cookie lands in the (installed) app, not whatever browser opened the link.
+    document.getElementById('auth-code-go').addEventListener('click',async function(){
+      var email=(document.getElementById('auth-sent-to').textContent||'').trim().toLowerCase();
+      var code=(document.getElementById('auth-code').value||'').trim();
+      var err=document.getElementById('auth-code-err'), btn=this;
+      if(code.replace(/[^a-z0-9]/gi,'').length<4){ err.textContent='Enter the code from the email.'; return; }
+      btn.disabled=true; err.textContent='';
+      try{
+        var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email, code:code }) });
+        var j=await r.json().catch(function(){return {};});
+        if(!r.ok || !j.ok){ err.textContent=(r.status===400?'That code is wrong or expired.':'Something went wrong — try again.'); btn.disabled=false; return; }
+        if(j.token) _memToken=j.token;   // cookie is primary; bearer covers this page-load
+        var hadLocal=pickCount()>0;
+        closeAuth();
+        await loadMe(); renderAccount();
+        if(currentUser && hadLocal){
+          authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
+                                  events:Object.keys(picks.events).map(function(i){return {id:i,title:picks.events[i].title,venue:picks.events[i].venue,day:picks.events[i].day};}) })
+          }).then(function(){ showToast('Signed in — your picks are saved'); }).catch(function(){});
+        } else { showToast('Signed in'); }
+      }catch(_){ err.textContent='Network error — try again.'; btn.disabled=false; }
+    });
     authOv.addEventListener('click',function(e){ if(e.target===authOv) closeAuth(); });
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&authOv.classList.contains('show')) closeAuth(); });
     document.getElementById('auth-form').addEventListener('submit',async function(e){
@@ -2118,7 +2467,7 @@
         history.replaceState(null,'',location.pathname+location.search);
         // First sign-in: migrate any anonymous localStorage picks into the account.
         var hadLocal=pickCount()>0;
-        loadMe().then(function(){
+        _meReady=loadMe().then(function(){
           if(currentUser && hadLocal){
             authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
               body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
@@ -2128,7 +2477,7 @@
         });
         return true;
       }
-      loadMe();
+      _meReady=loadMe();
       return false;
     })();
 
@@ -2163,19 +2512,19 @@
     }
     function myHandle(){ return currentUser ? currentUser.handle : null; }
     function shareArtist(slug, name){
-      var url=shareUrl({artist:slug, d:currentDate||null, u:myHandle()});
+      var url=shareUrl({artist:slug, d:currentDate||null});
       doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this DJ')+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
-      // Share the canonical event page (#e/<id>); keep ?u= for sender attribution.
-      var u=myHandle();
-      var url=location.origin+location.pathname+(u?('?u='+encodeURIComponent(u)):'')+'#e/'+encodeURIComponent(id);
+      // Canonical event path — NOT location.pathname+#hash (which pinned the event
+      // to whatever page you were on and broke under path routing).
+      var url=location.origin+SC_BASE+'e/'+encodeURIComponent(id);
       var t=(title||'Event')+(venue?(' · '+venue):'');
       doShare({ title:t, text:t+' — preview every DJ on soundcheck', url:url });
     }
     function sharePicks(){
       if(!pickCount()) return;
-      var url=shareUrl({picks:encodePicks(picks), u:myHandle()});
+      var url=shareUrl({picks:encodePicks(picks)});
       var a=Object.keys(picks.artists).filter(function(s){return artStatus(s)==='wanna_see';}).length;
       var e=Object.keys(picks.events).filter(function(i){return evtStatus(i)==='going';}).length;
       var bits=[]; if(e) bits.push(e+' event'+(e===1?'':'s')); if(a) bits.push(a+' artist'+(a===1?'':'s'));
@@ -2251,11 +2600,15 @@
       try{
         var r=await authedFetch('/api/diary'); var j=await r.json(); var rows=j.entries||[];
         var el=document.getElementById('mp-diary'); if(!el) return;
-        el.innerHTML='<div class="sec-h">Diary ('+rows.length+') <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
+        el.innerHTML='<div class="sec-h">Diary ('+rows.length+') <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
+        wireDiary(el, true, appendPicksDiary);
       }catch(_){}
     }
-    document.getElementById('radio-fab-main').addEventListener('click',function(){ startRadio(); });
+    document.getElementById('radio-fab-main').addEventListener('click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
+    // text block is no longer inside the play button — clicking it while idle still starts radio
+    document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
+    document.getElementById('radio-fab-stop').addEventListener('click',function(e){ e.stopPropagation(); if(typeof radioStop==='function') radioStop(); });
     document.getElementById('radio-fab-heart').addEventListener('click',function(e){
       e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
     });
@@ -2529,6 +2882,7 @@
 
     // ── account hub page (tapping the @handle chip lands here) ──
     var HUB_IC={
+      upcoming:'<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>',
       picks:'<svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>',
       profile:'<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>',
       feed:'<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
@@ -2537,45 +2891,79 @@
     };
     function hubRow(id, ic, t, d, cls){ return '<button class="hub-row '+(cls||'')+'" id="'+id+'" type="button"><span class="hr-ic">'+ic+'</span><span class="hr-tx"><span class="hr-t">'+t+'</span>'+(d?'<span class="hr-d">'+d+'</span>':'')+'</span><span class="hr-ch">&rsaquo;</span></button>'; }
     // Account hub — Concept B: stat cards + action tiles + recent diary.
-    function openAccount(){
+    // Account = your own profile (same header + Shelves/Diary as /u/) plus a Settings
+    // tab and quick-action chips. Reuses shelfSecHTML/diaryTLHTML/wireShelfBody.
+    // Account = the profile page exactly + a settings gear in the corner + a
+    // "Coming up" banner (previews your next show) above the tabs.
+    function openAccount(initialTab){
       if(!currentUser){ openAuth(); return; }
       setRoute('account');
-      openPanel('<div class="hub-head"><button class="av-edit" id="hub-avatar" type="button" aria-label="Change photo"><span class="av-lg" style="background-image:'+avatarBg(currentUser.handle,currentUser.avatar)+'"></span><span class="cam"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3z"/><circle cx="12" cy="13" r="3"/></svg></span></button><div><div class="hh-name">u/'+esc(currentUser.handle)+'</div><div class="hh-stat" id="hub-stat">your account</div>'+(currentUser.avatar?'<button class="linklike" id="hub-avatar-rm" type="button" style="background:none;border:none;color:var(--muted);font:600 var(--fs-xs) var(--body);cursor:pointer;padding:4px 0 0;text-decoration:underline">Remove photo</button>':'')+'</div></div><div id="hub-rest"><div class="empty">Loading…</div></div>');
-      document.getElementById('hub-avatar').addEventListener('click',pickAvatar);
-      var rmAv=document.getElementById('hub-avatar-rm'); if(rmAv) rmAv.addEventListener('click',function(){ uploadAvatar(null); });
-      authedFetch('/api/profile?handle='+encodeURIComponent(currentUser.handle)).then(function(r){ return r.json(); }).then(function(p){
-        var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[]}, diary=(p&&p.diary)||[];
-        var st=document.getElementById('hub-stat'); if(st&&p&&p.handle) st.innerHTML='<b>'+(p.followers||0)+'</b> followers &middot; <b>'+(p.following||0)+'</b> following';
-        var h='<div class="hub-stats">'+
-            '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+s.wannaSee.length+'</div><div class="l">Wanna see</div></button>'+
-            '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+s.seen.length+'</div><div class="l">Seen live</div></button>'+
-            '<button class="hub-stat" type="button" data-go-prof="1"><div class="n">'+diary.length+'</div><div class="l">Gigs</div></button>'+
-          '</div>'+
-          '<div class="hub-tiles">'+
-            hubTile('hub-picks', HUB_IC.picks, 'My picks', 'Wanna-see &amp; saved')+
-            hubTile('hub-profile', HUB_IC.profile, 'My profile', 'How others see you')+
-            hubTile('hub-feed', HUB_IC.feed, 'Feed', 'Your follows')+
-            hubTile('hub-log', HUB_IC.log, 'Log a gig', 'Add to diary')+
+      openPanel('<div id="acc-body"><div class="empty">Loading…</div></div>');
+      var handle=currentUser.handle;
+      Promise.all([
+        authedFetch('/api/profile?handle='+encodeURIComponent(handle)).then(function(r){ return r.json(); }).catch(function(){ return null; }),
+        authedFetch('/api/upcoming').then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; })
+      ]).then(function(res){
+        var p=res[0]||{}, up=res[1]||{};
+        var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[],venues:[]}, diary=(p&&p.diary)||[];
+        var followers=p.followers||0, following=p.following||0;
+        var GEAR='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>';
+        var head='<div class="prof-head">'+
+          '<span class="prof-av" style="background-image:'+avatarBg(handle,currentUser.avatar)+'"></span>'+
+          '<div class="prof-id"><div class="prof-nm">u/'+esc(handle)+'</div><div class="prof-hn">your account</div></div>'+
+          statLineHTML(s.seen.length, s.wannaSee.length, diary.length, followers)+
+          '<div class="acc-corner"><button class="acc-gear" id="acc-gear" type="button" aria-label="Settings">'+GEAR+'</button></div>'+
           '</div>';
-        if(diary.length){
-          h+='<div class="hub-diary"><div class="sec-h">Recent diary <span class="more" id="hub-diary-all">All</span></div>'+
-            diary.slice(0,3).map(function(d){ var arts=(d.artists||[]).map(function(a){return a.name||a.slug;}).join(', '); return '<div class="row" data-open-prof="1"><div class="th" style="background:'+artGrad(d.venue||arts||'x')+'"></div><div style="flex:1;min-width:0"><div style="font-weight:600">'+esc(d.venue||'Gig')+'</div><div class="muted" style="font-size:var(--fs-xs)">'+esc(arts)+'</div></div>'+(d.rating?starStr(d.rating):'')+'</div>'; }).join('')+
-          '</div>';
+        // Coming-up banner — soonest show across the artists + venues you follow
+        // (an event can appear in both feeds → dedupe by id before counting).
+        var seen={}, feed=[].concat(up.artists||[], up.venues||[]).filter(function(e){ if(!e||!e.event_date||seen[e.id]) return false; seen[e.id]=1; return true; }).sort(function(a,b){ return String(a.event_date).localeCompare(String(b.event_date)); });
+        var bInner;
+        if(feed.length){
+          var nx=feed[0], who=(nx.lineup&&nx.lineup[0]&&nx.lineup[0].name)||nx.title||'A show', when=fmtDateLabel(String(nx.event_date).slice(0,10)), more=feed.length-1;
+          bInner='<div><div class="bk">Coming up</div><div class="bv">'+esc(who)+(nx.venue?' &middot; '+esc(nx.venue):'')+' &mdash; '+esc(when)+(more>0?'  +'+more+' more':'')+'</div></div>';
+        } else {
+          bInner='<div><div class="bk">Coming up</div><div class="bv">Next shows from the artists &amp; venues you follow</div></div>';
         }
-        h+='<div style="margin-top:22px;max-width:520px">'+
-          '<button class="hub-row" id="hub-handle" type="button"><span class="hr-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"/></svg></span><span class="hr-tx"><span class="hr-t">Change handle</span><span class="hr-d">u/'+esc(currentUser.handle)+'</span></span><span class="hr-ch">&rsaquo;</span></button>'+
-          '<button class="hub-row danger" id="hub-out" type="button" style="margin-top:10px"><span class="hr-ic">'+HUB_IC.out+'</span><span class="hr-tx"><span class="hr-t">Sign out</span></span></button>'+
-        '</div>';
-        var rest=document.getElementById('hub-rest'); if(!rest) return; rest.innerHTML=h;
-        document.getElementById('hub-handle').addEventListener('click',function(){ openHandleModal(true); });
-        document.getElementById('hub-picks').addEventListener('click',openMyPicks);
-        document.getElementById('hub-profile').addEventListener('click',function(){ openProfile(currentUser.handle); });
-        document.getElementById('hub-feed').addEventListener('click',openFeed);
-        document.getElementById('hub-log').addEventListener('click',openLog);
-        document.getElementById('hub-out').addEventListener('click',signOut);
-        var all=document.getElementById('hub-diary-all'); if(all) all.addEventListener('click',function(){ openProfile(currentUser.handle); });
-        rest.querySelectorAll('[data-open-prof],[data-go-prof]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(currentUser.handle); }); });
-      }).catch(function(){ var rest=document.getElementById('hub-rest'); if(rest) rest.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
+        var banner='<button class="acc-banner" id="acc-coming" type="button">'+bInner+'<span class="bch">&rsaquo;</span></button>';
+        // Share-your-taste-card CTA — same as the profile page (you have picks).
+        var tasteCTA=((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length)) ? '<button class="tc-cta" id="acc-tc" data-handle="'+esc(handle)+'" style="margin-top:16px">◆ Share your taste card</button>' : '';
+        var tabs='<div class="prof-tabs"><button data-atab="shelves" class="on">Shelves</button><button data-atab="diary">Diary</button><button data-atab="network">Network</button></div><div id="acc-tabbody"></div>';
+        var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+banner+tasteCTA+tabs;
+        document.getElementById('acc-coming').addEventListener('click',openUpcoming);
+        var atc=document.getElementById('acc-tc'); if(atc) atc.addEventListener('click',function(){ openTasteCard(handle); });
+        // settings gear → popover (handle / photo / feed / sign out)
+        function closePop(){ var pp=document.getElementById('acc-pop'); if(pp) pp.remove(); document.removeEventListener('click',closePop); }
+        document.getElementById('acc-gear').addEventListener('click',function(e){
+          e.stopPropagation();
+          if(document.getElementById('acc-pop')){ closePop(); return; }
+          var ic=function(d){ return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+d+'</svg>'; };
+          var pop=document.createElement('div'); pop.className='acc-pop'; pop.id='acc-pop';
+          pop.innerHTML=
+            '<button id="ap-handle">'+ic('<circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-3.92 7.94"/>')+'Change handle</button>'+
+            '<button id="ap-photo">'+ic('<path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3z"/><circle cx="12" cy="13" r="3"/>')+(currentUser.avatar?'Change photo':'Add a photo')+'</button>'+
+            (currentUser.avatar?'<button id="ap-photo-rm">'+ic('<path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>')+'Remove photo</button>':'')+
+            '<button id="ap-feed">'+ic('<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/>')+'Feed</button>'+
+            '<div class="sep"></div>'+
+            '<button id="ap-out" class="danger">'+ic('<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" x2="9" y1="12" y2="12"/>')+'Sign out</button>';
+          document.querySelector('.acc-corner').appendChild(pop);
+          pop.querySelector('#ap-handle').onclick=function(){ closePop(); openHandleModal(true); };
+          pop.querySelector('#ap-photo').onclick=function(){ closePop(); pickAvatar(); };
+          var rmp=pop.querySelector('#ap-photo-rm'); if(rmp) rmp.onclick=function(){ closePop(); uploadAvatar(null); };
+          pop.querySelector('#ap-feed').onclick=function(){ closePop(); openFeed(); };
+          pop.querySelector('#ap-out').onclick=function(){ closePop(); signOut(); };
+          setTimeout(function(){ document.addEventListener('click',closePop); },0);
+        });
+        var body=document.getElementById('acc-tabbody');
+        function showTab(t){
+          if(t==='shelves'){ body.innerHTML=shelfSecHTML(s, handle); wireShelfBody(body, s, handle); }
+          else if(t==='diary'){ body.innerHTML='<div class="sec-h">Diary <span class="more" id="acc-log">+ Log a gig</span></div>'+diaryTLHTML(diary, true); var lg=document.getElementById('acc-log'); if(lg) lg.addEventListener('click',openLog); wireDiary(body, true, function(){ openAccount('diary'); }); }
+          else { body.innerHTML='<div class="panel-stat"><span><b>'+followers+'</b> followers</span><span><b>'+following+'</b> following</span></div>'; }
+        }
+        var startTab=(initialTab==='diary'||initialTab==='network')?initialTab:'shelves';
+        showTab(startTab);
+        ab.querySelectorAll('.prof-tabs [data-atab]').forEach(function(x){ x.classList.toggle('on', x.dataset.atab===startTab); });
+        ab.querySelectorAll('.prof-tabs [data-atab]').forEach(function(b){ b.addEventListener('click',function(){ b.parentNode.querySelectorAll('button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.atab); }); });
+      }).catch(function(){ var ab=document.getElementById('acc-body'); if(ab) ab.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
     }
 
     // ════ Phase 3/4: profiles · feed · artist/venue · diary (account features) ════
@@ -2618,7 +3006,21 @@
     // keep the old names so the render fns don't all change
     function openPanel(html){ showPage(html); }
     function closePanel(){ goBack(); }
-    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&document.body.classList.contains('page-on')) goBack(); });
+    // ESC closes the top-most open popup/overlay only — it must NOT navigate a
+    // full page (profile/artist/venue/account) back to home. The static overlays
+    // (#auth-overlay, sheet, cal, the email gate) close via their own ESC
+    // listeners; this covers the dynamically-built auth overlays (handle / claim
+    // / night sign-in / share / taste card) that ship without one.
+    document.addEventListener('keydown',function(e){
+      if(e.key!=='Escape') return;
+      var pops=document.querySelectorAll('.auth-overlay.show');
+      for(var i=pops.length-1;i>=0;i--){
+        if(pops[i].id==='auth-overlay') continue;   // static modal self-handles
+        var btn=pops[i].querySelector('.auth-close');
+        if(btn){ btn.click(); } else { pops[i].remove(); }
+        return;                                      // only the top-most popup
+      }
+    });
     function relTime(iso){ try{ var s=(Date.now()-new Date(iso).getTime())/1000; if(s<60)return'just now'; if(s<3600)return Math.floor(s/60)+'m ago'; if(s<86400)return Math.floor(s/3600)+'h ago'; return Math.floor(s/86400)+'d ago'; }catch(_){ return ''; } }
     function av(handle){ return '<span class="fav" style="background-image:'+avatarBg(handle,null)+'"></span>'; }
     // gradient artist tiles (reuse the poster hue hash)
@@ -2627,10 +3029,59 @@
       var img=image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(image,300)+'" alt="" onerror="this.remove()">':'';
       return '<button class="ptile'+(image?' has-img':'')+'" data-artist="'+esc(slug)+'" style="background:'+artGrad(name||slug)+'">'+img+'<span class="nm">'+esc(name||slug)+'</span>'+(seen?'<span class="sd">&#10003;</span>':'')+'</button>';
     }
-    function starStr(n){ n=n||0; return '<span style="color:var(--accent)">'+'★'.repeat(n)+'</span><span style="color:var(--border)">'+'★'.repeat(5-n)+'</span>'; }
     function hubTile(id,ic,t,d){ return '<button class="hub-tile" id="'+id+'" type="button"><span class="ic">'+ic+'</span><div class="t">'+t+'</div><div class="d">'+d+'</div></button>'; }
 
     // ---- profile ----
+    // Tidy stat strip — numbers in the display font, muted labels, used on the
+    // profile + account headers.
+    function statLineHTML(seen, wanna, gigs, followers){
+      function unit(n, label){ return '<span><b>'+n+'</b> '+label+'</span>'; }
+      return '<div class="prof-statline">'+unit(seen,'seen')+unit(wanna,'wanna see')+unit(gigs,'gig'+(gigs===1?'':'s'))+unit(followers,'follower'+(followers===1?'':'s'))+'</div>';
+    }
+    // Shared shelf + diary renderers — used by the public profile AND the account
+    // page so they stay identical (DRY).
+    function shelfSecHTML(s, handle){
+      function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
+      var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
+      x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
+      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ var sub=esc(e.venue||'')+(e.day?(' &middot; '+esc(fmtDateLabel(String(e.day).slice(0,10)))):''); return '<li><span class="open-ev"'+(e.id!=null?' data-open-evt="'+esc(String(e.id))+'"':'')+'>'+esc(e.title||'Event')+(sub?' <small>'+sub+'</small>':'')+'</span></li>'; }).join('')+'</ul>'; }
+      if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
+      return x;
+    }
+    function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
+    function diaryArts(d){ return diaryValid(d).map(function(a){ return a.name||a.slug; }).join(', '); }
+    function diaryDateLabel(d){ return d.gig_date ? fmtDateLabel(String(d.gig_date).slice(0,10)) : ''; }
+    function diaryTLHTML(diary, isMe){
+      if(!diary.length) return '<div class="empty">No gigs logged yet.</div>';
+      return '<div class="prof-tl">'+diary.map(function(d,i){
+        var dl=diaryDateLabel(d), arts=diaryValid(d);
+        var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var tiles = arts.length ? '<div class="ptiles ptiles-wide" style="margin-top:11px">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
+        var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
+        return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card">'+del+'<div class="vn">'+vn+'</div>'+(dl?'<div class="mt">'+esc(dl)+'</div>':'')+tiles+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>';
+      }).join('')+'</div>';
+    }
+    // Wire a rendered diary: artist tiles → artist page, venue → venue page, and
+    // (own diary only) the × → delete, then re-render via onChange.
+    function wireDiary(scope, isMe, onChange){
+      if(!scope) return;
+      scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      scope.querySelectorAll('[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+      if(isMe) scope.querySelectorAll('[data-del]').forEach(function(b){ b.addEventListener('click',function(e){
+        e.stopPropagation(); var id=b.dataset.del; if(!id) return;
+        if(!confirm('Remove this gig from your diary?')) return;
+        b.disabled=true;
+        authedFetch('/api/diary/delete',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ id:id }) })
+          .then(function(r){ if(!r.ok) throw 0; showToast('Removed from your diary'); if(onChange) onChange(); })
+          .catch(function(){ b.disabled=false; showToast('Couldn’t remove that.'); });
+      }); });
+    }
+    function wireShelfBody(body, s, handle){
+      body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); });
+      body.querySelectorAll('.open-ev[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+      body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+handle+':'+w).then(function(){ var st='shelf:'+handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); });
+    }
     async function openProfile(handle){
       setRoute('u/'+handle);
       openPanel('<div class="empty">Loading u/'+esc(handle)+'…</div>');
@@ -2639,28 +3090,23 @@
         if(r.status===404){ openPanel('<div class="empty">No soundcheck user u/'+esc(handle)+'.</div>'); return; }
         var p=await r.json();
         var s=p.shelves||{wannaSee:[],seen:[],events:[]}, diary=p.diary||[];
-        var head='<div class="prof-cover"></div><div class="prof-head"><span class="prof-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
-          (p.isMe?'':'<button class="follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button>')+'</div>'+
-          '<div class="prof-nm">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="prof-hn">u/'+esc(p.handle)+'</div>'+
-          '<div class="prof-stat"><div><div class="n">'+s.seen.length+'</div><div class="l">Seen</div></div><div><div class="n">'+s.wannaSee.length+'</div><div class="l">Wanna see</div></div><div><div class="n">'+diary.length+'</div><div class="l">Gigs</div></div><div><div class="n">'+(p.followers||0)+'</div><div class="l">Followers</div></div></div>';
+        var head='<div class="prof-head"><span class="prof-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
+          '<div class="prof-id"><div class="prof-nm">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="prof-hn">u/'+esc(p.handle)+'</div></div>'+
+          statLineHTML(s.seen.length, s.wannaSee.length, diary.length, p.followers||0)+
+          (p.isMe?'':'<button class="follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button>')+
+          '</div>';
         if(!p.locked && ((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length))) head += '<button class="tc-cta" id="prof-tc" data-handle="'+esc(p.handle)+'" style="margin-top:16px">◆ '+(p.isMe?'Share your taste card':(esc('u/'+p.handle)+'’s taste card'))+'</button>';
         if(p.locked){ openPanel(head+'<div class="empty" style="margin-top:18px">This profile is private.</div>'); wireProfile(); return; }
         openPanel(head+'<div class="prof-tabs"><button data-tab="shelves" class="on">Shelves</button><button data-tab="diary">Diary</button><button data-tab="network">Network</button></div><div id="prof-tabbody"></div>');
         wireProfile();
         var ptc=document.getElementById('prof-tc'); if(ptc) ptc.addEventListener('click',function(){ openTasteCard(ptc.dataset.handle); });
         var TAB={
-          shelves:function(){
-            var x='<div class="sec-h">Wanna see ('+s.wannaSee.length+')</div>'+(s.wannaSee.length?'<div class="ptiles">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
-            x+='<div class="sec-h" style="margin-top:22px">Seen live ('+s.seen.length+')</div>'+(s.seen.length?'<div class="ptiles">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
-            if(s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events ('+s.events.length+')</div><ul class="tray-line">'+s.events.map(function(e){ return '<li><span class="open-ev">'+esc(e.title||'Event')+' <small>'+esc(e.venue||'')+'</small></span></li>'; }).join('')+'</ul>'; }
-            if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues ('+s.venues.length+')</div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
-            return x;
-          },
-          diary:function(){ return diary.length ? '<div class="prof-tl">'+diary.map(function(d,i){ var arts=(d.artists||[]).map(function(a){return a.name||a.slug;}).join(', '); return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card"><div class="vn">'+esc(d.venue||'Gig')+'</div><div class="mt">'+esc(d.gig_date||'')+(arts?(' &middot; '+esc(arts)):'')+(d.rating?(' &middot; '+starStr(d.rating)):'')+'</div>'+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>'; }).join('')+'</div>' : '<div class="empty">No gigs logged yet.</div>'; },
+          shelves:function(){ return shelfSecHTML(s, p.handle); },
+          diary:function(){ return diaryTLHTML(diary, p.isMe); },
           network:function(){ return '<div class="panel-stat"><span><b>'+(p.followers||0)+'</b> followers</span><span><b>'+(p.following||0)+'</b> following</span></div>'; }
         };
         var body=document.getElementById('prof-tabbody');
-        function showTab(t){ body.innerHTML=TAB[t](); body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); }); body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); }); }
+        function showTab(t){ body.innerHTML=TAB[t](); if(t==='diary') wireDiary(body, p.isMe, function(){ openProfile(p.handle); }); else wireShelfBody(body, s, p.handle); }
         showTab('shelves');
         panelBody.querySelectorAll('.prof-tabs [data-tab]').forEach(function(b){ b.addEventListener('click',function(){ panelBody.querySelectorAll('.prof-tabs button').forEach(function(x){x.classList.remove('on');}); b.classList.add('on'); showTab(b.dataset.tab); }); });
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
@@ -2674,15 +3120,130 @@
         try{ await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:fb.dataset.handle}) }); }catch(_){}
       });
     }
-    function diaryListHTML(rows){
+    function diaryListHTML(rows, isMe){
       return '<ul class="tray-line">'+rows.map(function(d){
-        var arts=(d.artists||[]).map(function(a){return a.name||a.slug;}).join(', ');
-        var stars=d.rating?(' · '+'★'.repeat(d.rating)):'';
-        return '<li><span class="open-ev">'+esc(d.venue||'Gig')+(d.gig_date?(' <small>'+esc(d.gig_date)+'</small>'):'')+'<br><small>'+esc(arts)+stars+(d.note?(' — '+esc(d.note)):'')+'</small></span></li>';
+        var dl=diaryDateLabel(d), arts=diaryArts(d);
+        var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
+        return '<li><span class="open-ev">'+vn+(dl?(' <small>'+esc(dl)+'</small>'):'')+'<br><small>'+esc(arts)+(d.note?(' — '+esc(d.note)):'')+'</small></span>'+del+'</li>';
       }).join('')+'</ul>';
     }
 
     // ---- feed ----
+    // Coming up — one compact row per entity (artist / venue / friend) with its
+    // next few gigs stacked beside it, like the artist-page "Past sets". Sections
+    // run Artists → Venues → Friends down a single scrolling page.
+    // Coming up — entity rows (Artists / Venues / Friends) under a date scope bar
+    // (Today · Week · Month · All) + a "jump to date" anchor. Windowed scopes hit
+    // /api/upcoming?from=&to= (every gig in range); "All" is the default
+    // next-from-today feed. Rows go two-up on desktop, single column on mobile.
+    var upS=null; // { scope, anchor (YYYY-MM-DD), tab }
+    function isoPlus(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return d.toISOString().slice(0,10); }
+    function isoWeekStart(iso){ var d=new Date(iso+'T12:00:00'); var dow=(d.getDay()+6)%7; d.setDate(d.getDate()-dow); return d.toISOString().slice(0,10); }
+    function isoMonthRange(iso){ var d=new Date(iso+'T12:00:00'), f=function(x){ return x.getFullYear()+'-'+('0'+(x.getMonth()+1)).slice(-2)+'-'+('0'+x.getDate()).slice(-2); }; return [f(new Date(d.getFullYear(),d.getMonth(),1)), f(new Date(d.getFullYear(),d.getMonth()+1,0))]; }
+    function upWindow(){
+      if(upS.scope==='all') return null;
+      if(upS.scope==='today') return [upS.anchor, upS.anchor];
+      if(upS.scope==='week'){ var ws=isoWeekStart(upS.anchor); return [ws, isoPlus(ws,6)]; }
+      return isoMonthRange(upS.anchor); // month
+    }
+    function openUpcoming(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('upcoming');
+      upS={ scope:'week', anchor:todayISO(), tab:null };
+      openPanel('<h3>Coming up</h3><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
+      renderUpcoming();
+    }
+    function upScopeBar(){
+      var bar=document.getElementById('cu-scopebar'); if(!bar) return;
+      var today=upS.anchor===todayISO();
+      var chips=[['today','Today'],['week','Week'],['month','Month'],['all','All']].map(function(s){ return '<button class="up-chip'+(upS.scope===s[0]?' on':'')+'" type="button" data-upscope="'+s[0]+'">'+s[1]+'</button>'; }).join('');
+      bar.innerHTML='<div class="up-scope">'+chips+
+        '<label class="up-jump'+(today?'':' set')+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg><span>'+(today?'Jump to date':esc(fmtDateLabel(upS.anchor)))+'</span><input type="date" id="up-date" value="'+esc(upS.anchor)+'" aria-label="Jump to date"></label>'+
+        (today?'':'<button class="up-chip up-reset" type="button" data-upreset="1" aria-label="Back to today">&times;</button>')+'</div>';
+      bar.querySelectorAll('[data-upscope]').forEach(function(b){ b.addEventListener('click',function(){ upS.scope=b.dataset.upscope; if(upS.scope==='today') upS.anchor=todayISO(); renderUpcoming(); }); });
+      var di=document.getElementById('up-date');
+      if(di){
+        // The input is invisible (opacity:0) over the pill, so a plain click only
+        // focuses it — the native picker won't open. showPicker() (inside this
+        // user gesture) forces it open; tapping the pill is the gesture.
+        var jl=bar.querySelector('.up-jump');
+        if(jl) jl.addEventListener('click',function(e){ e.preventDefault(); try{ di.showPicker(); }catch(_){ di.focus(); } });
+        di.addEventListener('change',function(){ if(di.value){ upS.anchor=di.value; if(upS.scope==='all'||upS.scope==='today') upS.scope='week'; renderUpcoming(); } });
+      }
+      var rb=bar.querySelector('[data-upreset]'); if(rb) rb.addEventListener('click',function(){ upS.anchor=todayISO(); renderUpcoming(); });
+    }
+    function upEmpty(){
+      if(upS.scope==='today') return 'Nothing from your follows on '+esc(fmtDateLabel(upS.anchor))+'.';
+      if(upS.scope==='week') return 'Nothing from your follows that week. Try another date or scope.';
+      if(upS.scope==='month') return 'Nothing from your follows that month. Jump ahead with the date picker.';
+      return 'Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.';
+    }
+    async function renderUpcoming(){
+      upScopeBar();
+      var box=document.getElementById('cu-lensbody'); if(!box) return;
+      box.innerHTML='<div class="empty">Loading…</div>';
+      try{
+        var w=upWindow();
+        var r=await authedFetch('/api/upcoming'+(w?('?from='+w[0]+'&to='+w[1]):'')); var j=await r.json();
+        var A=j.artists||[], V=j.venues||[], F=j.friends||[];
+        var feeds={ artists:{list:A,kind:'artist'}, venues:{list:V,kind:'venue'}, friends:{list:F,kind:'friend'} };
+        if(!A.length && !V.length && !F.length){ box.innerHTML='<div class="empty">'+upEmpty()+'</div>'; return; }
+        function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
+        box.innerHTML='<div class="upc-tabs" role="tablist">'+
+            '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(A.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(V.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(F.length)+'</button>'+
+          '</div><div id="upc-body"></div>';
+        var EMPTY={ artists:'No artists you follow are playing in this window.', venues:'No venues you follow have nights in this window.', friends:'Nothing your friends are into in this window.' };
+        var bodyEl=document.getElementById('upc-body');
+        if(!upS.tab || !feeds[upS.tab].list.length) upS.tab = A.length?'artists':V.length?'venues':'friends';
+        function showTab(tab){
+          upS.tab=tab;
+          box.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          var f=feeds[tab];
+          if(!f.list.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
+          bodyEl.innerHTML='<ul class="cu-list cu-grid">'+f.list.map(function(e){ return upRow(e, f.kind); }).join('')+'</ul>';
+          wireUpcoming();
+        }
+        box.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        showTab(upS.tab);
+      }catch(_){ box.innerHTML='<div class="empty">Couldn&rsquo;t load this.</div>'; }
+    }
+    function upAv(kind, key, name, image, avatar){
+      var sq = kind==='venue' ? ' sq' : '';
+      var bg = avatarBg(kind==='friend' ? key : (key||name), kind==='friend' ? avatar : null);
+      var img = (kind!=='friend' && image) ? '<img src="'+imgUrl(image,120)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">' : '';
+      return '<span class="cu-av'+sq+'" style="background-image:'+bg+'">'+img+'</span>';
+    }
+    function upGigLine(g, kind, hidden){
+      var d=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):'';
+      var label;
+      if(kind==='venue') label='<b>'+esc(g.title||'Club night')+'</b>';
+      else if(kind==='artist'){ var cy=cityLabel(g.city); label='<b>'+esc(g.venue||'')+'</b>'+(cy?' &middot; '+esc(cy):''); }
+      else label='<b>'+esc(g.title||g.venue||'A show')+'</b>'+((g.title&&g.venue)?' &middot; '+esc(g.venue):'');
+      return '<button class="cu-gl'+(hidden?' cu-hide':'')+'" type="button" data-ev="'+esc(String(g.id))+'"><span class="cu-d">'+esc(d)+'</span><span class="cu-m">'+label+'</span></button>';
+    }
+    function upRow(e, kind){
+      var key = kind==='friend' ? e.handle : (kind==='venue' ? (e.slug||e.name) : e.slug);
+      var nm = kind==='friend' ? ('u/'+esc(e.handle)) : esc(e.name||key);
+      var gigs=e.gigs||[];
+      var lines=gigs.map(function(g,i){ return upGigLine(g, kind, i>=3); }).join('');
+      var more = gigs.length>3 ? '<button class="cu-more" type="button" data-more="1">+'+(gigs.length-3)+' more</button>' : '';
+      return '<li>'+
+        '<button class="cu-who" type="button" data-go="'+kind+'" data-key="'+esc(key)+'" data-name="'+esc(e.name||'')+'">'+upAv(kind,key,e.name,e.image,e.avatar)+'<span class="cu-nm">'+nm+'</span></button>'+
+        '<div class="cu-gigs">'+lines+more+'</div></li>';
+    }
+    function wireUpcoming(){
+      panelBody.querySelectorAll('.cu-gl[data-ev]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.ev); }); });
+      panelBody.querySelectorAll('.cu-who[data-go]').forEach(function(b){ b.addEventListener('click',function(){
+        var k=b.dataset.go, key=b.dataset.key;
+        if(k==='artist') openArtist(key); else if(k==='venue') openVenue(b.dataset.name||key); else openProfile(key);
+      }); });
+      panelBody.querySelectorAll('.cu-more[data-more]').forEach(function(b){ b.addEventListener('click',function(){
+        b.parentNode.querySelectorAll('.cu-hide').forEach(function(x){ x.classList.remove('cu-hide'); }); b.remove();
+      }); });
+    }
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
@@ -2719,7 +3280,7 @@
       var evs=(rows||[]).map(function(g){
         return { id:g.id, title:g.title, venue:g.venue,
           _day:fmtDateLabel(String(g.event_date).slice(0,10)),
-          startTime:g.start_time, poster:g.poster_url,
+          startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
           artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; }) };
       });
       el.innerHTML='<div class="grid">'+evs.map(cardHTML).join('')+'</div>';
@@ -2730,6 +3291,7 @@
         var open=function(e){ e.preventDefault(); e.stopPropagation(); openSheet(ev); };
         var p=c.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
         var t=c.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
+        var rb=c.querySelector('.ev-radio'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
       });
     }
 
@@ -2843,18 +3405,19 @@
         // generated marble underneath; real photo overlays and falls back on error
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
         var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><h3>'+esc(a.name||slug)+'</h3></div></div>';
-        // Social-proof counts (seen live / friends seen) intentionally hidden for now.
-        if(a.description) h+='<p class="seo-desc">'+esc(a.description)+'</p>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
         var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
-        h+='<div class="artist-actions">'+
+        var actions='<div class="artist-actions">'+
           '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
           '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
+        // Header row: avatar + name/socials, with the description alongside on desktop.
+        // Action buttons sit on their own row below.
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        h+=actions;
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
@@ -2870,10 +3433,11 @@
         if((a.history||[]).length){
           h+='<div class="sec-h" style="margin-top:26px">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
-            var cy=cityLabel(g.city);
+            var label=g.title||g.venue||'Event';
+            var sub=(g.title&&g.venue)?g.venue:cityLabel(g.city);
             return '<li><span class="gh-date">'+esc(d)+'</span>'+
-              '<button class="gh-venue" type="button" data-venue="'+esc(g.venue||'')+'" data-city="'+esc(g.city||'')+'">'+esc(g.venue||'—')+'</button>'+
-              (cy?'<span class="gh-city">'+esc(cy)+'</span>':'')+'</li>';
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
         }
         openPanel(h);
@@ -2889,7 +3453,8 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        document.querySelectorAll('#page-body .gh-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue, b.dataset.city||null); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
         var up=document.getElementById('ap-upcoming');
         var rows=(a.upcoming||[]).map(function(g){
@@ -2897,7 +3462,7 @@
             id:g.id, title:g.title, venue:g.venue,
             _city:g.city?cityLabel(g.city):'',
             _day:fmtDateLabel(String(g.event_date).slice(0,10)),
-            startTime:g.start_time, poster:g.poster_url,
+            startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
             artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; })
           };
         });
@@ -2942,7 +3507,7 @@
         if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/v/'+slug); }
         var dispName=v.name||input;
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
-        var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'"></span>';
+        var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'">'+(v.image?'<img src="'+imgUrl(v.image,200)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+'</span>';
         var h='<div class="artist-head">'+av+'<div class="artist-head-tx"><h3>'+esc(dispName)+'</h3><div class="sub">'+sub+'</div></div></div>';
         var stats=[];
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
@@ -2950,8 +3515,9 @@
         // "saved upcoming" (going) count hidden — no social proof yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(v.description) h+='<p class="seo-desc">'+esc(v.description)+'</p>';
+        h+=socialLinksHTML({ website:v.website });
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
-        h+='<div id="vp-upcoming"></div>';
+        h+='<div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
@@ -2964,6 +3530,20 @@
         if(vu && up.length){
           vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+' ('+up.length+')</div><div id="vp-cards"></div>';
           mountEventCards(document.getElementById('vp-cards'), up);
+        }
+        // Past events — same gig-history list pattern as "Past sets" on the artist page.
+        var pst=(v.past||[]), vpst=document.getElementById('vp-past');
+        if(vpst && pst.length){
+          vpst.innerHTML='<div class="sec-h" style="margin-top:26px">Past events</div><ul class="gig-history">'+pst.map(function(g){
+            var d=fmtDateLabel(String(g.event_date).slice(0,10));
+            var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+            var label=g.title||line||'Event';
+            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
+          }).join('')+'</ul>';
+          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         }
         if(v.lat!=null && v.lng!=null){
           var locEl=document.getElementById('venue-loc');
@@ -2984,27 +3564,39 @@
       catch(_){ return String(d||'').slice(0,10); }
     }
     function eventPageHTML(ev){
-      var time=formatTime(ev.startTime)||ev._time||'';
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
+      var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
+      var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
       var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
+      // Past event → "Add to log" / "Logged" (you can't "save/go" to a night that's
+      // already happened); future event keeps the save heart.
+      var isPast = eid && ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
+      var evLog = isPast ? '<button class="act-log'+(ev.logged?' on':'')+'" type="button" data-log-evt="'+esc(eid)+'">'+(ev.logged?'&#10003; Logged':'+ Add to log')+'</button>' : '';
       var n=(ev.artists||[]).length;
-      var posterImg = ev.poster ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,320)+'" alt="" onerror="this.style.display=\'none\'">' : '';
-      return '<div class="event-head">'+
-          '<div class="poster ev-poster">'+genPoster(ev.title||'Event')+posterImg+'<span class="tint"></span></div>'+
-          '<div class="event-head-tx">'+
-            (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
-            '<h3>'+esc(ev.title||'Event')+'</h3>'+
-            '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-            (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share</span></div>' : '')+
+      // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
+      // gradient fallback only when there's no real poster.
+      var posterBig = ev.poster
+        ? '<div class="ev-poster-big"><img loading="lazy" decoding="async" src="'+imgUrl(ev.poster,1000)+'" alt="" onerror="var p=this.closest(\'.ev-poster-big\'); if(p) p.style.display=\'none\'"></div>'
+        : '<div class="poster ev-poster-gen">'+genPoster(ev.title||'Event')+'</div>';
+      return '<div class="ev-layout">'+
+          '<div class="ev-col-poster">'+posterBig+'</div>'+
+          '<div class="ev-col-main">'+
+            '<div class="event-head-tx">'+
+              (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
+              '<h3>'+esc(ev.title||'Event')+'</h3>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
+              (eid ? '<div class="sheet-actions">'+(isPast ? (evLog+evShare+'<span class="lbl">Log it or share</span>') : (evHeart+evShare+'<span class="lbl">Save or share</span>'))+'</div>' : '')+
+            '</div>'+
+            '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
+            ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
+            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
+            '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
           '</div>'+
         '</div>'+
-        '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb + add-to-calendar (filled by renderEventRich) */
-        ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:26px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-        '<div class="sec-h" style="margin-top:14px">Line-up'+(n?' ('+n+')':'')+'</div>'+
-        '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-        '<div id="ev-rich"></div>'+        /* location map + recommendations (filled by renderEventRich) */
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
         (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
     }
     function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
@@ -3012,6 +3604,7 @@
     function musicEventLD(ev){
       var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+'e/'+ev.id, eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
       if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.endTime) o.endDate=ev.endTime;
       if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
       var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
       if(perf.length) o.performer=perf;
@@ -3020,6 +3613,14 @@
     }
     // Fill the two placeholders eventPageHTML left, using the enriched event.
     function renderEventRich(ev){
+      // Always show the date: the fetched detail is authoritative (has event_date),
+      // so fill the header's #ev-when even if the cached open had no/partial date.
+      var when=document.getElementById('ev-when');
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
+      // The cached first-paint doesn't know if you've logged this night (only the
+      // fresh /api/event does) — refresh the Add-to-log / Logged button now.
+      var lb=document.querySelector('#page-body .act-log');
+      if(lb){ lb.classList.toggle('on', !!ev.logged); lb.innerHTML = ev.logged ? '&#10003; Logged' : '+ Add to log'; }
       var top=document.getElementById('ev-meta-rich');
       if(top){
         var th='';
@@ -3057,8 +3658,9 @@
       return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
         _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
         startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
-        city:d.city, genres:d.genres||[], description:d.description||'',
+        city:d.city, genres:d.genres||[], description:d.description||'', logged:!!d.logged,
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
         alsoOn:d.also_on||[],
         artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
@@ -3081,7 +3683,7 @@
 
     // ---- log a gig ----
     // ── Log a gig — full page (was a modal) ──
-    var lgArtists=[], lgRating=0;
+    var lgArtists=[], lgSel=null, lgEventList=[];
     function debounce(fn, ms){ var t; return function(){ var a=arguments, c=this; clearTimeout(t); t=setTimeout(function(){ fn.apply(c,a); }, ms); }; }
     function pubGet(path){ return fetch(API_BASE+path).then(function(r){ return r.json(); }).catch(function(){ return {}; }); }
     function attachSuggest(input, drop, fetcher, onPick){
@@ -3100,57 +3702,146 @@
       drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(b){ e.preventDefault(); onPick(cur[+b.dataset.i]); hide(); } });
       input.addEventListener('blur',function(){ setTimeout(hide,160); });
     }
-    function renderStars(){ var el=document.getElementById('lg-stars'); if(el) el.innerHTML=[1,2,3,4,5].map(function(n){ return '<button type="button" data-star="'+n+'" class="'+(n<=lgRating?'on':'')+'">★</button>'; }).join(''); }
-    function renderLgArtists(){ var el=document.getElementById('lg-artists'); if(el) el.innerHTML=lgArtists.map(function(a,i){ return '<span class="lg-chip">'+esc(a.name)+'<button type="button" data-rmlg="'+i+'">&times;</button></span>'; }).join(''); }
     function logFormHTML(){
-      return '<h3>Log a gig</h3><div class="sub" style="margin-bottom:16px">Add a night you went to &mdash; it lands in your diary and marks the DJs as seen.</div>'+
-        '<div style="max-width:520px">'+
-          '<div class="lg-field"><label>Find your gig</label><div class="sg-wrap"><input type="text" id="lg-gig-in" placeholder="Search past nights — venue or event…" autocomplete="off"><div class="sg-drop" id="lg-gig-drop"></div></div></div>'+
-          '<div class="lg-field"><label>Date</label><input type="date" id="lg-date"></div>'+
-          '<div class="lg-field"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue" placeholder="FOLD, Phonox, The Cause…" autocomplete="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
-          '<div class="lg-field"><label>Artists you saw</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Type a name…" autocomplete="off"><div class="sg-drop" id="lg-artist-drop"></div></div><div class="lg-artists" id="lg-artists"></div></div>'+
-          '<div class="lg-field"><label>Rating</label><div class="stars" id="lg-stars"></div></div>'+
-          '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
-          '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
-          '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+      var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
+        return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
+      return '<h3>Log a gig</h3><div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
+        '<div style="max-width:540px">'+
+          '<div id="lg-preselect" style="display:none"></div>'+
+          '<div id="lg-pickers">'+
+            '<div class="lg-field"><label>City</label><select id="lg-city" class="lg-select">'+cityOpts+'</select></div>'+
+            '<div class="lg-field"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search venues…" autocomplete="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+            '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><input type="date" id="lg-date" style="margin-bottom:10px"><div class="lg-events" id="lg-events"></div></div>'+
+          '</div>'+
+          '<div id="lg-extra" style="display:none">'+
+            '<div class="lg-field" id="lg-lineup-field"><label>Who did you see?</label><div class="lg-chips" id="lg-lineup"></div></div>'+
+            '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
+            '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
+            '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+          '</div>'+
         '</div>';
+    }
+    // Render the venue's indexed nights as a selectable list.
+    function renderLgEvents(){
+      var el=document.getElementById('lg-events'); if(!el) return;
+      if(!lgEventList.length){ var dt=document.getElementById('lg-date'); el.innerHTML='<div class="empty" style="padding:6px 0">'+((dt&&dt.value)?'No indexed night here on that date — try another date.':'No indexed nights at this venue yet — try another.')+'</div>'; return; }
+      el.innerHTML=lgEventList.map(function(e,i){
+        var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
+        var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+        var on=lgSel&&lgSel.id===e.id;
+        return '<button type="button" class="lg-ev'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||'Club night')+'</span>'+(ln?'<span class="le-l">'+esc(ln)+'</span>':'')+'</button>';
+      }).join('');
+    }
+    // Real, named acts only — drops empty / "-" placeholder entries from the bill.
+    function lgValidLineup(lineup){ return (lineup||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a && a.slug && a.slug!=='-' && n && n!=='-'; }); }
+    function lgArtistOn(slug){ return lgArtists.some(function(a){ return a.slug===slug; }); }
+    // The bill, as toggle chips — all "seen" by default; tap to drop the ones you
+    // missed (you don't always catch every act).
+    function renderLgLineup(){
+      var el=document.getElementById('lg-lineup'), field=document.getElementById('lg-lineup-field'); if(!el) return;
+      var ln=lgValidLineup(lgSel&&lgSel.lineup);
+      if(!ln.length){ if(field) field.style.display='none'; el.innerHTML=''; return; }
+      if(field) field.style.display='';
+      el.innerHTML=ln.map(function(a){ return '<button type="button" class="lg-chip'+(lgArtistOn(a.slug)?' on':'')+'" data-aslug="'+esc(a.slug)+'" data-aname="'+esc(a.name||a.slug)+'">'+esc(a.name||a.slug)+'</button>'; }).join('');
+    }
+    function selectLgEvent(e){
+      lgSel={ id:e.id, title:e.title, venue:e.venue, date:e.event_date?String(e.event_date).slice(0,10):null, lineup:e.lineup||[] };
+      lgArtists=lgValidLineup(lgSel.lineup).map(function(a){ return {slug:a.slug, name:a.name||a.slug}; }); // default: saw everyone
+      document.getElementById('lg-extra').style.display='';
+      renderLgLineup(); renderLgEvents();
+    }
+    // Load the indexed nights for a chosen venue (past nights from /api/venue).
+    // A set date filters to that exact day (any depth); no date → recent nights.
+    function loadLgVenue(name){
+      lgSel=null; lgEventList=[];
+      var city=document.getElementById('lg-city').value;
+      document.getElementById('lg-venue-in').value=name;
+      var field=document.getElementById('lg-events-field'); field.style.display='';
+      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
+      document.getElementById('lg-extra').style.display='none';
+      var dt=document.getElementById('lg-date'), on=(dt&&dt.value)?('&on='+encodeURIComponent(dt.value)):'';
+      pubGet('/api/venue?name='+encodeURIComponent(name)+'&city='+encodeURIComponent(city)+on).then(function(v){
+        lgEventList=(v&&v.past)||[]; renderLgEvents();
+      }).catch(function(){ lgEventList=[]; renderLgEvents(); });
+    }
+    // Coming from a "+ Log" button on a past event: skip the pickers, pull the
+    // event's lineup and pre-select it so it's a note-and-save away. Marks the
+    // line-up seen on save like any other log.
+    async function preselectLogEvent(id){
+      var pk=document.getElementById('lg-pickers'); if(pk) pk.style.display='none';
+      var pre=document.getElementById('lg-preselect');
+      if(pre){ pre.style.display=''; pre.innerHTML='<div class="empty" style="padding:6px 0">Loading…</div>'; }
+      try{
+        var r=await authedFetch('/api/event?id='+encodeURIComponent(id)); var ev=await r.json();
+        selectLgEvent({ id:ev.id, title:ev.title, venue:ev.venue, event_date:ev.event_date, lineup:ev.lineup||[] });
+        if(pre){
+          var d=ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'';
+          var ln=(ev.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,4).join(', ');
+          pre.innerHTML='<div class="lg-pre"><div class="lg-pre-t">'+esc(ev.title||ev.venue||'This night')+'</div><div class="lg-pre-s">'+esc(ev.venue||'')+(d?(' &middot; '+esc(d)):'')+'</div>'+(ln?'<div class="lg-pre-l">'+esc(ln)+'</div>':'')+'</div>';
+        }
+      }catch(_){ if(pre) pre.innerHTML='<div class="empty">Couldn&rsquo;t load that night.</div>'; }
     }
     function openLog(prefill){
       setRoute('log');
-      lgArtists=(prefill&&prefill.artists)?prefill.artists.slice():[]; lgRating=0;
+      lgArtists=[]; lgSel=null; lgEventList=[];
       showPage(logFormHTML());
-      if(prefill&&prefill.venue) document.getElementById('lg-venue').value=prefill.venue;
-      if(prefill&&prefill.date) document.getElementById('lg-date').value=prefill.date;
-      renderStars(); renderLgArtists(); wireLog();
+      wireLog();
+      if(prefill&&prefill.eventId) preselectLogEvent(prefill.eventId);
+      // Coming from "log this night" — jump straight to the venue's nights.
+      else if(prefill&&prefill.venue) loadLgVenue(prefill.venue);
     }
     function wireLog(){
-      document.getElementById('lg-stars').addEventListener('click',function(e){ var b=e.target.closest('[data-star]'); if(b){ lgRating=+b.dataset.star; renderStars(); } });
-      document.getElementById('lg-artists').addEventListener('click',function(e){ var b=e.target.closest('[data-rmlg]'); if(b){ lgArtists.splice(+b.dataset.rmlg,1); renderLgArtists(); } });
-      document.getElementById('lg-artist-in').addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); var v=this.value.trim(); if(v){ lgArtists.push({slug:v.toLowerCase().replace(/[^a-z0-9]+/g,'-'), name:v}); this.value=''; renderLgArtists(); } } });
       document.getElementById('lg-save').addEventListener('click',saveLog);
-      attachSuggest(document.getElementById('lg-gig-in'), document.getElementById('lg-gig-drop'),
-        async function(qv){ var j=await pubGet('/api/gigs?q='+encodeURIComponent(qv)); return (j.gigs||[]).map(function(g){ return { label:esc(g.title||'Gig')+' <small>'+esc(g.venue||'')+(g.event_date?(' · '+esc(String(g.event_date).slice(0,10))):'')+'</small>', g:g }; }); },
-        function(pick){ var g=pick.g; if(g.event_date) document.getElementById('lg-date').value=String(g.event_date).slice(0,10); document.getElementById('lg-venue').value=g.venue||''; var arts=(typeof g.artists==='string'?JSON.parse(g.artists):g.artists)||[]; lgArtists=arts.map(function(a){ return {slug:a.slug, name:a.name}; }); renderLgArtists(); document.getElementById('lg-gig-in').value=g.title||''; });
-      attachSuggest(document.getElementById('lg-venue'), document.getElementById('lg-venue-drop'),
-        async function(qv){ var j=await pubGet('/api/venues?q='+encodeURIComponent(qv)); return (j.venues||[]).map(function(v){ return { label:esc(v.name)+(v.count?(' <small>'+v.count+' nights</small>'):''), name:v.name }; }); },
-        function(pick){ document.getElementById('lg-venue').value=pick.name; });
-      attachSuggest(document.getElementById('lg-artist-in'), document.getElementById('lg-artist-drop'),
-        async function(qv){ var j=await pubGet('/api/artists?q='+encodeURIComponent(qv)); return (j.artists||[]).map(function(a){ return { label:esc(a.name), slug:a.slug, name:a.name }; }); },
-        function(pick){ if(!lgArtists.some(function(x){return x.slug===pick.slug;})){ lgArtists.push({slug:pick.slug, name:pick.name}); renderLgArtists(); } document.getElementById('lg-artist-in').value=''; });
+      // Toggle which acts you actually saw (chips); only the lit ones get logged + marked seen.
+      document.getElementById('lg-lineup').addEventListener('click',function(e){
+        var b=e.target.closest('[data-aslug]'); if(!b) return;
+        var slug=b.dataset.aslug;
+        if(lgArtistOn(slug)){ lgArtists=lgArtists.filter(function(a){ return a.slug!==slug; }); b.classList.remove('on'); }
+        else { lgArtists.push({ slug:slug, name:b.dataset.aname }); b.classList.add('on'); }
+      });
+      // Re-scope the venue search when the city changes; reset the night list + date.
+      document.getElementById('lg-city').addEventListener('change',function(){
+        lgSel=null; lgEventList=[];
+        document.getElementById('lg-venue-in').value='';
+        var dt=document.getElementById('lg-date'); if(dt) dt.value='';
+        document.getElementById('lg-events-field').style.display='none';
+        document.getElementById('lg-extra').style.display='none';
+      });
+      // Date filter — re-query the chosen venue's nights for that exact day.
+      var dEl=document.getElementById('lg-date');
+      if(dEl) dEl.addEventListener('change',function(){ var nm=document.getElementById('lg-venue-in').value.trim(); if(nm) loadLgVenue(nm); });
+      // Pick an indexed night at the chosen venue.
+      document.getElementById('lg-events').addEventListener('click',function(e){ var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]); });
+      // Venue picker — scoped to the selected city; shows top venues on focus.
+      var vin=document.getElementById('lg-venue-in'), vdrop=document.getElementById('lg-venue-drop');
+      function venueFetch(){ var city=document.getElementById('lg-city').value, qv=vin.value.trim();
+        return pubGet('/api/venues?city='+encodeURIComponent(city)+(qv.length>=2?('&q='+encodeURIComponent(qv)):'')).then(function(j){ return j.venues||[]; }); }
+      var curV=[];
+      function showV(list){ curV=list; if(!list.length){ vdrop.classList.remove('show'); vdrop.innerHTML=''; return; }
+        vdrop.innerHTML=list.map(function(v,i){ return '<button type="button" data-vi="'+i+'">'+esc(v.name)+(v.area?(' <small>'+esc(v.area)+'</small>'):'')+'</button>'; }).join('');
+        vdrop.classList.add('show'); }
+      var runV=debounce(function(){ venueFetch().then(showV); },200);
+      vin.addEventListener('focus',function(){ if(!vin.value.trim()) venueFetch().then(showV); });
+      vin.addEventListener('input',runV);
+      vdrop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-vi]'); if(b){ e.preventDefault(); vdrop.classList.remove('show'); loadLgVenue(curV[+b.dataset.vi].name); } });
+      vin.addEventListener('blur',function(){ setTimeout(function(){ vdrop.classList.remove('show'); },160); });
     }
     async function saveLog(){
       if(!currentUser){ openAuth(); return; }
+      if(!lgSel){ document.getElementById('lg-err').textContent='Pick a night first.'; return; }
       var btn=document.getElementById('lg-save'); btn.disabled=true; document.getElementById('lg-err').textContent='';
       try{
         var r=await authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
-          date:document.getElementById('lg-date').value||null, venue:document.getElementById('lg-venue').value.trim()||null,
-          note:document.getElementById('lg-note').value.trim()||null, rating:lgRating||null, artists:lgArtists }) });
-        if(!r.ok){ var j=await r.json().catch(function(){return{};}); document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
+          date:lgSel.date||null, venue:lgSel.venue||null,
+          note:document.getElementById('lg-note').value.trim()||null, artists:lgArtists }) });
+        var j=await r.json().catch(function(){return{};});
+        if(!r.ok){ document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
         lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
         savePicks(); afterPicksChanged();
-        showToast('Logged to your diary');
-        // replace #log with #picks so Back doesn't return to an empty form
-        history.replaceState({sc:1},'','#picks'); openMyPicks();
+        showToast(j.updated ? 'Updated your diary' : 'Logged to your diary');
+        // land on the diary (account → Diary tab); replace #log so Back doesn't
+        // return to a now-stale form.
+        history.replaceState({sc:1},'','#account'); openAccount('diary');
       }catch(_){ document.getElementById('lg-err').textContent='Network error.'; btn.disabled=false; }
     }
 
@@ -3164,6 +3855,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='picks') openMyPicks();
+      else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
@@ -3270,12 +3962,12 @@
         var anCls = (inSheet && slug) ? 'an linky' : 'an';
         var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
         var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
-        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+av+ytBtn+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
       return html;
     }
     function cardHTML(ev){
-      var time=formatTime(ev.startTime);
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var pick=isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
@@ -3328,29 +4020,16 @@
       s.position=''; s.top=''; s.left=''; s.right=''; s.width='';
       window.scrollTo(0, savedScrollY);
     }
+    // The quick-peek bottom sheet is retired — every event tap now goes straight to
+    // the full event page. Kept as a thin shim so existing callers keep working;
+    // if an event somehow has no canonical id there's no page to open, so ignore.
     function openSheet(ev){
-      if(!ev) return;
-      var time=formatTime(ev.startTime), eid=ev.id!=null?String(ev.id):'';
-      var evPicked = eid && isEventPicked(eid) ? ' on' : '';
-      var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
-      var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
-      sheetContent.innerHTML=
-        posterHTML(ev)+
-        '<div class="sheet-body">'+
-          (isPickVenue(ev.venue)?'<span class="pick">Pick</span><br>':'')+
-          '<h3>'+esc(ev.title)+(eid?' <a class="see-more" role="button" tabindex="0" data-see-more="'+esc(eid)+'">See more &rsaquo;</a>':'')+'</h3>'+
-          '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b>'+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-          (eid ? '<div class="sheet-actions">'+evHeart+evShare+'<span class="lbl">Save or share this event</span></div>' : '')+
-          ((eid&&(ev.artists||[]).length)?'<button class="ev-radio" type="button">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-          '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
-          soloCtaHTML(ev)+
-        '</div>';
-      wireCard(sheetContent);
-      var sm=sheetContent.querySelector('.see-more');
-      if(sm) sm.addEventListener('click',function(){ if(eid) openEvent(eid); });
-      var srb=sheetContent.querySelector('.ev-radio');
-      if(srb) srb.addEventListener('click',function(){ startEventRadio(ev); });
-      sheetOv.classList.add('show'); lockBody();
+      if(!ev || ev.id==null) return;
+      var id=String(ev.id);
+      // seed the cache so the page paints instantly (cards on artist/venue/upcoming
+      // pages aren't in rebuildLookup), then enrich from /api/event.
+      if(lookup && lookup.byEvent && !lookup.byEvent[id]) lookup.byEvent[id]=ev;
+      openEvent(id);
     }
     function closeSheet(){ if(!sheetOv.classList.contains('show')) return; sheetOv.classList.remove('show'); unlockBody(); }
     document.getElementById('sheet-close').addEventListener('click',closeSheet);
@@ -3543,6 +4222,7 @@
       var hn=document.getElementById('hero-city-name'); if(hn) hn.textContent=m.name;
       var hc=document.getElementById('hero-city'); if(hc) hc.setAttribute('aria-label','Change city — currently '+m.name);
       var hbn=document.getElementById('hdr-brand-city'); if(hbn) hbn.textContent=m.name; // mobile header brand
+      var lg=document.querySelector('.logo'); if(lg) lg.href=cityPath(currentCity); // home URL (was href="." → broke on deep paths)
     }
     async function loadCities(){
       try{
@@ -3655,6 +4335,8 @@
       var fri=new Date(sat); fri.setDate(sat.getDate()-1);
       return [isoOf(fri), isoOf(sat)];
     }
+    // The next upcoming Friday (today if it IS Friday) — the default landing.
+    function nextFridayISO(){ var d=new Date(); d.setDate(d.getDate()+((5-d.getDay()+7)%7)); return isoOf(d); }
     async function loadWeekend(offset){
       offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
       var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
@@ -3676,6 +4358,7 @@
       if(endISO<startISO){ var t=startISO; startISO=endISO; endISO=t; }
       var span=Math.round((new Date(endISO+'T12:00:00')-new Date(startISO+'T12:00:00'))/86400000)+1;
       if(span<=1) return load(startISO);
+      if(span>RANGE_CAP){ var _dt=new Date(startISO+'T12:00:00'); _dt.setDate(_dt.getDate()+(RANGE_CAP-1)); endISO=isoOf(_dt); span=RANGE_CAP; }
       mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
       document.title='soundcheck by 6 Minutes · '+startISO+' to '+endISO;
       history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
@@ -3705,17 +4388,22 @@
     var calOverlay=document.getElementById('cal-overlay'), calEl=document.getElementById('cal'), calView=null;
     var calMode='day';                  // 'day' | 'range'
     var calRangeStart=null, calRangeEnd=null;   // ISO strings while picking
-    var RANGE_CAP=7;                    // max days in a single range
+    var RANGE_CAP=31;                   // max days in a single range (a full month)
     function inRange(iso, a, b){ return a && b && iso>=a && iso<=b; }
     function buildCal(){
       var tdy=new Date(); tdy.setHours(0,0,0,0);
       var y=calView.getFullYear(), m=calView.getMonth();
       var startDow=new Date(y,m,1).getDay(), days=new Date(y,m+1,0).getDate();
       var dows=['S','M','T','W','T','F','S'], h='';
+      // month bounds (start clamped to today) for Month mode
+      var monFirst=isoOf(new Date(y,m,1)), monLast=isoOf(new Date(y,m+1,0)), _tIso=todayISO();
+      var monStart=(monFirst<_tIso?_tIso:monFirst), monEnd=monLast, monthHasFuture=(monLast>=_tIso);
       // mode toggle
-      h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
-      // hint line (range-only)
-      if(calMode==='range'){
+      h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="month" class="'+(calMode==='month'?'on':'')+'">Month</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
+      // hint line
+      if(calMode==='month'){
+        h+='<div class="cal-hint">All of '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+' &mdash; tap Show, or use &lsaquo; &rsaquo; to change month.</div>';
+      } else if(calMode==='range'){
         var hint = calRangeStart && calRangeEnd ? (fmtRange(calRangeStart, calRangeEnd))
                  : calRangeStart ? ('Start: '+fmtDateLabel(calRangeStart)+' — tap another day to set the end')
                  : 'Tap a day to set the start, then tap another for the end.';
@@ -3735,20 +4423,28 @@
           if(rs && re && di>rs && di<re) cls+=' range-mid';
           if(rs && !calRangeEnd && di===rs) cls+=' range-start range-end';
         }
+        if(calMode==='month' && !past && di>=monStart && di<=monEnd){
+          if(di===monStart && di===monEnd) cls+=' range-start range-end';
+          else if(di===monStart) cls+=' range-start';
+          else if(di===monEnd) cls+=' range-end';
+          else cls+=' range-mid';
+        }
         h+='<div class="'+cls+'" data-iso="'+di+'">'+day+'</div>';
       }
-      var canApply = calMode==='range' && calRangeStart && calRangeEnd;
-      var applyBtn = calMode==='range' ? '<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>' : '';
+      var applyBtn = '';
+      if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
+      else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
       h+='</div><div class="cal-foot"><button id="cal-today" type="button">Today</button>'+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
       calEl.innerHTML=h;
       // wire mode toggle
-      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode==='day'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
+      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode!=='range'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
       document.getElementById('cal-prev').onclick=function(){ calView=new Date(y,m-1,1); buildCal(); };
       document.getElementById('cal-next').onclick=function(){ calView=new Date(y,m+1,1); buildCal(); };
       document.getElementById('cal-today').onclick=function(){ closeCal(); load(todayISO()); };
       document.getElementById('cal-close').onclick=closeCal;
       if(applyBtn){
         document.getElementById('cal-apply').onclick=function(){
+          if(calMode==='month'){ if(!monthHasFuture) return; closeCal(); loadRange(monStart, monEnd); return; }
           if(!calRangeStart||!calRangeEnd) return;
           closeCal(); loadRange(calRangeStart, calRangeEnd);
         };
@@ -3757,6 +4453,7 @@
         c.onclick=function(){
           var iso=c.dataset.iso;
           if(calMode==='day'){ closeCal(); load(iso); return; }
+          if(calMode==='month'){ closeCal(); loadRange(monStart, monEnd); return; }
           // range mode: tap 1 = start, tap 2 = end (swap if before), tap 3 (with full range) = restart
           if(!calRangeStart || (calRangeStart && calRangeEnd)){
             calRangeStart=iso; calRangeEnd=null;
@@ -3814,8 +4511,7 @@
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
     else if(_shareDate) load(_shareDate);
-    else if(new Date().getDay()===6) load(weekendDatesFor(0)[1], 'sat'); // Saturday: this Friday is already in the past → land on Sat
-    else load(weekendDatesFor(0)[0], 'fri'); // default landing: this Friday
+    else load(nextFridayISO(), 'fri'); // default landing: the next Friday
 
     // Deep link to a page (a/slug, u/handle, v/name, e/id, n/id, or a #hash
     // overlay)? The default landing above set up the home grid underneath; now
@@ -3824,7 +4520,10 @@
     if(_bootRoute && /^(account|picks|feed|log|u\/|a\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
-      setTimeout(handleRoute, 400);
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
     }
   </script>
 </body>
