@@ -1011,7 +1011,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782135004810">
+<meta name="sc-build" content="1782135327577">
 <meta name="description" content="TBA - Secret Location is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Aaron Dynamic, AARON GEHRIG, Alben and Albion Street Music and 2 more. Browse dates, set times and who's playing.">
 <link rel="canonical" href="https://soundcheck.club/london/v/tba-secret-location/">
 <meta property="og:type" content="profile">
@@ -3162,7 +3162,15 @@
         '<label class="up-jump'+(today?'':' set')+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg><span>'+(today?'Jump to date':esc(fmtDateLabel(upS.anchor)))+'</span><input type="date" id="up-date" value="'+esc(upS.anchor)+'" aria-label="Jump to date"></label>'+
         (today?'':'<button class="up-chip up-reset" type="button" data-upreset="1" aria-label="Back to today">&times;</button>')+'</div>';
       bar.querySelectorAll('[data-upscope]').forEach(function(b){ b.addEventListener('click',function(){ upS.scope=b.dataset.upscope; if(upS.scope==='today') upS.anchor=todayISO(); renderUpcoming(); }); });
-      var di=document.getElementById('up-date'); if(di) di.addEventListener('change',function(){ if(di.value){ upS.anchor=di.value; if(upS.scope==='all'||upS.scope==='today') upS.scope='week'; renderUpcoming(); } });
+      var di=document.getElementById('up-date');
+      if(di){
+        // The input is invisible (opacity:0) over the pill, so a plain click only
+        // focuses it — the native picker won't open. showPicker() (inside this
+        // user gesture) forces it open; tapping the pill is the gesture.
+        var jl=bar.querySelector('.up-jump');
+        if(jl) jl.addEventListener('click',function(e){ e.preventDefault(); try{ di.showPicker(); }catch(_){ di.focus(); } });
+        di.addEventListener('change',function(){ if(di.value){ upS.anchor=di.value; if(upS.scope==='all'||upS.scope==='today') upS.scope='week'; renderUpcoming(); } });
+      }
       var rb=bar.querySelector('[data-upreset]'); if(rb) rb.addEventListener('click',function(){ upS.anchor=todayISO(); renderUpcoming(); });
     }
     function upEmpty(){
