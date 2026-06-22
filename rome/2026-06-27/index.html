@@ -1017,7 +1017,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782153048343">
+<meta name="sc-build" content="1782153447617">
 <meta name="description" content="4 events in Rome on Sat, 27 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/rome/2026-06-27/">
 <meta property="og:type" content="website">
@@ -1162,6 +1162,7 @@
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
+    <button class="bnav-tab" id="bnav-discover" type="button" aria-label="Discover"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></button>
     <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
   </nav>
@@ -1965,6 +1966,7 @@
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
       setTab('bnav-search', route==='search');
+      setTab('bnav-discover', route==='discover');
       setTab('bnav-picks', route==='upcoming');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var rf=document.getElementById('radio-fab');
@@ -1975,6 +1977,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
+    document.getElementById('bnav-discover').addEventListener('click',function(){ openDiscover(); });
     document.getElementById('bnav-picks').addEventListener('click',function(){ if(currentUser) openUpcoming(); else openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
@@ -3335,6 +3338,19 @@
     }
 
     // ── public search (events / venues / artists) ──
+    async function openDiscover(){
+      setRoute('discover');
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/discover'); var j=await r.json();
+        var arts=j.artists||[];
+        var sub=j.personalized?'Artists you might like, from who you follow.':'Trending across soundcheck right now.';
+        var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
+        h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
+        openPanel(h);
+        document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
+    }
     function openSearch(){
       setRoute('search');
       showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find events, venues, DJs and people across '+esc(cityMeta().name)+'.</div>'+
@@ -3910,6 +3926,7 @@
       if(!hash){ hidePage(); return; }   // browser-back off a page → home
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
+      else if(hash==='discover') openDiscover();
       else if(hash==='picks') openMyPicks();
       else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
@@ -4579,7 +4596,7 @@
     // or a #hash overlay)? The default landing above set up the home grid underneath;
     // now restore the captured page URL (load() just rewrote it) and route over it so
     // Back lands on the grid.
-    if(_bootRoute && /^(account|picks|feed|log|u\/|dj\/|a\/|club\/|v\/|e\/|n\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|picks|feed|log|discover|u\/|dj\/|a\/|club\/|v\/|e\/|n\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Synchronous (not deferred): the open* handlers add body.page-on before the
