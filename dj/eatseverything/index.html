@@ -1009,7 +1009,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782151023058">
+<meta name="sc-build" content="1782151500015">
 <meta name="description" content="Eats Everything is an electronic artist tracked on soundcheck, with 164 sets logged across Amsterdam, Bali, Barcelona and Belfast and 31 more. Often billed alongside EATS, Sam Divine and Melé. Next up: Ushuaïa Ibiza, Ibiza on Sat 27 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/eatseverything/">
 <meta property="og:type" content="profile">
@@ -3004,6 +3004,34 @@
     function goBack(){ history.back(); }
     // keep the old names so the render fns don't all change
     function openPanel(html){ showPage(html); }
+    // Loading skeleton for full pages (artist/venue/event/profile) — reuses the .sk shimmer.
+    function pageSkeleton(){
+      var line=function(w,h,mb){ return '<div class="sk" style="width:'+w+';height:'+h+'px;border-radius:6px;margin-bottom:'+mb+'px"></div>'; };
+      return '<div style="padding:6px 0" aria-hidden="true">'+
+        '<div class="sk" style="width:84px;height:84px;border-radius:18px;margin-bottom:16px"></div>'+
+        line('55%',26,12)+line('85%',13,6)+line('60%',13,24)+
+        line('30%',16,14)+line('100%',46,10)+line('100%',46,10)+line('100%',46,10)+
+      '</div>';
+    }
+    // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
+    // leak to the page behind. Covers static (.show) + dynamically-built overlays.
+    (function(){
+      function activeOverlay(){
+        var em=document.querySelector('.email-overlay'); if(em) return em;   // created on demand, no .show
+        var sh=document.querySelectorAll('.auth-overlay.show, .cal-overlay.show, .picks-tray-overlay.show');
+        return sh.length ? sh[sh.length-1] : null;
+      }
+      function tabbables(el){ return [].slice.call(el.querySelectorAll('a[href],button:not([disabled]),input:not([disabled]),select:not([disabled]),textarea:not([disabled]),[tabindex]:not([tabindex="-1"])')); }
+      document.addEventListener('keydown', function(e){
+        if(e.key!=='Tab') return;
+        var ov=activeOverlay(); if(!ov) return;
+        var f=tabbables(ov); if(!f.length) return;
+        var first=f[0], last=f[f.length-1], a=document.activeElement;
+        if(!ov.contains(a)){ e.preventDefault(); first.focus(); return; }
+        if(e.shiftKey && a===first){ e.preventDefault(); last.focus(); }
+        else if(!e.shiftKey && a===last){ e.preventDefault(); first.focus(); }
+      }, true);
+    })();
     // ESC closes the top-most open popup/overlay only — it must NOT navigate a
     // full page (profile/artist/venue/account) back to home. The static overlays
     // (#auth-overlay, sheet, cal, the email gate) close via their own ESC
@@ -3082,7 +3110,7 @@
     }
     async function openProfile(handle){
       setRoute('u/'+handle);
-      openPanel('<div class="empty">Loading u/'+esc(handle)+'…</div>');
+      openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/profile?handle='+encodeURIComponent(handle));
         if(r.status===404){ openPanel('<div class="empty">No soundcheck user u/'+esc(handle)+'.</div>'); return; }
@@ -3390,7 +3418,7 @@
 
     async function openArtist(slug){
       setRoute('dj/'+slug);
-      openPanel('<div class="empty">Loading…</div>');
+      openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/artist?slug='+encodeURIComponent(slug)); var a=await r.json();
         var mine=artStatus(slug);
@@ -3504,7 +3532,7 @@
       var city=(cityHint || pathCitySlug() || currentCity || 'london');
       var url=SC_BASE+city+'/club/'+slug+'/';
       if(location.pathname!==url) history.pushState({sc:1},'',url);
-      openPanel('<div class="empty">Loading…</div>');
+      openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)+'&city='+encodeURIComponent(city)); var v=await r.json();
         if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/club/'+slug+'/'); }
@@ -3675,7 +3703,7 @@
       if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
       var cached=lookup.byEvent[id];
       if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); wireEventRadio(cached); }
-      else openPanel('<div class="empty">Loading…</div>');
+      else openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
         if(!r.ok) throw 0;
