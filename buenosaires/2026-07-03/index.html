@@ -1017,7 +1017,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782145878559">
+<meta name="sc-build" content="1782148342147">
 <meta name="description" content="5 events in Buenos Aires on Fri, 3 Jul 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/buenosaires/2026-07-03/">
 <meta property="og:type" content="website">
@@ -2101,18 +2101,20 @@
     // pick from a brand-new visitor mints an anonymous identity on the spot.
     function setArtist(slug, status, name){
       if(!slug) return;
+      var prev=picks.artists[slug];   // captured for rollback if the server write fails
       if(status===null) delete picks.artists[slug];
       else picks.artists[slug] = { name:(name||(picks.artists[slug]&&picks.artists[slug].name)||slug), status:status, t:Date.now() };
       savePicks(); afterPicksChanged(); refreshArtistButtons(slug);
-      ensureIdentity().then(function(ok){ if(ok) syncArtist(slug, status, name); });
+      ensureIdentity().then(function(ok){ if(ok) syncArtist(slug, status, name, prev); });
     }
     function setEvent(id, status, meta){
       if(!id) return;
+      var prev=picks.events[id];      // captured for rollback if the server write fails
       var cur=picks.events[id]||{};
       if(status===null) delete picks.events[id];
       else picks.events[id] = { title:(meta&&meta.title)||cur.title||'', venue:(meta&&meta.venue)||cur.venue||'', day:(meta&&meta.day)||cur.day||'', status:status, t:Date.now() };
       savePicks(); afterPicksChanged(); refreshEventButtons(id);
-      ensureIdentity().then(function(ok){ if(ok) syncEvent(id, status, meta); });
+      ensureIdentity().then(function(ok){ if(ok) syncEvent(id, status, meta, prev); });
     }
     // heart taps = toggle the want-to-go state. Saving a pick (turning one ON)
     // is a sign-up moment: prompt for an email/magic link first if they haven't
@@ -2166,11 +2168,17 @@
       var t=sessionToken(); if(t){ opts.headers=Object.assign({}, opts.headers, { Authorization:'Bearer '+t }); }
       return fetch(API_BASE+path, opts);
     }
-    function syncArtist(slug, status, name){
-      authedFetch('/api/shelf/artist',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ slug:slug, status:status, name:name||null }) }).catch(function(){});
+    // Optimistic writes roll back if the server rejects, so a silent failure can't
+    // leave the button showing "saved" while the DB never got it.
+    function syncArtist(slug, status, name, prev){
+      authedFetch('/api/shelf/artist',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ slug:slug, status:status, name:name||null }) })
+        .then(function(r){ if(!r.ok) throw 0; })
+        .catch(function(){ if(prev===undefined) delete picks.artists[slug]; else picks.artists[slug]=prev; savePicks(); afterPicksChanged(); refreshArtistButtons(slug); showToast('Couldn’t save — try again'); });
     }
-    function syncEvent(id, status, meta){
-      authedFetch('/api/rsvp/event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ eventId:id, status:status, title:meta&&meta.title, venue:meta&&meta.venue, date:meta&&meta.day }) }).catch(function(){});
+    function syncEvent(id, status, meta, prev){
+      authedFetch('/api/rsvp/event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ eventId:id, status:status, title:meta&&meta.title, venue:meta&&meta.venue, date:meta&&meta.day }) })
+        .then(function(r){ if(!r.ok) throw 0; })
+        .catch(function(){ if(prev===undefined) delete picks.events[id]; else picks.events[id]=prev; savePicks(); afterPicksChanged(); refreshEventButtons(id); showToast('Couldn’t save — try again'); });
     }
     function renderAccount(){
       var el=document.getElementById('account');
