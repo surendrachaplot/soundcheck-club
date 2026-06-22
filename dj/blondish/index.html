@@ -657,6 +657,11 @@
     .sim-why { font:500 var(--fs-sm) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .sim-next { flex:none; font:500 var(--fs-xs) var(--body); color:var(--fg); white-space:nowrap; }
     .sim-go { flex:none; color:var(--muted); font-size:var(--fs-lg); }
+    /* DS: hidden-gem badges — artist-page pill + inline rec tag */
+    .gem-pill { display:inline-flex; align-items:center; gap:6px; background:rgba(255,122,107,0.12); border:1px solid var(--accent); border-radius:999px; padding:5px 12px; font:700 var(--fs-sm) var(--body); color:var(--accent); }
+    .gem-pill svg { width:var(--icon-xs); height:var(--icon-xs); }
+    .gem-pill small { color:var(--muted); font-weight:500; }
+    .gem-tag { flex:none; font:600 var(--fs-xs) var(--body); color:var(--accent); background:rgba(255,122,107,0.12); border-radius:999px; padding:1px 7px; }
     /* DS: promoter-page affinity banner + tag rows (venues used / similar promoters) */
     .pp-affinity { margin-top:14px; background:rgba(255,122,107,0.10); border:1px solid var(--line); border-radius:12px; padding:10px 14px; font:500 var(--fs-sm) var(--body); color:var(--fg); }
     .pp-affinity b { font-family:var(--head); color:var(--accent); }
@@ -1046,7 +1051,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782165243111">
+<meta name="sc-build" content="1782166775416">
 <meta name="description" content="BLOND:ISH is a house and techno and 2 more artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Barcelona and Boston and 26 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Pacha Ibiza, Ibiza on Wed 24 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/blondish/">
 <meta property="og:type" content="profile">
@@ -3503,6 +3508,7 @@
         // Action buttons sit on their own row below.
         var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
         if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
         h+=actions;
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
@@ -3549,10 +3555,11 @@
             var sim=(j&&j.similar)||[]; if(!sim.length) return;
             rail.innerHTML=sim.map(function(s){
               var pop=s.popularity?'<span class="sim-pop">'+esc(s.popularity)+'</span>':'';
+              var gemB=s.gem?'<span class="gem-tag">'+esc(s.gem)+'</span>':'';
               var nx=s.next?'<span class="sim-next">'+esc(fmtDateLabel(String(s.next.event_date).slice(0,10)))+(s.next.city?' &middot; '+esc(cityLabel(s.next.city)):'')+'</span>':'';
               return '<button class="sim-row" type="button" data-artist="'+esc(s.slug)+'">'+
                 '<span class="sim-av" style="background-image:'+avatarBg(s.name,s.image)+'"></span>'+
-                '<span class="sim-tx"><span class="sim-nm">'+esc(s.name)+pop+'</span><span class="sim-why">'+esc(s.why)+'</span></span>'+
+                '<span class="sim-tx"><span class="sim-nm">'+esc(s.name)+pop+gemB+'</span><span class="sim-why">'+esc(s.why)+'</span></span>'+
                 (nx||'<span></span>')+'<span class="sim-go">&rsaquo;</span></button>';
             }).join('');
             rail.querySelectorAll('.sim-row[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
