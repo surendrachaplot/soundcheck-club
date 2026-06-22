@@ -743,7 +743,8 @@
     .up-jump.set { color:var(--accent); border-color:var(--accent); }
     .up-jump svg { width:var(--icon-sm); height:var(--icon-sm); }
     .up-jump input { position:absolute; inset:0; width:100%; height:100%; opacity:0; cursor:pointer; }
-    @media (min-width:720px){ .cu-grid { display:grid; grid-template-columns:1fr 1fr; column-gap:30px; } }
+    @media (min-width:720px){ .cu-grid { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); column-gap:30px; } }
+    .cu-grid > li { min-width:0; }
     .ptile .pimg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0; }
     .ptile.has-img::after { content:''; position:absolute; inset:0; z-index:1; background:linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0.05) 60%); }
     .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.05; color:#fff; text-shadow:0 1px 8px rgba(0,0,0,0.55); position:relative; z-index:2; text-align:left; }
@@ -1010,7 +1011,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782134415207">
+<meta name="sc-build" content="1782135004810">
 <meta name="description" content="Club Metro is a music venue in Kyoto listed on soundcheck. 25 upcoming nights, with line-ups including Doltz, Fushiming, HINOTO and HOBOBRAZIL and 2 more. Browse dates, set times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.">
 <link rel="canonical" href="https://soundcheck.club/kyoto/v/club-metro/">
 <meta property="og:type" content="profile">
