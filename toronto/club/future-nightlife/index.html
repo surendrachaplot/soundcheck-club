@@ -678,6 +678,26 @@
     .scene-cta-tx b { font:800 var(--fs-base) var(--head); }
     .scene-cta-tx span { font:500 var(--fs-sm) var(--body); color:var(--muted); }
     .scene-cta-go { flex:none; color:var(--accent); font-size:var(--fs-xl); }
+    /* DS: taste onboarding overlay */
+    .taste-box { max-width:460px; max-height:88vh; overflow-y:auto; }
+    .to-label { display:block; margin:16px 0 6px; font:700 var(--fs-sm) var(--body); color:var(--fg); }
+    .to-label small { color:var(--muted); font-weight:500; margin-left:4px; }
+    .to-chips { display:flex; flex-wrap:wrap; gap:7px; }
+    .to-chips:not(:empty) { margin-top:8px; }
+    .to-chip { display:inline-flex; align-items:center; gap:4px; background:#26262d; border-radius:999px; padding:5px 6px 5px 11px; font:600 var(--fs-sm) var(--body); color:var(--fg); }
+    .to-chip button { background:none; border:none; color:var(--muted); font-size:16px; line-height:1; cursor:pointer; padding:0 3px; }
+    .to-chip button:hover { color:var(--accent); }
+    .vibe-chips { display:flex; flex-wrap:wrap; gap:8px; }
+    .vibe-chip { background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:8px 13px; font:600 var(--fs-sm) var(--body); color:var(--muted); cursor:pointer; text-transform:capitalize; -webkit-tap-highlight-color:transparent; }
+    .vibe-chip.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    #to-save { margin-top:20px; }
+    .taste-summary { font:500 var(--fs-base) var(--body); color:var(--fg); line-height:1.5; margin:6px 0 14px; }
+    .taste-genres { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px; }
+    .tg-pill { display:inline-flex; align-items:center; gap:5px; border-radius:999px; padding:4px 11px; font:600 var(--fs-sm) var(--body); border:1px solid var(--line); text-transform:capitalize; }
+    .tg-pill small { font-weight:500; opacity:0.7; }
+    .tg-high { color:var(--accent); border-color:var(--accent); background:rgba(255,122,107,0.10); }
+    .tg-medium { color:var(--fg); }
+    .tg-low { color:var(--muted); }
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
@@ -1055,7 +1075,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782168657207">
+<meta name="sc-build" content="1782169843765">
 <meta name="description" content="Future Nightlife is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including bradeazy. Browse upcoming dates, start times and who's playing. 570 Queen Street West.">
 <link rel="canonical" href="https://soundcheck.club/toronto/club/future-nightlife/">
 <meta property="og:type" content="profile">
@@ -3394,9 +3414,11 @@
         var sub=j.personalized?'Artists you might like, from who you follow.':'Trending across soundcheck right now.';
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
         h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Best venues, promoters &amp; artists to watch</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+        if(currentUser) h+='<button class="scene-cta" id="dc-taste" type="button"><span class="scene-cta-tx"><b>Build your taste profile</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
         openPanel(h);
         var dcs=document.getElementById('dc-scene'); if(dcs) dcs.addEventListener('click',function(){ openCityScene(currentCity); });
+        var dct=document.getElementById('dc-taste'); if(dct) dct.addEventListener('click',function(){ openTasteOnboard(); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
     }
@@ -4010,6 +4032,74 @@
           pre.innerHTML='<div class="lg-pre"><div class="lg-pre-t">'+esc(ev.title||ev.venue||'This night')+'</div><div class="lg-pre-s">'+esc(ev.venue||'')+(d?(' &middot; '+esc(d)):'')+'</div>'+(ln?'<div class="lg-pre-l">'+esc(ln)+'</div>':'')+'</div>';
         }
       }catch(_){ if(pre) pre.innerHTML='<div class="empty">Couldn&rsquo;t load that night.</div>'; }
+    }
+    // ── P1: taste onboarding (the <3-min flow → living taste profile) ──
+    var TASTE_VIBES=['intimate','warehouse','queer','audiophile','afterhours','high energy','deep/listening','experimental'];
+    function toRenderChips(container, items, onRemove){
+      container.innerHTML=items.map(function(it,i){ return '<span class="to-chip">'+esc(it.name||it)+'<button type="button" data-i="'+i+'" aria-label="Remove">&times;</button></span>'; }).join('');
+      container.querySelectorAll('.to-chip button[data-i]').forEach(function(b){ b.addEventListener('click',function(){ onRemove(+b.dataset.i); }); });
+    }
+    function toWireSuggest(ov, prefix, fetcher, store){
+      var input=ov.querySelector('#'+prefix+'-in'), drop=ov.querySelector('#'+prefix+'-drop'), chips=ov.querySelector('#'+prefix+'-chips');
+      function redraw(){ toRenderChips(chips, store, function(i){ store.splice(i,1); redraw(); }); }
+      var cur=[];
+      function show(list){ cur=(list||[]).filter(function(x){ return x.slug && !store.some(function(s){ return s.slug===x.slug; }); }); if(!cur.length){ drop.classList.remove('show'); drop.innerHTML=''; return; }
+        drop.innerHTML=cur.slice(0,8).map(function(x,i){ return '<button type="button" data-i="'+i+'">'+esc(x.name)+'</button>'; }).join(''); drop.classList.add('show'); }
+      var run=debounce(function(){ var q=input.value.trim(); if(q.length<2){ drop.classList.remove('show'); return; } fetcher(q).then(show).catch(function(){}); },200);
+      input.addEventListener('input',run);
+      drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(!b) return; e.preventDefault(); var pick=cur[+b.dataset.i]; if(pick && !store.some(function(s){return s.slug===pick.slug;})){ store.push(pick); redraw(); } input.value=''; drop.classList.remove('show'); });
+      input.addEventListener('blur',function(){ setTimeout(function(){ drop.classList.remove('show'); },160); });
+    }
+    function openTasteOnboard(){
+      if(!currentUser){ openAuth(); return; }
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box taste-box">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div id="to-form">'+
+          '<div class="eyebrow">Build your taste</div><h3>Find nights you&rsquo;ll actually like.</h3>'+
+          '<p style="margin-bottom:14px">Two minutes &mdash; and it sharpens every time you save an artist or log a gig.</p>'+
+          '<label class="to-label">Favourite artists <small>5&ndash;10</small></label>'+
+          '<div class="sg-wrap"><input id="to-art-in" type="text" placeholder="Search artists…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="to-art-drop"></div></div>'+
+          '<div class="to-chips" id="to-art-chips"></div>'+
+          '<label class="to-label">Venues you love</label>'+
+          '<div class="sg-wrap"><input id="to-ven-in" type="text" placeholder="Search venues…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="to-ven-drop"></div></div>'+
+          '<div class="to-chips" id="to-ven-chips"></div>'+
+          '<label class="to-label">Not into <small>genres or artists</small></label>'+
+          '<input id="to-dis-in" type="text" placeholder="e.g. commercial, trance — hit enter" autocomplete="off" autocapitalize="off">'+
+          '<div class="to-chips" id="to-dis-chips"></div>'+
+          '<label class="to-label">Your vibe</label>'+
+          '<div class="vibe-chips" id="to-vibes">'+TASTE_VIBES.map(function(v){ return '<button type="button" class="vibe-chip" data-vibe="'+esc(v)+'">'+esc(v)+'</button>'; }).join('')+'</div>'+
+          '<button class="go" id="to-save" type="button">Build my taste profile &rarr;</button>'+
+          '<div class="err" id="to-err"></div>'+
+        '</div>'+
+        '<div id="to-result" hidden></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      var artSel=[], venSel=[], disStore=[], vibeSel=[];
+      toWireSuggest(ov,'to-art',function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return {slug:a.slug,name:a.name}; }); }); }, artSel);
+      toWireSuggest(ov,'to-ven',function(q){ return pubGet('/api/venues?city='+encodeURIComponent(currentCity)+'&q='+encodeURIComponent(q)).then(function(j){ return (j.venues||[]).map(function(v){ return {slug:(v.slug||v.name),name:v.name}; }); }); }, venSel);
+      var disIn=ov.querySelector('#to-dis-in'), disChips=ov.querySelector('#to-dis-chips');
+      function disRedraw(){ toRenderChips(disChips, disStore.map(function(x){return {name:x};}), function(i){ disStore.splice(i,1); disRedraw(); }); }
+      disIn.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===','){ e.preventDefault(); var v=disIn.value.trim().toLowerCase().replace(/,+$/,''); if(v && disStore.indexOf(v)<0){ disStore.push(v); disRedraw(); } disIn.value=''; } });
+      ov.querySelector('#to-vibes').addEventListener('click',function(e){ var b=e.target.closest('[data-vibe]'); if(!b) return; var v=b.dataset.vibe; var i=vibeSel.indexOf(v); if(i>=0){ vibeSel.splice(i,1); b.classList.remove('on'); } else { vibeSel.push(v); b.classList.add('on'); } });
+      ov.querySelector('#to-save').addEventListener('click',function(){
+        var btn=this; btn.disabled=true; ov.querySelector('#to-err').textContent='';
+        authedFetch('/api/taste/onboard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
+          city:currentCity, artists:artSel.map(function(x){return x.slug;}), venues:venSel.map(function(x){return x.slug;}), dislikes:disStore, vibes:vibeSel }) })
+        .then(function(r){ return r.json(); }).then(function(j){
+          if(!j.ok){ ov.querySelector('#to-err').textContent='Could not save — try again.'; btn.disabled=false; return; }
+          var genres=(j.weights&&j.weights.genres)||{};
+          var pills=Object.keys(genres).slice(0,8).map(function(g){ return '<span class="tg-pill tg-'+genres[g].toLowerCase()+'">'+esc(g)+' <small>'+genres[g]+'</small></span>'; }).join('');
+          ov.querySelector('#to-form').hidden=true; var rv=ov.querySelector('#to-result'); rv.hidden=false;
+          rv.innerHTML='<div class="eyebrow">Your taste</div><h3>Here&rsquo;s your profile.</h3>'+
+            (j.profileText?'<p class="taste-summary">'+esc(j.profileText)+'</p>':'')+
+            (pills?'<div class="taste-genres">'+pills+'</div>':'<p style="color:var(--muted)">Save a few more artists and it&rsquo;ll fill in.</p>')+
+            '<button class="go" id="to-done" type="button">See what&rsquo;s on &rarr;</button>';
+          rv.querySelector('#to-done').addEventListener('click',function(){ ov.remove(); if(currentUser&&typeof openDiscover==='function') openDiscover(); });
+        }).catch(function(){ ov.querySelector('#to-err').textContent='Network error.'; btn.disabled=false; });
+      });
     }
     function openLog(prefill){
       setRoute('log');
