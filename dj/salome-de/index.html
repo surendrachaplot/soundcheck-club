@@ -698,6 +698,24 @@
     .tg-high { color:var(--accent); border-color:var(--accent); background:rgba(255,122,107,0.10); }
     .tg-medium { color:var(--fg); }
     .tg-low { color:var(--muted); }
+    /* DS: personalized "For you" feed rows */
+    .fy-filters { margin:8px 0 12px; }
+    .fy-filt { background:var(--surface); border:1px solid var(--line); border-radius:999px; padding:7px 13px; font:600 var(--fs-sm) var(--body); color:var(--muted); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .fy-filt.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .fy-row { display:flex; align-items:center; gap:12px; padding:10px 0; border-bottom:1px solid var(--line); cursor:pointer; }
+    .fy-row:last-child { border-bottom:none; }
+    .fy-poster { flex:none; width:54px; height:54px; border-radius:11px; background-size:cover; background-position:center; background-color:var(--surface); }
+    .fy-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:2px; }
+    .fy-top { display:flex; align-items:center; gap:8px; }
+    .fy-match { flex:none; font:700 var(--fs-xs) var(--body); border-radius:999px; padding:1px 8px; }
+    .fy-mhi { color:var(--accent-ink); background:var(--accent); }
+    .fy-mmid { color:var(--accent); border:1px solid var(--accent); }
+    .fy-mlo { color:var(--muted); border:1px solid var(--line); }
+    .fy-title { font:700 var(--fs-base) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .fy-sub { font:500 var(--fs-sm) var(--body); color:var(--muted); }
+    .fy-why { font:500 var(--fs-sm) var(--body); color:var(--accent); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .fy-x { flex:none; background:none; border:none; color:var(--muted); font-size:20px; line-height:1; cursor:pointer; padding:4px 6px; }
+    .fy-x:hover { color:var(--accent); }
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
@@ -1075,7 +1093,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782169843765">
+<meta name="sc-build" content="1782170322291">
 <meta name="description" content="SALOME is a techno and electro and 2 more artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Bassiani, Tbilisi on Fri 3 Jul.">
 <link rel="canonical" href="https://soundcheck.club/dj/salome-de/">
 <meta property="og:type" content="profile">
@@ -3405,6 +3423,37 @@
     }
 
     // ── public search (events / venues / artists) ──
+    // ── P2: personalized "For you" feed (v2.1 ranked event_score + reasons) ──
+    function fyRowHTML(e){
+      var tier=e.match>=60?'hi':(e.match>=35?'mid':'lo');
+      var title=e.title || ((e.lineup||[])[0]||{}).name || 'Event';
+      var d=fmtDateLabel(String(e.event_date).slice(0,10));
+      var poster=e.poster_url?'background-image:url('+imgUrl(e.poster_url,200)+')':'';
+      var gem=(e.gem&&e.gem.level)?'<span class="gem-tag">'+esc(e.gem.level)+'</span>':'';
+      return '<div class="fy-row" data-ev="'+esc(String(e.id))+'">'+
+        '<span class="fy-poster" style="'+poster+'"></span>'+
+        '<span class="fy-tx"><span class="fy-top"><span class="fy-match fy-m'+tier+'">'+e.match+'% match</span>'+gem+'</span>'+
+        '<span class="fy-title">'+esc(title)+'</span>'+
+        '<span class="fy-sub">'+esc(d)+(e.venue?' &middot; '+esc(e.venue):'')+'</span>'+
+        ((e.why&&e.why.length)?'<span class="fy-why">'+esc(e.why[0])+'</span>':'')+'</span>'+
+        '<button class="fy-x" data-dismiss="'+esc(String(e.id))+'" type="button" aria-label="Not interested">&times;</button></div>';
+    }
+    function loadForYou(gemsOnly){
+      var box=document.getElementById('dc-feed'); if(!box) return;
+      authedFetch('/api/feed?city='+encodeURIComponent(currentCity)+(gemsOnly?'&gems=1':'')).then(function(r){ return r.json(); }).then(function(j){
+        if(j.error || !j.onboarded){ box.innerHTML=''; return; }   // not onboarded → the build-taste CTA handles it
+        var evs=j.events||[];
+        var head='<div class="sec-h" style="margin-top:8px">For you</div>'+
+          '<div class="fy-filters"><button class="fy-filt'+(gemsOnly?' on':'')+'" id="fy-gems" type="button">&#9670; Hidden gems only</button></div>';
+        box.innerHTML=head+(evs.length?evs.map(fyRowHTML).join(''):'<div class="empty">Nothing scored yet — save a few artists and it&rsquo;ll sharpen.</div>');
+        var fg=document.getElementById('fy-gems'); if(fg) fg.addEventListener('click',function(){ loadForYou(!gemsOnly); });
+        box.querySelectorAll('.fy-row[data-ev]').forEach(function(row){ row.addEventListener('click',function(ev){ if(ev.target.closest('.fy-x')) return; openEvent(row.dataset.ev); }); });
+        box.querySelectorAll('.fy-x[data-dismiss]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation();
+          authedFetch('/api/track',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({kind:'not_interested',subjectType:'event',subjectId:b.dataset.dismiss}) }).catch(function(){});
+          var row=b.closest('.fy-row'); if(row) row.remove();
+        }); });
+      }).catch(function(){});
+    }
     async function openDiscover(){
       setRoute('discover');
       openPanel(pageSkeleton());
@@ -3413,6 +3462,7 @@
         var arts=j.artists||[];
         var sub=j.personalized?'Artists you might like, from who you follow.':'Trending across soundcheck right now.';
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
+        if(currentUser) h+='<div id="dc-feed"></div>';
         h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Best venues, promoters &amp; artists to watch</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         if(currentUser) h+='<button class="scene-cta" id="dc-taste" type="button"><span class="scene-cta-tx"><b>Build your taste profile</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
@@ -3420,6 +3470,7 @@
         var dcs=document.getElementById('dc-scene'); if(dcs) dcs.addEventListener('click',function(){ openCityScene(currentCity); });
         var dct=document.getElementById('dc-taste'); if(dct) dct.addEventListener('click',function(){ openTasteOnboard(); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        if(currentUser) loadForYou(false);
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
     }
     function openSearch(){
