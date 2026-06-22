@@ -11,7 +11,6 @@
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
-  <link rel="preconnect" href="https://api.6minutes.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="apple-touch-icon" href="/icons/icon-192.png" />
@@ -145,7 +144,10 @@
     .skel-card .sk-line.w70 { width:70%; } .skel-card .sk-line.w45 { width:45%; }
     .sk { background:linear-gradient(100deg, var(--surface) 30%, #24242b 50%, var(--surface) 70%); background-size:200% 100%; animation:sk 1.3s ease-in-out infinite; }
     @keyframes sk { to { background-position:-200% 0; } }
-    @media (prefers-reduced-motion:reduce){ .sk { animation:none; } }
+    @media (prefers-reduced-motion:reduce){
+      .sk { animation:none; }
+      *, *::before, *::after { animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important; scroll-behavior:auto !important; }
+    }
 
     /* grid */
     .grid { display:grid; grid-template-columns:repeat(4,1fr); gap:26px 22px; padding:8px 0 calc(56px + env(safe-area-inset-bottom)); align-items:start; }
@@ -713,7 +715,8 @@
     .along-chip { background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .along-chip:hover { border-color:var(--accent); color:var(--accent); }
     .gig-history { list-style:none; margin:0; padding:0; }
-    .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); }
+    .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); cursor:pointer; }
+    .gig-history li.gh-row:hover .gh-venue { color:var(--accent); text-decoration:underline; }
     .gig-history li:last-child { border-bottom:none; }
     .gh-date { color:var(--muted); flex:0 0 auto; min-width:86px; font-variant-numeric:tabular-nums; }
     .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; }
@@ -1017,7 +1020,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782148342147">
+<meta name="sc-build" content="1782149527838">
 <meta name="description" content="21 events in Tokyo on Sun, 28 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/tokyo/2026-06-28/">
 <meta property="og:type" content="website">
@@ -1026,11 +1029,11 @@
 <meta property="og:url" content="https://soundcheck.club/tokyo/2026-06-28/">
 <meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F13a4bb7360667238aa8033a6a1ffda980ea67a8c.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Tokyo on Sun, 28 Jun 2026","url":"https://soundcheck.club/tokyo/2026-06-28/","description":"21 events in Tokyo on Sun, 28 Jun 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2446586-chubby-gal-gothic-lolita-night-party-at-decabar-super/","name":"Chubby Gal Gothic Lolita Night Party ぽちゃギャル達のゴスロリナイトパーティ"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2446518-new-audience-june-2-at-ueno-park-open-air-stage-suijo-ongaku/","name":"New Audience JUNE #2"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2460421-t2-sunday-at-t2-shinjuku/","name":"T2 SUNDAY"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2458414-4483-at-forestlimit/","name":"+4483"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2471674-music-bar-bounce-at-music-bar-bounce/","name":"Music BAR Bounce"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/e/2468651-m-i-a-music-is-answer-at-royal-lounge/","name":"M.I.A -Music is Answer-"},{"@type":"ListItem","position":7,"url":"https://soundcheck.club/e/2455421-edm-legacy-at-camelot/","name":"EDM LEGACY"},{"@type":"ListItem","position":8,"url":"https://soundcheck.club/e/2428746-nu-festival-2026-day3-at-tba-takanawa-gateway-city/","name":"NU Festival 2026 DAY3"},{"@type":"ListItem","position":9,"url":"https://soundcheck.club/e/2451700-zero-hertz-club-garage-rave-bass-dubstep-dnb-hard-techno-at/","name":"ZERO HERTZ CLUB 'GARAGE RAVE' (Bass/ Dubstep/ DnB/ Hard Techno)"},{"@type":"ListItem","position":10,"url":"https://soundcheck.club/e/2466119-azumaya-sunday-at-azumaya/","name":"Azumaya -Sunday-"},{"@type":"ListItem","position":11,"url":"https://soundcheck.club/e/2455334-clean-27-at-zubar/","name":"CLEAN #27"},{"@type":"ListItem","position":12,"url":"https://soundcheck.club/e/2443328-snafu-1st-anniversary-at-circus-tokyo/","name":"SNAFU 1st ANNIVERSARY"},{"@type":"ListItem","position":13,"url":"https://soundcheck.club/e/2443908-music-is-answer-at-tba-royal-lounge/","name":"MUSIC IS ANSWER"},{"@type":"ListItem","position":14,"url":"https://soundcheck.club/e/2448877-ototoi-eve-presents-the-next-party-at-bahama-kitchen/","name":"Ototoi Eve presents: The Next Party"},{"@type":"ListItem","position":15,"url":"https://soundcheck.club/e/2473423-tree-of-amapiano-at-dogenzaka-church/","name":"Tree Of AMAPiANO"},{"@type":"ListItem","position":16,"url":"https://soundcheck.club/e/2453820-r-lounge-13th-anniversary-after-party-vol-219-18th-anniversa/","name":"R LOUNGE 13TH ANNIVERSARY AFTER PARTY -ナイフレ! Vol.219 18TH ANNIVERSARY-"},{"@type":"ListItem","position":17,"url":"https://soundcheck.club/e/2467521-wonderland-at-zerotokyo/","name":"wonderland"},{"@type":"ListItem","position":18,"url":"https://soundcheck.club/e/2440676-yodo-groove-presents-kentaro-takizawa-garden-of-love-release/","name":"YODO GROOVE presents Kentaro Takizawa 'Garden Of Love' Release Party"},{"@type":"ListItem","position":19,"url":"https://soundcheck.club/e/2473032-velvet-lounge-organic-house-at-tba-velvet-lounge/","name":"VELVET Lounge -Organic House-"},{"@type":"ListItem","position":20,"url":"https://soundcheck.club/e/2456822-all-stars-at-saloon-keg-n-eaeran-lilniina-yoyou-tgbeam-lilli/","name":"All Stars at Saloon: kegøn, eaeran, Lilniina, Yoyou, TGBEAM, Lillie, yuk1, tatashouta"},{"@type":"ListItem","position":21,"url":"https://soundcheck.club/e/2456792-cafe-garage-at-shelter/","name":"CAFE garage"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Tokyo on Sun, 28 Jun 2026","url":"https://soundcheck.club/tokyo/2026-06-28/","description":"21 events in Tokyo on Sun, 28 Jun 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2446586-chubby-gal-gothic-lolita-night-party-at-decabar-super/","name":"Chubby Gal Gothic Lolita Night Party ぽちゃギャル達のゴスロリナイトパーティ"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2446518-new-audience-june-2-at-ueno-park-open-air-stage-suijo-ongaku/","name":"New Audience JUNE #2"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2460421-t2-sunday-at-t2-shinjuku/","name":"T2 SUNDAY"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2458414-4483-at-forestlimit/","name":"+4483"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2471674-music-bar-bounce-at-music-bar-bounce/","name":"Music BAR Bounce"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/e/2468651-m-i-a-music-is-answer-at-royal-lounge/","name":"M.I.A -Music is Answer-"},{"@type":"ListItem","position":7,"url":"https://soundcheck.club/e/2455421-edm-legacy-at-camelot/","name":"EDM LEGACY"},{"@type":"ListItem","position":8,"url":"https://soundcheck.club/e/2428746-nu-festival-2026-day3-at-tba-takanawa-gateway-city/","name":"NU Festival 2026 DAY3"},{"@type":"ListItem","position":9,"url":"https://soundcheck.club/e/2451700-zero-hertz-club-garage-rave-bass-dubstep-dnb-hard-techno-at/","name":"ZERO HERTZ CLUB 'GARAGE RAVE' (Bass/ Dubstep/ DnB/ Hard Techno)"},{"@type":"ListItem","position":10,"url":"https://soundcheck.club/e/2443328-snafu-1st-anniversary-at-circus-tokyo/","name":"SNAFU 1st ANNIVERSARY"},{"@type":"ListItem","position":11,"url":"https://soundcheck.club/e/2466119-azumaya-sunday-at-azumaya/","name":"Azumaya -Sunday-"},{"@type":"ListItem","position":12,"url":"https://soundcheck.club/e/2455334-clean-27-at-zubar/","name":"CLEAN #27"},{"@type":"ListItem","position":13,"url":"https://soundcheck.club/e/2443908-music-is-answer-at-tba-royal-lounge/","name":"MUSIC IS ANSWER"},{"@type":"ListItem","position":14,"url":"https://soundcheck.club/e/2448877-ototoi-eve-presents-the-next-party-at-bahama-kitchen/","name":"Ototoi Eve presents: The Next Party"},{"@type":"ListItem","position":15,"url":"https://soundcheck.club/e/2473423-tree-of-amapiano-at-dogenzaka-church/","name":"Tree Of AMAPiANO"},{"@type":"ListItem","position":16,"url":"https://soundcheck.club/e/2453820-r-lounge-13th-anniversary-after-party-vol-219-18th-anniversa/","name":"R LOUNGE 13TH ANNIVERSARY AFTER PARTY -ナイフレ! Vol.219 18TH ANNIVERSARY-"},{"@type":"ListItem","position":17,"url":"https://soundcheck.club/e/2467521-wonderland-at-zerotokyo/","name":"wonderland"},{"@type":"ListItem","position":18,"url":"https://soundcheck.club/e/2440676-yodo-groove-presents-kentaro-takizawa-garden-of-love-release/","name":"YODO GROOVE presents Kentaro Takizawa 'Garden Of Love' Release Party"},{"@type":"ListItem","position":19,"url":"https://soundcheck.club/e/2473032-velvet-lounge-organic-house-at-tba-velvet-lounge/","name":"VELVET Lounge -Organic House-"},{"@type":"ListItem","position":20,"url":"https://soundcheck.club/e/2456822-all-stars-at-saloon-keg-n-eaeran-lilniina-yoyou-tgbeam-lilli/","name":"All Stars at Saloon: kegøn, eaeran, Lilniina, Yoyou, TGBEAM, Lillie, yuk1, tatashouta"},{"@type":"ListItem","position":21,"url":"https://soundcheck.club/e/2456792-cafe-garage-at-shelter/","name":"CAFE garage"}]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Tokyo","item":"https://soundcheck.club/tokyo/"},{"@type":"ListItem","position":3,"name":"Sun, 28 Jun 2026"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Tokyo — Sun, 28 Jun 2026</h1><p>21 events in Tokyo on Sun, 28 Jun 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2446586-chubby-gal-gothic-lolita-night-party-at-decabar-super/">Chubby Gal Gothic Lolita Night Party ぽちゃギャル達のゴスロリナイトパーティ</a> — Decabar Super, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2446518-new-audience-june-2-at-ueno-park-open-air-stage-suijo-ongaku/">New Audience JUNE #2</a> — Ueno Park Open-Air Stage (Suijo Ongakudo), 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2460421-t2-sunday-at-t2-shinjuku/">T2 SUNDAY</a> — T2 Shinjuku, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2458414-4483-at-forestlimit/">+4483</a> — Forestlimit, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2471674-music-bar-bounce-at-music-bar-bounce/">Music BAR Bounce</a> — Music BAR Bounce, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2468651-m-i-a-music-is-answer-at-royal-lounge/">M.I.A -Music is Answer-</a> — Royal Lounge, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2455421-edm-legacy-at-camelot/">EDM LEGACY</a> — Camelot, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2428746-nu-festival-2026-day3-at-tba-takanawa-gateway-city/">NU Festival 2026 DAY3</a> — TBA - Takanawa Gateway City, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2451700-zero-hertz-club-garage-rave-bass-dubstep-dnb-hard-techno-at/">ZERO HERTZ CLUB 'GARAGE RAVE' (Bass/ Dubstep/ DnB/ Hard Techno)</a> — TBA - Secret Garage In YOKOHAMA, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2466119-azumaya-sunday-at-azumaya/">Azumaya -Sunday-</a> — Azumaya, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2455334-clean-27-at-zubar/">CLEAN #27</a> — ZUBAR, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2443328-snafu-1st-anniversary-at-circus-tokyo/">SNAFU 1st ANNIVERSARY</a> — Circus Tokyo, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2443908-music-is-answer-at-tba-royal-lounge/">MUSIC IS ANSWER</a> — TBA - ROYAL LOUNGE , 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2448877-ototoi-eve-presents-the-next-party-at-bahama-kitchen/">Ototoi Eve presents: The Next Party</a> — Bahama Kitchen, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2473423-tree-of-amapiano-at-dogenzaka-church/">Tree Of AMAPiANO</a> — Dogenzaka Church, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453820-r-lounge-13th-anniversary-after-party-vol-219-18th-anniversa/">R LOUNGE 13TH ANNIVERSARY AFTER PARTY -ナイフレ! Vol.219 18TH ANNIVERSARY-</a> — R Lounge, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2467521-wonderland-at-zerotokyo/">wonderland</a> — Zerotokyo, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2440676-yodo-groove-presents-kentaro-takizawa-garden-of-love-release/">YODO GROOVE presents Kentaro Takizawa 'Garden Of Love' Release Party</a> — Yodo Groove (Yodobashi Ikebukuro), 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2473032-velvet-lounge-organic-house-at-tba-velvet-lounge/">VELVET Lounge -Organic House-</a> — TBA - VELVET Lounge, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2456822-all-stars-at-saloon-keg-n-eaeran-lilniina-yoyou-tgbeam-lilli/">All Stars at Saloon: kegøn, eaeran, Lilniina, Yoyou, TGBEAM, Lillie, yuk1, tatashouta</a> — Saloon, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2456792-cafe-garage-at-shelter/">CAFE garage</a> — SHeLTeR, 2026-06-28</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/tokyo/2026-06-28/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Tokyo — Sun, 28 Jun 2026</h1><p>21 events in Tokyo on Sun, 28 Jun 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2446586-chubby-gal-gothic-lolita-night-party-at-decabar-super/">Chubby Gal Gothic Lolita Night Party ぽちゃギャル達のゴスロリナイトパーティ</a> — Decabar Super, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2446518-new-audience-june-2-at-ueno-park-open-air-stage-suijo-ongaku/">New Audience JUNE #2</a> — Ueno Park Open-Air Stage (Suijo Ongakudo), 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2460421-t2-sunday-at-t2-shinjuku/">T2 SUNDAY</a> — T2 Shinjuku, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2458414-4483-at-forestlimit/">+4483</a> — Forestlimit, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2471674-music-bar-bounce-at-music-bar-bounce/">Music BAR Bounce</a> — Music BAR Bounce, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2468651-m-i-a-music-is-answer-at-royal-lounge/">M.I.A -Music is Answer-</a> — Royal Lounge, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2455421-edm-legacy-at-camelot/">EDM LEGACY</a> — Camelot, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2428746-nu-festival-2026-day3-at-tba-takanawa-gateway-city/">NU Festival 2026 DAY3</a> — TBA - Takanawa Gateway City, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2451700-zero-hertz-club-garage-rave-bass-dubstep-dnb-hard-techno-at/">ZERO HERTZ CLUB 'GARAGE RAVE' (Bass/ Dubstep/ DnB/ Hard Techno)</a> — TBA - Secret Garage In YOKOHAMA, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2443328-snafu-1st-anniversary-at-circus-tokyo/">SNAFU 1st ANNIVERSARY</a> — Circus Tokyo, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2466119-azumaya-sunday-at-azumaya/">Azumaya -Sunday-</a> — Azumaya, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2455334-clean-27-at-zubar/">CLEAN #27</a> — ZUBAR, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2443908-music-is-answer-at-tba-royal-lounge/">MUSIC IS ANSWER</a> — TBA - ROYAL LOUNGE , 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2448877-ototoi-eve-presents-the-next-party-at-bahama-kitchen/">Ototoi Eve presents: The Next Party</a> — Bahama Kitchen, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2473423-tree-of-amapiano-at-dogenzaka-church/">Tree Of AMAPiANO</a> — Dogenzaka Church, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453820-r-lounge-13th-anniversary-after-party-vol-219-18th-anniversa/">R LOUNGE 13TH ANNIVERSARY AFTER PARTY -ナイフレ! Vol.219 18TH ANNIVERSARY-</a> — R Lounge, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2467521-wonderland-at-zerotokyo/">wonderland</a> — Zerotokyo, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2440676-yodo-groove-presents-kentaro-takizawa-garden-of-love-release/">YODO GROOVE presents Kentaro Takizawa 'Garden Of Love' Release Party</a> — Yodo Groove (Yodobashi Ikebukuro), 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2473032-velvet-lounge-organic-house-at-tba-velvet-lounge/">VELVET Lounge -Organic House-</a> — TBA - VELVET Lounge, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2456822-all-stars-at-saloon-keg-n-eaeran-lilniina-yoyou-tgbeam-lilli/">All Stars at Saloon: kegøn, eaeran, Lilniina, Yoyou, TGBEAM, Lillie, yuk1, tatashouta</a> — Saloon, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2456792-cafe-garage-at-shelter/">CAFE garage</a> — SHeLTeR, 2026-06-28</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/tokyo/2026-06-28/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -1057,9 +1060,9 @@
 
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
 
-    <div class="marquee" id="marquee"><div class="track" id="track"></div></div>
+    <div class="marquee" id="marquee" aria-hidden="true"><div class="track" id="track"></div></div>
 
-    <div class="status" id="status"></div>
+    <div class="status" id="status" role="status" aria-live="polite"></div>
     <div class="signup-banner" id="signup-banner" hidden>
       <div><div class="b-h">Almost there</div><div class="b-t">Check <strong id="signup-banner-email">your inbox</strong> for your magic link to save your picks &amp; claim your profile.</div></div>
       <div class="b-actions">
@@ -1982,7 +1985,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ if(currentUser) openUpcoming(); else openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
     (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
@@ -3448,7 +3451,7 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var label=g.title||g.venue||'Event';
             var sub=(g.title&&g.venue)?g.venue:cityLabel(g.city);
-            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
@@ -3467,7 +3470,10 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+        // Whole row opens the event (date/title/gap all tap through); the button
+        // stays for keyboard/SR users and stops propagation so it fires once.
+        document.querySelectorAll('#page-body .gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
         document.querySelectorAll('#page-body .gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
         var up=document.getElementById('ap-upcoming');
@@ -3560,11 +3566,12 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
-            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
-          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         }
         if(v.lat!=null && v.lng!=null){
@@ -4074,7 +4081,8 @@
     function gridFiltered(){ return _genreFilter ? _gridEvents.filter(function(e){ return (e.genres||[]).indexOf(_genreFilter)>-1; }) : _gridEvents; }
     function paintCurrentGrid(){
       var list=gridFiltered();
-      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view.</div>';
+      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view. <button class="more-btn" id="grid-clearfilter">Clear filter</button></div>';
+      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; paintCurrentGrid(); if(typeof syncGenreChip==='function') syncGenreChip(); });
       wireCard(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
@@ -4114,7 +4122,7 @@
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
       document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">No events found.</div>'; trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
       var ordered=orderEvents(evs);
       // ambient marquee: "<up to 5 artists> at <venue>" (duplicated for a seamless loop)
       function marqText(e){
@@ -4498,7 +4506,7 @@
             if(b<a){ var t=a; a=b; b=t; }
             // cap range
             if(daysBetween(a,b)+1 > RANGE_CAP){
-              alert('Max range is '+RANGE_CAP+' days. Clamping to '+RANGE_CAP+'.');
+              showToast('Max range is '+RANGE_CAP+' days — clamped.');
               var dt=new Date(a+'T12:00:00'); dt.setDate(dt.getDate()+(RANGE_CAP-1)); b=isoOf(dt);
             }
             calRangeStart=a; calRangeEnd=b;

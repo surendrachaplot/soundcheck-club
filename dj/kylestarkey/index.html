@@ -11,7 +11,6 @@
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
-  <link rel="preconnect" href="https://api.6minutes.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="apple-touch-icon" href="/icons/icon-192.png" />
@@ -145,7 +144,10 @@
     .skel-card .sk-line.w70 { width:70%; } .skel-card .sk-line.w45 { width:45%; }
     .sk { background:linear-gradient(100deg, var(--surface) 30%, #24242b 50%, var(--surface) 70%); background-size:200% 100%; animation:sk 1.3s ease-in-out infinite; }
     @keyframes sk { to { background-position:-200% 0; } }
-    @media (prefers-reduced-motion:reduce){ .sk { animation:none; } }
+    @media (prefers-reduced-motion:reduce){
+      .sk { animation:none; }
+      *, *::before, *::after { animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important; scroll-behavior:auto !important; }
+    }
 
     /* grid */
     .grid { display:grid; grid-template-columns:repeat(4,1fr); gap:26px 22px; padding:8px 0 calc(56px + env(safe-area-inset-bottom)); align-items:start; }
@@ -713,7 +715,8 @@
     .along-chip { background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .along-chip:hover { border-color:var(--accent); color:var(--accent); }
     .gig-history { list-style:none; margin:0; padding:0; }
-    .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); }
+    .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); cursor:pointer; }
+    .gig-history li.gh-row:hover .gh-venue { color:var(--accent); text-decoration:underline; }
     .gig-history li:last-child { border-bottom:none; }
     .gh-date { color:var(--muted); flex:0 0 auto; min-width:86px; font-variant-numeric:tabular-nums; }
     .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; }
@@ -1017,7 +1020,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782148342147">
+<meta name="sc-build" content="1782149527838">
 <meta name="description" content="Kyle Starkey is an electronic artist tracked on soundcheck, with 145 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Thu 25 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/kylestarkey/">
 <meta property="og:type" content="profile">
@@ -1056,9 +1059,9 @@
 
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
 
-    <div class="marquee" id="marquee"><div class="track" id="track"></div></div>
+    <div class="marquee" id="marquee" aria-hidden="true"><div class="track" id="track"></div></div>
 
-    <div class="status" id="status"></div>
+    <div class="status" id="status" role="status" aria-live="polite"></div>
     <div class="signup-banner" id="signup-banner" hidden>
       <div><div class="b-h">Almost there</div><div class="b-t">Check <strong id="signup-banner-email">your inbox</strong> for your magic link to save your picks &amp; claim your profile.</div></div>
       <div class="b-actions">
@@ -1981,7 +1984,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ if(currentUser) openUpcoming(); else openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
     (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
@@ -3447,7 +3450,7 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var label=g.title||g.venue||'Event';
             var sub=(g.title&&g.venue)?g.venue:cityLabel(g.city);
-            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
@@ -3466,7 +3469,10 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+        // Whole row opens the event (date/title/gap all tap through); the button
+        // stays for keyboard/SR users and stops propagation so it fires once.
+        document.querySelectorAll('#page-body .gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
         document.querySelectorAll('#page-body .gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
         var up=document.getElementById('ap-upcoming');
@@ -3559,11 +3565,12 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
-            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
-          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         }
         if(v.lat!=null && v.lng!=null){
@@ -4073,7 +4080,8 @@
     function gridFiltered(){ return _genreFilter ? _gridEvents.filter(function(e){ return (e.genres||[]).indexOf(_genreFilter)>-1; }) : _gridEvents; }
     function paintCurrentGrid(){
       var list=gridFiltered();
-      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view.</div>';
+      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view. <button class="more-btn" id="grid-clearfilter">Clear filter</button></div>';
+      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; paintCurrentGrid(); if(typeof syncGenreChip==='function') syncGenreChip(); });
       wireCard(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
@@ -4113,7 +4121,7 @@
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
       document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">No events found.</div>'; trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
       var ordered=orderEvents(evs);
       // ambient marquee: "<up to 5 artists> at <venue>" (duplicated for a seamless loop)
       function marqText(e){
@@ -4497,7 +4505,7 @@
             if(b<a){ var t=a; a=b; b=t; }
             // cap range
             if(daysBetween(a,b)+1 > RANGE_CAP){
-              alert('Max range is '+RANGE_CAP+' days. Clamping to '+RANGE_CAP+'.');
+              showToast('Max range is '+RANGE_CAP+' days — clamped.');
               var dt=new Date(a+'T12:00:00'); dt.setDate(dt.getDate()+(RANGE_CAP-1)); b=isoOf(dt);
             }
             calRangeStart=a; calRangeEnd=b;

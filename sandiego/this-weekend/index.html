@@ -11,7 +11,6 @@
   <link rel="preload" as="font" type="font/woff2" href="/fonts/inter.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
-  <link rel="preconnect" href="https://api.6minutes.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="apple-touch-icon" href="/icons/icon-192.png" />
@@ -145,7 +144,10 @@
     .skel-card .sk-line.w70 { width:70%; } .skel-card .sk-line.w45 { width:45%; }
     .sk { background:linear-gradient(100deg, var(--surface) 30%, #24242b 50%, var(--surface) 70%); background-size:200% 100%; animation:sk 1.3s ease-in-out infinite; }
     @keyframes sk { to { background-position:-200% 0; } }
-    @media (prefers-reduced-motion:reduce){ .sk { animation:none; } }
+    @media (prefers-reduced-motion:reduce){
+      .sk { animation:none; }
+      *, *::before, *::after { animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important; scroll-behavior:auto !important; }
+    }
 
     /* grid */
     .grid { display:grid; grid-template-columns:repeat(4,1fr); gap:26px 22px; padding:8px 0 calc(56px + env(safe-area-inset-bottom)); align-items:start; }
@@ -713,7 +715,8 @@
     .along-chip { background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .along-chip:hover { border-color:var(--accent); color:var(--accent); }
     .gig-history { list-style:none; margin:0; padding:0; }
-    .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); }
+    .gig-history li { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid var(--border); font-size:var(--fs-base); cursor:pointer; }
+    .gig-history li.gh-row:hover .gh-venue { color:var(--accent); text-decoration:underline; }
     .gig-history li:last-child { border-bottom:none; }
     .gh-date { color:var(--muted); flex:0 0 auto; min-width:86px; font-variant-numeric:tabular-nums; }
     .gh-venue { background:none; border:0; color:var(--fg); padding:0; font:inherit; text-align:left; cursor:pointer; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; }
@@ -1017,20 +1020,20 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782148342147">
+<meta name="sc-build" content="1782149527838">
 <meta name="description" content="14 events this weekend in San Diego. Browse line-ups by night, preview every DJ, and plan your weekend on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/sandiego/this-weekend/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Clubbing in San Diego this weekend — events &amp; line-ups | soundcheck">
 <meta property="og:description" content="14 events this weekend in San Diego. Browse line-ups by night, preview every DJ, and plan your weekend on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/sandiego/this-weekend/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F7e82ce6c0e3dc674ceca8c941fcb935c2a0d52cc.jpg&amp;w=1000">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F6a4f309ee76701b45b0a0bf3f11bfcc027000ff1.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"This weekend in San Diego","url":"https://soundcheck.club/sandiego/this-weekend/","description":"14 events this weekend in San Diego. Browse line-ups by night, preview every DJ, and plan your weekend on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2374676-fngrs-crssd-presents-tobiahs-at-eq-san-diego/","name":"FNGRS CRSSD presents Tobiahs"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2467824-overdrive-and-sounds-good-present-reload-ukg-at-break-point/","name":"OVERDRIVE and Sounds Good present: RELOAD UKG"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2388171-gabriel-dresden-open-to-close-night-club-21-at-spin/","name":"Gabriel & Dresden Open To Close Night Club (21+)"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2457849-digital-souls-2-year-anniversary-ds006-friends-at-tba/","name":"Digital Souls 2 Year Anniversary - DS006: +friends"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2457454-if-you-see-me-you-see-me-no-14-at-the-observatory-north-park/","name":"IF YOU SEE ME YOU SEE ME No. 14"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/e/2465593-maesic-at-nova-sd/","name":"Maesic"},{"@type":"ListItem","position":7,"url":"https://soundcheck.club/e/2429956-the-egyptian-lover-at-3oz-dive-club/","name":"The Egyptian Lover"},{"@type":"ListItem","position":8,"url":"https://soundcheck.club/e/2374672-fngrs-crssd-presents-lee-foss-at-quartyard/","name":"FNGRS CRSSD presents Lee Foss"},{"@type":"ListItem","position":9,"url":"https://soundcheck.club/e/2433079-party-monsters-at-rich-s-nightclub/","name":"Party Monsters"},{"@type":"ListItem","position":10,"url":"https://soundcheck.club/e/2470137-f2f-360-at-eq-san-diego/","name":"F2F 360°"},{"@type":"ListItem","position":11,"url":"https://soundcheck.club/e/2425738-deb-bailar-m-s-perreo-bad-bunny-dance-night-at-soda-bar/","name":"Debí BaiLAr MáS PerrEO (Bad Bunny Dance Night)"},{"@type":"ListItem","position":12,"url":"https://soundcheck.club/e/2467451-bump-presents-jkriv-at-tba-charade-speakeasy/","name":"BUMP presents JKriv"},{"@type":"ListItem","position":13,"url":"https://soundcheck.club/e/2453788-sunlight-social-w-tmple-at-spin/","name":"SUNLIGHT SOCIAL W/ TMPLE"},{"@type":"ListItem","position":14,"url":"https://soundcheck.club/e/2452799-james-hype-at-nova-sd/","name":"James Hype"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"This weekend in San Diego","url":"https://soundcheck.club/sandiego/this-weekend/","description":"14 events this weekend in San Diego. Browse line-ups by night, preview every DJ, and plan your weekend on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2465593-maesic-at-nova-sd/","name":"Maesic"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2374676-fngrs-crssd-presents-tobiahs-at-eq-san-diego/","name":"FNGRS CRSSD presents Tobiahs"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2457454-if-you-see-me-you-see-me-no-14-at-the-observatory-north-park/","name":"IF YOU SEE ME YOU SEE ME No. 14"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2388171-gabriel-dresden-open-to-close-night-club-21-at-spin/","name":"Gabriel & Dresden Open To Close Night Club (21+)"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2457849-digital-souls-2-year-anniversary-ds006-friends-at-tba/","name":"Digital Souls 2 Year Anniversary - DS006: +friends"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/e/2467824-overdrive-and-sounds-good-present-reload-ukg-at-break-point/","name":"OVERDRIVE and Sounds Good present: RELOAD UKG"},{"@type":"ListItem","position":7,"url":"https://soundcheck.club/e/2429956-the-egyptian-lover-at-3oz-dive-club/","name":"The Egyptian Lover"},{"@type":"ListItem","position":8,"url":"https://soundcheck.club/e/2374672-fngrs-crssd-presents-lee-foss-at-quartyard/","name":"FNGRS CRSSD presents Lee Foss"},{"@type":"ListItem","position":9,"url":"https://soundcheck.club/e/2433079-party-monsters-at-rich-s-nightclub/","name":"Party Monsters"},{"@type":"ListItem","position":10,"url":"https://soundcheck.club/e/2470137-f2f-360-at-eq-san-diego/","name":"F2F 360°"},{"@type":"ListItem","position":11,"url":"https://soundcheck.club/e/2425738-deb-bailar-m-s-perreo-bad-bunny-dance-night-at-soda-bar/","name":"Debí BaiLAr MáS PerrEO (Bad Bunny Dance Night)"},{"@type":"ListItem","position":12,"url":"https://soundcheck.club/e/2467451-bump-presents-jkriv-at-tba-charade-speakeasy/","name":"BUMP presents JKriv"},{"@type":"ListItem","position":13,"url":"https://soundcheck.club/e/2453788-sunlight-social-w-tmple-at-spin/","name":"SUNLIGHT SOCIAL W/ TMPLE"},{"@type":"ListItem","position":14,"url":"https://soundcheck.club/e/2452799-james-hype-at-nova-sd/","name":"James Hype"}]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"San Diego","item":"https://soundcheck.club/sandiego/"},{"@type":"ListItem","position":3,"name":"This weekend"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>This weekend in San Diego</h1><p>14 events this weekend in San Diego. Browse line-ups by night, preview every DJ, and plan your weekend on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2374676-fngrs-crssd-presents-tobiahs-at-eq-san-diego/">FNGRS CRSSD presents Tobiahs</a> — EQ San Diego, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2467824-overdrive-and-sounds-good-present-reload-ukg-at-break-point/">OVERDRIVE and Sounds Good present: RELOAD UKG</a> — Break Point, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2388171-gabriel-dresden-open-to-close-night-club-21-at-spin/">Gabriel &amp; Dresden Open To Close Night Club (21+)</a> — Spin, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2457849-digital-souls-2-year-anniversary-ds006-friends-at-tba/">Digital Souls 2 Year Anniversary - DS006: +friends</a> — TBA, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2457454-if-you-see-me-you-see-me-no-14-at-the-observatory-north-park/">IF YOU SEE ME YOU SEE ME No. 14</a> — The Observatory North Park, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2465593-maesic-at-nova-sd/">Maesic</a> — Nova SD, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2429956-the-egyptian-lover-at-3oz-dive-club/">The Egyptian Lover</a> — 3oz Dive Club, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2374672-fngrs-crssd-presents-lee-foss-at-quartyard/">FNGRS CRSSD presents Lee Foss</a> — Quartyard, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2433079-party-monsters-at-rich-s-nightclub/">Party Monsters</a> — Rich's Nightclub, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2470137-f2f-360-at-eq-san-diego/">F2F 360°</a> — EQ San Diego, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2425738-deb-bailar-m-s-perreo-bad-bunny-dance-night-at-soda-bar/">Debí BaiLAr MáS PerrEO (Bad Bunny Dance Night)</a> — Soda Bar, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2467451-bump-presents-jkriv-at-tba-charade-speakeasy/">BUMP presents JKriv</a> — TBA - Charade Speakeasy, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453788-sunlight-social-w-tmple-at-spin/">SUNLIGHT SOCIAL W/ TMPLE</a> — Spin, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2452799-james-hype-at-nova-sd/">James Hype</a> — Nova SD, 2026-06-28</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/sandiego/this-weekend/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>This weekend in San Diego</h1><p>14 events this weekend in San Diego. Browse line-ups by night, preview every DJ, and plan your weekend on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2465593-maesic-at-nova-sd/">Maesic</a> — Nova SD, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2374676-fngrs-crssd-presents-tobiahs-at-eq-san-diego/">FNGRS CRSSD presents Tobiahs</a> — EQ San Diego, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2457454-if-you-see-me-you-see-me-no-14-at-the-observatory-north-park/">IF YOU SEE ME YOU SEE ME No. 14</a> — The Observatory North Park, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2388171-gabriel-dresden-open-to-close-night-club-21-at-spin/">Gabriel &amp; Dresden Open To Close Night Club (21+)</a> — Spin, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2457849-digital-souls-2-year-anniversary-ds006-friends-at-tba/">Digital Souls 2 Year Anniversary - DS006: +friends</a> — TBA, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2467824-overdrive-and-sounds-good-present-reload-ukg-at-break-point/">OVERDRIVE and Sounds Good present: RELOAD UKG</a> — Break Point, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2429956-the-egyptian-lover-at-3oz-dive-club/">The Egyptian Lover</a> — 3oz Dive Club, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2374672-fngrs-crssd-presents-lee-foss-at-quartyard/">FNGRS CRSSD presents Lee Foss</a> — Quartyard, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2433079-party-monsters-at-rich-s-nightclub/">Party Monsters</a> — Rich's Nightclub, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2470137-f2f-360-at-eq-san-diego/">F2F 360°</a> — EQ San Diego, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2425738-deb-bailar-m-s-perreo-bad-bunny-dance-night-at-soda-bar/">Debí BaiLAr MáS PerrEO (Bad Bunny Dance Night)</a> — Soda Bar, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2467451-bump-presents-jkriv-at-tba-charade-speakeasy/">BUMP presents JKriv</a> — TBA - Charade Speakeasy, 2026-06-27</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453788-sunlight-social-w-tmple-at-spin/">SUNLIGHT SOCIAL W/ TMPLE</a> — Spin, 2026-06-28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2452799-james-hype-at-nova-sd/">James Hype</a> — Nova SD, 2026-06-28</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/sandiego/this-weekend/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -1057,9 +1060,9 @@
 
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
 
-    <div class="marquee" id="marquee"><div class="track" id="track"></div></div>
+    <div class="marquee" id="marquee" aria-hidden="true"><div class="track" id="track"></div></div>
 
-    <div class="status" id="status"></div>
+    <div class="status" id="status" role="status" aria-live="polite"></div>
     <div class="signup-banner" id="signup-banner" hidden>
       <div><div class="b-h">Almost there</div><div class="b-t">Check <strong id="signup-banner-email">your inbox</strong> for your magic link to save your picks &amp; claim your profile.</div></div>
       <div class="b-actions">
@@ -1982,7 +1985,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ if(currentUser) openUpcoming(); else openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
     (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
@@ -3448,7 +3451,7 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var label=g.title||g.venue||'Event';
             var sub=(g.title&&g.venue)?g.venue:cityLabel(g.city);
-            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
@@ -3467,7 +3470,10 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+        // Whole row opens the event (date/title/gap all tap through); the button
+        // stays for keyboard/SR users and stops propagation so it fires once.
+        document.querySelectorAll('#page-body .gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
         document.querySelectorAll('#page-body .gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
         var up=document.getElementById('ap-upcoming');
@@ -3560,11 +3566,12 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
-            return '<li><span class="gh-date">'+esc(d)+'</span>'+
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
           }).join('')+'</ul>';
-          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
         }
         if(v.lat!=null && v.lng!=null){
@@ -4074,7 +4081,8 @@
     function gridFiltered(){ return _genreFilter ? _gridEvents.filter(function(e){ return (e.genres||[]).indexOf(_genreFilter)>-1; }) : _gridEvents; }
     function paintCurrentGrid(){
       var list=gridFiltered();
-      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view.</div>';
+      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view. <button class="more-btn" id="grid-clearfilter">Clear filter</button></div>';
+      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; paintCurrentGrid(); if(typeof syncGenreChip==='function') syncGenreChip(); });
       wireCard(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
@@ -4114,7 +4122,7 @@
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
       document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">No events found.</div>'; trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
       var ordered=orderEvents(evs);
       // ambient marquee: "<up to 5 artists> at <venue>" (duplicated for a seamless loop)
       function marqText(e){
@@ -4498,7 +4506,7 @@
             if(b<a){ var t=a; a=b; b=t; }
             // cap range
             if(daysBetween(a,b)+1 > RANGE_CAP){
-              alert('Max range is '+RANGE_CAP+' days. Clamping to '+RANGE_CAP+'.');
+              showToast('Max range is '+RANGE_CAP+' days — clamped.');
               var dt=new Date(a+'T12:00:00'); dt.setDate(dt.getDate()+(RANGE_CAP-1)); b=isoOf(dt);
             }
             calRangeStart=a; calRangeEnd=b;
