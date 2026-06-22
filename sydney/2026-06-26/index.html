@@ -657,6 +657,12 @@
     .sim-why { font:500 var(--fs-sm) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .sim-next { flex:none; font:500 var(--fs-xs) var(--body); color:var(--fg); white-space:nowrap; }
     .sim-go { flex:none; color:var(--muted); font-size:var(--fs-lg); }
+    /* DS: promoter-page affinity banner + tag rows (venues used / similar promoters) */
+    .pp-affinity { margin-top:14px; background:rgba(255,122,107,0.10); border:1px solid var(--line); border-radius:12px; padding:10px 14px; font:500 var(--fs-sm) var(--body); color:var(--fg); }
+    .pp-affinity b { font-family:var(--head); color:var(--accent); }
+    .pp-tags { display:flex; flex-wrap:wrap; gap:8px; }
+    .pp-prom { background:#26262d; border:none; border-radius:999px; padding:6px 12px; font:600 var(--fs-sm) var(--body); color:var(--fg); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .pp-prom small { color:var(--muted); margin-left:4px; }
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
@@ -1030,7 +1036,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782164242712">
+<meta name="sc-build" content="1782164630386">
 <meta name="description" content="8 events in Sydney on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/sydney/2026-06-26/">
 <meta property="og:type" content="website">
@@ -3604,7 +3610,9 @@
         if(p.gigs) stats.push('<span><b>'+p.gigs+'</b> events</span>');
         if((p.cities||[]).length) stats.push('<span><b>'+p.cities.length+'</b> '+(p.cities.length===1?'city':'cities')+'</span>');
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
-        h+='<div id="pp-upcoming"></div><div id="pp-past"></div>';
+        if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their nights.</div>';
+        if((p.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+p.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        h+='<div id="pp-upcoming"></div><div id="pp-artists"></div><div id="pp-venues"></div><div id="pp-similar"></div><div id="pp-past"></div>';
         openPanel(h);
         var _pcanon=location.origin+SC_BASE+'promoter/'+slug+'/';
         setSeo(dispName+' — events & line-ups | soundcheck', p.description||'', { "@context":"https://schema.org","@type":"Organization", name:dispName, url:_pcanon, description:p.description||'' }, _pcanon);
@@ -3624,6 +3632,20 @@
           }).join('')+'</ul>';
           ppst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
           ppst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
+        }
+        var arts=(p.topArtists||[]), pa=document.getElementById('pp-artists');
+        if(pa && arts.length){
+          pa.innerHTML='<div class="sec-h" style="margin-top:26px">Artists they book</div><div class="ptiles ptiles-wide">'+arts.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
+          pa.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        }
+        var vns=(p.venues||[]), pv=document.getElementById('pp-venues');
+        if(pv && vns.length){
+          pv.innerHTML='<div class="sec-h" style="margin-top:26px">Venues they use</div><div class="pp-tags">'+vns.map(function(v){ return '<span class="sc-tag">'+esc(v.venue)+' <small>'+v.n+'</small></span>'; }).join('')+'</div>';
+        }
+        var sims=(p.similar||[]), ps=document.getElementById('pp-similar');
+        if(ps && sims.length){
+          ps.innerHTML='<div class="sec-h" style="margin-top:26px">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<button class="pp-prom" type="button" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></button>'; }).join('')+'</div>';
+          ps.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
         }
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that promoter.</div>'); }
     }
