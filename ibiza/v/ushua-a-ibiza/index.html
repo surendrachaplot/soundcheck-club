@@ -734,6 +734,39 @@
     .cu-more { background:none; border:0; padding:2px 0; text-align:left; color:var(--muted); font-size:var(--fs-sm); cursor:pointer; }
     .cu-more:hover { color:var(--accent); }
     .cu-hide { display:none; }
+    /* Coming up — lens toggle (By act/venue · By date) */
+    .cu-lens { display:flex; gap:5px; background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:4px; margin:2px 0 16px; max-width:340px; }
+    .cu-lens-b { flex:1; background:none; border:0; border-radius:9px; padding:9px 6px; font:800 var(--fs-xs) var(--head); letter-spacing:0.04em; color:var(--muted); cursor:pointer; }
+    .cu-lens-b.on { background:var(--accent); color:var(--accent-ink); }
+    /* By-date lens: calendar + the day/week/month's gigs (desktop = side by side) */
+    .ud-wrap { display:grid; grid-template-columns:1fr; gap:20px; }
+    @media (min-width:720px){ .ud-wrap { grid-template-columns:300px 1fr; align-items:start; } }
+    .ud-calhead { display:flex; align-items:center; justify-content:space-between; margin-bottom:11px; }
+    .ud-mo { font:800 var(--fs-md) var(--head); }
+    .ud-ar { background:none; border:1px solid var(--border); color:var(--fg); border-radius:8px; width:32px; height:32px; cursor:pointer; font-size:var(--fs-lg); line-height:1; -webkit-tap-highlight-color:transparent; }
+    .ud-ar:hover { border-color:var(--accent); color:var(--accent); }
+    .ud-cg { display:grid; grid-template-columns:repeat(7,1fr); gap:4px; }
+    .ud-wl { font-size:var(--fs-xs); color:var(--muted); text-align:center; font-weight:700; padding-bottom:3px; }
+    .ud-cell { aspect-ratio:1; display:flex; flex-direction:column; align-items:center; justify-content:center; font-size:var(--fs-sm); color:var(--muted); border:0; background:none; border-radius:9px; position:relative; }
+    .ud-cell.ud-blank { visibility:hidden; }
+    .ud-cell.has { color:var(--fg); font-weight:600; cursor:pointer; }
+    .ud-cell.has:hover { background:var(--surface); }
+    .ud-dot { width:5px; height:5px; border-radius:999px; background:var(--accent); margin-top:3px; }
+    .ud-cell.on { background:var(--accent); color:var(--accent-ink); }
+    .ud-cell.on .ud-dot { background:var(--accent-ink); }
+    .ud-scope { display:flex; gap:7px; margin-top:14px; }
+    .ud-chip { font:700 var(--fs-sm) var(--body); color:var(--muted); background:var(--surface); border:1px solid var(--border); border-radius:999px; padding:7px 13px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .ud-chip.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .ud-detail { min-width:0; }
+    .ud-dh { font:800 var(--fs-xs) var(--head); letter-spacing:0.08em; text-transform:uppercase; color:var(--accent); margin:18px 0 9px; }
+    .ud-detail .ud-dh:first-child { margin-top:0; }
+    .ud-ev { display:flex; gap:11px; align-items:center; width:100%; text-align:left; background:none; border:0; border-bottom:1px solid var(--border); padding:10px 0; cursor:pointer; color:var(--fg); }
+    .ud-av { width:42px; height:42px; border-radius:50%; flex:0 0 auto; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0f0f12; font-size:var(--fs-base); }
+    .ud-av.sq { border-radius:12px; }
+    .ud-evtx { min-width:0; }
+    .ud-a { display:block; font-weight:600; font-size:var(--fs-base); }
+    .ud-ev:hover .ud-a { color:var(--accent); }
+    .ud-v { display:block; font-size:var(--fs-sm); color:var(--muted); margin-top:1px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
     .ptile .pimg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0; }
     .ptile.has-img::after { content:''; position:absolute; inset:0; z-index:1; background:linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0.05) 60%); }
     .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.05; color:#fff; text-shadow:0 1px 8px rgba(0,0,0,0.55); position:relative; z-index:2; text-align:left; }
@@ -1000,7 +1033,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1781632344847">
+<meta name="sc-build" content="1782133583040">
 <meta name="description" content="Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 86 upcoming nights, with line-ups including Adam Beyer, Afrojack, Alesso and Alok and 2 more. Browse dates, set times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.">
 <link rel="canonical" href="https://soundcheck.club/ibiza/v/ushua-a-ibiza/">
 <meta property="og:type" content="profile">
@@ -3122,37 +3155,117 @@
     // Coming up — one compact row per entity (artist / venue / friend) with its
     // next few gigs stacked beside it, like the artist-page "Past sets". Sections
     // run Artists → Venues → Friends down a single scrolling page.
-    async function openUpcoming(){
+    // Coming up has two lenses: "By act / venue" (entity rows) and "By date"
+    // (a calendar + the chosen day/week/month's gigs — desktop shows both side by
+    // side, mobile stacks them).
+    var ud=null; // by-date view state
+    function openUpcoming(){
       if(!currentUser){ openAuth(); return; }
       setRoute('upcoming');
-      openPanel('<h3>Coming up</h3><div class="empty">Loading…</div>');
+      ud=null;
+      openPanel('<h3>Coming up</h3>'+
+        '<div class="cu-lens">'+
+          '<button class="cu-lens-b on" type="button" data-lens="who">By act / venue</button>'+
+          '<button class="cu-lens-b" type="button" data-lens="date">By date</button>'+
+        '</div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
+      panelBody.querySelectorAll('.cu-lens-b').forEach(function(b){ b.addEventListener('click',function(){
+        panelBody.querySelectorAll('.cu-lens-b').forEach(function(x){ x.classList.remove('on'); }); b.classList.add('on');
+        if(b.dataset.lens==='date') renderUpcomingByDate(); else renderUpcomingWho();
+      }); });
+      renderUpcomingWho();
+    }
+    async function renderUpcomingWho(){
+      var box=document.getElementById('cu-lensbody'); if(!box) return;
+      box.innerHTML='<div class="empty">Loading…</div>';
       try{
         var r=await authedFetch('/api/upcoming'); var j=await r.json();
         var A=j.artists||[], V=j.venues||[], F=j.friends||[];
-        if(!A.length && !V.length && !F.length){
-          openPanel('<h3>Coming up</h3><div class="empty">Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.</div>'); return;
-        }
+        if(!A.length && !V.length && !F.length){ box.innerHTML='<div class="empty">Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.</div>'; return; }
         var feeds={ artists:{list:A,kind:'artist'}, venues:{list:V,kind:'venue'}, friends:{list:F,kind:'friend'} };
         function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
-        var h='<h3>Coming up</h3>'+
-          '<div class="upc-tabs" role="tablist">'+
+        box.innerHTML='<div class="upc-tabs" role="tablist">'+
             '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(A.length)+'</button>'+
             '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(V.length)+'</button>'+
             '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(F.length)+'</button>'+
           '</div><div id="upc-body"></div>';
-        openPanel(h);
         var EMPTY={ artists:'Heart some artists &mdash; their next shows show up here.', venues:'Follow venues &mdash; their upcoming nights land here.', friends:'Follow people &mdash; the gigs they wanna see appear here.' };
         var bodyEl=document.getElementById('upc-body');
         function showTab(tab){
-          panelBody.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          box.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
           var f=feeds[tab];
           if(!f.list.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
           bodyEl.innerHTML='<ul class="cu-list">'+f.list.map(function(e){ return upRow(e, f.kind); }).join('')+'</ul>';
           wireUpcoming();
         }
-        panelBody.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        box.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
         showTab(A.length?'artists':V.length?'venues':'friends');
-      }catch(_){ openPanel('<h3>Coming up</h3><div class="empty">Couldn&rsquo;t load this.</div>'); }
+      }catch(_){ box.innerHTML='<div class="empty">Couldn&rsquo;t load this.</div>'; }
+    }
+    // ── "By date" lens: month calendar + the selected day/week/month's gigs ──
+    function udPad(n){ return (n<10?'0':'')+n; }
+    function udISO(y,m,d){ return y+'-'+udPad(m+1)+'-'+udPad(d); }   // m 0-based
+    function udMonthRange(){ var last=new Date(ud.y, ud.m+1, 0).getDate(); return [udISO(ud.y,ud.m,1), udISO(ud.y,ud.m,last)]; }
+    function udWeekStart(iso){ var d=new Date(iso+'T12:00:00'); var dow=(d.getDay()+6)%7; d.setDate(d.getDate()-dow); return d.toISOString().slice(0,10); }
+    function udPlus(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return d.toISOString().slice(0,10); }
+    function udHue(s){ var h=((hashStr(String(s||'x'))%70)+330)%360; return 'hsl('+h+' 58% 52%)'; }
+    function udFlatten(j){
+      var seen={}, out=[];
+      function add(list, kind){ (list||[]).forEach(function(e){ var who=kind==='friend'?('u/'+e.handle):(e.name||''); var slug=kind==='friend'?e.handle:e.slug;
+        (e.gigs||[]).forEach(function(g){ var id=g.id!=null?String(g.id):''; if(id&&seen[id]) return; if(id) seen[id]=1;
+          out.push({ id:id, date:String(g.event_date).slice(0,10), title:g.title||'', venue:g.venue||'', city:g.city||'', who:who, slug:slug, kind:kind }); }); }); }
+      add(j.artists,'artist'); add(j.venues,'venue'); add(j.friends,'friend');
+      return out;
+    }
+    async function udLoad(){
+      var key=ud.y+'-'+ud.m; if(ud.key===key && ud.gigs) return;
+      var rg=udMonthRange();
+      try{ var r=await authedFetch('/api/upcoming?from='+rg[0]+'&to='+rg[1]); var j=await r.json(); ud.gigs=udFlatten(j); }
+      catch(_){ ud.gigs=[]; }
+      ud.key=key;
+      var days=ud.gigs.map(function(g){ return g.date; }).sort();
+      ud.sel = days.length ? days[0] : rg[0];
+    }
+    function udScopeGigs(){
+      if(ud.scope==='month') return ud.gigs;
+      if(ud.scope==='week'){ var ws=udWeekStart(ud.sel), we=udPlus(ws,6); return ud.gigs.filter(function(g){ return g.date>=ws && g.date<=we; }); }
+      return ud.gigs.filter(function(g){ return g.date===ud.sel; });
+    }
+    function udEvHTML(g){
+      var primary = g.kind==='artist' ? g.who : (g.title || g.venue || 'A show');
+      var cy=cityLabel(g.city), sec=esc(g.venue||'')+(cy?(' &middot; '+esc(cy)):'');
+      var ini=String(g.who||'?').replace(/^u\//,'').charAt(0).toUpperCase();
+      var av='<span class="ud-av'+(g.kind==='venue'?' sq':'')+'" style="background:'+udHue(g.slug||g.who)+'">'+esc(ini)+'</span>';
+      return '<button class="ud-ev" type="button" data-ev="'+esc(g.id)+'">'+av+'<span class="ud-evtx"><span class="ud-a">'+esc(primary)+'</span><span class="ud-v">'+sec+'</span></span></button>';
+    }
+    async function renderUpcomingByDate(){
+      var box=document.getElementById('cu-lensbody'); if(!box) return;
+      if(!ud){ var n=new Date(); ud={ y:n.getFullYear(), m:n.getMonth(), sel:null, scope:'day', gigs:null, key:null }; }
+      box.innerHTML='<div class="empty">Loading…</div>';
+      await udLoad();
+      udPaint(box);
+    }
+    function udPaint(box){
+      if(!box) box=document.getElementById('cu-lensbody'); if(!box) return;
+      var MO=['January','February','March','April','May','June','July','August','September','October','November','December'];
+      var dot={}; ud.gigs.forEach(function(g){ dot[g.date]=1; });
+      var lead=(new Date(ud.y,ud.m,1).getDay()+6)%7, last=new Date(ud.y,ud.m+1,0).getDate();
+      var wl=['M','T','W','T','F','S','S'].map(function(x){ return '<div class="ud-wl">'+x+'</div>'; }).join('');
+      var cells='';
+      for(var i=0;i<lead;i++) cells+='<div class="ud-cell ud-blank"></div>';
+      for(var d=1;d<=last;d++){ var iso=udISO(ud.y,ud.m,d), has=dot[iso], on=iso===ud.sel;
+        cells+='<button class="ud-cell'+(has?' has':'')+(on?' on':'')+'" type="button"'+(has?' data-uday="'+iso+'"':' disabled')+'>'+d+(has?'<span class="ud-dot"></span>':'')+'</button>'; }
+      var cal='<div class="ud-cal"><div class="ud-calhead"><button class="ud-ar" type="button" data-udnav="-1" aria-label="Previous month">&lsaquo;</button><span class="ud-mo">'+MO[ud.m]+' '+ud.y+'</span><button class="ud-ar" type="button" data-udnav="1" aria-label="Next month">&rsaquo;</button></div>'+
+        '<div class="ud-cg">'+wl+cells+'</div>'+
+        '<div class="ud-scope">'+['day','week','month'].map(function(s){ return '<button class="ud-chip'+(ud.scope===s?' on':'')+'" type="button" data-udscope="'+s+'">'+s.charAt(0).toUpperCase()+s.slice(1)+'</button>'; }).join('')+'</div></div>';
+      var sg=udScopeGigs(), detail;
+      if(!sg.length){ detail='<div class="empty">'+(ud.gigs.length?'Nothing in this '+ud.scope+'.':'No shows from your follows in '+MO[ud.m]+'. Use the arrows to look ahead.')+'</div>'; }
+      else { var byd={}; sg.forEach(function(g){ (byd[g.date]=byd[g.date]||[]).push(g); });
+        detail=Object.keys(byd).sort().map(function(dt){ return '<div class="ud-dh">'+esc(fmtDateLabel(dt))+'</div>'+byd[dt].map(udEvHTML).join(''); }).join(''); }
+      box.innerHTML='<div class="ud-wrap"><div class="ud-calwrap">'+cal+'</div><div class="ud-detail">'+detail+'</div></div>';
+      box.querySelectorAll('[data-uday]').forEach(function(b){ b.addEventListener('click',function(){ ud.sel=b.dataset.uday; if(ud.scope==='month') ud.scope='day'; udPaint(box); }); });
+      box.querySelectorAll('[data-udnav]').forEach(function(b){ b.addEventListener('click',function(){ var nm=ud.m+(+b.dataset.udnav); ud.y+=Math.floor(nm/12); ud.m=((nm%12)+12)%12; ud.sel=null; ud.key=null; renderUpcomingByDate(); }); });
+      box.querySelectorAll('[data-udscope]').forEach(function(b){ b.addEventListener('click',function(){ ud.scope=b.dataset.udscope; udPaint(box); }); });
+      box.querySelectorAll('.ud-ev[data-ev]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.ev) openEvent(b.dataset.ev); }); });
     }
     function upAv(kind, key, name, image, avatar){
       var sq = kind==='venue' ? ' sq' : '';
