@@ -730,6 +730,17 @@
     .nm-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:1px; }
     .nm-nm { font:700 var(--fs-base) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .nm-why { font:500 var(--fs-sm) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    /* DS: venue DNA (F7, behaviorally-derived) */
+    .vd-box { margin-top:6px; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 16px; }
+    .vd-tags { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:6px; }
+    .vd-tag { font:700 var(--fs-xs) var(--body); color:var(--accent); border:1px solid var(--accent); border-radius:999px; padding:3px 10px; text-transform:capitalize; }
+    .vd-row { display:flex; gap:12px; align-items:baseline; padding:7px 0; border-top:1px solid var(--line); font-size:var(--fs-sm); }
+    .vd-row:first-of-type { border-top:none; }
+    .vd-k { flex:0 0 64px; color:var(--muted); text-transform:uppercase; font-size:var(--fs-xs); letter-spacing:0.06em; }
+    .vd-sim { display:flex; flex-wrap:wrap; gap:6px; }
+    .vd-vlink { background:#26262d; border:none; border-radius:999px; padding:4px 10px; font:600 var(--fs-sm) var(--body); color:var(--fg); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .vd-vlink:hover { color:var(--accent); }
+    .vd-note { margin-top:10px; color:var(--muted); font-size:var(--fs-xs); font-style:italic; }
     .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
@@ -1107,7 +1118,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782170582612">
+<meta name="sc-build" content="1782170971626">
 <meta name="description" content="Christian AB is a house and techno and 2 more artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Quest (IT), Francesco Del Garda and Quest. Next up: FOLD, London on Fri 26 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/christianbrowne/">
 <meta property="og:type" content="profile">
@@ -3825,7 +3836,7 @@
         // "logged" + "saved upcoming" counts hidden — no social proof surfaced yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
-        h+='<div id="vp-upcoming"></div><div id="vp-past"></div>';
+        h+='<div id="vp-dna"></div><div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
@@ -3835,6 +3846,20 @@
         if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
         var cbBtn=document.getElementById('vp-claim');
         if(cbBtn) cbBtn.addEventListener('click',function(){ openClaimModal(dispName, v.slug); });
+        // F7: venue DNA — behaviorally-derived intelligence (lazy).
+        if(v.slug){
+          var dnaEl=document.getElementById('vp-dna');
+          authedFetch('/api/venue/dna?slug='+encodeURIComponent(v.slug)).then(function(r){ return r.json(); }).then(function(j){
+            if(!dnaEl || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length)) return;
+            var rows='';
+            if((j.tags||[]).length) rows+='<div class="vd-tags">'+j.tags.map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
+            if((j.genres||[]).length) rows+='<div class="vd-row"><span class="vd-k">Mostly</span><span>'+j.genres.slice(0,4).map(function(g){ return esc(g); }).join(', ')+'</span></div>';
+            if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
+            if((j.similar||[]).length) rows+='<div class="vd-row"><span class="vd-k">Similar</span><span class="vd-sim">'+j.similar.map(function(s){ return '<button class="vd-vlink" type="button" data-venue="'+esc(s.venue)+'">'+esc(s.venue)+'</button>'; }).join('')+'</span></div>';
+            dnaEl.innerHTML='<div class="sec-h" style="margin-top:24px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">Derived from what plays here — sound &amp; crowd ratings come as reviews roll in.</div></div>';
+            dnaEl.querySelectorAll('.vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
+          }).catch(function(){});
+        }
         var up=(v.upcoming||[]), vu=document.getElementById('vp-upcoming');
         if(vu && up.length){
           vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+'<span class="ct">'+up.length+'</span></div><div id="vp-cards"></div>';
