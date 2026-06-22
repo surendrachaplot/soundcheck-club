@@ -166,14 +166,8 @@
     .gcard h3 .title-btn { background:none; border:0; padding:0; margin:0; font:inherit; color:inherit; text-align:left; cursor:pointer; }
     .gcard h3 .title-btn:hover { color:var(--accent); }
 
-    /* event sheet (tap a poster) */
-    .sheet-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.62); backdrop-filter:blur(3px); z-index:70; display:flex; align-items:flex-end; justify-content:center; opacity:0; pointer-events:none; transition:opacity 0.22s; }
-    .sheet-overlay.show { opacity:1; pointer-events:auto; }
-    .sheet { background:var(--surface); width:100%; max-width:560px; max-height:90vh; overflow-y:auto; -webkit-overflow-scrolling:touch; overscroll-behavior:contain; border-radius:18px 18px 0 0; transform:translateY(100%); transition:transform 0.3s cubic-bezier(.4,0,.2,1); position:relative; }
-    .sheet-overlay { overscroll-behavior:contain; }
-    .sheet-overlay.show .sheet { transform:translateY(0); }
-    .sheet-close { position:absolute; top:12px; right:12px; width:36px; height:36px; border-radius:999px; background:rgba(0,0,0,0.5); border:none; color:#fff; font-size:var(--fs-md); cursor:pointer; z-index:3; }
-    .sheet .poster { width:100%; height:min(46vh,360px); aspect-ratio:auto; border-radius:0; margin-bottom:0; }
+    /* event-page content blocks (lineup list, meta, action row) — the bottom sheet that
+       once used these is retired; the full event page reuses the classes. */
     .sheet-body { padding:22px 22px calc(32px + env(safe-area-inset-bottom)); }
     .sheet-body .pick { display:inline-block; font-size:var(--fs-xs); font-weight:800; letter-spacing:0.16em; text-transform:uppercase; color:var(--accent); border:1px solid var(--accent); border-radius:4px; padding:2px 6px; margin-bottom:10px; }
     .sheet-body h3 { font-family:var(--head); font-size:var(--fs-xl); font-weight:800; letter-spacing:-0.02em; line-height:1.08; }
@@ -183,11 +177,6 @@
     .sheet-line li { display:flex; align-items:center; gap:11px; font-size:var(--fs-md); font-weight:500; }
     .sheet-line li .an { overflow:hidden; text-overflow:ellipsis; }
     .sheet-line li.tba { color:var(--muted); font-style:italic; font-size:var(--fs-base); }
-    @media (min-width:760px){
-      .sheet-overlay { align-items:center; padding:24px; }
-      .sheet { border-radius:16px; max-height:88vh; transform:translateY(16px); }
-      .sheet-overlay.show .sheet { transform:translateY(0); }
-    }
 
     .gcard .pick { display:inline-block; font-size:var(--fs-xs); font-weight:800; letter-spacing:0.16em; text-transform:uppercase; color:var(--accent); border:1px solid var(--accent); border-radius:4px; padding:2px 6px; margin-bottom:8px; align-self:flex-start; }
     #vp-cards .pick { display:none; }   /* every card on a pick-venue page is at that venue — the badge is redundant */
@@ -1020,7 +1009,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782149527838">
+<meta name="sc-build" content="1782150451408">
 <meta name="description" content="Cherry Beach is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including 1morning, 98dots, Aletha and ARK1TEK and 2 more. Browse dates, set times and who's playing. Toronto, ON; Canada.">
 <link rel="canonical" href="https://soundcheck.club/toronto/club/cherry-beach/">
 <meta property="og:type" content="profile">
@@ -1171,12 +1160,6 @@
   <!-- My picks, Log a gig, profile, feed, artist & venue all render as full
        pages in #page-view now — no overlays. -->
 
-  <div class="sheet-overlay" id="sheet-overlay">
-    <div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Event details">
-      <button class="sheet-close" id="sheet-close" aria-label="Close">&times;</button>
-      <div id="sheet-content"></div>
-    </div>
-  </div>
 
   <!-- YouTube + SoundCloud player SDKs are loaded lazily on first play (see
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
@@ -1505,7 +1488,6 @@
       // it stays honest: ▶ until playback truly starts, then pause.
       updatePP(false);
       bumpPlayCount();
-      if(sheetOv && sheetOv.classList.contains('show')) closeSheet();
       updateNavButtons();
     }
     function stopActive(){
@@ -2147,8 +2129,6 @@
       var k=CSS.escape(id), on=isEventPicked(id);
       document.querySelectorAll('.heart[data-pick-evt="'+k+'"]').forEach(function(b){ b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
     }
-    // back-compat shim for any remaining callers
-    function refreshHeartsFor(kind, key){ if(kind==='art') refreshArtistButtons(key); else refreshEventButtons(key); }
     function afterPicksChanged(){
       // The bottom-right float is the radio now; picks live in the bottom nav
       // (mobile) and the account hub. Kept as a hook for future count badges.
@@ -2988,8 +2968,6 @@
     // Profile / feed / artist / venue render as full-page views (not overlays).
     var pageView=document.getElementById('page-view'), panelBody=null;
     function showPage(html){
-      // leave any quick-overlays first (sheet/tray/me are peeks; pages are destinations)
-      if(typeof closeSheet==='function') closeSheet();
       pageView.innerHTML='<div class="page-head"><button class="page-back" id="page-back" type="button">&lsaquo; Back</button></div><div id="page-body">'+html+'</div>';
       panelBody=document.getElementById('page-body');
       document.getElementById('page-back').addEventListener('click',goBack);
@@ -3026,7 +3004,6 @@
     function goBack(){ history.back(); }
     // keep the old names so the render fns don't all change
     function openPanel(html){ showPage(html); }
-    function closePanel(){ goBack(); }
     // ESC closes the top-most open popup/overlay only — it must NOT navigate a
     // full page (profile/artist/venue/account) back to home. The static overlays
     // (#auth-overlay, sheet, cal, the email gate) close via their own ESC
@@ -4039,40 +4016,16 @@
       return out;
     }
 
-    // ── event sheet (tap a poster) ──
-    var sheetOv=document.getElementById('sheet-overlay'), sheetContent=document.getElementById('sheet-content');
-    // iOS-safe body scroll lock: position:fixed + saved scrollY, restored on close.
-    // Reference-counted so stacked overlays (e.g. artist panel over the event
-    // sheet) don't double-lock and jump the scroll on close.
-    var savedScrollY=0, bodyLocks=0;
-    function lockBody(){
-      if(bodyLocks++ > 0) return;
-      savedScrollY=window.scrollY||window.pageYOffset||0;
-      var s=document.body.style;
-      s.position='fixed'; s.top=(-savedScrollY)+'px'; s.left='0'; s.right='0'; s.width='100%';
-    }
-    function unlockBody(){
-      if(bodyLocks>0) bodyLocks--;
-      if(bodyLocks>0) return;
-      var s=document.body.style;
-      s.position=''; s.top=''; s.left=''; s.right=''; s.width='';
-      window.scrollTo(0, savedScrollY);
-    }
-    // The quick-peek bottom sheet is retired — every event tap now goes straight to
-    // the full event page. Kept as a thin shim so existing callers keep working;
-    // if an event somehow has no canonical id there's no page to open, so ignore.
+    // The quick-peek bottom sheet is retired — every event tap goes straight to the
+    // full event page. openSheet is a thin shim kept for existing callers (radio
+    // queue, search/artist/venue cards, shared links); no canonical id → nothing to open.
     function openSheet(ev){
       if(!ev || ev.id==null) return;
       var id=String(ev.id);
-      // seed the cache so the page paints instantly (cards on artist/venue/upcoming
-      // pages aren't in rebuildLookup), then enrich from /api/event.
+      // seed the cache so the page paints instantly, then enrich from /api/event
       if(lookup && lookup.byEvent && !lookup.byEvent[id]) lookup.byEvent[id]=ev;
       openEvent(id);
     }
-    function closeSheet(){ if(!sheetOv.classList.contains('show')) return; sheetOv.classList.remove('show'); unlockBody(); }
-    document.getElementById('sheet-close').addEventListener('click',closeSheet);
-    sheetOv.addEventListener('click',function(e){ if(e.target===sheetOv) closeSheet(); });
-    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&sheetOv.classList.contains('show')) closeSheet(); });
 
     var gridEl=document.getElementById('grid'), trackEl=document.getElementById('track');
     // Grid state lives at module scope so the datebar genre dropdown can re-filter.
