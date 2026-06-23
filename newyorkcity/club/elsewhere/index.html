@@ -1203,7 +1203,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782214678383">
+<meta name="sc-build" content="1782214940225">
 <meta name="description" content="Elsewhere is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including 2D0GS, 3mouth, Berrakka and acloudyskye and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.">
 <link rel="canonical" href="https://soundcheck.club/newyorkcity/club/elsewhere/">
 <meta property="og:type" content="profile">
@@ -3849,7 +3849,6 @@
       var bg=c.image?('background-image:url('+imgUrl(c.image,420)+')'):('background:'+sceneTone(c.slug));
       var faces=(c.faces||[]).slice(0,4).map(function(f,i){ return '<span class="sc-face" style="'+(f.image?'background-image:url('+imgUrl(f.image,80)+');':'')+'margin-left:'+(i?-9:0)+'px"></span>'; }).join('');
       return '<button class="sc-cover'+(c.image?' has-img':'')+'" type="button" data-city="'+esc(c.slug)+'" style="'+bg+'">'+
-        (c.topGenre?'<span class="sc-cover-g">'+esc(c.topGenre)+'</span>':'')+
         '<span class="sc-cover-b"><span class="sc-cover-n">'+esc(c.name)+(c.country?' <span class="sc-cover-cc">'+esc(c.country)+'</span>':'')+'</span>'+
         (faces?'<span class="sc-faces">'+faces+'</span>':'')+
         '<span class="sc-cover-ct">'+c.count+' nights</span></span></button>';
