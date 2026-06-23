@@ -1274,7 +1274,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782255887738">
+<meta name="sc-build" content="1782256112969">
 </head>
 <body>
   <main class="wrap">
@@ -3825,12 +3825,15 @@
       setRoute('search');
       _dcSceneP=null; _sxDiscoverP=null; // fresh suggestions for the current city
       showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find DJs, venues, events and people across '+esc(cityMeta().name)+'.</div>'+
+        '<div id="sx-recent-top"></div>'+
         '<div class="search-box"><input type="search" id="sx-input" placeholder="Search DJs, venues, events, people…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
         '<div id="sx-results"></div>');
       var input=document.getElementById('sx-input'), results=document.getElementById('sx-results');
       var lastQ='', showing='';
+      // recent searches sit as plain pills above the search box (no sub-heading)
+      function renderRecentTop(){ var rt=document.getElementById('sx-recent-top'); if(!rt) return; var rec=getRecent(); rt.innerHTML=rec.length?('<div class="pillrow" style="margin-bottom:14px">'+rec.map(function(t){ return '<button class="qchip" type="button" data-q="'+esc(t)+'">'+esc(t)+'</button>'; }).join('')+'</div>'):''; rt.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); }); }
       // a tap on any result records the query as "recent" (the search led somewhere)
-      results.addEventListener('click', function(){ if(lastQ) pushRecent(lastQ); }, true);
+      results.addEventListener('click', function(){ if(lastQ){ pushRecent(lastQ); renderRecentTop(); } }, true);
       var run=debounce(async function(){
         var q=input.value.trim();
         if(q.length<2){ if(showing!=='empty'){ renderSearchEmpty(results); showing='empty'; } return; }
@@ -3841,26 +3844,19 @@
         renderSearch(results, j, q);
       },220);
       input.addEventListener('input',run);
+      renderRecentTop();
       renderSearchEmpty(results); showing='empty'; // default state on open
       setTimeout(function(){ input.focus(); },60);
     }
     // Default (empty) state — a mini-Discover: recent + trending taps, then suggested
     // artists / events / venues via the shared rails.
     function renderSearchEmpty(el){
-      var recent=getRecent();
-      el.innerHTML=(recent.length?secH('Recent','26px','<button class="more" id="sx-recent-clr" type="button">Clear</button>'):'')+
-        '<div id="sx-recent-row"></div><div id="sx-trend"></div><div id="sx-sg-art"></div><div id="sx-sg-evt"></div><div id="sx-sg-ven"></div>';
-      if(recent.length){
-        var rr=document.getElementById('sx-recent-row');
-        rr.innerHTML='<div class="pillrow">'+recent.map(function(t){ return '<button class="qchip" type="button" data-q="'+esc(t)+'">'+esc(t)+'</button>'; }).join('')+'</div>';
-        rr.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); });
-        var cb=document.getElementById('sx-recent-clr'); if(cb) cb.addEventListener('click',function(e){ e.stopPropagation(); clearRecent(); renderSearchEmpty(el); });
-      }
+      el.innerHTML='<div id="sx-trend"></div><div id="sx-sg-art"></div><div id="sx-sg-evt"></div><div id="sx-sg-ven"></div>';
       sxDiscover().then(function(j){
         var arts=(j.artists||[]).slice(0,12).map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; });
         var tr=document.getElementById('sx-trend');
         if(tr && arts.length){
-          tr.innerHTML=secH('Trending', recent.length?'34px':'26px')+'<div class="pillrow">'+arts.slice(0,6).map(function(a){ return '<button class="qchip" type="button" data-q="'+esc(a.name)+'">'+esc(a.name)+'</button>'; }).join('')+'</div>';
+          tr.innerHTML=secH('Trending', '18px')+'<div class="pillrow">'+arts.slice(0,6).map(function(a){ return '<button class="qchip" type="button" data-q="'+esc(a.name)+'">'+esc(a.name)+'</button>'; }).join('')+'</div>';
           tr.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); });
         }
         mountArtistRail(document.getElementById('sx-sg-art'), arts, {title:'Artists you might like', wrap:true, wide:true, mt:'22px', emptyLabel:'No upcoming dates'});
