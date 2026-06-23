@@ -672,6 +672,17 @@
     .scene-blurb { background:linear-gradient(135deg, rgba(255,122,107,0.14), rgba(255,122,107,0.04)); border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin:4px 0 8px; }
     .scene-blurb-k { font:800 var(--fs-xs) var(--body); letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); margin-bottom:6px; }
     .scene-blurb p { margin:0; font:500 var(--fs-base) var(--body); color:var(--fg); line-height:1.5; }
+    /* DS: scene "find your room" genre→venue routing */
+    .route-intro { color:var(--muted); font:500 var(--fs-sm) var(--body); margin:4px 0 12px; }
+    .route-row { padding:13px 0; border-top:1px solid var(--line); }
+    .route-row:first-of-type { border-top:none; }
+    .route-head { display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:9px; }
+    .route-g { font:800 var(--fs-lg) var(--head); text-transform:capitalize; }
+    .route-like { color:var(--muted); font:500 var(--fs-sm) var(--body); }
+    .route-a { background:none; border:none; padding:0; color:var(--accent); font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .route-v { display:flex; flex-wrap:wrap; gap:8px; }
+    .route-vchip { background:#26262d; border:none; border-radius:999px; padding:6px 13px; font:600 var(--fs-sm) var(--body); color:var(--fg); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .route-vchip:hover { color:var(--accent); }
     /* DS: scene-guide entry CTA (Discover page) */
     .scene-cta { display:flex; align-items:center; gap:10px; width:100%; text-align:left; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 16px; margin-bottom:18px; cursor:pointer; color:inherit; -webkit-tap-highlight-color:transparent; }
     .scene-cta-tx { flex:1; display:flex; flex-direction:column; gap:2px; }
@@ -1142,7 +1153,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782172876665">
+<meta name="sc-build" content="1782173581889">
 <meta name="description" content="Watergate Open Air with Vintage Culture, Floyd Lavine, Manda Moor, Doozie at SAGE on Sat 11 Jul, Berlin. 5 acts on the bill: Daisy Weweh, Floyd Lavine, Manda Moor and Schiela and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2391971-watergate-open-air-with-vintage-culture-floyd-lavine-manda-m/">
 <meta property="og:type" content="website">
@@ -3513,7 +3524,7 @@
         var sub=j.personalized?'Artists you might like, from who you follow.':'Trending across soundcheck right now.';
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
         if(currentUser) h+='<div id="dc-feed"></div>';
-        h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Best venues, promoters &amp; artists to watch</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+        h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Find your room by sound — which venues play what</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         if(currentUser) h+='<button class="scene-cta" id="dc-taste" type="button"><span class="scene-cta-tx"><b>Build your taste profile</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
         openPanel(h);
@@ -3760,6 +3771,15 @@
     function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
     function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
     function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
+    // Scene routing: each row is a sound → the rooms that specialise in it, with an honest
+    // "if you like [name]" hook (a recognisable artist actually booked in that sound here).
+    function sceneRouteHTML(routes){
+      return routes.map(function(rt){
+        var vch=rt.venues.map(function(v){ return '<button class="route-vchip" type="button" data-venue="'+esc(v.name)+'">'+esc(v.name)+'</button>'; }).join('');
+        var anc=rt.anchor?'<span class="route-like">if you like <button class="route-a" type="button" data-artist="'+esc(rt.anchor.slug)+'">'+esc(rt.anchor.name)+'</button></span>':'';
+        return '<div class="route-row"><div class="route-head"><span class="route-g">'+esc(rt.genre)+'</span>'+anc+'</div><div class="route-v">'+vch+'</div></div>';
+      }).join('');
+    }
     async function openCityScene(city){
       city=(city||currentCity||'london').toLowerCase();
       var url=SC_BASE+city+'/scene/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
@@ -3767,11 +3787,26 @@
       try{
         var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
         var nm=s.cityName||city;
-        var h='<h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">The venues, promoters &amp; artists shaping '+esc(nm)+'’s underground right now.</div>';
+        var h='<h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Find your room by sound — then the promoters &amp; artists shaping '+esc(nm)+'.</div>';
         if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
-        h+='<div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
+        h+='<div id="cs-routes"></div><div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
         openPanel(h);
-        setSeo(nm+' scene guide — best venues, promoters & artists | soundcheck', 'The venues, promoters and artists shaping '+nm+'’s electronic scene.', null, location.origin+SC_BASE+city+'/scene/');
+        setSeo(nm+' scene guide — find your room by sound | soundcheck', 'If you like a sound, here are the '+nm+' venues that play it — plus the promoters and artists shaping the scene.', null, location.origin+SC_BASE+city+'/scene/');
+        var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
+        if(croute && rts.length){
+          var rhtml='';
+          if(yr.length){
+            rhtml+='<div class="sec-h" style="margin-top:18px">Tuned to your taste</div><p class="route-intro">The sounds you lean toward — and where they land in '+esc(nm)+'.</p>'+sceneRouteHTML(yr);
+            var yrG={}; yr.forEach(function(r){ yrG[r.genre]=1; });
+            var rest=rts.filter(function(r){ return !yrG[r.genre]; });
+            if(rest.length) rhtml+='<div class="sec-h" style="margin-top:24px">More sounds here</div>'+sceneRouteHTML(rest);
+          } else {
+            rhtml+='<div class="sec-h" style="margin-top:18px">Find your room</div><p class="route-intro">Pick a sound — here’s where it plays in '+esc(nm)+'.</p>'+sceneRouteHTML(rts);
+          }
+          croute.innerHTML=rhtml;
+          croute.querySelectorAll('.route-vchip[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
+          croute.querySelectorAll('.route-a[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        }
         var bv=(s.bestVenues||[]), cv=document.getElementById('cs-venues');
         if(cv && bv.length){
           cv.innerHTML='<div class="sec-h" style="margin-top:24px">Best venues</div><div class="pp-tags">'+bv.map(function(v){ return '<button class="pp-prom" type="button" data-venue="'+esc(v.venue)+'">'+esc(v.venue)+' <small>'+v.n+'</small></button>'; }).join('')+'</div>';
