@@ -1237,7 +1237,8 @@
     .handle-status.bad { color:#ff6b6b; }
 
     /* search page */
-    .search-box input { width:100%; max-width:560px; background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:14px 16px; font:500 var(--fs-md) var(--body); outline:none; }
+    .search-box { margin-bottom:10px; }
+    .search-box input { width:100%; background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:15px 18px; font:500 var(--fs-md) var(--body); outline:none; }
     /* venue map */
     /* isolate traps Leaflet's high internal z-indexes (panes/controls/popups ~200–1000)
        in the map's own stacking context, so the player dock (z-index 60) always sits on top. */
@@ -1273,7 +1274,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782255598998">
+<meta name="sc-build" content="1782255887738">
 </head>
 <body>
   <main class="wrap">
@@ -3847,7 +3848,7 @@
     // artists / events / venues via the shared rails.
     function renderSearchEmpty(el){
       var recent=getRecent();
-      el.innerHTML=(recent.length?secH('Recent','6px','<button class="more" id="sx-recent-clr" type="button">Clear</button>'):'')+
+      el.innerHTML=(recent.length?secH('Recent','26px','<button class="more" id="sx-recent-clr" type="button">Clear</button>'):'')+
         '<div id="sx-recent-row"></div><div id="sx-trend"></div><div id="sx-sg-art"></div><div id="sx-sg-evt"></div><div id="sx-sg-ven"></div>';
       if(recent.length){
         var rr=document.getElementById('sx-recent-row');
@@ -3859,7 +3860,7 @@
         var arts=(j.artists||[]).slice(0,12).map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; });
         var tr=document.getElementById('sx-trend');
         if(tr && arts.length){
-          tr.innerHTML=secH('Trending', recent.length?'20px':'6px')+'<div class="pillrow">'+arts.slice(0,6).map(function(a){ return '<button class="qchip" type="button" data-q="'+esc(a.name)+'">'+esc(a.name)+'</button>'; }).join('')+'</div>';
+          tr.innerHTML=secH('Trending', recent.length?'34px':'26px')+'<div class="pillrow">'+arts.slice(0,6).map(function(a){ return '<button class="qchip" type="button" data-q="'+esc(a.name)+'">'+esc(a.name)+'</button>'; }).join('')+'</div>';
           tr.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); });
         }
         mountArtistRail(document.getElementById('sx-sg-art'), arts, {title:'Artists you might like', wrap:true, wide:true, mt:'22px', emptyLabel:'No upcoming dates'});
