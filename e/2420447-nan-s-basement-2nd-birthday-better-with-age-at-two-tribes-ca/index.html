@@ -1207,7 +1207,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782216639682">
+<meta name="sc-build" content="1782221325982">
 <meta name="description" content="Nan's Basement 2nd Birthday: Better with Age at Two Tribes CAMPFIRE on Fri 26 Jun, London. 6 acts on the bill: Drastic Shuffle, MAÏS, Make Money Mafia and Mutley Mutimer and 2 more. House and Electro. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2420447-nan-s-basement-2nd-birthday-better-with-age-at-two-tribes-ca/">
 <meta property="og:type" content="website">
@@ -3886,7 +3886,7 @@
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .sc-tile[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest

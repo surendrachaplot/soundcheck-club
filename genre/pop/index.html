@@ -1207,7 +1207,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782216639682">
+<meta name="sc-build" content="1782221325982">
 <meta name="description" content="Where to hear Pop across 6 cities — upcoming Pop events, line-ups and venues on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/genre/pop/">
 <meta property="og:type" content="website">
@@ -1215,10 +1215,10 @@
 <meta property="og:description" content="Where to hear Pop across 6 cities — upcoming Pop events, line-ups and venues on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/genre/pop/">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Pop events by city","url":"https://soundcheck.club/genre/pop/","description":"Where to hear Pop across 6 cities — upcoming Pop events, line-ups and venues on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/london/pop/","name":"Pop in London"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/newyorkcity/pop/","name":"Pop in New York City"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/berlin/pop/","name":"Pop in Berlin"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/mexicocity/pop/","name":"Pop in Mexico City"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/vienna/pop/","name":"Pop in Vienna"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/paris/pop/","name":"Pop in Paris"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Pop events by city","url":"https://soundcheck.club/genre/pop/","description":"Where to hear Pop across 6 cities — upcoming Pop events, line-ups and venues on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/london/pop/","name":"Pop in London"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/newyorkcity/pop/","name":"Pop in New York City"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/berlin/pop/","name":"Pop in Berlin"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/vienna/pop/","name":"Pop in Vienna"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/mexicocity/pop/","name":"Pop in Mexico City"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/paris/pop/","name":"Pop in Paris"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Pop events by city</h1><p>Where to hear Pop across 6 cities — upcoming Pop events, line-ups and venues on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/london/pop/">Pop in London</a> — 29</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/newyorkcity/pop/">Pop in New York City</a> — 14</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/berlin/pop/">Pop in Berlin</a> — 13</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/mexicocity/pop/">Pop in Mexico City</a> — 5</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/vienna/pop/">Pop in Vienna</a> — 5</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/paris/pop/">Pop in Paris</a> — 5</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/genre/pop/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Pop events by city</h1><p>Where to hear Pop across 6 cities — upcoming Pop events, line-ups and venues on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/london/pop/">Pop in London</a> — 28</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/newyorkcity/pop/">Pop in New York City</a> — 14</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/berlin/pop/">Pop in Berlin</a> — 13</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/vienna/pop/">Pop in Vienna</a> — 5</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/mexicocity/pop/">Pop in Mexico City</a> — 5</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/paris/pop/">Pop in Paris</a> — 5</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/genre/pop/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3884,7 +3884,7 @@
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .sc-tile[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest

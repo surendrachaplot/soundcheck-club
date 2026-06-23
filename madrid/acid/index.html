@@ -1207,14 +1207,14 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782216639682">
+<meta name="sc-build" content="1782221325982">
 <meta name="description" content="5 upcoming Acid events in Madrid. Browse line-ups, dates and venues, preview every DJ, and save the nights you want on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/madrid/acid/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Acid events in Madrid — line-ups &amp; tickets | soundcheck">
 <meta property="og:description" content="5 upcoming Acid events in Madrid. Browse line-ups, dates and venues, preview every DJ, and save the nights you want on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/madrid/acid/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fd64a43224e653e7d0c4bc7e8f09510234231c08d.png&amp;w=1000">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fc01b8b22639ea8c35ee27b26dbb062ce0d1d1f0f.png&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Acid events in Madrid","url":"https://soundcheck.club/madrid/acid/","description":"5 upcoming Acid events in Madrid. Browse line-ups, dates and venues, preview every DJ, and save the nights you want on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2454539-elements-cave-at-sala-el-sol/","name":"Elements Cave"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2465024-klubbkveld-eigenblau-at-sala-siroco/","name":"Klubbkveld Eigenblau"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2455979-secret-power-at-sala-starving/","name":"Secret Power"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2467095-obsesiva-x-garc-a-picasso-dj-palo-garc-a-picasso-x-drey-algo/","name":"OBSESIVA X GARCÍA PICASSO: DJ Palo + GARCÍA PICASSO + X.DREY + ALGORA"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2438240-riot-club-jvggeddoggie-arok-shiva-rainyell-at-el-s-tano/","name":"RIOT CLUB: JvggedDoggie, Arok Shiva, Rainyell"}]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Madrid","item":"https://soundcheck.club/madrid/"},{"@type":"ListItem","position":3,"name":"Acid"}]}</script>
@@ -3886,7 +3886,7 @@
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .sc-tile[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest

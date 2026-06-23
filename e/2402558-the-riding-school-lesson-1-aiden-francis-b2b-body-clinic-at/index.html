@@ -1207,7 +1207,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782216639682">
+<meta name="sc-build" content="1782221325982">
 <meta name="description" content="The Riding School - Lesson 1 - Aiden Francis B2B Body Clinic at Yamamori Tengu on Fri 26 Jun, Dublin. 4 acts on the bill: Aiden Francis, Body Clinic, DIEBYVEG and Faster Horses. Progressive House and House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2402558-the-riding-school-lesson-1-aiden-francis-b2b-body-clinic-at/">
 <meta property="og:type" content="website">
@@ -3886,7 +3886,7 @@
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .sc-tile[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest

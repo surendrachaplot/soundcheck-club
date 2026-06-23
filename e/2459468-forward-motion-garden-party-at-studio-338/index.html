@@ -1207,7 +1207,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782216639682">
+<meta name="sc-build" content="1782221325982">
 <meta name="description" content="Forward Motion Garden Party at Studio 338 on Sat 18 Jul, London. Deep House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2459468-forward-motion-garden-party-at-studio-338/">
 <meta property="og:type" content="website">
@@ -3886,7 +3886,7 @@
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .sc-tile[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest
