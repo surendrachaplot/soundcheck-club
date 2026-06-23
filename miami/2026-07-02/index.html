@@ -741,6 +741,27 @@
     .vrow-nm { flex:1; text-align:left; background:none; border:none; color:var(--fg); cursor:pointer; display:flex; flex-direction:column; gap:2px; -webkit-tap-highlight-color:transparent; }
     .vrow-t { font:600 var(--fs-base) var(--body); }
     .vrow-n { font:500 var(--fs-xs) var(--body); color:var(--muted); }
+    /* DS: city scene rails — horizontal image-led strips (artists / posters / rooms), play on each */
+    .srail { display:flex; gap:14px; overflow-x:auto; padding:2px 2px 12px; scrollbar-width:thin; -webkit-overflow-scrolling:touch; }
+    .srail::-webkit-scrollbar { height:6px; }
+    .srail::-webkit-scrollbar-thumb { background:var(--line); border-radius:3px; }
+    .srail-art { flex:none; width:98px; }
+    .srail-art-img { position:relative; width:98px; height:98px; border-radius:50%; background:#2c2630; background-size:cover; background-position:center; cursor:pointer; }
+    .srail-art-n { display:block; width:98px; background:none; border:none; color:var(--fg); font:700 var(--fs-sm) var(--body); margin-top:9px; cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; padding:0; text-align:left; }
+    .srail-art-v { display:block; max-width:98px; background:none; border:none; color:var(--muted); font:500 var(--fs-xs) var(--body); cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; padding:0; margin-top:1px; text-align:left; }
+    .srail-art-v:hover { color:var(--accent); }
+    .srail-post { flex:none; width:142px; cursor:pointer; }
+    .srail-post-img { position:relative; width:142px; aspect-ratio:3/4; border-radius:11px; background:#2c2630; background-size:cover; background-position:center; }
+    .srail-post-t { font:700 var(--fs-sm) var(--body); margin-top:8px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .srail-post-s { font:500 var(--fs-xs) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .srail-ven { position:relative; flex:none; width:208px; height:124px; border-radius:13px; overflow:hidden; background:#2c2630; background-size:cover; background-position:center; cursor:pointer; display:flex; align-items:flex-end; padding:12px; }
+    .srail-ven::after { content:""; position:absolute; inset:0; background:linear-gradient(to top, rgba(13,9,8,0.85), rgba(13,9,8,0) 65%); }
+    .srail-ven-n { position:relative; z-index:1; font:800 var(--fs-base) var(--head); color:#fff; }
+    .srail-play { position:absolute; width:36px; height:36px; border-radius:50%; background:var(--accent); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:14px; padding-left:2px; z-index:2; cursor:pointer; }
+    .srail-play.ctr { left:50%; top:50%; transform:translate(-50%,-50%); opacity:0; transition:opacity .15s ease; }
+    .srail-art-img:hover .srail-play.ctr { opacity:1; }
+    .srail-play.br { right:8px; bottom:8px; }
+    @media (hover:none){ .srail-play.ctr { opacity:1; } }
     /* DS: taste onboarding overlay */
     .taste-box { max-width:460px; max-height:88vh; overflow-y:auto; }
     .to-label { display:block; margin:16px 0 6px; font:700 var(--fs-sm) var(--body); color:var(--fg); }
@@ -1209,7 +1230,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782221616169">
+<meta name="sc-build" content="1782223054131">
 <meta name="description" content="5 events in Miami on Thu, 2 Jul 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/miami/2026-07-02/">
 <meta property="og:type" content="website">
@@ -3909,56 +3930,83 @@
       try{
         var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
         var nm=s.cityName||city;
-        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:14px">The clubs on the map, the sounds that play them, and who to catch — tap a pin or hit play.</div>';
-        h+='<div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">Every club in '+esc(nm)+' with an upcoming night — tap a pin.</div>';
+        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Who&rsquo;s playing, the rooms they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
         if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
-        h+='<div id="cs-routes"></div><div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
+        h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-rooms"></div><div id="cs-routes"></div><div id="cs-resi"></div>';
+        h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">Every club in '+esc(nm)+' with an upcoming night — tap a pin.</div>';
         openPanel(h);
-        mountVenueMap(document.getElementById('cs-map'), city, { scroll:false });
-        setSeo(nm+' scene guide — find your room by sound | soundcheck', 'If you like a sound, here are the '+nm+' venues that play it — plus the promoters and artists shaping the scene.', null, location.origin+SC_BASE+city+'/scene/');
+        setSeo(nm+" scene guide — who's playing, the rooms & sounds | soundcheck", 'The artists playing '+nm+' this month, the rooms they’re in, upcoming nights and the sounds that define the city.', null, location.origin+SC_BASE+city+'/scene/');
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
+
+        // Playing this month — artist photo + name + the venue they're playing
+        var pl=(s.playing||[]), cpl=document.getElementById('cs-playing');
+        if(cpl && pl.length){
+          cpl.innerHTML='<div class="sec-h" style="margin-top:20px">Playing this month</div><div class="srail">'+pl.map(function(a){
+            var img=a.image?('background-image:url('+imgUrl(a.image,180)+')'):('background:'+sceneTone(a.slug));
+            return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-artradio="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+' radio">&#9654;</span></div>'+
+              '<button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button>'+
+              (a.venue?'<button class="srail-art-v" data-venue="'+esc(a.venue_slug||'')+'">'+esc(a.venue)+'</button>':'')+'</div>';
+          }).join('')+'</div>';
+          cpl.querySelectorAll('.srail-art-img[data-artist], .srail-art-n[data-artist]').forEach(function(b){ b.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openArtist(b.dataset.artist); }); });
+          cpl.querySelectorAll('.srail-play[data-artradio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); startArtistRadio(b.dataset.artradio, b.dataset.name); }); });
+          cpl.querySelectorAll('.srail-art-v[data-venue]').forEach(function(b){ if(!b.dataset.venue) return; b.addEventListener('click',function(e){ e.stopPropagation(); openVenue(b.dataset.venue, city); }); });
+        }
+
+        // Upcoming — event posters, play the line-up
+        var ue=(s.upcomingEvents||[]), cpo=document.getElementById('cs-posters');
+        if(cpo && ue.length){
+          var evById={}; ue.forEach(function(e){ evById[String(e.id)]=e; });
+          cpo.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming</div><div class="srail">'+ue.map(function(e){
+            var img=e.poster_url?('background-image:url('+imgUrl(e.poster_url,300)+')'):('background:'+sceneTone(String(e.id)));
+            var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
+            var ttl=e.title||((e.lineup||[])[0]||{}).name||'Event';
+            return '<div class="srail-post" data-evt="'+esc(String(e.id))+'"><div class="srail-post-img" style="'+img+'"><span class="srail-play br" data-evplay="'+esc(String(e.id))+'" aria-label="Play line-up">&#9654;</span></div>'+
+              '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,d].filter(Boolean).join(' · '))+'</div></div>';
+          }).join('')+'</div>';
+          cpo.querySelectorAll('.srail-post[data-evt]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openEvent(c.dataset.evt); }); });
+          cpo.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var ev=evById[b.dataset.evplay]; if(ev) playEventLineupRadio({id:ev.id,venue:ev.venue,event_date:ev.event_date,poster_url:ev.poster_url,lineup:ev.lineup}); }); });
+        }
+
+        // Rooms — venue image cards, play the next night
+        var bv=(s.bestVenues||[]), cro=document.getElementById('cs-rooms');
+        if(cro && bv.length){
+          cro.innerHTML='<div class="sec-h" style="margin-top:26px">Rooms</div><div class="srail">'+bv.map(function(v){
+            var img=v.image?('background-image:url('+imgUrl(v.image,360)+')'):('background:'+sceneTone(v.venue_slug||v.venue));
+            return '<div class="srail-ven" data-venue="'+esc(v.venue_slug)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+'</span><span class="srail-play br" data-vplay="'+esc(v.venue_slug)+'" data-name="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
+          }).join('')+'</div>';
+          cro.querySelectorAll('.srail-ven[data-venue]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openVenue(c.dataset.venue, city); }); });
+          cro.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextRadio(b.dataset.vplay, b.dataset.name, city); }); });
+        }
+
+        // Find your room (sound → venues)
         var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
         if(croute && rts.length){
           var rhtml='';
           if(yr.length){
-            rhtml+='<div class="sec-h" style="margin-top:18px">Tuned to your taste</div><p class="route-intro">The sounds you lean toward — and where they land in '+esc(nm)+'.</p>'+sceneRouteHTML(yr);
+            rhtml+='<div class="sec-h" style="margin-top:26px">Tuned to your taste</div><p class="route-intro">The sounds you lean toward — and where they land in '+esc(nm)+'.</p>'+sceneRouteHTML(yr);
             var yrG={}; yr.forEach(function(r){ yrG[r.genre]=1; });
             var rest=rts.filter(function(r){ return !yrG[r.genre]; });
             if(rest.length) rhtml+='<div class="sec-h" style="margin-top:24px">More sounds here</div>'+sceneRouteHTML(rest);
           } else {
-            rhtml+='<div class="sec-h" style="margin-top:18px">Find your room</div><p class="route-intro">Pick a sound — here’s where it plays in '+esc(nm)+'.</p>'+sceneRouteHTML(rts);
+            rhtml+='<div class="sec-h" style="margin-top:26px">Find your room</div><p class="route-intro">Pick a sound — here’s where it plays in '+esc(nm)+'.</p>'+sceneRouteHTML(rts);
           }
           croute.innerHTML=rhtml;
           croute.querySelectorAll('.rf-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
           croute.querySelectorAll('.rf-likea[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
           croute.querySelectorAll('.rf-play[data-venue]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextRadio(b.dataset.venue, b.dataset.name, city); }); });
         }
-        var bv=(s.bestVenues||[]), cv=document.getElementById('cs-venues');
-        if(cv && bv.length){
-          cv.innerHTML='<div class="sec-h" style="margin-top:24px">Biggest rooms</div>'+bv.map(function(v){
-            return '<div class="vrow"><button class="vrow-play" type="button" data-venue="'+esc(v.venue_slug)+'" data-name="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</button>'+
-              '<button class="vrow-nm" type="button" data-venue="'+esc(v.venue_slug)+'"><span class="vrow-t">'+esc(v.venue)+'</span><span class="vrow-n">'+v.n+' upcoming night'+(v.n===1?'':'s')+'</span></button></div>';
-          }).join('');
-          cv.querySelectorAll('.vrow-nm[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
-          cv.querySelectorAll('.vrow-play[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ playVenueNextRadio(b.dataset.venue, b.dataset.name, city); }); });
-        }
-        var bp=(s.bestPromoters||[]), cp=document.getElementById('cs-promoters');
-        if(cp && bp.length){
-          cp.innerHTML='<div class="sec-h" style="margin-top:24px">Best promoters</div><div class="pp-tags">'+bp.map(function(p){ return '<button class="pp-prom" type="button" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+' <small>'+p.n+'</small></button>'; }).join('')+'</div>';
-          cp.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
-        }
-        var aw=(s.artistsToWatch||[]), cw=document.getElementById('cs-watch');
-        if(cw && aw.length){
-          cw.innerHTML='<div class="sec-h" style="margin-top:24px">Artists to watch</div><p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Lower-profile names with gigs coming up.</p><div class="ptiles ptiles-wide">'+aw.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
-          cw.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        }
+
+        // Regular nights (residencies)
         var rs=(s.residencies||[]), cr=document.getElementById('cs-resi');
         if(cr && rs.length){
-          cr.innerHTML='<div class="sec-h" style="margin-top:24px">Regular nights</div><ul class="gig-history">'+rs.map(function(x){
+          cr.innerHTML='<div class="sec-h" style="margin-top:26px">Regular nights</div><ul class="gig-history">'+rs.map(function(x){
             return '<li class="gh-row"><span class="gh-date">'+x.n+'×</span><button class="gh-venue" type="button" data-promoter="'+esc(x.promoter_slug)+'"><b>'+esc(x.promoter)+'</b> <small>at '+esc(x.venue)+'</small></button></li>';
           }).join('')+'</ul>';
           cr.querySelectorAll('.gh-venue[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
         }
+
+        // Map — at the very bottom
+        mountVenueMap(document.getElementById('cs-map'), city, { scroll:false });
       }catch(_){ openPanel('<div class="empty">Couldn’t load the scene guide.</div>'); }
     }
     async function openPromoter(slug){
