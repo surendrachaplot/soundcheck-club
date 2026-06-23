@@ -1253,7 +1253,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782248984318">
+<meta name="sc-build" content="1782249178548">
 </head>
 <body>
   <main class="wrap">
@@ -3745,7 +3745,8 @@
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">Tonight, tuned to you.</div>';
         h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-venues"></div><div id="dc-scenes"></div>';
         openPanel(h);
-        mountArtistRail(document.getElementById('dc-artists'), arts, {title:'Artists for you', wrap:true, mt:'24px'}); // wraps to rows on web, scrolls on mobile
+        // Same template as the artist page's "More like X": round wide tiles + next gig.
+        mountArtistRail(document.getElementById('dc-artists'), arts.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Artists for you', wrap:true, wide:true, mt:'24px', emptyLabel:'No upcoming dates'}); // wraps on web, scrolls on mobile
         loadDcVenues();          // venues in the current city
         loadDcScenes();          // scene-guides entry rail
         loadForYou();            // for-you posters (toggles the taste prompt; city fallback otherwise)
