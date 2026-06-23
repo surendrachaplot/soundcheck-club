@@ -689,6 +689,19 @@
     .scene-cta-tx b { font:800 var(--fs-base) var(--head); }
     .scene-cta-tx span { font:500 var(--fs-sm) var(--body); color:var(--muted); }
     .scene-cta-go { flex:none; color:var(--accent); font-size:var(--fs-xl); }
+    .scene-allcities { display:block; width:100%; text-align:left; background:none; border:none; color:var(--accent); font:600 var(--fs-sm) var(--body); cursor:pointer; padding:2px 2px 18px; -webkit-tap-highlight-color:transparent; }
+    /* DS: all-cities scene index (blocks per city) */
+    .scene-back { background:none; border:none; color:var(--muted); font:600 var(--fs-sm) var(--body); cursor:pointer; padding:2px 0 10px; -webkit-tap-highlight-color:transparent; }
+    .scene-back:hover { color:var(--accent); }
+    .scene-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:12px; margin-top:4px; }
+    .scene-card { display:flex; flex-direction:column; gap:5px; text-align:left; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 15px; cursor:pointer; color:inherit; transition:border-color .15s ease, transform .1s ease; -webkit-tap-highlight-color:transparent; }
+    .scene-card:hover { border-color:var(--accent); }
+    .scene-card:active { transform:scale(0.985); }
+    .scene-card-top { display:flex; align-items:baseline; gap:7px; }
+    .scene-card-city { font:800 var(--fs-lg) var(--head); }
+    .scene-card-cc { font:700 var(--fs-xs) var(--body); color:var(--muted); letter-spacing:0.04em; }
+    .scene-card-teaser { font:600 var(--fs-sm) var(--body); color:var(--accent); text-transform:capitalize; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .scene-card-n { font:500 var(--fs-xs) var(--body); color:var(--muted); }
     /* DS: taste onboarding overlay */
     .taste-box { max-width:460px; max-height:88vh; overflow-y:auto; }
     .to-label { display:block; margin:16px 0 6px; font:700 var(--fs-sm) var(--body); color:var(--fg); }
@@ -1157,7 +1170,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782176646085">
+<meta name="sc-build" content="1782210453110">
 <meta name="description" content="5 upcoming Afro Tech events in London. Browse line-ups, dates and venues, preview every DJ, and save the nights you want on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/london/afro-tech/">
 <meta property="og:type" content="website">
@@ -3541,10 +3554,12 @@
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
         if(currentUser) h+='<div id="dc-feed"></div>';
         h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Find your room by sound — which venues play what</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+        h+='<button class="scene-allcities" id="dc-scenes" type="button">Browse scene guides for every city &rarr;</button>';
         if(currentUser) h+='<button class="scene-cta" id="dc-taste" type="button"><span class="scene-cta-tx"><b>Build your taste profile</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
         openPanel(h);
         var dcs=document.getElementById('dc-scene'); if(dcs) dcs.addEventListener('click',function(){ openCityScene(currentCity); });
+        var dcss=document.getElementById('dc-scenes'); if(dcss) dcss.addEventListener('click',function(){ openScenes(); });
         var dct=document.getElementById('dc-taste'); if(dct) dct.addEventListener('click',function(){ openTasteOnboard(); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         if(currentUser) loadForYou(false);
@@ -3787,6 +3802,27 @@
     function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
     function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
     function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
+    // The all-cities scene index — a block per city, each linking to its scene guide.
+    async function openScenes(){
+      if(location.pathname!==SC_BASE+'scenes/') history.pushState({sc:1},'',SC_BASE+'scenes/');
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/scenes'); var j=await r.json();
+        var cs=j.cities||[];
+        var h='<h2 class="page-title">Scene guides</h2><div class="sub" style="margin-bottom:16px">Every city with a scene right now — pick one to find your room by sound.</div>';
+        h+='<div class="scene-grid">'+cs.map(function(c){
+          var teaser=[c.topGenre, c.topVenue&&c.topVenue.name].filter(Boolean).join(' &middot; ');
+          return '<button class="scene-card" type="button" data-city="'+esc(c.slug)+'">'+
+            '<span class="scene-card-top"><span class="scene-card-city">'+esc(c.name)+'</span>'+(c.country?'<span class="scene-card-cc">'+esc(c.country)+'</span>':'')+'</span>'+
+            (teaser?'<span class="scene-card-teaser">'+teaser+'</span>':'')+
+            '<span class="scene-card-n">'+c.count+' upcoming</span></button>';
+        }).join('')+'</div>';
+        if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
+        openPanel(h);
+        setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the venues, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
+        document.querySelectorAll('#page-body .scene-card[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+      }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
+    }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest
     // "if you like [name]" hook (a recognisable artist actually booked in that sound here).
     function sceneRouteHTML(routes){
@@ -3803,11 +3839,12 @@
       try{
         var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
         var nm=s.cityName||city;
-        var h='<h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Find your room by sound — then the promoters &amp; artists shaping '+esc(nm)+'.</div>';
+        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Find your room by sound — then the promoters &amp; artists shaping '+esc(nm)+'.</div>';
         if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
         h+='<div id="cs-routes"></div><div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
         openPanel(h);
         setSeo(nm+' scene guide — find your room by sound | soundcheck', 'If you like a sound, here are the '+nm+' venues that play it — plus the promoters and artists shaping the scene.', null, location.origin+SC_BASE+city+'/scene/');
+        var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
         var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
         if(croute && rts.length){
           var rhtml='';
@@ -4415,6 +4452,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='discover') openDiscover();
+      else if(hash==='scenes') openScenes();
       else if(hash==='scene') openCityScene(pathCitySlug());
       else if(hash==='picks') openMyPicks();
       else if(hash==='upcoming') openUpcoming();
@@ -4721,7 +4759,7 @@
     // still resolve. All served via the Pages 404.html SPA fallback. pathRoute()
     // returns the render-route (e.g. 'club/fold' or 'dj/objekt'); pathCitySlug() the city.
     var ENTITY_RE=/^(dj|a|u|e|n|promoter)\/.+/;       // global, city-less (dj canonical; a = legacy alias)
-    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter)$/; // reserved first segments (never a city)
+    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes)$/; // reserved first segments (never a city)
     function pathRoute(){
       if(!onScPath()) return null;
       var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
@@ -4730,6 +4768,7 @@
       var m=rest.match(/^[a-z0-9-]+\/((?:club|v)\/.+)$/);// /<city>/club/<slug> (v = legacy)
       if(m) return m[1];
       if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
+      if(rest==='scenes') return 'scenes';               // /scenes → all-cities scene index
       if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
       return null;
     }

@@ -689,6 +689,19 @@
     .scene-cta-tx b { font:800 var(--fs-base) var(--head); }
     .scene-cta-tx span { font:500 var(--fs-sm) var(--body); color:var(--muted); }
     .scene-cta-go { flex:none; color:var(--accent); font-size:var(--fs-xl); }
+    .scene-allcities { display:block; width:100%; text-align:left; background:none; border:none; color:var(--accent); font:600 var(--fs-sm) var(--body); cursor:pointer; padding:2px 2px 18px; -webkit-tap-highlight-color:transparent; }
+    /* DS: all-cities scene index (blocks per city) */
+    .scene-back { background:none; border:none; color:var(--muted); font:600 var(--fs-sm) var(--body); cursor:pointer; padding:2px 0 10px; -webkit-tap-highlight-color:transparent; }
+    .scene-back:hover { color:var(--accent); }
+    .scene-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:12px; margin-top:4px; }
+    .scene-card { display:flex; flex-direction:column; gap:5px; text-align:left; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 15px; cursor:pointer; color:inherit; transition:border-color .15s ease, transform .1s ease; -webkit-tap-highlight-color:transparent; }
+    .scene-card:hover { border-color:var(--accent); }
+    .scene-card:active { transform:scale(0.985); }
+    .scene-card-top { display:flex; align-items:baseline; gap:7px; }
+    .scene-card-city { font:800 var(--fs-lg) var(--head); }
+    .scene-card-cc { font:700 var(--fs-xs) var(--body); color:var(--muted); letter-spacing:0.04em; }
+    .scene-card-teaser { font:600 var(--fs-sm) var(--body); color:var(--accent); text-transform:capitalize; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .scene-card-n { font:500 var(--fs-xs) var(--body); color:var(--muted); }
     /* DS: taste onboarding overlay */
     .taste-box { max-width:460px; max-height:88vh; overflow-y:auto; }
     .to-label { display:block; margin:16px 0 6px; font:700 var(--fs-sm) var(--body); color:var(--fg); }
@@ -1157,7 +1170,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782176646085">
+<meta name="sc-build" content="1782210453110">
 <meta name="description" content="16 events in Manchester on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/manchester/2026-06-26/">
 <meta property="og:type" content="website">
@@ -1166,11 +1179,11 @@
 <meta property="og:url" content="https://soundcheck.club/manchester/2026-06-26/">
 <meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fe2aa56c99a928ac6d662e7b50b41f726516caf91.png&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Manchester on Fri, 26 Jun 2026","url":"https://soundcheck.club/manchester/2026-06-26/","description":"16 events in Manchester on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2408275-hidden-jungle-dnb-rave-sl8r-metrodome-rocco-harris-at-hidden/","name":"Hidden Jungle & DNB Rave: SL8R, Metrodome, Rocco harris"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2445356-rush-presents-phase-3-jungle-garage-hardgroove-at-the-radio/","name":"RUSH PRESENTS: PHASE 3 /// JUNGLE /// GARAGE /// HARDGROOVE ///"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2406325-mechano-presents-fjaak-at-joshua-brooks/","name":"Mechano presents FJAAK"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2439773-teed-dj-kicks-tour-at-amber-s/","name":"TEED - DJ-Kicks Tour"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2373394-femtanyl-at-gorilla/","name":"femtanyl"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/e/2370998-lone-at-yes/","name":"Lone"},{"@type":"ListItem","position":7,"url":"https://soundcheck.club/e/2396024-evasive-at-eastern-bloc-records/","name":"Evasive"},{"@type":"ListItem","position":8,"url":"https://soundcheck.club/e/2451126-club-223-presents-trance-mums-at-stage-and-radio/","name":"Club 223 presents Trance Mums"},{"@type":"ListItem","position":9,"url":"https://soundcheck.club/e/2442093-cupra-fm-x-cause-effect-with-lleah-davies-free-tickets-at-cu/","name":"CUPRA FM x Cause & Effect with LLEAH DAVIES - FREE Tickets"},{"@type":"ListItem","position":10,"url":"https://soundcheck.club/e/2398237-lowfield-up-t-o-p-p-at-renae/","name":"Lowfield up t.o.p.p"},{"@type":"ListItem","position":11,"url":"https://soundcheck.club/e/2458880-new-wave-shi-karim-at-new-wave-ramen/","name":"New Wave: Shi Karim"},{"@type":"ListItem","position":12,"url":"https://soundcheck.club/e/2437655-house-rules-all-night-long-at-ramona/","name":"HOUSE RULES: All Night Long"},{"@type":"ListItem","position":13,"url":"https://soundcheck.club/e/2461549-axr-random-factor-live-aka-carl-finlow-ola-lucia-residents-d/","name":"AXR - Random Factor (Live) [aka Carl Finlow], Ola & Lucia + Residents & Dancers"},{"@type":"ListItem","position":14,"url":"https://soundcheck.club/e/2454583-darkdisc-dd001-at-the-golden-lion/","name":"DARKDISC: DD001"},{"@type":"ListItem","position":15,"url":"https://soundcheck.club/e/2453906-open-to-close-with-dig-this-at-soup/","name":"Open To Close with Dig This"},{"@type":"ListItem","position":16,"url":"https://soundcheck.club/e/2462521-love-party-non-stop-disco-at-piccadilly-central/","name":"Love Party: Non Stop Disco"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Manchester on Fri, 26 Jun 2026","url":"https://soundcheck.club/manchester/2026-06-26/","description":"16 events in Manchester on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2408275-hidden-jungle-dnb-rave-sl8r-metrodome-rocco-harris-at-hidden/","name":"Hidden Jungle & DNB Rave: SL8R, Metrodome, Rocco harris"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2462521-love-party-non-stop-disco-at-piccadilly-central/","name":"Love Party: Non Stop Disco"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2453906-open-to-close-with-dig-this-at-soup/","name":"Open To Close with Dig This"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2451126-club-223-presents-trance-mums-at-stage-and-radio/","name":"Club 223 presents Trance Mums"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2461549-axr-random-factor-live-aka-carl-finlow-ola-lucia-residents-d/","name":"AXR - Random Factor (Live) [aka Carl Finlow], Ola & Lucia + Residents & Dancers"},{"@type":"ListItem","position":6,"url":"https://soundcheck.club/e/2398237-lowfield-up-t-o-p-p-at-renae/","name":"Lowfield up t.o.p.p"},{"@type":"ListItem","position":7,"url":"https://soundcheck.club/e/2442093-cupra-fm-x-cause-effect-with-lleah-davies-free-tickets-at-cu/","name":"CUPRA FM x Cause & Effect with LLEAH DAVIES - FREE Tickets"},{"@type":"ListItem","position":8,"url":"https://soundcheck.club/e/2396024-evasive-at-eastern-bloc-records/","name":"Evasive"},{"@type":"ListItem","position":9,"url":"https://soundcheck.club/e/2454583-darkdisc-dd001-at-the-golden-lion/","name":"DARKDISC: DD001"},{"@type":"ListItem","position":10,"url":"https://soundcheck.club/e/2370998-lone-at-yes/","name":"Lone"},{"@type":"ListItem","position":11,"url":"https://soundcheck.club/e/2437655-house-rules-all-night-long-at-ramona/","name":"HOUSE RULES: All Night Long"},{"@type":"ListItem","position":12,"url":"https://soundcheck.club/e/2445356-rush-presents-phase-3-jungle-garage-hardgroove-at-the-radio/","name":"RUSH PRESENTS: PHASE 3 /// JUNGLE /// GARAGE /// HARDGROOVE ///"},{"@type":"ListItem","position":13,"url":"https://soundcheck.club/e/2406325-mechano-presents-fjaak-at-joshua-brooks/","name":"Mechano presents FJAAK"},{"@type":"ListItem","position":14,"url":"https://soundcheck.club/e/2439773-teed-dj-kicks-tour-at-amber-s/","name":"TEED - DJ-Kicks Tour"},{"@type":"ListItem","position":15,"url":"https://soundcheck.club/e/2373394-femtanyl-at-gorilla/","name":"femtanyl"},{"@type":"ListItem","position":16,"url":"https://soundcheck.club/e/2458880-new-wave-shi-karim-at-new-wave-ramen/","name":"New Wave: Shi Karim"}]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Manchester","item":"https://soundcheck.club/manchester/"},{"@type":"ListItem","position":3,"name":"Fri, 26 Jun 2026"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Manchester — Fri, 26 Jun 2026</h1><p>16 events in Manchester on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2408275-hidden-jungle-dnb-rave-sl8r-metrodome-rocco-harris-at-hidden/">Hidden Jungle &amp; DNB Rave: SL8R, Metrodome, Rocco harris</a> — Hidden, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2445356-rush-presents-phase-3-jungle-garage-hardgroove-at-the-radio/">RUSH PRESENTS: PHASE 3 /// JUNGLE /// GARAGE /// HARDGROOVE ///</a> — The Radio Room @ Stage &amp; Radio, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2406325-mechano-presents-fjaak-at-joshua-brooks/">Mechano presents FJAAK</a> — Joshua Brooks, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2439773-teed-dj-kicks-tour-at-amber-s/">TEED - DJ-Kicks Tour</a> — Amber's, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2373394-femtanyl-at-gorilla/">femtanyl</a> — Gorilla, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2370998-lone-at-yes/">Lone</a> — Yes, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2396024-evasive-at-eastern-bloc-records/">Evasive</a> — Eastern Bloc Records, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2451126-club-223-presents-trance-mums-at-stage-and-radio/">Club 223 presents Trance Mums</a> — Stage and Radio, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2442093-cupra-fm-x-cause-effect-with-lleah-davies-free-tickets-at-cu/">CUPRA FM x Cause &amp; Effect with LLEAH DAVIES - FREE Tickets</a> — Cupra City Garage Manchester, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2398237-lowfield-up-t-o-p-p-at-renae/">Lowfield up t.o.p.p</a> — renae, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2458880-new-wave-shi-karim-at-new-wave-ramen/">New Wave: Shi Karim</a> — New Wave Ramen, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2437655-house-rules-all-night-long-at-ramona/">HOUSE RULES: All Night Long</a> — Ramona, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2461549-axr-random-factor-live-aka-carl-finlow-ola-lucia-residents-d/">AXR - Random Factor (Live) [aka Carl Finlow], Ola &amp; Lucia + Residents &amp; Dancers</a> — The DBA, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2454583-darkdisc-dd001-at-the-golden-lion/">DARKDISC: DD001</a> — The Golden Lion, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453906-open-to-close-with-dig-this-at-soup/">Open To Close with Dig This</a> — Soup, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2462521-love-party-non-stop-disco-at-piccadilly-central/">Love Party: Non Stop Disco</a> — Piccadilly Central, 2026-06-26</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/manchester/2026-06-26/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Manchester — Fri, 26 Jun 2026</h1><p>16 events in Manchester on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2408275-hidden-jungle-dnb-rave-sl8r-metrodome-rocco-harris-at-hidden/">Hidden Jungle &amp; DNB Rave: SL8R, Metrodome, Rocco harris</a> — Hidden, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2462521-love-party-non-stop-disco-at-piccadilly-central/">Love Party: Non Stop Disco</a> — Piccadilly Central, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453906-open-to-close-with-dig-this-at-soup/">Open To Close with Dig This</a> — Soup, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2451126-club-223-presents-trance-mums-at-stage-and-radio/">Club 223 presents Trance Mums</a> — Stage and Radio, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2461549-axr-random-factor-live-aka-carl-finlow-ola-lucia-residents-d/">AXR - Random Factor (Live) [aka Carl Finlow], Ola &amp; Lucia + Residents &amp; Dancers</a> — The DBA, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2398237-lowfield-up-t-o-p-p-at-renae/">Lowfield up t.o.p.p</a> — renae, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2442093-cupra-fm-x-cause-effect-with-lleah-davies-free-tickets-at-cu/">CUPRA FM x Cause &amp; Effect with LLEAH DAVIES - FREE Tickets</a> — Cupra City Garage Manchester, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2396024-evasive-at-eastern-bloc-records/">Evasive</a> — Eastern Bloc Records, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2454583-darkdisc-dd001-at-the-golden-lion/">DARKDISC: DD001</a> — The Golden Lion, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2370998-lone-at-yes/">Lone</a> — Yes, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2437655-house-rules-all-night-long-at-ramona/">HOUSE RULES: All Night Long</a> — Ramona, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2445356-rush-presents-phase-3-jungle-garage-hardgroove-at-the-radio/">RUSH PRESENTS: PHASE 3 /// JUNGLE /// GARAGE /// HARDGROOVE ///</a> — The Radio Room @ Stage &amp; Radio, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2406325-mechano-presents-fjaak-at-joshua-brooks/">Mechano presents FJAAK</a> — Joshua Brooks, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2439773-teed-dj-kicks-tour-at-amber-s/">TEED - DJ-Kicks Tour</a> — Amber's, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2373394-femtanyl-at-gorilla/">femtanyl</a> — Gorilla, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2458880-new-wave-shi-karim-at-new-wave-ramen/">New Wave: Shi Karim</a> — New Wave Ramen, 2026-06-26</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/manchester/2026-06-26/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
@@ -3541,10 +3554,12 @@
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
         if(currentUser) h+='<div id="dc-feed"></div>';
         h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Find your room by sound — which venues play what</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+        h+='<button class="scene-allcities" id="dc-scenes" type="button">Browse scene guides for every city &rarr;</button>';
         if(currentUser) h+='<button class="scene-cta" id="dc-taste" type="button"><span class="scene-cta-tx"><b>Build your taste profile</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
         h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
         openPanel(h);
         var dcs=document.getElementById('dc-scene'); if(dcs) dcs.addEventListener('click',function(){ openCityScene(currentCity); });
+        var dcss=document.getElementById('dc-scenes'); if(dcss) dcss.addEventListener('click',function(){ openScenes(); });
         var dct=document.getElementById('dc-taste'); if(dct) dct.addEventListener('click',function(){ openTasteOnboard(); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         if(currentUser) loadForYou(false);
@@ -3787,6 +3802,27 @@
     function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
     function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
     function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
+    // The all-cities scene index — a block per city, each linking to its scene guide.
+    async function openScenes(){
+      if(location.pathname!==SC_BASE+'scenes/') history.pushState({sc:1},'',SC_BASE+'scenes/');
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/scenes'); var j=await r.json();
+        var cs=j.cities||[];
+        var h='<h2 class="page-title">Scene guides</h2><div class="sub" style="margin-bottom:16px">Every city with a scene right now — pick one to find your room by sound.</div>';
+        h+='<div class="scene-grid">'+cs.map(function(c){
+          var teaser=[c.topGenre, c.topVenue&&c.topVenue.name].filter(Boolean).join(' &middot; ');
+          return '<button class="scene-card" type="button" data-city="'+esc(c.slug)+'">'+
+            '<span class="scene-card-top"><span class="scene-card-city">'+esc(c.name)+'</span>'+(c.country?'<span class="scene-card-cc">'+esc(c.country)+'</span>':'')+'</span>'+
+            (teaser?'<span class="scene-card-teaser">'+teaser+'</span>':'')+
+            '<span class="scene-card-n">'+c.count+' upcoming</span></button>';
+        }).join('')+'</div>';
+        if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
+        openPanel(h);
+        setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the venues, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
+        document.querySelectorAll('#page-body .scene-card[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+      }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
+    }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest
     // "if you like [name]" hook (a recognisable artist actually booked in that sound here).
     function sceneRouteHTML(routes){
@@ -3803,11 +3839,12 @@
       try{
         var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
         var nm=s.cityName||city;
-        var h='<h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Find your room by sound — then the promoters &amp; artists shaping '+esc(nm)+'.</div>';
+        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Find your room by sound — then the promoters &amp; artists shaping '+esc(nm)+'.</div>';
         if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
         h+='<div id="cs-routes"></div><div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
         openPanel(h);
         setSeo(nm+' scene guide — find your room by sound | soundcheck', 'If you like a sound, here are the '+nm+' venues that play it — plus the promoters and artists shaping the scene.', null, location.origin+SC_BASE+city+'/scene/');
+        var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
         var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
         if(croute && rts.length){
           var rhtml='';
@@ -4415,6 +4452,7 @@
       if(hash==='account') openAccount();
       else if(hash==='search') openSearch();
       else if(hash==='discover') openDiscover();
+      else if(hash==='scenes') openScenes();
       else if(hash==='scene') openCityScene(pathCitySlug());
       else if(hash==='picks') openMyPicks();
       else if(hash==='upcoming') openUpcoming();
@@ -4721,7 +4759,7 @@
     // still resolve. All served via the Pages 404.html SPA fallback. pathRoute()
     // returns the render-route (e.g. 'club/fold' or 'dj/objekt'); pathCitySlug() the city.
     var ENTITY_RE=/^(dj|a|u|e|n|promoter)\/.+/;       // global, city-less (dj canonical; a = legacy alias)
-    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter)$/; // reserved first segments (never a city)
+    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes)$/; // reserved first segments (never a city)
     function pathRoute(){
       if(!onScPath()) return null;
       var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
@@ -4730,6 +4768,7 @@
       var m=rest.match(/^[a-z0-9-]+\/((?:club|v)\/.+)$/);// /<city>/club/<slug> (v = legacy)
       if(m) return m[1];
       if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
+      if(rest==='scenes') return 'scenes';               // /scenes → all-cities scene index
       if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
       return null;
     }
