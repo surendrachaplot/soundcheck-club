@@ -1253,7 +1253,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782249178548">
+<meta name="sc-build" content="1782250622065">
 </head>
 <body>
   <main class="wrap">
@@ -4048,7 +4048,9 @@
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
 
         // Playing this month / Upcoming / Venues — all three reuse the shared rail builders.
-        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]), { title:'Playing this month', city:city, mt:'20px' });
+        // Same round-tile template as the other artist rails, but the subtitle is just the
+        // venue name (no date/city — the guide is already city-scoped).
+        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]), { title:'Playing this month', city:city, mt:'20px', wide:true });
         mountEventRail(document.getElementById('cs-posters'), (s.upcomingEvents||[]), { title:'Upcoming', mt:'26px' });
         mountVenueRail(document.getElementById('cs-venues'), (s.bestVenues||[]), { title:'Venues', city:city, mt:'26px' });
 
