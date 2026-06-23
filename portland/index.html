@@ -263,6 +263,12 @@
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
     .info .nm.linky, .info .sub.linky { cursor:pointer; }
+    /* next-gig line under the name — shown only in the expanded dock; replaces the
+       compact .sub there. Salmon, matching the next-gig accent used on the rails. */
+    .info .dock-next { display:none; }
+    .dock.expanded .info .dock-next { display:block; color:var(--accent); font:600 var(--fs-sm) var(--body); margin-top:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .dock.expanded.has-next .info .sub { display:none; }
+    .info .dock-next.linky { cursor:pointer; }
     .info .nm.linky:hover { text-decoration:underline; }
     .info .sub.linky:hover { color:var(--fg); text-decoration:underline; }
     .transport { display:flex; align-items:center; gap:14px; }
@@ -1253,7 +1259,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782250622065">
+<meta name="sc-build" content="1782252721170">
 </head>
 <body>
   <main class="wrap">
@@ -1333,7 +1339,7 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="nm" id="dock-name">&mdash;</div><div class="sub" id="dock-src">SoundCloud</div></div>
+        <div class="info"><div class="nm" id="dock-name">&mdash;</div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
         <div class="transport">
           <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
@@ -1714,6 +1720,23 @@
     // On phones the player opens as the compact bar (audio + transport); the
     // big video stage is one tap away via the thumb. Desktop still expands.
     function isSmallScreen(){ return window.matchMedia && matchMedia('(max-width:620px)').matches; }
+    // Next-gig line for the expanded dock — fetched by the playing artist's slug (cached),
+    // so it shows for EVERY artist play (rails, bill, discover, tune-in), not just ones
+    // that happened to carry a venue. date · venue · city; venue taps through to the venue.
+    var _nextGigCache={};
+    function setDockNextGig(slug){
+      var el=document.getElementById('dock-next-gig'); if(!el) return;
+      el.textContent=''; el.classList.remove('linky'); el.onclick=null; dock.classList.remove('has-next');
+      if(!slug) return;
+      function render(g){
+        if(!g || !g.event_date){ el.textContent=''; dock.classList.remove('has-next'); return; }
+        el.textContent=[ fmtDateLabel(String(g.event_date).slice(0,10)), g.venue, g.city?cityLabel(g.city):'' ].filter(Boolean).join(' · ');
+        dock.classList.add('has-next');
+        if(g.venue){ el.classList.add('linky'); el.onclick=function(){ openVenue(g.venue, g.city||null); }; }
+      }
+      if(Object.prototype.hasOwnProperty.call(_nextGigCache, slug)){ render(_nextGigCache[slug]); return; }
+      pubGet('/api/artist/next?slug='+encodeURIComponent(slug)).then(function(j){ var g=(j&&j.next)||null; _nextGigCache[slug]=g; render(g); }).catch(function(){});
+    }
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
       // Make the now-playing artist + venue tappable (jump to their pages; the set keeps playing).
@@ -1722,6 +1745,7 @@
       dockName.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
       dockSrc.classList.toggle('linky', !!navVenue);
       dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
+      setDockNextGig(navSlug); // expanded dock: the artist's next gig under the name
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
       dock.classList.add('show'); document.body.classList.add('has-dock');
