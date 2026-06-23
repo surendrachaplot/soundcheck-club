@@ -808,6 +808,19 @@
     .fy-x { flex:none; background:none; border:none; color:var(--muted); font-size:20px; line-height:1; cursor:pointer; padding:4px 6px; }
     .fy-x:hover { color:var(--accent); }
     /* DS: "who not to miss" lineup ranking (event page) */
+    /* DS: event "the bill" — ranked line-up, who-not-to-miss badges inline, play per row */
+    .ev-bill { margin-top:2px; }
+    .bill-row { display:flex; align-items:center; gap:12px; padding:9px 0; border-top:1px solid var(--line); }
+    .bill-row:first-child { border-top:none; }
+    .bill-play { flex:none; width:38px; height:38px; border-radius:50%; background:var(--accent); color:var(--accent-ink); border:none; font-size:14px; padding-left:2px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .bill-play:active { transform:scale(0.94); }
+    .bill-av { flex:none; width:40px; height:40px; border-radius:50%; background:var(--surface); background-size:cover; background-position:center; cursor:pointer; }
+    .bill-nm-wrap { flex:1; min-width:0; text-align:left; background:none; border:none; padding:0; cursor:pointer; color:inherit; display:flex; flex-direction:column; gap:2px; -webkit-tap-highlight-color:transparent; }
+    .bill-nm { font:700 var(--fs-base) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .bill-why { font:500 var(--fs-xs) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .bill-badge { flex:none; font:700 var(--fs-xs) var(--body); padding:3px 9px; border-radius:999px; white-space:nowrap; }
+    .bb-hi { background:var(--accent); color:var(--accent-ink); }
+    .bb-mid { color:var(--accent); border:1px solid var(--accent); }
     .nm-box { margin-top:18px; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 16px; }
     .nm-k { font:800 var(--fs-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
     .nm-k small { color:var(--muted); font-weight:500; letter-spacing:0; text-transform:none; }
@@ -1234,7 +1247,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782229650997">
+<meta name="sc-build" content="1782230721856">
 <meta name="description" content="Spkrbox is a music venue in Detroit listed on soundcheck. 13 upcoming nights, with line-ups including Aboudi Issa, Andrea Ghita, Andy Arcade and Brent Shay and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.">
 <link rel="canonical" href="https://soundcheck.club/detroit/club/spkrbox/">
 <meta property="og:type" content="profile">
@@ -4192,6 +4205,31 @@
       try{ return new Date(String(d).slice(0,10)+'T12:00:00').toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}); }
       catch(_){ return String(d||'').slice(0,10); }
     }
+    // ── event line-up = ONE ranked "bill": who-not-to-miss folded in (badges on the
+    // standouts), every DJ shown once, each row + the top button play as a youtube queue. ──
+    function billItemsFromEv(ev){
+      return (ev.artists||[]).map(function(a){ var slug=(a.contentUrl||'').split('/').filter(Boolean).pop(); return { slug:slug, name:a.name, image:a.image }; }).filter(function(x){ return x.slug; });
+    }
+    function billRowsHTML(items){
+      return '<div class="ev-bill">'+items.map(function(a){
+        var av=a.image?('background-image:url('+imgUrl(a.image,80)+')'):'';
+        var badge=a.tier?('<span class="bill-badge '+(a.tier==='Do not miss'?'bb-hi':'bb-mid')+'">'+esc(a.tier)+'</span>'):'';
+        var why=a.reason?'<span class="bill-why">'+esc(a.reason)+'</span>':'';
+        return '<div class="bill-row"><button class="bill-play" type="button" data-slug="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+'">&#9654;</button>'+
+          '<span class="bill-av" data-artist="'+esc(a.slug)+'" style="'+av+'"></span>'+
+          '<button class="bill-nm-wrap" type="button" data-artist="'+esc(a.slug)+'"><span class="bill-nm">'+esc(a.name)+'</span>'+why+'</button>'+
+          badge+'</div>';
+      }).join('')+'</div>';
+    }
+    function mountBill(items){
+      var box=document.getElementById('ev-bill'); if(!box) return;
+      if(!items.length){ box.innerHTML='<div class="sec-h" style="margin-top:22px">Line-up</div><p style="color:var(--muted);font:500 var(--fs-sm) var(--body)">To be announced.</p>'; return; }
+      box.innerHTML='<div class="sec-h" style="margin-top:22px">The bill<span class="ct">'+items.length+'</span></div>'+billRowsHTML(items);
+      var q=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
+      box.querySelectorAll('.bill-play[data-slug]').forEach(function(b,i){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, i); }); });
+      box.querySelectorAll('[data-artist]').forEach(function(el){ el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
+      var pb=document.getElementById('ev-playbill'); if(pb){ pb.onclick=function(){ playYtList(q,0); }; }
+    }
     function eventPageHTML(ev){
       var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
@@ -4220,11 +4258,9 @@
               (eid ? '<div class="sheet-actions">'+(isPast ? (evLog+evShare+'<span class="lbl">Log it or share</span>') : (evHeart+evShare+'<span class="lbl">Save or share</span>'))+'</div>' : '')+
             '</div>'+
             '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
-            ((ev.artists||[]).length?'<button class="ev-radio" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
-            '<div id="ev-notmiss"></div>'+   /* who-not-to-miss (renderEventRich fills it for signed-in users) */
+            ((ev.artists||[]).length?'<button class="ev-radio" id="ev-playbill" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Play the line-up</span></button>':'')+
             '<div id="ev-review"></div>'+    /* D5: opt-in structured review (attendance-gated) */
-            '<div class="sec-h" style="margin-top:14px">Line-up'+(n?'<span class="ct">'+n+'</span>':'')+'</div>'+
-            '<ul class="sheet-line">'+lineupHTML(ev,null,true)+'</ul>'+
+            '<div id="ev-bill"></div>'+      /* the bill — who-not-to-miss ranked in, names once (mountBill) */
           '</div>'+
         '</div>'+
         '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
@@ -4248,33 +4284,16 @@
       // so fill the header's #ev-when even if the cached open had no/partial date.
       var when=document.getElementById('ev-when');
       if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
-      // Who not to miss — highlights the acts worth catching (personalised when we can,
-      // objective otherwise so it works signed-out). Never lists who to skip; the rest of
-      // the bill collapses behind "+N more".
-      var nmEl=document.getElementById('ev-notmiss');
-      if(nmEl && (ev.artists||[]).length>=2){
+      // The bill — fold who-not-to-miss into the line-up: rank it (highlights get a badge +
+      // one-line why, the rest list plainly), every DJ shown ONCE. Re-render #ev-bill in the
+      // ranked order, merging artist photos from the event. Falls back to the instant bill.
+      if((ev.artists||[]).length>=2){
+        var imgBy={}; (ev.artists||[]).forEach(function(a){ var s=(a.contentUrl||'').split('/').filter(Boolean).pop(); if(s) imgBy[s]=a.image; });
         authedFetch('/api/event/lineup?id='+encodeURIComponent(ev.id)).then(function(r){ return r.json(); }).then(function(j){
           if(!j) return;
-          var hi=(j.highlights||[]), more=(j.more||[]);
-          if(!hi.length && !j.note) return;
-          var sub=j.mode==='personal'?'for your taste':'worth catching';
-          var html='<div class="nm-box"><div class="nm-k">Who not to miss <small>'+sub+'</small></div>';
-          if(hi.length){
-            html+=hi.map(function(t){
-              var cl=t.tier==='Do not miss'?'hi':'mid';
-              return '<button class="nm-row" type="button" data-artist="'+esc(t.slug)+'"><span class="nm-tier nm-'+cl+'">'+esc(t.tier)+'</span><span class="nm-tx"><span class="nm-nm">'+esc(t.name)+'</span>'+(t.reason?'<span class="nm-why">'+esc(t.reason)+'</span>':'')+'</span></button>';
-            }).join('');
-          } else if(j.note){
-            html+='<div class="nm-note">'+esc(j.note)+'</div>';
-          }
-          if(more.length){
-            html+='<button class="nm-more" type="button" id="nm-more-btn">+'+more.length+' more on the bill</button>'+
-              '<div class="nm-more-list" id="nm-more-list" hidden>'+more.map(function(m){ return '<button class="nm-mini" type="button" data-artist="'+esc(m.slug)+'">'+esc(m.name)+'</button>'; }).join('')+'</div>';
-          }
-          html+='</div>';
-          nmEl.innerHTML=html;
-          var mb=document.getElementById('nm-more-btn'); if(mb) mb.addEventListener('click',function(){ var l=document.getElementById('nm-more-list'); if(l){ l.hidden=!l.hidden; mb.classList.toggle('open', !l.hidden); mb.textContent=l.hidden?('+'+more.length+' more on the bill'):'Hide the rest'; } });
-          nmEl.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+          var ranked=(j.highlights||[]).concat(j.more||[]);
+          if(!ranked.length) return; // keep the instant (unranked) bill
+          mountBill(ranked.map(function(t){ return { slug:t.slug, name:t.name, image:imgBy[t.slug], tier:t.tier||null, reason:t.reason||null }; }));
         }).catch(function(){});
       }
       // D5: structured review — aggregate for everyone, the slider form only if you logged
@@ -4359,7 +4378,7 @@
       // Only (re)push if we're not already on this event — preserves a slugged URL.
       if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
       var cached=lookup.byEvent[id];
-      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); wireEventRadio(cached); }
+      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(cached)); }
       else openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
@@ -4369,7 +4388,7 @@
         // Upgrade the bare URL to the descriptive, canonical slug now we know who/where.
         var _who=ev.title||((ev.artists||[])[0]||{}).name||'';
         history.replaceState({sc:1},'', SC_BASE+eventPath(id,_who,ev.venue)+'/');
-        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); wireEventRadio(ev); }
+        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(ev)); }
         renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
       }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
     }
