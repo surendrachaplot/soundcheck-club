@@ -8,7 +8,6 @@
        serves every weight via the wght axis — preload both so first-paint text in
        any weight is ready immediately. @font-face is inline in the <style> block. -->
   <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -21,17 +20,16 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
   <style>
-    /* ── self-hosted fonts: one variable woff2 per family (Latin slice), all weights
-       from a single download via the wght axis. font-display:block keeps Bricolage
-       always rendering (never a fallback face). ── */
+    /* ── self-hosted font: one variable woff2 (Latin slice), all weights from a single
+       download via the wght axis. font-display:block keeps Bricolage always rendering
+       (never a fallback face). Bricolage is the ONLY family — headings and body alike. ── */
     @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400 800;font-display:block;src:url(/fonts/bricolage.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
-    @font-face{font-family:'Inter';font-style:normal;font-weight:400 700;font-display:block;src:url(/fonts/inter.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 
     *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
     :root {
       --bg:#0f0f12; --surface:#1b1b20; --fg:#f3ece6; --muted:#9292a0;
       --accent:#ff7a6b; --border:#28282f; --ink:#1a0f0e; --accent-ink:#1a0f0e;
-      --head:"Bricolage Grotesque",sans-serif; --body:"Inter",sans-serif;
+      --head:"Bricolage Grotesque",sans-serif; --body:"Bricolage Grotesque",sans-serif;
       --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
       --fs-xs:0.72rem; --fs-sm:0.8rem; --fs-base:0.9rem; --fs-md:1.05rem; --fs-lg:1.4rem; --fs-xl:1.7rem; --fs-2xl:2rem;
     }
@@ -64,9 +62,9 @@
     .hero { padding:44px 0 28px; display:flex; justify-content:space-between; align-items:flex-end; gap:24px; flex-wrap:wrap; }
     .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; color:var(--accent); margin-bottom:16px; }
     h1 { font-family:var(--head); font-weight:800; font-size:clamp(2.8rem,7vw,5rem); line-height:0.94; letter-spacing:-0.04em; }
-    /* All headings are Bricolage by default — page titles (Coming up, Search, Log a
-       gig…) and the artist/event/venue names are bare <h3>s, so without this they
-       fall back to Inter. Component rules (.gcard h3 etc.) keep their own size/weight. */
+    /* Headings are Bricolage explicitly — page titles (Coming up, Search, Log a gig…)
+       and artist/event/venue names are bare <h3>s. Body (var(--body)) is now Bricolage
+       too, so this just pins the heavier weight. Component rules keep their own size. */
     h2, h3, h4 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
     h1 .ac { color:var(--accent); }
     /* city switcher woven into the headline (replaces the old datebar chip) */
@@ -766,6 +764,9 @@
     .srail-art-img:hover .srail-play.ctr { opacity:1; }
     .srail-play.br { right:8px; bottom:8px; }
     @media (hover:none){ .srail-play.ctr { opacity:1; } }
+    /* .srail-wrap (Discover "Artists for you") — wrap to multiple rows on desktop, but
+       keep the one-swipe horizontal scroll on mobile (base .srail handles <=620px). */
+    @media (min-width:621px){ .srail-wrap { flex-wrap:wrap; overflow-x:visible; row-gap:18px; } }
     /* DS: taste onboarding overlay */
     .taste-box { max-width:460px; max-height:88vh; overflow-y:auto; }
     .to-label { display:block; margin:16px 0 6px; font:700 var(--fs-sm) var(--body); color:var(--fg); }
@@ -1247,7 +1248,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782230721856">
+<meta name="sc-build" content="1782231841032">
 <meta name="description" content="Spkrbox is a music venue in Detroit listed on soundcheck. 13 upcoming nights, with line-ups including Aboudi Issa, Andrea Ghita, Andy Arcade and Brent Shay and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.">
 <link rel="canonical" href="https://soundcheck.club/detroit/club/spkrbox/">
 <meta property="og:type" content="profile">
@@ -3120,7 +3121,7 @@
       var glow=ctx.createRadialGradient(W*0.82,0,0,W*0.82,0,W); glow.addColorStop(0,'rgba(255,122,107,0.20)'); glow.addColorStop(1,'rgba(255,122,107,0)'); ctx.fillStyle=glow; ctx.fillRect(0,0,W,H);
       ctx.textBaseline='alphabetic'; ctx.textAlign='left';
       ctx.fillStyle='#f3ece6'; ctx.font="800 30px 'Bricolage Grotesque', system-ui, sans-serif"; tcTracked(ctx,'SOUNDCHECK',7,P,108);
-      ctx.fillStyle='#ff7a6b'; ctx.font="800 24px 'Inter', system-ui, sans-serif"; tcTracked(ctx,'THE LINEUP',6,P,166);
+      ctx.fillStyle='#ff7a6b'; ctx.font="800 24px 'Bricolage Grotesque', system-ui, sans-serif"; tcTracked(ctx,'THE LINEUP',6,P,166);
       ctx.fillStyle='#f3ece6'; ctx.font="800 66px 'Bricolage Grotesque', system-ui, sans-serif"; ctx.fillText(tcFit(ctx, label, W-2*P), P, 236);
       var n=arts.length, cols=n<=2?Math.max(1,n):3, gap=22, top=296, footerH=96;
       var rows=Math.ceil(n/cols);
@@ -3137,7 +3138,7 @@
         ctx.fillStyle='#fff'; ctx.font="800 26px 'Bricolage Grotesque', system-ui, sans-serif"; ctx.fillText(tcFit(ctx, arts[i].name||arts[i].slug, cellW-26), x+15, y+cellH-18);
         ctx.restore();
       }
-      ctx.fillStyle='#9292a0'; ctx.font="600 24px 'Inter', system-ui, sans-serif"; ctx.textAlign='left'; ctx.fillText(shareHost(), P, H-54);
+      ctx.fillStyle='#9292a0'; ctx.font="600 24px 'Bricolage Grotesque', system-ui, sans-serif"; ctx.textAlign='left'; ctx.fillText(shareHost(), P, H-54);
       ctx.fillStyle='#ff7a6b'; ctx.textAlign='right'; ctx.fillText(n+(n===1?' artist':' artists'), W-P, H-54); ctx.textAlign='left';
     }
     async function openTasteCard(handle){
@@ -3164,7 +3165,7 @@
       function close(){ ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
       ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
-      try{ await Promise.all([document.fonts.load("800 66px 'Bricolage Grotesque'"), document.fonts.load("800 26px 'Inter'"), document.fonts.load("600 24px 'Inter'")]); }catch(_){}
+      try{ await Promise.all([document.fonts.load("800 66px 'Bricolage Grotesque'"), document.fonts.load("800 26px 'Bricolage Grotesque'"), document.fonts.load("600 24px 'Bricolage Grotesque'")]); }catch(_){}
       var imgs=await Promise.all(arts.map(function(a){ return a.image?tcLoadImg(imgUrl(a.image,360)+'&c=1'):Promise.resolve(null); }));
       var canvas=document.createElement('canvas');
       drawTasteCard(canvas, arts, label, imgs);
@@ -3643,7 +3644,7 @@
     function renderDcArtists(arts){
       var el=document.getElementById('dc-artists'); if(!el || !arts.length) return;
       var list=arts.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
-      el.innerHTML='<div class="sec-h" style="margin-top:24px">Artists for you</div><div class="srail">'+arts.map(function(a,i){
+      el.innerHTML='<div class="sec-h" style="margin-top:24px">Artists for you</div><div class="srail srail-wrap">'+arts.map(function(a,i){
         var img=a.image?('background-image:url('+imgUrl(a.image,180)+')'):('background:'+sceneTone(a.slug));
         return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-i="'+i+'" aria-label="Play '+esc(a.name)+'">&#9654;</span></div><button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button></div>';
       }).join('')+'</div>';
@@ -3663,41 +3664,79 @@
         el.querySelectorAll('.srail-ven[data-city]').forEach(function(c){ c.addEventListener('click',function(){ openCityScene(c.dataset.city); }); });
       }).catch(function(){});
     }
+    // City-scene data (upcoming events + best venues for the current city) — memoised per
+    // Discover open so the events fallback and the venues rail share one fetch.
+    var _dcSceneP=null;
+    function dcScene(){
+      if(!_dcSceneP) _dcSceneP=authedFetch('/api/city/scene?city='+encodeURIComponent(currentCity)).then(function(r){ return r.json(); }).catch(function(){ return {}; });
+      return _dcSceneP;
+    }
+    // Event poster rail → box. withMatch shows the personalised match %; without it the
+    // rail is plain (used for the generic city-upcoming fallback). Play = youtube queue.
+    function renderDcEvents(box, evs, title, withMatch){
+      if(!box) return;
+      if(!evs.length){ box.innerHTML=''; return; }
+      var byId={}; evs.forEach(function(e){ byId[String(e.id)]=e; });
+      box.innerHTML='<div class="sec-h" style="margin-top:8px">'+esc(title)+'</div><div class="srail">'+evs.map(function(e){
+        var img=e.poster_url?('background-image:url('+imgUrl(e.poster_url,300)+')'):('background:'+sceneTone(String(e.id)));
+        var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
+        var ttl=e.title||((e.lineup||[])[0]||{}).name||'Event';
+        var match=(withMatch&&e.match!=null)?'<span class="match">'+e.match+'%</span>':'';
+        var gem=(e.gem&&e.gem.level)?'<span class="srail-gem">'+esc(e.gem.level)+'</span>':'';
+        return '<div class="srail-post" data-ev="'+esc(String(e.id))+'"><div class="srail-post-img" style="'+img+'">'+match+gem+((e.lineup&&e.lineup.length)?'<span class="srail-play br" data-evplay="'+esc(String(e.id))+'" aria-label="Play line-up">&#9654;</span>':'')+'</div>'+
+          '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,d].filter(Boolean).join(' · '))+'</div></div>';
+      }).join('')+'</div>';
+      box.querySelectorAll('.srail-post[data-ev]').forEach(function(c){ c.addEventListener('click',function(ev){ if(ev.target.closest('.srail-play')) return; openEvent(c.dataset.ev); }); });
+      box.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.evplay]; if(e) playYtList((e.lineup||[]).map(function(a){ return {slug:a.slug,name:a.name,poster:e.poster_url}; }), 0); }); });
+    }
+    // Fallback events rail — what's on in the current city (no personalisation), so the
+    // page always has events even before there's any taste to score against.
+    function loadCityUpcoming(box){
+      dcScene().then(function(s){ renderDcEvents(box, (s.upcomingEvents||[]), 'Upcoming in '+cityMeta().name, false); });
+    }
+    // Venues rail — the rooms in the current city: image card → venue page, play the next
+    // night as a youtube queue. Same shape as the city guide's "Rooms".
+    function loadDcVenues(){
+      var el=document.getElementById('dc-venues'); if(!el) return;
+      dcScene().then(function(s){
+        var bv=(s.bestVenues||[]); if(!bv.length){ el.innerHTML=''; return; }
+        var city=currentCity;
+        el.innerHTML='<div class="sec-h" style="margin-top:24px">Rooms in '+esc(cityMeta().name)+'</div><div class="srail">'+bv.map(function(v){
+          var img=v.image?('background-image:url('+imgUrl(v.image,360)+')'):('background:'+sceneTone(v.venue_slug||v.venue));
+          return '<div class="srail-ven" data-venue="'+esc(v.venue)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+'</span><span class="srail-play br" data-vplay="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
+        }).join('')+'</div>';
+        el.querySelectorAll('.srail-ven[data-venue]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openVenue(c.dataset.venue, city); }); });
+        el.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextYt(b.dataset.vplay, city); }); });
+      });
+    }
     // For-you rail — personalised event posters (match % + play the line-up as a youtube
-    // queue). Also resolves the taste-CTA: build-your-taste shows only when not onboarded.
+    // queue). Resolves the taste-CTA, and falls back to city-upcoming when there's nothing
+    // personalised yet (signed out, no taste, or no scored events in this city).
     function loadForYou(){
       var box=document.getElementById('dc-feed'); if(!box) return;
+      if(!currentUser){ renderTasteCTA(false); loadCityUpcoming(box); return; }
       authedFetch('/api/feed?city='+encodeURIComponent(currentCity)).then(function(r){ return r.json(); }).then(function(j){
-        if(j.error || !j.onboarded){ box.innerHTML=''; renderTasteCTA(false); return; }
+        if(j.error || !j.onboarded){ renderTasteCTA(false); loadCityUpcoming(box); return; }
         renderTasteCTA(true); // has taste → no prompt
         var evs=j.events||[];
-        if(!evs.length){ box.innerHTML='<div class="sec-h" style="margin-top:8px">For you</div><div class="empty">Nothing scored yet — save a few artists and it&rsquo;ll sharpen.</div>'; return; }
-        var byId={}; evs.forEach(function(e){ byId[String(e.id)]=e; });
-        box.innerHTML='<div class="sec-h" style="margin-top:8px">For you</div><div class="srail">'+evs.map(function(e){
-          var img=e.poster_url?('background-image:url('+imgUrl(e.poster_url,300)+')'):('background:'+sceneTone(String(e.id)));
-          var d=fmtDateLabel(String(e.event_date).slice(0,10));
-          var ttl=e.title||((e.lineup||[])[0]||{}).name||'Event';
-          var gem=(e.gem&&e.gem.level)?'<span class="srail-gem">'+esc(e.gem.level)+'</span>':'';
-          return '<div class="srail-post" data-ev="'+esc(String(e.id))+'"><div class="srail-post-img" style="'+img+'"><span class="match">'+e.match+'%</span>'+gem+((e.lineup&&e.lineup.length)?'<span class="srail-play br" data-evplay="'+esc(String(e.id))+'" aria-label="Play line-up">&#9654;</span>':'')+'</div>'+
-            '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,d].filter(Boolean).join(' · '))+'</div></div>';
-        }).join('')+'</div>';
-        box.querySelectorAll('.srail-post[data-ev]').forEach(function(c){ c.addEventListener('click',function(ev){ if(ev.target.closest('.srail-play')) return; openEvent(c.dataset.ev); }); });
-        box.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.evplay]; if(e) playYtList((e.lineup||[]).map(function(a){ return {slug:a.slug,name:a.name,poster:e.poster_url}; }), 0); }); });
-      }).catch(function(){});
+        if(!evs.length){ loadCityUpcoming(box); return; } // onboarded but nothing scored here
+        renderDcEvents(box, evs, 'For you', true);
+      }).catch(function(){ loadCityUpcoming(box); });
     }
     async function openDiscover(){
       setRoute('discover');
+      _dcSceneP=null; // refetch city data each open (the city may have changed)
       openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/discover'); var j=await r.json();
         var arts=j.artists||[];
         var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">Tonight, tuned to you.</div>';
-        h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-scenes"></div>';
+        h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-venues"></div><div id="dc-scenes"></div>';
         openPanel(h);
-        renderDcArtists(arts);   // artists for you
+        renderDcArtists(arts);   // artists for you (wraps to rows on web, scrolls on mobile)
+        loadDcVenues();          // rooms in the current city
         loadDcScenes();          // scene-guides entry rail
-        if(currentUser) loadForYou();   // for-you poster rail (also toggles the taste prompt)
-        else renderTasteCTA(false);     // signed out → prompt to sign in / build taste
+        loadForYou();            // for-you posters (toggles the taste prompt; city fallback otherwise)
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
     }
     function openSearch(){
@@ -3773,7 +3812,8 @@
         if(!document.body.contains(el)) return; // navigated away while loading
         var map=L.map(el, opts.scroll===false?{scrollWheelZoom:false}:{}).setView(opts.center||[51.5074,-0.1278], 11);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
-        var j; try{ j=await pubGet('/api/venues/map?city='+encodeURIComponent(city)); }catch(_){ j={}; }
+        var qs='/api/venues/map?city='+encodeURIComponent(city)+(opts.minUpcoming?('&min='+opts.minUpcoming):'');
+        var j; try{ j=await pubGet(qs); }catch(_){ j={}; }
         var vs=(j.venues||[]), pts=[];
         function pinDate(iso){ if(!iso) return ''; var d=new Date(String(iso).slice(0,10)+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'}); }
         function popupHTML(v){ var up=v.upcoming?(v.upcoming+' upcoming night'+(v.upcoming===1?'':'s')):'no dates yet'; return '<b>'+esc(v.name)+'</b><br><span style="color:#9292a0">'+esc(up)+'</span><br><span class="map-link" data-venue="'+esc(v.name)+'">View venue &rsaquo;</span>'; }
@@ -3794,6 +3834,7 @@
         }
         map.on('zoomend',sync); sync();
         if(pts.length) map.fitBounds(pts,{ padding:[36,36], maxZoom:13 });
+        else if(j.city && j.city.lat) map.setView([j.city.lat, j.city.lng], 11); // no qualifying rooms → still centre the city, not London
         el.addEventListener('click',function(e){ var a=e.target.closest('.map-link[data-venue]'); if(a){ openVenue(a.dataset.venue, city); } });
         setTimeout(function(){ map.invalidateSize(); },140); // settle after layout
       });
@@ -3995,7 +4036,7 @@
         var nm=s.cityName||city;
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Who&rsquo;s playing, the rooms they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
         h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-rooms"></div><div id="cs-routes"></div>';
-        h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">Every club in '+esc(nm)+' with an upcoming night — tap a pin.</div>';
+        h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">The busiest rooms in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>';
         openPanel(h);
         setSeo(nm+" scene guide — who's playing, the rooms & sounds | soundcheck", 'The artists playing '+nm+' this month, the rooms they’re in, upcoming nights and the sounds that define the city.', null, location.origin+SC_BASE+city+'/scene/');
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
@@ -4057,8 +4098,9 @@
           croute.querySelectorAll('.rf-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
         }
 
-        // Map — at the very bottom
-        mountVenueMap(document.getElementById('cs-map'), city, { scroll:false });
+        // Map — at the very bottom. Only the busiest rooms (5+ upcoming nights), so the
+        // pins read as a real scene map, not every geocoded address with a stray date.
+        mountVenueMap(document.getElementById('cs-map'), city, { scroll:false, minUpcoming:5 });
       }catch(_){ openPanel('<div class="empty">Couldn’t load the scene guide.</div>'); }
     }
     async function openPromoter(slug){
