@@ -1274,7 +1274,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782256112969">
+<meta name="sc-build" content="1782256832952">
 </head>
 <body>
   <main class="wrap">
@@ -5419,7 +5419,7 @@
     // or a #hash overlay)? The default landing above set up the home grid underneath;
     // now restore the captured page URL (load() just rewrote it) and route over it so
     // Back lands on the grid.
-    if(_bootRoute && /^(account|picks|feed|log|discover|scene|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|promoter\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|upcoming|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|promoter\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Synchronous (not deferred): the open* handlers add body.page-on before the
