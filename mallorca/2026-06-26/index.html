@@ -558,13 +558,15 @@
     /* ── hub (Concept B): stat cards + action tiles + recent diary ── */
     .muted { color:var(--muted); }
     /* Page title (style C): big Bricolage title + short coral underline. */
-    .page-title { font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-0.035em; line-height:1.04; margin:0 0 14px; }
-    .page-title::after { content:""; display:block; width:52px; height:5px; background:var(--accent); border-radius:2px; margin-top:10px; }
+    /* DS: page title — large display headline (~2× the old size), clamped for mobile. Global. */
+    .page-title { font-family:var(--head); font-weight:800; font-size:clamp(2.5rem, 7vw, 4rem); letter-spacing:-0.04em; line-height:1.0; margin:0 0 18px; }
+    .page-title::after { content:""; display:block; width:72px; height:6px; background:var(--accent); border-radius:3px; margin-top:14px; }
     /* Section header (style 1): coral tick + title + count pill, control pushed right. */
-    .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; margin:0 0 12px; display:flex; align-items:center; gap:9px; }
-    .sec-h::before { content:""; width:3px; height:1.05em; background:var(--accent); border-radius:2px; flex:none; }
-    .sec-h .ct { font:600 var(--fs-xs)/1 var(--body); color:var(--muted); background:#26262d; border-radius:999px; padding:3px 9px; letter-spacing:0; }
-    .sec-h .more { margin-left:auto; font-size:var(--fs-xs); font-weight:600; letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
+    /* DS: section header (continent tags, "Find your room", "Biggest rooms", shelves…) — ~2× larger. Global. */
+    .sec-h { font-family:var(--head); font-weight:800; font-size:2rem; letter-spacing:-0.02em; margin:0 0 16px; display:flex; align-items:center; gap:11px; line-height:1.05; }
+    .sec-h::before { content:""; width:5px; height:1.02em; background:var(--accent); border-radius:2px; flex:none; }
+    .sec-h .ct { font:600 var(--fs-sm)/1 var(--body); color:var(--muted); background:#26262d; border-radius:999px; padding:4px 11px; letter-spacing:0; }
+    .sec-h .more { margin-left:auto; font-size:var(--fs-sm); font-weight:600; letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
     .sec-h .ev-radio { margin-left:auto; }
     .sec-radio { margin:0; padding:5px 12px; flex:none; }
     .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
@@ -1207,20 +1209,20 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782221325982">
+<meta name="sc-build" content="1782221616169">
 <meta name="description" content="3 events in Mallorca on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/mallorca/2026-06-26/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Events in Mallorca on Fri, 26 Jun 2026 — line-ups &amp; tickets | soundcheck">
 <meta property="og:description" content="3 events in Mallorca on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/mallorca/2026-06-26/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F0f0fd8a806d6a0b7840c7fdcbd2171573b2fc638.png&amp;w=1000">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ff13f56ca6b625730f562e4552e7378bf4afbe68a.png&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Mallorca on Fri, 26 Jun 2026","url":"https://soundcheck.club/mallorca/2026-06-26/","description":"3 events in Mallorca on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2408014-frequency-festival-friday-alisha-luuk-van-dijk-julian-fijma/","name":"Frequency Festival Friday: ALISHA, Luuk van Dijk, Julian Fijma + more"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2449569-somewen-anna-tur-by-hostage-at-overclub/","name":"SOMEWEN & Anna Tur by HOSTAGE"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2434690-kettama-at-bcm/","name":"KETTAMA"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Mallorca on Fri, 26 Jun 2026","url":"https://soundcheck.club/mallorca/2026-06-26/","description":"3 events in Mallorca on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2449569-somewen-anna-tur-by-hostage-at-overclub/","name":"SOMEWEN & Anna Tur by HOSTAGE"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2408014-frequency-festival-friday-alisha-luuk-van-dijk-julian-fijma/","name":"Frequency Festival Friday: ALISHA, Luuk van Dijk, Julian Fijma + more"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2434690-kettama-at-bcm/","name":"KETTAMA"}]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Mallorca","item":"https://soundcheck.club/mallorca/"},{"@type":"ListItem","position":3,"name":"Fri, 26 Jun 2026"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mallorca — Fri, 26 Jun 2026</h1><p>3 events in Mallorca on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2408014-frequency-festival-friday-alisha-luuk-van-dijk-julian-fijma/">Frequency Festival Friday: ALISHA, Luuk van Dijk, Julian Fijma + more</a> — TBA - Wave, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2449569-somewen-anna-tur-by-hostage-at-overclub/">SOMEWEN &amp; Anna Tur by HOSTAGE</a> — Overclub, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2434690-kettama-at-bcm/">KETTAMA</a> — BCM, 2026-06-26</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/mallorca/2026-06-26/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Mallorca — Fri, 26 Jun 2026</h1><p>3 events in Mallorca on Fri, 26 Jun 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2449569-somewen-anna-tur-by-hostage-at-overclub/">SOMEWEN &amp; Anna Tur by HOSTAGE</a> — Overclub, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2408014-frequency-festival-friday-alisha-luuk-van-dijk-julian-fijma/">Frequency Festival Friday: ALISHA, Luuk van Dijk, Julian Fijma + more</a> — TBA - Wave, 2026-06-26</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2434690-kettama-at-bcm/">KETTAMA</a> — BCM, 2026-06-26</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/mallorca/2026-06-26/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
