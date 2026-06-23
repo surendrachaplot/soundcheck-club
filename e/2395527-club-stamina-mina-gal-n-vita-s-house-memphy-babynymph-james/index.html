@@ -702,6 +702,24 @@
     .scene-card-cc { font:700 var(--fs-xs) var(--body); color:var(--muted); letter-spacing:0.04em; }
     .scene-card-teaser { font:600 var(--fs-sm) var(--body); color:var(--accent); text-transform:capitalize; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .scene-card-n { font:500 var(--fs-xs) var(--body); color:var(--muted); }
+    /* DS: scene-hub cover tiles (image + artist faces) */
+    .sc-cover-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(210px, 1fr)); gap:12px; margin-top:4px; }
+    .sc-cover { position:relative; display:block; height:174px; border-radius:15px; overflow:hidden; border:1px solid var(--line); background-color:#241c24; background-size:cover; background-position:center; padding:0; text-align:left; color:#fff; cursor:pointer; transition:border-color .15s ease, transform .1s ease; -webkit-tap-highlight-color:transparent; }
+    .sc-cover:hover { border-color:var(--accent); }
+    .sc-cover:active { transform:scale(0.99); }
+    .sc-cover-g { position:absolute; top:9px; right:9px; background:rgba(20,15,14,0.6); color:#fff; font:600 var(--fs-xs) var(--body); padding:4px 9px; border-radius:999px; text-transform:capitalize; backdrop-filter:blur(3px); }
+    .sc-cover-b { position:absolute; left:0; right:0; bottom:0; padding:14px 12px 11px; background:linear-gradient(to top, rgba(13,9,8,0.94) 28%, rgba(13,9,8,0.55) 70%, rgba(13,9,8,0)); }
+    .sc-cover-n { display:block; font:800 var(--fs-lg) var(--head); color:#fff; }
+    .sc-cover-cc { font:600 var(--fs-xs) var(--body); color:rgba(255,255,255,0.66); }
+    .sc-faces { display:flex; margin:7px 0 5px; }
+    .sc-face { width:26px; height:26px; border-radius:50%; border:2px solid rgba(13,9,8,0.92); background-color:#4a4048; background-size:cover; background-position:center; display:inline-block; }
+    .sc-cover-ct { display:block; font:500 var(--fs-xs) var(--body); color:rgba(255,255,255,0.78); }
+    /* DS: city scene-guide map-split layout */
+    .cs-split { display:grid; grid-template-columns:1fr 300px; gap:22px; align-items:start; }
+    .cs-side { position:sticky; top:14px; }
+    .cs-map { height:440px; border-radius:14px; overflow:hidden; border:1px solid var(--line); }
+    .cs-map-cap { margin-top:8px; font:500 var(--fs-xs) var(--body); color:var(--muted); }
+    @media (max-width:760px){ .cs-split { grid-template-columns:1fr; } .cs-side { position:static; order:-1; margin-bottom:6px; } .cs-map { height:260px; } }
     /* DS: taste onboarding overlay */
     .taste-box { max-width:460px; max-height:88vh; overflow-y:auto; }
     .to-label { display:block; margin:16px 0 6px; font:700 var(--fs-sm) var(--body); color:var(--fg); }
@@ -1170,7 +1188,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782211958104">
+<meta name="sc-build" content="1782213002286">
 <meta name="description" content="CLUB STAMINA: Mina Galán, Vita's House, Memphy, BABYNYMPH, James Massiah, at FOLD on Sat 11 Jul, London. 5 acts on the bill: JONE OF ARX, James Massiah, LOVECAT and Memphy and 1 more. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2395527-club-stamina-mina-gal-n-vita-s-house-memphy-babynymph-james/">
 <meta property="og:type" content="website">
@@ -3628,40 +3646,39 @@
       setRoute('map');
       var cm=cityMeta();
       showPage('<h2 class="page-title">Venue map</h2><div class="sub" style="margin-bottom:14px">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
-      var el=document.getElementById('venue-map');
+      mountVenueMap(document.getElementById('venue-map'), currentCity, { center:[cm.lat||51.5074, cm.lng||-0.1278] });
+    }
+    // Reusable club map: CARTO dark tiles + hybrid dot/date-pill markers from /api/venues/map
+    // (server bbox-filters per city). Used by the full Venue-map page AND the city scene guide.
+    function mountVenueMap(el, city, opts){
+      if(!el) return; opts=opts||{};
       loadLeaflet(async function(){
-        if(location.hash!=='#map' || !document.getElementById('venue-map')) return; // navigated away while loading
-        var map=L.map(el).setView([cm.lat||51.5074, cm.lng||-0.1278], 11);
+        if(!document.body.contains(el)) return; // navigated away while loading
+        var map=L.map(el, opts.scroll===false?{scrollWheelZoom:false}:{}).setView(opts.center||[51.5074,-0.1278], 11);
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
-        var j; try{ j=await pubGet('/api/venues/map?city='+encodeURIComponent(currentCity)); }catch(_){ j={}; }
-        // server bbox-filters per city; trust it
+        var j; try{ j=await pubGet('/api/venues/map?city='+encodeURIComponent(city)); }catch(_){ j={}; }
         var vs=(j.venues||[]), pts=[];
         function pinDate(iso){ if(!iso) return ''; var d=new Date(String(iso).slice(0,10)+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'}); }
         function popupHTML(v){ var up=v.upcoming?(v.upcoming+' upcoming night'+(v.upcoming===1?'':'s')):'no dates yet'; return '<b>'+esc(v.name)+'</b><br><span style="color:#9292a0">'+esc(up)+'</span><br><span class="map-link" data-venue="'+esc(v.name)+'">View venue &rsaquo;</span>'; }
         var dots=L.layerGroup(), pills=L.layerGroup();
         vs.forEach(function(v){
-          pts.push([v.lat,v.lng]);
-          var pop=popupHTML(v);
-          // zoomed-out: soft glow halo (= big tap target) under a crisp dot
+          pts.push([v.lat,v.lng]); var pop=popupHTML(v);
           var halo=L.circleMarker([v.lat,v.lng],{ radius:16, weight:0, fillColor:'#ff7a6b', fillOpacity:0.13 });
           var dot=L.circleMarker([v.lat,v.lng],{ radius:7, color:'#fff', weight:1.5, fillColor:'#ff7a6b', fillOpacity:1 });
-          halo.bindPopup(pop); dot.bindPopup(pop);
-          dots.addLayer(halo); dots.addLayer(dot);
-          // zoomed-in: next-night date pill (bare salmon dot if no date) — large tap area
+          halo.bindPopup(pop); dot.bindPopup(pop); dots.addLayer(halo); dots.addLayer(dot);
           var label=pinDate(v.next_date);
           var html=label ? '<div class="vpin"><span class="vd"></span>'+esc(label)+'</div>' : '<div class="vpin bare"></div>';
           var pill=L.marker([v.lat,v.lng],{ icon:L.divIcon({ className:'', html:html, iconAnchor:[10,12] }) });
-          pill.bindPopup(pop);
-          pills.addLayer(pill);
+          pill.bindPopup(pop); pills.addLayer(pill);
         });
         function sync(){ var z=map.getZoom();
           if(z>=13){ if(map.hasLayer(dots)) map.removeLayer(dots); if(!map.hasLayer(pills)) map.addLayer(pills); }
           else { if(map.hasLayer(pills)) map.removeLayer(pills); if(!map.hasLayer(dots)) map.addLayer(dots); }
         }
         map.on('zoomend',sync); sync();
-        if(pts.length) map.fitBounds(pts,{ padding:[40,40], maxZoom:13 });
-        el.addEventListener('click',function(e){ var a=e.target.closest('.map-link[data-venue]'); if(a){ openVenue(a.dataset.venue); } });
-        setTimeout(function(){ map.invalidateSize(); },120); // settle after layout
+        if(pts.length) map.fitBounds(pts,{ padding:[36,36], maxZoom:13 });
+        el.addEventListener('click',function(e){ var a=e.target.closest('.map-link[data-venue]'); if(a){ openVenue(a.dataset.venue, city); } });
+        setTimeout(function(){ map.invalidateSize(); },140); // settle after layout
       });
     }
 
@@ -3802,7 +3819,18 @@
     function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
     function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
     function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
-    // The all-cities scene index — a block per city, each linking to its scene guide.
+    // The all-cities scene index — image-led cover tiles: the city's biggest-night poster
+    // behind, signature sound, and the faces of the most notable acts playing there.
+    function sceneTone(slug){ var t=['#33403f','#3a2e3b','#3b332b','#2c3340','#3a2e2c','#2f3830','#34303f']; var n=0; for(var i=0;i<slug.length;i++) n=(n*31+slug.charCodeAt(i))>>>0; return t[n%t.length]; }
+    function coverTileHTML(c){
+      var bg=c.image?('background-image:url('+imgUrl(c.image,420)+')'):('background:'+sceneTone(c.slug));
+      var faces=(c.faces||[]).slice(0,4).map(function(f,i){ return '<span class="sc-face" style="'+(f.image?'background-image:url('+imgUrl(f.image,80)+');':'')+'margin-left:'+(i?-9:0)+'px"></span>'; }).join('');
+      return '<button class="sc-cover'+(c.image?' has-img':'')+'" type="button" data-city="'+esc(c.slug)+'" style="'+bg+'">'+
+        (c.topGenre?'<span class="sc-cover-g">'+esc(c.topGenre)+'</span>':'')+
+        '<span class="sc-cover-b"><span class="sc-cover-n">'+esc(c.name)+(c.country?' <span class="sc-cover-cc">'+esc(c.country)+'</span>':'')+'</span>'+
+        (faces?'<span class="sc-faces">'+faces+'</span>':'')+
+        '<span class="sc-cover-ct">'+c.count+' nights</span></span></button>';
+    }
     async function openScenes(){
       if(location.pathname!==SC_BASE+'scenes/') history.pushState({sc:1},'',SC_BASE+'scenes/');
       openPanel(pageSkeleton());
@@ -3810,17 +3838,11 @@
         var r=await authedFetch('/api/scenes'); var j=await r.json();
         var cs=j.cities||[];
         var h='<h2 class="page-title">Scene guides</h2><div class="sub" style="margin-bottom:16px">Every city with a scene right now — pick one to find your room by sound.</div>';
-        h+='<div class="scene-grid">'+cs.map(function(c){
-          var teaser=[c.topGenre, c.topVenue&&c.topVenue.name].filter(Boolean).join(' &middot; ');
-          return '<button class="scene-card" type="button" data-city="'+esc(c.slug)+'">'+
-            '<span class="scene-card-top"><span class="scene-card-city">'+esc(c.name)+'</span>'+(c.country?'<span class="scene-card-cc">'+esc(c.country)+'</span>':'')+'</span>'+
-            (teaser?'<span class="scene-card-teaser">'+teaser+'</span>':'')+
-            '<span class="scene-card-n">'+c.count+' upcoming</span></button>';
-        }).join('')+'</div>';
+        h+='<div class="sc-cover-grid">'+cs.map(coverTileHTML).join('')+'</div>';
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the venues, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .scene-card[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+        document.querySelectorAll('#page-body .sc-cover[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
     // Scene routing: each row is a sound → the rooms that specialise in it, with an honest
@@ -3841,8 +3863,10 @@
         var nm=s.cityName||city;
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Find your room by sound — then the promoters &amp; artists shaping '+esc(nm)+'.</div>';
         if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
-        h+='<div id="cs-routes"></div><div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div>';
+        h+='<div class="cs-split"><div class="cs-main"><div id="cs-routes"></div><div id="cs-venues"></div><div id="cs-promoters"></div><div id="cs-watch"></div><div id="cs-resi"></div></div>'+
+           '<div class="cs-side"><div class="sec-h" style="margin:0 0 8px">On the map</div><div id="cs-map" class="cs-map"></div><div class="cs-map-cap">Every club in '+esc(nm)+' with an upcoming night — tap a pin.</div></div></div>';
         openPanel(h);
+        mountVenueMap(document.getElementById('cs-map'), city, { scroll:false });
         setSeo(nm+' scene guide — find your room by sound | soundcheck', 'If you like a sound, here are the '+nm+' venues that play it — plus the promoters and artists shaping the scene.', null, location.origin+SC_BASE+city+'/scene/');
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
         var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
