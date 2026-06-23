@@ -1273,7 +1273,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782255310193">
+<meta name="sc-build" content="1782255598998">
 </head>
 <body>
   <main class="wrap">
@@ -3419,8 +3419,10 @@
       function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
       var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
       x+='<div class="sec-h" style="margin-top:22px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
-      if(s.events && s.events.length){ x+='<div class="sec-h" style="margin-top:22px">Saved events<span class="ct">'+s.events.length+'</span></div><ul class="tray-line">'+s.events.map(function(e){ var sub=esc(e.venue||'')+(e.day?(' &middot; '+esc(fmtDateLabel(String(e.day).slice(0,10)))):''); return '<li><span class="open-ev"'+(e.id!=null?' data-open-evt="'+esc(String(e.id))+'"':'')+'>'+esc(e.title||'Event')+(sub?' <small>'+sub+'</small>':'')+'</span></li>'; }).join('')+'</ul>'; }
-      if(s.venues && s.venues.length){ x+='<div class="sec-h" style="margin-top:22px">Following venues<span class="ct">'+s.venues.length+'</span></div><ul class="tray-line">'+s.venues.map(function(vn){ return '<li><span class="open-ev" data-venue="'+esc(vn.name)+'">'+esc(vn.name||'Venue')+'</span></li>'; }).join('')+'</ul>'; }
+      // Saved events + following venues use the same poster / venue-card rails as the city
+      // scene page (mounted in wireShelfBody once the placeholders are in the DOM).
+      if(s.events && s.events.length){ x+='<div id="shelf-events"></div>'; }
+      if(s.venues && s.venues.length){ x+='<div id="shelf-venues"></div>'; }
       return x;
     }
     function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
@@ -3453,8 +3455,11 @@
     }
     function wireShelfBody(body, s, handle){
       body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-      body.querySelectorAll('.open-ev[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); });
-      body.querySelectorAll('.open-ev[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.openEvt); }); });
+      // Saved events → poster rail; following venues → venue-card rail (city-scene look)
+      var evBox=body.querySelector('#shelf-events');
+      if(evBox && s.events && s.events.length) mountEventRail(evBox, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length, mt:'22px' });
+      var vnBox=body.querySelector('#shelf-venues');
+      if(vnBox && s.venues && s.venues.length) mountVenueRail(vnBox, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length, mt:'22px' });
       body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+handle+':'+w).then(function(){ var st='shelf:'+handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); });
     }
     async function openProfile(handle){
