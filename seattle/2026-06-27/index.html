@@ -715,7 +715,10 @@
     .fy-filt.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .fy-row { display:flex; align-items:center; gap:12px; padding:10px 0; border-bottom:1px solid var(--line); cursor:pointer; }
     .fy-row:last-child { border-bottom:none; }
-    .fy-poster { flex:none; width:54px; height:54px; border-radius:11px; background-size:cover; background-position:center; background-color:var(--surface); }
+    .fy-poster { position:relative; flex:none; width:54px; height:54px; border-radius:11px; background-size:cover; background-position:center; background-color:var(--surface); }
+    .fy-play { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; border:none; border-radius:11px; background:rgba(0,0,0,0.42); color:#fff; font-size:16px; padding-left:2px; cursor:pointer; opacity:0; transition:opacity .15s ease; -webkit-tap-highlight-color:transparent; }
+    .fy-poster:hover .fy-play, .fy-play:focus-visible { opacity:1; }
+    @media (hover:none){ .fy-play { opacity:1; background:rgba(0,0,0,0.32); } }
     .fy-tx { flex:1; min-width:0; display:flex; flex-direction:column; gap:2px; }
     .fy-top { display:flex; align-items:center; gap:8px; }
     .fy-match { flex:none; font:700 var(--fs-xs) var(--body); border-radius:999px; padding:1px 8px; }
@@ -1021,6 +1024,7 @@
     .bnav-tab.on { color:var(--accent); }
     .bnav-tab.onair svg { animation:radio-pulse 1.6s ease-in-out infinite; }
     @media (max-width:620px){
+      #hdr-discover { display:none; }  /* the bottom nav carries Discover on mobile */
       .bnav { display:flex; }
       body { padding-bottom:calc(72px + env(safe-area-inset-bottom)); }
       .fab-stack { bottom:calc(72px + env(safe-area-inset-bottom)); }  /* radio pill floats above the nav */
@@ -1153,7 +1157,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782173581889">
+<meta name="sc-build" content="1782176646085">
 <meta name="description" content="3 events in Seattle on Sat, 27 Jun 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/seattle/2026-06-27/">
 <meta property="og:type" content="website">
@@ -1171,6 +1175,7 @@
     <nav>
       <a class="logo" href=".">SOUNDCHECK</a>
       <button class="hdr-brand" id="hdr-brand" type="button" aria-label="Change city"><span class="ac">Soundcheck</span> <span id="hdr-brand-city">London</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
+      <button class="hdr-icon" id="hdr-discover" type="button" aria-label="Discover"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></button>
       <button class="hdr-icon" id="hdr-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></button>
       <div class="account account-wrap" id="account"></div>
     </nav>
@@ -2106,6 +2111,15 @@
       radioTuneIn();
     }
 
+    // "More music" — play an event's line-up as a radio station from anywhere an event
+    // surfaces (a venue/promoter's next night, a Discover feed row). Reuses the event-station
+    // model so it toggles consistently with the same event played elsewhere.
+    function nextPlayableEvent(list){ return (list||[]).find(function(e){ return e && (e.lineup||[]).length; }) || null; }
+    function playEventLineupRadio(ev){
+      var line=(ev&&ev.lineup)||[];
+      if(!line.length){ showToast('No line-up to play yet.'); return; }
+      startEventRadio({ id:ev.id, venue:ev.venue||'', _day:ev.event_date?fmtEventDay(ev.event_date):'', poster:ev.poster_url||'', artists:line.map(function(a){ return { contentUrl:'/'+a.slug, name:a.name }; }) });
+    }
     // ── mobile bottom nav ──
     function syncTabs(){
       var onPage=document.body.classList.contains('page-on'), route=currentRoute();
@@ -3492,7 +3506,7 @@
       var poster=e.poster_url?'background-image:url('+imgUrl(e.poster_url,200)+')':'';
       var gem=(e.gem&&e.gem.level)?'<span class="gem-tag">'+esc(e.gem.level)+'</span>':'';
       return '<div class="fy-row" data-ev="'+esc(String(e.id))+'">'+
-        '<span class="fy-poster" style="'+poster+'"></span>'+
+        '<span class="fy-poster" style="'+poster+'">'+((e.lineup&&e.lineup.length)?'<button class="fy-play" data-play="'+esc(String(e.id))+'" type="button" aria-label="Play line-up radio">&#9654;</button>':'')+'</span>'+
         '<span class="fy-tx"><span class="fy-top"><span class="fy-match fy-m'+tier+'">'+e.match+'% match</span>'+gem+'</span>'+
         '<span class="fy-title">'+esc(title)+'</span>'+
         '<span class="fy-sub">'+esc(d)+(e.venue?' &middot; '+esc(e.venue):'')+'</span>'+
@@ -3507,8 +3521,10 @@
         var head='<div class="sec-h" style="margin-top:8px">For you</div>'+
           '<div class="fy-filters"><button class="fy-filt'+(gemsOnly?' on':'')+'" id="fy-gems" type="button">&#9670; Hidden gems only</button></div>';
         box.innerHTML=head+(evs.length?evs.map(fyRowHTML).join(''):'<div class="empty">Nothing scored yet — save a few artists and it&rsquo;ll sharpen.</div>');
+        var byId={}; evs.forEach(function(e){ byId[String(e.id)]=e; });
         var fg=document.getElementById('fy-gems'); if(fg) fg.addEventListener('click',function(){ loadForYou(!gemsOnly); });
-        box.querySelectorAll('.fy-row[data-ev]').forEach(function(row){ row.addEventListener('click',function(ev){ if(ev.target.closest('.fy-x')) return; openEvent(row.dataset.ev); }); });
+        box.querySelectorAll('.fy-row[data-ev]').forEach(function(row){ row.addEventListener('click',function(ev){ if(ev.target.closest('.fy-x')||ev.target.closest('.fy-play')) return; openEvent(row.dataset.ev); }); });
+        box.querySelectorAll('.fy-play[data-play]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.play]; if(e) playEventLineupRadio({ id:e.id, venue:e.venue, event_date:e.event_date, poster_url:e.poster_url, lineup:e.lineup }); }); });
         box.querySelectorAll('.fy-x[data-dismiss]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation();
           authedFetch('/api/track',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({kind:'not_interested',subjectType:'event',subjectId:b.dataset.dismiss}) }).catch(function(){});
           var row=b.closest('.fy-row'); if(row) row.remove();
@@ -3845,8 +3861,12 @@
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their nights.</div>';
         if((p.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+p.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        var pNext=nextPlayableEvent(p.upcoming);
+        if(pNext) h+='<div class="artist-actions" style="max-width:240px;margin-top:12px"><button class="ev-radio" id="pp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button></div>';
         h+='<div id="pp-upcoming"></div><div id="pp-artists"></div><div id="pp-venues"></div><div id="pp-similar"></div><div id="pp-past"></div>';
         openPanel(h);
+        var prb=document.getElementById('pp-radio');
+        if(prb && pNext) prb.addEventListener('click',function(){ playEventLineupRadio({ id:pNext.id, venue:pNext.venue, event_date:pNext.event_date, poster_url:pNext.poster_url, lineup:pNext.lineup }); });
         var _pcanon=location.origin+SC_BASE+'promoter/'+slug+'/';
         setSeo(dispName+' — events & line-ups | soundcheck', p.description||'', { "@context":"https://schema.org","@type":"Organization", name:dispName, url:_pcanon, description:p.description||'' }, _pcanon);
         var up=(p.upcoming||[]), pu=document.getElementById('pp-upcoming');
@@ -3902,7 +3922,8 @@
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
         // "logged" + "saved upcoming" counts hidden — no social proof surfaced yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
-        if(v.slug){ h+='<div class="artist-actions" style="max-width:280px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button></div>'; }
+        var vNext=nextPlayableEvent(v.upcoming);
+        if(v.slug){ h+='<div class="artist-actions" style="max-width:380px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button>'+(vNext?'<button class="ev-radio" id="vp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button>':'')+'</div>'; }
         h+='<div id="vp-dna"></div><div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
@@ -3911,6 +3932,8 @@
         setSeo(dispName+" — what's on & tickets | soundcheck", v.description||'', { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:v.description||'', address:v.address||undefined }, _vcanon);
         var vfBtn=document.getElementById('vf-btn');
         if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
+        var vrb=document.getElementById('vp-radio');
+        if(vrb && vNext) vrb.addEventListener('click',function(){ playEventLineupRadio({ id:vNext.id, venue:dispName, event_date:vNext.event_date, poster_url:vNext.poster_url, lineup:vNext.lineup }); });
         var cbBtn=document.getElementById('vp-claim');
         if(cbBtn) cbBtn.addEventListener('click',function(){ openClaimModal(dispName, v.slug); });
         // F7: venue DNA — behaviorally-derived intelligence (lazy).
@@ -4905,6 +4928,7 @@
     }
 
     document.getElementById('hdr-search').addEventListener('click',openSearch);
+    document.getElementById('hdr-discover').addEventListener('click',function(){ openDiscover(); });
     friBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[0], 'fri'); });
     satBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[1], 'sat'); });
     // On Saturday the upcoming "Friday" pill points at yesterday — hide it so the
