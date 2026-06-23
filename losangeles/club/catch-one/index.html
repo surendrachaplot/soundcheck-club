@@ -1170,7 +1170,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782210731564">
+<meta name="sc-build" content="1782211241193">
 <meta name="description" content="Catch One is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Perc. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.">
 <link rel="canonical" href="https://soundcheck.club/losangeles/club/catch-one/">
 <meta property="og:type" content="profile">
@@ -3861,7 +3861,7 @@
         }
         var bv=(s.bestVenues||[]), cv=document.getElementById('cs-venues');
         if(cv && bv.length){
-          cv.innerHTML='<div class="sec-h" style="margin-top:24px">Best venues</div><div class="pp-tags">'+bv.map(function(v){ return '<button class="pp-prom" type="button" data-venue="'+esc(v.venue)+'">'+esc(v.venue)+' <small>'+v.n+'</small></button>'; }).join('')+'</div>';
+          cv.innerHTML='<div class="sec-h" style="margin-top:24px">Biggest rooms</div><div class="pp-tags">'+bv.map(function(v){ return '<button class="pp-prom" type="button" data-venue="'+esc(v.venue)+'">'+esc(v.venue)+' <small>'+v.n+'</small></button>'; }).join('')+'</div>';
           cv.querySelectorAll('.pp-prom[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
         }
         var bp=(s.bestPromoters||[]), cp=document.getElementById('cs-promoters');
