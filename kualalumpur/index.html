@@ -758,9 +758,11 @@
     .srail-art-v:hover { color:var(--accent); }
     /* next-gig subtitle (More like X): salmon date over a muted venue · city line; .srail-wide gives it room */
     .srail-art-d { display:block; max-width:98px; background:none; border:none; padding:0; text-align:left; font:600 var(--fs-xs) var(--body); color:var(--accent); margin-top:6px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .srail-wide .srail-art, .srail-wide .srail-art-n { width:114px; }
-    .srail-wide .srail-art-img { width:114px; height:114px; }
-    .srail-wide .srail-art-v, .srail-wide .srail-art-d { max-width:114px; }
+    /* wide artist tiles match the event-poster width (142px) so the Discover rails — and
+       every feature rail — line up column-for-column. */
+    .srail-wide .srail-art, .srail-wide .srail-art-n { width:142px; }
+    .srail-wide .srail-art-img { width:142px; height:142px; }
+    .srail-wide .srail-art-v, .srail-wide .srail-art-d { max-width:142px; }
     /* graceful rail loading — shimmer skeletons hold the exact space; real content eases in */
     .srail-sk { display:flex; gap:14px; padding:2px 2px 12px; overflow:hidden; }
     .srail-sk-t { flex:none; }
@@ -1266,7 +1268,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782253207750">
+<meta name="sc-build" content="1782253865956">
 </head>
 <body>
   <main class="wrap">
@@ -3675,7 +3677,7 @@
     // nothing jumps, then the real rail (.srail-anim) eases in over it. opts:{kind,n,title,mt,wide}.
     function railSkeleton(el, opts){
       opts=opts||{}; if(!el) return;
-      var n=opts.n||6, k=opts.kind||'artist', w=opts.wide?114:98, t='';
+      var n=opts.n||6, k=opts.kind||'artist', w=opts.wide?142:98, t='';
       for(var i=0;i<n;i++){
         if(k==='event') t+='<div class="srail-sk-t" style="width:142px"><div class="sk" style="width:142px;aspect-ratio:3/4;border-radius:11px"></div><div class="sk srail-sk-l" style="width:80%"></div><div class="sk srail-sk-l" style="width:55%"></div></div>';
         else if(k==='venue') t+='<div class="srail-sk-t"><div class="sk" style="width:208px;height:124px;border-radius:13px"></div></div>';
