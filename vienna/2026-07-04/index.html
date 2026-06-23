@@ -754,6 +754,8 @@
     .srail-art-v:hover { color:var(--accent); }
     .srail-post { flex:none; width:142px; cursor:pointer; }
     .srail-post-img { position:relative; width:142px; aspect-ratio:3/4; border-radius:11px; background:#2c2630; background-size:cover; background-position:center; }
+    .srail-post-img .match { position:absolute; top:7px; left:7px; background:rgba(13,9,8,0.72); color:var(--accent); font:700 var(--fs-xs) var(--body); padding:3px 7px; border-radius:7px; }
+    .srail-post-img .srail-gem { position:absolute; top:7px; right:7px; background:var(--accent); color:var(--accent-ink); font:700 10px var(--body); padding:2px 6px; border-radius:6px; }
     .srail-post-t { font:700 var(--fs-sm) var(--body); margin-top:8px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .srail-post-s { font:500 var(--fs-xs) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .srail-ven { position:relative; flex:none; width:208px; height:124px; border-radius:13px; overflow:hidden; background:#2c2630; background-size:cover; background-position:center; cursor:pointer; display:flex; align-items:flex-end; padding:12px; }
@@ -1232,7 +1234,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782228223541">
+<meta name="sc-build" content="1782229650997">
 <meta name="description" content="3 events in Vienna on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/vienna/2026-07-04/">
 <meta property="og:type" content="website">
@@ -3618,36 +3620,57 @@
 
     // ── public search (events / venues / artists) ──
     // ── P2: personalized "For you" feed (v2.1 ranked event_score + reasons) ──
-    function fyRowHTML(e){
-      var tier=e.match>=60?'hi':(e.match>=35?'mid':'lo');
-      var title=e.title || ((e.lineup||[])[0]||{}).name || 'Event';
-      var d=fmtDateLabel(String(e.event_date).slice(0,10));
-      var poster=e.poster_url?'background-image:url('+imgUrl(e.poster_url,200)+')':'';
-      var gem=(e.gem&&e.gem.level)?'<span class="gem-tag">'+esc(e.gem.level)+'</span>':'';
-      return '<div class="fy-row" data-ev="'+esc(String(e.id))+'">'+
-        '<span class="fy-poster" style="'+poster+'">'+((e.lineup&&e.lineup.length)?'<button class="fy-play" data-play="'+esc(String(e.id))+'" type="button" aria-label="Play line-up radio">&#9654;</button>':'')+'</span>'+
-        '<span class="fy-tx"><span class="fy-top"><span class="fy-match fy-m'+tier+'">'+e.match+'% match</span>'+gem+'</span>'+
-        '<span class="fy-title">'+esc(title)+'</span>'+
-        '<span class="fy-sub">'+esc(d)+(e.venue?' &middot; '+esc(e.venue):'')+'</span>'+
-        ((e.why&&e.why.length)?'<span class="fy-why">'+esc(e.why[0])+'</span>':'')+'</span>'+
-        '<button class="fy-x" data-dismiss="'+esc(String(e.id))+'" type="button" aria-label="Not interested">&times;</button></div>';
+    // Build-your-taste prompt — only shown when there's no taste profile yet.
+    function renderTasteCTA(onboarded){
+      var el=document.getElementById('dc-taste'); if(!el) return;
+      if(onboarded){ el.innerHTML=''; return; }
+      el.innerHTML='<button class="scene-cta" id="dc-taste-btn" type="button"><span class="scene-cta-tx"><b>Build your taste</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+      var b=document.getElementById('dc-taste-btn'); if(b) b.addEventListener('click',function(){ if(currentUser) openTasteOnboard(); else openAuth(); });
     }
-    function loadForYou(gemsOnly){
+    // Artists-for-you rail — photos, play walks the rail as a youtube queue.
+    function renderDcArtists(arts){
+      var el=document.getElementById('dc-artists'); if(!el || !arts.length) return;
+      var list=arts.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
+      el.innerHTML='<div class="sec-h" style="margin-top:24px">Artists for you</div><div class="srail">'+arts.map(function(a,i){
+        var img=a.image?('background-image:url('+imgUrl(a.image,180)+')'):('background:'+sceneTone(a.slug));
+        return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-i="'+i+'" aria-label="Play '+esc(a.name)+'">&#9654;</span></div><button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button></div>';
+      }).join('')+'</div>';
+      el.querySelectorAll('.srail-art-img[data-artist], .srail-art-n[data-artist]').forEach(function(b){ b.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openArtist(b.dataset.artist); }); });
+      el.querySelectorAll('.srail-play[data-i]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(list, parseInt(b.dataset.i,10)||0); }); });
+    }
+    // Scene-guides rail — the entry point into city guides (cover image + name → guide; + All N).
+    function loadDcScenes(){
+      var el=document.getElementById('dc-scenes'); if(!el) return;
+      authedFetch('/api/scenes').then(function(r){ return r.json(); }).then(function(j){
+        var cs=(j.cities||[]); if(!cs.length) return;
+        el.innerHTML='<div class="sec-h" style="margin-top:24px">Scene guides<button class="more" id="dc-allscenes" type="button">All '+cs.length+' &rsaquo;</button></div><div class="srail">'+cs.slice(0,14).map(function(c){
+          var img=c.image?('background-image:url('+imgUrl(c.image,360)+')'):('background:'+sceneTone(c.slug));
+          return '<div class="srail-ven" data-city="'+esc(c.slug)+'" style="'+img+'"><span class="srail-ven-n">'+esc(c.name)+'</span></div>';
+        }).join('')+'</div>';
+        var more=document.getElementById('dc-allscenes'); if(more) more.addEventListener('click',function(){ openScenes(); });
+        el.querySelectorAll('.srail-ven[data-city]').forEach(function(c){ c.addEventListener('click',function(){ openCityScene(c.dataset.city); }); });
+      }).catch(function(){});
+    }
+    // For-you rail — personalised event posters (match % + play the line-up as a youtube
+    // queue). Also resolves the taste-CTA: build-your-taste shows only when not onboarded.
+    function loadForYou(){
       var box=document.getElementById('dc-feed'); if(!box) return;
-      authedFetch('/api/feed?city='+encodeURIComponent(currentCity)+(gemsOnly?'&gems=1':'')).then(function(r){ return r.json(); }).then(function(j){
-        if(j.error || !j.onboarded){ box.innerHTML=''; return; }   // not onboarded → the build-taste CTA handles it
+      authedFetch('/api/feed?city='+encodeURIComponent(currentCity)).then(function(r){ return r.json(); }).then(function(j){
+        if(j.error || !j.onboarded){ box.innerHTML=''; renderTasteCTA(false); return; }
+        renderTasteCTA(true); // has taste → no prompt
         var evs=j.events||[];
-        var head='<div class="sec-h" style="margin-top:8px">For you</div>'+
-          '<div class="fy-filters"><button class="fy-filt'+(gemsOnly?' on':'')+'" id="fy-gems" type="button">&#9670; Hidden gems only</button></div>';
-        box.innerHTML=head+(evs.length?evs.map(fyRowHTML).join(''):'<div class="empty">Nothing scored yet — save a few artists and it&rsquo;ll sharpen.</div>');
+        if(!evs.length){ box.innerHTML='<div class="sec-h" style="margin-top:8px">For you</div><div class="empty">Nothing scored yet — save a few artists and it&rsquo;ll sharpen.</div>'; return; }
         var byId={}; evs.forEach(function(e){ byId[String(e.id)]=e; });
-        var fg=document.getElementById('fy-gems'); if(fg) fg.addEventListener('click',function(){ loadForYou(!gemsOnly); });
-        box.querySelectorAll('.fy-row[data-ev]').forEach(function(row){ row.addEventListener('click',function(ev){ if(ev.target.closest('.fy-x')||ev.target.closest('.fy-play')) return; openEvent(row.dataset.ev); }); });
-        box.querySelectorAll('.fy-play[data-play]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.play]; if(e) playEventLineupRadio({ id:e.id, venue:e.venue, event_date:e.event_date, poster_url:e.poster_url, lineup:e.lineup }); }); });
-        box.querySelectorAll('.fy-x[data-dismiss]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation();
-          authedFetch('/api/track',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({kind:'not_interested',subjectType:'event',subjectId:b.dataset.dismiss}) }).catch(function(){});
-          var row=b.closest('.fy-row'); if(row) row.remove();
-        }); });
+        box.innerHTML='<div class="sec-h" style="margin-top:8px">For you</div><div class="srail">'+evs.map(function(e){
+          var img=e.poster_url?('background-image:url('+imgUrl(e.poster_url,300)+')'):('background:'+sceneTone(String(e.id)));
+          var d=fmtDateLabel(String(e.event_date).slice(0,10));
+          var ttl=e.title||((e.lineup||[])[0]||{}).name||'Event';
+          var gem=(e.gem&&e.gem.level)?'<span class="srail-gem">'+esc(e.gem.level)+'</span>':'';
+          return '<div class="srail-post" data-ev="'+esc(String(e.id))+'"><div class="srail-post-img" style="'+img+'"><span class="match">'+e.match+'%</span>'+gem+((e.lineup&&e.lineup.length)?'<span class="srail-play br" data-evplay="'+esc(String(e.id))+'" aria-label="Play line-up">&#9654;</span>':'')+'</div>'+
+            '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,d].filter(Boolean).join(' · '))+'</div></div>';
+        }).join('')+'</div>';
+        box.querySelectorAll('.srail-post[data-ev]').forEach(function(c){ c.addEventListener('click',function(ev){ if(ev.target.closest('.srail-play')) return; openEvent(c.dataset.ev); }); });
+        box.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.evplay]; if(e) playYtList((e.lineup||[]).map(function(a){ return {slug:a.slug,name:a.name,poster:e.poster_url}; }), 0); }); });
       }).catch(function(){});
     }
     async function openDiscover(){
@@ -3656,19 +3679,13 @@
       try{
         var r=await authedFetch('/api/discover'); var j=await r.json();
         var arts=j.artists||[];
-        var sub=j.personalized?'Artists you might like, from who you follow.':'Trending across soundcheck right now.';
-        var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">'+sub+'</div>';
-        if(currentUser) h+='<div id="dc-feed"></div>';
-        h+='<button class="scene-cta" id="dc-scene" type="button"><span class="scene-cta-tx"><b>'+esc(cityLabel(currentCity))+' scene guide</b><span>Find your room by sound — which venues play what</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
-        h+='<button class="scene-allcities" id="dc-scenes" type="button">Browse scene guides for every city &rarr;</button>';
-        if(currentUser) h+='<button class="scene-cta" id="dc-taste" type="button"><span class="scene-cta-tx"><b>Build your taste profile</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
-        h+= arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug,a.name,false,a.image); }).join('')+'</div>' : '<div class="empty">Heart a few artists and check back &mdash; we&rsquo;ll line up more like them.</div>';
+        var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">Tonight, tuned to you.</div>';
+        h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-scenes"></div>';
         openPanel(h);
-        var dcs=document.getElementById('dc-scene'); if(dcs) dcs.addEventListener('click',function(){ openCityScene(currentCity); });
-        var dcss=document.getElementById('dc-scenes'); if(dcss) dcss.addEventListener('click',function(){ openScenes(); });
-        var dct=document.getElementById('dc-taste'); if(dct) dct.addEventListener('click',function(){ openTasteOnboard(); });
-        document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        if(currentUser) loadForYou(false);
+        renderDcArtists(arts);   // artists for you
+        loadDcScenes();          // scene-guides entry rail
+        if(currentUser) loadForYou();   // for-you poster rail (also toggles the taste prompt)
+        else renderTasteCTA(false);     // signed out → prompt to sign in / build taste
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
     }
     function openSearch(){
