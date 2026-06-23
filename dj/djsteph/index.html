@@ -725,6 +725,8 @@
     .cs-map-cap { margin:8px 0 6px; font:500 var(--fs-xs) var(--body); color:var(--muted); }
     @media (max-width:620px){ .cs-map-hero { height:300px; } }
     .rf-card { display:flex; align-items:center; gap:12px; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:13px 15px; margin-bottom:10px; }
+    .rf-card-simple { display:block; }
+    .rf-card-simple .rf-genre { margin-bottom:11px; }
     .rf-tx { flex:1; min-width:0; }
     .rf-genre { font:800 var(--fs-lg) var(--head); text-transform:capitalize; }
     .rf-like { display:block; color:var(--muted); font:500 var(--fs-sm) var(--body); margin:3px 0 9px; }
@@ -1230,7 +1232,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782223054131">
+<meta name="sc-build" content="1782228223541">
 <meta name="description" content="DjSteph is an electronic artist tracked on soundcheck, with 23 sets logged across Athens. Often billed alongside Rezo (2), Steve Sai and Nick Devon. Next up: Bolivar Beach Bar, Athens on Thu 9 Jul.">
 <link rel="canonical" href="https://soundcheck.club/dj/djsteph/">
 <meta property="og:type" content="profile">
@@ -1725,6 +1727,7 @@
     }
     function stopActive(){
       if(typeof radio!=='undefined' && radio.on) radioStop();
+      scQ=null;
       if(!active) return;
       active.button.classList.remove('playing'); setState(active.button,'▶');
       clearPlayers();
@@ -1798,7 +1801,7 @@
               // none of these fire and the icon stays ▶, so one tap plays it.
               if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING) updatePP(true);
               else if(e.data===YT.PlayerState.PAUSED || e.data===YT.PlayerState.CUED || e.data===YT.PlayerState.UNSTARTED) updatePP(false);
-              else if(e.data===YT.PlayerState.ENDED){ updatePP(false); }
+              else if(e.data===YT.PlayerState.ENDED){ updatePP(false); if(scQ&&scQ.length>1) playScQ(scQi+1); }
             }
           }
         });
@@ -1827,6 +1830,27 @@
     });
     document.getElementById('dock-close').addEventListener('click',function(){ stopActive(); });
 
+    // ── YouTube-style queue: play a list of artists as full sets in the dock, with the
+    // dock's prev/next walking the list (no radio broadcast / voiceover). Used by the city
+    // scene page — an artist rail, an event's line-up, a venue's next night.
+    var scQ=null, scQi=0;
+    function synthYtBtn(item){
+      var b=document.createElement('button');
+      b.className='play yt'; b.dataset.slug=item.slug||''; b.dataset.name=item.name||item.slug||'';
+      if(item.poster) b.dataset.poster=item.poster;
+      if(item.venue) b.dataset.venue=item.venue;
+      return b; // detached on purpose — handleYtClick keeps the queue for off-DOM buttons
+    }
+    function playYtList(list, startIdx){
+      list=(list||[]).filter(function(a){ return a && a.slug; });
+      if(!list.length){ showToast('Nothing to play yet.'); return; }
+      scQ=list; playScQ(startIdx||0);
+    }
+    function playScQ(i){
+      if(!scQ || !scQ.length) return;
+      scQi=((i % scQ.length)+scQ.length)%scQ.length;
+      handleYtClick(synthYtBtn(scQ[scQi]));
+    }
     // prev / next — walk the visible grid lineup of the current source type
     function currentQueue(){
       if(!active||!currentType) return [];
@@ -1834,6 +1858,7 @@
     }
     function queueKey(b){ return currentType==='yt' ? b.dataset.slug : b.dataset.sc; }
     function playAt(delta){
+      if(scQ && scQ.length){ playScQ(scQi+delta); return; } // youtube queue: walk the artists
       if(typeof radio!=='undefined' && radio.on){ radioAdvance(delta); return; } // radio: walk the station
       var q=currentQueue(); if(!q.length) return;
       var key=queueKey(active.button), i=-1;
@@ -1843,7 +1868,7 @@
       if(q[j]) q[j].click();
     }
     function updateNavButtons(){
-      var dis=(typeof radio!=='undefined' && radio.on) ? radio.queue.length<2 : currentQueue().length<2;
+      var dis=(scQ&&scQ.length) ? scQ.length<2 : ((typeof radio!=='undefined' && radio.on) ? radio.queue.length<2 : currentQueue().length<2);
       var p=document.getElementById('dock-prev'), n=document.getElementById('dock-next');
       [p,n].forEach(function(b){ if(b){ b.disabled=dis; b.style.opacity=dis?'0.35':''; } });
     }
@@ -1865,6 +1890,7 @@
       return btn._ytP;
     }
     async function handleYtClick(btn){
+      if(document.body.contains(btn)) scQ=null;   // a real on-page play leaves any youtube queue
       var wasMe=active&&active.button===btn;
       if(wasMe){ stopActive(); return; }   // tapping the playing one = stop
       if(!(await gateForPlay())) return;
@@ -2191,6 +2217,17 @@
       var line=(ev&&ev.lineup)||[];
       if(!line.length){ showToast('No line-up to play yet.'); return; }
       startEventRadio({ id:ev.id, venue:ev.venue||'', _day:ev.event_date?fmtEventDay(ev.event_date):'', poster:ev.poster_url||'', artists:line.map(function(a){ return { contentUrl:'/'+a.slug, name:a.name }; }) });
+    }
+    // YouTube-style: play a venue's next night as an artist queue (lazy fetch by name →
+    // its next playable event's line-up). Navigation + lookup key on the venue NAME, which
+    // is what /api/venue resolves against (its slug is a slugified name).
+    function playVenueNextYt(name, city){
+      if(!name) return;
+      authedFetch('/api/venue?slug='+encodeURIComponent(venueSlug(name))+(city?'&city='+encodeURIComponent(city):'')).then(function(r){ return r.json(); }).then(function(v){
+        var ev=nextPlayableEvent(v.upcoming);
+        if(!ev){ showToast('No line-up to play yet.'); return; }
+        playYtList((ev.lineup||[]).map(function(a){ return { slug:a.slug, name:a.name, poster:ev.poster_url }; }), 0);
+      }).catch(function(){ showToast('Couldn’t load that room.'); });
     }
     // Play a venue's next night from just its slug (lazy fetch → its next playable event).
     function playVenueNextRadio(slug, name, city){
@@ -3911,15 +3948,12 @@
         document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
       }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
-    // Scene routing: each row is a sound → the rooms that specialise in it, with an honest
-    // "if you like [name]" hook (a recognisable artist actually booked in that sound here).
+    // Scene routing: each card is a sound → the rooms likely to play it, as venue tiles that
+    // open the venue. No play button, no artist hook — just "if you like X, go to these rooms".
     function sceneRouteHTML(routes){
       return routes.map(function(rt){
-        var top=rt.venues[0]||{};
-        var vch=rt.venues.map(function(v){ return '<button class="rf-venue" type="button" data-venue="'+esc(v.slug||v.name)+'">'+esc(v.name)+'</button>'; }).join('');
-        var anc=rt.anchor?'<span class="rf-like">if you like <button class="rf-likea" type="button" data-artist="'+esc(rt.anchor.slug)+'">'+esc(rt.anchor.name)+'</button></span>':'';
-        var play=top.slug?'<button class="rf-play" type="button" data-venue="'+esc(top.slug)+'" data-name="'+esc(top.name)+'" aria-label="Play '+esc(rt.genre)+' at '+esc(top.name)+'">&#9654;</button>':'';
-        return '<div class="rf-card"><div class="rf-tx"><div class="rf-genre">'+esc(rt.genre)+'</div>'+anc+'<div class="rf-venues">'+vch+'</div></div>'+play+'</div>';
+        var vch=rt.venues.map(function(v){ return '<button class="rf-venue" type="button" data-venue="'+esc(v.name)+'">'+esc(v.name)+'</button>'; }).join('');
+        return '<div class="rf-card rf-card-simple"><div class="rf-genre">'+esc(rt.genre)+'</div><div class="rf-venues">'+vch+'</div></div>';
       }).join('');
     }
     async function openCityScene(city){
@@ -3930,8 +3964,7 @@
         var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
         var nm=s.cityName||city;
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Who&rsquo;s playing, the rooms they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
-        if(s.oneNight) h+='<div class="scene-blurb"><div class="scene-blurb-k">If you have one night here</div><p>'+esc(s.oneNight)+'</p></div>';
-        h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-rooms"></div><div id="cs-routes"></div><div id="cs-resi"></div>';
+        h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-rooms"></div><div id="cs-routes"></div>';
         h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">Every club in '+esc(nm)+' with an upcoming night — tap a pin.</div>';
         openPanel(h);
         setSeo(nm+" scene guide — who's playing, the rooms & sounds | soundcheck", 'The artists playing '+nm+' this month, the rooms they’re in, upcoming nights and the sounds that define the city.', null, location.origin+SC_BASE+city+'/scene/');
@@ -3940,15 +3973,16 @@
         // Playing this month — artist photo + name + the venue they're playing
         var pl=(s.playing||[]), cpl=document.getElementById('cs-playing');
         if(cpl && pl.length){
-          cpl.innerHTML='<div class="sec-h" style="margin-top:20px">Playing this month</div><div class="srail">'+pl.map(function(a){
+          var plList=pl.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
+          cpl.innerHTML='<div class="sec-h" style="margin-top:20px">Playing this month</div><div class="srail">'+pl.map(function(a,i){
             var img=a.image?('background-image:url('+imgUrl(a.image,180)+')'):('background:'+sceneTone(a.slug));
-            return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-artradio="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+' radio">&#9654;</span></div>'+
+            return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-i="'+i+'" aria-label="Play '+esc(a.name)+'">&#9654;</span></div>'+
               '<button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button>'+
-              (a.venue?'<button class="srail-art-v" data-venue="'+esc(a.venue_slug||'')+'">'+esc(a.venue)+'</button>':'')+'</div>';
+              (a.venue?'<button class="srail-art-v" data-venue="'+esc(a.venue)+'">'+esc(a.venue)+'</button>':'')+'</div>';
           }).join('')+'</div>';
           cpl.querySelectorAll('.srail-art-img[data-artist], .srail-art-n[data-artist]').forEach(function(b){ b.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openArtist(b.dataset.artist); }); });
-          cpl.querySelectorAll('.srail-play[data-artradio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); startArtistRadio(b.dataset.artradio, b.dataset.name); }); });
-          cpl.querySelectorAll('.srail-art-v[data-venue]').forEach(function(b){ if(!b.dataset.venue) return; b.addEventListener('click',function(e){ e.stopPropagation(); openVenue(b.dataset.venue, city); }); });
+          cpl.querySelectorAll('.srail-play[data-i]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(plList, parseInt(b.dataset.i,10)||0); }); });
+          cpl.querySelectorAll('.srail-art-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openVenue(b.dataset.venue, city); }); });
         }
 
         // Upcoming — event posters, play the line-up
@@ -3963,7 +3997,7 @@
               '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,d].filter(Boolean).join(' · '))+'</div></div>';
           }).join('')+'</div>';
           cpo.querySelectorAll('.srail-post[data-evt]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openEvent(c.dataset.evt); }); });
-          cpo.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var ev=evById[b.dataset.evplay]; if(ev) playEventLineupRadio({id:ev.id,venue:ev.venue,event_date:ev.event_date,poster_url:ev.poster_url,lineup:ev.lineup}); }); });
+          cpo.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var ev=evById[b.dataset.evplay]; if(ev) playYtList((ev.lineup||[]).map(function(a){ return {slug:a.slug,name:a.name,poster:ev.poster_url}; }), 0); }); });
         }
 
         // Rooms — venue image cards, play the next night
@@ -3971,10 +4005,10 @@
         if(cro && bv.length){
           cro.innerHTML='<div class="sec-h" style="margin-top:26px">Rooms</div><div class="srail">'+bv.map(function(v){
             var img=v.image?('background-image:url('+imgUrl(v.image,360)+')'):('background:'+sceneTone(v.venue_slug||v.venue));
-            return '<div class="srail-ven" data-venue="'+esc(v.venue_slug)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+'</span><span class="srail-play br" data-vplay="'+esc(v.venue_slug)+'" data-name="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
+            return '<div class="srail-ven" data-venue="'+esc(v.venue)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+'</span><span class="srail-play br" data-vplay="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
           }).join('')+'</div>';
           cro.querySelectorAll('.srail-ven[data-venue]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openVenue(c.dataset.venue, city); }); });
-          cro.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextRadio(b.dataset.vplay, b.dataset.name, city); }); });
+          cro.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextYt(b.dataset.vplay, city); }); });
         }
 
         // Find your room (sound → venues)
@@ -3982,26 +4016,15 @@
         if(croute && rts.length){
           var rhtml='';
           if(yr.length){
-            rhtml+='<div class="sec-h" style="margin-top:26px">Tuned to your taste</div><p class="route-intro">The sounds you lean toward — and where they land in '+esc(nm)+'.</p>'+sceneRouteHTML(yr);
+            rhtml+='<div class="sec-h" style="margin-top:26px">Tuned to your taste</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' rooms likely to play it.</p>'+sceneRouteHTML(yr);
             var yrG={}; yr.forEach(function(r){ yrG[r.genre]=1; });
             var rest=rts.filter(function(r){ return !yrG[r.genre]; });
             if(rest.length) rhtml+='<div class="sec-h" style="margin-top:24px">More sounds here</div>'+sceneRouteHTML(rest);
           } else {
-            rhtml+='<div class="sec-h" style="margin-top:26px">Find your room</div><p class="route-intro">Pick a sound — here’s where it plays in '+esc(nm)+'.</p>'+sceneRouteHTML(rts);
+            rhtml+='<div class="sec-h" style="margin-top:26px">Find your room</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' rooms likely to play it.</p>'+sceneRouteHTML(rts);
           }
           croute.innerHTML=rhtml;
           croute.querySelectorAll('.rf-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
-          croute.querySelectorAll('.rf-likea[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-          croute.querySelectorAll('.rf-play[data-venue]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextRadio(b.dataset.venue, b.dataset.name, city); }); });
-        }
-
-        // Regular nights (residencies)
-        var rs=(s.residencies||[]), cr=document.getElementById('cs-resi');
-        if(cr && rs.length){
-          cr.innerHTML='<div class="sec-h" style="margin-top:26px">Regular nights</div><ul class="gig-history">'+rs.map(function(x){
-            return '<li class="gh-row"><span class="gh-date">'+x.n+'×</span><button class="gh-venue" type="button" data-promoter="'+esc(x.promoter_slug)+'"><b>'+esc(x.promoter)+'</b> <small>at '+esc(x.venue)+'</small></button></li>';
-          }).join('')+'</ul>';
-          cr.querySelectorAll('.gh-venue[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
         }
 
         // Map — at the very bottom
