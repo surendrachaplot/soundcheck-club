@@ -842,6 +842,11 @@
     .bill-badge { flex:none; font:700 var(--fs-xs) var(--body); padding:3px 9px; border-radius:999px; white-space:nowrap; }
     .bb-hi { background:var(--accent); color:var(--accent-ink); }
     .bb-mid { color:var(--accent); border:1px solid var(--accent); }
+    /* bill row: name + (inline) badge on the left, wanna-see / seen-live actions on the right */
+    .bill-nline { display:flex; align-items:center; gap:5px 8px; min-width:0; flex-wrap:wrap; }
+    .bill-nline .bill-nm { min-width:0; }
+    .bill-acts { flex:none; display:flex; align-items:center; gap:6px; margin-left:4px; }
+    .bill-acts .seen-btn { margin-left:0; }
     .nm-box { margin-top:18px; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px 16px; }
     .nm-k { font:800 var(--fs-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
     .nm-k small { color:var(--muted); font-weight:500; letter-spacing:0; text-transform:none; }
@@ -1268,7 +1273,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782253865956">
+<meta name="sc-build" content="1782254739285">
 </head>
 <body>
   <main class="wrap">
@@ -4285,10 +4290,15 @@
         var av=a.image?('background-image:url('+imgUrl(a.image,80)+')'):'';
         var badge=a.tier?('<span class="bill-badge '+(a.tier==='Do not miss'?'bb-hi':'bb-mid')+'">'+esc(a.tier)+'</span>'):'';
         var why=a.reason?'<span class="bill-why">'+esc(a.reason)+'</span>':'';
+        var st=artStatus(a.slug);
+        // per-artist wanna-see + seen-live toggles — same components as the grid/artist page,
+        // so refreshArtistButtons() keeps them in sync everywhere via data-pick-art/data-seen-art.
+        var heart='<button class="heart'+(st==='wanna_see'?' on':'')+'" type="button" data-pick-art="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-pressed="'+(st==='wanna_see'?'true':'false')+'" aria-label="Wanna see '+esc(a.name)+'">'+HEART_SVG+'</button>';
+        var seen='<button class="seen-btn'+(st==='seen'?' on':'')+'" type="button" data-seen-art="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Seen '+esc(a.name)+' live">'+CHECK_SVG+'</button>';
         return '<div class="bill-row"><button class="bill-play" type="button" data-slug="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+'">&#9654;</button>'+
           '<span class="bill-av" data-artist="'+esc(a.slug)+'" style="'+av+'"></span>'+
-          '<button class="bill-nm-wrap" type="button" data-artist="'+esc(a.slug)+'"><span class="bill-nm">'+esc(a.name)+'</span>'+why+'</button>'+
-          badge+'</div>';
+          '<button class="bill-nm-wrap" type="button" data-artist="'+esc(a.slug)+'"><span class="bill-nline"><span class="bill-nm">'+esc(a.name)+'</span>'+badge+'</span>'+why+'</button>'+
+          '<div class="bill-acts">'+heart+seen+'</div></div>';
       }).join('')+'</div>';
     }
     function mountBill(items){
@@ -4298,6 +4308,8 @@
       var q=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
       box.querySelectorAll('.bill-play[data-slug]').forEach(function(b,i){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, i); }); });
       box.querySelectorAll('[data-artist]').forEach(function(el){ el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
+      box.querySelectorAll('.heart[data-pick-art]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); toggleArtist(b.dataset.pickArt,{name:b.dataset.name}); }); });
+      box.querySelectorAll('.seen-btn[data-seen-art]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); toggleSeen(b.dataset.seenArt,{name:b.dataset.name}); }); });
       var pb=document.getElementById('ev-playbill'); if(pb){ pb.onclick=function(){ playYtList(q,0); }; }
     }
     function eventPageHTML(ev){
