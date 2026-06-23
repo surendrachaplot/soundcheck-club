@@ -750,6 +750,11 @@
     .srail-art-n { display:block; width:98px; background:none; border:none; color:var(--fg); font:700 var(--fs-sm) var(--body); margin-top:9px; cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; padding:0; text-align:left; }
     .srail-art-v { display:block; max-width:98px; background:none; border:none; color:var(--muted); font:500 var(--fs-xs) var(--body); cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; padding:0; margin-top:1px; text-align:left; }
     .srail-art-v:hover { color:var(--accent); }
+    /* next-gig subtitle (More like X): salmon date over a muted venue · city line; .srail-wide gives it room */
+    .srail-art-d { display:block; max-width:98px; background:none; border:none; padding:0; text-align:left; font:600 var(--fs-xs) var(--body); color:var(--accent); margin-top:6px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .srail-wide .srail-art, .srail-wide .srail-art-n { width:114px; }
+    .srail-wide .srail-art-img { width:114px; height:114px; }
+    .srail-wide .srail-art-v, .srail-wide .srail-art-d { max-width:114px; }
     .srail-post { flex:none; width:142px; cursor:pointer; }
     .srail-post-img { position:relative; width:142px; aspect-ratio:3/4; border-radius:11px; background:#2c2630; background-size:cover; background-position:center; }
     .srail-post-img .match { position:absolute; top:7px; left:7px; background:rgba(13,9,8,0.72); color:var(--accent); font:700 var(--fs-xs) var(--body); padding:3px 7px; border-radius:7px; }
@@ -1248,7 +1253,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782233995833">
+<meta name="sc-build" content="1782248984318">
 </head>
 <body>
   <main class="wrap">
@@ -3634,21 +3639,29 @@
     // One builder per rail type, shared by Discover and every city scene guide. Edit the
     // markup or behaviour here and it changes everywhere the rail is used. Each renders a
     // section header + the .srail strip into `el` and wires its own clicks/plays.
-    function secH(title, mt, extra){ return '<div class="sec-h"'+(mt?(' style="margin-top:'+mt+'"'):'')+'>'+esc(title)+(extra||'')+'</div>'; }
+    function secH(title, mt, extra){ if(!title && !extra) return ''; return '<div class="sec-h"'+(mt?(' style="margin-top:'+mt+'"'):'')+'>'+esc(title||'')+(extra||'')+'</div>'; }
     // Artist rail — circular photos + name (+ a venue subtitle when item.venue is set).
     // Play walks the whole rail as a youtube queue. opts:{title,mt,wrap,city}.
     function mountArtistRail(el, items, opts){
       opts=opts||{}; if(!el) return; if(!items||!items.length){ el.innerHTML=''; return; }
       var list=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
-      el.innerHTML=secH(opts.title, opts.mt)+'<div class="srail'+(opts.wrap?' srail-wrap':'')+'">'+items.map(function(a,i){
+      el.innerHTML=secH(opts.title, opts.mt)+'<div class="srail'+(opts.wrap?' srail-wrap':'')+(opts.wide?' srail-wide':'')+'">'+items.map(function(a,i){
         var img=a.image?('background-image:url('+imgUrl(a.image,180)+')'):('background:'+sceneTone(a.slug));
+        // Subtitle: next-gig block (salmon date + venue · city) when a.nextDate is set;
+        // else a single venue line (playing-this-month); else an optional empty label.
+        var sub='';
+        if(a.nextDate){
+          var loc=[a.nextVenue, a.nextCity?cityLabel(a.nextCity):''].filter(Boolean).join(' · ');
+          sub='<span class="srail-art-d">'+esc(fmtDateLabel(String(a.nextDate).slice(0,10)))+'</span>'+
+              (a.nextVenue?'<button class="srail-art-v" data-venue="'+esc(a.nextVenue)+'" data-city="'+esc(a.nextCity||'')+'">'+esc(loc)+'</button>':(loc?'<span class="srail-art-v">'+esc(loc)+'</span>':''));
+        } else if(a.venue){ sub='<button class="srail-art-v" data-venue="'+esc(a.venue)+'">'+esc(a.venue)+'</button>'; }
+        else if(opts.emptyLabel){ sub='<span class="srail-art-v">'+esc(opts.emptyLabel)+'</span>'; }
         return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-i="'+i+'" aria-label="Play '+esc(a.name)+'">&#9654;</span></div>'+
-          '<button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button>'+
-          (a.venue?'<button class="srail-art-v" data-venue="'+esc(a.venue)+'">'+esc(a.venue)+'</button>':'')+'</div>';
+          '<button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button>'+sub+'</div>';
       }).join('')+'</div>';
       el.querySelectorAll('.srail-art-img[data-artist], .srail-art-n[data-artist]').forEach(function(b){ b.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openArtist(b.dataset.artist); }); });
       el.querySelectorAll('.srail-play[data-i]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(list, parseInt(b.dataset.i,10)||0); }); });
-      el.querySelectorAll('.srail-art-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openVenue(b.dataset.venue, opts.city); }); });
+      el.querySelectorAll('.srail-art-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openVenue(b.dataset.venue, b.dataset.city||opts.city); }); });
     }
     // Event rail — 3:4 posters, optional match % (opts.withMatch) + hidden-gem badge. Play =
     // the line-up as a youtube queue. opts:{title,mt,withMatch}.
@@ -3878,7 +3891,7 @@
               '<button class="ev-radio" id="ap-scene" type="button">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
             '</div>'+
             '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Artists who share '+esc(a.name||slug)+'’s lineups, promoters &amp; crowd. Hit play for a radio of all of them.</p>'+
-            '<div id="similar-rail"><div class="ptiles ptiles-wide">'+a.alongside.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div></div>';
+            '<div id="similar-rail"></div>';
         }
         h+='<div id="ap-upcoming"></div>';
         // Past sets — the gig-history timeline.
@@ -3906,23 +3919,16 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        // Richer "more like X" — lazy graph recs (co-occurrence + promoters + venues +
-        // co-hearted), each with a why-reason, popularity level + next gig. Replaces
-        // the instant alongside-ptile fallback when it loads; leaves it if it fails.
+        // "More like X" — round artist tiles (same format as Artists-for-you) with each
+        // collaborator's next gig (date · venue · city) underneath. Instant fallback from
+        // the lineup graph (names only), then /api/artist/similar fills in the richer recs
+        // + next gigs. Both render through the shared mountArtistRail builder.
         (function(){
           var rail=document.getElementById('similar-rail'); if(!rail) return;
+          mountArtistRail(rail, (a.alongside||[]).map(function(x){ return { slug:x.slug, name:x.name, image:x.image_url }; }), { wrap:true, wide:true });
           authedFetch('/api/artist/similar?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(j){
             var sim=(j&&j.similar)||[]; if(!sim.length) return;
-            rail.innerHTML=sim.map(function(s){
-              var pop=s.popularity?'<span class="sim-pop">'+esc(s.popularity)+'</span>':'';
-              var gemB=s.gem?'<span class="gem-tag">'+esc(s.gem)+'</span>':'';
-              var nx=s.next?'<span class="sim-next">'+esc(fmtDateLabel(String(s.next.event_date).slice(0,10)))+(s.next.city?' &middot; '+esc(cityLabel(s.next.city)):'')+'</span>':'';
-              return '<button class="sim-row" type="button" data-artist="'+esc(s.slug)+'">'+
-                '<span class="sim-av" style="background-image:'+avatarBg(s.name,s.image)+'"></span>'+
-                '<span class="sim-tx"><span class="sim-nm">'+esc(s.name)+pop+gemB+'</span><span class="sim-why">'+esc(s.why)+'</span></span>'+
-                (nx||'<span></span>')+'<span class="sim-go">&rsaquo;</span></button>';
-            }).join('');
-            rail.querySelectorAll('.sim-row[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+            mountArtistRail(rail, sim.map(function(s){ return { slug:s.slug, name:s.name, image:s.image, nextDate:(s.next&&s.next.event_date)||null, nextVenue:(s.next&&s.next.venue)||null, nextCity:(s.next&&s.next.city)||null }; }), { wrap:true, wide:true, emptyLabel:'No upcoming dates' });
           }).catch(function(){});
         })();
         // Whole row opens the event (date/title/gap all tap through); the button
