@@ -1302,8 +1302,7 @@
     /* site footer */
     .site-foot { border-top:1px solid var(--border); margin-top:18px; padding:24px 0 calc(80px + env(safe-area-inset-bottom)); }
     .foot-row { display:flex; align-items:center; justify-content:space-between; gap:14px 24px; flex-wrap:wrap; }
-    .foot-logo { font:800 var(--fs-lg) var(--head); color:var(--fg); text-decoration:none; letter-spacing:-0.01em; cursor:pointer; }
-    .foot-logo:hover { color:var(--accent); }
+    .foot-logo { cursor:pointer; }  /* identity = the shared .logo component (cassette + two-tone wordmark) */
     .foot-links { display:flex; flex-wrap:wrap; gap:10px 18px; }
     .foot-links a { color:var(--muted); text-decoration:none; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .foot-links a:hover { color:var(--accent); }
@@ -1317,7 +1316,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782317564449">
+<meta name="sc-build" content="1782317942476">
 </head>
 <body>
   <main class="wrap">
@@ -1383,7 +1382,8 @@
     </div>
     <footer class="site-foot">
       <div class="foot-row">
-        <a class="foot-logo" id="foot-home" role="button" tabindex="0">soundcheck</a>
+        <a class="logo foot-logo" id="foot-home" role="button" tabindex="0" aria-label="Soundcheck — home">
+          <svg class="logo-ic" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="currentColor" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="currentColor" stroke="none"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
         <nav class="foot-links" aria-label="Footer">
           <a id="foot-discover" role="button" tabindex="0">Discover</a>
           <a id="foot-cities" role="button" tabindex="0">Cities</a>
