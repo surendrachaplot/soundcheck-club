@@ -608,7 +608,7 @@
     .page-title::after { content:""; display:block; width:72px; height:6px; background:var(--accent); border-radius:3px; margin-top:14px; }
     /* Section header (style 1): coral tick + title + count pill, control pushed right. */
     /* DS: section header (continent tags, "Find your venue", "Venues", shelves…) — ~2× larger. Global. */
-    .sec-h { font-family:var(--head); font-weight:800; font-size:2rem; letter-spacing:-0.02em; margin:0 0 16px; display:flex; align-items:center; gap:11px; line-height:1.05; }
+    .sec-h { font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-0.02em; margin:0 0 16px; display:flex; align-items:center; gap:11px; line-height:1.05; }
     .sec-h::before { content:""; width:5px; height:1.02em; background:var(--accent); border-radius:2px; flex:none; }
     .sec-h .ct { font:600 var(--fs-sm)/1 var(--body); color:var(--muted); background:#26262d; border-radius:999px; padding:4px 11px; letter-spacing:0; }
     .sec-h .more { margin-left:auto; font-size:var(--fs-sm); font-weight:600; letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
@@ -1315,7 +1315,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782312873180">
+<meta name="sc-build" content="1782313171858">
 </head>
 <body>
   <main class="wrap">
@@ -3511,7 +3511,7 @@
     function shelfSecHTML(s, handle){
       function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
       var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
-      x+='<div class="sec-h" style="margin-top:22px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
+      x+='<div class="sec-h" style="margin-top:26px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
       // Saved events + following venues use the same poster / venue-card rails as the city
       // scene page (mounted in wireShelfBody once the placeholders are in the DOM).
       if(s.events && s.events.length){ x+='<div id="shelf-events"></div>'; }
@@ -3845,7 +3845,7 @@
       var el=document.getElementById('dc-scenes'); if(!el) return;
       authedFetch('/api/scenes').then(function(r){ return r.json(); }).then(function(j){
         var cs=(j.cities||[]); if(!cs.length){ el.innerHTML=''; return; }
-        el.innerHTML=secH('Scene guides','24px','<button class="more" id="dc-allscenes" type="button">All '+cs.length+' &rsaquo;</button>')+'<div class="srail srail-anim">'+cs.slice(0,14).map(function(c){
+        el.innerHTML=secH('Scene guides','26px','<button class="more" id="dc-allscenes" type="button">All '+cs.length+' &rsaquo;</button>')+'<div class="srail srail-anim">'+cs.slice(0,14).map(function(c){
           var img=c.image?('background-image:url('+imgUrl(c.image,360)+')'):('background:'+sceneTone(c.slug));
           return '<div class="srail-ven" data-city="'+esc(c.slug)+'" style="'+img+'"><span class="srail-ven-n">'+esc(c.name)+'</span></div>';
         }).join('')+'</div>';
@@ -4066,7 +4066,7 @@
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
-          h+='<div class="sec-h" style="margin-top:24px">'+
+          h+='<div class="sec-h" style="margin-top:26px">'+
               '<span>More like '+esc(a.name||slug)+'</span>'+
               '<button class="ev-radio" id="ap-scene" type="button">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
             '</div>'+
@@ -4201,7 +4201,7 @@
         var byCont={};
         cs.forEach(function(c){ var k=SCENE_CONT[(c.country||'').toUpperCase()]||'Other'; (byCont[k]=byCont[k]||[]).push(c); });
         SCENE_CONT_ORDER.forEach(function(k){ var list=byCont[k]; if(!list||!list.length) return;
-          h+='<div class="sec-h" style="margin-top:24px">'+k+'<span class="ct">'+list.length+'</span></div><div class="sc-cover-grid">'+list.map(coverTileHTML).join('')+'</div>';
+          h+='<div class="sec-h" style="margin-top:26px">'+k+'<span class="ct">'+list.length+'</span></div><div class="sc-cover-grid">'+list.map(coverTileHTML).join('')+'</div>';
         });
         if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
         openPanel(h);
@@ -4246,7 +4246,7 @@
             rhtml+='<div class="sec-h" style="margin-top:26px">Tuned to your taste</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' venues likely to play it.</p>'+sceneRouteHTML(yr);
             var yrG={}; yr.forEach(function(r){ yrG[r.genre]=1; });
             var rest=rts.filter(function(r){ return !yrG[r.genre]; });
-            if(rest.length) rhtml+='<div class="sec-h" style="margin-top:24px">More sounds here</div>'+sceneRouteHTML(rest);
+            if(rest.length) rhtml+='<div class="sec-h" style="margin-top:26px">More sounds here</div>'+sceneRouteHTML(rest);
           } else {
             rhtml+='<div class="sec-h" style="margin-top:26px">Find your venue</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' venues likely to play it.</p>'+sceneRouteHTML(rts);
           }
@@ -4361,7 +4361,7 @@
             if(j.reviews){ rows+='<div class="vd-row"><span class="vd-k">Sound</span><span>'+j.reviews.sound+'/5 <span style="color:var(--muted)">· '+j.reviews.n+' review'+(j.reviews.n==1?'':'s')+'</span></span></div>'; if(j.reviews.crowd!=null) rows+='<div class="vd-row"><span class="vd-k">Crowd</span><span>'+j.reviews.crowd+'/5</span></div>'; }
             if((j.similar||[]).length) rows+='<div class="vd-row"><span class="vd-k">Similar</span><span class="vd-sim">'+j.similar.map(function(s){ return '<button class="vd-vlink" type="button" data-venue="'+esc(s.venue)+'">'+esc(s.venue)+'</button>'; }).join('')+'</span></div>';
             var dnaNote=j.reviews?'Genres &amp; nights from what plays here; sound &amp; crowd from attendee reviews.':'Derived from what plays here — sound &amp; crowd ratings come as reviews roll in.';
-            dnaEl.innerHTML='<div class="sec-h" style="margin-top:24px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
+            dnaEl.innerHTML='<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
             dnaEl.querySelectorAll('.vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
           }).catch(function(){});
         }
@@ -4426,8 +4426,8 @@
     }
     function mountBill(items){
       var box=document.getElementById('ev-bill'); if(!box) return;
-      if(!items.length){ box.innerHTML='<div class="sec-h" style="margin-top:22px">Line-up</div><p style="color:var(--muted);font:500 var(--fs-sm) var(--body)">To be announced.</p>'; return; }
-      box.innerHTML='<div class="sec-h" style="margin-top:22px">The bill<span class="ct">'+items.length+'</span></div>'+billRowsHTML(items);
+      if(!items.length){ box.innerHTML='<div class="sec-h" style="margin-top:26px">Line-up</div><p style="color:var(--muted);font:500 var(--fs-sm) var(--body)">To be announced.</p>'; return; }
+      box.innerHTML='<div class="sec-h" style="margin-top:26px">The bill<span class="ct">'+items.length+'</span></div>'+billRowsHTML(items);
       var q=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
       box.querySelectorAll('.bill-play[data-slug]').forEach(function(b,i){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, i); }); });
       box.querySelectorAll('[data-artist]').forEach(function(el){ el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
