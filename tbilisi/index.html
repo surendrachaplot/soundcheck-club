@@ -1317,7 +1317,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782316004253">
+<meta name="sc-build" content="1782317564449">
 </head>
 <body>
   <main class="wrap">
@@ -3447,15 +3447,20 @@
         line('30%',16,14)+line('100%',46,10)+line('100%',46,10)+line('100%',46,10)+
       '</div>';
     }
-    // Venue DNA box skeleton — reserves the mid-page block so it eases in once
-    // instead of shoving Upcoming/Past/map down when /api/venue/dna lands.
-    function dnaSkeleton(){
-      var row=function(w){ return '<div class="vd-row"><span class="vd-k"><span class="sk" style="display:inline-block;width:44px;height:9px;border-radius:4px"></span></span><span class="sk" style="width:'+w+';height:11px;border-radius:5px"></span></div>'; };
-      return '<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box" aria-hidden="true">'+
-        '<div class="vd-tags"><span class="sk" style="width:78px;height:23px;border-radius:999px"></span><span class="sk" style="width:60px;height:23px;border-radius:999px"></span></div>'+
-        row('42%')+row('56%')+row('32%')+row('48%')+
-        '<div class="vd-note"><span class="sk" style="display:inline-block;width:72%;height:9px;border-radius:4px"></span></div>'+
-      '</div>';
+    // Venue DNA box — rendered synchronously from v.dna (folded into /api/venue),
+    // so it paints in place with the rest of the page. '' when there's nothing.
+    function dnaBoxHTML(j){
+      if(!j || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem)) return '';
+      var rows='';
+      if((j.tags||[]).length) rows+='<div class="vd-tags">'+j.tags.map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
+      if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
+      if((j.genres||[]).length) rows+='<div class="vd-row"><span class="vd-k">Mostly</span><span>'+j.genres.slice(0,4).map(function(g){ return esc(g); }).join(', ')+'</span></div>';
+      if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
+      if(j.priceTier) rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.priceTier)+'</span></div>';
+      if(j.reviews){ rows+='<div class="vd-row"><span class="vd-k">Sound</span><span>'+j.reviews.sound+'/5 <span style="color:var(--muted)">· '+j.reviews.n+' review'+(j.reviews.n==1?'':'s')+'</span></span></div>'; if(j.reviews.crowd!=null) rows+='<div class="vd-row"><span class="vd-k">Crowd</span><span>'+j.reviews.crowd+'/5</span></div>'; }
+      if((j.similar||[]).length) rows+='<div class="vd-row"><span class="vd-k">Similar</span><span class="vd-sim">'+j.similar.map(function(s){ return '<button class="vd-vlink" type="button" data-venue="'+esc(s.venue)+'">'+esc(s.venue)+'</button>'; }).join('')+'</span></div>';
+      var dnaNote=j.reviews?'Genres &amp; nights from what plays here; sound &amp; crowd from attendee reviews.':'Derived from what plays here — sound &amp; crowd ratings come as reviews roll in.';
+      return '<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
     }
     // List skeletons for the full-body fetch pages (Coming up / Feed) — reserve
     // approximate height so the body doesn't jump from a one-line "Loading…".
@@ -4358,7 +4363,7 @@
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         var vNext=nextPlayableEvent(v.upcoming);
         if(v.slug){ h+='<div class="artist-actions" style="max-width:380px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button>'+(vNext?'<button class="ev-radio" id="vp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button>':'')+'</div>'; }
-        h+='<div id="vp-dna"></div><div id="vp-upcoming"></div><div id="vp-past"></div>';
+        h+='<div id="vp-dna">'+dnaBoxHTML(v.dna)+'</div><div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
@@ -4370,28 +4375,9 @@
         if(vrb && vNext) vrb.addEventListener('click',function(){ playEventLineupRadio({ id:vNext.id, venue:dispName, event_date:vNext.event_date, poster_url:vNext.poster_url, lineup:vNext.lineup }); });
         var cbBtn=document.getElementById('vp-claim');
         if(cbBtn) cbBtn.addEventListener('click',function(){ openClaimModal(dispName, v.slug); });
-        // F7: venue DNA — behaviorally-derived intelligence (lazy).
-        if(v.slug){
-          var dnaEl=document.getElementById('vp-dna');
-          // Reserve the box up-front so it eases in once the aggregate lands — no
-          // mid-page shove of Upcoming/Past/map. Cleared if there's nothing to show.
-          if(dnaEl) dnaEl.innerHTML=dnaSkeleton();
-          authedFetch('/api/venue/dna?slug='+encodeURIComponent(v.slug)).then(function(r){ return r.json(); }).then(function(j){
-            if(!dnaEl) return;
-            if(!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem){ dnaEl.innerHTML=''; return; }
-            var rows='';
-            if((j.tags||[]).length) rows+='<div class="vd-tags">'+j.tags.map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
-            if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
-            if((j.genres||[]).length) rows+='<div class="vd-row"><span class="vd-k">Mostly</span><span>'+j.genres.slice(0,4).map(function(g){ return esc(g); }).join(', ')+'</span></div>';
-            if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
-            if(j.priceTier) rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.priceTier)+'</span></div>';
-            if(j.reviews){ rows+='<div class="vd-row"><span class="vd-k">Sound</span><span>'+j.reviews.sound+'/5 <span style="color:var(--muted)">· '+j.reviews.n+' review'+(j.reviews.n==1?'':'s')+'</span></span></div>'; if(j.reviews.crowd!=null) rows+='<div class="vd-row"><span class="vd-k">Crowd</span><span>'+j.reviews.crowd+'/5</span></div>'; }
-            if((j.similar||[]).length) rows+='<div class="vd-row"><span class="vd-k">Similar</span><span class="vd-sim">'+j.similar.map(function(s){ return '<button class="vd-vlink" type="button" data-venue="'+esc(s.venue)+'">'+esc(s.venue)+'</button>'; }).join('')+'</span></div>';
-            var dnaNote=j.reviews?'Genres &amp; nights from what plays here; sound &amp; crowd from attendee reviews.':'Derived from what plays here — sound &amp; crowd ratings come as reviews roll in.';
-            dnaEl.innerHTML='<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
-            dnaEl.querySelectorAll('.vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
-          }).catch(function(){ if(dnaEl) dnaEl.innerHTML=''; });
-        }
+        // F7: venue DNA — rendered in place from v.dna (folded into /api/venue), so
+        // it paints with the page instead of popping in late. Just wire its links.
+        document.querySelectorAll('#vp-dna .vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
         var up=(v.upcoming||[]), vu=document.getElementById('vp-upcoming');
         if(vu && up.length){
           vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+'<span class="ct">'+up.length+'</span></div><div id="vp-cards"></div>';
