@@ -966,8 +966,10 @@
     .slink svg { width:var(--icon-md); height:var(--icon-md); fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     /* event page header — same grammar as .artist-head, with a contained poster */
     /* event page: the poster carries the details, so show it BIG, uncropped + unfiltered */
-    .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
-    .ev-poster-big img { display:block; width:100%; height:auto; }
+    /* Reserve a 3:4 box so the poster loads in place (no shift, esp. on mobile where it stacks
+       on top); object-fit:contain keeps flyers uncropped, letterboxed onto the dark bg. */
+    .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; aspect-ratio:3/4; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
+    .ev-poster-big img { display:block; width:100%; height:100%; object-fit:contain; }
     .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
     /* event page two-column: poster column (sticky) + main column; recs full-width below */
     .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
@@ -1315,7 +1317,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782313544479">
+<meta name="sc-build" content="1782314575391">
 </head>
 <body>
   <main class="wrap">
@@ -4464,7 +4466,7 @@
               '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span>'+priceTag+'</div>'+
               (eid ? '<div class="sheet-actions">'+(isPast ? (evLog+evShare+'<span class="lbl">Log it or share</span>') : (evHeart+evShare+'<span class="lbl">Save or share</span>'))+'</div>' : '')+
             '</div>'+
-            '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
+            '<div id="ev-meta-rich"><div class="sk" style="height:18px;width:55%;border-radius:6px;margin-top:16px"></div><div class="sk" style="height:13px;width:92%;border-radius:6px;margin-top:11px"></div><div class="sk" style="height:13px;width:78%;border-radius:6px;margin-top:7px"></div></div>'+   /* genre chips + blurb — skeleton reserves space; renderEventRich swaps in place */
             ((ev.artists||[]).length?'<button class="ev-radio" id="ev-playbill" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Play the line-up</span></button>':'')+
             '<div id="ev-review"></div>'+    /* D5: opt-in structured review (attendance-gated) */
             '<div id="ev-bill"></div>'+      /* the bill — who-not-to-miss ranked in, names once (mountBill) */
