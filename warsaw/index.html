@@ -39,7 +39,9 @@
     .wrap { max-width:1180px; margin:0 auto; padding:0 40px; }
 
     /* nav */
-    nav { display:flex; align-items:center; gap:14px; padding:calc(22px + env(safe-area-inset-top)) 0 22px; border-bottom:1px solid var(--border); }
+    /* Persistent header: sticks to the top on every page/view while scrolling. bg so content
+       scrolls under it cleanly; z-index 50 keeps it above page content but below dock/modals. */
+    nav { position:sticky; top:0; z-index:50; background:var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid var(--border); }
     .logo { display:inline-flex; align-items:center; gap:8px; color:var(--fg); text-decoration:none; flex:none; }
     .logo-ic { width:23px; height:23px; color:var(--accent); flex:none; }
     .logo-wm { font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; line-height:1; }
@@ -1313,7 +1315,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782305081001">
+<meta name="sc-build" content="1782305483787">
 </head>
 <body>
   <main class="wrap">
