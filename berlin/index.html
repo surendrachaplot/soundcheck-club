@@ -198,6 +198,9 @@
     .sheet-body h3 { font-family:var(--head); font-size:var(--fs-xl); font-weight:800; letter-spacing:-0.02em; line-height:1.08; }
     .sheet-meta { font-size:var(--fs-sm); color:var(--muted); font-weight:600; margin-top:8px; }
     .sheet-meta b { color:var(--fg); }
+    /* Ticket-price chip — scraped "from £X" / "Free". Label only, never a ticketing link. */
+    .price-tag { display:inline-block; margin-left:10px; padding:2px 9px; border:1px solid var(--border); border-radius:999px; font-size:var(--fs-xs); font-weight:700; color:var(--fg); vertical-align:middle; letter-spacing:-0.01em; white-space:nowrap; }
+    .price-tag.free { color:var(--accent-ink); background:var(--accent); border-color:var(--accent); }
     .sheet-line { list-style:none; margin:20px 0 0; display:flex; flex-direction:column; gap:12px; }
     .sheet-line li { display:flex; align-items:center; gap:11px; font-size:var(--fs-md); font-weight:500; }
     .sheet-line li .an { overflow:hidden; text-overflow:ellipsis; }
@@ -1301,7 +1304,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782257827662">
+<meta name="sc-build" content="1782297636767">
 </head>
 <body>
   <main class="wrap">
@@ -1332,6 +1335,7 @@
       <button class="qchip" id="pick-sat" type="button">Saturday</button>
       <button class="qchip alt" id="pick-date" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg><span id="pick-date-label">Pick a date</span></button>
       <button class="qchip alt" id="pick-genre" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M7 12h10"/><path d="M10 18h4"/></svg><span id="pick-genre-label">Genre</span> <span style="opacity:.6">▾</span></button>
+      <button class="qchip alt" id="pick-price" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5" fill="currentColor"/></svg><span id="pick-price-label">Price</span> <span style="opacity:.6">▾</span></button>
     </div>
 
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
@@ -1495,6 +1499,17 @@
     function formatTime(iso){ if(!iso) return ''; var m=/T(\d{2}:\d{2})/.exec(iso); return m?m[1]:''; }
     // "23:00 – 06:00" when both are known; just the start otherwise. fb = a non-ISO start (e.g. "23:00").
     function formatTimeRange(s,e,fb){ var a=formatTime(s)||fb||'', b=formatTime(e); return (a&&b)?(a+' – '+b):a; }
+    // Ticket price (scraped from listings, best-effort). minPrice 0 → "Free", null → ''.
+    // Symbol currencies prefix (from £12); others suffix the code (from 150 SEK).
+    var CCY_SYMBOL={ GBP:'£', EUR:'€', USD:'$' };
+    function formatPrice(minPrice, currency){
+      if(minPrice==null) return '';
+      var n=Number(minPrice); if(!isFinite(n)) return '';
+      if(n<=0) return 'Free';
+      var amt=(Math.round(n*100)%100===0)?String(Math.round(n)):n.toFixed(2);
+      var sym=CCY_SYMBOL[currency];
+      return sym ? ('from '+sym+amt) : ('from '+amt+(currency?(' '+currency):''));
+    }
     function normaliseSc(url){ if(!url) return null; var u=url.trim(); if(!/^https?:\/\//i.test(u)) u='https://'+u; u=u.replace(/^https?:\/\/www\.soundcloud\.com/i,'https://soundcloud.com'); return u.replace(/\/+$/,''); }
 
     var RE_FOLD=/\bfold\b/i, RE_MOT=/\bm\.?\s?o\.?\s?t\b/i, RE_PHONOX=/\bphonox\b/i, RE_ORMSIDE=/\bormside\b/i, RE_CARPET=/\bcarpet\s?shop\b/i;
@@ -4403,6 +4418,8 @@
       var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
       var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
+      var priceStr=formatPrice(ev.minPrice, ev.currency);   // scraped ticket price (label only — no ticketing link)
+      var priceTag=priceStr?'<span class="price-tag'+(priceStr==='Free'?' free':'')+'">'+esc(priceStr)+'</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
@@ -4423,7 +4440,7 @@
             '<div class="event-head-tx">'+
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
-              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span></div>'+
+              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span>'+priceTag+'</div>'+
               (eid ? '<div class="sheet-actions">'+(isPast ? (evLog+evShare+'<span class="lbl">Log it or share</span>') : (evHeart+evShare+'<span class="lbl">Save or share</span>'))+'</div>' : '')+
             '</div>'+
             '<div id="ev-meta-rich"></div>'+   /* genre chips + blurb (filled by renderEventRich) */
@@ -4537,6 +4554,7 @@
         endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
         city:d.city, genres:d.genres||[], description:d.description||'', logged:!!d.logged,
+        minPrice: d.min_price!=null ? Number(d.min_price) : null, currency: d.currency||null,
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
         alsoOn:d.also_on||[], promoters:d.promoters||[],
         artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
@@ -4972,12 +4990,37 @@
 
     var gridEl=document.getElementById('grid'), trackEl=document.getElementById('track');
     // Grid state lives at module scope so the datebar genre dropdown can re-filter.
-    var _gridEvents=[], _genreFilter=null;
-    function gridFiltered(){ return _genreFilter ? _gridEvents.filter(function(e){ return (e.genres||[]).indexOf(_genreFilter)>-1; }) : _gridEvents; }
+    var _gridEvents=[], _genreFilter=null, _priceFilter=null;   // _priceFilter: null | 'free' | 'lte1' | 'lte2'
+    // Currency-relative budget tiers — the grid shows one city at a time, so one currency.
+    var PRICE_TIERS={ GBP:[15,30], EUR:[15,30], USD:[20,40], CHF:[20,40], DKK:[120,220], SEK:[150,300], NOK:[150,300],
+      PLN:[60,120], CZK:[300,600], HUF:[5000,9000], RON:[70,140], BGN:[25,50], ISK:[2500,5000], RSD:[1500,3000],
+      UAH:[400,800], TRY:[300,600], GEL:[40,80] };
+    function gridCurrency(){ var c={},best=null,n=0; _gridEvents.forEach(function(e){ if(e.currency){ c[e.currency]=(c[e.currency]||0)+1; if(c[e.currency]>n){ n=c[e.currency]; best=e.currency; } } }); return best||'GBP'; }
+    function priceTiers(){ var cur=gridCurrency(), t=PRICE_TIERS[cur]||[15,30], sym=CCY_SYMBOL[cur]; return { cur:cur, t1:t[0], t2:t[1], lab:function(v){ return sym?(sym+v):(v+' '+cur); } }; }
+    function gridPricedCount(){ var n=0; _gridEvents.forEach(function(e){ if(e.minPrice!=null) n++; }); return n; }
+    function gridFiltered(){
+      var list = _genreFilter ? _gridEvents.filter(function(e){ return (e.genres||[]).indexOf(_genreFilter)>-1; }) : _gridEvents;
+      if(_priceFilter){
+        var t=priceTiers();
+        list = list.filter(function(e){
+          if(e.minPrice==null) return false;          // unknown price can't satisfy a budget — excluded while filtering
+          var p=Number(e.minPrice);
+          if(_priceFilter==='free') return p<=0;
+          if(_priceFilter==='lte1') return p<=t.t1;
+          if(_priceFilter==='lte2') return p<=t.t2;
+          return true;
+        });
+      }
+      return list;
+    }
     function paintCurrentGrid(){
       var list=gridFiltered();
-      gridEl.innerHTML=list.length ? list.map(function(e){ return cardHTML(e); }).join('') : '<div class="status">No '+esc(_genreFilter||'')+' events in this view. <button class="more-btn" id="grid-clearfilter">Clear filter</button></div>';
-      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; paintCurrentGrid(); if(typeof syncGenreChip==='function') syncGenreChip(); });
+      if(list.length){ gridEl.innerHTML=list.map(function(e){ return cardHTML(e); }).join(''); }
+      else {
+        var what = _genreFilter ? (esc(_genreFilter)+' events') : (_priceFilter ? 'events at this price' : 'events');
+        gridEl.innerHTML='<div class="status">No '+what+' in this view. <button class="more-btn" id="grid-clearfilter">Clear filters</button></div>';
+      }
+      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); paintCurrentGrid(); });
       wireCard(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
@@ -5013,11 +5056,35 @@
       setTimeout(function(){ document.addEventListener('click',_onGenreDoc); },0);
     }
     document.getElementById('pick-genre').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('genre-menu')) closeGenreMenu(); else openGenreMenu(); });
+    // ── price (budget) filter — mirrors the genre chip, reuses the .genre-menu dropdown ──
+    function priceLabel(){ if(!_priceFilter) return 'Price'; if(_priceFilter==='free') return 'Free'; var t=priceTiers(); return 'Under '+t.lab(_priceFilter==='lte1'?t.t1:t.t2); }
+    function syncPriceChip(){
+      var btn=document.getElementById('pick-price'); if(!btn) return;
+      btn.style.display = gridPricedCount()>=3 ? '' : 'none';   // only worth showing when prices are known
+      var lbl=document.getElementById('pick-price-label'); if(lbl) lbl.textContent=priceLabel();
+      btn.classList.toggle('on', !!_priceFilter);
+    }
+    function closePriceMenu(){ var m=document.getElementById('price-menu'); if(m) m.remove(); document.removeEventListener('click',_onPriceDoc); }
+    function _onPriceDoc(e){ if(!e.target.closest('#price-menu') && !e.target.closest('#pick-price')) closePriceMenu(); }
+    function openPriceMenu(){
+      closePriceMenu();
+      var t=priceTiers(), btn=document.getElementById('pick-price'), r=btn.getBoundingClientRect();
+      var opts=[['','All prices'],['free','Free'],['lte1','Under '+t.lab(t.t1)],['lte2','Under '+t.lab(t.t2)]];
+      var m=document.createElement('div'); m.className='genre-menu'; m.id='price-menu';
+      m.innerHTML=opts.map(function(o){ return '<button class="gm-item'+(((_priceFilter||'')===o[0])?' on':'')+'" type="button" data-p="'+o[0]+'">'+esc(o[1])+'</button>'; }).join('');
+      document.body.appendChild(m);
+      var maxLeft=window.scrollX+document.documentElement.clientWidth-m.offsetWidth-8;
+      m.style.top=(window.scrollY+r.bottom+6)+'px';
+      m.style.left=Math.max(window.scrollX+8, Math.min(window.scrollX+r.left, maxLeft))+'px';
+      m.querySelectorAll('.gm-item').forEach(function(b){ b.addEventListener('click',function(){ _priceFilter=b.dataset.p||null; syncPriceChip(); paintCurrentGrid(); closePriceMenu(); }); });
+      setTimeout(function(){ document.addEventListener('click',_onPriceDoc); },0);
+    }
+    document.getElementById('pick-price').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('price-menu')) closePriceMenu(); else openPriceMenu(); });
     function renderEvents(events, eyebrowPrefix){
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
       document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; syncGenreChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; _priceFilter=null; syncGenreChip(); syncPriceChip(); return; }
       var ordered=orderEvents(evs);
       // ambient marquee: "<up to 5 artists> at <venue>" (duplicated for a seamless loop)
       function marqText(e){
@@ -5028,7 +5095,7 @@
       var marq='';
       for(var k=0;k<2;k++){ ordered.forEach(function(e){ marq+='<span>'+esc(marqText(e))+'</span><span class="star">&#10039;</span>'; }); }
       trackEl.innerHTML=marq;
-      _gridEvents=ordered; _genreFilter=null; closeGenreMenu(); syncGenreChip();
+      _gridEvents=ordered; _genreFilter=null; _priceFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip();
       paintCurrentGrid();
       rebuildLookup(ordered);
       maybeCoach();
