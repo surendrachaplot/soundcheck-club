@@ -1315,7 +1315,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782307412692">
+<meta name="sc-build" content="1782307810441">
 </head>
 <body>
   <main class="wrap">
@@ -3497,7 +3497,7 @@
       if(!st || !st.gigs) return '';
       var tag=function(label,n){ return '<span class="sc-tag">'+esc(label)+(n?' <small>'+n+'</small>':'')+'</span>'; };
       var rows='';
-      if((st.topGenres||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Sound</span><div class="ev-genres">'+st.topGenres.map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div></div>';
+      if((st.topGenres||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Sound</span><div>'+st.topGenres.map(function(g){ return tag(g); }).join('')+'</div></div>';
       if((st.topVenues||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Venues</span><div>'+st.topVenues.map(function(v){ return tag(v.venue,v.n); }).join('')+'</div></div>';
       if((st.topArtists||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Most seen</span><div>'+st.topArtists.map(function(a){ return tag(a.name,a.n); }).join('')+'</div></div>';
       return '<div class="scene-stats"><div class="sec-h">'+(mine?'Your scene':'Scene')+'</div><div class="sc-nums"><span><b>'+st.gigs+'</b>gigs logged</span>'+(st.thisYear?'<span><b>'+st.thisYear+'</b>this year</span>':'')+'</div>'+rows+'</div>';
