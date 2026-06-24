@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Our House W/ Meduza &amp; James Hype at Magazine Open–Air — line-up &amp; tickets | soundcheck</title>
+  <title>A Very FREE Day Party at Night Tales — line-up &amp; tickets | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <!-- Self-hosted Latin variable fonts (no third-party origin). One file per family
        serves every weight via the wght axis — preload both so first-paint text in
@@ -1184,6 +1184,8 @@
     .bnav-tab.onair svg { animation:radio-pulse 1.6s ease-in-out infinite; }
     @media (max-width:620px){
       #hdr-discover { display:none; }  /* the bottom nav carries Discover on mobile */
+      .hdr-search { display:none; }    /* search lives in the bottom nav on mobile */
+      .account-wrap { margin-left:auto; }  /* keep the account/sign-in pill flush right */
       .bnav { display:flex; }
       body { padding-bottom:calc(72px + env(safe-area-inset-bottom)); }
       .fab-stack { bottom:calc(72px + env(safe-area-inset-bottom)); }  /* radio pill floats above the nav */
@@ -1221,11 +1223,22 @@
     }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
     /* city picker */
-    .city-list { display:grid; grid-template-columns:1fr 1fr; gap:8px; max-height:54vh; overflow-y:auto; margin-top:6px; }
-    .city-row { display:flex; align-items:center; gap:9px; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 12px; font:600 var(--fs-base) var(--body); cursor:pointer; text-align:left; }
+    .city-list { display:grid; grid-template-columns:1fr 1fr; gap:8px; max-height:54vh; overflow-y:auto; overflow-x:hidden; overscroll-behavior:contain; -webkit-overflow-scrolling:touch; margin-top:6px; }
+    /* min-width:0 stops a long city name from blowing the grid track wider than 1fr
+       (the classic grid overflow → horizontal scroll); names wrap instead. */
+    .city-row { display:flex; align-items:center; gap:9px; min-width:0; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 12px; font:600 var(--fs-base) var(--body); cursor:pointer; text-align:left; overflow-wrap:anywhere; }
     .city-row:hover { border-color:var(--accent); }
     .city-row.on { border-color:var(--accent); color:var(--accent); }
     .city-row .cf { font-size:var(--fs-md); line-height:1; }
+    .city-pick .auth-box { max-width:420px; }   /* a touch wider for the 2-col list (desktop) */
+    /* City picker = native bottom-sheet on mobile: full-width, anchored to the bottom,
+       fixed header + internally-scrolling list, vertical only (no horizontal jiggle). */
+    @media (max-width:620px){
+      .city-pick { align-items:flex-end; padding:0; }
+      .city-pick .auth-box { max-width:none; width:100%; border-radius:20px 20px 0 0; padding:22px 18px calc(16px + env(safe-area-inset-bottom)); max-height:86vh; display:flex; flex-direction:column; overflow:hidden; transform:translateY(100%); }
+      .city-pick.show .auth-box { transform:translateY(0); }
+      .city-pick .city-list { max-height:none; flex:1 1 auto; min-height:0; }
+    }
     /* ── Nights: collaborative board ── */
     .toast-act { background:none; border:none; color:var(--accent); font-weight:700; font-size:inherit; cursor:pointer; padding:0 0 0 10px; }
     .nstack { display:inline-flex; vertical-align:middle; }
@@ -1316,20 +1329,20 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782317942476">
-<meta name="description" content="Our House W/ Meduza &amp; James Hype at Magazine Open–Air on Fri 14 Aug, London. 6 acts on the bill: Brina Knauss, Cristoph, Dombresky and James Hype (UK) and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.">
-<link rel="canonical" href="https://soundcheck.club/e/2375288-our-house-w-meduza-james-hype-at-magazine-open-air/">
+<meta name="sc-build" content="1782318678733">
+<meta name="description" content="A Very FREE Day Party at Night Tales on Sat 11 Jul, London. House and Tech House. Preview the line-up and save it on soundcheck.">
+<link rel="canonical" href="https://soundcheck.club/e/2466221-a-very-free-day-party-at-night-tales/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Our House W/ Meduza &amp; James Hype at Magazine Open–Air — line-up &amp; tickets | soundcheck">
-<meta property="og:description" content="Our House W/ Meduza &amp; James Hype at Magazine Open–Air on Fri 14 Aug, London. 6 acts on the bill: Brina Knauss, Cristoph, Dombresky and James Hype (UK) and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.">
-<meta property="og:url" content="https://soundcheck.club/e/2375288-our-house-w-meduza-james-hype-at-magazine-open-air/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fc819aed0e63dd64fbaeb5ac760d7fb69d1f3fb4a.png&amp;w=1000">
+<meta property="og:title" content="A Very FREE Day Party at Night Tales — line-up &amp; tickets | soundcheck">
+<meta property="og:description" content="A Very FREE Day Party at Night Tales on Sat 11 Jul, London. House and Tech House. Preview the line-up and save it on soundcheck.">
+<meta property="og:url" content="https://soundcheck.club/e/2466221-a-very-free-day-party-at-night-tales/">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fc604c0f0182e3c390f087e500f92118e61530aa3.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Our House W/ Meduza & James Hype","url":"https://soundcheck.club/e/2375288-our-house-w-meduza-james-hype-at-magazine-open-air/","description":"Our House W/ Meduza & James Hype at Magazine Open–Air on Fri 14 Aug, London. 6 acts on the bill: Brina Knauss, Cristoph, Dombresky and James Hype (UK) and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-14","location":{"@type":"MusicVenue","name":"Magazine Open–Air"},"performer":[{"@type":"MusicGroup","name":"Brina Knauss"},{"@type":"MusicGroup","name":"Cristoph"},{"@type":"MusicGroup","name":"Dombresky"},{"@type":"MusicGroup","name":"James Hype (UK)"},{"@type":"MusicGroup","name":"Layla Benitez"},{"@type":"MusicGroup","name":"Meduza"}],"image":"https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fc819aed0e63dd64fbaeb5ac760d7fb69d1f3fb4a.png&w=1000"}</script>
-<script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"London","item":"https://soundcheck.club/london/"},{"@type":"ListItem","position":3,"name":"Our House W/ Meduza & James Hype"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"A Very FREE Day Party ","url":"https://soundcheck.club/e/2466221-a-very-free-day-party-at-night-tales/","description":"A Very FREE Day Party at Night Tales on Sat 11 Jul, London. House and Tech House. Preview the line-up and save it on soundcheck.","startDate":"2026-07-11","location":{"@type":"MusicVenue","name":"Night Tales"},"image":"https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fc604c0f0182e3c390f087e500f92118e61530aa3.jpg&w=1000"}</script>
+<script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"London","item":"https://soundcheck.club/london/"},{"@type":"ListItem","position":3,"name":"A Very FREE Day Party"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Our House W/ Meduza &amp; James Hype</h1><p>Our House W/ Meduza &amp; James Hype at Magazine Open–Air on Fri 14 Aug, London. 6 acts on the bill: Brina Knauss, Cristoph, Dombresky and James Hype (UK) and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.</p><p>Line-up: Brina Knauss, Cristoph, Dombresky, James Hype (UK), Layla Benitez, Meduza.</p><p>At Magazine Open–Air, London.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/e/2375288-our-house-w-meduza-james-hype-at-magazine-open-air/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>A Very FREE Day Party</h1><p>A Very FREE Day Party at Night Tales on Sat 11 Jul, London. House and Tech House. Preview the line-up and save it on soundcheck.</p><p>At Night Tales, London.</p><p><a style="color:#ff7a6b" href="https://soundcheck.club/e/2466221-a-very-free-day-party-at-night-tales/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href="." aria-label="Soundcheck — home">
@@ -5307,11 +5320,11 @@
       else loadWeekend(activePick==='next'?1:0);
     }
     function openCityPicker(){
-      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      var ov=document.createElement('div'); ov.className='auth-overlay show city-pick';
       var rows=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
         return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
       }).join('');
-      ov.innerHTML='<div class="auth-box" style="max-width:420px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
         '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
         '<div class="city-list">'+rows+'</div>'+

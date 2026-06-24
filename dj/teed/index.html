@@ -1184,6 +1184,8 @@
     .bnav-tab.onair svg { animation:radio-pulse 1.6s ease-in-out infinite; }
     @media (max-width:620px){
       #hdr-discover { display:none; }  /* the bottom nav carries Discover on mobile */
+      .hdr-search { display:none; }    /* search lives in the bottom nav on mobile */
+      .account-wrap { margin-left:auto; }  /* keep the account/sign-in pill flush right */
       .bnav { display:flex; }
       body { padding-bottom:calc(72px + env(safe-area-inset-bottom)); }
       .fab-stack { bottom:calc(72px + env(safe-area-inset-bottom)); }  /* radio pill floats above the nav */
@@ -1221,11 +1223,22 @@
     }
     @keyframes radio-pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
     /* city picker */
-    .city-list { display:grid; grid-template-columns:1fr 1fr; gap:8px; max-height:54vh; overflow-y:auto; margin-top:6px; }
-    .city-row { display:flex; align-items:center; gap:9px; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 12px; font:600 var(--fs-base) var(--body); cursor:pointer; text-align:left; }
+    .city-list { display:grid; grid-template-columns:1fr 1fr; gap:8px; max-height:54vh; overflow-y:auto; overflow-x:hidden; overscroll-behavior:contain; -webkit-overflow-scrolling:touch; margin-top:6px; }
+    /* min-width:0 stops a long city name from blowing the grid track wider than 1fr
+       (the classic grid overflow → horizontal scroll); names wrap instead. */
+    .city-row { display:flex; align-items:center; gap:9px; min-width:0; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 12px; font:600 var(--fs-base) var(--body); cursor:pointer; text-align:left; overflow-wrap:anywhere; }
     .city-row:hover { border-color:var(--accent); }
     .city-row.on { border-color:var(--accent); color:var(--accent); }
     .city-row .cf { font-size:var(--fs-md); line-height:1; }
+    .city-pick .auth-box { max-width:420px; }   /* a touch wider for the 2-col list (desktop) */
+    /* City picker = native bottom-sheet on mobile: full-width, anchored to the bottom,
+       fixed header + internally-scrolling list, vertical only (no horizontal jiggle). */
+    @media (max-width:620px){
+      .city-pick { align-items:flex-end; padding:0; }
+      .city-pick .auth-box { max-width:none; width:100%; border-radius:20px 20px 0 0; padding:22px 18px calc(16px + env(safe-area-inset-bottom)); max-height:86vh; display:flex; flex-direction:column; overflow:hidden; transform:translateY(100%); }
+      .city-pick.show .auth-box { transform:translateY(0); }
+      .city-pick .city-list { max-height:none; flex:1 1 auto; min-height:0; }
+    }
     /* ── Nights: collaborative board ── */
     .toast-act { background:none; border:none; color:var(--accent); font-weight:700; font-size:inherit; cursor:pointer; padding:0 0 0 10px; }
     .nstack { display:inline-flex; vertical-align:middle; }
@@ -1316,7 +1329,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782317942476">
+<meta name="sc-build" content="1782318678733">
 <meta name="description" content="TEED is a house and bass and 2 more artist tracked on soundcheck, with 40 sets logged across Amsterdam, Boston, Brisbane and Chicago and 19 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Amber's, Manchester on Fri 26 Jun.">
 <link rel="canonical" href="https://soundcheck.club/dj/teed/">
 <meta property="og:type" content="profile">
@@ -5306,11 +5319,11 @@
       else loadWeekend(activePick==='next'?1:0);
     }
     function openCityPicker(){
-      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      var ov=document.createElement('div'); ov.className='auth-overlay show city-pick';
       var rows=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
         return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
       }).join('');
-      ov.innerHTML='<div class="auth-box" style="max-width:420px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
         '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
         '<div class="city-list">'+rows+'</div>'+
