@@ -41,7 +41,7 @@
     /* nav */
     /* Persistent header: sticks to the top on every page/view while scrolling. bg so content
        scrolls under it cleanly; z-index 50 keeps it above page content but below dock/modals. */
-    nav { position:sticky; top:0; z-index:50; background:var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid var(--border); }
+    .wrap > nav { position:sticky; top:0; z-index:50; background:var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid var(--border); }
     .logo { display:inline-flex; align-items:center; gap:8px; color:var(--fg); text-decoration:none; flex:none; }
     .logo-ic { width:28px; height:28px; color:var(--accent); flex:none; }
     .logo-wm { font-family:var(--head); font-weight:800; font-size:calc(var(--fs-md)*1.2); letter-spacing:-0.01em; line-height:1; }
@@ -80,7 +80,7 @@
       .hdr-search .hs-tx { display:none; }
     }
     @media (max-width:480px){
-      nav { gap:10px; }
+      .wrap > nav { gap:10px; }
       .logo-wm { font-size:var(--fs-base); }
       .logo-ic { width:20px; height:20px; }
     }
@@ -1315,7 +1315,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782313171858">
+<meta name="sc-build" content="1782313544479">
 </head>
 <body>
   <main class="wrap">
