@@ -1317,7 +1317,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782314575391">
+<meta name="sc-build" content="1782315392670">
 </head>
 <body>
   <main class="wrap">
@@ -4354,9 +4354,10 @@
         if(v.slug){
           var dnaEl=document.getElementById('vp-dna');
           authedFetch('/api/venue/dna?slug='+encodeURIComponent(v.slug)).then(function(r){ return r.json(); }).then(function(j){
-            if(!dnaEl || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length)) return;
+            if(!dnaEl || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem)) return;
             var rows='';
             if((j.tags||[]).length) rows+='<div class="vd-tags">'+j.tags.map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
+            if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
             if((j.genres||[]).length) rows+='<div class="vd-row"><span class="vd-k">Mostly</span><span>'+j.genres.slice(0,4).map(function(g){ return esc(g); }).join(', ')+'</span></div>';
             if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
             if(j.priceTier) rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.priceTier)+'</span></div>';
