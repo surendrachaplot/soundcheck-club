@@ -1317,7 +1317,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782315392670">
+<meta name="sc-build" content="1782316004253">
 </head>
 <body>
   <main class="wrap">
@@ -3447,6 +3447,26 @@
         line('30%',16,14)+line('100%',46,10)+line('100%',46,10)+line('100%',46,10)+
       '</div>';
     }
+    // Venue DNA box skeleton — reserves the mid-page block so it eases in once
+    // instead of shoving Upcoming/Past/map down when /api/venue/dna lands.
+    function dnaSkeleton(){
+      var row=function(w){ return '<div class="vd-row"><span class="vd-k"><span class="sk" style="display:inline-block;width:44px;height:9px;border-radius:4px"></span></span><span class="sk" style="width:'+w+';height:11px;border-radius:5px"></span></div>'; };
+      return '<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box" aria-hidden="true">'+
+        '<div class="vd-tags"><span class="sk" style="width:78px;height:23px;border-radius:999px"></span><span class="sk" style="width:60px;height:23px;border-radius:999px"></span></div>'+
+        row('42%')+row('56%')+row('32%')+row('48%')+
+        '<div class="vd-note"><span class="sk" style="display:inline-block;width:72%;height:9px;border-radius:4px"></span></div>'+
+      '</div>';
+    }
+    // List skeletons for the full-body fetch pages (Coming up / Feed) — reserve
+    // approximate height so the body doesn't jump from a one-line "Loading…".
+    function cuSkeleton(){
+      var row='<li><span class="sk" style="flex:0 0 46px;width:46px;height:46px;border-radius:50%"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:48%;height:13px;border-radius:5px;margin-bottom:11px"></span><span class="sk" style="display:block;width:82%;height:11px;border-radius:5px;margin-bottom:8px"></span><span class="sk" style="display:block;width:64%;height:11px;border-radius:5px"></span></div></li>';
+      return '<ul class="cu-list cu-grid" aria-hidden="true">'+row+row+row+row+'</ul>';
+    }
+    function feedSkeleton(){
+      var row=function(w){ return '<div class="feed-row"><span class="sk" style="flex-shrink:0;width:30px;height:30px;border-radius:999px"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:'+w+';height:13px;border-radius:5px;margin-bottom:7px"></span><span class="sk" style="display:block;width:34%;height:9px;border-radius:4px"></span></div></div>'; };
+      return '<div style="margin-top:8px" aria-hidden="true">'+row('72%')+row('58%')+row('66%')+row('50%')+row('63%')+'</div>';
+    }
     // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
     // leak to the page behind. Covers static (.show) + dynamically-built overlays.
     (function(){
@@ -3651,7 +3671,7 @@
     async function renderUpcoming(){
       upScopeBar();
       var box=document.getElementById('cu-lensbody'); if(!box) return;
-      box.innerHTML='<div class="empty">Loading…</div>';
+      box.innerHTML=cuSkeleton();
       try{
         var w=upWindow();
         var r=await authedFetch('/api/upcoming'+(w?('?from='+w[0]+'&to='+w[1]):'')); var j=await r.json();
@@ -3716,7 +3736,7 @@
     async function openFeed(){
       if(!currentUser){ openAuth(); return; }
       setRoute('feed');
-      openPanel('<h2 class="page-title">Feed</h2><div class="empty">Loading…</div>');
+      openPanel('<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>'+feedSkeleton());
       try{
         var r=await authedFetch('/api/feed'); var j=await r.json(); var rows=j.events||[];
         var h='<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>';
@@ -4353,8 +4373,12 @@
         // F7: venue DNA — behaviorally-derived intelligence (lazy).
         if(v.slug){
           var dnaEl=document.getElementById('vp-dna');
+          // Reserve the box up-front so it eases in once the aggregate lands — no
+          // mid-page shove of Upcoming/Past/map. Cleared if there's nothing to show.
+          if(dnaEl) dnaEl.innerHTML=dnaSkeleton();
           authedFetch('/api/venue/dna?slug='+encodeURIComponent(v.slug)).then(function(r){ return r.json(); }).then(function(j){
-            if(!dnaEl || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem)) return;
+            if(!dnaEl) return;
+            if(!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem){ dnaEl.innerHTML=''; return; }
             var rows='';
             if((j.tags||[]).length) rows+='<div class="vd-tags">'+j.tags.map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
             if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
@@ -4366,7 +4390,7 @@
             var dnaNote=j.reviews?'Genres &amp; nights from what plays here; sound &amp; crowd from attendee reviews.':'Derived from what plays here — sound &amp; crowd ratings come as reviews roll in.';
             dnaEl.innerHTML='<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
             dnaEl.querySelectorAll('.vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
-          }).catch(function(){});
+          }).catch(function(){ if(dnaEl) dnaEl.innerHTML=''; });
         }
         var up=(v.upcoming||[]), vu=document.getElementById('vp-upcoming');
         if(vu && up.length){
