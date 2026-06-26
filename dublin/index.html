@@ -1404,7 +1404,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782495627992">
+<meta name="sc-build" content="1782496011125">
 </head>
 <body>
   <main class="wrap">
@@ -1436,6 +1436,7 @@
       <button class="qchip alt" id="pick-date" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg><span id="pick-date-label">Pick a date</span></button>
       <button class="qchip alt" id="pick-genre" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M7 12h10"/><path d="M10 18h4"/></svg><span id="pick-genre-label">Genre</span> <span style="opacity:.6">▾</span></button>
       <button class="qchip alt" id="pick-price" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5" fill="currentColor"/></svg><span id="pick-price-label">Price</span> <span style="opacity:.6">▾</span></button>
+      <button class="qchip alt" id="pick-near" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span id="pick-near-label">Near me</span></button>
     </div>
 
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
@@ -5248,6 +5249,7 @@
     var gridEl=document.getElementById('grid'), trackEl=document.getElementById('track');
     // Grid state lives at module scope so the datebar genre dropdown can re-filter.
     var _gridEvents=[], _genreFilter=null, _priceFilter=null;   // _priceFilter: null | 'free' | 'lte1' | 'lte2'
+    var _nearFilter=null, _venueCoords=null, _venueCoordsCity=null, NEAR_KM=5;   // near-me: venues within ~5km (~30 min) of the user
     // Currency-relative budget tiers — the grid shows one city at a time, so one currency.
     var PRICE_TIERS={ GBP:[15,30], EUR:[15,30], USD:[20,40], CHF:[20,40], DKK:[120,220], SEK:[150,300], NOK:[150,300],
       PLN:[60,120], CZK:[300,600], HUF:[5000,9000], RON:[70,140], BGN:[25,50], ISK:[2500,5000], RSD:[1500,3000],
@@ -5268,16 +5270,17 @@
           return true;
         });
       }
+      if(_nearFilter) list = list.filter(eventNearby);   // within ~30-min radius of the user
       return list;
     }
     function paintCurrentGrid(){
       var list=gridFiltered();
       if(list.length){ gridEl.innerHTML=list.map(function(e){ return cardHTML(e); }).join(''); }
       else {
-        var what = _genreFilter ? (esc(_genreFilter)+' events') : (_priceFilter ? 'events at this price' : 'events');
+        var what = _nearFilter ? 'events near you' : _genreFilter ? (esc(_genreFilter)+' events') : (_priceFilter ? 'events at this price' : 'events');
         gridEl.innerHTML='<div class="status">No '+what+' in this view. <button class="more-btn" id="grid-clearfilter">Clear filters</button></div>';
       }
-      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); paintCurrentGrid(); });
+      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; _nearFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); if(typeof syncNearChip==='function') syncNearChip(); paintCurrentGrid(); });
       wireCard(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
@@ -5337,11 +5340,34 @@
       setTimeout(function(){ document.addEventListener('click',_onPriceDoc); },0);
     }
     document.getElementById('pick-price').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('price-menu')) closePriceMenu(); else openPriceMenu(); });
+    // ── near-me filter: events whose venue is within ~NEAR_KM of the user. Grid events
+    // don't carry coords, so we join the city's venue coords from /api/venues/map (cached
+    // per city) by slugified venue name, then filter by haversine distance. ──
+    function haversineKm(la1,lo1,la2,lo2){ var R=6371,p=Math.PI/180; var dLa=(la2-la1)*p,dLo=(lo2-lo1)*p; var x=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*p)*Math.cos(la2*p)*Math.sin(dLo/2)*Math.sin(dLo/2); return 2*R*Math.asin(Math.min(1,Math.sqrt(x))); }
+    function venueKey(name){ return String(name||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+    function loadVenueCoords(){
+      if(_venueCoords && _venueCoordsCity===currentCity) return Promise.resolve(_venueCoords);
+      var city=currentCity;
+      return pubGet('/api/venues/map?city='+encodeURIComponent(city)).then(function(j){
+        var m={}; (j.venues||[]).forEach(function(v){ if(v.lat!=null && v.lng!=null) m[v.slug||venueKey(v.name)]=[+v.lat,+v.lng]; });
+        _venueCoords=m; _venueCoordsCity=city; return m;
+      }).catch(function(){ _venueCoords={}; _venueCoordsCity=city; return _venueCoords; });
+    }
+    function eventNearby(e){ if(!_nearFilter||!_venueCoords) return true; var c=_venueCoords[venueKey(e.venue)]; if(!c) return false; return haversineKm(_nearFilter.lat,_nearFilter.lng,c[0],c[1]) <= _nearFilter.km; }
+    function syncNearChip(){ var btn=document.getElementById('pick-near'); if(!btn) return; btn.style.display = _gridEvents.length ? '' : 'none'; btn.classList.toggle('on', !!_nearFilter); }
+    function toggleNear(){
+      if(_nearFilter){ _nearFilter=null; syncNearChip(); paintCurrentGrid(); return; }
+      if(!navigator.geolocation){ showToast('Location isn’t available on this device.'); return; }
+      navigator.geolocation.getCurrentPosition(function(pos){
+        loadVenueCoords().then(function(){ _nearFilter={ lat:pos.coords.latitude, lng:pos.coords.longitude, km:NEAR_KM }; syncNearChip(); paintCurrentGrid(); });
+      }, function(){ showToast('Couldn’t get your location — check the permission.'); }, { enableHighAccuracy:false, timeout:9000, maximumAge:600000 });
+    }
+    document.getElementById('pick-near').addEventListener('click',function(e){ e.stopPropagation(); toggleNear(); });
     function renderEvents(events, eyebrowPrefix){
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
       document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; _priceFilter=null; syncGenreChip(); syncPriceChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
       var ordered=orderEvents(evs);
       // ambient marquee: "<up to 5 artists> at <venue>" (duplicated for a seamless loop)
       function marqText(e){
@@ -5352,7 +5378,7 @@
       var marq='', SEP='<span class="star">'+CASSETTE_SVG+'</span>';   // cassette icon as the marquee separator
       for(var k=0;k<2;k++){ ordered.forEach(function(e){ marq+='<span>'+esc(marqText(e))+'</span>'+SEP; }); }
       trackEl.innerHTML=marq;
-      _gridEvents=ordered; _genreFilter=null; _priceFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip();
+      _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
       paintCurrentGrid();
       rebuildLookup(ordered);
       maybeCoach();
