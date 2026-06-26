@@ -576,6 +576,21 @@
     body.page-on #home { display:none; }
     body.page-on .page-view { display:block; }
     .page-view h3 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
+    /* Sticky title bar (Spotify-style): a compact [name + play] that slides down once the
+       entity hero scrolls past the top. On entity pages the global nav is NOT sticky —
+       this bar takes over the top of the viewport instead. */
+    .psticky { position:fixed; top:0; left:0; right:0; z-index:55; background:var(--bg); border-bottom:1px solid var(--border); transform:translateY(-100%); transition:transform .22s var(--ease-standard,ease); }
+    .psticky.show { transform:translateY(0); }
+    .psticky-in { max-width:1180px; margin:0 auto; padding:9px 40px; display:flex; align-items:center; gap:14px; }
+    .psticky-nm { flex:1; min-width:0; font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .psticky-play { flex:none; width:42px; height:42px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:none; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:transform .12s; -webkit-tap-highlight-color:transparent; }
+    .psticky-play:active { transform:scale(0.94); }
+    .psticky-play svg { width:22px; height:22px; margin-left:2px; }
+    .psticky-play.hidden { display:none; }
+    body.has-psticky .wrap > nav { position:static; }   /* entity pages: header scrolls away with the page */
+    body.has-psticky .ev-playbar { position:static; }    /* event page: in-hero playbar no longer sticky (the psticky bar covers it) */
+    @media (max-width:920px){ .psticky-in { padding:9px 28px; } }
+    @media (max-width:620px){ .psticky-in { padding:8px 18px; } }
     #page-body { max-width:none; }   /* full home width (.wrap caps at 1180) */
 
     /* ── Phase 3/4 panels (profile / feed / artist / venue) reuse tray shell ── */
@@ -1412,7 +1427,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782501510834">
+<meta name="sc-build" content="1782502342144">
 </head>
 <body>
   <main class="wrap">
@@ -3518,7 +3533,8 @@
     // Profile / feed / artist / venue render as full-page views (not overlays).
     var pageView=document.getElementById('page-view'), panelBody=null;
     function showPage(html){
-      pageView.innerHTML='<div id="page-body">'+html+'</div>';   // no back button — browser/PWA back + the bottom nav cover navigation
+      document.body.classList.remove('has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }   // reset the sticky title bar; entity pages re-arm it via armSticky
+      pageView.innerHTML='<div class="psticky" id="psticky"><div class="psticky-in"><span class="psticky-nm" id="psticky-nm"></span><button class="psticky-play" id="psticky-play" type="button" aria-label="Play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button></div></div><div id="page-body">'+html+'</div>';   // no back button — browser/PWA back + the bottom nav cover navigation
       panelBody=document.getElementById('page-body');
       document.body.classList.add('page-on');
       pageView.hidden=false;
@@ -3529,9 +3545,30 @@
     // setRoute (pushState) + goBack (history.back) + the popstate handler.
     function hidePage(){
       if(!document.body.classList.contains('page-on')) return;
-      document.body.classList.remove('page-on'); pageView.hidden=true; pageView.innerHTML='';
+      document.body.classList.remove('page-on','has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }
+      pageView.hidden=true; pageView.innerHTML='';
       resetSeo();
       if(typeof syncTabs==='function') setTimeout(syncTabs,0);
+    }
+    // ── Spotify-style sticky title bar. armSticky(name, playFn, sentinel): fills the bar,
+    // un-sticks the global nav (body.has-psticky), and reveals the bar once `sentinel`
+    // (the hero's play button) scrolls above the top. playFn null → hide the play button.
+    var _psObs=null;
+    function armSticky(name, playFn, sentinel){
+      var ps=document.getElementById('psticky'); if(!ps) return;
+      var nm=document.getElementById('psticky-nm'), pb=document.getElementById('psticky-play');
+      if(nm) nm.textContent=name||'';
+      if(pb){ if(playFn){ pb.classList.remove('hidden'); pb.onclick=playFn; } else { pb.classList.add('hidden'); pb.onclick=null; } }
+      document.body.classList.add('has-psticky');
+      if(_psObs){ _psObs.disconnect(); _psObs=null; }
+      if(sentinel && 'IntersectionObserver' in window){
+        _psObs=new IntersectionObserver(function(es){ ps.classList.toggle('show', !es[0].isIntersecting); }, { threshold:0 });
+        _psObs.observe(sentinel);
+      } else { ps.classList.add('show'); }   // no observer/sentinel → just pin it
+    }
+    function armEventSticky(title){
+      var pb=document.getElementById('ev-playbill');
+      armSticky(title, pb?function(){ pb.click(); }:null, pb || document.querySelector('#page-body .ev-playbar') || document.getElementById('page-body'));
     }
     // ── per-page SEO: update <title> + meta description + JSON-LD live so the SPA
     // (and any non-pre-rendered entity) carries the right tags. Static pre-rendered
@@ -4338,6 +4375,7 @@
         var apRadio=document.getElementById('ap-radio');
         apRadio.addEventListener('pointerdown',function(){ prefetchYt(apRadio); },{passive:true});
         apRadio.addEventListener('click',function(){ handleYtClick(apRadio); });
+        armSticky(a.name||slug, function(){ apRadio.click(); }, apRadio);   // sticky title bar: artist name + Tune in
         var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
         // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
         // immediately and sync to the DB in the background — no full re-render.
@@ -4602,6 +4640,7 @@
         if(beenBtn) beenBtn.addEventListener('click',function(){ openVenueReview(v); });
         var vrb=document.getElementById('vp-radio');
         if(vrb && vNext) vrb.addEventListener('click',function(){ playEventLineupRadio({ id:vNext.id, venue:dispName, event_date:vNext.event_date, poster_url:vNext.poster_url, lineup:vNext.lineup }); });
+        armSticky(dispName, (vrb&&vNext)?function(){ vrb.click(); }:null, vrb || document.querySelector('#page-body .artist-hero'));   // sticky title bar: venue name + Play next night (name-only if nothing upcoming)
         var cbBtn=document.getElementById('vp-claim');
         if(cbBtn) cbBtn.addEventListener('click',function(){ openClaimModal(dispName, v.slug); });
         // F7: venue DNA — rendered in place from v.dna (folded into /api/venue), so
@@ -4839,7 +4878,7 @@
       // Only (re)push if we're not already on this event — preserves a slugged URL.
       if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
       var cached=lookup.byEvent[id];
-      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(cached)); }
+      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(cached)); armEventSticky(cached.title||''); }
       else openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
@@ -4849,7 +4888,7 @@
         // Upgrade the bare URL to the descriptive, canonical slug now we know who/where.
         var _who=ev.title||((ev.artists||[])[0]||{}).name||'';
         history.replaceState({sc:1},'', SC_BASE+eventPath(id,_who,ev.venue)+'/');
-        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(ev)); }
+        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(ev)); armEventSticky(ev.title||''); }
         renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
       }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
     }
