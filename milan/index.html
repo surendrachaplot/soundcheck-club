@@ -109,6 +109,7 @@
 
     /* hero */
     .hero { padding:26px 0 14px; display:flex; justify-content:space-between; align-items:flex-end; gap:24px; flex-wrap:wrap; }
+    #home .hero h1 { display:none; }   /* "Soundcheck <city>" headline removed from the home hero (web + mobile); the city still shows in the header brand. JS keeps #hero-city-name updated harmlessly. */
     .eyebrow { font-size:var(--fs-xs); font-weight:700; letter-spacing:0.24em; text-transform:uppercase; color:var(--accent); margin-bottom:8px; }
     h1 { font-family:var(--head); font-weight:800; font-size:clamp(2.1rem,5vw,3.4rem); line-height:0.96; letter-spacing:-0.03em; }
     /* Headings are Bricolage explicitly — page titles (Coming up, Search, Log a gig…)
@@ -319,8 +320,11 @@
     .nm-row { display:flex; align-items:center; gap:8px; min-width:0; }
     .nm-row .nm { min-width:0; }
     .dock.expanded .nm-row { justify-content:center; }
-    .dock-acts .heart span, .dock-acts .seen-btn span { display:none; }   /* icon-only everywhere */
+    .dock-acts .heart span, .dock-acts .seen-btn span { display:none; }   /* default: icon-only (collapsed mini-bar stays tight) */
     .dock-acts .heart, .dock-acts .seen-btn { width:36px; height:36px; padding:0; color:var(--fg); }   /* fg so they match the white transport icons; .on → salmon */
+    /* Expanded dock: heart shows its "Wanna see" label again; the tick stays icon-only. */
+    .dock.expanded .dock-acts .heart { width:auto; padding:0 10px; gap:6px; display:inline-flex; align-items:center; }
+    .dock.expanded .dock-acts .heart span { display:inline; font:600 var(--fs-sm) var(--body); }
     .dock:not(.expanded) .dock-acts { gap:6px; }
     .dock:not(.expanded) .dock-acts .heart, .dock:not(.expanded) .dock-acts .seen-btn { width:34px; height:34px; }
     @media (max-width:620px){ .dock:not(.expanded) #dock-seen { display:none; } }   /* phone mini-bar is too tight for both — heart only; both still show expanded */
@@ -571,13 +575,6 @@
     .page-view { display:none; padding:6px 0 calc(60px + env(safe-area-inset-bottom)); }
     body.page-on #home { display:none; }
     body.page-on .page-view { display:block; }
-    .page-head { display:flex; align-items:center; gap:12px; margin:8px 0 20px; }
-    .page-back { background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 15px 8px 12px; font:600 var(--fs-xs) var(--body); cursor:pointer; display:inline-flex; align-items:center; gap:5px; }
-    .page-back:hover { border-color:var(--accent); color:var(--accent); }
-    /* Desktop web has the browser's own Back; hide ours there. Keep it on mobile
-       and in the installed PWA (display-mode:standalone = no browser chrome). The
-       empty .page-head stays as a small top spacer. */
-    @media (min-width:621px) and (display-mode: browser){ .page-back { display:none; } }
     .page-view h3 { font-family:var(--head); font-weight:800; letter-spacing:-0.02em; }
     #page-body { max-width:none; }   /* full home width (.wrap caps at 1180) */
 
@@ -1069,6 +1066,7 @@
        dormant by default and only revealed on rows that opt in (.artist-actions.has-more)
        — i.e. when there's a 4th+ action. */
     .act-2nd { flex:1; }
+    .act-btn.act-icon { flex:0 0 auto; padding:12px 14px; }   /* icon-only action (label removed): compact square, doesn't stretch like .act-2nd */
     .act-more { display:none; flex:0 0 52px; width:52px; padding:12px 0; }
     .act-more svg { width:22px; height:22px; fill:currentColor; stroke:none; }
     .artist-actions.has-more .act-more { display:inline-flex; }
@@ -1198,7 +1196,7 @@
       #home .hero h1 { display:none; }
       #home .hero { padding:16px 0 14px; }
     }
-    @media (max-width:620px){ .account-wrap { display:none; } }   /* mobile: account/sign-in lives in the bottom nav ("You") */
+    @media (max-width:620px){ #account { display:none !important; } }   /* mobile: no u/handle pill in the header — account/sign-in lives in the bottom nav ("You"). ID + !important so it beats the global .account{display:inline-flex} that follows. */
     .account { display:inline-flex; align-items:center; gap:8px; }
     .account .signin-btn { display:inline-flex; align-items:center; height:41px; padding:0 18px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; font:600 calc(var(--fs-xs)*1.2) var(--body); letter-spacing:0; text-transform:lowercase; cursor:pointer; white-space:nowrap; }
     .account .signin-btn:hover { border-color:var(--accent); color:var(--accent); }
@@ -1414,7 +1412,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782499951843">
+<meta name="sc-build" content="1782501510834">
 </head>
 <body>
   <main class="wrap">
@@ -1561,7 +1559,6 @@
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
     <button class="bnav-tab" id="bnav-discover" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg><span class="bnav-l">Scenes</span></button>
-    <button class="bnav-tab" id="bnav-map" type="button" aria-label="Venue map"><svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span class="bnav-l">Map</span></button>
     <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span class="bnav-l">Coming up</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
@@ -2471,7 +2468,6 @@
       setTab('bnav-home', !onPage);
       setTab('bnav-search', route==='search');
       setTab('bnav-discover', route==='discover');
-      setTab('bnav-map', route==='map');
       setTab('bnav-picks', route==='upcoming');
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
       // web header named-nav active states
@@ -2489,7 +2485,6 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-discover').addEventListener('click',function(){ openDiscover(); });
-    document.getElementById('bnav-map').addEventListener('click',function(){ openMap(); });
     document.getElementById('bnav-picks').addEventListener('click',function(){ if(currentUser) openUpcoming(); else openMyPicks(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
@@ -3523,9 +3518,8 @@
     // Profile / feed / artist / venue render as full-page views (not overlays).
     var pageView=document.getElementById('page-view'), panelBody=null;
     function showPage(html){
-      pageView.innerHTML='<div class="page-head"><button class="page-back" id="page-back" type="button">&lsaquo; Back</button></div><div id="page-body">'+html+'</div>';
+      pageView.innerHTML='<div id="page-body">'+html+'</div>';   // no back button — browser/PWA back + the bottom nav cover navigation
       panelBody=document.getElementById('page-body');
-      document.getElementById('page-back').addEventListener('click',goBack);
       document.body.classList.add('page-on');
       pageView.hidden=false;
       window.scrollTo(0,0);
@@ -4702,7 +4696,7 @@
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
       var evHeart = eid ? '<button class="act-btn act-2nd heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'<span>Save</span></button>' : '';
-      var evShare = eid ? '<button class="act-btn act-2nd share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'<span>Share</span></button>' : '';
+      var evShare = eid ? '<button class="act-btn act-2nd act-icon share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
       // Past event → "Add to log" / "Logged" (you can't "save/go" to a night that's
       // already happened); future event keeps the save heart.
       var isPast = eid && ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
