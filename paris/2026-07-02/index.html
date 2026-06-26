@@ -51,7 +51,9 @@
     /* nav */
     /* Persistent header: sticks to the top on every page/view while scrolling. bg so content
        scrolls under it cleanly; z-index 50 keeps it above page content but below dock/modals. */
-    .wrap > nav { position:sticky; top:0; z-index:50; background:var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid var(--border); }
+    .wrap > nav { position:sticky; top:0; z-index:50; background:var(--bg); display:flex; align-items:center; gap:14px; padding:calc(18px + env(safe-area-inset-top)) 0 18px; border-bottom:1px solid transparent; transition:background var(--dur-2,200ms) var(--ease-standard,ease), border-color var(--dur-2,200ms) var(--ease-standard,ease); }
+    /* blur-on-scroll: header goes translucent + frosted once the page scrolls */
+    .wrap > nav.scrolled { background:rgba(14,13,18,0.72); backdrop-filter:blur(14px) saturate(160%); -webkit-backdrop-filter:blur(14px) saturate(160%); border-bottom-color:var(--border); }
     .logo { display:inline-flex; align-items:center; gap:8px; color:var(--fg); text-decoration:none; flex:none; }
     .logo-ic { width:28px; height:28px; color:var(--accent); flex:none; }
     .logo-wm { font-family:var(--head); font-weight:800; font-size:calc(var(--fs-md)*1.2); letter-spacing:-0.01em; line-height:1; }
@@ -1027,6 +1029,23 @@
     .act-btn.radio svg { fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .act-btn.radio svg.brand path, .act-btn.radio svg.brand polygon { stroke:none; } /* YouTube logo keeps its own red/white fills */
     .act-btn.radio.on svg { fill:none; stroke:currentColor; }
+    /* mobile overflow: primary CTA stays, secondary actions collapse into ••• */
+    .act-more { display:none; }
+    .act-more svg { width:22px; height:22px; fill:currentColor; stroke:none; }
+    @media (max-width:620px){
+      .artist-actions .act-2nd { display:none; }
+      .artist-actions .act-more { display:inline-flex; flex:0 0 52px; width:52px; padding:12px 0; }
+      .artist-actions .act-btn.radio { flex-basis:0; flex:1; }
+    }
+    /* reusable action sheet (••• overflow) — bottom-sheet on mobile */
+    .as-list { display:flex; flex-direction:column; gap:6px; margin-top:10px; }
+    .as-row { display:flex; align-items:center; gap:12px; min-height:52px; width:100%; text-align:left; background:var(--surface-2); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:0 15px; font:600 var(--fs-base) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
+    .as-row:hover { border-color:var(--accent); }
+    .as-row.on { border-color:var(--accent); color:var(--accent); }
+    .as-row svg { width:20px; height:20px; flex:none; }
+    .as-row .as-lbl { flex:1; min-width:0; }
+    .as-row .as-chk { color:var(--accent); display:inline-flex; }
+    .as-row .as-chk svg { width:18px; height:18px; }
     /* plays-alongside chips + gig-history timeline (artist page) */
     .along-row { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 4px; }
     .along-chip { background:var(--surface); border:1px solid var(--border); color:var(--fg); border-radius:999px; padding:8px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
@@ -1261,11 +1280,11 @@
     /* City picker + venue-review = native bottom-sheet on mobile: full-width, anchored to
        the bottom, vertical-only scroll (no horizontal jiggle). */
     @media (max-width:620px){
-      .city-pick, .vrev-pick { align-items:flex-end; padding:0; }
-      .city-pick .auth-box, .vrev-pick .auth-box { max-width:none; width:100%; border-radius:20px 20px 0 0; padding:22px 18px calc(16px + env(safe-area-inset-bottom)); max-height:86vh; display:flex; flex-direction:column; overflow:hidden; transform:translateY(100%); }
-      .city-pick.show .auth-box, .vrev-pick.show .auth-box { transform:translateY(0); }
+      .city-pick, .vrev-pick, .act-sheet { align-items:flex-end; padding:0; }
+      .city-pick .auth-box, .vrev-pick .auth-box, .act-sheet .auth-box { max-width:none; width:100%; border-radius:20px 20px 0 0; padding:22px 18px calc(16px + env(safe-area-inset-bottom)); max-height:86vh; display:flex; flex-direction:column; overflow:hidden; transform:translateY(100%); }
+      .city-pick.show .auth-box, .vrev-pick.show .auth-box, .act-sheet.show .auth-box { transform:translateY(0); }
       .city-pick .city-list { max-height:none; flex:1 1 auto; min-height:0; }
-      .vrev-pick .auth-box { overflow-y:auto; }   /* form scrolls inside the sheet */
+      .vrev-pick .auth-box, .act-sheet .auth-box { overflow-y:auto; }   /* form/list scrolls inside the sheet */
     }
     /* ── Nights: collaborative board ── */
     .toast-act { background:none; border:none; color:var(--accent); font-weight:700; font-size:inherit; cursor:pointer; padding:0 0 0 10px; }
@@ -1357,7 +1376,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782435596983">
+<meta name="sc-build" content="1782436299016">
 <meta name="description" content="12 events in Paris on Thu, 2 Jul 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/paris/2026-07-02/">
 <meta property="og:type" content="website">
@@ -2531,6 +2550,7 @@
     var CASSETTE_SVG='<svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="currentColor" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="currentColor" stroke="none"/></svg>';
     var CHECK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
     var STAR_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.7 5.9 6.4.6-4.85 4.3 1.45 6.3L12 16.9 6.3 19.7l1.45-6.3L2.9 9.1l6.4-.6z"/></svg>';
+    var DOTS_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
     // Venue review vibe tags — MUST mirror VENUE_REVIEW_TAGS in reviews.js (server validates).
     var VENUE_TAGS=['Great sound','Intimate','Big room','Underground','Friendly staff','Tough door','Long queues','Good value','Pricey','Late license','Cash only','Smoking area'];
     var PICKS_KEY='sc_picks_v1';
@@ -3534,6 +3554,14 @@
       var row=function(w){ return '<div class="feed-row"><span class="sk" style="flex-shrink:0;width:30px;height:30px;border-radius:999px"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:'+w+';height:13px;border-radius:5px;margin-bottom:7px"></span><span class="sk" style="display:block;width:34%;height:9px;border-radius:4px"></span></div></div>'; };
       return '<div style="margin-top:8px" aria-hidden="true">'+row('72%')+row('58%')+row('66%')+row('50%')+row('63%')+'</div>';
     }
+    // Blur-on-scroll header: frost the sticky top bar once the page scrolls (DS v2).
+    (function(){
+      var nav=document.querySelector('.wrap > nav'); if(!nav) return;
+      var on=false;
+      function tick(){ var s=(window.scrollY||document.documentElement.scrollTop)>6; if(s!==on){ on=s; nav.classList.toggle('scrolled', s); } }
+      window.addEventListener('scroll', tick, {passive:true});
+      tick();
+    })();
     // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
     // leak to the page behind. Covers static (.show) + dynamically-built overlays.
     (function(){
@@ -4126,6 +4154,20 @@
       var s=''; for(var i=1;i<=5;i++){ s+='<button class="vrv-star'+(val&&i<=val?' on':'')+'" type="button" data-k="'+k+'" data-v="'+i+'" aria-label="'+label+' '+i+' of 5">'+STAR_SVG+'</button>'; }
       return '<div class="vrv-q">'+label+'</div><div class="vrv-stars" data-stars="'+k+'">'+s+'</div>';
     }
+    // Reusable ••• overflow action sheet (bottom-sheet on mobile). items:
+    // [{ label, svg, on, run }]. Each row runs its action then closes.
+    function openActionSheet(opts){
+      opts=opts||{}; var items=opts.items||[];
+      var ov=document.createElement('div'); ov.className='auth-overlay show act-sheet';
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        (opts.title?'<div class="eyebrow">'+esc(opts.title)+'</div>':'')+
+        '<div class="as-list">'+items.map(function(it,i){ return '<button class="as-row'+(it.on?' on':'')+'" data-i="'+i+'" type="button">'+(it.svg||'')+'<span class="as-lbl">'+esc(it.label)+'</span>'+(it.on?'<span class="as-chk">'+CHECK_SVG+'</span>':'')+'</button>'; }).join('')+'</div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      ov.querySelectorAll('.as-row[data-i]').forEach(function(b){ b.addEventListener('click',function(){ var it=items[+b.dataset.i]; close(); if(it&&it.run) it.run(); }); });
+    }
     function venueReviewSheet(v, mine){
       mine=mine||{};
       var wr=[[2,'Definitely'],[1,'Maybe'],[0,'Nah']].map(function(o){ return '<button class="vrv-chip'+(mine.would_return===o[0]?' on':'')+'" type="button" data-wr="'+o[0]+'">'+o[1]+'</button>'; }).join('');
@@ -4207,8 +4249,9 @@
         var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
         var actions='<div class="artist-actions">'+
           '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
-          '<button class="act-btn'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
-          '<button class="act-btn'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
+          '<button class="act-btn act-2nd'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
+          '<button class="act-btn act-2nd'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
+          '<button class="act-btn act-more" id="ap-more" type="button" aria-label="More actions">'+DOTS_SVG+'</button>'+
         '</div>';
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
@@ -4251,6 +4294,15 @@
         // immediately and sync to the DB in the background — no full re-render.
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
+        // ••• overflow (mobile): the non-primary actions live here so "Tune in" owns the row.
+        var apMore=document.getElementById('ap-more');
+        if(apMore) apMore.addEventListener('click',function(){
+          var st=artStatus(slug);
+          openActionSheet({ title:a.name||slug, items:[
+            { label: st==='wanna_see'?'Remove from Wanna see':'Wanna see', svg:HEART_SVG, on:st==='wanna_see', run:function(){ toggleArtist(slug,{name:a.name}); } },
+            { label: st==='seen'?'Remove from Seen live':'Seen live', svg:CHECK_SVG, on:st==='seen', run:function(){ toggleSeen(slug,{name:a.name}); } }
+          ] });
+        });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         // "More like X" — round artist tiles (same format as Artists-for-you) with each
         // collaborator's next gig (date · venue · city) underneath. Instant fallback from
