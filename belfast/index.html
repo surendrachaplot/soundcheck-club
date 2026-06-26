@@ -891,7 +891,18 @@
     .bill-row:first-child { border-top:none; }
     .bill-play { flex:none; width:38px; height:38px; border-radius:50%; background:var(--accent); color:var(--accent-ink); border:none; font-size:14px; padding-left:2px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .bill-play:active { transform:scale(0.94); }
-    .bill-av { flex:none; width:40px; height:40px; border-radius:50%; background:var(--surface); background-size:cover; background-position:center; cursor:pointer; }
+    .bill-av { position:relative; flex:none; width:42px; height:42px; border-radius:50%; background:var(--surface); background-size:cover; background-position:center; cursor:pointer; }
+    .bav-play { position:absolute; right:-3px; bottom:-3px; width:18px; height:18px; border-radius:50%; background:var(--accent); color:var(--accent-ink); border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; font-size:8px; line-height:1; padding-left:1px; }
+    .bill-row:hover .bav-play { transform:scale(1.12); }
+    .bill-more { flex:none; width:34px; height:34px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--muted); cursor:pointer; display:inline-flex; align-items:center; justify-content:center; -webkit-tap-highlight-color:transparent; transition:color .12s, border-color .12s; }
+    .bill-more svg { width:18px; height:18px; }
+    .bill-more:hover { color:var(--accent); border-color:var(--accent); }
+    /* Event sticky play bar — pins just under the (sticky) global nav as you scroll. */
+    .ev-playbar { position:sticky; top:var(--navh,76px); z-index:40; display:flex; align-items:center; gap:12px; margin:16px 0 2px; padding:8px 0; background:var(--bg); }
+    .ev-bigplay { flex:none; width:54px; height:54px; border-radius:999px; background:var(--accent); border:none; color:var(--accent-ink); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:transform var(--dur-1,120ms) var(--ease-standard,ease); -webkit-tap-highlight-color:transparent; }
+    .ev-bigplay svg { width:26px; height:26px; margin-left:3px; }
+    .ev-bigplay:active { transform:scale(0.94); }
+    .ev-pb-acts { flex:1; min-width:0; display:flex; gap:9px; }
     .bill-nm-wrap { flex:1; min-width:0; text-align:left; background:none; border:none; padding:0; cursor:pointer; color:inherit; display:flex; flex-direction:column; gap:2px; -webkit-tap-highlight-color:transparent; }
     .bill-nm { font:700 var(--fs-base) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .bill-why { font:500 var(--fs-xs) var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -1384,7 +1395,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782491149492">
+<meta name="sc-build" content="1782493891416">
 </head>
 <body>
   <main class="wrap">
@@ -3558,6 +3569,10 @@
       function tick(){ var s=(window.scrollY||document.documentElement.scrollTop)>6; if(s!==on){ on=s; nav.classList.toggle('scrolled', s); } }
       window.addEventListener('scroll', tick, {passive:true});
       tick();
+      // Expose the sticky nav's rendered height so in-page sticky bars (the event play
+      // bar) can pin just beneath it, correct across mobile/desktop + safe-area inset.
+      function setNavH(){ document.documentElement.style.setProperty('--navh', nav.offsetHeight+'px'); }
+      setNavH(); window.addEventListener('resize', setNavH, {passive:true});
     })();
     // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
     // leak to the page behind. Covers static (.show) + dynamically-built overlays.
@@ -4597,20 +4612,20 @@
     function billItemsFromEv(ev){
       return (ev.artists||[]).map(function(a){ var slug=(a.contentUrl||'').split('/').filter(Boolean).pop(); return { slug:slug, name:a.name, image:a.image }; }).filter(function(x){ return x.slug; });
     }
+    // The bill = a YouTube queue. Tapping a row (photo or name) plays that artist and
+    // sets the queue so the dock prev/next walks the whole line-up. The play ▶ button
+    // is gone (the photo carries a play badge); wanna-see / seen-live / view-artist move
+    // into the ••• overflow (openBillMenu), reading fresh status each open.
     function billRowsHTML(items){
-      return '<div class="ev-bill">'+items.map(function(a){
+      return '<div class="ev-bill">'+items.map(function(a, i){
         var av=a.image?('background-image:url('+imgUrl(a.image,80)+')'):'';
         var badge=a.tier?('<span class="bill-badge '+(a.tier==='Do not miss'?'bb-hi':'bb-mid')+'">'+esc(a.tier)+'</span>'):'';
         var why=a.reason?'<span class="bill-why">'+esc(a.reason)+'</span>':'';
-        var st=artStatus(a.slug);
-        // per-artist wanna-see + seen-live toggles — same components as the grid/artist page,
-        // so refreshArtistButtons() keeps them in sync everywhere via data-pick-art/data-seen-art.
-        var heart='<button class="heart'+(st==='wanna_see'?' on':'')+'" type="button" data-pick-art="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-pressed="'+(st==='wanna_see'?'true':'false')+'" aria-label="Wanna see '+esc(a.name)+'">'+HEART_SVG+'</button>';
-        var seen='<button class="seen-btn'+(st==='seen'?' on':'')+'" type="button" data-seen-art="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Seen '+esc(a.name)+' live">'+CHECK_SVG+'</button>';
-        return '<div class="bill-row"><button class="bill-play" type="button" data-slug="'+esc(a.slug)+'" data-name="'+esc(a.name)+'" aria-label="Play '+esc(a.name)+'">&#9654;</button>'+
-          '<span class="bill-av" data-artist="'+esc(a.slug)+'" style="'+av+'"></span>'+
-          '<button class="bill-nm-wrap" type="button" data-artist="'+esc(a.slug)+'"><span class="bill-nline"><span class="bill-nm">'+esc(a.name)+'</span>'+badge+'</span>'+why+'</button>'+
-          '<div class="bill-acts">'+heart+seen+'</div></div>';
+        return '<div class="bill-row">'+
+          '<span class="bill-av" data-bill-i="'+i+'" style="'+av+'"><span class="bav-play" aria-hidden="true">&#9654;</span></span>'+
+          '<button class="bill-nm-wrap" type="button" data-bill-i="'+i+'" aria-label="Play '+esc(a.name)+'"><span class="bill-nline"><span class="bill-nm">'+esc(a.name)+'</span>'+badge+'</span>'+why+'</button>'+
+          '<button class="bill-more" type="button" data-bill-more="'+i+'" aria-label="More for '+esc(a.name)+'">'+DOTS_SVG+'</button>'+
+        '</div>';
       }).join('')+'</div>';
     }
     function mountBill(items){
@@ -4618,11 +4633,21 @@
       if(!items.length){ box.innerHTML='<div class="sec-h" style="margin-top:26px">Line-up</div><p style="color:var(--muted);font:500 var(--fs-sm) var(--body)">To be announced.</p>'; return; }
       box.innerHTML='<div class="sec-h" style="margin-top:26px">The bill<span class="ct">'+items.length+'</span></div>'+billRowsHTML(items);
       var q=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
-      box.querySelectorAll('.bill-play[data-slug]').forEach(function(b,i){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, i); }); });
-      box.querySelectorAll('[data-artist]').forEach(function(el){ el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
-      box.querySelectorAll('.heart[data-pick-art]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); toggleArtist(b.dataset.pickArt,{name:b.dataset.name}); }); });
-      box.querySelectorAll('.seen-btn[data-seen-art]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); toggleSeen(b.dataset.seenArt,{name:b.dataset.name}); }); });
+      // photo or name → play that artist (jumps the queue to them; dock prev/next walks the rest)
+      box.querySelectorAll('[data-bill-i]').forEach(function(el){ el.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, +el.dataset.billI); }); });
+      // ••• → wanna-see / seen-live / view-artist
+      box.querySelectorAll('.bill-more[data-bill-more]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openBillMenu(items[+b.dataset.billMore], q, +b.dataset.billMore); }); });
       var pb=document.getElementById('ev-playbill'); if(pb){ pb.onclick=function(){ playYtList(q,0); }; }
+    }
+    function openBillMenu(a, q, i){
+      if(!a) return;
+      var st=artStatus(a.slug);
+      openActionSheet({ title:a.name, items:[
+        { label:'Play', svg:RADIO_SVG, run:function(){ playYtList(q, i); } },
+        { label:'Wanna see', svg:HEART_SVG, on:st==='wanna_see', run:function(){ toggleArtist(a.slug,{name:a.name}); } },
+        { label:'Seen live', svg:CHECK_SVG, on:st==='seen', run:function(){ toggleSeen(a.slug,{name:a.name}); } },
+        { label:'View artist', svg:EXPAND_SVG, run:function(){ openArtist(a.slug); } }
+      ]});
     }
     function eventPageHTML(ev){
       var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
@@ -4651,8 +4676,10 @@
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
               '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span>'+priceTag+'</div>'+
-              (eid ? '<div class="artist-actions" style="margin-top:16px">'+((ev.artists||[]).length?'<button class="act-btn radio" id="ev-playbill" type="button">'+RADIO_SVG+'<span>Play the line-up</span></button>':'')+(isPast?evLog:evHeart)+evShare+'</div>' : '')+
             '</div>'+
+            /* Sticky play bar: big play (the line-up YouTube queue) + Save/Share. A direct
+               child of ev-col-main so position:sticky travels the full column (incl. the bill). */
+            (eid ? '<div class="ev-playbar">'+((ev.artists||[]).length?'<button class="ev-bigplay" id="ev-playbill" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>':'')+'<div class="ev-pb-acts">'+(isPast?evLog:evHeart)+evShare+'</div></div>' : '')+
             '<div id="ev-meta-rich"><div class="sk" style="height:18px;width:55%;border-radius:6px;margin-top:16px"></div><div class="sk" style="height:13px;width:92%;border-radius:6px;margin-top:11px"></div><div class="sk" style="height:13px;width:78%;border-radius:6px;margin-top:7px"></div></div>'+   /* genre chips + blurb — skeleton reserves space; renderEventRich swaps in place */
             '<div id="ev-review"></div>'+    /* D5: opt-in structured review (attendance-gated) */
             '<div id="ev-bill"></div>'+      /* the bill — who-not-to-miss ranked in, names once (mountBill) */
