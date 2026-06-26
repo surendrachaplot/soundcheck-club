@@ -313,9 +313,14 @@
     .thumb { width:46px; height:46px; border-radius:8px; object-fit:cover; flex-shrink:0; background:var(--surface); }
     .info { min-width:0; }
     /* Dock heart/seen for the currently-playing artist — labeled pills, expanded player. */
-    .dock-acts { display:none; }
-    .dock.expanded .dock-acts { display:flex; gap:9px; justify-content:center; margin-top:10px; }
+    .dock-acts { display:flex; gap:9px; }   /* JS toggles inline display:none when the source isn't an artist */
+    .dock.expanded .dock-acts { justify-content:center; margin-top:10px; }
     .dock-acts .heart, .dock-acts .seen-btn { width:auto; height:auto; padding:8px 14px; gap:7px; color:var(--fg); font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; }
+    /* Collapsed mini-bar: icon-only so heart/seen fit the row WITHOUT growing its (offset-coupled) height. */
+    .dock:not(.expanded) .dock-acts { gap:6px; }
+    .dock:not(.expanded) .dock-acts .heart span, .dock:not(.expanded) .dock-acts .seen-btn span { display:none; }
+    .dock:not(.expanded) .dock-acts .heart, .dock:not(.expanded) .dock-acts .seen-btn { width:34px; height:34px; padding:0; }
+    @media (max-width:620px){ .dock:not(.expanded) #dock-seen { display:none; } }   /* phone mini-bar is too tight for both — heart only; both still show expanded */
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
@@ -1399,7 +1404,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782494343012">
+<meta name="sc-build" content="1782495152431">
 </head>
 <body>
   <main class="wrap">
@@ -1487,7 +1492,8 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="nm" id="dock-name">&mdash;</div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div></div>
+        <div class="info"><div class="nm" id="dock-name">&mdash;</div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
+        <div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div>
         <div class="transport">
           <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
