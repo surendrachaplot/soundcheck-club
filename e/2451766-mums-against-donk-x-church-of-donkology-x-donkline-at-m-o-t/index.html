@@ -45,12 +45,6 @@
     }
     html { scroll-behavior:smooth; color-scheme:dark; }
     body { background:var(--bg); color:var(--fg); font-family:var(--body); font-size:var(--fs-base); line-height:1.55; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
-    /* DS v2 staggered reveal — only hides when JS is active (html.js-rvl), and only
-       elements explicitly marked .rvl (below-fold). Fail-safe: a JS timer + IO both
-       add .in, so content can never stay hidden. */
-    html.js-rvl .rvl { opacity:0; transform:translateY(14px); }
-    .rvl.in { opacity:1; transform:none; transition:opacity var(--dur-3) var(--ease-standard), transform var(--dur-3) var(--ease-standard); }
-    @media (prefers-reduced-motion:reduce){ html.js-rvl .rvl { opacity:1 !important; transform:none !important; transition:none; } }
     a { color:inherit; }
     .wrap { max-width:1180px; margin:0 auto; padding:0 40px; }
 
@@ -970,9 +964,12 @@
     .vrv-chips { display:flex; flex-wrap:wrap; gap:8px; }
     .vrv-chip { border:1px solid var(--border); background:var(--bg); color:var(--fg); border-radius:999px; padding:8px 14px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .vrv-chip.on { border-color:var(--accent); color:var(--accent); background:rgba(255,122,107,0.08); }
-    .ptile { aspect-ratio:1; border-radius:11px; position:relative; overflow:hidden; display:flex; align-items:flex-end; padding:8px; cursor:pointer; border:none; }
+    /* Artists are ALWAYS round — circular image + name below (matches the artist rails). */
+    .ptile { display:flex; flex-direction:column; align-items:center; gap:8px; background:none; border:none; padding:0; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .ptile-img { position:relative; width:100%; aspect-ratio:1; border-radius:999px; overflow:hidden; background-size:cover; background-position:center; }
     .artist-head { display:flex; align-items:center; gap:15px; }
     .artist-head .artist-av { position:relative; width:66px; height:66px; border-radius:16px; flex-shrink:0; overflow:hidden; background-size:cover; background-position:center; }
+    .artist-av.round, .artist-head.artist-hero .artist-av.round { border-radius:999px !important; }   /* artists are always round */
     .artist-head .artist-av img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
     .artist-head-tx h3 { margin:0; }
     /* artist page: big square hero photo, name underneath (artist only — not venue) */
@@ -1039,14 +1036,13 @@
     .act-btn.radio svg { fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .act-btn.radio svg.brand path, .act-btn.radio svg.brand polygon { stroke:none; } /* YouTube logo keeps its own red/white fills */
     .act-btn.radio.on svg { fill:none; stroke:currentColor; }
-    /* mobile overflow: primary CTA stays, secondary actions collapse into ••• */
-    .act-more { display:none; }
+    /* Action row = 1 primary (full-width) + 2 secondary (50/50). The ••• overflow is
+       dormant by default and only revealed on rows that opt in (.artist-actions.has-more)
+       — i.e. when there's a 4th+ action. */
+    .act-2nd { flex:1; }
+    .act-more { display:none; flex:0 0 52px; width:52px; padding:12px 0; }
     .act-more svg { width:22px; height:22px; fill:currentColor; stroke:none; }
-    @media (max-width:620px){
-      .artist-actions .act-2nd { display:none; }
-      .artist-actions .act-more { display:inline-flex; flex:0 0 52px; width:52px; padding:12px 0; }
-      .artist-actions .act-btn.radio { flex-basis:0; flex:1; }
-    }
+    .artist-actions.has-more .act-more { display:inline-flex; }
     /* reusable action sheet (••• overflow) — bottom-sheet on mobile */
     .as-list { display:flex; flex-direction:column; gap:6px; margin-top:10px; }
     .as-row { display:flex; align-items:center; gap:12px; min-height:52px; width:100%; text-align:left; background:var(--surface-2); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:0 15px; font:600 var(--fs-base) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
@@ -1102,9 +1098,8 @@
     @media (min-width:720px){ .cu-grid { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); column-gap:30px; } }
     .cu-grid > li { min-width:0; }
     .ptile .pimg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0; }
-    .ptile.has-img::after { content:''; position:absolute; inset:0; z-index:1; background:linear-gradient(to top, rgba(0,0,0,0.72), rgba(0,0,0,0.05) 60%); }
-    .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.05; color:#fff; text-shadow:0 1px 8px rgba(0,0,0,0.55); position:relative; z-index:2; text-align:left; }
-    .ptile .sd { position:absolute; top:6px; right:6px; width:17px; height:17px; border-radius:999px; background:var(--accent); color:var(--ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-xs); z-index:3; }
+    .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.1; color:var(--fg); text-align:center; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:100%; }
+    .ptile .sd { position:absolute; top:6px; right:6px; width:18px; height:18px; border-radius:999px; background:var(--accent); color:var(--ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-xs); z-index:3; border:2px solid var(--bg); }
     .prof-tl { max-width:560px; }
     .prof-tl .row { display:flex; gap:13px; }
     .prof-tl .spine { display:flex; flex-direction:column; align-items:center; }
@@ -1386,7 +1381,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782437215153">
+<meta name="sc-build" content="1782438174001">
 <meta name="description" content="Mums Against Donk X Church of Donkology X Donkline at M.O.T on Fri 24 Jul, London. 1 act on the bill: DJ Bax. Hardcore. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2451766-mums-against-donk-x-church-of-donkology-x-donkline-at-m-o-t/">
 <meta property="og:type" content="website">
@@ -3492,7 +3487,6 @@
       document.body.classList.add('page-on');
       pageView.hidden=false;
       window.scrollTo(0,0);
-      if(typeof revealScan==='function') revealScan(panelBody);
       if(typeof syncTabs==='function') setTimeout(syncTabs,0); // hash settles after setRoute
     }
     // hidePage is pure UI — it just shows the home grid. History is driven by
@@ -3572,28 +3566,6 @@
       window.addEventListener('scroll', tick, {passive:true});
       tick();
     })();
-    // DS v2 staggered reveal — fail-safe. Marks below-fold cards .rvl and reveals them
-    // on scroll-in; above-fold show immediately (no flash). A timer + IntersectionObserver
-    // both add .in, so nothing can stay hidden. Called after each render.
-    try { document.documentElement.classList.add('js-rvl'); } catch(_) {}
-    function revealScan(root){
-      try{
-        if(!root || window.matchMedia('(prefers-reduced-motion:reduce)').matches) return;
-        var els=[].slice.call(root.querySelectorAll('.gcard')); if(!els.length) return;
-        var vh=window.innerHeight||800, i=0;
-        els.forEach(function(el){
-          if(el.getAttribute('data-rvl')) return; el.setAttribute('data-rvl','1');
-          if(el.getBoundingClientRect().top < vh*0.92){ el.classList.add('in'); return; }  // in view → show now
-          el.classList.add('rvl'); el.style.transitionDelay=((i++)%6)*45+'ms';
-          var done=function(){ el.classList.add('in'); };
-          var t=setTimeout(done, 1000);   // safety: always reveal
-          if('IntersectionObserver' in window){
-            var io=new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ clearTimeout(t); e.target.classList.add('in'); io.unobserve(e.target); } }); }, { rootMargin:'0px 0px -6% 0px' });
-            io.observe(el);
-          } else { clearTimeout(t); done(); }
-        });
-      }catch(_){}
-    }
     // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
     // leak to the page behind. Covers static (.show) + dynamically-built overlays.
     (function(){
@@ -3634,7 +3606,7 @@
     function artGrad(s){ var h=((hashStr(String(s||'x'))%70)+330)%360; return 'linear-gradient(150deg,hsl('+h+' 62% 50%),hsl('+((h+22)%360)+' 42% 14%))'; }
     function ptile(slug,name,seen,image){
       var img=image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(image,300)+'" alt="" onerror="this.remove()">':'';
-      return '<button class="ptile'+(image?' has-img':'')+'" data-artist="'+esc(slug)+'" style="background:'+artGrad(name||slug)+'">'+img+'<span class="nm">'+esc(name||slug)+'</span>'+(seen?'<span class="sd">&#10003;</span>':'')+'</button>';
+      return '<button class="ptile" data-artist="'+esc(slug)+'"><span class="ptile-img'+(image?' has-img':'')+'" style="background:'+artGrad(name||slug)+'">'+img+(seen?'<span class="sd">&#10003;</span>':'')+'</span><span class="nm">'+esc(name||slug)+'</span></button>';
     }
     function hubTile(id,ic,t,d){ return '<button class="hub-tile" id="'+id+'" type="button"><span class="ic">'+ic+'</span><div class="t">'+t+'</div><div class="d">'+d+'</div></button>'; }
 
@@ -4274,7 +4246,7 @@
         var mine=artStatus(slug);
         // generated marble underneath; real photo overlays and falls back on error
         var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
-        var av='<span class="artist-av" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
+        var av='<span class="artist-av round" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
         var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
         // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
         var nextGig=(a.upcoming&&a.upcoming[0])||null;
@@ -4283,7 +4255,6 @@
           '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
           '<button class="act-btn act-2nd'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn act-2nd'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
-          '<button class="act-btn act-more" id="ap-more" type="button" aria-label="More actions">'+DOTS_SVG+'</button>'+
         '</div>';
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
@@ -4326,15 +4297,6 @@
         // immediately and sync to the DB in the background — no full re-render.
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
-        // ••• overflow (mobile): the non-primary actions live here so "Tune in" owns the row.
-        var apMore=document.getElementById('ap-more');
-        if(apMore) apMore.addEventListener('click',function(){
-          var st=artStatus(slug);
-          openActionSheet({ title:a.name||slug, items:[
-            { label: st==='wanna_see'?'Remove from Wanna see':'Wanna see', svg:HEART_SVG, on:st==='wanna_see', run:function(){ toggleArtist(slug,{name:a.name}); } },
-            { label: st==='seen'?'Remove from Seen live':'Seen live', svg:CHECK_SVG, on:st==='seen', run:function(){ toggleSeen(slug,{name:a.name}); } }
-          ] });
-        });
         document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         // "More like X" — round artist tiles (same format as Artists-for-you) with each
         // collaborator's next gig (date · venue · city) underneath. Instant fallback from
@@ -5270,7 +5232,6 @@
       }
       var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); paintCurrentGrid(); });
       wireCard(gridEl);
-      if(typeof revealScan==='function') revealScan(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
         function open(){ openSheet(ev); }
