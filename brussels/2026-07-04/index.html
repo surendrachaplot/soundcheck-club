@@ -8,6 +8,7 @@
        serves every weight via the wght axis — preload both so first-paint text in
        any weight is ready immediately. @font-face is inline in the <style> block. -->
   <link rel="preload" as="font" type="font/woff2" href="/fonts/bricolage.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/inter.woff2" crossorigin />
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -20,18 +21,27 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
   <style>
-    /* ── self-hosted font: one variable woff2 (Latin slice), all weights from a single
-       download via the wght axis. font-display:block keeps Bricolage always rendering
-       (never a fallback face). Bricolage is the ONLY family — headings and body alike. ── */
+    /* ── self-hosted fonts (Latin slice woff2). font-display:block keeps both always
+       rendering (never a system fallback face). Bricolage = display/voice (headings,
+       logo, nav, names); Inter = dense body/metadata/labels. ── */
     @font-face{font-family:'Bricolage Grotesque';font-style:normal;font-weight:400 800;font-display:block;src:url(/fonts/bricolage.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:400 700;font-display:block;src:url(/fonts/inter.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}
 
     *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
     :root {
-      --bg:#0f0f12; --surface:#1b1b20; --fg:#f3ece6; --muted:#9292a0;
-      --accent:#ff7a6b; --border:#28282f; --ink:#1a0f0e; --accent-ink:#1a0f0e;
-      --head:"Bricolage Grotesque",sans-serif; --body:"Bricolage Grotesque",sans-serif;
+      /* DS v2 — brightness-stepped surfaces (no shadows), text-opacity hierarchy */
+      --bg:#0e0d12; --surface:#16141b; --surface-2:#1f1c26; --surface-3:#2a2633;
+      --fg:#f4efe9; --muted:#a39fab; --faint:#6d6976;
+      --accent:#ff7a6b; --accent-weak:rgba(255,122,107,0.12); --border:#322e3b; --ink:#1a0f0e; --accent-ink:#1a0f0e;
+      /* type — Bricolage = display/voice, Inter = dense body/metadata */
+      --head:"Bricolage Grotesque",sans-serif; --body:"Inter","Bricolage Grotesque",sans-serif;
       --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
       --fs-xs:0.72rem; --fs-sm:0.8rem; --fs-base:0.9rem; --fs-md:1.05rem; --fs-lg:1.4rem; --fs-xl:1.7rem; --fs-2xl:2rem;
+      /* spacing — 8pt grid */
+      --sp-1:4px; --sp-2:8px; --sp-3:12px; --sp-4:16px; --sp-5:20px; --sp-6:24px; --sp-8:32px; --sp-10:40px;
+      /* motion — easing + duration tokens (DS v2) */
+      --ease-standard:cubic-bezier(.2,0,0,1); --ease-emphasized:cubic-bezier(.3,0,0,1); --ease-exit:cubic-bezier(.4,0,1,1); --ease-spring:cubic-bezier(.34,1.3,.5,1);
+      --dur-1:120ms; --dur-2:200ms; --dur-3:320ms; --dur-4:460ms;
     }
     html { scroll-behavior:smooth; color-scheme:dark; }
     body { background:var(--bg); color:var(--fg); font-family:var(--body); font-size:var(--fs-base); line-height:1.55; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
@@ -1343,20 +1353,20 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782319878565">
-<meta name="description" content="3 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.">
+<meta name="sc-build" content="1782434413010">
+<meta name="description" content="5 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/brussels/2026-07-04/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Events in Brussels on Sat, 4 Jul 2026 — line-ups &amp; tickets | soundcheck">
-<meta property="og:description" content="3 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.">
+<meta property="og:description" content="5 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/brussels/2026-07-04/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Ffbe3cbe937edd7cea3ba696ed8bc97a5bfa01bae.jpg&amp;w=1000">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2dfb2eac4329c580fbe179a957050d1b0391a7df.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Brussels on Sat, 4 Jul 2026","url":"https://soundcheck.club/brussels/2026-07-04/","description":"3 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2461763-club-gelatina-with-ali-gua-gua-jotadelli-meras-ricky-corazon/","name":"Club Gelatina with Ali Gua Gua, Jotadelli, MeRas, Ricky Corazon"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2469390-blur-x-sono-ventura-s-5y-with-grant-dell-adi-shjva-thojo-b2b/","name":"BLUR x Sono Ventura's 5Y with Grant Dell, Adi, Shjva, Thojo b2b SVS, Harold mp1"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2461605-optimistic-open-air-to-club-lavall-e-at-lavall-e/","name":"Optimistic (open air to) Club: Lavallée"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","name":"Events in Brussels on Sat, 4 Jul 2026","url":"https://soundcheck.club/brussels/2026-07-04/","description":"5 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://soundcheck.club/e/2453291-district-open-air-at-illegaal/","name":"DISTRICT OPEN AIR"},{"@type":"ListItem","position":2,"url":"https://soundcheck.club/e/2458041-gazmatek-invite-alchimyst-infrabass-at-buda-bxl/","name":"GAZMATEK INVITE ALCHIMYST INFRABASS"},{"@type":"ListItem","position":3,"url":"https://soundcheck.club/e/2461763-club-gelatina-with-ali-gua-gua-jotadelli-meras-ricky-corazon/","name":"Club Gelatina with Ali Gua Gua, Jotadelli, MeRas, Ricky Corazon"},{"@type":"ListItem","position":4,"url":"https://soundcheck.club/e/2465324-18hrs-of-fuse-with-vault-sessions-open-air-club-at-circle-pa/","name":"18HRS of Fuse with Vault Sessions: Open Air & Club"},{"@type":"ListItem","position":5,"url":"https://soundcheck.club/e/2461605-optimistic-open-air-to-club-lavall-e-at-lavall-e/","name":"Optimistic (open air to) Club: Lavallée"}]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Brussels","item":"https://soundcheck.club/brussels/"},{"@type":"ListItem","position":3,"name":"Sat, 4 Jul 2026"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Brussels — Sat, 4 Jul 2026</h1><p>3 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2461763-club-gelatina-with-ali-gua-gua-jotadelli-meras-ricky-corazon/">Club Gelatina with Ali Gua Gua, Jotadelli, MeRas, Ricky Corazon</a> — La Fabriek, 2026-07-04</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2469390-blur-x-sono-ventura-s-5y-with-grant-dell-adi-shjva-thojo-b2b/">BLUR x Sono Ventura's 5Y with Grant Dell, Adi, Shjva, Thojo b2b SVS, Harold mp1</a> — UMI, 2026-07-04</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2461605-optimistic-open-air-to-club-lavall-e-at-lavall-e/">Optimistic (open air to) Club: Lavallée</a> — Lavallée, 2026-07-04</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/brussels/2026-07-04/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>Brussels — Sat, 4 Jul 2026</h1><p>5 events in Brussels on Sat, 4 Jul 2026. See who's playing, where, and save your night on soundcheck.</p><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2453291-district-open-air-at-illegaal/">DISTRICT OPEN AIR</a> — Illegaal, 2026-07-04</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2458041-gazmatek-invite-alchimyst-infrabass-at-buda-bxl/">GAZMATEK INVITE ALCHIMYST INFRABASS</a> — Buda BXL, 2026-07-04</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2461763-club-gelatina-with-ali-gua-gua-jotadelli-meras-ricky-corazon/">Club Gelatina with Ali Gua Gua, Jotadelli, MeRas, Ricky Corazon</a> — La Fabriek, 2026-07-04</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2465324-18hrs-of-fuse-with-vault-sessions-open-air-club-at-circle-pa/">18HRS of Fuse with Vault Sessions: Open Air &amp; Club</a> — Circle Park, 2026-07-04</li><li><a style="color:#ff7a6b" href="https://soundcheck.club/e/2461605-optimistic-open-air-to-club-lavall-e-at-lavall-e/">Optimistic (open air to) Club: Lavallée</a> — Lavallée, 2026-07-04</li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/brussels/2026-07-04/">Open on soundcheck</a></p></main></noscript>
   <main class="wrap">
     <nav>
       <a class="logo" href="." aria-label="Soundcheck — home">
