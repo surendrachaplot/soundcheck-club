@@ -568,7 +568,8 @@
     /* ── Phase 3/4 panels (profile / feed / artist / venue) reuse tray shell ── */
     .panel-stat { display:flex; gap:20px; margin:4px 0 14px; color:var(--muted); font-size:var(--fs-sm); }
     .panel-stat b { color:var(--fg); font-weight:700; }
-    .follow-btn { background:var(--accent); color:var(--accent-ink); border:none; border-radius:999px; padding:9px 18px; font:700 var(--fs-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; }
+    .follow-btn { display:inline-flex; align-items:center; justify-content:center; min-height:44px; background:var(--accent); color:var(--accent-ink); border:none; border-radius:999px; padding:0 20px; font:700 var(--fs-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
+    .follow-btn:active { transform:scale(0.97); }
     .follow-btn.following { background:transparent; color:var(--fg); border:1px solid var(--border); }
     .follow-btn.following:hover { border-color:var(--accent); color:var(--accent); }
     .panel-handle { display:inline-flex; align-items:center; gap:10px; }
@@ -1165,7 +1166,8 @@
     .auth-box p { color:var(--muted); font-size:var(--fs-base); line-height:1.5; margin-bottom:16px; }
     .auth-box input { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:13px 14px; font:500 var(--fs-md) var(--body); outline:none; }
     .auth-box input:focus { border-color:var(--accent); }
-    .auth-box .go { width:100%; margin-top:10px; background:var(--accent); color:var(--ink); border:none; border-radius:10px; padding:13px; font:700 var(--fs-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; }
+    .auth-box .go { display:flex; align-items:center; justify-content:center; min-height:48px; width:100%; margin-top:10px; background:var(--accent); color:var(--ink); border:none; border-radius:12px; padding:0 14px; font:700 var(--fs-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
+    .auth-box .go:active { transform:scale(0.98); }
     .auth-box .go:disabled { opacity:0.6; cursor:default; }
     .auth-box .err { color:var(--accent); font-size:var(--fs-sm); min-height:1.1em; margin-top:8px; }
     .auth-box .sent { text-align:center; }
@@ -1200,38 +1202,40 @@
       border:1px solid rgba(255,255,255,0.14);
       box-shadow:0 8px 26px rgba(0,0,0,0.38), inset 0 1px 0 rgba(255,255,255,0.22), inset 0 -1px 1px rgba(0,0,0,0.22); }
     @supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))) { .bnav { background:rgba(22,20,28,0.95); } }
-    .bnav-tab { flex:1; display:flex; align-items:center; justify-content:center; background:none; border:none; color:var(--muted); cursor:pointer; padding:11px 0; border-radius:15px; transition:color .15s ease, background .15s ease; -webkit-tap-highlight-color:transparent; touch-action:manipulation; }
-    .bnav-tab.on { background:rgba(255,255,255,0.07); }
+    .bnav-tab { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px; background:none; border:none; color:var(--muted); cursor:pointer; padding:7px 0 6px; border-radius:14px; transition:color .15s ease, background .15s ease; -webkit-tap-highlight-color:transparent; touch-action:manipulation; }
+    .bnav-tab.on { background:var(--accent-weak); color:var(--accent); }
     .bnav-tab svg { width:var(--icon-md); height:var(--icon-md); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
-    .bnav-tab.on { color:var(--accent); }
+    .bnav-tab.on svg { stroke-width:2.4; }
+    .bnav-l { font:600 9.5px/1 var(--body); letter-spacing:0.01em; }
+    .bnav-tab.on .bnav-l { font-weight:700; }
     .bnav-tab.onair svg { animation:radio-pulse 1.6s ease-in-out infinite; }
     @media (max-width:620px){
       #hdr-discover { display:none; }  /* the bottom nav carries Discover on mobile */
       .hdr-search { display:none; }    /* search lives in the bottom nav on mobile */
       .account-wrap { margin-left:auto; }  /* keep the account/sign-in pill flush right */
       .bnav { display:flex; }
-      body { padding-bottom:calc(72px + env(safe-area-inset-bottom)); }
-      .fab-stack { bottom:calc(72px + env(safe-area-inset-bottom)); }  /* radio pill floats above the nav */
+      body { padding-bottom:calc(78px + env(safe-area-inset-bottom)); }
+      .fab-stack { bottom:calc(78px + env(safe-area-inset-bottom)); }  /* radio pill floats above the nav (labelled = ~56px) */
       /* Player + nav = ONE merged glass unit: the player card sits flush on top
          of the nav, sharing the same glass; only the outer corners round. */
-      .dock { left:16px; right:16px; bottom:calc(60px + env(safe-area-inset-bottom)); z-index:69;
+      .dock { left:16px; right:16px; bottom:calc(66px + env(safe-area-inset-bottom)); z-index:69;
         background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         border:1px solid rgba(255,255,255,0.14); border-bottom:none; border-radius:22px 22px 0 0;
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); overflow:hidden;
-        transform:translateY(calc(100% + 70px + env(safe-area-inset-bottom))); }  /* hidden: clear the 60px bottom offset too */
+        transform:translateY(calc(100% + 76px + env(safe-area-inset-bottom))); }  /* hidden: clear the 66px bottom offset too */
       .dock.show { transform:translateY(0); }
       body.has-dock .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
-      body.has-dock.dock-collapsed { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
+      body.has-dock.dock-collapsed { padding-bottom:calc(128px + env(safe-area-inset-bottom)); }
       /* on-air radio = the SAME merged glass unit as the dock: a full-width bar
          flush on top of the nav (not a floating corner pill). */
-      body.radio-on .fab-stack { left:16px; right:16px; bottom:calc(60px + env(safe-area-inset-bottom)); z-index:69; display:flex; align-items:stretch; gap:0; }
+      body.radio-on .fab-stack { left:16px; right:16px; bottom:calc(66px + env(safe-area-inset-bottom)); z-index:69; display:flex; align-items:stretch; gap:0; }
       body.radio-on .radio-fab { width:100%; max-width:none; padding:11px 14px; border-radius:22px 22px 0 0; border:1px solid rgba(255,255,255,0.14); border-bottom:none;
         background:rgba(30,28,36,0.55); backdrop-filter:blur(30px) saturate(200%); -webkit-backdrop-filter:blur(30px) saturate(200%);
         box-shadow:0 -6px 22px rgba(0,0,0,0.28); color:var(--accent); }
       body.radio-on .radio-fab .rf-tx { flex:1; min-width:0; }
       body.radio-on .radio-fab .rf-t, body.radio-on .radio-fab .rf-sub { max-width:none; }
       body.radio-on .bnav { border-top-left-radius:0; border-top-right-radius:0; border-top:1px solid rgba(255,255,255,0.07); box-shadow:0 10px 30px rgba(0,0,0,0.4); }
-      body.radio-on { padding-bottom:calc(122px + env(safe-area-inset-bottom)); }
+      body.radio-on { padding-bottom:calc(128px + env(safe-area-inset-bottom)); }
     }
     /* Desktop on-air radio = a flush full-width bottom bar, matching the collapsed
        dock (no bottom nav here, so it sits at the very bottom like .dock). */
@@ -1353,7 +1357,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782434413010">
+<meta name="sc-build" content="1782435596983">
 <meta name="description" content="Sachsentrance Open Air with Paraçek at Containerhafen on Sun 19 Jul, Berlin. 4 acts on the bill: Paraçek, RaverPik, Sabu! and The Jakob Sister. Trance and Techno. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2386866-sachsentrance-open-air-with-para-ek-at-containerhafen/">
 <meta property="og:type" content="website">
@@ -1508,11 +1512,11 @@
 
   <!-- mobile bottom nav -->
   <nav class="bnav" id="bnav" aria-label="Main">
-    <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></button>
-    <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></button>
-    <button class="bnav-tab" id="bnav-discover" type="button" aria-label="Discover"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></button>
-    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
-    <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg></button>
+    <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
+    <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
+    <button class="bnav-tab" id="bnav-discover" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg><span class="bnav-l">Scenes</span></button>
+    <button class="bnav-tab" id="bnav-picks" type="button" aria-label="Coming up"><svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span class="bnav-l">Coming up</span></button>
+    <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
 
   <!-- My picks, Log a gig, profile, feed, artist & venue all render as full
