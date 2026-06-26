@@ -211,6 +211,13 @@
     .card-poster .expand-badge { position:absolute; top:8px; right:8px; width:28px; height:28px; border-radius:8px; background:rgba(0,0,0,0.42); display:inline-flex; align-items:center; justify-content:center; color:#fff; opacity:0.82; transition:opacity 0.15s, transform 0.15s; pointer-events:none; }
     .card-poster .expand-badge svg { width:var(--icon-sm); height:var(--icon-sm); }
     .card-poster:hover .expand-badge { opacity:1; transform:scale(1.06); }
+    /* Play the line-up — a round play button half over the poster's bottom-right (Spotify-style). */
+    .card-poster-wrap { position:relative; margin-bottom:20px; }
+    .card-poster-wrap .card-poster { margin-bottom:0; }
+    .card-play { position:absolute; right:10px; bottom:-14px; width:44px; height:44px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:none; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 6px 18px rgba(0,0,0,0.45); transition:transform .12s var(--ease-standard,ease); z-index:2; -webkit-tap-highlight-color:transparent; }
+    .card-play svg { width:20px; height:20px; margin-left:2px; }
+    .card-play:hover { transform:scale(1.08); }
+    .card-play:active { transform:scale(0.94); }
     .gcard h3 .title-btn { background:none; border:0; padding:0; margin:0; font:inherit; color:inherit; text-align:left; cursor:pointer; }
     .gcard h3 .title-btn:hover { color:var(--accent); }
 
@@ -312,14 +319,14 @@
 
     .thumb { width:46px; height:46px; border-radius:8px; object-fit:cover; flex-shrink:0; background:var(--surface); }
     .info { min-width:0; }
-    /* Dock heart/seen for the currently-playing artist — labeled pills, expanded player. */
-    .dock-acts { display:flex; gap:9px; }   /* JS toggles inline display:none when the source isn't an artist */
-    .dock.expanded .dock-acts { justify-content:center; margin-top:10px; }
-    .dock-acts .heart, .dock-acts .seen-btn { width:auto; height:auto; padding:8px 14px; gap:7px; color:var(--fg); font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; }
-    /* Collapsed mini-bar: icon-only so heart/seen fit the row WITHOUT growing its (offset-coupled) height. */
+    /* Dock heart/seen for the playing artist — compact ICON buttons (no labels) so the
+       expanded player stays small; the next-gig venue shows on its own line below the name. */
+    .dock-acts { display:flex; gap:8px; }   /* JS toggles inline display:none when the source isn't an artist */
+    .dock.expanded .dock-acts { justify-content:center; margin-top:2px; }
+    .dock-acts .heart span, .dock-acts .seen-btn span { display:none; }   /* icon-only everywhere */
+    .dock-acts .heart, .dock-acts .seen-btn { width:36px; height:36px; padding:0; color:var(--fg); }   /* fg so they match the white transport icons; .on → salmon */
     .dock:not(.expanded) .dock-acts { gap:6px; }
-    .dock:not(.expanded) .dock-acts .heart span, .dock:not(.expanded) .dock-acts .seen-btn span { display:none; }
-    .dock:not(.expanded) .dock-acts .heart, .dock:not(.expanded) .dock-acts .seen-btn { width:34px; height:34px; padding:0; }
+    .dock:not(.expanded) .dock-acts .heart, .dock:not(.expanded) .dock-acts .seen-btn { width:34px; height:34px; }
     @media (max-width:620px){ .dock:not(.expanded) #dock-seen { display:none; } }   /* phone mini-bar is too tight for both — heart only; both still show expanded */
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
@@ -343,9 +350,9 @@
     .scrub .bar-knob { position:absolute; top:50%; left:0%; width:13px; height:13px; border-radius:999px; background:var(--accent); transform:translate(-50%,-50%); box-shadow:0 1px 4px rgba(0,0,0,0.45); }
 
     /* expanded: video left, name + transport + scrubber centered on the right */
-    .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:42px; }
+    .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:34px; }
     .dock.expanded .thumb { display:none; }
-    .dock.expanded .main { flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; gap:14px; padding-right:80px; }
+    .dock.expanded .main { flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; gap:10px; padding-right:80px; }
     .dock.expanded .info { text-align:center; }
     .dock.expanded .transport { justify-content:center; }
     .dock.expanded .scrub { width:70%; }
@@ -410,23 +417,25 @@
     @media (max-width:380px)  { .grid { grid-template-columns:1fr; } }
 
     /* ── Picks (Phase 1: heart + shortlist + share) ── */
-    .heart, .share-btn { background:transparent; border:1px solid var(--border); color:var(--muted); cursor:pointer; padding:0; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; transition:color .12s, border-color .12s, background .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    /* Heart / share / seen are BARE icons (no circle border) so they match the thin
+       outline transport + close icons (.iconbtn) everywhere. Saved/seen = filled salmon. */
+    .heart, .share-btn { background:transparent; border:none; color:var(--muted); cursor:pointer; padding:0; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; transition:color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .heart svg, .share-btn svg { display:block; }
     .heart { width:26px; height:26px; }
     .heart svg { width:var(--icon-sm); height:var(--icon-sm); }
-    .heart:hover { color:var(--accent); border-color:var(--accent); }
-    .heart.on { color:var(--accent); border-color:var(--accent); background:rgba(255,122,107,0.16); }
+    .heart:hover { color:var(--accent); }
+    .heart.on { color:var(--accent); }
     .heart.on svg { fill:var(--accent); stroke:var(--accent); }
     .share-btn { width:26px; height:26px; }
     .share-btn svg { width:var(--icon-sm); height:var(--icon-sm); }
-    .share-btn:hover { color:var(--accent); border-color:var(--accent); }
+    .share-btn:hover { color:var(--accent); }
     .line li .heart, .line li .share-btn { margin-left:auto; }
     .sheet-line li .heart { margin-left:auto; }
     /* seen toggle (sheet rows) — a check that fills salmon when "seen live" */
-    .seen-btn { background:transparent; border:1px solid var(--border); color:var(--muted); cursor:pointer; padding:0; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; width:30px; height:30px; margin-left:6px; transition:color .12s, border-color .12s, background .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .seen-btn { background:transparent; border:none; color:var(--muted); cursor:pointer; padding:0; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; width:30px; height:30px; margin-left:6px; transition:color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .seen-btn svg { width:var(--icon-sm); height:var(--icon-sm); display:block; }
-    .seen-btn:hover { color:var(--accent); border-color:var(--accent); }
-    .seen-btn.on { color:var(--accent); border-color:var(--accent); background:rgba(255,122,107,0.16); }
+    .seen-btn:hover { color:var(--accent); }
+    .seen-btn.on { color:var(--accent); }
     .sheet-line li .heart { width:30px; height:30px; }
     .sheet-line li .heart svg { width:var(--icon-sm); height:var(--icon-sm); }
     .sheet-line li .share-btn { width:30px; height:30px; margin-left:6px; }
@@ -1023,6 +1032,8 @@
        on top); object-fit:contain keeps flyers uncropped, letterboxed onto the dark bg. */
     .ev-poster-big { max-width:min(540px,100%); margin:0 auto 18px; aspect-ratio:3/4; border-radius:16px; overflow:hidden; background:#0c0c0f; line-height:0; box-shadow:0 10px 34px rgba(0,0,0,0.45); }
     .ev-poster-big img { display:block; width:100%; height:100%; object-fit:contain; }
+    /* Mobile: cap the poster height so the play bar + Save/Share sit above the fold. */
+    @media (max-width:620px){ .ev-poster-big { aspect-ratio:auto; background:transparent; box-shadow:none; } .ev-poster-big img { width:auto; max-width:100%; height:auto; max-height:40vh; margin:0 auto; } }
     .ev-poster-gen { max-width:360px; margin:0 auto 16px; }
     /* event page two-column: poster column (sticky) + main column; recs full-width below */
     .ev-layout { display:grid; grid-template-columns:1fr; gap:0 28px; }
@@ -1189,6 +1200,7 @@
       #home .hero h1 { display:none; }
       #home .hero { padding:16px 0 14px; }
     }
+    @media (max-width:620px){ .account-wrap { display:none; } }   /* mobile: account/sign-in lives in the bottom nav ("You") */
     .account { display:inline-flex; align-items:center; gap:8px; }
     .account .signin-btn { display:inline-flex; align-items:center; height:41px; padding:0 18px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:999px; font:600 calc(var(--fs-xs)*1.2) var(--body); letter-spacing:0; text-transform:lowercase; cursor:pointer; white-space:nowrap; }
     .account .signin-btn:hover { border-color:var(--accent); color:var(--accent); }
@@ -1404,7 +1416,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782496011125">
+<meta name="sc-build" content="1782497191426">
 </head>
 <body>
   <main class="wrap">
@@ -4665,7 +4677,7 @@
       if(!a) return;
       var st=artStatus(a.slug);
       openActionSheet({ title:a.name, items:[
-        { label:'Play', svg:RADIO_SVG, run:function(){ playYtList(q, i); } },
+        { label:'Play', svg:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>', run:function(){ playYtList(q, i); } },
         { label:'Wanna see', svg:HEART_SVG, on:st==='wanna_see', run:function(){ toggleArtist(a.slug,{name:a.name}); } },
         { label:'Seen live', svg:CHECK_SVG, on:st==='seen', run:function(){ toggleSeen(a.slug,{name:a.name}); } },
         { label:'View artist', svg:EXPAND_SVG, run:function(){ openArtist(a.slug); } }
@@ -5204,19 +5216,16 @@
       var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var pick=isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
-      var evPicked = eid && isEventPicked(eid) ? ' on' : '';
-      var actions = eid ? '<div class="card-actions">'+
-        '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Pick this event">'+HEART_SVG+'</button>'+
-        '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>'+
-      '</div>' : '';
+      var canPlay = eid && (ev.artists||[]).length;   // play the line-up as a YouTube queue
       return '<div class="gcard"'+(eid?' data-evt="'+esc(eid)+'"':'')+'>'+
-        '<button class="card-poster" type="button" aria-label="View '+esc(ev.title)+' lineup">'+posterHTML(ev)+'<span class="expand-badge">'+EXPAND_SVG+'</span></button>'+
+        '<div class="card-poster-wrap">'+
+          '<button class="card-poster" type="button" aria-label="View '+esc(ev.title)+' lineup">'+posterHTML(ev)+'<span class="expand-badge">'+EXPAND_SVG+'</span></button>'+
+          (canPlay?'<button class="card-play" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')+
+        '</div>'+
         pick+
         '<h3><button class="title-btn" type="button">'+esc(ev.title)+'</button></h3>'+
         '<div class="meta"><b>'+esc(ev.venue||'TBA')+'</b>'+(ev._city?' &middot; '+esc(ev._city):'')+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-        actions+
         (eid?'<div class="proof" id="proof-'+esc(eid)+'"></div>':'')+
-        ((eid&&(ev.artists||[]).length)?'<button class="ev-radio" type="button">'+RADIO_SVG+'<span>Lineup Radio</span></button>':'')+
         '<ul class="line">'+lineupHTML(ev,5,false)+'</ul>'+
         soloCtaHTML(ev)+
       '</div>';
@@ -5287,7 +5296,7 @@
         function open(){ openSheet(ev); }
         var p=card.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
         var t=card.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
-        var rb=card.querySelector('.ev-radio'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
+        var rb=card.querySelector('.card-play'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
       });
       applyShared();
       decorateProof(list);
