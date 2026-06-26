@@ -581,16 +581,20 @@
        this bar takes over the top of the viewport instead. */
     .psticky { position:fixed; top:0; left:0; right:0; z-index:55; background:var(--bg); border-bottom:1px solid var(--border); transform:translateY(-100%); transition:transform .22s var(--ease-standard,ease); }
     .psticky.show { transform:translateY(0); }
-    .psticky-in { max-width:1180px; margin:0 auto; padding:9px 40px; display:flex; align-items:center; gap:14px; }
-    .psticky-nm { flex:1; min-width:0; font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .psticky-play { flex:none; width:42px; height:42px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:none; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:transform .12s; -webkit-tap-highlight-color:transparent; }
+    .psticky-in { position:relative; max-width:1180px; margin:0 auto; padding:10px 40px; display:flex; align-items:center; gap:10px; }
+    .psticky-back { flex:none; width:30px; height:30px; margin-left:-4px; padding:0; background:none; border:none; color:var(--fg); cursor:pointer; display:inline-flex; align-items:center; justify-content:center; -webkit-tap-highlight-color:transparent; }
+    .psticky-back svg { width:24px; height:24px; }
+    .psticky-back:hover { color:var(--accent); }
+    .psticky-nm { flex:1; min-width:0; margin-right:52px; font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    /* Spotify-style: the play button straddles the bar's bottom edge (half on, half below). */
+    .psticky-play { position:absolute; right:40px; bottom:-22px; width:48px; height:48px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:none; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 20px rgba(0,0,0,0.32); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
     .psticky-play:active { transform:scale(0.94); }
-    .psticky-play svg { width:22px; height:22px; margin-left:2px; }
+    .psticky-play svg { width:24px; height:24px; margin-left:2px; }
     .psticky-play.hidden { display:none; }
     body.has-psticky .wrap > nav { position:static; }   /* entity pages: header scrolls away with the page */
     body.has-psticky .ev-playbar { position:static; }    /* event page: in-hero playbar no longer sticky (the psticky bar covers it) */
-    @media (max-width:920px){ .psticky-in { padding:9px 28px; } }
-    @media (max-width:620px){ .psticky-in { padding:8px 18px; } }
+    @media (max-width:920px){ .psticky-in { padding:10px 28px; } .psticky-play { right:28px; } }
+    @media (max-width:620px){ .psticky-in { padding:9px 18px; } .psticky-play { right:18px; } }
     #page-body { max-width:none; }   /* full home width (.wrap caps at 1180) */
 
     /* ── Phase 3/4 panels (profile / feed / artist / venue) reuse tray shell ── */
@@ -1427,7 +1431,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782503227036">
+<meta name="sc-build" content="1782516019021">
 </head>
 <body>
   <main class="wrap">
@@ -1438,7 +1442,6 @@
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="discover" type="button">Discover</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
-        <button class="nl" data-nav="map" type="button">Map</button>
         <button class="nl" data-nav="upcoming" type="button">Coming up</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
@@ -2489,7 +2492,6 @@
       function setNav(name,on){ document.querySelectorAll('.nl[data-nav="'+name+'"]').forEach(function(t){ t.classList.toggle('on',!!on); }); }
       setNav('discover', route==='discover');
       setNav('scenes', route==='scenes' || route==='scene');
-      setNav('map', route==='map');
       setNav('upcoming', route==='upcoming');
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
@@ -3534,8 +3536,9 @@
     var pageView=document.getElementById('page-view'), panelBody=null;
     function showPage(html){
       document.body.classList.remove('has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }   // reset the sticky title bar; entity pages re-arm it via armSticky
-      pageView.innerHTML='<div class="psticky" id="psticky"><div class="psticky-in"><span class="psticky-nm" id="psticky-nm"></span><button class="psticky-play" id="psticky-play" type="button" aria-label="Play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button></div></div><div id="page-body">'+html+'</div>';   // no back button — browser/PWA back + the bottom nav cover navigation
+      pageView.innerHTML='<div class="psticky" id="psticky"><div class="psticky-in"><button class="psticky-back" id="psticky-back" type="button" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button><span class="psticky-nm" id="psticky-nm"></span><button class="psticky-play" id="psticky-play" type="button" aria-label="Play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button></div></div><div id="page-body">'+html+'</div>';   // Spotify-style sticky bar: small back chevron + name + play (the page itself has no inline back button)
       panelBody=document.getElementById('page-body');
+      var _psb=document.getElementById('psticky-back'); if(_psb) _psb.onclick=function(){ history.back(); };
       document.body.classList.add('page-on');
       pageView.hidden=false;
       window.scrollTo(0,0);
@@ -5721,7 +5724,7 @@
     }
 
     document.getElementById('hdr-search').addEventListener('click',openSearch);
-    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='map') openMap(); else if(n==='upcoming') openUpcoming(); }); });
+    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); }); });
     var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
     friBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[0], 'fri'); });
     satBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[1], 'sat'); });
