@@ -321,8 +321,12 @@
     .info { min-width:0; }
     /* Dock heart/seen for the playing artist — compact ICON buttons (no labels) so the
        expanded player stays small; the next-gig venue shows on its own line below the name. */
-    .dock-acts { display:flex; gap:8px; }   /* JS toggles inline display:none when the source isn't an artist */
-    .dock.expanded .dock-acts { justify-content:center; margin-top:2px; }
+    .dock-acts { display:flex; gap:8px; flex:0 0 auto; }   /* JS toggles inline display:none when the source isn't an artist */
+    /* Artist name + heart/seen share ONE line (the .nm-row): the name flex-shrinks with an
+       ellipsis, the icons stay pinned right after it — expanded centres the whole group. */
+    .nm-row { display:flex; align-items:center; gap:8px; min-width:0; }
+    .nm-row .nm { min-width:0; }
+    .dock.expanded .nm-row { justify-content:center; }
     .dock-acts .heart span, .dock-acts .seen-btn span { display:none; }   /* icon-only everywhere */
     .dock-acts .heart, .dock-acts .seen-btn { width:36px; height:36px; padding:0; color:var(--fg); }   /* fg so they match the white transport icons; .on → salmon */
     .dock:not(.expanded) .dock-acts { gap:6px; }
@@ -353,7 +357,7 @@
     .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:34px; }
     .dock.expanded .thumb { display:none; }
     .dock.expanded .main { flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; gap:10px; padding-right:80px; }
-    .dock.expanded .info { text-align:center; }
+    .dock.expanded .info { text-align:center; max-width:100%; }   /* cap to .main so a long name ellipsises in the nm-row instead of overflowing */
     .dock.expanded .transport { justify-content:center; }
     .dock.expanded .scrub { width:70%; }
 
@@ -397,7 +401,7 @@
       .dock.expanded .video-wrap iframe { width:100%; }
       .dock.expanded .main { padding-right:0; }
       .dock.expanded .scrub { width:100%; }
-      .dock:not(.expanded) .info { max-width:110px; }
+      .dock:not(.expanded) .info { max-width:150px; }   /* room for the name + heart now that they share the row */
       /* Collapsed on mobile: drop the scrubber, show play/pause + next instead */
       .dock:not(.expanded) .scrub { display:none; }
       .dock:not(.expanded) #dock-next { display:inline-flex; }
@@ -606,6 +610,8 @@
     .feed-row .fw { color:var(--muted); font-size:var(--fs-xs); margin-top:2px; }
     .an.linky { cursor:pointer; }
     .an.linky:hover { color:var(--accent); text-decoration:underline; }
+    .an-play { cursor:pointer; }   /* home grid: tapping the artist name plays their set */
+    .an-play:hover { color:var(--accent); }
     .venue-link { cursor:pointer; }
     .sheet-meta b.venue-link:hover { color:var(--accent); text-decoration:underline; }
     .agg-big { display:flex; align-items:baseline; gap:8px; margin:6px 0 2px; }
@@ -1416,7 +1422,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782498156836">
+<meta name="sc-build" content="1782499515235">
 </head>
 <body>
   <main class="wrap">
@@ -1505,8 +1511,7 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="nm" id="dock-name">&mdash;</div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
-        <div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div>
+        <div class="info"><div class="nm-row"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
         <div class="transport">
           <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
@@ -2530,8 +2535,14 @@
           btn.textContent = exp ? 'Show less' : '+ '+btn.dataset.extra+' more';
         });
       });
-      // Heart / Seen / RSVP toggles + per-item share (delegated)
+      // Heart / Seen / RSVP toggles + per-item share + tap-name-to-play (delegated)
       scope.addEventListener('click',function(e){
+        var pn=e.target.closest('.an-play[data-slug]'); if(pn){
+          e.preventDefault(); e.stopPropagation();
+          var li=pn.closest('li'); var yb=li&&li.querySelector('.play.yt');   // reuse the row's ▶ (prefetch, gate, queue all intact)
+          if(yb){ handleYtClick(yb); dismissCoach(); }
+          return;
+        }
         var h=e.target.closest('.heart'); if(h){
           e.preventDefault(); e.stopPropagation();
           if(h.dataset.pickArt) toggleArtist(h.dataset.pickArt, {name:h.dataset.name});
@@ -5211,14 +5222,20 @@
         var pos=esc(ev.poster||'');
         var ytBtn=slug?'<button class="play yt" data-slug="'+esc(slug)+'" data-name="'+esc(a.name)+'" data-poster="'+pos+'" data-venue="'+esc(ev.venue||'')+'" title="Play full set on YouTube">'+YT_SVG+'<span class="state">▶</span></button>':'<span class="no-sc">&mdash;</span>';
         var picked=slug&&isArtistPicked(slug)?' on':'';
-        var heart=slug?'<button class="heart'+picked+'" type="button" data-pick-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Wanna see '+esc(a.name)+'">'+HEART_SVG+'</button>':'';
+        // Heart lives only in the roomy event sheet now — the home grid drops it so the row is
+        // one big tap-to-play target (the artist NAME plays their set; see anCls below).
+        var heart=(inSheet&&slug)?'<button class="heart'+picked+'" type="button" data-pick-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Wanna see '+esc(a.name)+'">'+HEART_SVG+'</button>':'';
         // Seen toggle — only in the roomy event sheet. Account feature.
         var seenOn = slug && artStatus(slug)==='seen' ? ' on' : '';
         var seenBtn = (inSheet && slug) ? '<button class="seen-btn'+seenOn+'" type="button" data-seen-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-label="Seen '+esc(a.name)+' live" title="Seen live">'+CHECK_SVG+'</button>' : '';
         var shareA = (inSheet && slug) ? '<button class="share-btn" type="button" data-share-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-label="Share '+esc(a.name)+'">'+SHARE_SVG+'</button>' : '';
         var pickedRow = slug && sharedPicks && (sharedPicks.artists||[]).indexOf(slug)>=0 ? ' picked' : '';
-        var anCls = (inSheet && slug) ? 'an linky' : 'an';
-        var anAttr = (inSheet && slug) ? ' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"' : '';
+        // Name tap: in the sheet → open artist page; on the home grid → PLAY the artist's set
+        // (a big tap target next to the small ▶), so the whole row is playable.
+        var anCls, anAttr;
+        if(inSheet && slug){ anCls='an linky'; anAttr=' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"'; }
+        else if(slug){ anCls='an an-play'; anAttr=' data-slug="'+esc(slug)+'" data-name="'+esc(a.name)+'"'; }
+        else { anCls='an'; anAttr=''; }
         var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
         html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
       });
@@ -5370,7 +5387,11 @@
       if(_venueCoords && _venueCoordsCity===currentCity) return Promise.resolve(_venueCoords);
       var city=currentCity;
       return pubGet('/api/venues/map?city='+encodeURIComponent(city)).then(function(j){
-        var m={}; (j.venues||[]).forEach(function(v){ if(v.lat!=null && v.lng!=null) m[v.slug||venueKey(v.name)]=[+v.lat,+v.lng]; });
+        // Key coords by the SLUGIFIED NAME (what eventNearby looks up via venueKey(e.venue)) —
+        // and also by the venue's own slug, belt-and-braces. Keying by slug ALONE (the old bug)
+        // missed ~95% of lookups: day events carry only the venue name, and v.slug is usually a
+        // numeric RA id (e.g. "1502"), so venueKey(e.venue) ("the-jazz-cafe") never matched.
+        var m={}; (j.venues||[]).forEach(function(v){ if(v.lat==null||v.lng==null) return; var c=[+v.lat,+v.lng]; var nk=venueKey(v.name); if(nk) m[nk]=c; if(v.slug!=null) m[String(v.slug)]=c; });
         _venueCoords=m; _venueCoordsCity=city; return m;
       }).catch(function(){ _venueCoords={}; _venueCoordsCity=city; return _venueCoords; });
     }
