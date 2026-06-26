@@ -172,14 +172,6 @@
     .cal-foot button.primary { background:var(--accent); color:#1a0f0e; border-radius:8px; padding:8px 14px; }
     .cal-foot button:disabled { opacity:0.45; cursor:default; }
 
-    /* marquee — very slow ambient ticker */
-    .marquee { overflow:hidden; border-top:1px solid var(--border); border-bottom:1px solid var(--border); margin-top:6px; }
-    .marquee .track { display:inline-flex; white-space:nowrap; animation:marq 750s linear infinite; padding:12px 0; }
-    .marquee span { font-family:var(--head); font-weight:800; font-size:var(--fs-lg); letter-spacing:-0.01em; text-transform:uppercase; padding:0 22px; }
-    .marquee span.star { color:var(--accent); display:inline-flex; align-items:center; }
-    .marquee span.star svg { width:24px; height:24px; }
-    @keyframes marq { to { transform:translateX(-50%); } }
-
     /* status */
     .status { padding:14px 0; color:var(--muted); font-size:var(--fs-base); font-weight:500; }
     .status.error { color:#ff6b6b; }
@@ -1422,7 +1414,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782499515235">
+<meta name="sc-build" content="1782499951843">
 </head>
 <body>
   <main class="wrap">
@@ -1459,8 +1451,6 @@
     </div>
 
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
-
-    <div class="marquee" id="marquee" aria-hidden="true"><div class="track" id="track"></div></div>
 
     <div class="status" id="status" role="status" aria-live="polite"></div>
     <div class="signup-banner" id="signup-banner" hidden>
@@ -2604,8 +2594,6 @@
     var HEART_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>';
     var SHARE_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>';
     var RADIO_SVG='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
-    // The cassette brand mark — reused as the marquee separator and anywhere a small icon glyph is needed.
-    var CASSETTE_SVG='<svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="currentColor" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="currentColor" stroke="none"/></svg>';
     var CHECK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
     var STAR_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.7 5.9 6.4.6-4.85 4.3 1.45 6.3L12 16.9 6.3 19.7l1.45-6.3L2.9 9.1l6.4-.6z"/></svg>';
     var DOTS_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
@@ -5284,7 +5272,7 @@
       openEvent(id);
     }
 
-    var gridEl=document.getElementById('grid'), trackEl=document.getElementById('track');
+    var gridEl=document.getElementById('grid');
     // Grid state lives at module scope so the datebar genre dropdown can re-filter.
     var _gridEvents=[], _genreFilter=null, _priceFilter=null;   // _priceFilter: null | 'free' | 'lte1' | 'lte2'
     var _nearFilter=null, _venueCoords=null, _venueCoordsCity=null, NEAR_KM=5;   // near-me: venues within ~5km (~30 min) of the user
@@ -5409,17 +5397,8 @@
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
       document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); trackEl.innerHTML=''; _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
       var ordered=orderEvents(evs);
-      // ambient marquee: "<up to 5 artists> at <venue>" (duplicated for a seamless loop)
-      function marqText(e){
-        var names=(e.artists||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,5);
-        if(!names.length) return e.title;            // fall back to the event title when no lineup
-        return names.join(', ')+(e.venue?(' at '+e.venue):'');
-      }
-      var marq='', SEP='<span class="star">'+CASSETTE_SVG+'</span>';   // cassette icon as the marquee separator
-      for(var k=0;k<2;k++){ ordered.forEach(function(e){ marq+='<span>'+esc(marqText(e))+'</span>'+SEP; }); }
-      trackEl.innerHTML=marq;
       _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
       paintCurrentGrid();
       rebuildLookup(ordered);
