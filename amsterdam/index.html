@@ -1043,6 +1043,9 @@
     .act-more { display:none; flex:0 0 52px; width:52px; padding:12px 0; }
     .act-more svg { width:22px; height:22px; fill:currentColor; stroke:none; }
     .artist-actions.has-more .act-more { display:inline-flex; }
+    /* Event row reuses .heart/.share-btn/.act-log so their existing click-delegation
+       + pick-sync keep working; neutralize the icon-button sizing so .act-btn wins. */
+    .act-btn.heart, .act-btn.share-btn, .act-btn.act-log { width:auto; height:auto; }
     /* reusable action sheet (••• overflow) — bottom-sheet on mobile */
     .as-list { display:flex; flex-direction:column; gap:6px; margin-top:10px; }
     .as-row { display:flex; align-items:center; gap:12px; min-height:52px; width:100%; text-align:left; background:var(--surface-2); border:1px solid var(--border); color:var(--fg); border-radius:12px; padding:0 15px; font:600 var(--fs-base) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s; }
@@ -1381,7 +1384,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782438174001">
+<meta name="sc-build" content="1782491149492">
 </head>
 <body>
   <main class="wrap">
@@ -4337,13 +4340,15 @@
     }
     function toggleVenueFollow(v, btn){
       if(!currentUser){ openAuth(); return; }
-      var willFollow=!btn.classList.contains('following');
-      btn.classList.toggle('following', willFollow);
-      btn.textContent=willFollow?'Following':'Follow venue';
+      var willFollow=!btn.classList.contains('on');
+      var lbl=btn.querySelector('span');
+      btn.classList.toggle('on', willFollow);
+      if(lbl) lbl.textContent=willFollow?'Following':'Follow';
+      btn.setAttribute('aria-pressed', willFollow?'true':'false');
       v.following=willFollow;
       authedFetch('/api/venue/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ slug:v.slug, name:v.name, follow:willFollow }) })
         .then(function(r){ if(!r.ok) throw 0; })
-        .catch(function(){ btn.classList.toggle('following', !willFollow); btn.textContent=!willFollow?'Following':'Follow venue'; v.following=!willFollow; showToast('Couldn’t update.'); });
+        .catch(function(){ btn.classList.toggle('on', !willFollow); if(lbl) lbl.textContent=!willFollow?'Following':'Follow'; btn.setAttribute('aria-pressed', !willFollow?'true':'false'); v.following=!willFollow; showToast('Couldn’t update.'); });
     }
     // slugify a venue name → URL slug (must match the backend's slugify so the
     // slug resolves). Idempotent, so it accepts either a name (from a click) or
@@ -4524,9 +4529,14 @@
         // "logged" + "saved upcoming" counts hidden — no social proof surfaced yet.
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         var vNext=nextPlayableEvent(v.upcoming);
-        if(v.slug){ h+='<div class="artist-actions" style="max-width:540px"><button class="follow-btn'+(v.following?' following':'')+'" id="vf-btn" type="button">'+(v.following?'Following':'Follow venue')+'</button>'+
-          '<button class="ev-radio been-btn'+(v.myReview?' on':'')+'" id="vp-been" type="button">'+CHECK_SVG+'<span>'+(v.myReview?'You&rsquo;ve been':'I&rsquo;ve been')+'</span></button>'+
-          (vNext?'<button class="ev-radio" id="vp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button>':'')+'</div>'; }
+        if(v.slug){
+          // Locked action-row pattern: 1 primary (full-width) + 2 secondary (50/50).
+          // Primary = the play/preview action when there's a playable night, matching
+          // the artist "Tune in"; otherwise Follow takes the primary slot.
+          var vFollow='<button class="act-btn '+(vNext?'act-2nd':'radio')+(v.following?' on':'')+'" id="vf-btn" type="button" aria-pressed="'+(v.following?'true':'false')+'">'+HEART_SVG+'<span>'+(v.following?'Following':'Follow')+'</span></button>';
+          var vBeen='<button class="act-btn act-2nd'+(v.myReview?' on':'')+'" id="vp-been" type="button">'+CHECK_SVG+'<span>'+(v.myReview?'You&rsquo;ve been':'I&rsquo;ve been')+'</span></button>';
+          h+='<div class="artist-actions">'+(vNext?('<button class="act-btn radio" id="vp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button>'+vFollow+vBeen):(vFollow+vBeen))+'</div>';
+        }
         h+='<div id="vp-dna">'+dnaBoxHTML(v.dna)+'</div><div id="vp-upcoming"></div><div id="vp-past"></div>';
         if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
@@ -4622,12 +4632,12 @@
       var priceTag=priceStr?'<span class="price-tag'+(priceStr==='Free'?' free':'')+'">'+esc(priceStr)+'</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
-      var evHeart = eid ? '<button class="heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>' : '';
-      var evShare = eid ? '<button class="share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
+      var evHeart = eid ? '<button class="act-btn act-2nd heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'<span>Save</span></button>' : '';
+      var evShare = eid ? '<button class="act-btn act-2nd share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'<span>Share</span></button>' : '';
       // Past event → "Add to log" / "Logged" (you can't "save/go" to a night that's
       // already happened); future event keeps the save heart.
       var isPast = eid && ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
-      var evLog = isPast ? '<button class="act-log'+(ev.logged?' on':'')+'" type="button" data-log-evt="'+esc(eid)+'">'+(ev.logged?'&#10003; Logged':'+ Add to log')+'</button>' : '';
+      var evLog = isPast ? '<button class="act-btn act-2nd act-log'+(ev.logged?' on':'')+'" type="button" data-log-evt="'+esc(eid)+'">'+CHECK_SVG+'<span>'+(ev.logged?'Logged':'Log it')+'</span></button>' : '';
       var n=(ev.artists||[]).length;
       // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
       // gradient fallback only when there's no real poster.
@@ -4641,10 +4651,9 @@
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
               '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span>'+priceTag+'</div>'+
-              (eid ? '<div class="sheet-actions">'+(isPast ? (evLog+evShare+'<span class="lbl">Log it or share</span>') : (evHeart+evShare+'<span class="lbl">Save or share</span>'))+'</div>' : '')+
+              (eid ? '<div class="artist-actions" style="margin-top:16px">'+((ev.artists||[]).length?'<button class="act-btn radio" id="ev-playbill" type="button">'+RADIO_SVG+'<span>Play the line-up</span></button>':'')+(isPast?evLog:evHeart)+evShare+'</div>' : '')+
             '</div>'+
             '<div id="ev-meta-rich"><div class="sk" style="height:18px;width:55%;border-radius:6px;margin-top:16px"></div><div class="sk" style="height:13px;width:92%;border-radius:6px;margin-top:11px"></div><div class="sk" style="height:13px;width:78%;border-radius:6px;margin-top:7px"></div></div>'+   /* genre chips + blurb — skeleton reserves space; renderEventRich swaps in place */
-            ((ev.artists||[]).length?'<button class="ev-radio" id="ev-playbill" type="button" style="margin-top:22px">'+RADIO_SVG+'<span>Play the line-up</span></button>':'')+
             '<div id="ev-review"></div>'+    /* D5: opt-in structured review (attendance-gated) */
             '<div id="ev-bill"></div>'+      /* the bill — who-not-to-miss ranked in, names once (mountBill) */
           '</div>'+
