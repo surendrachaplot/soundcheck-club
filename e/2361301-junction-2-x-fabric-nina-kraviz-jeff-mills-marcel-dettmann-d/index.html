@@ -45,6 +45,12 @@
     }
     html { scroll-behavior:smooth; color-scheme:dark; }
     body { background:var(--bg); color:var(--fg); font-family:var(--body); font-size:var(--fs-base); line-height:1.55; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+    /* DS v2 staggered reveal — only hides when JS is active (html.js-rvl), and only
+       elements explicitly marked .rvl (below-fold). Fail-safe: a JS timer + IO both
+       add .in, so content can never stay hidden. */
+    html.js-rvl .rvl { opacity:0; transform:translateY(14px); }
+    .rvl.in { opacity:1; transform:none; transition:opacity var(--dur-3) var(--ease-standard), transform var(--dur-3) var(--ease-standard); }
+    @media (prefers-reduced-motion:reduce){ html.js-rvl .rvl { opacity:1 !important; transform:none !important; transition:none; } }
     a { color:inherit; }
     .wrap { max-width:1180px; margin:0 auto; padding:0 40px; }
 
@@ -972,7 +978,11 @@
     /* artist page: big square hero photo, name underneath (artist only — not venue) */
     /* header row — avatar + name/socials, with the description alongside on desktop;
        action buttons go on their own row below (was a tall stacked column). */
-    .artist-head.artist-hero { align-items:center; gap:18px 22px; flex-wrap:wrap; }
+    .artist-head.artist-hero { align-items:center; gap:18px 22px; flex-wrap:wrap; position:relative; isolation:isolate; }
+    /* DS v2: tint the hero from the actual artwork — a blurred, darkened copy behind
+       the header (Spotify-style). Contained (no negative side insets → no overflow);
+       degrades to nothing when there's no image. */
+    .artist-hero .hero-tint { position:absolute; left:0; right:0; top:-24px; height:230px; z-index:-1; background-size:cover; background-position:center; filter:blur(40px) saturate(1.25) brightness(0.5); opacity:0.55; pointer-events:none; -webkit-mask-image:linear-gradient(#000 35%,transparent); mask-image:linear-gradient(#000 35%,transparent); }
     .artist-head.artist-hero .artist-av { width:88px; height:88px; border-radius:18px; }
     .artist-head.artist-hero .artist-head-tx { flex:0 0 auto; min-width:0; }
     .artist-head.artist-hero .artist-head-tx h3 { font-size:var(--fs-xl); line-height:1.05; }
@@ -1376,7 +1386,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782436299016">
+<meta name="sc-build" content="1782437215153">
 <meta name="description" content="Junction 2 x fabric: Nina Kraviz, Jeff Mills, Marcel Dettmann, DJ Hell, Nicolas Lutz, Peach at Boston Manor Park on Sat 25 Jul, London. 13 acts on the bill: Anna Wall, DJ Hell, Francesco Del Garda and Gabrielle Kwarteng and 9 more. Techno and House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2361301-junction-2-x-fabric-nina-kraviz-jeff-mills-marcel-dettmann-d/">
 <meta property="og:type" content="website">
@@ -3483,6 +3493,7 @@
       document.body.classList.add('page-on');
       pageView.hidden=false;
       window.scrollTo(0,0);
+      if(typeof revealScan==='function') revealScan(panelBody);
       if(typeof syncTabs==='function') setTimeout(syncTabs,0); // hash settles after setRoute
     }
     // hidePage is pure UI — it just shows the home grid. History is driven by
@@ -3562,6 +3573,28 @@
       window.addEventListener('scroll', tick, {passive:true});
       tick();
     })();
+    // DS v2 staggered reveal — fail-safe. Marks below-fold cards .rvl and reveals them
+    // on scroll-in; above-fold show immediately (no flash). A timer + IntersectionObserver
+    // both add .in, so nothing can stay hidden. Called after each render.
+    try { document.documentElement.classList.add('js-rvl'); } catch(_) {}
+    function revealScan(root){
+      try{
+        if(!root || window.matchMedia('(prefers-reduced-motion:reduce)').matches) return;
+        var els=[].slice.call(root.querySelectorAll('.gcard')); if(!els.length) return;
+        var vh=window.innerHeight||800, i=0;
+        els.forEach(function(el){
+          if(el.getAttribute('data-rvl')) return; el.setAttribute('data-rvl','1');
+          if(el.getBoundingClientRect().top < vh*0.92){ el.classList.add('in'); return; }  // in view → show now
+          el.classList.add('rvl'); el.style.transitionDelay=((i++)%6)*45+'ms';
+          var done=function(){ el.classList.add('in'); };
+          var t=setTimeout(done, 1000);   // safety: always reveal
+          if('IntersectionObserver' in window){
+            var io=new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ clearTimeout(t); e.target.classList.add('in'); io.unobserve(e.target); } }); }, { rootMargin:'0px 0px -6% 0px' });
+            io.observe(el);
+          } else { clearTimeout(t); done(); }
+        });
+      }catch(_){}
+    }
     // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
     // leak to the page behind. Covers static (.show) + dynamically-built overlays.
     (function(){
@@ -4255,7 +4288,7 @@
         '</div>';
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
         if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
         h+=actions;
@@ -4534,7 +4567,7 @@
         var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
         var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'">'+(v.image?'<img src="'+imgUrl(v.image,200)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+'</span>';
         // Venue header mirrors the artist-page hero: logo + name/socials + description.
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3>'+socialLinksHTML({ website:v.website })+'</div>'+(sub?'<div class="sub">'+sub+'</div>':'')+'</div>'+(v.description?'<p class="seo-desc">'+esc(v.description)+'</p>':'')+'</div>';
+        var h='<div class="artist-head artist-hero">'+(v.image?'<div class="hero-tint" style="background-image:url('+imgUrl(v.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3>'+socialLinksHTML({ website:v.website })+'</div>'+(sub?'<div class="sub">'+sub+'</div>':'')+'</div>'+(v.description?'<p class="seo-desc">'+esc(v.description)+'</p>':'')+'</div>';
         var stats=[];
         if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
         // "logged" + "saved upcoming" counts hidden — no social proof surfaced yet.
@@ -5238,6 +5271,7 @@
       }
       var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); paintCurrentGrid(); });
       wireCard(gridEl);
+      if(typeof revealScan==='function') revealScan(gridEl);
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
         function open(){ openSheet(ev); }
