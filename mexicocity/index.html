@@ -347,15 +347,22 @@
     .scrub .skip svg { width:var(--icon-md); height:var(--icon-md); }
     .scrub .bar { flex:1; min-width:0; height:6px; border-radius:999px; background:rgba(255,255,255,0.14); position:relative; cursor:pointer; touch-action:none; }
     .scrub .bar-fill { position:absolute; left:0; top:0; bottom:0; width:0%; background:var(--accent); border-radius:999px; }
-    .scrub .bar-knob { position:absolute; top:50%; left:0%; width:13px; height:13px; border-radius:999px; background:var(--accent); transform:translate(-50%,-50%); box-shadow:0 1px 4px rgba(0,0,0,0.45); }
+    .scrub .bar-knob { position:absolute; top:50%; left:0%; width:13px; height:13px; border-radius:999px; background:var(--accent); transform:translate(-50%,-50%); box-shadow:0 1px 4px rgba(0,0,0,0.45); border:none; padding:0; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; color:var(--accent-ink); -webkit-tap-highlight-color:transparent; touch-action:none; }
+    .scrub .bar-knob .ic { display:none; }   /* collapsed: just a dot; the play/pause icon shows only in the expanded playhead */
 
     /* expanded: video left, name + transport + scrubber centered on the right */
     .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:34px; }
     .dock.expanded .thumb { display:none; }
     .dock.expanded .main { flex:1; min-width:0; display:flex; flex-direction:column; align-items:center; gap:10px; padding-right:80px; }
     .dock.expanded .info { text-align:center; max-width:100%; }   /* cap to .main so a long name ellipsises in the nm-row instead of overflowing */
-    .dock.expanded .transport { justify-content:center; }
-    .dock.expanded .scrub { width:70%; }
+    /* Expanded dock = SCA style: the slider (with the play/pause as its playhead) sits ABOVE
+       a row of prev / ±15 / next. The transport's own play button is hidden (the playhead is it). */
+    .dock.expanded .scrub { width:70%; order:1; padding:16px 0; }
+    .dock.expanded .transport { order:2; justify-content:center; gap:22px; }
+    .dock.expanded #dock-pp { display:none; }
+    .dock.expanded .bar { height:8px; }
+    .dock.expanded .bar-knob { width:46px; height:46px; box-shadow:0 6px 18px rgba(0,0,0,0.45); }
+    .dock.expanded .bar-knob .ic { display:block; width:22px; height:22px; }
 
     /* collapsed: slim bar; video kept alive offscreen (audio only) */
     .dock:not(.expanded) .panel { display:flex; align-items:center; gap:16px; padding:11px 22px calc(11px + env(safe-area-inset-bottom)); }
@@ -1435,7 +1442,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782555710355">
+<meta name="sc-build" content="1782585374084">
 </head>
 <body>
   <main class="wrap">
@@ -1524,15 +1531,15 @@
         <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
         <div class="transport">
           <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
+          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>15</span></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
+          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
           <button class="iconbtn" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
         </div>
         <div class="scrub">
-          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>15</span></button>
           <span class="t" id="t-cur">0:00</span>
-          <div class="bar" id="bar"><div class="bar-fill" id="bar-fill"></div><div class="bar-knob" id="bar-knob"></div></div>
+          <div class="bar" id="bar"><div class="bar-fill" id="bar-fill"></div><button class="bar-knob" id="bar-knob" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button></div>
           <span class="t" id="t-dur">0:00</span>
-          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
         </div>
       </div>
     </div>
@@ -1892,7 +1899,7 @@
 
     var active=null;
     function setState(btn,ch){ var s=btn.querySelector('.state'); if(s) s.textContent=ch; }
-    function updatePP(playing){ dockPP.innerHTML = playing ? PP_PAUSE : PP_PLAY; dockPP.setAttribute('aria-label', playing?'Pause':'Play'); }
+    function updatePP(playing){ var ic = playing ? PP_PAUSE : PP_PLAY, lab = playing?'Pause':'Play'; dockPP.innerHTML = ic; dockPP.setAttribute('aria-label', lab); var bk=document.getElementById('bar-knob'); if(bk){ bk.innerHTML = ic; bk.setAttribute('aria-label', lab); } }   /* keep the slider playhead's icon in sync with the transport play button */
     function clearPlayers(){ stopPoll(); if(ytPlayer){ try{ ytPlayer.destroy(); }catch(_){} ytPlayer=null; ytReadyFlag=false; } scWidget=null; currentType=null; pendingYt=null; resetScrub(); }
     function ytSize(){ var w = window.innerWidth<=620 ? Math.min(320, window.innerWidth-40) : 400; return { w:w, h:Math.round(w*9/16) }; }
 
@@ -1908,6 +1915,13 @@
     function livePos(){ if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime) return ytPlayer.getCurrentTime()||0; return pos; }
     function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); } pos=sec; paintScrub(); }
     function barFrac(e){ var r=barEl.getBoundingClientRect(); var cx=(e.clientX!=null?e.clientX:(e.touches&&e.touches[0]?e.touches[0].clientX:0)); return Math.min(1,Math.max(0,(cx-r.left)/r.width)); }
+    // SCA playhead: in the EXPANDED dock the bar-knob IS the play/pause button — a tap toggles,
+    // a drag scrubs. In collapsed it's a passive dot, so let the event bubble to the bar (seek).
+    var _phDown=null;
+    barKnob.addEventListener('pointerdown',function(e){ if(!dock.classList.contains('expanded')||!active) return; e.stopPropagation(); _phDown={x:e.clientX,moved:false}; try{ barKnob.setPointerCapture(e.pointerId); }catch(_){} });
+    barKnob.addEventListener('pointermove',function(e){ if(!_phDown) return; if(Math.abs(e.clientX-_phDown.x)>4){ _phDown.moved=true; if(dur){ scrubbing=true; pos=barFrac(e)*dur; paintScrub(); } } });
+    barKnob.addEventListener('pointerup',function(e){ if(!_phDown) return; var moved=_phDown.moved; _phDown=null; if(moved&&dur){ scrubbing=false; seekTo(barFrac(e)*dur); } else { togglePlay(); } });
+    barKnob.addEventListener('pointercancel',function(){ _phDown=null; scrubbing=false; });
     barEl.addEventListener('pointerdown',function(e){ if(!active||!dur) return; scrubbing=true; try{ barEl.setPointerCapture(e.pointerId); }catch(_){} pos=barFrac(e)*dur; paintScrub(); });
     barEl.addEventListener('pointermove',function(e){ if(!scrubbing) return; pos=barFrac(e)*dur; paintScrub(); });
     barEl.addEventListener('pointerup',function(e){ if(!scrubbing) return; scrubbing=false; seekTo(barFrac(e)*dur); });
