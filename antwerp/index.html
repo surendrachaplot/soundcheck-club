@@ -33,6 +33,7 @@
       --bg:#0e0d12; --surface:#16141b; --surface-2:#1f1c26; --surface-3:#2a2633;
       --fg:#f4efe9; --muted:#a39fab; --faint:#6d6976;
       --accent:#ff7a6b; --accent-weak:rgba(255,122,107,0.12); --border:#322e3b; --ink:#1a0f0e; --accent-ink:#1a0f0e;
+      --accent-grad:linear-gradient(140deg, #ff8a72 0%, #f56552 100%);   /* subtle salmon sheen — play buttons */
       /* type — Bricolage = display/voice, Inter = dense body/metadata */
       --head:"Bricolage Grotesque",sans-serif; --body:"Inter","Bricolage Grotesque",sans-serif;
       --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
@@ -248,9 +249,9 @@
     .evc-eyebrow { display:inline-block; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); color:#fff; font:800 10px var(--body); text-transform:uppercase; letter-spacing:.05em; padding:6px 10px; border-radius:999px; margin-bottom:7px; }
     .evc-title { font-family:var(--head); font-weight:800; font-size:clamp(1.05rem, 1.7vw, 1.3rem); letter-spacing:-.02em; color:#fff; line-height:1.08; text-shadow:0 1px 10px rgba(0,0,0,.5); }
     .evc-meta { color:#e7dfe8; font:500 var(--fs-xs) var(--body); margin-top:3px; }
-    .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
+    .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
     .evc-play:active { transform:scale(.92); }
-    .evc-play svg { width:18px; height:18px; margin-left:2px; }
+    .evc-play svg { width:36px; height:36px; margin-left:4px; }
     .evc-body { padding:26px 13px 14px; }
     /* fixed 2-row × 2-col grid → every card is the same height; up to 4 artists,
        long names ellipsis. height = 2 rows (30px) + one 7px gap = 67px. */
@@ -325,8 +326,8 @@
     .iconbtn { background:transparent; border:none; color:var(--fg); cursor:pointer; padding:7px; border-radius:8px; display:inline-flex; align-items:center; justify-content:center; touch-action:manipulation; -webkit-tap-highlight-color:transparent; user-select:none; }
     .iconbtn:hover { color:var(--accent); }
     .iconbtn:disabled { cursor:default; }
-    .play-main { width:46px; height:46px; border-radius:999px; background:var(--accent); color:var(--ink); border:none; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
-    .play-main .ic { width:var(--icon-md); height:var(--icon-md); }
+    .play-main { width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--ink); border:none; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .play-main .ic { width:40px; height:40px; }
 
     .video-wrap { flex:0 0 auto; position:relative; }
     .video-wrap iframe { width:min(420px,42vw); aspect-ratio:16/9; height:auto; border:0; border-radius:10px; display:block; background:#000; max-width:100%; }
@@ -624,9 +625,9 @@
     .psticky-back:hover { color:var(--accent); }
     .psticky-nm { flex:1; min-width:0; margin-right:52px; font-family:var(--head); font-weight:800; font-size:var(--fs-md); letter-spacing:-0.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* Spotify-style: the play button straddles the bar's bottom edge (half on, half below). */
-    .psticky-play { position:absolute; right:40px; bottom:-22px; width:48px; height:48px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:none; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 20px rgba(0,0,0,0.32); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
+    .psticky-play { position:absolute; right:40px; bottom:-22px; width:48px; height:48px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:none; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 20px rgba(0,0,0,0.32); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
     .psticky-play:active { transform:scale(0.94); }
-    .psticky-play svg { width:24px; height:24px; margin-left:2px; }
+    .psticky-play svg { width:46px; height:46px; margin-left:0; }
     .psticky-play.hidden { display:none; }
     body.has-psticky .wrap > nav { position:static; }   /* entity pages: header scrolls away with the page */
     body.has-psticky .ev-playbar { position:static; }    /* event page: in-hero playbar no longer sticky (the psticky bar covers it) */
@@ -904,7 +905,7 @@
     .srail-ven { position:relative; flex:none; width:208px; height:124px; border-radius:13px; overflow:hidden; background:#2c2630; background-size:cover; background-position:center; cursor:pointer; display:flex; align-items:flex-end; padding:12px; }
     .srail-ven::after { content:""; position:absolute; inset:0; background:linear-gradient(to top, rgba(13,9,8,0.85), rgba(13,9,8,0) 65%); }
     .srail-ven-n { position:relative; z-index:1; font:800 var(--fs-base) var(--head); color:#fff; }
-    .srail-play { position:absolute; width:36px; height:36px; border-radius:50%; background:var(--accent); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:14px; padding-left:2px; z-index:2; cursor:pointer; }
+    .srail-play { position:absolute; width:36px; height:36px; border-radius:50%; background:var(--accent-grad); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:26px; padding-left:3px; z-index:2; cursor:pointer; }
     .srail-play.ctr { left:50%; top:50%; transform:translate(-50%,-50%); opacity:0; transition:opacity .15s ease; }
     .srail-art-img:hover .srail-play.ctr { opacity:1; }
     .srail-play.br { right:8px; bottom:8px; }
@@ -968,8 +969,8 @@
     .bill-more:hover { color:var(--accent); border-color:var(--accent); }
     /* Event sticky play bar — pins just under the (sticky) global nav as you scroll. */
     .ev-playbar { position:sticky; top:var(--navh,76px); z-index:40; display:flex; align-items:center; gap:12px; margin:16px 0 2px; padding:8px 0; background:var(--bg); }
-    .ev-bigplay { flex:none; width:54px; height:54px; border-radius:999px; background:var(--accent); border:none; color:var(--accent-ink); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:transform var(--dur-1,120ms) var(--ease-standard,ease); -webkit-tap-highlight-color:transparent; }
-    .ev-bigplay svg { width:26px; height:26px; margin-left:3px; }
+    .ev-bigplay { flex:none; width:54px; height:54px; border-radius:999px; background:var(--accent-grad); border:none; color:var(--accent-ink); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:transform var(--dur-1,120ms) var(--ease-standard,ease); -webkit-tap-highlight-color:transparent; }
+    .ev-bigplay svg { width:50px; height:50px; margin-left:1px; }
     .ev-bigplay:active { transform:scale(0.94); }
     .ev-pb-acts { flex:1; min-width:0; display:flex; gap:9px; }
     .ev-pb-acts .heart { max-width:220px; }   /* cap the Save pill so it matches the artist page's Wanna see / Seen live (~216px) instead of stretching to fill the row */
@@ -1469,7 +1470,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782662594712">
+<meta name="sc-build" content="1782664031690">
 </head>
 <body>
   <main class="wrap">
