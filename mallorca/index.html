@@ -276,11 +276,9 @@
     .evc-meta { color:var(--muted); font:500 var(--fs-xs) var(--body); margin-bottom:10px; display:flex; flex-direction:column; gap:1px; }
     .evc-meta .evc-mrow { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .evc-meta .evc-mwhere { opacity:.8; }   /* venue · city row a touch dimmer than the date · time row */
-    .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s, background .4s ease, color .4s ease, box-shadow .4s ease; -webkit-tap-highlight-color:transparent; }
+    .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
     .evc-play:active { transform:scale(.92); }
     .evc-play svg { width:27px; height:27px; margin-left:3px; }
-    /* scroll effect: a card's play button inverts — salmon triangle on a black circle — as it rises into the top half of the viewport */
-    .evc-play.inv { background:#0b0a0e; color:var(--accent); box-shadow:0 0 0 1.5px rgba(255,122,107,.5), 0 8px 18px rgba(0,0,0,.5); }
     .evc-body { padding:30px 13px 14px; }
     /* fixed 2-row × 2-col grid → every card is the same height; up to 4 artists,
        long names ellipsis. height = 2 rows (30px) + one 7px gap = 67px. */
@@ -1500,7 +1498,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782677511149">
+<meta name="sc-build" content="1782677844849">
 </head>
 <body>
   <main class="wrap">
@@ -4027,11 +4025,6 @@
     // silently die whenever a render site forgets to copy the handlers (that's how
     // the artist/venue/search cards broke after the card redesign). `evById` maps a
     // card's data-evt → its event object, needed for the full line-up play queue.
-    // scroll effect: event-card play buttons invert (salmon triangle / black circle) when they rise into the
-    // top half of the viewport — a positional effect driven by IntersectionObserver (no per-frame scroll work).
-    var _ppIO = ('IntersectionObserver' in window) ? new IntersectionObserver(function(ents){
-      ents.forEach(function(en){ en.target.classList.toggle('inv', en.isIntersecting); });
-    }, { rootMargin:'0px 0px -50% 0px', threshold:0 }) : null;
     function wireEvcCards(scope, evById){
       if(!scope) return;
       scope.querySelectorAll('.gcard.evc').forEach(function(card){
@@ -4041,7 +4034,7 @@
         var mb=card.querySelector('.evc-chip.more'); if(mb) mb.addEventListener('click',open);
         // play queue = the whole line-up; poster-play starts at 0, a chip from that artist on
         var q=(ev.artists||[]).map(function(a){ var s=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():''; return { slug:s, name:a.name, poster:ev.poster }; }).filter(function(a){ return a.slug; });
-        var pb=card.querySelector('.evc-play'); if(pb){ pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); }); if(_ppIO) _ppIO.observe(pb); }
+        var pb=card.querySelector('.evc-play'); if(pb) pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); });
         card.querySelectorAll('.evc-chip[data-slug]').forEach(function(c){ c.addEventListener('click',function(e){ e.stopPropagation(); var idx=q.findIndex(function(x){ return x.slug===c.dataset.slug; }); playYtList(q, idx<0?0:idx); }); });
       });
     }
@@ -5610,8 +5603,9 @@
     function _renderStrip(coreHTML, lastISO){
       var web = !window.matchMedia || matchMedia('(min-width:621px)').matches;
       if(!web){ stripEl.innerHTML=coreHTML+_calTile(); return; }
-      var html=coreHTML, last=lastISO, approx=stripEl.clientWidth ? Math.ceil(stripEl.clientWidth/56)+3 : 22;
-      for(var k=0;k<approx;k++){ last=_addDaysISO(last,1); html+=_dtTile(last); }
+      var html=coreHTML, last=lastISO, approx=stripEl.clientWidth ? Math.ceil(stripEl.clientWidth/56)+3 : 22, added=0, k=0;
+      // fill with weekend days only (Fri/Sat/Sun) — Mon–Thu always stay collapsed in the ···
+      while(added<approx && k++<420){ last=_addDaysISO(last,1); var dw=new Date(last+'T12:00:00').getDay(); if(dw===5||dw===6||dw===0){ html+=_dtTile(last); added++; } }
       stripEl.innerHTML=html+_calTile();
       var cal=stripEl.lastElementChild, core=(coreHTML.match(/data-iso=/g)||[]).length, guard=0;
       while(stripEl.scrollWidth > stripEl.clientWidth+1 && guard++<80){
