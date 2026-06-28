@@ -1492,7 +1492,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782673948506">
+<meta name="sc-build" content="1782674300899">
 </head>
 <body>
   <main class="wrap">
@@ -2118,6 +2118,16 @@
       } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
     }
     dockPP.addEventListener('click',togglePlay);
+    // Spacebar toggles play/pause on web — but never when typing in a field or with a
+    // button/link focused (those handle space themselves), and not with a modifier.
+    document.addEventListener('keydown',function(e){
+      if(e.key!==' ' && e.code!=='Space') return;
+      if(!active || e.ctrlKey || e.metaKey || e.altKey) return;
+      var ae=document.activeElement, t=ae?(ae.tagName||'').toLowerCase():'';
+      if(t==='input'||t==='textarea'||t==='select'||(ae&&ae.isContentEditable)) return;
+      if(e.target && e.target.closest && e.target.closest('button,a,[role="button"]')) return;
+      e.preventDefault(); togglePlay();
+    });
     function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
     if(dockGrab){
       dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
