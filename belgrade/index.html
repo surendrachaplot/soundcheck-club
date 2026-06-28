@@ -135,6 +135,8 @@
     /* ── day strip — the date selector (swipeable run of days + a calendar tile) ── */
     .daterow { display:flex; align-items:center; gap:10px; margin:12px 0 2px; }
     .daystrip { position:relative; display:flex; gap:8px; flex:0 1 auto; min-width:0; overflow-x:auto; padding:2px 1px; scrollbar-width:none; -ms-overflow-style:none; -webkit-overflow-scrolling:touch; }
+    /* web: the date row spans the full width — tiles distribute evenly across it */
+    @media (min-width:621px){ .daystrip { flex:1 1 auto; } .daystrip .dt { flex:1 1 0; } }
     .daystrip::-webkit-scrollbar { display:none; }
     .dt { flex:none; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; min-width:54px; height:58px; border-radius:15px; border:1px solid var(--border); background:var(--surface); color:var(--fg); cursor:pointer; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .dt:hover { border-color:var(--accent); }
@@ -1492,7 +1494,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782674300899">
+<meta name="sc-build" content="1782675248816">
 </head>
 <body>
   <main class="wrap">
