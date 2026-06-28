@@ -145,6 +145,8 @@
     .dt.on .dt-w { color:var(--accent-ink); opacity:.85; }
     .dt.dscal { min-width:50px; color:var(--fg); }
     .dt.dscal svg { width:22px; height:22px; }
+    .dt.dsell { position:relative; min-width:48px; color:var(--muted); font-size:1.25rem; font-weight:800; letter-spacing:1px; border-style:dashed; }
+    .dt.dsell .dsell-c { position:absolute; top:6px; right:7px; font:700 9px var(--body); letter-spacing:0; background:var(--surface-2); color:var(--muted); border-radius:999px; padding:1px 5px; }
     .ds-filt { position:relative; flex:none; width:46px; height:46px; border-radius:50%; border:1px solid var(--border); background:var(--surface); color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:border-color .12s, color .12s; }
     .ds-filt:hover { border-color:var(--accent); }
     .ds-filt svg { width:20px; height:20px; }
@@ -1491,7 +1493,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782670799850">
+<meta name="sc-build" content="1782672484386">
 </head>
 <body>
   <main class="wrap">
@@ -5558,31 +5560,47 @@
     function fmtDateLabel(iso){ var d=new Date(iso+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}); }
     function fmtRange(a,b){ var da=new Date(a+'T12:00:00'); return da.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'})+' – '+fmtDateLabel(b); }
     var currentDate=null, currentRange=null, mode='weekend', activePick='weekend';
-    // ── day strip: a swipeable run of upcoming days + a calendar tile, replacing
-    // the old Fri / Sat / Pick-a-date chips. Built once (today is fixed for the
-    // session); syncChips() just re-highlights the selected day. ──
+    // ── day strip: Tonight + the upcoming Fri/Sat/Sun are pinned; the week's other
+    // days (anything between today and that Friday — i.e. the weekdays) collapse
+    // under a "···" that expands them in place. A calendar tile covers anything
+    // further out. syncChips() (name kept for callers) re-highlights the selection. ──
     var stripEl=document.getElementById('daystrip');
+    var _stripMid=[], _stripExpanded=false;
+    function _addDaysISO(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return isoOf(d); }
+    function _dtTile(iso, isToday){
+      if(isToday) return '<button class="dt lab" type="button" data-iso="'+iso+'">Tonight</button>';
+      var d=new Date(iso+'T12:00:00');
+      return '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
+    }
     function buildDayStrip(){
       if(!stripEl) return;
-      var today=new Date(); today.setHours(12,0,0,0); var html='';
-      for(var i=0;i<14;i++){
-        var d=new Date(today); d.setDate(today.getDate()+i); var iso=isoOf(d);
-        html += i===0
-          ? '<button class="dt lab" type="button" data-iso="'+iso+'">Tonight</button>'
-          : '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
-      }
-      html += '<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>';
+      var today=todayISO(), fri=nextFridayISO();
+      var weekend=[fri,_addDaysISO(fri,1),_addDaysISO(fri,2)].filter(function(d){ return d!==today; });
+      _stripMid=[]; for(var c=_addDaysISO(today,1); c<fri; c=_addDaysISO(c,1)) _stripMid.push(c);
+      // keep collapsed unless the user expanded it, or the selected day is hidden in there
+      var expand = _stripExpanded || (currentDate && _stripMid.indexOf(currentDate)>=0);
+      var html=_dtTile(today, true);
+      if(_stripMid.length>=2 && !expand) html+='<button class="dt dsell" id="dt-ell" type="button" aria-label="Show '+_stripMid.length+' more days">···<span class="dsell-c">'+_stripMid.length+'</span></button>';
+      else _stripMid.forEach(function(iso){ html+=_dtTile(iso); });
+      weekend.forEach(function(iso){ html+=_dtTile(iso); });
+      html+='<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>';
       stripEl.innerHTML=html;
-      stripEl.querySelectorAll('.dt[data-iso]').forEach(function(b){ b.addEventListener('click',function(){ load(b.dataset.iso); }); });
-      var c=document.getElementById('dt-cal'); if(c) c.addEventListener('click',function(){ openCal(); });
     }
     buildDayStrip();
+    // one delegated listener (the strip re-renders on expand, so per-tile handlers would go stale)
+    if(stripEl) stripEl.addEventListener('click', function(e){
+      if(e.target.closest('#dt-ell')){ _stripExpanded=true; buildDayStrip(); syncChips(); return; }
+      if(e.target.closest('#dt-cal')){ openCal(); return; }
+      var b=e.target.closest('.dt[data-iso]'); if(b) load(b.dataset.iso);
+    });
     function syncChips(){
       if(!stripEl) return;
-      var sel = (mode==='day' && currentDate) ? currentDate : null, hit=null;
+      var sel = (mode==='day' && currentDate) ? currentDate : null;
+      // a selected weekday hidden under "···" → rebuild so it's revealed + highlightable
+      if(sel && _stripMid.indexOf(sel)>=0 && !stripEl.querySelector('.dt[data-iso="'+sel+'"]')) buildDayStrip();
+      var hit=null;
       stripEl.querySelectorAll('.dt[data-iso]').forEach(function(b){ var on=b.dataset.iso===sel; b.classList.toggle('on', on); if(on) hit=b; });
       var calT=document.getElementById('dt-cal'); if(calT) calT.classList.toggle('on', mode==='range' || (!!sel && !hit));
-      // only scroll when the selected day is off-screen — keep "Tonight" in view otherwise
       if(hit){ var l=hit.offsetLeft, r=l+hit.offsetWidth; if(l<stripEl.scrollLeft) stripEl.scrollLeft=Math.max(0,l-8); else if(r>stripEl.scrollLeft+stripEl.clientWidth) stripEl.scrollLeft=r-stripEl.clientWidth+8; }
     }
     // Salmon dot on the filters button whenever a genre / price / near filter is live.
