@@ -398,8 +398,8 @@
     .scrub .skip svg { width:var(--icon-md); height:var(--icon-md); }
     .scrub .bar { flex:1; min-width:0; height:6px; border-radius:999px; background:rgba(255,255,255,0.14); position:relative; cursor:pointer; touch-action:none; }
     .scrub .bar-fill { position:absolute; left:0; top:0; bottom:0; width:0%; background:var(--accent); border-radius:999px; }
-    .scrub .bar-knob { position:absolute; top:50%; left:0%; width:13px; height:13px; border-radius:999px; background:var(--accent); transform:translate(-50%,-50%); box-shadow:0 1px 4px rgba(0,0,0,0.45); border:none; padding:0; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; color:var(--accent-ink); -webkit-tap-highlight-color:transparent; touch-action:none; }
-    .scrub .bar-knob .ic { display:none; }   /* collapsed: just a dot; the play/pause icon shows only in the expanded playhead */
+    .scrub .bar-knob { position:absolute; top:50%; left:0%; width:28px; height:28px; border-radius:999px; background:var(--accent-grad); transform:translate(-50%,-50%); box-shadow:0 3px 10px rgba(0,0,0,0.4); border:none; padding:0; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; color:var(--accent-ink); -webkit-tap-highlight-color:transparent; touch-action:none; }
+    .scrub .bar-knob .ic { display:block; width:14px; height:14px; }   /* the play/pause button IS the slider playhead, collapsed + expanded */
 
     /* expanded: video left, name + transport + scrubber centered on the right */
     .dock.expanded .panel { display:flex; gap:22px; align-items:center; padding-top:34px; }
@@ -422,11 +422,10 @@
     .dock:not(.expanded) .main { flex:1; min-width:0; display:flex; align-items:center; gap:18px; padding-right:84px; }
     .dock:not(.expanded) .info { flex:0 0 auto; max-width:200px; }
     .dock:not(.expanded) .scrub { flex:1; min-width:0; }
-    /* collapsed = minimal: only play/pause + chevron + close (hide prev/next/skip) */
-    .dock:not(.expanded) #dock-prev,
-    .dock:not(.expanded) #dock-next,
-    .dock:not(.expanded) #skip-back,
-    .dock:not(.expanded) #skip-fwd { display:none; }
+    /* collapsed = minimal: the play/pause lives ON the scrubber (the bar-knob rides the
+       progress, SCA-style), so the whole transport row is hidden — mini-bar is just
+       name + the scrubber-with-play/pause. */
+    .dock:not(.expanded) .transport { display:none; }
     .dock:not(.expanded) .thumb { cursor:pointer; }
     /* Tap-to-toggle: collapsed bar taps to expand; the expanded sheet shows a
        grab-handle (tap to collapse). No fiddly corner chevron. */
@@ -1493,7 +1492,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782672484386">
+<meta name="sc-build" content="1782673948506">
 </head>
 <body>
   <main class="wrap">
@@ -1962,10 +1961,10 @@
     function livePos(){ if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime) return ytPlayer.getCurrentTime()||0; return pos; }
     function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); } pos=sec; paintScrub(); }
     function barFrac(e){ var r=barEl.getBoundingClientRect(); var cx=(e.clientX!=null?e.clientX:(e.touches&&e.touches[0]?e.touches[0].clientX:0)); return Math.min(1,Math.max(0,(cx-r.left)/r.width)); }
-    // SCA playhead: in the EXPANDED dock the bar-knob IS the play/pause button — a tap toggles,
-    // a drag scrubs. In collapsed it's a passive dot, so let the event bubble to the bar (seek).
+    // SCA playhead: the bar-knob IS the play/pause button in BOTH collapsed and expanded —
+    // a tap toggles, a drag scrubs. (The panel's expand-on-tap already excludes .scrub.)
     var _phDown=null;
-    barKnob.addEventListener('pointerdown',function(e){ if(!dock.classList.contains('expanded')||!active) return; e.stopPropagation(); _phDown={x:e.clientX,moved:false}; try{ barKnob.setPointerCapture(e.pointerId); }catch(_){} });
+    barKnob.addEventListener('pointerdown',function(e){ if(!active) return; e.stopPropagation(); _phDown={x:e.clientX,moved:false}; try{ barKnob.setPointerCapture(e.pointerId); }catch(_){} });
     barKnob.addEventListener('pointermove',function(e){ if(!_phDown) return; if(Math.abs(e.clientX-_phDown.x)>4){ _phDown.moved=true; if(dur){ scrubbing=true; pos=barFrac(e)*dur; paintScrub(); } } });
     barKnob.addEventListener('pointerup',function(e){ if(!_phDown) return; var moved=_phDown.moved; _phDown=null; if(moved&&dur){ scrubbing=false; seekTo(barFrac(e)*dur); } else { togglePlay(); } });
     barKnob.addEventListener('pointercancel',function(){ _phDown=null; scrubbing=false; });
@@ -5565,29 +5564,35 @@
     // under a "···" that expands them in place. A calendar tile covers anything
     // further out. syncChips() (name kept for callers) re-highlights the selection. ──
     var stripEl=document.getElementById('daystrip');
-    var _stripMid=[], _stripExpanded=false;
+    var _stripMid=[], _stripExpanded=false, _stripFocus=null;
     function _addDaysISO(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return isoOf(d); }
     function _dtTile(iso, isToday){
       if(isToday) return '<button class="dt lab" type="button" data-iso="'+iso+'">Tonight</button>';
       var d=new Date(iso+'T12:00:00');
       return '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
     }
+    function _calTile(){ return '<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>'; }
     function buildDayStrip(){
       if(!stripEl) return;
-      var today=todayISO(), fri=nextFridayISO();
+      var today=todayISO();
+      // focus mode: a date beyond this week was picked → window centred on it (Tonight stays up front to jump back)
+      if(_stripFocus){
+        var fh=_dtTile(today, true);
+        for(var fd=_addDaysISO(_stripFocus,-3); fd<=_addDaysISO(_stripFocus,3); fd=_addDaysISO(fd,1)){ if(fd>today) fh+=_dtTile(fd, false); }
+        stripEl.innerHTML=fh+_calTile(); return;
+      }
+      var fri=nextFridayISO();
       var weekend=[fri,_addDaysISO(fri,1),_addDaysISO(fri,2)].filter(function(d){ return d!==today; });
       _stripMid=[]; for(var c=_addDaysISO(today,1); c<fri; c=_addDaysISO(c,1)) _stripMid.push(c);
-      // keep collapsed unless the user expanded it, or the selected day is hidden in there
       var expand = _stripExpanded || (currentDate && _stripMid.indexOf(currentDate)>=0);
       var html=_dtTile(today, true);
       if(_stripMid.length>=2 && !expand) html+='<button class="dt dsell" id="dt-ell" type="button" aria-label="Show '+_stripMid.length+' more days">···<span class="dsell-c">'+_stripMid.length+'</span></button>';
       else _stripMid.forEach(function(iso){ html+=_dtTile(iso); });
       weekend.forEach(function(iso){ html+=_dtTile(iso); });
-      html+='<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>';
-      stripEl.innerHTML=html;
+      stripEl.innerHTML=html+_calTile();
     }
     buildDayStrip();
-    // one delegated listener (the strip re-renders on expand, so per-tile handlers would go stale)
+    // one delegated listener (the strip re-renders on expand/focus, so per-tile handlers would go stale)
     if(stripEl) stripEl.addEventListener('click', function(e){
       if(e.target.closest('#dt-ell')){ _stripExpanded=true; buildDayStrip(); syncChips(); return; }
       if(e.target.closest('#dt-cal')){ openCal(); return; }
@@ -5596,12 +5601,15 @@
     function syncChips(){
       if(!stripEl) return;
       var sel = (mode==='day' && currentDate) ? currentDate : null;
-      // a selected weekday hidden under "···" → rebuild so it's revealed + highlightable
-      if(sel && _stripMid.indexOf(sel)>=0 && !stripEl.querySelector('.dt[data-iso="'+sel+'"]')) buildDayStrip();
+      // a date beyond this week → rebuild a window centred on it; a hidden weekday → reveal it
+      var wantFocus = (sel && sel>_addDaysISO(nextFridayISO(),2)) ? sel : null;
+      var revealMid = !wantFocus && sel && _stripMid.indexOf(sel)>=0 && !stripEl.querySelector('.dt[data-iso="'+sel+'"]');
+      if(wantFocus!==_stripFocus || revealMid){ _stripFocus=wantFocus; if(revealMid) _stripExpanded=true; buildDayStrip(); }
       var hit=null;
       stripEl.querySelectorAll('.dt[data-iso]').forEach(function(b){ var on=b.dataset.iso===sel; b.classList.toggle('on', on); if(on) hit=b; });
       var calT=document.getElementById('dt-cal'); if(calT) calT.classList.toggle('on', mode==='range' || (!!sel && !hit));
-      if(hit){ var l=hit.offsetLeft, r=l+hit.offsetWidth; if(l<stripEl.scrollLeft) stripEl.scrollLeft=Math.max(0,l-8); else if(r>stripEl.scrollLeft+stripEl.clientWidth) stripEl.scrollLeft=r-stripEl.clientWidth+8; }
+      // centre the selected day in the strip (no-op on desktop where the whole strip fits)
+      if(hit) stripEl.scrollLeft = Math.max(0, hit.offsetLeft - (stripEl.clientWidth - hit.offsetWidth)/2);
     }
     // Salmon dot on the filters button whenever a genre / price / near filter is live.
     function syncFilterDot(){ var on=!!(_genreFilter||_priceFilter||_nearFilter); var d=document.getElementById('ds-dot'), b=document.getElementById('ds-filt'); if(d) d.hidden=!on; if(b) b.classList.toggle('on', on); }
