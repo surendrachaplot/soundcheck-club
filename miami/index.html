@@ -191,7 +191,7 @@
     }
 
     /* grid */
-    .grid { display:grid; grid-template-columns:repeat(4,1fr); gap:26px 22px; padding:8px 0 calc(56px + env(safe-area-inset-bottom)); align-items:start; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(340px, 1fr)); gap:24px 20px; padding:8px 0 calc(56px + env(safe-area-inset-bottom)); align-items:start; }
     .gcard { display:flex; flex-direction:column; min-width:0; }
     .poster { position:relative; width:100%; aspect-ratio:3/4; border-radius:10px; overflow:hidden; background:var(--surface); margin-bottom:13px; }
     .poster .gen { position:absolute; inset:0; display:flex; align-items:flex-end; padding:12px; background:linear-gradient(var(--ang,150deg), var(--g1,#ff7a6b), var(--g2,#1b1b20)); }
@@ -234,6 +234,30 @@
     .gcard h3 { font-family:var(--head); font-size:var(--fs-md); font-weight:700; letter-spacing:-0.015em; line-height:1.15; }
     .gcard .meta { font-size:var(--fs-xs); color:var(--muted); font-weight:600; margin-top:4px; }
     .gcard .meta b { color:var(--fg); }
+    /* ── poster-led event card (the grid card) ── */
+    .gcard.evc { background:var(--surface); border:1px solid var(--border); border-radius:18px; overflow:hidden; }
+    .evc-hero { position:relative; aspect-ratio:16/10; }
+    .evc-poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:none; cursor:pointer; }
+    .evc-hero .poster { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:auto; margin:0; border-radius:0; }
+    .evc-hero .poster .gen .gt { display:none; }   /* generated-art title is replaced by our overlay title */
+    .evc-hero::after { content:''; position:absolute; inset:0; background:linear-gradient(to top, rgba(14,13,18,.9), rgba(14,13,18,.12) 52%, transparent 78%); pointer-events:none; }
+    .evc-heart { position:absolute; top:12px; right:12px; z-index:3; width:42px; height:42px; border-radius:999px; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border:0; color:#fff; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
+    .evc-heart svg { width:21px; height:21px; }
+    .evc-heart.on { background:var(--accent); color:var(--accent-ink); }
+    .evc-over { position:absolute; left:18px; right:80px; bottom:14px; z-index:2; pointer-events:none; }
+    .evc-eyebrow { display:inline-block; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); color:#fff; font:800 var(--fs-xs) var(--body); text-transform:uppercase; letter-spacing:.06em; padding:7px 12px; border-radius:999px; margin-bottom:8px; }
+    .evc-title { font-family:var(--head); font-weight:800; font-size:clamp(1.35rem, 2.4vw, 1.6rem); letter-spacing:-.02em; color:#fff; line-height:1.05; text-shadow:0 1px 12px rgba(0,0,0,.5); }
+    .evc-meta { color:#e7dfe8; font:500 var(--fs-sm) var(--body); margin-top:4px; }
+    .evc-play { position:absolute; right:16px; bottom:-26px; z-index:3; width:54px; height:54px; border-radius:999px; background:var(--accent); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 20px rgba(0,0,0,.45); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
+    .evc-play:active { transform:scale(.92); }
+    .evc-play svg { width:22px; height:22px; margin-left:2px; }
+    .evc-body { padding:30px 18px 18px; }
+    .evc-chips { display:flex; flex-wrap:wrap; gap:8px; }
+    .evc-chip { display:inline-flex; align-items:center; gap:8px; padding:9px 14px 9px 12px; border-radius:999px; border:1px solid var(--border); color:var(--fg); font:600 var(--fs-sm) var(--body); cursor:pointer; background:none; -webkit-tap-highlight-color:transparent; }
+    .evc-chip:hover { border-color:var(--accent); }
+    .evc-tri { color:var(--accent); display:inline-flex; }
+    .evc-tri svg { width:10px; height:10px; }
+    .evc-chip.more { color:var(--muted); border-style:dashed; }
     .line { list-style:none; margin:12px 0 0; display:flex; flex-direction:column; gap:7px; }
     .line li { display:flex; align-items:center; gap:8px; font-size:var(--fs-sm); font-weight:500; min-width:0; }
     .line li .an { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
@@ -419,8 +443,8 @@
       body.has-dock.dock-collapsed { padding-bottom:96px; }
     }
 
-    @media (max-width:920px)  { .grid { grid-template-columns:repeat(3,1fr); } .wrap{ padding:0 28px; } }
-    @media (max-width:620px)  { .grid { grid-template-columns:repeat(2,1fr); } .wrap{ padding:0 18px; } }
+    @media (max-width:920px)  { .wrap{ padding:0 28px; } }
+    @media (max-width:620px)  { .wrap{ padding:0 18px; } }
     @media (max-width:380px)  { .grid { grid-template-columns:1fr; } }
 
     /* ── Picks (Phase 1: heart + shortlist + share) ── */
@@ -1442,7 +1466,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782585374084">
+<meta name="sc-build" content="1782653469950">
 </head>
 <body>
   <main class="wrap">
@@ -1635,6 +1659,7 @@
     var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
     function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
     function formatTime(iso){ if(!iso) return ''; var m=/T(\d{2}:\d{2})/.exec(iso); return m?m[1]:''; }
+    function time12(iso){ var m=/T(\d{2}):(\d{2})/.exec(iso||''); if(!m) return ''; var h=+m[1], mm=m[2], ap=h<12?'am':'pm', x=h%12; return (x||12)+(mm==='00'?'':(':'+mm))+ap; }   // "T23:00" → "11pm" (event-card display)
     // "23:00 – 06:00" when both are known; just the start otherwise. fb = a non-ISO start (e.g. "23:00").
     function formatTimeRange(s,e,fb){ var a=formatTime(s)||fb||'', b=formatTime(e); return (a&&b)?(a+' – '+b):a; }
     // Ticket price (scraped from RA's free-text cost, best-effort). 0 → "Free", null → ''.
@@ -5283,23 +5308,34 @@
       });
       return html;
     }
+    // Poster-led event card: poster hero (heart top-right, eyebrow+title+meta bottom-left,
+    // salmon play half over the bottom-right) + artist chips (cap 4, then "+N more" → event).
     function cardHTML(ev){
-      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
-      var pick=isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
-      var canPlay = eid && (ev.artists||[]).length;   // play the line-up as a YouTube queue
-      return '<div class="gcard"'+(eid?' data-evt="'+esc(eid)+'"':'')+'>'+
-        '<div class="card-poster-wrap">'+
-          '<button class="card-poster" type="button" aria-label="View '+esc(ev.title)+' lineup">'+posterHTML(ev)+'<span class="expand-badge">'+EXPAND_SVG+'</span></button>'+
-          (canPlay?'<button class="card-play" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')+
+      var arts=ev.artists||[];
+      var isTon = currentDate && currentDate===todayISO();
+      var dayLab = isTon ? 'Tonight' : (ev._day||'');
+      var t1=time12(ev.startTime), t2=time12(ev.endTime);
+      var eyebrow = (dayLab||'') + ((dayLab&&t1)?' · ':'') + (t1||'');
+      var range = (t1&&t2) ? (t1+'–'+t2) : t1;
+      var meta = [esc(ev.venue||'TBA'), ev._city?esc(ev._city):'', range?esc(range):''].filter(Boolean).join(' &middot; ');
+      var CAP=4, chips='';
+      arts.slice(0,CAP).forEach(function(a){
+        var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
+        chips+='<button class="evc-chip" type="button"'+(slug?' data-slug="'+esc(slug)+'"':'')+'><span class="evc-tri"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span>'+esc(a.name)+'</button>';
+      });
+      if(arts.length>CAP) chips+='<button class="evc-chip more" type="button" data-more>+'+(arts.length-CAP)+' more</button>';
+      var picked = eid && isEventPicked(eid) ? ' on' : '';
+      var canPlay = eid && arts.length;
+      return '<article class="gcard evc"'+(eid?' data-evt="'+esc(eid)+'"':'')+'>'+
+        '<div class="evc-hero">'+
+          '<button class="evc-poster" type="button" aria-label="View '+esc(ev.title)+'">'+posterHTML(ev)+'</button>'+
+          (eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>':'')+
+          '<div class="evc-over">'+(eyebrow?'<span class="evc-eyebrow">'+esc(eyebrow)+'</span>':'')+'<div class="evc-title">'+esc(ev.title)+'</div>'+(meta?'<div class="evc-meta">'+meta+'</div>':'')+'</div>'+
+          (canPlay?'<button class="evc-play" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')+
         '</div>'+
-        pick+
-        '<h3><button class="title-btn" type="button">'+esc(ev.title)+'</button></h3>'+
-        '<div class="meta"><b>'+esc(ev.venue||'TBA')+'</b>'+(ev._city?' &middot; '+esc(ev._city):'')+(ev._day?' &middot; '+esc(ev._day):'')+(time?' &middot; '+time:'')+'</div>'+
-        (eid?'<div class="proof" id="proof-'+esc(eid)+'"></div>':'')+
-        '<ul class="line">'+lineupHTML(ev,5,false)+'</ul>'+
-        soloCtaHTML(ev)+
-      '</div>';
+        (chips?'<div class="evc-body"><div class="evc-chips">'+chips+'</div></div>':'')+
+      '</article>';
     }
 
     // Order: FOLD, MOT, Phonox, then top 2 by popularity, then the rest.
@@ -5365,9 +5401,12 @@
       gridEl.querySelectorAll('.gcard').forEach(function(card,i){
         var ev=list[i];
         function open(){ openSheet(ev); }
-        var p=card.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
-        var t=card.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
-        var rb=card.querySelector('.card-play'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
+        var p=card.querySelector('.evc-poster'); if(p) p.addEventListener('click',open);
+        var mb=card.querySelector('.evc-chip.more'); if(mb) mb.addEventListener('click',function(e){ e.stopPropagation(); open(); });
+        // play queue = the whole line-up; the poster-play starts at 0, a chip starts from that artist
+        var q=(ev.artists||[]).map(function(a){ var s=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():''; return { slug:s, name:a.name, poster:ev.poster }; }).filter(function(a){ return a.slug; });
+        var pb=card.querySelector('.evc-play'); if(pb) pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); });
+        card.querySelectorAll('.evc-chip[data-slug]').forEach(function(c){ c.addEventListener('click',function(e){ e.stopPropagation(); var idx=q.findIndex(function(x){ return x.slug===c.dataset.slug; }); playYtList(q, idx<0?0:idx); }); });
       });
       applyShared();
       decorateProof(list);
