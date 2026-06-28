@@ -135,8 +135,8 @@
     /* ── day strip — the date selector (swipeable run of days + a calendar tile) ── */
     .daterow { display:flex; align-items:center; gap:10px; margin:12px 0 2px; }
     .daystrip { position:relative; display:flex; gap:8px; flex:0 1 auto; min-width:0; overflow-x:auto; padding:2px 1px; scrollbar-width:none; -ms-overflow-style:none; -webkit-overflow-scrolling:touch; }
-    /* web: the date row spans the full width — tiles distribute evenly across it */
-    @media (min-width:621px){ .daystrip { flex:1 1 auto; } .daystrip .dt { flex:1 1 0; } }
+    /* web: the strip fills the row width; JS packs MORE day tiles (original size) to fill it */
+    @media (min-width:621px){ .daystrip { flex:1 1 auto; } }
     .daystrip::-webkit-scrollbar { display:none; }
     .dt { flex:none; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; min-width:54px; height:58px; border-radius:15px; border:1px solid var(--border); background:var(--surface); color:var(--fg); cursor:pointer; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
     .dt:hover { border-color:var(--accent); }
@@ -274,9 +274,11 @@
        depth (and the card height) stays predictable. */
     .evc-title { position:absolute; left:14px; right:58px; bottom:0; z-index:4; transform:translateY(50%); margin:0; font-family:var(--head); font-weight:800; font-size:clamp(1.05rem, 1.7vw, 1.3rem); letter-spacing:-.02em; color:#fff; line-height:1.1; text-shadow:0 1px 10px rgba(0,0,0,.6); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
     .evc-meta { color:var(--muted); font:500 var(--fs-xs) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-bottom:10px; }
-    .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
+    .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s, background .4s ease, color .4s ease, box-shadow .4s ease; -webkit-tap-highlight-color:transparent; }
     .evc-play:active { transform:scale(.92); }
     .evc-play svg { width:27px; height:27px; margin-left:3px; }
+    /* scroll effect: a card's play button inverts — salmon triangle on a black circle — as it rises into the top half of the viewport */
+    .evc-play.inv { background:#0b0a0e; color:var(--accent); box-shadow:0 0 0 1.5px rgba(255,122,107,.5), 0 8px 18px rgba(0,0,0,.5); }
     .evc-body { padding:30px 13px 14px; }
     /* fixed 2-row × 2-col grid → every card is the same height; up to 4 artists,
        long names ellipsis. height = 2 rows (30px) + one 7px gap = 67px. */
@@ -1495,7 +1497,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782675788615">
+<meta name="sc-build" content="1782676900768">
 </head>
 <body>
   <main class="wrap">
@@ -4022,6 +4024,11 @@
     // silently die whenever a render site forgets to copy the handlers (that's how
     // the artist/venue/search cards broke after the card redesign). `evById` maps a
     // card's data-evt → its event object, needed for the full line-up play queue.
+    // scroll effect: event-card play buttons invert (salmon triangle / black circle) when they rise into the
+    // top half of the viewport — a positional effect driven by IntersectionObserver (no per-frame scroll work).
+    var _ppIO = ('IntersectionObserver' in window) ? new IntersectionObserver(function(ents){
+      ents.forEach(function(en){ en.target.classList.toggle('inv', en.isIntersecting); });
+    }, { rootMargin:'0px 0px -50% 0px', threshold:0 }) : null;
     function wireEvcCards(scope, evById){
       if(!scope) return;
       scope.querySelectorAll('.gcard.evc').forEach(function(card){
@@ -4031,7 +4038,7 @@
         var mb=card.querySelector('.evc-chip.more'); if(mb) mb.addEventListener('click',open);
         // play queue = the whole line-up; poster-play starts at 0, a chip from that artist on
         var q=(ev.artists||[]).map(function(a){ var s=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():''; return { slug:s, name:a.name, poster:ev.poster }; }).filter(function(a){ return a.slug; });
-        var pb=card.querySelector('.evc-play'); if(pb) pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); });
+        var pb=card.querySelector('.evc-play'); if(pb){ pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); }); if(_ppIO) _ppIO.observe(pb); }
         card.querySelectorAll('.evc-chip[data-slug]').forEach(function(c){ c.addEventListener('click',function(e){ e.stopPropagation(); var idx=q.findIndex(function(x){ return x.slug===c.dataset.slug; }); playYtList(q, idx<0?0:idx); }); });
       });
     }
@@ -5588,14 +5595,28 @@
       return '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
     }
     function _calTile(){ return '<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>'; }
+    // web only: pack more upcoming days (at the normal tile size) so the strip fills the row, then trim any
+    // overflow so it never scrolls. coreHTML = pinned tiles (no cal); lastISO = last dated tile to count forward from.
+    function _renderStrip(coreHTML, lastISO){
+      var web = !window.matchMedia || matchMedia('(min-width:621px)').matches;
+      if(!web){ stripEl.innerHTML=coreHTML+_calTile(); return; }
+      var html=coreHTML, last=lastISO, approx=stripEl.clientWidth ? Math.ceil(stripEl.clientWidth/56)+3 : 22;
+      for(var k=0;k<approx;k++){ last=_addDaysISO(last,1); html+=_dtTile(last); }
+      stripEl.innerHTML=html+_calTile();
+      var cal=stripEl.lastElementChild, core=(coreHTML.match(/data-iso=/g)||[]).length, guard=0;
+      while(stripEl.scrollWidth > stripEl.clientWidth+1 && guard++<80){
+        if(stripEl.querySelectorAll('.dt[data-iso]').length<=core) break;
+        var v=cal.previousElementSibling; if(!v) break; v.remove();
+      }
+    }
     function buildDayStrip(){
       if(!stripEl) return;
       var today=todayISO();
       // focus mode: a date beyond this week was picked → window centred on it (Tonight stays up front to jump back)
       if(_stripFocus){
-        var fh=_dtTile(today, true);
-        for(var fd=_addDaysISO(_stripFocus,-3); fd<=_addDaysISO(_stripFocus,3); fd=_addDaysISO(fd,1)){ if(fd>today) fh+=_dtTile(fd, false); }
-        stripEl.innerHTML=fh+_calTile(); return;
+        var fh=_dtTile(today, true), flast=today;
+        for(var fd=_addDaysISO(_stripFocus,-3); fd<=_addDaysISO(_stripFocus,3); fd=_addDaysISO(fd,1)){ if(fd>today){ fh+=_dtTile(fd, false); flast=fd; } }
+        _renderStrip(fh, flast); return;
       }
       var fri=nextFridayISO();
       var weekend=[fri,_addDaysISO(fri,1),_addDaysISO(fri,2)].filter(function(d){ return d!==today; });
@@ -5605,9 +5626,15 @@
       if(_stripMid.length>=2 && !expand) html+='<button class="dt dsell" id="dt-ell" type="button" aria-label="Show '+_stripMid.length+' more days">···<span class="dsell-c">'+_stripMid.length+'</span></button>';
       else _stripMid.forEach(function(iso){ html+=_dtTile(iso); });
       weekend.forEach(function(iso){ html+=_dtTile(iso); });
-      stripEl.innerHTML=html+_calTile();
+      var lastDay = weekend.length ? weekend[weekend.length-1] : (_stripMid.length ? _stripMid[_stripMid.length-1] : today);
+      _renderStrip(html, lastDay);
     }
     buildDayStrip();
+    // how many day tiles fill the row depends on viewport width → settle once after layout, then rebuild on resize
+    if(stripEl){
+      requestAnimationFrame(function(){ buildDayStrip(); syncChips(); });
+      var _stripRz; window.addEventListener('resize', function(){ clearTimeout(_stripRz); _stripRz=setTimeout(function(){ buildDayStrip(); syncChips(); }, 160); }, {passive:true});
+    }
     // one delegated listener (the strip re-renders on expand/focus, so per-tile handlers would go stale)
     if(stripEl) stripEl.addEventListener('click', function(e){
       if(e.target.closest('#dt-ell')){ _stripExpanded=true; buildDayStrip(); syncChips(); return; }
