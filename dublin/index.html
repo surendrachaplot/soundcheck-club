@@ -1469,7 +1469,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782659230146">
+<meta name="sc-build" content="1782659681693">
 </head>
 <body>
   <main class="wrap">
@@ -3986,6 +3986,25 @@
       }catch(_){}
     }
 
+    // Wire the poster-led event cards (.gcard.evc) inside `scope` — ONE wiring path
+    // shared by the home grid, artist/venue/search lists, so the card buttons don't
+    // silently die whenever a render site forgets to copy the handlers (that's how
+    // the artist/venue/search cards broke after the card redesign). `evById` maps a
+    // card's data-evt → its event object, needed for the full line-up play queue.
+    function wireEvcCards(scope, evById){
+      if(!scope) return;
+      scope.querySelectorAll('.gcard.evc').forEach(function(card){
+        var ev = evById[card.getAttribute('data-evt')]; if(!ev) return;
+        function open(e){ if(e){ e.preventDefault(); e.stopPropagation(); } openSheet(ev); }
+        var p=card.querySelector('.evc-poster'); if(p) p.addEventListener('click',open);
+        var mb=card.querySelector('.evc-chip.more'); if(mb) mb.addEventListener('click',open);
+        // play queue = the whole line-up; poster-play starts at 0, a chip from that artist on
+        var q=(ev.artists||[]).map(function(a){ var s=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():''; return { slug:s, name:a.name, poster:ev.poster }; }).filter(function(a){ return a.slug; });
+        var pb=card.querySelector('.evc-play'); if(pb) pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); });
+        card.querySelectorAll('.evc-chip[data-slug]').forEach(function(c){ c.addEventListener('click',function(e){ e.stopPropagation(); var idx=q.findIndex(function(x){ return x.slug===c.dataset.slug; }); playYtList(q, idx<0?0:idx); }); });
+      });
+    }
+
     // ---- artist + venue pages ----
     // Render canonical event rows (/api/artist · /api/venue · /api/search) as
     // home-style cards into `el`, each wired to open the event sheet.
@@ -4000,13 +4019,7 @@
       el.innerHTML='<div class="grid">'+evs.map(cardHTML).join('')+'</div>';
       wireCard(el);
       var rmap={}; evs.forEach(function(ev){ if(ev.id!=null) rmap[String(ev.id)]=ev; });
-      el.querySelectorAll('.gcard').forEach(function(c){
-        var ev=rmap[c.getAttribute('data-evt')]; if(!ev) return;
-        var open=function(e){ e.preventDefault(); e.stopPropagation(); openSheet(ev); };
-        var p=c.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
-        var t=c.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
-        var rb=c.querySelector('.ev-radio'); if(rb) rb.addEventListener('click',function(e){ e.stopPropagation(); startEventRadio(ev); });
-      });
+      wireEvcCards(el, rmap);
     }
 
     // ── public search (events / venues / artists) ──
@@ -4469,12 +4482,7 @@
             '<div class="grid">'+rows.map(cardHTML).join('')+'</div>';
           wireCard(up);
           var rmap={}; rows.forEach(function(ev){ if(ev.id!=null) rmap[String(ev.id)]=ev; });
-          up.querySelectorAll('.gcard').forEach(function(c){
-            var ev=rmap[c.getAttribute('data-evt')]; if(!ev) return;
-            var open=function(e){ e.preventDefault(); e.stopPropagation(); openSheet(ev); };
-            var p=c.querySelector('.card-poster'); if(p) p.addEventListener('click',open);
-            var t=c.querySelector('.title-btn'); if(t) t.addEventListener('click',open);
-          });
+          wireEvcCards(up, rmap);
         }
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that artist.</div>'); }
     }
@@ -5403,16 +5411,8 @@
       }
       var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; _nearFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); if(typeof syncNearChip==='function') syncNearChip(); paintCurrentGrid(); });
       wireCard(gridEl);
-      gridEl.querySelectorAll('.gcard').forEach(function(card,i){
-        var ev=list[i];
-        function open(){ openSheet(ev); }
-        var p=card.querySelector('.evc-poster'); if(p) p.addEventListener('click',open);
-        var mb=card.querySelector('.evc-chip.more'); if(mb) mb.addEventListener('click',function(e){ e.stopPropagation(); open(); });
-        // play queue = the whole line-up; the poster-play starts at 0, a chip starts from that artist
-        var q=(ev.artists||[]).map(function(a){ var s=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():''; return { slug:s, name:a.name, poster:ev.poster }; }).filter(function(a){ return a.slug; });
-        var pb=card.querySelector('.evc-play'); if(pb) pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); });
-        card.querySelectorAll('.evc-chip[data-slug]').forEach(function(c){ c.addEventListener('click',function(e){ e.stopPropagation(); var idx=q.findIndex(function(x){ return x.slug===c.dataset.slug; }); playYtList(q, idx<0?0:idx); }); });
-      });
+      var evById={}; list.forEach(function(ev){ if(ev.id!=null) evById[String(ev.id)]=ev; });
+      wireEvcCards(gridEl, evById);
       applyShared();
       decorateProof(list);
     }
