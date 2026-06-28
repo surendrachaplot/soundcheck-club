@@ -1132,7 +1132,8 @@
     /* artist wanna-see / seen toggle pills (design-system toggle grammar) */
     /* two rows: Tune in (radio-style) full-width on top, Wanna see + Seen live below */
     .artist-actions { display:flex; flex-wrap:wrap; gap:9px; margin:18px 0 4px; max-width:440px; }
-    .act-btn { flex:1; min-width:0; white-space:nowrap; display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:12px 14px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--fg); font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; transition:background .12s, border-color .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .act-btn { flex:1; min-width:0; white-space:nowrap; display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:12px 14px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--fg); font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; text-decoration:none; transition:background .12s, border-color .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .act-btn.act-tickets:hover { border-color:var(--accent); color:var(--accent); }
     .act-btn svg { width:var(--icon-sm); height:var(--icon-sm); display:block; }
     .act-btn:hover { border-color:var(--accent); color:var(--accent); }
     .act-btn.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
@@ -1494,7 +1495,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782675248816">
+<meta name="sc-build" content="1782675788615">
 </head>
 <body>
   <main class="wrap">
@@ -4207,12 +4208,12 @@
       setRoute('search');
       _dcSceneP=null; _sxDiscoverP=null; // fresh suggestions for the current city
       showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find artists, venues, events and people across '+esc(cityMeta().name)+'.</div>'+
-        '<div id="sx-recent-top"></div>'+
         '<div class="search-box"><input type="search" id="sx-input" placeholder="Search artists, venues, events, people…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+        '<div id="sx-recent-top"></div>'+
         '<div id="sx-results"></div>');
       var input=document.getElementById('sx-input'), results=document.getElementById('sx-results');
       var lastQ='', showing='';
-      // recent searches sit as plain pills above the search box (no sub-heading)
+      // recent searches sit as plain pills below the search box (no sub-heading)
       function renderRecentTop(){ var rt=document.getElementById('sx-recent-top'); if(!rt) return; var rec=getRecent(); rt.innerHTML=rec.length?('<div class="pillrow" style="margin-bottom:14px">'+rec.map(function(t){ return '<button class="qchip" type="button" data-q="'+esc(t)+'">'+esc(t)+'</button>'; }).join('')+'</div>'):''; rt.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); }); }
       // a tap on any result records the query as "recent" (the search led somewhere)
       results.addEventListener('click', function(){ if(lastQ){ pushRecent(lastQ); renderRecentTop(); } }, true);
@@ -4827,6 +4828,9 @@
       // already happened); future event keeps the save heart.
       var isPast = eid && ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
       var evLog = isPast ? '<button class="act-btn act-2nd act-log'+(ev.logged?' on':'')+'" type="button" data-log-evt="'+esc(eid)+'">'+CHECK_SVG+'<span>'+(ev.logged?'Logged':'Log it')+'</span></button>' : '';
+      // Tickets: a Google search for the event (upcoming only) — opens in a new tab. No
+      // third-party ticketing partner; just a quick "find tickets" jump-off.
+      var evTickets = (eid && !isPast) ? '<a class="act-btn act-2nd act-tickets" href="https://www.google.com/search?q='+encodeURIComponent((ev.title||'')+' tickets')+'" target="_blank" rel="noopener noreferrer" aria-label="Find tickets for this event"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M13 5v2"/><path d="M13 11v2"/><path d="M13 17v2"/></svg><span>Tickets</span></a>' : '';
       var n=(ev.artists||[]).length;
       // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
       // gradient fallback only when there's no real poster.
@@ -4843,7 +4847,7 @@
             '</div>'+
             /* Sticky play bar: big play (the line-up YouTube queue) + Save/Share. A direct
                child of ev-col-main so position:sticky travels the full column (incl. the bill). */
-            (eid ? '<div class="ev-playbar">'+((ev.artists||[]).length?'<button class="ev-bigplay" id="ev-playbill" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>':'')+'<div class="ev-pb-acts">'+(isPast?evLog:evHeart)+evShare+'</div></div>' : '')+
+            (eid ? '<div class="ev-playbar">'+((ev.artists||[]).length?'<button class="ev-bigplay" id="ev-playbill" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>':'')+'<div class="ev-pb-acts">'+(isPast?evLog:(evHeart+evTickets))+evShare+'</div></div>' : '')+
             '<div id="ev-meta-rich"><div class="sk" style="height:18px;width:55%;border-radius:6px;margin-top:16px"></div><div class="sk" style="height:13px;width:92%;border-radius:6px;margin-top:11px"></div><div class="sk" style="height:13px;width:78%;border-radius:6px;margin-top:7px"></div></div>'+   /* genre chips + blurb — skeleton reserves space; renderEventRich swaps in place */
             '<div id="ev-review"></div>'+    /* D5: opt-in structured review (attendance-gated) */
             '<div id="ev-bill"></div>'+      /* the bill — who-not-to-miss ranked in, names once (mountBill) */
