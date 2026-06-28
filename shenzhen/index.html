@@ -1469,7 +1469,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782662152827">
+<meta name="sc-build" content="1782662594712">
 </head>
 <body>
   <main class="wrap">
@@ -5644,20 +5644,28 @@
       }catch(_){}
       renderCityUI();
     }
-    function setCity(slug){
+    function setCity(slug, userPicked){
       if(slug===currentCity) return;
       currentCity=slug;
       setPref('city', slug);
+      // A user picking a city from the switcher is a "take me home" action: collapse
+      // any open entity page (artist/venue/event/search/scene) back to the city
+      // homepage, so the new city lands somewhere that reflects it — not on an
+      // unrelated artist. Auto city changes from prefs/geo on load pass no flag, so a
+      // deep-linked page is never bounced.
+      var goHome = userPicked && document.body.classList.contains('page-on');
+      if(goHome) hidePage();
       var u=new URL(location.href);
       u.searchParams.delete('city');
       if(onScPath()){
-        history.replaceState(history.state,'', cityPath(slug)+u.search+u.hash);
+        history.replaceState(history.state,'', cityPath(slug)+(goHome?'':(u.search+u.hash)));
       } else {
         if(slug!=='london') u.searchParams.set('city',slug);
-        history.replaceState(history.state,'',u.pathname+u.search+u.hash);
+        history.replaceState(history.state,'', (goHome?SC_BASE:u.pathname)+u.search+u.hash);
       }
       renderCityUI();
       stopActive();
+      if(goHome) window.scrollTo(0,0);
       // re-run whatever view is on screen for the new city
       if(mode==='day' && currentDate) load(currentDate, (activePick==='fri'||activePick==='sat')?activePick:undefined);
       else if(mode==='range' && currentRange) loadRange(currentRange[0],currentRange[1]);
@@ -5687,7 +5695,7 @@
       ov.addEventListener('click',function(e){
         if(e.target===ov){ close(); return; }
         var b=e.target.closest('.city-row[data-city]');
-        if(b){ close(); setCity(b.dataset.city); }
+        if(b){ close(); setCity(b.dataset.city, true); }
       });
     }
     document.getElementById('hdr-city').addEventListener('click',openCityPicker);
