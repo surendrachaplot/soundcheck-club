@@ -1490,7 +1490,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782668023318">
+<meta name="sc-build" content="1782668472096">
 </head>
 <body>
   <main class="wrap">
@@ -1509,12 +1509,6 @@
     </nav>
 
     <div id="home">
-    <div class="hero">
-      <div>
-        <p class="eyebrow" id="eyebrow">Tonight</p>
-        <h1><span class="ac">Soundcheck</span> <span id="hero-city-name">Malaga</span></h1>
-      </div>
-    </div>
 
     <div class="daterow">
       <div class="daystrip" id="daystrip"></div>
@@ -5517,7 +5511,6 @@
     function renderEvents(events, eyebrowPrefix){
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
-      document.getElementById('eyebrow').textContent=eyebrowPrefix+' — '+evs.length+' event'+(evs.length===1?'':'s');
       if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
       var ordered=orderEvents(evs);
       _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
