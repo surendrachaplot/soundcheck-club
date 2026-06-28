@@ -1498,7 +1498,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782677844849">
+<meta name="sc-build" content="1782678889438">
 </head>
 <body>
   <main class="wrap">
@@ -5600,18 +5600,26 @@
     function _calTile(){ return '<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>'; }
     // web only: pack more upcoming days (at the normal tile size) so the strip fills the row, then trim any
     // overflow so it never scrolls. coreHTML = pinned tiles (no cal); lastISO = last dated tile to count forward from.
+    // a gap marker between weekend blocks — the collapsed Mon–Thu of that week (opens the calendar)
+    function _gapEll(){ return '<button class="dt dsell" data-ell-cal="1" type="button" aria-label="More dates">···<span class="dsell-c">4</span></button>'; }
     function _renderStrip(coreHTML, lastISO){
       var web = !window.matchMedia || matchMedia('(min-width:621px)').matches;
       if(!web){ stripEl.innerHTML=coreHTML+_calTile(); return; }
       var html=coreHTML, last=lastISO, approx=stripEl.clientWidth ? Math.ceil(stripEl.clientWidth/56)+3 : 22, added=0, k=0;
-      // fill with weekend days only (Fri/Sat/Sun) — Mon–Thu always stay collapsed in the ···
-      while(added<approx && k++<420){ last=_addDaysISO(last,1); var dw=new Date(last+'T12:00:00').getDay(); if(dw===5||dw===6||dw===0){ html+=_dtTile(last); added++; } }
+      // fill with weekend blocks only — each Fri is preceded by a ··· standing in for that week's collapsed Mon–Thu
+      while(added<approx && k++<420){
+        last=_addDaysISO(last,1); var dw=new Date(last+'T12:00:00').getDay();
+        if(dw===5){ html+=_gapEll()+_dtTile(last); added+=2; }
+        else if(dw===6||dw===0){ html+=_dtTile(last); added++; }
+      }
       stripEl.innerHTML=html+_calTile();
       var cal=stripEl.lastElementChild, core=(coreHTML.match(/data-iso=/g)||[]).length, guard=0;
       while(stripEl.scrollWidth > stripEl.clientWidth+1 && guard++<80){
         if(stripEl.querySelectorAll('.dt[data-iso]').length<=core) break;
         var v=cal.previousElementSibling; if(!v) break; v.remove();
       }
+      // never leave a dangling ··· right before the calendar (its weekend got trimmed off)
+      var tail=cal.previousElementSibling; if(tail && tail.classList.contains('dsell')) tail.remove();
     }
     function buildDayStrip(){
       if(!stripEl) return;
@@ -5642,6 +5650,7 @@
     // one delegated listener (the strip re-renders on expand/focus, so per-tile handlers would go stale)
     if(stripEl) stripEl.addEventListener('click', function(e){
       if(e.target.closest('#dt-ell')){ _stripExpanded=true; buildDayStrip(); syncChips(); return; }
+      if(e.target.closest('[data-ell-cal]')){ openCal(); return; }
       if(e.target.closest('#dt-cal')){ openCal(); return; }
       var b=e.target.closest('.dt[data-iso]'); if(b) load(b.dataset.iso);
     });
