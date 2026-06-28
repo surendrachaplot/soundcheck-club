@@ -20,8 +20,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.3c34f173bf04.css">
-<meta name="sc-build" content="1782664704641">
+  <link rel="stylesheet" href="/app.8871ad80450b.css">
+<meta name="sc-build" content="1782666976444">
 <meta name="description" content="Origins x Clubdance 2026: The Trip (All Day Long) at LDN East on Sat 4 Jul, London. 1 act on the bill: The Trip. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2406240-origins-x-clubdance-2026-the-trip-all-day-long-at-ldn-east/">
 <meta property="og:type" content="website">
@@ -58,10 +58,11 @@
       </div>
     </div>
 
-    <div class="datebar">
-      <button class="qchip" id="pick-fri" type="button">Friday</button>
-      <button class="qchip" id="pick-sat" type="button">Saturday</button>
-      <button class="qchip alt" id="pick-date" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg><span id="pick-date-label">Pick a date</span></button>
+    <div class="daterow">
+      <div class="daystrip" id="daystrip"></div>
+      <button class="ds-filt" id="ds-filt" type="button" aria-label="Filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="17" x2="14" y2="17"/></svg><span class="ds-dot" id="ds-dot" hidden></span></button>
+    </div>
+    <div class="gridfilters" id="gridfilters">
       <button class="qchip alt" id="pick-genre" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M7 12h10"/><path d="M10 18h4"/></svg><span id="pick-genre-label">Genre</span> <span style="opacity:.6">▾</span></button>
       <button class="qchip alt" id="pick-price" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5" fill="currentColor"/></svg><span id="pick-price-label">Price</span> <span style="opacity:.6">▾</span></button>
       <button class="qchip alt" id="pick-near" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span id="pick-near-label">Near me</span></button>
@@ -190,6 +191,6 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.3c34f173bf04.js" defer></script>
+  <script src="/app.8871ad80450b.js" defer></script>
 </body>
 </html>

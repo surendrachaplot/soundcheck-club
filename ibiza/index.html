@@ -132,6 +132,26 @@
     .qchip.alt { display:inline-flex; align-items:center; gap:7px; }
     .qchip.alt svg { width:var(--icon-sm); height:var(--icon-sm); }
     .datebar .push { margin-left:auto; }
+    /* ── day strip — the date selector (swipeable run of days + a calendar tile) ── */
+    .daterow { display:flex; align-items:center; gap:10px; margin:12px 0 2px; }
+    .daystrip { position:relative; display:flex; gap:8px; flex:1 1 auto; min-width:0; overflow-x:auto; padding:2px 1px; scrollbar-width:none; -ms-overflow-style:none; -webkit-overflow-scrolling:touch; }
+    .daystrip::-webkit-scrollbar { display:none; }
+    .dt { flex:none; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:2px; min-width:54px; height:58px; border-radius:15px; border:1px solid var(--border); background:var(--surface); color:var(--fg); cursor:pointer; transition:border-color .12s, background .12s; -webkit-tap-highlight-color:transparent; }
+    .dt:hover { border-color:var(--accent); }
+    .dt .dt-w { font:600 var(--fs-xs) var(--body); color:var(--muted); text-transform:uppercase; letter-spacing:.03em; }
+    .dt .dt-n { font-family:var(--head); font-weight:800; font-size:1.2rem; line-height:1; }
+    .dt.lab { font:700 var(--fs-sm) var(--body); padding:0 7px; }
+    .dt.on, .dt.cal.on { background:var(--accent-grad); border-color:transparent; color:var(--accent-ink); }
+    .dt.on .dt-w { color:var(--accent-ink); opacity:.85; }
+    .dt.cal { min-width:50px; color:var(--fg); }
+    .dt.cal svg { width:22px; height:22px; }
+    .ds-filt { position:relative; flex:none; width:46px; height:46px; border-radius:50%; border:1px solid var(--border); background:var(--surface); color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; transition:border-color .12s, color .12s; }
+    .ds-filt:hover { border-color:var(--accent); }
+    .ds-filt svg { width:20px; height:20px; }
+    .ds-filt.on { border-color:var(--accent); color:var(--accent); }
+    .ds-dot { position:absolute; top:8px; right:8px; width:8px; height:8px; border-radius:50%; background:var(--accent); border:1.5px solid var(--bg); }
+    .gridfilters { display:none; flex-wrap:wrap; gap:8px; margin:11px 0 2px; }
+    body.filters-open .gridfilters { display:flex; }
     @media (max-width:620px){ .qchip { padding:9px 14px; font-size:var(--fs-sm); } .datebar .push { margin-left:0; }
       /* mobile: just the date picker (defaults to the next Friday) */
       #pick-fri, #pick-sat { display:none; } }
@@ -1470,7 +1490,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782664704641">
+<meta name="sc-build" content="1782666976444">
 </head>
 <body>
   <main class="wrap">
@@ -1496,10 +1516,11 @@
       </div>
     </div>
 
-    <div class="datebar">
-      <button class="qchip" id="pick-fri" type="button">Friday</button>
-      <button class="qchip" id="pick-sat" type="button">Saturday</button>
-      <button class="qchip alt" id="pick-date" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg><span id="pick-date-label">Pick a date</span></button>
+    <div class="daterow">
+      <div class="daystrip" id="daystrip"></div>
+      <button class="ds-filt" id="ds-filt" type="button" aria-label="Filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="17" x2="14" y2="17"/></svg><span class="ds-dot" id="ds-dot" hidden></span></button>
+    </div>
+    <div class="gridfilters" id="gridfilters">
       <button class="qchip alt" id="pick-genre" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M7 12h10"/><path d="M10 18h4"/></svg><span id="pick-genre-label">Genre</span> <span style="opacity:.6">▾</span></button>
       <button class="qchip alt" id="pick-price" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5" fill="currentColor"/></svg><span id="pick-price-label">Price</span> <span style="opacity:.6">▾</span></button>
       <button class="qchip alt" id="pick-near" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span id="pick-near-label">Near me</span></button>
@@ -5416,6 +5437,7 @@
       wireEvcCards(gridEl, evById);
       applyShared();
       decorateProof(list);
+      syncFilterDot();
     }
     function gridGenres(){ var s={}; _gridEvents.forEach(function(e){ (e.genres||[]).forEach(function(g){ s[g]=(s[g]||0)+1; }); }); return Object.keys(s).sort(function(a,b){ return s[b]-s[a] || a.localeCompare(b); }); }
     function syncGenreChip(){
@@ -5542,22 +5564,35 @@
     function fmtDateLabel(iso){ var d=new Date(iso+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}); }
     function fmtRange(a,b){ var da=new Date(a+'T12:00:00'); return da.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'})+' – '+fmtDateLabel(b); }
     var currentDate=null, currentRange=null, mode='weekend', activePick='weekend';
-    var friBtn=document.getElementById('pick-fri'),
-        satBtn=document.getElementById('pick-sat'),
-        pickDateBtn=document.getElementById('pick-date');
-
-    function syncChips(){
-      friBtn.classList.toggle('on', activePick==='fri');
-      satBtn.classList.toggle('on', activePick==='sat');
-      var onDate = activePick==='date';
-      pickDateBtn.classList.toggle('on', onDate);
-      var lbl='Pick a date';
-      if(onDate){
-        if(mode==='range' && currentRange) lbl=fmtRange(currentRange[0], currentRange[1]);
-        else if(currentDate) lbl=fmtDateLabel(currentDate);
+    // ── day strip: a swipeable run of upcoming days + a calendar tile, replacing
+    // the old Fri / Sat / Pick-a-date chips. Built once (today is fixed for the
+    // session); syncChips() just re-highlights the selected day. ──
+    var stripEl=document.getElementById('daystrip');
+    function buildDayStrip(){
+      if(!stripEl) return;
+      var today=new Date(); today.setHours(12,0,0,0); var html='';
+      for(var i=0;i<14;i++){
+        var d=new Date(today); d.setDate(today.getDate()+i); var iso=isoOf(d);
+        html += i===0
+          ? '<button class="dt lab" type="button" data-iso="'+iso+'">Tonight</button>'
+          : '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
       }
-      document.getElementById('pick-date-label').textContent=lbl;
+      html += '<button class="dt cal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>';
+      stripEl.innerHTML=html;
+      stripEl.querySelectorAll('.dt[data-iso]').forEach(function(b){ b.addEventListener('click',function(){ load(b.dataset.iso); }); });
+      var c=document.getElementById('dt-cal'); if(c) c.addEventListener('click',function(){ openCal(); });
     }
+    buildDayStrip();
+    function syncChips(){
+      if(!stripEl) return;
+      var sel = (mode==='day' && currentDate) ? currentDate : null, hit=null;
+      stripEl.querySelectorAll('.dt[data-iso]').forEach(function(b){ var on=b.dataset.iso===sel; b.classList.toggle('on', on); if(on) hit=b; });
+      var calT=document.getElementById('dt-cal'); if(calT) calT.classList.toggle('on', mode==='range' || (!!sel && !hit));
+      // only scroll when the selected day is off-screen — keep "Tonight" in view otherwise
+      if(hit){ var l=hit.offsetLeft, r=l+hit.offsetWidth; if(l<stripEl.scrollLeft) stripEl.scrollLeft=Math.max(0,l-8); else if(r>stripEl.scrollLeft+stripEl.clientWidth) stripEl.scrollLeft=r-stripEl.clientWidth+8; }
+    }
+    // Salmon dot on the filters button whenever a genre / price / near filter is live.
+    function syncFilterDot(){ var on=!!(_genreFilter||_priceFilter||_nearFilter); var d=document.getElementById('ds-dot'), b=document.getElementById('ds-filt'); if(d) d.hidden=!on; if(b) b.classList.toggle('on', on); }
 
     // session-length client cache so re-fetched days (weekend reuse, prefetch,
     // back-and-forth between dates) are instant and never re-hit the network.
@@ -5797,12 +5832,10 @@
     document.getElementById('hdr-search').addEventListener('click',openSearch);
     document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); }); });
     var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
-    friBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[0], 'fri'); });
-    satBtn.addEventListener('click',function(){ load(weekendDatesFor(0)[1], 'sat'); });
-    // On Saturday the upcoming "Friday" pill points at yesterday — hide it so the
-    // bar shows just Saturday (today) + Pick a date. Sun–Fri keep both pills.
-    if(new Date().getDay()===6) friBtn.style.display='none';
-    pickDateBtn.addEventListener('click',function(){ openCal(); });
+    // filters: the genre / price / near row is collapsed by default; the sliders
+    // button reveals it (and shows a salmon dot when a filter is live).
+    var _dsFilt=document.getElementById('ds-filt');
+    if(_dsFilt) _dsFilt.addEventListener('click',function(e){ e.stopPropagation(); var open=document.body.classList.toggle('filters-open'); _dsFilt.setAttribute('aria-expanded', open?'true':'false'); });
 
     // ── on-brand calendar (Pick a date — single day or range) ──
     var calOverlay=document.getElementById('cal-overlay'), calEl=document.getElementById('cal'), calView=null;
