@@ -261,18 +261,19 @@
     .evc-poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:none; cursor:pointer; }
     .evc-hero .poster { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:auto; margin:0; border-radius:0; }
     .evc-hero .poster .gen .gt { display:none; }   /* generated-art title is replaced by our overlay title */
-    .evc-hero::after { content:''; position:absolute; inset:0; background:linear-gradient(to top, rgba(14,13,18,.92), rgba(14,13,18,.05) 46%, transparent 72%); pointer-events:none; }
+    .evc-hero::after { content:''; position:absolute; inset:0; background:linear-gradient(to top, rgba(8,7,11,.94), rgba(8,7,11,.06) 40%, transparent 62%); pointer-events:none; }
     .evc-heart { position:absolute; top:10px; right:10px; z-index:3; width:38px; height:38px; border-radius:999px; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border:0; color:#fff; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
     .evc-heart svg { width:18px; height:18px; }
     .evc-heart.on { background:var(--accent); color:var(--accent-ink); }
-    .evc-over { position:absolute; left:14px; right:52px; bottom:12px; z-index:2; pointer-events:none; }
-    .evc-eyebrow { display:inline-block; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); color:#fff; font:800 10px var(--body); text-transform:uppercase; letter-spacing:.05em; padding:6px 10px; border-radius:999px; margin-bottom:7px; }
-    .evc-title { font-family:var(--head); font-weight:800; font-size:clamp(1.05rem, 1.7vw, 1.3rem); letter-spacing:-.02em; color:#fff; line-height:1.08; text-shadow:0 1px 10px rgba(0,0,0,.5); }
-    .evc-meta { color:#e7dfe8; font:500 var(--fs-xs) var(--body); margin-top:3px; }
+    /* title straddles the poster's bottom edge — top half on the image (over the
+       scrim), bottom half on the card body. Clamped to 2 lines so the straddle
+       depth (and the card height) stays predictable. */
+    .evc-title { position:absolute; left:14px; right:58px; bottom:0; z-index:4; transform:translateY(50%); margin:0; font-family:var(--head); font-weight:800; font-size:clamp(1.05rem, 1.7vw, 1.3rem); letter-spacing:-.02em; color:#fff; line-height:1.1; text-shadow:0 1px 10px rgba(0,0,0,.6); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+    .evc-meta { color:var(--muted); font:500 var(--fs-xs) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-bottom:10px; }
     .evc-play { position:absolute; right:12px; bottom:-22px; z-index:3; width:46px; height:46px; border-radius:999px; background:var(--accent-grad); color:var(--accent-ink); border:0; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 8px 18px rgba(0,0,0,.45); transition:transform .12s; -webkit-tap-highlight-color:transparent; }
     .evc-play:active { transform:scale(.92); }
     .evc-play svg { width:27px; height:27px; margin-left:3px; }
-    .evc-body { padding:26px 13px 14px; }
+    .evc-body { padding:30px 13px 14px; }
     /* fixed 2-row × 2-col grid → every card is the same height; up to 4 artists,
        long names ellipsis. height = 2 rows (30px) + one 7px gap = 67px. */
     .evc-chips { display:grid; grid-template-columns:1fr 1fr; grid-auto-rows:30px; gap:7px; height:67px; overflow:hidden; align-content:start; }
@@ -468,7 +469,7 @@
     }
 
     @media (max-width:920px)  { .wrap{ padding:0 28px; } }
-    @media (max-width:620px)  { .grid { grid-template-columns:repeat(2,1fr); } .wrap{ padding:0 18px; } .evc-body { padding:24px 9px 12px; } .evc-chips { gap:6px; } .evc-chip { padding:0 8px; gap:4px; } .evc-tri svg { width:8px; height:8px; } }
+    @media (max-width:620px)  { .grid { grid-template-columns:repeat(2,1fr); } .wrap{ padding:0 18px; } .evc-body { padding:28px 9px 12px; } .evc-chips { gap:6px; } .evc-chip { padding:0 8px; gap:4px; } .evc-tri svg { width:8px; height:8px; } .evc-title { font-size:0.97rem; left:11px; right:52px; } }
     @media (max-width:380px)  { .grid { grid-template-columns:1fr; } }
 
     /* ── Picks (Phase 1: heart + shortlist + share) ── */
@@ -1490,7 +1491,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782668472096">
+<meta name="sc-build" content="1782670799850">
 </head>
 <body>
   <main class="wrap">
@@ -5342,10 +5343,10 @@
       var arts=ev.artists||[];
       var isTon = currentDate && currentDate===todayISO();
       var dayLab = isTon ? 'Tonight' : (ev._day||'');
-      var t1=time12(ev.startTime), t2=time12(ev.endTime);
-      var eyebrow = (dayLab||'') + ((dayLab&&t1)?' · ':'') + (t1||'');
-      var range = (t1&&t2) ? (t1+'–'+t2) : t1;
-      var meta = [esc(ev.venue||'TBA'), ev._city?esc(ev._city):'', range?esc(range):''].filter(Boolean).join(' &middot; ');
+      var t1=time12(ev.startTime);
+      // single meta line under the image: day · time · venue · city
+      var when = (dayLab||'') + ((dayLab&&t1)?' · ':'') + (t1||'');
+      var meta = [when, esc(ev.venue||'TBA'), ev._city?esc(ev._city):''].filter(Boolean).join(' &middot; ');
       // 2×2 chip grid → up to 4 artists across 2 fixed lines (keeps every card the
       // same height). 4 or fewer: show them all; 5+: show 3 then a "+N more" pill.
       var CAP=4, nShow=arts.length>CAP ? CAP-1 : arts.length, chips='';
@@ -5360,10 +5361,10 @@
         '<div class="evc-hero">'+
           '<button class="evc-poster" type="button" aria-label="View '+esc(ev.title)+'">'+posterHTML(ev)+'</button>'+
           (eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>':'')+
-          '<div class="evc-over">'+(eyebrow?'<span class="evc-eyebrow">'+esc(eyebrow)+'</span>':'')+'<div class="evc-title">'+esc(ev.title)+'</div>'+(meta?'<div class="evc-meta">'+meta+'</div>':'')+'</div>'+
+          '<div class="evc-title">'+esc(ev.title)+'</div>'+
           (canPlay?'<button class="evc-play" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')+
         '</div>'+
-        '<div class="evc-body"><div class="evc-chips">'+chips+'</div></div>'+
+        '<div class="evc-body">'+(meta?'<div class="evc-meta">'+meta+'</div>':'')+'<div class="evc-chips">'+chips+'</div></div>'+
       '</article>';
     }
 
