@@ -768,6 +768,10 @@
     .scene-stats .sc-tag { display:inline-block; background:#26262d; border-radius:999px; padding:3px 10px; margin:0 6px 6px 0; font-size:var(--fs-sm); }
     .scene-stats .sc-tag small { color:var(--muted); margin-left:4px; }
     .prof-head .follow-btn { flex:none; }
+    /* "See more" pill under a capped shelf (wanna see / seen live cap at 18) */
+    .shelf-more { margin:14px 0 2px; display:inline-flex; align-items:center; gap:6px; padding:9px 16px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--muted); font:700 var(--fs-xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; transition:border-color .12s, color .12s; -webkit-tap-highlight-color:transparent; }
+    .shelf-more:hover { border-color:var(--accent); color:var(--accent); }
+    .shelf-more .sm-n { color:var(--accent); }
     /* account = profile + settings: editable avatar + quick-action chips */
     .prof-head .av-edit { position:relative; padding:0; border:none; background:none; cursor:pointer; flex:none; -webkit-tap-highlight-color:transparent; }
     .prof-head .av-edit .cam { position:absolute; right:-2px; bottom:-2px; width:22px; height:22px; border-radius:999px; background:var(--accent); color:var(--ink); border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; }
@@ -1498,7 +1502,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782678889438">
+<meta name="sc-build" content="1782734214118">
 </head>
 <body>
   <main class="wrap">
@@ -3574,6 +3578,9 @@
         var tasteCTA=((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length)) ? '<button class="tc-cta" id="acc-tc" data-handle="'+esc(handle)+'" style="margin-top:16px">◆ Share your taste card</button>' : '';
         var tabs='<div class="prof-tabs"><button data-atab="shelves" class="on">Shelves</button><button data-atab="diary">Diary</button><button data-atab="network">Network</button></div><div id="acc-tabbody"></div>';
         var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+banner+sceneStatsHTML(p.stats,true)+tasteCTA+tabs;
+        // entity-page sticky bar: your handle + back + a play button that starts your seen artists' radio
+        var accPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
+        armSticky('u/'+handle, accPlay, ab.querySelector('.prof-head')||ab);
         document.getElementById('acc-coming').addEventListener('click',openUpcoming);
         var atc=document.getElementById('acc-tc'); if(atc) atc.addEventListener('click',function(){ openTasteCard(handle); });
         // settings gear → popover (handle / photo / feed / sign out)
@@ -3791,8 +3798,16 @@
     // page so they stay identical (DRY).
     function shelfSecHTML(s, handle){
       function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
-      var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+(s.wannaSee.length?'<div class="ptiles ptiles-wide">'+s.wannaSee.map(function(a){return ptile(a.slug,a.name,false,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0 0 4px">Nothing yet.</div>');
-      x+='<div class="sec-h" style="margin-top:26px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+(s.seen.length?'<div class="ptiles ptiles-wide">'+s.seen.map(function(a){return ptile(a.slug,a.name,true,a.image);}).join('')+'</div>':'<div class="empty" style="padding:0">Nothing yet.</div>');
+      // cap each shelf at 18 tiles; a "See more" pill reveals the rest in place (wired in wireShelfBody)
+      var SHELF_CAP=18;
+      function grid(list, seen, key){
+        if(!list.length) return '<div class="empty" style="padding:0 0 4px">Nothing yet.</div>';
+        var tiles=list.slice(0,SHELF_CAP).map(function(a){ return ptile(a.slug,a.name,seen,a.image); }).join('');
+        var more=list.length>SHELF_CAP ? '<button class="shelf-more" type="button" data-shelf-more="'+key+'">See more <span class="sm-n">'+(list.length-SHELF_CAP)+'</span></button>' : '';
+        return '<div class="ptiles ptiles-wide" id="shelf-grid-'+key+'">'+tiles+'</div>'+more;
+      }
+      var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+grid(s.wannaSee,false,'wanna');
+      x+='<div class="sec-h" style="margin-top:26px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+grid(s.seen,true,'seen');
       // Saved events + following venues use the same poster / venue-card rails as the city
       // scene page (mounted in wireShelfBody once the placeholders are in the DOM).
       if(s.events && s.events.length){ x+='<div id="shelf-events"></div>'; }
@@ -3829,6 +3844,14 @@
     }
     function wireShelfBody(body, s, handle){
       body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      // "See more" → render the rest of that shelf in place, wire the new tiles, drop the pill
+      body.querySelectorAll('[data-shelf-more]').forEach(function(b){ b.addEventListener('click',function(){
+        var key=b.dataset.shelfMore, list=key==='wanna'?s.wannaSee:s.seen, seen=(key==='seen');
+        var grid=document.getElementById('shelf-grid-'+key); if(!grid) return;
+        grid.innerHTML=list.map(function(a){ return ptile(a.slug,a.name,seen,a.image); }).join('');
+        grid.querySelectorAll('[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ openArtist(t.dataset.artist); }); });
+        b.remove();
+      }); });
       // Saved events → poster rail; following venues → venue-card rail (city-scene look)
       var evBox=body.querySelector('#shelf-events');
       if(evBox && s.events && s.events.length) mountEventRail(evBox, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length, mt:'22px' });
@@ -3850,9 +3873,12 @@
           (p.isMe?'':'<button class="follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button>')+
           '</div>';
         if(!p.locked && ((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length))) head += '<button class="tc-cta" id="prof-tc" data-handle="'+esc(p.handle)+'" style="margin-top:16px">◆ '+(p.isMe?'Share your taste card':(esc('u/'+p.handle)+'’s taste card'))+'</button>';
-        if(p.locked){ openPanel(head+'<div class="empty" style="margin-top:18px">This profile is private.</div>'); wireProfile(); return; }
+        if(p.locked){ openPanel(head+'<div class="empty" style="margin-top:18px">This profile is private.</div>'); wireProfile(); armSticky(p.displayName||('u/'+p.handle), null, (panelBody&&panelBody.querySelector('.prof-head'))||document.getElementById('page-body')); return; }
         openPanel(head+sceneStatsHTML(p.stats,p.isMe)+'<div class="prof-tabs"><button data-tab="shelves" class="on">Shelves</button><button data-tab="diary">Diary</button><button data-tab="network">Network</button></div><div id="prof-tabbody"></div>');
         wireProfile();
+        // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
+        var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
+        armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.prof-head'))||document.getElementById('page-body'));
         var ptc=document.getElementById('prof-tc'); if(ptc) ptc.addEventListener('click',function(){ openTasteCard(ptc.dataset.handle); });
         var TAB={
           shelves:function(){ return shelfSecHTML(s, p.handle); },
