@@ -880,7 +880,7 @@
     .pd-title{font-family:var(--head,'Bricolage Grotesque'),sans-serif;font-size:1.1rem;font-weight:600;margin:0;color:var(--fg,#f4efe9);line-height:1.1;}
     .pd-perf{height:0;border-top:1px dashed var(--border,#322e3b);margin:0 16px;}
 
-    .pd-stamps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px 8px;padding:14px 16px 6px;}
+    .pd-stamps{display:grid;grid-template-columns:repeat(auto-fill,minmax(74px,1fr));gap:14px 8px;padding:14px 16px 8px;}
     .pd-stamp{display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;}
     .pd-bub{position:relative;width:52px;height:52px;border-radius:50%;background:var(--accent-grad,linear-gradient(140deg,#ff8a72,#f56552));box-shadow:0 0 0 1px var(--border,#322e3b),0 0 0 4px var(--surface,#16141b);}
     .pd-bub::after{content:"";position:absolute;inset:5px;border-radius:50%;border:1px dashed rgba(26,15,14,.32);}
@@ -927,7 +927,7 @@
       .pd-name{font-size:1.25rem;}
       .pd-grid{grid-template-columns:1fr;gap:12px;}
       .pd-scene,.pd-shelf-a,.pd-shelf-b,.pd-diary{grid-column:1;grid-row:auto;}
-      .pd-stamps{grid-template-columns:repeat(3,1fr);}
+      .pd-stamps{grid-template-columns:repeat(auto-fill,minmax(64px,1fr));}
       .pd-stubs{grid-template-columns:1fr;}
       .pd-card::before,.pd-card::after{display:none;}
     }
@@ -935,7 +935,7 @@
     /* dashboard restructure: scene its own column; shelves + diary flush; artists in bubbles; log-a-gig */
     .pd-grid{grid-template-columns:1fr;column-gap:16px;row-gap:0;align-items:start;}
     .pd-scene{grid-column:auto;grid-row:auto;margin-bottom:16px;}
-    .pd-right{display:flex;flex-direction:column;gap:0;min-width:0;}
+    .pd-right{display:flex;flex-direction:column;gap:16px;min-width:0;}
     .pd-shelves{display:grid;grid-template-columns:1fr;gap:16px;align-items:start;margin-bottom:0;}
     .pd-diary{grid-column:auto;grid-row:auto;}
     .pd-acts{display:flex;flex-wrap:wrap;gap:7px 12px;align-items:center;margin:9px 0 0;}
@@ -949,7 +949,6 @@
       .pd-grid{grid-template-columns:340px minmax(0,1fr);}
       .pd-scene{grid-column:1;margin-bottom:0;}
       .pd-right{grid-column:2;}
-      .pd-shelves{grid-template-columns:1fr 1fr;}
     }
     /* own-account settings gear (sits where Follow would on a public profile) */
     .pd-gear{appearance:none;width:40px;height:40px;flex:0 0 auto;border-radius:999px;border:1px solid var(--border,#322e3b);background:transparent;color:var(--fg,#f4efe9);display:inline-flex;align-items:center;justify-content:center;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:border-color .12s,color .12s;}
@@ -1694,7 +1693,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782768570215">
+<meta name="sc-build" content="1782770255868">
 </head>
 <body>
   <main class="wrap">
@@ -3992,7 +3991,7 @@
     }
     function pdStampTiles(artists, n){ return (artists||[]).slice(0,n).map(function(a){ return '<div class="pd-stamp" data-artist="'+esc(a.slug||'')+'"><span class="pd-bub" style="'+pdBub(a,true)+'"></span><span class="pd-sname">'+esc(a.name||a.slug)+'</span></div>'; }).join(''); }
     function pdShelfCardHTML(title, artists, key, icon){
-      var SHOW=6, list=artists||[], more=list.length>SHOW?'<div class="pd-card-foot"><button class="pd-more" type="button" data-more="'+key+'">See more <i class="ti ti-arrow-right" aria-hidden="true"></i></button></div>':'';
+      var SHOW=24, list=artists||[], more=list.length>SHOW?'<div class="pd-card-foot"><button class="pd-more" type="button" data-more="'+key+'">See more <i class="ti ti-arrow-right" aria-hidden="true"></i></button></div>':'';
       return '<section class="pd-card pd-shelf-'+key+'"><div class="pd-card-head"><h2 class="pd-title">'+esc(title)+' <span class="pd-cnt">×'+list.length+'</span></h2><i class="ti '+icon+'" aria-hidden="true" style="color:var(--muted);font-size:1.05rem"></i></div><div class="pd-perf"></div><div class="pd-stamps" id="pd-stamps-'+key+'">'+(list.length?pdStampTiles(list,SHOW):'<div class="empty" style="padding:6px 2px">Nothing yet.</div>')+'</div>'+more+'</section>';
     }
     function pdDiaryCardHTML(diary, isMe){
