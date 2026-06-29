@@ -780,13 +780,73 @@
     .prof-statline span { display:inline-flex; align-items:baseline; gap:5px; white-space:nowrap; }
     .prof-statline b { font-family:var(--head); font-weight:800; font-size:var(--fs-md); color:var(--fg); letter-spacing:-0.01em; }
     /* evergreen "your scene" stats (diary-derived) */
-    .scene-stats { margin:20px 0 4px; }
-    .scene-stats .sc-nums { display:flex; gap:20px; margin:10px 0 12px; font-size:var(--fs-base); color:var(--muted); }
-    .scene-stats .sc-nums b { font-family:var(--head); font-weight:800; color:var(--fg); margin-right:4px; }
-    .scene-stats .sc-srow { display:flex; gap:12px; align-items:baseline; margin:9px 0; flex-wrap:wrap; }
-    .scene-stats .sc-sk { flex:0 0 78px; color:var(--muted); font-size:var(--fs-xs); text-transform:uppercase; letter-spacing:0.08em; }
-    .scene-stats .sc-tag { display:inline-block; background:#26262d; border-radius:999px; padding:3px 10px; margin:0 6px 6px 0; font-size:var(--fs-sm); }
-    .scene-stats .sc-tag small { color:var(--muted); margin-left:4px; }
+    .scn-scene{width:100%;max-width:600px;margin:18px 0 6px;box-sizing:border-box;font-family:var(--body);color:var(--fg);background:var(--surface);border:1px solid var(--border);border-radius:18px;overflow:hidden}
+    .scn-scene *{box-sizing:border-box}
+    .scn-scene .scn-title{display:flex;align-items:center;gap:8px;font-family:var(--head);font-size:var(--fs-sm);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);padding:16px 22px 0}
+    .scn-scene .scn-title svg{width:15px;height:15px;flex:0 0 auto}
+
+    /* ticket stub header */
+    .scn-scene .scn-stub{position:relative;margin:14px 18px 0;background:var(--accent-grad);color:var(--accent-ink);border-radius:14px;padding:18px 20px 16px;overflow:hidden}
+    .scn-scene .scn-stub::before,.scn-scene .scn-stub::after{content:"";position:absolute;top:50%;width:20px;height:20px;background:var(--surface);border-radius:50%;transform:translateY(-50%)}
+    .scn-scene .scn-stub::before{left:-10px}
+    .scn-scene .scn-stub::after{right:-10px}
+    .scn-scene .scn-stub-top{display:flex;justify-content:space-between;align-items:center;gap:12px}
+    .scn-scene .scn-admit{font-family:var(--head);font-size:var(--fs-xs);letter-spacing:.22em;text-transform:uppercase;opacity:.82;display:flex;align-items:center;gap:6px;font-weight:700}
+    .scn-scene .scn-admit svg{width:13px;height:13px;flex:0 0 auto}
+    .scn-scene .scn-seal{display:inline-flex;align-items:center;gap:5px;font-family:var(--head);font-size:var(--fs-xs);letter-spacing:.06em;text-transform:uppercase;font-weight:700;border:1.5px solid var(--accent-ink);border-radius:999px;padding:3px 9px;white-space:nowrap;flex:0 0 auto}
+    .scn-scene .scn-seal svg{width:12px;height:12px;flex:0 0 auto}
+    .scn-scene .scn-big{display:flex;align-items:baseline;gap:10px;margin-top:10px;flex-wrap:wrap}
+    .scn-scene .scn-big b{font-family:var(--head);font-size:3.4rem;line-height:.9;font-weight:800;letter-spacing:-.02em}
+    .scn-scene .scn-big span{font-family:var(--head);font-size:var(--fs-md);font-weight:600;letter-spacing:.04em;text-transform:uppercase;opacity:.88}
+    .scn-scene .scn-yr{display:inline-block;margin-top:8px;font-size:var(--fs-xs);font-weight:700;background:rgba(26,15,14,.18);border-radius:999px;padding:3px 10px;letter-spacing:.03em}
+    .scn-scene .scn-barcode{margin-top:14px;height:30px;border-radius:5px;opacity:.85;background-color:var(--accent-ink);background-image:repeating-linear-gradient(90deg,var(--accent-ink) 0 2px,transparent 2px 5px,var(--accent-ink) 5px 6px,transparent 6px 10px,var(--accent-ink) 10px 13px,transparent 13px 15px)}
+
+    /* sound passport */
+    .scn-scene .scn-block{padding:18px 20px 0}
+    .scn-scene .scn-lbl{display:flex;align-items:center;gap:7px;font-family:var(--head);font-size:var(--fs-xs);letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-bottom:11px}
+    .scn-scene .scn-lbl svg{width:14px;height:14px;color:var(--accent);flex:0 0 auto}
+    .scn-scene .scn-sounds{display:flex;flex-wrap:wrap;gap:8px}
+    .scn-scene .scn-snd{display:inline-flex;align-items:center;gap:6px;font-size:var(--fs-sm);font-weight:600;color:var(--fg);background:var(--surface-2);border:1px solid var(--border);border-radius:8px;padding:7px 12px;letter-spacing:.02em}
+    .scn-scene .scn-snd i{font-style:normal;font-family:var(--head);font-size:var(--fs-xs);color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+    .scn-scene .scn-snd.scn-lead{background:var(--accent-grad);color:var(--accent-ink);border-color:transparent}
+    .scn-scene .scn-snd.scn-lead i{color:var(--accent-ink);opacity:.7}
+    .scn-scene .scn-snd.scn-lead svg{width:13px;height:13px;flex:0 0 auto}
+
+    /* venue stamps — centrepiece */
+    .scn-scene .scn-venues{margin-top:11px;display:flex;flex-direction:column;gap:10px}
+    .scn-scene .scn-vrow{display:flex;align-items:center;gap:13px;background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:11px 14px}
+    .scn-scene .scn-vrow.scn-top{border-color:var(--accent)}
+    .scn-scene .scn-badge{position:relative;flex:0 0 auto;width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--head);font-weight:800;font-size:var(--fs-sm);color:var(--accent);background:radial-gradient(circle at 35% 30%,var(--surface-2),#0f0e14);box-shadow:0 0 0 2px var(--surface),0 0 0 3px var(--border)}
+    .scn-scene .scn-vrow.scn-top .scn-badge{color:var(--accent-ink);background:var(--accent-grad);box-shadow:0 0 0 2px var(--surface),0 0 0 3px var(--accent)}
+    .scn-scene .scn-vmid{flex:1 1 auto;min-width:0}
+    .scn-scene .scn-vname{font-size:var(--fs-md);font-weight:600;color:var(--fg);display:flex;align-items:center;gap:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .scn-scene .scn-vname svg{width:14px;height:14px;color:var(--muted);flex:0 0 auto}
+    .scn-scene .scn-meter{margin-top:8px;height:6px;border-radius:999px;background:var(--border);overflow:hidden}
+    .scn-scene .scn-meter span{display:block;height:100%;border-radius:999px;background:var(--accent-grad)}
+    .scn-scene .scn-vrow:not(.scn-top) .scn-meter span{background:var(--muted)}
+    .scn-scene .scn-vct{flex:0 0 auto;display:flex;align-items:baseline;gap:5px;font-family:var(--head);font-weight:700;font-size:var(--fs-sm);color:var(--muted);text-align:right}
+    .scn-scene .scn-vct b{color:var(--accent);font-size:var(--fs-lg);font-weight:800;line-height:1}
+    .scn-scene .scn-vrow:not(.scn-top) .scn-vct b{color:var(--fg)}
+
+    /* stat strip */
+    .scn-scene .scn-strip{display:flex;align-items:center;flex-wrap:wrap;gap:8px 10px;margin:18px 20px 0;padding:13px 16px;border:1px dashed var(--border);border-radius:12px;font-size:var(--fs-sm);color:var(--muted)}
+    .scn-scene .scn-strip b{font-family:var(--head);color:var(--fg);font-weight:800;font-size:var(--fs-md)}
+    .scn-scene .scn-strip .scn-dot{display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--border);flex:0 0 auto}
+    .scn-scene .scn-strip .scn-sn{margin-left:auto;font-family:var(--head);font-size:var(--fs-xs);letter-spacing:.14em;color:var(--accent);border:1px solid var(--accent);border-radius:6px;padding:3px 8px;font-weight:700;white-space:nowrap}
+
+    /* perforation footer */
+    .scn-scene .scn-foot{margin:16px 0 0;border-top:1px dashed var(--border);padding:11px 20px 16px;display:flex;justify-content:space-between;align-items:center;gap:12px;font-family:var(--head);font-size:var(--fs-xs);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+    .scn-scene .scn-foot span{display:flex;align-items:center;gap:6px}
+    .scn-scene .scn-foot svg{width:12px;height:12px;color:var(--accent);flex:0 0 auto}
+    .scn-scene .scn-actsblock .scn-lbl{margin-bottom:13px;}
+    .scn-scene .scn-actsn{margin-left:auto;font-family:var(--head);font-weight:800;color:var(--fg);font-size:var(--fs-md);letter-spacing:-.01em;display:inline-flex;align-items:baseline;gap:5px;}
+    .scn-scene .scn-actsn small{color:var(--muted);font-family:var(--body);font-weight:600;font-size:var(--fs-xs);text-transform:uppercase;letter-spacing:.08em;}
+    .scn-scene .scn-bubbles{display:flex;align-items:center;flex-wrap:wrap;gap:0;}
+    .scn-scene .scn-bub{width:42px;height:42px;border-radius:50%;flex:0 0 auto;margin-left:-11px;border:2px solid var(--surface);box-shadow:0 2px 8px rgba(0,0,0,.42);background-size:cover;background-position:center;cursor:pointer;transition:transform .12s;}
+    .scn-scene .scn-bub:first-child{margin-left:0;}
+    .scn-scene .scn-bub:hover{transform:translateY(-2px);}
+    .scn-scene .scn-bub-more{display:inline-flex;align-items:center;justify-content:center;background:var(--surface-2);color:var(--fg);font-family:var(--head);font-weight:700;font-size:var(--fs-xs);cursor:default;}
+    .scn-scene .scn-bub-more:hover{transform:none;}
     .prof-head .follow-btn { flex:none; }
     /* "See more" pill under a capped shelf (wanna see / seen live cap at 18) */
     .shelf-more { margin:14px 0 2px; display:inline-flex; align-items:center; gap:6px; padding:9px 16px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--muted); font:700 var(--fs-xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; transition:border-color .12s, color .12s; -webkit-tap-highlight-color:transparent; }
@@ -1521,7 +1581,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782738274320">
+<meta name="sc-build" content="1782751281999">
 </head>
 <body>
   <main class="wrap">
@@ -3596,7 +3656,7 @@
         // Share-your-taste-card CTA — same as the profile page (you have picks).
         var tasteCTA=((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length)) ? '<button class="tc-cta" id="acc-tc" data-handle="'+esc(handle)+'" style="margin-top:16px">◆ Share your taste card</button>' : '';
         var tabs='<div class="prof-tabs"><button data-atab="shelves" class="on">Shelves</button><button data-atab="diary">Diary</button><button data-atab="network">Network</button></div><div id="acc-tabbody"></div>';
-        var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+banner+sceneStatsHTML(p.stats,true)+tasteCTA+tabs;
+        var ab=document.getElementById('acc-body'); if(!ab) return; ab.innerHTML=head+banner+sceneStatsHTML(p.stats,true,s.seen)+tasteCTA+tabs; wireScene(ab);
         // entity-page sticky bar: your handle + back + a play button that starts your seen artists' radio
         var accPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
         armSticky('u/'+handle, accPlay, ab.querySelector('.prof-head')||ab);
@@ -3800,15 +3860,51 @@
     // Tidy stat strip — numbers in the display font, muted labels, used on the
     // profile + account headers.
     // Evergreen diary stats — "your scene" (gigs, top venues/artists/genres).
-    function sceneStatsHTML(st, mine){
+    // "Your scene" = a nightlife-passport stats panel (diary-derived). Ticket stub (nights
+    // logged) + sound passport (genres) + venue stamps (gig counts per venue) + a row of
+    // round artist bubbles (acts seen — avatars, no misleading per-artist counts) + serial.
+    function sceneStatsHTML(st, mine, seen){
       if(!st || !st.gigs) return '';
-      var tag=function(label,n){ return '<span class="sc-tag">'+esc(label)+(n?' <small>'+n+'</small>':'')+'</span>'; };
-      var rows='';
-      if((st.topGenres||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Sound</span><div>'+st.topGenres.map(function(g){ return tag(g); }).join('')+'</div></div>';
-      if((st.topVenues||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Venues</span><div>'+st.topVenues.map(function(v){ return tag(v.venue,v.n); }).join('')+'</div></div>';
-      if((st.topArtists||[]).length) rows+='<div class="sc-srow"><span class="sc-sk">Most seen</span><div>'+st.topArtists.map(function(a){ return tag(a.name,a.n); }).join('')+'</div></div>';
-      return '<div class="scene-stats"><div class="sec-h">'+(mine?'Your scene':'Scene')+'</div><div class="sc-nums"><span><b>'+st.gigs+'</b>gigs logged</span>'+(st.thisYear?'<span><b>'+st.thisYear+'</b>this year</span>':'')+'</div>'+rows+'</div>';
+      var TKT='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M13 5v2"/><path d="M13 11v2"/><path d="M13 17v2"/></svg>';
+      var CHK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="m9 11 3 3L22 4"/></svg>';
+      var WAV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h3l2-7 4 16 3-12 2 5h4"/></svg>';
+      var BLD='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M5 21V7l8-4v18"/><path d="M19 21V11l-6-4"/></svg>';
+      var USR='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>';
+      var venues=st.topVenues||[], genres=st.topGenres||[], seenA=seen||[];
+      var sinceYear = st.firstGig ? String(new Date(st.firstGig).getFullYear()) : '';
+      var yearTag = "'"+String(new Date().getFullYear()).slice(-2);
+      var city=(typeof currentCity!=='undefined'&&currentCity)?String(currentCity):'';
+      var serial='SC-'+st.gigs+(city?('-'+city.slice(0,3).toUpperCase()):'');
+      var maxN = venues[0] ? venues[0].n : 1;
+      var soundsHTML = genres.map(function(g,i){ return '<span class="scn-snd'+(i===0?' scn-lead':'')+'">'+(i===0?WAV:'')+esc(g)+(i===0?' <i>lead</i>':'')+'</span>'; }).join('');
+      var venuesHTML = venues.map(function(v,i){
+        var pct=Math.max(8, Math.round((v.n/maxN)*100));
+        return '<div class="scn-vrow'+(i===0?' scn-top':'')+'"><span class="scn-badge">&times;'+v.n+'</span>'+
+          '<div class="scn-vmid"><div class="scn-vname">'+BLD+esc(v.venue)+'</div><div class="scn-meter"><span style="width:'+pct+'%"></span></div></div>'+
+          '<div class="scn-vct"><b>'+v.n+'</b> nights</div></div>';
+      }).join('');
+      var SHOW=8;
+      var bubbles = seenA.slice(0,SHOW).map(function(a){
+        var bg = a.image ? 'background-image:url('+imgUrl(a.image,120)+')' : 'background:'+artGrad(a.name||a.slug||'');
+        return '<span class="scn-bub" data-artist="'+esc(a.slug||'')+'" style="'+bg+'" title="'+esc(a.name||'')+'"></span>';
+      }).join('') + (seenA.length>SHOW ? '<span class="scn-bub scn-bub-more">+'+(seenA.length-SHOW)+'</span>' : '');
+      var homeClub = venues[0] ? venues[0].venue : '';
+      var strip = (homeClub?'Home club <b>'+esc(homeClub)+'</b>':'') + (homeClub&&sinceYear?' <i class="scn-dot"></i> ':'') + (sinceYear?'since <b>'+sinceYear+'</b>':'') + '<span class="scn-sn">'+esc(serial)+'</span>';
+      return '<div class="scn-scene">'+
+        '<div class="scn-title">'+TKT+(mine?'Your scene':'Scene')+'</div>'+
+        '<div class="scn-stub"><div class="scn-stub-top"><div class="scn-admit">'+TKT+'Admit one</div><div class="scn-seal">'+CHK+'Verified '+yearTag+'</div></div>'+
+          '<div class="scn-big"><b>'+st.gigs+'</b><span>nights logged</span></div>'+
+          (st.thisYear?'<div class="scn-yr">'+st.thisYear+' this year</div>':'')+
+          '<div class="scn-barcode"></div></div>'+
+        (genres.length?'<div class="scn-block"><div class="scn-lbl">'+WAV+'Sound passport</div><div class="scn-sounds">'+soundsHTML+'</div></div>':'')+
+        (venues.length?'<div class="scn-block"><div class="scn-lbl">'+BLD+'Venue stamps</div><div class="scn-venues">'+venuesHTML+'</div></div>':'')+
+        (seenA.length?'<div class="scn-block scn-actsblock"><div class="scn-lbl">'+USR+'Acts seen <span class="scn-actsn">'+seenA.length+'<small>artists</small></span></div><div class="scn-bubbles">'+bubbles+'</div></div>':'')+
+        '<div class="scn-strip">'+strip+'</div>'+
+        '<div class="scn-foot"><span>'+TKT+'Soundcheck passport</span><span>'+(sinceYear?'Building since '+sinceYear:'')+'</span></div>'+
+      '</div>';
     }
+    // wire the artist bubbles in a freshly-mounted "Your scene" panel → artist pages
+    function wireScene(scope){ (scope||document).querySelectorAll('.scn-bub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); }); }
     function statLineHTML(seen, wanna, gigs, followers){
       function unit(n, label){ return '<span><b>'+n+'</b> '+label+'</span>'; }
       return '<div class="prof-statline">'+unit(seen,'seen')+unit(wanna,'wanna see')+unit(gigs,'gig'+(gigs===1?'':'s'))+unit(followers,'follower'+(followers===1?'':'s'))+'</div>';
@@ -3893,8 +3989,8 @@
           '</div>';
         if(!p.locked && ((s.wannaSee&&s.wannaSee.length)||(s.seen&&s.seen.length))) head += '<button class="tc-cta" id="prof-tc" data-handle="'+esc(p.handle)+'" style="margin-top:16px">◆ '+(p.isMe?'Share your taste card':(esc('u/'+p.handle)+'’s taste card'))+'</button>';
         if(p.locked){ openPanel(head+'<div class="empty" style="margin-top:18px">This profile is private.</div>'); wireProfile(); armSticky(p.displayName||('u/'+p.handle), null, (panelBody&&panelBody.querySelector('.prof-head'))||document.getElementById('page-body')); return; }
-        openPanel(head+sceneStatsHTML(p.stats,p.isMe)+'<div class="prof-tabs"><button data-tab="shelves" class="on">Shelves</button><button data-tab="diary">Diary</button><button data-tab="network">Network</button></div><div id="prof-tabbody"></div>');
-        wireProfile();
+        openPanel(head+sceneStatsHTML(p.stats,p.isMe,s.seen)+'<div class="prof-tabs"><button data-tab="shelves" class="on">Shelves</button><button data-tab="diary">Diary</button><button data-tab="network">Network</button></div><div id="prof-tabbody"></div>');
+        wireProfile(); wireScene(panelBody);
         // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
         armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.prof-head'))||document.getElementById('page-body'));
