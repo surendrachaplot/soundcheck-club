@@ -1219,7 +1219,6 @@
     .cu-grid > li { min-width:0; }
     .ptile .pimg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0; }
     .ptile .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-xs); line-height:1.1; color:var(--fg); text-align:center; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:100%; }
-    .ptile .sd { position:absolute; top:6px; right:6px; width:18px; height:18px; border-radius:999px; background:var(--accent); color:var(--ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-xs); z-index:3; border:2px solid var(--bg); }
     .prof-tl { max-width:560px; }
     .prof-tl .row { display:flex; gap:13px; }
     .prof-tl .spine { display:flex; flex-direction:column; align-items:center; }
@@ -1502,7 +1501,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782734214118">
+<meta name="sc-build" content="1782734436193">
 </head>
 <body>
   <main class="wrap">
@@ -3773,7 +3772,7 @@
     function artGrad(s){ var h=((hashStr(String(s||'x'))%70)+330)%360; return 'linear-gradient(150deg,hsl('+h+' 62% 50%),hsl('+((h+22)%360)+' 42% 14%))'; }
     function ptile(slug,name,seen,image){
       var img=image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(image,300)+'" alt="" onerror="this.remove()">':'';
-      return '<button class="ptile" data-artist="'+esc(slug)+'"><span class="ptile-img'+(image?' has-img':'')+'" style="background:'+artGrad(name||slug)+'">'+img+(seen?'<span class="sd">&#10003;</span>':'')+'</span><span class="nm">'+esc(name||slug)+'</span></button>';
+      return '<button class="ptile" data-artist="'+esc(slug)+'"><span class="ptile-img'+(image?' has-img':'')+'" style="background:'+artGrad(name||slug)+'">'+img+'</span><span class="nm">'+esc(name||slug)+'</span></button>';
     }
     function hubTile(id,ic,t,d){ return '<button class="hub-tile" id="'+id+'" type="button"><span class="ic">'+ic+'</span><div class="t">'+t+'</div><div class="d">'+d+'</div></button>'; }
 
