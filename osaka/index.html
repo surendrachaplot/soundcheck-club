@@ -1493,6 +1493,10 @@
     }
     /* ── Nights: collaborative board ── */
     .toast-act { background:none; border:none; color:var(--accent); font-weight:700; font-size:inherit; cursor:pointer; padding:0 0 0 10px; }
+    /* contextual hint at the top of the log form when you arrive from "marked seen → log the gig" */
+    .lg-hint { display:inline-flex; align-items:center; gap:8px; margin:0 0 14px; padding:9px 14px; border-radius:10px; background:rgba(255,122,107,0.12); border:1px solid rgba(255,122,107,0.35); color:var(--fg); font:600 var(--fs-sm) var(--body); }
+    .lg-hint svg { width:16px; height:16px; color:var(--accent); flex:0 0 auto; }
+    .lg-hint b { color:var(--accent); font-weight:800; }
     .nstack { display:inline-flex; vertical-align:middle; }
     .nstack-av { width:24px; height:24px; border-radius:999px; background-size:cover; background-position:center; border:2px solid var(--bg); margin-right:-7px; display:inline-block; }
     .nb-head { margin-bottom:14px; }
@@ -1581,7 +1585,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782751281999">
+<meta name="sc-build" content="1782751876224">
 </head>
 <body>
   <main class="wrap">
@@ -2825,7 +2829,12 @@
       setEvent(id, 'going', meta);
     }
     // Seen / Not-going are account features → nudge sign-in when logged out
-    function toggleSeen(slug, meta){ if(!slug) return; if(!currentUser){ openAuth(); return; } setArtist(slug, artStatus(slug)==='seen' ? null : 'seen', meta&&meta.name); }
+    function toggleSeen(slug, meta){ if(!slug) return; if(!currentUser){ openAuth(); return; }
+      var wasSeen = artStatus(slug)==='seen';
+      setArtist(slug, wasSeen ? null : 'seen', meta&&meta.name);
+      // keep the instant one-tap tick, then nudge to log the actual gig (richer — dates the night, feeds Your scene)
+      if(!wasSeen) showToastAction('Seen ✓ '+((meta&&meta.name)||'this act'), 'Log the gig', function(){ openLog({ seenName:(meta&&meta.name)||'' }); });
+    }
     function refreshArtistButtons(slug){
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
@@ -5136,7 +5145,7 @@
 
     // ---- log a gig ----
     // ── Log a gig — full page (was a modal) ──
-    var lgArtists=[], lgSel=null, lgEventList=[];
+    var lgArtists=[], lgSel=null, lgEventList=[], _logHint=null;
     function debounce(fn, ms){ var t; return function(){ var a=arguments, c=this; clearTimeout(t); t=setTimeout(function(){ fn.apply(c,a); }, ms); }; }
     function pubGet(path){ return fetch(API_BASE+path).then(function(r){ return r.json(); }).catch(function(){ return {}; }); }
     function attachSuggest(input, drop, fetcher, onPick){
@@ -5158,7 +5167,9 @@
     function logFormHTML(){
       var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
         return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
-      return '<h2 class="page-title">Log a gig</h2><div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
+      return '<h2 class="page-title">Log a gig</h2>'+
+        (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Add the night you caught <b>'+esc(_logHint)+'</b></div>':'')+
+        '<div class="sub" style="margin-bottom:16px">Pick the night you went to &mdash; straight from our listings. It lands in your diary and marks the line-up as seen.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
           '<div id="lg-pickers">'+
@@ -5305,6 +5316,7 @@
     function openLog(prefill){
       setRoute('log');
       lgArtists=[]; lgSel=null; lgEventList=[];
+      _logHint = (prefill&&prefill.seenName) ? prefill.seenName : null;
       showPage(logFormHTML());
       wireLog();
       if(prefill&&prefill.eventId) preselectLogEvent(prefill.eventId);
