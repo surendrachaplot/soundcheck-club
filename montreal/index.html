@@ -895,12 +895,13 @@
     .pd-more i{font-size:.82rem;color:var(--muted,#a39fab);}
 
     .pd-stubs{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:14px 16px 16px;}
-    .pd-stub{position:relative;display:flex;align-items:stretch;border:1px solid var(--border,#322e3b);border-radius:12px;background:var(--surface-2,#1f1c26);overflow:hidden;}
+    .pd-stub{position:relative;display:flex;align-items:stretch;min-height:92px;border:1px solid var(--border,#322e3b);border-radius:12px;background:var(--surface-2,#1f1c26);overflow:hidden;}
     .pd-stub-stub{flex:0 0 auto;width:54px;background:var(--accent-grad,linear-gradient(140deg,#ff8a72,#f56552));color:var(--accent-ink,#1a0f0e);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;position:relative;}
     .pd-stub-stub::after{content:"";position:absolute;top:6px;bottom:6px;right:0;border-right:1px dashed rgba(26,15,14,.4);}
     .pd-stub-dno{font-family:var(--head,'Bricolage Grotesque'),sans-serif;font-size:1.15rem;font-weight:700;line-height:1;}
     .pd-stub-mo{font-size:.54rem;letter-spacing:.16em;text-transform:uppercase;font-weight:600;}
-    .pd-stub-body{flex:1 1 auto;min-width:0;padding:11px 13px;display:flex;flex-direction:column;gap:4px;}
+    .pd-stub-body{flex:1 1 auto;min-width:0;padding:11px 13px;display:flex;flex-direction:column;justify-content:center;gap:5px;}
+    .pd-amore{display:inline-flex;align-items:center;font:600 .72rem var(--body,'Inter');color:var(--muted,#a39fab);}
     .pd-stub-top{display:flex;align-items:baseline;justify-content:space-between;gap:8px;}
     .pd-venue{font-family:var(--head,'Bricolage Grotesque'),sans-serif;font-size:.96rem;font-weight:600;color:var(--fg,#f4efe9);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
     .pd-when{font-family:var(--font-mono,monospace);font-size:.62rem;letter-spacing:.04em;color:var(--muted,#a39fab);white-space:nowrap;}
@@ -955,6 +956,10 @@
     .pd-gear:hover{border-color:var(--accent,#ff7a6b);color:var(--accent,#ff7a6b);}
     .pd-gear svg{width:18px;height:18px;}
     .pd-extra{margin-top:24px;}
+    /* gig-diary page breadcrumb back to the profile */
+    .diary-bc{display:inline-flex;align-items:center;gap:3px;margin:10px 0 2px;padding:6px 10px 6px 4px;background:none;border:none;color:var(--muted,#a39fab);font:700 var(--fs-xs,0.72rem) var(--body,'Inter');letter-spacing:.04em;text-transform:uppercase;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:color .12s;}
+    .diary-bc:hover{color:var(--accent,#ff7a6b);}
+    .diary-bc svg{width:16px;height:16px;}
     .prof-head .follow-btn { flex:none; }
     /* "See more" pill under a capped shelf (wanna see / seen live cap at 18) */
     .shelf-more { margin:14px 0 2px; display:inline-flex; align-items:center; gap:6px; padding:9px 16px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--muted); font:700 var(--fs-xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; transition:border-color .12s, color .12s; -webkit-tap-highlight-color:transparent; }
@@ -1693,7 +1698,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782771364303">
+<meta name="sc-build" content="1782772037424">
 </head>
 <body>
   <main class="wrap">
@@ -4003,7 +4008,8 @@
         var day=dt?dt.getDate():'–', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'';
         var yr=dt?String(dt.getFullYear()).slice(-2):'';
         var arts=(typeof diaryValid==='function')?diaryValid(d):(d.artists||[]);
-        var acts=arts.slice(0,6).map(function(a){ return '<span class="pd-achip" data-artist="'+esc(a.slug||'')+'"><span class="pd-abub" style="'+pdBub(a,false)+'"></span>'+esc(a.name||a.slug)+'</span>'; }).join('');
+        var MAXA=3, shownA=arts.slice(0,MAXA), extraA=arts.length-shownA.length;
+        var acts=shownA.map(function(a){ return '<span class="pd-achip" data-artist="'+esc(a.slug||'')+'"><span class="pd-abub" style="'+pdBub(a,false)+'"></span>'+esc(a.name||a.slug)+'</span>'; }).join('')+(extraA>0?'<span class="pd-amore">+'+extraA+'</span>':'');
         var vn=d.venue?'<span class="pd-venue" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</span>':'<span class="pd-venue">Gig</span>';
         // date lives in the salmon stub (day/mo · 'yy) — so the body row gives the venue full width
         return '<article class="pd-stub"><div class="pd-stub-stub"><span class="pd-stub-dno">'+day+'</span><span class="pd-stub-mo">'+esc(mon)+(yr?" &rsquo;"+yr:'')+'</span></div><div class="pd-stub-body"><div class="pd-stub-top">'+vn+'</div>'+(acts?'<div class="pd-acts">'+acts+'</div>':'')+'</div></article>';
@@ -4139,13 +4145,18 @@
         var p=await r.json();
         mine = mine || p.isMe;
         var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
+        var nm = p.displayName||('u/'+handle);
         var logBtn = mine ? '<span class="more" id="diary-log">+ Log a gig</span>' : '';
-        var body='<div class="pd-page diary-page" style="max-width:760px">'+
-          '<div class="sec-h" style="margin-top:8px">Gig diary<span class="ct">'+diary.length+'</span>'+logBtn+'</div>'+
+        // breadcrumb back to the profile so the diary never feels like a floating page
+        var CHV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>';
+        var bc='<button class="diary-bc" type="button" id="diary-bc">'+CHV+'<span>'+esc(mine?'Your profile':nm)+'</span></button>';
+        var body='<div class="pd-page diary-page" style="max-width:760px">'+bc+
+          '<div class="sec-h" style="margin-top:4px">Gig diary<span class="ct">'+diary.length+'</span>'+logBtn+'</div>'+
           diaryTLHTML(diary, mine)+'</div>';
         openPanel(body);
         wireDiary(panelBody, mine, function(){ openDiaryPage(handle, mine); });
         var lg=document.getElementById('diary-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
+        var bcb=document.getElementById('diary-bc'); if(bcb) bcb.addEventListener('click',function(){ if(mine) openAccount(); else openProfile(handle); });
         // entity-page sticky bar: name + back + play the seen artists' radio
         var play=(s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
         armSticky((p.displayName||('u/'+handle))+' · gig diary', play, (panelBody&&panelBody.querySelector('.sec-h'))||document.getElementById('page-body'));
