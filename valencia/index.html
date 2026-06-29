@@ -469,6 +469,26 @@
          panel's safe-area bottom padding makes the dock asymmetric. */
       .dock:not(.expanded) .corner { position:static; transform:none; order:9; align-self:center; margin-left:6px; gap:6px; }
       .dock.expanded .corner { top:10px; right:10px; }
+      /* ── expanded sheet redesign (mobile): artist NAME left-aligned with the wanna-see heart + seen
+         tick as icon buttons on the RIGHT of that row; source + next-gig stacked below; then the
+         (unchanged) knob-scrubber and a ±15 · prev · next · ±15 transport row. ── */
+      .dock.expanded .main { align-items:stretch; }
+      .dock.expanded .info { display:flex; flex-direction:column; text-align:left; }
+      .dock.expanded .info .nm { font-size:1.35rem; }
+      .dock.expanded .dock-nmrow { order:1; justify-content:space-between; gap:12px; }
+      .dock.expanded .dock-nmrow .nm { flex:1; }
+      .dock.expanded .info .sub { order:2; }
+      .dock.expanded.has-next .info .sub { display:block; }   /* show the source under the name again (it's hidden on desktop-expanded) */
+      .dock.expanded .info .dock-next { order:3; margin-top:8px; }
+      /* heart + seen → tidy rounded icon buttons pinned right of the name (drop the "Wanna see" label) */
+      .dock.expanded .dock-acts .heart, .dock.expanded .dock-acts .seen-btn { width:44px; height:44px; padding:0; border-radius:13px; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
+      .dock.expanded .dock-acts .heart span { display:none; }
+      .dock.expanded .dock-acts .heart.on, .dock.expanded .dock-acts .seen-btn.on { border-color:var(--accent); color:var(--accent); background:rgba(255,122,107,.14); }
+      /* transport order: ±15 · prev · next · ±15 (the scrubber knob is the play/pause) */
+      .dock.expanded #skip-back { order:1; }
+      .dock.expanded #dock-prev { order:2; }
+      .dock.expanded #dock-next { order:3; }
+      .dock.expanded #skip-fwd { order:4; }
       body.has-dock { padding-bottom:380px; }
       body.has-dock.dock-collapsed { padding-bottom:96px; }
     }
@@ -1501,7 +1521,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782734436193">
+<meta name="sc-build" content="1782738274320">
 </head>
 <body>
   <main class="wrap">
