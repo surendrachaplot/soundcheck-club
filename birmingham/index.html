@@ -1693,7 +1693,7 @@
     .se-form button:hover { opacity:0.9; }
     .se-form button:disabled { opacity:0.6; cursor:default; }
   </style>
-<meta name="sc-build" content="1782770255868">
+<meta name="sc-build" content="1782771364303">
 </head>
 <body>
   <main class="wrap">
@@ -3007,7 +3007,7 @@
         menu.querySelectorAll('.am-i').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); menu.classList.remove('show'); var a=b.dataset.am;
           if(a==='profile') openProfile(currentUser.handle);
           else if(a==='picks') openMyPicks();
-          else if(a==='diary') openAccount('diary');
+          else if(a==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
           else if(a==='log') openLog();
           else if(a==='out') signOut();
         }); });
@@ -3997,7 +3997,8 @@
     function pdDiaryCardHTML(diary, isMe){
       diary=diary||[];
       var loggig=isMe?'<button class="pd-loggig" type="button" id="pd-loggig">＋ Log a gig</button>':'<span class="pd-serial">Logged · '+(diary.length)+'</span>';
-      var stubs=diary.slice(0,4).map(function(d){
+      var PREV=6;
+      var stubs=diary.slice(0,PREV).map(function(d){
         var dt=d.gig_date?new Date(String(d.gig_date).slice(0,10)+'T12:00:00'):null;
         var day=dt?dt.getDate():'–', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'';
         var yr=dt?String(dt.getFullYear()).slice(-2):'';
@@ -4007,7 +4008,8 @@
         // date lives in the salmon stub (day/mo · 'yy) — so the body row gives the venue full width
         return '<article class="pd-stub"><div class="pd-stub-stub"><span class="pd-stub-dno">'+day+'</span><span class="pd-stub-mo">'+esc(mon)+(yr?" &rsquo;"+yr:'')+'</span></div><div class="pd-stub-body"><div class="pd-stub-top">'+vn+'</div>'+(acts?'<div class="pd-acts">'+acts+'</div>':'')+'</div></article>';
       }).join('');
-      return '<section class="pd-card pd-diary"><div class="pd-card-head"><h2 class="pd-title">Gig diary <span class="pd-cnt">×'+diary.length+'</span></h2>'+loggig+'</div><div class="pd-perf"></div><div class="pd-stubs">'+(stubs||'<div class="empty" style="padding:6px 2px">No gigs logged yet.</div>')+'</div></section>';
+      var foot = diary.length>PREV ? '<div class="pd-card-foot"><button class="pd-more" type="button" id="pd-diary-all">See all '+diary.length+' gigs <i class="ti ti-arrow-right" aria-hidden="true"></i></button></div>' : '';
+      return '<section class="pd-card pd-diary"><div class="pd-card-head"><h2 class="pd-title">Gig diary <span class="pd-cnt">×'+diary.length+'</span></h2>'+loggig+'</div><div class="pd-perf"></div><div class="pd-stubs">'+(stubs||'<div class="empty" style="padding:6px 2px">No gigs logged yet.</div>')+'</div>'+foot+'</section>';
     }
     function profileDashHTML(p){
       var s=p.shelves||{wannaSee:[],seen:[],events:[],venues:[]}, st=p.stats||{}, diary=p.diary||[];
@@ -4026,6 +4028,7 @@
       sc.querySelectorAll('.pd-achip[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(e){ e.stopPropagation(); openArtist(b.dataset.artist); }); });
       sc.querySelectorAll('.pd-venue[data-venue]').forEach(function(b){ if(b.dataset.venue) b.addEventListener('click',function(){ openVenue(b.dataset.venue); }); });
       var lg=document.getElementById('pd-loggig'); if(lg) lg.addEventListener('click',function(){ openLog(); });
+      var da=document.getElementById('pd-diary-all'); if(da) da.addEventListener('click',function(){ openDiaryPage(p.handle, p.isMe); });
       var gear=document.getElementById('pd-gear'); if(gear) gear.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
@@ -4120,6 +4123,33 @@
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
         armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pd-cover'))||document.getElementById('page-body'));
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
+    }
+    // Full gig-diary page — every logged night as the timeline (spine + venue +
+    // date + artist tiles + note), reached from the dashboard's "See all" pill.
+    // Own diary gets a Log-a-gig action and per-row delete (via wireDiary).
+    async function openDiaryPage(handle, isMe){
+      handle = handle || (currentUser && currentUser.handle);
+      if(!handle){ openAuth(); return; }
+      var mine = (isMe!=null) ? !!isMe : !!(currentUser && currentUser.handle===handle);
+      setRoute(mine ? 'diary' : 'diary/'+handle);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/profile?handle='+encodeURIComponent(handle));
+        if(!r.ok){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); return; }
+        var p=await r.json();
+        mine = mine || p.isMe;
+        var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
+        var logBtn = mine ? '<span class="more" id="diary-log">+ Log a gig</span>' : '';
+        var body='<div class="pd-page diary-page" style="max-width:760px">'+
+          '<div class="sec-h" style="margin-top:8px">Gig diary<span class="ct">'+diary.length+'</span>'+logBtn+'</div>'+
+          diaryTLHTML(diary, mine)+'</div>';
+        openPanel(body);
+        wireDiary(panelBody, mine, function(){ openDiaryPage(handle, mine); });
+        var lg=document.getElementById('diary-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
+        // entity-page sticky bar: name + back + play the seen artists' radio
+        var play=(s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
+        armSticky((p.displayName||('u/'+handle))+' · gig diary', play, (panelBody&&panelBody.querySelector('.sec-h'))||document.getElementById('page-body'));
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); }
     }
     function wireProfile(){
       var fb=document.getElementById('follow-btn');
@@ -5478,9 +5508,9 @@
         lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
         savePicks(); afterPicksChanged();
         showToast(j.updated ? 'Updated your diary' : 'Logged to your diary');
-        // land on the diary (account → Diary tab); replace #log so Back doesn't
+        // land on the full gig-diary page; replace #log so Back doesn't
         // return to a now-stale form.
-        history.replaceState({sc:1},'','#account'); openAccount('diary');
+        history.replaceState({sc:1},'','#diary'); openDiaryPage(currentUser&&currentUser.handle, true);
       }catch(_){ document.getElementById('lg-err').textContent='Network error.'; btn.disabled=false; }
     }
 
@@ -5501,6 +5531,8 @@
       else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
+      else if(hash==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
+      else if(hash.indexOf('diary/')===0) openDiaryPage(hash.slice(6));
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
       else if(hash.indexOf('dj/')===0) openArtist(hash.slice(3));
       else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));          // legacy /a/
