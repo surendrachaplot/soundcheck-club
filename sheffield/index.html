@@ -2252,8 +2252,31 @@
   .pb-meter{min-width:44px;max-width:none}
 }
 
-/* ── The taste card is ALWAYS its portrait form inside the profile ──
-   (the boarding-pass content is designed for ~420px; never stretch it 2-col.) */
+/* ── minimal soundcheck card (no boarding-pass framing) ── */
+.tb-card .tb-head{display:flex;align-items:center;gap:10px;padding-bottom:14px;margin-bottom:16px;border-bottom:1px dashed var(--border)}
+.tb-card .tb-logo{width:30px;height:30px;border-radius:8px;font-size:16px}
+.tb-wm{font-family:var(--head);font-weight:800;font-size:17px;letter-spacing:-.01em;color:var(--fg)}
+.tb-card .tb-pax{justify-content:flex-start;align-items:center;gap:14px;margin-bottom:18px}
+.tb-card .tb-avatar{width:52px;height:52px}
+.tb-card .tb-name{font-size:26px;white-space:normal;line-height:1}
+.tb-card .tb-handle{margin-top:6px}
+.tb-big{margin:2px 0 14px}
+.tb-big .tb-bignum{font-size:58px}
+.tb-bigu{font-family:var(--font-mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:8px}
+.tb-counts{display:flex;gap:10px;padding:13px 0;border-top:1px dashed var(--border);border-bottom:1px dashed var(--border);margin-bottom:16px}
+.tb-counts>div{flex:1;display:flex;flex-direction:column;gap:4px}
+.tb-counts b{font-family:var(--head);font-weight:800;font-size:18px;color:var(--fg)}
+.tb-counts span{font-family:var(--font-mono);font-size:8px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
+.tb-facts{display:flex;gap:10px;margin-bottom:18px}
+.tb-fact{flex:1;background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:11px 13px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.tb-fact .tb-lbl{margin-bottom:0}
+.tb-fv{font-family:var(--head);font-weight:700;font-size:15px;color:var(--fg);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tb-fv.tb-lead{color:var(--accent)}
+.tb-fv small{font-family:var(--font-mono);font-size:10px;color:var(--muted);font-weight:500}
+/* slim cover — just the action buttons, no big wordmark */
+.pb-cover{justify-content:flex-end}
+
+/* ── card is always its portrait form inside the profile (~440px, never 2-col) ── */
 .pb-hero .tb-pass{grid-template-columns:1fr;max-width:440px;margin:0 auto}
 .pb-hero .tb-main{padding:22px 20px 18px}
 .pb-hero .tb-perf{width:auto;height:0}
@@ -2280,7 +2303,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782835347010">
+<meta name="sc-build" content="1782836041390">
 </head>
 <body>
   <main class="wrap">
@@ -4707,30 +4730,29 @@
     function tcBub(a){ var nm=(a&&(a.name||a.slug))||''; return a&&a.image ? '<span class="tb-ab" style="background-image:url('+imgUrl(a.image,90)+');background-size:cover;background-position:center"></span>' : '<span class="tb-ab" style="background:'+artGrad(nm)+'">'+esc(tcInitials(nm))+'</span>'; }
     function tcCityCode(c){ c=String(c||'').replace(/[^A-Za-z]/g,''); return c?c.slice(0,3).toUpperCase():'•••'; }
     function tasteCardHTML(p){
+      // A clean, minimal soundcheck card — NOT a boarding pass. No admit-one /
+      // season / serial / flight-route / "room" / resident stamp, and no guessed
+      // home city (that belongs in onboarding). Everything here is real data.
       var s=p.shelves||{wannaSee:[],seen:[],events:[],venues:[]}, st=p.stats||{}, diary=p.diary||[];
-      var handle=p.handle, name=esc(p.displayName||('u/'+handle)), yr=String(new Date().getFullYear());
-      var city=st.homeCity||((typeof currentCity!=='undefined'&&currentCity&&p.isMe)?String(currentCity):'');
-      var code=tcCityCode(city), since=st.firstGig?String(new Date(st.firstGig).getFullYear()):'';
+      var handle=p.handle, name=esc(p.displayName||('u/'+handle));
+      var since=st.firstGig?String(new Date(st.firstGig).getFullYear()):'';
       var gigs=st.gigs||diary.length||0, thisY=st.thisYear||0;
       var genres=st.topGenres||[], venues=st.topVenues||[], lead=genres[0]||'', hv=venues[0];
-      var serial='SC-'+gigs+(code&&code!=='•••'?('-'+code):'');
       var seenA=s.seen||[], SHOWB=10;
       var bubbles=seenA.slice(0,SHOWB).map(function(a){ return '<div class="tb-abub" data-artist="'+esc(a.slug||'')+'">'+tcBub(a)+'<span class="tb-abn">'+esc(a.name||a.slug)+'</span></div>'; }).join('')
         + (seenA.length>SHOWB?'<div class="tb-abub tb-abmore"><span class="tb-ab tb-abx">+'+(seenA.length-SHOWB)+'</span><span class="tb-abn">more</span></div>':'');
       var qr=API_BASE+'/api/qr?u='+encodeURIComponent(handle), avbg=avatarBg(handle,p.avatar);
-      return '<div class="tb-pass">'+
+      var facts=(lead?'<div class="tb-fact"><span class="tb-lbl">Top genre</span><b class="tb-fv tb-lead">'+esc(lead)+'</b></div>':'')
+        +(hv?'<div class="tb-fact"><span class="tb-lbl">Home venue</span><b class="tb-fv">'+esc(hv.venue)+' <small>×'+hv.n+'</small></b></div>':'');
+      return '<div class="tb-pass tb-card">'+
         '<div class="tb-main">'+
-          '<div class="tb-topbar"><div class="tb-brand"><div class="tb-logo">S</div><div class="tb-brandtxt"><b>soundcheck</b><span>Boarding Pass · '+yr+' Season</span></div></div><div class="tb-class">Admit One · Resident</div></div>'+
-          '<div class="tb-pax"><div class="tb-paxL"><span class="tb-lbl">Passenger</span><div class="tb-name">'+name+'</div><div class="tb-handle">@<b>'+esc(handle)+'</b>'+(city?' · '+esc(city):'')+(since?' · member since '+since:'')+'</div></div><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span></div>'+
-          '<div class="tb-route"><div class="tb-node"><div class="tb-code">'+esc(code)+'</div><div class="tb-sub">Home base</div></div><div class="tb-leg"><div class="tb-plane">'+TC_PLANE+'</div></div><div class="tb-node"><div class="tb-code tb-lead">'+esc((lead||'—').toUpperCase())+'</div><div class="tb-sub">Lead genre</div></div></div>'+
-          (hv?'<div class="tb-venue"><span class="tb-lbl">Gate · Home venue</span><div class="tb-val">'+esc(hv.venue)+' <small>×'+hv.n+'</small></div><span class="tb-vmeta">Top room</span></div>':'')+
-          (seenA.length?'<div class="tb-artists"><div class="tb-arth"><span class="tb-lbl">Seen live</span><span class="tb-artn">'+seenA.length+' acts</span></div><div class="tb-abubs">'+bubbles+'</div></div>':'')+
-          '<div class="tb-foot"><div class="tb-qrwrap"><div class="tb-qr"><img class="tb-qr-img" src="'+qr+'" alt="Scan to follow @'+esc(handle)+' on soundcheck" loading="lazy"></div><div class="tb-qrtxt"><span class="tb-lbl">Scan to follow</span><b>Join soundcheck</b><span class="tb-qrurl">/u/'+esc(handle)+'</span></div></div><div class="tb-stamp"><div class="tb-stampin"><span class="tb-tick">'+TC_CHECK+'</span><b>VERIFIED</b><span>Resident</span></div></div></div>'+
-        '</div>'+
-        '<div class="tb-perf"></div>'+
-        '<div class="tb-stub"><span class="tb-lbl">Nights logged · '+yr+' season</span><div class="tb-bignum">'+gigs+'</div><div class="tb-bignum-u">Nights'+(thisY?' · '+thisY+' this year':'')+'</div>'+
-          '<div class="tb-stubrow"><div class="tb-stubcol"><div class="tb-sub">Wanna see</div><b>'+(s.wannaSee||[]).length+'</b></div><div class="tb-stubcol"><div class="tb-sub">Seen live</div><b>'+seenA.length+'</b></div><div class="tb-stubcol"><div class="tb-sub">Venues</div><b>'+(s.venues||[]).length+'</b></div></div>'+
-          '<div class="tb-serial"><span>Serial no.</span>'+esc(serial)+'</div>'+
+          '<div class="tb-head"><div class="tb-logo">S</div><b class="tb-wm">soundcheck</b></div>'+
+          '<div class="tb-pax"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-paxL"><div class="tb-name">'+name+'</div><div class="tb-handle">@'+esc(handle)+(since?' · since '+since:'')+'</div></div></div>'+
+          '<div class="tb-big"><div class="tb-bignum">'+gigs+'</div><div class="tb-bigu">nights logged'+(thisY?' · '+thisY+' this year':'')+'</div></div>'+
+          '<div class="tb-counts"><div><b>'+(s.wannaSee||[]).length+'</b><span>wanna see</span></div><div><b>'+seenA.length+'</b><span>seen live</span></div><div><b>'+(s.venues||[]).length+'</b><span>venues</span></div></div>'+
+          (facts?'<div class="tb-facts">'+facts+'</div>':'')+
+          (seenA.length?'<div class="tb-artists"><div class="tb-arth"><span class="tb-lbl">Acts seen</span><span class="tb-artn">'+seenA.length+' total</span></div><div class="tb-abubs">'+bubbles+'</div></div>':'')+
+          '<div class="tb-foot"><div class="tb-qrwrap"><div class="tb-qr"><img class="tb-qr-img" src="'+qr+'" alt="Scan to follow @'+esc(handle)+'" loading="lazy"></div><div class="tb-qrtxt"><span class="tb-lbl">Scan to follow</span><b>Join soundcheck</b><span class="tb-qrurl">/u/'+esc(handle)+'</span></div></div></div>'+
         '</div>'+
       '</div>';
     }
@@ -4779,10 +4801,11 @@
       return head+'<div id="pb-venues-rail"></div><div id="pb-events-rail"></div>';
     }
     function pbShareCard(p){
-      var url='https://soundcheck.club/u/'+p.handle, title=(p.displayName||('u/'+p.handle))+' on soundcheck';
-      if(navigator.share){ navigator.share({ title:title, text:'My gig passport on soundcheck', url:url }).catch(function(){}); return; }
-      if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(url).then(function(){ showToast('Link copied — your card lives at /u/'+p.handle); }).catch(function(){ showToast(url); }); return; }
-      showToast(url);
+      // Copy the profile link + toast — reliable everywhere, no flaky share-sheet.
+      var url='https://soundcheck.club/u/'+encodeURIComponent(p.handle);
+      function ok(){ showToast('Card link copied — soundcheck.club/u/'+p.handle); }
+      if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(url).then(ok).catch(function(){ showToast(url); }); }
+      else { showToast(url); }
     }
     function pbProfileHTML(p){
       var isMe=p.isMe;
@@ -4790,7 +4813,7 @@
         :'<button class="pb-ghost follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button>';
       var shareLabel=isMe?'Share your card':'Share '+esc(p.displayName||('u/'+p.handle))+'’s card';
       return '<div class="pb-root">'+
-        '<div class="pb-cover"><div class="pb-brand"><b>soundcheck</b> · passport</div><div class="pb-cover-actions"><button class="pb-ghost" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button>'+actions+'</div></div>'+
+        '<div class="pb-cover"><div class="pb-cover-actions"><button class="pb-ghost" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button>'+actions+'</div></div>'+
         '<div class="pb-hero">'+tasteCardHTML(p)+
           '<div class="pb-sharebar"><button class="pb-share" id="pb-share" type="button"><span class="pb-ic"><i class="ti ti-share-2" aria-hidden="true"></i></span><span><span class="pb-share-t">'+shareLabel+'</span><span class="pb-share-s">screenshot-ready · scan to follow · '+(new Date().getFullYear())+' edition</span></span></button>'+
           (isMe?'<button class="pb-log" id="pb-log" type="button"><span class="pb-plus">+</span> Log a gig</button>':'')+'</div>'+
