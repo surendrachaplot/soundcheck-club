@@ -2253,13 +2253,11 @@
 }
 
 /* ── minimal soundcheck card (no boarding-pass framing) ── */
-.tb-card .tb-head{display:flex;align-items:center;gap:10px;padding-bottom:14px;margin-bottom:16px;border-bottom:1px dashed var(--border)}
-.tb-card .tb-logo{width:30px;height:30px;border-radius:8px;font-size:16px}
-.tb-wm{font-family:var(--head);font-weight:800;font-size:17px;letter-spacing:-.01em;color:var(--fg)}
-.tb-card .tb-pax{justify-content:flex-start;align-items:center;gap:14px;margin-bottom:18px}
-.tb-card .tb-avatar{width:52px;height:52px}
-.tb-card .tb-name{font-size:26px;white-space:normal;line-height:1}
-.tb-card .tb-handle{margin-top:6px}
+.tb-card .tb-head{display:flex;align-items:center;gap:12px;padding-bottom:16px;margin-bottom:16px;border-bottom:1px dashed var(--border)}
+.tb-card .tb-head .tb-avatar{width:46px;height:46px;flex:0 0 auto}
+.tb-hid{flex:1;min-width:0}
+.tb-hid .tb-name{font-family:var(--head);font-weight:800;font-size:22px;line-height:1;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--fg)}
+.tb-season{flex:0 0 auto;font-family:var(--font-mono);font-size:9px;letter-spacing:.13em;text-transform:uppercase;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:5px 11px;background:rgba(255,122,107,.07);white-space:nowrap}
 .tb-big{margin:2px 0 14px}
 .tb-big .tb-bignum{font-size:58px}
 .tb-bigu{font-family:var(--font-mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:8px}
@@ -2303,7 +2301,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782836041390">
+<meta name="sc-build" content="1782836942472">
 </head>
 <body>
   <main class="wrap">
@@ -4734,8 +4732,7 @@
       // season / serial / flight-route / "room" / resident stamp, and no guessed
       // home city (that belongs in onboarding). Everything here is real data.
       var s=p.shelves||{wannaSee:[],seen:[],events:[],venues:[]}, st=p.stats||{}, diary=p.diary||[];
-      var handle=p.handle, name=esc(p.displayName||('u/'+handle));
-      var since=st.firstGig?String(new Date(st.firstGig).getFullYear()):'';
+      var handle=p.handle, name=esc(p.displayName||('u/'+handle)), yr=String(new Date().getFullYear());
       var gigs=st.gigs||diary.length||0, thisY=st.thisYear||0;
       var genres=st.topGenres||[], venues=st.topVenues||[], lead=genres[0]||'', hv=venues[0];
       var seenA=s.seen||[], SHOWB=10;
@@ -4746,8 +4743,7 @@
         +(hv?'<div class="tb-fact"><span class="tb-lbl">Home venue</span><b class="tb-fv">'+esc(hv.venue)+' <small>×'+hv.n+'</small></b></div>':'');
       return '<div class="tb-pass tb-card">'+
         '<div class="tb-main">'+
-          '<div class="tb-head"><div class="tb-logo">S</div><b class="tb-wm">soundcheck</b></div>'+
-          '<div class="tb-pax"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-paxL"><div class="tb-name">'+name+'</div><div class="tb-handle">@'+esc(handle)+(since?' · since '+since:'')+'</div></div></div>'+
+          '<div class="tb-head"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-hid"><div class="tb-name">'+name+'</div></div><span class="tb-season">'+yr+' season</span></div>'+
           '<div class="tb-big"><div class="tb-bignum">'+gigs+'</div><div class="tb-bigu">nights logged'+(thisY?' · '+thisY+' this year':'')+'</div></div>'+
           '<div class="tb-counts"><div><b>'+(s.wannaSee||[]).length+'</b><span>wanna see</span></div><div><b>'+seenA.length+'</b><span>seen live</span></div><div><b>'+(s.venues||[]).length+'</b><span>venues</span></div></div>'+
           (facts?'<div class="tb-facts">'+facts+'</div>':'')+
@@ -4781,7 +4777,7 @@
     function pbDiaryPanel(p){
       var diary=p.diary||[], isMe=p.isMe, gigs=(p.stats&&p.stats.gigs)||diary.length||0;
       var head='<div class="pb-p-head"><span class="pb-p-title">Gig diary</span><span class="pb-p-count">'+Math.min(diary.length,6)+' OF '+gigs+' STUBS</span></div>';
-      var prompt=isMe?'<button class="pb-prob" id="pb-quicklog" type="button"><div class="pb-nudge-ic"><i class="ti ti-map-pin" aria-hidden="true"></i></div><div class="pb-prob-tx"><b>Been to a gig?</b><p>Add the night — it grows your card &amp; diary.</p></div><span class="pb-prob-btn">Log a gig</span></button>':'';
+      var prompt=isMe?'<button class="pb-prob" id="pb-quicklog" type="button"><div class="pb-nudge-ic"><i class="ti ti-map-pin" aria-hidden="true"></i></div><div class="pb-prob-tx"><b>Been to a gig?</b><p>Add the night — get recommendations of similar artists.</p></div><span class="pb-prob-btn">Log a gig</span></button>':'';
       var stubs=diary.slice(0,6).map(pbStubHTML).join('')||'<div class="empty" style="padding:8px 2px">No gigs logged yet.</div>';
       var more=diary.length>6?'<button class="pb-addrow" id="pb-seeall" type="button"><i class="ti ti-arrow-right" aria-hidden="true"></i> See all '+diary.length+' gigs</button>':(isMe&&diary.length?'<button class="pb-addrow" id="pb-addrow" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Log a gig you went to</button>':'');
       return head+prompt+'<div class="pb-stubs">'+stubs+more+'</div>';
@@ -4815,8 +4811,7 @@
       return '<div class="pb-root">'+
         '<div class="pb-cover"><div class="pb-cover-actions"><button class="pb-ghost" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button>'+actions+'</div></div>'+
         '<div class="pb-hero">'+tasteCardHTML(p)+
-          '<div class="pb-sharebar"><button class="pb-share" id="pb-share" type="button"><span class="pb-ic"><i class="ti ti-share-2" aria-hidden="true"></i></span><span><span class="pb-share-t">'+shareLabel+'</span><span class="pb-share-s">screenshot-ready · scan to follow · '+(new Date().getFullYear())+' edition</span></span></button>'+
-          (isMe?'<button class="pb-log" id="pb-log" type="button"><span class="pb-plus">+</span> Log a gig</button>':'')+'</div>'+
+          '<div class="pb-sharebar"><button class="pb-share" id="pb-share" type="button"><span class="pb-ic"><i class="ti ti-share-2" aria-hidden="true"></i></span><span class="pb-share-t">'+shareLabel+'</span></button></div>'+
           (isMe?pbNudgeHTML(p):'')+
         '</div>'+
         '<div class="pb-side">'+pbStatTiles(p)+'<div class="pb-panels" id="pb-panels"></div></div>'+
