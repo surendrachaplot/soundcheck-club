@@ -2252,9 +2252,35 @@
   .pb-meter{min-width:44px;max-width:none}
 }
 
+/* ── The taste card is ALWAYS its portrait form inside the profile ──
+   (the boarding-pass content is designed for ~420px; never stretch it 2-col.) */
+.pb-hero .tb-pass{grid-template-columns:1fr;max-width:440px;margin:0 auto}
+.pb-hero .tb-main{padding:22px 20px 18px}
+.pb-hero .tb-perf{width:auto;height:0}
+.pb-hero .tb-perf::before{top:-1px;left:0;right:0;bottom:auto;width:auto;height:2px;background-image:radial-gradient(circle,var(--border) 0 1px,transparent 1.5px);background-size:9px 2px;background-repeat:repeat-x}
+.pb-hero .tb-perf::after{display:none}
+.pb-hero .tb-stub{border-left:0;border-top:1px dashed var(--border);flex-direction:row;flex-wrap:wrap;align-items:flex-end;gap:14px 20px}
+.pb-hero .tb-stub .tb-lbl{width:100%;margin-bottom:0}
+.pb-hero .tb-bignum{font-size:54px}
+.pb-hero .tb-stubrow{border-top:0;padding-top:0;margin-top:0;flex:1 1 auto;justify-content:flex-end}
+.pb-hero .tb-serial{margin-top:0;padding-top:0;width:100%}
+.pb-sharebar{max-width:440px;margin-left:auto;margin-right:auto}
+.pb-nudge{max-width:440px;margin-left:auto;margin-right:auto}
+
+/* ── Desktop: two columns — ticket on the left, your library on the right ── */
+.pb-side{display:contents}
+@media (min-width:880px){
+  .pb-root{display:grid;grid-template-columns:472px minmax(0,1fr);column-gap:34px;row-gap:0;max-width:1080px;padding-left:24px;padding-right:24px;align-items:start}
+  .pb-cover{grid-column:1 / -1}
+  .pb-hero{grid-column:1;padding:18px 0 0}
+  .pb-hero .tb-pass,.pb-sharebar,.pb-nudge{max-width:none}
+  .pb-side{display:flex;flex-direction:column;gap:16px;grid-column:2;padding-top:18px;min-width:0}
+  .pb-tiles{grid-template-columns:repeat(2,1fr)}
+}
+
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782834448955">
+<meta name="sc-build" content="1782835347010">
 </head>
 <body>
   <main class="wrap">
@@ -4770,8 +4796,7 @@
           (isMe?'<button class="pb-log" id="pb-log" type="button"><span class="pb-plus">+</span> Log a gig</button>':'')+'</div>'+
           (isMe?pbNudgeHTML(p):'')+
         '</div>'+
-        pbStatTiles(p)+
-        '<div class="pb-panels" id="pb-panels"></div>'+
+        '<div class="pb-side">'+pbStatTiles(p)+'<div class="pb-panels" id="pb-panels"></div></div>'+
       '</div>';
     }
     function wirePbProfile(p){
