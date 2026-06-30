@@ -2258,6 +2258,16 @@
 .tb-hid{flex:1;min-width:0}
 .tb-hid .tb-name{font-family:var(--head);font-weight:800;font-size:22px;line-height:1;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--fg)}
 .tb-season{flex:0 0 auto;font-family:var(--font-mono);font-size:9px;letter-spacing:.13em;text-transform:uppercase;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:5px 11px;background:rgba(255,122,107,.07);white-space:nowrap}
+.tb-hsub{font:500 .72rem var(--font-mono,monospace);color:var(--muted);margin-top:5px;letter-spacing:.03em}
+/* diary: link to the logged event next to the venue */
+.pb-ds-ev{display:inline-block;margin-left:8px;color:var(--accent);font:600 .66rem var(--body);cursor:pointer;vertical-align:middle;white-space:nowrap}
+.pb-ds-ev:hover{text-decoration:underline}
+.dv-event{background:none;border:0;color:var(--accent);font:inherit;cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:2px}
+.dv-sep{color:var(--muted);margin:0 3px}
+/* artist page: "Festivals played" → YouTube set link */
+.fest-list .gh-venue{font-weight:600}
+.gh-yt{margin-left:auto;flex:0 0 auto;color:var(--accent);font:700 .72rem var(--body);text-decoration:none;display:inline-flex;align-items:center;gap:4px;padding:4px 10px;border:1px solid var(--border);border-radius:999px}
+.gh-yt:hover{border-color:var(--accent)}
 .tb-big{margin:2px 0 14px}
 .tb-big .tb-bignum{font-size:58px}
 .tb-bigu{font-family:var(--font-mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:8px}
@@ -2301,7 +2311,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782836942472">
+<meta name="sc-build" content="1782838457734">
 </head>
 <body>
   <main class="wrap">
@@ -3647,7 +3657,7 @@
       if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
       else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
       if(currentUser||anonUser) await hydrateShelf();
-      if(currentUser) maybePromptHandle();
+      if(currentUser){ maybePromptHandle(); if(currentUser.handleClaimed) maybePromptHomeCity(); }
       applyPrefCity();
       adoptLegacyLocal();
     }
@@ -3769,7 +3779,7 @@
           var j=await r.json();
           if(!r.ok){ err.textContent=j.error||'Could not save.'; go.disabled=false; return; }
           currentUser.handle=j.handle; currentUser.handleClaimed=true;
-          renderAccount(); showToast('You’re u/'+j.handle); close();
+          renderAccount(); showToast('You’re u/'+j.handle); close(); maybePromptHomeCity();
         }catch(_){ err.textContent='Could not save.'; go.disabled=false; }
       });
       setTimeout(function(){ input.focus(); input.select(); },50);
@@ -3780,6 +3790,42 @@
       if(!currentUser || currentUser.handleClaimed) return;
       if(prefs.handlePrompted) return;
       setTimeout(function(){ if(currentUser && !currentUser.handleClaimed) openHandleModal(false); }, 800);
+    }
+    // ── home city: asked once in onboarding (after handle), changeable in settings.
+    // Stored in prefs.homeCity; surfaced on the taste card as "Based in {city}".
+    function openCityModal(isChange){
+      if(!currentUser) return;
+      var cur=(prefs&&prefs.homeCity)||'';
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      var opts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){ return '<option value="'+esc(c.slug)+'"'+(c.slug===cur?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
+      ov.innerHTML='<div class="auth-box">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">'+(isChange?'Change home city':'Your home base')+'</div>'+
+        '<h3>Where do you go out?</h3>'+
+        '<p>Sets your home scene and shows on your card &mdash; change it anytime.</p>'+
+        '<div class="handle-field"><select id="cm-sel" style="width:100%;background:none;border:0;color:var(--fg);font:inherit;padding:7px 4px">'+opts+'</select></div>'+
+        '<button class="go" id="cm-go" type="button">Save home city</button>'+
+        (isChange?'':'<button id="cm-skip" type="button" style="display:block;width:100%;background:none;border:0;color:var(--muted);font:600 var(--fs-xs) var(--body);margin-top:12px;cursor:pointer">Skip for now</button>')+
+      '</div>';
+      document.body.appendChild(ov);
+      setPref('homeCityPrompted',1);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      var sk=ov.querySelector('#cm-skip'); if(sk) sk.addEventListener('click',close);
+      ov.querySelector('#cm-go').addEventListener('click',function(){
+        var slug=ov.querySelector('#cm-sel').value;
+        setPref('homeCity',slug);
+        if(currentUser){ currentUser.prefs=currentUser.prefs||{}; currentUser.prefs.homeCity=slug; }
+        showToast('Home base set to '+cityLabel(slug)); close();
+        if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
+      });
+      setTimeout(function(){ var s=ov.querySelector('#cm-sel'); if(s) s.focus(); },50);
+    }
+    function maybePromptHomeCity(){
+      if(!currentUser) return;
+      if(prefs.homeCity || prefs.homeCityPrompted) return;
+      setTimeout(function(){ if(currentUser && !prefs.homeCity && !prefs.homeCityPrompted) openCityModal(false); }, 1200);
     }
 
     // ── claim a venue page (owner / team lead) ──
@@ -4640,6 +4686,7 @@
       var da=document.getElementById('pd-diary-all'); if(da) da.addEventListener('click',function(){ openDiaryPage(p.handle, p.isMe); });
       var gear=document.getElementById('pd-gear'); if(gear) gear.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
+        { label:'Change home city', run:function(){ openCityModal(true); } },
         { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
         { label:'Feed', run:function(){ openFeed(); } },
         { label:'Sign out', run:function(){ signOut(); } }
@@ -4680,9 +4727,10 @@
       return '<div class="prof-tl">'+diary.map(function(d,i){
         var dl=diaryDateLabel(d), arts=diaryValid(d);
         var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var ev = d.event_id ? '<button class="dv-event" type="button" data-event-id="'+esc(String(d.event_id))+'">View event</button>' : '';
         var tiles = arts.length ? '<div class="ptiles ptiles-wide" style="margin-top:11px">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
         var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
-        return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card">'+del+'<div class="vn">'+vn+'</div>'+(dl?'<div class="mt">'+esc(dl)+'</div>':'')+tiles+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>';
+        return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card">'+del+'<div class="vn">'+vn+(ev?' <span class="dv-sep">·</span> '+ev:'')+'</div>'+(dl?'<div class="mt">'+esc(dl)+'</div>':'')+tiles+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>';
       }).join('')+'</div>';
     }
     // Wire a rendered diary: artist tiles → artist page, venue → venue page, and
@@ -4691,6 +4739,7 @@
       if(!scope) return;
       scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       scope.querySelectorAll('[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+      scope.querySelectorAll('[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
       if(isMe) scope.querySelectorAll('[data-del]').forEach(function(b){ b.addEventListener('click',function(e){
         e.stopPropagation(); var id=b.dataset.del; if(!id) return;
         if(!confirm('Remove this gig from your diary?')) return;
@@ -4739,11 +4788,12 @@
       var bubbles=seenA.slice(0,SHOWB).map(function(a){ return '<div class="tb-abub" data-artist="'+esc(a.slug||'')+'">'+tcBub(a)+'<span class="tb-abn">'+esc(a.name||a.slug)+'</span></div>'; }).join('')
         + (seenA.length>SHOWB?'<div class="tb-abub tb-abmore"><span class="tb-ab tb-abx">+'+(seenA.length-SHOWB)+'</span><span class="tb-abn">more</span></div>':'');
       var qr=API_BASE+'/api/qr?u='+encodeURIComponent(handle), avbg=avatarBg(handle,p.avatar);
+      var home=st.homeCity?cityLabel(st.homeCity):'';
       var facts=(lead?'<div class="tb-fact"><span class="tb-lbl">Top genre</span><b class="tb-fv tb-lead">'+esc(lead)+'</b></div>':'')
         +(hv?'<div class="tb-fact"><span class="tb-lbl">Home venue</span><b class="tb-fv">'+esc(hv.venue)+' <small>×'+hv.n+'</small></b></div>':'');
       return '<div class="tb-pass tb-card">'+
         '<div class="tb-main">'+
-          '<div class="tb-head"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-hid"><div class="tb-name">'+name+'</div></div><span class="tb-season">'+yr+' season</span></div>'+
+          '<div class="tb-head"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-hid"><div class="tb-name">'+name+'</div>'+(home?'<div class="tb-hsub">Based in '+esc(home)+'</div>':'')+'</div><span class="tb-season">'+yr+' season</span></div>'+
           '<div class="tb-big"><div class="tb-bignum">'+gigs+'</div><div class="tb-bigu">nights logged'+(thisY?' · '+thisY+' this year':'')+'</div></div>'+
           '<div class="tb-counts"><div><b>'+(s.wannaSee||[]).length+'</b><span>wanna see</span></div><div><b>'+seenA.length+'</b><span>seen live</span></div><div><b>'+(s.venues||[]).length+'</b><span>venues</span></div></div>'+
           (facts?'<div class="tb-facts">'+facts+'</div>':'')+
@@ -4772,7 +4822,8 @@
       var day=dt?String(dt.getDate()).padStart(2,'0'):'–', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'';
       var arts=(typeof diaryValid==='function')?diaryValid(d):(d.artists||[]);
       var names=arts.slice(0,4).map(function(a){return a.name||a.slug;}).join(' · ')+(arts.length>4?' +'+(arts.length-4):'');
-      return '<div class="pb-ds"'+(d.venue?' data-venue="'+esc(d.venue)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-venue">'+(d.venue?esc(d.venue):'Gig')+'</div><div class="pb-ds-line">'+esc(names||'—')+'</div></div></div>';
+      var evl = d.event_id ? '<a class="pb-ds-ev" data-event-id="'+esc(String(d.event_id))+'">view event ›</a>' : '';
+      return '<div class="pb-ds"'+(d.venue?' data-venue="'+esc(d.venue)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-venue">'+(d.venue?esc(d.venue):'Gig')+evl+'</div><div class="pb-ds-line">'+esc(names||'—')+'</div></div></div>';
     }
     function pbDiaryPanel(p){
       var diary=p.diary||[], isMe=p.isMe, gigs=(p.stats&&p.stats.gigs)||diary.length||0;
@@ -4825,6 +4876,7 @@
       var lg=document.getElementById('pb-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
+        { label:'Change home city', run:function(){ openCityModal(true); } },
         { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
         { label:'Feed', run:function(){ openFeed(); } },
         { label:'Sign out', run:function(){ signOut(); } }
@@ -4833,6 +4885,7 @@
       function wirePanel(key){
         panels.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         panels.querySelectorAll('.pb-ds[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+        panels.querySelectorAll('.pb-ds-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
         var ql=document.getElementById('pb-quicklog'); if(ql) ql.addEventListener('click',function(){ openLog(); });
         var ar=document.getElementById('pb-addrow'); if(ar) ar.addEventListener('click',function(){ openLog(); });
         var sa=document.getElementById('pb-seeall'); if(sa) sa.addEventListener('click',function(){ openDiaryPage(p.handle, p.isMe); });
@@ -5486,6 +5539,17 @@
             '<div id="similar-rail"></div>';
         }
         h+='<div id="ap-upcoming"></div>';
+        // Festivals played — curated major-festival matches from past events, each
+        // with a link to find that set on YouTube + the event page.
+        if((a.festivals||[]).length){
+          h+='<div class="sec-h" style="margin-top:26px">Festivals played</div><ul class="gig-history fest-list">'+a.festivals.map(function(f){
+            var yr=f.event_date?String(f.event_date).slice(0,4):'';
+            var yt='https://www.youtube.com/results?search_query='+encodeURIComponent((a.name||slug)+' '+f.name+' set');
+            return '<li class="gh-row"><span class="gh-date">'+esc(yr)+'</span>'+
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(f.id))+'">'+esc(f.name)+(f.city?' <small>'+esc(cityLabel(f.city))+'</small>':'')+'</button>'+
+              '<a class="gh-yt" href="'+yt+'" target="_blank" rel="noopener noreferrer" title="Find this set on YouTube"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" style="width:14px;height:14px;vertical-align:-2px"><path d="M8 5v14l11-7z"/></svg> Set</a></li>';
+          }).join('')+'</ul>';
+        }
         // Past sets — the gig-history timeline.
         if((a.history||[]).length){
           h+='<div class="sec-h" style="margin-top:26px">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
@@ -6249,7 +6313,7 @@
       var btn=document.getElementById('lg-save'); btn.disabled=true; document.getElementById('lg-err').textContent='';
       try{
         var r=await authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
-          date:lgSel.date||null, venue:lgSel.venue||null,
+          date:lgSel.date||null, venue:lgSel.venue||null, event_id:(lgSel.id!=null?String(lgSel.id):null),
           note:document.getElementById('lg-note').value.trim()||null, artists:lgArtists }) });
         var j=await r.json().catch(function(){return{};});
         if(!r.ok){ document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
