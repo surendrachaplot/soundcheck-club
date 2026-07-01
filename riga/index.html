@@ -1437,10 +1437,12 @@
     .lg-field input, .lg-field textarea { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
     .lg-field textarea { resize:vertical; min-height:72px; }
-    .lg-modes { margin:0; }   /* reuse the .cal-modes pill toggle, no extra bottom gap in the form */
     .lg-rangebtn { display:inline-flex; align-items:center; gap:9px; width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:600 var(--fs-md) var(--body); cursor:pointer; text-align:left; transition:border-color .12s; }
     .lg-rangebtn:hover { border-color:var(--accent); }
     .lg-rangebtn svg { width:var(--icon-sm); height:var(--icon-sm); color:var(--accent); flex:0 0 auto; }
+    .lg-opt { text-transform:none; letter-spacing:0; color:var(--muted); font-weight:500; margin-left:4px; }
+    .lg-find { width:100%; background:var(--surface-2); color:var(--fg); border:1px solid var(--border); border-radius:10px; padding:12px; font:700 var(--fs-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; margin-top:4px; transition:border-color .12s, color .12s; }
+    .lg-find:hover { border-color:var(--accent); color:var(--accent); }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
     .lg-select:focus { border-color:var(--accent); }
     /* preselected-night summary (from a "+ Log" button) */
@@ -2330,7 +2332,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782917734151">
+<meta name="sc-build" content="1782918660321">
 </head>
 <body>
   <main class="wrap">
@@ -6112,7 +6114,7 @@
     // ---- log a gig ----
     // ── Log a gig — full page (was a modal) ──
     var lgArtists=[], lgSel=null, lgEventList=[], _logHint=null, lgPickedArtist=null;
-    var lgSearchMode='artist', lgVenue=null, lgRange=null;   // 'artist' | 'venue' (venue adds a date range)
+    var lgVenue=null, lgRange=null;   // unified filter: lgPickedArtist + lgVenue + lgRange are all optional (≥1)
     function debounce(fn, ms){ var t; return function(){ var a=arguments, c=this; clearTimeout(t); t=setTimeout(function(){ fn.apply(c,a); }, ms); }; }
     function pubGet(path){ return fetch(API_BASE+path).then(function(r){ return r.json(); }).catch(function(){ return {}; }); }
     function attachSuggest(input, drop, fetcher, onPick){
@@ -6168,17 +6170,17 @@
     function logFormHTML(){
       return '<h2 class="page-title">Log a gig</h2>'+
         (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Add the night you caught <b>'+esc(_logHint)+'</b></div>':'')+
-        '<div class="sub" style="margin-bottom:16px">Find the night by the DJ you saw, the venue you went to, or the event itself &mdash; tap the one you were at; it lands in your diary and marks the line-up as seen.</div>'+
+        '<div class="sub" style="margin-bottom:16px">Fill in what you remember &mdash; the DJ, the venue, or roughly when. Any one is enough; add more to narrow it down.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
           '<div id="lg-pickers">'+
-            '<div class="lg-field"><label>Search by</label><div class="cal-modes lg-modes"><button type="button" data-lgmode="artist" class="'+(lgSearchMode==='artist'?'on':'')+'">Artist</button><button type="button" data-lgmode="venue" class="'+(lgSearchMode==='venue'?'on':'')+'">Venue</button><button type="button" data-lgmode="event" class="'+(lgSearchMode==='event'?'on':'')+'">Event</button></div></div>'+
-            '<div class="lg-field lg-by-artist"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
-            '<div class="lg-field lg-by-artist"><label>Artist</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
-            '<div class="lg-field lg-by-venue" style="display:none"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search any venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
-            '<div class="lg-field lg-by-venue" style="display:none"><label>When?</label><button type="button" id="lg-range" class="lg-rangebtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg><span id="lg-range-lbl">Pick a date range</span></button></div>'+
-            '<div class="lg-field lg-by-event" style="display:none"><label>Event</label><div class="sg-wrap"><input type="text" id="lg-event-in" placeholder="Search the event…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-event-drop"></div></div></div>'+
-            '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
+            '<div class="lg-field"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
+            '<div class="lg-field"><label>Artist <small class="lg-opt">optional</small></label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
+            '<div class="lg-field"><label>Venue <small class="lg-opt">optional</small></label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search any venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+            '<div class="lg-field"><label>Date <small class="lg-opt">optional</small></label><button type="button" id="lg-range" class="lg-rangebtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg><span id="lg-range-lbl">Add a date range</span></button></div>'+
+            '<button type="button" id="lg-find" class="lg-find">Find nights</button>'+
+            '<div class="err" id="lg-find-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+            '<div class="lg-field" id="lg-events-field" style="display:none;margin-top:16px"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
             '<div class="lg-field" id="lg-lineup-field"><label>Who did you see?</label><div class="lg-chips" id="lg-lineup"></div></div>'+
@@ -6194,12 +6196,7 @@
     // Render the artist's indexed nights as a selectable list.
     function renderLgEvents(){
       var el=document.getElementById('lg-events'); if(!el) return;
-      if(!lgEventList.length){
-        var em = lgSearchMode==='venue'
-          ? (lgVenue?('No indexed nights at '+esc(lgVenue.name)+(lgRange?' in that date range':'')+' — try a wider range or another venue.'):'No nights found — try another.')
-          : (lgPickedArtist?('No indexed nights for '+esc(lgPickedArtist.name)+' in this city in the last 3 years — try another city.'):'No nights found — try another.');
-        el.innerHTML='<div class="empty" style="padding:6px 0">'+em+'</div>'+lgAddEvHTML(); return;
-      }
+      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">No nights matched those filters — try fewer, a wider date range, or add the event below.</div>'+lgAddEvHTML(); return; }
       el.innerHTML=lgEventList.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
         var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
@@ -6225,32 +6222,22 @@
       document.getElementById('lg-extra').style.display='';
       renderLgLineup(); renderLgEvents();
     }
-    // Load every past night (last 3 years) this artist played in the chosen city.
-    function loadLgArtistGigs(artist){
-      lgSel=null; lgEventList=[]; lgPickedArtist=artist;
-      var city=document.getElementById('lg-city').value;
-      var ai=document.getElementById('lg-artist-in'); if(ai) ai.value=artist.name;
-      var field=document.getElementById('lg-events-field'); field.style.display='';
-      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
-      document.getElementById('lg-extra').style.display='none';
-      pubGet('/api/artist/gigs?slug='+encodeURIComponent(artist.slug)+'&city='+encodeURIComponent(city)).then(function(j){
-        lgEventList=(j&&j.gigs)||[]; renderLgEvents();
-      }).catch(function(){ lgEventList=[]; renderLgEvents(); });
-    }
-    // Load nights at the chosen venue within the picked date range. Needs both a
-    // venue and a range set; otherwise it waits for the missing one.
-    function loadLgVenueGigs(){
-      if(!lgVenue || !lgRange) return;
+    // Unified search: whatever of {artist, venue, date range} is filled → matching
+    // past nights (all optional, ≥1 required). Venue pins the city; else scoped to
+    // the selected city (server-side).
+    function lgFind(){
+      var err=document.getElementById('lg-find-err'); if(err) err.textContent='';
+      var hasDate = lgRange && lgRange[0] && lgRange[1];
+      if(!lgPickedArtist && !lgVenue && !hasDate){ if(err) err.textContent='Add an artist, venue, or date to search.'; return; }
+      var qs='city='+encodeURIComponent(document.getElementById('lg-city').value);
+      if(lgPickedArtist) qs+='&artist='+encodeURIComponent(lgPickedArtist.slug);
+      if(lgVenue) qs+='&venue='+encodeURIComponent(lgVenue.slug||lgVenue.name);
+      if(hasDate) qs+='&from='+lgRange[0]+'&to='+lgRange[1];
       lgSel=null; lgEventList=[];
       var field=document.getElementById('lg-events-field'); field.style.display='';
-      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
+      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Finding nights…</div>';
       document.getElementById('lg-extra').style.display='none';
-      // Look up by the venue's unique slug (a venue lives in one city) — the header
-      // city is irrelevant here, so any venue in the world works.
-      var vq = lgVenue.slug ? ('slug='+encodeURIComponent(lgVenue.slug)) : ('name='+encodeURIComponent(lgVenue.name));
-      pubGet('/api/venue/gigs?'+vq+'&from='+lgRange[0]+'&to='+lgRange[1]).then(function(j){
-        lgEventList=(j&&j.gigs)||[]; renderLgEvents();
-      }).catch(function(){ lgEventList=[]; renderLgEvents(); });
+      pubGet('/api/log/search?'+qs).then(function(j){ lgEventList=(j&&j.gigs)||[]; renderLgEvents(); }).catch(function(){ lgEventList=[]; renderLgEvents(); });
     }
     // Coming from a "+ Log" button on a past event: skip the pickers, pull the
     // event's lineup and pre-select it so it's a note-and-save away. Marks the
@@ -6339,17 +6326,18 @@
     }
     function openLog(prefill){
       setRoute('log');
-      lgArtists=(prefill&&prefill.artist&&prefill.artist.slug)?[prefill.artist]:[]; lgSel=null; lgEventList=[]; lgPickedArtist=null;
-      lgSearchMode='artist'; lgVenue=null; lgRange=null;
+      lgArtists=(prefill&&prefill.artist&&prefill.artist.slug)?[prefill.artist]:[]; lgSel=null; lgEventList=[];
+      lgPickedArtist=(prefill&&prefill.artist&&prefill.artist.slug)?prefill.artist:null; lgVenue=null; lgRange=null;
       _logHint = (prefill&&prefill.seenName) ? prefill.seenName : (prefill&&prefill.artist?prefill.artist.name:null);
       showPage(logFormHTML());
       wireLog();
-      if(prefill&&prefill.eventId) preselectLogEvent(prefill.eventId);
-      // Coming from an artist (e.g. their seen panel) — jump straight to that DJ's nights in this city.
-      else if(prefill&&prefill.artist&&prefill.artist.slug) loadLgArtistGigs(prefill.artist);
+      if(prefill&&prefill.eventId){ preselectLogEvent(prefill.eventId); return; }
+      // Coming from an artist (e.g. their seen panel) — seed the artist filter + search now.
+      if(lgPickedArtist){ var ai=document.getElementById('lg-artist-in'); if(ai) ai.value=lgPickedArtist.name; lgFind(); }
     }
     function wireLog(){
       document.getElementById('lg-save').addEventListener('click',saveLog);
+      document.getElementById('lg-find').addEventListener('click',lgFind);
       // Toggle which acts you actually saw (chips); only the lit ones get logged + marked seen.
       document.getElementById('lg-lineup').addEventListener('click',function(e){
         var b=e.target.closest('[data-aslug]'); if(!b) return;
@@ -6357,53 +6345,31 @@
         if(lgArtistOn(slug)){ lgArtists=lgArtists.filter(function(a){ return a.slug!==slug; }); b.classList.remove('on'); }
         else { lgArtists.push({ slug:slug, name:b.dataset.aname }); b.classList.add('on'); }
       });
-      // City change — re-run whichever search is active (artist, or venue+range).
-      wireCityPicker('lg-city', function(){
-        if(lgSearchMode==='venue'){ if(lgVenue && lgRange) loadLgVenueGigs(); else lgResetEvents(); return; }
-        if(lgPickedArtist){ loadLgArtistGigs(lgPickedArtist); return; }
-        lgResetEvents();
-      });
-      // Pick one of the indexed nights — or add the event if it's missing.
+      // City change — re-run the search if any filter is set + results are showing.
+      wireCityPicker('lg-city', function(){ if((lgPickedArtist||lgVenue||lgRange) && document.getElementById('lg-events-field').style.display!=='none') lgFind(); });
+      // Pick one of the matched nights — or add the event if it's missing.
       document.getElementById('lg-events').addEventListener('click',function(e){
         if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:(lgPickedArtist&&lgPickedArtist.name)||null, venue:(lgVenue&&lgVenue.name)||null }); return; }
         var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]);
       });
-      // Search-by toggle: Artist / Venue / Event — swaps the picker fields, resets results.
-      var modes=document.querySelector('.lg-modes');
-      if(modes) modes.addEventListener('click',function(e){
-        var b=e.target.closest('[data-lgmode]'); if(!b || b.dataset.lgmode===lgSearchMode) return;
-        lgSearchMode=b.dataset.lgmode;
-        modes.querySelectorAll('[data-lgmode]').forEach(function(x){ x.classList.toggle('on', x.dataset.lgmode===lgSearchMode); });
-        document.querySelectorAll('.lg-by-artist').forEach(function(el){ el.style.display = lgSearchMode==='artist'?'':'none'; });
-        document.querySelectorAll('.lg-by-venue').forEach(function(el){ el.style.display = lgSearchMode==='venue'?'':'none'; });
-        document.querySelectorAll('.lg-by-event').forEach(function(el){ el.style.display = lgSearchMode==='event'?'':'none'; });
-        lgPickedArtist=null; lgVenue=null; lgRange=null;
-        var ai=document.getElementById('lg-artist-in'); if(ai) ai.value='';
-        var vi=document.getElementById('lg-venue-in'); if(vi) vi.value='';
-        var ei=document.getElementById('lg-event-in'); if(ei) ei.value='';
-        var rl=document.getElementById('lg-range-lbl'); if(rl) rl.textContent='Pick a date range';
-        lgResetEvents();
-      });
-      // Artist picker — type-ahead; pick loads their nights in the city.
-      attachSuggest(document.getElementById('lg-artist-in'), document.getElementById('lg-artist-drop'),
+      // Artist filter (optional) — type-ahead; pick stores it. Clearing the box drops the filter.
+      var artIn=document.getElementById('lg-artist-in');
+      attachSuggest(artIn, document.getElementById('lg-artist-drop'),
         function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return { slug:a.slug, name:a.name, label:esc(a.name) }; }); }); },
-        function(pick){ if(pick&&pick.slug) loadLgArtistGigs({ slug:pick.slug, name:pick.name }); });
-      // Venue picker — type-ahead over EVERY venue worldwide (not just the header city);
-      // the suggestion shows the venue's own city, and pick + range → its nights.
-      attachSuggest(document.getElementById('lg-venue-in'), document.getElementById('lg-venue-drop'),
+        function(pick){ if(pick&&pick.slug){ lgPickedArtist={ slug:pick.slug, name:pick.name }; artIn.value=pick.name; } });
+      artIn.addEventListener('input',function(){ if(lgPickedArtist && artIn.value.trim()!==lgPickedArtist.name) lgPickedArtist=null; });
+      // Venue filter (optional) — search EVERY venue worldwide; the suggestion shows its city.
+      var venIn=document.getElementById('lg-venue-in');
+      attachSuggest(venIn, document.getElementById('lg-venue-drop'),
         function(q){ return pubGet('/api/venues?q='+encodeURIComponent(q)).then(function(j){ return (j.venues||[]).map(function(v){ var loc=[v.area, cityLabel(v.city)].filter(Boolean).join(', '); return { name:v.name, slug:v.slug||v.name, city:v.city||'', label:esc(v.name)+(loc?(' <small>'+esc(loc)+'</small>'):'') }; }); }); },
-        function(pick){ if(!pick) return; lgVenue={ name:pick.name, slug:pick.slug, city:pick.city }; document.getElementById('lg-venue-in').value=pick.name; if(lgRange) loadLgVenueGigs(); });
-      // Event picker — search events directly by title/venue; pick = that night, straight to the line-up.
-      attachSuggest(document.getElementById('lg-event-in'), document.getElementById('lg-event-drop'),
-        function(q){ return pubGet('/api/gigs?q='+encodeURIComponent(q)).then(function(j){ return (j.gigs||[]).map(function(g){ var d=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):''; var sub=[g.venue,d].filter(Boolean).join(' · '); return { id:g.event_id, title:g.title, venue:g.venue, event_date:g.event_date, lineup:g.artists||[], label:esc(g.title||'Event')+(sub?(' <small>'+esc(sub)+'</small>'):'') }; }); }); },
-        function(pick){ if(!pick) return; document.getElementById('lg-event-in').value=pick.title||''; selectLgEvent({ id:pick.id, title:pick.title, venue:pick.venue, event_date:pick.event_date, lineup:pick.lineup }); });
-      // Date-range button → the same home-page calendar, in range mode with past dates allowed.
+        function(pick){ if(!pick) return; lgVenue={ name:pick.name, slug:pick.slug, city:pick.city }; venIn.value=pick.name; });
+      venIn.addEventListener('input',function(){ if(lgVenue && venIn.value.trim()!==lgVenue.name) lgVenue=null; });
+      // Date filter (optional) → the same home-page calendar, range mode, past dates allowed.
       var rangeBtn=document.getElementById('lg-range');
       if(rangeBtn) rangeBtn.addEventListener('click',function(){
         openCal({ allowPast:true, rangeStart:lgRange&&lgRange[0], rangeEnd:lgRange&&lgRange[1], onRange:function(from,to){
           lgRange=[from,to];
           var lbl=document.getElementById('lg-range-lbl'); if(lbl) lbl.textContent=fmtRange(from,to);
-          if(lgVenue) loadLgVenueGigs();
         } });
       });
     }
