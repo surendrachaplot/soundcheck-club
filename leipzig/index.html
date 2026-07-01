@@ -1496,6 +1496,7 @@
     .rc-hint { font:500 12px var(--body); color:var(--muted); }
     /* ── profile: boxed cards (app design system) ── */
     .pf { max-width:640px; margin:0 auto; padding:14px 14px 48px; display:flex; flex-direction:column; gap:14px; }
+    .pf-cols { display:flex; flex-direction:column; gap:14px; }
     .pf-box { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:17px 18px; }
     .pf .pb-rot { margin:0; }
     .pf .pb-rot-inner { padding:17px 18px; }
@@ -1518,6 +1519,14 @@
     .pf-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(84px,1fr)); gap:18px 12px; }
     .pf-stubs { display:flex; flex-direction:column; }
     .pf-more { display:block; width:100%; margin-top:14px; background:none; border:none; color:var(--accent); font:700 12px var(--body); cursor:pointer; text-align:center; padding:6px; }
+    /* Desktop: use the width — identity + rotation full-width, the rest a 2-col bento */
+    @media (min-width:900px) {
+      .pf { max-width:960px; padding:20px 20px 56px; gap:16px; }
+      .pf-id-acts { justify-content:flex-start; }
+      .pf-id-acts .pf-btn { flex:0 0 auto; padding:0 20px; }
+      .pf-cols { display:block; column-count:2; column-gap:16px; }
+      .pf-cols > .pf-box { break-inside:avoid; margin:0 0 16px; }
+    }
     .rc-box.tc-box .pb-hero { padding:0; }
     .rc-box.tc-box .tb-pass { max-width:none; width:100%; margin:0; grid-template-columns:1fr; }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
@@ -2409,7 +2418,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782938155822">
+<meta name="sc-build" content="1782938506532">
 </head>
 <body>
   <main class="wrap">
@@ -5062,11 +5071,13 @@
           '<div class="pf-id-acts">'+acts+'</div>'+
         '</div>'+
         pbRotationHTML(p)+
-        '<div class="pf-box" id="pf-diary"></div>'+
-        '<div class="pf-box" id="pf-seen"></div>'+
-        '<div class="pf-box" id="pf-wanna"></div>'+
-        '<div class="pf-box" id="pf-venues"></div>'+
-        '<div class="pf-box" id="pf-events"></div>'+
+        '<div class="pf-cols">'+
+          '<div class="pf-box" id="pf-diary"></div>'+
+          '<div class="pf-box" id="pf-seen"></div>'+
+          '<div class="pf-box" id="pf-wanna"></div>'+
+          '<div class="pf-box" id="pf-venues"></div>'+
+          '<div class="pf-box" id="pf-events"></div>'+
+        '</div>'+
       '</div>';
     }
     function pfHead(title, count, actHtml){ return '<div class="pf-h"><span class="pf-h-t">'+esc(title)+'</span>'+(count!=null?'<span class="pf-h-ct">'+count+'</span>':'')+(actHtml||'')+'</div>'; }
