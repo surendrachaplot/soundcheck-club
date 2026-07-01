@@ -1483,6 +1483,28 @@
     .rotp-share-tx b { font:800 14px var(--head); }
     .rotp-share-tx span { font:600 11px var(--font-mono,monospace); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .rotp-share-tx .pb-rot-btn { margin-top:8px; align-self:flex-start; }
+    /* ── profile: sidebar (card + actions) + feed ── */
+    .pb-root2 { max-width:1080px; margin:0 auto; padding:0 16px 44px; }
+    .pb-cover2 { display:flex; align-items:center; gap:12px; padding:12px 2px 8px; }
+    .pb-cov-brand { font:800 15px var(--head); letter-spacing:0.02em; }
+    .pb-ghost2 { margin-left:auto; background:var(--surface-2); border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:7px 13px; font:600 12px var(--body); cursor:pointer; display:inline-flex; gap:6px; align-items:center; }
+    .pb-side-l { margin-bottom:24px; }
+    .pb-side-l .pb-hero { padding:0; }
+    .pb-side-l .tb-pass { max-width:none; width:100%; margin:0; }
+    .pb-actbar { display:flex; gap:8px; margin-top:12px; }
+    .pb-actbtn { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:6px; border-radius:11px; padding:11px; font:700 11px var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
+    .pb-actbtn.primary { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .pb-actbtn.follow-btn.following { background:transparent; color:var(--accent); border-color:var(--accent); }
+    .pb-feed > * { margin-bottom:26px; }
+    .pb-feed > *:last-child { margin-bottom:0; }
+    .pb-feed .pb-rot { margin:0; }
+    .pb-feed .pb-rot-inner { background:none; border:none; padding:0; border-radius:0; }
+    @media (min-width:880px) {
+      .pb-root2 { display:grid; grid-template-columns:340px minmax(0,1fr); column-gap:32px; align-items:start; padding-left:22px; padding-right:22px; }
+      .pb-cover2 { grid-column:1 / -1; }
+      .pb-side-l { grid-column:1; position:sticky; top:16px; margin-bottom:0; }
+      .pb-feed { grid-column:2; min-width:0; }
+    }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
     .lg-select:focus { border-color:var(--accent); }
     /* preselected-night summary (from a "+ Log" button) */
@@ -2372,7 +2394,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782928618920">
+<meta name="sc-build" content="1782932519717">
 </head>
 <body>
   <main class="wrap">
@@ -4999,28 +5021,32 @@
         armSticky(nm+' · rotation', rot.length?function(){ rotationPlayAll(rot); }:null, document.getElementById('page-body'));
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that rotation.</div>'); }
     }
+    // Sidebar + feed layout: full taste card + actions pinned left, all sections
+    // (rotation → diary → wanna → seen → venues) stacked as a clean feed on the right.
     function pbProfileHTML(p){
       var isMe=p.isMe;
-      var actions=isMe?'<button class="pb-ghost" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'
-        :'<button class="pb-ghost follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button>';
-      var shareLabel=isMe?'Share your card':'Share '+esc(p.displayName||('u/'+p.handle))+'’s card';
-      return '<div class="pb-root">'+
-        '<div class="pb-cover"><div class="pb-cover-actions"><button class="pb-ghost" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button>'+actions+'</div></div>'+
-        pbRotationHTML(p)+
-        '<div class="pb-hero">'+tasteCardHTML(p)+
-          '<div class="pb-sharebar"><button class="pb-share" id="pb-share" type="button"><span class="pb-ic"><i class="ti ti-share-2" aria-hidden="true"></i></span><span class="pb-share-t">'+shareLabel+'</span></button></div>'+
-          (isMe?pbNudgeHTML(p):'')+
+      var actions=isMe?'<button class="pb-actbtn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'
+        :'<button class="pb-actbtn follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button>';
+      return '<div class="pb-root2">'+
+        '<div class="pb-cover2"><span class="pb-cov-brand"><b>soundcheck</b></span><button class="pb-ghost2" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button></div>'+
+        '<aside class="pb-side-l"><div class="pb-hero">'+tasteCardHTML(p)+'</div>'+
+          '<div class="pb-actbar"><button class="pb-actbtn primary" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> '+(isMe?'Share card':'Share')+'</button>'+actions+'</div>'+
+        '</aside>'+
+        '<div class="pb-feed">'+
+          pbRotationHTML(p)+
+          '<section class="pb-fsec" id="pb-feed-diary"></section>'+
+          '<section class="pb-fsec" id="pb-feed-wanna"></section>'+
+          '<section class="pb-fsec" id="pb-feed-seen"></section>'+
+          '<section class="pb-fsec" id="pb-feed-venues"></section>'+
         '</div>'+
-        '<div class="pb-side">'+pbStatTiles(p)+'<div class="pb-panels" id="pb-panels"></div></div>'+
       '</div>';
     }
     function wirePbProfile(p){
-      var sc=panelBody||document, s=p.shelves||{};
+      var sc=panelBody||document, s=p.shelves||{}, isMe=p.isMe;
       wireProfile();
       wireRotation(p);
       sc.querySelectorAll('.tb-abub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
-      var lg=document.getElementById('pb-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
@@ -5029,28 +5055,22 @@
         { label:'Feed', run:function(){ openFeed(); } },
         { label:'Sign out', run:function(){ signOut(); } }
       ]}); });
-      var panels=document.getElementById('pb-panels');
-      function wirePanel(key){
-        panels.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-        panels.querySelectorAll('.pb-ds[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
-        panels.querySelectorAll('.pb-ds-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
-        var ql=document.getElementById('pb-quicklog'); if(ql) ql.addEventListener('click',function(){ openLog(); });
-        var ar=document.getElementById('pb-addrow'); if(ar) ar.addEventListener('click',function(){ openLog(); });
-        var sa=document.getElementById('pb-seeall'); if(sa) sa.addEventListener('click',function(){ openDiaryPage(p.handle, p.isMe); });
-        panels.querySelectorAll('[data-pbmore]').forEach(function(b){ b.addEventListener('click',function(){ var k=b.dataset.pbmore, list=k==='seen'?s.seen:s.wannaSee, grid=document.getElementById('pb-grid-'+k); if(grid){ grid.innerHTML=list.map(function(a){ return ptile(a.slug,a.name,k==='seen',a.image); }).join(''); grid.querySelectorAll('.ptile[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ openArtist(t.dataset.artist); }); }); } b.remove(); }); });
-        if(key==='venues'){
-          var vr=document.getElementById('pb-venues-rail'); if(vr&&s.venues&&s.venues.length) mountVenueRail(vr, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length });
-          var er=document.getElementById('pb-events-rail'); if(er&&s.events&&s.events.length) mountEventRail(er, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length, mt:'18px' });
-        }
-      }
-      function paint(key){
-        if(key==='diary') panels.innerHTML=pbDiaryPanel(p);
-        else if(key==='seen'||key==='wanna') panels.innerHTML=pbShelfPanel(p,key);
-        else panels.innerHTML=pbVenuesPanel(p);
-        wirePanel(key);
-      }
-      sc.querySelectorAll('.pb-tile[data-pbtab]').forEach(function(t){ t.addEventListener('click',function(){ sc.querySelectorAll('.pb-tile').forEach(function(x){ x.classList.toggle('on', x===t); }); paint(t.dataset.pbtab); }); });
-      paint('diary');
+      // Render every feed section at once. Hide empty shelves for visitors (own profile keeps them as prompts).
+      function fill(id, html, keep){ var el=document.getElementById(id); if(!el) return; if(keep){ el.innerHTML=html; } else { el.remove(); } }
+      fill('pb-feed-diary', pbDiaryPanel(p), isMe || (p.diary||[]).length);
+      fill('pb-feed-wanna', pbShelfPanel(p,'wanna'), isMe || (s.wannaSee||[]).length);
+      fill('pb-feed-seen', pbShelfPanel(p,'seen'), isMe || (s.seen||[]).length);
+      fill('pb-feed-venues', pbVenuesPanel(p), isMe || (s.venues||[]).length || (s.events||[]).length);
+      var feed=document.querySelector('.pb-feed'); if(!feed) return;
+      feed.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      feed.querySelectorAll('.pb-ds[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+      feed.querySelectorAll('.pb-ds-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
+      var ql=document.getElementById('pb-quicklog'); if(ql) ql.addEventListener('click',function(){ openLog(); });
+      var ar=document.getElementById('pb-addrow'); if(ar) ar.addEventListener('click',function(){ openLog(); });
+      var sa=document.getElementById('pb-seeall'); if(sa) sa.addEventListener('click',function(){ openDiaryPage(p.handle, p.isMe); });
+      feed.querySelectorAll('[data-pbmore]').forEach(function(b){ b.addEventListener('click',function(){ var k=b.dataset.pbmore, list=k==='seen'?s.seen:s.wannaSee, grid=document.getElementById('pb-grid-'+k); if(grid){ grid.innerHTML=list.map(function(a){ return ptile(a.slug,a.name,k==='seen',a.image); }).join(''); grid.querySelectorAll('.ptile[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ openArtist(t.dataset.artist); }); }); } b.remove(); }); });
+      var vr=document.getElementById('pb-venues-rail'); if(vr&&s.venues&&s.venues.length) mountVenueRail(vr, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length });
+      var er=document.getElementById('pb-events-rail'); if(er&&s.events&&s.events.length) mountEventRail(er, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length, mt:'18px' });
     }
     async function openProfile(handle){
       setRoute('u/'+handle);
@@ -5065,7 +5085,7 @@
         wirePbProfile(p);
         // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
-        armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pb-hero'))||document.getElementById('page-body'));
+        armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pb-side-l'))||document.getElementById('page-body'));
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
     }
     // Full gig-diary page — every logged night as the timeline (spine + venue +
