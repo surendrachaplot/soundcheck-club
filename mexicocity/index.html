@@ -1494,28 +1494,36 @@
     .rc-ftx span { font:600 10px var(--font-mono,monospace); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .rc-actions { display:flex; align-items:center; gap:12px; margin-top:14px; }
     .rc-hint { font:500 12px var(--body); color:var(--muted); }
-    /* ── profile: sidebar (card + actions) + feed ── */
-    .pb-root2 { max-width:1080px; margin:0 auto; padding:0 16px 44px; }
-    .pb-cover2 { display:flex; align-items:center; gap:12px; padding:12px 2px 8px; }
-    .pb-cov-brand { font:800 15px var(--head); letter-spacing:0.02em; }
-    .pb-ghost2 { margin-left:auto; background:var(--surface-2); border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:7px 13px; font:600 12px var(--body); cursor:pointer; display:inline-flex; gap:6px; align-items:center; }
-    .pb-side-l { margin-bottom:24px; }
-    .pb-side-l .pb-hero { padding:0; }
-    .pb-side-l .tb-pass { max-width:none; width:100%; margin:0; }
-    .pb-actbar { display:flex; gap:8px; margin-top:12px; }
-    .pb-actbtn { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:6px; border-radius:11px; padding:11px; font:700 11px var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
-    .pb-actbtn.primary { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
-    .pb-actbtn.follow-btn.following { background:transparent; color:var(--accent); border-color:var(--accent); }
-    .pb-feed > * { margin-bottom:26px; }
-    .pb-feed > *:last-child { margin-bottom:0; }
-    .pb-feed .pb-rot { margin:0; }
-    .pb-feed .pb-rot-inner { background:none; border:none; padding:0; border-radius:0; }
-    @media (min-width:880px) {
-      .pb-root2 { display:grid; grid-template-columns:340px minmax(0,1fr); column-gap:32px; align-items:start; padding-left:22px; padding-right:22px; }
-      .pb-cover2 { grid-column:1 / -1; }
-      .pb-side-l { grid-column:1; position:sticky; top:16px; margin-bottom:0; }
-      .pb-feed { grid-column:2; min-width:0; }
-    }
+    /* ── profile: colour hero + horizontal rails (Spotify/Tidal-style) ── */
+    .pb-a { max-width:1000px; margin:0 auto; padding:0 0 44px; }
+    .pa-hero { position:relative; border-radius:0 0 20px 20px; background-size:cover; background-position:center; padding:34px 20px 22px; overflow:hidden; }
+    .pa-scrim { position:absolute; inset:0; background:linear-gradient(180deg, rgba(14,13,18,0.12), rgba(14,13,18,0.78)); }
+    .pa-hero-in { position:relative; z-index:1; display:flex; align-items:flex-end; gap:18px; }
+    .pa-av { width:104px; height:104px; border-radius:50%; flex:0 0 auto; background-color:var(--surface-2); box-shadow:0 8px 28px rgba(0,0,0,0.45); }
+    .pa-htx { min-width:0; flex:1; }
+    .pa-eyebrow { font:700 10px var(--font-mono,monospace); letter-spacing:0.16em; text-transform:uppercase; color:rgba(255,255,255,0.72); }
+    .pa-name { font:800 clamp(26px,6vw,40px) var(--head); color:#fff; line-height:1; margin:6px 0 9px; letter-spacing:-0.01em; }
+    .pa-stats { font:600 13px var(--body); color:rgba(255,255,255,0.9); }
+    .pa-actions { display:flex; gap:9px; padding:14px 18px 6px; flex-wrap:wrap; }
+    .pa-btn { display:inline-flex; align-items:center; gap:6px; border-radius:999px; padding:10px 16px; font:700 11px var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; }
+    .pa-btn.play { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .pa-btn.follow-btn.following { color:var(--accent); border-color:var(--accent); background:transparent; }
+    .pa-rails { padding:8px 18px 0; }
+    .pa-rails > .pa-sec, .pa-rails > .pb-rot { margin-bottom:26px; }
+    .pa-rails .pb-rot { margin:0; }
+    .pa-rails .pb-rot-inner { background:none; border:none; padding:0; border-radius:0; }
+    .pa-rail { display:flex; gap:14px; overflow-x:auto; padding:2px 0 6px; scrollbar-width:none; }
+    .pa-rail::-webkit-scrollbar { display:none; }
+    .pa-rail .ptile { width:88px; flex:0 0 auto; }
+    .pa-more { margin-left:auto; background:none; border:none; color:var(--accent); font:700 11px var(--body); cursor:pointer; white-space:nowrap; }
+    .pa-gig { flex:0 0 auto; width:132px; cursor:pointer; }
+    .pa-gig-img { position:relative; width:132px; height:84px; border-radius:11px; background-size:cover; background-position:center; }
+    .pa-gig-d { position:absolute; left:7px; bottom:7px; background:rgba(0,0,0,0.55); color:#fff; font:700 10px var(--font-mono,monospace); padding:3px 7px; border-radius:999px; }
+    .pa-gig-v { font:700 12px var(--head); margin-top:7px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .pa-gig-l { font:500 10px var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .pa-emptycta { display:inline-flex; align-items:center; gap:8px; background:rgba(255,122,107,0.1); border:1px solid rgba(255,122,107,0.4); color:var(--accent); border-radius:999px; padding:11px 16px; font:700 12px var(--body); cursor:pointer; }
+    .rc-box.tc-box .pb-hero { padding:0; }
+    .rc-box.tc-box .tb-pass { max-width:none; width:100%; margin:0; grid-template-columns:1fr; }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
     .lg-select:focus { border-color:var(--accent); }
     /* preselected-night summary (from a "+ Log" button) */
@@ -2405,7 +2413,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782935571610">
+<meta name="sc-build" content="1782937146053">
 </head>
 <body>
   <main class="wrap">
@@ -4926,12 +4934,19 @@
       if(!nv && !ne) return head+'<div class="empty" style="padding:8px 2px">No followed venues or saved events yet.</div>';
       return head+'<div id="pb-venues-rail"></div><div id="pb-events-rail"></div>';
     }
+    // The taste card is now a SHARE OUTPUT (not on the page) — pop it as a
+    // screenshot-ready modal + copy-link.
     function pbShareCard(p){
-      // Copy the profile link + toast — reliable everywhere, no flaky share-sheet.
-      var url='https://soundcheck.club/u/'+encodeURIComponent(p.handle);
-      function ok(){ showToast('Card link copied — soundcheck.club/u/'+p.handle); }
-      if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(url).then(ok).catch(function(){ showToast(url); }); }
-      else { showToast(url); }
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="rc-box tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="pb-hero">'+tasteCardHTML(p)+'</div>'+
+        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="tc-copy" type="button"><i class="ti ti-copy" aria-hidden="true"></i> Copy link</button><span class="rc-hint">Screenshot to share your card</span></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      ov.querySelectorAll('.tb-abub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ ov.remove(); openArtist(b.dataset.artist); }); });
+      ov.querySelector('#tc-copy').addEventListener('click',function(){ var url='soundcheck.club/u/'+p.handle, full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
     }
     // ── "In rotation": a curated, manually-ordered DJ shelf with playable sets ──
     var pbRot=[], pbRotMe=false;
@@ -5031,30 +5046,55 @@
     }
     // Sidebar + feed layout: full taste card + actions pinned left, all sections
     // (rotation → diary → wanna → seen → venues) stacked as a clean feed on the right.
+    // Spotify/Tidal-style: colour hero (avatar-toned gradient) + horizontal rails.
+    // The taste card is no longer on the page — it's a share output (pbShareCard).
     function pbProfileHTML(p){
-      var isMe=p.isMe;
-      var actions=isMe?'<button class="pb-actbtn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'
-        :'<button class="pb-actbtn follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button>';
-      return '<div class="pb-root2">'+
-        '<div class="pb-cover2"><span class="pb-cov-brand"><b>soundcheck</b></span><button class="pb-ghost2" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button></div>'+
-        '<aside class="pb-side-l"><div class="pb-hero">'+tasteCardHTML(p)+'</div>'+
-          '<div class="pb-actbar"><button class="pb-actbtn primary" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> '+(isMe?'Share card':'Share')+'</button>'+actions+'</div>'+
-        '</aside>'+
-        '<div class="pb-feed">'+
+      var isMe=p.isMe, s=p.shelves||{}, st=p.stats||{};
+      var nights=st.gigs||(p.diary||[]).length||0, fol=p.followers||0, seenN=(s.seen||[]).length;
+      var bits=[nights+' night'+(nights===1?'':'s'), fol+' follower'+(fol===1?'':'s'), seenN+' seen live'];
+      if(st.homeCity) bits.push(cityLabel(st.homeCity));
+      var actions=isMe?'<button class="pa-btn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'
+        :'<button class="pa-btn follow-btn'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button>';
+      var canPlay=(p.rotation&&p.rotation.length)||(s.seen&&s.seen.length);
+      return '<div class="pb-a">'+
+        '<div class="pa-hero" style="background-image:'+artGrad(p.handle||'x')+'"><div class="pa-scrim"></div>'+
+          '<div class="pa-hero-in"><span class="pa-av" style="background-image:'+avatarBg(p.handle,p.avatar)+';background-size:cover;background-position:center"></span>'+
+            '<div class="pa-htx"><div class="pa-eyebrow">soundcheck profile</div><h2 class="pa-name">'+esc(p.displayName||('u/'+p.handle))+'</h2><div class="pa-stats">'+esc(bits.join(' · '))+'</div></div>'+
+          '</div>'+
+        '</div>'+
+        '<div class="pa-actions">'+
+          (canPlay?'<button class="pa-btn play" id="pa-play" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play</button>':'')+
+          '<button class="pa-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share card</button>'+actions+
+        '</div>'+
+        '<div class="pa-rails">'+
           pbRotationHTML(p)+
-          '<section class="pb-fsec" id="pb-feed-diary"></section>'+
-          '<section class="pb-fsec" id="pb-feed-wanna"></section>'+
-          '<section class="pb-fsec" id="pb-feed-seen"></section>'+
-          '<section class="pb-fsec" id="pb-feed-venues"></section>'+
+          '<section class="pa-sec" id="pa-recent"></section>'+
+          '<section class="pa-sec" id="pa-seen"></section>'+
+          '<section class="pa-sec" id="pa-wanna"></section>'+
+          '<section class="pa-sec" id="pa-venues"></section>'+
+          '<section class="pa-sec" id="pa-events"></section>'+
         '</div>'+
       '</div>';
     }
+    // A recent-gig as a poster-style rail card (first act's photo → bg, date chip).
+    function pbGigCardHTML(d){
+      var arts=diaryValid(d), img=(arts[0]&&arts[0].image)?('background-image:url('+imgUrl(arts[0].image,300)+')'):('background:'+sceneTone(d.venue||String(d.id)));
+      var dt=d.gig_date?fmtDateLabel(String(d.gig_date).slice(0,10)):'';
+      var names=arts.slice(0,2).map(function(a){return a.name||a.slug;}).filter(Boolean).join(', ');
+      return '<div class="pa-gig" data-gev="'+(d.event_id?esc(String(d.event_id)):'')+'" data-gvenue="'+esc(d.venue||'')+'"><div class="pa-gig-img" style="'+img+'"><span class="pa-gig-d">'+esc(dt)+'</span></div><div class="pa-gig-v">'+esc(d.venue||'Club night')+'</div><div class="pa-gig-l">'+esc(names||'—')+'</div></div>';
+    }
+    function pbShelfRail(id, title, list, seen, isMe){
+      var el=document.getElementById(id); if(!el) return;
+      if(!list||!list.length){ if(isMe) el.innerHTML=secH(title,null,'')+'<div class="empty" style="padding:4px 2px">Nothing here yet.</div>'; else el.remove(); return; }
+      el.innerHTML=secH(title,null,'<span class="ct">'+list.length+'</span>')+'<div class="pa-rail">'+list.slice(0,40).map(function(a){ return ptile(a.slug,a.name,seen,a.image,seen?a.count:0); }).join('')+'</div>';
+      el.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+    }
     function wirePbProfile(p){
-      var sc=panelBody||document, s=p.shelves||{}, isMe=p.isMe;
+      var sc=panelBody||document, s=p.shelves||{}, isMe=p.isMe, diary=p.diary||[];
       wireProfile();
       wireRotation(p);
-      sc.querySelectorAll('.tb-abub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
+      var pl=document.getElementById('pa-play'); if(pl) pl.addEventListener('click',function(){ if(p.rotation&&p.rotation.length) rotationPlayAll(p.rotation); else if(s.seen&&s.seen.length) startListRadio(s.seen,'shelf:'+p.handle+':seen'); });
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
@@ -5063,22 +5103,20 @@
         { label:'Feed', run:function(){ openFeed(); } },
         { label:'Sign out', run:function(){ signOut(); } }
       ]}); });
-      // Render every feed section at once. Hide empty shelves for visitors (own profile keeps them as prompts).
-      function fill(id, html, keep){ var el=document.getElementById(id); if(!el) return; if(keep){ el.innerHTML=html; } else { el.remove(); } }
-      fill('pb-feed-diary', pbDiaryPanel(p), isMe || (p.diary||[]).length);
-      fill('pb-feed-wanna', pbShelfPanel(p,'wanna'), isMe || (s.wannaSee||[]).length);
-      fill('pb-feed-seen', pbShelfPanel(p,'seen'), isMe || (s.seen||[]).length);
-      fill('pb-feed-venues', pbVenuesPanel(p), isMe || (s.venues||[]).length || (s.events||[]).length);
-      var feed=document.querySelector('.pb-feed'); if(!feed) return;
-      feed.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
-      feed.querySelectorAll('.pb-ds[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
-      feed.querySelectorAll('.pb-ds-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
-      var ql=document.getElementById('pb-quicklog'); if(ql) ql.addEventListener('click',function(){ openLog(); });
-      var ar=document.getElementById('pb-addrow'); if(ar) ar.addEventListener('click',function(){ openLog(); });
-      var sa=document.getElementById('pb-seeall'); if(sa) sa.addEventListener('click',function(){ openDiaryPage(p.handle, p.isMe); });
-      feed.querySelectorAll('[data-pbmore]').forEach(function(b){ b.addEventListener('click',function(){ var k=b.dataset.pbmore, list=k==='seen'?s.seen:s.wannaSee, grid=document.getElementById('pb-grid-'+k); if(grid){ grid.innerHTML=list.map(function(a){ return ptile(a.slug,a.name,k==='seen',a.image,k==='seen'?a.count:0); }).join(''); grid.querySelectorAll('.ptile[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ openArtist(t.dataset.artist); }); }); } b.remove(); }); });
-      var vr=document.getElementById('pb-venues-rail'); if(vr&&s.venues&&s.venues.length) mountVenueRail(vr, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length });
-      var er=document.getElementById('pb-events-rail'); if(er&&s.events&&s.events.length) mountEventRail(er, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length, mt:'18px' });
+      // Recent gigs rail
+      var rc=document.getElementById('pa-recent');
+      if(rc){
+        if(diary.length){ rc.innerHTML=secH('Recent gigs',null,'<button class="pa-more" id="pa-seeall" type="button">See all '+diary.length+' ›</button>')+'<div class="pa-rail">'+diary.slice(0,12).map(pbGigCardHTML).join('')+'</div>';
+          rc.querySelectorAll('.pa-gig').forEach(function(g){ g.addEventListener('click',function(){ if(g.dataset.gev) openEvent(g.dataset.gev); else if(g.dataset.gvenue) openVenue(g.dataset.gvenue); }); });
+          var sa=document.getElementById('pa-seeall'); if(sa) sa.addEventListener('click',function(){ openDiaryPage(p.handle, isMe); });
+        } else if(isMe){ rc.innerHTML=secH('Gig diary',null,'')+'<button class="pa-emptycta" id="pa-log" type="button"><i class="ti ti-map-pin"></i> Been to a gig? Log your first night</button>'; var lg=document.getElementById('pa-log'); if(lg) lg.addEventListener('click',function(){ openLog(); }); }
+        else rc.remove();
+      }
+      pbShelfRail('pa-seen','Seen live', s.seen, true, isMe);
+      pbShelfRail('pa-wanna','Wanna see', s.wannaSee, false, isMe);
+      // Venues + saved events rails (existing rail components render header + row)
+      var vr=document.getElementById('pa-venues'); if(vr){ if(s.venues&&s.venues.length) mountVenueRail(vr, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Venues you follow', count:s.venues.length }); else vr.remove(); }
+      var er=document.getElementById('pa-events'); if(er){ if(s.events&&s.events.length) mountEventRail(er, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length }); else er.remove(); }
     }
     async function openProfile(handle){
       setRoute('u/'+handle);
@@ -5093,7 +5131,7 @@
         wirePbProfile(p);
         // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
-        armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pb-side-l'))||document.getElementById('page-body'));
+        armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pa-hero'))||document.getElementById('page-body'));
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
     }
     // Full gig-diary page — every logged night as the timeline (spine + venue +
