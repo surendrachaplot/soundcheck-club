@@ -1467,7 +1467,7 @@
     .pb-rot-play { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; border-radius:50%; background:rgba(0,0,0,0.34); color:#fff; font-size:24px; opacity:0; transition:opacity .15s; }
     .pb-rot-disc:hover .pb-rot-play { opacity:1; }
     .pb-rot-nm { display:block; font:700 12px var(--head); color:var(--fg); margin-top:9px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:88px; }
-    .pb-rot-x { position:absolute; top:-4px; right:-4px; width:22px; height:22px; border-radius:50%; border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:12px; z-index:2; background:var(--surface-2); color:var(--muted); transition:background .12s, color .12s; }
+    .pb-rot-x { position:absolute; top:5px; right:5px; width:22px; height:22px; border-radius:50%; border:none; display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:12px; z-index:3; background:rgba(0,0,0,0.6); color:#fff; transition:background .12s, color .12s; }
     .pb-rot-x:hover { background:var(--accent); color:var(--accent-ink); }
     .pb-rot-empty { display:flex; align-items:center; gap:14px; flex-wrap:wrap; color:var(--muted); padding:4px 0; }
     .pb-rot-empty b { display:block; color:var(--fg); font:800 14px var(--head); }
@@ -1521,7 +1521,8 @@
     .pf-more { display:block; width:100%; margin-top:14px; background:none; border:none; color:var(--accent); font:700 12px var(--body); cursor:pointer; text-align:center; padding:6px; }
     /* Desktop: use the width — identity + rotation full-width, the rest a 2-col bento */
     @media (min-width:900px) {
-      .pf { max-width:960px; padding:20px 20px 56px; gap:16px; }
+      /* as wide as the rest of the site (inside .wrap, which caps at 1180 + 40 pad) */
+      .pf { max-width:none; padding:20px 0 56px; gap:16px; }
       .pf-id-acts { justify-content:flex-start; }
       .pf-id-acts .pf-btn { flex:0 0 auto; padding:0 20px; }
       .pf-cols { display:block; column-count:2; column-gap:16px; }
@@ -2418,7 +2419,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782939014531">
+<meta name="sc-build" content="1782939385650">
 </head>
 <body>
   <main class="wrap">
@@ -2923,7 +2924,7 @@
       if(!slug) return;
       function render(g){
         if(!g || !g.event_date){ el.textContent=''; dock.classList.remove('has-next'); return; }
-        el.textContent=[ fmtDateLabel(String(g.event_date).slice(0,10)), g.venue, g.city?cityLabel(g.city):'' ].filter(Boolean).join(' · ');
+        el.textContent='Next · '+[ fmtDateLabel(String(g.event_date).slice(0,10)), g.venue, g.city?cityLabel(g.city):'' ].filter(Boolean).join(' · ');
         dock.classList.add('has-next');
         if(g.venue){ el.classList.add('linky'); el.onclick=function(){ openVenue(g.venue, g.city||null); }; }
       }
@@ -4960,7 +4961,7 @@
       var isMe=p.isMe, rot=p.rotation||[];
       if(!isMe && !rot.length) return '';   // visitors see nothing when it's empty
       var who=isMe?'you’re':(esc(p.displayName||('u/'+p.handle))+'’s ears are');
-      var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">In rotation</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
+      var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">Now Playing</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
         (rot.length?'<button class="pb-rot-btn pb-rot-acc" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
         (isMe?'<button class="pb-rot-btn gh" id="pb-rot-add" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Add DJ</button>':'')+
         '<button class="pb-rot-btn gh" id="pb-rot-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>'+
@@ -4976,7 +4977,7 @@
     function renderRotRail(){
       var rail=document.getElementById('pb-rot-rail'); if(!rail) return;
       if(!pbRot.length){
-        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><i class="ti ti-disc" style="font-size:24px" aria-hidden="true"></i><div><b>Build your rotation</b><span>Add the DJs you’re into &mdash; friends can play their sets from your profile.</span></div><button class="pb-rot-btn pb-rot-acc" id="pb-rot-add2" type="button"><i class="ti ti-plus"></i> Add a DJ</button></div>' : '';
+        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><i class="ti ti-disc" style="font-size:24px" aria-hidden="true"></i><div><b>Start your Now Playing list</b><span>Add the DJs you’re into &mdash; friends can play their sets from your profile.</span></div><button class="pb-rot-btn pb-rot-acc" id="pb-rot-add2" type="button"><i class="ti ti-plus"></i> Add a DJ</button></div>' : '';
         var a2=document.getElementById('pb-rot-add2'); if(a2) a2.addEventListener('click',function(){ openRotationAdd(); });
         return;
       }
@@ -5011,7 +5012,7 @@
       if(!currentUser){ openAuth(); return; }
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="auth-box" style="max-width:440px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
-        '<div class="eyebrow">In rotation</div><h3>Add a DJ</h3><p style="margin:6px 0 14px;color:var(--muted)">Search the DJs you&rsquo;re listening to &mdash; they show on your profile with their sets ready to play.</p>'+
+        '<div class="eyebrow">Now Playing</div><h3>Add a DJ</h3><p style="margin:6px 0 14px;color:var(--muted)">Search the DJs you&rsquo;re listening to &mdash; they show on your profile with their sets ready to play.</p>'+
         '<div class="sg-wrap"><input id="rota-in" type="text" placeholder="Search artists&hellip;" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="rota-drop"></div></div>'+
         '<div class="to-chips" id="rota-chips" style="margin-top:14px"></div>'+
         '<button class="go" id="rota-done" type="button" style="margin-top:16px">Done</button></div>';
@@ -5034,7 +5035,7 @@
       var qr=API_BASE+'/api/qr?u='+encodeURIComponent(handle);
       var discs=rot.slice(0,9).map(function(v){ var img=v.image?('background-image:url('+imgUrl(v.image,180)+')'):('background:'+sceneTone(v.slug)); return '<div class="rc-disc"><span class="rc-av" style="'+img+'"></span><span class="rc-nm">'+esc(v.name||v.slug)+'</span></div>'; }).join('');
       return '<div class="rc-card" id="rc-card">'+
-        '<div class="rc-top"><span class="rc-me" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="rc-hid"><div class="rc-eyebrow">In rotation</div><div class="rc-name">'+name+'</div></div><span class="rc-brand">soundcheck</span></div>'+
+        '<div class="rc-top"><span class="rc-me" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="rc-hid"><div class="rc-eyebrow">Now Playing</div><div class="rc-name">'+name+'</div></div><span class="rc-brand">soundcheck</span></div>'+
         (rot.length?'<div class="rc-grid">'+discs+'</div>':'<div class="empty" style="padding:14px 0">No DJs in rotation yet.</div>')+
         '<div class="rc-foot"><span class="rc-qr"><img src="'+qr+'" alt=""></span><div class="rc-ftx"><b>Scan to follow</b><span>soundcheck.club/u/'+esc(handle)+'</span></div></div>'+
       '</div>';
