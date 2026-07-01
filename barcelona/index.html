@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782915801535">
+<meta name="sc-build" content="1782916112048">
 </head>
 <body>
   <main class="wrap">
@@ -6170,16 +6170,48 @@
       drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(b){ e.preventDefault(); onPick(cur[+b.dataset.i]); hide(); } });
       input.addEventListener('blur',function(){ setTimeout(hide,160); });
     }
+    // Reusable city autocomplete over CITY_LIST (client-side, no API) — same look
+    // as the artist/venue pickers, so a form never mixes a native select with an
+    // autocomplete. Contract matches a <select>: read the slug from hidden #<id>.
+    function cityPickerHTML(id, selSlug){
+      var sel=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===selSlug){ sel=CITY_LIST[i]; break; } }
+      return '<div class="sg-wrap"><input type="text" id="'+id+'-in" placeholder="Search cities…" autocomplete="off" autocapitalize="off" value="'+(sel?esc(sel.name):'')+'"><input type="hidden" id="'+id+'" value="'+(sel?esc(sel.slug):'')+'"><div class="sg-drop" id="'+id+'-drop"></div></div>';
+    }
+    function wireCityPicker(id, onChange){
+      var input=document.getElementById(id+'-in'), hidden=document.getElementById(id), drop=document.getElementById(id+'-drop');
+      if(!input||!hidden||!drop) return;
+      var cur=[];
+      function show(){
+        var q=input.value.trim().toLowerCase();
+        cur=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); });
+        if(q) cur=cur.filter(function(c){ return c.name.toLowerCase().indexOf(q)>=0; });
+        cur=cur.slice(0,8);
+        if(!cur.length){ drop.classList.remove('show'); drop.innerHTML=''; return; }
+        drop.innerHTML=cur.map(function(c,i){ return '<button type="button" data-i="'+i+'">'+esc(c.name)+'</button>'; }).join('');
+        drop.classList.add('show');
+      }
+      input.addEventListener('focus',show);
+      input.addEventListener('input',show);
+      drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(!b) return; e.preventDefault(); var c=cur[+b.dataset.i]; input.value=c.name; hidden.value=c.slug; drop.classList.remove('show'); if(onChange) onChange(c.slug); });
+      // Like a native select: on blur, snap the visible text back to the actually
+      // selected city so a half-typed value can't linger out of sync with the slug.
+      input.addEventListener('blur',function(){ setTimeout(function(){ drop.classList.remove('show');
+        var sel=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===hidden.value){ sel=CITY_LIST[i]; break; } }
+        input.value=sel?sel.name:''; },160); });
+    }
+    function setCityPicker(id, slug){
+      var c=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===slug){ c=CITY_LIST[i]; break; } }
+      if(!c) return; var input=document.getElementById(id+'-in'), hidden=document.getElementById(id);
+      if(input) input.value=c.name; if(hidden) hidden.value=slug;
+    }
     function logFormHTML(){
-      var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
-        return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
       return '<h2 class="page-title">Log a gig</h2>'+
         (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Add the night you caught <b>'+esc(_logHint)+'</b></div>':'')+
         '<div class="sub" style="margin-bottom:16px">Pick the DJ you saw and the city &mdash; we&rsquo;ll show every night they played there. Tap the one you were at; it lands in your diary and marks the line-up as seen.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
           '<div id="lg-pickers">'+
-            '<div class="lg-field"><label>City</label><select id="lg-city" class="lg-select">'+cityOpts+'</select></div>'+
+            '<div class="lg-field"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
             '<div class="lg-field"><label>Artist</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
             '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
           '</div>'+
@@ -6337,7 +6369,7 @@
         else { lgArtists.push({ slug:slug, name:b.dataset.aname }); b.classList.add('on'); }
       });
       // City change — if a DJ is already picked, re-run their nights in the new city.
-      document.getElementById('lg-city').addEventListener('change',function(){
+      wireCityPicker('lg-city', function(){
         if(lgPickedArtist){ loadLgArtistGigs(lgPickedArtist); return; }
         lgSel=null; lgEventList=[];
         document.getElementById('lg-events-field').style.display='none';
@@ -6372,8 +6404,6 @@
     // ── Add an event: user-submitted coverage for nights not in our listings ──
     var imArtists=[];
     function importFormHTML(){
-      var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
-        return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
       return '<h2 class="page-title">Add an event</h2>'+
         '<div class="sub" style="margin-bottom:16px">On a ticket site we don&rsquo;t list yet? Paste the link &mdash; we&rsquo;ll grab what we can &mdash; then confirm the details and it goes live on soundcheck.</div>'+
         '<div style="max-width:540px">'+
@@ -6382,7 +6412,7 @@
             '<div id="im-note" style="font-size:var(--fs-sm);color:var(--muted);margin-top:6px;min-height:1em"></div></div>'+
           '<div class="lg-field"><label>Title</label><input type="text" id="im-title" placeholder="Night / event name"></div>'+
           '<div class="lg-field"><label>Venue</label><input type="text" id="im-venue" placeholder="Where"></div>'+
-          '<div class="lg-field"><label>City</label><select id="im-city" class="lg-select">'+cityOpts+'</select></div>'+
+          '<div class="lg-field"><label>City</label>'+cityPickerHTML('im-city', currentCity)+'</div>'+
           '<div class="lg-field" style="display:flex;gap:12px"><div style="flex:1"><label>Date</label><input type="date" id="im-date"></div><div style="flex:0 0 130px"><label>Start <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(opt)</small></label><input type="time" id="im-time"></div></div>'+
           '<div class="lg-field"><label>Line-up</label><input type="text" id="im-art-in" placeholder="Type a DJ, hit enter…" autocomplete="off" autocapitalize="off"><div class="to-chips" id="im-art-chips"></div></div>'+
           '<div class="lg-field"><label>Poster URL <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label><input type="url" id="im-poster" placeholder="https://…"></div>'+
@@ -6400,6 +6430,7 @@
       setRoute('import');
       imArtists=[];
       showPage(importFormHTML());
+      wireCityPicker('im-city');
       // Add line-up names as chips (free text — submitted acts may be new to us).
       var ai=document.getElementById('im-art-in');
       ai.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===','){ e.preventDefault(); var v=ai.value.trim().replace(/,+$/,''); if(v && imArtists.indexOf(v)<0){ imArtists.push(v); imRedrawArtists(); } ai.value=''; } });
@@ -6416,7 +6447,7 @@
           if(f.date) document.getElementById('im-date').value=f.date;
           if(f.startTime && /T\d\d:\d\d/.test(f.startTime)) document.getElementById('im-time').value=f.startTime.slice(11,16);
           if(f.poster) document.getElementById('im-poster').value=f.poster;
-          if(f.citySlug){ var cs=document.getElementById('im-city'); if(cs) cs.value=f.citySlug; }
+          if(f.citySlug) setCityPicker('im-city', f.citySlug);
           if(Array.isArray(f.artists)&&f.artists.length){ f.artists.forEach(function(n){ if(imArtists.indexOf(n)<0) imArtists.push(n); }); imRedrawArtists(); }
           note.textContent='Got it — check the details and add.';
         }).catch(function(){ note.textContent='Couldn’t read that page — fill the details in below.'; });
