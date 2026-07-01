@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782907385897">
+<meta name="sc-build" content="1782912428460">
 </head>
 <body>
   <main class="wrap">
@@ -5563,7 +5563,7 @@
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
         var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests"><b>Festivals</b>'+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
-        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.bio?'<p class="seo-desc artist-bio">'+esc(a.bio)+(a.bioSource==='soundcloud'&&a.soundcloud?' <a class="bio-src" href="'+esc(a.soundcloud)+'" target="_blank" rel="noopener noreferrer">via SoundCloud ↗</a>':'')+'</p>':(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':''))+festLine+'</div>';
+        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.bio?'<p class="seo-desc artist-bio">'+esc(a.bio)+(a.bioUrl?' <a class="bio-src" href="'+esc(a.bioUrl)+'" target="_blank" rel="noopener noreferrer">via '+(a.bioSource==='wikipedia'?'Wikipedia':'SoundCloud')+' ↗</a>':'')+'</p>':(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':''))+festLine+'</div>';
         if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
         h+=actions;
