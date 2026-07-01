@@ -1332,6 +1332,10 @@
     /* artist wanna-see / seen toggle pills (design-system toggle grammar) */
     /* two rows: Tune in (radio-style) full-width on top, Wanna see + Seen live below */
     .artist-actions { display:flex; flex-wrap:wrap; gap:9px; margin:18px 0 4px; max-width:440px; }
+    /* 2×2: Tune in + Sets on top, Wanna see + Seen live below */
+    .artist-actions .act-btn, .artist-actions .act-btn.radio { flex:1 1 calc(50% - 5px); }
+    .ah-fests { margin:9px 0 0; color:var(--muted); font:500 var(--fs-sm) var(--body); line-height:1.5; }
+    .ah-fests b { color:var(--fg); font-weight:600; text-transform:uppercase; font-size:var(--fs-xs); letter-spacing:.06em; margin-right:6px; }
     .act-btn { flex:1; min-width:0; white-space:nowrap; display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:12px 14px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--fg); font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; text-decoration:none; transition:background .12s, border-color .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .act-btn.act-tickets:hover { border-color:var(--accent); color:var(--accent); }
     .act-btn svg { width:var(--icon-sm); height:var(--icon-sm); display:block; }
@@ -2264,10 +2268,6 @@
 .pb-ds-ev:hover{text-decoration:underline}
 .dv-event{background:none;border:0;color:var(--accent);font:inherit;cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:2px}
 .dv-sep{color:var(--muted);margin:0 3px}
-/* artist page: "Festivals played" → YouTube set link */
-.fest-list .gh-venue{font-weight:600}
-.gh-yt{margin-left:auto;flex:0 0 auto;color:var(--accent);font:700 .72rem var(--body);text-decoration:none;display:inline-flex;align-items:center;gap:4px;padding:4px 10px;border:1px solid var(--border);border-radius:999px}
-.gh-yt:hover{border-color:var(--accent)}
 .tb-big{margin:2px 0 14px}
 .tb-big .tb-bignum{font-size:58px}
 .tb-bigu{font-family:var(--font-mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:8px}
@@ -2311,7 +2311,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782903851708">
+<meta name="sc-build" content="1782905283676">
 </head>
 <body>
   <main class="wrap">
@@ -2969,6 +2969,7 @@
     function synthYtBtn(item){
       var b=document.createElement('button');
       b.className='play yt'; b.dataset.slug=item.slug||''; b.dataset.name=item.name||item.slug||'';
+      if(item.videoId) b.dataset.yt=item.videoId;   // pre-resolved (set playlists) → play directly, no /api/youtube resolve
       if(item.poster) b.dataset.poster=item.poster;
       if(item.venue) b.dataset.venue=item.venue;
       return b; // detached on purpose — handleYtClick keeps the queue for off-DOM buttons
@@ -2977,6 +2978,19 @@
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('Nothing to play yet.'); return; }
       scQ=list; playScQ(startIdx||0);
+    }
+    // Play an artist's sets as a dock queue — the ▶/next button walks to another
+    // of their sets (Boiler Room excluded server-side).
+    async function playArtistSets(slug, name){
+      var btn=document.getElementById('ap-sets'); if(btn){ btn.disabled=true; btn.classList.add('spinning'); }
+      try{
+        var r=await fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(name));
+        var j=await r.json().catch(function(){ return {}; });
+        var sets=(j&&j.sets)||[];
+        if(!sets.length){ showToast('No sets found for '+name+'.'); return; }
+        playYtList(sets.map(function(s){ return { slug:slug, name:name, videoId:s.videoId }; }), 0);
+      }catch(_){ showToast('Couldn’t load sets.'); }
+      finally{ if(btn){ btn.disabled=false; btn.classList.remove('spinning'); } }
     }
     function playScQ(i){
       if(!scQ || !scQ.length) return;
@@ -5523,12 +5537,14 @@
         var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
         var actions='<div class="artist-actions">'+
           '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
+          '<button class="act-btn act-2nd" id="ap-sets" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h11M3 12h11M3 18h7"/><path d="M16 13v8l6-4z" fill="currentColor" stroke="none"/></svg><span>Sets</span></button>'+
           '<button class="act-btn act-2nd'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
           '<button class="act-btn act-2nd'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
         '</div>';
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
-        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+'</div>';
+        var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests"><b>Festivals</b>'+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
+        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+festLine+'</div>';
         if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
         h+=actions;
@@ -5543,17 +5559,6 @@
             '<div id="similar-rail"></div>';
         }
         h+='<div id="ap-upcoming"></div>';
-        // Festivals played — curated major-festival matches from past events, each
-        // with a link to find that set on YouTube + the event page.
-        if((a.festivals||[]).length){
-          h+='<div class="sec-h" style="margin-top:26px">Festivals played</div><ul class="gig-history fest-list">'+a.festivals.map(function(f){
-            var yr=f.event_date?String(f.event_date).slice(0,4):'';
-            var yt='https://www.youtube.com/results?search_query='+encodeURIComponent((a.name||slug)+' '+f.name+' set');
-            return '<li class="gh-row"><span class="gh-date">'+esc(yr)+'</span>'+
-              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(f.id))+'">'+esc(f.name)+(f.city?' <small>'+esc(cityLabel(f.city))+'</small>':'')+'</button>'+
-              '<a class="gh-yt" href="'+yt+'" target="_blank" rel="noopener noreferrer" title="Find this set on YouTube"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" style="width:14px;height:14px;vertical-align:-2px"><path d="M8 5v14l11-7z"/></svg> Set</a></li>';
-          }).join('')+'</ul>';
-        }
         // Past sets — the gig-history timeline.
         if((a.history||[]).length){
           h+='<div class="sec-h" style="margin-top:26px">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
@@ -5573,6 +5578,7 @@
         var apRadio=document.getElementById('ap-radio');
         apRadio.addEventListener('pointerdown',function(){ prefetchYt(apRadio); },{passive:true});
         apRadio.addEventListener('click',function(){ handleYtClick(apRadio); });
+        var apSets=document.getElementById('ap-sets'); if(apSets) apSets.addEventListener('click',function(){ playArtistSets(slug, a.name||slug); });
         armSticky(a.name||slug, function(){ apRadio.click(); }, apRadio);   // sticky title bar: artist name + Tune in
         var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
         // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
