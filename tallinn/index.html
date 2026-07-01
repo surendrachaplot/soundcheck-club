@@ -1447,12 +1447,13 @@
     /* ── In-rotation record rail (profile top band + share page) ── */
     .pb-rot { grid-column:1 / -1; margin:0 0 4px; }
     .pb-rot-inner { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:16px 18px; }
-    .pb-rot-head { display:flex; align-items:flex-end; gap:12px; margin-bottom:14px; }
+    .pb-rot-head { display:flex; align-items:flex-end; gap:12px; margin-bottom:14px; flex-wrap:wrap; }
+    .pb-rot-tt { min-width:0; flex:1 1 auto; }
     .pb-rot-title { font:800 18px var(--head); letter-spacing:-0.01em; margin:0; }
     .pb-rot-sub { font:500 12px var(--body); color:var(--muted); margin:3px 0 0; }
     .pb-rot-acts { margin-left:auto; display:flex; gap:8px; flex-shrink:0; }
-    .pb-rot-btn { display:inline-flex; align-items:center; gap:6px; border-radius:999px; padding:8px 13px; font:700 11px var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; }
-    .pb-rot-btn.play { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .pb-rot-btn { display:inline-flex; align-items:center; gap:6px; border-radius:999px; padding:8px 13px; font:700 11px var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; flex-shrink:0; }
+    .pb-rot-btn.pb-rot-acc { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .pb-rot-btn.gh { background:transparent; color:var(--muted); }
     .pb-rot-btn.gh:hover, .pb-rot-btn.gh.on { color:var(--accent); border-color:var(--accent); }
     .pb-rot-btn.act-icon { padding:8px 10px; }
@@ -2394,7 +2395,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782932519717">
+<meta name="sc-build" content="1782933009314">
 </head>
 <body>
   <main class="wrap">
@@ -4927,7 +4928,7 @@
       if(!isMe && !rot.length) return '';   // visitors see nothing when it's empty
       var who=isMe?'you’re':(esc(p.displayName||('u/'+p.handle))+'’s ears are');
       var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">In rotation</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
-        (rot.length?'<button class="pb-rot-btn play" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
+        (rot.length?'<button class="pb-rot-btn pb-rot-acc" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
         '<button class="pb-rot-btn gh act-icon" id="pb-rot-share" type="button" aria-label="Share this rotation"><i class="ti ti-share-2" aria-hidden="true"></i></button>'+
         (isMe?'<button class="pb-rot-btn gh" id="pb-rot-add" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Add DJ</button>':'')+
         (isMe&&rot.length?'<button class="pb-rot-btn gh act-icon" id="pb-rot-edit" type="button" aria-label="Reorder or remove"><i class="ti ti-adjustments-horizontal" aria-hidden="true"></i></button>':'')+
@@ -4946,7 +4947,7 @@
     function renderRotRail(){
       var rail=document.getElementById('pb-rot-rail'); if(!rail) return;
       if(!pbRot.length){
-        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><i class="ti ti-disc" style="font-size:24px" aria-hidden="true"></i><div><b>Build your rotation</b><span>Add the DJs you’re into &mdash; friends can play their sets from your profile.</span></div><button class="pb-rot-btn play" id="pb-rot-add2" type="button"><i class="ti ti-plus"></i> Add a DJ</button></div>' : '';
+        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><i class="ti ti-disc" style="font-size:24px" aria-hidden="true"></i><div><b>Build your rotation</b><span>Add the DJs you’re into &mdash; friends can play their sets from your profile.</span></div><button class="pb-rot-btn pb-rot-acc" id="pb-rot-add2" type="button"><i class="ti ti-plus"></i> Add a DJ</button></div>' : '';
         var a2=document.getElementById('pb-rot-add2'); if(a2) a2.addEventListener('click',function(){ openRotationAdd(); });
         return;
       }
@@ -5013,7 +5014,7 @@
           '<p class="sub" style="margin-bottom:6px">The DJs on repeat &mdash; tap any to play their sets.</p>'+
           (rot.length?'<button class="tc-cta" id="rotp-playall" style="max-width:440px"><i class="ti ti-player-play"></i> Play all sets</button>':'')+
           '<div class="rotp-grid">'+discs+'</div>'+
-          '<div class="rotp-share"><div class="rotp-qr"><img loading="lazy" src="'+API_BASE+'/api/qr?u='+encodeURIComponent(handle)+'&path='+encodeURIComponent('/u/'+handle+'/rotation')+'" alt="Scan to open"></div><div class="rotp-share-tx"><b>Share this rotation</b><span>'+esc(url)+'</span><button class="pb-rot-btn play" id="rotp-copy" type="button"><i class="ti ti-copy"></i> Copy link</button></div></div>'+
+          '<div class="rotp-share"><div class="rotp-qr"><img loading="lazy" src="'+API_BASE+'/api/qr?u='+encodeURIComponent(handle)+'&path='+encodeURIComponent('/u/'+handle+'/rotation')+'" alt="Scan to open"></div><div class="rotp-share-tx"><b>Share this rotation</b><span>'+esc(url)+'</span><button class="pb-rot-btn pb-rot-acc" id="rotp-copy" type="button"><i class="ti ti-copy"></i> Copy link</button></div></div>'+
         '</div>');
         document.querySelectorAll('#page-body .rotp-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(){ playArtistSets(d.dataset.slug, d.dataset.name); }); });
         var pa=document.getElementById('rotp-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(rot); });
