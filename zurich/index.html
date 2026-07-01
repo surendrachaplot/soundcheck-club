@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782915101028">
+<meta name="sc-build" content="1782915801535">
 </head>
 <body>
   <main class="wrap">
@@ -4729,6 +4729,7 @@
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
         { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
+        { label:'Add an event', run:function(){ openImport(); } },
         { label:'Feed', run:function(){ openFeed(); } },
         { label:'Sign out', run:function(){ signOut(); } }
       ]}); });
@@ -4919,6 +4920,7 @@
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
         { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
+        { label:'Add an event', run:function(){ openImport(); } },
         { label:'Feed', run:function(){ openFeed(); } },
         { label:'Sign out', run:function(){ signOut(); } }
       ]}); });
@@ -6367,6 +6369,86 @@
       }catch(_){ document.getElementById('lg-err').textContent='Network error.'; btn.disabled=false; }
     }
 
+    // ── Add an event: user-submitted coverage for nights not in our listings ──
+    var imArtists=[];
+    function importFormHTML(){
+      var cityOpts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
+        return '<option value="'+esc(c.slug)+'"'+(c.slug===currentCity?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
+      return '<h2 class="page-title">Add an event</h2>'+
+        '<div class="sub" style="margin-bottom:16px">On a ticket site we don&rsquo;t list yet? Paste the link &mdash; we&rsquo;ll grab what we can &mdash; then confirm the details and it goes live on soundcheck.</div>'+
+        '<div style="max-width:540px">'+
+          '<div class="lg-field"><label>Event link <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label>'+
+            '<div style="display:flex;gap:8px"><input type="url" id="im-url" placeholder="https://…" autocomplete="off" style="flex:1"><button id="im-fetch" type="button" style="flex:0 0 auto;background:var(--surface-2);color:var(--fg);border:1px solid var(--border);border-radius:10px;padding:0 16px;font:700 var(--fs-xs) var(--body);text-transform:uppercase;letter-spacing:0.08em;cursor:pointer">Fetch</button></div>'+
+            '<div id="im-note" style="font-size:var(--fs-sm);color:var(--muted);margin-top:6px;min-height:1em"></div></div>'+
+          '<div class="lg-field"><label>Title</label><input type="text" id="im-title" placeholder="Night / event name"></div>'+
+          '<div class="lg-field"><label>Venue</label><input type="text" id="im-venue" placeholder="Where"></div>'+
+          '<div class="lg-field"><label>City</label><select id="im-city" class="lg-select">'+cityOpts+'</select></div>'+
+          '<div class="lg-field" style="display:flex;gap:12px"><div style="flex:1"><label>Date</label><input type="date" id="im-date"></div><div style="flex:0 0 130px"><label>Start <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(opt)</small></label><input type="time" id="im-time"></div></div>'+
+          '<div class="lg-field"><label>Line-up</label><input type="text" id="im-art-in" placeholder="Type a DJ, hit enter…" autocomplete="off" autocapitalize="off"><div class="to-chips" id="im-art-chips"></div></div>'+
+          '<div class="lg-field"><label>Poster URL <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label><input type="url" id="im-poster" placeholder="https://…"></div>'+
+          '<button id="im-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Add event</button>'+
+          '<div class="err" id="im-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+        '</div>';
+    }
+    function imRedrawArtists(){
+      var box=document.getElementById('im-art-chips'); if(!box) return;
+      box.innerHTML=imArtists.map(function(n,i){ return '<span class="to-chip">'+esc(n)+'<button type="button" data-i="'+i+'" aria-label="Remove">&times;</button></span>'; }).join('');
+      box.querySelectorAll('button[data-i]').forEach(function(b){ b.addEventListener('click',function(){ imArtists.splice(+b.dataset.i,1); imRedrawArtists(); }); });
+    }
+    function openImport(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('import');
+      imArtists=[];
+      showPage(importFormHTML());
+      // Add line-up names as chips (free text — submitted acts may be new to us).
+      var ai=document.getElementById('im-art-in');
+      ai.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===','){ e.preventDefault(); var v=ai.value.trim().replace(/,+$/,''); if(v && imArtists.indexOf(v)<0){ imArtists.push(v); imRedrawArtists(); } ai.value=''; } });
+      // Fetch: best-effort read of the pasted link (JSON-LD / OG).
+      document.getElementById('im-fetch').addEventListener('click',function(){
+        var u=document.getElementById('im-url').value.trim(); var note=document.getElementById('im-note');
+        if(!/^https?:\/\//i.test(u)){ note.textContent='Paste a full https:// link first.'; return; }
+        note.textContent='Reading…';
+        pubGet('/api/import/preview?url='+encodeURIComponent(u)).then(function(j){
+          if(!j||!j.ok){ note.textContent=(j&&j.blocked)?'That site blocks automatic reading — fill the details in below.':'Couldn’t read that page — fill the details in below.'; return; }
+          var f=j.fields||{};
+          if(f.title) document.getElementById('im-title').value=f.title;
+          if(f.venue) document.getElementById('im-venue').value=f.venue;
+          if(f.date) document.getElementById('im-date').value=f.date;
+          if(f.startTime && /T\d\d:\d\d/.test(f.startTime)) document.getElementById('im-time').value=f.startTime.slice(11,16);
+          if(f.poster) document.getElementById('im-poster').value=f.poster;
+          if(f.citySlug){ var cs=document.getElementById('im-city'); if(cs) cs.value=f.citySlug; }
+          if(Array.isArray(f.artists)&&f.artists.length){ f.artists.forEach(function(n){ if(imArtists.indexOf(n)<0) imArtists.push(n); }); imRedrawArtists(); }
+          note.textContent='Got it — check the details and add.';
+        }).catch(function(){ note.textContent='Couldn’t read that page — fill the details in below.'; });
+      });
+      document.getElementById('im-save').addEventListener('click',saveImport);
+    }
+    async function saveImport(){
+      if(!currentUser){ openAuth(); return; }
+      var err=document.getElementById('im-err'); err.textContent='';
+      var ai=document.getElementById('im-art-in'); var pend=ai.value.trim().replace(/,+$/,''); if(pend && imArtists.indexOf(pend)<0){ imArtists.push(pend); ai.value=''; imRedrawArtists(); }
+      var body={
+        url:document.getElementById('im-url').value.trim()||null,
+        title:document.getElementById('im-title').value.trim(),
+        venue:document.getElementById('im-venue').value.trim()||null,
+        city:document.getElementById('im-city').value,
+        date:document.getElementById('im-date').value||null,
+        startTime:(function(){ var d=document.getElementById('im-date').value, t=document.getElementById('im-time').value; return (d&&t)?(d+'T'+t+':00'):null; })(),
+        artists:imArtists.slice(),
+        poster:document.getElementById('im-poster').value.trim()||null
+      };
+      if(!body.title){ err.textContent='Add a title.'; return; }
+      if(!body.date){ err.textContent='Pick a date.'; return; }
+      var btn=document.getElementById('im-save'); btn.disabled=true;
+      try{
+        var r=await authedFetch('/api/import/submit',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) });
+        var j=await r.json().catch(function(){return{};});
+        if(!r.ok||!j.ok){ err.textContent=(j.error||'Could not add')+'.'; btn.disabled=false; return; }
+        showToast('Added — thanks for the tip-off');
+        if(j.id) openEvent(j.id); else goGrid();
+      }catch(_){ err.textContent='Network error.'; btn.disabled=false; }
+    }
+
     // ---- hash router (#u/<handle>, #feed, #a/<slug>, #v/<name>, #log) ----
     // The active route: entity pages come off the path (/a/<slug>), nav overlays
     // off the hash. '' = home (no overlay).
@@ -6384,6 +6466,7 @@
       else if(hash==='upcoming') openUpcoming();
       else if(hash==='feed') openFeed();
       else if(hash==='log') openLog();
+      else if(hash==='import') openImport();
       else if(hash==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
       else if(hash.indexOf('diary/')===0) openDiaryPage(hash.slice(6));
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
@@ -6683,7 +6766,7 @@
     function renderEvents(events, eyebrowPrefix){
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button><div style="margin-top:10px;font-size:var(--fs-sm)">Know a night we&rsquo;re missing? <button class="more-btn" id="grid-addev">Add an event &rarr;</button></div></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); var _ae=document.getElementById('grid-addev'); if(_ae) _ae.addEventListener('click',function(){ openImport(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
       var ordered=orderEvents(evs);
       _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
       paintCurrentGrid();
