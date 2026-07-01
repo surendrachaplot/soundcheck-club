@@ -1467,10 +1467,8 @@
     .pb-rot-play { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; border-radius:50%; background:rgba(0,0,0,0.34); color:#fff; font-size:24px; opacity:0; transition:opacity .15s; }
     .pb-rot-disc:hover .pb-rot-play { opacity:1; }
     .pb-rot-nm { display:block; font:700 12px var(--head); color:var(--fg); margin-top:9px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:88px; }
-    .pb-rot-x, .pb-rot-mv { position:absolute; width:24px; height:24px; border-radius:50%; border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:13px; z-index:2; }
-    .pb-rot-x { top:-4px; right:-4px; background:var(--accent); color:var(--accent-ink); }
-    .pb-rot-mv { bottom:-2px; background:var(--surface-2); color:var(--fg); }
-    .pb-rot-mv.l { left:-4px; } .pb-rot-mv.r { right:-4px; }
+    .pb-rot-x { position:absolute; top:-4px; right:-4px; width:22px; height:22px; border-radius:50%; border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:12px; z-index:2; background:var(--surface-2); color:var(--muted); transition:background .12s, color .12s; }
+    .pb-rot-x:hover { background:var(--accent); color:var(--accent-ink); }
     .pb-rot-empty { display:flex; align-items:center; gap:14px; flex-wrap:wrap; color:var(--muted); padding:4px 0; }
     .pb-rot-empty b { display:block; color:var(--fg); font:800 14px var(--head); }
     .pb-rot-empty span { font:500 12px var(--body); }
@@ -2407,7 +2405,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782935197391">
+<meta name="sc-build" content="1782935571610">
 </head>
 <body>
   <main class="wrap">
@@ -4936,7 +4934,7 @@
       else { showToast(url); }
     }
     // ── "In rotation": a curated, manually-ordered DJ shelf with playable sets ──
-    var pbRot=[], pbRotMe=false, pbRotEditing=false;
+    var pbRot=[], pbRotMe=false;
     function pbRotationHTML(p){
       var isMe=p.isMe, rot=p.rotation||[];
       if(!isMe && !rot.length) return '';   // visitors see nothing when it's empty
@@ -4944,19 +4942,15 @@
       var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">In rotation</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
         (rot.length?'<button class="pb-rot-btn pb-rot-acc" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
         (isMe?'<button class="pb-rot-btn gh" id="pb-rot-add" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Add DJ</button>':'')+
-        (isMe&&rot.length?'<button class="pb-rot-btn gh" id="pb-rot-edit" type="button"><i class="ti ti-arrows-sort" aria-hidden="true"></i> Reorder</button>':'')+
         '<button class="pb-rot-btn gh" id="pb-rot-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>'+
       '</div></div>';
       return '<div class="pb-rot" id="pb-rot"><div class="pb-rot-inner">'+head+'<div class="pb-rot-rail" id="pb-rot-rail"></div></div></div>';
     }
     function rotDiscHTML(v,i){
       var img=v.image?('background-image:url('+imgUrl(v.image,160)+')'):('background:'+sceneTone(v.slug));
-      var overlay = pbRotEditing
-        ? '<button class="pb-rot-x" type="button" data-rmi="'+i+'" aria-label="Remove"><i class="ti ti-x"></i></button>'+
-          (i>0?'<button class="pb-rot-mv l" type="button" data-mvi="'+i+'" data-mvd="-1" aria-label="Move left"><i class="ti ti-chevron-left"></i></button>':'')+
-          (i<pbRot.length-1?'<button class="pb-rot-mv r" type="button" data-mvi="'+i+'" data-mvd="1" aria-label="Move right"><i class="ti ti-chevron-right"></i></button>':'')
-        : '<span class="pb-rot-play" aria-hidden="true"><i class="ti ti-player-play"></i></span>';
-      return '<div class="pb-rot-disc'+(pbRotEditing?' editing':'')+'" data-slug="'+esc(v.slug)+'" data-name="'+esc(v.name||v.slug)+'"><span class="pb-rot-av" style="'+img+'">'+overlay+'</span><span class="pb-rot-nm">'+esc(v.name||v.slug)+'</span></div>';
+      // Owner gets a small ✕ to remove; everyone gets the play affordance on hover.
+      var rm = pbRotMe ? '<button class="pb-rot-x" type="button" data-rmi="'+i+'" aria-label="Remove '+esc(v.name||v.slug)+'"><i class="ti ti-x"></i></button>' : '';
+      return '<div class="pb-rot-disc" data-slug="'+esc(v.slug)+'" data-name="'+esc(v.name||v.slug)+'"><span class="pb-rot-av" style="'+img+'"><span class="pb-rot-play" aria-hidden="true"><i class="ti ti-player-play"></i></span>'+rm+'</span><span class="pb-rot-nm">'+esc(v.name||v.slug)+'</span></div>';
     }
     function renderRotRail(){
       var rail=document.getElementById('pb-rot-rail'); if(!rail) return;
@@ -4965,10 +4959,9 @@
         var a2=document.getElementById('pb-rot-add2'); if(a2) a2.addEventListener('click',function(){ openRotationAdd(); });
         return;
       }
-      rail.innerHTML=pbRot.map(rotDiscHTML).join('')+((pbRotMe&&!pbRotEditing)?'<button class="pb-rot-disc pb-rot-adddisc" id="pb-rot-adddisc" type="button"><span class="pb-rot-av add"><i class="ti ti-plus"></i></span><span class="pb-rot-nm">Add</span></button>':'');
-      rail.querySelectorAll('.pb-rot-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(e){ if(pbRotEditing||e.target.closest('.pb-rot-x')||e.target.closest('.pb-rot-mv')) return; playArtistSets(d.dataset.slug, d.dataset.name); }); });
+      rail.innerHTML=pbRot.map(rotDiscHTML).join('')+(pbRotMe?'<button class="pb-rot-disc pb-rot-adddisc" id="pb-rot-adddisc" type="button"><span class="pb-rot-av add"><i class="ti ti-plus"></i></span><span class="pb-rot-nm">Add</span></button>':'');
+      rail.querySelectorAll('.pb-rot-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(e){ if(e.target.closest('.pb-rot-x')) return; playArtistSets(d.dataset.slug, d.dataset.name); }); });
       rail.querySelectorAll('[data-rmi]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); pbRot.splice(+b.dataset.rmi,1); rotationSave(); }); });
-      rail.querySelectorAll('[data-mvi]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var i=+b.dataset.mvi, j=i+(+b.dataset.mvd); if(j<0||j>=pbRot.length) return; var t=pbRot[i]; pbRot[i]=pbRot[j]; pbRot[j]=t; rotationSave(); }); });
       var ad=document.getElementById('pb-rot-adddisc'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
     }
     function rotationSave(){
@@ -4978,12 +4971,11 @@
     }
     function wireRotation(p){
       if(!document.getElementById('pb-rot')) return;
-      pbRot=(p.rotation||[]).slice(); pbRotMe=!!p.isMe; pbRotEditing=false;
+      pbRot=(p.rotation||[]).slice(); pbRotMe=!!p.isMe;
       renderRotRail();
       var pa=document.getElementById('pb-rot-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(pbRot); });
       var sh=document.getElementById('pb-rot-share'); if(sh) sh.addEventListener('click',function(){ shareRotationCard(p); });
       var ad=document.getElementById('pb-rot-add'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
-      var ed=document.getElementById('pb-rot-edit'); if(ed) ed.addEventListener('click',function(){ pbRotEditing=!pbRotEditing; var box=document.getElementById('pb-rot'); if(box) box.classList.toggle('editing',pbRotEditing); ed.classList.toggle('on',pbRotEditing); ed.innerHTML=pbRotEditing?'<i class="ti ti-check" aria-hidden="true"></i> Done':'<i class="ti ti-arrows-sort" aria-hidden="true"></i> Reorder'; renderRotRail(); });
     }
     async function rotationPlayAll(list){
       list=(list||pbRot).filter(function(x){ return x&&x.slug; });
