@@ -1444,6 +1444,45 @@
     .lg-opt { text-transform:none; letter-spacing:0; color:var(--muted); font-weight:500; margin-left:4px; }
     .lg-find { width:100%; background:var(--surface-2); color:var(--fg); border:1px solid var(--border); border-radius:10px; padding:12px; font:700 var(--fs-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; margin-top:4px; transition:border-color .12s, color .12s; }
     .lg-find:hover { border-color:var(--accent); color:var(--accent); }
+    /* ── In-rotation record rail (profile top band + share page) ── */
+    .pb-rot { grid-column:1 / -1; margin:0 0 4px; }
+    .pb-rot-inner { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:16px 18px; }
+    .pb-rot-head { display:flex; align-items:flex-end; gap:12px; margin-bottom:14px; }
+    .pb-rot-title { font:800 18px var(--head); letter-spacing:-0.01em; margin:0; }
+    .pb-rot-sub { font:500 12px var(--body); color:var(--muted); margin:3px 0 0; }
+    .pb-rot-acts { margin-left:auto; display:flex; gap:8px; flex-shrink:0; }
+    .pb-rot-btn { display:inline-flex; align-items:center; gap:6px; border-radius:999px; padding:8px 13px; font:700 11px var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; }
+    .pb-rot-btn.play { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .pb-rot-btn.gh { background:transparent; color:var(--muted); }
+    .pb-rot-btn.gh:hover, .pb-rot-btn.gh.on { color:var(--accent); border-color:var(--accent); }
+    .pb-rot-btn.act-icon { padding:8px 10px; }
+    .pb-rot-rail { display:flex; gap:16px; overflow-x:auto; padding:2px 0 6px; scrollbar-width:none; }
+    .pb-rot-rail::-webkit-scrollbar { display:none; }
+    .pb-rot-disc { flex:0 0 auto; width:84px; text-align:center; background:none; border:none; padding:0; cursor:pointer; color:inherit; }
+    .pb-rot-av { position:relative; width:84px; height:84px; border-radius:50%; background-size:cover; background-position:center; background-color:var(--surface-2); display:block; border:1px solid var(--border); }
+    .pb-rot-av.add { display:flex; align-items:center; justify-content:center; border:1px dashed var(--border); color:var(--muted); font-size:24px; }
+    .pb-rot-play { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; border-radius:50%; background:rgba(0,0,0,0.34); color:#fff; font-size:24px; opacity:0; transition:opacity .15s; }
+    .pb-rot-disc:hover .pb-rot-play, .rotp-disc:hover .pb-rot-play { opacity:1; }
+    .pb-rot-nm { display:block; font:700 12px var(--head); color:var(--fg); margin-top:9px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:88px; }
+    .pb-rot-x, .pb-rot-mv { position:absolute; width:24px; height:24px; border-radius:50%; border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:13px; z-index:2; }
+    .pb-rot-x { top:-4px; right:-4px; background:var(--accent); color:var(--accent-ink); }
+    .pb-rot-mv { bottom:-2px; background:var(--surface-2); color:var(--fg); }
+    .pb-rot-mv.l { left:-4px; } .pb-rot-mv.r { right:-4px; }
+    .pb-rot-empty { display:flex; align-items:center; gap:14px; flex-wrap:wrap; color:var(--muted); padding:4px 0; }
+    .pb-rot-empty b { display:block; color:var(--fg); font:800 14px var(--head); }
+    .pb-rot-empty span { font:500 12px var(--body); }
+    .pb-rot-empty .pb-rot-btn { margin-left:auto; }
+    .rotp-grid { display:flex; flex-wrap:wrap; gap:18px; margin:18px 0; }
+    .rotp-disc { flex:0 0 auto; width:96px; text-align:center; background:none; border:none; cursor:pointer; color:inherit; padding:0; }
+    .rotp-av { position:relative; display:block; width:96px; height:96px; border-radius:50%; background-size:cover; background-position:center; background-color:var(--surface-2); border:1px solid var(--border); }
+    .rotp-nm { display:block; font:700 13px var(--head); margin-top:10px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:100px; }
+    .rotp-share { display:flex; gap:16px; align-items:center; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:16px; margin-top:8px; max-width:440px; }
+    .rotp-qr { width:88px; height:88px; flex:0 0 auto; background:var(--surface-2); border-radius:10px; padding:6px; display:flex; }
+    .rotp-qr img { width:100%; height:100%; }
+    .rotp-share-tx { display:flex; flex-direction:column; gap:3px; min-width:0; }
+    .rotp-share-tx b { font:800 14px var(--head); }
+    .rotp-share-tx span { font:600 11px var(--font-mono,monospace); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rotp-share-tx .pb-rot-btn { margin-top:8px; align-self:flex-start; }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
     .lg-select:focus { border-color:var(--accent); }
     /* preselected-night summary (from a "+ Log" button) */
@@ -2333,7 +2372,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782927437268">
+<meta name="sc-build" content="1782928618920">
 </head>
 <body>
   <main class="wrap">
@@ -4859,6 +4898,107 @@
       if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(url).then(ok).catch(function(){ showToast(url); }); }
       else { showToast(url); }
     }
+    // ── "In rotation": a curated, manually-ordered DJ shelf with playable sets ──
+    var pbRot=[], pbRotMe=false, pbRotEditing=false;
+    function pbRotationHTML(p){
+      var isMe=p.isMe, rot=p.rotation||[];
+      if(!isMe && !rot.length) return '';   // visitors see nothing when it's empty
+      var who=isMe?'you’re':(esc(p.displayName||('u/'+p.handle))+'’s ears are');
+      var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">In rotation</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
+        (rot.length?'<button class="pb-rot-btn play" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
+        '<button class="pb-rot-btn gh act-icon" id="pb-rot-share" type="button" aria-label="Share this rotation"><i class="ti ti-share-2" aria-hidden="true"></i></button>'+
+        (isMe?'<button class="pb-rot-btn gh" id="pb-rot-add" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Add DJ</button>':'')+
+        (isMe&&rot.length?'<button class="pb-rot-btn gh act-icon" id="pb-rot-edit" type="button" aria-label="Reorder or remove"><i class="ti ti-adjustments-horizontal" aria-hidden="true"></i></button>':'')+
+      '</div></div>';
+      return '<div class="pb-rot" id="pb-rot"><div class="pb-rot-inner">'+head+'<div class="pb-rot-rail" id="pb-rot-rail"></div></div></div>';
+    }
+    function rotDiscHTML(v,i){
+      var img=v.image?('background-image:url('+imgUrl(v.image,160)+')'):('background:'+sceneTone(v.slug));
+      var overlay = pbRotEditing
+        ? '<button class="pb-rot-x" type="button" data-rmi="'+i+'" aria-label="Remove"><i class="ti ti-x"></i></button>'+
+          (i>0?'<button class="pb-rot-mv l" type="button" data-mvi="'+i+'" data-mvd="-1" aria-label="Move left"><i class="ti ti-chevron-left"></i></button>':'')+
+          (i<pbRot.length-1?'<button class="pb-rot-mv r" type="button" data-mvi="'+i+'" data-mvd="1" aria-label="Move right"><i class="ti ti-chevron-right"></i></button>':'')
+        : '<span class="pb-rot-play" aria-hidden="true"><i class="ti ti-player-play"></i></span>';
+      return '<div class="pb-rot-disc'+(pbRotEditing?' editing':'')+'" data-slug="'+esc(v.slug)+'" data-name="'+esc(v.name||v.slug)+'"><span class="pb-rot-av" style="'+img+'">'+overlay+'</span><span class="pb-rot-nm">'+esc(v.name||v.slug)+'</span></div>';
+    }
+    function renderRotRail(){
+      var rail=document.getElementById('pb-rot-rail'); if(!rail) return;
+      if(!pbRot.length){
+        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><i class="ti ti-disc" style="font-size:24px" aria-hidden="true"></i><div><b>Build your rotation</b><span>Add the DJs you’re into &mdash; friends can play their sets from your profile.</span></div><button class="pb-rot-btn play" id="pb-rot-add2" type="button"><i class="ti ti-plus"></i> Add a DJ</button></div>' : '';
+        var a2=document.getElementById('pb-rot-add2'); if(a2) a2.addEventListener('click',function(){ openRotationAdd(); });
+        return;
+      }
+      rail.innerHTML=pbRot.map(rotDiscHTML).join('')+((pbRotMe&&!pbRotEditing)?'<button class="pb-rot-disc pb-rot-adddisc" id="pb-rot-adddisc" type="button"><span class="pb-rot-av add"><i class="ti ti-plus"></i></span><span class="pb-rot-nm">Add</span></button>':'');
+      rail.querySelectorAll('.pb-rot-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(e){ if(pbRotEditing||e.target.closest('.pb-rot-x')||e.target.closest('.pb-rot-mv')) return; playArtistSets(d.dataset.slug, d.dataset.name); }); });
+      rail.querySelectorAll('[data-rmi]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); pbRot.splice(+b.dataset.rmi,1); rotationSave(); }); });
+      rail.querySelectorAll('[data-mvi]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var i=+b.dataset.mvi, j=i+(+b.dataset.mvd); if(j<0||j>=pbRot.length) return; var t=pbRot[i]; pbRot[i]=pbRot[j]; pbRot[j]=t; rotationSave(); }); });
+      var ad=document.getElementById('pb-rot-adddisc'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
+    }
+    function rotationSave(){
+      renderRotRail(); // optimistic
+      authedFetch('/api/rotation',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({slugs:pbRot.map(function(x){return x.slug;})})})
+        .then(function(r){ return r.json(); }).then(function(j){ if(j&&j.ok&&Array.isArray(j.rotation)){ pbRot=j.rotation; renderRotRail(); } }).catch(function(){});
+    }
+    function wireRotation(p){
+      if(!document.getElementById('pb-rot')) return;
+      pbRot=(p.rotation||[]).slice(); pbRotMe=!!p.isMe; pbRotEditing=false;
+      renderRotRail();
+      var pa=document.getElementById('pb-rot-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(pbRot); });
+      var sh=document.getElementById('pb-rot-share'); if(sh) sh.addEventListener('click',function(){ openRotationPage(p.handle); });
+      var ad=document.getElementById('pb-rot-add'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
+      var ed=document.getElementById('pb-rot-edit'); if(ed) ed.addEventListener('click',function(){ pbRotEditing=!pbRotEditing; var box=document.getElementById('pb-rot'); if(box) box.classList.toggle('editing',pbRotEditing); ed.classList.toggle('on',pbRotEditing); renderRotRail(); });
+    }
+    async function rotationPlayAll(list){
+      list=(list||pbRot).filter(function(x){ return x&&x.slug; });
+      if(!list.length) return;
+      showToast('Cueing up '+list.length+' DJ'+(list.length>1?'s':'')+'…');
+      var lists=await Promise.all(list.map(function(v){ return fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(v.slug)+'&name='+encodeURIComponent(v.name||v.slug)).then(function(r){return r.json();}).then(function(j){ return ((j&&j.sets)||[]).slice(0,2).map(function(s){ return {slug:v.slug,name:v.name||v.slug,videoId:s.videoId}; }); }).catch(function(){ return []; }); }));
+      var q=[].concat.apply([],lists);
+      if(!q.length){ showToast('No sets found.'); return; }
+      playYtList(q,0);
+    }
+    function openRotationAdd(){
+      if(!currentUser){ openAuth(); return; }
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box" style="max-width:440px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">In rotation</div><h3>Add a DJ</h3><p style="margin:6px 0 14px;color:var(--muted)">Search the DJs you&rsquo;re listening to &mdash; they show on your profile with their sets ready to play.</p>'+
+        '<div class="sg-wrap"><input id="rota-in" type="text" placeholder="Search artists&hellip;" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="rota-drop"></div></div>'+
+        '<div class="to-chips" id="rota-chips" style="margin-top:14px"></div>'+
+        '<button class="go" id="rota-done" type="button" style="margin-top:16px">Done</button></div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      function redraw(){ ov.querySelector('#rota-chips').innerHTML=pbRot.map(function(v){ return '<span class="to-chip">'+esc(v.name||v.slug)+'</span>'; }).join(''); }
+      redraw();
+      var input=ov.querySelector('#rota-in');
+      attachSuggest(input, ov.querySelector('#rota-drop'),
+        function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return {slug:a.slug,name:a.name,label:esc(a.name)}; }); }); },
+        function(pick){ if(pick&&pick.slug && !pbRot.some(function(x){return x.slug===pick.slug;})){ pbRot.push({slug:pick.slug,name:pick.name,image:null}); rotationSave(); redraw(); } input.value=''; });
+      ov.querySelector('#rota-done').addEventListener('click',function(){ ov.remove(); });
+    }
+    // Standalone shareable rotation page — /u/<handle>/rotation.
+    async function openRotationPage(handle){
+      setRoute('u/'+handle+'/rotation');
+      openPanel(pageSkeleton());
+      try{
+        var r=await fetch(API_BASE+'/api/rotation?u='+encodeURIComponent(handle)); var j=await r.json().catch(function(){return{};});
+        if(!r.ok||j.error){ openPanel('<div class="empty">No rotation for u/'+esc(handle)+'.</div>'); return; }
+        var rot=j.rotation||[], nm=j.name||('u/'+handle), url='soundcheck.club/u/'+handle+'/rotation';
+        var discs=rot.length?rot.map(function(v){ var img=v.image?('background-image:url('+imgUrl(v.image,200)+')'):('background:'+sceneTone(v.slug)); return '<button class="rotp-disc" type="button" data-slug="'+esc(v.slug)+'" data-name="'+esc(v.name||v.slug)+'"><span class="rotp-av" style="'+img+'"><span class="pb-rot-play"><i class="ti ti-player-play"></i></span></span><span class="rotp-nm">'+esc(v.name||v.slug)+'</span></button>'; }).join(''):'<div class="empty" style="padding:10px 0">No DJs in rotation yet.</div>';
+        openPanel('<div class="rotp"><div class="pb-cover"></div>'+
+          '<div class="eyebrow" style="color:var(--accent);letter-spacing:.14em;text-transform:uppercase;font:700 11px var(--body)">In rotation</div>'+
+          '<h2 class="page-title" style="margin:4px 0 2px">'+esc(nm)+'</h2>'+
+          '<p class="sub" style="margin-bottom:6px">The DJs on repeat &mdash; tap any to play their sets.</p>'+
+          (rot.length?'<button class="tc-cta" id="rotp-playall" style="max-width:440px"><i class="ti ti-player-play"></i> Play all sets</button>':'')+
+          '<div class="rotp-grid">'+discs+'</div>'+
+          '<div class="rotp-share"><div class="rotp-qr"><img loading="lazy" src="'+API_BASE+'/api/qr?u='+encodeURIComponent(handle)+'&path='+encodeURIComponent('/u/'+handle+'/rotation')+'" alt="Scan to open"></div><div class="rotp-share-tx"><b>Share this rotation</b><span>'+esc(url)+'</span><button class="pb-rot-btn play" id="rotp-copy" type="button"><i class="ti ti-copy"></i> Copy link</button></div></div>'+
+        '</div>');
+        document.querySelectorAll('#page-body .rotp-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(){ playArtistSets(d.dataset.slug, d.dataset.name); }); });
+        var pa=document.getElementById('rotp-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(rot); });
+        var cp=document.getElementById('rotp-copy'); if(cp) cp.addEventListener('click',function(){ var full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
+        armSticky(nm+' · rotation', rot.length?function(){ rotationPlayAll(rot); }:null, document.getElementById('page-body'));
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that rotation.</div>'); }
+    }
     function pbProfileHTML(p){
       var isMe=p.isMe;
       var actions=isMe?'<button class="pb-ghost" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'
@@ -4866,6 +5006,7 @@
       var shareLabel=isMe?'Share your card':'Share '+esc(p.displayName||('u/'+p.handle))+'’s card';
       return '<div class="pb-root">'+
         '<div class="pb-cover"><div class="pb-cover-actions"><button class="pb-ghost" id="pb-followers" type="button"><i class="ti ti-users" aria-hidden="true"></i> '+(p.followers||0)+' followers</button>'+actions+'</div></div>'+
+        pbRotationHTML(p)+
         '<div class="pb-hero">'+tasteCardHTML(p)+
           '<div class="pb-sharebar"><button class="pb-share" id="pb-share" type="button"><span class="pb-ic"><i class="ti ti-share-2" aria-hidden="true"></i></span><span class="pb-share-t">'+shareLabel+'</span></button></div>'+
           (isMe?pbNudgeHTML(p):'')+
@@ -4876,6 +5017,7 @@
     function wirePbProfile(p){
       var sc=panelBody||document, s=p.shelves||{};
       wireProfile();
+      wireRotation(p);
       sc.querySelectorAll('.tb-abub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
       var lg=document.getElementById('pb-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
@@ -6499,6 +6641,7 @@
       else if(hash==='import') openImport();
       else if(hash==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
       else if(hash.indexOf('diary/')===0) openDiaryPage(hash.slice(6));
+      else if(/^u\/[^/]+\/rotation$/.test(hash)) openRotationPage(hash.slice(2).replace(/\/rotation$/,''));
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
       else if(hash.indexOf('dj/')===0) openArtist(hash.slice(3));
       else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));          // legacy /a/
