@@ -2367,6 +2367,12 @@
 .diary-page .pb-ds-body .ptiles{margin-top:11px;grid-template-columns:repeat(auto-fill,minmax(62px,1fr));gap:11px 10px;max-width:none}
 .diary-page .pb-ds .dv-del{margin-left:auto;width:26px;height:26px;font-size:15px}
 .diary-page .pb-ds-note{font-size:13px;line-height:1.5;margin-top:10px;padding-top:9px;border-top:1px dashed var(--border);color:var(--fg)}
+/* Coming-up rows on the profile: the ticket-stub as a tappable button */
+.pf-cu-row{ width:100%; text-align:left; font:inherit; color:inherit; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+.pf-cu-row:hover{ border-color:var(--accent); }
+.pf-cu-row .pb-ds-line{ margin-top:0; }
+/* city label alongside the venue in diary/past-sets — muted, inherits the mono uppercase */
+.pb-ds-city{ color:var(--muted); font:inherit; }
 /* artist bio (real, from SoundCloud) + "you've caught them N times" panel */
 .artist-bio{white-space:pre-line}
 .bio-src{color:var(--accent);font:600 .82rem var(--body);text-decoration:none;white-space:nowrap}
@@ -2429,7 +2435,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782945625978">
+<meta name="sc-build" content="1782946754519">
 </head>
 <body>
   <main class="wrap">
@@ -3492,7 +3498,7 @@
     });
     document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
     document.getElementById('bnav-discover').addEventListener('click',function(){ openDiscover(); });
-    document.getElementById('bnav-picks').addEventListener('click',function(){ if(currentUser) openUpcoming(); else openMyPicks(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
     document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
     // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
     (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
@@ -3712,7 +3718,7 @@
           '<div class="acct-menu" id="acct-menu" role="menu">'+
             '<div class="am-h"><b>u/'+esc(currentUser.handle)+'</b>'+(currentUser.displayName?'<small>'+esc(currentUser.displayName)+'</small>':'')+'</div>'+
             '<button class="am-i" data-am="profile" role="menuitem">My profile</button>'+
-            '<button class="am-i" data-am="picks" role="menuitem">My picks</button>'+
+            '<button class="am-i" data-am="upcoming" role="menuitem">Coming up</button>'+
             '<button class="am-i" data-am="diary" role="menuitem">Diary</button>'+
             '<button class="am-i" data-am="log" role="menuitem">Log a gig</button>'+
             '<button class="am-i am-out" data-am="out" role="menuitem">Sign out</button>'+
@@ -3721,7 +3727,7 @@
         wb.addEventListener('click',function(e){ e.stopPropagation(); var open=menu.classList.toggle('show'); wb.setAttribute('aria-expanded', open?'true':'false'); });
         menu.querySelectorAll('.am-i').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); menu.classList.remove('show'); var a=b.dataset.am;
           if(a==='profile') openProfile(currentUser.handle);
-          else if(a==='picks') openMyPicks();
+          else if(a==='upcoming') openUpcoming();
           else if(a==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
           else if(a==='log') openLog();
           else if(a==='out') signOut();
@@ -4504,7 +4510,7 @@
         authedFetch('/api/profile?handle='+encodeURIComponent(handle)).then(function(r){ return r.json(); }).catch(function(){ return null; }),
         authedFetch('/api/upcoming').then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; })
       ]).then(function(res){
-        var p=res[0]||{}; p.isMe=true; if(!p.handle) p.handle=handle;
+        var p=res[0]||{}; p.isMe=true; if(!p.handle) p.handle=handle; p.upcoming=res[1]||null;
         var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[],venues:[]};
         var ab=document.getElementById('acc-body'); if(!ab) return;
         ab.innerHTML=pbProfileHTML(p);
@@ -4839,11 +4845,12 @@
         var day=dt?String(dt.getDate()).padStart(2,'0'):'&ndash;', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'', yr=dt?dt.getFullYear():'';
         var arts=diaryValid(d);
         var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var city = d.city ? '<span class="pb-ds-city">'+esc(cityLabel(d.city))+'</span>' : '';
         var ev = d.event_id ? '<a class="pb-ds-ev" data-event-id="'+esc(String(d.event_id))+'">view event &rsaquo;</a>' : '';
         var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
         var tiles = arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
         var note = d.note?'<div class="pb-ds-note">'+esc(d.note)+'</div>':'';
-        return '<div class="pb-ds"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div>'+(yr?'<div class="pb-ds-y">'+yr+'</div>':'')+'</div><div class="pb-ds-body"><div class="pb-ds-venue">'+vn+ev+del+'</div>'+tiles+note+'</div></div>';
+        return '<div class="pb-ds"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div>'+(yr?'<div class="pb-ds-y">'+yr+'</div>':'')+'</div><div class="pb-ds-body"><div class="pb-ds-venue">'+vn+city+ev+del+'</div>'+tiles+note+'</div></div>';
       }).join('')+'</div>';
     }
     // Wire a rendered diary: artist tiles → artist page, venue → venue page, and
@@ -4936,7 +4943,8 @@
       var arts=(typeof diaryValid==='function')?diaryValid(d):(d.artists||[]);
       var names=arts.slice(0,4).map(function(a){return a.name||a.slug;}).join(' · ')+(arts.length>4?' +'+(arts.length-4):'');
       var evl = d.event_id ? '<a class="pb-ds-ev" data-event-id="'+esc(String(d.event_id))+'">view event ›</a>' : '';
-      return '<div class="pb-ds"'+(d.venue?' data-venue="'+esc(d.venue)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-venue">'+(d.venue?esc(d.venue):'Gig')+evl+'</div><div class="pb-ds-line">'+esc(names||'—')+'</div></div></div>';
+      var cty = d.city ? '<span class="pb-ds-city">'+esc(cityLabel(d.city))+'</span>' : '';
+      return '<div class="pb-ds"'+(d.venue?' data-venue="'+esc(d.venue)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-venue">'+(d.venue?esc(d.venue):'Gig')+cty+evl+'</div><div class="pb-ds-line">'+esc(names||'—')+'</div></div></div>';
     }
     function pbDiaryPanel(p){
       var diary=p.diary||[], isMe=p.isMe, gigs=(p.stats&&p.stats.gigs)||diary.length||0;
@@ -5092,6 +5100,7 @@
           '<div class="pf-id-acts">'+acts+'</div>'+
         '</div>'+
         pbRotationHTML(p)+
+        pfComingHTML(p)+
         '<div class="pf-cols">'+
           '<div class="pf-box" id="pf-diary"></div>'+
           '<div class="pf-box" id="pf-seen"></div>'+
@@ -5102,6 +5111,27 @@
       '</div>';
     }
     function pfHead(title, count, actHtml){ return '<div class="pf-h"><span class="pf-h-t">'+esc(title)+'</span>'+(count!=null?'<span class="pf-h-ct">'+count+'</span>':'')+(actHtml||'')+'</div>'; }
+    // "Coming up" — the owner's followed artists' next gigs, flattened + sorted by date.
+    // Reuses the diary ticket-stub (.pb-ds) as a tappable row. Own profile only (needs p.upcoming).
+    function pfComingHTML(p){
+      if(!p.isMe) return '';
+      var arts=(p.upcoming&&p.upcoming.artists)||[], rows=[], seen={};
+      arts.forEach(function(a){ (a.gigs||[]).forEach(function(g){
+        if(!g||!g.event_date) return;
+        var r={ date:String(g.event_date).slice(0,10), act:a.name||a.slug, venue:g.venue||'', city:g.city||'', id:g.id };
+        var k=r.act+'|'+r.date+'|'+r.venue; if(seen[k]) return; seen[k]=1; rows.push(r);
+      }); });
+      if(!rows.length) return '';
+      rows.sort(function(x,y){ return x.date.localeCompare(y.date); });   // soonest first
+      var act = rows.length>5 ? '<button class="pf-h-act" id="pf-cu-all" type="button">See all ›</button>' : '';
+      var body=rows.slice(0,5).map(function(r){
+        var dt=new Date(r.date+'T12:00:00');
+        var day=String(dt.getDate()).padStart(2,'0'), mon=dt.toLocaleDateString('en-GB',{month:'short'});
+        var sub=[r.venue, r.city?cityLabel(r.city):''].filter(Boolean).join(' · ');
+        return '<button class="pb-ds pf-cu-row" type="button" data-cu-ev="'+esc(String(r.id))+'"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-line">'+esc(r.act)+'</div>'+(sub?'<div class="pb-ds-tags">'+esc(sub)+'</div>':'')+'</div></button>';
+      }).join('');
+      return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', rows.length, act)+'<div class="pb-stubs" style="margin-top:12px">'+body+'</div></div>';
+    }
     function pfDiaryHTML(p){
       var diary=p.diary||[], isMe=p.isMe, gigs=(p.stats&&p.stats.gigs)||diary.length||0;
       var head=pfHead('Gig diary', gigs, diary.length>4?'<button class="pf-h-act" id="pf-seeall" type="button">See all ›</button>':'');
@@ -5120,6 +5150,9 @@
       wireRotation(p);
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
       var lg=document.getElementById('pf-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
+      // Coming up: each row opens its event; "See all" → the full Coming up page
+      document.querySelectorAll('#pf-coming .pf-cu-row[data-cu-ev]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.cuEv) openEvent(b.dataset.cuEv); }); });
+      var cua=document.getElementById('pf-cu-all'); if(cua) cua.addEventListener('click',function(){ openUpcoming(); });
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
@@ -5271,6 +5304,13 @@
         var w=upWindow();
         var r=await authedFetch('/api/upcoming'+(w?('?from='+w[0]+'&to='+w[1]):'')); var j=await r.json();
         var A=j.artists||[], V=j.venues||[], F=j.friends||[];
+        // order each entity's gigs by date, then order the entities by their soonest gig (acts coming soonest first)
+        function byNextDate(list){
+          list.forEach(function(e){ (e.gigs||[]).sort(function(a,b){ return String(a.event_date).localeCompare(String(b.event_date)); }); });
+          list.sort(function(a,b){ return String((a.gigs&&a.gigs[0]&&a.gigs[0].event_date)||'9999').localeCompare(String((b.gigs&&b.gigs[0]&&b.gigs[0].event_date)||'9999')); });
+          return list;
+        }
+        byNextDate(A); byNextDate(V); byNextDate(F);
         var feeds={ artists:{list:A,kind:'artist'}, venues:{list:V,kind:'venue'}, friends:{list:F,kind:'friend'} };
         if(!A.length && !V.length && !F.length){ box.innerHTML='<div class="empty">'+upEmpty()+'</div>'; return; }
         function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
@@ -5798,7 +5838,7 @@
           h+='<div class="sec-h" style="margin-top:26px">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var label=g.title||g.venue||'Event';
-            var sub=(g.title&&g.venue)?g.venue:cityLabel(g.city);
+            var sub=[(g.title&&g.venue)?g.venue:'', cityLabel(g.city)].filter(Boolean).join(' · ');
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
@@ -6028,8 +6068,9 @@
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
+            var pvsub=[g.venue, cityLabel(g.city)].filter(Boolean).join(' · ');
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
-              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(g.venue?' <small>'+esc(g.venue)+'</small>':'')+'</button></li>';
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(pvsub?' <small>'+esc(pvsub)+'</small>':'')+'</button></li>';
           }).join('')+'</ul>';
           ppst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
           ppst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
