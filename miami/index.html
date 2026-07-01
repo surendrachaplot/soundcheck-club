@@ -1527,8 +1527,9 @@
       .pf { max-width:none; padding:20px 0 56px; gap:16px; }
       .pf-id-acts { justify-content:flex-start; }
       .pf-id-acts .pf-btn { flex:0 0 auto; padding:0 20px; }
-      .pf-cols { display:block; column-count:2; column-gap:16px; }
-      .pf-cols > .pf-box { break-inside:avoid; margin:0 0 16px; }
+      /* explicit 2-col grid (not masonry) so pairs line up: diary|coming-up, seen|wanna, venues|events */
+      .pf-cols { display:grid; grid-template-columns:1fr 1fr; gap:16px; align-items:start; }
+      .pf-cols > .pf-box { margin:0; }
     }
     .rc-box.tc-box .pb-hero { padding:0; }
     .rc-box.tc-box .tb-pass { max-width:none; width:100%; margin:0; grid-template-columns:1fr; }
@@ -2288,7 +2289,7 @@
 .pb-ds-d{font-family:var(--head);font-weight:800;font-size:24px;line-height:.9}
 .pb-ds-m{font-family:var(--font-mono);font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin-top:4px}
 .pb-ds-body{padding:11px 14px;flex:1;min-width:0}
-.pb-ds-venue{display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.pb-ds-venue{display:flex;align-items:center;flex-wrap:wrap;gap:4px 8px;font-family:var(--font-mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
 .pb-stamp{border:1px solid rgba(255,122,107,.4);border-radius:5px;padding:1px 6px;color:var(--accent);font-size:9px;letter-spacing:.14em}
 .pb-ds-line{font-size:14px;font-weight:600;margin-top:5px}
 .pb-ds-tags{font-size:11.5px;color:var(--muted);margin-top:3px}
@@ -2435,7 +2436,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782946754519">
+<meta name="sc-build" content="1782947305017">
 </head>
 <body>
   <main class="wrap">
@@ -5100,9 +5101,9 @@
           '<div class="pf-id-acts">'+acts+'</div>'+
         '</div>'+
         pbRotationHTML(p)+
-        pfComingHTML(p)+
         '<div class="pf-cols">'+
           '<div class="pf-box" id="pf-diary"></div>'+
+          pfComingHTML(p)+
           '<div class="pf-box" id="pf-seen"></div>'+
           '<div class="pf-box" id="pf-wanna"></div>'+
           '<div class="pf-box" id="pf-venues"></div>'+
@@ -5121,7 +5122,7 @@
         var r={ date:String(g.event_date).slice(0,10), act:a.name||a.slug, venue:g.venue||'', city:g.city||'', id:g.id };
         var k=r.act+'|'+r.date+'|'+r.venue; if(seen[k]) return; seen[k]=1; rows.push(r);
       }); });
-      if(!rows.length) return '';
+      if(!rows.length) return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', 0, '')+'<div class="empty" style="padding:2px">Nothing from your follows yet — heart artists to catch their next gigs.</div></div>';
       rows.sort(function(x,y){ return x.date.localeCompare(y.date); });   // soonest first
       var act = rows.length>5 ? '<button class="pf-h-act" id="pf-cu-all" type="button">See all ›</button>' : '';
       var body=rows.slice(0,5).map(function(r){
