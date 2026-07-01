@@ -2395,7 +2395,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782933009314">
+<meta name="sc-build" content="1782933280558">
 </head>
 <body>
   <main class="wrap">
@@ -4929,9 +4929,9 @@
       var who=isMe?'you’re':(esc(p.displayName||('u/'+p.handle))+'’s ears are');
       var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">In rotation</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
         (rot.length?'<button class="pb-rot-btn pb-rot-acc" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
-        '<button class="pb-rot-btn gh act-icon" id="pb-rot-share" type="button" aria-label="Share this rotation"><i class="ti ti-share-2" aria-hidden="true"></i></button>'+
         (isMe?'<button class="pb-rot-btn gh" id="pb-rot-add" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Add DJ</button>':'')+
-        (isMe&&rot.length?'<button class="pb-rot-btn gh act-icon" id="pb-rot-edit" type="button" aria-label="Reorder or remove"><i class="ti ti-adjustments-horizontal" aria-hidden="true"></i></button>':'')+
+        (isMe&&rot.length?'<button class="pb-rot-btn gh" id="pb-rot-edit" type="button"><i class="ti ti-arrows-sort" aria-hidden="true"></i> Reorder</button>':'')+
+        '<button class="pb-rot-btn gh" id="pb-rot-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>'+
       '</div></div>';
       return '<div class="pb-rot" id="pb-rot"><div class="pb-rot-inner">'+head+'<div class="pb-rot-rail" id="pb-rot-rail"></div></div></div>';
     }
@@ -4969,7 +4969,7 @@
       var pa=document.getElementById('pb-rot-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(pbRot); });
       var sh=document.getElementById('pb-rot-share'); if(sh) sh.addEventListener('click',function(){ openRotationPage(p.handle); });
       var ad=document.getElementById('pb-rot-add'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
-      var ed=document.getElementById('pb-rot-edit'); if(ed) ed.addEventListener('click',function(){ pbRotEditing=!pbRotEditing; var box=document.getElementById('pb-rot'); if(box) box.classList.toggle('editing',pbRotEditing); ed.classList.toggle('on',pbRotEditing); renderRotRail(); });
+      var ed=document.getElementById('pb-rot-edit'); if(ed) ed.addEventListener('click',function(){ pbRotEditing=!pbRotEditing; var box=document.getElementById('pb-rot'); if(box) box.classList.toggle('editing',pbRotEditing); ed.classList.toggle('on',pbRotEditing); ed.innerHTML=pbRotEditing?'<i class="ti ti-check" aria-hidden="true"></i> Done':'<i class="ti ti-arrows-sort" aria-hidden="true"></i> Reorder'; renderRotRail(); });
     }
     async function rotationPlayAll(list){
       list=(list||pbRot).filter(function(x){ return x&&x.slug; });
