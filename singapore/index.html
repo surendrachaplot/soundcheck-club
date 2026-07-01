@@ -2418,7 +2418,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782938506532">
+<meta name="sc-build" content="1782939014531">
 </head>
 <body>
   <main class="wrap">
@@ -2448,8 +2448,6 @@
       <button class="qchip alt" id="pick-near" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span id="pick-near-label">Near me</span></button>
     </div>
 
-    <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
-
     <div class="status" id="status" role="status" aria-live="polite"></div>
     <div class="signup-banner" id="signup-banner" hidden>
       <div><div class="b-h">Almost there</div><div class="b-t">Check <strong id="signup-banner-email">your inbox</strong> for your magic link to save your picks &amp; claim your profile.</div></div>
@@ -2470,6 +2468,9 @@
     </div><!-- /#home -->
 
     <div id="page-view" class="page-view" hidden></div>
+    <!-- Date picker lives at body level (NOT inside #home, which is display:none on
+         any open page) so it works on the log page + every overlay, not just home. -->
+    <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
     <!-- persistent footer chrome — shows below whichever view is active (all pages) -->
     <div class="teaser">
       <span class="tt">Come help us build the first <b>community-owned club in London.</b></span>
