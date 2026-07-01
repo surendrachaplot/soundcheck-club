@@ -398,8 +398,8 @@
     .transport { display:flex; align-items:center; gap:14px; }
     .scrub { display:flex; align-items:center; gap:10px; }
     .scrub .t { font-variant-numeric:tabular-nums; color:var(--muted); font-size:var(--fs-xs); white-space:nowrap; }
-    .scrub .skip { gap:2px; font:inherit; font-size:var(--fs-xs); font-weight:800; white-space:nowrap; flex-shrink:0; }
-    .scrub .skip svg { width:var(--icon-md); height:var(--icon-md); }
+    .skip { gap:3px; font:inherit; font-size:var(--fs-xs); font-weight:800; white-space:nowrap; flex-shrink:0; }
+    .skip svg { width:var(--icon-md); height:var(--icon-md); }
     .scrub .bar { flex:1; min-width:0; height:6px; border-radius:999px; background:rgba(255,255,255,0.14); position:relative; cursor:pointer; touch-action:none; }
     .scrub .bar-fill { position:absolute; left:0; top:0; bottom:0; width:0%; background:var(--accent); border-radius:999px; }
     .scrub .bar-knob { position:absolute; top:50%; left:0%; width:28px; height:28px; border-radius:999px; background:var(--accent-grad); transform:translate(-50%,-50%); box-shadow:0 3px 10px rgba(0,0,0,0.4); border:none; padding:0; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; color:var(--accent-ink); -webkit-tap-highlight-color:transparent; touch-action:none; }
@@ -484,11 +484,7 @@
       .dock.expanded .dock-acts .heart, .dock.expanded .dock-acts .seen-btn { width:44px; height:44px; padding:0; border-radius:13px; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
       .dock.expanded .dock-acts .heart span { display:none; }
       .dock.expanded .dock-acts .heart.on, .dock.expanded .dock-acts .seen-btn.on { border-color:var(--accent); color:var(--accent); background:rgba(255,122,107,.14); }
-      /* transport order: ±15 · prev · next · ±15 (the scrubber knob is the play/pause) */
-      .dock.expanded #skip-back { order:1; }
-      .dock.expanded #dock-prev { order:2; }
-      .dock.expanded #dock-next { order:3; }
-      .dock.expanded #skip-fwd { order:4; }
+      /* transport order (−15 · prev · next · +15) now comes from DOM order — same on web + mobile */
       body.has-dock { padding-bottom:380px; }
       body.has-dock.dock-collapsed { padding-bottom:96px; }
     }
@@ -2330,7 +2326,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782916473716">
+<meta name="sc-build" content="1782916681198">
 </head>
 <body>
   <main class="wrap">
@@ -2412,12 +2408,16 @@
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
         <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button><button class="seen-btn dock-act" id="dock-seen" type="button" data-name="" aria-label="Seen live"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Seen</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
+        <!-- Fixed order everywhere (web + mobile): −15 · prev · [play] · next · +15.
+             The play button is hidden (the scrubber knob is play/pause), so the visible
+             row is −15 · prev · next · +15 on both; DOM order = render order, no per-
+             breakpoint reshuffling. -->
         <div class="transport">
+          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>&minus;15</span></button>
           <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
-          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>15</span></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
-          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
           <button class="iconbtn" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
+          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
         </div>
         <div class="scrub">
           <span class="t" id="t-cur">0:00</span>
