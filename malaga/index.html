@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782916250443">
+<meta name="sc-build" content="1782916473716">
 </head>
 <body>
   <main class="wrap">
@@ -3083,8 +3083,8 @@
     // ── Weekend Radio: 6 minutes with every DJ playing this weekend ──
     // The station is derived, not stored: Fri+Sat day feeds for the current
     // city → dedupe artists (event order = popularity) → play each DJ's
-    // SoundCloud for up to six minutes, then a station-ID voiceover and on to
-    // the next. The artist's SoundCloud URL rides along in the day feed, so no
+    // SoundCloud for up to six minutes, then straight on to the next DJ. The
+    // artist's SoundCloud URL rides along in the day feed, so no
     // per-track resolve call is needed.
     var RADIO_SECONDS=360;
     var radio={ on:false, queue:[], i:-1, played:0, tick:null, station:null };
@@ -3113,7 +3113,6 @@
     }
     function radioStop(){
       if(radio.tick){ clearInterval(radio.tick); radio.tick=null; }
-      try{ if('speechSynthesis' in window) window.speechSynthesis.cancel(); }catch(_){} // stop any station-ID voice
       try{ if(radioYt && radioYt.pauseVideo) radioYt.pauseVideo(); }catch(_){} // keep player alive (stays unlocked)
       radio.on=false; radio.queue=[]; radio.i=-1; radio.played=0; radioScPlaying=false;
       document.body.classList.remove('radio-on');
@@ -3155,49 +3154,10 @@
         i=(i+delta+radio.queue.length)%radio.queue.length; tries++;
         var vid=await radioResolve(radio.queue[i]);
         if(!radio.on) return; // stopped while resolving
-        if(vid){ radio.i=i; radioSayThenPlay(radio.queue[i]); return; }
+        if(vid){ radio.i=i; radioPlayEntry(radio.queue[i]); return; }
       }
       showToast('Couldn’t find sets to play.');
       stopActive();
-    }
-    // Station ID: an auto-generated voice (Web Speech API) instead of canned mp3
-    // clips — a short spoken line at the start of the radio and between DJs. The
-    // voice is chosen once from the most natural-sounding one the device offers.
-    var RADIO_LINES=['Soundcheck Radio', 'Soundcheck'];
-    var _scVoice=null, _scVoicePicked=false;
-    function pickRadioVoice(){
-      if(_scVoicePicked) return _scVoice;
-      if(!('speechSynthesis' in window)){ _scVoicePicked=true; return null; }
-      var vs=window.speechSynthesis.getVoices()||[];
-      if(!vs.length) return null; // not loaded yet — retry on next call / voiceschanged
-      _scVoicePicked=true;
-      // prefer known natural/premium voices, then any English voice, then anything
-      var prefer=[/Google UK English Female/i,/Google US English/i,/Samantha/i,/Serena/i,/Microsoft Aria/i,/Microsoft Jenny/i,/natural/i,/enhanced/i,/premium/i];
-      for(var p=0;p<prefer.length;p++){ for(var i=0;i<vs.length;i++){ if(prefer[p].test(vs[i].name)){ _scVoice=vs[i]; return _scVoice; } } }
-      for(var j=0;j<vs.length;j++){ if(/^en(-|_|$)/i.test(vs[j].lang)){ _scVoice=vs[j]; return _scVoice; } }
-      _scVoice=vs[0]; return _scVoice;
-    }
-    if('speechSynthesis' in window){ try{ window.speechSynthesis.onvoiceschanged=function(){ _scVoicePicked=false; pickRadioVoice(); }; pickRadioVoice(); }catch(_){} }
-    function radioPlayVo(onDone){
-      var done=false, fin=function(){ if(done) return; done=true; if(onDone) onDone(); };
-      try{
-        if(!('speechSynthesis' in window)) return fin();
-        var u=new SpeechSynthesisUtterance(RADIO_LINES[Math.floor(Math.random()*RADIO_LINES.length)]);
-        var v=pickRadioVoice(); if(v){ u.voice=v; u.lang=v.lang; } else { u.lang='en-GB'; }
-        u.rate=0.96; u.pitch=1.0; u.volume=1.0;
-        u.onend=fin; u.onerror=fin;
-        window.speechSynthesis.cancel();   // clear any stuck/queued utterance
-        window.speechSynthesis.speak(u);
-        setTimeout(fin, 6000); // safety: never let a stuck voice stall the radio
-      }catch(_){ fin(); }
-    }
-    // Calling this from the start tap also UNLOCKS the audio element on iOS, so
-    // the later between-DJ clips (no user gesture) are allowed to play.
-    function radioSpeakId(){ radioPlayVo(null); }
-    function radioSayThenPlay(entry){
-      var started=false, go=function(){ if(started||!radio.on) return; started=true; radioPlayEntry(entry); };
-      try{ if(radioYt && radioYt.pauseVideo) radioYt.pauseVideo(); }catch(_){} // duck the outgoing set under the ID
-      radioPlayVo(go); // bring in the next set when the clip finishes
     }
     // Join the broadcast where it is right now (mid-set). If the scheduled
     // artist has no findable set, fall forward to the next who does.
@@ -3218,8 +3178,8 @@
     // dockMedia, can't wipe it). YouTube's IFrame API allows programmatic
     // playback from a parent gesture, so we prewarm a player cued to the on-air
     // DJ; the tap calls playVideo() to unlock it, and every later track reuses
-    // it via loadVideoById — which is how advance + the voiceover transitions
-    // keep playing without a fresh gesture. Sets play minutes 6→12 (start=360).
+    // it via loadVideoById — which is how the 6-min handoffs keep playing
+    // without a fresh gesture. Sets play minutes 6→12 (start=360).
     var radioYt=null, radioIframe=null, radioWidgetReady=false;
     function radioHostEl(){
       var h=document.getElementById('radio-audio');
@@ -3306,7 +3266,6 @@
       if(!(await gateForPlay())) return;    // microtask only — keeps user-activation alive
       try{
         showToast('Tuning in…'); // the FAB is hidden on mobile, so confirm the tap
-        radioSpeakId(); // announce on tune-in + unlock speech for the 6-min handoffs (must be in the tap)
         var key=radioWarmKey();
         // FAST PATH: warm station ready → start inside the gesture so mobile
         // autoplay is allowed. Pick the on-air DJ and the next one with a set.
@@ -3342,7 +3301,6 @@
       if(!ev || !(ev.artists||[]).length){ showToast('No lineup to play yet.'); return; }
       if(radio.on && radio.station==='event:'+ev.id){ stopActive(); return; } // toggle off
       if(!(await gateForPlay())) return;
-      radioSpeakId(); // announce + unlock speech in the tap
       var q=[];
       (ev.artists||[]).forEach(function(a){
         var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
@@ -3360,7 +3318,6 @@
       if(!slug) return;
       if(radio.on && radio.station==='artist:'+slug){ stopActive(); return; } // toggle off
       if(!(await gateForPlay())) return;
-      radioSpeakId();
       var q=[{ slug:slug, name:name||slug, yt:null, tried:false, venue:'', day:'', poster:'', eventId:null }];
       (along||[]).forEach(function(a){ if(a && a.slug) q.push({ slug:a.slug, name:a.name, yt:null, tried:false, venue:'', day:'', poster:'', eventId:null }); });
       stopActive();
@@ -3373,7 +3330,6 @@
       if(!list.length){ showToast('No artists to play yet.'); return; }
       if(radio.on && radio.station===stationId){ stopActive(); return; } // toggle off
       if(!(await gateForPlay())) return;
-      radioSpeakId();
       var q=list.map(function(a){ return { slug:a.slug, name:a.name||a.slug, yt:null, tried:false, venue:'', day:'', poster:a.image||'', eventId:null }; });
       stopActive();
       radio.queue=seededShuffle(q, stationId); radio.on=true; radio.i=-1; radio.station=stationId;
