@@ -1527,9 +1527,11 @@
       .pf { max-width:none; padding:20px 0 56px; gap:16px; }
       .pf-id-acts { justify-content:flex-start; }
       .pf-id-acts .pf-btn { flex:0 0 auto; padding:0 20px; }
-      /* explicit 2-col grid (not masonry) so pairs line up: diary|coming-up, seen|wanna, venues|events */
-      .pf-cols { display:grid; grid-template-columns:1fr 1fr; gap:16px; align-items:start; }
-      .pf-cols > .pf-box { margin:0; }
+      /* explicit 2-col grid (not masonry) so pairs line up: diary|coming-up, seen|wanna, venues|events.
+         minmax(0,1fr) + min-width:0 are REQUIRED — otherwise a wide horizontal rail (venues/events)
+         blows its column past 1fr and skews every row lopsided. */
+      .pf-cols { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:16px; align-items:start; }
+      .pf-cols > .pf-box { margin:0; min-width:0; }
     }
     .rc-box.tc-box .pb-hero { padding:0; }
     .rc-box.tc-box .tb-pass { max-width:none; width:100%; margin:0; grid-template-columns:1fr; }
@@ -2436,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782947305017">
+<meta name="sc-build" content="1782947870980">
 </head>
 <body>
   <main class="wrap">
