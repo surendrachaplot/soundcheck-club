@@ -32,10 +32,10 @@
       /* DS v2 — brightness-stepped surfaces (no shadows), text-opacity hierarchy */
       --bg:#0e0d12; --surface:#16141b; --surface-2:#1f1c26; --surface-3:#2a2633;
       --fg:#f4efe9; --muted:#a39fab; --faint:#6d6976;
-      --accent:#ff7a6b; --accent-weak:rgba(255,122,107,0.12); --border:#322e3b; --ink:#1a0f0e; --accent-ink:#1a0f0e;
+      --accent:#ff7a6b; --accent-weak:rgba(255,122,107,0.12); --border:#322e3b; --line:#322e3b; --ink:#1a0f0e; --accent-ink:#1a0f0e;
       --accent-grad:linear-gradient(140deg, #ff8a72 0%, #f56552 100%);   /* subtle salmon sheen — play buttons */
       /* type — Bricolage = display/voice, Inter = dense body/metadata */
-      --head:"Bricolage Grotesque",sans-serif; --body:"Inter","Bricolage Grotesque",sans-serif;
+      --head:"Bricolage Grotesque",sans-serif; --body:"Inter","Bricolage Grotesque",sans-serif; --font-mono:ui-monospace,"SFMono-Regular",Menlo,monospace;
       --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
       --fs-xs:0.72rem; --fs-sm:0.8rem; --fs-base:0.9rem; --fs-md:1.05rem; --fs-lg:1.4rem; --fs-xl:1.7rem; --fs-2xl:2rem;
       /* spacing — 8pt grid */
@@ -730,6 +730,7 @@
     /* Page title (style C): big Bricolage title + short coral underline. */
     /* DS: page title — large display headline (~2× the old size), clamped for mobile. Global. */
     .page-title { font-family:var(--head); font-weight:800; font-size:clamp(2.5rem, 7vw, 4rem); letter-spacing:-0.04em; line-height:1.0; margin:0 0 18px; }
+    .sub { color:var(--muted); font-size:var(--fs-base); line-height:1.55; }   /* page subtitle — was unstyled (rendered full-brightness) */
     .page-title::after { content:""; display:block; width:72px; height:6px; background:var(--accent); border-radius:3px; margin-top:14px; }
     /* Section header (style 1): coral tick + title + count pill, control pushed right. */
     /* DS: section header (continent tags, "Find your venue", "Venues", shelves…) — ~2× larger. Global. */
@@ -1434,13 +1435,13 @@
     /* log-a-gig */
     .lg-field { margin-bottom:14px; }
     .lg-chips { display:flex; flex-wrap:wrap; gap:8px; }
-    .lg-chip { background:var(--bg); border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:7px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s, background .12s; }
+    .lg-chip { background:var(--surface-2); border:1px solid var(--border); color:var(--muted); border-radius:999px; padding:7px 13px; font:600 var(--fs-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, color .12s, background .12s; }
     .lg-chip.on { border-color:var(--accent); color:var(--accent-ink); background:var(--accent); }
     .lg-field label { display:block; font-size:var(--fs-xs); font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:var(--muted); margin-bottom:7px; }
-    .lg-field input, .lg-field textarea { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
+    .lg-field input, .lg-field textarea { width:100%; background:var(--surface-2); border:1px solid var(--border); color:var(--fg); border-radius:11px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
     .lg-field textarea { resize:vertical; min-height:72px; }
-    .lg-rangebtn { display:inline-flex; align-items:center; gap:9px; width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:600 var(--fs-md) var(--body); cursor:pointer; text-align:left; transition:border-color .12s; }
+    .lg-rangebtn { display:inline-flex; align-items:center; gap:9px; width:100%; background:var(--surface-2); border:1px solid var(--border); color:var(--fg); border-radius:11px; padding:11px 13px; font:600 var(--fs-md) var(--body); cursor:pointer; text-align:left; transition:border-color .12s; }
     .lg-rangebtn:hover { border-color:var(--accent); }
     .lg-rangebtn svg { width:var(--icon-sm); height:var(--icon-sm); color:var(--accent); flex:0 0 auto; }
     .lg-opt { text-transform:none; letter-spacing:0; color:var(--muted); font-weight:500; margin-left:4px; }
@@ -1510,6 +1511,7 @@
     .pf-btn:hover { border-color:var(--accent); }
     .pf-btn.primary { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .pf-btn.follow.following { background:transparent; color:var(--accent); border-color:var(--accent); }
+    .pf-btn.block { width:100%; }   /* full-width form/CTA button */
     .pf-id-top { display:flex; align-items:center; gap:14px; }
     .pf-av { width:64px; height:64px; border-radius:50%; flex:0 0 auto; background-color:var(--surface-2); background-size:cover; background-position:center; }
     .pf-id-name { font:800 21px var(--head); line-height:1.05; letter-spacing:-0.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -1539,19 +1541,19 @@
     .lg-pre-l { color:var(--muted); font-size:var(--fs-sm); margin-top:7px; }
     /* indexed-night picker */
     .lg-events { display:flex; flex-direction:column; gap:8px; max-height:340px; overflow-y:auto; }
-    .lg-ev { display:grid; grid-template-columns:auto 1fr; column-gap:13px; row-gap:2px; align-items:center; text-align:left; background:var(--bg); border:1px solid var(--border); border-radius:10px; padding:10px 13px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, background .12s; }
+    .lg-ev { display:grid; grid-template-columns:auto 1fr; column-gap:13px; row-gap:2px; align-items:center; text-align:left; background:var(--surface-2); border:1px solid var(--border); border-radius:11px; padding:10px 13px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color .12s, background .12s; }
     .lg-ev:hover { border-color:var(--accent); }
-    .lg-ev.on { border-color:var(--accent); background:rgba(255,122,107,0.10); }
+    .lg-ev.on { border-color:var(--accent); background:var(--accent-weak); }
     .lg-ev .le-d { grid-column:1; grid-row:1 / span 2; align-self:center; font:700 var(--fs-sm) var(--head); color:var(--accent); white-space:nowrap; }
     .lg-ev .le-t { grid-column:2; font-size:var(--fs-base); color:var(--fg); }
     .lg-ev .le-l { grid-column:2; font-size:var(--fs-sm); color:var(--muted); }
     /* autosuggest dropdown */
     .sg-wrap { position:relative; }
-    .sg-drop { position:absolute; left:0; right:0; top:calc(100% + 4px); background:var(--surface); border:1px solid var(--border); border-radius:10px; overflow:hidden; z-index:5; display:none; max-height:240px; overflow-y:auto; box-shadow:0 12px 30px rgba(0,0,0,0.45); }
+    .sg-drop { position:absolute; left:0; right:0; top:calc(100% + 4px); background:var(--surface); border:1px solid var(--border); border-radius:11px; overflow:hidden; z-index:5; display:none; max-height:240px; overflow-y:auto; box-shadow:0 12px 30px rgba(0,0,0,0.45); }
     .sg-drop.show { display:block; }
     .sg-drop button { display:block; width:100%; text-align:left; background:transparent; border:none; color:var(--fg); font:500 var(--fs-base) var(--body); padding:10px 12px; cursor:pointer; border-bottom:1px solid var(--border); }
     .sg-drop button:last-child { border-bottom:none; }
-    .sg-drop button:hover, .sg-drop button.hot { background:rgba(255,122,107,0.12); }
+    .sg-drop button:hover, .sg-drop button.hot { background:var(--accent-weak); }
     .sg-drop button small { color:var(--muted); font-weight:400; }
     .sg-drop .sg-empty { padding:10px 12px; color:var(--muted); font-size:var(--fs-sm); }
 
@@ -1700,7 +1702,7 @@
     /* ── Nights: collaborative board ── */
     .toast-act { background:none; border:none; color:var(--accent); font-weight:700; font-size:inherit; cursor:pointer; padding:0 0 0 10px; }
     /* contextual hint at the top of the log form when you arrive from "marked seen → log the gig" */
-    .lg-hint { display:inline-flex; align-items:center; gap:8px; margin:0 0 14px; padding:9px 14px; border-radius:10px; background:rgba(255,122,107,0.12); border:1px solid rgba(255,122,107,0.35); color:var(--fg); font:600 var(--fs-sm) var(--body); }
+    .lg-hint { display:inline-flex; align-items:center; gap:8px; margin:0 0 14px; padding:9px 14px; border-radius:11px; background:var(--accent-weak); border:1px solid rgba(255,122,107,0.35); color:var(--fg); font:600 var(--fs-sm) var(--body); }
     .lg-hint svg { width:16px; height:16px; color:var(--accent); flex:0 0 auto; }
     .lg-hint b { color:var(--accent); font-weight:800; }
     .nstack { display:inline-flex; vertical-align:middle; }
@@ -2357,6 +2359,14 @@
 .pb-ds-ev:hover{text-decoration:underline}
 .dv-event{background:none;border:0;color:var(--accent);font:inherit;cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:2px}
 .dv-sep{color:var(--muted);margin:0 3px}
+/* Full gig-diary page: reuse the ticket-stub (.pb-ds) card, enriched with artist tiles + note + delete */
+.diary-page .pb-stubs{gap:12px}
+.diary-page .pb-ds-date{justify-content:flex-start}
+.diary-page .pb-ds-y{font-family:var(--font-mono);font-size:9px;letter-spacing:.1em;color:var(--faint);margin-top:3px}
+.diary-page .pb-ds-venue{flex-wrap:wrap}
+.diary-page .pb-ds-body .ptiles{margin-top:11px;grid-template-columns:repeat(auto-fill,minmax(62px,1fr));gap:11px 10px;max-width:none}
+.diary-page .pb-ds .dv-del{margin-left:auto;width:26px;height:26px;font-size:15px}
+.diary-page .pb-ds-note{font-size:13px;line-height:1.5;margin-top:10px;padding-top:9px;border-top:1px dashed var(--border);color:var(--fg)}
 /* artist bio (real, from SoundCloud) + "you've caught them N times" panel */
 .artist-bio{white-space:pre-line}
 .bio-src{color:var(--accent);font:600 .82rem var(--body);text-decoration:none;white-space:nowrap}
@@ -2419,7 +2429,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782939385650">
+<meta name="sc-build" content="1782944648511">
 </head>
 <body>
   <main class="wrap">
@@ -4816,15 +4826,24 @@
     function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
     function diaryArts(d){ return diaryValid(d).map(function(a){ return a.name||a.slug; }).join(', '); }
     function diaryDateLabel(d){ return d.gig_date ? fmtDateLabel(String(d.gig_date).slice(0,10)) : ''; }
+    // Full gig-diary page: the profile ticket-stub (.pb-ds), enriched for the full
+    // view with artist tiles + note + delete. Same design language as the profile.
     function diaryTLHTML(diary, isMe){
-      if(!diary.length) return '<div class="empty">No gigs logged yet.</div>';
-      return '<div class="prof-tl">'+diary.map(function(d,i){
-        var dl=diaryDateLabel(d), arts=diaryValid(d);
+      if(!diary.length){
+        return isMe
+          ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Add a night you went to &mdash; it builds your diary and taste profile.</p></div><span class="pb-prob-btn">Log a gig</span></button>'
+          : '<div class="empty">No gigs logged yet.</div>';
+      }
+      return '<div class="pb-stubs">'+diary.map(function(d){
+        var dt=d.gig_date?new Date(String(d.gig_date).slice(0,10)+'T12:00:00'):null;
+        var day=dt?String(dt.getDate()).padStart(2,'0'):'&ndash;', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'', yr=dt?dt.getFullYear():'';
+        var arts=diaryValid(d);
         var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
-        var ev = d.event_id ? '<button class="dv-event" type="button" data-event-id="'+esc(String(d.event_id))+'">View event</button>' : '';
-        var tiles = arts.length ? '<div class="ptiles ptiles-wide" style="margin-top:11px">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
+        var ev = d.event_id ? '<a class="pb-ds-ev" data-event-id="'+esc(String(d.event_id))+'">view event &rsaquo;</a>' : '';
         var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
-        return '<div class="row"><div class="spine"><div class="dot"></div>'+(i<diary.length-1?'<div class="ln"></div>':'')+'</div><div class="card">'+del+'<div class="vn">'+vn+(ev?' <span class="dv-sep">·</span> '+ev:'')+'</div>'+(dl?'<div class="mt">'+esc(dl)+'</div>':'')+tiles+(d.note?'<div class="nt">'+esc(d.note)+'</div>':'')+'</div></div>';
+        var tiles = arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
+        var note = d.note?'<div class="pb-ds-note">'+esc(d.note)+'</div>':'';
+        return '<div class="pb-ds"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div>'+(yr?'<div class="pb-ds-y">'+yr+'</div>':'')+'</div><div class="pb-ds-body"><div class="pb-ds-venue">'+vn+ev+del+'</div>'+tiles+note+'</div></div>';
       }).join('')+'</div>';
     }
     // Wire a rendered diary: artist tiles → artist page, venue → venue page, and
@@ -5166,20 +5185,20 @@
         mine = mine || p.isMe;
         var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
         var nm = p.displayName||('u/'+handle);
-        var logBtn = mine ? '<span class="more" id="diary-log">+ Log a gig</span>' : '';
+        var logBtn = mine ? '<button class="pf-btn primary" id="diary-log" type="button" style="margin-left:auto">Log a gig</button>' : '';
         // breadcrumb back to the profile so the diary never feels like a floating page
         var CHV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>';
         var bc='<button class="diary-bc" type="button" id="diary-bc">'+CHV+'<span>'+esc(mine?'Your profile':nm)+'</span></button>';
         var body='<div class="pd-page diary-page" style="max-width:760px">'+bc+
-          '<div class="sec-h" style="margin-top:4px">Gig diary<span class="ct">'+diary.length+'</span>'+logBtn+'</div>'+
+          '<div class="pb-p-head" style="margin-top:6px"><span class="pb-p-title">Gig diary</span><span class="pb-p-count">'+diary.length+' '+(diary.length===1?'STUB':'STUBS')+'</span>'+logBtn+'</div>'+
           diaryTLHTML(diary, mine)+'</div>';
         openPanel(body);
         wireDiary(panelBody, mine, function(){ openDiaryPage(handle, mine); });
-        var lg=document.getElementById('diary-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
+        ['diary-log','diary-log2'].forEach(function(id){ var b=document.getElementById(id); if(b) b.addEventListener('click',function(){ openLog(); }); });
         var bcb=document.getElementById('diary-bc'); if(bcb) bcb.addEventListener('click',function(){ if(mine) openAccount(); else openProfile(handle); });
         // entity-page sticky bar: name + back + play the seen artists' radio
         var play=(s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
-        armSticky((p.displayName||('u/'+handle))+' · gig diary', play, (panelBody&&panelBody.querySelector('.sec-h'))||document.getElementById('page-body'));
+        armSticky((p.displayName||('u/'+handle))+' · gig diary', play, (panelBody&&panelBody.querySelector('.pb-p-head'))||document.getElementById('page-body'));
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); }
     }
     function wireProfile(){
@@ -6400,21 +6419,23 @@
         '<div class="sub" style="margin-bottom:16px">Fill in what you remember &mdash; the DJ, the venue, or roughly when. Any one is enough; add more to narrow it down.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
+          '<div class="pf-box">'+
           '<div id="lg-pickers">'+
             '<div class="lg-field"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
             '<div class="lg-field"><label>Artist <small class="lg-opt">optional</small></label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
             '<div class="lg-field"><label>Venue <small class="lg-opt">optional</small></label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search any venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
             '<div class="lg-field"><label>Date <small class="lg-opt">optional</small></label><button type="button" id="lg-range" class="lg-rangebtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg><span id="lg-range-lbl">Add a date range</span></button></div>'+
-            '<button type="button" id="lg-find" class="lg-find">Find nights</button>'+
+            '<button type="button" id="lg-find" class="pf-btn primary block" style="margin-top:4px">Find nights</button>'+
             '<div class="err" id="lg-find-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
             '<div class="lg-field" id="lg-events-field" style="display:none;margin-top:16px"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
             '<div class="lg-field" id="lg-lineup-field"><label>Who did you see?</label><div class="lg-chips" id="lg-lineup"></div></div>'+
             '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
-            '<button id="lg-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:10px;padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Save to diary</button>'+
+            '<button id="lg-save" type="button" class="pf-btn primary block">Save to diary</button>'+
             '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
           '</div>'+
+        '</div>'+
         '</div>';
     }
     // A "not here? add it" escape hatch shown under the nights list — for when the
