@@ -736,7 +736,7 @@
     /* DS: section header (continent tags, "Find your venue", "Venues", shelves…) — ~2× larger. Global. */
     .sec-h { font-family:var(--head); font-weight:800; font-size:calc(var(--fs-2xl) * 0.6); letter-spacing:-0.02em; margin:0 0 16px; display:flex; align-items:center; gap:11px; line-height:1.05; }   /* section sub-headers: −40% per request (2rem→1.2rem). Token left shared with .sct-name. */
     .sec-h::before { content:""; width:5px; height:1.02em; background:var(--accent); border-radius:2px; flex:none; }
-    .sec-h .ct { font:600 var(--fs-sm)/1 var(--body); color:var(--muted); background:#26262d; border-radius:999px; padding:4px 11px; letter-spacing:0; }
+    .sec-h .ct { font:600 var(--fs-sm)/1 var(--body); color:var(--muted); background:var(--surface-3); border-radius:999px; padding:4px 11px; letter-spacing:0; }
     .sec-h .more { margin-left:auto; font-size:var(--fs-sm); font-weight:600; letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
     .sec-h .ev-radio { margin-left:auto; }
     .sec-radio { margin:0; padding:5px 12px; flex:none; }
@@ -1336,14 +1336,14 @@
     .artist-actions .act-btn, .artist-actions .act-btn.radio { flex:1 1 calc(50% - 5px); }
     .ah-fests { margin:9px 0 0; color:var(--muted); font:500 var(--fs-sm) var(--body); line-height:1.5; }
     .ah-fests b { color:var(--fg); font-weight:600; text-transform:uppercase; font-size:var(--fs-xs); letter-spacing:.06em; margin-right:6px; }
-    .act-btn { flex:1; min-width:0; white-space:nowrap; display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:12px 14px; border-radius:999px; border:1px solid var(--border); background:transparent; color:var(--fg); font:700 var(--fs-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; text-decoration:none; transition:background .12s, border-color .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
+    .act-btn { flex:1; min-width:0; white-space:nowrap; display:inline-flex; align-items:center; justify-content:center; gap:7px; height:42px; padding:0 15px; border-radius:11px; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); font:700 11px var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; text-decoration:none; transition:background .12s, border-color .12s, color .12s; touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .act-btn.act-tickets:hover { border-color:var(--accent); color:var(--accent); }
     .act-btn svg { width:var(--icon-sm); height:var(--icon-sm); display:block; }
     .act-btn:hover { border-color:var(--accent); color:var(--accent); }
-    .act-btn.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
-    /* Tune in matches the radio pill used elsewhere (.ev-radio): full row, accent-tinted */
-    .act-btn.radio { flex-basis:100%; background:rgba(255,122,107,0.08); border-color:rgba(255,122,107,0.35); color:var(--accent); }
-    .act-btn.radio:hover { background:rgba(255,122,107,0.16); color:var(--accent); }
+    .act-btn.on { background:var(--surface-2); border-color:var(--accent); color:var(--accent); }   /* toggled-on = outline accent, matching .pf-btn.follow.following */
+    /* primary action (Tune in / Play next night) = accent-filled, matching .pf-btn.primary */
+    .act-btn.radio { flex-basis:100%; background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .act-btn.radio:hover { color:var(--accent-ink); border-color:var(--accent); filter:brightness(1.06); }
     .act-btn.radio.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
     .act-btn.on svg { fill:currentColor; stroke:currentColor; }
     .act-btn.radio svg { fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
@@ -2429,7 +2429,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782944648511">
+<meta name="sc-build" content="1782945427896">
 </head>
 <body>
   <main class="wrap">
