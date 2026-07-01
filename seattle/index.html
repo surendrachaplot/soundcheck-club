@@ -2268,6 +2268,25 @@
 .pb-ds-ev:hover{text-decoration:underline}
 .dv-event{background:none;border:0;color:var(--accent);font:inherit;cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:2px}
 .dv-sep{color:var(--muted);margin:0 3px}
+/* artist bio (real, from SoundCloud) + "you've caught them N times" panel */
+.artist-bio{white-space:pre-line}
+.bio-src{color:var(--accent);font:600 .82rem var(--body);text-decoration:none;white-space:nowrap}
+.bio-src:hover{text-decoration:underline}
+.ap-seen{margin:16px 0 4px;background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:16px 18px;max-width:440px}
+.ap-seen-top{display:flex;align-items:center;gap:16px;margin-bottom:4px}
+.ap-seen-num{font:800 3rem var(--head);line-height:.8;background:var(--accent-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.ap-seen-num span{font-size:1.4rem}
+.ap-seen-lbl{font:500 .95rem var(--body);color:var(--muted)} .ap-seen-lbl b{color:var(--fg);font-family:var(--head);font-size:1.15rem}
+.ap-seen-row{display:flex;align-items:center;gap:12px;padding:11px 0;border-top:1px dashed var(--border);font-size:.9rem}
+.ap-seen-row:first-of-type{margin-top:8px}
+.ap-seen-d{font:700 .72rem var(--font-mono);color:var(--accent);min-width:92px}
+.ap-seen-v{font:600 .95rem var(--head)} .ap-seen-v[data-venue]{cursor:pointer} .ap-seen-v[data-venue]:hover{color:var(--accent)}
+.ap-seen-ev{margin-left:auto;color:var(--accent);font:600 .72rem var(--body);cursor:pointer;white-space:nowrap} .ap-seen-ev:hover{text-decoration:underline}
+.ap-seen-log{width:100%;margin-top:14px;background:rgba(255,122,107,.1);border:1px solid rgba(255,122,107,.4);color:var(--accent);font:700 .74rem var(--body);text-transform:uppercase;letter-spacing:.05em;padding:12px;border-radius:999px;cursor:pointer}
+.ap-seen-log:hover{background:rgba(255,122,107,.16)}
+.ap-seen-empty{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.ap-seen-emptx{flex:1;min-width:160px;color:var(--muted);font:500 .9rem var(--body)} .ap-seen-emptx b{color:var(--fg)}
+.ap-seen-empty .ap-seen-log{width:auto;margin-top:0;flex:0 0 auto;padding:11px 18px}
 .tb-big{margin:2px 0 14px}
 .tb-big .tb-bignum{font-size:58px}
 .tb-bigu{font-family:var(--font-mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:8px}
@@ -2311,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782905283676">
+<meta name="sc-build" content="1782907385897">
 </head>
 <body>
   <main class="wrap">
@@ -5544,10 +5563,11 @@
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
         var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests"><b>Festivals</b>'+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
-        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':'')+festLine+'</div>';
+        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.bio?'<p class="seo-desc artist-bio">'+esc(a.bio)+(a.bioSource==='soundcloud'&&a.soundcloud?' <a class="bio-src" href="'+esc(a.soundcloud)+'" target="_blank" rel="noopener noreferrer">via SoundCloud ↗</a>':'')+'</p>':(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':''))+festLine+'</div>';
         if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
         h+=actions;
+        h+='<div id="ap-seen-panel"></div>';
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
@@ -5579,6 +5599,24 @@
         apRadio.addEventListener('pointerdown',function(){ prefetchYt(apRadio); },{passive:true});
         apRadio.addEventListener('click',function(){ handleYtClick(apRadio); });
         var apSets=document.getElementById('ap-sets'); if(apSets) apSets.addEventListener('click',function(){ playArtistSets(slug, a.name||slug); });
+        // "You've caught {artist} N times" — your logged nights with this DJ (mock #2).
+        if(currentUser){
+          var _anm=a.name||slug;
+          authedFetch('/api/artist/seen?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(sd){
+            var box=document.getElementById('ap-seen-panel'); if(!box) return;
+            var c=sd.count||0, nights=sd.nights||[];
+            if(c>0){
+              box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">night'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
+                nights.map(function(g){ var d=g.gig_date?fmtDateLabel(String(g.gig_date).slice(0,10)):''; var ev=g.event_id?'<a class="ap-seen-ev" data-event-id="'+esc(String(g.event_id))+'">event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><span class="ap-seen-v"'+(g.venue?' data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</span>'+ev+'</div>'; }).join('')+
+                '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another night</button></div>';
+            } else {
+              box.innerHTML='<div class="ap-seen ap-seen-empty"><span class="ap-seen-emptx">You haven’t logged a night with <b>'+esc(_anm)+'</b> yet.</span><button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log a night</button></div>';
+            }
+            var lg=document.getElementById('ap-seen-log'); if(lg) lg.addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:_anm } }); });
+            box.querySelectorAll('.ap-seen-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.eventId); }); });
+            box.querySelectorAll('.ap-seen-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+          }).catch(function(){});
+        }
         armSticky(a.name||slug, function(){ apRadio.click(); }, apRadio);   // sticky title bar: artist name + Tune in
         var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
         // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
@@ -6273,8 +6311,8 @@
     }
     function openLog(prefill){
       setRoute('log');
-      lgArtists=[]; lgSel=null; lgEventList=[];
-      _logHint = (prefill&&prefill.seenName) ? prefill.seenName : null;
+      lgArtists=(prefill&&prefill.artist&&prefill.artist.slug)?[prefill.artist]:[]; lgSel=null; lgEventList=[];
+      _logHint = (prefill&&prefill.seenName) ? prefill.seenName : (prefill&&prefill.artist?prefill.artist.name:null);
       showPage(logFormHTML());
       wireLog();
       if(prefill&&prefill.eventId) preselectLogEvent(prefill.eventId);
