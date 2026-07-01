@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782916112048">
+<meta name="sc-build" content="1782916250443">
 </head>
 <body>
   <main class="wrap">
@@ -6223,16 +6223,19 @@
           '</div>'+
         '</div>';
     }
-    // Render the venue's indexed nights as a selectable list.
+    // A "not here? add it" escape hatch shown under the nights list — for when the
+    // gig you're logging isn't in our indexed history.
+    function lgAddEvHTML(){ return '<button type="button" class="more-btn" id="lg-addev" style="margin-top:12px">Can&rsquo;t find your night? Add the event &rarr;</button>'; }
+    // Render the artist's indexed nights as a selectable list.
     function renderLgEvents(){
       var el=document.getElementById('lg-events'); if(!el) return;
-      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">'+(lgPickedArtist?('No indexed nights for '+esc(lgPickedArtist.name)+' in this city in the last 3 years — try another city.'):'No nights found — try another.')+'</div>'; return; }
+      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">'+(lgPickedArtist?('No indexed nights for '+esc(lgPickedArtist.name)+' in this city in the last 3 years — try another city.'):'No nights found — try another.')+'</div>'+lgAddEvHTML(); return; }
       el.innerHTML=lgEventList.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
         var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
         var on=lgSel&&lgSel.id===e.id;
         return '<button type="button" class="lg-ev'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||'Club night')+'</span>'+(ln?'<span class="le-l">'+esc(ln)+'</span>':'')+'</button>';
-      }).join('');
+      }).join('')+lgAddEvHTML();
     }
     // Real, named acts only — drops empty / "-" placeholder entries from the bill.
     function lgValidLineup(lineup){ return (lineup||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a && a.slug && a.slug!=='-' && n && n!=='-'; }); }
@@ -6375,8 +6378,11 @@
         document.getElementById('lg-events-field').style.display='none';
         document.getElementById('lg-extra').style.display='none';
       });
-      // Pick one of the artist's indexed nights.
-      document.getElementById('lg-events').addEventListener('click',function(e){ var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]); });
+      // Pick one of the artist's indexed nights — or add the event if it's missing.
+      document.getElementById('lg-events').addEventListener('click',function(e){
+        if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:(lgPickedArtist&&lgPickedArtist.name)||null }); return; }
+        var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]);
+      });
       // Artist picker — type-ahead over the catalog; pick loads their nights in the city.
       attachSuggest(document.getElementById('lg-artist-in'), document.getElementById('lg-artist-drop'),
         function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return { slug:a.slug, name:a.name, label:esc(a.name) }; }); }); },
@@ -6425,12 +6431,15 @@
       box.innerHTML=imArtists.map(function(n,i){ return '<span class="to-chip">'+esc(n)+'<button type="button" data-i="'+i+'" aria-label="Remove">&times;</button></span>'; }).join('');
       box.querySelectorAll('button[data-i]').forEach(function(b){ b.addEventListener('click',function(){ imArtists.splice(+b.dataset.i,1); imRedrawArtists(); }); });
     }
-    function openImport(){
+    function openImport(prefill){
       if(!currentUser){ openAuth(); return; }
       setRoute('import');
       imArtists=[];
       showPage(importFormHTML());
       wireCityPicker('im-city');
+      // Coming from "can't find your night?" on the log page — carry the city + DJ over.
+      if(prefill&&prefill.city) setCityPicker('im-city', prefill.city);
+      if(prefill&&prefill.artist){ imArtists.push(prefill.artist); imRedrawArtists(); }
       // Add line-up names as chips (free text — submitted acts may be new to us).
       var ai=document.getElementById('im-art-in');
       ai.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===','){ e.preventDefault(); var v=ai.value.trim().replace(/,+$/,''); if(v && imArtists.indexOf(v)<0){ imArtists.push(v); imRedrawArtists(); } ai.value=''; } });
