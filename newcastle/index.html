@@ -1463,7 +1463,7 @@
     .pb-rot-av { position:relative; width:84px; height:84px; border-radius:50%; background-size:cover; background-position:center; background-color:var(--surface-2); display:block; border:1px solid var(--border); }
     .pb-rot-av.add { display:flex; align-items:center; justify-content:center; border:1px dashed var(--border); color:var(--muted); font-size:24px; }
     .pb-rot-play { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; border-radius:50%; background:rgba(0,0,0,0.34); color:#fff; font-size:24px; opacity:0; transition:opacity .15s; }
-    .pb-rot-disc:hover .pb-rot-play, .rotp-disc:hover .pb-rot-play { opacity:1; }
+    .pb-rot-disc:hover .pb-rot-play { opacity:1; }
     .pb-rot-nm { display:block; font:700 12px var(--head); color:var(--fg); margin-top:9px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:88px; }
     .pb-rot-x, .pb-rot-mv { position:absolute; width:24px; height:24px; border-radius:50%; border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:13px; z-index:2; }
     .pb-rot-x { top:-4px; right:-4px; background:var(--accent); color:var(--accent-ink); }
@@ -1473,17 +1473,27 @@
     .pb-rot-empty b { display:block; color:var(--fg); font:800 14px var(--head); }
     .pb-rot-empty span { font:500 12px var(--body); }
     .pb-rot-empty .pb-rot-btn { margin-left:auto; }
-    .rotp-grid { display:flex; flex-wrap:wrap; gap:18px; margin:18px 0; }
-    .rotp-disc { flex:0 0 auto; width:96px; text-align:center; background:none; border:none; cursor:pointer; color:inherit; padding:0; }
-    .rotp-av { position:relative; display:block; width:96px; height:96px; border-radius:50%; background-size:cover; background-position:center; background-color:var(--surface-2); border:1px solid var(--border); }
-    .rotp-nm { display:block; font:700 13px var(--head); margin-top:10px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:100px; }
-    .rotp-share { display:flex; gap:16px; align-items:center; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:16px; margin-top:8px; max-width:440px; }
-    .rotp-qr { width:88px; height:88px; flex:0 0 auto; background:var(--surface-2); border-radius:10px; padding:6px; display:flex; }
-    .rotp-qr img { width:100%; height:100%; }
-    .rotp-share-tx { display:flex; flex-direction:column; gap:3px; min-width:0; }
-    .rotp-share-tx b { font:800 14px var(--head); }
-    .rotp-share-tx span { font:600 11px var(--font-mono,monospace); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .rotp-share-tx .pb-rot-btn { margin-top:8px; align-self:flex-start; }
+    /* In-rotation share card (screenshot-ready modal) */
+    .rc-box { background:var(--surface); border:1px solid var(--border); border-radius:18px; padding:16px; max-width:420px; width:100%; position:relative; }
+    .rc-card { background:linear-gradient(160deg,#1b1822,#131017); border:1px solid var(--border); border-radius:16px; padding:18px; }
+    .rc-top { display:flex; align-items:center; gap:11px; padding-bottom:14px; border-bottom:1px dashed var(--border); margin-bottom:14px; }
+    .rc-me { width:40px; height:40px; border-radius:50%; flex:0 0 auto; }
+    .rc-hid { flex:1; min-width:0; }
+    .rc-eyebrow { font:700 9px var(--font-mono,monospace); letter-spacing:0.16em; text-transform:uppercase; color:var(--accent); }
+    .rc-name { font:800 18px var(--head); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rc-brand { font:800 13px var(--head); color:var(--muted); flex:0 0 auto; }
+    .rc-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:13px; margin-bottom:14px; }
+    .rc-disc { text-align:center; min-width:0; }
+    .rc-av { display:block; width:100%; aspect-ratio:1; border-radius:50%; background-size:cover; background-position:center; background-color:var(--surface-2); border:1px solid var(--border); }
+    .rc-nm { display:block; font:700 11px var(--head); margin-top:7px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rc-foot { display:flex; align-items:center; gap:12px; border-top:1px dashed var(--border); padding-top:14px; }
+    .rc-qr { width:60px; height:60px; flex:0 0 auto; display:block; }
+    .rc-qr img { width:100%; height:100%; }
+    .rc-ftx { display:flex; flex-direction:column; gap:2px; min-width:0; }
+    .rc-ftx b { font:800 13px var(--head); }
+    .rc-ftx span { font:600 10px var(--font-mono,monospace); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .rc-actions { display:flex; align-items:center; gap:12px; margin-top:14px; }
+    .rc-hint { font:500 12px var(--body); color:var(--muted); }
     /* ── profile: sidebar (card + actions) + feed ── */
     .pb-root2 { max-width:1080px; margin:0 auto; padding:0 16px 44px; }
     .pb-cover2 { display:flex; align-items:center; gap:12px; padding:12px 2px 8px; }
@@ -2395,7 +2405,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782933280558">
+<meta name="sc-build" content="1782934682781">
 </head>
 <body>
   <main class="wrap">
@@ -4967,7 +4977,7 @@
       pbRot=(p.rotation||[]).slice(); pbRotMe=!!p.isMe; pbRotEditing=false;
       renderRotRail();
       var pa=document.getElementById('pb-rot-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(pbRot); });
-      var sh=document.getElementById('pb-rot-share'); if(sh) sh.addEventListener('click',function(){ openRotationPage(p.handle); });
+      var sh=document.getElementById('pb-rot-share'); if(sh) sh.addEventListener('click',function(){ shareRotationCard(p); });
       var ad=document.getElementById('pb-rot-add'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
       var ed=document.getElementById('pb-rot-edit'); if(ed) ed.addEventListener('click',function(){ pbRotEditing=!pbRotEditing; var box=document.getElementById('pb-rot'); if(box) box.classList.toggle('editing',pbRotEditing); ed.classList.toggle('on',pbRotEditing); ed.innerHTML=pbRotEditing?'<i class="ti ti-check" aria-hidden="true"></i> Done':'<i class="ti ti-arrows-sort" aria-hidden="true"></i> Reorder'; renderRotRail(); });
     }
@@ -5000,27 +5010,28 @@
       ov.querySelector('#rota-done').addEventListener('click',function(){ ov.remove(); });
     }
     // Standalone shareable rotation page — /u/<handle>/rotation.
-    async function openRotationPage(handle){
-      setRoute('u/'+handle+'/rotation');
-      openPanel(pageSkeleton());
-      try{
-        var r=await fetch(API_BASE+'/api/rotation?u='+encodeURIComponent(handle)); var j=await r.json().catch(function(){return{};});
-        if(!r.ok||j.error){ openPanel('<div class="empty">No rotation for u/'+esc(handle)+'.</div>'); return; }
-        var rot=j.rotation||[], nm=j.name||('u/'+handle), url='soundcheck.club/u/'+handle+'/rotation';
-        var discs=rot.length?rot.map(function(v){ var img=v.image?('background-image:url('+imgUrl(v.image,200)+')'):('background:'+sceneTone(v.slug)); return '<button class="rotp-disc" type="button" data-slug="'+esc(v.slug)+'" data-name="'+esc(v.name||v.slug)+'"><span class="rotp-av" style="'+img+'"><span class="pb-rot-play"><i class="ti ti-player-play"></i></span></span><span class="rotp-nm">'+esc(v.name||v.slug)+'</span></button>'; }).join(''):'<div class="empty" style="padding:10px 0">No DJs in rotation yet.</div>';
-        openPanel('<div class="rotp"><div class="pb-cover"></div>'+
-          '<div class="eyebrow" style="color:var(--accent);letter-spacing:.14em;text-transform:uppercase;font:700 11px var(--body)">In rotation</div>'+
-          '<h2 class="page-title" style="margin:4px 0 2px">'+esc(nm)+'</h2>'+
-          '<p class="sub" style="margin-bottom:6px">The DJs on repeat &mdash; tap any to play their sets.</p>'+
-          (rot.length?'<button class="tc-cta" id="rotp-playall" style="max-width:440px"><i class="ti ti-player-play"></i> Play all sets</button>':'')+
-          '<div class="rotp-grid">'+discs+'</div>'+
-          '<div class="rotp-share"><div class="rotp-qr"><img loading="lazy" src="'+API_BASE+'/api/qr?u='+encodeURIComponent(handle)+'&path='+encodeURIComponent('/u/'+handle+'/rotation')+'" alt="Scan to open"></div><div class="rotp-share-tx"><b>Share this rotation</b><span>'+esc(url)+'</span><button class="pb-rot-btn pb-rot-acc" id="rotp-copy" type="button"><i class="ti ti-copy"></i> Copy link</button></div></div>'+
-        '</div>');
-        document.querySelectorAll('#page-body .rotp-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(){ playArtistSets(d.dataset.slug, d.dataset.name); }); });
-        var pa=document.getElementById('rotp-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(rot); });
-        var cp=document.getElementById('rotp-copy'); if(cp) cp.addEventListener('click',function(){ var full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
-        armSticky(nm+' · rotation', rot.length?function(){ rotationPlayAll(rot); }:null, document.getElementById('page-body'));
-      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that rotation.</div>'); }
+    // A screenshot-ready "in rotation" share card (its own card, not a page).
+    function rotationCardHTML(p){
+      var rot=(pbRot&&pbRot.length)?pbRot:(p.rotation||[]);
+      var handle=p.handle, name=esc(p.displayName||('u/'+handle)), avbg=avatarBg(handle,p.avatar);
+      var qr=API_BASE+'/api/qr?u='+encodeURIComponent(handle);
+      var discs=rot.slice(0,9).map(function(v){ var img=v.image?('background-image:url('+imgUrl(v.image,180)+')'):('background:'+sceneTone(v.slug)); return '<div class="rc-disc"><span class="rc-av" style="'+img+'"></span><span class="rc-nm">'+esc(v.name||v.slug)+'</span></div>'; }).join('');
+      return '<div class="rc-card" id="rc-card">'+
+        '<div class="rc-top"><span class="rc-me" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="rc-hid"><div class="rc-eyebrow">In rotation</div><div class="rc-name">'+name+'</div></div><span class="rc-brand">soundcheck</span></div>'+
+        (rot.length?'<div class="rc-grid">'+discs+'</div>':'<div class="empty" style="padding:14px 0">No DJs in rotation yet.</div>')+
+        '<div class="rc-foot"><span class="rc-qr"><img src="'+qr+'" alt=""></span><div class="rc-ftx"><b>Scan to follow</b><span>soundcheck.club/u/'+esc(handle)+'</span></div></div>'+
+      '</div>';
+    }
+    function shareRotationCard(p){
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="rc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        rotationCardHTML(p)+
+        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="rc-copy" type="button"><i class="ti ti-copy" aria-hidden="true"></i> Copy link</button><span class="rc-hint">Screenshot to share your rotation</span></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      ov.querySelector('#rc-copy').addEventListener('click',function(){ var url='soundcheck.club/u/'+p.handle, full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
     }
     // Sidebar + feed layout: full taste card + actions pinned left, all sections
     // (rotation → diary → wanna → seen → venues) stacked as a clean feed on the right.
@@ -6662,7 +6673,7 @@
       else if(hash==='import') openImport();
       else if(hash==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
       else if(hash.indexOf('diary/')===0) openDiaryPage(hash.slice(6));
-      else if(/^u\/[^/]+\/rotation$/.test(hash)) openRotationPage(hash.slice(2).replace(/\/rotation$/,''));
+      else if(/^u\/[^/]+\/rotation$/.test(hash)) openProfile(hash.slice(2).replace(/\/rotation$/,''));
       else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
       else if(hash.indexOf('dj/')===0) openArtist(hash.slice(3));
       else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));          // legacy /a/
