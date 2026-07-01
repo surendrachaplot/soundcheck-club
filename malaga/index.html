@@ -2438,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782947870980">
+<meta name="sc-build" content="1782948230939">
 </head>
 <body>
   <main class="wrap">
@@ -5118,20 +5118,29 @@
     // Reuses the diary ticket-stub (.pb-ds) as a tappable row. Own profile only (needs p.upcoming).
     function pfComingHTML(p){
       if(!p.isMe) return '';
-      var arts=(p.upcoming&&p.upcoming.artists)||[], rows=[], seen={};
-      arts.forEach(function(a){ (a.gigs||[]).forEach(function(g){
+      // /api/upcoming returns three lists — wanna-see artists' gigs, nights at venues you
+      // follow, and friends' interests. Flatten ALL of them (deduped by event) so the section
+      // isn't empty when your upcoming comes from venue-follows rather than hearted artists.
+      var up=p.upcoming||{}, rows=[], seen={};
+      function add(list, kind){ (list||[]).forEach(function(e){ (e.gigs||[]).forEach(function(g){
         if(!g||!g.event_date) return;
-        var r={ date:String(g.event_date).slice(0,10), act:a.name||a.slug, venue:g.venue||'', city:g.city||'', id:g.id };
-        var k=r.act+'|'+r.date+'|'+r.venue; if(seen[k]) return; seen[k]=1; rows.push(r);
-      }); });
-      if(!rows.length) return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', 0, '')+'<div class="empty" style="padding:2px">Nothing from your follows yet — heart artists to catch their next gigs.</div></div>';
+        var id = g.id!=null ? String(g.id) : null;
+        var key = id || (kind+'|'+String(g.event_date)+'|'+(g.venue||''));
+        var label = kind==='artist' ? (e.name||e.slug) : (g.title || g.venue || 'Club night');
+        if(seen[key]){ if(kind==='artist' && seen[key].kind!=='artist'){ seen[key].act=label; seen[key].kind='artist'; } return; }   // an event via a wanna-see artist wins the "act" label over a venue night
+        var r={ date:String(g.event_date).slice(0,10), act:label, kind:kind, venue:g.venue||'', city:g.city||'', id:id };
+        seen[key]=r; rows.push(r);
+      }); }); }
+      add(up.artists,'artist'); add(up.venues,'venue');   // your direct follows; friends' interests stay on the See-all page
+      if(!rows.length) return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', 0, '')+'<div class="empty" style="padding:2px">Nothing from your follows yet — heart artists and follow venues to catch their next gigs.</div></div>';
       rows.sort(function(x,y){ return x.date.localeCompare(y.date); });   // soonest first
       var act = rows.length>5 ? '<button class="pf-h-act" id="pf-cu-all" type="button">See all ›</button>' : '';
       var body=rows.slice(0,5).map(function(r){
         var dt=new Date(r.date+'T12:00:00');
         var day=String(dt.getDate()).padStart(2,'0'), mon=dt.toLocaleDateString('en-GB',{month:'short'});
-        var sub=[r.venue, r.city?cityLabel(r.city):''].filter(Boolean).join(' · ');
-        return '<button class="pb-ds pf-cu-row" type="button" data-cu-ev="'+esc(String(r.id))+'"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-line">'+esc(r.act)+'</div>'+(sub?'<div class="pb-ds-tags">'+esc(sub)+'</div>':'')+'</div></button>';
+        var subParts=[]; if(r.venue && r.venue!==r.act) subParts.push(r.venue); if(r.city) subParts.push(cityLabel(r.city));
+        var sub=subParts.join(' · ');
+        return '<button class="pb-ds pf-cu-row" type="button"'+(r.id?' data-cu-ev="'+esc(r.id)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-line">'+esc(r.act)+'</div>'+(sub?'<div class="pb-ds-tags">'+esc(sub)+'</div>':'')+'</div></button>';
       }).join('');
       return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', rows.length, act)+'<div class="pb-stubs" style="margin-top:12px">'+body+'</div></div>';
     }
