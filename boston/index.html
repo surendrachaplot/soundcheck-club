@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782912563178">
+<meta name="sc-build" content="1782912989567">
 </head>
 <body>
   <main class="wrap">
@@ -6036,7 +6036,11 @@
       // The bill — fold who-not-to-miss into the line-up: rank it (highlights get a badge +
       // one-line why, the rest list plainly), every DJ shown ONCE. Re-render #ev-bill in the
       // ranked order, merging artist photos from the event. Falls back to the instant bill.
-      if((ev.artists||[]).length>=2){
+      // "Who not to miss" tips (Do-not-miss badges + reasons) only make sense for a
+      // night you can still catch — skip the ranked re-mount on past events, keep the
+      // plain line-up.
+      var evPast = ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
+      if(!evPast && (ev.artists||[]).length>=2){
         var imgBy={}; (ev.artists||[]).forEach(function(a){ var s=(a.contentUrl||'').split('/').filter(Boolean).pop(); if(s) imgBy[s]=a.image; });
         authedFetch('/api/event/lineup?id='+encodeURIComponent(ev.id)).then(function(r){ return r.json(); }).then(function(j){
           if(!j) return;
