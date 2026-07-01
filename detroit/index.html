@@ -1437,6 +1437,10 @@
     .lg-field input, .lg-field textarea { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:500 var(--fs-md) var(--body); outline:none; }
     .lg-field input:focus, .lg-field textarea:focus { border-color:var(--accent); }
     .lg-field textarea { resize:vertical; min-height:72px; }
+    .lg-modes { margin:0; }   /* reuse the .cal-modes pill toggle, no extra bottom gap in the form */
+    .lg-rangebtn { display:inline-flex; align-items:center; gap:9px; width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 13px; font:600 var(--fs-md) var(--body); cursor:pointer; text-align:left; transition:border-color .12s; }
+    .lg-rangebtn:hover { border-color:var(--accent); }
+    .lg-rangebtn svg { width:var(--icon-sm); height:var(--icon-sm); color:var(--accent); flex:0 0 auto; }
     .lg-select { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:10px; padding:11px 36px 11px 13px; font:500 var(--fs-md) var(--body); outline:none; cursor:pointer; -webkit-appearance:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l5 5 5-5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 13px center; }
     .lg-select:focus { border-color:var(--accent); }
     /* preselected-night summary (from a "+ Log" button) */
@@ -2326,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782916681198">
+<meta name="sc-build" content="1782917125458">
 </head>
 <body>
   <main class="wrap">
@@ -6108,6 +6112,7 @@
     // ---- log a gig ----
     // ── Log a gig — full page (was a modal) ──
     var lgArtists=[], lgSel=null, lgEventList=[], _logHint=null, lgPickedArtist=null;
+    var lgSearchMode='artist', lgVenue=null, lgRange=null;   // 'artist' | 'venue' (venue adds a date range)
     function debounce(fn, ms){ var t; return function(){ var a=arguments, c=this; clearTimeout(t); t=setTimeout(function(){ fn.apply(c,a); }, ms); }; }
     function pubGet(path){ return fetch(API_BASE+path).then(function(r){ return r.json(); }).catch(function(){ return {}; }); }
     function attachSuggest(input, drop, fetcher, onPick){
@@ -6163,12 +6168,15 @@
     function logFormHTML(){
       return '<h2 class="page-title">Log a gig</h2>'+
         (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Add the night you caught <b>'+esc(_logHint)+'</b></div>':'')+
-        '<div class="sub" style="margin-bottom:16px">Pick the DJ you saw and the city &mdash; we&rsquo;ll show every night they played there. Tap the one you were at; it lands in your diary and marks the line-up as seen.</div>'+
+        '<div class="sub" style="margin-bottom:16px">Find the night by the DJ you saw or the venue you went to &mdash; tap the one you were at; it lands in your diary and marks the line-up as seen.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
           '<div id="lg-pickers">'+
             '<div class="lg-field"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
-            '<div class="lg-field"><label>Artist</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
+            '<div class="lg-field"><label>Search by</label><div class="cal-modes lg-modes"><button type="button" data-lgmode="artist" class="'+(lgSearchMode==='artist'?'on':'')+'">Artist</button><button type="button" data-lgmode="venue" class="'+(lgSearchMode==='venue'?'on':'')+'">Venue</button></div></div>'+
+            '<div class="lg-field lg-by-artist"><label>Artist</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
+            '<div class="lg-field lg-by-venue" style="display:none"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search the venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+            '<div class="lg-field lg-by-venue" style="display:none"><label>When?</label><button type="button" id="lg-range" class="lg-rangebtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg><span id="lg-range-lbl">Pick a date range</span></button></div>'+
             '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
@@ -6185,7 +6193,12 @@
     // Render the artist's indexed nights as a selectable list.
     function renderLgEvents(){
       var el=document.getElementById('lg-events'); if(!el) return;
-      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">'+(lgPickedArtist?('No indexed nights for '+esc(lgPickedArtist.name)+' in this city in the last 3 years — try another city.'):'No nights found — try another.')+'</div>'+lgAddEvHTML(); return; }
+      if(!lgEventList.length){
+        var em = lgSearchMode==='venue'
+          ? (lgVenue?('No indexed nights at '+esc(lgVenue.name)+(lgRange?' in that date range':'')+' — try a wider range or another venue.'):'No nights found — try another.')
+          : (lgPickedArtist?('No indexed nights for '+esc(lgPickedArtist.name)+' in this city in the last 3 years — try another city.'):'No nights found — try another.');
+        el.innerHTML='<div class="empty" style="padding:6px 0">'+em+'</div>'+lgAddEvHTML(); return;
+      }
       el.innerHTML=lgEventList.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
         var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
@@ -6220,6 +6233,19 @@
       document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
       document.getElementById('lg-extra').style.display='none';
       pubGet('/api/artist/gigs?slug='+encodeURIComponent(artist.slug)+'&city='+encodeURIComponent(city)).then(function(j){
+        lgEventList=(j&&j.gigs)||[]; renderLgEvents();
+      }).catch(function(){ lgEventList=[]; renderLgEvents(); });
+    }
+    // Load nights at the chosen venue within the picked date range. Needs both a
+    // venue and a range set; otherwise it waits for the missing one.
+    function loadLgVenueGigs(){
+      if(!lgVenue || !lgRange) return;
+      lgSel=null; lgEventList=[];
+      var city=document.getElementById('lg-city').value;
+      var field=document.getElementById('lg-events-field'); field.style.display='';
+      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Loading nights…</div>';
+      document.getElementById('lg-extra').style.display='none';
+      pubGet('/api/venue/gigs?name='+encodeURIComponent(lgVenue.name)+'&city='+encodeURIComponent(city)+'&from='+lgRange[0]+'&to='+lgRange[1]).then(function(j){
         lgEventList=(j&&j.gigs)||[]; renderLgEvents();
       }).catch(function(){ lgEventList=[]; renderLgEvents(); });
     }
@@ -6311,6 +6337,7 @@
     function openLog(prefill){
       setRoute('log');
       lgArtists=(prefill&&prefill.artist&&prefill.artist.slug)?[prefill.artist]:[]; lgSel=null; lgEventList=[]; lgPickedArtist=null;
+      lgSearchMode='artist'; lgVenue=null; lgRange=null;
       _logHint = (prefill&&prefill.seenName) ? prefill.seenName : (prefill&&prefill.artist?prefill.artist.name:null);
       showPage(logFormHTML());
       wireLog();
@@ -6327,23 +6354,50 @@
         if(lgArtistOn(slug)){ lgArtists=lgArtists.filter(function(a){ return a.slug!==slug; }); b.classList.remove('on'); }
         else { lgArtists.push({ slug:slug, name:b.dataset.aname }); b.classList.add('on'); }
       });
-      // City change — if a DJ is already picked, re-run their nights in the new city.
+      // City change — re-run whichever search is active (artist, or venue+range).
       wireCityPicker('lg-city', function(){
+        if(lgSearchMode==='venue'){ if(lgVenue && lgRange) loadLgVenueGigs(); else lgResetEvents(); return; }
         if(lgPickedArtist){ loadLgArtistGigs(lgPickedArtist); return; }
-        lgSel=null; lgEventList=[];
-        document.getElementById('lg-events-field').style.display='none';
-        document.getElementById('lg-extra').style.display='none';
+        lgResetEvents();
       });
-      // Pick one of the artist's indexed nights — or add the event if it's missing.
+      // Pick one of the indexed nights — or add the event if it's missing.
       document.getElementById('lg-events').addEventListener('click',function(e){
-        if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:(lgPickedArtist&&lgPickedArtist.name)||null }); return; }
+        if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:(lgPickedArtist&&lgPickedArtist.name)||null, venue:(lgVenue&&lgVenue.name)||null }); return; }
         var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]);
       });
-      // Artist picker — type-ahead over the catalog; pick loads their nights in the city.
+      // Search-by toggle: Artist ↔ Venue — swaps the picker fields and resets results.
+      var modes=document.querySelector('.lg-modes');
+      if(modes) modes.addEventListener('click',function(e){
+        var b=e.target.closest('[data-lgmode]'); if(!b || b.dataset.lgmode===lgSearchMode) return;
+        lgSearchMode=b.dataset.lgmode;
+        modes.querySelectorAll('[data-lgmode]').forEach(function(x){ x.classList.toggle('on', x.dataset.lgmode===lgSearchMode); });
+        document.querySelectorAll('.lg-by-artist').forEach(function(el){ el.style.display = lgSearchMode==='artist'?'':'none'; });
+        document.querySelectorAll('.lg-by-venue').forEach(function(el){ el.style.display = lgSearchMode==='venue'?'':'none'; });
+        lgPickedArtist=null; lgVenue=null; lgRange=null;
+        var ai=document.getElementById('lg-artist-in'); if(ai) ai.value='';
+        var vi=document.getElementById('lg-venue-in'); if(vi) vi.value='';
+        var rl=document.getElementById('lg-range-lbl'); if(rl) rl.textContent='Pick a date range';
+        lgResetEvents();
+      });
+      // Artist picker — type-ahead; pick loads their nights in the city.
       attachSuggest(document.getElementById('lg-artist-in'), document.getElementById('lg-artist-drop'),
         function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return { slug:a.slug, name:a.name, label:esc(a.name) }; }); }); },
         function(pick){ if(pick&&pick.slug) loadLgArtistGigs({ slug:pick.slug, name:pick.name }); });
+      // Venue picker — type-ahead scoped to the city; pick + range → nights at that venue.
+      attachSuggest(document.getElementById('lg-venue-in'), document.getElementById('lg-venue-drop'),
+        function(q){ var city=document.getElementById('lg-city').value; return pubGet('/api/venues?city='+encodeURIComponent(city)+'&q='+encodeURIComponent(q)).then(function(j){ return (j.venues||[]).map(function(v){ return { name:v.name, slug:v.slug||v.name, label:esc(v.name)+(v.area?(' <small>'+esc(v.area)+'</small>'):'') }; }); }); },
+        function(pick){ if(!pick) return; lgVenue={ name:pick.name, slug:pick.slug }; document.getElementById('lg-venue-in').value=pick.name; if(lgRange) loadLgVenueGigs(); });
+      // Date-range button → the same home-page calendar, in range mode with past dates allowed.
+      var rangeBtn=document.getElementById('lg-range');
+      if(rangeBtn) rangeBtn.addEventListener('click',function(){
+        openCal({ allowPast:true, rangeStart:lgRange&&lgRange[0], rangeEnd:lgRange&&lgRange[1], onRange:function(from,to){
+          lgRange=[from,to];
+          var lbl=document.getElementById('lg-range-lbl'); if(lbl) lbl.textContent=fmtRange(from,to);
+          if(lgVenue) loadLgVenueGigs();
+        } });
+      });
     }
+    function lgResetEvents(){ lgSel=null; lgEventList=[]; var f=document.getElementById('lg-events-field'); if(f) f.style.display='none'; var x=document.getElementById('lg-extra'); if(x) x.style.display='none'; }
     async function saveLog(){
       if(!currentUser){ openAuth(); return; }
       if(!lgSel){ document.getElementById('lg-err').textContent='Pick a night first.'; return; }
@@ -6393,8 +6447,9 @@
       imArtists=[];
       showPage(importFormHTML());
       wireCityPicker('im-city');
-      // Coming from "can't find your night?" on the log page — carry the city + DJ over.
+      // Coming from "can't find your night?" on the log page — carry the city + DJ/venue over.
       if(prefill&&prefill.city) setCityPicker('im-city', prefill.city);
+      if(prefill&&prefill.venue){ var vv=document.getElementById('im-venue'); if(vv) vv.value=prefill.venue; }
       if(prefill&&prefill.artist){ imArtists.push(prefill.artist); imRedrawArtists(); }
       // Add line-up names as chips (free text — submitted acts may be new to us).
       var ai=document.getElementById('im-art-in');
@@ -7144,6 +7199,11 @@
     // day-only picker and routes the chosen day to calOnDay(iso) instead of load() —
     // lets any page (e.g. Coming up "jump to date") reuse this one calendar component.
     var calOnDay=null, calSelIso=null;
+    // When calOnRange is set (via openCal({onRange, allowPast})), the calendar runs
+    // as a RANGE-only picker and routes the chosen [start,end] to calOnRange instead
+    // of loadRange — lets the log-a-gig venue flow reuse this exact calendar, and
+    // allowPast unblocks past dates (you log nights that already happened).
+    var calOnRange=null, calAllowPast=false;
     var RANGE_CAP=31;                   // max days in a single range (a full month)
     function inRange(iso, a, b){ return a && b && iso>=a && iso<=b; }
     function buildCal(){
@@ -7155,7 +7215,7 @@
       var monFirst=isoOf(new Date(y,m,1)), monLast=isoOf(new Date(y,m+1,0)), _tIso=todayISO();
       var monStart=(monFirst<_tIso?_tIso:monFirst), monEnd=monLast, monthHasFuture=(monLast>=_tIso);
       // mode toggle
-      if(!calOnDay) h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="month" class="'+(calMode==='month'?'on':'')+'">Month</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
+      if(!calOnDay && !calOnRange) h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="month" class="'+(calMode==='month'?'on':'')+'">Month</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
       // hint line
       if(calMode==='month'){
         h+='<div class="cal-hint">All of '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+' &mdash; tap Show, or use &lsaquo; &rsaquo; to change month.</div>';
@@ -7169,8 +7229,8 @@
       dows.forEach(function(d){ h+='<div class="cal-dow">'+d+'</div>'; });
       for(var p=0;p<startDow;p++) h+='<div class="cal-cell pad"></div>';
       for(var day=1;day<=days;day++){
-        var d=new Date(y,m,day), di=isoOf(d), past=d<tdy, we=(d.getDay()===5||d.getDay()===6);
-        var cls='cal-cell'+(past?' past':'')+(we?' we':'')+(di===isoOf(tdy)?' today':'');
+        var d=new Date(y,m,day), di=isoOf(d), past=d<tdy, blockPast=past&&!calAllowPast, we=(d.getDay()===5||d.getDay()===6);
+        var cls='cal-cell'+(blockPast?' past':'')+(we?' we':'')+(di===isoOf(tdy)?' today':'');
         if(calMode==='day' && ((calOnDay && di===calSelIso) || (!calOnDay && mode==='day' && di===currentDate))) cls+=' sel';
         if(calMode==='range'){
           var rs=calRangeStart, re=calRangeEnd||calRangeStart;
@@ -7190,19 +7250,21 @@
       var applyBtn = '';
       if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
       else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
-      h+='</div><div class="cal-foot"><button id="cal-today" type="button">Today</button>'+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
+      h+='</div><div class="cal-foot">'+(calOnRange?'<span></span>':'<button id="cal-today" type="button">Today</button>')+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
       calEl.innerHTML=h;
       // wire mode toggle
       calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode!=='range'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
       document.getElementById('cal-prev').onclick=function(){ calView=new Date(y,m-1,1); buildCal(); };
       document.getElementById('cal-next').onclick=function(){ calView=new Date(y,m+1,1); buildCal(); };
-      document.getElementById('cal-today').onclick=function(){ closeCal(); if(calOnDay) calOnDay(todayISO()); else load(todayISO()); };
+      var todayBtn=document.getElementById('cal-today'); if(todayBtn) todayBtn.onclick=function(){ closeCal(); if(calOnDay) calOnDay(todayISO()); else load(todayISO()); };
       document.getElementById('cal-close').onclick=closeCal;
       if(applyBtn){
         document.getElementById('cal-apply').onclick=function(){
           if(calMode==='month'){ if(!monthHasFuture) return; closeCal(); loadRange(monStart, monEnd); return; }
           if(!calRangeStart||!calRangeEnd) return;
-          closeCal(); loadRange(calRangeStart, calRangeEnd);
+          closeCal();
+          if(calOnRange){ calOnRange(calRangeStart, calRangeEnd); return; }
+          loadRange(calRangeStart, calRangeEnd);
         };
       }
       calEl.querySelectorAll('.cal-cell:not(.pad):not(.past)').forEach(function(c){
@@ -7233,8 +7295,14 @@
     function openCal(opts){
       opts = opts || {};
       calOnDay = (typeof opts.onDay==='function') ? opts.onDay : null;
+      calOnRange = (typeof opts.onRange==='function') ? opts.onRange : null;
+      calAllowPast = !!opts.allowPast;
       calSelIso = opts.selected || null;
-      if(calOnDay){
+      if(calOnRange){
+        calMode='range'; calRangeStart=opts.rangeStart||null; calRangeEnd=opts.rangeEnd||null;
+        var rv=opts.rangeStart||opts.selected||todayISO(), rvb=new Date(rv+'T12:00:00');
+        calView=new Date(rvb.getFullYear(), rvb.getMonth(), 1);
+      } else if(calOnDay){
         calMode='day'; calRangeStart=calRangeEnd=null;
         var s=opts.selected||todayISO(), sb=new Date(s+'T12:00:00');
         calView=new Date(sb.getFullYear(), sb.getMonth(), 1);
