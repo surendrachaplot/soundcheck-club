@@ -2311,7 +2311,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782838457734">
+<meta name="sc-build" content="1782903851708">
 </head>
 <body>
   <main class="wrap">
@@ -3666,12 +3666,16 @@
     var _geoTried=false;
     function applyPrefCity(){
       try{
-        if(_cityExplicit) return;
-        if(prefs.city){ if(prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); return; }
+        if(_cityExplicit) return;                 // shared/deep-link city → keep it
         if(_geoTried) return; _geoTried=true;
+        // Location wins: current geo overrides the last-used city, even if the user
+        // was previously in a different one. Falls back to prefs.city if geo fails.
+        var fallback=function(){ if(prefs.city && prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); };
         fetch(API_BASE+'/api/geo').then(function(r){ return r.json(); }).then(function(j){
-          if(j && j.city && j.city!==currentCity && !_cityExplicit && !prefs.city && typeof setCity==='function') setCity(String(j.city));
-        }).catch(function(){});
+          var geo=j&&j.city?String(j.city):'';
+          if(geo && geo!==currentCity && !_cityExplicit && (!CITY_LIST.length || CITY_LIST.some(function(c){ return c.slug===geo; })) && typeof setCity==='function') setCity(geo);
+          else if(!geo) fallback();
+        }).catch(fallback);
       }catch(_){}
     }
     // One-time adoption: push any pre-cookie-era localStorage state to the
