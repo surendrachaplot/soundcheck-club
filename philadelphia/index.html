@@ -2330,7 +2330,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782917405904">
+<meta name="sc-build" content="1782917734151">
 </head>
 <body>
   <main class="wrap">
@@ -5529,7 +5529,7 @@
         // Header row: avatar + name/socials, with the description alongside on desktop.
         // Action buttons sit on their own row below.
         var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests"><b>Festivals</b>'+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
-        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.bio?'<p class="seo-desc artist-bio">'+esc(a.bio)+(a.bioUrl?' <a class="bio-src" href="'+esc(a.bioUrl)+'" target="_blank" rel="noopener noreferrer">via '+(a.bioSource==='wikipedia'?'Wikipedia':'SoundCloud')+' ↗</a>':'')+'</p>':(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':''))+festLine+'</div>';
+        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.bio?'<p class="seo-desc artist-bio">'+esc(a.bio)+'</p>':(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':''))+festLine+'</div>';
         if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
         h+=actions;
@@ -6168,15 +6168,16 @@
     function logFormHTML(){
       return '<h2 class="page-title">Log a gig</h2>'+
         (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Add the night you caught <b>'+esc(_logHint)+'</b></div>':'')+
-        '<div class="sub" style="margin-bottom:16px">Find the night by the DJ you saw or the venue you went to &mdash; tap the one you were at; it lands in your diary and marks the line-up as seen.</div>'+
+        '<div class="sub" style="margin-bottom:16px">Find the night by the DJ you saw, the venue you went to, or the event itself &mdash; tap the one you were at; it lands in your diary and marks the line-up as seen.</div>'+
         '<div style="max-width:540px">'+
           '<div id="lg-preselect" style="display:none"></div>'+
           '<div id="lg-pickers">'+
-            '<div class="lg-field"><label>Search by</label><div class="cal-modes lg-modes"><button type="button" data-lgmode="artist" class="'+(lgSearchMode==='artist'?'on':'')+'">Artist</button><button type="button" data-lgmode="venue" class="'+(lgSearchMode==='venue'?'on':'')+'">Venue</button></div></div>'+
+            '<div class="lg-field"><label>Search by</label><div class="cal-modes lg-modes"><button type="button" data-lgmode="artist" class="'+(lgSearchMode==='artist'?'on':'')+'">Artist</button><button type="button" data-lgmode="venue" class="'+(lgSearchMode==='venue'?'on':'')+'">Venue</button><button type="button" data-lgmode="event" class="'+(lgSearchMode==='event'?'on':'')+'">Event</button></div></div>'+
             '<div class="lg-field lg-by-artist"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
             '<div class="lg-field lg-by-artist"><label>Artist</label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
-            '<div class="lg-field lg-by-venue" style="display:none"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search the venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+            '<div class="lg-field lg-by-venue" style="display:none"><label>Venue</label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search any venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
             '<div class="lg-field lg-by-venue" style="display:none"><label>When?</label><button type="button" id="lg-range" class="lg-rangebtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg><span id="lg-range-lbl">Pick a date range</span></button></div>'+
+            '<div class="lg-field lg-by-event" style="display:none"><label>Event</label><div class="sg-wrap"><input type="text" id="lg-event-in" placeholder="Search the event…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-event-drop"></div></div></div>'+
             '<div class="lg-field" id="lg-events-field" style="display:none"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
@@ -6367,7 +6368,7 @@
         if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:(lgPickedArtist&&lgPickedArtist.name)||null, venue:(lgVenue&&lgVenue.name)||null }); return; }
         var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]);
       });
-      // Search-by toggle: Artist ↔ Venue — swaps the picker fields and resets results.
+      // Search-by toggle: Artist / Venue / Event — swaps the picker fields, resets results.
       var modes=document.querySelector('.lg-modes');
       if(modes) modes.addEventListener('click',function(e){
         var b=e.target.closest('[data-lgmode]'); if(!b || b.dataset.lgmode===lgSearchMode) return;
@@ -6375,9 +6376,11 @@
         modes.querySelectorAll('[data-lgmode]').forEach(function(x){ x.classList.toggle('on', x.dataset.lgmode===lgSearchMode); });
         document.querySelectorAll('.lg-by-artist').forEach(function(el){ el.style.display = lgSearchMode==='artist'?'':'none'; });
         document.querySelectorAll('.lg-by-venue').forEach(function(el){ el.style.display = lgSearchMode==='venue'?'':'none'; });
+        document.querySelectorAll('.lg-by-event').forEach(function(el){ el.style.display = lgSearchMode==='event'?'':'none'; });
         lgPickedArtist=null; lgVenue=null; lgRange=null;
         var ai=document.getElementById('lg-artist-in'); if(ai) ai.value='';
         var vi=document.getElementById('lg-venue-in'); if(vi) vi.value='';
+        var ei=document.getElementById('lg-event-in'); if(ei) ei.value='';
         var rl=document.getElementById('lg-range-lbl'); if(rl) rl.textContent='Pick a date range';
         lgResetEvents();
       });
@@ -6390,6 +6393,10 @@
       attachSuggest(document.getElementById('lg-venue-in'), document.getElementById('lg-venue-drop'),
         function(q){ return pubGet('/api/venues?q='+encodeURIComponent(q)).then(function(j){ return (j.venues||[]).map(function(v){ var loc=[v.area, cityLabel(v.city)].filter(Boolean).join(', '); return { name:v.name, slug:v.slug||v.name, city:v.city||'', label:esc(v.name)+(loc?(' <small>'+esc(loc)+'</small>'):'') }; }); }); },
         function(pick){ if(!pick) return; lgVenue={ name:pick.name, slug:pick.slug, city:pick.city }; document.getElementById('lg-venue-in').value=pick.name; if(lgRange) loadLgVenueGigs(); });
+      // Event picker — search events directly by title/venue; pick = that night, straight to the line-up.
+      attachSuggest(document.getElementById('lg-event-in'), document.getElementById('lg-event-drop'),
+        function(q){ return pubGet('/api/gigs?q='+encodeURIComponent(q)).then(function(j){ return (j.gigs||[]).map(function(g){ var d=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):''; var sub=[g.venue,d].filter(Boolean).join(' · '); return { id:g.event_id, title:g.title, venue:g.venue, event_date:g.event_date, lineup:g.artists||[], label:esc(g.title||'Event')+(sub?(' <small>'+esc(sub)+'</small>'):'') }; }); }); },
+        function(pick){ if(!pick) return; document.getElementById('lg-event-in').value=pick.title||''; selectLgEvent({ id:pick.id, title:pick.title, venue:pick.venue, event_date:pick.event_date, lineup:pick.lineup }); });
       // Date-range button → the same home-page calendar, in range mode with past dates allowed.
       var rangeBtn=document.getElementById('lg-range');
       if(rangeBtn) rangeBtn.addEventListener('click',function(){
