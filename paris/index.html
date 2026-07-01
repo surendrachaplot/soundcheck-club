@@ -1124,6 +1124,7 @@
     .srail-ven { position:relative; flex:none; width:208px; height:124px; border-radius:13px; overflow:hidden; background:#2c2630; background-size:cover; background-position:center; cursor:pointer; display:flex; align-items:flex-end; padding:12px; }
     .srail-ven::after { content:""; position:absolute; inset:0; background:linear-gradient(to top, rgba(13,9,8,0.85), rgba(13,9,8,0) 65%); }
     .srail-ven-n { position:relative; z-index:1; font:800 var(--fs-base) var(--head); color:#fff; }
+    .srail-ven-c { display:block; font:500 var(--fs-xs) var(--body); font-style:normal; color:rgba(255,255,255,0.82); margin-top:2px; }
     .srail-play { position:absolute; width:36px; height:36px; border-radius:50%; background:var(--accent-grad); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:21px; padding-left:2px; z-index:2; cursor:pointer; }
     .srail-play.ctr { left:50%; top:50%; transform:translate(-50%,-50%); opacity:0; transition:opacity .15s ease; }
     .srail-art-img:hover .srail-play.ctr { opacity:1; }
@@ -2332,7 +2333,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782918660321">
+<meta name="sc-build" content="1782927437268">
 </head>
 <body>
   <main class="wrap">
@@ -5209,7 +5210,7 @@
         var match=(opts.withMatch&&e.match!=null)?'<span class="match">'+e.match+'%</span>':'';
         var gem=(e.gem&&e.gem.level)?'<span class="srail-gem">'+esc(e.gem.level)+'</span>':'';
         return '<div class="srail-post" data-ev="'+esc(String(e.id))+'"><div class="srail-post-img" style="'+img+'">'+match+gem+((e.lineup&&e.lineup.length)?'<span class="srail-play br" data-evplay="'+esc(String(e.id))+'" aria-label="Play line-up">&#9654;</span>':'')+'</div>'+
-          '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,d].filter(Boolean).join(' · '))+'</div></div>';
+          '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,(opts.showCity&&e.city?cityLabel(e.city):''),d].filter(Boolean).join(' · '))+'</div></div>';
       }).join('')+'</div>';
       el.querySelectorAll('.srail-post[data-ev]').forEach(function(c){ c.addEventListener('click',function(ev){ if(ev.target.closest('.srail-play')) return; openEvent(c.dataset.ev); }); });
       el.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.evplay]; if(e) playYtList((e.lineup||[]).map(function(a){ return {slug:a.slug,name:a.name,poster:e.poster_url}; }), 0); }); });
@@ -5221,10 +5222,12 @@
       var city=opts.city;
       el.innerHTML=secH(opts.title, opts.mt, opts.count!=null?('<span class="ct">'+esc(String(opts.count))+'</span>'):'')+'<div class="srail srail-anim">'+items.map(function(v){
         var img=v.image?('background-image:url('+imgUrl(v.image,360)+')'):('background:'+sceneTone(v.venue_slug||v.venue));
-        return '<div class="srail-ven" data-venue="'+esc(v.venue)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+'</span><span class="srail-play br" data-vplay="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
+        // Per-item city (global search): drives both the label and the correct link target.
+        var vcity=v.city||'';
+        return '<div class="srail-ven" data-venue="'+esc(v.venue)+'" data-vcity="'+esc(vcity)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+(vcity?'<em class="srail-ven-c">'+esc(cityLabel(vcity))+'</em>':'')+'</span><span class="srail-play br" data-vplay="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
       }).join('')+'</div>';
-      el.querySelectorAll('.srail-ven[data-venue]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openVenue(c.dataset.venue, city); }); });
-      el.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playVenueNextYt(b.dataset.vplay, city); }); });
+      el.querySelectorAll('.srail-ven[data-venue]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openVenue(c.dataset.venue, c.dataset.vcity||city); }); });
+      el.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var vc=b.closest('.srail-ven'); playVenueNextYt(b.dataset.vplay, (vc&&vc.dataset.vcity)||city); }); });
     }
     // Scene-guides rail — the entry point into city guides (cover image + name → guide; + All N).
     function loadDcScenes(){
@@ -5302,7 +5305,7 @@
     function openSearch(){
       setRoute('search');
       _dcSceneP=null; _sxDiscoverP=null; // fresh suggestions for the current city
-      showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find artists, venues, events and people across '+esc(cityMeta().name)+'.</div>'+
+      showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find artists, venues, events and people &mdash; everywhere we cover.</div>'+
         '<div class="search-box"><input type="search" id="sx-input" placeholder="Search artists, venues, events, people…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
         '<div id="sx-recent-top"></div>'+
         '<div id="sx-results"></div>');
@@ -5357,8 +5360,8 @@
         pe.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(b.dataset.profile); }); });
       }
       if(art.length) mountArtistRail(document.getElementById('sx-art-s'), art.map(function(a){ return { slug:a.slug, name:a.name, image:a.image_url }; }), {title:'Artists', count:art.length, wrap:true, wide:true, mt:'18px'});
-      if(ven.length) mountVenueRail(document.getElementById('sx-ven-s'), ven.map(function(v){ return { venue:v.name, venue_slug:v.slug }; }), {title:'Venues', count:ven.length, city:currentCity, mt:'22px'});
-      if(ev.length) mountEventRail(document.getElementById('sx-evt-s'), ev, {title:'Events', count:ev.length, mt:'22px'});
+      if(ven.length) mountVenueRail(document.getElementById('sx-ven-s'), ven.map(function(v){ return { venue:v.name, venue_slug:v.slug, city:v.city }; }), {title:'Venues', count:ven.length, city:currentCity, mt:'22px'});
+      if(ev.length) mountEventRail(document.getElementById('sx-evt-s'), ev, {title:'Events', count:ev.length, mt:'22px', showCity:true});
     }
 
     // ── venue map (lazy Leaflet + CARTO dark tiles; vector markers, no image assets) ──
