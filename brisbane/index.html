@@ -2438,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782987173624">
+<meta name="sc-build" content="1782987675822">
 </head>
 <body>
   <main class="wrap">
@@ -5884,7 +5884,7 @@
             var c=sd.count||0, nights=sd.nights||[];
             if(c>0){
               box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">night'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
-                nights.map(function(g){ var d=g.gig_date?fmtDateLabel(String(g.gig_date).slice(0,10)):''; var ev=g.event_id?'<a class="ap-seen-ev" data-event-id="'+esc(String(g.event_id))+'">event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><span class="ap-seen-v"'+(g.venue?' data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</span>'+ev+'</div>'; }).join('')+
+                nights.map(function(g){ var d=g.gig_date?fmtDateLabel(String(g.gig_date).slice(0,10)):''; var ev=g.event_id?'<a class="ap-seen-ev" data-event-id="'+esc(String(g.event_id))+'">view event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><span class="ap-seen-v"'+(g.venue?' data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</span>'+ev+'</div>'; }).join('')+
                 '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another night</button></div>';
             } else {
               box.innerHTML='<div class="ap-seen ap-seen-empty"><span class="ap-seen-emptx">You haven’t logged a night with <b>'+esc(_anm)+'</b> yet.</span><button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log a night</button></div>';
