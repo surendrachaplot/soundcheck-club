@@ -2439,7 +2439,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783006585095">
+<meta name="sc-build" content="1783007067921">
 </head>
 <body>
   <main class="wrap">
@@ -5848,24 +5848,25 @@
         // Plays alongside — frequent collaborators from the lineup graph,
         // shown as the same square photo tiles as the profile shelves.
         if((a.alongside||[]).length){
-          h+='<div class="sec-h" style="margin-top:26px">'+
+          h+='<div class="pf-box" style="margin-top:16px">'+
+              '<div class="sec-h">'+
               '<span>More like '+esc(a.name||slug)+'</span>'+
               '<button class="ev-radio" id="ap-scene" type="button">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
             '</div>'+
-            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:6px 0 12px">Artists who share '+esc(a.name||slug)+'’s lineups, promoters &amp; crowd. Hit play for a radio of all of them.</p>'+
-            '<div id="similar-rail"></div>';
+            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:0 0 12px">Artists who share '+esc(a.name||slug)+'’s lineups, promoters &amp; crowd. Hit play for a radio of all of them.</p>'+
+            '<div id="similar-rail"></div></div>';
         }
         h+='<div id="ap-upcoming"></div>';
         // Past sets — the gig-history timeline.
         if((a.history||[]).length){
-          h+='<div class="sec-h" style="margin-top:26px">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
+          h+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var label=g.title||g.venue||'Event';
             var sub=[(g.title&&g.venue)?g.venue:'', cityLabel(g.city)].filter(Boolean).join(' · ');
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
-          }).join('')+'</ul>';
+          }).join('')+'</ul></div>';
         }
         openPanel(h);
         var _acanon=location.origin+SC_BASE+'dj/'+slug+'/';
@@ -6087,29 +6088,29 @@
         }
         var pst=(p.past||[]), ppst=document.getElementById('pp-past');
         if(ppst && pst.length){
-          ppst.innerHTML='<div class="sec-h" style="margin-top:26px">Past events</div><ul class="gig-history">'+pst.map(function(g){
+          ppst.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past events</div><ul class="gig-history">'+pst.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
             var pvsub=[g.venue, cityLabel(g.city)].filter(Boolean).join(' · ');
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(pvsub?' <small>'+esc(pvsub)+'</small>':'')+'</button></li>';
-          }).join('')+'</ul>';
+          }).join('')+'</ul></div>';
           ppst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
           ppst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
         }
         var arts=(p.topArtists||[]), pa=document.getElementById('pp-artists');
         if(pa && arts.length){
-          pa.innerHTML='<div class="sec-h" style="margin-top:26px">Artists they book</div><div class="ptiles ptiles-wide">'+arts.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div>';
+          pa.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Artists they book</div><div class="ptiles ptiles-wide">'+arts.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div></div>';
           pa.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
         }
         var vns=(p.venues||[]), pv=document.getElementById('pp-venues');
         if(pv && vns.length){
-          pv.innerHTML='<div class="sec-h" style="margin-top:26px">Venues they use</div><div class="pp-tags">'+vns.map(function(v){ return '<span class="sc-tag">'+esc(v.venue)+' <small>'+v.n+'</small></span>'; }).join('')+'</div>';
+          pv.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Venues they use</div><div class="pp-tags">'+vns.map(function(v){ return '<span class="sc-tag">'+esc(v.venue)+' <small>'+v.n+'</small></span>'; }).join('')+'</div></div>';
         }
         var sims=(p.similar||[]), ps=document.getElementById('pp-similar');
         if(ps && sims.length){
-          ps.innerHTML='<div class="sec-h" style="margin-top:26px">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<button class="pp-prom" type="button" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></button>'; }).join('')+'</div>';
+          ps.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<button class="pp-prom" type="button" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></button>'; }).join('')+'</div></div>';
           ps.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
         }
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that promoter.</div>'); }
@@ -6144,7 +6145,7 @@
           h+='<div class="artist-actions">'+(vNext?('<button class="act-btn radio" id="vp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button>'+vFollow+vBeen):(vFollow+vBeen))+'</div>';
         }
         h+='<div id="vp-dna">'+dnaBoxHTML(v.dna)+'</div><div id="vp-upcoming"></div><div id="vp-past"></div>';
-        if(v.lat!=null && v.lng!=null) h+='<div class="sec-h" style="margin-top:26px">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div>';
+        if(v.lat!=null && v.lng!=null) h+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div></div>';
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
         openPanel(h);
         var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
@@ -6169,14 +6170,14 @@
         // Past events — same gig-history list pattern as "Past sets" on the artist page.
         var pst=(v.past||[]), vpst=document.getElementById('vp-past');
         if(vpst && pst.length){
-          vpst.innerHTML='<div class="sec-h" style="margin-top:26px">Past events</div><ul class="gig-history">'+pst.map(function(g){
+          vpst.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past events</div><ul class="gig-history">'+pst.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
             return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
               '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
               '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
-          }).join('')+'</ul>';
+          }).join('')+'</ul></div>';
           vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
           vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
