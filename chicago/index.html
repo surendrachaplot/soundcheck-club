@@ -918,7 +918,7 @@
       .pd-stubs{grid-template-columns:repeat(2,1fr);}
     }
     @media (max-width:620px){
-      .pd-page{padding:0 14px;}
+      .pd-page{padding:0;}   /* .wrap already provides the mobile gutter — don't double it (diary/full pages) */
       .pd-cover-body{flex-wrap:wrap;gap:12px;padding:16px;}
       .pd-cover-actions{flex-direction:row;align-items:center;justify-content:space-between;width:100%;order:3;}
       .pd-holder{flex:1 1 140px;}
@@ -1496,7 +1496,7 @@
     .rc-actions { display:flex; align-items:center; gap:12px; margin-top:14px; }
     .rc-hint { font:500 12px var(--body); color:var(--muted); }
     /* ── profile: boxed cards (app design system) ── */
-    .pf { max-width:640px; margin:0 auto; padding:14px 14px 48px; display:flex; flex-direction:column; gap:14px; }
+    .pf { max-width:640px; margin:0 auto; padding:14px 0 48px; display:flex; flex-direction:column; gap:14px; }   /* no side padding — .wrap already provides the mobile gutter (don't double it) */
     .pf-cols { display:flex; flex-direction:column; gap:14px; }
     .pf-box { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:17px 18px; }
     .pf .pb-rot { margin:0; }
@@ -2438,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782988933864">
+<meta name="sc-build" content="1782990912169">
 </head>
 <body>
   <main class="wrap">
