@@ -2438,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782990912169">
+<meta name="sc-build" content="1782996921003">
 </head>
 <body>
   <main class="wrap">
@@ -5094,7 +5094,7 @@
       var bits=[nights+' night'+(nights===1?'':'s'), fol+' follower'+(fol===1?'':'s'), (s.seen||[]).length+' seen live'];
       if(st.homeCity) bits.push(cityLabel(st.homeCity));
       var acts = isMe
-        ? '<button class="pf-btn primary" id="pf-log" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Log a gig</button><button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button><button class="pf-btn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'
+        ? '<button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button><button class="pf-btn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'   // Log a gig lives in the diary box below — no need to repeat it here
         : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>';
       return '<div class="pf">'+
         '<div class="pf-box pf-id">'+
@@ -5161,7 +5161,6 @@
       wireProfile();
       wireRotation(p);
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
-      var lg=document.getElementById('pf-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
       // Coming up: wire rows + See-all. openAccount prefetches /api/upcoming, but openProfile
       // (/u/<me>) does NOT — so when it's missing (own profile via that path, or a failed
       // prefetch), fetch it here and refill the box. Makes the section work from EVERY entry point.
