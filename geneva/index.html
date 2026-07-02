@@ -1530,7 +1530,7 @@
       /* explicit 2-col grid (not masonry) so pairs line up: diary|coming-up, seen|wanna, venues|events.
          minmax(0,1fr) + min-width:0 are REQUIRED — otherwise a wide horizontal rail (venues/events)
          blows its column past 1fr and skews every row lopsided. */
-      .pf-cols { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:16px; align-items:start; }
+      .pf-cols { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:16px; align-items:stretch; }
       .pf-cols > .pf-box { margin:0; min-width:0; }
     }
     .rc-box.tc-box .pb-hero { padding:0; }
@@ -2438,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782987675822">
+<meta name="sc-build" content="1782988933864">
 </head>
 <body>
   <main class="wrap">
