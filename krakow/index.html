@@ -734,10 +734,11 @@
     .page-title::after { content:""; display:block; width:72px; height:6px; background:var(--accent); border-radius:3px; margin-top:14px; }
     /* Section header (style 1): coral tick + title + count pill, control pushed right. */
     /* DS: section header (continent tags, "Find your venue", "Venues", shelves…) — ~2× larger. Global. */
-    .sec-h { font-family:var(--head); font-weight:800; font-size:calc(var(--fs-2xl) * 0.6); letter-spacing:-0.02em; margin:0 0 16px; display:flex; align-items:center; gap:11px; line-height:1.05; }   /* section sub-headers: −40% per request (2rem→1.2rem). Token left shared with .sct-name. */
-    .sec-h::before { content:""; width:5px; height:1.02em; background:var(--accent); border-radius:2px; flex:none; }
-    .sec-h .ct { font:600 var(--fs-sm)/1 var(--body); color:var(--muted); background:var(--surface-3); border-radius:999px; padding:4px 11px; letter-spacing:0; }
-    .sec-h .more { margin-left:auto; font-size:var(--fs-sm); font-weight:600; letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
+    /* section header — CONVERGED to one look (matches .pf-h / .pb-p-head): head title + mono count
+       + accent action; accent bar dropped, count pill → mono text so every header reads the same. */
+    .sec-h { font-family:var(--head); font-weight:800; font-size:18px; letter-spacing:-0.01em; margin:0 0 14px; display:flex; align-items:center; gap:10px; line-height:1.1; }
+    .sec-h .ct { font:600 11px var(--font-mono); color:var(--muted); letter-spacing:.1em; padding:0; }
+    .sec-h .more { margin-left:auto; font:700 12px var(--body); letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
     .sec-h .ev-radio { margin-left:auto; }
     .sec-radio { margin:0; padding:5px 12px; flex:none; }
     .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:5px; margin:2px 0 16px; }
@@ -1504,7 +1505,7 @@
     .pf .pb-rot-title { font-size:16px; }
     .pf .pb-rot-head { margin-bottom:14px; }
     .pf-h { display:flex; align-items:center; gap:9px; margin-bottom:14px; }
-    .pf-h-t { font:800 16px var(--head); letter-spacing:-0.01em; }
+    .pf-h-t { font:800 18px var(--head); letter-spacing:-0.01em; }
     .pf-h-ct { font:600 11px var(--font-mono,monospace); color:var(--muted); }
     .pf-h-act { margin-left:auto; background:none; border:none; color:var(--accent); font:700 12px var(--body); cursor:pointer; padding:0; }
     .pf-btn { display:inline-flex; align-items:center; justify-content:center; gap:7px; height:42px; padding:0 15px; border-radius:11px; font:700 11px var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; transition:border-color .12s, background .12s; }
@@ -2261,7 +2262,7 @@
 #pb-t-wanna:checked~.pb-panels .pb-p-wanna,
 #pb-t-venues:checked~.pb-panels .pb-p-venues{display:block}
 .pb-p-head{display:flex;align-items:center;gap:12px;margin-bottom:14px;flex-wrap:wrap}
-.pb-p-title{font-family:var(--head);font-weight:800;font-size:20px;letter-spacing:-.01em}
+.pb-p-title{font-family:var(--head);font-weight:800;font-size:18px;letter-spacing:-.01em}
 .pb-p-count{font-family:var(--font-mono);font-size:11px;color:var(--muted);letter-spacing:.1em}
 .pb-tools{margin-left:auto;display:flex;gap:8px;align-items:center}
 .pb-search{display:flex;align-items:center;gap:7px;background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:7px 11px;font-size:12px;color:var(--muted);min-width:150px}
@@ -2438,7 +2439,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783004291066">
+<meta name="sc-build" content="1783006585095">
 </head>
 <body>
   <main class="wrap">
