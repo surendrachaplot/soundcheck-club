@@ -2438,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1782948230939">
+<meta name="sc-build" content="1782987173624">
 </head>
 <body>
   <main class="wrap">
@@ -5162,9 +5162,20 @@
       wireRotation(p);
       var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
       var lg=document.getElementById('pf-log'); if(lg) lg.addEventListener('click',function(){ openLog(); });
-      // Coming up: each row opens its event; "See all" → the full Coming up page
-      document.querySelectorAll('#pf-coming .pf-cu-row[data-cu-ev]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.cuEv) openEvent(b.dataset.cuEv); }); });
-      var cua=document.getElementById('pf-cu-all'); if(cua) cua.addEventListener('click',function(){ openUpcoming(); });
+      // Coming up: wire rows + See-all. openAccount prefetches /api/upcoming, but openProfile
+      // (/u/<me>) does NOT — so when it's missing (own profile via that path, or a failed
+      // prefetch), fetch it here and refill the box. Makes the section work from EVERY entry point.
+      function wireComing(){
+        document.querySelectorAll('#pf-coming .pf-cu-row[data-cu-ev]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.cuEv) openEvent(b.dataset.cuEv); }); });
+        var cua=document.getElementById('pf-cu-all'); if(cua) cua.addEventListener('click',function(){ openUpcoming(); });
+      }
+      wireComing();
+      if(isMe && !p.upcoming){
+        authedFetch('/api/upcoming').then(function(r){ return r.ok?r.json():null; }).then(function(u){
+          if(!u) return; p.upcoming=u; var box=document.getElementById('pf-coming');
+          if(box){ box.outerHTML=pfComingHTML(p); wireComing(); }
+        }).catch(function(){});
+      }
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
