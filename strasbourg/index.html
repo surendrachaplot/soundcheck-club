@@ -2436,7 +2436,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783097027746">
+<meta name="sc-build" content="1783107716118">
 </head>
 <body>
   <main class="wrap">
@@ -6781,9 +6781,10 @@
       // cards — which span many future dates — from all reading "Tonight".
       var isTon = currentDate && currentDate===todayISO();
       var dayLab = ev._day || (isTon ? 'Tonight' : '');
-      var t1=time12(ev.startTime);
+      var t1=time12(ev.startTime), t2=time12(ev.endTime);
+      var tRange = (t1&&t2) ? (t1+' – '+t2) : t1;   // show the full window (start – end) when we have both
       // meta under the image, two rows: date · time  /  venue · city
-      var mWhen = [dayLab, t1].filter(Boolean).join(' &middot; ');
+      var mWhen = [dayLab, tRange].filter(Boolean).join(' &middot; ');
       var mWhere = [esc(ev.venue||'TBA'), ev._city?esc(ev._city):''].filter(Boolean).join(' &middot; ');
       var meta = (mWhen?'<span class="evc-mrow evc-mwhen">'+mWhen+'</span>':'')+(mWhere?'<span class="evc-mrow evc-mwhere">'+mWhere+'</span>':'');
       // 2×2 chip grid → up to 4 artists across 2 fixed lines (keeps every card the
