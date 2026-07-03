@@ -36,6 +36,12 @@ jobs:
         with:
           node-version: "20"
 
+      # Exact-pinned to match the local devDependency: a different esbuild version
+      # would minify differently → new bundle hash → pointless daily churn.
+      - name: Install esbuild (bundle minifier)
+        working-directory: soundcheck-api
+        run: npm install --no-save --no-audit --no-fund esbuild@0.24.0
+
       - name: Regenerate SEO pages (against live API)
         working-directory: soundcheck-api
         run: node build-seo.mjs
