@@ -1,0 +1,4917 @@
+
+    // First-party API subdomain per site → same-site HttpOnly cookies work.
+    // soundcheck.club → api.soundcheck.club; 6minutes.club → api.6minutes.club.
+    var API_BASE = (location.hostname === 'localhost' || location.hostname === '127.0.0.1')
+      ? ''
+      : (/(^|\.)soundcheck\.club$/.test(location.hostname)
+          ? 'https://api.soundcheck.club'
+          : 'https://api.6minutes.club');
+
+    var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    // PWA: register the service worker (scope = this dir). HTTPS/localhost only.
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function(){ navigator.serviceWorker.register('/sw.js').catch(function(){}); });
+    }
+
+    var SC_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg>';
+    var YT_SVG = '<svg class="brand" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg>';
+    // External link pills for artist socials / venue website (opens a new tab).
+    var LINK_ICONS={
+      soundcloud:'<svg viewBox="0 0 24 24"><path d="M4 14v4M7 12v6M10 10v8M13 9v9"/><path d="M16 11a4 4 0 0 1 0 8h-3V9.5a5 5 0 0 1 7.2 2"/></svg>',
+      instagram:'<svg viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="19" height="19" rx="5.2"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1"/></svg>',
+      website:'<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c3 3 3 16 0 19M12 2.5c-3 3-3 16 0 19"/></svg>'
+    };
+    function socialLinksHTML(o){
+      o=o||{}; var b=[];
+      if(o.soundcloud) b.push('<a class="slink" href="'+esc(o.soundcloud)+'" target="_blank" rel="noopener" aria-label="SoundCloud">'+LINK_ICONS.soundcloud+'</a>');
+      if(o.instagram)  b.push('<a class="slink" href="'+esc(o.instagram)+'" target="_blank" rel="noopener" aria-label="Instagram">'+LINK_ICONS.instagram+'</a>');
+      if(o.website)    b.push('<a class="slink" href="'+esc(o.website)+'" target="_blank" rel="noopener" aria-label="Website">'+LINK_ICONS.website+'</a>');
+      return b.length ? '<div class="slinks">'+b.join('')+'</div>' : '';
+    }
+
+    var EXPAND_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg>';
+    function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
+    function formatTime(iso){ if(!iso) return ''; var m=/T(\d{2}:\d{2})/.exec(iso); return m?m[1]:''; }
+    // "23:00 – 06:00" when both are known; just the start otherwise. fb = a non-ISO start (e.g. "23:00").
+    function formatTimeRange(s,e,fb){ var a=formatTime(s)||fb||'', b=formatTime(e); return (a&&b)?(a+' – '+b):a; }
+    // Ticket price (scraped from RA's free-text cost, best-effort). 0 → "Free", null → ''.
+    // A stated range shows "£5–25"; a single price shows "from £12". Symbol currencies
+    // prefix (£/€/$); others suffix the code (from 150 SEK / 150–300 SEK).
+    var CCY_SYMBOL={ GBP:'£', EUR:'€', USD:'$' };
+    function formatPrice(minPrice, maxPrice, currency){
+      if(minPrice==null) return '';
+      var lo=Number(minPrice); if(!isFinite(lo)) return '';
+      if(lo<=0) return 'Free';
+      var sym=CCY_SYMBOL[currency];
+      var amt=function(n){ return (Math.round(n*100)%100===0)?String(Math.round(n)):n.toFixed(2); };
+      var hi=(maxPrice!=null)?Number(maxPrice):null;
+      if(hi!=null && isFinite(hi) && hi>lo){
+        return sym ? (sym+amt(lo)+'–'+amt(hi)) : (amt(lo)+'–'+amt(hi)+(currency?(' '+currency):''));
+      }
+      return sym ? ('from '+sym+amt(lo)) : ('from '+amt(lo)+(currency?(' '+currency):''));
+    }
+    function normaliseSc(url){ if(!url) return null; var u=url.trim(); if(!/^https?:\/\//i.test(u)) u='https://'+u; u=u.replace(/^https?:\/\/www\.soundcloud\.com/i,'https://soundcloud.com'); return u.replace(/\/+$/,''); }
+
+    var RE_FOLD=/\bfold\b/i, RE_MOT=/\bm\.?\s?o\.?\s?t\b/i, RE_PHONOX=/\bphonox\b/i, RE_ORMSIDE=/\bormside\b/i, RE_CARPET=/\bcarpet\s?shop\b/i;
+    function isPickVenue(v){ if(!v) return false; return RE_FOLD.test(v)||RE_MOT.test(v)||RE_PHONOX.test(v)||RE_ORMSIDE.test(v); }
+    // South London community CTA — shows on these venues' cards
+    var SOLO_WHATSAPP='https://chat.whatsapp.com/Ee2P0HuVne2GOgiK54ujqI?mode=gi_t';
+    function isSoloVenue(v){ if(!v) return false; return RE_MOT.test(v)||RE_PHONOX.test(v)||RE_CARPET.test(v); }
+    // "Going solo?" community CTA — temporarily disabled; to be redesigned.
+    // Returns nothing everywhere it's called (cards + event sheet); the WhatsApp
+    // link + venue-matching logic below stay ready for the rebuild.
+    function soloCtaHTML(ev){
+      return '';
+      /* eslint-disable no-unreachable */
+      if(!isSoloVenue(ev.venue)) return '';
+      return '<a class="solo-cta" href="'+SOLO_WHATSAPP+'" target="_blank" rel="noopener">'+
+        '<span class="solo-h">Going solo?</span>'+
+        '<span class="solo-t">Join the South London community for ravers and find people to go with.</span>'+
+        '<span class="solo-btn">Join the WhatsApp group &rarr;</span>'+
+      '</a>';
+    }
+
+    // deterministic warm gradient for generated posters
+    function hashStr(s){ var h=0; for(var i=0;i<s.length;i++){ h=(h*31+s.charCodeAt(i))>>>0; } return h; }
+    // Deterministic generative avatar (marble): a hashed gradient + two
+    // translucent circles — unique per handle, no first-letter. Returns a data URI.
+    function genAvatar(seed){
+      var h=hashStr(String(seed||'x')), hue=h%360;
+      var c1='hsl('+hue+',62%,55%)', c2='hsl('+((hue+150+(h>>4)%70)%360)+',56%,40%)', c3='hsl('+((hue+60+(h>>8)%150)%360)+',66%,63%)';
+      var ang=(h>>2)%360, cx1=16+(h>>5)%30, cy1=16+(h>>9)%30, r1=18+(h>>11)%16, cx2=40+(h>>13)%30, cy2=42+(h>>15)%28, r2=12+(h>>17)%12;
+      var svg='<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">'+
+        '<defs><linearGradient id="g" gradientTransform="rotate('+ang+' .5 .5)"><stop offset="0" stop-color="'+c1+'"/><stop offset="1" stop-color="'+c2+'"/></linearGradient></defs>'+
+        '<rect width="80" height="80" fill="url(#g)"/>'+
+        '<circle cx="'+cx1+'" cy="'+cy1+'" r="'+r1+'" fill="'+c3+'" opacity="0.5"/>'+
+        '<circle cx="'+cx2+'" cy="'+cy2+'" r="'+r2+'" fill="'+c1+'" opacity="0.45"/>'+
+      '</svg>';
+      return 'data:image/svg+xml,'+encodeURIComponent(svg);
+    }
+    // CSS background-image value: uploaded photo if present, else generated.
+    function avatarBg(handle, avatarUrl){ return "url('"+(avatarUrl||genAvatar(handle))+"')"; }
+    function genPoster(title){
+      var h=hashStr(title), hue=((h%70)+340)%360, ang=110+(h%80);
+      return '<div class="gen" style="--ang:'+ang+'deg;--g1:hsl('+hue+' 68% 54%);--g2:hsl('+((hue+18)%360)+' 45% 11%)"><span class="gt">'+esc(title)+'</span></div>';
+    }
+    // Proxy + downscale helper. w = target CSS px; we request ~2× for retina.
+    // The proxy resizes + serves WebP (when accepted), so a 2MB flyer becomes
+    // tens of KB. Omit w to get the original.
+    function imgUrl(u, w){ return API_BASE+'/api/img?u='+encodeURIComponent(u)+(w?('&w='+w):''); }
+    function posterHTML(ev){
+      var img=ev.poster?'<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,600)+'" alt="" onerror="this.style.display=\'none\'">':'';
+      return '<div class="poster">'+genPoster(ev.title||'Event')+img+'<span class="tint"></span></div>';
+    }
+
+    // ── email gate ──
+    // ── identity + server-side prefs (nothing user-shaped lives in localStorage) ──
+    // Everyone who interacts gets an identity: real accounts via magic link,
+    // everyone else via an anonymous users row behind the same HttpOnly session
+    // cookie (POST /api/anon/start). Picks live in Postgres through that
+    // identity; small UI prefs live in users.prefs (jsonb) via /api/prefs.
+    var prefs={}, anonUser=false, _identityP=null, _memToken='', _meLoaded=false, _hadAccount=false, _meReady=null;
+    // Resolves once the first /api/auth/me has settled. Lets gesture handlers wait
+    // out the auth-unknown window (e.g. a cold-backend refresh) instead of treating
+    // a not-yet-known user as signed out and popping the sign-in form.
+    function whenAuthKnown(){ return _meLoaded ? Promise.resolve() : (_meReady || Promise.resolve()); }
+    // Durable, synchronous "this device has signed in before" hint (NOT identity —
+    // the session still lives in the HttpOnly cookie). It's readable at boot,
+    // before /api/auth/me resolves, so a returning signed-in user is never shown
+    // the email-capture gate during a slow/cold backend round-trip. Cleared on sign-out.
+    try{ _hadAccount = localStorage.getItem('sc_acct')==='1'; }catch(_){}
+    function ensureIdentity(){
+      if(currentUser||anonUser) return Promise.resolve(true);
+      if(_identityP) return _identityP;
+      _identityP=authedFetch('/api/anon/start',{ method:'POST' })
+        .then(function(r){ if(r.ok){ anonUser=true; return true; } _identityP=null; return false; })
+        .catch(function(){ _identityP=null; return false; });
+      return _identityP;
+    }
+    var _prefsOut=null;
+    function setPref(k,v){
+      prefs[k]=v;
+      clearTimeout(_prefsOut);
+      _prefsOut=setTimeout(function(){
+        var snap={}; snap[k]=v; // send the latest value of this key (cheap + idempotent)
+        ensureIdentity().then(function(ok){
+          if(ok) authedFetch('/api/prefs',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(snap) }).catch(function(){});
+        });
+      },400);
+    }
+
+    function hasEmail(){ return !!prefs.emailGated || !!currentUser || _hadAccount; } // signed-in (or previously-signed-in) users are past the gate
+    var _pendingEmail='';
+    // The first successful play is free; from the second, ask for an email.
+    function playCount(){ return parseInt(prefs.plays,10)||0; }
+    // Gate on a PER-SESSION counter (sessionStorage) so every new browser session
+    // gets one free play, not just once per browser forever. prefs.plays still
+    // tracks lifetime plays.
+    function sessionPlays(){ try{ return parseInt(sessionStorage.getItem('sc_splays'),10)||0; }catch(_){ return 0; } }
+    function bumpPlayCount(){ setPref('plays', playCount()+1); try{ sessionStorage.setItem('sc_splays', String(sessionPlays()+1)); }catch(_){} }
+    function gateForPlay(){
+      if(hasEmail()) return Promise.resolve(true);
+      if(sessionPlays() < 1) return Promise.resolve(true);   // first play of each session is free
+      return ensureEmailGate({ heading:'Loving the music? Get a <span class="ac">free account</span>.', body:'Pop in your email &mdash; we&rsquo;ll send a magic link to set up your profile.' });
+    }
+    // Signup gate: ask for an email, fire a magic link (real account), and let
+    // them keep going immediately. Tapping the link finishes sign-up + merges
+    // their anonymous picks. Also subscribes the email to the weekly list.
+    function ensureEmailGate(opts){
+      if(hasEmail()) return Promise.resolve(true);
+      // Don't gate until we actually know the auth state. On a hard refresh the
+      // cached shell paints instantly but /api/auth/me is a cross-origin call
+      // that can lag (cold backend); a tap in that window would otherwise pop the
+      // gate on an already-signed-in user. Treat "unknown" as "let it through" —
+      // once loadMe resolves, a genuinely-anonymous user gates on their next tap.
+      if(!_meLoaded) return Promise.resolve(true);
+      opts=opts||{};
+      var gHead=opts.heading||'Save it with a <span class="ac">free account</span>.';
+      var gBody=opts.body||'Pop in your email &mdash; we&rsquo;ll send a magic link to save your picks and set up your profile.';
+      return new Promise(function(resolve){
+        var ov=document.createElement('div'); ov.className='email-overlay';
+        ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
+          '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
+          '<h3>'+gHead+'</h3>'+
+          '<p>'+gBody+'</p>'+
+          '<form class="email-form"><input type="email" required placeholder="you@somewhere.com" autocomplete="email" /><button type="submit">Send my link</button></form>'+
+          '<p class="email-err" aria-live="polite"></p></div>';
+        document.body.appendChild(ov);
+        var input=ov.querySelector('input'), submit=ov.querySelector('button[type=submit]'),
+            closeBtn=ov.querySelector('.email-close'), errEl=ov.querySelector('.email-err'), form=ov.querySelector('form');
+        setTimeout(function(){ input.focus(); },30);
+        function dismiss(){ ov.remove(); document.removeEventListener('keydown',onEsc); resolve(false); }
+        function onEsc(e){ if(e.key==='Escape') dismiss(); }
+        document.addEventListener('keydown',onEsc);
+        closeBtn.addEventListener('click',dismiss);
+        ov.addEventListener('click',function(e){ if(e.target===ov) dismiss(); });
+        form.addEventListener('submit',async function(e){
+          e.preventDefault(); errEl.textContent='';
+          var email=input.value.trim().toLowerCase();
+          if(!EMAIL_RE.test(email)||email.length>254){ errEl.textContent='That doesn’t look like an email.'; return; }
+          submit.disabled=true;
+          var ok=false;
+          try{ var r=await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}); ok=r.ok; }catch(_){}
+          if(!ok){ errEl.textContent='Couldn’t send the link — try again.'; submit.disabled=false; return; }
+          try{ fetch(API_BASE+'/api/email',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}); }catch(_){} // newsletter, best-effort
+          _pendingEmail=email; setPref('emailGated', true); setPref('pendingEmail', email); // optimistic unblock; link finishes the account
+          document.removeEventListener('keydown',onEsc); ov.remove();
+          showSignupBanner(email);
+          resolve(true);
+        });
+      });
+    }
+    // "Don't see your event here?" — a small form that emails the details to us.
+    function openSubmitEvent(){
+      var ov=document.createElement('div'); ov.className='email-overlay';
+      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
+        '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
+        '<h3>Get your event <span class="ac">listed</span>.</h3>'+
+        '<p>Promoter, artist or venue? Drop us a line.</p>'+
+        '<form class="se-form">'+
+          '<input type="text" name="name" placeholder="Your name" required autocomplete="name">'+
+          '<input type="email" name="email" placeholder="Your email" required autocomplete="email">'+
+          '<select name="role" required><option value="" disabled selected>I&rsquo;m a&hellip;</option><option>Promoter</option><option>Artist</option><option>Venue</option></select>'+
+          '<textarea name="message" rows="4" placeholder="Tell us about your event" required></textarea>'+
+          '<button type="submit">Submit</button>'+
+        '</form>'+
+        '<p class="se-note">Submit this and we&rsquo;ll get in touch to list your event.</p>'+
+        '<p class="email-err" aria-live="polite"></p></div>';
+      document.body.appendChild(ov);
+      var modal=ov.querySelector('.email-modal'), form=ov.querySelector('form'),
+          closeBtn=ov.querySelector('.email-close'), errEl=ov.querySelector('.email-err'),
+          submit=ov.querySelector('button[type=submit]');
+      setTimeout(function(){ var f=ov.querySelector('input'); if(f) f.focus(); },30);
+      function dismiss(){ ov.remove(); document.removeEventListener('keydown',onEsc); }
+      function onEsc(e){ if(e.key==='Escape') dismiss(); }
+      document.addEventListener('keydown',onEsc);
+      closeBtn.addEventListener('click',dismiss);
+      ov.addEventListener('click',function(e){ if(e.target===ov) dismiss(); });
+      form.addEventListener('submit',async function(e){
+        e.preventDefault(); errEl.textContent='';
+        var get=function(k){ var el=form.querySelector('[name='+k+']'); return el?el.value.trim():''; };
+        var data={ name:get('name'), email:get('email'), role:get('role'), message:get('message') };
+        if(!data.name||!data.email||!data.message){ errEl.textContent='Fill in your name, email and a few words about the event.'; return; }
+        submit.disabled=true; submit.textContent='Sending…';
+        try{
+          var r=await authedFetch('/api/submit-event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(data) });
+          if(!r.ok) throw 0;
+          modal.innerHTML='<button class="email-close" type="button" aria-label="Close">&times;</button><h3>Thanks &mdash; got it.</h3><p>We&rsquo;ll take a look and get it added soon.</p>';
+          modal.querySelector('.email-close').addEventListener('click',dismiss);
+          setTimeout(dismiss, 2800);
+        }catch(_){ submit.disabled=false; submit.textContent='Send it in'; errEl.textContent='Couldn’t send that — try again in a moment.'; }
+      });
+    }
+    var _footSubmit=document.getElementById('foot-submit');
+    if(_footSubmit) _footSubmit.addEventListener('click',function(e){ e.preventDefault(); openSubmitEvent(); });
+    var _footHome=document.getElementById('foot-home');
+    if(_footHome) _footHome.addEventListener('click',function(){ if(document.body.classList.contains('page-on')) goGrid(); window.scrollTo(0,0); });
+    var _footDisc=document.getElementById('foot-discover');
+    if(_footDisc) _footDisc.addEventListener('click',function(){ openDiscover(); });
+    var _footCities=document.getElementById('foot-cities');
+    if(_footCities) _footCities.addEventListener('click',function(){ openCityPicker(); });
+    // Persistent nudge to finish sign-up; hidden once they're actually signed in.
+    function showSignupBanner(email){
+      if(currentUser) return;
+      var b=document.getElementById('signup-banner'); if(!b) return;
+      document.getElementById('signup-banner-email').textContent=email||_pendingEmail||prefs.pendingEmail||'your inbox';
+      b.hidden=false;
+    }
+    function hideSignupBanner(){ var b=document.getElementById('signup-banner'); if(b) b.hidden=true; }
+
+    // ── player dock ──
+    var dock=document.getElementById('dock'), dockMedia=document.getElementById('dock-media'),
+        dockName=document.getElementById('dock-name'), dockSrc=document.getElementById('dock-src'),
+        dockThumb=document.getElementById('dock-thumb'), dockGrab=document.getElementById('dock-grab'),
+        dockPP=document.getElementById('dock-pp'), toastEl=document.getElementById('toast');
+    var CHEV_UP='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>';
+    var CHEV_DOWN='<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>';
+    var PP_PLAY='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>';
+    var PP_PAUSE='<svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>';
+    function setExpIcon(){ if(dockGrab) dockGrab.setAttribute('aria-label', dock.classList.contains('expanded')?'Collapse player':'Expand player'); }
+    function setDockPad(){ document.body.classList.toggle('dock-collapsed', !dock.classList.contains('expanded')); }
+
+    function showToast(text){ toastEl.textContent=text; toastEl.classList.add('show'); clearTimeout(toastEl._t); toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },2800); }
+    function showToastAction(text, label, fn){
+      toastEl.innerHTML=esc(text)+' <button type="button" class="toast-act">'+esc(label)+'</button>';
+      toastEl.classList.add('show'); clearTimeout(toastEl._t);
+      var b=toastEl.querySelector('.toast-act'); if(b) b.addEventListener('click',function(){ toastEl.classList.remove('show'); fn(); });
+      toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); },5200);
+    }
+
+    // YouTube IFrame API readiness
+    var ytReady=false, pendingYt=null, ytPlayer=null, ytReadyFlag=false, scWidget=null, currentType=null;
+    window.onYouTubeIframeAPIReady=function(){ ytReady=true; if(pendingYt){ var f=pendingYt; pendingYt=null; f(); } };
+
+    // ── lazy SDK loaders (first play only — keeps both off the critical path) ──
+    var ytApiLoading=false, scApiLoading=false, scReadyCbs=[];
+    function loadYtApi(){
+      if(window.YT && window.YT.Player){ ytReady=true; return; }
+      if(ytApiLoading) return; ytApiLoading=true;
+      var s=document.createElement('script'); s.src='https://www.youtube.com/iframe_api'; s.async=true;
+      document.head.appendChild(s); // onYouTubeIframeAPIReady flips ytReady + runs pendingYt
+    }
+    function loadScApi(cb){
+      if(window.SC && window.SC.Widget){ cb(); return; }
+      scReadyCbs.push(cb);
+      if(scApiLoading) return; scApiLoading=true;
+      var s=document.createElement('script'); s.src='https://w.soundcloud.com/player/api.js'; s.async=true;
+      s.onload=function(){ var cbs=scReadyCbs; scReadyCbs=[]; cbs.forEach(function(f){ try{ f(); }catch(_){} }); };
+      document.head.appendChild(s);
+    }
+
+    var active=null;
+    function setState(btn,ch){ var s=btn.querySelector('.state'); if(s) s.textContent=ch; }
+    function updatePP(playing){ var ic = playing ? PP_PAUSE : PP_PLAY, lab = playing?'Pause':'Play'; dockPP.innerHTML = ic; dockPP.setAttribute('aria-label', lab); var bk=document.getElementById('bar-knob'); if(bk){ bk.innerHTML = ic; bk.setAttribute('aria-label', lab); } }   /* keep the slider playhead's icon in sync with the transport play button */
+    function clearPlayers(){ stopPoll(); if(ytPlayer){ try{ ytPlayer.destroy(); }catch(_){} ytPlayer=null; ytReadyFlag=false; } scWidget=null; currentType=null; pendingYt=null; resetScrub(); }
+    function ytSize(){ var w = window.innerWidth<=620 ? Math.min(320, window.innerWidth-40) : 400; return { w:w, h:Math.round(w*9/16) }; }
+
+    // ── scrubber (works for both YT IFrame API and SC Widget API) ──
+    var barEl=document.getElementById('bar'), barFill=document.getElementById('bar-fill'), barKnob=document.getElementById('bar-knob'),
+        tCur=document.getElementById('t-cur'), tDur=document.getElementById('t-dur');
+    var scrubbing=false, dur=0, pos=0, pollTimer=null;
+    function fmtT(s){ s=Math.max(0,Math.floor(s||0)); var h=Math.floor(s/3600),m=Math.floor((s%3600)/60),x=s%60; return (h?h+':'+String(m).padStart(2,'0'):m)+':'+String(x).padStart(2,'0'); }
+    function paintScrub(){ var f=dur>0?Math.min(1,pos/dur):0; barFill.style.width=(f*100)+'%'; barKnob.style.left=(f*100)+'%'; tCur.textContent=fmtT(pos); tDur.textContent=fmtT(dur); }
+    function resetScrub(){ dur=0; pos=0; scrubbing=false; paintScrub(); }
+    function stopPoll(){ if(pollTimer){ clearInterval(pollTimer); pollTimer=null; } }
+    function startPoll(){ stopPoll(); pollTimer=setInterval(function(){ if(scrubbing) return; if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime){ pos=ytPlayer.getCurrentTime()||0; var d=ytPlayer.getDuration&&ytPlayer.getDuration(); if(d) dur=d; paintScrub(); } },500); }
+    function livePos(){ if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime) return ytPlayer.getCurrentTime()||0; return pos; }
+    function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); } pos=sec; paintScrub(); }
+    function barFrac(e){ var r=barEl.getBoundingClientRect(); var cx=(e.clientX!=null?e.clientX:(e.touches&&e.touches[0]?e.touches[0].clientX:0)); return Math.min(1,Math.max(0,(cx-r.left)/r.width)); }
+    // SCA playhead: the bar-knob IS the play/pause button in BOTH collapsed and expanded —
+    // a tap toggles, a drag scrubs. (The panel's expand-on-tap already excludes .scrub.)
+    var _phDown=null;
+    barKnob.addEventListener('pointerdown',function(e){ if(!active) return; e.stopPropagation(); _phDown={x:e.clientX,moved:false}; try{ barKnob.setPointerCapture(e.pointerId); }catch(_){} });
+    barKnob.addEventListener('pointermove',function(e){ if(!_phDown) return; if(Math.abs(e.clientX-_phDown.x)>4){ _phDown.moved=true; if(dur){ scrubbing=true; pos=barFrac(e)*dur; paintScrub(); } } });
+    barKnob.addEventListener('pointerup',function(e){ if(!_phDown) return; var moved=_phDown.moved; _phDown=null; if(moved&&dur){ scrubbing=false; seekTo(barFrac(e)*dur); } else { togglePlay(); } });
+    barKnob.addEventListener('pointercancel',function(){ _phDown=null; scrubbing=false; });
+    barEl.addEventListener('pointerdown',function(e){ if(!active||!dur) return; scrubbing=true; try{ barEl.setPointerCapture(e.pointerId); }catch(_){} pos=barFrac(e)*dur; paintScrub(); });
+    barEl.addEventListener('pointermove',function(e){ if(!scrubbing) return; pos=barFrac(e)*dur; paintScrub(); });
+    barEl.addEventListener('pointerup',function(e){ if(!scrubbing) return; scrubbing=false; seekTo(barFrac(e)*dur); });
+    barEl.addEventListener('pointercancel',function(){ scrubbing=false; });
+    document.getElementById('skip-back').addEventListener('click',function(){ if(active) seekTo(livePos()-15); });
+    document.getElementById('skip-fwd').addEventListener('click',function(){ if(active) seekTo(livePos()+15); });
+
+    // On phones the player opens as the compact bar (audio + transport); the
+    // big video stage is one tap away via the thumb. Desktop still expands.
+    function isSmallScreen(){ return window.matchMedia && matchMedia('(max-width:620px)').matches; }
+    // Next-gig line for the expanded dock — fetched by the playing artist's slug (cached),
+    // so it shows for EVERY artist play (rails, bill, discover, tune-in), not just ones
+    // that happened to carry a venue. date · venue · city; venue taps through to the venue.
+    var _nextGigCache={};
+    function setDockNextGig(slug){
+      var el=document.getElementById('dock-next-gig'); if(!el) return;
+      el.textContent=''; el.classList.remove('linky'); el.onclick=null; dock.classList.remove('has-next');
+      if(!slug) return;
+      function render(g){
+        if(!g || !g.event_date){ el.textContent=''; dock.classList.remove('has-next'); return; }
+        el.textContent='Next · '+[ fmtDateLabel(String(g.event_date).slice(0,10)), g.venue, g.city?cityLabel(g.city):'' ].filter(Boolean).join(' · ');
+        dock.classList.add('has-next');
+        if(g.venue){ el.classList.add('linky'); el.onclick=function(){ openVenue(g.venue, g.city||null); }; }
+      }
+      if(Object.prototype.hasOwnProperty.call(_nextGigCache, slug)){ render(_nextGigCache[slug]); return; }
+      pubGet('/api/artist/next?slug='+encodeURIComponent(slug)).then(function(j){ var g=(j&&j.next)||null; _nextGigCache[slug]=g; render(g); }).catch(function(){});
+    }
+    function openDockUI(btn,name,src,expand){
+      dockName.textContent=name; dockSrc.textContent=src;
+      // Make the now-playing artist + venue tappable (jump to their pages; the set keeps playing).
+      var navSlug=(btn&&btn.dataset&&btn.dataset.slug)||'', navVenue=(btn&&btn.dataset&&btn.dataset.venue)||'', navCity=(btn&&btn.dataset&&btn.dataset.city)||'';
+      dockName.classList.toggle('linky', !!navSlug);
+      dockName.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
+      dockSrc.classList.toggle('linky', !!navVenue);
+      dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
+      setDockNextGig(navSlug); // expanded dock: the artist's next gig under the name
+      // Heart / Seen for the playing artist — labeled, in the expanded player. Reuse the
+      // .heart/.seen-btn data hooks so refreshArtistButtons() keeps them in sync everywhere.
+      var dockActs=document.getElementById('dock-acts');
+      if(navSlug){
+        var dh=document.getElementById('dock-heart'), ds=document.getElementById('dock-seen');
+        dh.setAttribute('data-pick-art', navSlug); dh.setAttribute('data-name', name);
+        ds.setAttribute('data-seen-art', navSlug); ds.setAttribute('data-name', name);
+        refreshArtistButtons(navSlug);   // sets the .on state from current status
+        dockActs.style.display='';
+      } else { dockActs.style.display='none'; }
+      if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
+      else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
+      dock.classList.add('show'); document.body.classList.add('has-dock');
+      if(expand) dock.classList.add('expanded'); else dock.classList.remove('expanded');
+      setExpIcon(); setDockPad();
+      btn.classList.add('playing'); setState(btn,'■');
+      active={ button:btn };
+      // Don't assume we're playing — mobile browsers often block autoplay.
+      // The play/pause icon is driven by the actual player state below, so
+      // it stays honest: ▶ until playback truly starts, then pause.
+      updatePP(false);
+      bumpPlayCount();
+      updateNavButtons();
+    }
+    function stopActive(){
+      if(typeof radio!=='undefined' && radio.on) radioStop();
+      scQ=null;
+      if(!active) return;
+      active.button.classList.remove('playing'); setState(active.button,'▶');
+      clearPlayers();
+      dockMedia.innerHTML='';
+      dock.classList.remove('show','expanded'); document.body.classList.remove('has-dock','dock-collapsed');
+      active=null;
+    }
+    function playSc(btn){
+      clearPlayers(); currentType='sc';
+      var f=document.createElement('iframe'); f.allow='autoplay'; f.className='sc';
+      f.src='https://w.soundcloud.com/player/?url='+encodeURIComponent(btn.dataset.sc)+'&color=%23ff7a6b&auto_play=true&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false';
+      dockMedia.innerHTML='';
+      // album art fills the stage (no video for SoundCloud); the iframe plays hidden
+      var art=document.createElement('div'); art.className='poster stage-art';
+      art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
+      dockMedia.appendChild(art);
+      dockMedia.appendChild(f);
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
+      // The iframe already autoplays (auto_play=true); the Widget API just adds
+      // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
+      loadScApi(function(){
+        if(currentType!=='sc' || !f.isConnected) return; // user moved on
+        scWidget=SC.Widget(f);
+        scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); });
+        scWidget.bind(SC.Widget.Events.PAUSE,function(){ updatePP(false); });
+        scWidget.bind(SC.Widget.Events.READY,function(){ scWidget.getDuration(function(ms){ dur=(ms||0)/1000; paintScrub(); }); });
+        scWidget.bind(SC.Widget.Events.PLAY_PROGRESS,function(e){ if(scrubbing) return; pos=(e.currentPosition||0)/1000; paintScrub(); });
+        try{ scWidget.getDuration(function(ms){ if(ms){ dur=ms/1000; paintScrub(); } }); }catch(_){} // READY may have already fired
+      });
+    }
+    function playYt(btn,videoId,startSec){
+      if(typeof radio!=='undefined' && radio.on) radioStop();   // taking over from the radio
+      // Clear the previously-playing button if we're switching tracks.
+      if(active && active.button && active.button!==btn){ active.button.classList.remove('playing'); setState(active.button,'▶'); }
+      var start=Math.max(0,Math.floor(startSec||360)); // default 6:00 — a wink to "6 Minutes"
+      var f=document.getElementById('yt-player');
+      // REUSE the persistent player when it's alive & ready: loadVideoById runs
+      // inside this tap, so mobile autoplay is allowed — no second press needed.
+      var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
+      currentType='yt';
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
+      if(reuse){
+        try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}
+        pos=0; paintScrub(); startPoll();
+        return;
+      }
+      // First play (or after a stop / SC takeover): build the player fresh.
+      clearPlayers(); currentType='yt';
+      var sz=ytSize();
+      f=document.createElement('iframe');
+      f.id='yt-player'; f.className='yt';
+      f.allow='autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen=true;
+      f.width=String(sz.w); f.height=String(sz.h);
+      // controls=0 hides YouTube's whole native control bar (scrubber, CC, settings,
+      // share/link, fullscreen) — we drive playback with our own dock transport +
+      // scrubber. rel=0 + modestbranding + iv_load_policy=3 strip the rest of the chrome.
+      f.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(videoId)+
+            '?enablejsapi=1&autoplay=1&controls=0&rel=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&fs=0&disablekb=1&playsinline=1&start='+start+'&origin='+encodeURIComponent(location.origin);
+      dockMedia.innerHTML=''; dockMedia.appendChild(f);
+      // Transparent lid over the iframe → no YouTube hover/link chrome; tap = play/pause.
+      var cover=document.createElement('div'); cover.className='yt-cover'; cover.setAttribute('aria-hidden','true');
+      cover.addEventListener('click',togglePlay); dockMedia.appendChild(cover);
+      function build(){
+        ytPlayer=new YT.Player(f,{
+          events:{
+            onReady:function(e){ ytReadyFlag=true; try{ e.target.playVideo(); }catch(_){} try{ dur=e.target.getDuration()||0; }catch(_){} pos=0; paintScrub(); startPoll(); },
+            onStateChange:function(e){
+              // Flip to pause as soon as playback actually starts (buffering
+              // counts — autoplay succeeded). If the browser blocked autoplay,
+              // none of these fire and the icon stays ▶, so one tap plays it.
+              if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING) updatePP(true);
+              else if(e.data===YT.PlayerState.PAUSED || e.data===YT.PlayerState.CUED || e.data===YT.PlayerState.UNSTARTED) updatePP(false);
+              else if(e.data===YT.PlayerState.ENDED){ updatePP(false); if(scQ&&scQ.length>1) playScQ(scQi+1); }
+            }
+          }
+        });
+      }
+      if(window.YT && YT.Player) build(); else { pendingYt=build; loadYtApi(); }
+    }
+    // dock controls
+    function togglePlay(){
+      if(currentType==='yt' && ytPlayer && ytPlayer.getPlayerState){
+        if(ytPlayer.getPlayerState()===1) ytPlayer.pauseVideo(); else ytPlayer.playVideo();
+      } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
+    }
+    dockPP.addEventListener('click',togglePlay);
+    // Spacebar toggles play/pause on web — but never when typing in a field or with a
+    // button/link focused (those handle space themselves), and not with a modifier.
+    document.addEventListener('keydown',function(e){
+      if(e.key!==' ' && e.code!=='Space') return;
+      if(!active || e.ctrlKey || e.metaKey || e.altKey) return;
+      var ae=document.activeElement, t=ae?(ae.tagName||'').toLowerCase():'';
+      if(t==='input'||t==='textarea'||t==='select'||(ae&&ae.isContentEditable)) return;
+      if(e.target && e.target.closest && e.target.closest('button,a,[role="button"]')) return;
+      e.preventDefault(); togglePlay();
+    });
+    function toggleDock(){ dock.classList.toggle('expanded'); setExpIcon(); setDockPad(); }
+    if(dockGrab){
+      dockGrab.addEventListener('click',function(e){ e.stopPropagation(); toggleDock(); });
+      dockGrab.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggleDock(); } });
+    }
+    // Tap the bar to toggle — expand when collapsed, collapse when expanded —
+    // but never when the tap lands on a control, link, the scrubber, or the video.
+    dock.querySelector('.panel').addEventListener('click',function(e){
+      if(!active) return;
+      if(e.target.closest('button') || e.target.closest('a') || e.target.closest('.linky') ||
+         e.target.closest('.scrub') || e.target.closest('.video-wrap') || e.target.closest('.dock-grab')) return;
+      toggleDock();
+    });
+    document.getElementById('dock-close').addEventListener('click',function(){ stopActive(); });
+
+    // ── YouTube-style queue: play a list of artists as full sets in the dock, with the
+    // dock's prev/next walking the list (no radio broadcast / voiceover). Used by the city
+    // scene page — an artist rail, an event's line-up, a venue's next night.
+    var scQ=null, scQi=0;
+    function synthYtBtn(item){
+      var b=document.createElement('button');
+      b.className='play yt'; b.dataset.slug=item.slug||''; b.dataset.name=item.name||item.slug||'';
+      if(item.videoId) b.dataset.yt=item.videoId;   // pre-resolved (set playlists) → play directly, no /api/youtube resolve
+      if(item.poster) b.dataset.poster=item.poster;
+      if(item.venue) b.dataset.venue=item.venue;
+      return b; // detached on purpose — handleYtClick keeps the queue for off-DOM buttons
+    }
+    function playYtList(list, startIdx){
+      list=(list||[]).filter(function(a){ return a && a.slug; });
+      if(!list.length){ showToast('Nothing to play yet.'); return; }
+      scQ=list; playScQ(startIdx||0);
+    }
+    // Play an artist's sets as a dock queue — the ▶/next button walks to another
+    // of their sets (Boiler Room excluded server-side).
+    async function playArtistSets(slug, name){
+      var btn=document.getElementById('ap-sets'); if(btn){ btn.disabled=true; btn.classList.add('spinning'); }
+      try{
+        var r=await fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(name));
+        var j=await r.json().catch(function(){ return {}; });
+        var sets=(j&&j.sets)||[];
+        if(!sets.length){ showToast('No sets found for '+name+'.'); return; }
+        playYtList(sets.map(function(s){ return { slug:slug, name:name, videoId:s.videoId }; }), 0);
+      }catch(_){ showToast('Couldn’t load sets.'); }
+      finally{ if(btn){ btn.disabled=false; btn.classList.remove('spinning'); } }
+    }
+    function playScQ(i){
+      if(!scQ || !scQ.length) return;
+      scQi=((i % scQ.length)+scQ.length)%scQ.length;
+      handleYtClick(synthYtBtn(scQ[scQi]));
+    }
+    // prev / next — walk the visible grid lineup of the current source type
+    function currentQueue(){
+      if(!active||!currentType) return [];
+      return Array.prototype.slice.call(gridEl.querySelectorAll(currentType==='yt'?'.play.yt':'.play.sc'));
+    }
+    function queueKey(b){ return currentType==='yt' ? b.dataset.slug : b.dataset.sc; }
+    function playAt(delta){
+      if(scQ && scQ.length){ playScQ(scQi+delta); return; } // youtube queue: walk the artists
+      if(typeof radio!=='undefined' && radio.on){ radioAdvance(delta); return; } // radio: walk the station
+      var q=currentQueue(); if(!q.length) return;
+      var key=queueKey(active.button), i=-1;
+      for(var n=0;n<q.length;n++){ if(queueKey(q[n])===key){ i=n; break; } }
+      if(i<0) i = delta>0 ? -1 : 0;        // not in grid (e.g. played from sheet) → step from the edge
+      var j=(i+delta+q.length)%q.length;
+      if(q[j]) q[j].click();
+    }
+    function updateNavButtons(){
+      var dis=(scQ&&scQ.length) ? scQ.length<2 : ((typeof radio!=='undefined' && radio.on) ? radio.queue.length<2 : currentQueue().length<2);
+      var p=document.getElementById('dock-prev'), n=document.getElementById('dock-next');
+      [p,n].forEach(function(b){ if(b){ b.disabled=dis; b.style.opacity=dis?'0.35':''; } });
+    }
+    document.getElementById('dock-prev').addEventListener('click',function(){ playAt(-1); });
+    document.getElementById('dock-next').addEventListener('click',function(){ playAt(1); });
+    document.getElementById('dock-heart').addEventListener('click',function(){ var s=this.getAttribute('data-pick-art'); if(s) toggleArtist(s,{name:this.getAttribute('data-name')}); });
+    document.getElementById('dock-seen').addEventListener('click',function(){ var s=this.getAttribute('data-seen-art'); if(s) toggleSeen(s,{name:this.getAttribute('data-name')}); });
+    // Start resolving a button's YouTube id on pointerdown (fires before the
+    // click), so the id is usually ready by tap time. Awaiting an already-
+    // resolved promise is only a microtask, so playback still runs inside the
+    // user gesture — which is what mobile autoplay requires. No extra quota:
+    // it's the same single lookup, just kicked off ~a beat earlier, deduped
+    // per button and cached server-side.
+    function prefetchYt(btn){
+      try{ loadYtApi(); }catch(_){} // warm the IFrame API on press intent
+      if(!btn || btn.dataset.yt) return null;
+      if(btn._ytP) return btn._ytP;
+      btn._ytP = fetch(API_BASE+'/api/youtube?slug='+encodeURIComponent(btn.dataset.slug)+'&name='+encodeURIComponent(btn.dataset.name))
+        .then(function(res){ return res.json().catch(function(){return {};}).then(function(j){ return { status:res.status, ok:res.ok, videoId:j.videoId, error:j.error }; }); })
+        .catch(function(err){ return { netErr:err.message }; });
+      return btn._ytP;
+    }
+    async function handleYtClick(btn){
+      if(document.body.contains(btn)) scQ=null;   // a real on-page play leaves any youtube queue
+      var wasMe=active&&active.button===btn;
+      if(wasMe){ stopActive(); return; }   // tapping the playing one = stop
+      if(!(await gateForPlay())) return;
+      // No stopActive() here — playYt takes over the persistent player so the
+      // load happens inside this tap (mobile autoplay).
+      if(btn.dataset.yt){ playYt(btn,btn.dataset.yt); return; }
+      var p=prefetchYt(btn); // resolved already if pointerdown got a head start
+      btn.disabled=true; btn.classList.add('spinning');
+      try{
+        var r=await p; if(!r) return;
+        if(r.netErr){ showToast('YouTube request failed: '+r.netErr); return; }
+        if(r.status===404){ showToast('No long-form YouTube set found for '+btn.dataset.name+'.'); return; }
+        if(!r.ok){ showToast('YouTube error: '+(r.error||r.status)); return; }
+        btn.dataset.yt=r.videoId; playYt(btn,r.videoId);
+      }catch(err){ showToast('YouTube request failed: '+err.message); }
+      finally{ btn.disabled=false; btn.classList.remove('spinning'); btn._ytP=null; }
+    }
+
+    // ── Weekend Radio: 6 minutes with every DJ playing this weekend ──
+    // The station is derived, not stored: Fri+Sat day feeds for the current
+    // city → dedupe artists (event order = popularity) → play each DJ's
+    // SoundCloud for up to six minutes, then straight on to the next DJ. The
+    // artist's SoundCloud URL rides along in the day feed, so no
+    // per-track resolve call is needed.
+    var RADIO_SECONDS=360;
+    var radio={ on:false, queue:[], i:-1, played:0, tick:null, station:null };
+    var radioScPlaying=false; // SC widget play/pause state (drives the 6-min clock)
+    // Deterministic shuffle: the station ORDER is seeded by (city, weekend) —
+    // mixed up, but identical for every listener all weekend. Combined with the
+    // wall-clock playhead below, pressing play joins the same broadcast
+    // everyone else in the city is hearing, like an actual radio station.
+    function seededShuffle(arr, seedStr){
+      var s=hashStr(String(seedStr))>>>0, a=arr.slice();
+      function rnd(){ s|=0; s=(s+0x6D2B79F5)|0; var t=Math.imul(s^(s>>>15),1|s); t=(t+Math.imul(t^(t>>>7),61|t))^t; return ((t^(t>>>14))>>>0)/4294967296; }
+      for(var i=a.length-1;i>0;i--){ var j=Math.floor(rnd()*(i+1)); var tmp=a[i]; a[i]=a[j]; a[j]=tmp; }
+      return a;
+    }
+    // Where the broadcast is RIGHT NOW: epoch time mapped into the looping
+    // schedule of n six-minute slots.
+    function broadcastPos(n){
+      var total=n*RADIO_SECONDS, off=Math.floor(Date.now()/1000)%total;
+      return { idx:Math.floor(off/RADIO_SECONDS), within:off%RADIO_SECONDS };
+    }
+    function radioHeroReset(){
+      var hb=document.getElementById('hero-radio'); if(!hb) return;
+      hb.classList.remove('on'); hb.disabled=false;
+      hb.querySelector('.hr-t').textContent='Weekend radio';
+      hb.querySelector('.hr-sub').textContent='6 minutes with every DJ playing this weekend';
+    }
+    function radioStop(){
+      if(radio.tick){ clearInterval(radio.tick); radio.tick=null; }
+      try{ if(radioYt && radioYt.pauseVideo) radioYt.pauseVideo(); }catch(_){} // keep player alive (stays unlocked)
+      radio.on=false; radio.queue=[]; radio.i=-1; radio.played=0; radioScPlaying=false;
+      document.body.classList.remove('radio-on');
+      var sub=document.getElementById('radio-fab-sub'); if(sub){ sub.hidden=true; sub.textContent=''; }
+      radioHeroReset();
+      if(typeof syncTabs==='function') syncTabs();
+    }
+    async function buildStation(){
+      var wd=weekendDatesFor(0), days=[{d:wd[0],label:'Fri'},{d:wd[1],label:'Sat'}];
+      var seen={}, q=[];
+      for(var k=0;k<days.length;k++){
+        var j; try{ j=await fetchDay(days[k].d); }catch(_){ continue; }
+        (j.events||[]).forEach(function(ev){
+          (ev.artists||[]).forEach(function(a){
+            var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
+            if(!slug||seen[slug]) return; seen[slug]=1;
+            q.push({ slug:slug, name:a.name, yt:null, tried:false, venue:ev.venue||'', day:days[k].label, poster:ev.poster||'', eventId:ev.id!=null?String(ev.id):null });
+          });
+        });
+      }
+      return q;
+    }
+    // Resolve an artist's long-form YouTube set (cached server-side). An artist
+    // with no findable set is skipped (tune-in/advance fall forward).
+    async function radioResolve(entry){
+      if(entry.yt||entry.tried) return entry.yt;
+      entry.tried=true;
+      try{
+        var res=await fetch(API_BASE+'/api/youtube?slug='+encodeURIComponent(entry.slug)+'&name='+encodeURIComponent(entry.name));
+        if(res.ok){ var j=await res.json().catch(function(){return {};}); entry.yt=j.videoId||null; }
+      }catch(_){}
+      return entry.yt;
+    }
+    async function radioAdvance(delta){
+      if(!radio.on) return;
+      if(radio.tick){ clearInterval(radio.tick); radio.tick=null; }
+      var i=radio.i, tries=0;
+      while(tries<radio.queue.length){
+        i=(i+delta+radio.queue.length)%radio.queue.length; tries++;
+        var vid=await radioResolve(radio.queue[i]);
+        if(!radio.on) return; // stopped while resolving
+        if(vid){ radio.i=i; radioPlayEntry(radio.queue[i]); return; }
+      }
+      showToast('Couldn’t find sets to play.');
+      stopActive();
+    }
+    // Join the broadcast where it is right now (mid-set). If the scheduled
+    // artist has no findable set, fall forward to the next who does.
+    async function radioTuneIn(startIdx){
+      if(!radio.on) return;
+      var i=(startIdx!=null?startIdx:broadcastPos(radio.queue.length).idx), tries=0; // which DJ is "on now" for the city
+      while(tries<radio.queue.length){
+        var vid=await radioResolve(radio.queue[i]);
+        if(!radio.on) return;
+        if(vid){ radio.i=i; radioPlayEntry(radio.queue[i]); return; }
+        i=(i+1)%radio.queue.length; tries++;
+      }
+      showToast('Couldn’t find sets to play.');
+      stopActive();
+    }
+    // Radio playback is AMBIENT and uses ONE persistent YouTube player that
+    // lives in its own hidden host (so a manual dock play, which clears
+    // dockMedia, can't wipe it). YouTube's IFrame API allows programmatic
+    // playback from a parent gesture, so we prewarm a player cued to the on-air
+    // DJ; the tap calls playVideo() to unlock it, and every later track reuses
+    // it via loadVideoById — which is how the 6-min handoffs keep playing
+    // without a fresh gesture. Sets play minutes 6→12 (start=360).
+    var radioYt=null, radioIframe=null, radioWidgetReady=false;
+    function radioHostEl(){
+      var h=document.getElementById('radio-audio');
+      if(!h){ h=document.createElement('div'); h.id='radio-audio'; h.style.cssText='position:fixed;left:-9999px;top:0;width:300px;height:170px;pointer-events:none'; document.body.appendChild(h); }
+      return h;
+    }
+    // Create the persistent player cued to `entry` (NOT auto-playing). onReady
+    // fires once the IFrame API is bound and ready.
+    function radioBuildWidget(entry, onReady){
+      if(!radioIframe){ radioIframe=document.createElement('iframe'); radioIframe.className='yt'; radioIframe.allow='autoplay; encrypted-media'; radioIframe.width='300'; radioIframe.height='170'; radioHostEl().appendChild(radioIframe); }
+      radioWidgetReady=false;
+      radioIframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(entry.yt)+
+        '?enablejsapi=1&autoplay=0&rel=0&playsinline=1&start=360&origin='+encodeURIComponent(location.origin);
+      function build(){
+        radioYt=new YT.Player(radioIframe,{ events:{
+          onReady:function(){ radioWidgetReady=true; if(onReady) onReady(); },
+          onStateChange:function(e){
+            if(e.data===YT.PlayerState.PLAYING || e.data===YT.PlayerState.BUFFERING) radioScPlaying=true;
+            else if(e.data===YT.PlayerState.PAUSED) radioScPlaying=false;
+            else if(e.data===YT.PlayerState.ENDED){ radioScPlaying=false; if(radio.on) radioAdvance(1); }
+          }
+        }});
+      }
+      if(window.YT && YT.Player) build(); else { pendingYt=build; loadYtApi(); }
+    }
+    function radioFabUpdate(entry){
+      var t=document.getElementById('radio-fab-label'), sub=document.getElementById('radio-fab-sub');
+      if(t) t.innerHTML='<span class="rf-on">On air</span> &middot; <a class="rf-link" data-rf-artist>'+esc(entry.name)+'</a>';
+      if(sub){ if(entry.venue){ sub.hidden=false; sub.innerHTML='Next playing at <a class="rf-link" data-rf-venue>'+esc(entry.venue)+'</a>'; } else { sub.hidden=true; sub.innerHTML=''; } }
+      // artist + venue jump to their pages (stopPropagation so they don't toggle play)
+      var al=t&&t.querySelector('[data-rf-artist]'); if(al) al.onclick=function(e){ e.stopPropagation(); if(entry.slug&&typeof openArtist==='function') openArtist(entry.slug); };
+      var vl=sub&&sub.querySelector('[data-rf-venue]'); if(vl) vl.onclick=function(e){ e.stopPropagation(); if(entry.venue&&typeof openVenue==='function') openVenue(entry.venue); };
+      // inline actions: heart reflects pick state (kept in sync by refreshArtistButtons
+      // via data-pick-art); the arrow jumps to this DJ's page.
+      var h=document.getElementById('radio-fab-heart');
+      if(h){ h.setAttribute('data-pick-art', entry.slug||''); h.classList.toggle('on', typeof artStatus==='function' && artStatus(entry.slug)==='wanna_see'); h.setAttribute('aria-label','Heart '+entry.name); }
+      var g=document.getElementById('radio-fab-go'); if(g) g.setAttribute('aria-label','Open '+entry.name+'’s page');
+    }
+    function radioPlayEntry(entry){
+      radio.played=0; radioScPlaying=false; // each DJ's set plays from the start, up to six minutes
+      var fb=document.createElement('button'); fb.dataset.name=entry.name; fb.dataset.slug=entry.slug; active={ button:fb }; bumpPlayCount();
+      // Load the set into the (ideally already-unlocked) persistent player.
+      // If it isn't built/ready yet, build it and play in onReady — the first
+      // time on mobile this only succeeds when called from a tap.
+      if(radioYt && radioWidgetReady){ try{ radioYt.loadVideoById({ videoId:entry.yt, startSeconds:360 }); }catch(_){} }
+      else { radioBuildWidget(entry, function(){ try{ radioYt.playVideo(); }catch(_){} }); }
+      document.body.classList.add('radio-on');
+      radioFabUpdate(entry);
+      if(radio.tick) clearInterval(radio.tick);
+      radio.tick=setInterval(function(){
+        if(!radio.on){ clearInterval(radio.tick); radio.tick=null; return; }
+        if(radioScPlaying) radio.played++;          // clock only runs while audio plays
+        if(radio.played>=RADIO_SECONDS){ clearInterval(radio.tick); radio.tick=null; radioAdvance(1); }
+      },1000);
+      if(typeof syncTabs==='function') syncTabs();
+    }
+    // Prewarm so a tap can start audio on mobile: build the weekend station,
+    // then build the persistent SC widget to READY loaded with the DJ who's on
+    // air right now (paused). The tap then unlocks + plays it from inside the
+    // gesture. Keyed by city|weekend so it self-refreshes.
+    var radioWarm={ queue:null, key:'', building:false };
+    function radioWarmKey(){ var wd=weekendDatesFor(0); return currentCity+'|'+wd[0]; }
+    async function prewarmRadio(){
+      var key=radioWarmKey();
+      if(radioWarm.building || (radioWarm.queue && radioWarm.key===key)) return;
+      radioWarm.building=true;
+      try{
+        var q=await buildStation();
+        if(q.length){
+          radioWarm.queue=seededShuffle(q, key); radioWarm.key=key;
+          // Resolve the on-air DJ's set and build the player cued + ready (paused).
+          if(!radio.on){
+            var n=radioWarm.queue.length, start=broadcastPos(n).idx, entry=null;
+            for(var t=0;t<n;t++){ var c=radioWarm.queue[(start+t)%n]; var vid=await radioResolve(c); if(vid){ entry=c; break; } }
+            if(entry) radioBuildWidget(entry);
+          }
+        }
+      }catch(_){}
+      radioWarm.building=false;
+    }
+    async function startRadio(){
+      var hb=document.getElementById('hero-radio');
+      if(radio.on){ stopActive(); return; } // acts as the off switch
+      if(!(await gateForPlay())) return;    // microtask only — keeps user-activation alive
+      try{
+        showToast('Tuning in…'); // the FAB is hidden on mobile, so confirm the tap
+        var key=radioWarmKey();
+        // FAST PATH: warm station ready → start inside the gesture so mobile
+        // autoplay is allowed. Pick the on-air DJ and the next one with a set.
+        if(radioWarm.queue && radioWarm.key===key){
+          var n=radioWarm.queue.length, start=broadcastPos(n).idx, entry=null, idx=-1;
+          for(var t=0;t<n;t++){ var c=radioWarm.queue[(start+t)%n]; if(c && c.yt){ entry=c; idx=(start+t)%n; break; } }
+          if(entry){
+            stopActive();
+            radio.queue=radioWarm.queue; radio.on=true; radio.i=idx; radio.station='weekend';
+            if(hb) hb.classList.add('on');
+            radioPlayEntry(entry);
+            return;
+          }
+        }
+        // SLOW PATH: cold start (desktop, or warm-up still in flight).
+        if(hb){ hb.disabled=true; var hs=hb.querySelector('.hr-sub'); if(hs) hs.textContent='Tuning in…'; }
+        var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Tuning…';
+        var q=await buildStation();
+        if(hb) hb.disabled=false;
+        if(rl) rl.textContent='Radio';
+        if(!q.length){ showToast('No line-ups for this weekend yet — try again shortly.'); radioHeroReset(); return; }
+        stopActive();
+        radio.queue=seededShuffle(q, key); // same order for the whole city, all weekend
+        radio.on=true; radio.i=-1; radio.station='weekend';
+        radioWarm.queue=radio.queue; radioWarm.key=key; // remember for next time
+        if(hb) hb.classList.add('on');
+        radioTuneIn();
+      }catch(err){ showToast('Radio error: '+((err&&err.message)||err)); try{ radioHeroReset(); }catch(_){} }
+    }
+    // Per-event station: the event's own lineup as a little broadcast — same
+    // wall-clock rules, so "tune in" joins whatever of the lineup is on now.
+    async function startEventRadio(ev){
+      if(!ev || !(ev.artists||[]).length){ showToast('No lineup to play yet.'); return; }
+      if(radio.on && radio.station==='event:'+ev.id){ stopActive(); return; } // toggle off
+      if(!(await gateForPlay())) return;
+      var q=[];
+      (ev.artists||[]).forEach(function(a){
+        var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
+        if(slug) q.push({ slug:slug, name:a.name, yt:null, tried:false, venue:ev.venue||'', day:ev._day||'', poster:ev.poster||'', eventId:ev.id!=null?String(ev.id):null });
+      });
+      if(!q.length){ showToast('No lineup to play yet.'); return; }
+      stopActive();
+      radio.queue=seededShuffle(q, 'ev|'+ev.id);
+      radio.on=true; radio.i=-1; radio.station='event:'+ev.id;
+      var hb=document.getElementById('hero-radio'); if(hb) hb.classList.add('on');
+      radioTuneIn();
+    }
+    // Per-artist station: lead with the artist, then their frequent collaborators.
+    async function startArtistRadio(slug, name, along){
+      if(!slug) return;
+      if(radio.on && radio.station==='artist:'+slug){ stopActive(); return; } // toggle off
+      if(!(await gateForPlay())) return;
+      var q=[{ slug:slug, name:name||slug, yt:null, tried:false, venue:'', day:'', poster:'', eventId:null }];
+      (along||[]).forEach(function(a){ if(a && a.slug) q.push({ slug:a.slug, name:a.name, yt:null, tried:false, venue:'', day:'', poster:'', eventId:null }); });
+      stopActive();
+      radio.queue=q; radio.on=true; radio.i=-1; radio.station='artist:'+slug;
+      radioTuneIn(0); // start with the artist themselves
+    }
+    // Station from an arbitrary artist list — e.g. a profile's wanna-see / seen shelf.
+    async function startListRadio(list, stationId){
+      list=(list||[]).filter(function(a){ return a && a.slug; });
+      if(!list.length){ showToast('No artists to play yet.'); return; }
+      if(radio.on && radio.station===stationId){ stopActive(); return; } // toggle off
+      if(!(await gateForPlay())) return;
+      var q=list.map(function(a){ return { slug:a.slug, name:a.name||a.slug, yt:null, tried:false, venue:'', day:'', poster:a.image||'', eventId:null }; });
+      stopActive();
+      radio.queue=seededShuffle(q, stationId); radio.on=true; radio.i=-1; radio.station=stationId;
+      radioTuneIn();
+    }
+
+    // "More music" — play an event's line-up as a radio station from anywhere an event
+    // surfaces (a venue/promoter's next night, a Discover feed row). Reuses the event-station
+    // model so it toggles consistently with the same event played elsewhere.
+    function nextPlayableEvent(list){ return (list||[]).find(function(e){ return e && (e.lineup||[]).length; }) || null; }
+    function playEventLineupRadio(ev){
+      var line=(ev&&ev.lineup)||[];
+      if(!line.length){ showToast('No line-up to play yet.'); return; }
+      startEventRadio({ id:ev.id, venue:ev.venue||'', _day:ev.event_date?fmtEventDay(ev.event_date):'', poster:ev.poster_url||'', artists:line.map(function(a){ return { contentUrl:'/'+a.slug, name:a.name }; }) });
+    }
+    // YouTube-style: play a venue's next night as an artist queue (lazy fetch by name →
+    // its next playable event's line-up). Navigation + lookup key on the venue NAME, which
+    // is what /api/venue resolves against (its slug is a slugified name).
+    function playVenueNextYt(name, city){
+      if(!name) return;
+      authedFetch('/api/venue?slug='+encodeURIComponent(venueSlug(name))+(city?'&city='+encodeURIComponent(city):'')).then(function(r){ return r.json(); }).then(function(v){
+        var ev=nextPlayableEvent(v.upcoming);
+        if(!ev){ showToast('No line-up to play yet.'); return; }
+        playYtList((ev.lineup||[]).map(function(a){ return { slug:a.slug, name:a.name, poster:ev.poster_url }; }), 0);
+      }).catch(function(){ showToast('Couldn’t load that venue.'); });
+    }
+    // Play a venue's next night from just its slug (lazy fetch → its next playable event).
+    function playVenueNextRadio(slug, name, city){
+      if(!slug) return;
+      authedFetch('/api/venue?slug='+encodeURIComponent(slug)+(city?'&city='+encodeURIComponent(city):'')).then(function(r){ return r.json(); }).then(function(v){
+        var ev=nextPlayableEvent(v.upcoming);
+        if(!ev){ showToast('No line-up to play yet.'); return; }
+        playEventLineupRadio({ id:ev.id, venue:v.name||name||'', event_date:ev.event_date, poster_url:ev.poster_url, lineup:ev.lineup });
+      }).catch(function(){ showToast('Couldn’t load that venue.'); });
+    }
+    // ── mobile bottom nav ──
+    function syncTabs(){
+      var onPage=document.body.classList.contains('page-on'), route=currentRoute();
+      function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
+      setTab('bnav-home', !onPage);
+      setTab('bnav-search', route==='search');
+      setTab('bnav-discover', route==='discover');
+      setTab('bnav-picks', route==='upcoming');
+      setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
+      // web header named-nav active states
+      function setNav(name,on){ document.querySelectorAll('.nl[data-nav="'+name+'"]').forEach(function(t){ t.classList.toggle('on',!!on); }); }
+      setNav('discover', route==='discover');
+      setNav('scenes', route==='scenes' || route==='scene');
+      setNav('upcoming', route==='upcoming');
+      var rf=document.getElementById('radio-fab');
+      if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
+    }
+    document.getElementById('bnav-home').addEventListener('click',function(){
+      if(document.body.classList.contains('page-on')) goGrid();
+      window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
+    });
+    document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
+    document.getElementById('bnav-discover').addEventListener('click',function(){ openDiscover(); });
+    document.getElementById('bnav-picks').addEventListener('click',function(){ openUpcoming(); });
+    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else openAuth(); }); });
+    // Logo → home grid (SPA). href stays a real home URL for cmd/middle-click + SEO.
+    (function(){ var lg=document.querySelector('.logo'); if(!lg) return; lg.addEventListener('click',function(e){
+      if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;   // let new-tab/window through
+      e.preventDefault();
+      if(document.body.classList.contains('page-on') || location.hash){
+        history.pushState({sc:1},'', cityPath(currentCity));
+        hidePage();
+      }
+      window.scrollTo({top:0,behavior:'smooth'});
+      if(typeof syncTabs==='function') syncTabs();
+    }); })();
+    window.addEventListener('popstate', function(){ setTimeout(syncTabs,0); });
+
+    function wireCard(scope){
+      scope.querySelectorAll('.play.sc').forEach(function(btn){
+        btn.addEventListener('click',async function(){
+          var wasMe=active&&active.button===btn;
+          if(wasMe){ stopActive(); return; }
+          if(!(await gateForPlay())) return;
+          stopActive(); playSc(btn); dismissCoach();
+        });
+      });
+      scope.querySelectorAll('.play.yt').forEach(function(btn){
+        btn.addEventListener('pointerdown',function(){ prefetchYt(btn); },{passive:true}); // head-start the id resolve
+        btn.addEventListener('click',function(){ handleYtClick(btn); dismissCoach(); });
+      });
+      scope.querySelectorAll('.more-btn').forEach(function(btn){
+        btn.addEventListener('click',function(){
+          var ul=btn.closest('ul.line'); if(!ul) return;
+          var exp=ul.classList.toggle('exp');
+          btn.textContent = exp ? 'Show less' : '+ '+btn.dataset.extra+' more';
+        });
+      });
+      // Heart / Seen / RSVP toggles + per-item share + tap-name-to-play (delegated)
+      scope.addEventListener('click',function(e){
+        var pn=e.target.closest('.an-play[data-slug]'); if(pn){
+          e.preventDefault(); e.stopPropagation();
+          var li=pn.closest('li'); var yb=li&&li.querySelector('.play.yt');   // reuse the row's ▶ (prefetch, gate, queue all intact)
+          if(yb){ handleYtClick(yb); dismissCoach(); }
+          return;
+        }
+        var h=e.target.closest('.heart'); if(h){
+          e.preventDefault(); e.stopPropagation();
+          if(h.dataset.pickArt) toggleArtist(h.dataset.pickArt, {name:h.dataset.name});
+          else if(h.dataset.pickEvt) toggleEvent(h.dataset.pickEvt, {title:h.dataset.title, venue:h.dataset.venue, day:h.dataset.day});
+          return;
+        }
+        var sn=e.target.closest('.seen-btn'); if(sn){
+          e.preventDefault(); e.stopPropagation();
+          toggleSeen(sn.dataset.seenArt, {name:sn.dataset.name});
+          return;
+        }
+        var s=e.target.closest('.share-btn'); if(s){
+          e.preventDefault(); e.stopPropagation();
+          if(s.dataset.shareArt) shareArtist(s.dataset.shareArt, s.dataset.name);
+          else if(s.dataset.shareEvt) shareEvent(s.dataset.shareEvt, s.dataset.title, s.dataset.venue);
+          return;
+        }
+        var lg=e.target.closest('.act-log[data-log-evt]'); if(lg){ e.preventDefault(); e.stopPropagation(); openLog({eventId:lg.dataset.logEvt}); return; }
+        var an=e.target.closest('.an.linky[data-artist]'); if(an){ e.preventDefault(); e.stopPropagation(); openArtist(an.dataset.artist); return; }
+        var vl=e.target.closest('.venue-link[data-venue]'); if(vl && vl.dataset.venue){ e.preventDefault(); e.stopPropagation(); openVenue(vl.dataset.venue); return; }
+      });
+    }
+
+    // ── first-visit coachmark ──
+    var coachEl=null;
+    function dismissCoach(){
+      if(coachEl){ coachEl.remove(); coachEl=null; }
+      window.removeEventListener('scroll',placeCoach,true);
+      window.removeEventListener('resize',placeCoach);
+      setPref('coach',1);
+    }
+    function placeCoach(){
+      if(!coachEl) return;
+      var btn=gridEl.querySelector('.play'); if(!btn){ dismissCoach(); return; }
+      var r=btn.getBoundingClientRect();
+      coachEl.style.top=(window.scrollY+r.bottom+10)+'px';
+      coachEl.style.left=(window.scrollX+r.left)+'px';
+    }
+    function maybeCoach(){
+      if(prefs.coach) return;
+      if(coachEl) return;
+      if(document.body.classList.contains('page-on')) return;   // only on the home grid
+      var btn=gridEl.querySelector('.play'); if(!btn) return;
+      coachEl=document.createElement('div'); coachEl.className='coach';
+      coachEl.innerHTML='Tap to <b>preview</b> tonight&rsquo;s DJs';
+      document.body.appendChild(coachEl);
+      placeCoach();
+      window.addEventListener('scroll',placeCoach,true);
+      window.addEventListener('resize',placeCoach);
+      coachEl.addEventListener('click',dismissCoach);
+      setTimeout(function(){ if(coachEl) dismissCoach(); },9000);
+    }
+
+    // ── Picks: heart + shortlist + share ──
+    // In-memory model synced to the server through the cookie identity (anon
+    // or signed-in). The localStorage read below is legacy-only: pre-cookie
+    // picks load once for instant UI, get adopted server-side, then the key
+    // is deleted for good (adoptLegacyLocal).
+    var HEART_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>';
+    // Save (event) uses a bookmark — distinct from the heart, which means wanna-see (artist) / follow (venue).
+    var BOOKMARK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
+    var SHARE_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>';
+    var RADIO_SVG='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
+    var CHECK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+    var STAR_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.7 5.9 6.4.6-4.85 4.3 1.45 6.3L12 16.9 6.3 19.7l1.45-6.3L2.9 9.1l6.4-.6z"/></svg>';
+    var DOTS_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
+    // Venue review vibe tags — MUST mirror VENUE_REVIEW_TAGS in reviews.js (server validates).
+    var VENUE_TAGS=['Great sound','Intimate','Big room','Underground','Friendly staff','Tough door','Long queues','Good value','Pricey','Late license','Cash only','Smoking area'];
+    var PICKS_KEY='sc_picks_v1';
+    var picks={ artists:{}, events:{} };
+    try{ var raw=localStorage.getItem(PICKS_KEY); if(raw) picks=JSON.parse(raw); if(!picks.artists) picks.artists={}; if(!picks.events) picks.events={}; }catch(_){}
+    function savePicks(){ /* in-memory only — the server (shelf/rsvp) is the store */ }
+    // Status-aware: artists carry wanna_see|seen, events carry going|not_going.
+    // Rows from before this change (no .status) default to wanna_see / going.
+    function artStatus(slug){ var a=picks.artists[slug]; return a ? (a.status||'wanna_see') : null; }
+    function evtStatus(id){ var e=picks.events[id]; return e ? (e.status||'going') : null; }
+    // "picked" = the want-to-go states that feed the chip/share/tray
+    function isArtistPicked(slug){ return artStatus(slug)==='wanna_see'; }
+    function isEventPicked(id){ return evtStatus(id)==='going'; }
+    function pickCount(){
+      var a=Object.keys(picks.artists).filter(function(s){ return artStatus(s)==='wanna_see'; }).length;
+      var e=Object.keys(picks.events).filter(function(i){ return evtStatus(i)==='going'; }).length;
+      return a+e;
+    }
+    // setters (status null = remove). Always mirrored to the server — a first
+    // pick from a brand-new visitor mints an anonymous identity on the spot.
+    function setArtist(slug, status, name){
+      if(!slug) return;
+      var prev=picks.artists[slug];   // captured for rollback if the server write fails
+      if(status===null) delete picks.artists[slug];
+      else picks.artists[slug] = { name:(name||(picks.artists[slug]&&picks.artists[slug].name)||slug), status:status, t:Date.now() };
+      savePicks(); afterPicksChanged(); refreshArtistButtons(slug);
+      ensureIdentity().then(function(ok){ if(ok) syncArtist(slug, status, name, prev); });
+    }
+    function setEvent(id, status, meta){
+      if(!id) return;
+      var prev=picks.events[id];      // captured for rollback if the server write fails
+      var cur=picks.events[id]||{};
+      if(status===null) delete picks.events[id];
+      else picks.events[id] = { title:(meta&&meta.title)||cur.title||'', venue:(meta&&meta.venue)||cur.venue||'', day:(meta&&meta.day)||cur.day||'', status:status, t:Date.now() };
+      savePicks(); afterPicksChanged(); refreshEventButtons(id);
+      ensureIdentity().then(function(ok){ if(ok) syncEvent(id, status, meta, prev); });
+    }
+    // heart taps = toggle the want-to-go state. Saving a pick (turning one ON)
+    // is a sign-up moment: prompt for an email/magic link first if they haven't
+    // started an account — removing a pick never gates.
+    function toggleArtist(slug, meta){
+      if(!slug) return;
+      if(artStatus(slug)==='wanna_see'){ setArtist(slug, null, meta&&meta.name); return; }
+      if(!hasEmail()){ ensureEmailGate().then(function(ok){ if(ok) setArtist(slug,'wanna_see',meta&&meta.name); }); return; }
+      setArtist(slug, 'wanna_see', meta&&meta.name);
+    }
+    function toggleEvent(id, meta){
+      if(!id) return;
+      if(evtStatus(id)==='going'){ setEvent(id, null, meta); return; }
+      if(!hasEmail()){ ensureEmailGate().then(function(ok){ if(ok) setEvent(id,'going',meta); }); return; }
+      setEvent(id, 'going', meta);
+    }
+    // Seen / Not-going are account features → nudge sign-in when logged out
+    function toggleSeen(slug, meta){ if(!slug) return; if(!currentUser){ openAuth(); return; }
+      var wasSeen = artStatus(slug)==='seen';
+      setArtist(slug, wasSeen ? null : 'seen', meta&&meta.name);
+      // keep the instant one-tap tick, then nudge to log the actual gig (richer — dates the night, feeds Your scene)
+      if(!wasSeen) showToastAction('Seen ✓ '+((meta&&meta.name)||'this act'), 'Log the gig', function(){ openLog({ seenName:(meta&&meta.name)||'' }); });
+    }
+    function refreshArtistButtons(slug){
+      var k=CSS.escape(slug), st=artStatus(slug);
+      document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
+      document.querySelectorAll('.seen-btn[data-seen-art="'+k+'"]').forEach(function(b){ b.classList.toggle('on', st==='seen'); });
+      // artist-page action buttons (immediate optimistic state, no re-render)
+      document.querySelectorAll('.act-btn[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+      document.querySelectorAll('.act-btn[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+    }
+    function refreshEventButtons(id){
+      var k=CSS.escape(id), on=isEventPicked(id);
+      document.querySelectorAll('.heart[data-pick-evt="'+k+'"]').forEach(function(b){ b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
+    }
+    function afterPicksChanged(){
+      // The bottom-right float is the radio now; picks live in the bottom nav
+      // (mobile) and the account hub. Kept as a hook for future count badges.
+      var c=document.getElementById('picks-count'); if(c) c.textContent=String(pickCount());
+    }
+
+    // ── account / sign-in (Phase 2; optional + additive) ──
+    var currentUser=null;
+    var SESSION_KEY='sc_session';
+    // The session lives in the HttpOnly cookie. _memToken covers the magic-link
+    // hand-back within this page-load; the localStorage read is legacy-only
+    // (sessions stored before the cookie era) and is never written again.
+    function sessionToken(){ if(_memToken) return _memToken; try{ return localStorage.getItem(SESSION_KEY)||''; }catch(_){ return ''; } }
+    // Cookie auth works first-party (api.6minutes.club ↔ 6minutes.club); the
+    // bearer token is a belt-and-braces fallback for any context where the
+    // cookie can't ride along.
+    function authedFetch(path, opts){
+      opts=opts||{}; opts.credentials='include';
+      var t=sessionToken(); if(t){ opts.headers=Object.assign({}, opts.headers, { Authorization:'Bearer '+t }); }
+      return fetch(API_BASE+path, opts);
+    }
+    // Optimistic writes roll back if the server rejects, so a silent failure can't
+    // leave the button showing "saved" while the DB never got it.
+    function syncArtist(slug, status, name, prev){
+      authedFetch('/api/shelf/artist',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ slug:slug, status:status, name:name||null }) })
+        .then(function(r){ if(!r.ok) throw 0; })
+        .catch(function(){ if(prev===undefined) delete picks.artists[slug]; else picks.artists[slug]=prev; savePicks(); afterPicksChanged(); refreshArtistButtons(slug); showToast('Couldn’t save — try again'); });
+    }
+    function syncEvent(id, status, meta, prev){
+      authedFetch('/api/rsvp/event',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ eventId:id, status:status, title:meta&&meta.title, venue:meta&&meta.venue, date:meta&&meta.day }) })
+        .then(function(r){ if(!r.ok) throw 0; })
+        .catch(function(){ if(prev===undefined) delete picks.events[id]; else picks.events[id]=prev; savePicks(); afterPicksChanged(); refreshEventButtons(id); showToast('Couldn’t save — try again'); });
+    }
+    function renderAccount(){
+      var el=document.getElementById('account');
+      var log=document.getElementById('hdr-log');
+      if(currentUser){
+        if(log) log.style.display='';
+        el.innerHTML='<button class="who" id="who-btn" aria-haspopup="true" aria-expanded="false"><span class="av" style="background-image:'+avatarBg(currentUser.handle,currentUser.avatar)+'"></span><span class="hn">u/'+esc(currentUser.handle)+'</span></button>'+
+          '<div class="acct-menu" id="acct-menu" role="menu">'+
+            '<div class="am-h"><b>u/'+esc(currentUser.handle)+'</b>'+(currentUser.displayName?'<small>'+esc(currentUser.displayName)+'</small>':'')+'</div>'+
+            '<button class="am-i" data-am="profile" role="menuitem">My profile</button>'+
+            '<button class="am-i" data-am="upcoming" role="menuitem">Coming up</button>'+
+            '<button class="am-i" data-am="diary" role="menuitem">Diary</button>'+
+            '<button class="am-i" data-am="log" role="menuitem">Log a gig</button>'+
+            '<button class="am-i am-out" data-am="out" role="menuitem">Sign out</button>'+
+          '</div>';
+        var wb=document.getElementById('who-btn'), menu=document.getElementById('acct-menu');
+        wb.addEventListener('click',function(e){ e.stopPropagation(); var open=menu.classList.toggle('show'); wb.setAttribute('aria-expanded', open?'true':'false'); });
+        menu.querySelectorAll('.am-i').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); menu.classList.remove('show'); var a=b.dataset.am;
+          if(a==='profile') openProfile(currentUser.handle);
+          else if(a==='upcoming') openUpcoming();
+          else if(a==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
+          else if(a==='log') openLog();
+          else if(a==='out') signOut();
+        }); });
+      } else {
+        if(log) log.style.display='none';
+        el.innerHTML='<button class="signin-btn" id="signin-btn" type="button">Sign in</button>';
+        document.getElementById('signin-btn').addEventListener('click',openAuth);
+      }
+    }
+    document.addEventListener('click',function(){ var m=document.getElementById('acct-menu'); if(m) m.classList.remove('show'); });
+
+    async function loadMe(){
+      // Always ask: the session may be an HttpOnly cookie (unreadable by JS)
+      // rather than a bearer token. /api/auth/me is cheap and returns null if
+      // there's no session.
+      try{
+        var r=await authedFetch('/api/auth/me');
+        var j=await r.json().catch(function(){return {};});
+        currentUser=(j.user && !j.user.isAnon) ? j.user : null;   // anon identities aren't "signed in" UI-wise
+        anonUser=!!(j.user && j.user.isAnon);
+        if(j.user && j.user.prefs) prefs=Object.assign({}, j.user.prefs, prefs); // local writes this session win
+      }catch(_){ currentUser=null; }
+      _meLoaded=true;   // auth state is now known — the gate may decide for real
+      if(currentUser){ _hadAccount=true; try{ localStorage.setItem('sc_acct','1'); }catch(_){} } // remember this device has an account
+      renderAccount();
+      // If a gate popped during the auth-unknown window and we now know they're
+      // signed in, retire it — a signed-in user must never face the email gate.
+      if(currentUser){ document.querySelectorAll('.email-overlay').forEach(function(o){ o.remove(); }); }
+      if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
+      else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
+      if(currentUser||anonUser) await hydrateShelf();
+      if(currentUser){ maybePromptHandle(); if(currentUser.handleClaimed) maybePromptHomeCity(); }
+      applyPrefCity();
+      adoptLegacyLocal();
+    }
+    // City preference (server-side) applies only when the URL didn't pick one.
+    // No saved city either (new/undecided visitor) → guess from IP via /api/geo.
+    var _geoTried=false;
+    function applyPrefCity(){
+      try{
+        if(_cityExplicit) return;                 // shared/deep-link city → keep it
+        if(_geoTried) return; _geoTried=true;
+        // Location wins: current geo overrides the last-used city, even if the user
+        // was previously in a different one. Falls back to prefs.city if geo fails.
+        var fallback=function(){ if(prefs.city && prefs.city!==currentCity && typeof setCity==='function') setCity(String(prefs.city)); };
+        fetch(API_BASE+'/api/geo').then(function(r){ return r.json(); }).then(function(j){
+          var geo=j&&j.city?String(j.city):'';
+          if(geo && geo!==currentCity && !_cityExplicit && (!CITY_LIST.length || CITY_LIST.some(function(c){ return c.slug===geo; })) && typeof setCity==='function') setCity(geo);
+          else if(!geo) fallback();
+        }).catch(fallback);
+      }catch(_){}
+    }
+    // One-time adoption: push any pre-cookie-era localStorage state to the
+    // server (picks → shelf, flags → prefs), then delete the keys for good.
+    var _adopting=false;
+    async function adoptLegacyLocal(){
+      if(_adopting) return; _adopting=true;
+      var legacyPicks=null, legacy={};
+      try{
+        var raw=localStorage.getItem(PICKS_KEY); if(raw) legacyPicks=JSON.parse(raw);
+        if(localStorage.getItem('sc_email')) legacy.emailGated=true;
+        var pl=parseInt(localStorage.getItem('sc_plays')||'0',10); if(pl) legacy.plays=pl;
+        if(localStorage.getItem('sc_coach')) legacy.coach=1;
+        if(localStorage.getItem('sc_handle_prompted')) legacy.handlePrompted=1;
+        var ct=(localStorage.getItem('sc_city')||'').toLowerCase(); if(ct) legacy.city=ct;
+      }catch(_){ return; }
+      var hasPicks=legacyPicks && (Object.keys(legacyPicks.artists||{}).length || Object.keys(legacyPicks.events||{}).length);
+      if(!hasPicks && !Object.keys(legacy).length) return;
+      Object.keys(legacy).forEach(function(k){ if(prefs[k]==null) prefs[k]=legacy[k]; });
+      try{
+        if(!(await ensureIdentity())) return; // offline etc. — retry next boot
+        if(hasPicks){
+          await authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({
+              artists:Object.keys(legacyPicks.artists||{}).map(function(s){ return { slug:s, name:(legacyPicks.artists[s]||{}).name }; }),
+              events:Object.keys(legacyPicks.events||{}).map(function(i){ var e=legacyPicks.events[i]||{}; return { id:i, title:e.title, venue:e.venue, day:e.day }; })
+            }) });
+        }
+        if(Object.keys(legacy).length){
+          await authedFetch('/api/prefs',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(legacy) });
+        }
+        ['sc_picks_v1','sc_email','sc_plays','sc_coach','sc_handle_prompted','sc_city','sc_pid','sc_night'].forEach(function(k){ try{ localStorage.removeItem(k); }catch(_){} });
+        if(hasPicks) hydrateShelf();
+      }catch(_){}
+    }
+    // Pull server shelves into the local `picks` model so the UI (hearts,
+    // chip, tray) reflects the account everywhere, on every device.
+    async function hydrateShelf(){
+      try{
+        var r=await authedFetch('/api/shelf'); var j=await r.json();
+        (j.artists||[]).forEach(function(a){ picks.artists[a.artist_slug]={ name:a.artist_name||(picks.artists[a.artist_slug]&&picks.artists[a.artist_slug].name)||a.artist_slug, status:a.status, t:Date.now() }; });
+        (j.events||[]).forEach(function(e){ picks.events[e.event_id]={ title:e.event_title||'', venue:e.venue||'', day:e.event_date||'', status:e.status, t:Date.now() }; });
+        savePicks(); afterPicksChanged();
+        // reflect every state on whatever is currently rendered
+        Object.keys(picks.artists).forEach(refreshArtistButtons);
+        Object.keys(picks.events).forEach(refreshEventButtons);
+      }catch(_){}
+    }
+    async function signOut(){
+      try{ await authedFetch('/api/auth/logout',{ method:'POST' }); }catch(_){}
+      try{ localStorage.removeItem(SESSION_KEY); localStorage.removeItem('sc_acct'); }catch(_){}
+      _hadAccount=false; currentUser=null; renderAccount(); showToast('Signed out');
+    }
+
+    // sign-in modal
+    var authOv=document.getElementById('auth-overlay');
+    function openAuth(){
+      // Don't pop the sign-in form before we know who they are — on a cold-backend
+      // refresh currentUser is briefly null, and the gesture guards (if(!currentUser)
+      // openAuth()) would otherwise flash it at an already-signed-in user. Wait for
+      // /api/auth/me; only show it if they're genuinely signed out.
+      if(!_meLoaded){ whenAuthKnown().then(function(){ if(!currentUser) openAuth(); }); return; }
+      document.getElementById('auth-form-state').hidden=false; document.getElementById('auth-sent-state').hidden=true; document.getElementById('auth-err').textContent=''; var ce=document.getElementById('auth-code'); if(ce) ce.value=''; var cerr=document.getElementById('auth-code-err'); if(cerr) cerr.textContent=''; authOv.classList.add('show'); setTimeout(function(){ var i=document.getElementById('auth-email'); if(i) i.focus(); },60); }
+    function closeAuth(){ authOv.classList.remove('show'); }
+
+    // ── claim / rename handle (Reddit-style u/) ──
+    function openHandleModal(isRename){
+      if(!currentUser) return;
+      var cur=currentUser.handle||'';
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">'+(isRename?'Change handle':'Claim your handle')+'</div>'+
+        '<h3>Pick your u/</h3>'+
+        '<p>This is how London finds you on soundcheck &mdash; lowercase letters, numbers and underscores.</p>'+
+        '<div class="handle-field"><span class="hpre">u/</span><input type="text" id="hc-in" maxlength="20" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" value="'+esc(cur)+'"></div>'+
+        '<div class="handle-status" id="hc-status"></div>'+
+        '<button class="go" id="hc-go" type="button" disabled>'+(isRename?'Save':'Claim it')+'</button>'+
+        '<div class="err" id="hc-err"></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      setPref('handlePrompted',1);
+      var input=ov.querySelector('#hc-in'), status=ov.querySelector('#hc-status'), go=ov.querySelector('#hc-go'), err=ov.querySelector('#hc-err');
+      var okHandle=null;
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      var check=debounce(async function(){
+        var h=input.value.trim().toLowerCase(); okHandle=null; go.disabled=true; err.textContent='';
+        if(h.length<3){ status.className='handle-status'; status.textContent=''; return; }
+        if(h===cur.toLowerCase()){ status.className='handle-status ok'; status.textContent='That’s your current handle.'; okHandle=h; go.disabled=false; return; }
+        status.className='handle-status'; status.textContent='Checking…';
+        var j; try{ var r=await authedFetch('/api/handle/available?h='+encodeURIComponent(h)); j=await r.json(); }catch(_){ j={}; }
+        if(input.value.trim().toLowerCase()!==h) return; // a newer keystroke is in flight
+        if(j.available){ status.className='handle-status ok'; status.innerHTML='✓ u/'+esc(h)+' is available'; okHandle=h; go.disabled=false; }
+        else { status.className='handle-status bad'; status.textContent=j.reason||'Not available.'; }
+      },220);
+      input.addEventListener('input',check);
+      input.addEventListener('keydown',function(e){ if(e.key==='Enter' && !go.disabled) go.click(); });
+      check(); // validate the prefilled current handle so it can be claimed as-is
+      go.addEventListener('click',async function(){
+        if(!okHandle) return; go.disabled=true; err.textContent='';
+        try{
+          var r=await authedFetch('/api/handle',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:okHandle }) });
+          var j=await r.json();
+          if(!r.ok){ err.textContent=j.error||'Could not save.'; go.disabled=false; return; }
+          currentUser.handle=j.handle; currentUser.handleClaimed=true;
+          renderAccount(); showToast('You’re u/'+j.handle); close(); maybePromptHomeCity();
+        }catch(_){ err.textContent='Could not save.'; go.disabled=false; }
+      });
+      setTimeout(function(){ input.focus(); input.select(); },50);
+    }
+    // Prompt unclaimed users to pick a handle — once per device (they can always
+    // change it later from the account hub).
+    function maybePromptHandle(){
+      if(!currentUser || currentUser.handleClaimed) return;
+      if(prefs.handlePrompted) return;
+      setTimeout(function(){ if(currentUser && !currentUser.handleClaimed) openHandleModal(false); }, 800);
+    }
+    // ── home city: asked once in onboarding (after handle), changeable in settings.
+    // Stored in prefs.homeCity; surfaced on the taste card as "Based in {city}".
+    function openCityModal(isChange){
+      if(!currentUser) return;
+      var cur=(prefs&&prefs.homeCity)||'';
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      var opts=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){ return '<option value="'+esc(c.slug)+'"'+(c.slug===cur?' selected':'')+'>'+esc(c.name)+'</option>'; }).join('');
+      ov.innerHTML='<div class="auth-box">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">'+(isChange?'Change home city':'Your home base')+'</div>'+
+        '<h3>Where do you go out?</h3>'+
+        '<p>Sets your home scene and shows on your card &mdash; change it anytime.</p>'+
+        '<div class="handle-field"><select id="cm-sel" style="width:100%;background:none;border:0;color:var(--fg);font:inherit;padding:7px 4px">'+opts+'</select></div>'+
+        '<button class="go" id="cm-go" type="button">Save home city</button>'+
+        (isChange?'':'<button id="cm-skip" type="button" style="display:block;width:100%;background:none;border:0;color:var(--muted);font:600 var(--fs-xs) var(--body);margin-top:12px;cursor:pointer">Skip for now</button>')+
+      '</div>';
+      document.body.appendChild(ov);
+      setPref('homeCityPrompted',1);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      var sk=ov.querySelector('#cm-skip'); if(sk) sk.addEventListener('click',close);
+      ov.querySelector('#cm-go').addEventListener('click',function(){
+        var slug=ov.querySelector('#cm-sel').value;
+        setPref('homeCity',slug);
+        if(currentUser){ currentUser.prefs=currentUser.prefs||{}; currentUser.prefs.homeCity=slug; }
+        showToast('Home base set to '+cityLabel(slug)); close();
+        if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
+      });
+      setTimeout(function(){ var s=ov.querySelector('#cm-sel'); if(s) s.focus(); },50);
+    }
+    function maybePromptHomeCity(){
+      if(!currentUser) return;
+      if(prefs.homeCity || prefs.homeCityPrompted) return;
+      setTimeout(function(){ if(currentUser && !prefs.homeCity && !prefs.homeCityPrompted) openCityModal(false); }, 1200);
+    }
+
+    // ── claim a venue page (owner / team lead) ──
+    function openClaimModal(venueName, venueSlug){
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">Venue claim</div>'+
+        '<h3>Claim '+esc(venueName)+'</h3>'+
+        '<p>Drop your details and we&rsquo;ll be in touch to get you set up.</p>'+
+        '<input type="text" id="cl-first" placeholder="First name" autocomplete="given-name">'+
+        '<input type="text" id="cl-last" placeholder="Last name" autocomplete="family-name" style="margin-top:8px">'+
+        '<input type="email" id="cl-email" placeholder="email@example.com" autocomplete="email" inputmode="email" style="margin-top:8px">'+
+        '<div class="handle-field" style="margin-top:8px"><span class="hpre">+44</span><input type="tel" id="cl-phone" placeholder="Phone" autocomplete="tel" inputmode="tel"></div>'+
+        '<button class="go" id="cl-go" type="button">Submit</button>'+
+        '<div class="err" id="cl-err"></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      var err=ov.querySelector('#cl-err'), go=ov.querySelector('#cl-go');
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      go.addEventListener('click',async function(){
+        var email=ov.querySelector('#cl-email').value.trim();
+        if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ err.textContent='Enter a valid email.'; return; }
+        go.disabled=true; err.textContent='';
+        var payload={ slug:venueSlug||null, name:venueName,
+          firstName:ov.querySelector('#cl-first').value.trim(),
+          lastName:ov.querySelector('#cl-last').value.trim(),
+          email:email, phone:ov.querySelector('#cl-phone').value.trim() };
+        try{
+          var r=await authedFetch('/api/venue/claim',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(payload) });
+          var j=await r.json();
+          if(!r.ok){ err.textContent=j.error||'Could not submit.'; go.disabled=false; return; }
+          close(); showToast('Thanks — we’ll be in touch soon.');
+        }catch(_){ err.textContent='Could not submit. Try again.'; go.disabled=false; }
+      });
+      setTimeout(function(){ var i=ov.querySelector('#cl-first'); if(i) i.focus(); },50);
+    }
+
+    // ── avatar upload (client-side square-crop + resize, then store) ──
+    function pickAvatar(){
+      var inp=document.createElement('input'); inp.type='file'; inp.accept='image/png,image/jpeg,image/webp';
+      inp.addEventListener('change',function(){ var f=inp.files&&inp.files[0]; if(f) uploadAvatar(f); });
+      inp.click();
+    }
+    function resizeImage(file, size){
+      return new Promise(function(resolve){
+        var img=new Image(), url=URL.createObjectURL(file);
+        img.onload=function(){
+          try{
+            var c=document.createElement('canvas'); c.width=size; c.height=size; var ctx=c.getContext('2d');
+            var s=Math.min(img.width,img.height), sx=(img.width-s)/2, sy=(img.height-s)/2;
+            ctx.drawImage(img, sx, sy, s, s, 0, 0, size, size);
+            resolve(c.toDataURL('image/webp', 0.82)); // falls back to png where webp export is unsupported
+          }catch(_){ resolve(null); } finally { URL.revokeObjectURL(url); }
+        };
+        img.onerror=function(){ URL.revokeObjectURL(url); resolve(null); };
+        img.src=url;
+      });
+    }
+    async function uploadAvatar(file){
+      if(!currentUser) return;
+      showToast(file?'Uploading photo…':'Removing photo…');
+      var dataUrl = file ? await resizeImage(file, 256) : '';
+      if(file && !dataUrl){ showToast('Couldn’t read that image.'); return; }
+      try{
+        var r=await authedFetch('/api/avatar',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ image:dataUrl }) });
+        var j=await r.json();
+        if(!r.ok){ showToast(j.error||'Upload failed.'); return; }
+        currentUser.avatar=j.avatar||null;
+        renderAccount();
+        if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
+        showToast(file?'Photo updated ✓':'Photo removed');
+      }catch(_){ showToast('Upload failed.'); }
+    }
+    document.getElementById('auth-close').addEventListener('click',closeAuth);
+    document.getElementById('auth-sent-done').addEventListener('click',closeAuth);
+    // PWA-friendly sign-in: verify the emailed code in THIS context so the session
+    // cookie lands in the (installed) app, not whatever browser opened the link.
+    document.getElementById('auth-code-go').addEventListener('click',async function(){
+      var email=(document.getElementById('auth-sent-to').textContent||'').trim().toLowerCase();
+      var code=(document.getElementById('auth-code').value||'').trim();
+      var err=document.getElementById('auth-code-err'), btn=this;
+      if(code.replace(/[^a-z0-9]/gi,'').length<4){ err.textContent='Enter the code from the email.'; return; }
+      btn.disabled=true; err.textContent='';
+      try{
+        var r=await authedFetch('/api/auth/verify',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email, code:code }) });
+        var j=await r.json().catch(function(){return {};});
+        if(!r.ok || !j.ok){ err.textContent=(r.status===400?'That code is wrong or expired.':'Something went wrong — try again.'); btn.disabled=false; return; }
+        if(j.token) _memToken=j.token;   // cookie is primary; bearer covers this page-load
+        var hadLocal=pickCount()>0;
+        closeAuth();
+        await loadMe(); renderAccount();
+        if(currentUser && hadLocal){
+          authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
+            body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
+                                  events:Object.keys(picks.events).map(function(i){return {id:i,title:picks.events[i].title,venue:picks.events[i].venue,day:picks.events[i].day};}) })
+          }).then(function(){ showToast('Signed in — your picks are saved'); }).catch(function(){});
+        } else { showToast('Signed in'); }
+      }catch(_){ err.textContent='Network error — try again.'; btn.disabled=false; }
+    });
+    authOv.addEventListener('click',function(e){ if(e.target===authOv) closeAuth(); });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&authOv.classList.contains('show')) closeAuth(); });
+    document.getElementById('auth-form').addEventListener('submit',async function(e){
+      e.preventDefault();
+      var input=document.getElementById('auth-email'), go=document.getElementById('auth-go'), err=document.getElementById('auth-err');
+      var email=input.value.trim().toLowerCase();
+      if(!EMAIL_RE.test(email)||email.length>254){ err.textContent='Enter a valid email.'; input.focus(); return; }
+      go.disabled=true; err.textContent='';
+      try{
+        var r=await fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:email }) });
+        if(!r.ok){ var j=await r.json().catch(function(){return {};}); err.textContent=(j.error||'Something went wrong')+'.'; go.disabled=false; return; }
+        document.getElementById('auth-sent-to').textContent=email;
+        document.getElementById('auth-form-state').hidden=true;
+        document.getElementById('auth-sent-state').hidden=false;
+      }catch(_){ err.textContent='Network error — try again.'; }
+      finally{ go.disabled=false; }
+    });
+
+    document.getElementById('signup-banner-dismiss').addEventListener('click', hideSignupBanner);
+    document.getElementById('signup-banner-resend').addEventListener('click', async function(){
+      if(!_pendingEmail) return;
+      var btn=this; btn.disabled=true;
+      try{ await fetch(API_BASE+'/api/auth/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:_pendingEmail})}); showToast('Magic link resent to '+_pendingEmail); }
+      catch(_){ showToast('Couldn’t resend — try again.'); }
+      finally{ btn.disabled=false; }
+    });
+
+    // On boot: consume #session=… handed back by the magic-link callback
+    // (cookie is primary; this is the bearer fallback), then load the account.
+    (function consumeSessionHash(){
+      var m=(location.hash||'').match(/session=([a-f0-9]+)/i);
+      if(m){
+        _memToken=m[1]; // cookie is primary; never persisted client-side
+        history.replaceState(null,'',location.pathname+location.search);
+        // First sign-in: migrate any anonymous localStorage picks into the account.
+        var hadLocal=pickCount()>0;
+        _meReady=loadMe().then(function(){
+          if(currentUser && hadLocal){
+            authedFetch('/api/picks/migrate',{ method:'POST', headers:{'Content-Type':'application/json'},
+              body:JSON.stringify({ artists:Object.keys(picks.artists).map(function(s){return {slug:s,name:picks.artists[s].name};}),
+                                    events:Object.keys(picks.events).map(function(i){return {id:i,title:picks.events[i].title,venue:picks.events[i].venue,day:picks.events[i].day};}) })
+            }).then(function(){ showToast('Signed in — your picks are saved'); }).catch(function(){});
+          } else if(currentUser){ showToast('Signed in'); }
+        });
+        return true;
+      }
+      _meReady=loadMe();
+      return false;
+    })();
+
+    // URL encoding: base64url(JSON {a:[slugs], e:[ids], d:date})
+    function b64url(s){ return btoa(unescape(encodeURIComponent(s))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
+    function unb64url(s){ s=s.replace(/-/g,'+').replace(/_/g,'/'); var pad=s.length%4; if(pad) s+=new Array(5-pad).join('='); try{ return decodeURIComponent(escape(atob(s))); }catch(_){ return ''; } }
+    function encodePicks(p){
+      var compact={};
+      // only the want-to-go states are shareable picks
+      var a=Object.keys(p.artists||{}).filter(function(s){ return artStatus(s)==='wanna_see'; }); if(a.length) compact.a=a;
+      var e=Object.keys(p.events||{}).filter(function(i){ return evtStatus(i)==='going'; }); if(e.length) compact.e=e;
+      if(currentDate) compact.d=currentDate;
+      return 'v1.'+b64url(JSON.stringify(compact));
+    }
+    function decodePicksParam(s){
+      if(!s||s.indexOf('v1.')!==0) return null;
+      var raw=unb64url(s.slice(3)); if(!raw) return null;
+      try{ var o=JSON.parse(raw); return { artists:o.a||[], events:o.e||[], date:o.d||null }; }catch(_){ return null; }
+    }
+    function shareUrl(params){
+      var u=location.origin+location.pathname, qs=[];
+      // carry the sender's city so a Berlin share opens Berlin — the canonical
+      // path form (/soundcheck/berlin/) already does; only dev/legacy needs ?city=
+      if(params.city==null && typeof currentCity!=='undefined' && currentCity!=='london' && !(typeof pathCitySlug==='function' && pathCitySlug())) params.city=currentCity;
+      Object.keys(params).forEach(function(k){ if(params[k]!=null&&params[k]!=='') qs.push(encodeURIComponent(k)+'='+encodeURIComponent(params[k])); });
+      return u+(qs.length?'?'+qs.join('&'):'');
+    }
+    function doShare(opts){
+      if(navigator.share){ return navigator.share(opts).catch(function(){}); }
+      if(navigator.clipboard){ return navigator.clipboard.writeText(opts.url).then(function(){ showToast('Link copied'); },function(){ window.prompt('Copy this link:', opts.url); }); }
+      window.prompt('Copy this link:', opts.url);
+    }
+    function myHandle(){ return currentUser ? currentUser.handle : null; }
+    function shareArtist(slug, name){
+      var url=shareUrl({artist:slug, d:currentDate||null});
+      doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this DJ')+' on soundcheck', url:url });
+    }
+    function shareEvent(id, title, venue){
+      // Canonical, descriptive event path — NOT location.pathname+#hash (which pinned
+      // the event to whatever page you were on and broke under path routing).
+      var url=location.origin+SC_BASE+eventPath(eventIdOf(id), title, venue)+'/';
+      var t=(title||'Event')+(venue?(' · '+venue):'');
+      doShare({ title:t, text:t+' — preview every DJ on soundcheck', url:url });
+    }
+    function sharePicks(){
+      if(!pickCount()) return;
+      var url=shareUrl({picks:encodePicks(picks)});
+      var a=Object.keys(picks.artists).filter(function(s){return artStatus(s)==='wanna_see';}).length;
+      var e=Object.keys(picks.events).filter(function(i){return evtStatus(i)==='going';}).length;
+      var bits=[]; if(e) bits.push(e+' event'+(e===1?'':'s')); if(a) bits.push(a+' artist'+(a===1?'':'s'));
+      var text='My picks for tonight on soundcheck — '+bits.join(' + ');
+      doShare({ title:'My picks on soundcheck', text:text, url:url });
+    }
+    function copyPicks(){
+      if(!pickCount()) return;
+      var url=shareUrl({picks:encodePicks(picks)});
+      if(navigator.clipboard) navigator.clipboard.writeText(url).then(function(){ showToast('Link copied'); }); else window.prompt('Copy this link:', url);
+    }
+
+    // Reverse lookup index, rebuilt on each renderEvents (slug → ev, id → ev)
+    var lookup={ byArtist:{}, byEvent:{} };
+    function rebuildLookup(events){
+      lookup={ byArtist:{}, byEvent:{} };
+      (events||[]).forEach(function(ev){
+        if(ev.id!=null) lookup.byEvent[String(ev.id)]=ev;
+        (ev.artists||[]).forEach(function(a){
+          var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
+          if(slug && !lookup.byArtist[slug]) lookup.byArtist[slug]={ ev:ev, artist:a };
+        });
+      });
+    }
+
+    // ── picks tray ──
+    // ── My picks — full page: shelves + share + diary (replaces the tray/overlay) ──
+    function meRow(label, sub, removeAttr){
+      return '<li><span class="open-ev">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</span><button class="rm" '+removeAttr+' title="Remove">&times;</button></li>';
+    }
+    function meRowEvt(id, meta){
+      var hit=lookup.byEvent[id], title=hit?hit.title:(meta.title||'Event'), venue=hit?hit.venue:(meta.venue||''), day=hit?(hit._day||''):(meta.day||'');
+      return '<li><button class="open-ev" data-open-evt="'+esc(id)+'">'+esc(title)+' <small>'+esc(venue||'')+(day?(' &middot; '+esc(day)):'')+'</small></button><button class="rm" data-rm-evt="'+esc(id)+'" title="Remove">&times;</button></li>';
+    }
+    function picksShelvesHTML(){
+      var wannaComing=[], wannaList=[], seen=[], going=[];
+      Object.keys(picks.artists).forEach(function(s){
+        var st=artStatus(s), nm=(picks.artists[s].name)||s, hit=lookup.byArtist[s];
+        if(st==='seen') seen.push({s:s, nm:nm});
+        else if(st==='wanna_see'){ if(hit){ wannaComing.push({s:s, nm:nm, ev:hit.ev}); } else { wannaList.push({s:s, nm:nm}); } }
+      });
+      Object.keys(picks.events).forEach(function(i){ if(evtStatus(i)==='going') going.push({i:i, e:picks.events[i]}); });
+      var h='';
+      if(going.length){ h+='<div class="sec-h">Saved events<span class="ct">'+going.length+'</span></div><ul class="tray-line">'+going.map(function(g){ return meRowEvt(g.i, g.e); }).join('')+'</ul>'; }
+      if(wannaComing.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · coming up<span class="ct">'+wannaComing.length+'</span></div><ul class="tray-line">'+wannaComing.map(function(w){ return meRow(w.nm, (w.ev.venue||'')+(w.ev._day?(' · '+w.ev._day):''), 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
+      if(wannaList.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · on your list<span class="ct">'+wannaList.length+'</span></div><ul class="tray-line">'+wannaList.map(function(w){ return meRow(w.nm, 'no upcoming London date yet', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
+      if(seen.length){ h+='<div class="sec-h" style="margin-top:18px">Seen live<span class="ct">'+seen.length+'</span></div><ul class="tray-line">'+seen.map(function(w){ return meRow(w.nm, '', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
+      if(!h) h='<div class="empty">Nothing here yet. Heart artists you wanna see, save nights you&rsquo;re going to, and tick DJs you&rsquo;ve seen live.</div>';
+      return h;
+    }
+    function openMyPicks(){
+      setRoute('picks');
+      var has=pickCount()>0;
+      var h='<h2 class="page-title">My picks</h2><div class="sub" style="margin-bottom:14px">'+(currentUser?('Synced to u/'+esc(currentUser.handle)+' across your devices.'):'Saved on this device &mdash; sign in to keep them.')+'</div>';
+      if(has) h+='<div style="display:flex;gap:9px;margin-bottom:20px;max-width:520px"><button class="btn solid" id="mp-share" type="button" style="flex:1;border:none;border-radius:var(--radius-pill);background:var(--accent);color:var(--accent-ink);font:700 var(--fs-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Share my picks</button><button class="btn ghost" id="mp-copy" type="button" style="flex:1;background:transparent;color:var(--fg);border:1px solid var(--border);border-radius:var(--radius-pill);font:700 var(--fs-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Copy link</button></div>';
+      var hasArt=Object.keys(picks.artists).length>0;
+      if(hasArt) h+='<button class="tc-cta" id="mp-taste" type="button">◆ Share your taste card</button>';
+      h+='<div id="mp-shelves">'+picksShelvesHTML()+'</div><div id="mp-diary" style="margin-top:24px"></div>';
+      if(has) h+='<button class="hub-row danger" id="mp-clear" type="button" style="max-width:520px;margin-top:22px"><span class="hr-tx"><span class="hr-t">Clear all picks</span></span></button>';
+      showPage(h);
+      var sh=document.getElementById('mp-share'); if(sh) sh.addEventListener('click',sharePicks);
+      var cp=document.getElementById('mp-copy'); if(cp) cp.addEventListener('click',copyPicks);
+      var tc=document.getElementById('mp-taste'); if(tc) tc.addEventListener('click',openTasteCard);
+      var cl=document.getElementById('mp-clear'); if(cl) cl.addEventListener('click',function(){ if(!pickCount())return; if(!confirm('Clear all '+pickCount()+' picks?'))return; picks={artists:{},events:{}}; savePicks(); afterPicksChanged(); document.querySelectorAll('.heart.on').forEach(function(b){b.classList.remove('on');}); openMyPicks(); });
+      document.getElementById('mp-shelves').addEventListener('click',function(e){
+        var a=e.target.closest('[data-rm-art]'); if(a){ setArtist(a.dataset.rmArt,null); document.getElementById('mp-shelves').innerHTML=picksShelvesHTML(); return; }
+        var v=e.target.closest('[data-rm-evt]'); if(v){ setEvent(v.dataset.rmEvt,null); document.getElementById('mp-shelves').innerHTML=picksShelvesHTML(); return; }
+        var o=e.target.closest('[data-open-evt]'); if(o){ var ev=lookup.byEvent[o.dataset.openEvt]; if(ev) openSheet(ev); return; }
+      });
+      if(currentUser) appendPicksDiary();
+    }
+    async function appendPicksDiary(){
+      try{
+        var r=await authedFetch('/api/diary'); var j=await r.json(); var rows=j.entries||[];
+        var el=document.getElementById('mp-diary'); if(!el) return;
+        el.innerHTML='<div class="sec-h">Diary<span class="ct">'+rows.length+'</span> <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="empty" style="padding:4px 0">No gigs logged yet.</div>');
+        var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
+        wireDiary(el, true, appendPicksDiary);
+      }catch(_){}
+    }
+    document.getElementById('radio-fab-main').addEventListener('click',function(){ if(typeof radio!=='undefined' && radio.on) radioStop(); else startRadio(); });
+    // text block is no longer inside the play button — clicking it while idle still starts radio
+    document.getElementById('radio-fab-tx').addEventListener('click',function(){ if(typeof radio==='undefined' || !radio.on) startRadio(); });
+    document.getElementById('radio-fab-stop').addEventListener('click',function(e){ e.stopPropagation(); if(typeof radioStop==='function') radioStop(); });
+    document.getElementById('radio-fab-heart').addEventListener('click',function(e){
+      e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug) toggleArtist(en.slug, { name:en.name });
+    });
+    document.getElementById('radio-fab-go').addEventListener('click',function(e){
+      e.stopPropagation(); var en=radio.queue[radio.i]; if(en && en.slug && typeof openArtist==='function') openArtist(en.slug);
+    });
+
+    // ════════════ Nights: collaborative night plans ════════════
+    // ⏸ PARKED pending redesign: all entry points (FAB, '＋ Add to night',
+    // hub 'Your nights') are removed. The #n/<code> route, board, join modal
+    // and backend stay live so previously shared links keep working.
+    // A "Night" = a shareable plan for one night out. Owner (signed-in) creates
+    // it, drops in candidate events; friends join by name (no account) and react
+    // (🔥 In / 👀 Maybe / ✌️ Pass) until the crew converges. Poll-refreshed.
+    var RX_META={ down:{e:'🔥',l:'In'}, maybe:{e:'👀',l:'Maybe'}, nah:{e:'✌️',l:'Pass'} };
+    var _nightPoll=null, _nightCode=null;
+    var _scPid=null, _scNight=null;
+    function myPid(){ if(!_scPid) _scPid=(Math.random().toString(36).slice(2)+Math.random().toString(36).slice(2)).slice(0,18); return _scPid; }
+    function activeNight(){ return _scNight; }
+    function setActiveNight(code){ _scNight=code||null; }
+    function fmtNightDate(d){ if(!d) return 'A night out'; try{ return new Date(String(d).slice(0,10)+'T12:00:00').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'short'}); }catch(_){ return 'A night out'; } }
+    function nightTitle(d){ return d.title || fmtNightDate(d.date); }
+    function nightAv(m){ return avatarBg(m.handle||m.participant_id, m.avatar); }
+    function goGrid(){ if(location.hash){ history.pushState({sc:1},'',location.pathname+location.search); } hidePage(); }
+
+    async function createNight(date, cb){
+      if(!currentUser){ showToast('Sign in to start a night'); openAuth(); return; }
+      try{
+        var r=await authedFetch('/api/night',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ date:date||currentDate||todayISO() }) });
+        var j=await r.json();
+        if(!r.ok||!j.code){ showToast('Couldn’t start the night'); return; }
+        setActiveNight(j.code);
+        if(cb) cb(j.code); else openNight(j.code);
+      }catch(_){ showToast('Couldn’t start the night'); }
+    }
+    function addToNight(ev){
+      if(!ev||ev.id==null){ return; }
+      var code=activeNight();
+      if(!code){
+        if(!currentUser){ showToast('Sign in to start a night'); openAuth(); return; }
+        createNight(currentDate||todayISO(), function(c){ addEventToNight(c, ev); });
+        return;
+      }
+      addEventToNight(code, ev);
+    }
+    async function addEventToNight(code, ev){
+      try{
+        var r=await authedFetch('/api/night/event',{ method:'POST', headers:{'Content-Type':'application/json'},
+          body:JSON.stringify({ code:code, pid:myPid(), eventId:String(ev.id), title:ev.title||null, venue:ev.venue||null, poster:ev.poster||null, startTime:ev.startTime||ev._time||null, eventDate:currentDate||null }) });
+        if(!r.ok) throw 0;
+        showToastAction('Added to your night', 'Open', function(){ openNight(code); });
+      }catch(_){ showToast('Couldn’t add to the night'); }
+    }
+
+    async function openNight(code){
+      code=String(code); setRoute('n/'+encodeURIComponent(code));
+      openPanel('<div class="empty">Loading the night…</div>');
+      loadNight(code);
+    }
+    async function loadNight(code){
+      try{
+        var r=await authedFetch('/api/night?code='+encodeURIComponent(code)+'&pid='+encodeURIComponent(myPid()));
+        if(r.status===404){ if(activeNight()===code) setActiveNight(null); openPanel('<div class="empty">That night isn’t around anymore.</div>'); return; }
+        if(!r.ok) throw 0;
+        var d=await r.json();
+        if(location.hash.indexOf('n/')<0) return;
+        if(!d.amMember){
+          if(currentUser){ try{ await authedFetch('/api/night/join',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({code:code,pid:myPid()})}); }catch(_){} return loadNight(code); }
+          renderNightInvite(d); return;
+        }
+        renderNightBoard(d);
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that night.</div>'); }
+    }
+    function renderNightInvite(d){
+      showPage('<div class="nb-head"><div class="eyebrow">You’re invited</div><h3>'+esc(nightTitle(d))+'</h3><p class="sub">Your mates are sorting out this night. Add your name to join in and react.</p></div>'+
+        '<button class="follow-btn" id="nb-join" type="button" style="max-width:280px">Join the night</button>');
+      document.getElementById('nb-join').addEventListener('click',function(){ openNightJoinModal(d.code, d); });
+    }
+    function openNightJoinModal(code, d){
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">Join the night</div><h3>'+esc(nightTitle(d))+'</h3>'+
+        '<p>Add your name so your mates know you’re in.</p>'+
+        '<input type="text" id="nj-name" maxlength="40" placeholder="Your first name" autocomplete="given-name">'+
+        '<button class="go" id="nj-go" type="button">Join the night</button>'+
+        '<p style="margin-top:12px;font-size:var(--fs-sm);color:var(--muted)">Have an account? <button class="b-link" id="nj-signin" type="button" style="background:none;border:none;color:var(--accent);font:inherit;cursor:pointer;padding:0">Sign in</button></p>'+
+        '<div class="err" id="nj-err"></div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      ov.querySelector('#nj-signin').addEventListener('click',function(){ close(); openAuth(); });
+      var go=ov.querySelector('#nj-go'), err=ov.querySelector('#nj-err'), nm=ov.querySelector('#nj-name');
+      nm.addEventListener('keydown',function(e){ if(e.key==='Enter') go.click(); });
+      go.addEventListener('click',async function(){
+        var name=nm.value.trim();
+        if(!name){ err.textContent='Enter your name.'; return; }
+        go.disabled=true; err.textContent='';
+        try{
+          var r=await authedFetch('/api/night/join',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({code:code,pid:myPid(),name:name})});
+          if(!r.ok) throw 0; close(); loadNight(code);
+        }catch(_){ err.textContent='Couldn’t join. Try again.'; go.disabled=false; }
+      });
+      setTimeout(function(){ nm.focus(); },50);
+    }
+    function renderNightBoard(d){
+      _nightCode=d.code; setActiveNight(d.code);
+      var canLog = currentUser && d.date && (String(d.date).slice(0,10) <= todayISO());
+      var head='<div class="nb-head"><div class="eyebrow">Night out</div><h3>'+esc(nightTitle(d))+'</h3></div>'+
+        '<div class="nb-actions"><button class="nb-share" id="nb-share" type="button">'+SHARE_SVG+'<span>Share</span></button>'+
+        '<button class="nb-add" id="nb-add" type="button">＋ Add events</button>'+
+        (canLog?'<button class="nb-add" id="nb-log" type="button">✎ Log this night</button>':'')+'</div>';
+      showPage(head+'<div id="night-board"></div>');
+      document.getElementById('nb-share').addEventListener('click',function(){ shareNight(d.code, nightTitle(d)); });
+      document.getElementById('nb-add').addEventListener('click',function(){ setActiveNight(d.code); showToast('Browse events and tap ＋ Add to night'); goGrid(); });
+      var lb=document.getElementById('nb-log'); if(lb) lb.addEventListener('click',function(){ logThisNight(d); });
+      var board=document.getElementById('night-board');
+      board.addEventListener('click',function(e){
+        var pill=e.target.closest('.rx-pill'); if(pill){ var on=pill.classList.contains('on'); reactNight(d.code, pill.dataset.evt, on?null:pill.dataset.rx); return; }
+        var t=e.target.closest('[data-open-evt]'); if(t){ openEvent(t.dataset.openEvt); return; }
+      });
+      paintNightBoard(d);
+      startNightPoll(d.code);
+    }
+    function paintNightBoard(d){
+      var board=document.getElementById('night-board'); if(!board) return;
+      var members={}; (d.members||[]).forEach(function(m){ members[m.participant_id]=m; });
+      var avs=(d.members||[]).slice(0,8).map(function(m){ return '<span class="nstack-av" style="background-image:'+nightAv(m)+'" title="'+esc(m.name||'')+'"></span>'; }).join('');
+      var strip='<div class="nb-members"><span class="nstack">'+avs+'</span><span>'+(d.members||[]).length+' in</span></div>';
+      var evs=(d.events||[]); var maxDown=0; evs.forEach(function(e){ maxDown=Math.max(maxDown,((e.reactions||{}).down||[]).length); });
+      var cards= evs.length ? evs.map(function(e){ return nightCardHTML(e,members,d.myPid,maxDown); }).join('')
+        : '<div class="empty" style="margin-top:18px">No events yet. Tap <b>＋ Add events</b> and drop in some options.</div>';
+      board.innerHTML=strip+cards;
+    }
+    function nightCardHTML(e, members, myP, maxDown){
+      var rx=e.reactions||{down:[],maybe:[],nah:[]}, down=rx.down||[], maybe=rx.maybe||[], nah=rx.nah||[];
+      var mine= down.indexOf(myP)>=0?'down':(maybe.indexOf(myP)>=0?'maybe':(nah.indexOf(myP)>=0?'nah':null));
+      var front= down.length>0 && down.length===maxDown ? ' front' : '';
+      var poster= e.poster_url ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(e.poster_url,200)+'" alt="" onerror="this.style.display=\'none\'">' : '';
+      var dnames= down.map(function(pid){ return members[pid]?members[pid].name:''; }).filter(Boolean);
+      var dav= down.slice(0,6).map(function(pid){ var m=members[pid]; return m?'<span class="nstack-av" style="background-image:'+nightAv(m)+'" title="'+esc(m.name||'')+'"></span>':''; }).join('');
+      function pill(k){ var arr=k==='down'?down:(k==='maybe'?maybe:nah); var on=mine===k?' on':''; return '<button class="rx-pill '+k+on+'" data-evt="'+esc(e.id)+'" data-rx="'+k+'" type="button">'+RX_META[k].e+' '+RX_META[k].l+(arr.length?' <b>'+arr.length+'</b>':'')+'</button>'; }
+      return '<div class="night-card'+front+'">'+(front?'<span class="front-tag">Front-runner</span>':'')+
+        '<div class="nc-top" data-open-evt="'+esc(e.id)+'">'+
+          '<div class="poster nc-poster">'+genPoster(e.title||'Event')+poster+'<span class="tint"></span></div>'+
+          '<div class="nc-tx"><div class="nc-title">'+esc(e.title||'Event')+'</div><div class="nc-venue">'+esc(e.venue||'')+'</div></div>'+
+        '</div>'+
+        '<div class="rx-row">'+pill('down')+pill('maybe')+pill('nah')+'</div>'+
+        (down.length?'<div class="nc-down"><span class="nstack">'+dav+'</span><span>'+esc(dnames.slice(0,3).join(', '))+(down.length>3?(' +'+(down.length-3)):'')+' in</span></div>':'')+
+      '</div>';
+    }
+    async function reactNight(code, eventId, reaction){
+      try{ await authedFetch('/api/night/react',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({code:code,pid:myPid(),eventId:eventId,reaction:reaction})}); }catch(_){}
+      refreshNightData(code);
+    }
+    async function refreshNightData(code){
+      try{ var r=await authedFetch('/api/night?code='+encodeURIComponent(code)+'&pid='+encodeURIComponent(myPid())); if(!r.ok) return; var d=await r.json(); if(location.hash.indexOf('n/')<0) return; paintNightBoard(d); }catch(_){}
+    }
+    function startNightPoll(code){
+      if(_nightPoll) clearInterval(_nightPoll);
+      _nightPoll=setInterval(function(){
+        if(location.hash.indexOf('#n/'+code)<0){ clearInterval(_nightPoll); _nightPoll=null; return; }
+        if(document.hidden) return; refreshNightData(code);
+      }, 10000);
+    }
+    document.addEventListener('visibilitychange',function(){ if(!document.hidden && _nightCode && location.hash.indexOf('#n/'+_nightCode)>=0) refreshNightData(_nightCode); });
+    function shareNight(code, title){
+      var url=location.origin+location.pathname+'#n/'+encodeURIComponent(code);
+      doShare({ title:title||'A night out on soundcheck', text:(title||'A night out')+' — sort the plan on soundcheck', url:url });
+    }
+    // Log this night → prefill the diary with the event you were most "in" on.
+    function logThisNight(d){
+      var evs=d.events||[]; if(!evs.length){ showToast('Add an event first'); return; }
+      var mine=evs.filter(function(e){ return ((e.reactions||{}).down||[]).indexOf(d.myPid)>=0; });
+      var pool=(mine.length?mine:evs).slice();
+      pool.sort(function(a,b){ return (((b.reactions||{}).down)||[]).length-(((a.reactions||{}).down)||[]).length; });
+      var ev=pool[0];
+      var arts=(ev.lineup||[]).map(function(a){ return {slug:a.slug, name:a.name}; });
+      openLog({ date: d.date?String(d.date).slice(0,10):null, venue: ev.venue||'', artists: arts });
+    }
+    // Renders "Your nights" into the given container (lives in the ACCOUNT HUB —
+    // deliberately not in My Picks; picks are your taste library, nights are plans).
+    async function loadMyNights(containerId){
+      var el=document.getElementById(containerId||'hub-nights'); if(!el) return;
+      el.innerHTML='<div class="sec-h" style="margin-top:4px">Your nights</div>'+
+        '<button class="hub-row" id="mn-plan" type="button" style="max-width:520px"><span class="hr-tx"><span class="hr-t">＋ Plan a night</span><span class="hr-s">Pick events, share with your mates, decide together</span></span></button>'+
+        '<div id="mn-list"></div>';
+      document.getElementById('mn-plan').addEventListener('click',function(){ createNight(currentDate||todayISO()); });
+      try{
+        var r=await authedFetch('/api/nights'); var j=await r.json(); var rows=j.nights||[];
+        var list=document.getElementById('mn-list'); if(!list) return;
+        list.innerHTML=rows.map(function(n){ return '<button class="hub-row open-night" data-code="'+esc(n.code)+'" type="button" style="max-width:520px"><span class="hr-tx"><span class="hr-t">'+esc(n.title||fmtNightDate(n.night_date))+'</span><span class="hr-s">'+n.events+' event'+(n.events===1?'':'s')+' &middot; '+n.members+' in</span></span></button>'; }).join('');
+        list.querySelectorAll('.open-night').forEach(function(b){ b.addEventListener('click',function(){ openNight(b.dataset.code); }); });
+      }catch(_){}
+    }
+
+    // ════════════ Taste card — shareable collage of your hearted artists ════════════
+    function tcLoadImg(src){ return new Promise(function(res){ var im=new Image(); im.crossOrigin='anonymous'; im.onload=function(){res(im);}; im.onerror=function(){res(null);}; im.src=src; }); }
+    function tcRR(ctx,x,y,w,h,r){ ctx.beginPath(); ctx.moveTo(x+r,y); ctx.arcTo(x+w,y,x+w,y+h,r); ctx.arcTo(x+w,y+h,x,y+h,r); ctx.arcTo(x,y+h,x,y,r); ctx.arcTo(x,y,x+w,y,r); ctx.closePath(); }
+    function tcFit(ctx,t,maxW){ t=String(t||''); if(ctx.measureText(t).width<=maxW) return t; var s=t; while(s.length>1 && ctx.measureText(s+'…').width>maxW){ s=s.slice(0,-1); } return s+'…'; }
+    function tcTracked(ctx,t,sp,x,y){ for(var i=0;i<t.length;i++){ ctx.fillText(t[i],x,y); x+=ctx.measureText(t[i]).width+sp; } }
+    function drawTasteCard(canvas, arts, label, images){
+      var W=1080,H=1350,P=72; canvas.width=W; canvas.height=H;
+      var ctx=canvas.getContext('2d');
+      ctx.fillStyle='#0f0f12'; ctx.fillRect(0,0,W,H);
+      var glow=ctx.createRadialGradient(W*0.82,0,0,W*0.82,0,W); glow.addColorStop(0,'rgba(255,122,107,0.20)'); glow.addColorStop(1,'rgba(255,122,107,0)'); ctx.fillStyle=glow; ctx.fillRect(0,0,W,H);
+      ctx.textBaseline='alphabetic'; ctx.textAlign='left';
+      ctx.font="800 36px 'Bricolage Grotesque', system-ui, sans-serif";   // two-tone wordmark: sound (cream) + check (salmon)
+      ctx.fillStyle='#f3ece6'; ctx.fillText('sound', P, 110); var _sw=ctx.measureText('sound').width;
+      ctx.fillStyle='#ff7a6b'; ctx.fillText('check', P+_sw, 110);
+      ctx.fillStyle='#ff7a6b'; ctx.font="800 24px 'Bricolage Grotesque', system-ui, sans-serif"; tcTracked(ctx,'THE LINEUP',6,P,166);
+      ctx.fillStyle='#f3ece6'; ctx.font="800 66px 'Bricolage Grotesque', system-ui, sans-serif"; ctx.fillText(tcFit(ctx, label, W-2*P), P, 236);
+      var n=arts.length, cols=n<=2?Math.max(1,n):3, gap=22, top=296, footerH=96;
+      var rows=Math.ceil(n/cols);
+      var cellW=(W-2*P-(cols-1)*gap)/cols;
+      var cellH=Math.min(cellW, (H-top-footerH-P-(rows-1)*gap)/rows);
+      var gridW=cols*cellW+(cols-1)*gap, x0=(W-gridW)/2;
+      for(var i=0;i<n;i++){
+        var rI=Math.floor(i/cols), cI=i%cols, x=x0+cI*(cellW+gap), y=top+rI*(cellH+gap);
+        ctx.save(); tcRR(ctx,x,y,cellW,cellH,18); ctx.clip();
+        var img=images[i];
+        if(img){ var s=Math.max(cellW/img.width, cellH/img.height), dw=img.width*s, dh=img.height*s; try{ ctx.drawImage(img, x+(cellW-dw)/2, y+(cellH-dh)/2, dw, dh); }catch(_){ img=null; } }
+        if(!img){ var hue=((hashStr(arts[i].name||arts[i].slug)%70)+330)%360, lg=ctx.createLinearGradient(x,y,x+cellW,y+cellH); lg.addColorStop(0,'hsl('+hue+',62%,50%)'); lg.addColorStop(1,'hsl('+((hue+22)%360)+',42%,14%)'); ctx.fillStyle=lg; ctx.fillRect(x,y,cellW,cellH); }
+        var sc=ctx.createLinearGradient(0,y+cellH*0.42,0,y+cellH); sc.addColorStop(0,'rgba(0,0,0,0)'); sc.addColorStop(1,'rgba(0,0,0,0.82)'); ctx.fillStyle=sc; ctx.fillRect(x,y+cellH*0.42,cellW,cellH*0.58);
+        ctx.fillStyle='#fff'; ctx.font="800 26px 'Bricolage Grotesque', system-ui, sans-serif"; ctx.fillText(tcFit(ctx, arts[i].name||arts[i].slug, cellW-26), x+15, y+cellH-18);
+        ctx.restore();
+      }
+      ctx.fillStyle='#9292a0'; ctx.font="600 24px 'Bricolage Grotesque', system-ui, sans-serif"; ctx.textAlign='left'; ctx.fillText(shareHost(), P, H-54);
+      ctx.fillStyle='#ff7a6b'; ctx.textAlign='right'; ctx.fillText(n+(n===1?' artist':' artists'), W-P, H-54); ctx.textAlign='left';
+    }
+    async function openTasteCard(handle){
+      var who = handle || (currentUser && currentUser.handle) || null;
+      var arts=[], label='My soundcheck';
+      if(who){
+        try{
+          var r=await authedFetch('/api/profile?handle='+encodeURIComponent(who)); var p=await r.json(); var sh=p.shelves||{};
+          (sh.wannaSee||[]).forEach(function(a){ arts.push({slug:a.slug,name:a.name,image:a.image}); });
+          (sh.seen||[]).forEach(function(a){ if(!arts.find(function(x){return x.slug===a.slug;})) arts.push({slug:a.slug,name:a.name,image:a.image}); });
+          if(p.handle) label='u/'+p.handle;
+        }catch(_){}
+      }
+      if(!arts.length && !handle){ Object.keys(picks.artists).forEach(function(s){ arts.push({slug:s,name:picks.artists[s].name||s,image:null}); }); label='My soundcheck'; }
+      if(!arts.length){ showToast('No artists hearted yet'); return; }
+      renderTasteCard(arts.slice(0,9), label);
+    }
+    async function renderTasteCard(arts, label){
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="tc-canvas-wrap"><div class="tc-loading">Building your card…</div><img id="tc-img" alt="Your taste card" style="display:none"></div>'+
+        '<div class="tc-actions"><button class="go" id="tc-share" type="button" disabled>Share</button><button class="tc-save" id="tc-save" type="button" disabled>Save image</button></div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      try{ await Promise.all([document.fonts.load("800 66px 'Bricolage Grotesque'"), document.fonts.load("800 26px 'Bricolage Grotesque'"), document.fonts.load("600 24px 'Bricolage Grotesque'")]); }catch(_){}
+      var imgs=await Promise.all(arts.map(function(a){ return a.image?tcLoadImg(imgUrl(a.image,360)+'&c=1'):Promise.resolve(null); }));
+      var canvas=document.createElement('canvas');
+      drawTasteCard(canvas, arts, label, imgs);
+      var dataUrl;
+      try{ dataUrl=canvas.toDataURL('image/png'); }
+      catch(_){ canvas=document.createElement('canvas'); drawTasteCard(canvas, arts, label, arts.map(function(){return null;})); try{ dataUrl=canvas.toDataURL('image/png'); }catch(__){ dataUrl=null; } }
+      var imgEl=ov.querySelector('#tc-img'), loading=ov.querySelector('.tc-loading');
+      if(dataUrl){ imgEl.src=dataUrl; imgEl.style.display='block'; loading.style.display='none'; } else { loading.textContent='Couldn’t build the card.'; return; }
+      var shareBtn=ov.querySelector('#tc-share'), saveBtn=ov.querySelector('#tc-save');
+      shareBtn.disabled=false; saveBtn.disabled=false;
+      function dl(blob){ var a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='soundcheck.png'; a.click(); showToast('Saved'); }
+      shareBtn.addEventListener('click',function(){ canvas.toBlob(function(blob){ if(!blob) return; var file=new File([blob],'soundcheck.png',{type:'image/png'});
+        if(navigator.canShare && navigator.canShare({files:[file]})){ navigator.share({files:[file], title:'My soundcheck', text:'My lineup on soundcheck — '+shareHost()}).catch(function(){}); }
+        else dl(blob); }, 'image/png'); });
+      saveBtn.addEventListener('click',function(){ canvas.toBlob(function(blob){ if(blob) dl(blob); }, 'image/png'); });
+    }
+
+
+    // ── account hub page (tapping the @handle chip lands here) ──
+    var HUB_IC={
+      upcoming:'<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></svg>',
+      picks:'<svg viewBox="0 0 24 24"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>',
+      profile:'<svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>',
+      feed:'<svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>',
+      log:'<svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>',
+      out:'<svg viewBox="0 0 24 24"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/></svg>'
+    };
+    function hubRow(id, ic, t, d, cls){ return '<button class="hub-row '+(cls||'')+'" id="'+id+'" type="button"><span class="hr-ic">'+ic+'</span><span class="hr-tx"><span class="hr-t">'+t+'</span>'+(d?'<span class="hr-d">'+d+'</span>':'')+'</span><span class="hr-ch">&rsaquo;</span></button>'; }
+    // Account hub — Concept B: stat cards + action tiles + recent diary.
+    // Account = your own profile (same header + Shelves/Diary as /u/) plus a Settings
+    // tab and quick-action chips. Reuses shelfSecHTML/diaryTLHTML/wireShelfBody.
+    // Account = the profile page exactly + a settings gear in the corner + a
+    // "Coming up" banner (previews your next show) above the tabs.
+    function openAccount(initialTab){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('account');
+      openPanel('<div id="acc-body"><div class="empty">Loading…</div></div>');
+      var handle=currentUser.handle;
+      Promise.all([
+        authedFetch('/api/profile?handle='+encodeURIComponent(handle)).then(function(r){ return r.json(); }).catch(function(){ return null; }),
+        authedFetch('/api/upcoming').then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; })
+      ]).then(function(res){
+        var p=res[0]||{}; p.isMe=true; if(!p.handle) p.handle=handle; p.upcoming=res[1]||null;
+        var s=(p&&p.shelves)||{wannaSee:[],seen:[],events:[],venues:[]};
+        var ab=document.getElementById('acc-body'); if(!ab) return;
+        ab.innerHTML=pbProfileHTML(p);
+        wirePbProfile(p);
+        // entity-page sticky bar: your handle + back + a play button that starts your seen artists' radio
+        var accPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
+        armSticky('u/'+p.handle, accPlay, ab.querySelector('.pb-hero')||ab);
+      }).catch(function(){ var ab=document.getElementById('acc-body'); if(ab) ab.innerHTML='<div class="empty">Couldn&rsquo;t load your account.</div>'; });
+    }
+
+    // ════ Phase 3/4: profiles · feed · artist/venue · diary (account features) ════
+    // Profile / feed / artist / venue render as full-page views (not overlays).
+    var pageView=document.getElementById('page-view'), panelBody=null;
+    function showPage(html){
+      document.body.classList.remove('has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }   // reset the sticky title bar; entity pages re-arm it via armSticky
+      pageView.innerHTML='<div class="psticky" id="psticky"><div class="psticky-in"><button class="psticky-back" id="psticky-back" type="button" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button><span class="psticky-nm" id="psticky-nm"></span><button class="psticky-play" id="psticky-play" type="button" aria-label="Play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button></div></div><div id="page-body">'+html+'</div>';   // Spotify-style sticky bar: small back chevron + name + play (the page itself has no inline back button)
+      panelBody=document.getElementById('page-body');
+      var _psb=document.getElementById('psticky-back'); if(_psb) _psb.onclick=function(){ history.back(); };
+      document.body.classList.add('page-on');
+      pageView.hidden=false;
+      window.scrollTo(0,0);
+      if(typeof syncTabs==='function') setTimeout(syncTabs,0); // hash settles after setRoute
+    }
+    // hidePage is pure UI — it just shows the home grid. History is driven by
+    // setRoute (pushState) + goBack (history.back) + the popstate handler.
+    function hidePage(){
+      if(!document.body.classList.contains('page-on')) return;
+      document.body.classList.remove('page-on','has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }
+      pageView.hidden=true; pageView.innerHTML='';
+      resetSeo();
+      if(typeof syncTabs==='function') setTimeout(syncTabs,0);
+    }
+    // ── Spotify-style sticky title bar. armSticky(name, playFn, sentinel): fills the bar,
+    // un-sticks the global nav (body.has-psticky), and reveals the bar once `sentinel`
+    // (the hero's play button) scrolls above the top. playFn null → hide the play button.
+    var _psObs=null;
+    function armSticky(name, playFn, sentinel){
+      var ps=document.getElementById('psticky'); if(!ps) return;
+      var nm=document.getElementById('psticky-nm'), pb=document.getElementById('psticky-play');
+      if(nm) nm.textContent=name||'';
+      if(pb){ if(playFn){ pb.classList.remove('hidden'); pb.onclick=playFn; } else { pb.classList.add('hidden'); pb.onclick=null; } }
+      document.body.classList.add('has-psticky');
+      if(_psObs){ _psObs.disconnect(); _psObs=null; }
+      if(sentinel && 'IntersectionObserver' in window){
+        _psObs=new IntersectionObserver(function(es){ ps.classList.toggle('show', !es[0].isIntersecting); }, { threshold:0 });
+        _psObs.observe(sentinel);
+      } else { ps.classList.add('show'); }   // no observer/sentinel → just pin it
+    }
+    function armEventSticky(title){
+      var pb=document.getElementById('ev-playbill');
+      armSticky(title, pb?function(){ pb.click(); }:null, pb || document.querySelector('#page-body .ev-playbar') || document.getElementById('page-body'));
+    }
+    // ── per-page SEO: update <title> + meta description + JSON-LD live so the SPA
+    // (and any non-pre-rendered entity) carries the right tags. Static pre-rendered
+    // pages already bake these in; this keeps in-app navigation + social shares right.
+    var _seoDefaultTitle=document.title;
+    function _metaDesc(){ var m=document.querySelector('meta[name="description"]'); if(!m){ m=document.createElement('meta'); m.name='description'; document.head.appendChild(m); } return m; }
+    function _canonLink(){ var l=document.querySelector('link[rel="canonical"]'); if(!l){ l=document.createElement('link'); l.setAttribute('rel','canonical'); document.head.appendChild(l); } return l; }
+    function setSeo(title, desc, jsonld, canonical){
+      if(title) document.title=title;
+      if(desc!=null) _metaDesc().setAttribute('content', desc);
+      if(canonical) _canonLink().setAttribute('href', canonical);   // keep <link rel=canonical> in step with SPA nav
+      var s=document.getElementById('seo-jsonld'); if(s) s.remove();
+      if(jsonld){ s=document.createElement('script'); s.type='application/ld+json'; s.id='seo-jsonld'; s.textContent=JSON.stringify(jsonld); document.head.appendChild(s); }
+    }
+    // Home/city: canonical points back at the current city home (path-based).
+    function resetSeo(){ setSeo(_seoDefaultTitle, '', null, location.origin+(typeof cityPath==='function'?cityPath(currentCity):SC_BASE)); }
+    // The in-app "Back" steps one level through real history (matches the
+    // browser back button). At the app's first entry it lands on home.
+    function goBack(){ history.back(); }
+    // keep the old names so the render fns don't all change
+    function openPanel(html){ showPage(html); }
+    // Loading skeleton for full pages (artist/venue/event/profile) — reuses the .sk shimmer.
+    function pageSkeleton(){
+      var line=function(w,h,mb){ return '<div class="sk" style="width:'+w+';height:'+h+'px;border-radius:var(--radius-xs);margin-bottom:'+mb+'px"></div>'; };
+      return '<div style="padding:6px 0" aria-hidden="true">'+
+        '<div class="sk" style="width:84px;height:84px;border-radius:18px;margin-bottom:16px"></div>'+
+        line('55%',26,12)+line('85%',13,6)+line('60%',13,24)+
+        line('30%',16,14)+line('100%',46,10)+line('100%',46,10)+line('100%',46,10)+
+      '</div>';
+    }
+    // Venue DNA box — rendered synchronously from v.dna (folded into /api/venue),
+    // so it paints in place with the rest of the page. '' when there's nothing.
+    function dnaBoxHTML(j){
+      if(!j || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem && !(j.crowdTags||[]).length && !j.reviews)) return '';
+      var rows='';
+      // Derived tags (sceneTier/genre) + crowd-picked vibe tags, deduped (case-insensitive), capped.
+      var allTags=[], seenT={};
+      (j.tags||[]).concat(j.crowdTags||[]).forEach(function(t){ var k=String(t).toLowerCase(); if(!seenT[k]){ seenT[k]=1; allTags.push(t); } });
+      if(allTags.length) rows+='<div class="vd-tags">'+allTags.slice(0,6).map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
+      if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
+      if((j.genres||[]).length) rows+='<div class="vd-row"><span class="vd-k">Mostly</span><span>'+j.genres.slice(0,4).map(function(g){ return esc(g); }).join(', ')+'</span></div>';
+      if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
+      if(j.priceTier) rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.priceTier)+'</span></div>';
+      if(j.reviews){
+        rows+='<div class="vd-row"><span class="vd-k">Sound</span><span>'+j.reviews.sound+'/5 <span style="color:var(--muted)">· '+j.reviews.n+' been</span></span></div>';
+        if(j.reviews.crowd!=null) rows+='<div class="vd-row"><span class="vd-k">Crowd</span><span>'+j.reviews.crowd+'/5</span></div>';
+        if(j.reviews.goBack!=null) rows+='<div class="vd-row"><span class="vd-k">Return</span><span>'+j.reviews.goBack+'% <span style="color:var(--muted)">would go back</span></span></div>';
+      }
+      if((j.similar||[]).length) rows+='<div class="vd-row"><span class="vd-k">Similar</span><span class="vd-sim">'+j.similar.map(function(s){ return '<button class="vd-vlink" type="button" data-venue="'+esc(s.venue)+'">'+esc(s.venue)+'</button>'; }).join('')+'</span></div>';
+      var dnaNote=j.reviews?'Sound, crowd &amp; vibe from people who&rsquo;ve been; genres &amp; nights from what plays here.':'Derived from what plays here — sound &amp; crowd come from people who&rsquo;ve been.';
+      return '<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
+    }
+    // List skeletons for the full-body fetch pages (Coming up / Feed) — reserve
+    // approximate height so the body doesn't jump from a one-line "Loading…".
+    function cuSkeleton(){
+      var row='<li><span class="sk" style="flex:0 0 46px;width:46px;height:46px;border-radius:50%"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:48%;height:13px;border-radius:5px;margin-bottom:11px"></span><span class="sk" style="display:block;width:82%;height:11px;border-radius:5px;margin-bottom:8px"></span><span class="sk" style="display:block;width:64%;height:11px;border-radius:5px"></span></div></li>';
+      return '<ul class="cu-list cu-grid" aria-hidden="true">'+row+row+row+row+'</ul>';
+    }
+    function feedSkeleton(){
+      var row=function(w){ return '<div class="feed-row"><span class="sk" style="flex-shrink:0;width:30px;height:30px;border-radius:var(--radius-pill)"></span><div style="flex:1;min-width:0"><span class="sk" style="display:block;width:'+w+';height:13px;border-radius:5px;margin-bottom:7px"></span><span class="sk" style="display:block;width:34%;height:9px;border-radius:4px"></span></div></div>'; };
+      return '<div style="margin-top:8px" aria-hidden="true">'+row('72%')+row('58%')+row('66%')+row('50%')+row('63%')+'</div>';
+    }
+    // Blur-on-scroll header: frost the sticky top bar once the page scrolls (DS v2).
+    (function(){
+      var nav=document.querySelector('.wrap > nav'); if(!nav) return;
+      var on=false;
+      function tick(){ var s=(window.scrollY||document.documentElement.scrollTop)>6; if(s!==on){ on=s; nav.classList.toggle('scrolled', s); } }
+      window.addEventListener('scroll', tick, {passive:true});
+      tick();
+      // Expose the sticky nav's rendered height so in-page sticky bars (the event play
+      // bar) can pin just beneath it, correct across mobile/desktop + safe-area inset.
+      function setNavH(){ document.documentElement.style.setProperty('--navh', nav.offsetHeight+'px'); }
+      setNavH(); window.addEventListener('resize', setNavH, {passive:true});
+    })();
+    // Focus trap: keep Tab inside the active overlay (modal) so keyboard focus can't
+    // leak to the page behind. Covers static (.show) + dynamically-built overlays.
+    (function(){
+      function activeOverlay(){
+        var em=document.querySelector('.email-overlay'); if(em) return em;   // created on demand, no .show
+        var sh=document.querySelectorAll('.auth-overlay.show, .cal-overlay.show, .picks-tray-overlay.show');
+        return sh.length ? sh[sh.length-1] : null;
+      }
+      function tabbables(el){ return [].slice.call(el.querySelectorAll('a[href],button:not([disabled]),input:not([disabled]),select:not([disabled]),textarea:not([disabled]),[tabindex]:not([tabindex="-1"])')); }
+      document.addEventListener('keydown', function(e){
+        if(e.key!=='Tab') return;
+        var ov=activeOverlay(); if(!ov) return;
+        var f=tabbables(ov); if(!f.length) return;
+        var first=f[0], last=f[f.length-1], a=document.activeElement;
+        if(!ov.contains(a)){ e.preventDefault(); first.focus(); return; }
+        if(e.shiftKey && a===first){ e.preventDefault(); last.focus(); }
+        else if(!e.shiftKey && a===last){ e.preventDefault(); first.focus(); }
+      }, true);
+    })();
+    // ESC closes the top-most open popup/overlay only — it must NOT navigate a
+    // full page (profile/artist/venue/account) back to home. The static overlays
+    // (#auth-overlay, sheet, cal, the email gate) close via their own ESC
+    // listeners; this covers the dynamically-built auth overlays (handle / claim
+    // / night sign-in / share / taste card) that ship without one.
+    document.addEventListener('keydown',function(e){
+      if(e.key!=='Escape') return;
+      var pops=document.querySelectorAll('.auth-overlay.show');
+      for(var i=pops.length-1;i>=0;i--){
+        if(pops[i].id==='auth-overlay') continue;   // static modal self-handles
+        var btn=pops[i].querySelector('.auth-close');
+        if(btn){ btn.click(); } else { pops[i].remove(); }
+        return;                                      // only the top-most popup
+      }
+    });
+    function relTime(iso){ try{ var s=(Date.now()-new Date(iso).getTime())/1000; if(s<60)return'just now'; if(s<3600)return Math.floor(s/60)+'m ago'; if(s<86400)return Math.floor(s/3600)+'h ago'; return Math.floor(s/86400)+'d ago'; }catch(_){ return ''; } }
+    function av(handle){ return '<span class="fav" style="background-image:'+avatarBg(handle,null)+'"></span>'; }
+    // gradient artist tiles (reuse the poster hue hash)
+    function artGrad(s){ var h=((hashStr(String(s||'x'))%70)+330)%360; return 'linear-gradient(150deg,hsl('+h+' 62% 50%),hsl('+((h+22)%360)+' 42% 14%))'; }
+    function ptile(slug,name,seen,image,count){
+      var img=image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(image,300)+'" alt="" onerror="this.remove()">':'';
+      // "×N" = times seen live (from the gig diary); only shown for repeat catches (≥2).
+      var badge=(count&&count>=2)?'<span class="ptile-x" title="Seen '+count+' times">&times;'+count+'</span>':'';
+      return '<button class="ptile" data-artist="'+esc(slug)+'"><span class="ptile-imgwrap"><span class="ptile-img'+(image?' has-img':'')+'" style="background:'+artGrad(name||slug)+'">'+img+'</span>'+badge+'</span><span class="nm">'+esc(name||slug)+'</span></button>';
+    }
+    function hubTile(id,ic,t,d){ return '<button class="hub-tile" id="'+id+'" type="button"><span class="ic">'+ic+'</span><div class="t">'+t+'</div><div class="d">'+d+'</div></button>'; }
+
+    // ---- profile ----
+    // Tidy stat strip — numbers in the display font, muted labels, used on the
+    // profile + account headers.
+    // Evergreen diary stats — "your scene" (gigs, top venues/artists/genres).
+    // "Your scene" = a nightlife-passport stats panel (diary-derived). Ticket stub (nights
+    // logged) + sound passport (genres) + venue stamps (gig counts per venue) + a row of
+    // round artist bubbles (acts seen — avatars, no misleading per-artist counts) + serial.
+    function statLineHTML(seen, wanna, gigs, followers){
+      function unit(n, label){ return '<span><b>'+n+'</b> '+label+'</span>'; }
+      return '<div class="prof-statline">'+unit(seen,'seen')+unit(wanna,'wanna see')+unit(gigs,'gig'+(gigs===1?'':'s'))+unit(followers,'follower'+(followers===1?'':'s'))+'</div>';
+    }
+    // Shared shelf + diary renderers — used by the public profile AND the account
+    // page so they stay identical (DRY).
+    function shelfSecHTML(s, handle){
+      function radBtn(which){ var st='shelf:'+handle+':'+which; var on=(typeof radio!=='undefined'&&radio.on&&radio.station===st); return '<button class="ev-radio sec-radio" type="button" data-shelf-radio="'+which+'">'+RADIO_SVG+'<span>'+(on?'On air':'Radio')+'</span></button>'; }
+      // cap each shelf at 18 tiles; a "See more" pill reveals the rest in place (wired in wireShelfBody)
+      var SHELF_CAP=18;
+      function grid(list, seen, key){
+        if(!list.length) return '<div class="empty" style="padding:0 0 4px">Nothing yet.</div>';
+        var tiles=list.slice(0,SHELF_CAP).map(function(a){ return ptile(a.slug,a.name,seen,a.image); }).join('');
+        var more=list.length>SHELF_CAP ? '<button class="shelf-more" type="button" data-shelf-more="'+key+'">See more <span class="sm-n">'+(list.length-SHELF_CAP)+'</span></button>' : '';
+        return '<div class="ptiles ptiles-wide" id="shelf-grid-'+key+'">'+tiles+'</div>'+more;
+      }
+      var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+grid(s.wannaSee,false,'wanna');
+      x+='<div class="sec-h" style="margin-top:26px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+grid(s.seen,true,'seen');
+      // Saved events + following venues use the same poster / venue-card rails as the city
+      // scene page (mounted in wireShelfBody once the placeholders are in the DOM).
+      if(s.events && s.events.length){ x+='<div id="shelf-events"></div>'; }
+      if(s.venues && s.venues.length){ x+='<div id="shelf-venues"></div>'; }
+      return x;
+    }
+    function diaryValid(d){ return (d.artists||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a&&a.slug&&a.slug!=='-'&&n&&n!=='-'; }); }
+    function diaryArts(d){ return diaryValid(d).map(function(a){ return a.name||a.slug; }).join(', '); }
+    function diaryDateLabel(d){ return d.gig_date ? fmtDateLabel(String(d.gig_date).slice(0,10)) : ''; }
+    // Full gig-diary page: the profile ticket-stub (.pb-ds), enriched for the full
+    // view with artist tiles + note + delete. Same design language as the profile.
+    function diaryTLHTML(diary, isMe){
+      if(!diary.length){
+        return isMe
+          ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Add a night you went to &mdash; it builds your diary and taste profile.</p></div><span class="pb-prob-btn">Log a gig</span></button>'
+          : '<div class="empty">No gigs logged yet.</div>';
+      }
+      return '<div class="pb-stubs">'+diary.map(function(d){
+        var dt=d.gig_date?new Date(String(d.gig_date).slice(0,10)+'T12:00:00'):null;
+        var day=dt?String(dt.getDate()).padStart(2,'0'):'&ndash;', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'', yr=dt?dt.getFullYear():'';
+        var arts=diaryValid(d);
+        var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var city = d.city ? '<span class="pb-ds-city">'+esc(cityLabel(d.city))+'</span>' : '';
+        var ev = d.event_id ? '<a class="pb-ds-ev" data-event-id="'+esc(String(d.event_id))+'">view event &rsaquo;</a>' : '';
+        var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
+        var tiles = arts.length ? '<div class="ptiles ptiles-wide">'+arts.map(function(a){ return ptile(a.slug, a.name||a.slug, false, a.image); }).join('')+'</div>' : '';
+        var note = d.note?'<div class="pb-ds-note">'+esc(d.note)+'</div>':'';
+        return '<div class="pb-ds"><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div>'+(yr?'<div class="pb-ds-y">'+yr+'</div>':'')+'</div><div class="pb-ds-body"><div class="pb-ds-venue">'+vn+city+ev+del+'</div>'+tiles+note+'</div></div>';
+      }).join('')+'</div>';
+    }
+    // Wire a rendered diary: artist tiles → artist page, venue → venue page, and
+    // (own diary only) the × → delete, then re-render via onChange.
+    function wireDiary(scope, isMe, onChange){
+      if(!scope) return;
+      scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      scope.querySelectorAll('[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+      scope.querySelectorAll('[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
+      if(isMe) scope.querySelectorAll('[data-del]').forEach(function(b){ b.addEventListener('click',function(e){
+        e.stopPropagation(); var id=b.dataset.del; if(!id) return;
+        if(!confirm('Remove this gig from your diary?')) return;
+        b.disabled=true;
+        authedFetch('/api/diary/delete',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ id:id }) })
+          .then(function(r){ if(!r.ok) throw 0; showToast('Removed from your diary'); if(onChange) onChange(); })
+          .catch(function(){ b.disabled=false; showToast('Couldn’t remove that.'); });
+      }); });
+    }
+    function wireShelfBody(body, s, handle){
+      body.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+      // "See more" → render the rest of that shelf in place, wire the new tiles, drop the pill
+      body.querySelectorAll('[data-shelf-more]').forEach(function(b){ b.addEventListener('click',function(){
+        var key=b.dataset.shelfMore, list=key==='wanna'?s.wannaSee:s.seen, seen=(key==='seen');
+        var grid=document.getElementById('shelf-grid-'+key); if(!grid) return;
+        grid.innerHTML=list.map(function(a){ return ptile(a.slug,a.name,seen,a.image); }).join('');
+        grid.querySelectorAll('[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ openArtist(t.dataset.artist); }); });
+        b.remove();
+      }); });
+      // Saved events → poster rail; following venues → venue-card rail (city-scene look)
+      var evBox=body.querySelector('#shelf-events');
+      if(evBox && s.events && s.events.length) mountEventRail(evBox, s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), { title:'Saved events', count:s.events.length, mt:'22px' });
+      var vnBox=body.querySelector('#shelf-venues');
+      if(vnBox && s.venues && s.venues.length) mountVenueRail(vnBox, s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), { title:'Following venues', count:s.venues.length, mt:'22px' });
+      body.querySelectorAll('[data-shelf-radio]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var w=b.dataset.shelfRadio; startListRadio(w==='wanna'?s.wannaSee:s.seen, 'shelf:'+handle+':'+w).then(function(){ var st='shelf:'+handle+':'+w; var sp=b.querySelector('span'); if(sp) sp.textContent=(radio.on&&radio.station===st)?'On air':'Radio'; }); }); });
+    }
+    // ══════════════ Profile v2 — share-first "passport" (pb) ══════════════
+    // The boarding-pass taste card is the hero; the four stat tiles double as
+    // nav into Diary / Seen / Wanna / Venues; logging is framed as "growing your
+    // card". Every value on the card is derived from the user's real picks +
+    // logged diary — no invented stats (BPM, percentiles, etc.).
+    var TC_PLANE='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L11 19v-5.5z"/></svg>';
+    var TC_CHECK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>';
+    function tcInitials(n){ n=String(n||''); var m=n.replace(/[^A-Za-z ]/g,'').trim().split(/\s+/).filter(Boolean); return (m.slice(0,2).map(function(w){return w[0];}).join('')||n.slice(0,2)).toUpperCase(); }
+    function tcBub(a){ var nm=(a&&(a.name||a.slug))||''; return a&&a.image ? '<span class="tb-ab" style="background-image:url('+imgUrl(a.image,90)+');background-size:cover;background-position:center"></span>' : '<span class="tb-ab" style="background:'+artGrad(nm)+'">'+esc(tcInitials(nm))+'</span>'; }
+    function tcCityCode(c){ c=String(c||'').replace(/[^A-Za-z]/g,''); return c?c.slice(0,3).toUpperCase():'•••'; }
+    function tasteCardHTML(p){
+      // A clean, minimal soundcheck card — NOT a boarding pass. No admit-one /
+      // season / serial / flight-route / "room" / resident stamp, and no guessed
+      // home city (that belongs in onboarding). Everything here is real data.
+      var s=p.shelves||{wannaSee:[],seen:[],events:[],venues:[]}, st=p.stats||{}, diary=p.diary||[];
+      var handle=p.handle, name=esc(p.displayName||('u/'+handle)), yr=String(new Date().getFullYear());
+      var gigs=st.gigs||diary.length||0, thisY=st.thisYear||0;
+      var genres=st.topGenres||[], venues=st.topVenues||[], lead=genres[0]||'', hv=venues[0];
+      var seenA=s.seen||[], SHOWB=10;
+      var bubbles=seenA.slice(0,SHOWB).map(function(a){ return '<div class="tb-abub" data-artist="'+esc(a.slug||'')+'">'+tcBub(a)+'<span class="tb-abn">'+esc(a.name||a.slug)+'</span></div>'; }).join('')
+        + (seenA.length>SHOWB?'<div class="tb-abub tb-abmore"><span class="tb-ab tb-abx">+'+(seenA.length-SHOWB)+'</span><span class="tb-abn">more</span></div>':'');
+      var qr=API_BASE+'/api/qr?u='+encodeURIComponent(handle), avbg=avatarBg(handle,p.avatar);
+      var home=st.homeCity?cityLabel(st.homeCity):'';
+      var facts=(lead?'<div class="tb-fact"><span class="tb-lbl">Top genre</span><b class="tb-fv tb-lead">'+esc(lead)+'</b></div>':'')
+        +(hv?'<div class="tb-fact"><span class="tb-lbl">Home venue</span><b class="tb-fv">'+esc(hv.venue)+' <small>×'+hv.n+'</small></b></div>':'');
+      return '<div class="tb-pass tb-card">'+
+        '<div class="tb-main">'+
+          '<div class="tb-head"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-hid"><div class="tb-name">'+name+'</div>'+(home?'<div class="tb-hsub">Based in '+esc(home)+'</div>':'')+'</div><span class="tb-season">'+yr+' season</span></div>'+
+          '<div class="tb-big"><div class="tb-bignum">'+gigs+'</div><div class="tb-bigu">nights logged'+(thisY?' · '+thisY+' this year':'')+'</div></div>'+
+          '<div class="tb-counts"><div><b>'+(s.wannaSee||[]).length+'</b><span>wanna see</span></div><div><b>'+seenA.length+'</b><span>seen live</span></div><div><b>'+(s.venues||[]).length+'</b><span>venues</span></div></div>'+
+          (facts?'<div class="tb-facts">'+facts+'</div>':'')+
+          (seenA.length?'<div class="tb-artists"><div class="tb-arth"><span class="tb-lbl">Acts seen</span><span class="tb-artn">'+seenA.length+' total</span></div><div class="tb-abubs">'+bubbles+'</div></div>':'')+
+          '<div class="tb-foot"><div class="tb-qrwrap"><div class="tb-qr"><img class="tb-qr-img" src="'+qr+'" alt="Scan to follow @'+esc(handle)+'" loading="lazy"></div><div class="tb-qrtxt"><span class="tb-lbl">Scan to follow</span><b>Join soundcheck</b><span class="tb-qrurl">/u/'+esc(handle)+'</span></div></div></div>'+
+        '</div>'+
+      '</div>';
+    }
+    function pbStubHTML(d){
+      var dt=d.gig_date?new Date(String(d.gig_date).slice(0,10)+'T12:00:00'):null;
+      var day=dt?String(dt.getDate()).padStart(2,'0'):'–', mon=dt?dt.toLocaleDateString('en-GB',{month:'short'}):'';
+      var arts=(typeof diaryValid==='function')?diaryValid(d):(d.artists||[]);
+      var names=arts.slice(0,4).map(function(a){return a.name||a.slug;}).join(' · ')+(arts.length>4?' +'+(arts.length-4):'');
+      var evl = d.event_id ? '<a class="pb-ds-ev" data-event-id="'+esc(String(d.event_id))+'">view event ›</a>' : '';
+      var cty = d.city ? '<span class="pb-ds-city">'+esc(cityLabel(d.city))+'</span>' : '';
+      return '<div class="pb-ds"'+(d.venue?' data-venue="'+esc(d.venue)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-venue">'+(d.venue?esc(d.venue):'Gig')+cty+evl+'</div><div class="pb-ds-line">'+esc(names||'—')+'</div></div></div>';
+    }
+    // The taste card is now a SHARE OUTPUT (not on the page) — pop it as a
+    // screenshot-ready modal + copy-link.
+    function pbShareCard(p){
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="rc-box tc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="pb-hero">'+tasteCardHTML(p)+'</div>'+
+        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="tc-copy" type="button"><i class="ti ti-copy" aria-hidden="true"></i> Copy link</button><span class="rc-hint">Screenshot to share your card</span></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      ov.querySelectorAll('.tb-abub[data-artist]').forEach(function(b){ if(b.dataset.artist) b.addEventListener('click',function(){ ov.remove(); openArtist(b.dataset.artist); }); });
+      ov.querySelector('#tc-copy').addEventListener('click',function(){ var url='soundcheck.club/u/'+p.handle, full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
+    }
+    // ── "In rotation": a curated, manually-ordered DJ shelf with playable sets ──
+    var pbRot=[], pbRotMe=false;
+    function pbRotationHTML(p){
+      var isMe=p.isMe, rot=p.rotation||[];
+      if(!isMe && !rot.length) return '';   // visitors see nothing when it's empty
+      var who=isMe?'you’re':(esc(p.displayName||('u/'+p.handle))+'’s ears are');
+      var head='<div class="pb-rot-head"><div class="pb-rot-tt"><h3 class="pb-rot-title">Now Playing</h3><p class="pb-rot-sub">Who '+who+' listening to right now</p></div><div class="pb-rot-acts">'+
+        (rot.length?'<button class="pb-rot-btn pb-rot-acc" id="pb-rot-playall" type="button"><i class="ti ti-player-play" aria-hidden="true"></i> Play all</button>':'')+
+        (isMe?'<button class="pb-rot-btn gh" id="pb-rot-add" type="button"><i class="ti ti-plus" aria-hidden="true"></i> Add DJ</button>':'')+
+        '<button class="pb-rot-btn gh" id="pb-rot-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>'+
+      '</div></div>';
+      return '<div class="pb-rot" id="pb-rot"><div class="pb-rot-inner">'+head+'<div class="pb-rot-rail" id="pb-rot-rail"></div></div></div>';
+    }
+    function rotDiscHTML(v,i){
+      var img=v.image?('background-image:url('+imgUrl(v.image,160)+')'):('background:'+sceneTone(v.slug));
+      // Owner gets a small ✕ to remove; everyone gets the play affordance on hover.
+      var rm = pbRotMe ? '<button class="pb-rot-x" type="button" data-rmi="'+i+'" aria-label="Remove '+esc(v.name||v.slug)+'"><i class="ti ti-x"></i></button>' : '';
+      return '<div class="pb-rot-disc" data-slug="'+esc(v.slug)+'" data-name="'+esc(v.name||v.slug)+'"><span class="pb-rot-av" style="'+img+'"><span class="pb-rot-play" aria-hidden="true"><i class="ti ti-player-play"></i></span>'+rm+'</span><span class="pb-rot-nm">'+esc(v.name||v.slug)+'</span></div>';
+    }
+    function renderRotRail(){
+      var rail=document.getElementById('pb-rot-rail'); if(!rail) return;
+      if(!pbRot.length){
+        rail.innerHTML = pbRotMe ? '<div class="pb-rot-empty"><i class="ti ti-disc" style="font-size:24px" aria-hidden="true"></i><div><b>Start your Now Playing list</b><span>Add the DJs you’re into &mdash; friends can play their sets from your profile.</span></div><button class="pb-rot-btn pb-rot-acc" id="pb-rot-add2" type="button"><i class="ti ti-plus"></i> Add a DJ</button></div>' : '';
+        var a2=document.getElementById('pb-rot-add2'); if(a2) a2.addEventListener('click',function(){ openRotationAdd(); });
+        return;
+      }
+      rail.innerHTML=pbRot.map(rotDiscHTML).join('')+(pbRotMe?'<button class="pb-rot-disc pb-rot-adddisc" id="pb-rot-adddisc" type="button"><span class="pb-rot-av add"><i class="ti ti-plus"></i></span><span class="pb-rot-nm">Add</span></button>':'');
+      rail.querySelectorAll('.pb-rot-disc[data-slug]').forEach(function(d){ d.addEventListener('click',function(e){ if(e.target.closest('.pb-rot-x')) return; playArtistSets(d.dataset.slug, d.dataset.name); }); });
+      rail.querySelectorAll('[data-rmi]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); pbRot.splice(+b.dataset.rmi,1); rotationSave(); }); });
+      var ad=document.getElementById('pb-rot-adddisc'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
+    }
+    function rotationSave(){
+      renderRotRail(); // optimistic
+      authedFetch('/api/rotation',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({slugs:pbRot.map(function(x){return x.slug;})})})
+        .then(function(r){ return r.json(); }).then(function(j){ if(j&&j.ok&&Array.isArray(j.rotation)){ pbRot=j.rotation; renderRotRail(); } }).catch(function(){});
+    }
+    function wireRotation(p){
+      if(!document.getElementById('pb-rot')) return;
+      pbRot=(p.rotation||[]).slice(); pbRotMe=!!p.isMe;
+      renderRotRail();
+      var pa=document.getElementById('pb-rot-playall'); if(pa) pa.addEventListener('click',function(){ rotationPlayAll(pbRot); });
+      var sh=document.getElementById('pb-rot-share'); if(sh) sh.addEventListener('click',function(){ shareRotationCard(p); });
+      var ad=document.getElementById('pb-rot-add'); if(ad) ad.addEventListener('click',function(){ openRotationAdd(); });
+    }
+    async function rotationPlayAll(list){
+      list=(list||pbRot).filter(function(x){ return x&&x.slug; });
+      if(!list.length) return;
+      showToast('Cueing up '+list.length+' DJ'+(list.length>1?'s':'')+'…');
+      var lists=await Promise.all(list.map(function(v){ return fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(v.slug)+'&name='+encodeURIComponent(v.name||v.slug)).then(function(r){return r.json();}).then(function(j){ return ((j&&j.sets)||[]).slice(0,2).map(function(s){ return {slug:v.slug,name:v.name||v.slug,videoId:s.videoId}; }); }).catch(function(){ return []; }); }));
+      var q=[].concat.apply([],lists);
+      if(!q.length){ showToast('No sets found.'); return; }
+      playYtList(q,0);
+    }
+    function openRotationAdd(){
+      if(!currentUser){ openAuth(); return; }
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box" style="max-width:440px"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">Now Playing</div><h3>Add a DJ</h3><p style="margin:6px 0 14px;color:var(--muted)">Search the DJs you&rsquo;re listening to &mdash; they show on your profile with their sets ready to play.</p>'+
+        '<div class="sg-wrap"><input id="rota-in" type="text" placeholder="Search artists&hellip;" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="rota-drop"></div></div>'+
+        '<div class="to-chips" id="rota-chips" style="margin-top:14px"></div>'+
+        '<button class="go" id="rota-done" type="button" style="margin-top:16px">Done</button></div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      function redraw(){ ov.querySelector('#rota-chips').innerHTML=pbRot.map(function(v){ return '<span class="to-chip">'+esc(v.name||v.slug)+'</span>'; }).join(''); }
+      redraw();
+      var input=ov.querySelector('#rota-in');
+      attachSuggest(input, ov.querySelector('#rota-drop'),
+        function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return {slug:a.slug,name:a.name,label:esc(a.name)}; }); }); },
+        function(pick){ if(pick&&pick.slug && !pbRot.some(function(x){return x.slug===pick.slug;})){ pbRot.push({slug:pick.slug,name:pick.name,image:null}); rotationSave(); redraw(); } input.value=''; });
+      ov.querySelector('#rota-done').addEventListener('click',function(){ ov.remove(); });
+    }
+    // Standalone shareable rotation page — /u/<handle>/rotation.
+    // A screenshot-ready "in rotation" share card (its own card, not a page).
+    function rotationCardHTML(p){
+      var rot=(pbRot&&pbRot.length)?pbRot:(p.rotation||[]);
+      var handle=p.handle, name=esc(p.displayName||('u/'+handle)), avbg=avatarBg(handle,p.avatar);
+      var qr=API_BASE+'/api/qr?u='+encodeURIComponent(handle);
+      var discs=rot.slice(0,9).map(function(v){ var img=v.image?('background-image:url('+imgUrl(v.image,180)+')'):('background:'+sceneTone(v.slug)); return '<div class="rc-disc"><span class="rc-av" style="'+img+'"></span><span class="rc-nm">'+esc(v.name||v.slug)+'</span></div>'; }).join('');
+      return '<div class="rc-card" id="rc-card">'+
+        '<div class="rc-top"><span class="rc-me" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="rc-hid"><div class="rc-eyebrow">Now Playing</div><div class="rc-name">'+name+'</div></div><span class="rc-brand">soundcheck</span></div>'+
+        (rot.length?'<div class="rc-grid">'+discs+'</div>':'<div class="empty" style="padding:14px 0">No DJs in rotation yet.</div>')+
+        '<div class="rc-foot"><span class="rc-qr"><img src="'+qr+'" alt=""></span><div class="rc-ftx"><b>Scan to follow</b><span>soundcheck.club/u/'+esc(handle)+'</span></div></div>'+
+      '</div>';
+    }
+    function shareRotationCard(p){
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="rc-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        rotationCardHTML(p)+
+        '<div class="rc-actions"><button class="pb-rot-btn pb-rot-acc" id="rc-copy" type="button"><i class="ti ti-copy" aria-hidden="true"></i> Copy link</button><span class="rc-hint">Screenshot to share your rotation</span></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      ov.querySelector('#rc-copy').addEventListener('click',function(){ var url='soundcheck.club/u/'+p.handle, full='https://'+url; if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(full).then(function(){ showToast('Link copied — '+url); }).catch(function(){ showToast(full); }); } else showToast(full); });
+    }
+    // Sidebar + feed layout: full taste card + actions pinned left, all sections
+    // (rotation → diary → wanna → seen → venues) stacked as a clean feed on the right.
+    // Spotify/Tidal-style: colour hero (avatar-toned gradient) + horizontal rails.
+    // The taste card is no longer on the page — it's a share output (pbShareCard).
+    // Boxed profile — every block a card in the app's design system, generous
+    // spacing, one button style. Identity card (with Log a gig) → In rotation →
+    // Gig diary → Seen live → Wanna see → Venues → Saved events.
+    function pbProfileHTML(p){
+      var isMe=p.isMe, s=p.shelves||{}, st=p.stats||{};
+      var nights=st.gigs||(p.diary||[]).length||0, fol=p.followers||0;
+      var bits=[nights+' night'+(nights===1?'':'s'), fol+' follower'+(fol===1?'':'s'), (s.seen||[]).length+' seen live'];
+      if(st.homeCity) bits.push(cityLabel(st.homeCity));
+      var acts = isMe
+        ? '<button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button><button class="pf-btn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'   // Log a gig lives in the diary box below — no need to repeat it here
+        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>';
+      return '<div class="pf">'+
+        '<div class="pf-box pf-id">'+
+          '<div class="pf-id-top"><span class="pf-av" style="background-image:'+avatarBg(p.handle,p.avatar)+';background-size:cover;background-position:center"></span>'+
+            '<div style="min-width:0"><div class="pf-id-name">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="pf-id-stats">'+esc(bits.join(' · '))+'</div></div></div>'+
+          '<div class="pf-id-acts">'+acts+'</div>'+
+        '</div>'+
+        pbRotationHTML(p)+
+        '<div class="pf-cols">'+
+          '<div class="pf-box" id="pf-diary"></div>'+
+          pfComingHTML(p)+
+          '<div class="pf-box" id="pf-seen"></div>'+
+          '<div class="pf-box" id="pf-wanna"></div>'+
+          '<div class="pf-box" id="pf-venues"></div>'+
+          '<div class="pf-box" id="pf-events"></div>'+
+        '</div>'+
+      '</div>';
+    }
+    function pfHead(title, count, actHtml){ return '<div class="pf-h"><span class="pf-h-t">'+esc(title)+'</span>'+(count!=null?'<span class="pf-h-ct">'+count+'</span>':'')+(actHtml||'')+'</div>'; }
+    // "Coming up" — the owner's followed artists' next gigs, flattened + sorted by date.
+    // Reuses the diary ticket-stub (.pb-ds) as a tappable row. Own profile only (needs p.upcoming).
+    function pfComingHTML(p){
+      if(!p.isMe) return '';
+      // /api/upcoming returns three lists — wanna-see artists' gigs, nights at venues you
+      // follow, and friends' interests. Flatten ALL of them (deduped by event) so the section
+      // isn't empty when your upcoming comes from venue-follows rather than hearted artists.
+      var up=p.upcoming||{}, rows=[], seen={};
+      function add(list, kind){ (list||[]).forEach(function(e){ (e.gigs||[]).forEach(function(g){
+        if(!g||!g.event_date) return;
+        var id = g.id!=null ? String(g.id) : null;
+        var key = id || (kind+'|'+String(g.event_date)+'|'+(g.venue||''));
+        var label = kind==='artist' ? (e.name||e.slug) : (g.title || g.venue || 'Club night');
+        if(seen[key]){ if(kind==='artist' && seen[key].kind!=='artist'){ seen[key].act=label; seen[key].kind='artist'; } return; }   // an event via a wanna-see artist wins the "act" label over a venue night
+        var r={ date:String(g.event_date).slice(0,10), act:label, kind:kind, venue:g.venue||'', city:g.city||'', id:id };
+        seen[key]=r; rows.push(r);
+      }); }); }
+      add(up.artists,'artist'); add(up.venues,'venue');   // your direct follows; friends' interests stay on the See-all page
+      if(!rows.length) return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', 0, '')+'<div class="empty" style="padding:2px">Nothing from your follows yet — heart artists and follow venues to catch their next gigs.</div></div>';
+      rows.sort(function(x,y){ return x.date.localeCompare(y.date); });   // soonest first
+      var act = rows.length>5 ? '<button class="pf-h-act" id="pf-cu-all" type="button">See all ›</button>' : '';
+      var body=rows.slice(0,5).map(function(r){
+        var dt=new Date(r.date+'T12:00:00');
+        var day=String(dt.getDate()).padStart(2,'0'), mon=dt.toLocaleDateString('en-GB',{month:'short'});
+        var subParts=[]; if(r.venue && r.venue!==r.act) subParts.push(r.venue); if(r.city) subParts.push(cityLabel(r.city));
+        var sub=subParts.join(' · ');
+        return '<button class="pb-ds pf-cu-row" type="button"'+(r.id?' data-cu-ev="'+esc(r.id)+'"':'')+'><div class="pb-ds-date"><div class="pb-ds-d">'+day+'</div><div class="pb-ds-m">'+esc(mon)+'</div></div><div class="pb-ds-body"><div class="pb-ds-line">'+esc(r.act)+'</div>'+(sub?'<div class="pb-ds-tags">'+esc(sub)+'</div>':'')+'</div></button>';
+      }).join('');
+      return '<div class="pf-box" id="pf-coming">'+pfHead('Coming up', rows.length, act)+'<div class="pb-stubs" style="margin-top:12px">'+body+'</div></div>';
+    }
+    function pfDiaryHTML(p){
+      var diary=p.diary||[], isMe=p.isMe, gigs=(p.stats&&p.stats.gigs)||diary.length||0;
+      var head=pfHead('Gig diary', gigs, diary.length>4?'<button class="pf-h-act" id="pf-seeall" type="button">See all ›</button>':'');
+      if(!diary.length) return head+(isMe?'<button class="pf-btn primary" id="pf-log2" type="button" style="width:100%"><i class="ti ti-plus" aria-hidden="true"></i> Log your first gig</button>':'<div class="empty" style="padding:2px">No gigs logged yet.</div>');
+      return head+'<div class="pf-stubs">'+diary.slice(0,4).map(pbStubHTML).join('')+'</div>'+(isMe?'<button class="pf-btn primary" id="pf-log2" type="button" style="width:100%;margin-top:14px"><i class="ti ti-plus" aria-hidden="true"></i> Log a gig</button>':'');
+    }
+    function pfShelfHTML(id, title, list, seen){
+      var CAP=18, head=pfHead(title, list.length, '');
+      var tiles=list.slice(0,CAP).map(function(a){ return ptile(a.slug,a.name,seen,a.image,seen?a.count:0); }).join('');
+      var more=list.length>CAP?'<button class="pf-more" type="button" data-pfmore="'+id+'">See '+(list.length-CAP)+' more</button>':'';
+      return head+'<div class="pf-grid" id="pf-grid-'+id+'">'+tiles+'</div>'+more;
+    }
+    function wirePbProfile(p){
+      var s=p.shelves||{}, isMe=p.isMe, diary=p.diary||[];
+      wireProfile();
+      wireRotation(p);
+      var sh=document.getElementById('pb-share'); if(sh) sh.addEventListener('click',function(){ pbShareCard(p); });
+      // Coming up: wire rows + See-all. openAccount prefetches /api/upcoming, but openProfile
+      // (/u/<me>) does NOT — so when it's missing (own profile via that path, or a failed
+      // prefetch), fetch it here and refill the box. Makes the section work from EVERY entry point.
+      function wireComing(){
+        document.querySelectorAll('#pf-coming .pf-cu-row[data-cu-ev]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.cuEv) openEvent(b.dataset.cuEv); }); });
+        var cua=document.getElementById('pf-cu-all'); if(cua) cua.addEventListener('click',function(){ openUpcoming(); });
+      }
+      wireComing();
+      if(isMe && !p.upcoming){
+        authedFetch('/api/upcoming').then(function(r){ return r.ok?r.json():null; }).then(function(u){
+          if(!u) return; p.upcoming=u; var box=document.getElementById('pf-coming');
+          if(box){ box.outerHTML=pfComingHTML(p); wireComing(); }
+        }).catch(function(){});
+      }
+      var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
+        { label:'Change handle', run:function(){ openHandleModal(true); } },
+        { label:'Change home city', run:function(){ openCityModal(true); } },
+        { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
+        { label:'Add an event', run:function(){ openImport(); } },
+        { label:'Feed', run:function(){ openFeed(); } },
+        { label:'Sign out', run:function(){ signOut(); } }
+      ]}); });
+      // Gig diary box
+      var db=document.getElementById('pf-diary');
+      if(db){ if(isMe || diary.length){ db.innerHTML=pfDiaryHTML(p);
+        db.querySelectorAll('.pb-ds[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+        db.querySelectorAll('.pb-ds-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); if(b.dataset.eventId) openEvent(b.dataset.eventId); }); });
+        var l2=document.getElementById('pf-log2'); if(l2) l2.addEventListener('click',function(){ openLog(); });
+        var sa=document.getElementById('pf-seeall'); if(sa) sa.addEventListener('click',function(){ openDiaryPage(p.handle, isMe); });
+      } else db.remove(); }
+      // Seen live / Wanna see boxes (spacious grids)
+      function shelfBox(id, title, list, seen){
+        var el=document.getElementById(id); if(!el) return;
+        if(!list||!list.length){ if(isMe){ el.innerHTML=pfHead(title, 0, '')+'<div class="empty" style="padding:2px">Nothing here yet.</div>'; } else el.remove(); return; }
+        el.innerHTML=pfShelfHTML(id, title, list, seen);
+        function wireTiles(scope){ scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); }); }
+        wireTiles(el);
+        var mb=el.querySelector('[data-pfmore]'); if(mb) mb.addEventListener('click',function(){ var g=document.getElementById('pf-grid-'+id); if(g){ g.innerHTML=list.map(function(a){ return ptile(a.slug,a.name,seen,a.image,seen?a.count:0); }).join(''); wireTiles(g); } mb.remove(); });
+      }
+      shelfBox('pf-seen','Seen live', s.seen, true);
+      shelfBox('pf-wanna','Wanna see', s.wannaSee, false);
+      // Venues you follow + Saved events (own boxes, rail inside)
+      var vb=document.getElementById('pf-venues');
+      if(vb){ if(s.venues&&s.venues.length){ vb.innerHTML=pfHead('Venues you follow', s.venues.length, '')+'<div id="pf-vr"></div>'; mountVenueRail(document.getElementById('pf-vr'), s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), {}); } else vb.remove(); }
+      var eb=document.getElementById('pf-events');
+      if(eb){ if(s.events&&s.events.length){ eb.innerHTML=pfHead('Saved events', s.events.length, '')+'<div id="pf-er"></div>'; mountEventRail(document.getElementById('pf-er'), s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), {}); } else eb.remove(); }
+    }
+    async function openProfile(handle){
+      setRoute('u/'+handle);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/profile?handle='+encodeURIComponent(handle));
+        if(r.status===404){ openPanel('<div class="empty">No soundcheck user u/'+esc(handle)+'.</div>'); return; }
+        var p=await r.json();
+        var s=p.shelves||{wannaSee:[],seen:[],events:[],venues:[]};
+        if(p.locked){ openPanel('<div class="pb-root"><div class="pb-cover"><div class="pb-brand"><b>soundcheck</b> · passport</div></div><div class="empty" style="margin-top:18px">u/'+esc(p.handle)+'’s passport is private.</div></div>'); wireProfile(); armSticky(p.displayName||('u/'+p.handle), null, (panelBody&&panelBody.querySelector('.pb-cover'))||document.getElementById('page-body')); return; }
+        openPanel(pbProfileHTML(p));
+        wirePbProfile(p);
+        // entity-page sticky bar: username + back + a play button that starts the seen artists' radio
+        var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
+        armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pf-id'))||document.getElementById('page-body'));
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
+    }
+    // Full gig-diary page — every logged night as the timeline (spine + venue +
+    // date + artist tiles + note), reached from the dashboard's "See all" pill.
+    // Own diary gets a Log-a-gig action and per-row delete (via wireDiary).
+    async function openDiaryPage(handle, isMe){
+      handle = handle || (currentUser && currentUser.handle);
+      if(!handle){ openAuth(); return; }
+      var mine = (isMe!=null) ? !!isMe : !!(currentUser && currentUser.handle===handle);
+      setRoute(mine ? 'diary' : 'diary/'+handle);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/profile?handle='+encodeURIComponent(handle));
+        if(!r.ok){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); return; }
+        var p=await r.json();
+        mine = mine || p.isMe;
+        var diary=(p&&p.diary)||[], s=(p&&p.shelves)||{};
+        var nm = p.displayName||('u/'+handle);
+        var logBtn = mine ? '<button class="pf-btn primary" id="diary-log" type="button" style="margin-left:auto">Log a gig</button>' : '';
+        // breadcrumb back to the profile so the diary never feels like a floating page
+        var CHV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>';
+        var bc='<button class="diary-bc" type="button" id="diary-bc">'+CHV+'<span>'+esc(mine?'Your profile':nm)+'</span></button>';
+        var body='<div class="pd-page diary-page" style="max-width:760px">'+bc+
+          '<div class="pb-p-head" style="margin-top:6px"><span class="pb-p-title">Gig diary</span><span class="pb-p-count">'+diary.length+' '+(diary.length===1?'STUB':'STUBS')+'</span>'+logBtn+'</div>'+
+          diaryTLHTML(diary, mine)+'</div>';
+        openPanel(body);
+        wireDiary(panelBody, mine, function(){ openDiaryPage(handle, mine); });
+        ['diary-log','diary-log2'].forEach(function(id){ var b=document.getElementById(id); if(b) b.addEventListener('click',function(){ openLog(); }); });
+        var bcb=document.getElementById('diary-bc'); if(bcb) bcb.addEventListener('click',function(){ if(mine) openAccount(); else openProfile(handle); });
+        // entity-page sticky bar: name + back + play the seen artists' radio
+        var play=(s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+handle+':seen'); } : null;
+        armSticky((p.displayName||('u/'+handle))+' · gig diary', play, (panelBody&&panelBody.querySelector('.pb-p-head'))||document.getElementById('page-body'));
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that diary.</div>'); }
+    }
+    function wireProfile(){
+      var fb=document.getElementById('follow-btn');
+      if(fb) fb.addEventListener('click',async function(){
+        if(!currentUser){ openAuth(); return; }
+        var on=fb.classList.contains('following');
+        fb.classList.toggle('following'); fb.textContent=on?'Follow':'Following';
+        try{ await authedFetch(on?'/api/unfollow':'/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:fb.dataset.handle}) }); }catch(_){}
+      });
+    }
+    function diaryListHTML(rows, isMe){
+      return '<ul class="tray-line">'+rows.map(function(d){
+        var dl=diaryDateLabel(d), arts=diaryArts(d);
+        var vn = d.venue ? '<button class="dv-venue" type="button" data-venue="'+esc(d.venue)+'">'+esc(d.venue)+'</button>' : 'Gig';
+        var del = (isMe && d.id!=null) ? '<button class="dv-del" type="button" data-del="'+esc(String(d.id))+'" aria-label="Remove gig">&times;</button>' : '';
+        return '<li><span class="open-ev">'+vn+(dl?(' <small>'+esc(dl)+'</small>'):'')+'<br><small>'+esc(arts)+(d.note?(' — '+esc(d.note)):'')+'</small></span>'+del+'</li>';
+      }).join('')+'</ul>';
+    }
+
+    // ---- feed ----
+    // Coming up — one compact row per entity (artist / venue / friend) with its
+    // next few gigs stacked beside it, like the artist-page "Past sets". Sections
+    // run Artists → Venues → Friends down a single scrolling page.
+    // Coming up — entity rows (Artists / Venues / Friends) under a date scope bar
+    // (Today · Week · Month · All) + a "jump to date" anchor. Windowed scopes hit
+    // /api/upcoming?from=&to= (every gig in range); "All" is the default
+    // next-from-today feed. Rows go two-up on desktop, single column on mobile.
+    var upS=null; // { scope, anchor (YYYY-MM-DD), tab }
+    function isoPlus(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return d.toISOString().slice(0,10); }
+    function isoWeekStart(iso){ var d=new Date(iso+'T12:00:00'); var dow=(d.getDay()+6)%7; d.setDate(d.getDate()-dow); return d.toISOString().slice(0,10); }
+    function isoMonthRange(iso){ var d=new Date(iso+'T12:00:00'), f=function(x){ return x.getFullYear()+'-'+('0'+(x.getMonth()+1)).slice(-2)+'-'+('0'+x.getDate()).slice(-2); }; return [f(new Date(d.getFullYear(),d.getMonth(),1)), f(new Date(d.getFullYear(),d.getMonth()+1,0))]; }
+    function upWindow(){
+      if(upS.scope==='all') return null;
+      if(upS.scope==='today') return [upS.anchor, upS.anchor];
+      if(upS.scope==='week'){ var ws=isoWeekStart(upS.anchor); return [ws, isoPlus(ws,6)]; }
+      return isoMonthRange(upS.anchor); // month
+    }
+    function openUpcoming(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('upcoming');
+      upS={ scope:'week', anchor:todayISO(), tab:null };
+      openPanel('<h2 class="page-title">Coming up</h2><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
+      renderUpcoming();
+    }
+    function upScopeBar(){
+      var bar=document.getElementById('cu-scopebar'); if(!bar) return;
+      var today=upS.anchor===todayISO();
+      var chips=[['today','Today'],['week','Week'],['month','Month'],['all','All']].map(function(s){ return '<button class="up-chip'+(upS.scope===s[0]?' on':'')+'" type="button" data-upscope="'+s[0]+'">'+s[1]+'</button>'; }).join('');
+      bar.innerHTML='<div class="up-scope">'+chips+
+        '<button class="up-jump'+(today?'':' set')+'" type="button" id="up-jump"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg><span>'+(today?'Jump to date':esc(fmtDateLabel(upS.anchor)))+'</span></button>'+
+        (today?'':'<button class="up-chip up-reset" type="button" data-upreset="1" aria-label="Back to today">&times;</button>')+'</div>';
+      bar.querySelectorAll('[data-upscope]').forEach(function(b){ b.addEventListener('click',function(){ upS.scope=b.dataset.upscope; if(upS.scope==='today') upS.anchor=todayISO(); renderUpcoming(); }); });
+      // Jump to date reuses the home page's on-brand calendar (openCal), not a native picker.
+      var jb=document.getElementById('up-jump');
+      if(jb) jb.addEventListener('click',function(){ openCal({ selected:upS.anchor, onDay:function(iso){ upS.anchor=iso; if(upS.scope==='all'||upS.scope==='today') upS.scope='week'; renderUpcoming(); } }); });
+      var rb=bar.querySelector('[data-upreset]'); if(rb) rb.addEventListener('click',function(){ upS.anchor=todayISO(); renderUpcoming(); });
+    }
+    function upEmpty(){
+      if(upS.scope==='today') return 'Nothing from your follows on '+esc(fmtDateLabel(upS.anchor))+'.';
+      if(upS.scope==='week') return 'Nothing from your follows that week. Try another date or scope.';
+      if(upS.scope==='month') return 'Nothing from your follows that month. Jump ahead with the date picker.';
+      return 'Heart artists you wanna see, follow a few venues, and follow some people &mdash; their upcoming shows land here.';
+    }
+    async function renderUpcoming(){
+      upScopeBar();
+      var box=document.getElementById('cu-lensbody'); if(!box) return;
+      box.innerHTML=cuSkeleton();
+      try{
+        var w=upWindow();
+        var r=await authedFetch('/api/upcoming'+(w?('?from='+w[0]+'&to='+w[1]):'')); var j=await r.json();
+        var A=j.artists||[], V=j.venues||[], F=j.friends||[];
+        // order each entity's gigs by date, then order the entities by their soonest gig (acts coming soonest first)
+        function byNextDate(list){
+          list.forEach(function(e){ (e.gigs||[]).sort(function(a,b){ return String(a.event_date).localeCompare(String(b.event_date)); }); });
+          list.sort(function(a,b){ return String((a.gigs&&a.gigs[0]&&a.gigs[0].event_date)||'9999').localeCompare(String((b.gigs&&b.gigs[0]&&b.gigs[0].event_date)||'9999')); });
+          return list;
+        }
+        byNextDate(A); byNextDate(V); byNextDate(F);
+        var feeds={ artists:{list:A,kind:'artist'}, venues:{list:V,kind:'venue'}, friends:{list:F,kind:'friend'} };
+        if(!A.length && !V.length && !F.length){ box.innerHTML='<div class="empty">'+upEmpty()+'</div>'; return; }
+        function npill(n){ return n?' <span class="upc-n">'+n+'</span>':''; }
+        box.innerHTML='<div class="upc-tabs" role="tablist">'+
+            '<button class="upc-tab" data-up-tab="artists" role="tab">Artists'+npill(A.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(V.length)+'</button>'+
+            '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(F.length)+'</button>'+
+          '</div><div id="upc-body"></div>';
+        var EMPTY={ artists:'No artists you follow are playing in this window.', venues:'No venues you follow have nights in this window.', friends:'Nothing your friends are into in this window.' };
+        var bodyEl=document.getElementById('upc-body');
+        if(!upS.tab || !feeds[upS.tab].list.length) upS.tab = A.length?'artists':V.length?'venues':'friends';
+        function showTab(tab){
+          upS.tab=tab;
+          box.querySelectorAll('.upc-tab').forEach(function(b){ var on=b.dataset.upTab===tab; b.classList.toggle('on',on); b.setAttribute('aria-selected',on?'true':'false'); });
+          var f=feeds[tab];
+          if(!f.list.length){ bodyEl.innerHTML='<div class="empty">'+EMPTY[tab]+'</div>'; return; }
+          bodyEl.innerHTML='<ul class="cu-list cu-grid">'+f.list.map(function(e){ return upRow(e, f.kind); }).join('')+'</ul>';
+          wireUpcoming();
+        }
+        box.querySelectorAll('.upc-tab').forEach(function(b){ b.addEventListener('click',function(){ showTab(b.dataset.upTab); }); });
+        showTab(upS.tab);
+      }catch(_){ box.innerHTML='<div class="empty">Couldn&rsquo;t load this.</div>'; }
+    }
+    function upAv(kind, key, name, image, avatar){
+      var sq = kind==='venue' ? ' sq' : '';
+      var bg = avatarBg(kind==='friend' ? key : (key||name), kind==='friend' ? avatar : null);
+      var img = (kind!=='friend' && image) ? '<img src="'+imgUrl(image,120)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">' : '';
+      return '<span class="cu-av'+sq+'" style="background-image:'+bg+'">'+img+'</span>';
+    }
+    function upGigLine(g, kind, hidden){
+      var d=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):'';
+      var t1, t2='';
+      if(kind==='venue'){ t1=g.title||'Club night'; }
+      else if(kind==='artist'){ t1=g.venue||'TBA'; t2=cityLabel(g.city)||''; }
+      else { t1=g.title||g.venue||'A show'; t2=(g.title&&g.venue)?g.venue:''; }
+      return '<button class="cu-gl'+(hidden?' cu-hide':'')+'" type="button" data-ev="'+esc(String(g.id))+'"><span class="cu-d">'+esc(d)+'</span><span class="cu-m"><span class="cu-m1">'+esc(t1)+'</span>'+(t2?'<span class="cu-m2">'+esc(t2)+'</span>':'')+'</span></button>';
+    }
+    function upRow(e, kind){
+      var key = kind==='friend' ? e.handle : (kind==='venue' ? (e.slug||e.name) : e.slug);
+      var nm = kind==='friend' ? ('u/'+esc(e.handle)) : esc(e.name||key);
+      var gigs=e.gigs||[];
+      var lines=gigs.map(function(g,i){ return upGigLine(g, kind, i>=3); }).join('');
+      var more = gigs.length>3 ? '<button class="cu-more" type="button" data-more="1">+'+(gigs.length-3)+' more</button>' : '';
+      return '<li>'+
+        '<button class="cu-who" type="button" data-go="'+kind+'" data-key="'+esc(key)+'" data-name="'+esc(e.name||'')+'">'+upAv(kind,key,e.name,e.image,e.avatar)+'<span class="cu-nm">'+nm+'</span></button>'+
+        '<div class="cu-gigs">'+lines+more+'</div></li>';
+    }
+    function wireUpcoming(){
+      panelBody.querySelectorAll('.cu-gl[data-ev]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.ev); }); });
+      panelBody.querySelectorAll('.cu-who[data-go]').forEach(function(b){ b.addEventListener('click',function(){
+        var k=b.dataset.go, key=b.dataset.key;
+        if(k==='artist') openArtist(key); else if(k==='venue') openVenue(b.dataset.name||key); else openProfile(key);
+      }); });
+      panelBody.querySelectorAll('.cu-more[data-more]').forEach(function(b){ b.addEventListener('click',function(){
+        b.parentNode.querySelectorAll('.cu-hide').forEach(function(x){ x.classList.remove('cu-hide'); }); b.remove();
+      }); });
+    }
+    async function openFeed(){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('feed');
+      openPanel('<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>'+feedSkeleton());
+      try{
+        var r=await authedFetch('/api/feed'); var j=await r.json(); var rows=j.events||[];
+        var h='<h2 class="page-title">Feed</h2><div class="sub">What the people you follow are into.</div>';
+        if(!rows.length){ h+='<div class="empty">Quiet so far. Follow some people from their profiles and their picks show up here.</div>'; openPanel(h); maybeSuggest(); return; }
+        h+='<div style="margin-top:8px">'+rows.map(function(a){
+          var verb = a.kind==='wanna_see'?'wants to see':a.kind==='seen'?'saw':a.kind==='save_event'?'saved':a.kind==='follow'?'followed':a.kind==='diary'?'logged a gig at':'·';
+          var subj = a.subject_type==='artist'?'<span class="lk" data-artist="'+esc(a.subject_id)+'">'+esc(a.subject_label||a.subject_id)+'</span>':
+                     a.subject_type==='user'?'<span class="lk" data-profile="'+esc(a.subject_id)+'">u/'+esc(a.subject_id)+'</span>':esc(a.subject_label||'an event');
+          return '<div class="feed-row">'+av(a.author_handle)+'<div><div class="ft"><b class="lk" data-profile="'+esc(a.author_handle)+'">u/'+esc(a.author_handle)+'</b> '+verb+' '+subj+'</div><div class="fw">'+relTime(a.created_at)+'</div></div></div>';
+        }).join('')+'</div>';
+        openPanel(h); wireFeed();
+      }catch(_){ openPanel('<h2 class="page-title">Feed</h2><div class="empty">Couldn&rsquo;t load the feed.</div>'); }
+    }
+    function wireFeed(){
+      panelBody.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(b.dataset.profile); }); });
+      panelBody.querySelectorAll('[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+    }
+    async function maybeSuggest(){
+      try{ var r=await authedFetch('/api/suggest'); var j=await r.json(); if(!j.people||!j.people.length) return;
+        var h='<div class="sec-h" style="margin-top:18px">People you might know</div><div class="pillrow">'+j.people.map(function(p){ return '<button class="pill-link" data-profile="'+esc(p.handle)+'">u/'+esc(p.handle)+' · '+p.overlap+' shared</button>'; }).join('')+'</div>';
+        panelBody.insertAdjacentHTML('beforeend', h); wireFeed();
+      }catch(_){}
+    }
+
+    // Wire the poster-led event cards (.gcard.evc) inside `scope` — ONE wiring path
+    // shared by the home grid, artist/venue/search lists, so the card buttons don't
+    // silently die whenever a render site forgets to copy the handlers (that's how
+    // the artist/venue/search cards broke after the card redesign). `evById` maps a
+    // card's data-evt → its event object, needed for the full line-up play queue.
+    function wireEvcCards(scope, evById){
+      if(!scope) return;
+      scope.querySelectorAll('.gcard.evc').forEach(function(card){
+        var ev = evById[card.getAttribute('data-evt')]; if(!ev) return;
+        function open(e){ if(e){ e.preventDefault(); e.stopPropagation(); } openSheet(ev); }
+        var p=card.querySelector('.evc-poster'); if(p) p.addEventListener('click',open);
+        var mb=card.querySelector('.evc-chip.more'); if(mb) mb.addEventListener('click',open);
+        // play queue = the whole line-up; poster-play starts at 0, a chip from that artist on
+        var q=(ev.artists||[]).map(function(a){ var s=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():''; return { slug:s, name:a.name, poster:ev.poster }; }).filter(function(a){ return a.slug; });
+        var pb=card.querySelector('.evc-play'); if(pb) pb.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q,0); });
+        card.querySelectorAll('.evc-chip[data-slug]').forEach(function(c){ c.addEventListener('click',function(e){ e.stopPropagation(); var idx=q.findIndex(function(x){ return x.slug===c.dataset.slug; }); playYtList(q, idx<0?0:idx); }); });
+      });
+    }
+
+    // ---- artist + venue pages ----
+    // Render canonical event rows (/api/artist · /api/venue · /api/search) as
+    // home-style cards into `el`, each wired to open the event sheet.
+    function mountEventCards(el, rows){
+      if(!el) return;
+      var evs=(rows||[]).map(function(g){
+        return { id:g.id, title:g.title, venue:g.venue, genres:g.genres,
+          _day:fmtDateLabel(String(g.event_date).slice(0,10)),
+          startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
+          artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; }) };
+      });
+      el.innerHTML='<div class="grid">'+evs.map(cardHTML).join('')+'</div>';
+      wireCard(el);
+      var rmap={}; evs.forEach(function(ev){ if(ev.id!=null) rmap[String(ev.id)]=ev; });
+      wireEvcCards(el, rmap);
+    }
+
+    // ── public search (events / venues / artists) ──
+    // ── P2: personalized "For you" feed (v2.1 ranked event_score + reasons) ──
+    // Build-your-taste prompt — only shown when there's no taste profile yet.
+    function renderTasteCTA(onboarded){
+      var el=document.getElementById('dc-taste'); if(!el) return;
+      if(onboarded){ el.innerHTML=''; return; }
+      el.innerHTML='<button class="scene-cta" id="dc-taste-btn" type="button"><span class="scene-cta-tx"><b>Build your taste</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+      var b=document.getElementById('dc-taste-btn'); if(b) b.addEventListener('click',function(){ if(currentUser) openTasteOnboard(); else openAuth(); });
+    }
+    // ── Reusable horizontal rails (DS: "Rails") ─────────────────────────────────────────
+    // One builder per rail type, shared by Discover and every city scene guide. Edit the
+    // markup or behaviour here and it changes everywhere the rail is used. Each renders a
+    // section header + the .srail strip into `el` and wires its own clicks/plays.
+    function secH(title, mt, extra){ if(!title && !extra) return ''; return '<div class="sec-h"'+(mt?(' style="margin-top:'+mt+'"'):'')+'>'+esc(title||'')+(extra||'')+'</div>'; }
+    // Shimmer placeholder for a rail while its data loads — reserves the exact tile size so
+    // nothing jumps, then the real rail (.srail-anim) eases in over it. opts:{kind,n,title,mt,wide}.
+    function railSkeleton(el, opts){
+      opts=opts||{}; if(!el) return;
+      var n=opts.n||6, k=opts.kind||'artist', w=opts.wide?142:98, t='';
+      for(var i=0;i<n;i++){
+        if(k==='event') t+='<div class="srail-sk-t" style="width:142px"><div class="sk" style="width:142px;aspect-ratio:3/4;border-radius:var(--radius)"></div><div class="sk srail-sk-l" style="width:80%"></div><div class="sk srail-sk-l" style="width:55%"></div></div>';
+        else if(k==='venue') t+='<div class="srail-sk-t"><div class="sk" style="width:208px;height:124px;border-radius:var(--radius-md)"></div></div>';
+        else t+='<div class="srail-sk-t" style="width:'+w+'px"><div class="sk" style="width:'+w+'px;height:'+w+'px;border-radius:50%"></div><div class="sk srail-sk-l" style="width:88%"></div><div class="sk srail-sk-l" style="width:60%"></div></div>';
+      }
+      el.innerHTML=secH(opts.title, opts.mt, opts.count!=null?('<span class="ct">'+esc(String(opts.count))+'</span>'):'')+'<div class="srail-sk">'+t+'</div>';
+    }
+    // Artist rail — circular photos + name (+ a venue subtitle when item.venue is set).
+    // Play walks the whole rail as a youtube queue. opts:{title,mt,wrap,city}.
+    function mountArtistRail(el, items, opts){
+      opts=opts||{}; if(!el) return; if(!items||!items.length){ el.innerHTML=''; return; }
+      var list=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
+      el.innerHTML=secH(opts.title, opts.mt, opts.count!=null?('<span class="ct">'+esc(String(opts.count))+'</span>'):'')+'<div class="srail srail-anim'+(opts.wrap?' srail-wrap':'')+(opts.wide?' srail-wide':'')+'">'+items.map(function(a,i){
+        var img=a.image?('background-image:url('+imgUrl(a.image,180)+')'):('background:'+sceneTone(a.slug));
+        // Subtitle: next-gig block (salmon date + venue · city) when a.nextDate is set;
+        // else a single venue line (playing-this-month); else an optional empty label.
+        var sub='';
+        if(a.nextDate){
+          var loc=[a.nextVenue, a.nextCity?cityLabel(a.nextCity):''].filter(Boolean).join(' · ');
+          sub='<span class="srail-art-d">'+esc(fmtDateLabel(String(a.nextDate).slice(0,10)))+'</span>'+
+              (a.nextVenue?'<button class="srail-art-v" data-venue="'+esc(a.nextVenue)+'" data-city="'+esc(a.nextCity||'')+'">'+esc(loc)+'</button>':(loc?'<span class="srail-art-v">'+esc(loc)+'</span>':''));
+        } else if(a.venue){ sub='<button class="srail-art-v" data-venue="'+esc(a.venue)+'">'+esc(a.venue)+'</button>'; }
+        else if(opts.emptyLabel){ sub='<span class="srail-art-v">'+esc(opts.emptyLabel)+'</span>'; }
+        return '<div class="srail-art"><div class="srail-art-img" data-artist="'+esc(a.slug)+'" style="'+img+'"><span class="srail-play ctr" data-i="'+i+'" aria-label="Play '+esc(a.name)+'">&#9654;</span></div>'+
+          '<button class="srail-art-n" data-artist="'+esc(a.slug)+'">'+esc(a.name)+'</button>'+sub+'</div>';
+      }).join('')+'</div>';
+      el.querySelectorAll('.srail-art-img[data-artist], .srail-art-n[data-artist]').forEach(function(b){ b.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openArtist(b.dataset.artist); }); });
+      el.querySelectorAll('.srail-play[data-i]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); playYtList(list, parseInt(b.dataset.i,10)||0); }); });
+      el.querySelectorAll('.srail-art-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openVenue(b.dataset.venue, b.dataset.city||opts.city); }); });
+    }
+    // Event rail — 3:4 posters, optional match % (opts.withMatch) + hidden-gem badge. Play =
+    // the line-up as a youtube queue. opts:{title,mt,withMatch}.
+    function mountEventRail(el, items, opts){
+      opts=opts||{}; if(!el) return; if(!items||!items.length){ el.innerHTML=''; return; }
+      var byId={}; items.forEach(function(e){ byId[String(e.id)]=e; });
+      el.innerHTML=secH(opts.title, opts.mt, opts.count!=null?('<span class="ct">'+esc(String(opts.count))+'</span>'):'')+'<div class="srail srail-anim">'+items.map(function(e){
+        var img=e.poster_url?('background-image:url('+imgUrl(e.poster_url,300)+')'):('background:'+sceneTone(String(e.id)));
+        var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
+        var ttl=e.title||((e.lineup||[])[0]||{}).name||'Event';
+        var match=(opts.withMatch&&e.match!=null)?'<span class="match">'+e.match+'%</span>':'';
+        var gem=(e.gem&&e.gem.level)?'<span class="srail-gem">'+esc(e.gem.level)+'</span>':'';
+        return '<div class="srail-post" data-ev="'+esc(String(e.id))+'"><div class="srail-post-img" style="'+img+'">'+match+gem+((e.lineup&&e.lineup.length)?'<span class="srail-play br" data-evplay="'+esc(String(e.id))+'" aria-label="Play line-up">&#9654;</span>':'')+'</div>'+
+          '<div class="srail-post-t">'+esc(ttl)+'</div><div class="srail-post-s">'+esc([e.venue,(opts.showCity&&e.city?cityLabel(e.city):''),d].filter(Boolean).join(' · '))+'</div></div>';
+      }).join('')+'</div>';
+      el.querySelectorAll('.srail-post[data-ev]').forEach(function(c){ c.addEventListener('click',function(ev){ if(ev.target.closest('.srail-play')) return; openEvent(c.dataset.ev); }); });
+      el.querySelectorAll('.srail-play[data-evplay]').forEach(function(b){ b.addEventListener('click',function(ev){ ev.stopPropagation(); var e=byId[b.dataset.evplay]; if(e) playYtList((e.lineup||[]).map(function(a){ return {slug:a.slug,name:a.name,poster:e.poster_url}; }), 0); }); });
+    }
+    // Venue rail — landscape image cards. Play = the venue's next night as a youtube queue.
+    // opts:{title,mt,city}.
+    function mountVenueRail(el, items, opts){
+      opts=opts||{}; if(!el) return; if(!items||!items.length){ el.innerHTML=''; return; }
+      var city=opts.city;
+      el.innerHTML=secH(opts.title, opts.mt, opts.count!=null?('<span class="ct">'+esc(String(opts.count))+'</span>'):'')+'<div class="srail srail-anim">'+items.map(function(v){
+        var img=v.image?('background-image:url('+imgUrl(v.image,360)+')'):('background:'+sceneTone(v.venue_slug||v.venue));
+        // Per-item city (global search): drives both the label and the correct link target.
+        var vcity=v.city||'';
+        return '<div class="srail-ven" data-venue="'+esc(v.venue)+'" data-vcity="'+esc(vcity)+'" style="'+img+'"><span class="srail-ven-n">'+esc(v.venue)+(vcity?'<em class="srail-ven-c">'+esc(cityLabel(vcity))+'</em>':'')+'</span><span class="srail-play br" data-vplay="'+esc(v.venue)+'" aria-label="Play next night at '+esc(v.venue)+'">&#9654;</span></div>';
+      }).join('')+'</div>';
+      el.querySelectorAll('.srail-ven[data-venue]').forEach(function(c){ c.addEventListener('click',function(e){ if(e.target.closest('.srail-play')) return; openVenue(c.dataset.venue, c.dataset.vcity||city); }); });
+      el.querySelectorAll('.srail-play[data-vplay]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var vc=b.closest('.srail-ven'); playVenueNextYt(b.dataset.vplay, (vc&&vc.dataset.vcity)||city); }); });
+    }
+    // Scene-guides rail — the entry point into city guides (cover image + name → guide; + All N).
+    function loadDcScenes(){
+      var el=document.getElementById('dc-scenes'); if(!el) return;
+      authedFetch('/api/scenes').then(function(r){ return r.json(); }).then(function(j){
+        var cs=(j.cities||[]); if(!cs.length){ el.innerHTML=''; return; }
+        el.innerHTML=secH('Scene guides','26px','<button class="more" id="dc-allscenes" type="button">All '+cs.length+' &rsaquo;</button>')+'<div class="srail srail-anim">'+cs.slice(0,14).map(function(c){
+          var img=c.image?('background-image:url('+imgUrl(c.image,360)+')'):('background:'+sceneTone(c.slug));
+          return '<div class="srail-ven" data-city="'+esc(c.slug)+'" style="'+img+'"><span class="srail-ven-n">'+esc(c.name)+'</span></div>';
+        }).join('')+'</div>';
+        var more=document.getElementById('dc-allscenes'); if(more) more.addEventListener('click',function(){ openScenes(); });
+        el.querySelectorAll('.srail-ven[data-city]').forEach(function(c){ c.addEventListener('click',function(){ openCityScene(c.dataset.city); }); });
+      }).catch(function(){ el.innerHTML=''; });
+    }
+    // City-scene data (upcoming events + best venues for the current city) — memoised per
+    // Discover open so the events fallback and the venues rail share one fetch.
+    var _dcSceneP=null;
+    function dcScene(){
+      if(!_dcSceneP) _dcSceneP=authedFetch('/api/city/scene?city='+encodeURIComponent(currentCity)).then(function(r){ return r.json(); }).catch(function(){ return {}; });
+      return _dcSceneP;
+    }
+    // Fallback events rail — what's on in the current city (no personalisation), so the
+    // page always has events even before there's any taste to score against.
+    function loadCityUpcoming(box){
+      dcScene().then(function(s){ mountEventRail(box, (s.upcomingEvents||[]), {title:'Upcoming in '+cityMeta().name, mt:'8px'}); });
+    }
+    // Venues rail — the venues in the current city (reuses mountVenueRail, same as the guide).
+    function loadDcVenues(){
+      dcScene().then(function(s){ mountVenueRail(document.getElementById('dc-venues'), (s.bestVenues||[]), {title:'Venues in '+cityMeta().name, city:currentCity, mt:'24px'}); });
+    }
+    // For-you rail — personalised event posters (match % + play the line-up as a youtube
+    // queue). Resolves the taste-CTA, and falls back to city-upcoming when there's nothing
+    // personalised yet (signed out, no taste, or no scored events in this city).
+    function loadForYou(){
+      var box=document.getElementById('dc-feed'); if(!box) return;
+      if(!currentUser){ renderTasteCTA(false); loadCityUpcoming(box); return; }
+      authedFetch('/api/feed?city='+encodeURIComponent(currentCity)).then(function(r){ return r.json(); }).then(function(j){
+        if(j.error || !j.onboarded){ renderTasteCTA(false); loadCityUpcoming(box); return; }
+        renderTasteCTA(true); // has taste → no prompt
+        var evs=j.events||[];
+        if(!evs.length){ loadCityUpcoming(box); return; } // onboarded but nothing scored here
+        mountEventRail(box, evs, {title:'For you', withMatch:true, mt:'8px'});
+      }).catch(function(){ loadCityUpcoming(box); });
+    }
+    async function openDiscover(){
+      setRoute('discover');
+      _dcSceneP=null; // refetch city data each open (the city may have changed)
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/discover'); var j=await r.json();
+        var arts=j.artists||[];
+        var h='<h2 class="page-title">Discover</h2><div class="sub" style="margin-bottom:16px">Tonight, tuned to you.</div>';
+        h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-venues"></div><div id="dc-scenes"></div>';
+        openPanel(h);
+        // Reserve each async rail's space with a shimmer skeleton so nothing jumps; the real
+        // content eases in (.srail-anim) as each fetch resolves.
+        railSkeleton(document.getElementById('dc-feed'), { kind:'event', n:5, mt:'8px' });
+        railSkeleton(document.getElementById('dc-venues'), { kind:'venue', n:4, title:'Venues in '+cityMeta().name, mt:'24px' });
+        railSkeleton(document.getElementById('dc-scenes'), { kind:'venue', n:6, title:'Scene guides', mt:'24px' });
+        // Same template as the artist page's "More like X": round wide tiles + next gig.
+        // Artists arrive with the /api/discover payload, so this rail renders (and fades in) now.
+        mountArtistRail(document.getElementById('dc-artists'), arts.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Artists for you', wrap:true, wide:true, mt:'24px', emptyLabel:'No upcoming dates'}); // wraps on web, scrolls on mobile
+        loadDcVenues();          // venues in the current city
+        loadDcScenes();          // scene-guides entry rail
+        loadForYou();            // for-you posters (toggles the taste prompt; city fallback otherwise)
+      }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
+    }
+    // Recent searches — device-local, ephemeral UI history (not synced / not picks data).
+    function getRecent(){ try{ var r=JSON.parse(localStorage.getItem('sc_recent_searches')||'[]'); return Array.isArray(r)?r:[]; }catch(_){ return []; } }
+    function pushRecent(q){ q=(q||'').trim(); if(q.length<2) return; try{ var r=getRecent().filter(function(x){ return String(x).toLowerCase()!==q.toLowerCase(); }); r.unshift(q); localStorage.setItem('sc_recent_searches', JSON.stringify(r.slice(0,6))); }catch(_){ } }
+    function clearRecent(){ try{ localStorage.removeItem('sc_recent_searches'); }catch(_){ } }
+    function setSearchQuery(q){ var input=document.getElementById('sx-input'); if(!input) return; input.value=q; input.dispatchEvent(new Event('input')); input.focus(); }
+    var _sxDiscoverP=null;
+    function sxDiscover(){ if(!_sxDiscoverP) _sxDiscoverP=authedFetch('/api/discover').then(function(r){ return r.json(); }).catch(function(){ return {}; }); return _sxDiscoverP; }
+    function openSearch(){
+      setRoute('search');
+      _dcSceneP=null; _sxDiscoverP=null; // fresh suggestions for the current city
+      showPage('<h2 class="page-title">Search</h2><div class="sub" style="margin-bottom:14px">Find artists, venues, events and people &mdash; everywhere we cover.</div>'+
+        '<div class="search-box"><input type="search" id="sx-input" placeholder="Search artists, venues, events, people…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+        '<div id="sx-recent-top"></div>'+
+        '<div id="sx-results"></div>');
+      var input=document.getElementById('sx-input'), results=document.getElementById('sx-results');
+      var lastQ='', showing='';
+      // recent searches sit as plain pills below the search box (no sub-heading)
+      function renderRecentTop(){ var rt=document.getElementById('sx-recent-top'); if(!rt) return; var rec=getRecent(); rt.innerHTML=rec.length?('<div class="pillrow" style="margin-bottom:14px">'+rec.map(function(t){ return '<button class="qchip" type="button" data-q="'+esc(t)+'">'+esc(t)+'</button>'; }).join('')+'</div>'):''; rt.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); }); }
+      // a tap on any result records the query as "recent" (the search led somewhere)
+      results.addEventListener('click', function(){ if(lastQ){ pushRecent(lastQ); renderRecentTop(); } }, true);
+      var run=debounce(async function(){
+        var q=input.value.trim();
+        if(q.length<2){ if(showing!=='empty'){ renderSearchEmpty(results); showing='empty'; } return; }
+        lastQ=q; showing='results';
+        results.innerHTML='<div class="empty" style="padding:20px 0"><span class="spinner"></span> Searching…</div>';
+        var j; try{ j=await pubGet('/api/search?q='+encodeURIComponent(q)+'&city='+encodeURIComponent(currentCity)); }catch(_){ j={}; }
+        if(input.value.trim()!==q) return; // a newer keystroke is in flight
+        renderSearch(results, j, q);
+      },220);
+      input.addEventListener('input',run);
+      renderRecentTop();
+      renderSearchEmpty(results); showing='empty'; // default state on open
+      setTimeout(function(){ input.focus(); },60);
+    }
+    // Default (empty) state — a mini-Discover: recent + trending taps, then suggested
+    // artists / events / venues via the shared rails.
+    function renderSearchEmpty(el){
+      el.innerHTML='<div id="sx-trend"></div><div id="sx-sg-art"></div><div id="sx-sg-evt"></div><div id="sx-sg-ven"></div>';
+      sxDiscover().then(function(j){
+        var arts=(j.artists||[]).slice(0,12).map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; });
+        var tr=document.getElementById('sx-trend');
+        if(tr && arts.length){
+          tr.innerHTML=secH('Trending', '18px')+'<div class="pillrow">'+arts.slice(0,6).map(function(a){ return '<button class="qchip" type="button" data-q="'+esc(a.name)+'">'+esc(a.name)+'</button>'; }).join('')+'</div>';
+          tr.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); });
+        }
+        mountArtistRail(document.getElementById('sx-sg-art'), arts, {title:'Artists you might like', wrap:true, wide:true, mt:'22px', emptyLabel:'No upcoming dates'});
+      });
+      dcScene().then(function(s){
+        mountEventRail(document.getElementById('sx-sg-evt'), (s.upcomingEvents||[]).slice(0,10), {title:'Happening soon', mt:'24px'});
+        mountVenueRail(document.getElementById('sx-sg-ven'), (s.bestVenues||[]).slice(0,8), {title:'Venues to explore', city:currentCity, mt:'24px'});
+      });
+    }
+    // Live results — People row + Artists / Venues / Events rails (same components as Discover).
+    function renderSearch(el, j, q){
+      var ev=j.events||[], ven=j.venues||[], art=j.artists||[], peo=j.people||[];
+      if(!ev.length && !ven.length && !art.length && !peo.length){ el.innerHTML='<div class="empty" style="padding:20px 0">No matches for &ldquo;'+esc(q)+'&rdquo; — try a DJ, venue or city.</div>'; return; }
+      el.innerHTML='<div id="sx-peo-s"></div><div id="sx-art-s"></div><div id="sx-ven-s"></div><div id="sx-evt-s"></div>';
+      if(peo.length){
+        var ps=document.getElementById('sx-peo-s');
+        ps.innerHTML=secH('People','10px','<span class="ct">'+peo.length+'</span>')+'<ul class="tray-line" id="sx-peo"></ul>';
+        var pe=document.getElementById('sx-peo');
+        pe.innerHTML=peo.map(function(u){ return '<li><button class="open-prof" data-profile="'+esc(u.handle)+'"><span class="uav" style="background-image:'+avatarBg(u.handle,u.avatar)+'"></span><span class="po-nm">u/'+esc(u.handle)+'</span>'+(u.display_name?' <small>'+esc(u.display_name)+'</small>':'')+'</button></li>'; }).join('');
+        pe.querySelectorAll('[data-profile]').forEach(function(b){ b.addEventListener('click',function(){ openProfile(b.dataset.profile); }); });
+      }
+      if(art.length) mountArtistRail(document.getElementById('sx-art-s'), art.map(function(a){ return { slug:a.slug, name:a.name, image:a.image_url }; }), {title:'Artists', count:art.length, wrap:true, wide:true, mt:'18px'});
+      if(ven.length) mountVenueRail(document.getElementById('sx-ven-s'), ven.map(function(v){ return { venue:v.name, venue_slug:v.slug, city:v.city }; }), {title:'Venues', count:ven.length, city:currentCity, mt:'22px'});
+      if(ev.length) mountEventRail(document.getElementById('sx-evt-s'), ev, {title:'Events', count:ev.length, mt:'22px', showCity:true});
+    }
+
+    // ── venue map (lazy Leaflet + CARTO dark tiles; vector markers, no image assets) ──
+    var _leafletLoading=false, _leafletCbs=[];
+    function loadLeaflet(cb){
+      if(window.L){ cb(); return; }
+      _leafletCbs.push(cb);
+      if(_leafletLoading) return; _leafletLoading=true;
+      var css=document.createElement('link'); css.rel='stylesheet'; css.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'; document.head.appendChild(css);
+      var js=document.createElement('script'); js.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'; js.async=true;
+      js.onload=function(){ var cbs=_leafletCbs; _leafletCbs=[]; cbs.forEach(function(f){ try{ f(); }catch(_){} }); };
+      js.onerror=function(){ _leafletLoading=false; };
+      document.head.appendChild(js);
+    }
+    // Venue-map page — currently UNWIRED (datebar chip + #map route removed,
+    // to be redesigned). The backend (/api/venues/map?city=) stays live; the
+    // venue page's small location map is separate and still in use.
+    async function openMap(){
+      setRoute('map');
+      var cm=cityMeta();
+      showPage('<h2 class="page-title">Venue map</h2><div class="sub" style="margin-bottom:14px">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
+      mountVenueMap(document.getElementById('venue-map'), currentCity, { center:[cm.lat||51.5074, cm.lng||-0.1278] });
+    }
+    // Reusable club map: CARTO dark tiles + hybrid dot/date-pill markers from /api/venues/map
+    // (server bbox-filters per city). Used by the full Venue-map page AND the city scene guide.
+    function mountVenueMap(el, city, opts){
+      if(!el) return; opts=opts||{};
+      loadLeaflet(async function(){
+        if(!document.body.contains(el)) return; // navigated away while loading
+        var map=L.map(el, opts.scroll===false?{scrollWheelZoom:false}:{}).setView(opts.center||[51.5074,-0.1278], 11);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
+        var qs='/api/venues/map?city='+encodeURIComponent(city)+(opts.minUpcoming?('&min='+opts.minUpcoming):'');
+        var j; try{ j=await pubGet(qs); }catch(_){ j={}; }
+        var vs=(j.venues||[]), pts=[];
+        function pinDate(iso){ if(!iso) return ''; var d=new Date(String(iso).slice(0,10)+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'}); }
+        function popupHTML(v){ var up=v.upcoming?(v.upcoming+' upcoming night'+(v.upcoming===1?'':'s')):'no dates yet'; return '<b>'+esc(v.name)+'</b><br><span style="color:#9292a0">'+esc(up)+'</span><br><span class="map-link" data-venue="'+esc(v.name)+'">View venue &rsaquo;</span>'; }
+        // Popularity heat: a venue's upcoming-night count vs the busiest in the city →
+        // hottest = bright red + big + bright halo, quietest = dim slate + small. No legend.
+        var maxUp=vs.reduce(function(m,v){ return Math.max(m, v.upcoming||0); }, 0) || 1;
+        function heat(t){ var a=[0x6b,0x53,0x57], b=[0xff,0x47,0x3a]; return 'rgb('+Math.round(a[0]+(b[0]-a[0])*t)+','+Math.round(a[1]+(b[1]-a[1])*t)+','+Math.round(a[2]+(b[2]-a[2])*t)+')'; }
+        var dots=L.layerGroup(), pills=L.layerGroup();
+        // draw quietest first so the hottest venues sit on top
+        vs.slice().sort(function(a,b){ return (a.upcoming||0)-(b.upcoming||0); }).forEach(function(v){
+          pts.push([v.lat,v.lng]); var pop=popupHTML(v);
+          var t=Math.min(1,(v.upcoming||0)/maxUp), col=heat(t);
+          var halo=L.circleMarker([v.lat,v.lng],{ radius:12+t*14, weight:0, fillColor:col, fillOpacity:0.10+t*0.16 });
+          var dot=L.circleMarker([v.lat,v.lng],{ radius:5+t*6, color:'#fff', weight:1.2, fillColor:col, fillOpacity:0.82+t*0.18 });
+          halo.bindPopup(pop); dot.bindPopup(pop); dots.addLayer(halo); dots.addLayer(dot);
+          var label=pinDate(v.next_date);
+          var html=label ? '<div class="vpin"><span class="vd"></span>'+esc(label)+'</div>' : '<div class="vpin bare"></div>';
+          var pill=L.marker([v.lat,v.lng],{ icon:L.divIcon({ className:'', html:html, iconAnchor:[10,12] }) });
+          pill.bindPopup(pop); pills.addLayer(pill);
+        });
+        function sync(){ var z=map.getZoom();
+          if(z>=13){ if(map.hasLayer(dots)) map.removeLayer(dots); if(!map.hasLayer(pills)) map.addLayer(pills); }
+          else { if(map.hasLayer(pills)) map.removeLayer(pills); if(!map.hasLayer(dots)) map.addLayer(dots); }
+        }
+        map.on('zoomend',sync); sync();
+        if(pts.length) map.fitBounds(pts,{ padding:[36,36], maxZoom:13 });
+        else if(j.city && j.city.lat) map.setView([j.city.lat, j.city.lng], 11); // no qualifying venues → still centre the city, not London
+        el.addEventListener('click',function(e){ var a=e.target.closest('.map-link[data-venue]'); if(a){ openVenue(a.dataset.venue, city); } });
+        setTimeout(function(){ map.invalidateSize(); },140); // settle after layout
+      });
+    }
+
+    // ── Venue "I've been" review sheet (self-attested; one editable review per venue) ──
+    function vrvStars(k,label,val){
+      var s=''; for(var i=1;i<=5;i++){ s+='<button class="vrv-star'+(val&&i<=val?' on':'')+'" type="button" data-k="'+k+'" data-v="'+i+'" aria-label="'+label+' '+i+' of 5">'+STAR_SVG+'</button>'; }
+      return '<div class="vrv-q">'+label+'</div><div class="vrv-stars" data-stars="'+k+'">'+s+'</div>';
+    }
+    // Reusable ••• overflow action sheet (bottom-sheet on mobile). items:
+    // [{ label, svg, on, run }]. Each row runs its action then closes.
+    function openActionSheet(opts){
+      opts=opts||{}; var items=opts.items||[];
+      var ov=document.createElement('div'); ov.className='auth-overlay show act-sheet';
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        (opts.title?'<div class="eyebrow">'+esc(opts.title)+'</div>':'')+
+        '<div class="as-list">'+items.map(function(it,i){ return '<button class="as-row'+(it.on?' on':'')+'" data-i="'+i+'" type="button">'+(it.svg||'')+'<span class="as-lbl">'+esc(it.label)+'</span>'+(it.on?'<span class="as-chk">'+CHECK_SVG+'</span>':'')+'</button>'; }).join('')+'</div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      ov.querySelectorAll('.as-row[data-i]').forEach(function(b){ b.addEventListener('click',function(){ var it=items[+b.dataset.i]; close(); if(it&&it.run) it.run(); }); });
+    }
+    function venueReviewSheet(v, mine){
+      mine=mine||{};
+      var wr=[[2,'Definitely'],[1,'Maybe'],[0,'Nah']].map(function(o){ return '<button class="vrv-chip'+(mine.would_return===o[0]?' on':'')+'" type="button" data-wr="'+o[0]+'">'+o[1]+'</button>'; }).join('');
+      var myT=(mine.tags||[]).map(function(t){ return String(t).toLowerCase(); });
+      var tags=VENUE_TAGS.map(function(t){ return '<button class="vrv-chip'+(myT.indexOf(t.toLowerCase())>=0?' on':'')+'" type="button" data-tag="'+esc(t)+'">'+esc(t)+'</button>'; }).join('');
+      var posted=(mine.sound||mine.crowd||mine.would_return!=null||(mine.tags||[]).length);
+      return '<div class="eyebrow">You&rsquo;ve been</div><h3>How was '+esc(v.name||'this venue')+'?</h3>'+
+        '<p class="vrv-sub">A quick read on the room — it sharpens the venue&rsquo;s DNA for everyone.</p>'+
+        vrvStars('sound','The sound system', mine.sound)+
+        vrvStars('crowd','The crowd &amp; energy', mine.crowd)+
+        '<div class="vrv-q">Would you go back?</div><div class="vrv-chips" data-wr>'+wr+'</div>'+
+        '<div class="vrv-q">What&rsquo;s it like? <span class="vrv-opt">optional</span></div><div class="vrv-chips" data-tags>'+tags+'</div>'+
+        '<button class="go" id="vrv-post" type="button">'+(posted?'Update':'Post')+'</button><div class="rv-msg" id="vrv-msg"></div>';
+    }
+    function refreshVenueDNA(v){
+      var el=document.getElementById('vp-dna'); if(!el||!v||!v.slug) return;
+      authedFetch('/api/venue/dna?slug='+encodeURIComponent(v.slug)).then(function(r){ return r.json(); }).then(function(j){
+        el.innerHTML=dnaBoxHTML(j);
+        el.querySelectorAll('.vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
+      }).catch(function(){});
+    }
+    function openVenueReview(v){
+      if(!currentUser){ openAuth(); return; }
+      var ov=document.createElement('div'); ov.className='auth-overlay show vrev-pick';
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+venueReviewSheet(v, v.myReview)+'</div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      var m=v.myReview||{};
+      var sel={ sound:m.sound||null, crowd:m.crowd||null, wouldReturn:(m.would_return!=null?m.would_return:null), tags:((m.tags||[]).slice()) };
+      ov.querySelectorAll('[data-stars]').forEach(function(row){
+        row.querySelectorAll('.vrv-star').forEach(function(b){ b.addEventListener('click',function(){
+          var k=b.dataset.k, val=parseInt(b.dataset.v,10); sel[k]=val;
+          row.querySelectorAll('.vrv-star').forEach(function(s){ s.classList.toggle('on', parseInt(s.dataset.v,10)<=val); });
+        }); });
+      });
+      ov.querySelectorAll('[data-wr] .vrv-chip').forEach(function(b){ b.addEventListener('click',function(){
+        sel.wouldReturn=parseInt(b.dataset.wr,10);
+        ov.querySelectorAll('[data-wr] .vrv-chip').forEach(function(x){ x.classList.toggle('on', x===b); });
+      }); });
+      ov.querySelectorAll('[data-tags] .vrv-chip').forEach(function(b){ b.addEventListener('click',function(){
+        var t=b.dataset.tag, i=sel.tags.map(function(x){ return String(x).toLowerCase(); }).indexOf(t.toLowerCase());
+        if(i>=0){ sel.tags.splice(i,1); b.classList.remove('on'); } else { sel.tags.push(t); b.classList.add('on'); }
+      }); });
+      document.getElementById('vrv-post').addEventListener('click',function(){
+        if(sel.sound==null&&sel.crowd==null&&sel.wouldReturn==null&&!sel.tags.length){ document.getElementById('vrv-msg').textContent='Answer at least one.'; return; }
+        var btn=document.getElementById('vrv-post'); btn.disabled=true;
+        authedFetch('/api/venue/review',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ slug:v.slug, sound:sel.sound, crowd:sel.crowd, wouldReturn:sel.wouldReturn, tags:sel.tags }) })
+          .then(function(r){ return r.json(); }).then(function(o){
+            if(o&&o.ok){
+              v.myReview={ sound:sel.sound, crowd:sel.crowd, would_return:sel.wouldReturn, tags:sel.tags.slice() };
+              var bb=document.getElementById('vp-been'); if(bb){ bb.classList.add('on'); var sp=bb.querySelector('span'); if(sp) sp.innerHTML='You&rsquo;ve been'; }
+              close(); showToast('Thanks — added to '+(v.name||'the venue')+'.'); refreshVenueDNA(v);
+            } else { document.getElementById('vrv-msg').textContent=(o&&o.error)||'Could not save.'; btn.disabled=false; }
+          }).catch(function(){ document.getElementById('vrv-msg').textContent='Could not save.'; btn.disabled=false; });
+      });
+    }
+
+    // D1: behavioural telemetry — a viewed artist/event is a weak positive that feeds the
+    // taste profile + collaborative filtering. Fire-and-forget; server ignores anon users.
+    function trackView(t,id){ try{ authedFetch('/api/track',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({kind:'view',subjectType:t,subjectId:String(id)})}).catch(function(){}); }catch(_){ } }
+    // D5 review helpers — one aggregate stat + one 1–5 picker row.
+    function rvStat(label,val){ return '<div class="rv-stat"><span class="rv-v">'+(val!=null?val:'–')+'</span><span class="rv-l">'+label+'</span></div>'; }
+    function rvSlider(key,label,cur){ var d=''; for(var i=1;i<=5;i++){ d+='<label class="rv-dot"><input type="radio" name="rv-'+key+'" value="'+i+'"'+(cur==i?' checked':'')+'><span>'+i+'</span></label>'; } return '<div class="rv-srow"><span class="rv-sk">'+label+'</span><span class="rv-dots">'+d+'</span></div>'; }
+    async function openArtist(slug){
+      setRoute('dj/'+slug);
+      trackView('artist', slug);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/artist?slug='+encodeURIComponent(slug)); var a=await r.json();
+        var mine=artStatus(slug);
+        // generated marble underneath; real photo overlays and falls back on error
+        var avImg=a.image?'<img loading="lazy" decoding="async" src="'+imgUrl(a.image,480)+'" alt="" onerror="this.remove()">':'';
+        var av='<span class="artist-av round" style="background-image:'+avatarBg(slug,null)+'">'+avImg+'</span>';
+        var onAir=(typeof radio!=='undefined' && radio.on && radio.station==='artist:'+slug);
+        // Next gig → shown as the dock subtitle (and clickable venue) instead of "YouTube".
+        var nextGig=(a.upcoming&&a.upcoming[0])||null;
+        var nextVenueAttr = (nextGig&&nextGig.venue) ? ' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"' : '';
+        var actions='<div class="artist-actions">'+
+          '<button class="act-btn radio" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button">'+YT_SVG+'<span>Tune in</span></button>'+
+          '<button class="act-btn act-2nd" id="ap-sets" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h11M3 12h11M3 18h7"/><path d="M16 13v8l6-4z" fill="currentColor" stroke="none"/></svg><span>Sets</span></button>'+
+          '<button class="act-btn act-2nd'+(mine==='wanna_see'?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see')+'">'+HEART_SVG+'<span>Wanna see</span></button>'+
+          '<button class="act-btn act-2nd'+(mine==='seen'?' on':'')+'" id="ap-seen" data-ap-seen="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='seen')+'">'+CHECK_SVG+'<span>Seen live</span></button>'+
+        '</div>';
+        // Header row: avatar + name/socials, with the description alongside on desktop.
+        // Action buttons sit on their own row below.
+        var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests"><b>Festivals</b>'+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
+        var h='<div class="artist-head artist-hero">'+(a.image?'<div class="hero-tint" style="background-image:url('+imgUrl(a.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(a.name||slug)+'</h3>'+socialLinksHTML({ soundcloud:a.soundcloud, instagram:a.instagram, website:a.website })+'</div></div>'+(a.bio?'<p class="seo-desc artist-bio">'+esc(a.bio)+'</p>':(a.description?'<p class="seo-desc">'+esc(a.description)+'</p>':''))+festLine+'</div>';
+        if((a.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+a.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        if(a.hiddenGem && a.hiddenGem.level) h+='<div class="gem-pill" style="margin-top:12px"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</div>';
+        h+=actions;
+        h+='<div id="ap-seen-panel"></div>';
+        // Plays alongside — frequent collaborators from the lineup graph,
+        // shown as the same square photo tiles as the profile shelves.
+        if((a.alongside||[]).length){
+          h+='<div class="pf-box" style="margin-top:16px">'+
+              '<div class="sec-h">'+
+              '<span>More like '+esc(a.name||slug)+'</span>'+
+              '<button class="ev-radio" id="ap-scene" type="button">'+RADIO_SVG+'<span>'+(onAir?'On air':'Radio')+'</span></button>'+
+            '</div>'+
+            '<p style="color:var(--muted);font:500 var(--fs-sm) var(--body);margin:0 0 12px">Artists who share '+esc(a.name||slug)+'’s lineups, promoters &amp; crowd. Hit play for a radio of all of them.</p>'+
+            '<div id="similar-rail"></div></div>';
+        }
+        h+='<div id="ap-upcoming"></div>';
+        // Past sets — the gig-history timeline.
+        if((a.history||[]).length){
+          h+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past sets</div><ul class="gig-history">'+a.history.map(function(g){
+            var d=fmtDateLabel(String(g.event_date).slice(0,10));
+            var label=g.title||g.venue||'Event';
+            var sub=[(g.title&&g.venue)?g.venue:'', cityLabel(g.city)].filter(Boolean).join(' · ');
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(sub?' <small>'+esc(sub)+'</small>':'')+'</button>'+
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
+          }).join('')+'</ul></div>';
+        }
+        openPanel(h);
+        var _acanon=location.origin+SC_BASE+'dj/'+slug+'/';
+        setSeo((a.name||slug)+' — gigs & upcoming shows | soundcheck', a.description||'', { "@context":"https://schema.org","@type":"MusicGroup", name:(a.name||slug), url:_acanon, description:a.description||'' }, _acanon);
+        // "Tune in" plays the artist's own YouTube set in the dock (same flow as the
+        // home-page lineup play buttons), so the dock's clickable name/venue apply.
+        var apRadio=document.getElementById('ap-radio');
+        apRadio.addEventListener('pointerdown',function(){ prefetchYt(apRadio); },{passive:true});
+        apRadio.addEventListener('click',function(){ handleYtClick(apRadio); });
+        var apSets=document.getElementById('ap-sets'); if(apSets) apSets.addEventListener('click',function(){ playArtistSets(slug, a.name||slug); });
+        // "You've caught {artist} N times" — your logged nights with this DJ (mock #2).
+        if(currentUser){
+          var _anm=a.name||slug;
+          authedFetch('/api/artist/seen?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(sd){
+            var box=document.getElementById('ap-seen-panel'); if(!box) return;
+            var c=sd.count||0, nights=sd.nights||[];
+            if(c>0){
+              box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">night'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
+                nights.map(function(g){ var d=g.gig_date?fmtDateLabel(String(g.gig_date).slice(0,10)):''; var ev=g.event_id?'<a class="ap-seen-ev" data-event-id="'+esc(String(g.event_id))+'">view event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><span class="ap-seen-v"'+(g.venue?' data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</span>'+ev+'</div>'; }).join('')+
+                '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another night</button></div>';
+            } else {
+              box.innerHTML='<div class="ap-seen ap-seen-empty"><span class="ap-seen-emptx">You haven’t logged a night with <b>'+esc(_anm)+'</b> yet.</span><button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log a night</button></div>';
+            }
+            var lg=document.getElementById('ap-seen-log'); if(lg) lg.addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:_anm } }); });
+            box.querySelectorAll('.ap-seen-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.eventId); }); });
+            box.querySelectorAll('.ap-seen-v[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue); }); });
+          }).catch(function(){});
+        }
+        armSticky(a.name||slug, function(){ apRadio.click(); }, apRadio);   // sticky title bar: artist name + Tune in
+        var apScene=document.getElementById('ap-scene'); if(apScene) apScene.addEventListener('click',function(){ startArtistRadio(slug, a.name, a.alongside); });
+        // Optimistic: setArtist/setSeen flip the button via refreshArtistButtons
+        // immediately and sync to the DB in the background — no full re-render.
+        document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
+        document.getElementById('ap-seen').addEventListener('click',function(){ toggleSeen(slug,{name:a.name}); });
+        document.querySelectorAll('#page-body .ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        // "More like X" — round artist tiles (same format as Artists-for-you) with each
+        // collaborator's next gig (date · venue · city) underneath. Instant fallback from
+        // the lineup graph (names only), then /api/artist/similar fills in the richer recs
+        // + next gigs. Both render through the shared mountArtistRail builder.
+        (function(){
+          var rail=document.getElementById('similar-rail'); if(!rail) return;
+          var fallback=(a.alongside||[]).map(function(x){ return { slug:x.slug, name:x.name, image:x.image_url }; });
+          // Skeleton holds the space while the graph recs load, so the rail eases in once —
+          // no instant-names-then-swap. The alongside list is kept only as a failure fallback.
+          railSkeleton(rail, { kind:'artist', n:Math.min(8, Math.max(4, fallback.length||6)), wide:true });
+          authedFetch('/api/artist/similar?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(j){
+            var sim=(j&&j.similar)||[];
+            if(sim.length) mountArtistRail(rail, sim.map(function(s){ return { slug:s.slug, name:s.name, image:s.image, nextDate:(s.next&&s.next.event_date)||null, nextVenue:(s.next&&s.next.venue)||null, nextCity:(s.next&&s.next.city)||null }; }), { wrap:true, wide:true, emptyLabel:'No upcoming dates' });
+            else if(fallback.length) mountArtistRail(rail, fallback, { wrap:true, wide:true });
+            else rail.innerHTML='';
+          }).catch(function(){ if(fallback.length) mountArtistRail(rail, fallback, { wrap:true, wide:true }); else rail.innerHTML=''; });
+        })();
+        // Whole row opens the event (date/title/gap all tap through); the button
+        // stays for keyboard/SR users and stops propagation so it fires once.
+        document.querySelectorAll('#page-body .gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
+        document.querySelectorAll('#page-body .gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
+        // Real upcoming gigs across every city we cover (canonical event_artists join), home-style cards.
+        var up=document.getElementById('ap-upcoming');
+        var rows=(a.upcoming||[]).map(function(g){
+          return {
+            id:g.id, title:g.title, venue:g.venue, genres:g.genres,
+            _city:g.city?cityLabel(g.city):'',
+            _day:fmtDateLabel(String(g.event_date).slice(0,10)),
+            startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
+            artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; })
+          };
+        });
+        if(up && rows.length){
+          up.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+rows.length+'</span></div>'+
+            '<div class="grid">'+rows.map(cardHTML).join('')+'</div>';
+          wireCard(up);
+          var rmap={}; rows.forEach(function(ev){ if(ev.id!=null) rmap[String(ev.id)]=ev; });
+          wireEvcCards(up, rmap);
+        }
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that artist.</div>'); }
+    }
+    function toggleVenueFollow(v, btn){
+      if(!currentUser){ openAuth(); return; }
+      var willFollow=!btn.classList.contains('on');
+      var lbl=btn.querySelector('span');
+      btn.classList.toggle('on', willFollow);
+      if(lbl) lbl.textContent=willFollow?'Following':'Follow';
+      btn.setAttribute('aria-pressed', willFollow?'true':'false');
+      v.following=willFollow;
+      authedFetch('/api/venue/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ slug:v.slug, name:v.name, follow:willFollow }) })
+        .then(function(r){ if(!r.ok) throw 0; })
+        .catch(function(){ btn.classList.toggle('on', !willFollow); if(lbl) lbl.textContent=!willFollow?'Following':'Follow'; btn.setAttribute('aria-pressed', !willFollow?'true':'false'); v.following=!willFollow; showToast('Couldn’t update.'); });
+    }
+    // slugify a venue name → URL slug (must match the backend's slugify so the
+    // slug resolves). Idempotent, so it accepts either a name (from a click) or
+    // an already-slugged value (from a /v/<slug> cold-load).
+    function venueSlug(s){ return String(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+    // Descriptive event URL: e/<id>-<who>-at-<venue>. The router resolves on the
+    // leading numeric id only (eventIdOf), so the slug is purely for keywords/SEO
+    // and a stale slug (line-up renamed) still resolves. who = title or top act —
+    // verifiable facts, never an asserted "headliner".
+    function eventSlugTail(who, venue){ var s=[who,venue].filter(Boolean).join(' at ').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); return s.slice(0,60).replace(/-+$/,''); }
+    function eventPath(id, who, venue){ var t=eventSlugTail(who,venue); return 'e/'+id+(t?('-'+t):''); }
+    function eventIdOf(v){ var m=String(v==null?'':v).match(/^(\d+)/); return m?m[1]:String(v); }
+    // The all-cities scene index — image-led cover tiles: the city's biggest-night poster
+    // behind, signature sound, and the faces of the most notable acts playing there.
+    function sceneTone(slug){ var t=['#33403f','#3a2e3b','#3b332b','#2c3340','#3a2e2c','#2f3830','#34303f']; var n=0; for(var i=0;i<slug.length;i++) n=(n*31+slug.charCodeAt(i))>>>0; return t[n%t.length]; }
+    // city tile = wide landscape card: big name over a banner image + a strip of the faces
+    // of acts playing that city this month
+    function coverTileHTML(c){
+      var imgStyle=c.image?('background-image:url('+imgUrl(c.image,560)+')'):('background:'+sceneTone(c.slug));
+      var faces=(c.faces||[]).slice(0,7).map(function(f,i){ return '<span class="sct-face" style="'+(f.image?'background-image:url('+imgUrl(f.image,80)+');':'')+'margin-left:'+(i?-10:0)+'px"></span>'; }).join('');
+      var extra=(c.faces&&c.faces.length>7)?'<span class="sct-face-x">+'+(c.faces.length-7)+'</span>':'';
+      var facesRow=faces?'<div class="sct-faces">'+faces+extra+'</div>':'<div class="sct-faces sct-empty">Lineups landing soon</div>';
+      return '<button class="sct" type="button" data-city="'+esc(c.slug)+'">'+
+        '<div class="sct-img" style="'+imgStyle+'"><span class="sct-name">'+esc(c.name)+(c.country?' <span class="sct-cc">'+esc(c.country)+'</span>':'')+'</span></div>'+
+        '<div class="sct-foot"><div class="sct-foot-l">Playing this month</div>'+facesRow+'</div>'+
+        '</button>';
+    }
+    // country code → continent, for grouping the scenes index
+    var SCENE_CONT={ UK:'Europe',GB:'Europe',IE:'Europe',DE:'Europe',NL:'Europe',FR:'Europe',ES:'Europe',IT:'Europe',PT:'Europe',BE:'Europe',AT:'Europe',CH:'Europe',SE:'Europe',NO:'Europe',DK:'Europe',FI:'Europe',PL:'Europe',CZ:'Europe',HU:'Europe',RO:'Europe',GR:'Europe',HR:'Europe',RS:'Europe',BG:'Europe',EE:'Europe',LT:'Europe',LV:'Europe',SI:'Europe',SK:'Europe',UA:'Europe',GE:'Europe',IS:'Europe',LU:'Europe',MT:'Europe',CY:'Europe',
+      US:'North America',CA:'North America',MX:'North America',
+      BR:'South America',AR:'South America',CL:'South America',CO:'South America',PE:'South America',UY:'South America',
+      JP:'Asia',CN:'Asia',KR:'Asia',TW:'Asia',HK:'Asia',SG:'Asia',TH:'Asia',ID:'Asia',IN:'Asia',VN:'Asia',PH:'Asia',MY:'Asia',
+      AU:'Oceania',NZ:'Oceania',
+      AE:'Middle East',IL:'Middle East',TR:'Middle East',LB:'Middle East',SA:'Middle East',QA:'Middle East',
+      ZA:'Africa',NG:'Africa',EG:'Africa',MA:'Africa',KE:'Africa',TZ:'Africa',GH:'Africa',UG:'Africa' };
+    var SCENE_CONT_ORDER=['Europe','North America','South America','Asia','Oceania','Middle East','Africa','Other'];
+    async function openScenes(){
+      if(location.pathname!==SC_BASE+'scenes/') history.pushState({sc:1},'',SC_BASE+'scenes/');
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/scenes'); var j=await r.json();
+        var cs=j.cities||[];
+        var h='<h2 class="page-title">Scene guides</h2><div class="sub" style="margin-bottom:18px">Pick a city — the clubs, the sounds, and who&rsquo;s playing this month.</div>';
+        var byCont={};
+        cs.forEach(function(c){ var k=SCENE_CONT[(c.country||'').toUpperCase()]||'Other'; (byCont[k]=byCont[k]||[]).push(c); });
+        SCENE_CONT_ORDER.forEach(function(k){ var list=byCont[k]; if(!list||!list.length) return;
+          h+='<div class="sec-h" style="margin-top:26px">'+k+'<span class="ct">'+list.length+'</span></div><div class="sc-cover-grid">'+list.map(coverTileHTML).join('')+'</div>';
+        });
+        if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
+        openPanel(h);
+        setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
+        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
+      }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
+    }
+    // Scene routing: each card is a sound → the venues likely to play it, as venue tiles that
+    // open the venue. No play button, no artist hook — just "if you like X, go to these venues".
+    function sceneRouteHTML(routes){
+      return routes.map(function(rt){
+        var vch=rt.venues.map(function(v){ return '<button class="rf-venue" type="button" data-venue="'+esc(v.name)+'">'+esc(v.name)+'</button>'; }).join('');
+        return '<div class="rf-card rf-card-simple"><div class="rf-genre">'+esc(rt.genre)+'</div><div class="rf-venues">'+vch+'</div></div>';
+      }).join('');
+    }
+    async function openCityScene(city){
+      city=(city||currentCity||'london').toLowerCase();
+      var url=SC_BASE+city+'/scene/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
+        var nm=s.cityName||city;
+        var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button><h2 class="page-title">'+esc(nm)+' scene guide</h2><div class="sub" style="margin-bottom:16px">Who&rsquo;s playing, the venues they&rsquo;re in, and what&rsquo;s on — hit play on anything.</div>';
+        h+='<div id="cs-playing"></div><div id="cs-posters"></div><div id="cs-venues"></div><div id="cs-routes"></div>';
+        h+='<div class="sec-h" style="margin-top:26px">On the map</div><div id="cs-map" class="cs-map-hero"></div><div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>';
+        openPanel(h);
+        setSeo(nm+" scene guide — who's playing, the venues & sounds | soundcheck", 'The artists playing '+nm+' this month, the venues they’re in, upcoming nights and the sounds that define the city.', null, location.origin+SC_BASE+city+'/scene/');
+        var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
+
+        // Playing this month / Upcoming / Venues — all three reuse the shared rail builders.
+        // Same round-tile template as the other artist rails, but the subtitle is just the
+        // venue name (no date/city — the guide is already city-scoped).
+        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]), { title:'Playing this month', city:city, mt:'20px', wide:true });
+        mountEventRail(document.getElementById('cs-posters'), (s.upcomingEvents||[]), { title:'Upcoming', mt:'26px' });
+        mountVenueRail(document.getElementById('cs-venues'), (s.bestVenues||[]), { title:'Venues', city:city, mt:'26px' });
+
+        // Find your venue (sound → venues)
+        var yr=(s.yourRoutes||[]), rts=(s.routes||[]), croute=document.getElementById('cs-routes');
+        if(croute && rts.length){
+          var rhtml='';
+          if(yr.length){
+            rhtml+='<div class="sec-h" style="margin-top:26px">Tuned to your taste</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' venues likely to play it.</p>'+sceneRouteHTML(yr);
+            var yrG={}; yr.forEach(function(r){ yrG[r.genre]=1; });
+            var rest=rts.filter(function(r){ return !yrG[r.genre]; });
+            if(rest.length) rhtml+='<div class="sec-h" style="margin-top:26px">More sounds here</div>'+sceneRouteHTML(rest);
+          } else {
+            rhtml+='<div class="sec-h" style="margin-top:26px">Find your venue</div><p class="route-intro">If you like a sound, these are the '+esc(nm)+' venues likely to play it.</p>'+sceneRouteHTML(rts);
+          }
+          croute.innerHTML=rhtml;
+          croute.querySelectorAll('.rf-venue[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, city); }); });
+        }
+
+        // Map — at the very bottom. Only the busiest venues (5+ upcoming nights), so the
+        // pins read as a real scene map, not every geocoded address with a stray date.
+        mountVenueMap(document.getElementById('cs-map'), city, { scroll:false, minUpcoming:5 });
+      }catch(_){ openPanel('<div class="empty">Couldn’t load the scene guide.</div>'); }
+    }
+    async function openPromoter(slug){
+      setRoute('promoter/'+slug);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/promoter?slug='+encodeURIComponent(slug)); var p=await r.json();
+        var dispName=p.name||slug;
+        var av='<span class="artist-av" style="background-image:'+avatarBg(dispName,null)+'"></span>';
+        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3></div><div class="sub">Promoter</div></div>'+(p.description?'<p class="seo-desc">'+esc(p.description)+'</p>':'')+'</div>';
+        var stats=[];
+        if(p.gigs) stats.push('<span><b>'+p.gigs+'</b> events</span>');
+        if((p.cities||[]).length) stats.push('<span><b>'+p.cities.length+'</b> '+(p.cities.length===1?'city':'cities')+'</span>');
+        if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
+        if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their nights.</div>';
+        if((p.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+p.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        var pNext=nextPlayableEvent(p.upcoming);
+        if(pNext) h+='<div class="artist-actions" style="max-width:240px;margin-top:12px"><button class="ev-radio" id="pp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button></div>';
+        h+='<div id="pp-upcoming"></div><div id="pp-artists"></div><div id="pp-venues"></div><div id="pp-similar"></div><div id="pp-past"></div>';
+        openPanel(h);
+        var prb=document.getElementById('pp-radio');
+        if(prb && pNext) prb.addEventListener('click',function(){ playEventLineupRadio({ id:pNext.id, venue:pNext.venue, event_date:pNext.event_date, poster_url:pNext.poster_url, lineup:pNext.lineup }); });
+        var _pcanon=location.origin+SC_BASE+'promoter/'+slug+'/';
+        setSeo(dispName+' — events & line-ups | soundcheck', p.description||'', { "@context":"https://schema.org","@type":"Organization", name:dispName, url:_pcanon, description:p.description||'' }, _pcanon);
+        var up=(p.upcoming||[]), pu=document.getElementById('pp-upcoming');
+        if(pu && up.length){
+          pu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+up.length+'</span></div><div id="pp-cards"></div>';
+          mountEventCards(document.getElementById('pp-cards'), up);
+        }
+        var pst=(p.past||[]), ppst=document.getElementById('pp-past');
+        if(ppst && pst.length){
+          ppst.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past events</div><ul class="gig-history">'+pst.map(function(g){
+            var d=fmtDateLabel(String(g.event_date).slice(0,10));
+            var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+            var label=g.title||line||'Event';
+            var pvsub=[g.venue, cityLabel(g.city)].filter(Boolean).join(' · ');
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(pvsub?' <small>'+esc(pvsub)+'</small>':'')+'</button></li>';
+          }).join('')+'</ul></div>';
+          ppst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+          ppst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
+        }
+        var arts=(p.topArtists||[]), pa=document.getElementById('pp-artists');
+        if(pa && arts.length){
+          pa.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Artists they book</div><div class="ptiles ptiles-wide">'+arts.map(function(x){ return ptile(x.slug,x.name,false,x.image_url); }).join('')+'</div></div>';
+          pa.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); });
+        }
+        var vns=(p.venues||[]), pv=document.getElementById('pp-venues');
+        if(pv && vns.length){
+          pv.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Venues they use</div><div class="pp-tags">'+vns.map(function(v){ return '<span class="sc-tag">'+esc(v.venue)+' <small>'+v.n+'</small></span>'; }).join('')+'</div></div>';
+        }
+        var sims=(p.similar||[]), ps=document.getElementById('pp-similar');
+        if(ps && sims.length){
+          ps.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<button class="pp-prom" type="button" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></button>'; }).join('')+'</div></div>';
+          ps.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
+        }
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that promoter.</div>'); }
+    }
+    async function openVenue(input, cityHint){
+      var slug=venueSlug(input);
+      // Venues are city-scoped: /<city>/v/<slug>. Default to the city in the URL
+      // or the one being browsed; corrected to the venue's real city after fetch.
+      var city=(cityHint || pathCitySlug() || currentCity || 'london');
+      var url=SC_BASE+city+'/club/'+slug+'/';
+      if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)+'&city='+encodeURIComponent(city)); var v=await r.json();
+        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/club/'+slug+'/'); }
+        var dispName=v.name||input;
+        var sub=v.address?esc(v.address):(v.area?esc(v.area):'on soundcheck');
+        var av='<span class="artist-av" style="background-image:'+avatarBg(v.slug||dispName,null)+'">'+(v.image?'<img src="'+imgUrl(v.image,200)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">':'')+'</span>';
+        // Venue header mirrors the artist-page hero: logo + name/socials + description.
+        var h='<div class="artist-head artist-hero">'+(v.image?'<div class="hero-tint" style="background-image:url('+imgUrl(v.image,480)+')"></div>':'')+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3>'+socialLinksHTML({ website:v.website })+'</div>'+(sub?'<div class="sub">'+sub+'</div>':'')+'</div>'+(v.description?'<p class="seo-desc">'+esc(v.description)+'</p>':'')+'</div>';
+        var stats=[];
+        if(v.followers>1) stats.push('<span><b>'+v.followers+'</b> followers</span>');
+        // "logged" + "saved upcoming" counts hidden — no social proof surfaced yet.
+        if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
+        var vNext=nextPlayableEvent(v.upcoming);
+        if(v.slug){
+          // Locked action-row pattern: 1 primary (full-width) + 2 secondary (50/50).
+          // Primary = the play/preview action when there's a playable night, matching
+          // the artist "Tune in"; otherwise Follow takes the primary slot.
+          var vFollow='<button class="act-btn '+(vNext?'act-2nd':'radio')+(v.following?' on':'')+'" id="vf-btn" type="button" aria-pressed="'+(v.following?'true':'false')+'">'+HEART_SVG+'<span>'+(v.following?'Following':'Follow')+'</span></button>';
+          var vBeen='<button class="act-btn act-2nd'+(v.myReview?' on':'')+'" id="vp-been" type="button">'+CHECK_SVG+'<span>'+(v.myReview?'You&rsquo;ve been':'I&rsquo;ve been')+'</span></button>';
+          h+='<div class="artist-actions">'+(vNext?('<button class="act-btn radio" id="vp-radio" type="button">'+RADIO_SVG+'<span>Play next night</span></button>'+vFollow+vBeen):(vFollow+vBeen))+'</div>';
+        }
+        h+='<div id="vp-dna">'+dnaBoxHTML(v.dna)+'</div><div id="vp-upcoming"></div><div id="vp-past"></div>';
+        if(v.lat!=null && v.lng!=null) h+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Location</div>'+(v.address?'<div class="venue-addr">'+esc(v.address)+'</div>':'')+'<div id="venue-loc" class="venue-map" style="height:300px"></div></div>';
+        h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups current and reach the people who follow you on soundcheck.</div></div><button class="cb-btn" id="vp-claim" type="button">Claim this venue</button></div>';
+        openPanel(h);
+        var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
+        setSeo(dispName+" — what's on & tickets | soundcheck", v.description||'', { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:v.description||'', address:v.address||undefined }, _vcanon);
+        var vfBtn=document.getElementById('vf-btn');
+        if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
+        var beenBtn=document.getElementById('vp-been');
+        if(beenBtn) beenBtn.addEventListener('click',function(){ openVenueReview(v); });
+        var vrb=document.getElementById('vp-radio');
+        if(vrb && vNext) vrb.addEventListener('click',function(){ playEventLineupRadio({ id:vNext.id, venue:dispName, event_date:vNext.event_date, poster_url:vNext.poster_url, lineup:vNext.lineup }); });
+        armSticky(dispName, (vrb&&vNext)?function(){ vrb.click(); }:null, vrb || document.querySelector('#page-body .artist-hero'));   // sticky title bar: venue name + Play next night (name-only if nothing upcoming)
+        var cbBtn=document.getElementById('vp-claim');
+        if(cbBtn) cbBtn.addEventListener('click',function(){ openClaimModal(dispName, v.slug); });
+        // F7: venue DNA — rendered in place from v.dna (folded into /api/venue), so
+        // it paints with the page instead of popping in late. Just wire its links.
+        document.querySelectorAll('#vp-dna .vd-vlink[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ openVenue(b.dataset.venue, v.city||currentCity); }); });
+        var up=(v.upcoming||[]), vu=document.getElementById('vp-upcoming');
+        if(vu && up.length){
+          vu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming at '+esc(dispName)+'<span class="ct">'+up.length+'</span></div><div id="vp-cards"></div>';
+          mountEventCards(document.getElementById('vp-cards'), up);
+        }
+        // Past events — same gig-history list pattern as "Past sets" on the artist page.
+        var pst=(v.past||[]), vpst=document.getElementById('vp-past');
+        if(vpst && pst.length){
+          vpst.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past events</div><ul class="gig-history">'+pst.map(function(g){
+            var d=fmtDateLabel(String(g.event_date).slice(0,10));
+            var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+            var label=g.title||line||'Event';
+            return '<li class="gh-row" data-open-evt="'+esc(String(g.id))+'"><span class="gh-date">'+esc(d)+'</span>'+
+              '<button class="gh-venue" type="button" data-open-evt="'+esc(String(g.id))+'">'+esc(label)+(line && line!==label ? ' <small>'+esc(line)+'</small>' : '')+'</button>'+
+              '<button class="gh-log" type="button" data-log-evt="'+esc(String(g.id))+'" title="Log this gig">+ Log</button></li>';
+          }).join('')+'</ul></div>';
+          vpst.querySelectorAll('.gh-row[data-open-evt]').forEach(function(li){ li.addEventListener('click',function(){ openEvent(li.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-venue[data-open-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openEvent(b.dataset.openEvt); }); });
+          vpst.querySelectorAll('.gh-log[data-log-evt]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); openLog({eventId:b.dataset.logEvt}); }); });
+        }
+        if(v.lat!=null && v.lng!=null){
+          var locEl=document.getElementById('venue-loc');
+          loadLeaflet(function(){
+            var _rt=currentRoute(); if((_rt.indexOf('club/')!==0 && _rt.indexOf('v/')!==0) || !document.getElementById('venue-loc')) return;   // path-routed, not hash
+            var map=L.map(locEl,{ scrollWheelZoom:false }).setView([v.lat,v.lng], 15);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
+            L.circleMarker([v.lat,v.lng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(dispName)+'</b>'+(v.address?'<br><span style="color:#9292a0">'+esc(v.address)+'</span>':''));
+            setTimeout(function(){ map.invalidateSize(); },120);
+          });
+        }
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that venue.</div>'); }
+    }
+
+    // ── full event page (the sustainable, linkable version of the sheet) ──
+    function fmtEventDay(d){
+      try{ return new Date(String(d).slice(0,10)+'T12:00:00').toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}); }
+      catch(_){ return String(d||'').slice(0,10); }
+    }
+    // ── event line-up = ONE ranked "bill": who-not-to-miss folded in (badges on the
+    // standouts), every DJ shown once, each row + the top button play as a youtube queue. ──
+    function billItemsFromEv(ev){
+      return (ev.artists||[]).map(function(a){ var slug=(a.contentUrl||'').split('/').filter(Boolean).pop(); return { slug:slug, name:a.name, image:a.image }; }).filter(function(x){ return x.slug; });
+    }
+    // The bill = a YouTube queue. The photo ▶ plays that artist and sets the queue so the
+    // dock prev/next walks the whole line-up; the name links to the artist's page.
+    // The bill = the Seen/Wanna shelf, enriched: round artist tiles, a ▶ on each photo (plays that
+    // artist + queues the line-up), plus the who-not-to-miss suggestion — the tier badge on the
+    // photo + a one-line why under the name. Tap the tile → the artist's page; tap ▶ → play.
+    function billRowsHTML(items){
+      return '<div class="pf-grid bill-grid">'+items.map(function(a, i){
+        var img=a.image?'<img class="pimg" loading="lazy" decoding="async" src="'+imgUrl(a.image,300)+'" alt="" onerror="this.remove()">':'';
+        var badge=a.tier?'<span class="bill-badge '+(a.tier==='Do not miss'?'bb-hi':'bb-mid')+'">'+esc(a.tier)+'</span>':'';
+        var why=a.reason?'<span class="bill-why">'+esc(a.reason)+'</span>':'';
+        var go=a.slug?' data-bill-go="'+esc(a.slug)+'"':'';
+        return '<div class="ptile bill-tile"'+go+'>'+
+            '<span class="ptile-imgwrap">'+
+              '<span class="ptile-img'+(a.image?' has-img':'')+'" style="background:'+artGrad(a.name||a.slug)+'">'+img+'</span>'+
+              badge+
+              '<button class="bill-play" type="button" data-bill-i="'+i+'" aria-label="Play '+esc(a.name)+'"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>'+
+            '</span>'+
+            '<span class="nm">'+esc(a.name)+'</span>'+
+            why+
+          '</div>';
+      }).join('')+'</div>';
+    }
+    function mountBill(items){
+      var box=document.getElementById('ev-bill'); if(!box) return;
+      if(!items.length){ box.innerHTML='<div class="pf-box" style="margin-top:20px">'+pfHead('Line-up',null,'')+'<div class="empty" style="padding:2px 0">To be announced.</div></div>'; return; }
+      box.innerHTML='<div class="pf-box" style="margin-top:20px">'+pfHead('The bill',items.length,'')+billRowsHTML(items)+'</div>';
+      var q=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
+      // ▶ on the photo → play that artist (jumps the queue to them; dock prev/next walks the rest)
+      box.querySelectorAll('.bill-play[data-bill-i]').forEach(function(el){ el.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, +el.dataset.billI); }); });
+      // tap the tile → the artist's page
+      box.querySelectorAll('.bill-tile[data-bill-go]').forEach(function(el){ el.addEventListener('click',function(){ openArtist(el.dataset.billGo); }); });
+      var pb=document.getElementById('ev-playbill'); if(pb){ pb.onclick=function(){ playYtList(q,0); }; }
+    }
+    function eventPageHTML(ev){
+      var time=formatTimeRange(ev.startTime, ev.endTime, ev._time);
+      var dlabel=ev._day||(ev.event_date?fmtEventDay(ev.event_date):'');   // always show a date
+      var whenStr=(dlabel?' &middot; '+esc(dlabel):'')+(time?' &middot; '+esc(time):'');
+      var priceStr=formatPrice(ev.minPrice, ev.maxPrice, ev.currency);   // scraped ticket price (label only — no ticketing link)
+      var priceTag=priceStr?'<span class="price-tag'+(priceStr==='Free'?' free':'')+'">'+esc(priceStr)+'</span>':'';
+      var eid=ev.id!=null?String(ev.id):'';
+      var evPicked = eid && isEventPicked(eid) ? ' on' : '';
+      var evHeart = eid ? '<button class="act-btn act-2nd heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+BOOKMARK_SVG+'<span>Save</span></button>' : '';
+      var evShare = eid ? '<button class="act-btn act-2nd act-icon share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
+      // Past event → "Add to log" / "Logged" (you can't "save/go" to a night that's
+      // already happened); future event keeps the save heart.
+      var isPast = eid && ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
+      var evLog = isPast ? '<button class="act-btn act-2nd act-log'+(ev.logged?' on':'')+'" type="button" data-log-evt="'+esc(eid)+'">'+CHECK_SVG+'<span>'+(ev.logged?'Logged':'Log it')+'</span></button>' : '';
+      // Tickets: a Google search for the event (upcoming only) — opens in a new tab. No
+      // third-party ticketing partner; just a quick "find tickets" jump-off.
+      var evTickets = (eid && !isPast) ? '<a class="act-btn act-2nd act-tickets" href="https://www.google.com/search?q='+encodeURIComponent((ev.title||'')+' tickets')+'" target="_blank" rel="noopener noreferrer" aria-label="Find tickets for this event"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M13 5v2"/><path d="M13 11v2"/><path d="M13 17v2"/></svg><span>Tickets</span></a>' : '';
+      var n=(ev.artists||[]).length;
+      // Big, uncropped, full-res poster on top (flyers carry the line-up/times);
+      // gradient fallback only when there's no real poster.
+      var posterBig = ev.poster
+        ? '<div class="ev-poster-big"><img loading="lazy" decoding="async" src="'+imgUrl(ev.poster,1000)+'" alt="" onerror="var p=this.closest(\'.ev-poster-big\'); if(p) p.style.display=\'none\'"></div>'
+        : '<div class="poster ev-poster-gen">'+genPoster(ev.title||'Event')+'</div>';
+      return '<div class="ev-layout">'+
+          '<div class="ev-col-poster">'+posterBig+'</div>'+
+          '<div class="ev-col-main">'+
+            '<div class="event-head-tx">'+
+              (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
+              '<h3>'+esc(ev.title||'Event')+'</h3>'+
+              '<div class="sheet-meta"><b class="venue-link ev-venue-name" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span class="ev-meta-line"><span id="ev-when">'+whenStr+'</span>'+priceTag+'</span></div>'+
+            '</div>'+
+            /* Sticky play bar: big play (the line-up YouTube queue) + Save/Share. A direct
+               child of ev-col-main so position:sticky travels the full column (incl. the bill). */
+            (eid ? '<div class="ev-playbar">'+((ev.artists||[]).length?'<button class="ev-bigplay" id="ev-playbill" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>':'')+'<div class="ev-pb-acts">'+(isPast?evLog:(evHeart+evTickets))+evShare+'</div></div>' : '')+
+            '<div id="ev-meta-rich"><div class="sk" style="height:18px;width:55%;border-radius:var(--radius-xs);margin-top:16px"></div><div class="sk" style="height:13px;width:92%;border-radius:var(--radius-xs);margin-top:11px"></div><div class="sk" style="height:13px;width:78%;border-radius:var(--radius-xs);margin-top:7px"></div></div>'+   /* genre chips + blurb — skeleton reserves space; renderEventRich swaps in place */
+            '<div id="ev-review"></div>'+    /* D5: opt-in structured review (attendance-gated) */
+            '<div id="ev-bill"></div>'+      /* the bill — who-not-to-miss ranked in, names once (mountBill) */
+          '</div>'+
+        '</div>'+
+        '<div id="ev-rich"></div>'+        /* location map + recommendations (full-width, filled by renderEventRich) */
+        (ev.venue?'<button class="more-venue venue-link" type="button" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' &rsaquo;</button>':'');
+    }
+    function wireEventRadio(ev){ var rb=document.querySelector('#page-body .ev-radio'); if(rb) rb.addEventListener('click',function(){ startEventRadio(ev); }); }
+    // ── event page enrichment (genres, blurb, map, recommendations) ──
+    function musicEventLD(ev){
+      var o={ "@context":"https://schema.org","@type":"MusicEvent", name:ev.title||'Event', url:location.origin+SC_BASE+eventPath(ev.id, ev.title||((ev.artists||[])[0]||{}).name, ev.venue)+'/', eventAttendanceMode:"https://schema.org/OfflineEventAttendanceMode" };
+      if(ev.startTime||ev.event_date) o.startDate=ev.startTime||ev.event_date;
+      if(ev.endTime) o.endDate=ev.endTime;
+      if(ev.venue){ o.location={ "@type":"MusicVenue", name:ev.venue }; if(ev.venueAddress) o.location.address=ev.venueAddress; }
+      var perf=(ev.artists||[]).map(function(a){ return { "@type":"MusicGroup", name:a.name }; });
+      if(perf.length) o.performer=perf;
+      if(ev.poster) o.image=imgUrl(ev.poster,640);
+      return o;
+    }
+    // Fill the two placeholders eventPageHTML left, using the enriched event.
+    function renderEventRich(ev){
+      // Always show the date: the fetched detail is authoritative (has event_date),
+      // so fill the header's #ev-when even if the cached open had no/partial date.
+      var when=document.getElementById('ev-when');
+      if(when){ var d=ev.event_date?fmtEventDay(ev.event_date):(ev._day||''); var t=formatTimeRange(ev.startTime, ev.endTime, ev._time); when.innerHTML=(d?' &middot; '+esc(d):'')+(t?' &middot; '+esc(t):''); }
+      // The bill — fold who-not-to-miss into the line-up: rank it (highlights get a badge +
+      // one-line why, the rest list plainly), every DJ shown ONCE. Re-render #ev-bill in the
+      // ranked order, merging artist photos from the event. Falls back to the instant bill.
+      // "Who not to miss" tips (Do-not-miss badges + reasons) only make sense for a
+      // night you can still catch — skip the ranked re-mount on past events, keep the
+      // plain line-up.
+      var evPast = ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
+      if(!evPast && (ev.artists||[]).length>=2){
+        var imgBy={}; (ev.artists||[]).forEach(function(a){ var s=(a.contentUrl||'').split('/').filter(Boolean).pop(); if(s) imgBy[s]=a.image; });
+        authedFetch('/api/event/lineup?id='+encodeURIComponent(ev.id)).then(function(r){ return r.json(); }).then(function(j){
+          if(!j) return;
+          var ranked=(j.highlights||[]).concat(j.more||[]);
+          if(!ranked.length) return; // keep the instant (unranked) bill
+          mountBill(ranked.map(function(t){ return { slug:t.slug, name:t.name, image:imgBy[t.slug], tier:t.tier||null, reason:t.reason||null }; }));
+        }).catch(function(){});
+      }
+      // D5: structured review — aggregate for everyone, the slider form only if you logged
+      // this night (attendance-gated server-side).
+      var rvEl=document.getElementById('ev-review');
+      if(rvEl){
+        authedFetch('/api/review?eventId='+encodeURIComponent(ev.id)).then(function(r){ return r.json(); }).then(function(j){
+          if(!j) return;
+          var agg=j.agg, can=j.canReview, mine=j.mine||{};
+          if(!agg && !can) return;
+          var html='<div class="rv-box"><div class="nm-k">Reviews <small>from people who were there</small></div>';
+          if(agg) html+='<div class="rv-agg">'+rvStat('Sound',agg.sound)+rvStat('Crowd',agg.crowd)+rvStat('Find',agg.discovery)+'<div class="rv-n">'+agg.n+' review'+(agg.n==1?'':'s')+'</div></div>';
+          if(can) html+='<div class="rv-form">'+rvSlider('sound','Sound',mine.sound)+rvSlider('crowd','Crowd',mine.crowd)+rvSlider('discovery','Discovery',mine.discovery)+'<button class="rv-submit" id="rv-submit" type="button">'+(j.mine?'Update review':'Post review')+'</button><div class="rv-msg" id="rv-msg"></div></div>';
+          html+='</div>';
+          rvEl.innerHTML=html;
+          var sb=document.getElementById('rv-submit');
+          if(sb) sb.addEventListener('click',function(){
+            var body={ eventId:ev.id };
+            ['sound','crowd','discovery'].forEach(function(k){ var el=rvEl.querySelector('input[name="rv-'+k+'"]:checked'); if(el) body[k]=parseInt(el.value,10); });
+            if(body.sound==null&&body.crowd==null&&body.discovery==null){ document.getElementById('rv-msg').textContent='Pick at least one rating.'; return; }
+            sb.disabled=true;
+            authedFetch('/api/review',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}).then(function(r){ return r.json(); }).then(function(o){
+              document.getElementById('rv-msg').textContent=(o&&o.ok)?'Thanks — your review is in.':((o&&o.error)?o.error:'Could not save.'); sb.disabled=false;
+            }).catch(function(){ document.getElementById('rv-msg').textContent='Could not save.'; sb.disabled=false; });
+          });
+        }).catch(function(){});
+      }
+      // The cached first-paint doesn't know if you've logged this night (only the
+      // fresh /api/event does) — refresh the Add-to-log / Logged button now.
+      var lb=document.querySelector('#page-body .act-log');
+      if(lb){ lb.classList.toggle('on', !!ev.logged); lb.innerHTML = ev.logged ? '&#10003; Logged' : '+ Add to log'; }
+      var top=document.getElementById('ev-meta-rich');
+      if(top){
+        var th='';
+        if((ev.genres||[]).length) th+='<div class="ev-genres">'+ev.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
+        if((ev.promoters||[]).length) th+='<div class="ev-promoters">Presented by '+ev.promoters.map(function(p){ return '<a class="pr-link" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>'; }).join(', ')+'</div>';
+        var blurb = ev.content || ev.description; if(blurb) th+='<p class="seo-desc">'+esc(blurb)+'</p>';
+        top.innerHTML=th;
+        top.querySelectorAll('.pr-link[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
+      }
+      var rich=document.getElementById('ev-rich');
+      if(rich){
+        var rh='';
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          rh+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Location</div>'+
+            '<div class="ev-loc-head"><button class="venue-link ev-loc-venue" type="button" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'Venue')+'</button>'+
+              (ev.venue_slug?'<button class="act-btn act-2nd ev-loc-follow'+(ev.venueFollowing?' on':'')+'" id="ev-vfollow" type="button" aria-pressed="'+(ev.venueFollowing?'true':'false')+'" aria-label="Follow '+esc(ev.venue||'')+'">'+HEART_SVG+'<span>'+(ev.venueFollowing?'Following':'Follow')+'</span></button>':'')+'</div>'+
+            (ev.venueAddress?'<div class="venue-addr">'+esc(ev.venueAddress)+'</div>':'')+
+            '<a class="ev-directions" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions &rsaquo;</a>'+
+            '<div id="ev-loc" class="venue-map" style="height:240px"></div></div>';
+        }
+        if((ev.alsoOn||[]).length) rh+='<div class="sec-h" style="margin-top:26px">Also on that night</div><div id="ev-alsoon"></div>';
+        rich.innerHTML=rh;
+        var evf=document.getElementById('ev-vfollow');
+        if(evf) evf.addEventListener('click',function(){ toggleVenueFollow({ slug:ev.venue_slug, name:ev.venue, following:ev.venueFollowing }, evf); });
+        if((ev.alsoOn||[]).length) mountEventCards(document.getElementById('ev-alsoon'), ev.alsoOn);
+        if(ev.venueLat!=null && ev.venueLng!=null){
+          var locEl=document.getElementById('ev-loc');
+          loadLeaflet(function(){
+            if(currentRoute().indexOf('e/')!==0 || !document.getElementById('ev-loc')) return;
+            var map=L.map(locEl,{ scrollWheelZoom:false }).setView([ev.venueLat,ev.venueLng], 15);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{ attribution:'&copy; OpenStreetMap, &copy; CARTO', subdomains:'abcd', maxZoom:19 }).addTo(map);
+            L.circleMarker([ev.venueLat,ev.venueLng],{ radius:9, color:'#1a0f0e', weight:2, fillColor:'#ff7a6b', fillOpacity:1 }).addTo(map).bindPopup('<b>'+esc(ev.venue||'')+'</b>'+(ev.venueAddress?'<br><span style="color:#9292a0">'+esc(ev.venueAddress)+'</span>':''));
+            setTimeout(function(){ map.invalidateSize(); },120);
+          });
+        }
+      }
+      // lineup avatars + section tiles open via existing wireCard/venue-link delegation
+      document.querySelectorAll('#page-body .sheet-line .ln-av[data-artist]').forEach(function(el){ el.style.cursor='pointer'; el.addEventListener('click',function(){ openArtist(el.dataset.artist); }); });
+      var _evld=musicEventLD(ev);
+      setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', _evld, _evld.url);
+    }
+    function mapEventDetail(d){
+      return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, venueFollowing:!!d.venue_following, poster:d.poster_url,
+        _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
+        startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
+        endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
+        _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
+        city:d.city, genres:d.genres||[], description:d.description||'', content:d.content||'', logged:!!d.logged,
+        minPrice: d.min_price!=null ? Number(d.min_price) : null, maxPrice: d.max_price!=null ? Number(d.max_price) : null, currency: d.currency||null,
+        venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
+        alsoOn:d.also_on||[], promoters:d.promoters||[],
+        artists:(d.lineup||[]).map(function(a){ return { name:a.name, contentUrl:'/'+a.slug, soundcloud:a.soundcloud, image:a.image }; }) };
+    }
+    async function openEvent(id){
+      id=eventIdOf(id);   // accept a slugged path (e/<id>-<slug>) or a bare id
+      trackView('event', id);   // D1: behavioural telemetry (server ignores anon)
+      // Only (re)push if we're not already on this event — preserves a slugged URL.
+      if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
+      var cached=lookup.byEvent[id];
+      if(cached){ openPanel(eventPageHTML(cached)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(cached)); armEventSticky(cached.title||''); }
+      else openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/event?id='+encodeURIComponent(id));
+        if(!r.ok) throw 0;
+        var ev=mapEventDetail(await r.json());
+        if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) return;   // navigated away while loading
+        // Upgrade the bare URL to the descriptive, canonical slug now we know who/where.
+        var _who=ev.title||((ev.artists||[])[0]||{}).name||'';
+        history.replaceState({sc:1},'', SC_BASE+eventPath(id,_who,ev.venue)+'/');
+        if(!cached){ openPanel(eventPageHTML(ev)); wireCard(document.getElementById('page-body')); mountBill(billItemsFromEv(ev)); armEventSticky(ev.title||''); }
+        renderEventRich(ev);   // fills the rich sections without re-rendering the head/lineup
+      }catch(_){ if(!cached) openPanel('<div class="empty">Couldn&rsquo;t load that event.</div>'); }
+    }
+
+    // ---- log a gig ----
+    // ── Log a gig — full page (was a modal) ──
+    var lgArtists=[], lgSel=null, lgEventList=[], _logHint=null, lgPickedArtist=null;
+    var lgVenue=null, lgRange=null;   // unified filter: lgPickedArtist + lgVenue + lgRange are all optional (≥1)
+    function debounce(fn, ms){ var t; return function(){ var a=arguments, c=this; clearTimeout(t); t=setTimeout(function(){ fn.apply(c,a); }, ms); }; }
+    function pubGet(path){ return fetch(API_BASE+path).then(function(r){ return r.json(); }).catch(function(){ return {}; }); }
+    function attachSuggest(input, drop, fetcher, onPick){
+      if(!input||!drop) return;
+      var cur=[];
+      function hide(){ drop.classList.remove('show'); drop.innerHTML=''; }
+      var run=debounce(async function(){
+        var qv=input.value.trim();
+        if(qv.length<2){ hide(); return; }
+        try{ cur=await fetcher(qv); }catch(_){ cur=[]; }
+        if(!cur.length){ hide(); return; }
+        drop.innerHTML=cur.map(function(it,i){ return '<button type="button" data-i="'+i+'">'+it.label+'</button>'; }).join('');
+        drop.classList.add('show');
+      },200);
+      input.addEventListener('input',run);
+      drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(b){ e.preventDefault(); onPick(cur[+b.dataset.i]); hide(); } });
+      input.addEventListener('blur',function(){ setTimeout(hide,160); });
+    }
+    // Reusable city autocomplete over CITY_LIST (client-side, no API) — same look
+    // as the artist/venue pickers, so a form never mixes a native select with an
+    // autocomplete. Contract matches a <select>: read the slug from hidden #<id>.
+    function cityPickerHTML(id, selSlug){
+      var sel=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===selSlug){ sel=CITY_LIST[i]; break; } }
+      return '<div class="sg-wrap"><input type="text" id="'+id+'-in" placeholder="Search cities…" autocomplete="off" autocapitalize="off" value="'+(sel?esc(sel.name):'')+'"><input type="hidden" id="'+id+'" value="'+(sel?esc(sel.slug):'')+'"><div class="sg-drop" id="'+id+'-drop"></div></div>';
+    }
+    function wireCityPicker(id, onChange){
+      var input=document.getElementById(id+'-in'), hidden=document.getElementById(id), drop=document.getElementById(id+'-drop');
+      if(!input||!hidden||!drop) return;
+      var cur=[];
+      function show(){
+        var q=input.value.trim().toLowerCase();
+        cur=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); });
+        if(q) cur=cur.filter(function(c){ return c.name.toLowerCase().indexOf(q)>=0; });
+        cur=cur.slice(0,8);
+        if(!cur.length){ drop.classList.remove('show'); drop.innerHTML=''; return; }
+        drop.innerHTML=cur.map(function(c,i){ return '<button type="button" data-i="'+i+'">'+esc(c.name)+'</button>'; }).join('');
+        drop.classList.add('show');
+      }
+      input.addEventListener('focus',show);
+      input.addEventListener('input',show);
+      drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(!b) return; e.preventDefault(); var c=cur[+b.dataset.i]; input.value=c.name; hidden.value=c.slug; drop.classList.remove('show'); if(onChange) onChange(c.slug); });
+      // Like a native select: on blur, snap the visible text back to the actually
+      // selected city so a half-typed value can't linger out of sync with the slug.
+      input.addEventListener('blur',function(){ setTimeout(function(){ drop.classList.remove('show');
+        var sel=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===hidden.value){ sel=CITY_LIST[i]; break; } }
+        input.value=sel?sel.name:''; },160); });
+    }
+    function setCityPicker(id, slug){
+      var c=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===slug){ c=CITY_LIST[i]; break; } }
+      if(!c) return; var input=document.getElementById(id+'-in'), hidden=document.getElementById(id);
+      if(input) input.value=c.name; if(hidden) hidden.value=slug;
+    }
+    function logFormHTML(){
+      return '<h2 class="page-title">Log a gig</h2>'+
+        (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Add the night you caught <b>'+esc(_logHint)+'</b></div>':'')+
+        '<div class="sub" style="margin-bottom:16px">Fill in what you remember &mdash; the DJ, the venue, or roughly when. Any one is enough; add more to narrow it down.</div>'+
+        '<div style="max-width:540px">'+
+          '<div id="lg-preselect" style="display:none"></div>'+
+          '<div class="pf-box">'+
+          '<div id="lg-pickers">'+
+            '<div class="lg-field"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
+            '<div class="lg-field"><label>Artist <small class="lg-opt">optional</small></label><div class="sg-wrap"><input type="text" id="lg-artist-in" placeholder="Search the DJ you saw…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-artist-drop"></div></div></div>'+
+            '<div class="lg-field"><label>Venue <small class="lg-opt">optional</small></label><div class="sg-wrap"><input type="text" id="lg-venue-in" placeholder="Search any venue…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="lg-venue-drop"></div></div></div>'+
+            '<div class="lg-field"><label>Date <small class="lg-opt">optional</small></label><button type="button" id="lg-range" class="lg-rangebtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg><span id="lg-range-lbl">Add a date range</span></button></div>'+
+            '<button type="button" id="lg-find" class="pf-btn primary block" style="margin-top:4px">Find nights</button>'+
+            '<div class="err" id="lg-find-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+            '<div class="lg-field" id="lg-events-field" style="display:none;margin-top:16px"><label>Which night?</label><div class="lg-events" id="lg-events"></div></div>'+
+          '</div>'+
+          '<div id="lg-extra" style="display:none">'+
+            '<div class="lg-field" id="lg-lineup-field"><label>Who did you see?</label><div class="lg-chips" id="lg-lineup"></div></div>'+
+            '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
+            '<button id="lg-save" type="button" class="pf-btn primary block">Save to diary</button>'+
+            '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+          '</div>'+
+        '</div>'+
+        '</div>';
+    }
+    // A "not here? add it" escape hatch shown under the nights list — for when the
+    // gig you're logging isn't in our indexed history.
+    function lgAddEvHTML(){ return '<button type="button" class="more-btn" id="lg-addev" style="margin-top:12px">Can&rsquo;t find your night? Add the event &rarr;</button>'; }
+    // Render the artist's indexed nights as a selectable list.
+    function renderLgEvents(){
+      var el=document.getElementById('lg-events'); if(!el) return;
+      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">No nights matched those filters — try fewer, a wider date range, or add the event below.</div>'+lgAddEvHTML(); return; }
+      el.innerHTML=lgEventList.map(function(e,i){
+        var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
+        var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
+        var on=lgSel&&lgSel.id===e.id;
+        return '<button type="button" class="lg-ev'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||'Club night')+'</span>'+(ln?'<span class="le-l">'+esc(ln)+'</span>':'')+'</button>';
+      }).join('')+lgAddEvHTML();
+    }
+    // Real, named acts only — drops empty / "-" placeholder entries from the bill.
+    function lgValidLineup(lineup){ return (lineup||[]).filter(function(a){ var n=String((a&&(a.name||a.slug))||'').trim(); return a && a.slug && a.slug!=='-' && n && n!=='-'; }); }
+    function lgArtistOn(slug){ return lgArtists.some(function(a){ return a.slug===slug; }); }
+    // The bill, as toggle chips — all "seen" by default; tap to drop the ones you
+    // missed (you don't always catch every act).
+    function renderLgLineup(){
+      var el=document.getElementById('lg-lineup'), field=document.getElementById('lg-lineup-field'); if(!el) return;
+      var ln=lgValidLineup(lgSel&&lgSel.lineup);
+      if(!ln.length){ if(field) field.style.display='none'; el.innerHTML=''; return; }
+      if(field) field.style.display='';
+      el.innerHTML=ln.map(function(a){ return '<button type="button" class="lg-chip'+(lgArtistOn(a.slug)?' on':'')+'" data-aslug="'+esc(a.slug)+'" data-aname="'+esc(a.name||a.slug)+'">'+esc(a.name||a.slug)+'</button>'; }).join('');
+    }
+    function selectLgEvent(e){
+      lgSel={ id:e.id, title:e.title, venue:e.venue, date:e.event_date?String(e.event_date).slice(0,10):null, lineup:e.lineup||[] };
+      lgArtists=lgValidLineup(lgSel.lineup).map(function(a){ return {slug:a.slug, name:a.name||a.slug}; }); // default: saw everyone
+      document.getElementById('lg-extra').style.display='';
+      renderLgLineup(); renderLgEvents();
+    }
+    // Unified search: whatever of {artist, venue, date range} is filled → matching
+    // past nights (all optional, ≥1 required). Venue pins the city; else scoped to
+    // the selected city (server-side).
+    function lgFind(){
+      var err=document.getElementById('lg-find-err'); if(err) err.textContent='';
+      var hasDate = lgRange && lgRange[0] && lgRange[1];
+      if(!lgPickedArtist && !lgVenue && !hasDate){ if(err) err.textContent='Add an artist, venue, or date to search.'; return; }
+      var qs='city='+encodeURIComponent(document.getElementById('lg-city').value);
+      if(lgPickedArtist) qs+='&artist='+encodeURIComponent(lgPickedArtist.slug);
+      if(lgVenue) qs+='&venue='+encodeURIComponent(lgVenue.slug||lgVenue.name);
+      if(hasDate) qs+='&from='+lgRange[0]+'&to='+lgRange[1];
+      lgSel=null; lgEventList=[];
+      var field=document.getElementById('lg-events-field'); field.style.display='';
+      document.getElementById('lg-events').innerHTML='<div class="empty" style="padding:6px 0">Finding nights…</div>';
+      document.getElementById('lg-extra').style.display='none';
+      pubGet('/api/log/search?'+qs).then(function(j){ lgEventList=(j&&j.gigs)||[]; renderLgEvents(); }).catch(function(){ lgEventList=[]; renderLgEvents(); });
+    }
+    // Coming from a "+ Log" button on a past event: skip the pickers, pull the
+    // event's lineup and pre-select it so it's a note-and-save away. Marks the
+    // line-up seen on save like any other log.
+    async function preselectLogEvent(id){
+      var pk=document.getElementById('lg-pickers'); if(pk) pk.style.display='none';
+      var pre=document.getElementById('lg-preselect');
+      if(pre){ pre.style.display=''; pre.innerHTML='<div class="empty" style="padding:6px 0">Loading…</div>'; }
+      try{
+        var r=await authedFetch('/api/event?id='+encodeURIComponent(id)); var ev=await r.json();
+        selectLgEvent({ id:ev.id, title:ev.title, venue:ev.venue, event_date:ev.event_date, lineup:ev.lineup||[] });
+        if(pre){
+          var d=ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'';
+          var ln=(ev.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,4).join(', ');
+          pre.innerHTML='<div class="lg-pre"><div class="lg-pre-t">'+esc(ev.title||ev.venue||'This night')+'</div><div class="lg-pre-s">'+esc(ev.venue||'')+(d?(' &middot; '+esc(d)):'')+'</div>'+(ln?'<div class="lg-pre-l">'+esc(ln)+'</div>':'')+'</div>';
+        }
+      }catch(_){ if(pre) pre.innerHTML='<div class="empty">Couldn&rsquo;t load that night.</div>'; }
+    }
+    // ── P1: taste onboarding (the <3-min flow → living taste profile) ──
+    var TASTE_VIBES=['intimate','warehouse','queer','audiophile','afterhours','high energy','deep/listening','experimental'];
+    function toRenderChips(container, items, onRemove){
+      container.innerHTML=items.map(function(it,i){ return '<span class="to-chip">'+esc(it.name||it)+'<button type="button" data-i="'+i+'" aria-label="Remove">&times;</button></span>'; }).join('');
+      container.querySelectorAll('.to-chip button[data-i]').forEach(function(b){ b.addEventListener('click',function(){ onRemove(+b.dataset.i); }); });
+    }
+    function toWireSuggest(ov, prefix, fetcher, store){
+      var input=ov.querySelector('#'+prefix+'-in'), drop=ov.querySelector('#'+prefix+'-drop'), chips=ov.querySelector('#'+prefix+'-chips');
+      function redraw(){ toRenderChips(chips, store, function(i){ store.splice(i,1); redraw(); }); }
+      var cur=[];
+      function show(list){ cur=(list||[]).filter(function(x){ return x.slug && !store.some(function(s){ return s.slug===x.slug; }); }); if(!cur.length){ drop.classList.remove('show'); drop.innerHTML=''; return; }
+        drop.innerHTML=cur.slice(0,8).map(function(x,i){ return '<button type="button" data-i="'+i+'">'+esc(x.name)+'</button>'; }).join(''); drop.classList.add('show'); }
+      var run=debounce(function(){ var q=input.value.trim(); if(q.length<2){ drop.classList.remove('show'); return; } fetcher(q).then(show).catch(function(){}); },200);
+      input.addEventListener('input',run);
+      drop.addEventListener('mousedown',function(e){ var b=e.target.closest('[data-i]'); if(!b) return; e.preventDefault(); var pick=cur[+b.dataset.i]; if(pick && !store.some(function(s){return s.slug===pick.slug;})){ store.push(pick); redraw(); } input.value=''; drop.classList.remove('show'); });
+      input.addEventListener('blur',function(){ setTimeout(function(){ drop.classList.remove('show'); },160); });
+    }
+    function openTasteOnboard(){
+      if(!currentUser){ openAuth(); return; }
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box taste-box">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div id="to-form">'+
+          '<div class="eyebrow">Build your taste</div><h3>Find nights you&rsquo;ll actually like.</h3>'+
+          '<p style="margin-bottom:14px">Two minutes &mdash; and it sharpens every time you save an artist or log a gig.</p>'+
+          '<label class="to-label">Favourite artists <small>5&ndash;10</small></label>'+
+          '<div class="sg-wrap"><input id="to-art-in" type="text" placeholder="Search artists…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="to-art-drop"></div></div>'+
+          '<div class="to-chips" id="to-art-chips"></div>'+
+          '<label class="to-label">Venues you love</label>'+
+          '<div class="sg-wrap"><input id="to-ven-in" type="text" placeholder="Search venues…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="to-ven-drop"></div></div>'+
+          '<div class="to-chips" id="to-ven-chips"></div>'+
+          '<label class="to-label">Not into <small>genres or artists</small></label>'+
+          '<input id="to-dis-in" type="text" placeholder="e.g. commercial, trance — hit enter" autocomplete="off" autocapitalize="off">'+
+          '<div class="to-chips" id="to-dis-chips"></div>'+
+          '<label class="to-label">Your vibe</label>'+
+          '<div class="vibe-chips" id="to-vibes">'+TASTE_VIBES.map(function(v){ return '<button type="button" class="vibe-chip" data-vibe="'+esc(v)+'">'+esc(v)+'</button>'; }).join('')+'</div>'+
+          '<button class="go" id="to-save" type="button">Build my taste profile &rarr;</button>'+
+          '<div class="err" id="to-err"></div>'+
+        '</div>'+
+        '<div id="to-result" hidden></div>'+
+      '</div>';
+      document.body.appendChild(ov);
+      ov.querySelector('.auth-close').addEventListener('click',function(){ ov.remove(); });
+      ov.addEventListener('click',function(e){ if(e.target===ov) ov.remove(); });
+      var artSel=[], venSel=[], disStore=[], vibeSel=[];
+      toWireSuggest(ov,'to-art',function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return {slug:a.slug,name:a.name}; }); }); }, artSel);
+      toWireSuggest(ov,'to-ven',function(q){ return pubGet('/api/venues?city='+encodeURIComponent(currentCity)+'&q='+encodeURIComponent(q)).then(function(j){ return (j.venues||[]).map(function(v){ return {slug:(v.slug||v.name),name:v.name}; }); }); }, venSel);
+      var disIn=ov.querySelector('#to-dis-in'), disChips=ov.querySelector('#to-dis-chips');
+      function disRedraw(){ toRenderChips(disChips, disStore.map(function(x){return {name:x};}), function(i){ disStore.splice(i,1); disRedraw(); }); }
+      disIn.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===','){ e.preventDefault(); var v=disIn.value.trim().toLowerCase().replace(/,+$/,''); if(v && disStore.indexOf(v)<0){ disStore.push(v); disRedraw(); } disIn.value=''; } });
+      ov.querySelector('#to-vibes').addEventListener('click',function(e){ var b=e.target.closest('[data-vibe]'); if(!b) return; var v=b.dataset.vibe; var i=vibeSel.indexOf(v); if(i>=0){ vibeSel.splice(i,1); b.classList.remove('on'); } else { vibeSel.push(v); b.classList.add('on'); } });
+      ov.querySelector('#to-save').addEventListener('click',function(){
+        var btn=this; btn.disabled=true; ov.querySelector('#to-err').textContent='';
+        authedFetch('/api/taste/onboard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
+          city:currentCity, artists:artSel.map(function(x){return x.slug;}), venues:venSel.map(function(x){return x.slug;}), dislikes:disStore, vibes:vibeSel }) })
+        .then(function(r){ return r.json(); }).then(function(j){
+          if(!j.ok){ ov.querySelector('#to-err').textContent='Could not save — try again.'; btn.disabled=false; return; }
+          var genres=(j.weights&&j.weights.genres)||{};
+          var pills=Object.keys(genres).slice(0,8).map(function(g){ return '<span class="tg-pill tg-'+genres[g].toLowerCase()+'">'+esc(g)+' <small>'+genres[g]+'</small></span>'; }).join('');
+          ov.querySelector('#to-form').hidden=true; var rv=ov.querySelector('#to-result'); rv.hidden=false;
+          rv.innerHTML='<div class="eyebrow">Your taste</div><h3>Here&rsquo;s your profile.</h3>'+
+            (j.profileText?'<p class="taste-summary">'+esc(j.profileText)+'</p>':'')+
+            (pills?'<div class="taste-genres">'+pills+'</div>':'<p style="color:var(--muted)">Save a few more artists and it&rsquo;ll fill in.</p>')+
+            '<button class="go" id="to-done" type="button">See what&rsquo;s on &rarr;</button>';
+          rv.querySelector('#to-done').addEventListener('click',function(){ ov.remove(); if(currentUser&&typeof openDiscover==='function') openDiscover(); });
+        }).catch(function(){ ov.querySelector('#to-err').textContent='Network error.'; btn.disabled=false; });
+      });
+    }
+    function openLog(prefill){
+      setRoute('log');
+      lgArtists=(prefill&&prefill.artist&&prefill.artist.slug)?[prefill.artist]:[]; lgSel=null; lgEventList=[];
+      lgPickedArtist=(prefill&&prefill.artist&&prefill.artist.slug)?prefill.artist:null; lgVenue=null; lgRange=null;
+      _logHint = (prefill&&prefill.seenName) ? prefill.seenName : (prefill&&prefill.artist?prefill.artist.name:null);
+      showPage(logFormHTML());
+      wireLog();
+      if(prefill&&prefill.eventId){ preselectLogEvent(prefill.eventId); return; }
+      // Coming from an artist (e.g. their seen panel) — seed the artist filter + search now.
+      if(lgPickedArtist){ var ai=document.getElementById('lg-artist-in'); if(ai) ai.value=lgPickedArtist.name; lgFind(); }
+    }
+    function wireLog(){
+      document.getElementById('lg-save').addEventListener('click',saveLog);
+      document.getElementById('lg-find').addEventListener('click',lgFind);
+      // Toggle which acts you actually saw (chips); only the lit ones get logged + marked seen.
+      document.getElementById('lg-lineup').addEventListener('click',function(e){
+        var b=e.target.closest('[data-aslug]'); if(!b) return;
+        var slug=b.dataset.aslug;
+        if(lgArtistOn(slug)){ lgArtists=lgArtists.filter(function(a){ return a.slug!==slug; }); b.classList.remove('on'); }
+        else { lgArtists.push({ slug:slug, name:b.dataset.aname }); b.classList.add('on'); }
+      });
+      // City change — re-run the search if any filter is set + results are showing.
+      wireCityPicker('lg-city', function(){ if((lgPickedArtist||lgVenue||lgRange) && document.getElementById('lg-events-field').style.display!=='none') lgFind(); });
+      // Pick one of the matched nights — or add the event if it's missing.
+      document.getElementById('lg-events').addEventListener('click',function(e){
+        if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:(lgPickedArtist&&lgPickedArtist.name)||null, venue:(lgVenue&&lgVenue.name)||null }); return; }
+        var b=e.target.closest('[data-evi]'); if(b) selectLgEvent(lgEventList[+b.dataset.evi]);
+      });
+      // Artist filter (optional) — type-ahead; pick stores it. Clearing the box drops the filter.
+      var artIn=document.getElementById('lg-artist-in');
+      attachSuggest(artIn, document.getElementById('lg-artist-drop'),
+        function(q){ return pubGet('/api/artists?q='+encodeURIComponent(q)).then(function(j){ return (j.artists||[]).map(function(a){ return { slug:a.slug, name:a.name, label:esc(a.name) }; }); }); },
+        function(pick){ if(pick&&pick.slug){ lgPickedArtist={ slug:pick.slug, name:pick.name }; artIn.value=pick.name; } });
+      artIn.addEventListener('input',function(){ if(lgPickedArtist && artIn.value.trim()!==lgPickedArtist.name) lgPickedArtist=null; });
+      // Venue filter (optional) — search EVERY venue worldwide; the suggestion shows its city.
+      var venIn=document.getElementById('lg-venue-in');
+      attachSuggest(venIn, document.getElementById('lg-venue-drop'),
+        function(q){ return pubGet('/api/venues?q='+encodeURIComponent(q)).then(function(j){ return (j.venues||[]).map(function(v){ var loc=[v.area, cityLabel(v.city)].filter(Boolean).join(', '); return { name:v.name, slug:v.slug||v.name, city:v.city||'', label:esc(v.name)+(loc?(' <small>'+esc(loc)+'</small>'):'') }; }); }); },
+        function(pick){ if(!pick) return; lgVenue={ name:pick.name, slug:pick.slug, city:pick.city }; venIn.value=pick.name; });
+      venIn.addEventListener('input',function(){ if(lgVenue && venIn.value.trim()!==lgVenue.name) lgVenue=null; });
+      // Date filter (optional) → the same home-page calendar, range mode, past dates allowed.
+      var rangeBtn=document.getElementById('lg-range');
+      if(rangeBtn) rangeBtn.addEventListener('click',function(){
+        openCal({ allowPast:true, rangeStart:lgRange&&lgRange[0], rangeEnd:lgRange&&lgRange[1], onRange:function(from,to){
+          lgRange=[from,to];
+          var lbl=document.getElementById('lg-range-lbl'); if(lbl) lbl.textContent=fmtRange(from,to);
+        } });
+      });
+    }
+    function lgResetEvents(){ lgSel=null; lgEventList=[]; var f=document.getElementById('lg-events-field'); if(f) f.style.display='none'; var x=document.getElementById('lg-extra'); if(x) x.style.display='none'; }
+    async function saveLog(){
+      if(!currentUser){ openAuth(); return; }
+      if(!lgSel){ document.getElementById('lg-err').textContent='Pick a night first.'; return; }
+      var btn=document.getElementById('lg-save'); btn.disabled=true; document.getElementById('lg-err').textContent='';
+      try{
+        var r=await authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
+          date:lgSel.date||null, venue:lgSel.venue||null, event_id:(lgSel.id!=null?String(lgSel.id):null),
+          note:document.getElementById('lg-note').value.trim()||null, artists:lgArtists }) });
+        var j=await r.json().catch(function(){return{};});
+        if(!r.ok){ document.getElementById('lg-err').textContent=(j.error||'Could not save')+'.'; btn.disabled=false; return; }
+        lgArtists.forEach(function(a){ picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
+        savePicks(); afterPicksChanged();
+        showToast(j.updated ? 'Updated your diary' : 'Logged to your diary');
+        // land on the full gig-diary page; replace #log so Back doesn't
+        // return to a now-stale form.
+        history.replaceState({sc:1},'','#diary'); openDiaryPage(currentUser&&currentUser.handle, true);
+      }catch(_){ document.getElementById('lg-err').textContent='Network error.'; btn.disabled=false; }
+    }
+
+    // ── Add an event: user-submitted coverage for nights not in our listings ──
+    var imArtists=[];
+    function importFormHTML(){
+      return '<h2 class="page-title">Add an event</h2>'+
+        '<div class="sub" style="margin-bottom:16px">On a ticket site we don&rsquo;t list yet? Paste the link &mdash; we&rsquo;ll grab what we can &mdash; then confirm the details and it goes live on soundcheck.</div>'+
+        '<div style="max-width:540px">'+
+          '<div class="lg-field"><label>Event link <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label>'+
+            '<div style="display:flex;gap:8px"><input type="url" id="im-url" placeholder="https://…" autocomplete="off" style="flex:1"><button id="im-fetch" type="button" style="flex:0 0 auto;background:var(--surface-2);color:var(--fg);border:1px solid var(--border);border-radius:var(--radius);padding:0 16px;font:700 var(--fs-xs) var(--body);text-transform:uppercase;letter-spacing:0.08em;cursor:pointer">Fetch</button></div>'+
+            '<div id="im-note" style="font-size:var(--fs-sm);color:var(--muted);margin-top:6px;min-height:1em"></div></div>'+
+          '<div class="lg-field"><label>Title</label><input type="text" id="im-title" placeholder="Night / event name"></div>'+
+          '<div class="lg-field"><label>Venue</label><input type="text" id="im-venue" placeholder="Where"></div>'+
+          '<div class="lg-field"><label>City</label>'+cityPickerHTML('im-city', currentCity)+'</div>'+
+          '<div class="lg-field" style="display:flex;gap:12px"><div style="flex:1"><label>Date</label><input type="date" id="im-date"></div><div style="flex:0 0 130px"><label>Start <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(opt)</small></label><input type="time" id="im-time"></div></div>'+
+          '<div class="lg-field"><label>Line-up</label><input type="text" id="im-art-in" placeholder="Type a DJ, hit enter…" autocomplete="off" autocapitalize="off"><div class="to-chips" id="im-art-chips"></div></div>'+
+          '<div class="lg-field"><label>Poster URL <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label><input type="url" id="im-poster" placeholder="https://…"></div>'+
+          '<button id="im-save" type="button" style="width:100%;background:var(--accent);color:var(--accent-ink);border:none;border-radius:var(--radius);padding:14px;font:700 var(--fs-xs) var(--body);letter-spacing:0.14em;text-transform:uppercase;cursor:pointer">Add event</button>'+
+          '<div class="err" id="im-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
+        '</div>';
+    }
+    function imRedrawArtists(){
+      var box=document.getElementById('im-art-chips'); if(!box) return;
+      box.innerHTML=imArtists.map(function(n,i){ return '<span class="to-chip">'+esc(n)+'<button type="button" data-i="'+i+'" aria-label="Remove">&times;</button></span>'; }).join('');
+      box.querySelectorAll('button[data-i]').forEach(function(b){ b.addEventListener('click',function(){ imArtists.splice(+b.dataset.i,1); imRedrawArtists(); }); });
+    }
+    function openImport(prefill){
+      if(!currentUser){ openAuth(); return; }
+      setRoute('import');
+      imArtists=[];
+      showPage(importFormHTML());
+      wireCityPicker('im-city');
+      // Coming from "can't find your night?" on the log page — carry the city + DJ/venue over.
+      if(prefill&&prefill.city) setCityPicker('im-city', prefill.city);
+      if(prefill&&prefill.venue){ var vv=document.getElementById('im-venue'); if(vv) vv.value=prefill.venue; }
+      if(prefill&&prefill.artist){ imArtists.push(prefill.artist); imRedrawArtists(); }
+      // Add line-up names as chips (free text — submitted acts may be new to us).
+      var ai=document.getElementById('im-art-in');
+      ai.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===','){ e.preventDefault(); var v=ai.value.trim().replace(/,+$/,''); if(v && imArtists.indexOf(v)<0){ imArtists.push(v); imRedrawArtists(); } ai.value=''; } });
+      // Fetch: best-effort read of the pasted link (JSON-LD / OG).
+      document.getElementById('im-fetch').addEventListener('click',function(){
+        var u=document.getElementById('im-url').value.trim(); var note=document.getElementById('im-note');
+        if(!/^https?:\/\//i.test(u)){ note.textContent='Paste a full https:// link first.'; return; }
+        note.textContent='Reading…';
+        pubGet('/api/import/preview?url='+encodeURIComponent(u)).then(function(j){
+          if(!j||!j.ok){ note.textContent=(j&&j.blocked)?'That site blocks automatic reading — fill the details in below.':'Couldn’t read that page — fill the details in below.'; return; }
+          var f=j.fields||{};
+          if(f.title) document.getElementById('im-title').value=f.title;
+          if(f.venue) document.getElementById('im-venue').value=f.venue;
+          if(f.date) document.getElementById('im-date').value=f.date;
+          if(f.startTime && /T\d\d:\d\d/.test(f.startTime)) document.getElementById('im-time').value=f.startTime.slice(11,16);
+          if(f.poster) document.getElementById('im-poster').value=f.poster;
+          if(f.citySlug) setCityPicker('im-city', f.citySlug);
+          if(Array.isArray(f.artists)&&f.artists.length){ f.artists.forEach(function(n){ if(imArtists.indexOf(n)<0) imArtists.push(n); }); imRedrawArtists(); }
+          note.textContent='Got it — check the details and add.';
+        }).catch(function(){ note.textContent='Couldn’t read that page — fill the details in below.'; });
+      });
+      document.getElementById('im-save').addEventListener('click',saveImport);
+    }
+    async function saveImport(){
+      if(!currentUser){ openAuth(); return; }
+      var err=document.getElementById('im-err'); err.textContent='';
+      var ai=document.getElementById('im-art-in'); var pend=ai.value.trim().replace(/,+$/,''); if(pend && imArtists.indexOf(pend)<0){ imArtists.push(pend); ai.value=''; imRedrawArtists(); }
+      var body={
+        url:document.getElementById('im-url').value.trim()||null,
+        title:document.getElementById('im-title').value.trim(),
+        venue:document.getElementById('im-venue').value.trim()||null,
+        city:document.getElementById('im-city').value,
+        date:document.getElementById('im-date').value||null,
+        startTime:(function(){ var d=document.getElementById('im-date').value, t=document.getElementById('im-time').value; return (d&&t)?(d+'T'+t+':00'):null; })(),
+        artists:imArtists.slice(),
+        poster:document.getElementById('im-poster').value.trim()||null
+      };
+      if(!body.title){ err.textContent='Add a title.'; return; }
+      if(!body.date){ err.textContent='Pick a date.'; return; }
+      var btn=document.getElementById('im-save'); btn.disabled=true;
+      try{
+        var r=await authedFetch('/api/import/submit',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) });
+        var j=await r.json().catch(function(){return{};});
+        if(!r.ok||!j.ok){ err.textContent=(j.error||'Could not add')+'.'; btn.disabled=false; return; }
+        showToast('Added — thanks for the tip-off');
+        if(j.id) openEvent(j.id); else goGrid();
+      }catch(_){ err.textContent='Network error.'; btn.disabled=false; }
+    }
+
+    // ---- hash router (#u/<handle>, #feed, #a/<slug>, #v/<name>, #log) ----
+    // The active route: entity pages come off the path (/a/<slug>), nav overlays
+    // off the hash. '' = home (no overlay).
+    function currentRoute(){ return pathRoute() || decodeURIComponent(location.hash.replace(/^#/,'')); }
+    function handleRoute(){
+      var hash=currentRoute();
+      if(!hash){ hidePage(); return; }   // browser-back off a page → home
+      if(hash==='account') openAccount();
+      else if(hash==='search') openSearch();
+      else if(hash==='discover') openDiscover();
+      else if(hash==='scenes') openScenes();
+      else if(hash==='map') openMap();
+      else if(hash==='scene') openCityScene(pathCitySlug());
+      else if(hash==='picks') openMyPicks();
+      else if(hash==='upcoming') openUpcoming();
+      else if(hash==='feed') openFeed();
+      else if(hash==='log') openLog();
+      else if(hash==='import') openImport();
+      else if(hash==='diary') openDiaryPage(currentUser&&currentUser.handle, true);
+      else if(hash.indexOf('diary/')===0) openDiaryPage(hash.slice(6));
+      else if(/^u\/[^/]+\/rotation$/.test(hash)) openProfile(hash.slice(2).replace(/\/rotation$/,''));
+      else if(hash.indexOf('u/')===0) openProfile(hash.slice(2));
+      else if(hash.indexOf('dj/')===0) openArtist(hash.slice(3));
+      else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));          // legacy /a/
+      else if(hash.indexOf('club/')===0) openVenue(hash.slice(5), pathCitySlug());
+      else if(hash.indexOf('promoter/')===0) openPromoter(hash.slice(9));
+      else if(hash.indexOf('v/')===0) openVenue(hash.slice(2), pathCitySlug()); // legacy /v/
+      else if(hash.indexOf('e/')===0) openEvent(hash.slice(2));
+      else if(hash.indexOf('n/')===0) openNight(hash.slice(2));
+    }
+    // Push a real history entry per forward navigation (pushState doesn't fire
+    // popstate, so no double-render). Back/forward fire popstate → handleRoute.
+    function setRoute(route){
+      if(currentRoute()===route) return;   // already here — no duplicate history entry
+      // Entity routes → clean city-less path with a trailing slash (/dj/<slug>/),
+      // matching the pre-rendered canonical; nav overlays → hash.
+      var url = ENTITY_RE.test(route)
+        ? (SC_BASE + route.replace(/^([a-z]+\/)(.*)$/, function(_,p,s){ return p+encodeURIComponent(decodeURIComponent(s)); }) + '/')
+        : (SC_BASE + '#' + route);
+      history.pushState({sc:1},'',url);
+    }
+    window.addEventListener('popstate', handleRoute);
+
+    // ── incoming-share state (set on boot from URL params) ──
+    var sharedPicks=null, sharedSingle=null, sharedHandled=false, sharedFrom=null;
+    function applyShared(){
+      if(sharedHandled) return; sharedHandled=true;
+      if(sharedSingle){
+        if(sharedSingle.kind==='event'){
+          openEvent(sharedSingle.id);   // legacy ?event= links → full event page
+        } else if(sharedSingle.kind==='artist'){
+          var hit=lookup.byArtist[sharedSingle.slug];
+          if(hit) openSheet(hit.ev);
+        }
+        return;
+      }
+      if(!sharedPicks) return;
+      // Highlight + reorder picked events to the top of the grid
+      var ids=sharedPicks.events||[], slugs=sharedPicks.artists||[];
+      ids.forEach(function(id){
+        var card=gridEl.querySelector('.gcard[data-evt="'+CSS.escape(id)+'"]');
+        if(card){ card.classList.add('picked'); gridEl.insertBefore(card, gridEl.firstChild); }
+      });
+      // Mark shared artist rows in the grid
+      slugs.forEach(function(slug){
+        gridEl.querySelectorAll('.line li[data-slug="'+CSS.escape(slug)+'"]').forEach(function(li){ li.classList.add('picked'); });
+      });
+      // Banner copy — list real names of the shared events + artists
+      var evNames = ids.map(function(id){ var ev=lookup.byEvent[id]; return ev ? ev.title : null; }).filter(Boolean);
+      var arNames = slugs.map(function(s){ var hit=lookup.byArtist[s]; return hit ? hit.artist.name : null; }).filter(Boolean);
+      function namesList(names, capN){
+        var shown = names.slice(0, capN);
+        var rest = names.length - shown.length;
+        return shown.map(function(n){ return '<b>'+esc(n)+'</b>'; }).join(', ') + (rest>0 ? ' <span style="color:var(--muted)">+'+rest+' more</span>' : '');
+      }
+      var parts=[];
+      if(evNames.length) parts.push('Events: '+namesList(evNames, 4));
+      if(arNames.length) parts.push('Artists: '+namesList(arNames, 6));
+      document.getElementById('shared-t').innerHTML = parts.join('<br>') || 'A friend sent you some picks.';
+      // sender attribution (#42)
+      var hEl=document.getElementById('shared-h');
+      if(sharedFrom){
+        hEl.innerHTML='<span class="b-link" id="shared-from" style="cursor:pointer">u/'+esc(sharedFrom)+'</span> shared with you';
+        document.getElementById('shared-from').addEventListener('click',function(){ openProfile(sharedFrom); });
+        var acts=document.querySelector('.shared-banner .b-actions');
+        if(acts && !document.getElementById('shared-follow')){
+          var fb=document.createElement('button'); fb.id='shared-follow'; fb.className='primary'; fb.textContent='Follow @'+sharedFrom;
+          fb.addEventListener('click',async function(){
+            if(!currentUser){ openAuth(); return; }
+            fb.textContent='Following'; fb.disabled=true;
+            try{ await authedFetch('/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:sharedFrom}) }); }catch(_){}
+          });
+          acts.insertBefore(fb, acts.firstChild);
+        }
+      } else { hEl.textContent='Shared with you'; }
+      document.getElementById('shared-banner').classList.add('show');
+    }
+    document.getElementById('shared-dismiss').addEventListener('click',function(){
+      document.getElementById('shared-banner').classList.remove('show');
+    });
+    document.getElementById('shared-see-more').addEventListener('click',function(){
+      // Scroll to the first picked card; fall back to first card with a picked artist row; fall back to first card.
+      var first = gridEl.querySelector('.gcard.picked');
+      if(!first){ var li=gridEl.querySelector('.line li.picked'); if(li) first=li.closest('.gcard'); }
+      if(!first) first = gridEl.querySelector('.gcard');
+      if(first) first.scrollIntoView({behavior:'smooth', block:'start'});
+    });
+
+    afterPicksChanged();
+
+    // ── lineup + card ──
+    function lineupHTML(ev, cap, inSheet){
+      var arts=ev.artists||[];
+      if(!arts.length) return '<li class="tba">Lineup TBA</li>';
+      var n=arts.length, c=cap||n, html='';
+      arts.forEach(function(a,idx){
+        if(idx===c){ html+='<li class="more-li"><button class="more-btn" type="button" data-extra="'+(n-c)+'">+ '+(n-c)+' more</button></li>'; }
+        var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
+        var sc=normaliseSc(a.soundcloud);
+        var pos=esc(ev.poster||'');
+        var ytBtn=slug?'<button class="play yt" data-slug="'+esc(slug)+'" data-name="'+esc(a.name)+'" data-poster="'+pos+'" data-venue="'+esc(ev.venue||'')+'" title="Play full set on YouTube">'+YT_SVG+'<span class="state">▶</span></button>':'<span class="no-sc">&mdash;</span>';
+        var picked=slug&&isArtistPicked(slug)?' on':'';
+        // Heart lives only in the roomy event sheet now — the home grid drops it so the row is
+        // one big tap-to-play target (the artist NAME plays their set; see anCls below).
+        var heart=(inSheet&&slug)?'<button class="heart'+picked+'" type="button" data-pick-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Wanna see '+esc(a.name)+'">'+HEART_SVG+'</button>':'';
+        // Seen toggle — only in the roomy event sheet. Account feature.
+        var seenOn = slug && artStatus(slug)==='seen' ? ' on' : '';
+        var seenBtn = (inSheet && slug) ? '<button class="seen-btn'+seenOn+'" type="button" data-seen-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-label="Seen '+esc(a.name)+' live" title="Seen live">'+CHECK_SVG+'</button>' : '';
+        var shareA = (inSheet && slug) ? '<button class="share-btn" type="button" data-share-art="'+esc(slug)+'" data-name="'+esc(a.name)+'" aria-label="Share '+esc(a.name)+'">'+SHARE_SVG+'</button>' : '';
+        var pickedRow = slug && sharedPicks && (sharedPicks.artists||[]).indexOf(slug)>=0 ? ' picked' : '';
+        // Name tap: in the sheet → open artist page; on the home grid → PLAY the artist's set
+        // (a big tap target next to the small ▶), so the whole row is playable.
+        var anCls, anAttr;
+        if(inSheet && slug){ anCls='an linky'; anAttr=' data-artist="'+esc(slug)+'" data-name="'+esc(a.name)+'"'; }
+        else if(slug){ anCls='an an-play'; anAttr=' data-slug="'+esc(slug)+'" data-name="'+esc(a.name)+'"'; }
+        else { anCls='an'; anAttr=''; }
+        var av = a.image ? '<span class="ln-av" style="background-image:url(\''+imgUrl(a.image,64)+'\')"'+(inSheet&&slug?' data-artist="'+esc(slug)+'"':'')+'></span>' : '';
+        html+='<li'+(idx>=c?' class="hid'+pickedRow+'"':(pickedRow?' class="'+pickedRow.trim()+'"':''))+(slug?' data-slug="'+esc(slug)+'"':'')+'>'+ytBtn+av+'<span class="'+anCls+'"'+anAttr+'>'+esc(a.name)+'</span>'+heart+seenBtn+shareA+'</li>';
+      });
+      return html;
+    }
+    // Poster-led event card: poster hero (heart top-right, eyebrow+title+meta bottom-left,
+    // salmon play half over the bottom-right) + artist chips (cap 4, then "+N more" → event).
+    function cardHTML(ev){
+      var eid=ev.id!=null?String(ev.id):'';
+      var arts=ev.artists||[];
+      // The card's own date wins; only fall back to the home page's "Tonight" when a card
+      // carries no date of its own (home single-day feed). Prevents artist/venue/search
+      // cards — which span many future dates — from all reading "Tonight".
+      var isTon = currentDate && currentDate===todayISO();
+      var dayLab = ev._day || (isTon ? 'Tonight' : '');
+      var tRange = formatTimeRange(ev.startTime, ev.endTime, ev._time);   // full window (start – end), 24h, matches the event page
+      // meta under the image, two rows: date · time  /  venue · city
+      var mWhen = [dayLab, tRange].filter(Boolean).join(' &middot; ');
+      var mWhere = [esc(ev.venue||'TBA'), ev._city?esc(ev._city):''].filter(Boolean).join(' &middot; ');
+      var meta = (mWhen?'<span class="evc-mrow evc-mwhen">'+mWhen+'</span>':'')+(mWhere?'<span class="evc-mrow evc-mwhere">'+mWhere+'</span>':'');
+      // 2×2 chip grid → up to 4 artists across 2 fixed lines (keeps every card the
+      // same height). 4 or fewer: show them all; 5+: show 3 then a "+N more" pill.
+      var CAP=4, nShow=arts.length>CAP ? CAP-1 : arts.length, chips='';
+      arts.slice(0,nShow).forEach(function(a){
+        var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
+        chips+='<button class="evc-chip" type="button"'+(slug?' data-slug="'+esc(slug)+'"':'')+'><span class="evc-tri"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span><span class="evc-nm">'+esc(a.name)+'</span></button>';
+      });
+      if(arts.length>nShow) chips+='<button class="evc-chip more" type="button" data-more><span class="evc-nm">+'+(arts.length-nShow)+' more</span></button>';
+      var picked = eid && isEventPicked(eid) ? ' on' : '';
+      var canPlay = eid && arts.length;
+      // top-2 genres as a poster stamp (top-left, glass pill) — the two most important
+      var gtags=(ev.genres||[]).slice(0,2);
+      var genreOv = gtags.length ? '<div class="evc-genres">'+gtags.map(function(g){ return '<span class="evc-gtag">'+esc(g)+'</span>'; }).join('')+'</div>' : '';
+      return '<article class="gcard evc"'+(eid?' data-evt="'+esc(eid)+'"':'')+'>'+
+        '<div class="evc-hero">'+
+          '<button class="evc-poster" type="button" aria-label="View '+esc(ev.title)+'">'+posterHTML(ev)+'</button>'+
+          genreOv+
+          (eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Save this event">'+BOOKMARK_SVG+'</button>':'')+
+          '<div class="evc-title">'+esc(ev.title)+'</div>'+
+          (canPlay?'<button class="evc-play" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')+
+        '</div>'+
+        '<div class="evc-body">'+(meta?'<div class="evc-meta">'+meta+'</div>':'')+'<div class="evc-chips">'+chips+'</div></div>'+
+      '</article>';
+    }
+
+    // Order: FOLD, MOT, Phonox, then top 2 by popularity, then the rest.
+    function orderEvents(events){
+      var used=new Array(events.length).fill(false), out=[];
+      function takeFirst(re){
+        for(var i=0;i<events.length;i++){ if(!used[i] && re.test(events[i].venue||'')){ used[i]=true; out.push(events[i]); return; } }
+      }
+      takeFirst(RE_FOLD); takeFirst(RE_MOT); takeFirst(RE_PHONOX);
+      var added=0;
+      for(var i=0;i<events.length && added<2;i++){ if(!used[i]){ used[i]=true; out.push(events[i]); added++; } }
+      for(var i=0;i<events.length;i++){ if(!used[i]){ used[i]=true; out.push(events[i]); } }
+      return out;
+    }
+
+    // The quick-peek bottom sheet is retired — every event tap goes straight to the
+    // full event page. openSheet is a thin shim kept for existing callers (radio
+    // queue, search/artist/venue cards, shared links); no canonical id → nothing to open.
+    function openSheet(ev){
+      if(!ev || ev.id==null) return;
+      var id=String(ev.id);
+      // seed the cache so the page paints instantly, then enrich from /api/event
+      if(lookup && lookup.byEvent && !lookup.byEvent[id]) lookup.byEvent[id]=ev;
+      openEvent(id);
+    }
+
+    var gridEl=document.getElementById('grid');
+    // Grid state lives at module scope so the datebar genre dropdown can re-filter.
+    var _gridEvents=[], _genreFilter=null, _priceFilter=null;   // _priceFilter: null | 'free' | 'lte1' | 'lte2'
+    var _nearFilter=null, _venueCoords=null, _venueCoordsCity=null, NEAR_KM=5;   // near-me: venues within ~5km (~30 min) of the user
+    // Currency-relative budget tiers — the grid shows one city at a time, so one currency.
+    var PRICE_TIERS={ GBP:[15,30], EUR:[15,30], USD:[20,40], CHF:[20,40], DKK:[120,220], SEK:[150,300], NOK:[150,300],
+      PLN:[60,120], CZK:[300,600], HUF:[5000,9000], RON:[70,140], BGN:[25,50], ISK:[2500,5000], RSD:[1500,3000],
+      UAH:[400,800], TRY:[300,600], GEL:[40,80] };
+    function gridCurrency(){ var c={},best=null,n=0; _gridEvents.forEach(function(e){ if(e.currency){ c[e.currency]=(c[e.currency]||0)+1; if(c[e.currency]>n){ n=c[e.currency]; best=e.currency; } } }); return best||'GBP'; }
+    function priceTiers(){ var cur=gridCurrency(), t=PRICE_TIERS[cur]||[15,30], sym=CCY_SYMBOL[cur]; return { cur:cur, t1:t[0], t2:t[1], lab:function(v){ return sym?(sym+v):(v+' '+cur); } }; }
+    function gridPricedCount(){ var n=0; _gridEvents.forEach(function(e){ if(e.minPrice!=null) n++; }); return n; }
+    function gridFiltered(){
+      var list = _genreFilter ? _gridEvents.filter(function(e){ return (e.genres||[]).indexOf(_genreFilter)>-1; }) : _gridEvents;
+      if(_priceFilter){
+        var t=priceTiers();
+        list = list.filter(function(e){
+          if(e.minPrice==null) return false;          // unknown price can't satisfy a budget — excluded while filtering
+          var p=Number(e.minPrice);
+          if(_priceFilter==='free') return p<=0;
+          if(_priceFilter==='lte1') return p<=t.t1;
+          if(_priceFilter==='lte2') return p<=t.t2;
+          return true;
+        });
+      }
+      if(_nearFilter) list = list.filter(eventNearby);   // within ~30-min radius of the user
+      return list;
+    }
+    function paintCurrentGrid(){
+      var list=gridFiltered();
+      if(list.length){ gridEl.innerHTML=list.map(function(e){ return cardHTML(e); }).join(''); }
+      else {
+        var what = _nearFilter ? 'events near you' : _genreFilter ? (esc(_genreFilter)+' events') : (_priceFilter ? 'events at this price' : 'events');
+        gridEl.innerHTML='<div class="status">No '+what+' in this view. <button class="more-btn" id="grid-clearfilter">Clear filters</button></div>';
+      }
+      var _cf=document.getElementById('grid-clearfilter'); if(_cf) _cf.addEventListener('click',function(){ _genreFilter=null; _priceFilter=null; _nearFilter=null; if(typeof syncGenreChip==='function') syncGenreChip(); if(typeof syncPriceChip==='function') syncPriceChip(); if(typeof syncNearChip==='function') syncNearChip(); paintCurrentGrid(); });
+      wireCard(gridEl);
+      var evById={}; list.forEach(function(ev){ if(ev.id!=null) evById[String(ev.id)]=ev; });
+      wireEvcCards(gridEl, evById);
+      applyShared();
+      decorateProof(list);
+      syncFilterDot();
+    }
+    function gridGenres(){ var s={}; _gridEvents.forEach(function(e){ (e.genres||[]).forEach(function(g){ s[g]=(s[g]||0)+1; }); }); return Object.keys(s).sort(function(a,b){ return s[b]-s[a] || a.localeCompare(b); }); }
+    function syncGenreChip(){
+      var btn=document.getElementById('pick-genre'); if(!btn) return;
+      var n=gridGenres().length;
+      btn.style.display = n>1 ? '' : 'none';
+      var lbl=document.getElementById('pick-genre-label'); if(lbl) lbl.textContent=_genreFilter||'Genre';
+      btn.classList.toggle('on', !!_genreFilter);
+    }
+    function closeGenreMenu(){ var m=document.getElementById('genre-menu'); if(m) m.remove(); document.removeEventListener('click',_onGenreDoc); }
+    function _onGenreDoc(e){ if(!e.target.closest('#genre-menu') && !e.target.closest('#pick-genre')) closeGenreMenu(); }
+    function openGenreMenu(){
+      closeGenreMenu();
+      var genres=gridGenres(), btn=document.getElementById('pick-genre'), r=btn.getBoundingClientRect();
+      var m=document.createElement('div'); m.className='genre-menu'; m.id='genre-menu';
+      m.innerHTML='<button class="gm-item'+(!_genreFilter?' on':'')+'" type="button" data-g="">All genres</button>'+
+        genres.map(function(g){ return '<button class="gm-item'+(_genreFilter===g?' on':'')+'" type="button" data-g="'+esc(g)+'">'+esc(g)+'</button>'; }).join('');
+      document.body.appendChild(m);
+      var maxLeft=window.scrollX+document.documentElement.clientWidth-m.offsetWidth-8;
+      m.style.top=(window.scrollY+r.bottom+6)+'px';
+      m.style.left=Math.max(window.scrollX+8, Math.min(window.scrollX+r.left, maxLeft))+'px';
+      m.querySelectorAll('.gm-item').forEach(function(b){ b.addEventListener('click',function(){ _genreFilter=b.dataset.g||null; syncGenreChip(); paintCurrentGrid(); closeGenreMenu(); }); });
+      setTimeout(function(){ document.addEventListener('click',_onGenreDoc); },0);
+    }
+    document.getElementById('pick-genre').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('genre-menu')) closeGenreMenu(); else openGenreMenu(); });
+    // ── price (budget) filter — mirrors the genre chip, reuses the .genre-menu dropdown ──
+    function priceLabel(){ if(!_priceFilter) return 'Price'; if(_priceFilter==='free') return 'Free'; var t=priceTiers(); return 'Under '+t.lab(_priceFilter==='lte1'?t.t1:t.t2); }
+    function syncPriceChip(){
+      var btn=document.getElementById('pick-price'); if(!btn) return;
+      btn.style.display = gridPricedCount()>=3 ? '' : 'none';   // only worth showing when prices are known
+      var lbl=document.getElementById('pick-price-label'); if(lbl) lbl.textContent=priceLabel();
+      btn.classList.toggle('on', !!_priceFilter);
+    }
+    function closePriceMenu(){ var m=document.getElementById('price-menu'); if(m) m.remove(); document.removeEventListener('click',_onPriceDoc); }
+    function _onPriceDoc(e){ if(!e.target.closest('#price-menu') && !e.target.closest('#pick-price')) closePriceMenu(); }
+    function openPriceMenu(){
+      closePriceMenu();
+      var t=priceTiers(), btn=document.getElementById('pick-price'), r=btn.getBoundingClientRect();
+      var opts=[['','All prices'],['free','Free'],['lte1','Under '+t.lab(t.t1)],['lte2','Under '+t.lab(t.t2)]];
+      var m=document.createElement('div'); m.className='genre-menu'; m.id='price-menu';
+      m.innerHTML=opts.map(function(o){ return '<button class="gm-item'+(((_priceFilter||'')===o[0])?' on':'')+'" type="button" data-p="'+o[0]+'">'+esc(o[1])+'</button>'; }).join('');
+      document.body.appendChild(m);
+      var maxLeft=window.scrollX+document.documentElement.clientWidth-m.offsetWidth-8;
+      m.style.top=(window.scrollY+r.bottom+6)+'px';
+      m.style.left=Math.max(window.scrollX+8, Math.min(window.scrollX+r.left, maxLeft))+'px';
+      m.querySelectorAll('.gm-item').forEach(function(b){ b.addEventListener('click',function(){ _priceFilter=b.dataset.p||null; syncPriceChip(); paintCurrentGrid(); closePriceMenu(); }); });
+      setTimeout(function(){ document.addEventListener('click',_onPriceDoc); },0);
+    }
+    document.getElementById('pick-price').addEventListener('click',function(e){ e.stopPropagation(); if(document.getElementById('price-menu')) closePriceMenu(); else openPriceMenu(); });
+    // ── near-me filter: events whose venue is within ~NEAR_KM of the user. Grid events
+    // don't carry coords, so we join the city's venue coords from /api/venues/map (cached
+    // per city) by slugified venue name, then filter by haversine distance. ──
+    function haversineKm(la1,lo1,la2,lo2){ var R=6371,p=Math.PI/180; var dLa=(la2-la1)*p,dLo=(lo2-lo1)*p; var x=Math.sin(dLa/2)*Math.sin(dLa/2)+Math.cos(la1*p)*Math.cos(la2*p)*Math.sin(dLo/2)*Math.sin(dLo/2); return 2*R*Math.asin(Math.min(1,Math.sqrt(x))); }
+    function venueKey(name){ return String(name||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+    function loadVenueCoords(){
+      if(_venueCoords && _venueCoordsCity===currentCity) return Promise.resolve(_venueCoords);
+      var city=currentCity;
+      return pubGet('/api/venues/map?city='+encodeURIComponent(city)).then(function(j){
+        // Key coords by the SLUGIFIED NAME (what eventNearby looks up via venueKey(e.venue)) —
+        // and also by the venue's own slug, belt-and-braces. Keying by slug ALONE (the old bug)
+        // missed ~95% of lookups: day events carry only the venue name, and v.slug is usually a
+        // numeric RA id (e.g. "1502"), so venueKey(e.venue) ("the-jazz-cafe") never matched.
+        var m={}; (j.venues||[]).forEach(function(v){ if(v.lat==null||v.lng==null) return; var c=[+v.lat,+v.lng]; var nk=venueKey(v.name); if(nk) m[nk]=c; if(v.slug!=null) m[String(v.slug)]=c; });
+        _venueCoords=m; _venueCoordsCity=city; return m;
+      }).catch(function(){ _venueCoords={}; _venueCoordsCity=city; return _venueCoords; });
+    }
+    function eventNearby(e){ if(!_nearFilter||!_venueCoords) return true; var c=_venueCoords[venueKey(e.venue)]; if(!c) return false; return haversineKm(_nearFilter.lat,_nearFilter.lng,c[0],c[1]) <= _nearFilter.km; }
+    function syncNearChip(){ var btn=document.getElementById('pick-near'); if(!btn) return; btn.style.display = _gridEvents.length ? '' : 'none'; btn.classList.toggle('on', !!_nearFilter); }
+    function toggleNear(){
+      if(_nearFilter){ _nearFilter=null; syncNearChip(); paintCurrentGrid(); return; }
+      if(!navigator.geolocation){ showToast('Location isn’t available on this device.'); return; }
+      navigator.geolocation.getCurrentPosition(function(pos){
+        loadVenueCoords().then(function(){ _nearFilter={ lat:pos.coords.latitude, lng:pos.coords.longitude, km:NEAR_KM }; syncNearChip(); paintCurrentGrid(); });
+      }, function(){ showToast('Couldn’t get your location — check the permission.'); }, { enableHighAccuracy:false, timeout:9000, maximumAge:600000 });
+    }
+    document.getElementById('pick-near').addEventListener('click',function(e){ e.stopPropagation(); toggleNear(); });
+    function renderEvents(events, eyebrowPrefix){
+      stopActive();
+      var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button><div style="margin-top:10px;font-size:var(--fs-sm)">Know a night we&rsquo;re missing? <button class="more-btn" id="grid-addev">Add an event &rarr;</button></div></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); var _ae=document.getElementById('grid-addev'); if(_ae) _ae.addEventListener('click',function(){ openImport(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
+      var ordered=orderEvents(evs);
+      _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
+      paintCurrentGrid();
+      rebuildLookup(ordered);
+      maybeCoach();
+      // Warm the weekend radio in the background so a tap can start playback
+      // synchronously (mobile autoplay). Self-guards per city|weekend.
+      if(typeof prewarmRadio==='function' && !radio.on) setTimeout(prewarmRadio, 1200);
+    }
+    // Phase 5: social proof — save counts + friends-going on event cards.
+    // Disabled for now: we don't surface any "how many going" numbers yet.
+    async function decorateProof(events){
+      return; // social proof hidden — early stage
+      var ids=events.map(function(e){ return e.id; }).filter(function(x){ return x!=null; }).map(String);
+      if(!ids.length) return;
+      try{
+        var r=await authedFetch('/api/events/stats',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ ids:ids }) });
+        var j=await r.json(); var stats=j.stats||{}; var maxId=null, maxN=0;
+        ids.forEach(function(id){
+          var st=stats[id], el=document.getElementById('proof-'+id); if(!el) return;
+          if(st && st.saves>maxN){ maxN=st.saves; maxId=id; }
+          if(!st || (!st.saves && !st.friends)){ el.className='proof'; el.innerHTML=''; return; }
+          var bits='<span class="pf-save"><svg viewBox="0 0 24 24"><path d="M12 21s-7-4.35-7-10a4 4 0 0 1 7-2.65A4 4 0 0 1 19 11c0 5.65-7 10-7 10z"/></svg>'+st.saves+'</span>';
+          if(st.friends) bits+='<span class="pf-friends">'+st.friends+' friend'+(st.friends===1?'':'s')+' going</span>';
+          el.innerHTML=bits; el.className='proof on';
+        });
+        if(maxId && maxN>=3){ var card=gridEl.querySelector('.gcard[data-evt="'+CSS.escape(maxId)+'"]'); var h=card&&card.querySelector('h3'); if(h && !card.querySelector('.trend-tag')) h.insertAdjacentHTML('beforebegin','<span class="trend-tag">&#128293; Trending</span>'); }
+      }catch(_){}
+    }
+
+    // ── status / load ──
+    var statusEl=document.getElementById('status');
+    function setStatus(html,isErr){ statusEl.innerHTML=html||''; statusEl.className='status'+(isErr?' error':''); }
+    var _retryLoad=null;   // re-runs the last grid loader from the error state
+    function showGridError(){
+      var off=(typeof navigator!=='undefined' && navigator.onLine===false);
+      setStatus((off?'You&rsquo;re offline.':'Couldn&rsquo;t load events.')+' <button class="more-btn" id="grid-retry" type="button">Retry</button>', true);
+      var rb=document.getElementById('grid-retry'); if(rb) rb.addEventListener('click',function(){ if(_retryLoad) _retryLoad(); });
+    }
+    function isoOf(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
+    function todayISO(){ return isoOf(new Date()); }
+    function weekendDates(){ var sat=new Date(); sat.setDate(sat.getDate()+((6-sat.getDay()+7)%7)); var fri=new Date(sat); fri.setDate(sat.getDate()-1); return [isoOf(fri), isoOf(sat)]; }
+    function fmtDateLabel(iso){ var d=new Date(iso+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}); }
+    function fmtRange(a,b){ var da=new Date(a+'T12:00:00'); return da.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'})+' – '+fmtDateLabel(b); }
+    var currentDate=null, currentRange=null, mode='weekend', activePick='weekend';
+    // ── day strip: Tonight + the upcoming Fri/Sat/Sun are pinned; the week's other
+    // days (anything between today and that Friday — i.e. the weekdays) collapse
+    // under a "···" that expands them in place. A calendar tile covers anything
+    // further out. syncChips() (name kept for callers) re-highlights the selection. ──
+    var stripEl=document.getElementById('daystrip');
+    var _stripMid=[], _stripExpanded=false, _stripFocus=null;
+    function _addDaysISO(iso,n){ var d=new Date(iso+'T12:00:00'); d.setDate(d.getDate()+n); return isoOf(d); }
+    function _dtTile(iso, isToday){
+      if(isToday) return '<button class="dt lab" type="button" data-iso="'+iso+'">Tonight</button>';
+      var d=new Date(iso+'T12:00:00');
+      return '<button class="dt" type="button" data-iso="'+iso+'"><span class="dt-w">'+esc(d.toLocaleDateString('en-GB',{weekday:'short'}))+'</span><span class="dt-n">'+d.getDate()+'</span></button>';
+    }
+    function _calTile(){ return '<button class="dt dscal" id="dt-cal" type="button" aria-label="Pick any date"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></button>'; }
+    // web only: pack more upcoming days (at the normal tile size) so the strip fills the row, then trim any
+    // overflow so it never scrolls. coreHTML = pinned tiles (no cal); lastISO = last dated tile to count forward from.
+    // a gap marker between weekend blocks — the collapsed Mon–Thu of that week (opens the calendar)
+    function _gapEll(){ return '<button class="dt dsell" data-ell-cal="1" type="button" aria-label="More dates">···<span class="dsell-c">4</span></button>'; }
+    function _renderStrip(coreHTML, lastISO){
+      var web = !window.matchMedia || matchMedia('(min-width:621px)').matches;
+      if(!web){ stripEl.innerHTML=coreHTML+_calTile(); return; }
+      var html=coreHTML, last=lastISO, approx=stripEl.clientWidth ? Math.ceil(stripEl.clientWidth/56)+3 : 22, added=0, k=0;
+      // fill with weekend blocks only — each Fri is preceded by a ··· standing in for that week's collapsed Mon–Thu
+      while(added<approx && k++<420){
+        last=_addDaysISO(last,1); var dw=new Date(last+'T12:00:00').getDay();
+        if(dw===5){ html+=_gapEll()+_dtTile(last); added+=2; }
+        else if(dw===6||dw===0){ html+=_dtTile(last); added++; }
+      }
+      stripEl.innerHTML=html+_calTile();
+      var cal=stripEl.lastElementChild, core=(coreHTML.match(/data-iso=/g)||[]).length, guard=0;
+      while(stripEl.scrollWidth > stripEl.clientWidth+1 && guard++<80){
+        if(stripEl.querySelectorAll('.dt[data-iso]').length<=core) break;
+        var v=cal.previousElementSibling; if(!v) break; v.remove();
+      }
+      // never leave a dangling ··· right before the calendar (its weekend got trimmed off)
+      var tail=cal.previousElementSibling; if(tail && tail.classList.contains('dsell')) tail.remove();
+    }
+    function buildDayStrip(){
+      if(!stripEl) return;
+      var today=todayISO();
+      // focus mode: a date beyond this week was picked → window centred on it (Tonight stays up front to jump back)
+      if(_stripFocus){
+        var fh=_dtTile(today, true), flast=today;
+        for(var fd=_addDaysISO(_stripFocus,-3); fd<=_addDaysISO(_stripFocus,3); fd=_addDaysISO(fd,1)){ if(fd>today){ fh+=_dtTile(fd, false); flast=fd; } }
+        _renderStrip(fh, flast); return;
+      }
+      var fri=nextFridayISO();
+      var weekend=[fri,_addDaysISO(fri,1),_addDaysISO(fri,2)].filter(function(d){ return d!==today; });
+      _stripMid=[]; for(var c=_addDaysISO(today,1); c<fri; c=_addDaysISO(c,1)) _stripMid.push(c);
+      var expand = _stripExpanded || (currentDate && _stripMid.indexOf(currentDate)>=0);
+      var html=_dtTile(today, true);
+      if(_stripMid.length>=2 && !expand) html+='<button class="dt dsell" id="dt-ell" type="button" aria-label="Show '+_stripMid.length+' more days">···<span class="dsell-c">'+_stripMid.length+'</span></button>';
+      else _stripMid.forEach(function(iso){ html+=_dtTile(iso); });
+      weekend.forEach(function(iso){ html+=_dtTile(iso); });
+      var lastDay = weekend.length ? weekend[weekend.length-1] : (_stripMid.length ? _stripMid[_stripMid.length-1] : today);
+      _renderStrip(html, lastDay);
+    }
+    buildDayStrip();
+    // how many day tiles fill the row depends on viewport width → settle once after layout, then rebuild on resize
+    if(stripEl){
+      requestAnimationFrame(function(){ buildDayStrip(); syncChips(); });
+      var _stripRz; window.addEventListener('resize', function(){ clearTimeout(_stripRz); _stripRz=setTimeout(function(){ buildDayStrip(); syncChips(); }, 160); }, {passive:true});
+    }
+    // one delegated listener (the strip re-renders on expand/focus, so per-tile handlers would go stale)
+    if(stripEl) stripEl.addEventListener('click', function(e){
+      if(e.target.closest('#dt-ell')){ _stripExpanded=true; buildDayStrip(); syncChips(); return; }
+      if(e.target.closest('[data-ell-cal]')){ openCal(); return; }
+      if(e.target.closest('#dt-cal')){ openCal(); return; }
+      var b=e.target.closest('.dt[data-iso]'); if(b) load(b.dataset.iso);
+    });
+    function syncChips(){
+      if(!stripEl) return;
+      var sel = (mode==='day' && currentDate) ? currentDate : null;
+      // a date beyond this week → rebuild a window centred on it; a hidden weekday → reveal it
+      var wantFocus = (sel && sel>_addDaysISO(nextFridayISO(),2)) ? sel : null;
+      var revealMid = !wantFocus && sel && _stripMid.indexOf(sel)>=0 && !stripEl.querySelector('.dt[data-iso="'+sel+'"]');
+      if(wantFocus!==_stripFocus || revealMid){ _stripFocus=wantFocus; if(revealMid) _stripExpanded=true; buildDayStrip(); }
+      var hit=null;
+      stripEl.querySelectorAll('.dt[data-iso]').forEach(function(b){ var on=b.dataset.iso===sel; b.classList.toggle('on', on); if(on) hit=b; });
+      var calT=document.getElementById('dt-cal'); if(calT) calT.classList.toggle('on', mode==='range' || (!!sel && !hit));
+      // centre the selected day in the strip (no-op on desktop where the whole strip fits)
+      if(hit) stripEl.scrollLeft = Math.max(0, hit.offsetLeft - (stripEl.clientWidth - hit.offsetWidth)/2);
+    }
+    // Salmon dot on the filters button whenever a genre / price / near filter is live.
+    function syncFilterDot(){ var on=!!(_genreFilter||_priceFilter||_nearFilter); var d=document.getElementById('ds-dot'), b=document.getElementById('ds-filt'); if(d) d.hidden=!on; if(b) b.classList.toggle('on', on); }
+
+    // session-length client cache so re-fetched days (weekend reuse, prefetch,
+    // back-and-forth between dates) are instant and never re-hit the network.
+    var _dayCache={};
+    // ── multi-city ──
+    // Minimal fallback registry so the picker works even if /api/cities is
+    // unreachable; replaced by the server list (the source of truth) on boot.
+    var CITY_LIST=[{"slug":"london","name":"London","country":"UK"},{"slug":"tallinn","name":"Tallinn","country":"EE"},{"slug":"berlin","name":"Berlin","country":"DE"},{"slug":"amsterdam","name":"Amsterdam","country":"NL"},{"slug":"paris","name":"Paris","country":"FR"},{"slug":"barcelona","name":"Barcelona","country":"ES"},{"slug":"ibiza","name":"Ibiza","country":"ES"},{"slug":"malta","name":"Malta","country":"MT"},{"slug":"madrid","name":"Madrid","country":"ES"},{"slug":"lisbon","name":"Lisbon","country":"PT"},{"slug":"porto","name":"Porto","country":"PT"},{"slug":"milan","name":"Milan","country":"IT"},{"slug":"rome","name":"Rome","country":"IT"},{"slug":"brussels","name":"Brussels","country":"BE"},{"slug":"vienna","name":"Vienna","country":"AT"},{"slug":"zurich","name":"Zurich","country":"CH"},{"slug":"copenhagen","name":"Copenhagen","country":"DK"},{"slug":"stockholm","name":"Stockholm","country":"SE"},{"slug":"oslo","name":"Oslo","country":"NO"},{"slug":"warsaw","name":"Warsaw","country":"PL"},{"slug":"krakow","name":"Krakow","country":"PL"},{"slug":"prague","name":"Prague","country":"CZ"},{"slug":"budapest","name":"Budapest","country":"HU"},{"slug":"dublin","name":"Dublin","country":"IE"},{"slug":"athens","name":"Athens","country":"GR"},{"slug":"manchester","name":"Manchester","country":"UK"},{"slug":"glasgow","name":"Glasgow","country":"UK"},{"slug":"bristol","name":"Bristol","country":"UK"},{"slug":"hamburg","name":"Hamburg","country":"DE"},{"slug":"munich","name":"Munich","country":"DE"},{"slug":"cologne","name":"Cologne","country":"DE"},{"slug":"frankfurt","name":"Frankfurt","country":"DE"},{"slug":"rotterdam","name":"Rotterdam","country":"NL"},{"slug":"edinburgh","name":"Edinburgh","country":"UK"},{"slug":"leeds","name":"Leeds","country":"UK"},{"slug":"liverpool","name":"Liverpool","country":"UK"},{"slug":"birmingham","name":"Birmingham","country":"UK"},{"slug":"sheffield","name":"Sheffield","country":"UK"},{"slug":"nottingham","name":"Nottingham","country":"UK"},{"slug":"newcastle","name":"Newcastle","country":"UK"},{"slug":"brighton","name":"Brighton","country":"UK"},{"slug":"belfast","name":"Belfast","country":"UK"},{"slug":"tokyo","name":"Tokyo","country":"JP"},{"slug":"osaka","name":"Osaka","country":"JP"},{"slug":"seoul","name":"Seoul","country":"KR"},{"slug":"singapore","name":"Singapore","country":"SG"},{"slug":"bangkok","name":"Bangkok","country":"TH"},{"slug":"kualalumpur","name":"Kuala Lumpur","country":"MY"},{"slug":"hongkong","name":"Hong Kong","country":"HK"},{"slug":"bali","name":"Bali","country":"ID"},{"slug":"buenosaires","name":"Buenos Aires","country":"AR"},{"slug":"brisbane","name":"Brisbane","country":"AU"},{"slug":"hobart","name":"Hobart","country":"AU"},{"slug":"melbourne","name":"Melbourne","country":"AU"},{"slug":"sydney","name":"Sydney","country":"AU"},{"slug":"antwerp","name":"Antwerp","country":"BE"},{"slug":"ghent","name":"Ghent","country":"BE"},{"slug":"saopaulo","name":"Sao Paulo","country":"BR"},{"slug":"montreal","name":"Montreal","country":"CA"},{"slug":"toronto","name":"Toronto","country":"CA"},{"slug":"vancouver","name":"Vancouver","country":"CA"},{"slug":"shenzhen","name":"Shenzhen","country":"CN"},{"slug":"lyon","name":"Lyon","country":"FR"},{"slug":"marseille","name":"Marseille","country":"FR"},{"slug":"nantes","name":"Nantes","country":"FR"},{"slug":"strasbourg","name":"Strasbourg","country":"FR"},{"slug":"tbilisi","name":"Tbilisi","country":"GE"},{"slug":"dusseldorf","name":"Düsseldorf","country":"DE"},{"slug":"leipzig","name":"Leipzig","country":"DE"},{"slug":"nurnberg","name":"Nürnberg","country":"DE"},{"slug":"stuttgart","name":"Stuttgart","country":"DE"},{"slug":"mykonos","name":"Mykonos","country":"GR"},{"slug":"naples","name":"Naples","country":"IT"},{"slug":"turin","name":"Turin","country":"IT"},{"slug":"kyoto","name":"Kyoto","country":"JP"},{"slug":"riga","name":"Riga","country":"LV"},{"slug":"mexicocity","name":"Mexico City","country":"MX"},{"slug":"thehague","name":"The Hague","country":"NL"},{"slug":"utrecht","name":"Utrecht","country":"NL"},{"slug":"auckland","name":"Auckland","country":"NZ"},{"slug":"bucharest","name":"Bucharest","country":"RO"},{"slug":"belgrade","name":"Belgrade","country":"RS"},{"slug":"malaga","name":"Malaga","country":"ES"},{"slug":"mallorca","name":"Mallorca","country":"ES"},{"slug":"valencia","name":"Valencia","country":"ES"},{"slug":"basel","name":"Basel","country":"CH"},{"slug":"geneva","name":"Geneva","country":"CH"},{"slug":"istanbul","name":"Istanbul","country":"TK"},{"slug":"austin","name":"Austin","country":"US"},{"slug":"boston","name":"Boston","country":"US"},{"slug":"chicago","name":"Chicago","country":"US"},{"slug":"denver","name":"Denver","country":"US"},{"slug":"detroit","name":"Detroit","country":"US"},{"slug":"houston","name":"Houston","country":"US"},{"slug":"losangeles","name":"Los Angeles","country":"US"},{"slug":"miami","name":"Miami","country":"US"},{"slug":"nashville","name":"Nashville","country":"US"},{"slug":"newyorkcity","name":"New York City","country":"US"},{"slug":"philadelphia","name":"Philadelphia","country":"US"},{"slug":"portland","name":"Portland","country":"US"},{"slug":"sandiego","name":"San Diego","country":"US"},{"slug":"sanfrancisco","name":"San Francisco/Oakland","country":"US"},{"slug":"seattle","name":"Seattle","country":"US"},{"slug":"washingtondc","name":"Washington DC","country":"US"}];
+    // Canonical city URLs are path-based. On its own domain the app lives at the
+    // root (soundcheck.club/<slug>/); on 6minutes.club it lives under /soundcheck/.
+    // SC_BASE is the single switch the whole router + asset loader keys off, so
+    // the same build serves both. Each city path is a real static copy on Pages,
+    // so cold loads get a 200. ?city= is still read for legacy links.
+    var SC_BASE = /(^|\.)soundcheck\.club$/.test(location.hostname) ? '/' : '/soundcheck/';
+    // Promo/share URL shown on taste cards + share text — tracks the live domain.
+    function shareHost(){ return /(^|\.)soundcheck\.club$/.test(location.hostname) ? 'soundcheck.club' : '6minutes.club/soundcheck'; }
+    function onScPath(){ return location.pathname.indexOf(SC_BASE)===0; }
+    // Artist/user/event/night are GLOBAL — city-less top-level paths: /dj/<slug>,
+    // /u/<handle>, /e/<id>-<slug>, /n/<id>. Venues are CITY-scoped (a venue lives in
+    // one city), so they sit under the city: /<city>/club/<slug>. Legacy /a/ and /v/
+    // still resolve. All served via the Pages 404.html SPA fallback. pathRoute()
+    // returns the render-route (e.g. 'club/fold' or 'dj/objekt'); pathCitySlug() the city.
+    var ENTITY_RE=/^(dj|a|u|e|n|promoter)\/.+/;       // global, city-less (dj canonical; a = legacy alias)
+    var CITY_SEG_RE=/^(dj|a|u|v|club|e|n|promoter|scenes)$/; // reserved first segments (never a city)
+    function pathRoute(){
+      if(!onScPath()) return null;
+      var rest=location.pathname.slice(SC_BASE.length).replace(/\/$/,'');
+      try{ rest=decodeURIComponent(rest); }catch(_){}
+      if(ENTITY_RE.test(rest)) return rest;              // /dj|a|u|e|n/<id>
+      var m=rest.match(/^[a-z0-9-]+\/((?:club|v)\/.+)$/);// /<city>/club/<slug> (v = legacy)
+      if(m) return m[1];
+      if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
+      if(rest==='scenes') return 'scenes';               // /scenes → all-cities scene index
+      if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
+      return null;
+    }
+    function pathCitySlug(){
+      if(!onScPath()) return null;
+      var seg=(location.pathname.slice(SC_BASE.length).split('/')[0]||'').toLowerCase();
+      if(!seg || seg.indexOf('.')>=0) return null; // '' or index.html → no city segment
+      if(CITY_SEG_RE.test(seg)) return null;       // entity prefix, not a city
+      return seg;                                  // city — incl. /<city>/v/<slug>
+    }
+    function cityPath(slug){ return SC_BASE + slug + '/'; }
+    // _cityExplicit: the URL chose the city (path or ?city=). Only when it
+    // didn't may the server-side prefs.city take over after loadMe.
+    var _cityExplicit=false;
+    var currentCity=(function(){
+      var p=pathCitySlug();
+      if(p){ _cityExplicit=true; return p; }
+      var q=(new URLSearchParams(location.search).get('city')||'').toLowerCase().trim();
+      if(q){ _cityExplicit=true; return q; }
+      // legacy localStorage city honoured once (adoption moves it to prefs)
+      try{ return (localStorage.getItem('sc_city')||'london'); }catch(_){ return 'london'; }
+    })();
+    // Canonicalize to the path form before the first loader writes its query
+    // string: legacy ?city= links AND bare /soundcheck/ (every city, London
+    // included, lives at /soundcheck/<slug>/).
+    if(onScPath() && !pathRoute() && (!pathCitySlug() || (new URLSearchParams(location.search).get('city')))){
+      var _cu=new URL(location.href); _cu.searchParams.delete('city');
+      history.replaceState(history.state,'', cityPath(currentCity)+_cu.search+_cu.hash);
+    }
+    function cityMeta(){ for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===currentCity) return CITY_LIST[i]; } return CITY_LIST[0]; }
+    function cityLabel(slug){ if(!slug) return ''; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===slug) return CITY_LIST[i].name; } return slug.charAt(0).toUpperCase()+slug.slice(1); }
+    // Loaders rewrite only the query string, so the city path survives. Off
+    // /soundcheck/ (local dev) we still carry &city= explicitly.
+    function withCityQS(qs){ return (!onScPath() && currentCity!=='london') ? qs+'&city='+encodeURIComponent(currentCity) : qs; }
+    function flagEmoji(cc){ cc=cc==='UK'?'GB':cc; if(!/^[A-Z]{2}$/.test(cc)) return ''; return String.fromCodePoint(0x1F1E6+cc.charCodeAt(0)-65, 0x1F1E6+cc.charCodeAt(1)-65); }
+    function renderCityUI(){
+      var m=cityMeta();
+      var hn=document.getElementById('hero-city-name'); if(hn) hn.textContent=m.name;       // home headline (plain text)
+      var hcn=document.getElementById('hdr-city-name'); if(hcn) hcn.textContent=m.name;     // header city switcher
+      var lg=document.querySelector('.logo'); if(lg) lg.href=cityPath(currentCity); // home URL (was href="." → broke on deep paths)
+    }
+    async function loadCities(){
+      try{
+        var r=await fetch(API_BASE+'/api/cities'); var j=await r.json();
+        if(Array.isArray(j.cities) && j.cities.length){
+          CITY_LIST=j.cities;
+          if(!CITY_LIST.some(function(c){ return c.slug===currentCity; })){
+            currentCity='london';
+            if(onScPath() && pathCitySlug()){ history.replaceState(history.state,'', cityPath('london')+location.search+location.hash); }
+          }
+        }
+      }catch(_){}
+      renderCityUI();
+    }
+    function setCity(slug, userPicked){
+      if(slug===currentCity) return;
+      currentCity=slug;
+      setPref('city', slug);
+      // A user picking a city from the switcher is a "take me home" action: collapse
+      // any open entity page (artist/venue/event/search/scene) back to the city
+      // homepage, so the new city lands somewhere that reflects it — not on an
+      // unrelated artist. Auto city changes from prefs/geo on load pass no flag, so a
+      // deep-linked page is never bounced.
+      var goHome = userPicked && document.body.classList.contains('page-on');
+      if(goHome) hidePage();
+      var u=new URL(location.href);
+      u.searchParams.delete('city');
+      if(onScPath()){
+        history.replaceState(history.state,'', cityPath(slug)+(goHome?'':(u.search+u.hash)));
+      } else {
+        if(slug!=='london') u.searchParams.set('city',slug);
+        history.replaceState(history.state,'', (goHome?SC_BASE:u.pathname)+u.search+u.hash);
+      }
+      renderCityUI();
+      stopActive();
+      if(goHome) window.scrollTo(0,0);
+      // re-run whatever view is on screen for the new city
+      if(mode==='day' && currentDate) load(currentDate, (activePick==='fri'||activePick==='sat')?activePick:undefined);
+      else if(mode==='range' && currentRange) loadRange(currentRange[0],currentRange[1]);
+      else loadWeekend(activePick==='next'?1:0);
+    }
+    function openCityPicker(){
+      var ov=document.createElement('div'); ov.className='auth-overlay show city-pick';
+      var rows=CITY_LIST.slice().sort(function(a,b){ return a.name.localeCompare(b.name); }).map(function(c){
+        return '<button class="city-row'+(c.slug===currentCity?' on':'')+'" data-city="'+esc(c.slug)+'" data-name="'+esc((c.name||'').toLowerCase())+'" type="button"><span class="cf">'+flagEmoji(c.country)+'</span>'+esc(c.name)+'</button>';
+      }).join('');
+      ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">Choose your city</div><h3>Where are you out?</h3>'+
+        '<div class="search-box" style="margin:4px 0 2px"><input type="search" id="city-search" placeholder="Search '+CITY_LIST.length+' cities…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+        '<div class="city-list">'+rows+'</div>'+
+        '<div class="empty city-none" style="display:none;padding:14px 0">No city matches that.</div></div>';
+      document.body.appendChild(ov);
+      // Keyboard fix: size the overlay to the VISIBLE viewport (visualViewport shrinks when
+      // the on-screen keyboard opens on iOS), so the bottom-anchored sheet + its city list
+      // float just ABOVE the keyboard instead of disappearing behind it.
+      var vv=window.visualViewport, fit=null;
+      if(vv){ fit=function(){ ov.style.top=(vv.offsetTop||0)+'px'; ov.style.height=vv.height+'px'; ov.style.bottom='auto'; }; vv.addEventListener('resize',fit); vv.addEventListener('scroll',fit); fit(); }
+      function close(){ if(vv&&fit){ vv.removeEventListener('resize',fit); vv.removeEventListener('scroll',fit); } ov.remove(); }
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      var inp=ov.querySelector('#city-search'), none=ov.querySelector('.city-none');
+      var allRows=[].slice.call(ov.querySelectorAll('.city-row'));
+      inp.addEventListener('input',function(){
+        var q=inp.value.trim().toLowerCase(); var shown=0;
+        allRows.forEach(function(r){ var hit=!q || r.getAttribute('data-name').indexOf(q)>=0; r.style.display=hit?'':'none'; if(hit) shown++; });
+        none.style.display=shown?'none':'block';
+      });
+      setTimeout(function(){ inp.focus(); },60);
+      ov.addEventListener('click',function(e){
+        if(e.target===ov){ close(); return; }
+        var b=e.target.closest('.city-row[data-city]');
+        if(b){ close(); setCity(b.dataset.city, true); }
+      });
+    }
+    document.getElementById('hdr-city').addEventListener('click',openCityPicker);
+    // Mobile keyboard: when an autocomplete input (.sg-wrap — log-a-gig / import city, artist,
+    // venue) is focused, scroll it toward the top so its dropdown opens in the space ABOVE the
+    // on-screen keyboard rather than behind it.
+    document.addEventListener('focusin',function(e){
+      var inp=e.target&&e.target.closest&&e.target.closest('.sg-wrap input');
+      if(!inp || !window.matchMedia('(max-width:620px)').matches) return;
+      setTimeout(function(){ try{ inp.scrollIntoView({block:'start',behavior:'smooth'}); }catch(_){ } },300);
+    });
+
+    async function fetchDay(date){
+      var key=currentCity+'|'+date;
+      if(_dayCache[key]) return _dayCache[key];
+      var res=await fetch(API_BASE+'/api/day?date='+encodeURIComponent(date)+(currentCity!=='london'?('&city='+encodeURIComponent(currentCity)):''));
+      var json=await res.json();
+      if(!res.ok) throw new Error(json.error||('HTTP '+res.status));
+      _dayCache[key]=json;
+      return json;
+    }
+    function prefetchDay(date){ if(date && !_dayCache[currentCity+'|'+date]) fetchDay(date).catch(function(){}); }
+    // After the first paint, quietly warm the days people switch to next.
+    var _prefetched=false;
+    function prefetchAround(){
+      if(_prefetched) return; _prefetched=true;
+      var run=function(){
+        try{
+          var tomorrow=isoOf(new Date(Date.now()+86400000));
+          var wd=weekendDatesFor(0);
+          [todayISO(), tomorrow, wd[0], wd[1]].forEach(prefetchDay);
+        }catch(_){}
+      };
+      if(window.requestIdleCallback) requestIdleCallback(run,{timeout:2500}); else setTimeout(run,1200);
+    }
+    // grid skeletons while a day loads
+    function skeletonGrid(n){
+      n=n||8;
+      var card='<div class="gcard skel-card"><div class="sk sk-poster"></div><div class="sk sk-line w70"></div><div class="sk sk-line w45"></div></div>';
+      gridEl.innerHTML=new Array(n).fill(card).join('');
+    }
+
+    // single-day mode
+    async function load(date, pick){
+      mode='day'; currentDate=date; activePick=pick||(date===todayISO()?'tonight':'date'); syncChips();
+      _retryLoad=function(){ load(date, pick); };
+      document.title='soundcheck '+cityMeta().name+' · '+date; history.replaceState(null,'',withCityQS('?date='+date));
+      setStatus('<span class="spinner"></span> Loading '+esc(fmtDateLabel(date))+'…'); skeletonGrid();
+      try{
+        var json=await fetchDay(date);
+        setStatus('');
+        renderEvents(json.events, date===todayISO()?'Tonight':fmtDateLabel(date));
+        prefetchAround();
+      }catch(err){ showGridError(); }
+    }
+
+    // weekend mode: Friday + Saturday combined. offset 0 = this weekend, 1 = next.
+    function weekendDatesFor(offset){
+      var sat=new Date(); sat.setDate(sat.getDate()+((6-sat.getDay()+7)%7)+offset*7);
+      var fri=new Date(sat); fri.setDate(sat.getDate()-1);
+      return [isoOf(fri), isoOf(sat)];
+    }
+    // The next upcoming Friday (today if it IS Friday) — the default landing.
+    function nextFridayISO(){ var d=new Date(); d.setDate(d.getDate()+((5-d.getDay()+7)%7)); return isoOf(d); }
+    async function loadWeekend(offset){
+      offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
+      _retryLoad=function(){ loadWeekend(offset); };
+      var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
+      document.title='soundcheck '+cityMeta().name+' · '+(offset?'next weekend':'this weekend'); history.replaceState(null,'',withCityQS('?weekend='+(offset+1)));
+      setStatus('<span class="spinner"></span> Loading '+(offset?'next':'this')+' weekend…'); skeletonGrid();
+      try{
+        var res=await Promise.all([fetchDay(wd[0]), fetchDay(wd[1])]);
+        var fri=(res[0].events||[]).map(function(e){ return Object.assign({},e,{_day:'Fri'}); });
+        var sat=(res[1].events||[]).map(function(e){ return Object.assign({},e,{_day:'Sat'}); });
+        setStatus('');
+        renderEvents(fri.concat(sat), offset?'Next weekend':'This weekend');
+        prefetchAround();
+      }catch(err){ showGridError(); }
+    }
+
+    // multi-day mode: arbitrary range from the calendar (or ?from=&to=)
+    async function loadRange(startISO, endISO){
+      if(!startISO||!endISO) return;
+      if(endISO<startISO){ var t=startISO; startISO=endISO; endISO=t; }
+      var span=Math.round((new Date(endISO+'T12:00:00')-new Date(startISO+'T12:00:00'))/86400000)+1;
+      if(span<=1) return load(startISO);
+      if(span>RANGE_CAP){ var _dt=new Date(startISO+'T12:00:00'); _dt.setDate(_dt.getDate()+(RANGE_CAP-1)); endISO=isoOf(_dt); span=RANGE_CAP; }
+      mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
+      _retryLoad=function(){ loadRange(startISO, endISO); };
+      document.title='soundcheck by 6 Minutes · '+startISO+' to '+endISO;
+      history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
+      setStatus('<span class="spinner"></span> Loading '+span+' days&hellip;'); skeletonGrid();
+      try{
+        var days=[]; for(var d=new Date(startISO+'T12:00:00'); d<=new Date(endISO+'T12:00:00'); d.setDate(d.getDate()+1)) days.push(isoOf(d));
+        var res=await Promise.all(days.map(fetchDay));
+        var all=[];
+        res.forEach(function(j,i){
+          var dl=new Date(days[i]+'T12:00:00').toLocaleDateString('en-GB',{weekday:'short'});
+          (j.events||[]).forEach(function(e){ all.push(Object.assign({},e,{_day:dl})); });
+        });
+        setStatus('');
+        renderEvents(all, fmtRange(startISO,endISO));
+      }catch(err){ showGridError(); }
+    }
+
+    document.getElementById('hdr-search').addEventListener('click',openSearch);
+    document.querySelectorAll('.nl[data-nav]').forEach(function(b){ b.addEventListener('click',function(){ var n=b.dataset.nav; if(n==='discover') openDiscover(); else if(n==='scenes') openScenes(); else if(n==='upcoming') openUpcoming(); }); });
+    var _hlog=document.getElementById('hdr-log'); if(_hlog) _hlog.addEventListener('click',function(){ openLog(); });
+    // filters: the genre / price / near row is collapsed by default; the sliders
+    // button reveals it (and shows a salmon dot when a filter is live).
+    var _dsFilt=document.getElementById('ds-filt');
+    if(_dsFilt) _dsFilt.addEventListener('click',function(e){ e.stopPropagation(); var open=document.body.classList.toggle('filters-open'); _dsFilt.setAttribute('aria-expanded', open?'true':'false'); });
+
+    // ── on-brand calendar (Pick a date — single day or range) ──
+    var calOverlay=document.getElementById('cal-overlay'), calEl=document.getElementById('cal'), calView=null;
+    var calMode='day';                  // 'day' | 'range'
+    var calRangeStart=null, calRangeEnd=null;   // ISO strings while picking
+    // When calOnDay is set (via openCal({onDay,selected})), the calendar runs as a
+    // day-only picker and routes the chosen day to calOnDay(iso) instead of load() —
+    // lets any page (e.g. Coming up "jump to date") reuse this one calendar component.
+    var calOnDay=null, calSelIso=null;
+    // When calOnRange is set (via openCal({onRange, allowPast})), the calendar runs
+    // as a RANGE-only picker and routes the chosen [start,end] to calOnRange instead
+    // of loadRange — lets the log-a-gig venue flow reuse this exact calendar, and
+    // allowPast unblocks past dates (you log nights that already happened).
+    var calOnRange=null, calAllowPast=false;
+    var RANGE_CAP=31;                   // max days in a single range (a full month)
+    function inRange(iso, a, b){ return a && b && iso>=a && iso<=b; }
+    function buildCal(){
+      var tdy=new Date(); tdy.setHours(0,0,0,0);
+      var y=calView.getFullYear(), m=calView.getMonth();
+      var startDow=new Date(y,m,1).getDay(), days=new Date(y,m+1,0).getDate();
+      var dows=['S','M','T','W','T','F','S'], h='';
+      // month bounds (start clamped to today) for Month mode
+      var monFirst=isoOf(new Date(y,m,1)), monLast=isoOf(new Date(y,m+1,0)), _tIso=todayISO();
+      var monStart=(monFirst<_tIso?_tIso:monFirst), monEnd=monLast, monthHasFuture=(monLast>=_tIso);
+      // mode toggle
+      if(!calOnDay && !calOnRange) h+='<div class="cal-modes"><button type="button" data-cmode="day" class="'+(calMode==='day'?'on':'')+'">Day</button><button type="button" data-cmode="month" class="'+(calMode==='month'?'on':'')+'">Month</button><button type="button" data-cmode="range" class="'+(calMode==='range'?'on':'')+'">Range</button></div>';
+      // hint line
+      if(calMode==='month'){
+        h+='<div class="cal-hint">All of '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+' &mdash; tap Show, or use &lsaquo; &rsaquo; to change month.</div>';
+      } else if(calMode==='range'){
+        var hint = calRangeStart && calRangeEnd ? (fmtRange(calRangeStart, calRangeEnd))
+                 : calRangeStart ? ('Start: '+fmtDateLabel(calRangeStart)+' — tap another day to set the end')
+                 : 'Tap a day to set the start, then tap another for the end.';
+        h+='<div class="cal-hint">'+esc(hint)+'</div>';
+      }
+      h+='<div class="cal-head"><span class="mon">'+calView.toLocaleDateString('en-GB',{month:'long',year:'numeric'})+'</span><span class="navs"><button id="cal-prev" type="button">&lsaquo;</button><button id="cal-next" type="button">&rsaquo;</button></span></div><div class="cal-grid">';
+      dows.forEach(function(d){ h+='<div class="cal-dow">'+d+'</div>'; });
+      for(var p=0;p<startDow;p++) h+='<div class="cal-cell pad"></div>';
+      for(var day=1;day<=days;day++){
+        var d=new Date(y,m,day), di=isoOf(d), past=d<tdy, blockPast=past&&!calAllowPast, we=(d.getDay()===5||d.getDay()===6);
+        var cls='cal-cell'+(blockPast?' past':'')+(we?' we':'')+(di===isoOf(tdy)?' today':'');
+        if(calMode==='day' && ((calOnDay && di===calSelIso) || (!calOnDay && mode==='day' && di===currentDate))) cls+=' sel';
+        if(calMode==='range'){
+          var rs=calRangeStart, re=calRangeEnd||calRangeStart;
+          if(rs && re && di===rs) cls+=' range-start';
+          if(rs && re && di===re && re!==rs) cls+=' range-end';
+          if(rs && re && di>rs && di<re) cls+=' range-mid';
+          if(rs && !calRangeEnd && di===rs) cls+=' range-start range-end';
+        }
+        if(calMode==='month' && !past && di>=monStart && di<=monEnd){
+          if(di===monStart && di===monEnd) cls+=' range-start range-end';
+          else if(di===monStart) cls+=' range-start';
+          else if(di===monEnd) cls+=' range-end';
+          else cls+=' range-mid';
+        }
+        h+='<div class="'+cls+'" data-iso="'+di+'">'+day+'</div>';
+      }
+      var applyBtn = '';
+      if(calMode==='range'){ var canApply=calRangeStart&&calRangeEnd; applyBtn='<button id="cal-apply" class="primary" type="button"'+(canApply?'':' disabled')+'>'+(canApply?'Show '+(daysBetween(calRangeStart,calRangeEnd)+1)+' days':'Pick a range')+'</button>'; }
+      else if(calMode==='month'){ applyBtn='<button id="cal-apply" class="primary" type="button"'+(monthHasFuture?'':' disabled')+'>Show '+esc(calView.toLocaleDateString('en-GB',{month:'long'}))+'</button>'; }
+      h+='</div><div class="cal-foot">'+(calOnRange?'<span></span>':'<button id="cal-today" type="button">Today</button>')+applyBtn+'<button id="cal-close" type="button">Close</button></div>';
+      calEl.innerHTML=h;
+      // wire mode toggle
+      calEl.querySelectorAll('[data-cmode]').forEach(function(b){ b.onclick=function(){ calMode=b.dataset.cmode; if(calMode!=='range'){ calRangeStart=calRangeEnd=null; } buildCal(); }; });
+      document.getElementById('cal-prev').onclick=function(){ calView=new Date(y,m-1,1); buildCal(); };
+      document.getElementById('cal-next').onclick=function(){ calView=new Date(y,m+1,1); buildCal(); };
+      var todayBtn=document.getElementById('cal-today'); if(todayBtn) todayBtn.onclick=function(){ closeCal(); if(calOnDay) calOnDay(todayISO()); else load(todayISO()); };
+      document.getElementById('cal-close').onclick=closeCal;
+      if(applyBtn){
+        document.getElementById('cal-apply').onclick=function(){
+          if(calMode==='month'){ if(!monthHasFuture) return; closeCal(); loadRange(monStart, monEnd); return; }
+          if(!calRangeStart||!calRangeEnd) return;
+          closeCal();
+          if(calOnRange){ calOnRange(calRangeStart, calRangeEnd); return; }
+          loadRange(calRangeStart, calRangeEnd);
+        };
+      }
+      calEl.querySelectorAll('.cal-cell:not(.pad):not(.past)').forEach(function(c){
+        c.onclick=function(){
+          var iso=c.dataset.iso;
+          if(calMode==='day'){ closeCal(); if(calOnDay) calOnDay(iso); else load(iso); return; }
+          if(calMode==='month'){ closeCal(); loadRange(monStart, monEnd); return; }
+          // range mode: tap 1 = start, tap 2 = end (swap if before), tap 3 (with full range) = restart
+          if(!calRangeStart || (calRangeStart && calRangeEnd)){
+            calRangeStart=iso; calRangeEnd=null;
+          } else {
+            var a=calRangeStart, b=iso;
+            if(b<a){ var t=a; a=b; b=t; }
+            // cap range
+            if(daysBetween(a,b)+1 > RANGE_CAP){
+              showToast('Max range is '+RANGE_CAP+' days — clamped.');
+              var dt=new Date(a+'T12:00:00'); dt.setDate(dt.getDate()+(RANGE_CAP-1)); b=isoOf(dt);
+            }
+            calRangeStart=a; calRangeEnd=b;
+          }
+          buildCal();
+        };
+      });
+    }
+    function daysBetween(a,b){ return Math.round((new Date(b+'T12:00:00')-new Date(a+'T12:00:00'))/86400000); }
+    // openCal()                         → home grid (day/month/range, commits via load/loadRange)
+    // openCal({selected, onDay})         → day-only picker; the chosen day goes to onDay(iso)
+    function openCal(opts){
+      opts = opts || {};
+      calOnDay = (typeof opts.onDay==='function') ? opts.onDay : null;
+      calOnRange = (typeof opts.onRange==='function') ? opts.onRange : null;
+      calAllowPast = !!opts.allowPast;
+      calSelIso = opts.selected || null;
+      if(calOnRange){
+        calMode='range'; calRangeStart=opts.rangeStart||null; calRangeEnd=opts.rangeEnd||null;
+        var rv=opts.rangeStart||opts.selected||todayISO(), rvb=new Date(rv+'T12:00:00');
+        calView=new Date(rvb.getFullYear(), rvb.getMonth(), 1);
+      } else if(calOnDay){
+        calMode='day'; calRangeStart=calRangeEnd=null;
+        var s=opts.selected||todayISO(), sb=new Date(s+'T12:00:00');
+        calView=new Date(sb.getFullYear(), sb.getMonth(), 1);
+      } else {
+        var b=(mode==='day'&&currentDate)?new Date(currentDate+'T12:00:00')
+             :(mode==='range'&&currentRange)?new Date(currentRange[0]+'T12:00:00')
+             :new Date();
+        calView=new Date(b.getFullYear(), b.getMonth(), 1);
+        // seed range editor with the current range when re-opening in range mode
+        if(mode==='range' && currentRange){ calMode='range'; calRangeStart=currentRange[0]; calRangeEnd=currentRange[1]; }
+        else { calRangeStart=calRangeEnd=null; }
+      }
+      buildCal(); calOverlay.classList.add('show');
+    }
+    function closeCal(){ calOverlay.classList.remove('show'); }
+    calOverlay.addEventListener('click',function(e){ if(e.target===calOverlay) closeCal(); });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&calOverlay.classList.contains('show')) closeCal(); });
+
+    // Default to this weekend (Fri + Sat combined); ?date= overrides to a single day.
+    // Share params:
+    //   #e/<id>[?u=handle]            — event share → full event page (current)
+    //   ?event=<id>[&d=YYYY-MM-DD]    — legacy event deep-link (still → full page)
+    //   ?artist=<slug>[&d=YYYY-MM-DD] — deep-link to a single artist
+    //   ?picks=v1.<b64>               — a friend's shortlist (encoded payload includes date)
+    renderCityUI(); loadCities();
+    var _qs=new URLSearchParams(location.search);
+    var _qd=_qs.get('date'), _qe=_qs.get('event'), _qa=_qs.get('artist'), _qp=_qs.get('picks'), _qsd=_qs.get('d');
+    var _qfrom=_qs.get('from'), _qto=_qs.get('to');
+    sharedPicks = _qp ? decodePicksParam(_qp) : null;
+    sharedSingle = _qe ? {kind:'event', id:_qe} : (_qa ? {kind:'artist', slug:_qa} : null);
+    sharedFrom = (_qs.get('u')||'').toLowerCase().replace(/[^a-z0-9]/g,'') || null; // sender handle (#42)
+    var _shareDate = _qsd || (sharedPicks && sharedPicks.date) || null;
+    // Capture the boot route + URL BEFORE the default-landing load() runs:
+    // load()/loadWeekend() synchronously replaceState to ?date=/?weekend=, which
+    // would otherwise wipe an entity path (/dj/<slug>, /<city>/club/<slug>) before
+    // we read it — sending every refresh of a page back to the home grid.
+    var _bootRoute=currentRoute();
+    var _bootIsPath=!!(onScPath() && pathRoute());
+    var _bootUrl=location.pathname+location.search;
+
+    if(_qfrom && _qto) loadRange(_qfrom,_qto);
+    else if(_qd) load(_qd);
+    else if(_shareDate) load(_shareDate);
+    else load(nextFridayISO(), 'fri'); // default landing: the next Friday
+
+    // Deep link to a page (dj/slug, u/handle, club/name, e/id, n/id, legacy a//v/,
+    // or a #hash overlay)? The default landing above set up the home grid underneath;
+    // now restore the captured page URL (load() just rewrote it) and route over it so
+    // Back lands on the grid.
+    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|upcoming|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|promoter\/)/.test(_bootRoute)){
+      history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
+      history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
+      // Synchronous (not deferred): the open* handlers add body.page-on before the
+      // first paint, so the home grid (#home) is hidden immediately — no flash of
+      // home before the page appears. The grid still loads underneath for Back.
+      handleRoute();
+    }
+  
