@@ -578,6 +578,14 @@
     .gchip { font:600 var(--fs-xs) var(--body); letter-spacing:0.02em; color:var(--muted); background:var(--surface); border:1px solid var(--line); border-radius:var(--radius-pill); padding:4px 10px; text-transform:capitalize; }
     .ev-directions { display:inline-block; margin:8px 0 10px; font:700 var(--fs-xs) var(--body); letter-spacing:0.04em; text-transform:uppercase; color:var(--accent); text-decoration:none; }
     .ev-directions:hover { text-decoration:underline; }
+    /* event header: venue name gets its own prominent line above the date/price */
+    .event-head-tx .sheet-meta .ev-venue-name { display:block; font-size:var(--fs-md); line-height:1.15; margin-bottom:3px; }
+    .event-head-tx .sheet-meta .ev-meta-line { display:block; }
+    /* Location box: venue name + follow button on one row */
+    .ev-loc-head { display:flex; align-items:center; gap:12px; margin-bottom:11px; }
+    .ev-loc-venue { flex:1; min-width:0; text-align:left; background:none; border:0; padding:0; color:var(--fg); font:800 var(--fs-md) var(--head); letter-spacing:-0.01em; cursor:pointer; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; -webkit-tap-highlight-color:transparent; transition:color .12s; }
+    .ev-loc-venue:hover { color:var(--accent); }
+    .ev-loc-follow { flex:0 0 auto; width:auto; height:38px; padding:0 14px; }
     .sheet-line li .ln-av { width:30px; height:30px; border-radius:50%; flex:0 0 auto; background-size:cover; background-position:center; background-color:var(--surface); margin-right:2px; }
 
     /* picks tray (modal) */
@@ -2428,7 +2436,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783095933741">
+<meta name="sc-build" content="1783096631259">
 </head>
 <body>
   <main class="wrap">
@@ -3593,6 +3601,8 @@
     // picks load once for instant UI, get adopted server-side, then the key
     // is deleted for good (adoptLegacyLocal).
     var HEART_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg>';
+    // Save (event) uses a bookmark — distinct from the heart, which means wanna-see (artist) / follow (venue).
+    var BOOKMARK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
     var SHARE_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>';
     var RADIO_SVG='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>';
     var CHECK_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
@@ -6082,7 +6092,7 @@
       var priceTag=priceStr?'<span class="price-tag'+(priceStr==='Free'?' free':'')+'">'+esc(priceStr)+'</span>':'';
       var eid=ev.id!=null?String(ev.id):'';
       var evPicked = eid && isEventPicked(eid) ? ' on' : '';
-      var evHeart = eid ? '<button class="act-btn act-2nd heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'<span>Save</span></button>' : '';
+      var evHeart = eid ? '<button class="act-btn act-2nd heart'+evPicked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(evPicked?'true':'false')+'" aria-label="Save this event">'+BOOKMARK_SVG+'<span>Save</span></button>' : '';
       var evShare = eid ? '<button class="act-btn act-2nd act-icon share-btn" type="button" data-share-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" aria-label="Share this event">'+SHARE_SVG+'</button>' : '';
       // Past event → "Add to log" / "Logged" (you can't "save/go" to a night that's
       // already happened); future event keeps the save heart.
@@ -6103,7 +6113,7 @@
             '<div class="event-head-tx">'+
               (isPickVenue(ev.venue)?'<span class="pick">Pick</span>':'')+
               '<h3>'+esc(ev.title||'Event')+'</h3>'+
-              '<div class="sheet-meta"><b class="venue-link" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span id="ev-when">'+whenStr+'</span>'+priceTag+'</div>'+
+              '<div class="sheet-meta"><b class="venue-link ev-venue-name" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</b><span class="ev-meta-line"><span id="ev-when">'+whenStr+'</span>'+priceTag+'</span></div>'+
             '</div>'+
             /* Sticky play bar: big play (the line-up YouTube queue) + Save/Share. A direct
                child of ev-col-main so position:sticky travels the full column (incl. the bill). */
@@ -6192,12 +6202,17 @@
       if(rich){
         var rh='';
         if(ev.venueLat!=null && ev.venueLng!=null){
-          rh+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Location</div>'+(ev.venueAddress?'<div class="venue-addr">'+esc(ev.venueAddress)+'</div>':'')+
+          rh+='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Location</div>'+
+            '<div class="ev-loc-head"><button class="venue-link ev-loc-venue" type="button" data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'Venue')+'</button>'+
+              (ev.venue_slug?'<button class="act-btn act-2nd ev-loc-follow'+(ev.venueFollowing?' on':'')+'" id="ev-vfollow" type="button" aria-pressed="'+(ev.venueFollowing?'true':'false')+'" aria-label="Follow '+esc(ev.venue||'')+'">'+HEART_SVG+'<span>'+(ev.venueFollowing?'Following':'Follow')+'</span></button>':'')+'</div>'+
+            (ev.venueAddress?'<div class="venue-addr">'+esc(ev.venueAddress)+'</div>':'')+
             '<a class="ev-directions" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+ev.venueLat+','+ev.venueLng+'">Directions &rsaquo;</a>'+
             '<div id="ev-loc" class="venue-map" style="height:240px"></div></div>';
         }
         if((ev.alsoOn||[]).length) rh+='<div class="sec-h" style="margin-top:26px">Also on that night</div><div id="ev-alsoon"></div>';
         rich.innerHTML=rh;
+        var evf=document.getElementById('ev-vfollow');
+        if(evf) evf.addEventListener('click',function(){ toggleVenueFollow({ slug:ev.venue_slug, name:ev.venue, following:ev.venueFollowing }, evf); });
         if((ev.alsoOn||[]).length) mountEventCards(document.getElementById('ev-alsoon'), ev.alsoOn);
         if(ev.venueLat!=null && ev.venueLng!=null){
           var locEl=document.getElementById('ev-loc');
@@ -6216,7 +6231,7 @@
       setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', ev.description||'', _evld, _evld.url);
     }
     function mapEventDetail(d){
-      return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, poster:d.poster_url,
+      return { id:String(d.id), title:d.title, venue:d.venue, venue_slug:d.venue_slug, venueFollowing:!!d.venue_following, poster:d.poster_url,
         _day: d.event_date ? fmtEventDay(d.event_date) : '', event_date:d.event_date,
         startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
         endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
@@ -6785,7 +6800,7 @@
         '<div class="evc-hero">'+
           '<button class="evc-poster" type="button" aria-label="View '+esc(ev.title)+'">'+posterHTML(ev)+'</button>'+
           genreOv+
-          (eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Save this event">'+HEART_SVG+'</button>':'')+
+          (eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Save this event">'+BOOKMARK_SVG+'</button>':'')+
           '<div class="evc-title">'+esc(ev.title)+'</div>'+
           (canPlay?'<button class="evc-play" type="button" aria-label="Play the line-up"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')+
         '</div>'+
