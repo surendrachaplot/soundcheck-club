@@ -2436,7 +2436,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783107898227">
+<meta name="sc-build" content="1783108837311">
 </head>
 <body>
   <main class="wrap">
@@ -6074,8 +6074,8 @@
     }
     function mountBill(items){
       var box=document.getElementById('ev-bill'); if(!box) return;
-      if(!items.length){ box.innerHTML='<div class="pf-box" style="margin-top:20px">'+pfHead('Line-up',null,'')+'<div class="empty" style="padding:2px 0">To be announced.</div></div>'; return; }
-      box.innerHTML='<div class="pf-box" style="margin-top:20px">'+pfHead('The bill',items.length,'')+billRowsHTML(items)+'</div>';
+      if(!items.length){ box.innerHTML='<div class="pf-box" style="margin-top:20px">'+pfHead('Lineup',null,'')+'<div class="empty" style="padding:2px 0">To be announced.</div></div>'; return; }
+      box.innerHTML='<div class="pf-box" style="margin-top:20px">'+pfHead('Lineup',items.length,'')+billRowsHTML(items)+'</div>';
       var q=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; });
       // ▶ on the photo → play that artist (jumps the queue to them; dock prev/next walks the rest)
       box.querySelectorAll('.bill-play[data-bill-i]').forEach(function(el){ el.addEventListener('click',function(e){ e.stopPropagation(); playYtList(q, +el.dataset.billI); }); });
