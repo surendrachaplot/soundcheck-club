@@ -2428,7 +2428,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783092291342">
+<meta name="sc-build" content="1783095933741">
 </head>
 <body>
   <main class="wrap">
@@ -6184,7 +6184,7 @@
         var th='';
         if((ev.genres||[]).length) th+='<div class="ev-genres">'+ev.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
         if((ev.promoters||[]).length) th+='<div class="ev-promoters">Presented by '+ev.promoters.map(function(p){ return '<a class="pr-link" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>'; }).join(', ')+'</div>';
-        if(ev.description) th+='<p class="seo-desc">'+esc(ev.description)+'</p>';
+        var blurb = ev.content || ev.description; if(blurb) th+='<p class="seo-desc">'+esc(blurb)+'</p>';
         top.innerHTML=th;
         top.querySelectorAll('.pr-link[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
       }
@@ -6221,7 +6221,7 @@
         startTime: (d.start_time && /T\d{2}:\d{2}/.test(String(d.start_time))) ? d.start_time : null,
         endTime: (d.end_time && /T\d{2}:\d{2}/.test(String(d.end_time))) ? d.end_time : null,
         _time: (d.start_time && !/T/.test(String(d.start_time))) ? d.start_time : '',
-        city:d.city, genres:d.genres||[], description:d.description||'', logged:!!d.logged,
+        city:d.city, genres:d.genres||[], description:d.description||'', content:d.content||'', logged:!!d.logged,
         minPrice: d.min_price!=null ? Number(d.min_price) : null, maxPrice: d.max_price!=null ? Number(d.max_price) : null, currency: d.currency||null,
         venueAddress:d.venue_address, venueLat:d.venue_lat, venueLng:d.venue_lng,
         alsoOn:d.also_on||[], promoters:d.promoters||[],
