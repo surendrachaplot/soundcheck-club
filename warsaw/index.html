@@ -753,6 +753,8 @@
     .sec-h .ct { font:600 11px var(--font-mono); color:var(--muted); letter-spacing:.1em; padding:0; }
     .sec-h .more { margin-left:auto; font:700 12px var(--body); letter-spacing:0; text-transform:none; color:var(--accent); cursor:pointer; }
     .sec-h .ev-radio { margin-left:auto; }
+    /* salmon accent tick on every section heading (brand pop, echoes the .page-title accent bar) */
+    .sec-h::before, .pf-h::before, .pb-p-head::before { content:""; flex:none; width:4px; height:15px; border-radius:2px; background:var(--accent); }
     .sec-radio { margin:0; padding:5px 12px; flex:none; }
     .upc-tabs { display:flex; gap:6px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-md); padding:5px; margin:2px 0 16px; }
     .upc-tab { flex:1; display:inline-flex; align-items:center; justify-content:center; gap:7px; font-family:var(--head); font-weight:800; font-size:var(--fs-xs); letter-spacing:0.08em; text-transform:uppercase; color:var(--muted); background:none; border:0; border-radius:var(--radius); padding:10px 4px; cursor:pointer; transition:background 0.12s, color 0.12s; }
@@ -2436,7 +2438,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783108837311">
+<meta name="sc-build" content="1783109081632">
 </head>
 <body>
   <main class="wrap">
