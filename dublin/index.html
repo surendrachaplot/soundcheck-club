@@ -1704,6 +1704,7 @@
       .city-pick .auth-box, .vrev-pick .auth-box, .act-sheet .auth-box { max-width:none; width:100%; border-radius:20px 20px 0 0; padding:22px 18px calc(16px + env(safe-area-inset-bottom)); max-height:86vh; display:flex; flex-direction:column; overflow:hidden; transform:translateY(100%); }
       .city-pick.show .auth-box, .vrev-pick.show .auth-box, .act-sheet.show .auth-box { transform:translateY(0); }
       .city-pick .city-list { max-height:none; flex:1 1 auto; min-height:0; }
+      .city-pick .auth-box { max-height:100%; }   /* fit the visualViewport-sized overlay so the sheet sits above the keyboard */
       .vrev-pick .auth-box, .act-sheet .auth-box { overflow-y:auto; }   /* form/list scrolls inside the sheet */
     }
     /* ── Nights: collaborative board ── */
@@ -2442,7 +2443,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783072600057">
+<meta name="sc-build" content="1783073132113">
 </head>
 <body>
   <main class="wrap">
@@ -7369,7 +7370,12 @@
         '<div class="city-list">'+rows+'</div>'+
         '<div class="empty city-none" style="display:none;padding:14px 0">No city matches that.</div></div>';
       document.body.appendChild(ov);
-      function close(){ ov.remove(); }
+      // Keyboard fix: size the overlay to the VISIBLE viewport (visualViewport shrinks when
+      // the on-screen keyboard opens on iOS), so the bottom-anchored sheet + its city list
+      // float just ABOVE the keyboard instead of disappearing behind it.
+      var vv=window.visualViewport, fit=null;
+      if(vv){ fit=function(){ ov.style.top=(vv.offsetTop||0)+'px'; ov.style.height=vv.height+'px'; ov.style.bottom='auto'; }; vv.addEventListener('resize',fit); vv.addEventListener('scroll',fit); fit(); }
+      function close(){ if(vv&&fit){ vv.removeEventListener('resize',fit); vv.removeEventListener('scroll',fit); } ov.remove(); }
       ov.querySelector('.auth-close').addEventListener('click',close);
       var inp=ov.querySelector('#city-search'), none=ov.querySelector('.city-none');
       var allRows=[].slice.call(ov.querySelectorAll('.city-row'));
