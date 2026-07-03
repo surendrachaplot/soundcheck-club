@@ -2436,7 +2436,7 @@
 
 /* PB-PROFILE-CSS-END */
 </style>
-<meta name="sc-build" content="1783096631259">
+<meta name="sc-build" content="1783097027746">
 </head>
 <body>
   <main class="wrap">
@@ -6776,8 +6776,11 @@
     function cardHTML(ev){
       var eid=ev.id!=null?String(ev.id):'';
       var arts=ev.artists||[];
+      // The card's own date wins; only fall back to the home page's "Tonight" when a card
+      // carries no date of its own (home single-day feed). Prevents artist/venue/search
+      // cards — which span many future dates — from all reading "Tonight".
       var isTon = currentDate && currentDate===todayISO();
-      var dayLab = isTon ? 'Tonight' : (ev._day||'');
+      var dayLab = ev._day || (isTon ? 'Tonight' : '');
       var t1=time12(ev.startTime);
       // meta under the image, two rows: date · time  /  venue · city
       var mWhen = [dayLab, t1].filter(Boolean).join(' &middot; ');
