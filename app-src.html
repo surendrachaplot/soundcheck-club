@@ -2548,8 +2548,47 @@
     .fp-morev{ display:block; width:100%; margin-top:20px; border:1px solid var(--border); border-radius:var(--radius); background:var(--surface); color:var(--fg); font:700 13px var(--body); letter-spacing:.04em; text-transform:uppercase; padding:15px; cursor:pointer; text-align:center; }
     .fp-morev:hover{ border-color:var(--accent); color:var(--accent); }
 
+    
+    /* PROFILE membership card + stat strip + vinyl sleeves (dark) */
+    .fp-card{ display:grid; grid-template-columns:180px minmax(0,1fr) 280px; border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; background:var(--surface); }
+    @media(max-width:760px){ .fp-card{ grid-template-columns:minmax(0,1fr); } }
+    .fp-card-av{ position:relative; border-right:1px solid var(--border); aspect-ratio:1; background-size:cover; background-position:center; background-color:var(--surface-3); }
+    @media(max-width:760px){ .fp-card-av{ border-right:0; border-bottom:1px solid var(--border); aspect-ratio:16/9; } }
+    .fp-card-av::after{ content:"MEMBER"; position:absolute; left:10px; bottom:10px; background:var(--accent); color:var(--accent-ink); border-radius:var(--radius-pill); font:800 10px var(--body); letter-spacing:.08em; padding:4px 10px; }
+    .fp-card-id{ padding:22px 26px; min-width:0; }
+    .fp-card-kick{ font:600 12px var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--accent); }
+    .fp-card-h{ font:800 clamp(34px,4.5vw,54px)/0.92 var(--head); letter-spacing:-0.03em; margin:10px 0 6px; word-break:break-word; }
+    .fp-card-since{ font:600 12px var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
+    .fp-card-since b{ color:var(--accent); }
+    .fp-card-r{ border-left:1px solid var(--border); display:flex; flex-direction:column; }
+    @media(max-width:760px){ .fp-card-r{ border-left:0; border-top:1px solid var(--border); } }
+    .fp-card-qr{ flex:1; display:flex; align-items:center; justify-content:center; border-bottom:1px solid var(--border); min-height:120px; background:repeating-linear-gradient(90deg,var(--surface),var(--surface) 3px,var(--surface-3) 3px,var(--surface-3) 5px); }
+    .fp-card-qr span{ background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); font:600 10px var(--font-mono); letter-spacing:.12em; text-transform:uppercase; padding:7px 11px; color:var(--fg); }
+    .fp-card-btns{ display:flex; }
+    .fp-card-btns .pf-btn{ flex:1; border:0!important; border-right:1px solid var(--border)!important; background:var(--surface-2)!important; color:var(--fg)!important; border-radius:0; height:auto; padding:14px 0; margin:0; }
+    .fp-card-btns .pf-btn:last-child{ border-right:0!important; }
+    .fp-card-btns .pf-btn.primary.follow{ background:var(--accent)!important; color:var(--accent-ink)!important; }
+    .fp-card-btns .pf-btn:hover{ background:var(--surface-3)!important; }
+    .fp-stats{ display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); border:1px solid var(--border); border-top:0; margin-bottom:8px; background:var(--surface); }
+    @media(max-width:620px){ .fp-stats{ grid-template-columns:repeat(2,minmax(0,1fr)); } }
+    .fp-stat{ border-right:1px solid var(--line); padding:16px 18px; }
+    .fp-stat:last-child{ border-right:0; }
+    @media(max-width:620px){ .fp-stat:nth-child(2n){ border-right:0; } .fp-stat:nth-child(1),.fp-stat:nth-child(2){ border-bottom:1px solid var(--line); } }
+    .fp-stat b{ display:block; font:800 32px var(--head); letter-spacing:-0.03em; }
+    .fp-stat span{ font:600 10px var(--font-mono); letter-spacing:.14em; text-transform:uppercase; color:var(--muted); }
+    /* Now Playing → square vinyl sleeves (dark) */
+    .pb-rot-rail{ display:grid!important; grid-template-columns:repeat(auto-fill,minmax(120px,1fr)); gap:16px 14px; overflow:visible!important; padding:2px 0 4px; }
+    .pb-rot-disc{ width:auto!important; }
+    .pb-rot-av{ position:relative; width:100%!important; height:auto!important; aspect-ratio:1; border-radius:var(--radius-md)!important; border:1px solid var(--border)!important; overflow:visible; }
+    .pb-rot-av::after{ content:""; position:absolute; top:12%; right:-12%; width:74%; height:74%; border-radius:50%; background:radial-gradient(circle, #3a3630 0 22%, #0c0b0f 23% 100%); border:1px solid #000; z-index:0; transition:right .18s ease; }
+    .pb-rot-disc:hover .pb-rot-av::after{ right:-22%; }
+    .pb-rot-av > *{ position:relative; z-index:1; }
+    .pb-rot-play{ border-radius:50%!important; inset:auto!important; right:6px; bottom:6px; width:32px; height:32px; background:var(--accent); color:var(--accent-ink); border:1px solid var(--accent); font-size:14px; }
+    .pb-rot-av.add::after{ display:none; }
+    .pb-rot-nm{ font-weight:700!important; max-width:none!important; margin-top:8px; }
+
     </style>
-<meta name="sc-build" content="1783159706972">
+<meta name="sc-build" content="1783160192052">
 </head>
 <body>
   <main class="wrap">
@@ -5047,20 +5086,31 @@
     // Boxed profile — every block a card in the app's design system, generous
     // spacing, one button style. Identity card (with Log a gig) → In rotation →
     // Gig diary → Seen live → Wanna see → Venues → Saved events.
+    // Membership-card hero (avatar + MEMBER stamp + scene-passport kicker + huge handle
+    // + home-city line + barcode + Share/Settings-or-Follow cells) + 4-cell stat strip.
+    // The section boxes below keep their original ids so the unchanged wirePbProfile fills them.
     function pbProfileHTML(p){
       var isMe=p.isMe, s=p.shelves||{}, st=p.stats||{};
       var nights=st.gigs||(p.diary||[]).length||0, fol=p.followers||0;
-      var bits=[nights+' night'+(nights===1?'':'s'), fol+' follower'+(fol===1?'':'s'), (s.seen||[]).length+' seen live'];
-      if(st.homeCity) bits.push(cityLabel(st.homeCity));
       var acts = isMe
-        ? '<button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button><button class="pf-btn" id="pb-edit" type="button"><i class="ti ti-settings" aria-hidden="true"></i> Edit</button>'   // Log a gig lives in the diary box below — no need to repeat it here
-        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'"><i class="ti ti-user-plus" aria-hidden="true"></i> '+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" type="button"><i class="ti ti-share-2" aria-hidden="true"></i> Share</button>';
-      return '<div class="pf">'+
-        '<div class="pf-box pf-id">'+
-          '<div class="pf-id-top"><span class="pf-av" style="background-image:'+avatarBg(p.handle,p.avatar)+';background-size:cover;background-position:center"></span>'+
-            '<div style="min-width:0"><div class="pf-id-name">'+esc(p.displayName||('u/'+p.handle))+'</div><div class="pf-id-stats">'+esc(bits.join(' · '))+'</div></div></div>'+
-          '<div class="pf-id-acts">'+acts+'</div>'+
+        ? '<button class="pf-btn" id="pb-share" type="button">Share card</button><button class="pf-btn" id="pb-edit" type="button">Settings</button>'
+        : '<button class="pf-btn primary follow'+(p.isFollowing?' following':'')+'" id="follow-btn" type="button" data-handle="'+esc(p.handle)+'">'+(p.isFollowing?'Following':'Follow')+'</button><button class="pf-btn" id="pb-share" type="button">Share</button>';
+      var card = '<div class="fp-card">'+
+        '<div class="fp-card-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></div>'+
+        '<div class="fp-card-id">'+
+          '<div class="fp-card-kick">Scene passport'+(st.homeCity?' · '+esc(cityLabel(st.homeCity)):'')+'</div>'+
+          '<div class="fp-card-h">'+esc(p.displayName||('u/'+p.handle))+'</div>'+
+          '<div class="fp-card-since">'+(st.homeCity?'Home city <b>'+esc(cityLabel(st.homeCity))+'</b>':'Member on soundcheck')+'</div>'+
         '</div>'+
+        '<div class="fp-card-r"><div class="fp-card-qr"><span>Scan to join ▒▒▒</span></div><div class="fp-card-btns">'+acts+'</div></div>'+
+      '</div>';
+      var stats = '<div class="fp-stats">'+
+        '<div class="fp-stat"><b>'+((s.seen||[]).length)+'</b><span>Seen live</span></div>'+
+        '<div class="fp-stat"><b>'+((s.wannaSee||[]).length)+'</b><span>Wanna see</span></div>'+
+        '<div class="fp-stat"><b>'+nights+'</b><span>Gigs logged</span></div>'+
+        '<div class="fp-stat"><b>'+fol+'</b><span>Followers</span></div>'+
+      '</div>';
+      return '<div class="pf">'+ card + stats +
         pbRotationHTML(p)+
         '<div class="pf-cols">'+
           '<div class="pf-box" id="pf-diary"></div>'+
