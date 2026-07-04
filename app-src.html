@@ -2591,7 +2591,7 @@
     .pb-rot-nm{ font-weight:700!important; max-width:none!important; margin-top:8px; }
 
     </style>
-<meta name="sc-build" content="1783168125106">
+<meta name="sc-build" content="1783176680016">
 </head>
 <body>
   <main class="wrap">
@@ -3825,9 +3825,9 @@
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
       document.querySelectorAll('.seen-btn[data-seen-art="'+k+'"]').forEach(function(b){ b.classList.toggle('on', st==='seen'); });
-      // artist-page action buttons (immediate optimistic state, no re-render)
-      document.querySelectorAll('.act-btn[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
-      document.querySelectorAll('.act-btn[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+      // artist-page action buttons (immediate optimistic state, no re-render) — class-agnostic so it matches both .act-btn and the bespoke .fp-ab buttons
+      document.querySelectorAll('[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
+      document.querySelectorAll('[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
     }
     function refreshEventButtons(id){
       var k=CSS.escape(id), on=isEventPicked(id);
