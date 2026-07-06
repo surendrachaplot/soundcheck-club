@@ -2651,7 +2651,7 @@
     .pb-rot-nm{ font-weight:700!important; max-width:none!important; margin-top:8px; }
 
     </style>
-<meta name="sc-build" content="1783281218389">
+<meta name="sc-build" content="1783352395025">
 </head>
 <body>
   <main class="wrap">
@@ -6006,7 +6006,7 @@
         apRadio.addEventListener('click',tuneInSets);
         armSticky(a.name||slug, tuneInSets, apRadio);
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
-        document.getElementById('ap-log').addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:a.name||slug } }); });
+        document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
         if(currentUser){
           var _anm=a.name||slug;
           authedFetch('/api/artist/seen?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(sd){
@@ -6778,6 +6778,7 @@
     async function saveLog(){
       if(!currentUser){ openAuth(); return; }
       if(!lgSel){ document.getElementById('lg-err').textContent='Pick a night first.'; return; }
+      if(!lgArtists.length){ document.getElementById('lg-err').textContent='Select at least one artist you saw.'; return; }
       var btn=document.getElementById('lg-save'); btn.disabled=true; document.getElementById('lg-err').textContent='';
       try{
         var r=await authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
