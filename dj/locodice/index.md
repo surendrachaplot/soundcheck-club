@@ -2,7 +2,7 @@
 
 Loco Dice is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Thu, 6 Aug 2026.
 
-Loco Dice is a tech house and house and 2 more artist tracked on soundcheck, with 197 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: [UNVRS], Ibiza on Thu 6 Aug.
+Loco Dice is a tech house and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: [UNVRS], Ibiza on Thu 6 Aug.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Roni Size is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Night Tales, London on Fri, 10 Jul 2026.
 
-Roni Size is a drum & bass and jungle and 2 more artist tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside LTJ Bukem, Bryan Gee and Dynamite MC. Next up: Night Tales, London on Fri 10 Jul.
+Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside LTJ Bukem, Bryan Gee and Dynamite MC. Next up: Night Tales, London on Fri 10 Jul.
 
 ## Upcoming shows
 

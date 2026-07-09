@@ -2,7 +2,7 @@
 
 SYREETA is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
-SYREETA is a house and tech house and 2 more artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Silverworks Island, London on Sat 11 Jul.
+SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Silverworks Island, London on Sat 11 Jul.
 
 ## Upcoming shows
 

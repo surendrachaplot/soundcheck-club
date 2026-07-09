@@ -2,7 +2,7 @@
 
 leverson is a Hip-Hop and R&B artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Orange Room, London on Fri, 10 Jul 2026.
 
-leverson is a hip-hop and r&b and 2 more artist tracked on soundcheck, with 165 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Orange Room, London on Fri 10 Jul.
+leverson is a hip-hop and r&b artist tracked on soundcheck, with 165 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Orange Room, London on Fri 10 Jul.
 
 ## Upcoming shows
 

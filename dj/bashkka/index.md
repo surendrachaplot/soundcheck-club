@@ -2,7 +2,7 @@
 
 BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-BASHKKA is a techno and house and 2 more artist tracked on soundcheck, with 288 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Roi Perez. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+BASHKKA is a techno and house artist tracked on soundcheck, with 288 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Roi Perez. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 

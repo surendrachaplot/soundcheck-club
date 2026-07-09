@@ -2,7 +2,7 @@
 
 David Morales is a House and Disco artist with 21 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
 
-David Morales is a house and disco and 2 more artist tracked on soundcheck, with 187 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
+David Morales is a house and disco artist tracked on soundcheck, with 187 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
 
 ## Upcoming shows
 

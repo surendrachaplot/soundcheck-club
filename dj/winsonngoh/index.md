@@ -2,7 +2,7 @@
 
 Winson Ngoh is a Techno and Industrial artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Frankfurt on Sat, 11 Jul 2026.
 
-Winson Ngoh is a techno and industrial and 2 more artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 13 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: TBA, Frankfurt on Sat 11 Jul.
+Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 13 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: TBA, Frankfurt on Sat 11 Jul.
 
 ## Upcoming shows
 

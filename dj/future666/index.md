@@ -2,7 +2,7 @@
 
 future.666 is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Cité Fertile, Paris on Sun, 12 Jul 2026.
 
-future.666 is a techno and trance and 2 more artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: La Cité Fertile, Paris on Sun 12 Jul.
+future.666 is a techno and trance artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: La Cité Fertile, Paris on Sun 12 Jul.
 
 ## Upcoming shows
 

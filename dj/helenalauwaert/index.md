@@ -1,0 +1,32 @@
+# Helena Lauwaert
+
+Helena Lauwaert is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+
+Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: MS Artville, Hamburg on Sat 18 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 18 Jul 2026 | MS Artville | Hamburg |
+| Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Thu, 27 Aug 2026 | Hangaren | Copenhagen |
+| Fri, 11 Sept 2026 | TBA | Brussels |
+
+## Recently played
+
+- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
+- La Terrrazza, Barcelona — Thu, 25 Jun 2026
+- Beton-T, Utrecht — Sat, 20 Jun 2026
+- Ampere, Antwerp — Sat, 6 Jun 2026
+- Circle Park, Brussels — Sat, 30 May 2026
+- E1, London — Fri, 29 May 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
+- 104 CENTQUATRE, Paris — Sat, 25 Apr 2026
+
+## Shares bills with
+
+Pegassi, EMILIJA, Faster Horses
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*

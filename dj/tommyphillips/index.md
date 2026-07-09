@@ -2,7 +2,7 @@
 
 Tommy Phillips is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Knockdown Center, New York City on Fri, 10 Jul 2026.
 
-Tommy Phillips is a tech house and house and 2 more artist tracked on soundcheck, with 54 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 21 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Knockdown Center, Newyorkcity on Fri 10 Jul.
+Tommy Phillips is a tech house and house artist tracked on soundcheck, with 54 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 21 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Knockdown Center, Newyorkcity on Fri 10 Jul.
 
 ## Upcoming shows
 

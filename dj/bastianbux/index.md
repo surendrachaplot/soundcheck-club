@@ -2,7 +2,7 @@
 
 Bastian Bux is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Luz De Gas, Barcelona on Fri, 10 Jul 2026.
 
-Bastian Bux is a tech house and house and 2 more artist based in Spain, tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Boston and 19 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: Luz De Gas, Barcelona on Fri 10 Jul.
+Bastian Bux is a tech house and house artist based in Spain, tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Boston and 19 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: Luz De Gas, Barcelona on Fri 10 Jul.
 
 ## Upcoming shows
 

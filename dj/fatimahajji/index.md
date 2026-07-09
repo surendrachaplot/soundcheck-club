@@ -2,7 +2,7 @@
 
 Fatima Hajji is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at UNO MALTA, Malta on Fri, 17 Jul 2026.
 
-Fatima Hajji is a techno and house and 2 more artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: UNO MALTA, Malta on Fri 17 Jul.
+Fatima Hajji is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: UNO MALTA, Malta on Fri 17 Jul.
 
 ## Upcoming shows
 

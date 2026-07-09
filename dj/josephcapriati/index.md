@@ -2,7 +2,7 @@
 
 Joseph Capriati is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tapada da Ajuda, Lisbon on Sun, 12 Jul 2026.
 
-Joseph Capriati is a techno and house and 2 more artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Tapada da Ajuda, Lisbon on Sun 12 Jul.
+Joseph Capriati is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Tapada da Ajuda, Lisbon on Sun 12 Jul.
 
 ## Upcoming shows
 

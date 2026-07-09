@@ -2,7 +2,7 @@
 
 DARKSIDE is a Electronica and Experimental artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Gaîté Lyrique, Paris on Thu, 9 Jul 2026.
 
-DARKSIDE is a electronica and experimental and 2 more artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Chicago, Dublin and Edinburgh and 10 more. Often billed alongside Adam Ten, Beltran and Blawan. Next up: La Gaîté Lyrique, Paris on Thu 9 Jul.
+DARKSIDE is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Chicago, Dublin and Edinburgh and 10 more. Often billed alongside Adam Ten, Beltran and Blawan. Next up: La Gaîté Lyrique, Paris on Thu 9 Jul.
 
 ## Upcoming shows
 

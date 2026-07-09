@@ -1,0 +1,30 @@
+# DJEFF
+
+DJEFF is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Santanna Mykonos, Mykonos on Mon, 3 Aug 2026.
+
+DJEFF is an afro house and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Santanna Mykonos, Mykonos on Mon 3 Aug.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Mon, 3 Aug 2026 | Santanna Mykonos | Mykonos |
+| Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Hï Ibiza | Ibiza |
+
+## Recently played
+
+- Savaya Bali, Bali — Sun, 5 Jul 2026
+- Migas, Hong Kong — Sat, 4 Jul 2026
+- Praia de Esmoriz Beach, Porto — Sun, 21 Jun 2026
+- Praia Irmão, Lisbon — Thu, 18 Jun 2026
+- Ives Rd, London, E16 4SH, London — Sun, 14 Jun 2026
+- Fabrik, Madrid — Sat, 6 Jun 2026
+- Fabrik, Madrid — Sat, 21 Mar 2026
+- Audio Club, Geneva — Fri, 20 Mar 2026
+
+## Shares bills with
+
+Black Coffee, CLEIDO, Cincity
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*

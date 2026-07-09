@@ -2,7 +2,7 @@
 
 Jason Bye is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Thu, 9 Jul 2026.
 
-Jason Bye is a house and tech house and 1 more artist tracked on soundcheck, with 79 sets logged across Barcelona, Ibiza and London. Often billed alongside FISHER, Andy Baxter and Jo Mills. Next up: [UNVRS], Ibiza on Thu 9 Jul.
+Jason Bye is a house and tech house artist tracked on soundcheck, with 79 sets logged across Barcelona, Ibiza and London. Often billed alongside FISHER, Andy Baxter and Jo Mills. Next up: [UNVRS], Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

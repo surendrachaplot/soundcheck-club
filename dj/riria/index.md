@@ -2,7 +2,7 @@
 
 RIRIA is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala ART, Madrid on Thu, 9 Jul 2026.
 
-RIRIA is a techno and bass and 2 more artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 28 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Sala ART, Madrid on Thu 9 Jul.
+RIRIA is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 28 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Sala ART, Madrid on Thu 9 Jul.
 
 ## Upcoming shows
 

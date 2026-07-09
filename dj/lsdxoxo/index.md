@@ -2,7 +2,7 @@
 
 LSDXOXO is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
 
-LSDXOXO is a techno and club and 2 more artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside VTSS, Boys Noize and FJAAK. Next up: Radius, Chicago on Sun 19 Jul.
+LSDXOXO is a techno and club artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside VTSS, Boys Noize and FJAAK. Next up: Radius, Chicago on Sun 19 Jul.
 
 ## Upcoming shows
 

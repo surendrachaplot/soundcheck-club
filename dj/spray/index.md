@@ -2,7 +2,7 @@
 
 Spray is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Prairie du Canal, Paris on Sat, 11 Jul 2026.
 
-Spray is a techno and house and 2 more artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: La Prairie du Canal, Paris on Sat 11 Jul.
+Spray is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: La Prairie du Canal, Paris on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -162,16 +162,16 @@ Updated: 2026-07-09
 - [Bossa Nova Civic Club (New York City)](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/) — [markdown](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/index.md)
 - [The Cause (London)](https://soundcheck.club/london/club/the-cause/) — [markdown](https://soundcheck.club/london/club/the-cause/index.md)
 - [DC-10 (Ibiza)](https://soundcheck.club/ibiza/club/dc-10/) — [markdown](https://soundcheck.club/ibiza/club/dc-10/index.md)
+- [Starlane Pizza Bar (London)](https://soundcheck.club/london/club/starlane-pizza-bar/) — [markdown](https://soundcheck.club/london/club/starlane-pizza-bar/index.md)
 - [Phonox (London)](https://soundcheck.club/london/club/phonox/) — [markdown](https://soundcheck.club/london/club/phonox/index.md)
+- [KitKatClub (Berlin)](https://soundcheck.club/berlin/club/kitkatclub/) — [markdown](https://soundcheck.club/berlin/club/kitkatclub/index.md)
 - [FOLD (London)](https://soundcheck.club/london/club/fold/) — [markdown](https://soundcheck.club/london/club/fold/index.md)
 - [Wigwam (Dublin)](https://soundcheck.club/dublin/club/wigwam/) — [markdown](https://soundcheck.club/dublin/club/wigwam/index.md)
 - [Cross Club (Prague)](https://soundcheck.club/prague/club/cross-club/) — [markdown](https://soundcheck.club/prague/club/cross-club/index.md)
 - [Lula Club (Madrid)](https://soundcheck.club/madrid/club/lula-club/) — [markdown](https://soundcheck.club/madrid/club/lula-club/index.md)
 - [Cadavra (Madrid)](https://soundcheck.club/madrid/club/cadavra/) — [markdown](https://soundcheck.club/madrid/club/cadavra/index.md)
-- [KitKatClub (Berlin)](https://soundcheck.club/berlin/club/kitkatclub/) — [markdown](https://soundcheck.club/berlin/club/kitkatclub/index.md)
 - [Apollo Studio (New York City)](https://soundcheck.club/newyorkcity/club/apollo-studio/) — [markdown](https://soundcheck.club/newyorkcity/club/apollo-studio/index.md)
 - [Club Metro (Kyoto)](https://soundcheck.club/kyoto/club/club-metro/) — [markdown](https://soundcheck.club/kyoto/club/club-metro/index.md)
-- [Rumore Nightclub Capri (Naples)](https://soundcheck.club/naples/club/rumore-nightclub-capri/) — [markdown](https://soundcheck.club/naples/club/rumore-nightclub-capri/index.md)
 
 ## Machine access
 

@@ -2,7 +2,7 @@
 
 The Trip is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at LDN East, London on Sat, 11 Jul 2026.
 
-The Trip is a house and tech house and 2 more artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: LDN East, London on Sat 11 Jul.
+The Trip is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: LDN East, London on Sat 11 Jul.
 
 ## Upcoming shows
 

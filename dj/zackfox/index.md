@@ -2,7 +2,7 @@
 
 Zack Fox is a Ghetto Tech and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
 
-Zack Fox is a ghetto tech and house and 2 more artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: Nowadays, Newyorkcity on Fri 10 Jul.
+Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: Nowadays, Newyorkcity on Fri 10 Jul.
 
 ## Upcoming shows
 

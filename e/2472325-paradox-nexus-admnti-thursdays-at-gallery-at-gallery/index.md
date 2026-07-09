@@ -1,0 +1,17 @@
+# Paradox Nexus: ADMNTi - Thursdays at Gallery at Gallery
+
+Paradox Nexus: ADMNTi - Thursdays at Gallery on Thu 16 Jul, London. 3 acts on the bill: ADMNTi, DEFILE and EDEF. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 16 Jul 2026 |
+| Venue | Gallery |
+| City | London |
+
+## Line-up
+
+- ADMNTi
+- DEFILE
+- EDEF
+
+*Source: [soundcheck](https://soundcheck.club/e/2472325-paradox-nexus-admnti-thursdays-at-gallery-at-gallery/)*

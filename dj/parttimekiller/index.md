@@ -2,7 +2,7 @@
 
 Part Time Killer is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-Part Time Killer is a techno and trance and 2 more artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., CAIVA and KLING&KLANG. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+Part Time Killer is a techno and trance artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., CAIVA and KLING&KLANG. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 

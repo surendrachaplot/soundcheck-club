@@ -2,7 +2,7 @@
 
 Laidlaw is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 9 Jul 2026.
 
-Laidlaw is a house and tech house and 2 more artist tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 9 Jul.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

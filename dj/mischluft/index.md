@@ -2,7 +2,7 @@
 
 Mischluft is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
 
-Mischluft is a techno and trance and 2 more artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
+Mischluft is a techno and trance artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
 
 ## Upcoming shows
 

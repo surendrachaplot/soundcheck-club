@@ -2,7 +2,7 @@
 
 Cinthie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tongva Park, Los Angeles on Sat, 11 Jul 2026.
 
-Cinthie is a house and techno and 2 more artist tracked on soundcheck, with 270 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Tongva Park, Losangeles on Sat 11 Jul.
+Cinthie is a house and techno artist tracked on soundcheck, with 270 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Tongva Park, Losangeles on Sat 11 Jul.
 
 ## Upcoming shows
 

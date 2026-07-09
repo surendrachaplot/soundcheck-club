@@ -2,7 +2,7 @@
 
 Tim Reaper is a Jungle and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Planet Wax, London on Thu, 9 Jul 2026.
 
-Tim Reaper is a jungle and drum & bass and 2 more artist tracked on soundcheck, with 229 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 45 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Planet Wax, London on Thu 9 Jul.
+Tim Reaper is a jungle and drum & bass artist tracked on soundcheck, with 229 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 45 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: Planet Wax, London on Thu 9 Jul.
 
 ## Upcoming shows
 

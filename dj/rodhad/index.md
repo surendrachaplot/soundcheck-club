@@ -2,7 +2,7 @@
 
 Rødhåd is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Rødhåd is a techno and house and 2 more artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Ben Klock, JakoJako and MARRØN. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Rødhåd is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Ben Klock, JakoJako and MARRØN. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 

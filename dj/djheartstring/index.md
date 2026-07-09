@@ -2,7 +2,7 @@
 
 DJ Heartstring is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Knockdown Center, New York City on Fri, 24 Jul 2026.
 
-DJ Heartstring is a techno and house and 2 more artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 63 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Knockdown Center, Newyorkcity on Fri 24 Jul.
+DJ Heartstring is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 63 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Knockdown Center, Newyorkcity on Fri 24 Jul.
 
 ## Upcoming shows
 

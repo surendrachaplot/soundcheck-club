@@ -2,7 +2,7 @@
 
 Lea Occhi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
 
-Lea Occhi is a techno and house and 2 more artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: CLUB RAUM, Amsterdam on Sat 11 Jul.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: CLUB RAUM, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 

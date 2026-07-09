@@ -2,7 +2,7 @@
 
 Richie Hawtin is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Serpentine Galleries, London on Sat, 18 Jul 2026.
 
-Richie Hawtin is a techno and house and 2 more artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Serpentine Galleries, London on Sat 18 Jul.
+Richie Hawtin is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Serpentine Galleries, London on Sat 18 Jul.
 
 ## Upcoming shows
 

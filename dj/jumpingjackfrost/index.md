@@ -2,7 +2,7 @@
 
 Jumping Jack Frost is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Los Angeles, Los Angeles on Sat, 11 Jul 2026.
 
-Jumping Jack Frost is a drum & bass and jungle and 2 more artist tracked on soundcheck, with 73 sets logged across Birmingham, Brighton, Bristol and London and 3 more. Often billed alongside Funsta, Moose and The Ragga Twins. Next up: TBA - Los Angeles, Losangeles on Sat 11 Jul.
+Jumping Jack Frost is a drum & bass and jungle artist tracked on soundcheck, with 73 sets logged across Birmingham, Brighton, Bristol and London and 3 more. Often billed alongside Funsta, Moose and The Ragga Twins. Next up: TBA - Los Angeles, Losangeles on Sat 11 Jul.
 
 ## Upcoming shows
 

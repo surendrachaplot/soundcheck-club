@@ -2,7 +2,7 @@
 
 Locklead is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 12 Jul 2026.
 
-Locklead is a house and tech house and 2 more artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Chris Stussy, Marsolo and Rossi. Next up: 528 Ibiza, Ibiza on Sun 12 Jul.
+Locklead is a house and tech house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Chris Stussy, Marsolo and Rossi. Next up: 528 Ibiza, Ibiza on Sun 12 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Mike Dunn is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Room 43, Chicago on Thu, 9 Jul 2026.
 
-Mike Dunn is a house and deep house and 2 more artist tracked on soundcheck, with 146 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: Room 43, Chicago on Thu 9 Jul.
+Mike Dunn is a house and deep house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: Room 43, Chicago on Thu 9 Jul.
 
 ## Upcoming shows
 

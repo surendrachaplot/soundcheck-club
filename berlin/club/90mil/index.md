@@ -1,0 +1,18 @@
+# 90mil
+
+90mil is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Alter-Native" on Fri, 17 Jul 2026.
+
+90mil is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Aalia Iraki, Afshin, Anwaar and CCL and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 17 Jul 2026 | Alter-Native | Aalia Iraki, Afshin, Anwaar, Shirū, Zahra, saHHar |
+| Thu, 23 Jul 2026 | subglow x isla (LIVE edition) | CCL, Kiernan Laveaux, NAP (MX) |
+
+## Address
+
+Holzmarktstrasse 19-23, 10243 Berlin, Berlin
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/90mil/)*

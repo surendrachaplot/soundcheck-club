@@ -2,7 +2,7 @@
 
 Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at E1, London on Fri, 17 Jul 2026.
 
-Trancemaster Krause is a techno and trance and 2 more artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: E1, London on Fri 17 Jul.
+Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: E1, London on Fri 17 Jul.
 
 ## Upcoming shows
 

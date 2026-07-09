@@ -2,7 +2,7 @@
 
 Benwal is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
 
-Benwal is a techno and house and 2 more artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside MALUGI, Kyle Starkey and Pegassi. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
+Benwal is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside MALUGI, Kyle Starkey and Pegassi. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
 
 ## Upcoming shows
 

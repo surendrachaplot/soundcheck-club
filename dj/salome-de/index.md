@@ -2,7 +2,7 @@
 
 SALOME is a Techno and Electro artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
-SALOME is a techno and electro and 2 more artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Fvtvr, Paris on Fri 10 Jul.
+SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Fvtvr, Paris on Fri 10 Jul.
 
 ## Upcoming shows
 

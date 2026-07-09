@@ -2,7 +2,7 @@
 
 Âme is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
 
-Âme is a techno and house and 2 more artist tracked on soundcheck, with 339 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
+Âme is a techno and house artist tracked on soundcheck, with 339 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 

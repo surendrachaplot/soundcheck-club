@@ -2,7 +2,7 @@
 
 Audrey Danza is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
-Audrey Danza is a techno and trance and 2 more artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Else, Berlin on Fri 24 Jul.
+Audrey Danza is a techno and trance artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Else, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 

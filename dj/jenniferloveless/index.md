@@ -2,7 +2,7 @@
 
 Jennifer Loveless is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
-Jennifer Loveless is a house and techno and 2 more artist tracked on soundcheck, with 232 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Sophie Festival, Malaga on Sat 11 Jul.
+Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
 ## Upcoming shows
 

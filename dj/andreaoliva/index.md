@@ -2,7 +2,7 @@
 
 Andrea Oliva is a Tech House and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
-Andrea Oliva is a tech house and house and 2 more artist tracked on soundcheck, with 196 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, ARODES and Nic Fanciulli. Next up: Silverworks Island, London on Sat 11 Jul.
+Andrea Oliva is a tech house and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, ARODES and Nic Fanciulli. Next up: Silverworks Island, London on Sat 11 Jul.
 
 ## Upcoming shows
 

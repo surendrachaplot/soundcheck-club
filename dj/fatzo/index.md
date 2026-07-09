@@ -2,7 +2,7 @@
 
 Fatzo is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
-Fatzo is a house and tech house and 2 more artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Low Steppa. Next up: Silverworks Island, London on Sat 11 Jul.
+Fatzo is a house and tech house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Low Steppa. Next up: Silverworks Island, London on Sat 11 Jul.
 
 ## Upcoming shows
 

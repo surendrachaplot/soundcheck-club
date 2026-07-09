@@ -2,7 +2,7 @@
 
 Honey Dijon is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Knockdown Center, New York City on Sat, 11 Jul 2026.
 
-Honey Dijon is a house and techno and 2 more artist tracked on soundcheck, with 193 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Knockdown Center, Newyorkcity on Sat 11 Jul.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Knockdown Center, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 

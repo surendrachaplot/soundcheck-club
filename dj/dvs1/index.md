@@ -2,7 +2,7 @@
 
 DVS1 is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Forte Antenne, Rome on Fri, 10 Jul 2026.
 
-DVS1 is a techno and house and 2 more artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Forte Antenne, Rome on Fri 10 Jul.
+DVS1 is a techno and house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Forte Antenne, Rome on Fri 10 Jul.
 
 ## Upcoming shows
 

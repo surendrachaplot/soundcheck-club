@@ -2,7 +2,7 @@
 
 Naomi Baldacchino is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tigullio, Malta on Thu, 9 Jul 2026.
 
-Naomi Baldacchino is a techno and industrial and 2 more artist based in United Arab Emirates, tracked on soundcheck, with 42 sets logged across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Tigullio, Malta on Thu 9 Jul.
+Naomi Baldacchino is a techno and industrial artist based in United Arab Emirates, tracked on soundcheck, with 42 sets logged across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Tigullio, Malta on Thu 9 Jul.
 
 ## Upcoming shows
 

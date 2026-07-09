@@ -2,7 +2,7 @@
 
 DJ Fuckoff is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
 
-DJ Fuckoff is a techno and house and 2 more artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
+DJ Fuckoff is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
 
 ## Upcoming shows
 

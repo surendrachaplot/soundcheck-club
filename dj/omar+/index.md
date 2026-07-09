@@ -2,7 +2,7 @@
 
 Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tiger Yard, Cardiff on Sat, 11 Jul 2026.
 
-Omar+ is a house and tech house and 2 more artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: Tiger Yard, Cardiff on Sat 11 Jul.
+Omar+ is a house and tech house artist tracked on soundcheck, with 65 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 26 more. Often billed alongside Obskur, Joss Dean and Prospa. Next up: Tiger Yard, Cardiff on Sat 11 Jul.
 
 ## Upcoming shows
 

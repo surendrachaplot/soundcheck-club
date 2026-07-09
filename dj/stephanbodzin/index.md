@@ -2,7 +2,7 @@
 
 Stephan Bodzin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 10 Jul 2026.
 
-Stephan Bodzin is a techno and house and 2 more artist tracked on soundcheck, with 104 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Seaseaclub Barcelona, Barcelona on Fri 10 Jul.
+Stephan Bodzin is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Seaseaclub Barcelona, Barcelona on Fri 10 Jul.
 
 ## Upcoming shows
 

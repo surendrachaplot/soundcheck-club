@@ -2,7 +2,7 @@
 
 Dasha Rush is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
-Dasha Rush is a techno and house and 2 more artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Fabrik, Madrid on Sat 11 Jul.
+Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Fabrik, Madrid on Sat 11 Jul.
 
 ## Upcoming shows
 

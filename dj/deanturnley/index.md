@@ -2,7 +2,7 @@
 
 Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Aahhh Rooftop, Munich on Sat, 11 Jul 2026.
 
-Dean Turnley is a house and tech house and 2 more artist tracked on soundcheck, with 17 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 12 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: Aahhh Rooftop, Munich on Sat 11 Jul.
+Dean Turnley is a house and tech house artist tracked on soundcheck, with 17 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 12 more. Often billed alongside Prospa, Groove Armada and Jamback. Next up: Aahhh Rooftop, Munich on Sat 11 Jul.
 
 ## Upcoming shows
 

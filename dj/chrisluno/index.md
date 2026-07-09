@@ -2,7 +2,7 @@
 
 Chris Luno is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 620 Jones, San Francisco/Oakland on Sat, 1 Aug 2026.
 
-Chris Luno is a house and deep house and 2 more artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Basel and Berlin and 34 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: 620 Jones, Sanfrancisco on Sat 1 Aug.
+Chris Luno is a house and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Basel and Berlin and 34 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: 620 Jones, Sanfrancisco on Sat 1 Aug.
 
 ## Upcoming shows
 

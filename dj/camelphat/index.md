@@ -2,7 +2,7 @@
 
 CamelPhat is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BCM, Mallorca on Sat, 11 Jul 2026.
 
-CamelPhat is a techno and house and 2 more artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: BCM, Mallorca on Sat 11 Jul.
+CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: BCM, Mallorca on Sat 11 Jul.
 
 ## Upcoming shows
 

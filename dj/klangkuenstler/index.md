@@ -2,7 +2,7 @@
 
 KlangKuenstler is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Life Park, Istanbul on Sun, 12 Jul 2026.
 
-KlangKuenstler is a techno and house and 2 more artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: Life Park, Istanbul on Sun 12 Jul.
+KlangKuenstler is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: Life Park, Istanbul on Sun 12 Jul.
 
 ## Upcoming shows
 

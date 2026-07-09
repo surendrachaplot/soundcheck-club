@@ -2,7 +2,7 @@
 
 Max Cooper is a Techno and Electronica artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fairmount Theatre, Montreal on Thu, 9 Jul 2026.
 
-Max Cooper is a techno and electronica and 2 more artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Fairmount Theatre, Montreal on Thu 9 Jul.
+Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Fairmount Theatre, Montreal on Thu 9 Jul.
 
 ## Upcoming shows
 

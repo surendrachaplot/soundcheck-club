@@ -2,7 +2,7 @@
 
 Onlynumbers is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at UNO MALTA, Malta on Fri, 10 Jul 2026.
 
-Onlynumbers is a techno and hardcore and 2 more artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: UNO MALTA, Malta on Fri 10 Jul.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: UNO MALTA, Malta on Fri 10 Jul.
 
 ## Upcoming shows
 

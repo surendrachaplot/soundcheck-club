@@ -2,7 +2,7 @@
 
 Robbie Doherty is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lab11, Birmingham on Fri, 10 Jul 2026.
 
-Robbie Doherty is a house and tech house and 2 more artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Lab11, Birmingham on Fri 10 Jul.
+Robbie Doherty is a house and tech house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Lab11, Birmingham on Fri 10 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Oppidan is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
 
-Oppidan is a garage and house and 2 more artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Sammy Virji, MPH (1) and Notion. Next up: Document, Bristol on Sat 11 Jul.
+Oppidan is a garage and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Sammy Virji, MPH (1) and Notion. Next up: Document, Bristol on Sat 11 Jul.
 
 ## Upcoming shows
 

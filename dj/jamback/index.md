@@ -2,7 +2,7 @@
 
 Jamback is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-Jamback is a house and tech house and 2 more artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Jamback is a house and tech house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 

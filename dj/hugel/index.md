@@ -2,7 +2,7 @@
 
 Hugel is a House and Afro House artist with 19 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 9 Jul 2026.
 
-Hugel is a house and afro house and 2 more artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Hï Ibiza, Ibiza on Thu 9 Jul.
+Hugel is a house and afro house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Hï Ibiza, Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

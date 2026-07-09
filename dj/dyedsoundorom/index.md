@@ -2,7 +2,7 @@
 
 Dyed Soundorom is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
-Dyed Soundorom is a house and tech house and 2 more artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Auckland and 50 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Sophie Festival, Malaga on Sat 11 Jul.
+Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Auckland and 50 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
 ## Upcoming shows
 

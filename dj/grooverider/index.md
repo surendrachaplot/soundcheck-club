@@ -2,7 +2,7 @@
 
 Grooverider is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
 
-Grooverider is a drum & bass and jungle and 2 more artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Fabio, Ray Keith and Nicky Blackmarket. Next up: Moseley Park, Birmingham on Fri 10 Jul.
+Grooverider is a drum & bass and jungle artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Fabio, Ray Keith and Nicky Blackmarket. Next up: Moseley Park, Birmingham on Fri 10 Jul.
 
 ## Upcoming shows
 

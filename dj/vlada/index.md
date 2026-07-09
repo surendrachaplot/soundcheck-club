@@ -2,7 +2,7 @@
 
 Vlada is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
 
-Vlada is a techno and house and 2 more artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: TBA, Berlin on Sun 12 Jul.
+Vlada is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: TBA, Berlin on Sun 12 Jul.
 
 ## Upcoming shows
 

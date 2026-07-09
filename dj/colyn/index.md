@@ -2,7 +2,7 @@
 
 Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Mon, 13 Jul 2026.
 
-Colyn is a techno and house and 2 more artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Innellea, Adriatique and CamelPhat. Next up: [UNVRS], Ibiza on Mon 13 Jul.
+Colyn is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Innellea, Adriatique and CamelPhat. Next up: [UNVRS], Ibiza on Mon 13 Jul.
 
 ## Upcoming shows
 

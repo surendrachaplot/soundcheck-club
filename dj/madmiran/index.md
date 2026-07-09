@@ -2,7 +2,7 @@
 
 mad miran is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BLITZ, Munich on Sat, 18 Jul 2026.
 
-mad miran is a techno and bass and 2 more artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Identified Patient, Pariah and Skee Mask. Next up: BLITZ, Munich on Sat 18 Jul.
+mad miran is a techno and bass artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Identified Patient, Pariah and Skee Mask. Next up: BLITZ, Munich on Sat 18 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Blasha & Allatt is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Le Hasard Ludique, Paris on Tue, 14 Jul 2026.
 
-Blasha & Allatt are a techno and house and 2 more duo tracked on soundcheck, with 265 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Le Hasard Ludique, Paris on Tue 14 Jul.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 265 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Le Hasard Ludique, Paris on Tue 14 Jul.
 
 ## Upcoming shows
 

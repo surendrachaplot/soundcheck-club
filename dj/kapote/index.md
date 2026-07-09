@@ -2,7 +2,7 @@
 
 Kapote is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ÆDEN, Berlin on Sat, 11 Jul 2026.
 
-Kapote is a house and disco and 2 more artist tracked on soundcheck, with 213 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Athlete Whippet. Next up: ÆDEN, Berlin on Sat 11 Jul.
+Kapote is a house and disco artist tracked on soundcheck, with 213 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Athlete Whippet. Next up: ÆDEN, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Jamie Jones is a Tech House and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 9 Jul 2026.
 
-Jamie Jones is a tech house and house and 2 more artist tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Amnesia Ibiza, Ibiza on Thu 9 Jul.
+Jamie Jones is a tech house and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Amnesia Ibiza, Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

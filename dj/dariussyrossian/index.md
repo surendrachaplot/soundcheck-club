@@ -2,7 +2,7 @@
 
 Darius Syrossian is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Flava Beach, Naples on Sat, 11 Jul 2026.
 
-Darius Syrossian is a house and tech house and 2 more artist tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Flava Beach, Naples on Sat 11 Jul.
+Darius Syrossian is a house and tech house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Flava Beach, Naples on Sat 11 Jul.
 
 ## Upcoming shows
 

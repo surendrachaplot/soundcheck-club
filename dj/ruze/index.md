@@ -2,7 +2,7 @@
 
 RUZE is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-RUZE is a house and tech house and 2 more artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Dennis Quin. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+RUZE is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Dennis Quin. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Nick Curly is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 9 Jul 2026.
 
-Nick Curly is a house and tech house and 2 more artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Chinois Ibiza, Ibiza on Thu 9 Jul.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Chinois Ibiza, Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

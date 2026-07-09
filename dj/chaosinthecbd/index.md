@@ -2,7 +2,7 @@
 
 Chaos In The CBD is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
 
-Chaos In The CBD is a house and techno and 2 more artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: DC-10, Ibiza on Mon 27 Jul.
+Chaos In The CBD is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: DC-10, Ibiza on Mon 27 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Fumiya Tanaka is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Circus Osaka, Osaka on Fri, 17 Jul 2026.
 
-Fumiya Tanaka is a house and techno and 2 more artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Samuel Deep, Laidlaw and Doudou MD. Next up: Circus Osaka, Osaka on Fri 17 Jul.
+Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Samuel Deep, Laidlaw and Doudou MD. Next up: Circus Osaka, Osaka on Fri 17 Jul.
 
 ## Upcoming shows
 

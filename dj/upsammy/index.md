@@ -2,7 +2,7 @@
 
 upsammy is a Techno and Experimental artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-upsammy is a techno and experimental and 2 more artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 

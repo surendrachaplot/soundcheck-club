@@ -2,7 +2,7 @@
 
 Paralich is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Liquid Club, Malta on Thu, 9 Jul 2026.
 
-Paralich is a techno and trance and 2 more artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Liquid Club, Malta on Thu 9 Jul.
+Paralich is a techno and trance artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Liquid Club, Malta on Thu 9 Jul.
 
 ## Upcoming shows
 

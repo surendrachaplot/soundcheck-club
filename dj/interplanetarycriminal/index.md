@@ -2,7 +2,7 @@
 
 Interplanetary Criminal is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Under the K Bridge, New York City on Sat, 11 Jul 2026.
 
-Interplanetary Criminal is a garage and house and 2 more artist tracked on soundcheck, with 244 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
+Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 244 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 

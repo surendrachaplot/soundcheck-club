@@ -2,7 +2,7 @@
 
 CARISTA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
-CARISTA is a house and techno and 2 more artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Job Jobse, Suze Ijó and Eris Drew. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
+CARISTA is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Job Jobse, Suze Ijó and Eris Drew. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
 ## Upcoming shows
 

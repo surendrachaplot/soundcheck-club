@@ -2,7 +2,7 @@
 
 2HOT2PLAY is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at DNA Club, Munich on Fri, 10 Jul 2026.
 
-2HOT2PLAY is a techno and trance and 2 more artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Mika Heggemann, Cara Elizabeth and IGDA. Next up: DNA Club, Munich on Fri 10 Jul.
+2HOT2PLAY is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Mika Heggemann, Cara Elizabeth and IGDA. Next up: DNA Club, Munich on Fri 10 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
 
-Seth Troxler is a house and techno and 2 more artist tracked on soundcheck, with 295 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
+Seth Troxler is a house and techno artist tracked on soundcheck, with 295 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -1,0 +1,13 @@
+# TBA - soon
+
+TBA - soon is a music venue in Rome with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Praerie (Ersatz) Festival in Berlin with Konfusia, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura" on Fri, 31 Jul 2026.
+
+TBA - soon is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Aio, Katzenohr, Konfusia and Leon Licht and 2 more. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 31 Jul 2026 | Praerie (Ersatz) Festival in Berlin with Konfusia, Mehr is Mehr, Aio, Leon Licht, Mino, Sabura | Aio, Katzenohr, Konfusia, Leon Licht, Martin Ka, Maurice Mino, Mehr is Mehr, Sabura, Sin:port, Who is ela¿, ZweiE |
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-soon/)*

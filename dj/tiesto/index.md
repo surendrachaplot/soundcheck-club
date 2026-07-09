@@ -2,7 +2,7 @@
 
 Tiesto is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
 
-Tiesto is a house and techno and 2 more artist tracked on soundcheck, with 57 sets logged across Austin, Brussels, Chicago and Ibiza and 11 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: Silverworks Island, London on Sun 12 Jul.
+Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged across Austin, Brussels, Chicago and Ibiza and 11 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: Silverworks Island, London on Sun 12 Jul.
 
 ## Upcoming shows
 

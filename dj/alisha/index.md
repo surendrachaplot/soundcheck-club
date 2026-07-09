@@ -2,7 +2,7 @@
 
 ALISHA is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-ALISHA is a house and tech house and 2 more artist tracked on soundcheck, with 169 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 30 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+ALISHA is a house and tech house artist tracked on soundcheck, with 169 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 30 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 

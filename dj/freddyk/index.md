@@ -2,7 +2,7 @@
 
 Freddy K is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Freddy K is a techno and house and 2 more artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Chlär, Blasha & Allatt and Alarico. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Freddy K is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Chlär, Blasha & Allatt and Alarico. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 

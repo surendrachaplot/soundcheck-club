@@ -2,7 +2,7 @@
 
 Luke Alessi is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mondo, Madrid on Thu, 9 Jul 2026.
 
-Luke Alessi is a house and techno and 2 more artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Mondo, Madrid on Thu 9 Jul.
+Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Mondo, Madrid on Thu 9 Jul.
 
 ## Upcoming shows
 

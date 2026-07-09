@@ -1,0 +1,29 @@
+# Dave Dinger
+
+Dave Dinger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Klunkerkranich, Berlin on Tue, 14 Jul 2026.
+
+Dave Dinger is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Avocado, Leon Licht and Bergstock. Next up: Klunkerkranich, Berlin on Tue 14 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 14 Jul 2026 | Klunkerkranich | Berlin |
+| Sat, 5 Sept 2026 | Tanzhaus West | Frankfurt |
+
+## Recently played
+
+- Birgit, Berlin — Fri, 15 May 2026
+- Lieberscholli, Munich — Fri, 1 May 2026
+- Insomnia, Berlin — Sat, 21 Mar 2026
+- MaHalla, Berlin — Wed, 31 Dec 2025
+- Renate, Berlin — Sat, 29 Nov 2025
+- Pratersauna, Vienna — Fri, 31 Oct 2025
+- Südpol, Hamburg — Sat, 25 Oct 2025
+- Renate, Berlin — Thu, 16 Oct 2025
+
+## Shares bills with
+
+Avocado, Leon Licht, Bergstock
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davedinger/)*

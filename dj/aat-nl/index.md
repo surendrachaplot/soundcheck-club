@@ -2,7 +2,7 @@
 
 AAT (NL) is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-AAT (NL) is a house and tech house and 2 more artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+AAT (NL) is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 In Verruf is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
 
-In Verruf is a techno and industrial and 2 more artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
+In Verruf is a techno and industrial artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
 
 ## Upcoming shows
 

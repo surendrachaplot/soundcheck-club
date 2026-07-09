@@ -2,7 +2,7 @@
 
 Riordan is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Knockdown Center, New York City on Fri, 10 Jul 2026.
 
-Riordan is a house and tech house and 2 more artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Knockdown Center, Newyorkcity on Fri 10 Jul.
+Riordan is a house and tech house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Knockdown Center, Newyorkcity on Fri 10 Jul.
 
 ## Upcoming shows
 

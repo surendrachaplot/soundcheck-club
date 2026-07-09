@@ -2,7 +2,7 @@
 
 Beltran is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Concourse Project, Austin on Fri, 10 Jul 2026.
 
-Beltran is a tech house and house and 2 more artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, Prospa and ChaseWest. Next up: The Concourse Project, Austin on Fri 10 Jul.
+Beltran is a tech house and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, Prospa and ChaseWest. Next up: The Concourse Project, Austin on Fri 10 Jul.
 
 ## Upcoming shows
 

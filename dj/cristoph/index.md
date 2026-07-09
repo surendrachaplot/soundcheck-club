@@ -2,7 +2,7 @@
 
 Cristoph is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Q Nightclub, Seattle on Fri, 10 Jul 2026.
 
-Cristoph is a techno and progressive house and 2 more artist tracked on soundcheck, with 138 sets logged across Auckland, Austin, Bali and Berlin and 33 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Q Nightclub, Seattle on Fri 10 Jul.
+Cristoph is a techno and progressive house artist tracked on soundcheck, with 138 sets logged across Auckland, Austin, Bali and Berlin and 33 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Q Nightclub, Seattle on Fri 10 Jul.
 
 ## Upcoming shows
 

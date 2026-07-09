@@ -2,7 +2,7 @@
 
 Hernan Cattaneo is a Progressive House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Thu, 9 Jul 2026.
 
-Hernan Cattaneo is a progressive house and house and 2 more artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Cova Santa, Ibiza on Thu 9 Jul.
+Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Cova Santa, Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

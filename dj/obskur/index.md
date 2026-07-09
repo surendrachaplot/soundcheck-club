@@ -2,7 +2,7 @@
 
 Obskur is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sunset Park Rooftop, New York City on Sat, 18 Jul 2026.
 
-Obskur is a house and tech house and 2 more artist tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Sunset Park Rooftop, Newyorkcity on Sat 18 Jul.
+Obskur is a house and tech house artist tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Sunset Park Rooftop, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 

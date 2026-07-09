@@ -2,7 +2,7 @@
 
 KUKO is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
-KUKO is a techno and trance and 2 more artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
+KUKO is a techno and trance artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
 ## Upcoming shows
 

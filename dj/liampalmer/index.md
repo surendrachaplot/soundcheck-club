@@ -2,7 +2,7 @@
 
 Liam Palmer is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 11 Jul 2026.
 
-Liam Palmer is a house and tech house and 2 more artist tracked on soundcheck, with 150 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 11 Jul.
+Liam Palmer is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 11 Jul.
 
 ## Upcoming shows
 

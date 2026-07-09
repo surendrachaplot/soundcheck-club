@@ -2,7 +2,7 @@
 
 KI/KI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Under the K Bridge, New York City on Sat, 11 Jul 2026.
 
-KI/KI is a techno and house and 2 more artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside DJ Gigola, DJ Heartstring and Héctor Oaks. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
+KI/KI is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside DJ Gigola, DJ Heartstring and Héctor Oaks. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 

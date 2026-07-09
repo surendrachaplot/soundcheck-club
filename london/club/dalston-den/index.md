@@ -1,0 +1,23 @@
+# Dalston Den
+
+Dalston Den is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DJ Thursday presents: Dalston Den Takeover" on Thu, 9 Jul 2026.
+
+Dalston Den is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including AMAR (UK), dj people's princess, nohexcode and SBBS and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 9 Jul 2026 | DJ Thursday presents: Dalston Den Takeover |  |
+| Fri, 10 Jul 2026 | Breakaway: NRG CRU presents For The Heads & The Huns | TILDA (2) |
+| Sat, 18 Jul 2026 | Get Tiny 2: Shrinked In |  |
+| Sat, 25 Jul 2026 | One Foot in the Rave | AMAR (UK), SBBS, Yazmin (UK), dj people's princess, nohexcode |
+| Fri, 31 Jul 2026 | Breakaway: After Hours Takeover |  |
+| Sat, 8 Aug 2026 | SUBSTANCE: Edition 2G 4.0 - hosted by Freq Foundation Sound System |  |
+| Thu, 24 Sept 2026 | Sam Polks presents: Dancing Through The Night |  |
+
+## Address
+
+91-93 Kingsland High Street, London
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

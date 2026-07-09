@@ -2,7 +2,7 @@
 
 LAMMER is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
-LAMMER is a techno and trance and 2 more artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 25 more. Often billed alongside Lisa Korver, Kyle Starkey and Bella Claxton. Next up: MS Artville, Hamburg on Sat 18 Jul.
+LAMMER is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 25 more. Often billed alongside Lisa Korver, Kyle Starkey and Bella Claxton. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
 ## Upcoming shows
 

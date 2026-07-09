@@ -2,7 +2,7 @@
 
 Joëlla Jackson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-Joëlla Jackson is a house and tech house and 2 more artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Joey Daniel. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Joey Daniel. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Alignment is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
 
-Alignment is a techno and house and 2 more artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Flava Beach, Naples on Sat 18 Jul.
+Alignment is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Flava Beach, Naples on Sat 18 Jul.
 
 ## Upcoming shows
 

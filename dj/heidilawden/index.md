@@ -2,7 +2,7 @@
 
 Heidi Lawden is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
 
-Heidi Lawden is a house and disco and 2 more artist tracked on soundcheck, with 161 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
+Heidi Lawden is a house and disco artist tracked on soundcheck, with 161 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
 
 ## Upcoming shows
 

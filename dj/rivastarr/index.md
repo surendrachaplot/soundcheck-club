@@ -2,7 +2,7 @@
 
 Riva Starr is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
 
-Riva Starr is a house and tech house and 2 more artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
+Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
 
 ## Upcoming shows
 

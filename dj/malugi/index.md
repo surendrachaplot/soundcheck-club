@@ -2,7 +2,7 @@
 
 MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Fri, 10 Jul 2026.
 
-MALUGI is a techno and house and 2 more artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: [UNVRS], Ibiza on Fri 10 Jul.
+MALUGI is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: [UNVRS], Ibiza on Fri 10 Jul.
 
 ## Upcoming shows
 

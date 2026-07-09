@@ -2,7 +2,7 @@
 
 XIMA is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OST, Berlin on Sat, 18 Jul 2026.
 
-XIMA is a trance and techno and 1 more artist tracked on soundcheck, with 118 sets logged across Berlin and Munich. Often billed alongside HØLLE (2), DJ TIPSTER and YOVA. Next up: OST, Berlin on Sat 18 Jul.
+XIMA is a trance and techno artist tracked on soundcheck, with 118 sets logged across Berlin and Munich. Often billed alongside HØLLE (2), DJ TIPSTER and YOVA. Next up: OST, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 

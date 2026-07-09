@@ -2,7 +2,7 @@
 
 Nick León is a Techno and Club artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 10 Jul 2026.
 
-Nick León is a techno and club and 2 more artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Barcelona and Belfast and 50 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Smoke & Mirrors, Chicago on Fri 10 Jul.
+Nick León is a techno and club artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Barcelona and Belfast and 50 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Smoke & Mirrors, Chicago on Fri 10 Jul.
 
 ## Upcoming shows
 

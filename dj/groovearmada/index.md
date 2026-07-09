@@ -2,7 +2,7 @@
 
 Groove Armada is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 14 Jul 2026.
 
-Groove Armada is a house and disco and 2 more artist tracked on soundcheck, with 80 sets logged across Antwerp, Athens, Auckland and Belfast and 19 more. Often billed alongside The Shapeshifters, Natasha Diggs and Melvo Baptiste. Next up: 528 Ibiza, Ibiza on Tue 14 Jul.
+Groove Armada is a house and disco artist tracked on soundcheck, with 80 sets logged across Antwerp, Athens, Auckland and Belfast and 19 more. Often billed alongside The Shapeshifters, Natasha Diggs and Melvo Baptiste. Next up: 528 Ibiza, Ibiza on Tue 14 Jul.
 
 ## Upcoming shows
 

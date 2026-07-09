@@ -2,7 +2,7 @@
 
 Fantasm is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
-Fantasm is a techno and hardcore and 2 more artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Donauinsel, Vienna on Sat 1 Aug.
+Fantasm is a techno and hardcore artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 DJ Shannon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Paloma, Berlin on Sat, 11 Jul 2026.
 
-DJ Shannon is a house and techno and 2 more artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: Paloma, Berlin on Sat 11 Jul.
+DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: Paloma, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 

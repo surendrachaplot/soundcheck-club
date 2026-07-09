@@ -2,7 +2,7 @@
 
 Skee Mask is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tresor / Globus, Berlin on Sat, 11 Jul 2026.
 
-Skee Mask is a techno and bass and 2 more artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 40 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Tresor / Globus, Berlin on Sat 11 Jul.
+Skee Mask is a techno and bass artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 40 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Tresor / Globus, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 

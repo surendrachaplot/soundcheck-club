@@ -2,7 +2,7 @@
 
 Ben Sims is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Bassement, Madrid on Sat, 18 Jul 2026.
 
-Ben Sims is a techno and house and 2 more artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: The Bassement, Madrid on Sat 18 Jul.
+Ben Sims is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: The Bassement, Madrid on Sat 18 Jul.
 
 ## Upcoming shows
 

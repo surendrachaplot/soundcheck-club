@@ -2,7 +2,7 @@
 
 Boris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Refuge, New York City on Fri, 10 Jul 2026.
 
-Boris is a techno and house and 2 more artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Refuge, Newyorkcity on Fri 10 Jul.
+Boris is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Refuge, Newyorkcity on Fri 10 Jul.
 
 ## Upcoming shows
 

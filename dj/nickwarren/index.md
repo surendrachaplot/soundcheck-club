@@ -2,7 +2,7 @@
 
 Nick Warren is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Thu, 9 Jul 2026.
 
-Nick Warren is a progressive house and house and 2 more artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Cova Santa, Ibiza on Thu 9 Jul.
+Nick Warren is a progressive house and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Cova Santa, Ibiza on Thu 9 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Sosa is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Concourse Project, Austin on Sat, 11 Jul 2026.
 
-Sosa is a tech house and house and 2 more artist tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside East End Dubs, Paco Osuna and Jamie Jones. Next up: The Concourse Project, Austin on Sat 11 Jul.
+Sosa is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside East End Dubs, Paco Osuna and Jamie Jones. Next up: The Concourse Project, Austin on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Ella Knight is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
 
-Ella Knight is a house and disco and 2 more artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Kirollus, MiNNA and Scarlett O'Malley. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
+Ella Knight is a house and disco artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Kirollus, MiNNA and Scarlett O'Malley. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
 
 ## Upcoming shows
 

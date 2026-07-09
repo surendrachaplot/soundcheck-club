@@ -15,7 +15,7 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, 
 | Wed, 15 Jul 2026 | RAVING CHARLIE: Hard Techno / Rave w/ SILKY [USA] / GO-BLIN / TØXIC / DEVØX | TØXIC |
 | Thu, 16 Jul 2026 | Seedlink⁺ W/ Patch+, Pen Pal & DJs | DJ S (UK) |
 | Fri, 17 Jul 2026 | Aldonna b2b Kyra Khaldi | Aldonna, Kyra Khaldi |
-| Sat, 18 Jul 2026 | Playhaus w/ Di² b2b rkeat, JØRDY & Prance | Jordy, Prance |
+| Sat, 18 Jul 2026 | Playhaus w/ Di² b2b rkeat, JØRDY & Prance | Jørdy, Prance |
 | Wed, 22 Jul 2026 | RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY |  |
 | Thu, 23 Jul 2026 | Mathiéux presents: Itz3bby & Seb Wes | Itz3bby, Mathiéux, Seb Wes |
 

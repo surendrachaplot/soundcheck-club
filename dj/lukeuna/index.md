@@ -2,7 +2,7 @@
 
 Luke Una is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at LDN East, London on Sat, 18 Jul 2026.
 
-Luke Una is a house and disco and 2 more artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: LDN East, London on Sat 18 Jul.
+Luke Una is a house and disco artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: LDN East, London on Sat 18 Jul.
 
 ## Upcoming shows
 

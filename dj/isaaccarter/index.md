@@ -2,7 +2,7 @@
 
 Isaac Carter is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gaffe, London on Sun, 19 Jul 2026.
 
-Isaac Carter is a house and tech house and 2 more artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Berlin and Brisbane and 22 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Gaffe, London on Sun 19 Jul.
+Isaac Carter is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Berlin and Brisbane and 22 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Gaffe, London on Sun 19 Jul.
 
 ## Upcoming shows
 

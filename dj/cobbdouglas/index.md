@@ -2,7 +2,7 @@
 
 Cobb Douglas is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ÆDEN, Berlin on Fri, 10 Jul 2026.
 
-Cobb Douglas is a techno and trance and 2 more artist based in Spain, tracked on soundcheck, with 106 sets logged across Barcelona, Belgrade, Berlin and Cologne and 7 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: ÆDEN, Berlin on Fri 10 Jul.
+Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 106 sets logged across Barcelona, Belgrade, Berlin and Cologne and 7 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: ÆDEN, Berlin on Fri 10 Jul.
 
 ## Upcoming shows
 

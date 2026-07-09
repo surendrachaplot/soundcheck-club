@@ -2,7 +2,7 @@
 
 Bitter Babe is a Techno and Latin Bass artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Trempo, Nantes on Fri, 10 Jul 2026.
 
-Bitter Babe is a techno and latin bass and 2 more artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Trempo, Nantes on Fri 10 Jul.
+Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Trempo, Nantes on Fri 10 Jul.
 
 ## Upcoming shows
 

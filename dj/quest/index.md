@@ -2,7 +2,7 @@
 
 Quest is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 14 Jul 2026.
 
-Quest is a techno and house and 2 more artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: Amnesia Ibiza, Ibiza on Tue 14 Jul.
+Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Francesco Del Garda. Next up: Amnesia Ibiza, Ibiza on Tue 14 Jul.
 
 ## Upcoming shows
 

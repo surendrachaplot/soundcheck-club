@@ -2,7 +2,7 @@
 
 Dennis Quin is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lab11, Birmingham on Fri, 10 Jul 2026.
 
-Dennis Quin is a house and tech house and 2 more artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Austin and Bali and 28 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Lab11, Birmingham on Fri 10 Jul.
+Dennis Quin is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Austin and Bali and 28 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Lab11, Birmingham on Fri 10 Jul.
 
 ## Upcoming shows
 

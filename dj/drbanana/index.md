@@ -2,7 +2,7 @@
 
 Dr Banana is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 16 Jul 2026.
 
-Dr Banana is a house and garage and 2 more artist tracked on soundcheck, with 238 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Amnesia Ibiza, Ibiza on Thu 16 Jul.
+Dr Banana is a house and garage artist tracked on soundcheck, with 238 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Amnesia Ibiza, Ibiza on Thu 16 Jul.
 
 ## Upcoming shows
 

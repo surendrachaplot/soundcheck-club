@@ -2,7 +2,7 @@
 
 Cara Elizabeth is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
 
-Cara Elizabeth is a techno and trance and 2 more artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside Kø:lab, SEKTOR69 and A.N.I.. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
+Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside Kø:lab, SEKTOR69 and A.N.I.. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 

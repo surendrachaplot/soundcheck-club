@@ -8,7 +8,7 @@ Birgit is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Birgits WEEKENDER | Ash Roy, Gizmo, JAMera, Karim Alkhayat, Lazykid |
+| Fri, 10 Jul 2026 | Birgits WEEKENDER | Ash Roy, Cottí Larje, Gizmo, JAMera, Karim Alkhayat, Lazykid, Rad.Lez |
 | Fri, 17 Jul 2026 | Birgits WEEKENDER | Danito, Leon Licht, Manel Cluny, Memo., Roberto Corrales, Taberia, Vemativ, bordeaux |
 | Fri, 24 Jul 2026 | Birgits CSD WEEKENDER | AMY (BG), ANNARA, Carina Posse, FRANCO., Kevin Ganora, Mia Mangata, NUUP, Valderrama |
 | Fri, 31 Jul 2026 | Birgits WEEKENDER | MAMI (AU) |

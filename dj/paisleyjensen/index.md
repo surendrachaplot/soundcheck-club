@@ -2,7 +2,7 @@
 
 Paisley Jensen is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Het Leienpaleis, Antwerp on Sat, 11 Jul 2026.
 
-Paisley Jensen is a house and tech house and 2 more artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 5 more. Often billed alongside Sammy Porter, Siân Owen and Danny Howard. Next up: Het Leienpaleis, Antwerp on Sat 11 Jul.
+Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 5 more. Often billed alongside Sammy Porter, Siân Owen and Danny Howard. Next up: Het Leienpaleis, Antwerp on Sat 11 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Paige Tomlinson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Terrrazza, Barcelona on Thu, 9 Jul 2026.
 
-Paige Tomlinson is a house and tech house and 2 more artist tracked on soundcheck, with 150 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: La Terrrazza, Barcelona on Thu 9 Jul.
+Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 150 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: La Terrrazza, Barcelona on Thu 9 Jul.
 
 ## Upcoming shows
 

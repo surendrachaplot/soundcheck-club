@@ -2,7 +2,7 @@
 
 Ilario Alicante is a Tech House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 10 Jul 2026.
 
-Ilario Alicante is a tech house and techno and 2 more artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Cavo Paradiso, Mykonos on Fri 10 Jul.
+Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Cavo Paradiso, Mykonos on Fri 10 Jul.
 
 ## Upcoming shows
 

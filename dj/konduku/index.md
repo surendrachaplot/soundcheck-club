@@ -2,7 +2,7 @@
 
 Konduku is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at arkaoda Berlin, Berlin on Thu, 9 Jul 2026.
 
-Konduku is a techno and house and 2 more artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside Kia (AU), Woody92 and DJ Nobu. Next up: arkaoda Berlin, Berlin on Thu 9 Jul.
+Konduku is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside Kia (AU), Woody92 and DJ Nobu. Next up: arkaoda Berlin, Berlin on Thu 9 Jul.
 
 ## Upcoming shows
 

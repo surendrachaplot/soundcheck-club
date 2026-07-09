@@ -2,7 +2,7 @@
 
 Magda is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 11 Jul 2026.
 
-Magda is a techno and house and 2 more artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 46 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 11 Jul.
+Magda is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 46 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 

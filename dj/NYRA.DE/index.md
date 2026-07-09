@@ -2,7 +2,7 @@
 
 NYRA (DE) is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Vaag, Antwerp on Fri, 17 Jul 2026.
 
-NYRA (DE) is a techno and trance and 2 more artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Club Vaag, Antwerp on Fri 17 Jul.
+NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Club Vaag, Antwerp on Fri 17 Jul.
 
 ## Upcoming shows
 

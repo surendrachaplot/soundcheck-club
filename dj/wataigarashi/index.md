@@ -2,7 +2,7 @@
 
 Wata Igarashi is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jasna 1, Warsaw on Fri, 10 Jul 2026.
 
-Wata Igarashi is a techno and house and 2 more artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Jasna 1, Warsaw on Fri 10 Jul.
+Wata Igarashi is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Jasna 1, Warsaw on Fri 10 Jul.
 
 ## Upcoming shows
 

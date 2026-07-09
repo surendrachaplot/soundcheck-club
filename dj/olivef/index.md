@@ -2,7 +2,7 @@
 
 Olive F is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Tue, 28 Jul 2026.
 
-Olive F is a house and tech house and 2 more artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Cova Santa, Ibiza on Tue 28 Jul.
+Olive F is a house and tech house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Cova Santa, Ibiza on Tue 28 Jul.
 
 ## Upcoming shows
 

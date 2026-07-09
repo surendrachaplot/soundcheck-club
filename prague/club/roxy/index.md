@@ -13,7 +13,7 @@ Roxy is a music venue in Prague listed on soundcheck. 22 upcoming nights, with l
 | Fri, 17 Jul 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
 | Sat, 18 Jul 2026 | TECHNO NIGHT ∞ ROXY Prague | AVHD, Jaqullin, Orbith |
 | Wed, 22 Jul 2026 | MAINSTAGE PARTY ∞ ROXY Prague |  |
-| Fri, 24 Jul 2026 | MAINSTAGE PARTY ∞ ROXY Prague | Jordy, S.Tian |
+| Fri, 24 Jul 2026 | MAINSTAGE PARTY ∞ ROXY Prague | Jørdy, S.Tian |
 | Sat, 25 Jul 2026 | TECHNO[RAVE] #13 ∞ ROXY Prague | Paul Krist |
 | Fri, 31 Jul 2026 | MAINSTAGE PARTY ∞ ROXY Prague | Michael C |
 | Sat, 1 Aug 2026 | TECHNO NIGHT ∞ ROXY Prague | Big Lil, Domek, SJ Yellow |

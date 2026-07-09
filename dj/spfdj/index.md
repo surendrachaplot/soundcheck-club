@@ -2,7 +2,7 @@
 
 SPFDJ is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
-SPFDJ is a techno and house and 2 more artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
+SPFDJ is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
 ## Upcoming shows
 

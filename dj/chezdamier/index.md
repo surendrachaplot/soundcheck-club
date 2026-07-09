@@ -2,7 +2,7 @@
 
 Chez Damier is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
 
-Chez Damier is a house and techno and 2 more artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, Garrett David and O.BEE. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
+Chez Damier is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, Garrett David and O.BEE. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 

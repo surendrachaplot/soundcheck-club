@@ -2,7 +2,7 @@
 
 D Stone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Grandangolo, Rome on Fri, 10 Jul 2026.
 
-D Stone is a house and tech house and 2 more artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Grandangolo, Rome on Fri 10 Jul.
+D Stone is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Grandangolo, Rome on Fri 10 Jul.
 
 ## Upcoming shows
 

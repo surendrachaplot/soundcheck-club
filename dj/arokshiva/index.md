@@ -2,7 +2,7 @@
 
 Arok Shiva is a Acid and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at EL SÓTANO, Madrid on Sun, 12 Jul 2026.
 
-Arok Shiva is a acid and techno artist tracked on soundcheck, with 62 sets logged across Madrid. Often billed alongside Epileptik, DAVID MENA and Mako. Next up: EL SÓTANO, Madrid on Sun 12 Jul.
+Arok Shiva is an acid and techno artist tracked on soundcheck, with 62 sets logged across Madrid. Often billed alongside Epileptik, DAVID MENA and Mako. Next up: EL SÓTANO, Madrid on Sun 12 Jul.
 
 ## Upcoming shows
 

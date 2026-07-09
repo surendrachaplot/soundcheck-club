@@ -2,7 +2,7 @@
 
 BLANKA is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
-BLANKA is a techno and house and 2 more artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Fabrik, Madrid on Sat 11 Jul.
+BLANKA is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Fabrik, Madrid on Sat 11 Jul.
 
 ## Upcoming shows
 

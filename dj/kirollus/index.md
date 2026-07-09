@@ -2,7 +2,7 @@
 
 Kirollus is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Tue, 14 Jul 2026.
 
-Kirollus is a house and disco and 2 more artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Cova Santa, Ibiza on Tue 14 Jul.
+Kirollus is a house and disco artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Cova Santa, Ibiza on Tue 14 Jul.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 I Hate Models is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-I Hate Models is a techno and house and 2 more artist tracked on soundcheck, with 263 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and DYEN. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+I Hate Models is a techno and house artist tracked on soundcheck, with 263 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and DYEN. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
