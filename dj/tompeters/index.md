@@ -1,8 +1,8 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mtkvarze, Tbilisi on Sat, 11 Jul 2026.
+Tom Peters is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mtkvarze, Tbilisi on Sat, 11 Jul 2026.
 
-Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Mtkvarze, Tbilisi on Sat 11 Jul.
+Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Mtkvarze, Tbilisi on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Mtkvarze | Tbilisi |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 15 Aug 2026 | BASEMENT | New York City |
 
 ## Recently played
 

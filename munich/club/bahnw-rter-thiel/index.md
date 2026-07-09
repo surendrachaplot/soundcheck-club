@@ -15,7 +15,7 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming n
 | Fri, 17 Jul 2026 | Sachsentrance & Hot People pres. HOTBOI2300 ANL Tour - Bahnwärter Thiel | HOTBOI2300, Mhan Solo, The Jakob Sister |
 | Sat, 18 Jul 2026 | CFU Open Air & Club / Bahnwärter Thiel | Dykstra, Marcel Dusk, SASHTY, SILSAN, Shishmish, Thea (BG) |
 | Fri, 24 Jul 2026 | Freitag mit Konfusia | ANXA, Blake Strange, Konfusia, sayuara |
-| Sat, 25 Jul 2026 | Sound Salon Sommerfest mit Kotoe – Open Air & Club | Alex Volta, Kotoe, Mawu, Moritz Butschek, NICI NICE, Tom Appl |
+| Sat, 25 Jul 2026 | Sound Salon Sommerfest mit Kotoe – Open Air & Club | Alex Volta, DEYST, Kotoe, Mawu, Moritz Butschek, NICI NICE, Tom Appl |
 | Fri, 31 Jul 2026 | Hypnotrance - Midsummer Open Air & Club - Bahnwärter Thiel | 9LALEY, DJ Yugo, Elleyza, Emby, JBox, Linz (Grell), Listenblondie, MBREKK, NAGINI, Praun, Saminski, Terzenbreaker, Vaneska, antyo, nox |
 | Sat, 1 Aug 2026 | Wannda Circus / Bahnwärter Edition | ANASTASÍA, F Red, NUAH |
 

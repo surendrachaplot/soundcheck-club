@@ -1,8 +1,8 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
+Mad.Again (2) is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
 
-Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
+Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 60 se
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Thuishaven | Amsterdam |
 | Tue, 21 Jul 2026 | Cova Santa | Ibiza |
+| Sat, 8 Aug 2026 | Distrikt | Leeds |
 | Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |

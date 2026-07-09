@@ -1,8 +1,8 @@
 # Emma 2000
 
-Emma 2000 is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mint Warehouse, Leeds on Sat, 18 Jul 2026.
+Emma 2000 is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mint Warehouse, Leeds on Sat, 18 Jul 2026.
 
-Emma 2000 is a tech house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Joss Dean, Julian Fijma and Dennis Quin. Next up: Mint Warehouse, Leeds on Sat 18 Jul.
+Emma 2000 is a tech house and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 5 more. Often billed alongside Joss Dean, Julian Fijma and Luuk van Dijk. Next up: Mint Warehouse, Leeds on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Emma 2000 is a tech house and house artist tracked on soundcheck, with 21 sets l
 | Sat, 18 Jul 2026 | Mint Warehouse | Leeds |
 | Sat, 1 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | Ouseburn Garden | Newcastle |
+| Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Emma 2000 is a tech house and house artist tracked on soundcheck, with 21 sets l
 
 ## Shares bills with
 
-Joss Dean, Julian Fijma, Dennis Quin
+Joss Dean, Julian Fijma, Luuk van Dijk
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*

@@ -1,13 +1,17 @@
 # Oscar G
 
-Oscar G is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Superior Ingredients, New York City on Sat, 1 Aug 2026.
+Oscar G is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 1-800-Lucky, Miami on Fri, 10 Jul 2026.
 
-Oscar G is a house and tech house artist tracked on soundcheck, with 73 sets logged across Ibiza, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Amal Nemer. Next up: Superior Ingredients, Newyorkcity on Sat 1 Aug.
+Oscar G is a house and afro house artist tracked on soundcheck, with 77 sets logged across Ibiza, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Amal Nemer. Next up: 1-800-Lucky, Miami on Fri 10 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 10 Jul 2026 | 1-800-Lucky | Miami |
+| Fri, 17 Jul 2026 | 1-800-Lucky | Miami |
+| Fri, 24 Jul 2026 | 1-800-Lucky | Miami |
+| Fri, 31 Jul 2026 | 1-800-Lucky | Miami |
 | Sat, 1 Aug 2026 | Superior Ingredients | New York City |
 | Thu, 27 Aug 2026 | Hï Ibiza | Ibiza |
 

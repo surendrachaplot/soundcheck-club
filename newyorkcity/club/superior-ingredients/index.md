@@ -10,7 +10,7 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 19 up
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Superior Ingredients: The Roof | Kaili |
 | Sun, 12 Jul 2026 | Zamna Soundsystem with Jono Stephenson & Guests | Jono Stephenson, Miss Hazard, Redfreya, Zamna Soundsystem |
-| Fri, 17 Jul 2026 | FUNKBOX NYC 18-Year Anniversary Day-Into-Night Marathon | Disciple, Eli Escobar, Moodymann |
+| Fri, 17 Jul 2026 | FUNKBOX 18 Yrs: Day-Into-Night Marathon w/ Tony Touch, Eli Escobar, Moodymann | Disciple, Eli Escobar, Moodymann |
 | Sat, 18 Jul 2026 | DOUBLEHEADER: Ankhoï x Luch *Extended Set* | ASMOT, Ankhoï |
 | Fri, 24 Jul 2026 | Lee Ann Roberts Roof 7/24 |  |
 | Fri, 24 Jul 2026 | Techno Brooklyn presents Lee Ann Roberts Day and Night | Lee Ann Roberts |

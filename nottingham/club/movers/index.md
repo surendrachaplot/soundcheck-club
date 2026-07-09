@@ -17,7 +17,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights. 
 | Fri, 31 Jul 2026 | Dunya |  |
 | Sat, 1 Aug 2026 | Ordinary People: Jazz & Deep House |  |
 | Thu, 6 Aug 2026 | JT Soar x Movers: Showcase |  |
-| Fri, 7 Aug 2026 | Lost In Detroit: with Beane (Soul Buggin') |  |
+| Fri, 7 Aug 2026 | Lost in Detroit - Sounds from the Motor City w/ Beane |  |
 
 ## Address
 

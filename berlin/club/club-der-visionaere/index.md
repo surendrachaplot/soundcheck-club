@@ -8,7 +8,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Phonik | Franziska Berns, Numero 6, Yoshitaca |
+| Thu, 9 Jul 2026 | Phonik | Franziska Berns, Soju Gang, Yoshitaca |
 | Fri, 10 Jul 2026 | Understory x Misbits | Clovis, Elli.on, Inner, Junki Inoue, Miss I, Sammy Dee, Yone-Ko, oddist |
 | Sat, 11 Jul 2026 | CDV Summer Weekender Part 1 | Alex Kraemer, Andrea Ferlin, Cabanne, Cez (1), JA JA, Katsuya Sano, Michel7000, RAHA, Suburbial |
 | Sun, 12 Jul 2026 | CDV Summer Weekender Part 2 | Arno aka Einzelkind, Hugo, Janina, Katsuya Sano, Lenny Mailleau, Lorenzo Chiabotti, Maki Polne, Ohm Hourani |

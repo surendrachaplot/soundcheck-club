@@ -1,14 +1,15 @@
 # Carl H
 
-Carl H is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hotel Butterfly, Rome on Thu, 9 Jul 2026.
+Carl H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hotel Butterfly, Rome on Thu, 9 Jul 2026.
 
-Carl H is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 34 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Hotel Butterfly, Rome on Thu 9 Jul.
+Carl H is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 35 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Hotel Butterfly, Rome on Thu 9 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 9 Jul 2026 | Hotel Butterfly | Rome |
+| Fri, 10 Jul 2026 | TBA - Secret Location | Sheffield |
 | Sat, 1 Aug 2026 | Invisible Wind Factory | Liverpool |
 | Sun, 6 Sept 2026 | Gaffe | London |
 | Sat, 12 Sept 2026 | Les Enfants Brillants | Barcelona |

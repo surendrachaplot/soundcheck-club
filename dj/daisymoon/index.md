@@ -1,8 +1,8 @@
 # Daisy Moon
 
-Daisy Moon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at M.O.T, London on Fri, 17 Jul 2026.
+Daisy Moon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at M.O.T, London on Fri, 17 Jul 2026.
 
-Daisy Moon is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Berlin, Bristol, Brussels and London and 5 more. Often billed alongside Shanti Celeste, Golesworthy and Jorg Kuning. Next up: M.O.T, London on Fri 17 Jul.
+Daisy Moon is a house and techno artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Bristol, Brussels and London and 5 more. Often billed alongside Shanti Celeste, Golesworthy and Jorg Kuning. Next up: M.O.T, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daisy Moon is a house and techno artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | M.O.T | London |
 | Sun, 26 Jul 2026 | The Love Inn | Bristol |
+| Fri, 4 Sept 2026 | The Loft | Manchester |
 
 ## Recently played
 

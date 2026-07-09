@@ -1,8 +1,8 @@
 # Function
 
-Function is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
+Function is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
 
-Function is a techno and house artist based in United States of America, tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: CLUB RAUM, Amsterdam on Sat 18 Jul.
+Function is a techno and house artist based in United States of America, tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: CLUB RAUM, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Function is a techno and house artist based in United States of America, tracked
 | Fri, 7 Aug 2026 | Fvtvr | Paris |
 | Sat, 8 Aug 2026 | Karmen Camina | Strasbourg |
 | Sun, 9 Aug 2026 | Le Sucre | Lyon |
+| Sat, 15 Aug 2026 | BASEMENT | New York City |
 | Sat, 22 Aug 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

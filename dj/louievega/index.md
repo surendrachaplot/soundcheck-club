@@ -1,8 +1,8 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 10 Jul 2026.
+Louie Vega is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 10 Jul 2026.
 
-Louie Vega is a house and disco artist tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Public Works, Sanfrancisco on Fri 10 Jul.
+Louie Vega is a house and disco artist tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Public Works, Sanfrancisco on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 198 sets logg
 | Thu, 3 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | KOKO | London |
 | Sun, 13 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 
 ## Recently played

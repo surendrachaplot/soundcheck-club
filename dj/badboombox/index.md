@@ -1,14 +1,15 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Sat, 18 Jul 2026.
+Bad Boombox is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Sat, 18 Jul 2026.
 
-Bad Boombox is a techno and trance artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Else, Berlin on Sat 18 Jul.
+Bad Boombox is a techno and trance artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Else, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Else | Berlin |
+| Sat, 25 Jul 2026 | Westhafen | Leipzig |
 | Sun, 26 Jul 2026 | Boomerang Beach | The Hague |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 31 Jul 2026 | Spot X | Budapest |

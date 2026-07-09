@@ -1,8 +1,8 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Silvie Loto is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-Silvie Loto is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Barcelona and Basel and 28 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stussy. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+Silvie Loto is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Barcelona and Basel and 28 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stussy. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Silvie Loto is a house and tech house artist tracked on soundcheck, with 79 sets
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 25 Jul 2026 | Tokonoma Club | Frankfurt |
 | Sat, 15 Aug 2026 | Sophie Festival | Malaga |
+| Fri, 21 Aug 2026 | Colorado Charlie | The Hague |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 
 ## Recently played

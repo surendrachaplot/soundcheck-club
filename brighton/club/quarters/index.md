@@ -8,7 +8,7 @@ Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Oldboy & DJ Cosworth | DJ Cosworth, Oldboy (2) |
+| Fri, 10 Jul 2026 | Oldboy & DJ Cosworth | DJ Cosworth, Oldboy (2), Oldboy (UK) |
 | Fri, 10 Jul 2026 | Emerge x London Philharmonic Orchestra |  |
 | Sat, 11 Jul 2026 | SOUTH with Luke Dean, George Smeddles, JWave + more | George Smeddles, Luke Dean_, TwoSlice |
 | Thu, 23 Jul 2026 | Nia Archives: Album Launch Show | Nia Archives |

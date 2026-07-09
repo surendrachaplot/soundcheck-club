@@ -1,8 +1,8 @@
 # Janis Zielinski
 
-Janis Zielinski is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
+Janis Zielinski is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
 
-Janis Zielinski is a techno and trance artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
+Janis Zielinski is a techno and trance artist tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Janis Zielinski is a techno and trance artist tracked on soundcheck, with 135 se
 | Sat, 18 Jul 2026 | Else | Berlin |
 | Fri, 31 Jul 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 1 Aug 2026 | Lofi | Amsterdam |
+| Sat, 15 Aug 2026 | Südbrücke | Cologne |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sun, 6 Sept 2026 | Boomerang Beach | The Hague |
 

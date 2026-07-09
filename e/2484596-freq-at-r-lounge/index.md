@@ -1,6 +1,6 @@
 # FREQ at R Lounge
 
-FREQ at R Lounge on Sun 19 Jul, Tokyo. 4 acts on the bill: KanaK, Lupion, Neutran and Ryunosuke Urabe. Techno. Preview the line-up and save it on soundcheck.
+FREQ at R Lounge on Sun 19 Jul, Tokyo. 5 acts on the bill: Holdyourcat, KanaK, Lupion and Neutran and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FREQ at R Lounge on Sun 19 Jul, Tokyo. 4 acts on the bill: KanaK, Lupion, Neutra
 
 ## Line-up
 
+- Holdyourcat
 - KanaK
 - Lupion
 - Neutran

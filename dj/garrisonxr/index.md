@@ -1,8 +1,8 @@
 # Garrison XR
 
-Garrison XR is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Spkrbox, Detroit on Thu, 9 Jul 2026.
+Garrison XR is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Spkrbox, Detroit on Thu, 9 Jul 2026.
 
-Garrison XR is a techno and electro artist based in United States of America, tracked on soundcheck, with 190 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Spkrbox, Detroit on Thu 9 Jul.
+Garrison XR is a techno and electro artist based in United States of America, tracked on soundcheck, with 191 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: Spkrbox, Detroit on Thu 9 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Garrison XR is a techno and electro artist based in United States of America, tr
 | Fri, 10 Jul 2026 | Lincoln Factory | Detroit |
 | Sat, 11 Jul 2026 | The Eagle of Detroit | Detroit |
 | Sat, 18 Jul 2026 | The Eagle of Detroit | Detroit |
+| Fri, 24 Jul 2026 | Northern Lights Lounge | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 

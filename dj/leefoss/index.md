@@ -1,8 +1,8 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 10 Jul 2026.
+Lee Foss is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 10 Jul 2026.
 
-Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 74 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: Ushuaïa Ibiza, Ibiza on Fri 10 Jul.
+Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: Ushuaïa Ibiza, Ibiza on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Lee Foss is a house and tech house artist based in United States of America, tra
 | Sat, 18 Jul 2026 | Castaways | Chicago |
 | Sat, 25 Jul 2026 | 99 Scott Ave | New York City |
 | Sat, 8 Aug 2026 | Bar Oriente | Mexico City |
+| Sun, 9 Aug 2026 | Cielo Farms Malibu | Los Angeles |
 
 ## Recently played
 

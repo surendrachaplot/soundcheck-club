@@ -1,6 +1,6 @@
-# Made to Move with Trax Unit and Queenie at General Lee's Cocktail House
+# Made to Move with Trax Unit and QUEENIE at General Lee's Cocktail House
 
-Made to Move with Trax Unit and Queenie at General Lee's Cocktail House on Thu 9 Jul, Losangeles. 4 acts on the bill: Akumen, QUEENIE (US), Trax Unit and agraybé. Techno and House. Preview the line-up and save it on soundcheck.
+Made to Move with Trax Unit and QUEENIE at General Lee's Cocktail House on Thu 9 Jul, Losangeles. 4 acts on the bill: Akumen, QUEENIE (US), Trax Unit and agraybé. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

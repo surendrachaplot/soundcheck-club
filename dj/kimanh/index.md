@@ -1,8 +1,8 @@
 # Kim Anh
 
-Kim Anh is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Rawhide, New York City on Sat, 11 Jul 2026.
+Kim Anh is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Rawhide, New York City on Sat, 11 Jul 2026.
 
-Kim Anh is a house and disco artist based in United States of America, tracked on soundcheck, with 111 sets logged across Barcelona, Berlin, Detroit and Losangeles and 6 more. Often billed alongside Eli Escobar, The Carry Nation and Michael Magnan. Next up: Club Rawhide, Newyorkcity on Sat 11 Jul.
+Kim Anh is a house and disco artist based in United States of America, tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, Detroit and Losangeles and 6 more. Often billed alongside Eli Escobar, The Carry Nation and Michael Magnan. Next up: Club Rawhide, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kim Anh is a house and disco artist based in United States of America, tracked o
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Club Rawhide | New York City |
 | Fri, 17 Jul 2026 | Dead Letter No. 9 | New York City |
+| Sat, 1 Aug 2026 | BASEMENT | New York City |
 | Sun, 16 Aug 2026 | Signal | New York City |
 
 ## Recently played

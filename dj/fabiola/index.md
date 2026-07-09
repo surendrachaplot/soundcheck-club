@@ -1,13 +1,14 @@
 # Fabiola
 
-Fabiola is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jolene Downtown Miami, Miami on Thu, 16 Jul 2026.
+Fabiola is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mansions, New York City on Thu, 9 Jul 2026.
 
-Fabiola is a techno and acid artist tracked on soundcheck, with 63 sets logged across Berlin, Buenosaires, Chicago and Detroit and 4 more. Often billed alongside Alexx in Chainss, Carozilla and Tammy Lakkis. Next up: Jolene Downtown Miami, Miami on Thu 16 Jul.
+Fabiola is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin, Buenosaires, Chicago and Detroit and 4 more. Often billed alongside Alexx in Chainss, Carozilla and Tammy Lakkis. Next up: Mansions, Newyorkcity on Thu 9 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 9 Jul 2026 | Mansions | New York City |
 | Thu, 16 Jul 2026 | Jolene Downtown Miami | Miami |
 | Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 

@@ -1,8 +1,8 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cavo Paradiso, Mykonos on Thu, 9 Jul 2026.
+Shimza is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cavo Paradiso, Mykonos on Thu, 9 Jul 2026.
 
-Shimza is an afro house and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Cavo Paradiso, Mykonos on Thu 9 Jul.
+Shimza is an afro house and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Cavo Paradiso, Mykonos on Thu 9 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Shimza is an afro house and house artist tracked on soundcheck, with 140 sets lo
 | Fri, 7 Aug 2026 | Vajdahunyad Castle | Budapest |
 | Mon, 10 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 26 Aug 2026 | Chinois Ibiza | Ibiza |
+| Wed, 2 Sept 2026 | Jevremovac Botanical Garden | Belgrade |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played

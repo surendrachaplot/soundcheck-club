@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 25 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Refracta & Pals" on Thu, 9 Jul 2026.
+Sneaky Pete's is a music venue in Edinburgh with 26 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Refracta & Pals" on Thu, 9 Jul 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 25 upcoming nights, with line-ups including Alexis Taylor, ANNX, Auramatic and billybawbags and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 26 upcoming nights, with line-ups including Alexis Taylor, ANNX, Auramatic and billybawbags and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

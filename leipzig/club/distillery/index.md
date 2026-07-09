@@ -16,7 +16,7 @@ Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights,
 | Sat, 25 Jul 2026 | CLUB GRDN  | Medha, Rosa Red, Sevensol, Shuray & Walle, Stomp, Submod, Thomas Stieler, V:SONNTAG |
 | Fri, 31 Jul 2026 | Paam Soundsystem X komma6 Takeover |  |
 | Sat, 1 Aug 2026 | OUT OF OFFICE: VACANZA X Timstagram | Timstagram, brvder jakob |
-| Sat, 8 Aug 2026 | FEED THE RAVER: Sachsentrance | DJ Zugzwang, Goldie Palm, Jacky Ickx, MRGNSTRN, The Jakob Sister, clju_2k, itsadisasta, lena xx |
+| Sat, 8 Aug 2026 | FEED THE RAVER: Sachsentrance | DJ Zugzwang, Dilivius Lenni, Goldie Palm, Jacky Ickx, MRGNSTRN, The Jakob Sister, clju_2k, itsadisasta, lena xx |
 | Sat, 15 Aug 2026 | KEIN GRUND ZUR VERNUNFT: IT'S ALL ABOUT HOUSE X Bephål | Bephål, Cleo SNK, Die Ruhe, Filburt, Greata, Mystigrix, NICI PALM, Napoleon Dynamite, Ostbam |
 
 ## Address

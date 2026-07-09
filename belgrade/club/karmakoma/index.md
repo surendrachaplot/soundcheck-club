@@ -1,8 +1,8 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "object blue" on Fri, 10 Jul 2026.
+Karmakoma is a music venue in Belgrade with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "object blue" on Fri, 10 Jul 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 9 upcoming nights, with line-ups including ACOR, Aneri, Connor Wall and Dakman and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming nights, with line-ups including ACOR, Aneri, Ciel and Connor Wall and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 9 upcoming nights, 
 | Sat, 25 Jul 2026 | Drugstore Garden with Connor Wall | Connor Wall |
 | Sat, 1 Aug 2026 | Hard Techno 'Pure Madness' | ACOR |
 | Thu, 3 Sept 2026 | Nadja (CA) — Drone Doom Legends in Belgrade |  |
+| Fri, 11 Sept 2026 | Apgrade Weekend September 2026 | Ciel, Feloneezy, Gerd Janson, Johana, Lipelis, Nikola Vemic, Objekt, Olgica |
 | Sat, 26 Sept 2026 | СОЮЗ (SOYUZ) IN BELGRADE |  |
 
 ## Address

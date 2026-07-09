@@ -1,6 +1,6 @@
 # CHARgD at Basing House
 
-CHARgD at Basing House on Fri 10 Jul, London. 3 acts on the bill: Holly Rouge, Lee De Rosa and REBRANDED. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+CHARgD at Basing House on Fri 10 Jul, London. 3 acts on the bill: Holly Rouge, Lee De Rosa and rebrånded. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ CHARgD at Basing House on Fri 10 Jul, London. 3 acts on the bill: Holly Rouge, L
 
 - Holly Rouge
 - Lee De Rosa
-- REBRANDED
+- rebrånded
 
 *Source: [soundcheck](https://soundcheck.club/e/2391170-chargd-at-basing-house/)*

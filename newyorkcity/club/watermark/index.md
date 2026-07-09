@@ -1,8 +1,8 @@
 # Watermark
 
-Watermark is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bachata v Merengue v Reggaeton Night Beach Party" on Fri, 10 Jul 2026.
+Watermark is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bachata v Merengue v Reggaeton Night Beach Party" on Fri, 10 Jul 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nigh
 | Sat, 18 Jul 2026 | Una Noche in Medellin Colombian Independence Beach |  |
 | Sun, 19 Jul 2026 | San Antonios Colombian Independence Festival Beach NYC |  |
 | Sun, 19 Jul 2026 | Ritmos Colombian Independence Festival Beach Open-Air NYC |  |
+| Sat, 25 Jul 2026 | Reggaeton Disco - Perreo Parrty Beach Pier 15 |  |
 | Sun, 2 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
-| Sun, 16 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
 
 ## Address
 

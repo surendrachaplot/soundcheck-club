@@ -1,8 +1,8 @@
 # Bora Uzer
 
-Bora Uzer is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Fri, 14 Aug 2026.
+Bora Uzer is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Fri, 14 Aug 2026.
 
-Bora Uzer is a house and electronica artist tracked on soundcheck, with 110 sets logged across Austin, Bali, Barcelona and Buenosaires and 16 more. Often billed alongside Valentin Huedo, Julia Sandstorm and Kiddy Smile. Next up: Cova Santa, Ibiza on Fri 14 Aug.
+Bora Uzer is a house and electronica artist tracked on soundcheck, with 111 sets logged across Austin, Bali, Barcelona and Buenosaires and 16 more. Often billed alongside Valentin Huedo, Julia Sandstorm and Kiddy Smile. Next up: Cova Santa, Ibiza on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bora Uzer is a house and electronica artist tracked on soundcheck, with 110 sets
 | Fri, 14 Aug 2026 | Cova Santa | Ibiza |
 | Fri, 21 Aug 2026 | Cova Santa | Ibiza |
 | Sat, 29 Aug 2026 | [UNVRS] | Ibiza |
+| Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Sat, 19 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | Cova Santa | Ibiza |
 

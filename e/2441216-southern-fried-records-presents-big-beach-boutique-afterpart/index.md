@@ -1,6 +1,6 @@
 # Southern Fried Records presents: Big Beach Boutique Afterparty at Patterns
 
-Southern Fried Records presents: Big Beach Boutique Afterparty at Patterns on Fri 17 Jul, Brighton. 2 acts on the bill: Luca Lozano and Mr. Ho. House. Preview the line-up and save it on soundcheck.
+Southern Fried Records presents: Big Beach Boutique Afterparty at Patterns on Fri 17 Jul, Brighton. 3 acts on the bill: Dufraine, Luca Lozano and Mr. Ho. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Southern Fried Records presents: Big Beach Boutique Afterparty at Patterns on Fr
 
 ## Line-up
 
+- Dufraine
 - Luca Lozano
 - Mr. Ho
 

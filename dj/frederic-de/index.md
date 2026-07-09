@@ -1,8 +1,8 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 11 Jul 2026.
+Frederic. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 11 Jul 2026.
 
-Frederic. is a techno and trance artist tracked on soundcheck, with 167 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 28 more. Often billed alongside CAIVA, Part Time Killer and Chlär. Next up: Club Phoenix - Gianpula Village, Malta on Sat 11 Jul.
+Frederic. is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 28 more. Often billed alongside CAIVA, Part Time Killer and Chlär. Next up: Club Phoenix - Gianpula Village, Malta on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Frederic. is a techno and trance artist tracked on soundcheck, with 167 sets log
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Sept 2026 | Wigwam | Dublin |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
+| Sat, 19 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played
 

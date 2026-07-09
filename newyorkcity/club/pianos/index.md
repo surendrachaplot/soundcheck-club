@@ -10,8 +10,8 @@ Pianos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, 
 | --- | --- | --- |
 | Thu, 9 Jul 2026 | Rave Renaissance: ELECTROFUNK | Lana Vese, SLUTZ, Sophia Riv |
 | Thu, 16 Jul 2026 | NIGHT SHIFT: AJACENT / HARMONICA / NARI / KAYSHIMMY | AJACENT |
-| Sun, 19 Jul 2026 | Chicago 2 New York - 160 Label Link-Up | Cal.x, Devin Hudson, Pètal, Twaankalu |
-| Sun, 19 Jul 2026 | Auda Records presents: Chicago 2 New York | Devin Hudson, Pètal, Twaankalu |
+| Sun, 19 Jul 2026 | Chicago 2 New York - 160 Label Link-Up | Cal.x, Devin Hudson, Petal, Twaankalu |
+| Sun, 19 Jul 2026 | Auda Records presents: Chicago 2 New York | Devin Hudson, Petal, Twaankalu |
 
 ## Address
 

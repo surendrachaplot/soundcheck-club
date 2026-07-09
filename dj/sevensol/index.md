@@ -1,14 +1,15 @@
 # Sevensol
 
-Sevensol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Renate, Berlin on Sat, 11 Jul 2026.
+Sevensol is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Renate, Berlin on Sat, 11 Jul 2026.
 
-Sevensol is a house and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Ori Raz, Map.ache and DJ Balduin. Next up: Renate, Berlin on Sat 11 Jul.
+Sevensol is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Ori Raz, Map.ache and DJ Balduin. Next up: Renate, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Renate | Berlin |
+| Fri, 17 Jul 2026 | TBA - Private Location | Berlin |
 | Sat, 25 Jul 2026 | Distillery | Leipzig |
 
 ## Recently played

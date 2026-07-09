@@ -1,8 +1,8 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
+Jeremy Sylvester is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
 
-Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside DJ Perception, Lady Passion and Sy Sez. Next up: Document, Bristol on Sat 11 Jul.
+Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: Document, Bristol on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 105 se
 | Sat, 11 Jul 2026 | Document | Bristol |
 | Sat, 18 Jul 2026 | Gaffe | London |
 | Sat, 22 Aug 2026 | Basing House | London |
+| Sat, 29 Aug 2026 | The Drop inn | Birmingham |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 105 se
 
 ## Shares bills with
 
-DJ Perception, Lady Passion, Sy Sez
+DJ Perception, Lady Passion, Mikey DJ
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

@@ -1,8 +1,8 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "PORTAL // Shaun Reeves + Dan Bain" on Fri, 10 Jul 2026.
+Marble Bar is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "PORTAL // Shaun Reeves + Dan Bain" on Fri, 10 Jul 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including AK (US), BMG, Creams and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including AK (US), BMG, Creams and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 5 upcoming nights, 
 | Sat, 11 Jul 2026 | CURIOUSER & CURIOUSER… | Duck Trash, Gabi, Mac Diesel, Medha Achar |
 | Fri, 17 Jul 2026 | GHETTOTECHTOPIA | AK (US), DJ THADZ, Disc Jockey George, Sheefy McFly |
 | Sat, 18 Jul 2026 | thrg x Auntie. present Plush Managements Inc. (D. Tiffany + Regularfantasy), Creams | Creams, D. Tiffany, Ladylike, Plush Managements Inc., Regularfantasy, mirepoix |
+| Sat, 25 Jul 2026 | 12 Hour Ensemble Party | Jon Dixon, Jorissen, Kate Simko, Lee Curtiss, Room 131, m.O.N.R.O.E. |
 | Sat, 1 Aug 2026 | Alternative School presents: COMPUTER LAB | BMG, Detroit In Effect, Ectomorph, Erika, JMT (2), Keith Tucker, Shawescape Renegade |
 
 ## Address

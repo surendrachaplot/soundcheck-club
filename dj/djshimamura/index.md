@@ -1,8 +1,8 @@
 # DJ Shimamura
 
-DJ Shimamura is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bar Fader, Osaka on Sat, 1 Aug 2026.
+DJ Shimamura is a Hardcore and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bar Fader, Osaka on Sat, 1 Aug 2026.
 
-DJ Shimamura is a hardcore and club artist tracked on soundcheck, with 46 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside M-Project, MIDI War and NATSUMI. Next up: Bar Fader, Osaka on Sat 1 Aug.
+DJ Shimamura is a hardcore and club artist tracked on soundcheck, with 47 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside M-Project, MIDI War and NATSUMI. Next up: Bar Fader, Osaka on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Shimamura is a hardcore and club artist tracked on soundcheck, with 46 sets l
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Bar Fader | Osaka |
 | Sat, 8 Aug 2026 | Circus Tokyo | Tokyo |
+| Sat, 22 Aug 2026 | R Lounge | Tokyo |
 
 ## Recently played
 

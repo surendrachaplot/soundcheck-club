@@ -1,8 +1,8 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 9 Bob Note, New York City on Fri, 10 Jul 2026.
+Andi is a EBM and Italo Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 9 Bob Note, New York City on Fri, 10 Jul 2026.
 
-Andi is an ebm and italo disco artist tracked on soundcheck, with 206 sets logged across Austin, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: 9 Bob Note, Newyorkcity on Fri 10 Jul.
+Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logged across Austin, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: 9 Bob Note, Newyorkcity on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Andi is an ebm and italo disco artist tracked on soundcheck, with 206 sets logge
 | Sat, 11 Jul 2026 | Good Room | New York City |
 | Thu, 30 Jul 2026 | Gabriela | New York City |
 | Thu, 6 Aug 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 8 Aug 2026 | TBA - Brooklyn | New York City |
 
 ## Recently played
 

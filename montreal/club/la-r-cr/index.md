@@ -9,7 +9,7 @@ La Récré is a music venue in Montreal listed on soundcheck. 3 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 9 Jul 2026 | Live Techno - La Récré | 8h sleep, Bennie Rosas, dr0id |
-| Sat, 25 Jul 2026 | Eklek Sound • 2 Years Anniversary | DEEPY, Miette, Orion, Shango, Sloppy, Urubu (1), Yunam |
+| Sat, 25 Jul 2026 | Eklek Sound • 2 Years Anniversary | DEEPY, Headroom (2), Miette, Orion, Shango, Sloppy, Urubu (1), Yunam |
 | Fri, 7 Aug 2026 | Montreal UK Garage Takeover | IIITHRIII |
 
 ## Address

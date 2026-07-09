@@ -1,13 +1,14 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
+RSquared is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
 
-RSquared is a tech house and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: fabric, London on Sat 18 Jul.
+RSquared is a tech house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: Pacha New York, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Pacha New York | New York City |
 | Sat, 18 Jul 2026 | fabric | London |
 | Tue, 25 Aug 2026 | Hï Ibiza | Ibiza |
 

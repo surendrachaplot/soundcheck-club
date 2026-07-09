@@ -1,14 +1,15 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fuse, Brussels on Sat, 1 Aug 2026.
+Henning Baer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fuse, Brussels on Sat, 1 Aug 2026.
 
-Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: Fuse, Brussels on Sat 1 Aug.
+Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: Fuse, Brussels on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Fuse | Brussels |
+| Sat, 8 Aug 2026 | Pisco Bar | Kuala Lumpur |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 
 ## Recently played

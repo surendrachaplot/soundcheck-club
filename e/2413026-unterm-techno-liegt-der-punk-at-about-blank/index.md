@@ -1,6 +1,6 @@
 # Unterm Techno liegt der Punk at ://about blank
 
-Unterm Techno liegt der Punk at ://about blank on Fri 31 Jul, Berlin. 7 acts on the bill: Domovnika, FERRØMANCY, Hypermobil and Kwaint and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Unterm Techno liegt der Punk at ://about blank on Fri 31 Jul, Berlin. 8 acts on the bill: Domovnika, FERRØMANCY, Hypermobil and Karina Qanir and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Unterm Techno liegt der Punk at ://about blank on Fri 31 Jul, Berlin. 7 acts on 
 - Domovnika
 - FERRØMANCY
 - Hypermobil
+- Karina Qanir
 - Kwaint
 - Trancy Chatman
 - alemiko

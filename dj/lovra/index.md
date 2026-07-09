@@ -1,8 +1,8 @@
 # LOVRA
 
-LOVRA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KitKatClub, Berlin on Wed, 22 Jul 2026.
+LOVRA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KitKatClub, Berlin on Wed, 22 Jul 2026.
 
-LOVRA is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Berlin and Chicago and 15 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: KitKatClub, Berlin on Wed 22 Jul.
+LOVRA is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Berlin and Chicago and 15 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: KitKatClub, Berlin on Wed 22 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LOVRA is a house and techno artist tracked on soundcheck, with 95 sets logged ac
 | Wed, 22 Jul 2026 | KitKatClub | Berlin |
 | Sat, 25 Jul 2026 | Ritter Butzke | Berlin |
 | Sun, 16 Aug 2026 | Kiesgrube | Düsseldorf |
+| Fri, 25 Sept 2026 | Pacha New York | New York City |
 | Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
+PRADA2000 is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
 
-PRADA2000 is a techno and trance artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Adrian Mills, Cleopard2000 and Mika Heggemann. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
+PRADA2000 is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Adrian Mills, Cleopard2000 and Mika Heggemann. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ PRADA2000 is a techno and trance artist tracked on soundcheck, with 153 sets log
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Sat, 5 Sept 2026 | Spook Club | Valencia |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |

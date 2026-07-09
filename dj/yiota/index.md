@@ -2,7 +2,7 @@
 
 Yiota is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Dutch Master, London on Sat, 1 Aug 2026.
 
-Yiota is a techno and trance artist tracked on soundcheck, with 40 sets logged across Athens, Birmingham, Brighton and Edinburgh and 2 more. Often billed alongside ona:v, Labåzuy and Spinks. Next up: The Dutch Master, London on Sat 1 Aug.
+Yiota is a techno and trance artist tracked on soundcheck, with 40 sets logged across Athens, Birmingham, Brighton and Edinburgh and 2 more. Often billed alongside Spinks, ona:v and Atoxyl. Next up: The Dutch Master, London on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Yiota is a techno and trance artist tracked on soundcheck, with 40 sets logged a
 
 ## Shares bills with
 
-ona:v, Labåzuy, Spinks
+Spinks, ona:v, Atoxyl
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*

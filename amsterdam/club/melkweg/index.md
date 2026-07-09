@@ -12,7 +12,7 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, 
 | Sat, 11 Jul 2026 | RAVING CHARLIE: Hard Techno / Rave | DJ Crystal Bitch |
 | Mon, 13 Jul 2026 | Cheeky Monday: Bladerunner | Bladerunner |
 | Tue, 14 Jul 2026 | Techno Tuesday Amsterdam, Lukr Range, Dexon, A.R.T | A.R.T., Dexon, Lukr Range |
-| Fri, 17 Jul 2026 | EAST Techno Collective | Bob Semp, Jayzo, REBRANDED, Soothsayer |
+| Fri, 17 Jul 2026 | EAST Techno Collective | Bob Semp, Jayzo, Soothsayer, rebrånded |
 | Mon, 20 Jul 2026 | Cheeky Monday: Jade Venom (15 Years of Eatbrain) |  |
 | Tue, 21 Jul 2026 | Techno Tuesday Amsterdam, Dexon, Sophie Bruin, L.I.K | Dexon |
 | Mon, 27 Jul 2026 | Cheeky Monday: Millz | Millz |

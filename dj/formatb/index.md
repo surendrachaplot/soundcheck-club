@@ -1,8 +1,8 @@
 # Format B
 
-Format B is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ritter Butzke, Berlin on Sat, 18 Jul 2026.
+Format B is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ritter Butzke, Berlin on Sat, 18 Jul 2026.
 
-Format B is a techno and tech house artist tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 7 more. Often billed alongside Prismode, Solvane and Moonbootica. Next up: Ritter Butzke, Berlin on Sat 18 Jul.
+Format B is a techno and tech house artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 7 more. Often billed alongside Moonbootica, Prismode and Solvane. Next up: Ritter Butzke, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Format B is a techno and tech house artist tracked on soundcheck, with 46 sets l
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Ritter Butzke | Berlin |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
+| Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Sat, 26 Sept 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ Format B is a techno and tech house artist tracked on soundcheck, with 46 sets l
 
 ## Shares bills with
 
-Prismode, Solvane, Moonbootica
+Moonbootica, Prismode, Solvane
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/formatb/)*

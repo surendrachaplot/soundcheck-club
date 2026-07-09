@@ -1,13 +1,14 @@
 # NoahG
 
-NoahG is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Podlasie Club, Chicago on Sat, 25 Jul 2026.
+NoahG is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 18 Jul 2026.
 
-NoahG is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 41 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside JuanDeOne, Bodegaparty and jo_sway. Next up: Podlasie Club, Chicago on Sat 25 Jul.
+NoahG is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside JuanDeOne, Bodegaparty and Grabba Ranks. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 25 Jul 2026 | Podlasie Club | Chicago |
 | Sat, 22 Aug 2026 | Paragon | New York City |
 
@@ -24,6 +25,6 @@ NoahG is a club and ghetto tech artist based in United States of America, tracke
 
 ## Shares bills with
 
-JuanDeOne, Bodegaparty, jo_sway
+JuanDeOne, Bodegaparty, Grabba Ranks
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noahg/)*

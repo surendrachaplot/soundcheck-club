@@ -9,7 +9,7 @@ Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 3 upcomi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Silicone Soul & Voltmar | Silicone Soul, Voltmar |
-| Thu, 23 Jul 2026 | SmokeyMcPott's Pot Show / Hosted by @theBasedCorps & Curated by @Stashly.online |  |
+| Thu, 23 Jul 2026 | [CANCELLED] SmokeyMcPott's Pot Show / Hosted by @theBasedCorps & Curated by @Stashly.online |  |
 | Fri, 25 Sept 2026 | Lars Eidinger & Voltmar | Lars Eidinger, Voltmar |
 
 ## Address

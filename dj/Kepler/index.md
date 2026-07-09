@@ -1,8 +1,8 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Kepler is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Kepler is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Kepler is a house and tech house artist tracked on soundcheck, with 144 sets log
 | Fri, 21 Aug 2026 | Boomerang Beach | The Hague |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sun, 30 Aug 2026 | The Swan | Nottingham |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

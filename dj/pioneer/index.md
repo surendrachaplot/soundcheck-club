@@ -1,8 +1,8 @@
 # Pioneer
 
-Pioneer is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
+Pioneer is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Steel Yard, London on Sat, 8 Aug 2026.
 
-Pioneer is a tech house and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Bristol and London. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: The Steel Yard, London on Sat 8 Aug.
+Pioneer is a tech house and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Birmingham, Bristol and London. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: The Steel Yard, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pioneer is a tech house and house artist tracked on soundcheck, with 101 sets lo
 | Sat, 8 Aug 2026 | The Steel Yard | London |
 | Sat, 15 Aug 2026 | Ministry Of Sound | London |
 | Fri, 28 Aug 2026 | Ministry Of Sound | London |
+| Sat, 29 Aug 2026 | Sector 57 | Birmingham |
 
 ## Recently played
 

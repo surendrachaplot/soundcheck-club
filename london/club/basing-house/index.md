@@ -8,7 +8,7 @@ Basing House is a music venue in London listed on soundcheck. 22 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | CHARgD | Holly Rouge, Lee De Rosa, REBRANDED |
+| Fri, 10 Jul 2026 | CHARgD | Holly Rouge, Lee De Rosa, rebrånded |
 | Sat, 11 Jul 2026 | Los De Casa | KEMADA |
 | Sat, 11 Jul 2026 | ITS A WhiteBoyCarl PARTY |  |
 | Fri, 17 Jul 2026 | Paradise Rhythm Comes To London |  |

@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Fri, 10 Jul 2026.
+davyboi is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Fri, 10 Jul 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Else, Berlin on Fri 10 Jul.
+davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Else, Berlin on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ davyboi is a techno and trance artist tracked on soundcheck, with 153 sets logge
 | Sat, 22 Aug 2026 | Toffler | Rotterdam |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
-| Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 

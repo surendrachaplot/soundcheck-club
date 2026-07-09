@@ -1,6 +1,6 @@
 # MERCURY IN REGGAETON at The Chocolate Factory
 
-MERCURY IN REGGAETON at The Chocolate Factory on Sat 11 Jul, Newyorkcity. 4 acts on the bill: Coyado, Dos Flakos, Josh Steers and Tube (2). Club and Reggaeton. Preview the line-up and save it on soundcheck.
+MERCURY IN REGGAETON at The Chocolate Factory on Sat 11 Jul, Newyorkcity. 5 acts on the bill: Coyado, DADA COZMIC, Dos Flakos and Josh Steers and 1 more. Club and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MERCURY IN REGGAETON at The Chocolate Factory on Sat 11 Jul, Newyorkcity. 4 acts
 ## Line-up
 
 - Coyado
+- DADA COZMIC
 - Dos Flakos
 - Josh Steers
 - Tube (2)

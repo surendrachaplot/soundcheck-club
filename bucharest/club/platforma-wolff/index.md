@@ -1,8 +1,8 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "PW x Mudee TV • Superuser, Luca, Georj" on Thu, 9 Jul 2026.
+Platforma Wolff is a music venue in Bucharest with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "PW x Mudee TV • Superuser, Luca, Georj" on Thu, 9 Jul 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 10 upcoming nights, with line-ups including Ancut, ASIA (DE), BILA and Cap and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 11 upcoming nights, with line-ups including Ancut, ASIA (DE), BILA and Cap and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 

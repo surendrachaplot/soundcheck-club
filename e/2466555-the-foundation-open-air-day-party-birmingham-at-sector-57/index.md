@@ -1,6 +1,6 @@
 # The Foundation - Open Air Day Party - Birmingham at Sector 57
 
-The Foundation - Open Air Day Party - Birmingham at Sector 57 on Sat 29 Aug, Birmingham. 3 acts on the bill: B3, Lance Morgan and Mark Radford. Deep House. Preview the line-up and save it on soundcheck.
+The Foundation - Open Air Day Party - Birmingham at Sector 57 on Sat 29 Aug, Birmingham. 5 acts on the bill: B3, Dominique Danielle, Lance Morgan and Mark Radford and 1 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ The Foundation - Open Air Day Party - Birmingham at Sector 57 on Sat 29 Aug, Bir
 ## Line-up
 
 - B3
+- Dominique Danielle
 - Lance Morgan
 - Mark Radford
+- Pioneer
 
 *Source: [soundcheck](https://soundcheck.club/e/2466555-the-foundation-open-air-day-party-birmingham-at-sector-57/)*

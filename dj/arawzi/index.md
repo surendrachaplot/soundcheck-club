@@ -2,7 +2,7 @@
 
 arawzi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Volks, Brighton on Sun, 2 Aug 2026.
 
-arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged across Brighton and London. Often billed alongside O.KAYE, Yiota and Amor Ante. Next up: Volks, Brighton on Sun 2 Aug.
+arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged across Brighton and London. Often billed alongside Atoxyl, O.KAYE and Yiota. Next up: Volks, Brighton on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ arawzi is a techno and house artist tracked on soundcheck, with 23 sets logged a
 
 ## Shares bills with
 
-O.KAYE, Yiota, Amor Ante
+Atoxyl, O.KAYE, Yiota
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arawzi/)*

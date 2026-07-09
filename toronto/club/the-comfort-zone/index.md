@@ -9,7 +9,7 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 3 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | 404: ANSBRO | KILL 9 1, mikeyraps |
-| Fri, 31 Jul 2026 | 404: SHOGUN | KAYN, KILL 9 1, Marzi (2), Maul (2), R4TS |
+| Fri, 31 Jul 2026 | 404: SHOGUN | KAYN, KILL 9 1, Marzi (2), Maul (2), R4TS, SHEA (2) |
 | Fri, 28 Aug 2026 | 404: BET ON system | KILL 9 1 |
 
 ## Address

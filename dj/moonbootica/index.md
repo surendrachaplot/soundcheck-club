@@ -1,8 +1,8 @@
 # Moonbootica
 
-Moonbootica is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
+Moonbootica is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
 
-Moonbootica is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Treptower Park, Berlin on Sat 11 Jul.
+Moonbootica is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Treptower Park, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Moonbootica is a techno and house artist tracked on soundcheck, with 34 sets log
 | Sat, 1 Aug 2026 | TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg | Hamburg |
 | Sat, 15 Aug 2026 | TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf | Düsseldorf |
 | Fri, 28 Aug 2026 | Odonien | Cologne |
+| Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Sat, 26 Sept 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

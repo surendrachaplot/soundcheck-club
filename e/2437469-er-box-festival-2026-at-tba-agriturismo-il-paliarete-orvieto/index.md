@@ -23,8 +23,8 @@ Er BOX Festival 2026 at TBA - Agriturismo Il Paliarete, Orvieto  on Fri 10 Jul, 
 - LPLPLP
 - Martek
 - Massone
-- Numero 6
 - Orli
+- Soju Gang
 - Sunday Bath
 - Tafanish
 - pido

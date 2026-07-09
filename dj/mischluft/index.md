@@ -1,8 +1,8 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
+Mischluft is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
 
-Mischluft is a techno and trance artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
+Mischluft is a techno and trance artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 181 sets log
 | Sun, 12 Jul 2026 | MS RheinMagie | Cologne |
 | Sat, 18 Jul 2026 | MS Artville | Hamburg |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
+| Sat, 25 Jul 2026 | Westhafen | Leipzig |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Fri, 31 Jul 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 1 Aug 2026 | Lofi | Amsterdam |
@@ -19,7 +20,6 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 181 sets log
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sun, 30 Aug 2026 | Else | Berlin |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 
 ## Recently played
 

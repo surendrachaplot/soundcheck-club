@@ -1,8 +1,8 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lab11, Birmingham on Fri, 10 Jul 2026.
+Robbie Doherty is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lab11, Birmingham on Fri, 10 Jul 2026.
 
-Robbie Doherty is a house and tech house artist tracked on soundcheck, with 149 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Lab11, Birmingham on Fri 10 Jul.
+Robbie Doherty is a house and tech house artist tracked on soundcheck, with 151 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 34 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Lab11, Birmingham on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 149 
 | Mon, 13 Jul 2026 | Cova Santa | Ibiza |
 | Tue, 21 Jul 2026 | Cova Santa | Ibiza |
 | Sun, 26 Jul 2026 | Bronze Beach | Amsterdam |
+| Sat, 1 Aug 2026 | Binks Yard | Nottingham |
+| Sat, 1 Aug 2026 | The Nest | Nottingham |
 | Sun, 9 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Fri, 28 Aug 2026 | Colorado Charlie | The Hague |
-| Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 

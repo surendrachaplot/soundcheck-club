@@ -1,13 +1,14 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 11 Jul 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 10 Jul 2026.
 
-Klaudia Gawlas is a techno and tech house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside Spartaque, Joyhauser and Mark Reeve. Next up: TBA - Los Angeles (Warehouse), Losangeles on Sat 11 Jul.
+Klaudia Gawlas is a techno and tech house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside Spartaque, Joyhauser and Mark Reeve. Next up: Halcyon, Sanfrancisco on Fri 10 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 10 Jul 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 11 Jul 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Sat, 19 Sept 2026 | TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf | Düsseldorf |
 

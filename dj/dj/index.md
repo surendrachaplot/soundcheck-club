@@ -1,8 +1,8 @@
-# Numero 6
+# Soju Gang
 
-Numero 6 is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club der Visionaere, Berlin on Thu, 9 Jul 2026.
+Soju Gang is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club der Visionaere, Berlin on Thu, 9 Jul 2026.
 
-Numero 6 is a house and techno artist tracked on soundcheck, with 108 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Club der Visionaere, Berlin on Thu 9 Jul.
+Soju Gang is a house and techno artist tracked on soundcheck, with 108 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Club der Visionaere, Berlin on Thu 9 Jul.
 
 ## Upcoming shows
 

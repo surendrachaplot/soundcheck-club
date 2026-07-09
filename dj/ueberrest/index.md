@@ -1,8 +1,8 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
+Ueberrest is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
 
-Ueberrest is a techno and trance artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
+Ueberrest is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 81 sets logg
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 29 Aug 2026 | Maassilo | Rotterdam |
 | Sat, 5 Sept 2026 | Industry City | New York City |
-| Sat, 26 Sept 2026 | Südbrücke | Cologne |
+| Sat, 19 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played
 

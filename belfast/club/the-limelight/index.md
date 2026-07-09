@@ -9,7 +9,7 @@ The Limelight is a music venue in Belfast listed on soundcheck. 4 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | SHINE x PRTY - NEEK | Victor Krum |
-| Sat, 8 Aug 2026 | Lush! Classical Afterparty — Judge Jules | Judge Jules, Seb Fontaine |
+| Sat, 8 Aug 2026 | Lush! Classical Afterparty — Judge Jules & Seb Fontaine | Judge Jules, Seb Fontaine |
 | Sat, 12 Sept 2026 | SHINE -- Vendex | Vendex |
 | Sat, 3 Oct 2026 | SHINE -- Pegassi | CIAN__, Pegassi |
 

@@ -2,7 +2,7 @@
 
 Sector 57 is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Eargazmz Events" on Sun, 12 Jul 2026.
 
-Sector 57 is a music venue in Birmingham listed on soundcheck. 3 upcoming nights, with line-ups including B3, Lance Morgan and Mark Radford. Browse upcoming dates, start times and who's playing. 21 Milk St, Deritend, Birmingham B5 5TR.
+Sector 57 is a music venue in Birmingham listed on soundcheck. 3 upcoming nights, with line-ups including B3, Dominique Danielle, Lance Morgan and Mark Radford and 1 more. Browse upcoming dates, start times and who's playing. 21 Milk St, Deritend, Birmingham B5 5TR.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Sector 57 is a music venue in Birmingham listed on soundcheck. 3 upcoming nights
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Eargazmz Events |  |
 | Sat, 18 Jul 2026 | R.P.presents DJ GRIZ ONES BIRTHDAY |  |
-| Sat, 29 Aug 2026 | The Foundation - Open Air Day Party - Birmingham | B3, Lance Morgan, Mark Radford |
+| Sat, 29 Aug 2026 | The Foundation - Open Air Day Party - Birmingham | B3, Dominique Danielle, Lance Morgan, Mark Radford, Pioneer |
 
 ## Address
 

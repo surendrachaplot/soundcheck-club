@@ -1,8 +1,8 @@
 # KT
 
-KT is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 17 Jul 2026.
+KT is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Dream Bags Jaguar Shoes, London on Fri, 17 Jul 2026.
 
-KT is a house and techno artist tracked on soundcheck, with 121 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Dream Bags Jaguar Shoes, London on Fri 17 Jul.
+KT is a house and techno artist tracked on soundcheck, with 122 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Dream Bags Jaguar Shoes, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ KT is a house and techno artist tracked on soundcheck, with 121 sets logged acro
 | Sat, 25 Jul 2026 | Sophie Festival | Malaga |
 | Sat, 15 Aug 2026 | Night Tales | London |
 | Sun, 30 Aug 2026 | All My Friends | London |
+| Fri, 4 Sept 2026 | The Loft | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
 

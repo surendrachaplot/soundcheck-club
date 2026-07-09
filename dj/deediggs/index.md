@@ -1,8 +1,8 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Terrrazza, Barcelona on Fri, 10 Jul 2026.
+Dee Diggs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Terrrazza, Barcelona on Fri, 10 Jul 2026.
 
-Dee Diggs is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Suze Ijó. Next up: La Terrrazza, Barcelona on Fri 10 Jul.
+Dee Diggs is a house and techno artist tracked on soundcheck, with 206 sets logged across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Suze Ijó. Next up: La Terrrazza, Barcelona on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dee Diggs is a house and techno artist tracked on soundcheck, with 205 sets logg
 | Fri, 31 Jul 2026 | Radio Radio | Amsterdam |
 | Sat, 1 Aug 2026 | Trädgården | Stockholm |
 | Sat, 8 Aug 2026 | Else | Berlin |
+| Sat, 15 Aug 2026 | BASEMENT | New York City |
 | Fri, 28 Aug 2026 | Signal | New York City |
 
 ## Recently played

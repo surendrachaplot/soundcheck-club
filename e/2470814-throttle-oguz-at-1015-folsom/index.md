@@ -1,6 +1,6 @@
 # THROTTLE: OGUZ at 1015 Folsom
 
-THROTTLE: OGUZ at 1015 Folsom on Fri 21 Aug, Sanfrancisco. 4 acts on the bill: NEUX, OGUZ, softchaos and xtcemi. Techno. Preview the line-up and save it on soundcheck.
+THROTTLE: OGUZ at 1015 Folsom on Fri 21 Aug, Sanfrancisco. 9 acts on the bill: ELA MENTAL, JustJovani, NEUX and OGUZ and 5 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,13 @@ THROTTLE: OGUZ at 1015 Folsom on Fri 21 Aug, Sanfrancisco. 4 acts on the bill: N
 
 ## Line-up
 
+- ELA MENTAL
+- JustJovani
 - NEUX
 - OGUZ
+- RMNA
+- S.I.M
+- SNAQ
 - softchaos
 - xtcemi
 

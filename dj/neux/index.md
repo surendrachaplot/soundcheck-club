@@ -1,8 +1,8 @@
 # NEUX
 
-NEUX is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at SMUT Athens, Athens on Sat, 25 Jul 2026.
+NEUX is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at SMUT Athens, Athens on Sat, 25 Jul 2026.
 
-NEUX is a techno and ebm artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Ben Klock, Sevda and Frequency Shifter. Next up: SMUT Athens, Athens on Sat 25 Jul.
+NEUX is a techno and ebm artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Ben Klock, Sevda and Frequency Shifter. Next up: SMUT Athens, Athens on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NEUX is a techno and ebm artist tracked on soundcheck, with 68 sets logged acros
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | SMUT Athens | Athens |
 | Fri, 21 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
+| Sat, 22 Aug 2026 | BASEMENT | New York City |
 | Sat, 19 Sept 2026 | E1 | London |
 
 ## Recently played

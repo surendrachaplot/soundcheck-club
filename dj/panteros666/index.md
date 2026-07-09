@@ -1,8 +1,8 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Karmen Camina, Strasbourg on Fri, 10 Jul 2026.
+Panteros666 is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Karmen Camina, Strasbourg on Fri, 10 Jul 2026.
 
-Panteros666 is a trance and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: Karmen Camina, Strasbourg on Fri 10 Jul.
+Panteros666 is a trance and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: Karmen Camina, Strasbourg on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Panteros666 is a trance and techno artist tracked on soundcheck, with 87 sets lo
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Karmen Camina | Strasbourg |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
+| Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # [TRANCE EDIT] at Absturz
 
-[TRANCE EDIT] at Absturz on Fri 10 Jul, Leipzig. 4 acts on the bill: ALLES ATZIG, Mariposa, Richie Rollin and Scrappy Coco. Trance and Techno. Preview the line-up and save it on soundcheck.
+[TRANCE EDIT] at Absturz on Fri 10 Jul, Leipzig. 5 acts on the bill: ALLES ATZIG, Mariposa, Mariposa x Lyra and Richie Rollin and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - ALLES ATZIG
 - Mariposa
+- Mariposa x Lyra
 - Richie Rollin
 - Scrappy Coco
 

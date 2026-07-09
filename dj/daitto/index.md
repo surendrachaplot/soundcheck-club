@@ -1,8 +1,8 @@
 # Daitto
 
-Daitto is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Z Maruyama, Tokyo on Fri, 10 Jul 2026.
+Daitto is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Z Maruyama, Tokyo on Fri, 10 Jul 2026.
 
-Daitto is a tech house and house artist based in Japan, tracked on soundcheck, with 73 sets logged across Barcelona, Ibiza, Naples and Osaka and 2 more. Often billed alongside CLESENT, CARTOON and IRODORI. Next up: Z Maruyama, Tokyo on Fri 10 Jul.
+Daitto is a tech house and house artist based in Japan, tracked on soundcheck, with 74 sets logged across Barcelona, Ibiza, Naples and Osaka and 2 more. Often billed alongside CLESENT, Kengo Groove and CARTOON. Next up: Z Maruyama, Tokyo on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daitto is a tech house and house artist based in Japan, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Z Maruyama | Tokyo |
 | Sun, 19 Jul 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Sat, 25 Jul 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Daitto is a tech house and house artist based in Japan, tracked on soundcheck, w
 
 ## Shares bills with
 
-CLESENT, CARTOON, IRODORI
+CLESENT, Kengo Groove, CARTOON
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daitto/)*

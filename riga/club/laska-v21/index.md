@@ -10,7 +10,7 @@ Laska V21 is a music venue in Riga listed on soundcheck. 8 upcoming nights, with
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Vinyl Open Decks |  |
 | Sun, 19 Jul 2026 | Vinyl Open Decks |  |
-| Fri, 24 Jul 2026 | ALEX SAVAGE/Night Electronic @LaskaV21  | Alex Savage, Laiva Maikule, Manav/draugu |
+| Fri, 24 Jul 2026 | ALEX SAVAGE / Night Electronic @LaskaV21  | Alex Savage, Laiva Maikule, Manav/draugu |
 | Sun, 26 Jul 2026 | Vinyl Open Decks |  |
 | Fri, 14 Aug 2026 | klik klak SUMMER EDIT | Baba Sy, Opoku |
 | Sat, 15 Aug 2026 | Laska Live: Geordie Greep (UK) | Geordie |

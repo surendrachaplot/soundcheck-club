@@ -2,7 +2,7 @@
 
 BABEITSPURR is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mood Ring, New York City on Fri, 10 Jul 2026.
 
-BABEITSPURR is a club and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity. Often billed alongside BEYBLADE SHAWTY, Pètal and FLWRSHRK. Next up: Mood Ring, Newyorkcity on Fri 10 Jul.
+BABEITSPURR is a club and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity. Often billed alongside BEYBLADE SHAWTY, Petal and FLWRSHRK. Next up: Mood Ring, Newyorkcity on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ BABEITSPURR is a club and techno artist based in United States of America, track
 
 ## Shares bills with
 
-BEYBLADE SHAWTY, Pètal, FLWRSHRK
+BEYBLADE SHAWTY, Petal, FLWRSHRK
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*

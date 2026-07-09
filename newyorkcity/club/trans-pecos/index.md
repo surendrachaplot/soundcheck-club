@@ -10,7 +10,7 @@ Trans-Pecos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nig
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | XQT: chinapoet, .cutspace, Chloe Scarlett, egoseed, katmoji, ClayNation, ear training, wackoes | Chloe Scarlett |
 | Sat, 11 Jul 2026 | BOYCOTT ROOM RAVE | ARCHANGEL (US), DJ Haram, DJ Yerba Mate, Ella Hussle, Janus Rose, Simisola, Sister Zo, Solpara, Yaz Lancaster, beewack, bossy boots, sabrout |
-| Tue, 14 Jul 2026 | Techno Yoga | Sobolik, Yaya Flows |
+| Tue, 14 Jul 2026 | [POSTPONED] Techno Yoga | Sobolik, Yaya Flows |
 | Sat, 8 Aug 2026 | Skint: Anniversary | Babypufff, CalvoMusic, Craic Feen, Poisonfrog, SOBA, onlytom |
 
 ## Address

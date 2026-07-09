@@ -1,8 +1,8 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Environment 0g [ Zero-Gauge ], Osaka on Fri, 10 Jul 2026.
+Ario is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Environment 0g [ Zero-Gauge ], Osaka on Fri, 10 Jul 2026.
 
-Ario is a techno and ambient artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Environment 0g [ Zero-Gauge ], Osaka on Fri 10 Jul.
+Ario is a techno and ambient artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Environment 0g [ Zero-Gauge ], Osaka on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ario is a techno and ambient artist tracked on soundcheck, with 79 sets logged a
 | Fri, 10 Jul 2026 | Environment 0g [ Zero-Gauge ] | Osaka |
 | Sat, 11 Jul 2026 | Area_osaka | Osaka |
 | Mon, 13 Jul 2026 | rake?raka? | Osaka |
+| Sat, 25 Jul 2026 | Horn | Bangkok |
 | Fri, 31 Jul 2026 | Ministerium Club | Lisbon |
 
 ## Recently played

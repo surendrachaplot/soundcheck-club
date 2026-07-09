@@ -1,8 +1,8 @@
 # Koara
 
-Koara is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Liminal Space" on Fri, 10 Jul 2026.
+Koara is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Liminal Space" on Fri, 10 Jul 2026.
 
-Koara is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including CHEZ MOI, Issyo, Mikio Kaminakamura and Moodman and 2 more. Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
+Koara is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including CHEZ MOI, Ippei, Issyo and Mikio Kaminakamura and 2 more. Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
 ## What's on
 
@@ -11,7 +11,9 @@ Koara is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with li
 | Fri, 10 Jul 2026 | Liminal Space | Moodman, NullDaSensei, PECORINO D |
 | Sat, 11 Jul 2026 | PRIMARY | Issyo |
 | Sat, 18 Jul 2026 | DOUMEKI | CHEZ MOI, Peri (JP) |
+| Sat, 25 Jul 2026 | Deep House Party 'GASOLINE' vol.96 |  |
 | Thu, 30 Jul 2026 | STAMM | Mikio Kaminakamura |
+| Fri, 31 Jul 2026 | HOMEWORK | Ippei |
 
 ## Address
 

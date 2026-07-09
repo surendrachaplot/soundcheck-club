@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+MARRØN is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
-MARRØN is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Fabrik, Madrid on Sat 11 Jul.
+MARRØN is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Fabrik, Madrid on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ MARRØN is a techno and house artist tracked on soundcheck, with 246 sets logged
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 5 Sept 2026 | The Bassement | Madrid |
 | Fri, 11 Sept 2026 | TBA | Brussels |
-| Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 19 Sept 2026 | Flash | Washington DC |
 
 ## Recently played
 

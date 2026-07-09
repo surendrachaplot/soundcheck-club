@@ -8,6 +8,6 @@ TBA - Agriturismo Il Paliarete, Orvieto  is a music venue in Rome listed on soun
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Er BOX Festival 2026 | AMANDA LEAN, Ancut, BabyBass, Bonza, Brasi, Cabanne, Claudio Fabrianesi, Dalga, FRANKIEE, Gattonero, LPLPLP, Martek, Massone, Numero 6, Orli, Sunday Bath, Tafanish, pido |
+| Fri, 10 Jul 2026 | Er BOX Festival 2026 | AMANDA LEAN, Ancut, BabyBass, Bonza, Brasi, Cabanne, Claudio Fabrianesi, Dalga, FRANKIEE, Gattonero, LPLPLP, Martek, Massone, Orli, Soju Gang, Sunday Bath, Tafanish, pido |
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-agriturismo-il-paliarete-orvieto/)*

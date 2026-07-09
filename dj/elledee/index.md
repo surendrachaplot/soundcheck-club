@@ -1,14 +1,15 @@
 # Elle Dee
 
-Elle Dee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Sat, 25 Jul 2026.
+Elle Dee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Sat, 25 Jul 2026.
 
-Elle Dee is a techno and house artist based in Brazil, tracked on soundcheck, with 67 sets logged across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Lauren Flax, Mike Servito and Juana. Next up: Nowadays, Newyorkcity on Sat 25 Jul.
+Elle Dee is a techno and house artist based in Brazil, tracked on soundcheck, with 68 sets logged across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Lauren Flax, Mike Servito and Juana. Next up: Nowadays, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Nowadays | New York City |
+| Sat, 15 Aug 2026 | BASEMENT | New York City |
 | Fri, 21 Aug 2026 | public records | New York City |
 
 ## Recently played

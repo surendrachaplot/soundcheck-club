@@ -1,14 +1,15 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
+Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
 
-Sepp is a minimal and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nu Zau, Alci and Gescu. Next up: TBA, Amsterdam on Sat 18 Jul.
+Sepp is a minimal and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nu Zau, Alci and Gescu. Next up: TBA, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TBA | Amsterdam |
+| Sat, 25 Jul 2026 | Expirat Halele Carol | Bucharest |
 | Sat, 1 Aug 2026 | Europa Boat | Budapest |
 
 ## Recently played

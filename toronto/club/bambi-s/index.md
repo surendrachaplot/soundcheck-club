@@ -9,7 +9,7 @@ Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | HYMZ, Yao Yao, Prince Josh, Thanks for the Tears | HYMZ, Prince Josh, Thanks for the Tears, Yao Yao |
-| Sat, 11 Jul 2026 | Bubble Trouble | Sakiko Nagai |
+| Sat, 11 Jul 2026 | Bubble Trouble | Lily (JP), Sakiko Nagai |
 | Fri, 17 Jul 2026 | Disco Portal: PARADISO | Venus in Foil, maiiii |
 | Sat, 18 Jul 2026 | Hot Take (Chicago), Florasystem, & dj miss | Hot Take, dj miss, florasystem |
 | Fri, 24 Jul 2026 | Sem Forma presents: Scott Zacharias (Detroit) with Invisible City & Justin La Rose | Invisible City, Justin La Rose, Scott Zacharias |

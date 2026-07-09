@@ -1,8 +1,8 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Karmakoma, Belgrade on Fri, 17 Jul 2026.
+Tijana T is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Karmakoma, Belgrade on Fri, 17 Jul 2026.
 
-Tijana T is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 34 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: Karmakoma, Belgrade on Fri 17 Jul.
+Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 35 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: Karmakoma, Belgrade on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tijana T is a techno and house artist tracked on soundcheck, with 108 sets logge
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Karmakoma | Belgrade |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
+| Sun, 9 Aug 2026 | Macadam | Nantes |
 | Sat, 22 Aug 2026 | CLUB RAUM | Amsterdam |
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 12 Sept 2026 | fabric | London |

@@ -1,6 +1,6 @@
-# The Nursery: Diva Diva w/ Grace Sands, The Carry Nation, Saia & Sevyn Love at public records
+# The Nursery: Diva Diva w/ Grace Sands, The Carry Nation, Saia & Sevyn Love, Keith Lawrence at public records
 
-The Nursery: Diva Diva w/ Grace Sands, The Carry Nation, Saia & Sevyn Love at public records on Sun 9 Aug, Newyorkcity. 4 acts on the bill: Grace Sands, Saia, Sevyn Love and The Carry Nation. House. Preview the line-up and save it on soundcheck.
+The Nursery: Diva Diva w/ Grace Sands, The Carry Nation, Saia & Sevyn Love, Keith Lawrence at public records on Sun 9 Aug, Newyorkcity. 4 acts on the bill: Grace Sands, Saia, Sevyn Love and The Carry Nation. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

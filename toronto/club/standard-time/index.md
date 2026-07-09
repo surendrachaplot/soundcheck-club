@@ -11,7 +11,7 @@ Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming nigh
 | Fri, 10 Jul 2026 | Club XXX featuring Divina (Lou Celsius + Fate), Venus in Foil and City Dance Corporation | City Dance Corporation, Divina (CA), Fate (2), Lou Celsius, Venus in Foil |
 | Sat, 11 Jul 2026 | KiNK (live) and anise b2b noa | KiNK, anise, noa (6) |
 | Fri, 17 Jul 2026 | Mad Professor, ODARIO, SIXTOO, FION and CHAIX  | Mad Professor |
-| Sat, 18 Jul 2026 | Francesca Lombardo and Edan presented by TAD x Standard Time | Edan Negrin, Francesca Lombardo |
+| Sat, 18 Jul 2026 | Francesca Lombardo and Edan presented by TAD x HoL x Standard Time | Edan Negrin, Francesca Lombardo |
 | Wed, 22 Jul 2026 | Piss Press and Standard Time present: PISS PRESS Launch Party  |  |
 | Thu, 23 Jul 2026 | Mees Salomé (Colorize/This Never Happened/Purified) | Mees Salomé, Rebel Of Sleep |
 | Fri, 24 Jul 2026 | Love Letters presented by ASNM x PUCKER UP | Kai (TO), Love Letters, Program Sam, moody.cn.man |

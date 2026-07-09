@@ -1,14 +1,15 @@
 # Jorge Caiado
 
-Jorge Caiado is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Casa Dao, Hong Kong on Fri, 10 Jul 2026.
+Jorge Caiado is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Casa Dao, Hong Kong on Fri, 10 Jul 2026.
 
-Jorge Caiado is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Casa Dao, Hongkong on Fri 10 Jul.
+Jorge Caiado is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Casa Dao, Hongkong on Fri 10 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Casa Dao | Hong Kong |
+| Fri, 17 Jul 2026 | Hertz | Seoul |
 | Sat, 1 Aug 2026 | AURA | Lisbon |
 
 ## Recently played

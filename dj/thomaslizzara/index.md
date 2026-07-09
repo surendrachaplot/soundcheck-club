@@ -1,8 +1,8 @@
 # Thomas Lizzara
 
-Thomas Lizzara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+Thomas Lizzara is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
-Thomas Lizzara is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Basstronauten, Daniel Boon and Alfred Heinrichs. Next up: Waschhaus, Berlin on Fri 7 Aug.
+Thomas Lizzara is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Basstronauten, Daniel Boon and Alfred Heinrichs. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Thomas Lizzara is a techno and house artist based in Germany, tracked on soundch
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Sat, 15 Aug 2026 | Tanzhaus West | Frankfurt |
 | Sat, 12 Sept 2026 | Spindler & Klatt | Berlin |
+| Sat, 26 Sept 2026 | TBA - Herr Kauzig | Leipzig |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Oldboy & DJ Cosworth at Quarters
 
-Oldboy & DJ Cosworth at Quarters on Fri 10 Jul, Brighton. 2 acts on the bill: DJ Cosworth and Oldboy (2). Garage and Grime. Preview the line-up and save it on soundcheck.
+Oldboy & DJ Cosworth at Quarters on Fri 10 Jul, Brighton. 3 acts on the bill: DJ Cosworth, Oldboy (2) and Oldboy (UK). Garage and Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Oldboy & DJ Cosworth at Quarters on Fri 10 Jul, Brighton. 2 acts on the bill: DJ
 
 - DJ Cosworth
 - Oldboy (2)
+- Oldboy (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2415794-oldboy-dj-cosworth-at-quarters/)*

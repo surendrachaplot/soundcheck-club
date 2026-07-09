@@ -1,6 +1,6 @@
 # Phonik at Club der Visionaere
 
-Phonik at Club der Visionaere on Thu 9 Jul, Berlin. 3 acts on the bill: Franziska Berns, Numero 6 and Yoshitaca. Preview the line-up and save it on soundcheck.
+Phonik at Club der Visionaere on Thu 9 Jul, Berlin. 3 acts on the bill: Franziska Berns, Soju Gang and Yoshitaca. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Phonik at Club der Visionaere on Thu 9 Jul, Berlin. 3 acts on the bill: Franzisk
 ## Line-up
 
 - Franziska Berns
-- Numero 6
+- Soju Gang
 - Yoshitaca
 
 *Source: [soundcheck](https://soundcheck.club/e/2471515-phonik-at-club-der-visionaere/)*

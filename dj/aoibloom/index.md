@@ -1,14 +1,15 @@
 # AOI BLOOM
 
-AOI BLOOM is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at White Space Lab, Tokyo on Fri, 17 Jul 2026.
+AOI BLOOM is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at White Space Lab, Tokyo on Fri, 17 Jul 2026.
 
-AOI BLOOM is an electronica and house artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Naoki Iwata, Tatsuo Kitagawa and Issyo. Next up: White Space Lab, Tokyo on Fri 17 Jul.
+AOI BLOOM is a house and electronica artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Naoki Iwata, Tatsuo Kitagawa and Issyo. Next up: White Space Lab, Tokyo on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | White Space Lab | Tokyo |
+| Sun, 19 Jul 2026 | Débris | Tokyo |
 | Thu, 23 Jul 2026 | R Lounge | Tokyo |
 | Thu, 6 Aug 2026 | UTOPIA / DYSTOPIA | Tokyo |
 

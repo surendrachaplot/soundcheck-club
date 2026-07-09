@@ -1,8 +1,8 @@
 # Alfred Heinrichs
 
-Alfred Heinrichs is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
+Alfred Heinrichs is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
 
-Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Felix Kröcher, Alignment and Mark Dekoda. Next up: Beatland Festival, Krakow on Sat 25 Jul.
+Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Felix Kröcher, Nicolas Julian and Alignment. Next up: Beatland Festival, Krakow on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 35 s
 | Sat, 25 Jul 2026 | Beatland Festival | Krakow |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
+| Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 35 s
 
 ## Shares bills with
 
-Felix Kröcher, Alignment, Mark Dekoda
+Felix Kröcher, Nicolas Julian, Alignment
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*

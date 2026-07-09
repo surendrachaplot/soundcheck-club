@@ -9,7 +9,7 @@ Ameera is a house and funk / soul artist tracked on soundcheck, with 54 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Moondog Cafe | Detroit |
-| Wed, 15 Jul 2026 | Periodicals | Detroit |
+| Thu, 16 Jul 2026 | Periodicals | Detroit |
 | Sun, 19 Jul 2026 | Jupiter Disco | New York City |
 
 ## Recently played

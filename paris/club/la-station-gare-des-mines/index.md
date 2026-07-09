@@ -12,7 +12,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 u
 | Fri, 10 Jul 2026 | AÏE DES MINES |  |
 | Sat, 11 Jul 2026 | Summer of Seum |  |
 | Sat, 11 Jul 2026 | CLUB HUMIDE | Dj Warning, LOV (2), Stella K |
-| Sun, 12 Jul 2026 | The All Black Everything Kiki Ball |  |
+| Sun, 12 Jul 2026 | [CANCELLED] The All Black Everything Kiki Ball |  |
 | Fri, 17 Jul 2026 | Daddy Issues | DJ ILEGALA, DJ Music, Franssouax, Golce, Lisa More, fetva |
 | Sat, 18 Jul 2026 | Kluster — Dernière à La Station | Albane, BKEdit |
 | Fri, 24 Jul 2026 | la Culottée (Nord + Sud) | Amina, Fais Le Beau, Gay Haze, Rachel Noon, Sixsixsixties, Soyoon, UNOS, audio primitive, ttyfal |

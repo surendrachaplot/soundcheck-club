@@ -1,8 +1,8 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Gabrielle Kwarteng is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Auckland and Bali and 54 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 225 
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 31 Jul 2026 | export | Rotterdam |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played

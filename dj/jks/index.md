@@ -1,8 +1,8 @@
 # JKS
 
-JKS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at essaim, Paris on Fri, 10 Jul 2026.
+JKS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at essaim, Paris on Fri, 10 Jul 2026.
 
-JKS is a techno and house artist tracked on soundcheck, with 138 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 46 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: essaim, Paris on Fri 10 Jul.
+JKS is a techno and house artist tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Athens and Berlin and 46 more. Often billed alongside Bailey Ibbs, BENZA and CAIVA. Next up: essaim, Paris on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ JKS is a techno and house artist tracked on soundcheck, with 138 sets logged acr
 | Sat, 18 Jul 2026 | Ministerium Club | Lisbon |
 | Sat, 1 Aug 2026 | Fuse | Brussels |
 | Fri, 7 Aug 2026 | Else | Berlin |
+| Fri, 14 Aug 2026 | Stereo | Montreal |
 | Sat, 15 Aug 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played

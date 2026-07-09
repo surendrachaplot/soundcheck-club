@@ -1,14 +1,15 @@
 # Jacidorex
 
-Jacidorex is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kilomètre25, Paris on Sat, 18 Jul 2026.
+Jacidorex is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kilomètre25, Paris on Sat, 18 Jul 2026.
 
-Jacidorex is a techno and acid artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Kilomètre25, Paris on Sat 18 Jul.
+Jacidorex is a techno and trance artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Kilomètre25, Paris on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Kilomètre25 | Paris |
+| Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Fri, 2 Oct 2026 | Lokschuppen Berlin | Berlin |
 

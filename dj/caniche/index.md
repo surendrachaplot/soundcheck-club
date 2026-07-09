@@ -1,13 +1,14 @@
 # Caniche
 
-Caniche is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ÆDEN, Berlin on Fri, 17 Jul 2026.
+Caniche is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Odonien, Cologne on Fri, 10 Jul 2026.
 
-Caniche is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Specific Objects, Mischa Beton and STEYA. Next up: ÆDEN, Berlin on Fri 17 Jul.
+Caniche is a techno and trance artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Specific Objects, Mischa Beton and STEYA. Next up: Odonien, Cologne on Fri 10 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 10 Jul 2026 | Odonien | Cologne |
 | Fri, 17 Jul 2026 | ÆDEN | Berlin |
 | Thu, 13 Aug 2026 | ÆDEN | Berlin |
 | Fri, 28 Aug 2026 | OXI | Berlin |

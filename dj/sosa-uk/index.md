@@ -1,8 +1,8 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
+SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
 
-SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
+SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Sat, 15 Aug 2026 | West Street | Glasgow |
 | Tue, 18 Aug 2026 | Hï Ibiza | Ibiza |
+| Sat, 22 Aug 2026 | Steelyard Kelham | Sheffield |
 
 ## Recently played
 

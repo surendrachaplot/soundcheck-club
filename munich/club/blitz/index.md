@@ -13,7 +13,7 @@ BLITZ is a music venue in Munich listed on soundcheck. 10 upcoming nights, with 
 | Fri, 17 Jul 2026 | BLITZ with CJ Bolland b2b The Advent, Philppa Pacho, Polygonia [Start 23:59] | CJ Bolland, Philippa Pacho, Polygonia, The Advent |
 | Fri, 17 Jul 2026 | JAZZFEST [19:30 - 23:30] with DIGILOGUE, Sabina Sciubba, Solaire |  |
 | Sat, 18 Jul 2026 | BLITZ with Daphni, Gernot von Modeselektor, mad miran, Shed LIVE | Daphni, Modeselektor, Shed, mad miran |
-| Tue, 21 Jul 2026 | Live : CoreChaos with Brnjsmin, Liturgy [19:30 - 23:00] |  |
+| Tue, 21 Jul 2026 | Live : CoreChaos with Brnjsmin, Hyperfocus, Liturgy [19:30 - 23:00] |  |
 | Fri, 24 Jul 2026 | LIVE AT BLITZ with Lyder [Doors 21:00 / Start 22:00] | Lyder |
 | Sat, 25 Jul 2026 | CRUISE |  |
 | Sun, 26 Jul 2026 | EERSTE COMMUNIE at BLITZ BISTRO [10AM - END] |  |

@@ -9,7 +9,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 16 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 9 Jul 2026 | Alfred Street Launch Party | Dylan James, Harral, Jiminy Watts |
-| Fri, 10 Jul 2026 | WonderPortal by Portal Recs & Wonderkidz w Seb Odyssey, Bousti, Numero 6, Inner West, Data Flow | Data Flow, Inner West, Numero 6, Seb Odyssey |
+| Fri, 10 Jul 2026 | WonderPortal by Portal Recs & Wonderkidz w Seb Odyssey, Bousti, Numero 6, Inner West, Data Flow | Data Flow, Inner West, Seb Odyssey, Soju Gang |
 | Sat, 11 Jul 2026 | The Glove That Fits presents Alien Communications, Greg Brockmann & Ste Roberts | Alien Communications, Greg Brockmann, Ste Roberts |
 | Sun, 12 Jul 2026 | Fossil Archive presents: Burden, DJ People's Princess, R.M.K | Burden, R.M.K, dj people's princess |
 | Fri, 17 Jul 2026 | Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala | Guy Contact, Loa Szala, Markozonio |

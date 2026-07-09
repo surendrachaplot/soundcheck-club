@@ -1,8 +1,8 @@
 # DJ Achim Feuervogel
 
-DJ Achim Feuervogel is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OST, Berlin on Fri, 10 Jul 2026.
+DJ Achim Feuervogel is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OST, Berlin on Fri, 10 Jul 2026.
 
-DJ Achim Feuervogel is a trance and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 11 more. Often billed alongside zwilling., Feta Felice and TMR (DE). Next up: OST, Berlin on Fri 10 Jul.
+DJ Achim Feuervogel is a trance and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 11 more. Often billed alongside zwilling., DETOXX and Feta Felice. Next up: OST, Berlin on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Achim Feuervogel is a trance and techno artist based in Germany, tracked on s
 | Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Fri, 14 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 29 Aug 2026 | Schlachthof Wiesbaden | Frankfurt |
+| Sat, 19 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ DJ Achim Feuervogel is a trance and techno artist based in Germany, tracked on s
 
 ## Shares bills with
 
-zwilling., Feta Felice, TMR (DE)
+zwilling., DETOXX, Feta Felice
 
 *Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*

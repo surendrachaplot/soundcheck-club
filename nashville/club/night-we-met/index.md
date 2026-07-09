@@ -1,8 +1,8 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 19 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bubble" on Thu, 9 Jul 2026.
+Night We Met is a music venue in Nashville with 20 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bubble" on Thu, 9 Jul 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 19 upcoming nights, with line-ups including Merchant (OFC), Ape Drums, bolo and camoufly and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 20 upcoming nights, with line-ups including Merchant (OFC), Amtrac, Ape Drums and bolo and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 

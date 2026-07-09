@@ -1,8 +1,8 @@
 # DETOXX
 
-DETOXX is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+DETOXX is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
-DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Cologne, Malta and Nurnberg and 3 more. Often billed alongside Amøn, YËDM and DJ Achim Feuervogel. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Leipzig and Malta and 4 more. Often billed alongside Amøn, YËDM and DJ Achim Feuervogel. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, wi
 | Sun, 30 Aug 2026 | Sommerbad Neukölln | Berlin |
 | Sun, 30 Aug 2026 | TBA - Sommerbad Neukölln | Berlin |
 | Sat, 12 Sept 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 19 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played
 

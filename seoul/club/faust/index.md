@@ -13,7 +13,7 @@ Faust is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with li
 | Fri, 17 Jul 2026 | INVITES: Sina XX | Kim Bo Yeon, NUKiD, Nocturnal (KR), Sina XX |
 | Sat, 18 Jul 2026 | nacht | BootyWagon, Ginger (KR), Kim Bo Yeon, Sol (KR) |
 | Fri, 24 Jul 2026 | nacht | NOVA ANIMUS, NUKiD, NUSNOOM, Nocturnal (KR), hv9 (KR) |
-| Sat, 25 Jul 2026 | INVITES: KUSS | GPG (1), KUSS, Sol (KR), Stann Lumo, Suman |
+| Sat, 25 Jul 2026 | INVITES: KUSS | GPG (1), GPG (SK), KUSS, Sol (KR), Stann Lumo, Suman |
 | Fri, 31 Jul 2026 | INVITES: Marcal | Marcal, Marcus L, Mars Parck, Peace Keeper, Stann Lumo |
 
 ## Address

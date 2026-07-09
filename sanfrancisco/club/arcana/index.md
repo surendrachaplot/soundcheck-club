@@ -10,7 +10,7 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights,
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Jovencito Disco Night |  |
 | Sat, 11 Jul 2026 | Perreo Pesao + Tute | Sánlo, mymy |
-| Fri, 17 Jul 2026 | Sound Journey by ZZ: An Art Show After Party | ZZ (4) |
+| Fri, 17 Jul 2026 | Art Show After Party: DJ Set by ZZ + Liquid Light Show by Combsy | ZZ (4) |
 
 ## Address
 

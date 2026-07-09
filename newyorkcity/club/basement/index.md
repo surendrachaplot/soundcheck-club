@@ -1,8 +1,8 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Juliana Huxtable all night long / Natuta / Leonce / ALEXIS DE LA ROSA" on Fri, 10 Jul 2026.
+BASEMENT is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Juliana Huxtable all night long / Natuta / Leonce / ALEXIS DE LA ROSA" on Fri, 10 Jul 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including ALEXIS DE LA ROSA, Altinbas, Auspex and CEM and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including ALEXIS DE LA ROSA, Altinbas, Analog Soul and Annie Lew and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
@@ -15,7 +15,9 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights
 | Fri, 24 Jul 2026 | Philippa Pacho / Newa / Holden Federico / The Spectrum | Holden Federico, Newa, Philippa Pacho |
 | Sat, 25 Jul 2026 | UFO95 live / Altinbas / cotton / Shaun J. Wright / Colored Craig / Nat Wendell | Altinbas, Colored Craig, Nat Wendell, Shaun J. Wright, UFO95, cotton |
 | Fri, 31 Jul 2026 | Altær: Lars Huismann / Lindsey Herbert / Auspex /Jason Kendig /Will Automagic /Cosmo /Ryan Farr | Auspex, Cosmo (NY), Jason Kendig, Lars Huismann, Lindsey Herbert, Ryan Farr, Will Automagic |
-| Tue, 1 Sept 2026 | Twitch live with zamvoil |  |
+| Sat, 1 Aug 2026 | Holden Federico/Mos/Katie Rex/Concrete Husband/ Ne/Re/A /Manu Miran/Kim Anh/Cudmore/Analog Soul | Analog Soul, Concrete Husband, Holden Federico, Justin Cudmore, Katie Rex, Kim Anh, Manu Miran, Mos (NYC), Ne/Re/A |
+| Sat, 8 Aug 2026 | WRECKED: Sterling Juan Diaz / Mister Wallace / Jellyfish / Ron Like Hell b2b Ryan Smith | Jellyfish, Mister Wallace, Ron Like Hell, Ryan Smith, Sterling Juan Diaz |
+| Sat, 15 Aug 2026 | Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Miracles | Dee Diggs, Elle Dee, Function, LOLSNAKE, Miracles, Tom Peters |
 
 ## Address
 

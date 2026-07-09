@@ -1,13 +1,14 @@
-# Mina
+# MINÄ
 
-Mina is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Aaja Basement, London on Fri, 24 Jul 2026.
+MINÄ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lieberscholli, Munich on Sun, 19 Jul 2026.
 
-Mina is a techno and progressive house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Bangkok, Barcelona and Brighton and 25 more. Often billed alongside Bryte, SANA and Tash LC. Next up: Aaja Basement, London on Fri 24 Jul.
+MINÄ is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bangkok, Barcelona and Brighton and 26 more. Often billed alongside Bryte, SANA and Tash LC. Next up: Lieberscholli, Munich on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | Lieberscholli | Munich |
 | Fri, 24 Jul 2026 | Aaja Basement | London |
 | Sat, 25 Jul 2026 | Fünk | Mexico City |
 

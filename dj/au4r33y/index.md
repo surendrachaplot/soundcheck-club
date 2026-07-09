@@ -1,8 +1,8 @@
 # au4r33y
 
-au4r33y is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at WOMB, Tokyo on Sat, 11 Jul 2026.
+au4r33y is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at WOMB, Tokyo on Sat, 11 Jul 2026.
 
-au4r33y is a techno and house artist tracked on soundcheck, with 57 sets logged across Berlin, Hongkong, Melbourne and Nottingham and 3 more. Often billed alongside Kato, Kyuchan and Paramat. Next up: WOMB, Tokyo on Sat 11 Jul.
+au4r33y is a techno and house artist tracked on soundcheck, with 58 sets logged across Berlin, Hongkong, Melbourne and Nottingham and 3 more. Often billed alongside Kato, Kyuchan and Paramat. Next up: WOMB, Tokyo on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ au4r33y is a techno and house artist tracked on soundcheck, with 57 sets logged 
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | WOMB | Tokyo |
 | Tue, 14 Jul 2026 | Mitsuki | Tokyo |
+| Sun, 16 Aug 2026 | Club 77 | Sydney |
 
 ## Recently played
 

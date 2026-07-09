@@ -1,13 +1,14 @@
 # DJ Marky
 
-DJ Marky is a Drum & Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+DJ Marky is a Drum & Bass and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at A Balsa, Sao Paulo on Sat, 11 Jul 2026.
 
-DJ Marky is a drum & bass and house artist tracked on soundcheck, with 95 sets logged across Barcelona, Belfast, Berlin and Birmingham and 18 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
+DJ Marky is a drum & bass and house artist tracked on soundcheck, with 96 sets logged across Barcelona, Belfast, Berlin and Birmingham and 18 more. Often billed alongside MC GQ, Makoto and SP:MC. Next up: A Balsa, Saopaulo on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 11 Jul 2026 | A Balsa | Sao Paulo |
 | Sat, 25 Jul 2026 | Bristol Amphitheatre & Waterfront Square | Bristol |
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
 | Sat, 1 Aug 2026 | Colour Factory | London |

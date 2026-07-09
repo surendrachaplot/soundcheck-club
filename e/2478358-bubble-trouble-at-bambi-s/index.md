@@ -1,6 +1,6 @@
 # Bubble Trouble at Bambi's
 
-Bubble Trouble at Bambi's on Sat 11 Jul, Toronto. 1 act on the bill: Sakiko Nagai. House and Deep House. Preview the line-up and save it on soundcheck.
+Bubble Trouble at Bambi's on Sat 11 Jul, Toronto. 2 acts on the bill: Lily (JP) and Sakiko Nagai. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Bubble Trouble at Bambi's on Sat 11 Jul, Toronto. 1 act on the bill: Sakiko Naga
 
 ## Line-up
 
+- Lily (JP)
 - Sakiko Nagai
 
 *Source: [soundcheck](https://soundcheck.club/e/2478358-bubble-trouble-at-bambi-s/)*

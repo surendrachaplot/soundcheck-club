@@ -1,14 +1,15 @@
 # Tammy Lakkis
 
-Tammy Lakkis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tigris, Detroit on Fri, 10 Jul 2026.
+Tammy Lakkis is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tigris, Detroit on Fri, 10 Jul 2026.
 
-Tammy Lakkis is a house and techno artist tracked on soundcheck, with 259 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Tigris, Detroit on Fri 10 Jul.
+Tammy Lakkis is a house and techno artist tracked on soundcheck, with 260 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Tigris, Detroit on Fri 10 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Tigris | Detroit |
+| Sun, 12 Jul 2026 | Spkrbox | Detroit |
 | Sat, 25 Jul 2026 | TBA - Brooklyn | New York City |
 | Sun, 2 Aug 2026 | smartbar | Chicago |
 

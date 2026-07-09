@@ -1,8 +1,8 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cavo Paradiso, Mykonos on Sat, 11 Jul 2026.
+Sonny Fodera is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cavo Paradiso, Mykonos on Sat, 11 Jul 2026.
 
-Sonny Fodera is a house and tech house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Cavo Paradiso, Mykonos on Sat 11 Jul.
+Sonny Fodera is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Cavo Paradiso, Mykonos on Sat 11 Jul.
 
 ## Upcoming shows
 

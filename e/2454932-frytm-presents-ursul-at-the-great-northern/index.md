@@ -1,6 +1,6 @@
 # FRYTM presents: URSUL at The Great Northern
 
-FRYTM presents: URSUL at The Great Northern on Sat 11 Jul, Sanfrancisco. 4 acts on the bill: Kohbain, Matony, SAGMO and T-Puse. House and Tech House. Preview the line-up and save it on soundcheck.
+FRYTM presents: URSUL at The Great Northern on Sat 11 Jul, Sanfrancisco. 6 acts on the bill: Alkemiss Erika, Kohbain, Matony and REO (UK) and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ FRYTM presents: URSUL at The Great Northern on Sat 11 Jul, Sanfrancisco. 4 acts 
 
 ## Line-up
 
+- Alkemiss Erika
 - Kohbain
 - Matony
+- REO (UK)
 - SAGMO
 - T-Puse
 

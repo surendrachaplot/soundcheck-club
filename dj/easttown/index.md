@@ -1,14 +1,15 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Easttown is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 11 more. Often billed alongside Rooléh, AAT (NL) and Joëlla Jackson. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Easttown is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, AAT (NL) and Joëlla Jackson. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Hembrugterrein | Amsterdam |
+| Fri, 17 Jul 2026 | Pacha New York | New York City |
 | Sat, 8 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 21 Aug 2026 | Boomerang Beach | The Hague |
 | Sat, 29 Aug 2026 | TivoliVredenburg | Utrecht |

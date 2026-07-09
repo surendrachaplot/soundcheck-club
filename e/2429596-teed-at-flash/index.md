@@ -1,6 +1,6 @@
 # TEED at Flash
 
-TEED at Flash on Fri 17 Jul, Washingtondc. 3 acts on the bill: Kai Song, MÖSEE and TEED. House and Electronica. Preview the line-up and save it on soundcheck.
+TEED at Flash on Fri 17 Jul, Washingtondc. 5 acts on the bill: Dabz, Kai Song, KayLaSoul and MÖSEE and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ TEED at Flash on Fri 17 Jul, Washingtondc. 3 acts on the bill: Kai Song, MÖSEE 
 
 ## Line-up
 
+- Dabz
 - Kai Song
+- KayLaSoul
 - MÖSEE
 - TEED
 

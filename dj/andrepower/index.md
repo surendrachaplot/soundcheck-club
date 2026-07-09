@@ -1,8 +1,8 @@
 # Andre Power
 
-Andre Power is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at E1, London on Sat, 8 Aug 2026.
+Andre Power is a House and R&B artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at E1, London on Sat, 8 Aug 2026.
 
-Andre Power is a house and r&b artist based in United States of America, tracked on soundcheck, with 42 sets logged across Berlin, Birmingham, Chicago and Cologne and 11 more. Often billed alongside Bambii, FS Green and Keyrah. Next up: E1, London on Sat 8 Aug.
+Andre Power is a house and r&b artist based in United States of America, tracked on soundcheck, with 43 sets logged across Berlin, Birmingham, Chicago and Cologne and 11 more. Often billed alongside Bambii, FS Green and Keyrah. Next up: E1, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Andre Power is a house and r&b artist based in United States of America, tracked
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | E1 | London |
 | Sat, 15 Aug 2026 | H0l0 Yard | New York City |
+| Sat, 5 Sept 2026 | Midline | Miami |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # 999999999
 
-999999999 is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+999999999 is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-999999999 is a techno and house artist tracked on soundcheck, with 273 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
+999999999 is a techno and house artist tracked on soundcheck, with 274 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@
 | Sat, 1 Aug 2026 | Burgess Park | London |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Sun, 9 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sun, 6 Sept 2026 | Beach House San Diego | San Diego |
 | Fri, 11 Sept 2026 | TBA | Brussels |
-| Sat, 12 Sept 2026 | Knockdown Center | New York City |
 
 ## Recently played
 
