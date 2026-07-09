@@ -1,0 +1,36 @@
+# VanRock
+
+VanRock is a House and Club artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Crown Pier, London on Sat, 11 Jul 2026.
+
+VanRock is a house and club and 2 more artist tracked on soundcheck, with 225 sets logged across London. Often billed alongside NYCity Soundz, Mr Fresh Official and Eddie Van Poppel. Next up: Crown Pier, London on Sat 11 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 11 Jul 2026 | Crown Pier | London |
+| Sat, 11 Jul 2026 | Crown Pier | London |
+| Sat, 11 Jul 2026 | Crown Pier | London |
+| Sat, 25 Jul 2026 | Crown Pier | London |
+| Sat, 25 Jul 2026 | Crown Pier | London |
+| Sat, 29 Aug 2026 | Crown Pier | London |
+| Sat, 29 Aug 2026 | Crown Pier | London |
+| Sat, 26 Sept 2026 | Crown Pier | London |
+| Sat, 26 Sept 2026 | Crown Pier | London |
+
+## Recently played
+
+- Crown Pier, London — Sun, 28 Jun 2026
+- Crown Pier, London — Sat, 27 Jun 2026
+- Westminster Pier, London — Sat, 27 Jun 2026
+- Crown Pier, London — Sat, 27 Jun 2026
+- Crown Pier, London — Sat, 13 Jun 2026
+- Crown Pier, London — Sat, 13 Jun 2026
+- Crown Pier, London — Sat, 13 Jun 2026
+- Crown Pier, London — Sat, 13 Jun 2026
+
+## Shares bills with
+
+NYCity Soundz, Mr Fresh Official, Eddie Van Poppel
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanrock/)*

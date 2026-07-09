@@ -1,0 +1,25 @@
+# Bangkok Island
+
+Bangkok Island is a music venue in Bangkok with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "PIRATE RADIO" on Fri, 10 Jul 2026.
+
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 9 upcoming nights, with line-ups including PM. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 10 Jul 2026 | PIRATE RADIO |  |
+| Fri, 10 Jul 2026 | BANGKOK INDIE CLUB GAZE |  |
+| Sat, 11 Jul 2026 | Phi Ta kon |  |
+| Tue, 14 Jul 2026 | FRENCH DAY |  |
+| Fri, 17 Jul 2026 | ROCK ON THE RIVER | PM |
+| Sat, 18 Jul 2026 | DJ Community All Stars |  |
+| Sun, 19 Jul 2026 | KruTum's Dancing Football World |  |
+| Fri, 24 Jul 2026 | RUDE MELANCHOLIC |  |
+| Sat, 25 Jul 2026 | 420 Paradise |  |
+
+## Address
+
+499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

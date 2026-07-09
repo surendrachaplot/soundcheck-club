@@ -1,0 +1,35 @@
+# Riva Starr
+
+Riva Starr is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
+
+Riva Starr is a house and tech house and 2 more artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 10 Jul 2026 | TBA - 1800 Ocean Front Walk, Venice  | Los Angeles |
+| Sat, 11 Jul 2026 | Sunnyside Pavilion | Toronto |
+| Fri, 17 Jul 2026 | Superordinary | Brisbane |
+| Sat, 18 Jul 2026 | The Timber Yard | Melbourne |
+| Sat, 25 Jul 2026 | White Bay Power Station | Sydney |
+| Fri, 14 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 27 Aug 2026 | Chinois Ibiza | Ibiza |
+| Fri, 18 Sept 2026 | Amnesia Ibiza | Ibiza |
+
+## Recently played
+
+- Basement, Amsterdam — Sat, 13 Jun 2026
+- Tigres de la Noche, Washington DC — Sat, 16 May 2026
+- 77, London — Fri, 24 Apr 2026
+- TBA - The Loading Dock 4200 W. Diversey, Chicago — Sat, 18 Apr 2026
+- Sunshine Grove, Miami — Thu, 19 Mar 2026
+- Rex Club, Paris — Sat, 31 Jan 2026
+- Ministry Of Sound, London — Sat, 17 Jan 2026
+- TBA - AKADEMIA, Naples — Sat, 6 Dec 2025
+
+## Shares bills with
+
+Lowsteppa, Armand Van Helden, Paige Tomlinson
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

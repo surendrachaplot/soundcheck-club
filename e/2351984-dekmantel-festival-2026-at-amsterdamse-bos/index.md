@@ -1,0 +1,169 @@
+# Dekmantel Festival 2026 at Amsterdamse Bos
+
+Dekmantel Festival 2026 at Amsterdamse Bos on Wed 29 Jul, Amsterdam. 155 acts on the bill: A Guy Called Gerald, AMORAL, Actress and Al Wootton and 151 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 29 Jul 2026 |
+| Venue | Amsterdamse Bos |
+| City | Amsterdam |
+
+## Line-up
+
+- A Guy Called Gerald
+- AMORAL
+- Actress
+- Al Wootton
+- Alex Wilcox
+- Aurora Halal
+- Azu Tiwaline
+- Barker
+- Batu
+- Ben UFO
+- Benny Rodrigues
+- Beste Hira
+- Bitter Babe
+- Blasha & Allatt
+- Brodinski
+- CCL
+- Call Super
+- Cari Lekebusch
+- Carl Craig
+- Channel One
+- Cheyanne Hudson
+- Christian AB
+- Christian AB
+- Clark
+- Colin Benders
+- DARKSIDE
+- DAX J
+- DJ Koolt
+- DJ Nobu
+- DJ Sprinkles
+- DVS1
+- Dasha Rush
+- Dave Huismans
+- Death in Vegas
+- Dekmantel Soundsystem
+- Devon Rexi
+- Dimi Angelis
+- Dino Sabatini
+- Dopplereffekt
+- Doudou MD
+- Dr. Rubinstein
+- Efdemin
+- Ellen Allien
+- Eris Drew
+- FJAAK
+- Fafi Abdel Nour
+- Francois K
+- Fumiya Tanaka
+- Gabrielle Kwarteng
+- Garçon
+- GiGi FM
+- Helena Hauff
+- Helmond Lang
+- Identified Patient
+- Ikonika
+- Interstellar Funk
+- Introspekt
+- JASSS
+- JakoJako
+- James Holden
+- James Massiah
+- Jane Fitz
+- Jasmín
+- Jeff Mills
+- Jennifer Loveless
+- Job Jobse
+- Juan Atkins
+- Jyoty
+- Katatonic Silentio
+- Khadija Al Hanafi
+- Kode9
+- Konduku
+- Kuniyuki
+- L.F.T.
+- LSD
+- Lady Starlight
+- Lea Occhi
+- Loradeniz
+- Lord Tusk
+- Luigi Tozzi
+- Makam
+- Mala
+- Marcel Dettmann
+- Mia Koden
+- Mike Parker
+- Molina
+- Moxie
+- NEW YORK
+- NIKS
+- Nala Brown
+- Nazar
+- Neska
+- Nicolas Lutz
+- Novelist
+- Nídia
+- Nørbak
+- Objekt
+- Octo Octa
+- Ogazón
+- Olof Dreijer
+- Oscar Mulero
+- PLO Man
+- Palms Trax
+- Pariah
+- Peach
+- Philippa Pacho
+- Piezo
+- Polygonia
+- Quest
+- RHR
+- Rene Wise
+- Ricardo Villalobos
+- Richard Akingbehin
+- Ron Trent
+- Rozaly
+- Ryan Elliott
+- SHERELLE
+- Sandrien
+- Saoirse
+- Sass
+- Sepehr
+- Shanti Celeste
+- Shed
+- Shy FX
+- Sir Spyro
+- Skee Mask
+- Skin On Skin
+- Skrillex
+- Slikback
+- Slimzee
+- Space Afrika
+- Speedy J
+- State OFFF
+- Steffi
+- Sugar Free
+- Surgeon
+- Suze Ijó
+- Sybil
+- T.NO
+- Tasha
+- The Black Dog
+- The Bug
+- Tikiman
+- Underground Resistance
+- Verraco
+- Vlada
+- Warrior Queen
+- Wata Igarashi
+- Woody92
+- aya
+- dirtydms
+- gyrofield
+- livwutang
+- mad miran
+- upsammy
+
+*Source: [soundcheck](https://soundcheck.club/e/2351984-dekmantel-festival-2026-at-amsterdamse-bos/)*

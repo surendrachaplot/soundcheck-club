@@ -1,0 +1,26 @@
+# Berghain | Panorama Bar | Säule
+
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BINÄR" on Thu, 9 Jul 2026.
+
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including 00rt, Justine Perry, Paula Tape and abs8lute and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 9 Jul 2026 | BINÄR | Border One, Jeroen Search, Laura van Hal, PAREKA |
+| Fri, 10 Jul 2026 | Your Love | Lakuti, Lil' Louis, Tama Sumo, Toribio |
+| Sat, 11 Jul 2026 | Klubnacht | Adiel, Avalon Emerson, BLANKA, Delta Funktionen, Doltz, Jayson Wynters, Katia Curie, Kikelomo, Kr!z, Mary Lake, Measure Divide, Natalie Robinson, Rebolledo, Red Rooms, Tobias., Yuzo Iwata |
+| Thu, 16 Jul 2026 | BUTOH BATORŪ | Amanda Mussi, Magna Pia, X Tin |
+| Fri, 17 Jul 2026 | Sound Metaphors | Alex Kassian, DJ Masda, Flo Dill, I-F, Mozhgan, Nightmares on Wax, Palms Trax, Paranoid London, Paula Tape, Public Possession, Sound Metaphors Djs, Traxx |
+| Sat, 18 Jul 2026 | Klubnacht | Adlas, Aldonna, Aurora Halal, Beste Hira, Binh, Blasha & Allatt, Gerd Janson, Kasper Marott, PARAMIDA, Paquita Gordon, Tasha, Tornado Wallace, Zisko, abs8lute |
+| Fri, 24 Jul 2026 | La Noche | Amaliah, Byron Yeates, Josh Caffé, Kilopatrah Jones, NIKS, S-candalo, Stella Zekri |
+| Sat, 25 Jul 2026 | CSD Klubnacht | BASHKKA, Boris, Cormac, DJ Holographic, Gabrielle Kwarteng, Justine Perry, Leeon, Lupe, Massimiliano Pagliara, Mike Starr, OMOLOKO, Ouissam, Paula Koski, Phase Fatale, Roi Perez, Stacey Hotwaxx Hale, Steffi, The Illustrious Blacks, Tom Peters, Valley Dolly, Virginia, nd_baumecker |
+| Thu, 30 Jul 2026 | SÄULE | OCCA, YSK., Zemög |
+| Fri, 31 Jul 2026 | TraTraTrax | Aquarian, Bitter Babe, Brenda, DJ Marfox, Dengue Dengue Dengue, Dj Babatr, Ehua, Flore, Lechuga Zafiro, MMM, Pariah, Scion, Simo Cell, Verraco, Yu Su, dj lomalinda, upsammy |
+
+## Address
+
+70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
+
+*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
