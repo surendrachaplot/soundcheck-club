@@ -1,8 +1,8 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 11 Jul 2026.
+Cloonee is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 11 Jul 2026.
 
-Cloonee is a house and tech house artist tracked on soundcheck, with 57 sets logged across Austin, Barcelona, Boston and Bristol and 26 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 11 Jul.
+Cloonee is a house and tech house artist tracked on soundcheck, with 58 sets logged across Austin, Barcelona, Boston and Bristol and 26 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 57 sets log
 | Sat, 15 Aug 2026 | Brooklyn Army Terminal | New York City |
 | Tue, 18 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 57 sets log
 
 Jamie Jones, Prospa, Riordan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

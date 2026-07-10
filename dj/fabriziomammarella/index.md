@@ -1,6 +1,6 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Paloma, Barcelona on Fri, 10 Jul 2026.
+Fabrizio Mammarella is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Paloma, Barcelona on Fri, 10 Jul 2026.
 
 Fabrizio Mammarella is a house and techno artist based in Italy, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 21 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: La Paloma, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Fabrizio Mammarella is a house and techno artist based in Italy, tracked on soun
 
 Giulia Gutterer, Franz Scala, Charlie
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*

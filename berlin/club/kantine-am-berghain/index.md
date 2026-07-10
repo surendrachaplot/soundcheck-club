@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "KUF + UNOX live at Gaswerk Music Concerts / Kantine am Berghain" on Fri, 10 Jul 2026.
+Kantine am Berghain is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "KUF + UNOX live at Gaswerk Music Concerts / Kantine am Berghain" on Fri, 10 Jul 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Blockhead, Chloe Lula, Christoph de Babalon and KUF and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 7 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

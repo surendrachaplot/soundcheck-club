@@ -1,6 +1,6 @@
 # Acid Souljah
 
-Acid Souljah is a R&B and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Stuttgart on Fri, 10 Jul 2026.
+Acid Souljah is a R&B and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Stuttgart on Fri, 10 Jul 2026.
 
 Acid Souljah is a r&b and hip-hop artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, London and Losangeles and 5 more. Often billed alongside Christ Dillinger, Warlord® and exmantera. Next up: TBA, Stuttgart on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Acid Souljah is a r&b and hip-hop artist tracked on soundcheck, with 16 sets log
 
 Christ Dillinger, Warlord®, exmantera
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*

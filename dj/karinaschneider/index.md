@@ -1,6 +1,6 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 11 Jul 2026.
+Karina Schneider is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 11 Jul 2026.
 
 Karina Schneider is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Hamburg and Utrecht. Often billed alongside Beau Didier, Flits and Isaiah (NL). Next up: RSO.BERLIN, Berlin on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Karina Schneider is a techno and house artist tracked on soundcheck, with 63 set
 
 Beau Didier, Flits, Isaiah (NL)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karinaschneider/)*

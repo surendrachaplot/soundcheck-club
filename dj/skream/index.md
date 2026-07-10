@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Space Miami, Miami on Sat, 11 Jul 2026.
+Skream is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Space Miami, Miami on Sat, 11 Jul 2026.
 
 Skream is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Club Space Miami, Miami on Sat 11 Jul.
 
@@ -35,4 +35,4 @@ Skream is a house and techno artist tracked on soundcheck, with 205 sets logged 
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

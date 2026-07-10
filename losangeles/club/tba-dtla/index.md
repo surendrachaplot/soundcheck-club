@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Divine LA x Apt4B Radio present: The Groove Lab" on Sat, 11 Jul 2026.
+TBA - DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Divine LA x Apt4B Radio present: The Groove Lab" on Sat, 11 Jul 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including Alxander Ivey, AVA.J, Beau Didier and CHAVA and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nigh
 | Sun, 2 Aug 2026 | CLOSER x TECHTONIK present THERMAL with KX CHR | KX CHR, Nina J, nat the f*kn rat |
 | Sat, 22 Aug 2026 | CVNTROL FREAK | Alxander Ivey, deesco |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

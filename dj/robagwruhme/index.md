@@ -1,6 +1,6 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bevegemse Vijvers, Ghent on Fri, 10 Jul 2026.
+Robag Wruhme is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bevegemse Vijvers, Ghent on Fri, 10 Jul 2026.
 
 Robag Wruhme is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Jonathan Kaspar, Michael Mayer and Denis Stockhausen. Next up: Bevegemse Vijvers, Ghent on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Robag Wruhme is a house and techno artist tracked on soundcheck, with 109 sets l
 
 Jonathan Kaspar, Michael Mayer, Denis Stockhausen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*

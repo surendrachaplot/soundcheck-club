@@ -1,6 +1,6 @@
 # Studio the Venue
 
-Studio the Venue is a music venue in Auckland with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "CRUCLASH 360" on Fri, 10 Jul 2026.
+Studio the Venue is a music venue in Auckland with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CRUCLASH 360" on Fri, 10 Jul 2026.
 
 Studio the Venue is a music venue in Auckland listed on soundcheck. 4 upcoming nights, with line-ups including Basstripper, Grafix and Macky Gee. Browse upcoming dates, start times and who's playing. 340 Karangahape Road Auckland 1010 New Zealand.
 
@@ -17,4 +17,4 @@ Studio the Venue is a music venue in Auckland listed on soundcheck. 4 upcoming n
 
 340 Karangahape Road Auckland 1010 New Zealand, Auckland
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*

@@ -1,6 +1,6 @@
 # Pascale Voltaire
 
-Pascale Voltaire is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Culture Box, Copenhagen on Sat, 11 Jul 2026.
+Pascale Voltaire is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Culture Box, Copenhagen on Sat, 11 Jul 2026.
 
 Pascale Voltaire is a techno and progressive house artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Culture Box, Copenhagen on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Pascale Voltaire is a techno and progressive house artist based in Germany, trac
 
 Florian François, Yves Meyer, Vlad Yaki
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalevoltaire/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalevoltaire/)*

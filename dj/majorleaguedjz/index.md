@@ -1,6 +1,6 @@
 # Major League Djz
 
-Major League Djz is a Afro House and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 10 Jul 2026.
+Major League Djz is a Afro House and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 10 Jul 2026.
 
 Major League Djz is an afro house and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Barcelona and Brussels and 25 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: Chinois Ibiza, Ibiza on Fri 10 Jul.
 
@@ -36,4 +36,4 @@ Major League Djz is an afro house and house artist tracked on soundcheck, with 9
 
 Honey Dijon, DJ Tennis, Kitty Amor
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*

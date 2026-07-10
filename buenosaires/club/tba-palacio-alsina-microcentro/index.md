@@ -1,6 +1,6 @@
 # TBA - Palacio Alsina, Microcentro
 
-TBA - Palacio Alsina, Microcentro is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Kolombo + Fran Bortolossi - by SAVAGE, PALACIO ALSINA" on Sat, 11 Jul 2026.
+TBA - Palacio Alsina, Microcentro is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kolombo + Fran Bortolossi - by SAVAGE, PALACIO ALSINA" on Sat, 11 Jul 2026.
 
 TBA - Palacio Alsina, Microcentro is a music venue in Buenosaires listed on soundcheck. 4 upcoming nights, with line-ups including Agustin Giri, Eelke Kleijn, Fran Bortolossi and Kolombo and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Palacio Alsina, Microcentro is a music venue in Buenosaires listed on soun
 | Sat, 8 Aug 2026 | Max Styler + Zagitar - by SAVAGE, PALACIO ALSINA | Max Styler, Zagitar |
 | Fri, 18 Sept 2026 | Layton Giordani + Agustin Giri - by DESERT IN ME, PALACIO ALSINA | Agustin Giri, Layton Giordani |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-palacio-alsina-microcentro/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-palacio-alsina-microcentro/)*

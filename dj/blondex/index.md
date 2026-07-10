@@ -1,6 +1,6 @@
 # BLONDEX
 
-BLONDEX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 10 Jul 2026.
+BLONDEX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 10 Jul 2026.
 
 BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Doug Bass, Nuria Ghia and FL!M. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Doug Bass, Nuria Ghia, FL!M
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*

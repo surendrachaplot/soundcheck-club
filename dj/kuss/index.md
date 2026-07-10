@@ -1,6 +1,6 @@
 # KUSS
 
-KUSS is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KREUZWERK, Berlin on Fri, 10 Jul 2026.
+KUSS is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KREUZWERK, Berlin on Fri, 10 Jul 2026.
 
 KUSS is a techno and electro artist based in France, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: KREUZWERK, Berlin on Fri 10 Jul.
 
@@ -31,4 +31,4 @@ KUSS is a techno and electro artist based in France, tracked on soundcheck, with
 
 Koboyo, Sicion, Electric Rescue
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*

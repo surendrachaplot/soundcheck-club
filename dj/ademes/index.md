@@ -1,6 +1,6 @@
 # ADEMES
 
-ADEMES is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Helios37, Cologne on Fri, 10 Jul 2026.
+ADEMES is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Helios37, Cologne on Fri, 10 Jul 2026.
 
 ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 3 more. Often billed alongside LELO, Amøn and DJ Achim Feuervogel. Next up: Helios37, Cologne on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 LELO, Amøn, DJ Achim Feuervogel
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*

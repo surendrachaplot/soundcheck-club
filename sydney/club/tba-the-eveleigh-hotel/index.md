@@ -1,6 +1,6 @@
 # TBA - The Eveleigh Hotel
 
-TBA - The Eveleigh Hotel is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Ask Me to Dance: Single Launch" on Sat, 18 Jul 2026.
+TBA - The Eveleigh Hotel is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ask Me to Dance: Single Launch" on Sat, 18 Jul 2026.
 
 TBA - The Eveleigh Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Eveleigh Hotel is a music venue in Sydney listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Ask Me to Dance: Single Launch |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-the-eveleigh-hotel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-the-eveleigh-hotel/)*

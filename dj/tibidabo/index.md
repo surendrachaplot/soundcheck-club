@@ -1,6 +1,6 @@
 # Tibi Dabo
 
-Tibi Dabo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Renate, Berlin on Sat, 11 Jul 2026.
+Tibi Dabo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Renate, Berlin on Sat, 11 Jul 2026.
 
 Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Bass Playah and Chloé Caillet. Next up: Renate, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck
 
 Damian Lazarus, Bass Playah, Chloé Caillet
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tibidabo/)*

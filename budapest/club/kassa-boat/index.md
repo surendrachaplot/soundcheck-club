@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Noise Conference Vol.4: Day & Night Special" on Fri, 10 Jul 2026.
+Kassa Boat is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Noise Conference Vol.4: Day & Night Special" on Fri, 10 Jul 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including CRIME, schraeder, THIRD 2HIFT and Westy. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -15,4 +15,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 2 upcoming nights,
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

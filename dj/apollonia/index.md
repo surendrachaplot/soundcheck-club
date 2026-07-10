@@ -1,6 +1,6 @@
 # Apollonia
 
-Apollonia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+Apollonia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 Apollonia is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Apollonia is a house and techno artist tracked on soundcheck, with 95 sets logge
 
 Dyed Soundorom, Dan Ghenacia, Shonky
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*

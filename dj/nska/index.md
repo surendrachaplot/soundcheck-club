@@ -1,6 +1,6 @@
 # N ska
 
-N ska is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mastak, Warsaw on Fri, 10 Jul 2026.
+N ska is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mastak, Warsaw on Fri, 10 Jul 2026.
 
 N ska is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Berlin and Warsaw. Often billed alongside Gościńska, Delta Division and SAGAN. Next up: Mastak, Warsaw on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ N ska is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 Gościńska, Delta Division, SAGAN
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*

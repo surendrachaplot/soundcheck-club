@@ -1,6 +1,6 @@
 # Mina Galán
 
-Mina Galán is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at FOLD, London on Sat, 11 Jul 2026.
+Mina Galán is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at FOLD, London on Sat, 11 Jul 2026.
 
 Mina Galán is a techno and electro artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Manuka Honey, TEDESCO and DIORA. Next up: FOLD, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Mina Galán is a techno and electro artist tracked on soundcheck, with 22 sets l
 
 Manuka Honey, TEDESCO, DIORA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*

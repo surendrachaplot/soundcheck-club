@@ -1,6 +1,6 @@
 # The Cornershop Bar
 
-The Cornershop Bar is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bashment Shoreditch Party - Free Before Midnight" on Fri, 10 Jul 2026.
+The Cornershop Bar is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bashment Shoreditch Party - Free Before Midnight" on Fri, 10 Jul 2026.
 
 The Cornershop Bar is a music venue in London listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 123 Shoreditch High Street  London E1 6JE.
 
@@ -19,4 +19,4 @@ The Cornershop Bar is a music venue in London listed on soundcheck. 6 upcoming n
 
 123 Shoreditch High Street  London E1 6JE, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*

@@ -1,6 +1,6 @@
 # The Bellwether
 
-The Bellwether is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Adam Lambert" on Fri, 10 Jul 2026.
+The Bellwether is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Adam Lambert" on Fri, 10 Jul 2026.
 
 The Bellwether is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including The Knocks and Tricky. Browse upcoming dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
 
@@ -19,4 +19,4 @@ The Bellwether is a music venue in Losangeles listed on soundcheck. 6 upcoming n
 
 333 S Boylston St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*

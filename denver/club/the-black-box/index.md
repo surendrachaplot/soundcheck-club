@@ -1,14 +1,13 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sub.mission presents: Mystic State" on Thu, 9 Jul 2026.
+The Black Box is a music venue in Denver with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Black Box presents: Figure (Drum & Bass Set)" on Fri, 10 Jul 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 13 upcoming nights, with line-ups including Amit, Beard-o-Bees, Brunson and Darkstar and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 12 upcoming nights, with line-ups including Amit, Beard-o-Bees, Brunson and Darkstar and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Sub.mission presents: Mystic State | Mystic State |
 | Fri, 10 Jul 2026 | The Black Box presents: Figure (Drum & Bass Set) | Ryan Vail |
 | Sat, 11 Jul 2026 | Recon & Reset: Vinyl Night Market | Brunson, Darkstar, Drowncast |
 | Thu, 16 Jul 2026 | The Black Box - Dewpoint with OddRhythm, Be Right Back |  |
@@ -18,9 +17,10 @@ The Black Box is a music venue in Denver listed on soundcheck. 13 upcoming night
 | Sat, 1 Aug 2026 | Sylph |  |
 | Thu, 6 Aug 2026 | Beard-o-Bees & Luke the Knife | Beard-o-Bees |
 | Sat, 8 Aug 2026 | The Black Box & Recon present: Amit | Amit, Grym, Jen Tops |
+| Thu, 13 Aug 2026 | Up NXT & The Black Box present: Blaow!, Slick Portal & Boop Dogg Ft. The Beat Bucket |  |
 
 ## Address
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

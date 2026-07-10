@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Garage Noord, Amsterdam on Fri, 10 Jul 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Garage Noord, Amsterdam on Fri, 10 Jul 2026.
 
 Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Garage Noord, Amsterdam on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 128 set
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

@@ -1,6 +1,6 @@
 # Publika
 
-Publika is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "No More Stereotype Concept Music Festival" on Sat, 8 Aug 2026.
+Publika is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "No More Stereotype Concept Music Festival" on Sat, 8 Aug 2026.
 
 Publika is a music venue in Ghent listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Goudenleeuwplein 1, 9000 Gent.
 
@@ -14,4 +14,4 @@ Publika is a music venue in Ghent listed on soundcheck. 1 upcoming night. Browse
 
 Goudenleeuwplein 1, 9000 Gent, Ghent
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/publika/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/publika/)*

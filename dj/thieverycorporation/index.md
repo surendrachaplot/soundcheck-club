@@ -1,6 +1,6 @@
 # Thievery Corporation
 
-Thievery Corporation is a Downtempo and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Scorpios, Mykonos on Fri, 10 Jul 2026.
+Thievery Corporation is a Downtempo and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Scorpios, Mykonos on Fri, 10 Jul 2026.
 
 Thievery Corporation is a downtempo and electronica artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Chicago, Houston and Miami and 3 more. Often billed alongside DJ Shadow, 4 Hero and Alton Miller. Next up: Scorpios, Mykonos on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Thievery Corporation is a downtempo and electronica artist based in United State
 
 DJ Shadow, 4 Hero, Alton Miller
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thieverycorporation/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thieverycorporation/)*

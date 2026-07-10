@@ -1,6 +1,6 @@
 # Casa Dao
 
-Casa Dao is a music venue in Hong Kong with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DAO PRESENTS Jorge Caiado (PT)" on Fri, 10 Jul 2026.
+Casa Dao is a music venue in Hong Kong with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DAO PRESENTS Jorge Caiado (PT)" on Fri, 10 Jul 2026.
 
 Casa Dao is a music venue in Hongkong listed on soundcheck. 7 upcoming nights, with line-ups including Gargoyle Girlfriend, Jorge Caiado, Matt Davies and mredrollo. Browse upcoming dates, start times and who's playing. 21/F, Gold Union Commercial Building, 70-72 Connaught Rd W, Sheung Wan.
 
@@ -20,4 +20,4 @@ Casa Dao is a music venue in Hongkong listed on soundcheck. 7 upcoming nights, w
 
 21/F, Gold Union Commercial Building, 70-72 Connaught Rd W, Sheung Wan, Hong Kong
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casa-dao/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casa-dao/)*

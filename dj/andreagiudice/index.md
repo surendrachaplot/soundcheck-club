@@ -1,6 +1,6 @@
 # Andrea Giudice
 
-Andrea Giudice is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Colour Factory, London on Sat, 18 Jul 2026.
+Andrea Giudice is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Colour Factory, London on Sat, 18 Jul 2026.
 
 Andrea Giudice is a house and tech house artist tracked on soundcheck, with 100 sets logged across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: Colour Factory, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Andrea Giudice is a house and tech house artist tracked on soundcheck, with 100 
 
 Larry Cadge, Grittrip, Reeno
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*

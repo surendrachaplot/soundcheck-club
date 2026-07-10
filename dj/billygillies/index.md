@@ -1,6 +1,6 @@
 # Billy Gillies
 
-Billy Gillies is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Billy Gillies is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Cork, Denver, Dublin and Edinburgh and 19 more. Often billed alongside Giuseppe Ottaviani, Amy Wiles and Ferry Corsten. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Billy Gillies is a trance and techno artist based in United Kingdom, tracked on 
 
 Giuseppe Ottaviani, Amy Wiles, Ferry Corsten
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*

@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Balearic Beat: Up On The Roof 2026" on Sat, 11 Jul 2026.
+93 Feet East is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Balearic Beat: Up On The Roof 2026" on Sat, 11 Jul 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including KT, ADR (UK), Ariane V and Balearic London and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -20,4 +20,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

@@ -1,6 +1,6 @@
 # KEUT
 
-KEUT is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Gare / Le Gore, Paris on Sun, 12 Jul 2026.
+KEUT is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Gare / Le Gore, Paris on Sun, 12 Jul 2026.
 
 KEUT is a techno and house artist tracked on soundcheck, with 33 sets logged across Berlin, Losangeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: La Gare / Le Gore, Paris on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ KEUT is a techno and house artist tracked on soundcheck, with 33 sets logged acr
 
 GOTIS, Gabbor, Lastvuska
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*

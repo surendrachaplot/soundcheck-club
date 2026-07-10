@@ -1,6 +1,6 @@
 # KSMBA
 
-KSMBA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chinese Laundry, Sydney on Fri, 10 Jul 2026.
+KSMBA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Chinese Laundry, Sydney on Fri, 10 Jul 2026.
 
 KSMBA is a techno and house artist based in Australia, tracked on soundcheck, with 76 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Garfie, Ned Bennett and Prizefight. Next up: Chinese Laundry, Sydney on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ KSMBA is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 Garfie, Ned Bennett, Prizefight
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksmba/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ksmba/)*

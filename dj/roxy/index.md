@@ -1,6 +1,6 @@
 # ROXY
 
-ROXY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at UNDERCITY, Seoul on Fri, 10 Jul 2026.
+ROXY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UNDERCITY, Seoul on Fri, 10 Jul 2026.
 
 ROXY is a techno and house artist based in South Korea, tracked on soundcheck, with 58 sets logged across Barcelona, Madrid and Seoul. Often billed alongside Cy Nico, GaGi and Gumi. Next up: UNDERCITY, Seoul on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ ROXY is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 Cy Nico, GaGi, Gumi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roxy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roxy/)*

@@ -1,6 +1,6 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 10 Jul 2026.
+Tama Sumo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 10 Jul 2026.
 
 Tama Sumo is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Lakuti, Roi Perez and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Tama Sumo is a house and techno artist tracked on soundcheck, with 182 sets logg
 
 Lakuti, Roi Perez, BASHKKA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

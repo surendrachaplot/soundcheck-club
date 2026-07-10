@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "RAZZCLUBS:  Dj _Dave live + Paul Wolsch + Djooke + Babymorocco live " on Fri, 10 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "RAZZCLUBS:  Dj _Dave live + Paul Wolsch + Djooke + Babymorocco live " on Fri, 10 Jul 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including 8Kitoo, Aemilius, Alejandro Gata and Aleman Beatz and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

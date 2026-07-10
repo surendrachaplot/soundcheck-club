@@ -1,6 +1,6 @@
 # The Jacaranda
 
-The Jacaranda is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "JJerome87: Album Launch Show" on Sat, 11 Jul 2026.
+The Jacaranda is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "JJerome87: Album Launch Show" on Sat, 11 Jul 2026.
 
 The Jacaranda is a music venue in Liverpool listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 21-23 Slater St, Liverpool L1 4BW, UK.
 
@@ -15,4 +15,4 @@ The Jacaranda is a music venue in Liverpool listed on soundcheck. 2 upcoming nig
 
 21-23 Slater St, Liverpool L1 4BW, UK, Liverpool
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-jacaranda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-jacaranda/)*

@@ -1,14 +1,13 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Shimza | HVMZA | Mark Code" on Thu, 9 Jul 2026.
+Cavo Paradiso is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ilario Alicante | Ale De Tuglie | Fused" on Fri, 10 Jul 2026.
 
-Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming nights, with line-ups including Agent Greg, Ale De Tuglie, David Morales and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
+Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Agent Greg, Ale De Tuglie, David Morales and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Shimza / HVMZA / Mark Code | Shimza |
 | Fri, 10 Jul 2026 | Ilario Alicante / Ale De Tuglie / Fused | Ale De Tuglie, Fused, Ilario Alicante |
 | Sat, 11 Jul 2026 | Sonny Fodera / Egmond | Sonny Fodera |
 | Sun, 12 Jul 2026 | Genesi / Zerb / Freespirit | Freespirit, Genesi (IT) |
@@ -22,4 +21,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

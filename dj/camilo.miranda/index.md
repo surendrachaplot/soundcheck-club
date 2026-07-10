@@ -1,6 +1,6 @@
 # Camilo Miranda
 
-Camilo Miranda is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Malasaña, Madrid on Fri, 10 Jul 2026.
+Camilo Miranda is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Malasaña, Madrid on Fri, 10 Jul 2026.
 
 Camilo Miranda is a house and disco artist tracked on soundcheck, with 68 sets logged across Athens, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Luca Averna, Christian Len and Jaime Fiorito. Next up: Club Malasaña, Madrid on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Camilo Miranda is a house and disco artist tracked on soundcheck, with 68 sets l
 
 Luca Averna, Christian Len, Jaime Fiorito
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilo.miranda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilo.miranda/)*

@@ -1,6 +1,6 @@
 # Yass & Mali
 
-Yass & Mali is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
+Yass & Mali is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
 
 Yass & Mali are a house and tech house duo tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 5 more. Often billed alongside Samuel Deep, Doudou MD and Tristan da Cunha. Next up: TBA, Birmingham on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Yass & Mali are a house and tech house duo tracked on soundcheck, with 24 sets l
 
 Samuel Deep, Doudou MD, Tristan da Cunha
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yass&mali/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yass&mali/)*

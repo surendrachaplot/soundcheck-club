@@ -1,6 +1,6 @@
 # Tunnel Club
 
-Tunnel Club is a music venue in Birmingham with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Regis invites at Birmingham Techno: B.Traits, Rrose (live), Lemon D" on Fri, 31 Jul 2026.
+Tunnel Club is a music venue in Birmingham with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Regis invites at Birmingham Techno: B.Traits, Rrose (live), Lemon D" on Fri, 31 Jul 2026.
 
 Tunnel Club is a music venue in Birmingham listed on soundcheck. 4 upcoming nights, with line-ups including A*S*Y*S (2), B.Traits, Lemon D and Regis and 2 more. Browse upcoming dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
 
@@ -17,4 +17,4 @@ Tunnel Club is a music venue in Birmingham listed on soundcheck. 4 upcoming nigh
 
 Livery Street, Birmingham, B3 1HL, United Kingdom, Birmingham
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tunnel-club/)*

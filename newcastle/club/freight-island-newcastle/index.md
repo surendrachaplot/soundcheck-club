@@ -1,6 +1,6 @@
 # Freight Island Newcastle
 
-Freight Island Newcastle is a music venue in Newcastle with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Will Caulker + Adzmandala" on Fri, 10 Jul 2026.
+Freight Island Newcastle is a music venue in Newcastle with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Will Caulker + Adzmandala" on Fri, 10 Jul 2026.
 
 Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 8 upcoming nights, with line-ups including Carly Foxx, DJ Paulette, Gina Breeze and Horse Meat Disco and 1 more. Browse upcoming dates, start times and who's playing. 54 Newgate St, Newcastle upon Tyne NE1 5RQ.
 
@@ -21,4 +21,4 @@ Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 8 u
 
 54 Newgate St, Newcastle upon Tyne NE1 5RQ, Newcastle
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*

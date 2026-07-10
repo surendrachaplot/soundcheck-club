@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Chambord + Orkun Bozdemir + Opposition" on Sat, 11 Jul 2026.
+Klein Phönix is a music venue in Istanbul with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Chambord + Orkun Bozdemir + Opposition" on Sat, 11 Jul 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming nights, with line-ups including Alican, Bart Skils, Chambord and Fahlberg and 2 more. Browse upcoming dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -19,4 +19,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming nigh
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

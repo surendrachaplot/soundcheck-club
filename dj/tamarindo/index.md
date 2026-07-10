@@ -1,6 +1,6 @@
 # Tamarindo
 
-Tamarindo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sala Upload Barcelona, Barcelona on Sat, 11 Jul 2026.
+Tamarindo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sala Upload Barcelona, Barcelona on Sat, 11 Jul 2026.
 
 Tamarindo is a house and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside AINES, Acidnena and ONA (SP). Next up: Sala Upload Barcelona, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Tamarindo is a house and techno artist based in Spain, tracked on soundcheck, wi
 
 AINES, Acidnena, ONA (SP)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarindo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarindo/)*

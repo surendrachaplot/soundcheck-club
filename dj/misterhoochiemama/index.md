@@ -1,6 +1,6 @@
 # Mister Hoochiemama
 
-Mister Hoochiemama is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Chicago on Sat, 18 Jul 2026.
+Mister Hoochiemama is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Chicago on Sat, 18 Jul 2026.
 
 Mister Hoochiemama is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Chicago, Losangeles, Sanfrancisco and Toronto. Often billed alongside Mister Wallace, Club Chow and Miss Twink USA. Next up: TBA, Chicago on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Mister Hoochiemama is a house and techno artist based in United States of Americ
 
 Mister Wallace, Club Chow, Miss Twink USA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misterhoochiemama/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misterhoochiemama/)*

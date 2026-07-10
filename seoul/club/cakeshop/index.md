@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "【Guest Meets Vol.4】 with BIM ( live set)" on Fri, 10 Jul 2026.
+Cakeshop is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "【Guest Meets Vol.4】 with BIM ( live set)" on Fri, 10 Jul 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including August (3), ccottonmouth, Dan Dara and dayoung and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -19,4 +19,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

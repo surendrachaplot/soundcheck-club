@@ -1,6 +1,6 @@
 # Violently Happy
 
-Violently Happy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
+Violently Happy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MAS - Museum aan de Stroom, Antwerp on Sat, 8 Aug 2026.
 
 Violently Happy is a house and techno artist tracked on soundcheck, with 43 sets logged across Antwerp, Brussels, Ghent and Paris and 1 more. Often billed alongside Fais Le Beau, Lola Haro and Sixsixsixties. Next up: MAS - Museum aan de Stroom, Antwerp on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Violently Happy is a house and techno artist tracked on soundcheck, with 43 sets
 
 Fais Le Beau, Lola Haro, Sixsixsixties
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violentlyhappy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violentlyhappy/)*

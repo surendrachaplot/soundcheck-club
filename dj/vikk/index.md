@@ -1,6 +1,6 @@
 # VIKk
 
-VIKk is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
+VIKk is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
 
 VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Brussels and Budapest and 7 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 7
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

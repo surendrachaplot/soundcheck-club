@@ -1,6 +1,6 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Moktar: Live Debut - Soda Bar & High Ground" on Sat, 11 Jul 2026.
+The Night Cat is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Moktar: Live Debut - Soda Bar & High Ground" on Sat, 11 Jul 2026.
 
 The Night Cat is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Chris Luno and Moktar. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
@@ -17,4 +17,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 4 upcoming nig
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

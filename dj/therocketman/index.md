@@ -1,6 +1,6 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+The Rocketman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 The Rocketman is a techno and trance artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 17 more. Often billed alongside Maddix, Hannah Laing and Acid Asian. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ The Rocketman is a techno and trance artist tracked on soundcheck, with 33 sets 
 
 Maddix, Hannah Laing, Acid Asian
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

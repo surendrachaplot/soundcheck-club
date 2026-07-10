@@ -1,6 +1,6 @@
 # DJ Pierre
 
-DJ Pierre is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Petit CAB, Marseille on Sat, 25 Jul 2026.
+DJ Pierre is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Petit CAB, Marseille on Sat, 25 Jul 2026.
 
 DJ Pierre is an acid and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Buenosaires and 15 more. Often billed alongside Alex Pi, BLACKCLUB and BRKN. Next up: Petit CAB, Marseille on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Pierre is an acid and techno artist based in United States of America, tracke
 
 Alex Pi, BLACKCLUB, BRKN
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*

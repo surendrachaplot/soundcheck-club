@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Upper East, London on Fri, 10 Jul 2026.
+Julian Anthony is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Upper East, London on Fri, 10 Jul 2026.
 
 Julian Anthony is a house and tech house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Voigtmann and Samuel Deep. Next up: Upper East, London on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Julian Anthony is a house and tech house artist tracked on soundcheck, with 146 
 
 Laidlaw, Voigtmann, Samuel Deep
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

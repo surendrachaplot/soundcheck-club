@@ -1,6 +1,6 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
+Ariel Zetina is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
 
 Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: Lincoln Factory, Detroit on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets l
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

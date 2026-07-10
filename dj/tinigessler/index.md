@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+Tini Gessler is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
 Tini Gessler is a tech house and house artist tracked on soundcheck, with 126 sets logged across Bali, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: Silverworks Island, London on Sat 11 Jul.
 
@@ -34,4 +34,4 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 126 se
 
 Ilario Alicante, Andrea Oliva, Adam Beyer
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

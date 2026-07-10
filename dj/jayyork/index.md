@@ -1,6 +1,6 @@
 # jay york
 
-jay york is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Système, Montreal on Fri, 10 Jul 2026.
+jay york is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Système, Montreal on Fri, 10 Jul 2026.
 
 jay york is a techno and minimal techno artist tracked on soundcheck, with 65 sets logged across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Barbosa, Decoder and Adrian Hex. Next up: Système, Montreal on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ jay york is a techno and minimal techno artist tracked on soundcheck, with 65 se
 
 Barbosa, Decoder, Adrian Hex
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*

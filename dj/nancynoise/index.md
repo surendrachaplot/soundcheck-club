@@ -1,6 +1,6 @@
 # Nancy Noise
 
-Nancy Noise is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
+Nancy Noise is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
 
 Nancy Noise is a house and balearic artist tracked on soundcheck, with 26 sets logged across Brighton, Ibiza, London and Newcastle and 1 more. Often billed alongside Terry Farley, Stuart Patterson and Lisa Loud. Next up: 93 Feet East, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Nancy Noise is a house and balearic artist tracked on soundcheck, with 26 sets l
 
 Terry Farley, Stuart Patterson, Lisa Loud
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*

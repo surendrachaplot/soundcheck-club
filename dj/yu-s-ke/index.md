@@ -1,6 +1,6 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Tokyo on Sun, 19 Jul 2026.
+YU-S-KE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Tokyo on Sun, 19 Jul 2026.
 
 YU-S-KE is a techno and house artist tracked on soundcheck, with 56 sets logged across Tokyo. Often billed alongside Q'hey, Takami and ni-21. Next up: TBA, Tokyo on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ YU-S-KE is a techno and house artist tracked on soundcheck, with 56 sets logged 
 
 Q'hey, Takami, ni-21
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

@@ -1,6 +1,6 @@
 # MRGNSTRN
 
-MRGNSTRN is a Trance and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Leipzig on Sat, 1 Aug 2026.
+MRGNSTRN is a Trance and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Leipzig on Sat, 1 Aug 2026.
 
 MRGNSTRN is a trance and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside ELOISA, KLING&KLANG and Ozzwald. Next up: TBA, Leipzig on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ MRGNSTRN is a trance and house artist based in Germany, tracked on soundcheck, w
 
 ELOISA, KLING&KLANG, Ozzwald
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*

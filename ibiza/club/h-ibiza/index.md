@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 91 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Hugel presents Make The Girls Dance" on Thu, 9 Jul 2026.
+Hï Ibiza is a music venue in Ibiza with 90 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Dom Dolla" on Fri, 10 Jul 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 91 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 90 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Hugel presents Make The Girls Dance | Dombresky, Hugel, Les Castizos, Miss Monique, Rivo |
 | Fri, 10 Jul 2026 | Dom Dolla | Cody Currie, Dom Dolla, Ewan McVicar, Ghoulish |
 | Sat, 11 Jul 2026 | Black Coffee | Black Coffee, DJ EZ, Joe Rolét, M-High, Vanco |
 | Sun, 12 Jul 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto, Patrick Mason, Ramiro Lopez, Valentino |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 91 upcoming nights, wi
 | Thu, 16 Jul 2026 | Hugel presents Make The Girls Dance | Adapter, Eran Hersh, Hugel, Innellea, Melé, Miss Monique |
 | Fri, 17 Jul 2026 | Dom Dolla | Alinka, Bradley Zero, Dom Dolla, Ewan McVicar |
 | Sat, 18 Jul 2026 | Black Coffee | Black Coffee, Djammin, Fiona Kraft, Henrik Schwarz, MAXImum, Meeshy, Ossie, SHAE REID (2), Skepta, The Menendez Brothers |
+| Sun, 19 Jul 2026 | CamelPhat present Summer of Love | BIIA, CamelPhat, Indira Paganotto, Marhu |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

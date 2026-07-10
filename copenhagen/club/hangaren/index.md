@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Summer Season Opening: DJ BORING, B From E, Anna Logic, Harrison Heat, Mari to the future, NAT" on Fri, 10 Jul 2026.
+Hangaren is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Summer Season Opening: DJ BORING, B From E, Anna Logic, Harrison Heat, Mari to the future, NAT" on Fri, 10 Jul 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including Acid Pauli, Adam Eisert, Afgang and Âme and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

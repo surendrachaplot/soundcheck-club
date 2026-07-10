@@ -1,6 +1,6 @@
 # Leroy Rey
 
-Leroy Rey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Sun, 12 Jul 2026.
+Leroy Rey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Else, Berlin on Sun, 12 Jul 2026.
 
 Leroy Rey is a house and disco artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Berlin and London and 6 more. Often billed alongside Tonno Disko, Eileen (NL) and Laura Meester. Next up: Else, Berlin on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Leroy Rey is a house and disco artist tracked on soundcheck, with 78 sets logged
 
 Tonno Disko, Eileen (NL), Laura Meester
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leroyrey/)*

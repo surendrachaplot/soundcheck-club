@@ -1,6 +1,6 @@
 # Ladylike
 
-Ladylike is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 10 Jul 2026.
+Ladylike is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 10 Jul 2026.
 
 Ladylike is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Bristol and Detroit. Often billed alongside Father Dukes, Ryan Spencer and Scott Zacharias. Next up: Northern Lights Lounge, Detroit on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ladylike is a house and techno artist based in United States of America, tracked
 
 Father Dukes, Ryan Spencer, Scott Zacharias
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylike/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylike/)*

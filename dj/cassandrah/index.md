@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Nave Lady Adriana, Naples on Sun, 19 Jul 2026.
+cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Nave Lady Adriana, Naples on Sun, 19 Jul 2026.
 
 cassandrah is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 13 more. Often billed alongside Rian Wood, La Penderie Noire and Pura Solenne. Next up: TBA - Nave Lady Adriana, Naples on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 31 sets
 
 Rian Wood, La Penderie Noire, Pura Solenne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

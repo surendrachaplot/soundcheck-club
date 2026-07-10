@@ -1,6 +1,6 @@
 # Pirate Copy
 
-Pirate Copy is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
+Pirate Copy is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
 
 Pirate Copy is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Glasgow and Ibiza and 9 more. Often billed alongside Manda Moor, Wheats and wAFF. Next up: [UNVRS], Ibiza on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Pirate Copy is a tech house and house artist tracked on soundcheck, with 65 sets
 
 Manda Moor, Wheats, wAFF
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*

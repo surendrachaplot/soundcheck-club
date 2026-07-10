@@ -1,6 +1,6 @@
 # Franz Scala
 
-Franz Scala is a Italo Disco and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Paloma, Barcelona on Fri, 10 Jul 2026.
+Franz Scala is a Italo Disco and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Paloma, Barcelona on Fri, 10 Jul 2026.
 
 Franz Scala is an italo disco and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 25 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: La Paloma, Barcelona on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Franz Scala is an italo disco and house artist tracked on soundcheck, with 154 s
 
 Fabrizio Mammarella, Giulia Gutterer, Paty Vapor
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*

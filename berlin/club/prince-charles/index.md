@@ -1,6 +1,6 @@
 # Prince Charles
 
-Prince Charles is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Primal Instinct presents: Ritua" on Sat, 22 Aug 2026.
+Prince Charles is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Primal Instinct presents: Ritua" on Sat, 22 Aug 2026.
 
 Prince Charles is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Mall Grab. Browse upcoming dates, start times and who's playing. Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 2 upcoming night
 
 Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*

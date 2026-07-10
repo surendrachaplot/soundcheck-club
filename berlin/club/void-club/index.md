@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "VOID x Clubberware Vol.2 with Sebastian Strootmann, Ebi Cake, Tommy Gøre, Fredsn, Enjean, Upzet" on Fri, 10 Jul 2026.
+Void Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "VOID x Clubberware Vol.2 with Sebastian Strootmann, Ebi Cake, Tommy Gøre, Fredsn, Enjean, Upzet" on Fri, 10 Jul 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Agem, Alex Pastore, Andi Beat and Antiquis Anima and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

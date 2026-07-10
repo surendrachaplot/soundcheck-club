@@ -1,6 +1,6 @@
 # Oculist
 
-Oculist is a music venue in Brighton with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "We Bought A Garage" on Fri, 10 Jul 2026.
+Oculist is a music venue in Brighton with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "We Bought A Garage" on Fri, 10 Jul 2026.
 
 Oculist is a music venue in Brighton listed on soundcheck. 6 upcoming nights, with line-ups including AUDIO DUNE, Charlie, Esperanza and Haze (1) and 2 more. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
 
@@ -19,4 +19,4 @@ Oculist is a music venue in Brighton listed on soundcheck. 6 upcoming nights, wi
 
 2 Boyce's St, Brighton BN1 1AN, Brighton
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*

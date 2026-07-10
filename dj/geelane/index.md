@@ -1,6 +1,6 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ÆDEN, Berlin on Sat, 11 Jul 2026.
+Gee Lane is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ÆDEN, Berlin on Sat, 11 Jul 2026.
 
 Gee Lane is a house and disco artist tracked on soundcheck, with 110 sets logged across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: ÆDEN, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Gee Lane is a house and disco artist tracked on soundcheck, with 110 sets logged
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

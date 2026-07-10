@@ -1,6 +1,6 @@
 # DJ G1NA R.
 
-DJ G1NA R. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at elipamanoke, Leipzig on Fri, 10 Jul 2026.
+DJ G1NA R. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at elipamanoke, Leipzig on Fri, 10 Jul 2026.
 
 DJ G1NA R. is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and DJ SOFTICE. Next up: elipamanoke, Leipzig on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ DJ G1NA R. is a house and techno artist tracked on soundcheck, with 22 sets logg
 
 mp.ulle, MIDNXGHT, DJ SOFTICE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg1nar./)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg1nar./)*

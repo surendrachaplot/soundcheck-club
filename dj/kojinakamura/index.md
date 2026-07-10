@@ -1,6 +1,6 @@
 # Koji Nakamura
 
-Koji Nakamura is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Royal Lounge, Tokyo on Mon, 13 Jul 2026.
+Koji Nakamura is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Royal Lounge, Tokyo on Mon, 13 Jul 2026.
 
 Koji Nakamura is a house and minimal artist based in Japan, tracked on soundcheck, with 4 sets logged across Osaka and Tokyo. Often billed alongside AOI BLOOM, DJ SPOT and RReona. Next up: Royal Lounge, Tokyo on Mon 13 Jul.
 
@@ -20,4 +20,4 @@ Koji Nakamura is a house and minimal artist based in Japan, tracked on soundchec
 
 AOI BLOOM, DJ SPOT, RReona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*

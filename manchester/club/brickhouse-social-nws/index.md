@@ -1,6 +1,6 @@
 # Brickhouse Social NWS
 
-Brickhouse Social NWS is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "[CANCELLED] Good Custard presents: Disco Day Party" on Sat, 11 Jul 2026.
+Brickhouse Social NWS is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "[CANCELLED] Good Custard presents: Disco Day Party" on Sat, 11 Jul 2026.
 
 Brickhouse Social NWS is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Kellit and Max Kion. Browse upcoming dates, start times and who's playing. 11-13 New Wakefield St, Manchester M1 5NP, United Kingdom.
 
@@ -14,4 +14,4 @@ Brickhouse Social NWS is a music venue in Manchester listed on soundcheck. 1 upc
 
 11-13 New Wakefield St, Manchester M1 5NP, United Kingdom, Manchester
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/brickhouse-social-nws/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/brickhouse-social-nws/)*

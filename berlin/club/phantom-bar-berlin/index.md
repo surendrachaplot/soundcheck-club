@@ -1,6 +1,6 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "CUNTCORE" on Sat, 11 Jul 2026.
+Phantom Bar Berlin is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CUNTCORE" on Sat, 11 Jul 2026.
 
 Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including A6IIR, Alinka, Berlin Bunny and Chris Liebing and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
@@ -18,4 +18,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming n
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

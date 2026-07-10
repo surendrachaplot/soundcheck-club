@@ -1,6 +1,6 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The White Hotel, Manchester on Sat, 11 Jul 2026.
+IMOGEN is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The White Hotel, Manchester on Sat, 11 Jul 2026.
 
 IMOGEN is a techno and electro artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: The White Hotel, Manchester on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ IMOGEN is a techno and electro artist tracked on soundcheck, with 140 sets logge
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

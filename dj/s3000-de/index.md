@@ -1,6 +1,6 @@
 # S.3000
 
-S.3000 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jonny Knüppel, Berlin on Sat, 11 Jul 2026.
+S.3000 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jonny Knüppel, Berlin on Sat, 11 Jul 2026.
 
 S.3000 is a techno and trance artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Leipzig. Often billed alongside DJ-Ween, Zetson and Daddy Short Leg. Next up: Jonny Knüppel, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ S.3000 is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 DJ-Ween, Zetson, Daddy Short Leg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s3000-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s3000-de/)*

@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Nachtfalter pres Alyne" on Fri, 10 Jul 2026.
+Die Rakete is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Nachtfalter pres Alyne" on Fri, 10 Jul 2026.
 
 Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights, with line-ups including Acid Foxy, Alyne, Amanda Mussi and Bee Lincoln and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -22,4 +22,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

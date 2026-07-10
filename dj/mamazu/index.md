@@ -1,6 +1,6 @@
 # Mamazu
 
-Mamazu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Oath, Tokyo on Sat, 11 Jul 2026.
+Mamazu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Oath, Tokyo on Sat, 11 Jul 2026.
 
 Mamazu is a house and techno artist tracked on soundcheck, with 94 sets logged across Barcelona, Brussels, Kyoto and Osaka and 1 more. Often billed alongside Sunga, YO.AN and REO MATSUMOTO. Next up: Oath, Tokyo on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Mamazu is a house and techno artist tracked on soundcheck, with 94 sets logged a
 
 Sunga, YO.AN, REO MATSUMOTO
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mamazu/)*

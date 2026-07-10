@@ -1,6 +1,6 @@
 # Ray Mang
 
-Ray Mang is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
+Ray Mang is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
 
 Ray Mang is a house and disco artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Glasgow and London and 6 more. Often billed alongside Bill Brewster, Sean Innit and Frank Broughton. Next up: 93 Feet East, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Ray Mang is a house and disco artist tracked on soundcheck, with 48 sets logged 
 
 Bill Brewster, Sean Innit, Frank Broughton
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raymang/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raymang/)*

@@ -1,6 +1,6 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "WE ARE ONE x MTW - FESTIVAL - 2 DAY - 26H - 40+ ACTS" on Fri, 17 Jul 2026.
+MTW is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "WE ARE ONE x MTW - FESTIVAL - 2 DAY - 26H - 40+ ACTS" on Fri, 17 Jul 2026.
 
 MTW is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights, with line-ups including A.T.E.K, AMBAM, CiKi and Daro and 2 more. Browse upcoming dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
@@ -16,4 +16,4 @@ MTW is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights, with 
 
 Nordring 131, 63067 Offenbach, Germany, Frankfurt
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*

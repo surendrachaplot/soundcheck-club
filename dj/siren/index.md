@@ -1,6 +1,6 @@
 # Siren
 
-Siren is a Drum & Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Meadows, New York City on Sat, 11 Jul 2026.
+Siren is a Drum & Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Meadows, New York City on Sat, 11 Jul 2026.
 
 Siren is a drum & bass and garage artist tracked on soundcheck, with 23 sets logged across Auckland, Cologne, Denver and Ibiza and 7 more. Often billed alongside Hybrid Minds, CHASE and Futurebound. Next up: The Meadows, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Siren is a drum & bass and garage artist tracked on soundcheck, with 23 sets log
 
 Hybrid Minds, CHASE, Futurebound
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*

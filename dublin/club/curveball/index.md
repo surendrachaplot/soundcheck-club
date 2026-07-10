@@ -1,6 +1,6 @@
 # Curveball
 
-Curveball is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Inafekt @ Curveball" on Sat, 18 Jul 2026.
+Curveball is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Inafekt @ Curveball" on Sat, 18 Jul 2026.
 
 Curveball is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Inafekt, MTC. and Myles O’Rourke. Browse upcoming dates, start times and who's playing. Curved St, Temple Bar, Dublin, D02 RD26.
 
@@ -16,4 +16,4 @@ Curveball is a music venue in Dublin listed on soundcheck. 3 upcoming nights, wi
 
 Curved St, Temple Bar, Dublin, D02 RD26, Dublin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*

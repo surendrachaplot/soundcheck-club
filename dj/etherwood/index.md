@@ -1,6 +1,6 @@
 # Etherwood
 
-Etherwood is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Fox and Firkin, London on Fri, 17 Jul 2026.
+Etherwood is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Fox and Firkin, London on Fri, 17 Jul 2026.
 
 Etherwood is a drum & bass and jungle artist tracked on soundcheck, with 34 sets logged across Auckland, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Hugh Hardie, Camo & Krooked and Pola & Bryson. Next up: The Fox and Firkin, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Etherwood is a drum & bass and jungle artist tracked on soundcheck, with 34 sets
 
 Hugh Hardie, Camo & Krooked, Pola & Bryson
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etherwood/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etherwood/)*

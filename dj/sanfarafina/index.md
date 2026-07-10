@@ -1,6 +1,6 @@
 # San Farafina
 
-San Farafina is a Afro House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
+San Farafina is a Afro House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
 
 San Farafina is an afro house and club artist based in Canada, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Pierre Kwenders, Moonshine and NegoO. Next up: The Cause, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ San Farafina is an afro house and club artist based in Canada, tracked on soundc
 
 Pierre Kwenders, Moonshine, NegoO
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanfarafina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanfarafina/)*

@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
+The Shapeshifters is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
 
 The Shapeshifters is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 30 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: KOKO, London on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ The Shapeshifters is a house and disco artist tracked on soundcheck, with 118 se
 
 Melvo Baptiste, Horse Meat Disco, Natasha Diggs
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

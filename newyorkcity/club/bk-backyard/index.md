@@ -1,6 +1,6 @@
 # BK Backyard
 
-BK Backyard is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "[CANCELLED] Teksupport: Westend" on Fri, 17 Jul 2026.
+BK Backyard is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "[CANCELLED] Teksupport: Westend" on Fri, 17 Jul 2026.
 
 BK Backyard is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Chris Cruse, Jamback, Peter Napoli and Rossi and 1 more. Browse upcoming dates, start times and who's playing. 151 Banker Street, Brooklyn, NY 11222, USA.
 
@@ -16,4 +16,4 @@ BK Backyard is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nig
 
 151 Banker Street, Brooklyn, NY 11222, USA, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bk-backyard/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bk-backyard/)*

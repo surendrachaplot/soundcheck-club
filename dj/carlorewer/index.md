@@ -1,6 +1,6 @@
 # Carlo Rewer
 
-Carlo Rewer is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bikini Club, Barcelona on Fri, 10 Jul 2026.
+Carlo Rewer is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bikini Club, Barcelona on Fri, 10 Jul 2026.
 
 Carlo Rewer is a house and tech house artist tracked on soundcheck, with 49 sets logged across Barcelona and London. Often billed alongside Dafunkas, Alice Youngling and Nesi. Next up: Bikini Club, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Carlo Rewer is a house and tech house artist tracked on soundcheck, with 49 sets
 
 Dafunkas, Alice Youngling, Nesi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlorewer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlorewer/)*

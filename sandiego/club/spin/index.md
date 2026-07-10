@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "LED presents SURFTEAM" on Fri, 10 Jul 2026.
+Spin is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "LED presents SURFTEAM" on Fri, 10 Jul 2026.
 
 Spin is a music venue in Sandiego listed on soundcheck. 12 upcoming nights, with line-ups including aali, Borgore, Bump and Ugly and Crissy Criss and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 12 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

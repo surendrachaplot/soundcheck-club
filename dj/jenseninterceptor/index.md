@@ -1,6 +1,6 @@
 # Jensen Interceptor
 
-Jensen Interceptor is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 24 Jul 2026.
+Jensen Interceptor is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Haus der Visionäre, Berlin on Fri, 24 Jul 2026.
 
 Jensen Interceptor is a techno and electro artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Lawrence Lee, Yazzus and DJ MELL G. Next up: Haus der Visionäre, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Jensen Interceptor is a techno and electro artist tracked on soundcheck, with 12
 
 Lawrence Lee, Yazzus, DJ MELL G
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenseninterceptor/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenseninterceptor/)*

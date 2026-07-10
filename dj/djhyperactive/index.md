@@ -1,6 +1,6 @@
 # DJ Hyperactive
 
-DJ Hyperactive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - The Bike Lane, Chicago on Sat, 11 Jul 2026.
+DJ Hyperactive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - The Bike Lane, Chicago on Sat, 11 Jul 2026.
 
 DJ Hyperactive is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Chicago and Detroit and 6 more. Often billed alongside Truncate, Brenda and Dru Ruiz. Next up: TBA - The Bike Lane, Chicago on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ DJ Hyperactive is a techno and house artist tracked on soundcheck, with 97 sets 
 
 Truncate, Brenda, Dru Ruiz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperactive/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperactive/)*

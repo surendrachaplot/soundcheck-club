@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+ARMANA KHAN is a Club and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 ARMANA KHAN is a club and baile funk artist based in United States of America, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 22 more. Often billed alongside ARCHANGEL (US), Manuka Honey and SAMIA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, t
 
 ARCHANGEL (US), Manuka Honey, SAMIA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

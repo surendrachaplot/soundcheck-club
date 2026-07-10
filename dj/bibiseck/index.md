@@ -1,6 +1,6 @@
 # Bibi Seck
 
-Bibi Seck is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moonfield, Antwerp on Fri, 10 Jul 2026.
+Bibi Seck is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moonfield, Antwerp on Fri, 10 Jul 2026.
 
 Bibi Seck is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: Moonfield, Antwerp on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Bibi Seck is a house and techno artist tracked on soundcheck, with 109 sets logg
 
 John Noseda, BAVR, Faisal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

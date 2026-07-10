@@ -1,6 +1,6 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tapada da Ajuda, Lisbon on Sun, 12 Jul 2026.
+Nic Fanciulli is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tapada da Ajuda, Lisbon on Sun, 12 Jul 2026.
 
 Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Tapada da Ajuda, Lisbon on Sun 12 Jul.
 
@@ -36,4 +36,4 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 194 s
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

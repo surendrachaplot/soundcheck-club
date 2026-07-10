@@ -1,6 +1,6 @@
 # Stathis (GR)
 
-Stathis (GR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 10 Jul 2026.
+Stathis (GR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 10 Jul 2026.
 
 Stathis (GR) is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Luigi Di Venere, Maria Politi and K.atou. Next up: CLUB RAUM, Amsterdam on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Stathis (GR) is a house and techno artist tracked on soundcheck, with 56 sets lo
 
 Luigi Di Venere, Maria Politi, K.atou
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stathis-gr/)*

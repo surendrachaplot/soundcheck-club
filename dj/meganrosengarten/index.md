@@ -1,6 +1,6 @@
 # Megan Rosengarten
 
-Megan Rosengarten is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 195 Morgan Ave, New York City on Fri, 10 Jul 2026.
+Megan Rosengarten is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 195 Morgan Ave, New York City on Fri, 10 Jul 2026.
 
 Megan Rosengarten is a techno and experimental artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin and Newyorkcity. Often billed alongside Wren's Lullaby, Friedberg and B-SiiDE. Next up: 195 Morgan Ave, Newyorkcity on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Megan Rosengarten is a techno and experimental artist based in United States of 
 
 Wren's Lullaby, Friedberg, B-SiiDE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*

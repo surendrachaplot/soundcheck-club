@@ -1,6 +1,6 @@
 # DDK (1)
 
-DDK (1) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Stalin, Prague on Sat, 11 Jul 2026.
+DDK (1) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Stalin, Prague on Sat, 11 Jul 2026.
 
 DDK (1) is a techno and tech house artist tracked on soundcheck, with 52 sets logged across Berlin, Prague and Stuttgart. Often billed alongside zazitech, RADYK and jardabpm. Next up: Stalin, Prague on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ DDK (1) is a techno and tech house artist tracked on soundcheck, with 52 sets lo
 
 zazitech, RADYK, jardabpm
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*

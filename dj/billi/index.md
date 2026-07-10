@@ -1,6 +1,6 @@
 # Billi
 
-Billi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Myra, Lisbon on Sat, 11 Jul 2026.
+Billi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Myra, Lisbon on Sat, 11 Jul 2026.
 
 Billi is a house and deep house artist tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside FRESKO, Tiago Marques and Tíago. Next up: Myra, Lisbon on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Billi is a house and deep house artist tracked on soundcheck, with 13 sets logge
 
 FRESKO, Tiago Marques, Tíago
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*

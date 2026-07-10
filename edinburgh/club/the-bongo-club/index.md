@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "☻ Bongo Summer Closing Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻" on Fri, 10 Jul 2026.
+The Bongo Club is a music venue in Edinburgh with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "☻ Bongo Summer Closing Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻" on Fri, 10 Jul 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 8 upcoming nights, with line-ups including ALNA, Arrosa, billybawbags and Dany (2) and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -21,4 +21,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 8 upcoming ni
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

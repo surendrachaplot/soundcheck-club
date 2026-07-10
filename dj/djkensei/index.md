@@ -1,6 +1,6 @@
 # DJ Kensei
 
-DJ Kensei is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at R Lounge, Tokyo on Fri, 17 Jul 2026.
+DJ Kensei is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at R Lounge, Tokyo on Fri, 17 Jul 2026.
 
 DJ Kensei is a house and techno artist based in Japan, tracked on soundcheck, with 61 sets logged across Bangkok, Kyoto, Osaka and Tokyo. Often billed alongside Sunga, YouForgot and 7e. Next up: R Lounge, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DJ Kensei is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 Sunga, YouForgot, 7e
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkensei/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkensei/)*

@@ -1,6 +1,6 @@
 # Cafe 1001
 
-Cafe 1001 is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Artwork at 1001" on Sun, 12 Jul 2026.
+Cafe 1001 is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Artwork at 1001" on Sun, 12 Jul 2026.
 
 Cafe 1001 is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Artwork, Emanuel Pavlova, Gaby D'Annunzio and Hannah Lamb and 2 more. Browse upcoming dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
 
@@ -16,4 +16,4 @@ Cafe 1001 is a music venue in London listed on soundcheck. 3 upcoming nights, wi
 
 91 Brick Lane, London E1 6QL, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-1001/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-1001/)*

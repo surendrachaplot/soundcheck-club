@@ -1,6 +1,6 @@
 # Mas Kato
 
-Mas Kato is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 10 Jul 2026.
+Mas Kato is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 10 Jul 2026.
 
 Mas Kato is a minimal and house artist based in Australia, tracked on soundcheck, with 41 sets logged across Bali, Brisbane, Melbourne and Osaka and 2 more. Often billed alongside Kazuma Onishi, Jmcee and Blană. Next up: Angel Music Bar, Melbourne on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Mas Kato is a minimal and house artist based in Australia, tracked on soundcheck
 
 Kazuma Onishi, Jmcee, Blană
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maskato/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maskato/)*

@@ -1,8 +1,8 @@
 # Theata
 
-Theata is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 29 Aug 2026.
+Theata is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 29 Aug 2026.
 
-Theata is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including BADBOX, Mr Silk and Rancido. Browse upcoming dates, start times and who's playing. 8 Victoria Embankment,  London, WC2R 2AB.
+Theata is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including BADBOX, Mr Silk and Rancido. Browse upcoming dates, start times and who's playing. 8 Victoria Embankment,  London, WC2R 2AB.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Theata is a music venue in London listed on soundcheck. 2 upcoming nights, with 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Kronologik Rekords presents: BADBOX & Friends | BADBOX, Mr Silk, Rancido |
 | Fri, 4 Sept 2026 | DA DUNGEON a night on the bank |  |
+| Sat, 26 Sept 2026 | XVII - LONDON  |  |
 
 ## Address
 
 8 Victoria Embankment,  London, WC2R 2AB, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/theata/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/theata/)*

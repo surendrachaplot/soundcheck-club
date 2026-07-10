@@ -1,6 +1,6 @@
 # Gehør
 
-Gehør is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Øyvind Morken - All night" on Sat, 11 Jul 2026.
+Gehør is a music venue in Oslo with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Øyvind Morken - All night" on Sat, 11 Jul 2026.
 
 Gehør is a music venue in Oslo listed on soundcheck. 2 upcoming nights, with line-ups including Harald Björk, Øyvind Morken and Pavlo Plastikk. Browse upcoming dates, start times and who's playing. Bernt ankers gate 39, 0179 Oslo.
 
@@ -15,4 +15,4 @@ Gehør is a music venue in Oslo listed on soundcheck. 2 upcoming nights, with li
 
 Bernt ankers gate 39, 0179 Oslo, Oslo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/geh-r/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/geh-r/)*

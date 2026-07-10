@@ -1,6 +1,6 @@
 # DJ ISE
 
-DJ ISE is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 10 Jul 2026.
+DJ ISE is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 10 Jul 2026.
 
 DJ ISE is a house and deep house artist based in Japan, tracked on soundcheck, with 105 sets logged across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, DQ Sakura and KIMURA. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ DJ ISE is a house and deep house artist based in Japan, tracked on soundcheck, w
 
 Masayoshi Kimura, DQ Sakura, KIMURA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djise/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djise/)*

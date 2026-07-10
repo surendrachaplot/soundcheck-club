@@ -1,6 +1,6 @@
 # Uffie
 
-Uffie is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Silverlake, Los Angeles on Fri, 10 Jul 2026.
+Uffie is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Silverlake, Los Angeles on Fri, 10 Jul 2026.
 
 Uffie is an electro and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 12 more. Often billed alongside Feadz, Boston Bun and Breakbot. Next up: TBA - Silverlake, Losangeles on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Uffie is an electro and house artist based in United States of America, tracked 
 
 Feadz, Boston Bun, Breakbot
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uffie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uffie/)*

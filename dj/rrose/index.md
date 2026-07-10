@@ -1,6 +1,6 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at IKLECTIK, London on Sat, 11 Jul 2026.
+Rrose is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at IKLECTIK, London on Sat, 11 Jul 2026.
 
 Rrose is a techno and experimental artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside DJ Nobu, Wata Igarashi and upsammy. Next up: IKLECTIK, London on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ Rrose is a techno and experimental artist tracked on soundcheck, with 131 sets l
 
 DJ Nobu, Wata Igarashi, upsammy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

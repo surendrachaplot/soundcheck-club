@@ -1,6 +1,6 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club der Visionaere, Berlin on Fri, 10 Jul 2026.
+Clovis is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club der Visionaere, Berlin on Fri, 10 Jul 2026.
 
 Clovis is a house and minimal artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Boston and 14 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Club der Visionaere, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Clovis is a house and minimal artist tracked on soundcheck, with 90 sets logged 
 
 Cesar Merveille, Topper, Inner
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*

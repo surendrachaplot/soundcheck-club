@@ -1,6 +1,6 @@
 # Ephy Pinkman
 
-Ephy Pinkman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ://about blank, Berlin on Fri, 10 Jul 2026.
+Ephy Pinkman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ://about blank, Berlin on Fri, 10 Jul 2026.
 
 Ephy Pinkman is a techno and trance artist based in Germany, tracked on soundcheck, with 83 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside Polytoxic, Kacy and Zoe Zett. Next up: ://about blank, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Ephy Pinkman is a techno and trance artist based in Germany, tracked on soundche
 
 Polytoxic, Kacy, Zoe Zett
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ephypinkman/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ephypinkman/)*

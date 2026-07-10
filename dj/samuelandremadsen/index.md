@@ -1,6 +1,6 @@
 # S.A.M.
 
-S.A.M. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+S.A.M. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 S.A.M. is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 13 more. Often billed alongside Litmus, Benny Rodrigues and Michel de Hey. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ S.A.M. is a house and techno artist tracked on soundcheck, with 74 sets logged a
 
 Litmus, Benny Rodrigues, Michel de Hey
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelandremadsen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelandremadsen/)*

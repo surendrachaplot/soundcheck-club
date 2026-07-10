@@ -1,6 +1,6 @@
 # The Purple Owl
 
-The Purple Owl is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "The Oasis: Day Ritual of Sound Healing & Tribal Music" on Sun, 2 Aug 2026.
+The Purple Owl is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Oasis: Day Ritual of Sound Healing & Tribal Music" on Sun, 2 Aug 2026.
 
 The Purple Owl is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Leonid K, Mez (2), Parra Vie and Samirah. Browse upcoming dates, start times and who's playing. Unit 1, Delta Business Park, 10 Smugglers Way, London SW18 1EG.
 
@@ -14,4 +14,4 @@ The Purple Owl is a music venue in London listed on soundcheck. 1 upcoming night
 
 Unit 1, Delta Business Park, 10 Smugglers Way, London SW18 1EG, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-purple-owl/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-purple-owl/)*

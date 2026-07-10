@@ -1,6 +1,6 @@
 # Blair French
 
-Blair French is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cannons, Detroit on Sat, 11 Jul 2026.
+Blair French is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cannons, Detroit on Sat, 11 Jul 2026.
 
 Blair French is a house and balearic artist based in United States of America, tracked on soundcheck, with 22 sets logged across Detroit. Often billed alongside Todd Modes, David A-P and Peter Croce. Next up: Cannons, Detroit on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Blair French is a house and balearic artist based in United States of America, t
 
 Todd Modes, David A-P, Peter Croce
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blairfrench/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blairfrench/)*

@@ -1,6 +1,6 @@
 # The Neighbourgood Market
 
-The Neighbourgood Market is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Euan Redpath" on Fri, 10 Jul 2026.
+The Neighbourgood Market is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Euan Redpath" on Fri, 10 Jul 2026.
 
 The Neighbourgood Market is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Portgower Place Edinburgh EH4 1HQ.
 
@@ -15,4 +15,4 @@ The Neighbourgood Market is a music venue in Edinburgh listed on soundcheck. 2 u
 
 Portgower Place Edinburgh EH4 1HQ, Edinburgh
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-neighbourgood-market/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-neighbourgood-market/)*

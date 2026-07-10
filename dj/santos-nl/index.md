@@ -1,6 +1,6 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Toffler, Rotterdam on Fri, 31 Jul 2026.
+SANTØS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Toffler, Rotterdam on Fri, 31 Jul 2026.
 
 SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: Toffler, Rotterdam on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ SANTØS is a techno and industrial artist based in Netherlands, tracked on sound
 
 KLOFAMA, KARAH, 6EJOU
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

@@ -1,6 +1,6 @@
 # EUPHORBIA at TBA
 
-EUPHORBIA at TBA on Sat 15 Aug, Sandiego. 3 acts on the bill: Atrevido, CONFLICT BUREAU and agraybé. House and Acid. Preview the line-up and save it on soundcheck.
+EUPHORBIA at TBA on Sat 15 Aug, Sandiego. 4 acts on the bill: Atrevido, CONFLICT BUREAU, David L and agraybé. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ EUPHORBIA at TBA on Sat 15 Aug, Sandiego. 3 acts on the bill: Atrevido, CONFLICT
 
 - Atrevido
 - CONFLICT BUREAU
+- David L
 - agraybé
 
 *Source: [soundcheck](https://soundcheck.club/e/2480985-euphorbia-at-tba/)*

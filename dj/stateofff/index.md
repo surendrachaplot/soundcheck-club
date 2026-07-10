@@ -1,6 +1,6 @@
 # State OFFF
 
-State OFFF is a Gqom and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
+State OFFF is a Gqom and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
 
 State OFFF is a gqom and club artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 12 more. Often billed alongside Wes Lee, Ikonika and Batu. Next up: Shunter, Rotterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ State OFFF is a gqom and club artist based in Netherlands, tracked on soundcheck
 
 Wes Lee, Ikonika, Batu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofff/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stateofff/)*

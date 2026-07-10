@@ -1,6 +1,6 @@
 # Greg Brockmann
 
-Greg Brockmann is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Glove That Fits, London on Sat, 11 Jul 2026.
+Greg Brockmann is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Glove That Fits, London on Sat, 11 Jul 2026.
 
 Greg Brockmann is a techno and minimal techno artist tracked on soundcheck, with 39 sets logged across Barcelona and London. Often billed alongside Sam Bangura, Olita (UK) and Darush. Next up: The Glove That Fits, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Greg Brockmann is a techno and minimal techno artist tracked on soundcheck, with
 
 Sam Bangura, Olita (UK), Darush
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbrockmann/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbrockmann/)*

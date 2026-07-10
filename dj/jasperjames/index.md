@@ -1,6 +1,6 @@
 # Jasper James
 
-Jasper James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at XOYO, London on Sat, 18 Jul 2026.
+Jasper James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at XOYO, London on Sat, 18 Jul 2026.
 
 Jasper James is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Ewan McVicar, MiNNA and Tom Trago. Next up: XOYO, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Jasper James is a house and techno artist tracked on soundcheck, with 90 sets lo
 
 Ewan McVicar, MiNNA, Tom Trago
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*

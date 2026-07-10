@@ -1,6 +1,6 @@
 # ASHTATTZ
 
-ASHTATTZ is a Electronica and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Forum Station, Barcelona on Fri, 10 Jul 2026.
+ASHTATTZ is a Electronica and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Forum Station, Barcelona on Fri, 10 Jul 2026.
 
 ASHTATTZ is an electronica and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Vienna. Often billed alongside Absoluut, Doppelgang and Protopapa. Next up: Forum Station, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ ASHTATTZ is an electronica and tech house artist tracked on soundcheck, with 13 
 
 Absoluut, Doppelgang, Protopapa
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*

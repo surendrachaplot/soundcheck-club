@@ -1,6 +1,6 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
+Verraco is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
 Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Fvtvr, Paris on Fri 10 Jul.
 
@@ -34,4 +34,4 @@ Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged 
 
 Bitter Babe, CCL, Batu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

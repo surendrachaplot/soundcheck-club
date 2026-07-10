@@ -1,6 +1,6 @@
 # DJ Koze
 
-DJ Koze is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 12 Jul 2026.
+DJ Koze is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 DJ Koze is a house and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Bonobo, ANOTR and Ada. Next up: Chinois Ibiza, Ibiza on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ DJ Koze is a house and techno artist tracked on soundcheck, with 59 sets logged 
 
 Bonobo, ANOTR, Ada
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoze/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoze/)*

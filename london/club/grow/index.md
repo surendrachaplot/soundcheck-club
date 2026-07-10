@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "The People, The Place: Beringei // Footshooter // Ruby Francis" on Fri, 10 Jul 2026.
+Grow is a music venue in London with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The People, The Place: Beringei // Footshooter // Ruby Francis" on Fri, 10 Jul 2026.
 
 Grow is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alfie Panaiotis, Apiento, Aqwea and ARLYSS and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -23,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 13 upcoming nights, with l
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

@@ -1,6 +1,6 @@
 # Harriet Jaxxon
 
-Harriet Jaxxon is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
+Harriet Jaxxon is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
 Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Auckland, Berlin, Boston and Brighton and 22 more. Often billed alongside Mozey, Inja and Voltage. Next up: Burgess Park, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 58
 
 Mozey, Inja, Voltage
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*

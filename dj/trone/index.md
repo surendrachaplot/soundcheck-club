@@ -1,6 +1,6 @@
 # Tr One
 
-Tr One is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Chicago on Fri, 10 Jul 2026.
+Tr One is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Chicago on Fri, 10 Jul 2026.
 
 Tr One is a house and techno artist tracked on soundcheck, with 52 sets logged across Berlin, Chicago, Cork and Dublin and 3 more. Often billed alongside Jack Devine, Doiléir and KASK. Next up: TBA, Chicago on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Tr One is a house and techno artist tracked on soundcheck, with 52 sets logged a
 
 Jack Devine, Doiléir, KASK
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trone/)*

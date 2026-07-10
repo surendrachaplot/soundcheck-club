@@ -1,6 +1,6 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Rave Ritual IT Athens ( 5 euro all night)" on Sat, 11 Jul 2026.
+IT Athens is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Rave Ritual IT Athens ( 5 euro all night)" on Sat, 11 Jul 2026.
 
 IT Athens is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including MOSHBEAT, Plagger and TYPEO (3). Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
@@ -15,4 +15,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 2 upcoming nights, wi
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

@@ -1,6 +1,6 @@
 # Mika Oki
 
-Mika Oki is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gazometro, Rome on Fri, 10 Jul 2026.
+Mika Oki is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gazometro, Rome on Fri, 10 Jul 2026.
 
 Mika Oki is a bass and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Sara Persico, ojoo and NVST. Next up: Gazometro, Rome on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Mika Oki is a bass and techno artist tracked on soundcheck, with 64 sets logged 
 
 Sara Persico, ojoo, NVST
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*

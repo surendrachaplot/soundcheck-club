@@ -1,6 +1,6 @@
 # Louison
 
-Louison is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
+Louison is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
 Louison is a house and techno artist tracked on soundcheck, with 49 sets logged across Barcelona, Brussels, Lisbon and Lyon and 8 more. Often billed alongside Maco Maria, Jolly (FR) and LAMALICE. Next up: Fvtvr, Paris on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Louison is a house and techno artist tracked on soundcheck, with 49 sets logged 
 
 Maco Maria, Jolly (FR), LAMALICE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louison/)*

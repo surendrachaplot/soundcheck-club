@@ -1,6 +1,6 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bassiani, Tbilisi on Fri, 10 Jul 2026.
+Valley Dolly is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bassiani, Tbilisi on Fri, 10 Jul 2026.
 
 Valley Dolly is a house and techno artist tracked on soundcheck, with 59 sets logged across Berlin, Brussels, Lisbon and Munich and 3 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Bassiani, Tbilisi on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Valley Dolly is a house and techno artist tracked on soundcheck, with 59 sets lo
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

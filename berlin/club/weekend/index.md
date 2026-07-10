@@ -1,6 +1,6 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "WKND X OPERATOR" on Fri, 10 Jul 2026.
+Weekend is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "WKND X OPERATOR" on Fri, 10 Jul 2026.
 
 Weekend is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including AKA AKA, Alex Gallus, BOHO and Chris Di Perri and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 10 upcoming nights, wit
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

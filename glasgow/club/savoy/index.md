@@ -1,6 +1,6 @@
 # Savoy
 
-Savoy is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Generation GBX" on Sat, 11 Jul 2026.
+Savoy is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Generation GBX" on Sat, 11 Jul 2026.
 
 Savoy is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including George Bowie. Browse upcoming dates, start times and who's playing. 140 Sauchiehall St, Glasgow G2 3DH.
 
@@ -15,4 +15,4 @@ Savoy is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with 
 
 140 Sauchiehall St, Glasgow G2 3DH, Glasgow
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*

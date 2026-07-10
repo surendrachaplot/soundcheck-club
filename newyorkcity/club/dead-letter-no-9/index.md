@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Pabels, Timo Lee, Fabi Alonso, Úrsula, Vereda INTL & Tony Flow - Dead Letter No.9" on Fri, 10 Jul 2026.
+Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Pabels, Timo Lee, Fabi Alonso, Úrsula, Vereda INTL & Tony Flow - Dead Letter No.9" on Fri, 10 Jul 2026.
 
 Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alissa Brianna, BIGTER, Carozilla and CatLadyHi and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -23,4 +23,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcom
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

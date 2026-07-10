@@ -1,6 +1,6 @@
 # Royale
 
-Royale is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MADVKTM (Mad Dubz and VKTM): The Amalgamation Tour" on Sat, 11 Jul 2026.
+Royale is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MADVKTM (Mad Dubz and VKTM): The Amalgamation Tour" on Sat, 11 Jul 2026.
 
 Royale is a music venue in Boston listed on soundcheck. 6 upcoming nights, with line-ups including Franky Rizardo, Lilly Palmer and Meduza. Browse upcoming dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
 
@@ -19,4 +19,4 @@ Royale is a music venue in Boston listed on soundcheck. 6 upcoming nights, with 
 
 279 Tremont Street; Boston, MA 02116; United States, Boston
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*

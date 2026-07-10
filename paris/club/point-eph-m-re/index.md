@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "SUDAR x NEOWARRAS" on Fri, 10 Jul 2026.
+Point Ephémère is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SUDAR x NEOWARRAS" on Fri, 10 Jul 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including amil raja, A Psychic Yes, Beirut Groove Collective and Calling Marian and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -23,4 +23,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 10 upcoming nig
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

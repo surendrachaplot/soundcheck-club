@@ -1,6 +1,6 @@
 # XDB
 
-XDB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lx Factory, Lisbon on Thu, 16 Jul 2026.
+XDB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lx Factory, Lisbon on Thu, 16 Jul 2026.
 
 XDB is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: Lx Factory, Lisbon on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ XDB is a techno and house artist tracked on soundcheck, with 121 sets logged acr
 
 dj sweet6teen, Edward, Yamour
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

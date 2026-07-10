@@ -1,6 +1,6 @@
 # The River Thames
 
-The River Thames is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "HOUSEWORK presents SHIPWRECKED ON THE THAMES BOAT PARTY" on Sat, 18 Jul 2026.
+The River Thames is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "HOUSEWORK presents SHIPWRECKED ON THE THAMES BOAT PARTY" on Sat, 18 Jul 2026.
 
 The River Thames is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Butler's Wharf Pier, Shad Thames, London SE1 2YE.
 
@@ -14,4 +14,4 @@ The River Thames is a music venue in London listed on soundcheck. 1 upcoming nig
 
 Butler's Wharf Pier, Shad Thames, London SE1 2YE, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-river-thames/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-river-thames/)*

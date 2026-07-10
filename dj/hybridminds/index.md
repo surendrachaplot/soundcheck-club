@@ -1,6 +1,6 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
 
 Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: Tägi, Zurich on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 107 se
 
 K Motionz, Tempza, Andy C
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

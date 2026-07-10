@@ -1,6 +1,6 @@
 # Lccm
 
-Lccm is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Music Industry Monday: How Independent Artists Make Money with Bandcamp" on Mon, 13 Jul 2026.
+Lccm is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Music Industry Monday: How Independent Artists Make Money with Bandcamp" on Mon, 13 Jul 2026.
 
 Lccm is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 241 Union St, London SE1 0LR, United Kingdom.
 
@@ -15,4 +15,4 @@ Lccm is a music venue in London listed on soundcheck. 2 upcoming nights. Browse 
 
 241 Union St, London SE1 0LR, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lccm/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lccm/)*

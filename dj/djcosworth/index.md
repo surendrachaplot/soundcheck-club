@@ -1,6 +1,6 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Quarters, Brighton on Fri, 10 Jul 2026.
+DJ Cosworth is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Quarters, Brighton on Fri, 10 Jul 2026.
 
 DJ Cosworth is a garage and house artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 19 more. Often billed alongside Dr Dubplate, Yemz and Bakey. Next up: Quarters, Brighton on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ DJ Cosworth is a garage and house artist tracked on soundcheck, with 72 sets log
 
 Dr Dubplate, Yemz, Bakey
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

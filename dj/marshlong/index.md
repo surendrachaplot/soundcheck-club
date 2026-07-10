@@ -1,6 +1,6 @@
 # Marsh Long
 
-Marsh Long is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Secret Location (drops event day), Bucharest on Fri, 10 Jul 2026.
+Marsh Long is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Secret Location (drops event day), Bucharest on Fri, 10 Jul 2026.
 
 Marsh Long is a techno and house artist tracked on soundcheck, with 59 sets logged across Berlin, Brisbane, Bucharest and London and 5 more. Often billed alongside Andrea Guadalupi, Matteo Freyrie and AQUA-X. Next up: TBA - Secret Location (drops event day), Bucharest on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Marsh Long is a techno and house artist tracked on soundcheck, with 59 sets logg
 
 Andrea Guadalupi, Matteo Freyrie, AQUA-X
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marshlong/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marshlong/)*

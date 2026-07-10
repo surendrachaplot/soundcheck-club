@@ -1,6 +1,6 @@
 # Enkō
 
-Enkō is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Collect - Cais do Sodre, Lisbon on Fri, 10 Jul 2026.
+Enkō is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Collect - Cais do Sodre, Lisbon on Fri, 10 Jul 2026.
 
 Enkō is a techno and house artist based in Portugal, tracked on soundcheck, with 54 sets logged across Lisbon, Lyon, Paris and Porto. Often billed alongside CRAVO, Tauer and John-E. Next up: Collect - Cais do Sodre, Lisbon on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Enkō is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 CRAVO, Tauer, John-E
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enko/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enko/)*

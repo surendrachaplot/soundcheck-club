@@ -1,6 +1,6 @@
 # tamarawrx3
 
-tamarawrx3 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jonny Knüppel, Berlin on Sat, 11 Jul 2026.
+tamarawrx3 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jonny Knüppel, Berlin on Sat, 11 Jul 2026.
 
 tamarawrx3 is a trance and techno artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin, Leipzig and Stuttgart. Often billed alongside Multifun, Lenny Fuck and Christa K. Next up: Jonny Knüppel, Berlin on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ tamarawrx3 is a trance and techno artist based in Germany, tracked on soundcheck
 
 Multifun, Lenny Fuck, Christa K
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarawrx3/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarawrx3/)*

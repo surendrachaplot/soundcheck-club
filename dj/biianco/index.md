@@ -1,14 +1,13 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 9 Jul 2026.
+BIIANCO is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Under the K Bridge, New York City on Sat, 11 Jul 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and Diffrent. Next up: 1015 Folsom, Sanfrancisco on Thu 9 Jul.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and Diffrent. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 11 Jul 2026 | Under the K Bridge | New York City |
 | Fri, 17 Jul 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 19 Jul 2026 | Radius | Chicago |
@@ -22,6 +21,7 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Thu, 9 Jul 2026
 - Kilomètre25, Paris — Sat, 20 Jun 2026
 - Spook Club, Valencia — Sat, 6 Jun 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
@@ -29,10 +29,9 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 - 8 Marvila, Lisbon — Sat, 16 May 2026
 - Den Anden Side, Copenhagen — Sat, 9 May 2026
 - TBA, Munich — Sun, 3 May 2026
-- Royal Highland Centre, Edinburgh — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Fenrick, Adrian Mills, Diffrent
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

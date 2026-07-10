@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Zombies In Miami + 34 Degrees at the Sound Room" on Fri, 10 Jul 2026.
+Frankhan Selectist is a music venue in Istanbul with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Zombies In Miami + 34 Degrees at the Sound Room" on Fri, 10 Jul 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming nights, with line-ups including Egyptian Lover, GARAN GARAN, Tomoki Tamura and Zombies In Miami. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -20,4 +20,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 7 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

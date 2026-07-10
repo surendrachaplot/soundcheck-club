@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "THE JUNCTION" on Fri, 10 Jul 2026.
+Yellow House is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "THE JUNCTION" on Fri, 10 Jul 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Benoît, Jordino, Julien Simmons and Kirilski and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -19,4 +19,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 6 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

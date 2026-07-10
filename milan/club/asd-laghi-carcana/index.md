@@ -1,6 +1,6 @@
 # Asd Laghi Carcana
 
-Asd Laghi Carcana is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "MOAB | Day & Night Open Air @Laghi Carcana | 2+1 Stages" on Sat, 18 Jul 2026.
+Asd Laghi Carcana is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "MOAB | Day & Night Open Air @Laghi Carcana | 2+1 Stages" on Sat, 18 Jul 2026.
 
 Asd Laghi Carcana is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including DANAE, Dario Lem, Enrico Vivaldi and Giorgio Di Majo and 2 more. Browse upcoming dates, start times and who's playing. Via Privata Laghi Carcana, 20058 San Pietro Cusico MI, Italy.
 
@@ -14,4 +14,4 @@ Asd Laghi Carcana is a music venue in Milan listed on soundcheck. 1 upcoming nig
 
 Via Privata Laghi Carcana, 20058 San Pietro Cusico MI, Italy, Milan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/asd-laghi-carcana/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/asd-laghi-carcana/)*

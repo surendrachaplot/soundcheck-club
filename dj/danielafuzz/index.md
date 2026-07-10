@@ -1,6 +1,6 @@
 # Daniela Fuzz
 
-Daniela Fuzz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KitKatClub, Berlin on Fri, 10 Jul 2026.
+Daniela Fuzz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KitKatClub, Berlin on Fri, 10 Jul 2026.
 
 Daniela Fuzz is a techno and trance artist based in Chile, tracked on soundcheck, with 5 sets logged across Barcelona, Berlin, Copenhagen and Leipzig. Often billed alongside Leonor Baesler, NSPERGER and Katalina Schwarz. Next up: KitKatClub, Berlin on Fri 10 Jul.
 
@@ -21,4 +21,4 @@ Daniela Fuzz is a techno and trance artist based in Chile, tracked on soundcheck
 
 Leonor Baesler, NSPERGER, Katalina Schwarz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielafuzz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielafuzz/)*

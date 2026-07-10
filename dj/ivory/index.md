@@ -1,6 +1,6 @@
 # Ivory
 
-Ivory is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 10 Jul 2026.
+Ivory is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 10 Jul 2026.
 
 Ivory is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 32 more. Often billed alongside Nandu, Aera and Jimi Jules. Next up: Madarae San Francisco, Sanfrancisco on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Ivory is a techno and house artist tracked on soundcheck, with 128 sets logged a
 
 Nandu, Aera, Jimi Jules
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Honey Street Studio, Manchester on Sat, 11 Jul 2026.
+B.Love is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Honey Street Studio, Manchester on Sat, 11 Jul 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 12 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Honey Street Studio, Manchester on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

@@ -1,6 +1,6 @@
 # Dorchester Brewing Company
 
-Dorchester Brewing Company is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Nocturnal District presents: Rooftop Sessions 02" on Fri, 24 Jul 2026.
+Dorchester Brewing Company is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Nocturnal District presents: Rooftop Sessions 02" on Fri, 24 Jul 2026.
 
 Dorchester Brewing Company is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Divu, Paul Robson and Plane Stranger. Browse upcoming dates, start times and who's playing. 1250 Massachusetts Ave, Boston, MA 02125.
 
@@ -15,4 +15,4 @@ Dorchester Brewing Company is a music venue in Boston listed on soundcheck. 2 up
 
 1250 Massachusetts Ave, Boston, MA 02125, Boston
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dorchester-brewing-company/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/dorchester-brewing-company/)*

@@ -1,6 +1,6 @@
 # OFF Kultur
 
-OFF Kultur is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DEVOTION - THE SOUND WE SERVE //PARAPHER//MMCCCXCIX//GØBLIN//REESEENGINEER" on Fri, 24 Jul 2026.
+OFF Kultur is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DEVOTION - THE SOUND WE SERVE //PARAPHER//MMCCCXCIX//GØBLIN//REESEENGINEER" on Fri, 24 Jul 2026.
 
 OFF Kultur is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including GØBLIN, MMCCCXCIX and PARAPHER. Browse upcoming dates, start times and who's playing. 1045 Budapest, Berni utca 1..
 
@@ -15,4 +15,4 @@ OFF Kultur is a music venue in Budapest listed on soundcheck. 2 upcoming nights,
 
 1045 Budapest, Berni utca 1., Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/off-kultur/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/off-kultur/)*

@@ -1,6 +1,6 @@
 # Cosmic Cherry
 
-Cosmic Cherry is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ÆDEN, Berlin on Fri, 17 Jul 2026.
+Cosmic Cherry is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ÆDEN, Berlin on Fri, 17 Jul 2026.
 
 Cosmic Cherry is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Ansonica, Chris Ku and Eclectic Elektra. Next up: ÆDEN, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Cosmic Cherry is a house and techno artist based in Germany, tracked on soundche
 
 Ansonica, Chris Ku, Eclectic Elektra
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccherry/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccherry/)*

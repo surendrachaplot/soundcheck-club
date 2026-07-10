@@ -1,6 +1,6 @@
 # The Play Lounge
 
-The Play Lounge is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sonido Breakout - Caged DJ" on Fri, 10 Jul 2026.
+The Play Lounge is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sonido Breakout - Caged DJ" on Fri, 10 Jul 2026.
 
 The Play Lounge is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Play Lounge is a music venue in Melbourne listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Sonido Breakout - Caged DJ |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-play-lounge/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-play-lounge/)*

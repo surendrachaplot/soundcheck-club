@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "The Bassement Club presents NEW FACES 014" on Fri, 10 Jul 2026.
+The Bassement is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Bassement Club presents NEW FACES 014" on Fri, 10 Jul 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including 6EJOU, Ben Sims, David Löhlein and DJ TOOL and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -19,4 +19,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 6 upcoming nights
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

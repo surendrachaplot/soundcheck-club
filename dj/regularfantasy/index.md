@@ -1,6 +1,6 @@
 # Regularfantasy
 
-Regularfantasy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Outer Heaven, New York City on Sat, 11 Jul 2026.
+Regularfantasy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Outer Heaven, New York City on Sat, 11 Jul 2026.
 
 Regularfantasy is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside D. Tiffany, Plush Managements Inc. and Chloé Caillet. Next up: Outer Heaven, Newyorkcity on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Regularfantasy is a house and techno artist tracked on soundcheck, with 101 sets
 
 D. Tiffany, Plush Managements Inc., Chloé Caillet
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regularfantasy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regularfantasy/)*

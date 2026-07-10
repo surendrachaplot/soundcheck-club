@@ -1,6 +1,6 @@
 # Margo (GER)
 
-Margo (GER) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fundbureau, Hamburg on Fri, 10 Jul 2026.
+Margo (GER) is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fundbureau, Hamburg on Fri, 10 Jul 2026.
 
 Margo (GER) is a house and electro artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Brussels and Hamburg. Often billed alongside Margo, Carluschka and dj fako. Next up: Fundbureau, Hamburg on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Margo (GER) is a house and electro artist based in Germany, tracked on soundchec
 
 Margo, Carluschka, dj fako
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-ger/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-ger/)*

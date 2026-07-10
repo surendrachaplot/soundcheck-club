@@ -1,6 +1,6 @@
 # Rampue
 
-Rampue is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at fi, Cologne on Sat, 11 Jul 2026.
+Rampue is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at fi, Cologne on Sat, 11 Jul 2026.
 
 Rampue is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Chris Schwarzwälder, Mimi Love and Britta Arnold. Next up: fi, Cologne on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Rampue is a house and techno artist tracked on soundcheck, with 76 sets logged a
 
 Chris Schwarzwälder, Mimi Love, Britta Arnold
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*

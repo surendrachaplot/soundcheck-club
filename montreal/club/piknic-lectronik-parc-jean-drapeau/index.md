@@ -1,6 +1,6 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 20 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Zeds Dead: Journey Of A Lifetime - Parc Jean-Drapeau" on Fri, 10 Jul 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 20 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Zeds Dead: Journey Of A Lifetime - Parc Jean-Drapeau" on Fri, 10 Jul 2026.
 
 Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 20 upcoming nights, with line-ups including Adriatique, Anaïs Ley, Andie and Aram and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
@@ -23,4 +23,4 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

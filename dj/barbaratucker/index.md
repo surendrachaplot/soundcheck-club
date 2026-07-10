@@ -1,6 +1,6 @@
 # Barbara Tucker
 
-Barbara Tucker is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jackson Park, Chicago on Sat, 11 Jul 2026.
+Barbara Tucker is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jackson Park, Chicago on Sat, 11 Jul 2026.
 
 Barbara Tucker is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Amsterdam, Bucharest, Chicago and Detroit and 12 more. Often billed alongside Natasha Diggs, Bustin' Loose and The Shapeshifters. Next up: Jackson Park, Chicago on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Barbara Tucker is a house and disco artist based in United States of America, tr
 
 Natasha Diggs, Bustin' Loose, The Shapeshifters
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaratucker/)*

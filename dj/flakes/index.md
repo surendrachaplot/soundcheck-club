@@ -1,6 +1,6 @@
 # Flakes
 
-Flakes is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Volks, Brighton on Fri, 17 Jul 2026.
+Flakes is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Volks, Brighton on Fri, 17 Jul 2026.
 
 Flakes is a drum & bass and jungle artist based in Vietnam, tracked on soundcheck, with 19 sets logged across Amsterdam, Bangkok, Brighton and London. Often billed alongside MYNX, Beano and Deefa. Next up: Volks, Brighton on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Flakes is a drum & bass and jungle artist based in Vietnam, tracked on soundchec
 
 MYNX, Beano, Deefa
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flakes/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flakes/)*

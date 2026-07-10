@@ -1,6 +1,6 @@
 # Labåzuy
 
-Labåzuy is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
+Labåzuy is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
 
 Labåzuy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Brighton, Budapest, London and Madrid and 3 more. Often billed alongside Lau.tastic, Lezcano and SHARKA. Next up: LDN East, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Labåzuy is a techno and industrial artist based in United Kingdom, tracked on s
 
 Lau.tastic, Lezcano, SHARKA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/labazuy-3/)*

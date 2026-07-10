@@ -1,6 +1,6 @@
 # TYGAPAW
 
-TYGAPAW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at H0L0, New York City on Sat, 18 Jul 2026.
+TYGAPAW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at H0L0, New York City on Sat, 18 Jul 2026.
 
 TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, Shyboi and CEM. Next up: H0L0, Newyorkcity on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 
 Juliana Huxtable, Shyboi, CEM
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*

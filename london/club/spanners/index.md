@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "FINAL IMAGE night with O YUKI CONJUGATE" on Fri, 10 Jul 2026.
+Spanners is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FINAL IMAGE night with O YUKI CONJUGATE" on Fri, 10 Jul 2026.
 
 Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including BJ Holy, excel dj, Jim Janco and Joe Hart and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -22,4 +22,4 @@ Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

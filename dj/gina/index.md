@@ -1,6 +1,6 @@
 # G I N A
 
-G I N A is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Barbary, Philadelphia on Fri, 10 Jul 2026.
+G I N A is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Barbary, Philadelphia on Fri, 10 Jul 2026.
 
 G I N A is a techno and house artist tracked on soundcheck, with 216 sets logged across Barcelona, Liverpool, Losangeles and Manchester and 4 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: The Barbary, Philadelphia on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ G I N A is a techno and house artist tracked on soundcheck, with 216 sets logged
 
 Shearn, Dave Tidey, Andi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*

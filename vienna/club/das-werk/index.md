@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "HERZFREQUENZ presents IGDA" on Fri, 10 Jul 2026.
+Das Werk is a music venue in Vienna with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "HERZFREQUENZ presents IGDA" on Fri, 10 Jul 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with line-ups including adrialin, AliA, Arman Shadow and Charnaux and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -23,4 +23,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 10 upcoming nights, wi
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

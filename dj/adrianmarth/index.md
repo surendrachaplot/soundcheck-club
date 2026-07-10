@@ -1,6 +1,6 @@
 # Adrian Marth
 
-Adrian Marth is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Paloma, Barcelona on Fri, 10 Jul 2026.
+Adrian Marth is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Paloma, Barcelona on Fri, 10 Jul 2026.
 
 Adrian Marth is an italo disco and techno artist based in Spain, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Losangeles and 7 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: La Paloma, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Adrian Marth is an italo disco and techno artist based in Spain, tracked on soun
 
 Vitorio Testa, David Vunk, Julian Reca
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmarth/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmarth/)*

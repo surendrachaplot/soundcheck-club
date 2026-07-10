@@ -1,6 +1,6 @@
 # Interwave Surfer
 
-Interwave Surfer is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 10 Jul 2026.
+Interwave Surfer is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 10 Jul 2026.
 
 Interwave Surfer is a house and electro artist based in United States of America, tracked on soundcheck, with 45 sets logged across Seattle. Often billed alongside Eliogold, ROAM(S) and Ana-Lucid. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Interwave Surfer is a house and electro artist based in United States of America
 
 Eliogold, ROAM(S), Ana-Lucid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interwavesurfer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interwavesurfer/)*

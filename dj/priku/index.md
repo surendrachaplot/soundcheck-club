@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a Minimal and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at fabric, London on Sun, 12 Jul 2026.
+Priku is a Minimal and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at fabric, London on Sun, 12 Jul 2026.
 
 Priku is a minimal and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: fabric, London on Sun 12 Jul.
 
@@ -33,4 +33,4 @@ Priku is a minimal and house artist tracked on soundcheck, with 165 sets logged 
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

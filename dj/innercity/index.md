@@ -1,6 +1,6 @@
 # Inner City
 
-Inner City is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Paragon, New York City on Fri, 10 Jul 2026.
+Inner City is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Paragon, New York City on Fri, 10 Jul 2026.
 
 Inner City is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, Glasgow and Ibiza and 12 more. Often billed alongside Roger Sanchez, Kevin Saunderson and DJ Paulette. Next up: Paragon, Newyorkcity on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Inner City is a house and techno artist based in United States of America, track
 
 Roger Sanchez, Kevin Saunderson, DJ Paulette
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/innercity/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/innercity/)*

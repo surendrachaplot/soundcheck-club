@@ -1,6 +1,6 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
 
 Mozey is a drum & bass and jungle artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Birmingham and Boston and 26 more. Often billed alongside Kanine, Hybrid Minds and K Motionz. Next up: Tägi, Zurich on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Mozey is a drum & bass and jungle artist tracked on soundcheck, with 91 sets log
 
 Kanine, Hybrid Minds, K Motionz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

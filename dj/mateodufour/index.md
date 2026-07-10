@@ -1,6 +1,6 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Distrikt, Leeds on Sat, 11 Jul 2026.
+Mateo Dufour is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Distrikt, Leeds on Sat, 11 Jul 2026.
 
 Mateo Dufour is a house and tech house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 12 more. Often billed alongside ANOTR, Sven Vath and Toman. Next up: Distrikt, Leeds on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Mateo Dufour is a house and tech house artist tracked on soundcheck, with 73 set
 
 ANOTR, Sven Vath, Toman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

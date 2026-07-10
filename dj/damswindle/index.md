@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moonfield, Antwerp on Fri, 10 Jul 2026.
+Dam Swindle is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moonfield, Antwerp on Fri, 10 Jul 2026.
 
 Dam Swindle is a house and disco artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, Cinthie and De Sluwe Vos. Next up: Moonfield, Antwerp on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 171 sets log
 
 D Stone, Cinthie, De Sluwe Vos
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Trädgården, Stockholm on Fri, 10 Jul 2026.
+Noizar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Trädgården, Stockholm on Fri, 10 Jul 2026.
 
 Noizar is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: Trädgården, Stockholm on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Noizar is a techno and house artist tracked on soundcheck, with 112 sets logged 
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

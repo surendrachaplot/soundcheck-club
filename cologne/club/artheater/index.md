@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "303 presents RIKHTER live (extended set)" on Fri, 10 Jul 2026.
+Artheater is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "303 presents RIKHTER live (extended set)" on Fri, 10 Jul 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Justine Perry, Altinbas, Cara Elizabeth and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -20,4 +20,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

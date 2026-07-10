@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 11 Jul 2026.
+TEDESCO is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 11 Jul 2026.
 
 TEDESCO is a techno and club artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Manuka Honey. Next up: Vittoria Wharf Studio, London on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ TEDESCO is a techno and club artist tracked on soundcheck, with 118 sets logged 
 
 JONE OF ARX, Ivicore, Manuka Honey
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

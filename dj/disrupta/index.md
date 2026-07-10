@@ -1,6 +1,6 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Circolo Magnolia, Milan on Fri, 10 Jul 2026.
+Disrupta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Circolo Magnolia, Milan on Fri, 10 Jul 2026.
 
 Disrupta is a drum & bass and jungle artist tracked on soundcheck, with 72 sets logged across Antwerp, Auckland, Bali and Birmingham and 21 more. Often billed alongside Kanine, Camo & Krooked and K Motionz. Next up: Circolo Magnolia, Milan on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Disrupta is a drum & bass and jungle artist tracked on soundcheck, with 72 sets 
 
 Kanine, Camo & Krooked, K Motionz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*

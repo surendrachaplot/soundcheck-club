@@ -1,8 +1,8 @@
 # TBA - SECRET LOCATION
 
-TBA - SECRET LOCATION is a music venue in London with 45 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Control x As Is. Carl H, Aaron Dynamic b2b Chapel Walk & Desperate Ghostwives" on Fri, 10 Jul 2026.
+TBA - SECRET LOCATION is a music venue in London with 46 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Control x As Is. Carl H, Aaron Dynamic b2b Chapel Walk & Desperate Ghostwives" on Fri, 10 Jul 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 45 upcoming nights, with line-ups including _MARCBA, Aaron Dynamic, AARON GEHRIG and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including _MARCBA, Aaron Dynamic, AARON GEHRIG and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 45 upcomi
 | Tue, 14 Jul 2026 | Abantu & Chila Nathi pres: Dinner with Zola Marcelle |  |
 | Thu, 16 Jul 2026 | THE DARK ROOMS VEINS |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

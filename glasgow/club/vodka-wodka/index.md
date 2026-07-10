@@ -1,6 +1,6 @@
 # Vodka Wodka
 
-Vodka Wodka is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Illyus Barrientos" on Sat, 1 Aug 2026.
+Vodka Wodka is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Illyus Barrientos" on Sat, 1 Aug 2026.
 
 Vodka Wodka is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Illyus Barrientos. Browse upcoming dates, start times and who's playing. 31 Ashton Ln, Glasgow G12 8SJ.
 
@@ -14,4 +14,4 @@ Vodka Wodka is a music venue in Glasgow listed on soundcheck. 1 upcoming night, 
 
 31 Ashton Ln, Glasgow G12 8SJ, Glasgow
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vodka-wodka/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vodka-wodka/)*

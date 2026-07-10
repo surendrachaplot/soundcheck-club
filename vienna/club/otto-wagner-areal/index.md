@@ -1,6 +1,6 @@
 # Otto Wagner Areal
 
-Otto Wagner Areal is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Kollektiv Kaorle Summr Fest" on Sat, 18 Jul 2026.
+Otto Wagner Areal is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kollektiv Kaorle Summr Fest" on Sat, 18 Jul 2026.
 
 Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Baumgartner Höhe 1, 1140 Wien.
 
@@ -14,4 +14,4 @@ Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Baumgartner Höhe 1, 1140 Wien, Vienna
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*

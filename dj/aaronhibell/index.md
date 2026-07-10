@@ -1,6 +1,6 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Outset, Chicago on Sun, 12 Jul 2026.
+Aaron Hibell is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Outset, Chicago on Sun, 12 Jul 2026.
 
 Aaron Hibell is a techno and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Adam Beyer, Kotiēr and Alesso. Next up: Outset, Chicago on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Aaron Hibell is a techno and trance artist tracked on soundcheck, with 38 sets l
 
 Adam Beyer, Kotiēr, Alesso
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

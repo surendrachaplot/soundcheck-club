@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sawmills, Bristol on Sat, 11 Jul 2026.
+Big Ang is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sawmills, Bristol on Sat, 11 Jul 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Jamie Duggan, Silva Bumpa and Chad Harrison. Next up: Sawmills, Bristol on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Big Ang is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Jamie Duggan, Silva Bumpa, Chad Harrison
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

@@ -1,6 +1,6 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Trädgården, Stockholm on Thu, 16 Jul 2026.
+Juicy Romance is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Trädgården, Stockholm on Thu, 16 Jul 2026.
 
 Juicy Romance is a techno and house artist based in Australia, tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 45 more. Often billed alongside Partiboi69, Mischluft and sim0ne. Next up: Trädgården, Stockholm on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Juicy Romance is a techno and house artist based in Australia, tracked on soundc
 
 Partiboi69, Mischluft, sim0ne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

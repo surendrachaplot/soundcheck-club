@@ -1,6 +1,6 @@
 # El-B
 
-El-B is a Garage and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hidden, Manchester on Fri, 10 Jul 2026.
+El-B is a Garage and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hidden, Manchester on Fri, 10 Jul 2026.
 
 El-B is a garage and dubstep artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Bristol and Copenhagen and 9 more. Often billed alongside Mantra, Plastician and Zed Bias. Next up: Hidden, Manchester on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ El-B is a garage and dubstep artist tracked on soundcheck, with 43 sets logged a
 
 Mantra, Plastician, Zed Bias
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/el-b/)*

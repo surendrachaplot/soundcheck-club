@@ -1,8 +1,8 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
+Kerri Chandler is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
 
-Kerri Chandler is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Chris Stussy, Seth Troxler and DJ Tennis. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
+Kerri Chandler is a house and techno artist tracked on soundcheck, with 149 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Chris Stussy, Seth Troxler and DJ Tennis. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 148 sets
 | Sat, 1 Aug 2026 | Queen's Park Arena | Glasgow |
 | Sat, 15 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 22 Aug 2026 | Hï Ibiza | Ibiza |
+| Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 148 sets
 
 Chris Stussy, Seth Troxler, DJ Tennis
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

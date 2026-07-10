@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OHM, Berlin on Fri, 10 Jul 2026.
+John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OHM, Berlin on Fri, 10 Jul 2026.
 
 John T. Gast is an experimental and dub artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Devon Rexi, i-sha and Lord Tusk. Next up: OHM, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 61 se
 
 Devon Rexi, i-sha, Lord Tusk
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

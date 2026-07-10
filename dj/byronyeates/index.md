@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 11 Jul 2026.
+Byron Yeates is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 11 Jul 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 11 Jul.
 
@@ -35,4 +35,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 180 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

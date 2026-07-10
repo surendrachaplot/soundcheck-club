@@ -1,6 +1,6 @@
 # TBA - Feldberger Seenlandschaft
 
-TBA - Feldberger Seenlandschaft is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "3000Grad FESTIVAL 3026" on Fri, 7 Aug 2026.
+TBA - Feldberger Seenlandschaft is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "3000Grad FESTIVAL 3026" on Fri, 7 Aug 2026.
 
 TBA - Feldberger Seenlandschaft is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Feldberger Seenlandschaft is a music venue in Berlin listed on soundcheck.
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | 3000Grad FESTIVAL 3026 |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-feldberger-seenlandschaft/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-feldberger-seenlandschaft/)*

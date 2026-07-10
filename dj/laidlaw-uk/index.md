@@ -1,14 +1,13 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 9 Jul 2026.
+Laidlaw is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gaffe, London on Sun, 19 Jul 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 9 Jul.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Gaffe, London on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Gaffe | London |
 | Wed, 29 Jul 2026 | [UNVRS] | Ibiza |
 | Fri, 7 Aug 2026 | Jolene Downtown Miami | Miami |
@@ -20,9 +19,11 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 185 sets lo
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | The Nest | Nottingham |
 | Thu, 3 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 5 Sept 2026 | Ouseburn Garden | Newcastle |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - Casino La Foresta, Barcelona — Sat, 4 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 28 Jun 2026
 - Hazlehead Park Aberdeen, Aberdeen — Fri, 26 Jun 2026
@@ -30,10 +31,9 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 185 sets lo
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Thu, 18 Jun 2026
 - Brighton Beach, Brighton — Sat, 13 Jun 2026
 - Thuishaven, Amsterdam — Sun, 31 May 2026
-- High Lights - Barking Park, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

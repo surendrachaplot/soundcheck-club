@@ -1,6 +1,6 @@
 # Kohra
 
-Kohra is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
+Kohra is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
 Kohra is a techno and electronica artist tracked on soundcheck, with 17 sets logged across Bangkok, Berlin, Bristol and Hongkong and 7 more. Often billed alongside Inner Zone, James Selva and Monophonik. Next up: Else, Berlin on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Kohra is a techno and electronica artist tracked on soundcheck, with 17 sets log
 
 Inner Zone, James Selva, Monophonik
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohra/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kohra/)*

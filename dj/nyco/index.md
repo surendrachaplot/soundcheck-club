@@ -1,6 +1,6 @@
 # Nyco (FR)
 
-Nyco (FR) is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mia Mao, Paris on Fri, 17 Jul 2026.
+Nyco (FR) is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mia Mao, Paris on Fri, 17 Jul 2026.
 
 Nyco (FR) is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Frankfurt and Liverpool and 4 more. Often billed alongside Aphøtic, KARAH and XRTN. Next up: Mia Mao, Paris on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Nyco (FR) is a techno and hardcore artist tracked on soundcheck, with 21 sets lo
 
 Aphøtic, KARAH, XRTN
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*

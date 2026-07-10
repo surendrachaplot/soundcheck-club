@@ -1,6 +1,6 @@
 # Wax Motif
 
-Wax Motif is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Space Miami, Miami on Fri, 10 Jul 2026.
+Wax Motif is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Space Miami, Miami on Fri, 10 Jul 2026.
 
 Wax Motif is a house and tech house artist based in Australia, tracked on soundcheck, with 41 sets logged across Austin, Boston, Chicago and Houston and 10 more. Often billed alongside Chris Lake, Eli Brown and Kaskade. Next up: Club Space Miami, Miami on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Wax Motif is a house and tech house artist based in Australia, tracked on soundc
 
 Chris Lake, Eli Brown, Kaskade
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmotif/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmotif/)*

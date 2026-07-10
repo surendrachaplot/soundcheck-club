@@ -1,6 +1,6 @@
 # Dj Danifox
 
-Dj Danifox is a Kuduro and Afrobeats artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Mira Rio, Caparica, Lisbon on Sun, 19 Jul 2026.
+Dj Danifox is a Kuduro and Afrobeats artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Mira Rio, Caparica, Lisbon on Sun, 19 Jul 2026.
 
 Dj Danifox is a kuduro and afrobeats artist based in Portugal, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Belgrade and Brussels and 15 more. Often billed alongside DJ Nigga Fox, DJ Firmeza and DJ Lycox. Next up: TBA - Mira Rio, Caparica, Lisbon on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Dj Danifox is a kuduro and afrobeats artist based in Portugal, tracked on soundc
 
 DJ Nigga Fox, DJ Firmeza, DJ Lycox
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdanifox/)*

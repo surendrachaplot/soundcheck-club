@@ -1,6 +1,6 @@
 # Nicolas Jaar
 
-Nicolas Jaar is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at EartH, London on Sun, 12 Jul 2026.
+Nicolas Jaar is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at EartH, London on Sun, 12 Jul 2026.
 
 Nicolas Jaar is an experimental and electronica artist tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 9 more. Often billed alongside DARKSIDE, Aho Ssan and Ale Hop. Next up: EartH, London on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Nicolas Jaar is an experimental and electronica artist tracked on soundcheck, wi
 
 DARKSIDE, Aho Ssan, Ale Hop
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjaar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjaar/)*

@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Saint Ludo is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 Saint Ludo is a garage and bass artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Austin and 23 more. Often billed alongside Bakey, Y U QT and sim0ne. Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Saint Ludo is a garage and bass artist tracked on soundcheck, with 114 sets logg
 
 Bakey, Y U QT, sim0ne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

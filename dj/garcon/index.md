@@ -1,8 +1,8 @@
 # Garçon
 
-Garçon is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Garçon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Garçon is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside Agonis, Timnah and Konduku. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Garçon is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside Agonis, Timnah and Konduku. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Garçon is a techno and house artist tracked on soundcheck, with 79 sets logged 
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Fri, 28 Aug 2026 | Trädgården | Stockholm |
+| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Garçon is a techno and house artist tracked on soundcheck, with 79 sets logged 
 
 Agonis, Timnah, Konduku
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

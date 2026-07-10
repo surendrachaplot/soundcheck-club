@@ -1,6 +1,6 @@
 # Křižíkova Fountain
 
-Křižíkova Fountain is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Parov Stelar - Praha" on Fri, 24 Jul 2026.
+Křižíkova Fountain is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Parov Stelar - Praha" on Fri, 24 Jul 2026.
 
 Křižíkova Fountain is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Ben Böhmer, Corren Cavini, Lexer and Miss Monique and 2 more. Browse upcoming dates, start times and who's playing. Výstaviště 170 00, 170 00 Praha 7-Bubeneč, Czechia.
 
@@ -17,4 +17,4 @@ Křižíkova Fountain is a music venue in Prague listed on soundcheck. 4 upcomin
 
 Výstaviště 170 00, 170 00 Praha 7-Bubeneč, Czechia, Prague
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k-i-kova-fountain/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k-i-kova-fountain/)*

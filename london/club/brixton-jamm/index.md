@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Larizzle's BBQ" on Fri, 10 Jul 2026.
+Brixton Jamm is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Larizzle's BBQ" on Fri, 10 Jul 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Bertie UK and Deselecta and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 19 upcoming nights
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

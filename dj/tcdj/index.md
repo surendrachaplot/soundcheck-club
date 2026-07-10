@@ -1,6 +1,6 @@
 # TC Dj
 
-TC Dj is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - The Club Room Worldwide, Naples on Sat, 11 Jul 2026.
+TC Dj is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - The Club Room Worldwide, Naples on Sat, 11 Jul 2026.
 
 TC Dj is a techno and acid artist based in Italy, tracked on soundcheck, with 14 sets logged across Naples. Often billed alongside Tech C, Mr.Lucky and MaNu (UK). Next up: TBA - The Club Room Worldwide, Naples on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ TC Dj is a techno and acid artist based in Italy, tracked on soundcheck, with 14
 
 Tech C, Mr.Lucky, MaNu (UK)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tcdj/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tcdj/)*

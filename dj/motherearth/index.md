@@ -1,6 +1,6 @@
 # Mother Earth
 
-Mother Earth is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
+Mother Earth is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
 
 Mother Earth is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 9 more. Often billed alongside Dr Banana, B.Love and Laidlaw. Next up: Praia Fluvial da Rapoula do Côa, Porto on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ Mother Earth is a house and tech house artist based in United Kingdom, tracked o
 
 Dr Banana, B.Love, Laidlaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*

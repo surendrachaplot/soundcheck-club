@@ -1,6 +1,6 @@
 # Josh Wink
 
-Josh Wink is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Can Tarranc, Barcelona on Sat, 18 Jul 2026.
+Josh Wink is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Can Tarranc, Barcelona on Sat, 18 Jul 2026.
 
 Josh Wink is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Rob Paine, Cassy and DJ Holographic. Next up: Can Tarranc, Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Josh Wink is a techno and house artist tracked on soundcheck, with 85 sets logge
 
 Rob Paine, Cassy, DJ Holographic
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwink/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwink/)*

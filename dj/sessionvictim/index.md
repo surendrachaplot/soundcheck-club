@@ -1,6 +1,6 @@
 # Session Victim
 
-Session Victim is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Palais, London on Fri, 7 Aug 2026.
+Session Victim is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Palais, London on Fri, 7 Aug 2026.
 
 Session Victim is a house and disco artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Detroit and 21 more. Often billed alongside Black Loops, Folamour and Harrison BDP. Next up: Palais, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Session Victim is a house and disco artist based in Germany, tracked on soundche
 
 Black Loops, Folamour, Harrison BDP
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*

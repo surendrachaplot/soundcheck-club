@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Humiliation Ritual" on Sat, 11 Jul 2026.
+Burdekin Hotel is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Humiliation Ritual" on Sat, 11 Jul 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Alice 4Ever, Daemon Silk, Gunderman and LANDFILL and 2 more. Browse upcoming dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -17,4 +17,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming night
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

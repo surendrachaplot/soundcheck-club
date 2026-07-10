@@ -1,6 +1,6 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Social, London on Fri, 10 Jul 2026.
+Mr. Redley is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Social, London on Fri, 10 Jul 2026.
 
 Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside LORA S, JAXX TMS and NIKS. Next up: The Social, London on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 65 sets
 
 LORA S, JAXX TMS, NIKS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

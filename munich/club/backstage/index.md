@@ -1,6 +1,6 @@
 # Backstage
 
-Backstage is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "SYNTHX FEMMTASY - Open Air & Club" on Sat, 11 Jul 2026.
+Backstage is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SYNTHX FEMMTASY - Open Air & Club" on Sat, 11 Jul 2026.
 
 Backstage is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including 3LEEZA, 9LALEY, ÆNN and ANASTASÍA and 2 more. Browse upcoming dates, start times and who's playing. Reitknechtstr. 6, 80639 Munich, Germany.
 
@@ -16,4 +16,4 @@ Backstage is a music venue in Munich listed on soundcheck. 3 upcoming nights, wi
 
 Reitknechtstr. 6, 80639 Munich, Germany, Munich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*

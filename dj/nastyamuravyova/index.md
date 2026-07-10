@@ -1,6 +1,6 @@
 # Nastya Muravyova
 
-Nastya Muravyova is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Altenburg 1964, Prague on Fri, 10 Jul 2026.
+Nastya Muravyova is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Altenburg 1964, Prague on Fri, 10 Jul 2026.
 
 Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 93 sets logged across Berlin, Brussels, Krakow and Leipzig and 5 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Altenburg 1964, Prague on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Nastya Muravyova is a techno and house artist based in Ukraine, tracked on sound
 
 SJ Yellow, Nina Farrina, Tweeman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyamuravyova/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyamuravyova/)*

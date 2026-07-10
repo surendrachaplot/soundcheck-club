@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Klub Sukar: Moving Still" on Fri, 10 Jul 2026.
+Yamamori Tengu is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Klub Sukar: Moving Still" on Fri, 10 Jul 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including ANNĒ, Byron Yeates, Chunky and darkmavis and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 11 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,6 +1,6 @@
 # Glaskin
 
-Glaskin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Glaskin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
 Glaskin is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Muallem, 600-cell and BASHKKA. Next up: Garchinger See, Munich on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Glaskin is a techno and house artist tracked on soundcheck, with 63 sets logged 
 
 Muallem, 600-cell, BASHKKA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*

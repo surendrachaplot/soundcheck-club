@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Du Tanzt Mich Mal Berlin" on Fri, 10 Jul 2026.
+Beate Uwe is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Du Tanzt Mich Mal Berlin" on Fri, 10 Jul 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ABIBA, Alfalfa (2), angelcentral and Bézier and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -21,4 +21,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 8 upcoming nights, wi
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

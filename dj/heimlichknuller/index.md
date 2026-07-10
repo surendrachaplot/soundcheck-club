@@ -1,6 +1,6 @@
 # Heimlich Knüller
 
-Heimlich Knüller is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Zuckerzauber, Berlin on Fri, 10 Jul 2026.
+Heimlich Knüller is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Zuckerzauber, Berlin on Fri, 10 Jul 2026.
 
 Heimlich Knüller is a techno and downtempo artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Basel, Berlin and Cologne and 15 more. Often billed alongside Mimi Love, Mira and Pauli Pocket. Next up: Zuckerzauber, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Heimlich Knüller is a techno and downtempo artist based in Germany, tracked on 
 
 Mimi Love, Mira, Pauli Pocket
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichknuller/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichknuller/)*

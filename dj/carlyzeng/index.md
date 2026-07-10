@@ -1,6 +1,6 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
+Carly Zeng is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
 
 Carly Zeng is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Lincoln Factory, Detroit on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Carly Zeng is a techno and house artist tracked on soundcheck, with 129 sets log
 
 Cryptofauna, Ariel Zetina, marum
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*

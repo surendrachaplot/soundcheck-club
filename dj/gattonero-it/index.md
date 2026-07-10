@@ -1,6 +1,6 @@
 # Gattonero
 
-Gattonero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri, 10 Jul 2026.
+Gattonero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri, 10 Jul 2026.
 
 Gattonero is a techno and house artist tracked on soundcheck, with 46 sets logged across Milan and Rome. Often billed alongside Cosimo Damiano, Bluemarina and DJ Red. Next up: TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Gattonero is a techno and house artist tracked on soundcheck, with 46 sets logge
 
 Cosimo Damiano, Bluemarina, DJ Red
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gattonero-it/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gattonero-it/)*

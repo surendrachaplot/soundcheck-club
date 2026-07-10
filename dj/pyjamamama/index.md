@@ -1,6 +1,6 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Void Club, Berlin on Sat, 11 Jul 2026.
+PyjamaMama is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Void Club, Berlin on Sat, 11 Jul 2026.
 
 PyjamaMama is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Dj Sunflash, DJ Spaßgetränk and PHLOXO. Next up: Void Club, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ PyjamaMama is a techno and trance artist based in Germany, tracked on soundcheck
 
 Dj Sunflash, DJ Spaßgetränk, PHLOXO
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*

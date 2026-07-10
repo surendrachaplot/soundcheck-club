@@ -1,6 +1,6 @@
 # Ostrov Štvanice
 
-Ostrov Štvanice is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "CREEPY TEEPEE Festival 2026" on Fri, 10 Jul 2026.
+Ostrov Štvanice is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CREEPY TEEPEE Festival 2026" on Fri, 10 Jul 2026.
 
 Ostrov Štvanice is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including 300SkullsAndCounting, ANTHEM, bbpue and Bimini and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice, 170 00 Praha 7.
 
@@ -17,4 +17,4 @@ Ostrov Štvanice is a music venue in Prague listed on soundcheck. 4 upcoming nig
 
 ostrov Štvanice, 170 00 Praha 7, Prague
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ostrov-tvanice/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ostrov-tvanice/)*

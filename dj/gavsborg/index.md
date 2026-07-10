@@ -1,6 +1,6 @@
 # Gavsborg
 
-Gavsborg is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
+Gavsborg is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Sat, 15 Aug 2026.
 
 Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside MBODJ, Baba Sy and Opoku. Next up: Nowadays, Newyorkcity on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Gavsborg is a dub and dancehall artist based in Jamaica, tracked on soundcheck, 
 
 MBODJ, Baba Sy, Opoku
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gavsborg/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gavsborg/)*

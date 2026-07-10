@@ -1,8 +1,8 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Macadam, Nantes on Fri, 10 Jul 2026.
+DJ MARIA. is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Macadam, Nantes on Fri, 10 Jul 2026.
 
-DJ MARIA. is a techno and trance artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: Macadam, Nantes on Fri 10 Jul.
+DJ MARIA. is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside DJ Yazi, Spekki Webu and Takumi Inamoto. Next up: Macadam, Nantes on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 136 sets log
 | Sun, 2 Aug 2026 | RADION | Amsterdam |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 
 ## Recently played
@@ -32,4 +33,4 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 136 sets log
 
 DJ Yazi, Spekki Webu, Takumi Inamoto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

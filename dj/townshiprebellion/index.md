@@ -1,6 +1,6 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 1720, Los Angeles on Fri, 10 Jul 2026.
+Township Rebellion is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 1720, Los Angeles on Fri, 10 Jul 2026.
 
 Township Rebellion is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: 1720, Losangeles on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Township Rebellion is a techno and house artist tracked on soundcheck, with 118 
 
 Kaufmann, Prismode, Solvane
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*

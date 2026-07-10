@@ -1,6 +1,6 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Afterglow" on Sat, 11 Jul 2026.
+Munster Munch is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Afterglow" on Sat, 11 Jul 2026.
 
 Munster Munch is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including B1OS, Carien, itsBenji and skruba and 1 more. Browse upcoming dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
@@ -16,4 +16,4 @@ Munster Munch is a music venue in London listed on soundcheck. 3 upcoming nights
 
 18 Bear Street, London, WC2H 7AX, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*

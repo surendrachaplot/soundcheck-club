@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BACK TO CHILL" on Thu, 9 Jul 2026.
+Enter Shibuya is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BOSSWCR*W" on Fri, 10 Jul 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including ALEXANDER M, AMIDAdrive, Bo Yin and CITY1 and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including ALEXANDER M, AMIDAdrive, CYBERHACKSYSTEM and Da Yama and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | BACK TO CHILL | Bo Yin, CITY1, Goth-Trad, HELKTRAM |
 | Fri, 10 Jul 2026 | BOSSWCR*W | Licaxxx, discopants, michika |
 | Sat, 11 Jul 2026 | The Dreamers EP36 | ALEXANDER M, Louis Shannon, Rickey Shannon |
 | Mon, 13 Jul 2026 | THE GUEST HOUSE presents WEEKDAY COMMON ROOM | Da Yama, Kenji Okano, uruhara |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 19 upcoming nights
 | Fri, 17 Jul 2026 | ✿〇 | LOQU, ecec, kengotaki |
 | Sat, 18 Jul 2026 | banquet | Dazzle Drums, r1ku |
 | Sun, 19 Jul 2026 | Choryo Bakko - 跳梁跋扈- Vol.6 | FELINE (JP), MoEPiKA |
+| Tue, 21 Jul 2026 | CONNECT THE DOTS | AMIDAdrive, KUNPEI, TEI TEI |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

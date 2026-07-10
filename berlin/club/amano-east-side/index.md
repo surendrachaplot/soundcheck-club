@@ -1,6 +1,6 @@
 # Amano East-Side
 
-Amano East-Side is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BAUTISTA X InterludeBerlin --- Rooftop Party" on Fri, 10 Jul 2026.
+Amano East-Side is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BAUTISTA X InterludeBerlin --- Rooftop Party" on Fri, 10 Jul 2026.
 
 Amano East-Side is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Denno Matini, NAIR (IN), Rapha. and Ukãi Ndame and 1 more. Browse upcoming dates, start times and who's playing. Stralauer Pl. 30-31, 10243 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Amano East-Side is a music venue in Berlin listed on soundcheck. 3 upcoming nigh
 
 Stralauer Pl. 30-31, 10243 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*

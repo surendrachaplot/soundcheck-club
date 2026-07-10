@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
+Daniel Avery is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
 
 Daniel Avery is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Preston Park, Brighton, Berlin on Sat 1 Aug.
 
@@ -35,4 +35,4 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 148 sets l
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

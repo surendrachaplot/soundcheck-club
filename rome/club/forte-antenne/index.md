@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is " Rebel Rebel & Anarchy in The Club pres DVS 1 at Forte" on Fri, 10 Jul 2026.
+Forte Antenne is a music venue in Rome with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is " Rebel Rebel & Anarchy in The Club pres DVS 1 at Forte" on Fri, 10 Jul 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 3 upcoming nights, with line-ups including DVS1, Ellen Allien, Fabrizio Sala and fivequestionmarks and 2 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -16,4 +16,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 3 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

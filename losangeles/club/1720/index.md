@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Great Quality Entertainment presents Township Rebellion with Trou and DENYC" on Fri, 10 Jul 2026.
+1720 is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Great Quality Entertainment presents Township Rebellion with Trou and DENYC" on Fri, 10 Jul 2026.
 
 1720 is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Bayymack, DENYC, Township Rebellion and Trou. Browse upcoming dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -17,4 +17,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

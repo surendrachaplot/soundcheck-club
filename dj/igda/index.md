@@ -1,6 +1,6 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Das Werk, Vienna on Fri, 10 Jul 2026.
+IGDA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Das Werk, Vienna on Fri, 10 Jul 2026.
 
 IGDA is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Nicolas Julian. Next up: Das Werk, Vienna on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ IGDA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 
 NOTMYTYPE (2), A.N.I., Nicolas Julian
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*

@@ -1,6 +1,6 @@
 # Ali RQ
 
-Ali RQ is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at SILO, New York City on Fri, 10 Jul 2026.
+Ali RQ is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at SILO, New York City on Fri, 10 Jul 2026.
 
 Ali RQ is a club and techno artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, London and Losangeles and 5 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: SILO, Newyorkcity on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ali RQ is a club and techno artist tracked on soundcheck, with 39 sets logged ac
 
 10cust, Cannelle, Frost Children
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

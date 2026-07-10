@@ -1,6 +1,6 @@
 # TBA - Azul Rooftop
 
-TBA - Azul Rooftop is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sunset Rooftop Party - [Free Access]" on Sun, 12 Jul 2026.
+TBA - Azul Rooftop is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sunset Rooftop Party - [Free Access]" on Sun, 12 Jul 2026.
 
 TBA - Azul Rooftop is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Ale Hope, BERNOUT, Dimarziio and Djoan and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Azul Rooftop is a music venue in Chicago listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Sunset Rooftop Party - [Free Access] | Ale Hope, BERNOUT, Dimarziio, Djoan, PILAR MOLINERO |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-azul-rooftop/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-azul-rooftop/)*

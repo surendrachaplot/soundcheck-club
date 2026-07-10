@@ -1,6 +1,6 @@
 # Ghoulish
 
-Ghoulish is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 10 Jul 2026.
+Ghoulish is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 10 Jul 2026.
 
 Ghoulish is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Oppidan, Conducta and Oneman. Next up: Hï Ibiza, Ibiza on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ghoulish is a garage and bass artist based in United Kingdom, tracked on soundch
 
 Oppidan, Conducta, Oneman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoulish/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ghoulish/)*

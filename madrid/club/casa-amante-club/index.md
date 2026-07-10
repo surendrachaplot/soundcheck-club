@@ -1,14 +1,13 @@
 # Casa Amante Club
 
-Casa Amante Club is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "CA: Special Guest" on Thu, 9 Jul 2026.
+Casa Amante Club is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CA: Carsise & Maik Miroux" on Fri, 10 Jul 2026.
 
-Casa Amante Club is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Alex Sosa and Maik Miroux. Browse upcoming dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
+Casa Amante Club is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Alex Sosa and Maik Miroux. Browse upcoming dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | CA: Special Guest | Maik Miroux |
 | Fri, 10 Jul 2026 | CA: Carsise & Maik Miroux | Maik Miroux |
 | Sat, 11 Jul 2026 | CA: TARDEO / MIX TAPE: Semana Afroeuropea |  |
 | Sat, 11 Jul 2026 | CA: Maix Miroux & Andrea Ariana | Maik Miroux |
@@ -18,4 +17,4 @@ Casa Amante Club is a music venue in Madrid listed on soundcheck. 5 upcoming nig
 
 Calle de Santiago, 3, 28013 Madrid, España, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*

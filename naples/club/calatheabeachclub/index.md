@@ -1,6 +1,6 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "ONDA • Jamie 3:26 + Fabrizio Fattore, Nadia WMN Record's" on Sat, 11 Jul 2026.
+Calatheabeachclub is a music venue in Naples with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ONDA • Jamie 3:26 + Fabrizio Fattore, Nadia WMN Record's" on Sat, 11 Jul 2026.
 
 Calatheabeachclub is a music venue in Naples listed on soundcheck. 9 upcoming nights, with line-ups including Bassolino, Bradley Zero, Bulma Brief and Dirty Channels and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
@@ -22,4 +22,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 9 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

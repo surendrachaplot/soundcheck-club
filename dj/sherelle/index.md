@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Techno and Jungle artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Circolo Magnolia, Milan on Fri, 10 Jul 2026.
+SHERELLE is a Techno and Jungle artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Circolo Magnolia, Milan on Fri, 10 Jul 2026.
 
 SHERELLE is a techno and jungle artist tracked on soundcheck, with 168 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 49 more. Often billed alongside I. JORDAN, Special Request and Nia Archives. Next up: Circolo Magnolia, Milan on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 168 sets logg
 
 I. JORDAN, Special Request, Nia Archives
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

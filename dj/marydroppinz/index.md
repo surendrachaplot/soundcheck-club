@@ -1,6 +1,6 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Ground at Club Space, Miami on Fri, 10 Jul 2026.
+Mary Droppinz is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Ground at Club Space, Miami on Fri, 10 Jul 2026.
 
 Mary Droppinz is a house and bass artist based in United States of America, tracked on soundcheck, with 48 sets logged across Boston, Chicago, Denver and Detroit and 11 more. Often billed alongside Zeds Dead, Matroda and Boys Noize. Next up: The Ground at Club Space, Miami on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Mary Droppinz is a house and bass artist based in United States of America, trac
 
 Zeds Dead, Matroda, Boys Noize
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

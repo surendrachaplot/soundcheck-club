@@ -1,6 +1,6 @@
 # LOST DTLA
 
-LOST DTLA is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "AFRO ISLAND DAY PARTY (AFROBEATS, AMAPIANO, HIPHOP AND LOVE ISLAND)" on Sun, 12 Jul 2026.
+LOST DTLA is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "AFRO ISLAND DAY PARTY (AFROBEATS, AMAPIANO, HIPHOP AND LOVE ISLAND)" on Sun, 12 Jul 2026.
 
 LOST DTLA is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including DJ Babz. Browse upcoming dates, start times and who's playing. 718 S Hill St, Los Angeles, CA 90014.
 
@@ -14,4 +14,4 @@ LOST DTLA is a music venue in Losangeles listed on soundcheck. 1 upcoming night,
 
 718 S Hill St, Los Angeles, CA 90014, Los Angeles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/lost-dtla/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/lost-dtla/)*

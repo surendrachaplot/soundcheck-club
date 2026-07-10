@@ -1,6 +1,6 @@
 # Queen's Park Arena
 
-Queen's Park Arena is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "One Day In The Park ✿ Million Dollar Disco Ensemble (live) & more ✿ 25 Years of Melting Pot" on Sat, 18 Jul 2026.
+Queen's Park Arena is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "One Day In The Park ✿ Million Dollar Disco Ensemble (live) & more ✿ 25 Years of Melting Pot" on Sat, 18 Jul 2026.
 
 Queen's Park Arena is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Al Kent, Bradley Zero, Chaos In The CBD and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. Queen's park, Glasgow, G42 8QR, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ Queen's Park Arena is a music venue in Glasgow listed on soundcheck. 2 upcoming 
 
 Queen's park, Glasgow, G42 8QR, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/queen-s-park-arena/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/queen-s-park-arena/)*

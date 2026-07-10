@@ -1,6 +1,6 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Acidclank & SOCORE FACTORY presents acidplex" on Fri, 10 Jul 2026.
+Socore Factory is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Acidclank & SOCORE FACTORY presents acidplex" on Fri, 10 Jul 2026.
 
 Socore Factory is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with line-ups including Acidclank, Akira Saotome, Ane and Bass and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
@@ -23,4 +23,4 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 21 upcoming night
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

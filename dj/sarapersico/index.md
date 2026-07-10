@@ -1,6 +1,6 @@
 # Sara Persico
 
-Sara Persico is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gazometro, Rome on Fri, 10 Jul 2026.
+Sara Persico is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gazometro, Rome on Fri, 10 Jul 2026.
 
 Sara Persico is an experimental and techno artist based in Italy, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Assyouti, Mika Oki and ABADIR. Next up: Gazometro, Rome on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Sara Persico is an experimental and techno artist based in Italy, tracked on sou
 
 Assyouti, Mika Oki, ABADIR
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*

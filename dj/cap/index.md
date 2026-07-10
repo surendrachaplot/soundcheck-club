@@ -1,6 +1,6 @@
 # Cap
 
-Cap is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 11 Jul 2026.
+Cap is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 11 Jul 2026.
 
 Cap is a house and minimal artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Shelter Amsterdam, Amsterdam on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Cap is a house and minimal artist tracked on soundcheck, with 152 sets logged ac
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

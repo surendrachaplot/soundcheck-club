@@ -1,6 +1,6 @@
 # mishLXY
 
-mishLXY is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at QQQ ST. Park, Melbourne on Fri, 10 Jul 2026.
+mishLXY is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at QQQ ST. Park, Melbourne on Fri, 10 Jul 2026.
 
 mishLXY is a techno and electronica artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Aidan Rudd, Alex Albrecht and Boys' Shorts. Next up: QQQ ST. Park, Melbourne on Fri 10 Jul.
 
@@ -24,4 +24,4 @@ mishLXY is a techno and electronica artist based in Australia, tracked on soundc
 
 Aidan Rudd, Alex Albrecht, Boys' Shorts
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*

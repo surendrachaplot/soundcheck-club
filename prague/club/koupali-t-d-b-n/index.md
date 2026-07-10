@@ -1,6 +1,6 @@
 # Koupaliště Džbán
 
-Koupaliště Džbán is a music venue in Prague with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Ankali & Harmony: ½ festival" on Sat, 11 Jul 2026.
+Koupaliště Džbán is a music venue in Prague with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ankali & Harmony: ½ festival" on Sat, 11 Jul 2026.
 
 Koupaliště Džbán is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including aláya, Alfred Czital, Atch22 and CEREAL and 2 more. Browse upcoming dates, start times and who's playing. Nad Lávkou 672/5, 16000 Prague, Czech Republic.
 
@@ -14,4 +14,4 @@ Koupaliště Džbán is a music venue in Prague listed on soundcheck. 1 upcoming
 
 Nad Lávkou 672/5, 16000 Prague, Czech Republic, Prague
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/koupali-t-d-b-n/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/koupali-t-d-b-n/)*

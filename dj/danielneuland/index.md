@@ -1,6 +1,6 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ritter Butzke, Berlin on Fri, 10 Jul 2026.
+Daniel Neuland is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ritter Butzke, Berlin on Fri, 10 Jul 2026.
 
 Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Dydaa Forne. Next up: Ritter Butzke, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 63 
 
 vom Feisten, Martin Ka, Dydaa Forne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*

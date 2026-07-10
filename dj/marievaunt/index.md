@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 10 Jul 2026.
+Marie Vaunt is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 10 Jul 2026.
 
 Marie Vaunt is a techno and acid artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Auckland and Austin and 34 more. Often billed alongside Space 92, DALJAE and Joyhauser. Next up: 1015 Folsom, Sanfrancisco on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Marie Vaunt is a techno and acid artist tracked on soundcheck, with 69 sets logg
 
 Space 92, DALJAE, Joyhauser
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

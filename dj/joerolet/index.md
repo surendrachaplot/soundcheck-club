@@ -1,6 +1,6 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 77, London on Fri, 10 Jul 2026.
+Joe Rolét is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 77, London on Fri, 10 Jul 2026.
 
 Joe Rolét is a tech house and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 6 more. Often billed alongside Fleur Shore, ALISHA and Elliot Schooling. Next up: 77, London on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Joe Rolét is a tech house and house artist tracked on soundcheck, with 20 sets 
 
 Fleur Shore, ALISHA, Elliot Schooling
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

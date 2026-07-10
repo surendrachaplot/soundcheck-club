@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Passionfruit with Kareem Ali, Reek0 B2B Lila, Esk" on Fri, 10 Jul 2026.
+Colour Factory is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Passionfruit with Kareem Ali, Reek0 B2B Lila, Esk" on Fri, 10 Jul 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 3DMA, Andrea Giudice, Arabesque and AUKA and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 19 upcoming nigh
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

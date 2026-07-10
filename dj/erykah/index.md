@@ -1,6 +1,6 @@
 # Erykah
 
-Erykah is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Circle Park, Brussels on Sat, 11 Jul 2026.
+Erykah is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Circle Park, Brussels on Sat, 11 Jul 2026.
 
 Erykah is a breakbeat and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside gguusstt, ojoo and Vers. Next up: Circle Park, Brussels on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Erykah is a breakbeat and bass artist tracked on soundcheck, with 60 sets logged
 
 gguusstt, ojoo, Vers
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*

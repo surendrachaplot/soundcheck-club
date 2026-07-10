@@ -1,6 +1,6 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
+Guy Williams is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
 
 Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and Mr Doris. Next up: 93 Feet East, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets log
 
 Jo Mills, S/A/M, Mr Doris
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

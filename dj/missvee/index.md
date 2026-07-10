@@ -1,14 +1,13 @@
 # MISS VEE
 
-MISS VEE is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mehanata Bar, New York City on Thu, 9 Jul 2026.
+MISS VEE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Green Room NYC, New York City on Sat, 11 Jul 2026.
 
-MISS VEE is a house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity. Often billed alongside shirlz, DJ Sauci Soni and MAXWELL HöUSE. Next up: Mehanata Bar, Newyorkcity on Thu 9 Jul.
+MISS VEE is a house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity. Often billed alongside shirlz, DJ Sauci Soni and MAXWELL HöUSE. Next up: Green Room NYC, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Mehanata Bar | New York City |
 | Sat, 11 Jul 2026 | Green Room NYC | New York City |
 | Wed, 15 Jul 2026 | Jupiter Disco | New York City |
 | Thu, 16 Jul 2026 | Mehanata Bar | New York City |
@@ -16,6 +15,7 @@ MISS VEE is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
+- Mehanata Bar, New York City — Thu, 9 Jul 2026
 - Mehanata Bar, New York City — Thu, 2 Jul 2026
 - Mehanata Bar, New York City — Thu, 25 Jun 2026
 - Mehanata Bar, New York City — Thu, 18 Jun 2026
@@ -23,10 +23,9 @@ MISS VEE is a house and techno artist based in United States of America, tracked
 - The Rose, New York City — Mon, 1 Jun 2026
 - Idle Mind Tavern, New York City — Sun, 31 May 2026
 - Bossa Nova Civic Club, New York City — Sat, 30 May 2026
-- Unveiled, New York City — Thu, 14 May 2026
 
 ## Shares bills with
 
 shirlz, DJ Sauci Soni, MAXWELL HöUSE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*

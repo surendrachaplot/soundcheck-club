@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at frachtkante, Berlin on Sat, 11 Jul 2026.
+Upper90 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at frachtkante, Berlin on Sat, 11 Jul 2026.
 
 Upper90 is a techno and trance artist tracked on soundcheck, with 120 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: frachtkante, Berlin on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 120 sets logge
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

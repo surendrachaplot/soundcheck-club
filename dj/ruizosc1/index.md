@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tresor / Globus, Berlin on Mon, 13 Jul 2026.
+RUIZ OSC1 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tresor / Globus, Berlin on Mon, 13 Jul 2026.
 
 RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 37 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: Tresor / Globus, Berlin on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ RUIZ OSC1 is a techno and house artist tracked on soundcheck, with 137 sets logg
 
 Carmen Electro, Tarkno, slin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

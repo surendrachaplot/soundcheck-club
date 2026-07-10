@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Quarters, Brighton on Sat, 11 Jul 2026.
+George Smeddles is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Quarters, Brighton on Sat, 11 Jul 2026.
 
 George Smeddles is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Bangkok and Brighton and 21 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Quarters, Brighton on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ George Smeddles is a house and tech house artist tracked on soundcheck, with 70 
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

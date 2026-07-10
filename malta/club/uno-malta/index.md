@@ -1,6 +1,6 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 18 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "COCORICÒ PRES GALACTICA MALTA" on Fri, 10 Jul 2026.
+UNO MALTA is a music venue in Malta with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "COCORICÒ PRES GALACTICA MALTA" on Fri, 10 Jul 2026.
 
 UNO MALTA is a music venue in Malta listed on soundcheck. 18 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
@@ -23,4 +23,4 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 18 upcoming nights, wi
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

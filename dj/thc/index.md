@@ -1,6 +1,6 @@
 # THC
 
-THC is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Sat, 11 Jul 2026.
+THC is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Sat, 11 Jul 2026.
 
 THC is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, Byron Yeates and S-candalo. Next up: Nowadays, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ THC is a house and techno artist tracked on soundcheck, with 195 sets logged acr
 
 DHC, Byron Yeates, S-candalo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

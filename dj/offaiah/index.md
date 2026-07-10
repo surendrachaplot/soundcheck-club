@@ -1,6 +1,6 @@
 # OFFAIAH
 
-OFFAIAH is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
+OFFAIAH is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
 
 OFFAIAH is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Auckland, Austin, Chicago and Denver and 11 more. Often billed alongside Gene Farris, Claptone and Marc Kinchen. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ OFFAIAH is a house and tech house artist based in United Kingdom, tracked on sou
 
 Gene Farris, Claptone, Marc Kinchen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*

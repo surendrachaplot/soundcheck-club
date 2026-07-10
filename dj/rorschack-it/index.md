@@ -1,6 +1,6 @@
 # Rorschack
 
-Rorschack is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bassiani, Tbilisi on Fri, 10 Jul 2026.
+Rorschack is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bassiani, Tbilisi on Fri, 10 Jul 2026.
 
 Rorschack is a techno and acid artist based in Italy, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Brussels and Budapest and 11 more. Often billed alongside Yamila, Functional Disorder and Ikaar. Next up: Bassiani, Tbilisi on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Rorschack is a techno and acid artist based in Italy, tracked on soundcheck, wit
 
 Yamila, Functional Disorder, Ikaar
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*

@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "SuperCharged presents Shockone" on Fri, 10 Jul 2026.
+Volks is a music venue in Brighton with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SuperCharged presents Shockone" on Fri, 10 Jul 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 13 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Beano and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 13 upcoming nights, wit
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

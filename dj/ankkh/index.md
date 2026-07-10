@@ -1,6 +1,6 @@
 # ANKKH
 
-ANKKH is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CIRCOLO BOTULINO, Milan on Fri, 10 Jul 2026.
+ANKKH is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at CIRCOLO BOTULINO, Milan on Fri, 10 Jul 2026.
 
 ANKKH is a techno and hardcore artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Ibiza and London and 5 more. Often billed alongside Dshock, ABYSS 369 and samJ. Next up: CIRCOLO BOTULINO, Milan on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ ANKKH is a techno and hardcore artist based in Italy, tracked on soundcheck, wit
 
 Dshock, ABYSS 369, samJ
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*

@@ -1,6 +1,6 @@
 # ValaV
 
-ValaV is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moog Club, Barcelona on Fri, 10 Jul 2026.
+ValaV is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moog Club, Barcelona on Fri, 10 Jul 2026.
 
 ValaV is a techno and trance artist based in Venezuela, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 6 more. Often billed alongside REXER, Lola Kay and AMARANTE. Next up: Moog Club, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ ValaV is a techno and trance artist based in Venezuela, tracked on soundcheck, w
 
 REXER, Lola Kay, AMARANTE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valav/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valav/)*

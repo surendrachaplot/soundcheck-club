@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ormside Projects, London on Fri, 10 Jul 2026.
+Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ormside Projects, London on Fri, 10 Jul 2026.
 
 Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 140 sets logged across Amsterdam, Auckland, Barcelona and Basel and 38 more. Often billed alongside Baby Cocada, TEDESCO and Florentino. Next up: Ormside Projects, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 140 sets
 
 Baby Cocada, TEDESCO, Florentino
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

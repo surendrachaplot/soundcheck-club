@@ -1,6 +1,6 @@
 # Luisa
 
-Luisa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
+Luisa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
 
 Luisa is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Luisa is a techno and house artist tracked on soundcheck, with 101 sets logged a
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

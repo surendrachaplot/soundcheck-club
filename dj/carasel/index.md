@@ -1,6 +1,6 @@
 # Carasel
 
-Carasel is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Carasel is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
 Carasel is a drum & bass and jungle artist tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 7 more. Often billed alongside Jakes, IC3 and Inja. Next up: Boston Manor Park, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Carasel is a drum & bass and jungle artist tracked on soundcheck, with 68 sets l
 
 Jakes, IC3, Inja
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carasel/)*

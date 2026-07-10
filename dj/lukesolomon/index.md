@@ -1,6 +1,6 @@
 # Luke Solomon
 
-Luke Solomon is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
+Luke Solomon is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
 
 Luke Solomon is a house and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Horse Meat Disco, Honey Dijon and The Shapeshifters. Next up: KOKO, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Luke Solomon is a house and disco artist tracked on soundcheck, with 69 sets log
 
 Horse Meat Disco, Honey Dijon, The Shapeshifters
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukesolomon/)*

@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BLITZ, Munich on Sat, 11 Jul 2026.
+The Martinez Brothers is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BLITZ, Munich on Sat, 11 Jul 2026.
 
 The Martinez Brothers is a tech house and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Bali and Barcelona and 33 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: BLITZ, Munich on Sat 11 Jul.
 
@@ -35,4 +35,4 @@ The Martinez Brothers is a tech house and house artist tracked on soundcheck, wi
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

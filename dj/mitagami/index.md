@@ -1,6 +1,6 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Clairière, Paris on Fri, 10 Jul 2026.
+Mita Gami is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Clairière, Paris on Fri, 10 Jul 2026.
 
 Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: La Clairière, Paris on Fri 10 Jul.
 
@@ -35,4 +35,4 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logg
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

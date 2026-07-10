@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Chosen Few picnic Pre Party - Detroit In The House" on Fri, 10 Jul 2026.
+Le Nocturne is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Chosen Few picnic Pre Party - Detroit In The House" on Fri, 10 Jul 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including Ameer Brooks, Bruce Bailey, Demuir and Glenn Underground and 2 more. Browse upcoming dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -16,4 +16,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 3 upcoming nights,
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

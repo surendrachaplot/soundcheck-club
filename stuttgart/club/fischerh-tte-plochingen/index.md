@@ -1,6 +1,6 @@
 # Fischerhütte Plochingen
 
-Fischerhütte Plochingen is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "DAYTIMER - OPEN AIR" on Sun, 12 Jul 2026.
+Fischerhütte Plochingen is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "DAYTIMER - OPEN AIR" on Sun, 12 Jul 2026.
 
 Fischerhütte Plochingen is a music venue in Stuttgart listed on soundcheck. 1 upcoming night, with line-ups including Adi Dassler, Danny Salas, Mara Sander and Vamos Art. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Fischerhütte Plochingen is a music venue in Stuttgart listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | DAYTIMER - OPEN AIR | Adi Dassler, Danny Salas, Mara Sander, Vamos Art |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fischerh-tte-plochingen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fischerh-tte-plochingen/)*

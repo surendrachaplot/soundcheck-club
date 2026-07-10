@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "ambre club presents Gabbs and Simone de Kunovich" on Fri, 10 Jul 2026.
+UMI is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ambre club presents Gabbs and Simone de Kunovich" on Fri, 10 Jul 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Adi, Alix Van Ripato, Bapow and Dyed Soundorom and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -18,4 +18,4 @@ UMI is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with l
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

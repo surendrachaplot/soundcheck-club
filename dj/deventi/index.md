@@ -1,6 +1,6 @@
 # Deventi
 
-Deventi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
+Deventi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
 
 Deventi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Connor (UK), Danny Roach and Egui. Next up: Cupra City Garage Manchester, Manchester on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Deventi is a techno and house artist based in United Kingdom, tracked on soundch
 
 Connor (UK), Danny Roach, Egui
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*

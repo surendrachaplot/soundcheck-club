@@ -1,6 +1,6 @@
 # Bruder Jakob
 
-Bruder Jakob is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Beate Uwe, Berlin on Sat, 18 Jul 2026.
+Bruder Jakob is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Beate Uwe, Berlin on Sat, 18 Jul 2026.
 
 Bruder Jakob is a house and techno artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin and Hamburg. Often billed alongside Prosekko Papi, Bekka and Nikklaas. Next up: Beate Uwe, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Bruder Jakob is a house and techno artist based in Germany, tracked on soundchec
 
 Prosekko Papi, Bekka, Nikklaas
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob/)*

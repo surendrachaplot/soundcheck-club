@@ -1,6 +1,6 @@
 # Hugo
 
-Hugo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club der Visionaere, Berlin on Sun, 12 Jul 2026.
+Hugo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club der Visionaere, Berlin on Sun, 12 Jul 2026.
 
 Hugo is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Chicago, Copenhagen and London and 5 more. Often billed alongside Britney Speed, Lorenzo Chiabotti and Matriark. Next up: Club der Visionaere, Berlin on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Hugo is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Britney Speed, Lorenzo Chiabotti, Matriark
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-de/)*

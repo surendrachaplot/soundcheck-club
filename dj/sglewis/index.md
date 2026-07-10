@@ -1,6 +1,6 @@
 # SG Lewis
 
-SG Lewis is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 10 Jul 2026.
+SG Lewis is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 10 Jul 2026.
 
 SG Lewis is a house and disco artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Eliza Rose and Deetron. Next up: Level 1 @ Cannonball Arts, Seattle on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ SG Lewis is a house and disco artist tracked on soundcheck, with 78 sets logged 
 
 Gorgon City, Eliza Rose, Deetron
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

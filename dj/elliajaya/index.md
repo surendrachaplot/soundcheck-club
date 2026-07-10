@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 10 Jul 2026.
+Ellia Jaya is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Ulster Sports Club, Belfast on Fri, 10 Jul 2026.
 
 Ellia Jaya is a house and tech house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bali, Barcelona and Belfast and 17 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: The Ulster Sports Club, Belfast on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 82 sets 
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

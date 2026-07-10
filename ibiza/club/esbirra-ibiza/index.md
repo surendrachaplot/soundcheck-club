@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "OPTIMAL MASS" on Fri, 10 Jul 2026.
+Esbirra Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "OPTIMAL MASS" on Fri, 10 Jul 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights, with line-ups including CHAZZ (2), CHAZZ D&B, Chelu Garcia and E.LINA and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -19,4 +19,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights,
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

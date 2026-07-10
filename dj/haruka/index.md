@@ -1,8 +1,8 @@
 # Haruka
 
-Haruka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at vurt., Seoul on Sat, 18 Jul 2026.
+Haruka is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at vurt., Seoul on Sat, 18 Jul 2026.
 
-Haruka is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside DJ MARIA., Late Night Disco and Wata Igarashi. Next up: vurt., Seoul on Sat 18 Jul.
+Haruka is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside DJ MARIA., Wata Igarashi and Clarisa Kimskii. Next up: vurt., Seoul on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Haruka is a techno and house artist tracked on soundcheck, with 124 sets logged 
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | vurt. | Seoul |
 | Fri, 21 Aug 2026 | VENT | Tokyo |
+| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Haruka is a techno and house artist tracked on soundcheck, with 124 sets logged 
 
 ## Shares bills with
 
-DJ MARIA., Late Night Disco, Wata Igarashi
+DJ MARIA., Wata Igarashi, Clarisa Kimskii
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*

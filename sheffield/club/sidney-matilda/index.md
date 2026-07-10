@@ -1,6 +1,6 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Flock's 5th Birthday: Courtyard Day Party" on Sat, 11 Jul 2026.
+Sidney & Matilda is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Flock's 5th Birthday: Courtyard Day Party" on Sat, 11 Jul 2026.
 
 Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Damu, DJ Paypal, Drez and Eye Measure and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
@@ -20,4 +20,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 7 upcoming 
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

@@ -1,6 +1,6 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Lion and Lamb, London on Fri, 10 Jul 2026.
+Secretsundaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Lion and Lamb, London on Fri, 10 Jul 2026.
 
 Secretsundaze is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: The Lion and Lamb, London on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Secretsundaze is a house and techno artist tracked on soundcheck, with 72 sets l
 
 Ariane V, Certain People, Manuel Darquart
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*

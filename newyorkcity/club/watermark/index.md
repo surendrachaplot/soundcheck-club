@@ -1,6 +1,6 @@
 # Watermark
 
-Watermark is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bachata v Merengue v Reggaeton Night Beach Party" on Fri, 10 Jul 2026.
+Watermark is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bachata v Merengue v Reggaeton Night Beach Party" on Fri, 10 Jul 2026.
 
 Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
@@ -23,4 +23,4 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nigh
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

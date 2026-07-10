@@ -1,6 +1,6 @@
 # Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more at Ormside Projects
 
-Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more at Ormside Projects on Fri 10 Jul, London. 6 acts on the bill: Ab.Diablo, Manuka Honey, Pochola and Suutoo and 2 more. Club. Preview the line-up and save it on soundcheck.
+Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more at Ormside Projects on Fri 10 Jul, London. 7 acts on the bill: 1000raks, Ab.Diablo, Manuka Honey and Pochola and 3 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more at Ormside 
 
 ## Line-up
 
+- 1000raks
 - Ab.Diablo
 - Manuka Honey
 - Pochola

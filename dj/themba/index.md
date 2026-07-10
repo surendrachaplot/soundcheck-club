@@ -1,6 +1,6 @@
 # THEMBA
 
-THEMBA is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 24 Jul 2026.
+THEMBA is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 THEMBA is an afro house and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Black Coffee, Franky Wah and Hugel. Next up: Chinois Ibiza, Ibiza on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ THEMBA is an afro house and house artist tracked on soundcheck, with 121 sets lo
 
 Black Coffee, Franky Wah, Hugel
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*

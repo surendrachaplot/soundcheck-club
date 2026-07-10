@@ -1,14 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "[Cancelled] Spatial Awareness One Year Anniversary" on Thu, 9 Jul 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Disco Diner with Scott Matelic" on Fri, 10 Jul 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 11 upcoming nights, with line-ups including ADAB, Cubby, Cyrus (PHL) and Furtive and 2 more. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 10 upcoming nights, with line-ups including ADAB, Furtive, Mario Cotto and Shang and 1 more. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | [Cancelled] Spatial Awareness One Year Anniversary | Cubby, Cyrus (PHL) |
 | Fri, 10 Jul 2026 | Disco Diner with Scott Matelic | Skeme Richards |
 | Sat, 11 Jul 2026 | Take A Trip with Mario Cotto | Mario Cotto |
 | Thu, 16 Jul 2026 | Spatial Awareness - Shang | Shang |
@@ -18,9 +17,10 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 | Fri, 24 Jul 2026 | Disco Diner with Skeme Richards | Skeme Richards |
 | Sat, 25 Jul 2026 | Daniel Villarreal |  |
 | Thu, 30 Jul 2026 | Spatial Awareness - Furtive | Furtive |
+| Fri, 31 Jul 2026 | Between Mirrors with ADAB | ADAB |
 
 ## Address
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Samba Jean-Baptiste + Static Cleaner Lost Reward (Tarquin Manek)" on Fri, 10 Jul 2026.
+Silent Green is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Samba Jean-Baptiste + Static Cleaner Lost Reward (Tarquin Manek)" on Fri, 10 Jul 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Gregory Pearce, HTRK, JakoJako and Nicolas Bougaïeff and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

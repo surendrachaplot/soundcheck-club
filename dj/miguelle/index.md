@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Marina Sur, Valencia on Sat, 11 Jul 2026.
+Miguelle is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Marina Sur, Valencia on Sat, 11 Jul 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Barcelona and Boston and 15 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Marina Sur, Valencia on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

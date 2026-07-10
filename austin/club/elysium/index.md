@@ -1,6 +1,6 @@
 # Elysium
 
-Elysium is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BUZZ KULL • MAX FRY • Kontravoid" on Thu, 10 Sept 2026.
+Elysium is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BUZZ KULL • MAX FRY • Kontravoid" on Thu, 10 Sept 2026.
 
 Elysium is a music venue in Austin listed on soundcheck. 3 upcoming nights, with line-ups including Curse Mackey, Kontravoid and Nitzer Ebb. Browse upcoming dates, start times and who's playing. 705 Red River St., Austin, TX 78705.
 
@@ -16,4 +16,4 @@ Elysium is a music venue in Austin listed on soundcheck. 3 upcoming nights, with
 
 705 Red River St., Austin, TX 78705, Austin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/elysium/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/elysium/)*

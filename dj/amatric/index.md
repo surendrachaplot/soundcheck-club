@@ -1,6 +1,6 @@
 # Amatric
 
-Amatric is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 24 Jul 2026.
+Amatric is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 Amatric is an italo disco and disco artist tracked on soundcheck, with 49 sets logged across Sanfrancisco. Often billed alongside Evbot, lord_of_the_rats and John Glass. Next up: Monarch, Sanfrancisco on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Amatric is an italo disco and disco artist tracked on soundcheck, with 49 sets l
 
 Evbot, lord_of_the_rats, John Glass
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amatric/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amatric/)*

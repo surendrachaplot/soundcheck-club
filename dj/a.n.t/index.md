@@ -1,6 +1,6 @@
 # A.N.T
 
-A.N.T is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at XOYO, London on Thu, 16 Jul 2026.
+A.N.T is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at XOYO, London on Thu, 16 Jul 2026.
 
 A.N.T is a jungle and garage artist tracked on soundcheck, with 43 sets logged across London and Sanfrancisco. Often billed alongside Marky V, Abby Daze and ADA (UK). Next up: XOYO, London on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ A.N.T is a jungle and garage artist tracked on soundcheck, with 43 sets logged a
 
 Marky V, Abby Daze, ADA (UK)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a.n.t/)*

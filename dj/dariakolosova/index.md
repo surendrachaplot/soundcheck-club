@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Grelle Forelle, Vienna on Fri, 10 Jul 2026.
+Daria Kolosova is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Grelle Forelle, Vienna on Fri, 10 Jul 2026.
 
 Daria Kolosova is a techno and house artist tracked on soundcheck, with 266 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Grelle Forelle, Vienna on Fri 10 Jul.
 
@@ -36,4 +36,4 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 266 sets
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

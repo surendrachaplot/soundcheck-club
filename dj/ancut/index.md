@@ -1,6 +1,6 @@
 # Ancut
 
-Ancut is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri, 10 Jul 2026.
+Ancut is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri, 10 Jul 2026.
 
 Ancut is a techno and electro artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Matthias (1), So-Fi and Alex Picone. Next up: TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Ancut is a techno and electro artist tracked on soundcheck, with 62 sets logged 
 
 Matthias (1), So-Fi, Alex Picone
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ancut/)*

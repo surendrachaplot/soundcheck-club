@@ -1,6 +1,6 @@
 # Lily Huu
 
-Lily Huu is a Garage and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sawmills, Bristol on Sat, 11 Jul 2026.
+Lily Huu is a Garage and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sawmills, Bristol on Sat, 11 Jul 2026.
 
 Lily Huu is a garage and breakbeat artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Bristol and London. Often billed alongside IZZIT, Phia500 and Amz. Next up: Sawmills, Bristol on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Lily Huu is a garage and breakbeat artist based in United Kingdom, tracked on so
 
 IZZIT, Phia500, Amz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhuu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyhuu/)*

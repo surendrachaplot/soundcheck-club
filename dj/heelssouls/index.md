@@ -1,6 +1,6 @@
 # Heels & Souls
 
-Heels & Souls is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
+Heels & Souls is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 Heels & Souls are a house and balearic duo tracked on soundcheck, with 77 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Hamish & Toby, James Andrew and Professor Roth. Next up: Pikes Ibiza, Ibiza on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Heels & Souls are a house and balearic duo tracked on soundcheck, with 77 sets l
 
 Hamish & Toby, James Andrew, Professor Roth
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*

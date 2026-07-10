@@ -1,6 +1,6 @@
 # Rabzi
 
-Rabzi is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cafeteria, Toronto on Fri, 10 Jul 2026.
+Rabzi is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cafeteria, Toronto on Fri, 10 Jul 2026.
 
 Rabzi is a house and trance artist tracked on soundcheck, with 52 sets logged across Istanbul, London and Toronto. Often billed alongside 99hp, Ficilio and Milch (1). Next up: Cafeteria, Toronto on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Rabzi is a house and trance artist tracked on soundcheck, with 52 sets logged ac
 
 99hp, Ficilio, Milch (1)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*

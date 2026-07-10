@@ -1,6 +1,6 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 10 Jul 2026.
+Alex Nantaya is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 10 Jul 2026.
 
 Alex Nantaya is a techno and electro artist tracked on soundcheck, with 66 sets logged across Bangkok, Basel, Berlin and Geneva and 8 more. Often billed alongside Bours?, Doma and Gioski. Next up: Studio Club Malaga, Malaga on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Alex Nantaya is a techno and electro artist tracked on soundcheck, with 66 sets 
 
 Bours?, Doma, Gioski
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

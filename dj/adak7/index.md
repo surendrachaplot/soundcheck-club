@@ -1,6 +1,6 @@
 # adak7
 
-adak7 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 10 Jul 2026.
+adak7 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MIDNIGHT EAST, Tokyo on Fri, 10 Jul 2026.
 
 adak7 is a techno and experimental artist based in Japan, tracked on soundcheck, with 49 sets logged across Osaka and Tokyo. Often billed alongside Masafumi Take, Olevv and DJ Yazi. Next up: MIDNIGHT EAST, Tokyo on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ adak7 is a techno and experimental artist based in Japan, tracked on soundcheck,
 
 Masafumi Take, Olevv, DJ Yazi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adak7/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adak7/)*

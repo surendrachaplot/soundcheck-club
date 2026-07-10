@@ -1,6 +1,6 @@
 # Radio Bar
 
-Radio Bar is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "OPERATOR PRESENTS: 'PACE' EP RELEASE PARTY" on Sat, 11 Jul 2026.
+Radio Bar is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "OPERATOR PRESENTS: 'PACE' EP RELEASE PARTY" on Sat, 11 Jul 2026.
 
 Radio Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including AUNTY H!ST@M!NE and OPERATOR. Browse upcoming dates, start times and who's playing. 357 Brunswick St, Fitzroy VIC 3065.
 
@@ -15,4 +15,4 @@ Radio Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming nights,
 
 357 Brunswick St, Fitzroy VIC 3065, Melbourne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/radio-bar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/radio-bar/)*

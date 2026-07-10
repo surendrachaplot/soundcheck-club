@@ -1,6 +1,6 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Virage, Paris on Thu, 16 Jul 2026.
+Danilo Plessow is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Virage, Paris on Thu, 16 Jul 2026.
 
 Danilo Plessow is a house and disco artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: Virage, Paris on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 155 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

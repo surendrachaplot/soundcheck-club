@@ -1,6 +1,6 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Bath House, London on Sun, 12 Jul 2026.
+Jon K is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Bath House, London on Sun, 12 Jul 2026.
 
 Jon K is a techno and bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: The Bath House, London on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Jon K is a techno and bass artist tracked on soundcheck, with 79 sets logged acr
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

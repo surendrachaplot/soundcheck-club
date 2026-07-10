@@ -1,6 +1,6 @@
 # Hurts
 
-Hurts is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Elektricity, Detroit on Sat, 25 Jul 2026.
+Hurts is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Elektricity, Detroit on Sat, 25 Jul 2026.
 
 Hurts is a trance and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Riana Holley, 3LEEZA and Alex Friday. Next up: Elektricity, Detroit on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Hurts is a trance and techno artist tracked on soundcheck, with 65 sets logged a
 
 Riana Holley, 3LEEZA, Alex Friday
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hurts/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hurts/)*

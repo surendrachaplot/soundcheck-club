@@ -1,6 +1,6 @@
 # Kollektiv Turmstrasse
 
-Kollektiv Turmstrasse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bevegemse Vijvers, Ghent on Fri, 10 Jul 2026.
+Kollektiv Turmstrasse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bevegemse Vijvers, Ghent on Fri, 10 Jul 2026.
 
 Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Basel and Belgrade and 31 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Bevegemse Vijvers, Ghent on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on 
 
 Jonathan Kaspar, Miura, Biesmans
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*

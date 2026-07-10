@@ -1,6 +1,6 @@
 # Mija
 
-Mija is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 10 Jul 2026.
+Mija is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 10 Jul 2026.
 
 Mija is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 10 Jul.
 
@@ -31,4 +31,4 @@ Mija is a techno and house artist tracked on soundcheck, with 118 sets logged ac
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

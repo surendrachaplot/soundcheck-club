@@ -1,6 +1,6 @@
 # LIEKS
 
-LIEKS is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mia Mao, Paris on Fri, 10 Jul 2026.
+LIEKS is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mia Mao, Paris on Fri, 10 Jul 2026.
 
 LIEKS is a techno and trance artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 5 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: Mia Mao, Paris on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ LIEKS is a techno and trance artist tracked on soundcheck, with 21 sets logged a
 
 BLNK, TiTi, BØĘRY
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

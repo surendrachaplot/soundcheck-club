@@ -1,6 +1,6 @@
 # Michael Ius
 
-Michael Ius is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Secret Location (drops event day), Bucharest on Fri, 10 Jul 2026.
+Michael Ius is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Secret Location (drops event day), Bucharest on Fri, 10 Jul 2026.
 
 Michael Ius is a techno and acid artist tracked on soundcheck, with 34 sets logged across Berlin, Bucharest and London. Often billed alongside CARMEN (RO), FAUST (1) and ALISTARM. Next up: TBA - Secret Location (drops event day), Bucharest on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Michael Ius is a techno and acid artist tracked on soundcheck, with 34 sets logg
 
 CARMEN (RO), FAUST (1), ALISTARM
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*

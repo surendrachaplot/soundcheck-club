@@ -1,6 +1,6 @@
 # Stephan Jolk
 
-Stephan Jolk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Vajdahunyad Castle, Budapest on Fri, 10 Jul 2026.
+Stephan Jolk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Vajdahunyad Castle, Budapest on Fri, 10 Jul 2026.
 
 Stephan Jolk is a techno and house artist based in Italy, tracked on soundcheck, with 90 sets logged across Athens, Austin, Bali and Bangkok and 25 more. Often billed alongside Acid Arab, Goom Gum and Hannes Bieger. Next up: Vajdahunyad Castle, Budapest on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Stephan Jolk is a techno and house artist based in Italy, tracked on soundcheck,
 
 Acid Arab, Goom Gum, Hannes Bieger
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanjolk-2/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanjolk-2/)*

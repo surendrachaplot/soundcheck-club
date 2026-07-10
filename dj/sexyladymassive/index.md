@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Night Tales Loft, London on Sat, 11 Jul 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Night Tales Loft, London on Sat, 11 Jul 2026.
 
 Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Brighton and Bristol and 6 more. Often billed alongside 4am Kru, Betsy Mae and Missy P. Next up: Night Tales Loft, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 64 s
 
 4am Kru, Betsy Mae, Missy P
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

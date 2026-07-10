@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BPM BAR" on Fri, 10 Jul 2026.
+Joule is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BPM BAR" on Fri, 10 Jul 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including ALESSA(JP), DHADHA'', Ezequiel Arias and Junichi and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -22,4 +22,4 @@ Joule is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with li
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

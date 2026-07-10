@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Volnost, Seoul on Fri, 10 Jul 2026.
+Spekki Webu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Volnost, Seoul on Fri, 10 Jul 2026.
 
 Spekki Webu is a techno and house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Volnost, Seoul on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 191 sets lo
 
 Mama Snake, OCCA, Feral
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

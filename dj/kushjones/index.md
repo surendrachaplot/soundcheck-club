@@ -1,6 +1,6 @@
 # Kush Jones
 
-Kush Jones is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
+Kush Jones is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
 
 Kush Jones is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Auckland, Bali and Berlin and 25 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Nowadays, Newyorkcity on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Kush Jones is a techno and house artist tracked on soundcheck, with 114 sets log
 
 DJ SWISHA, MoMA Ready, AceMo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*

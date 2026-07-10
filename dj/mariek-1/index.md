@@ -1,6 +1,6 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Illegaal, Brussels on Sun, 19 Jul 2026.
+Marie K (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Illegaal, Brussels on Sun, 19 Jul 2026.
 
 Marie K (1) is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Illegaal, Brussels on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Marie K (1) is a techno and house artist tracked on soundcheck, with 65 sets log
 
 Eversines, Caim, Pieter Jansen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*

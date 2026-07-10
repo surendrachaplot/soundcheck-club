@@ -1,6 +1,6 @@
 # nohexcode
 
-nohexcode is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Starlane Pizza Bar, London on Sun, 19 Jul 2026.
+nohexcode is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Starlane Pizza Bar, London on Sun, 19 Jul 2026.
 
 nohexcode is a techno and acid artist tracked on soundcheck, with 27 sets logged across Berlin, Brighton and London. Often billed alongside CITYTRONIX, Noah Tauber and Modlar. Next up: Starlane Pizza Bar, London on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ nohexcode is a techno and acid artist tracked on soundcheck, with 27 sets logged
 
 CITYTRONIX, Noah Tauber, Modlar
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*

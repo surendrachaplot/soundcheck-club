@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 10 Jul 2026.
+Ale De Tuglie is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 10 Jul 2026.
 
 Ale De Tuglie is a tech house and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Bucharest and 19 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: Cavo Paradiso, Mykonos on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ Ale De Tuglie is a tech house and house artist tracked on soundcheck, with 76 se
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

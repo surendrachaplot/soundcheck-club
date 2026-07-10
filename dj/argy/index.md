@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Argy is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Argy is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Argy is a techno and house artist tracked on soundcheck, with 112 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

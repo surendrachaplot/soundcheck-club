@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MUSCLECARS - Terrell" on Fri, 10 Jul 2026.
+StereoBar is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MUSCLECARS - Terrell" on Fri, 10 Jul 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including Guillaume Michaud, Lumbago, Mihai Popoviciu and Moaad BKR and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -23,4 +23,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 10 upcoming nights,
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

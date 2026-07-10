@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Placeo & Soundwave pres. Groovy Friday - FREE BEACH PARTY " on Fri, 10 Jul 2026.
+Almar Beach Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Placeo & Soundwave pres. Groovy Friday - FREE BEACH PARTY " on Fri, 10 Jul 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Better Late, Carl Craig, Chadi and Civaro and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -23,4 +23,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 11 upcoming
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

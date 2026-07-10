@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Ben Klock is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 54 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 241 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

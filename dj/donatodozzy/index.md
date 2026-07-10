@@ -1,6 +1,6 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sawmills, Bristol on Fri, 17 Jul 2026.
+Donato Dozzy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sawmills, Bristol on Fri, 17 Jul 2026.
 
 Donato Dozzy is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Voices From The Lake, Spekki Webu and Ogazón. Next up: Sawmills, Bristol on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Donato Dozzy is a techno and house artist tracked on soundcheck, with 93 sets lo
 
 Voices From The Lake, Spekki Webu, Ogazón
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

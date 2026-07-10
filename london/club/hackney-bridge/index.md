@@ -1,6 +1,6 @@
 # Hackney Bridge
 
-Hackney Bridge is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "A Willy Nice Day 2026" on Sat, 18 Jul 2026.
+Hackney Bridge is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "A Willy Nice Day 2026" on Sat, 18 Jul 2026.
 
 Hackney Bridge is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Chaos In The CBD, DAR DISKU, Habibi Funk and Jamz Supernova and 1 more. Browse upcoming dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -17,4 +17,4 @@ Hackney Bridge is a music venue in London listed on soundcheck. 4 upcoming night
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*

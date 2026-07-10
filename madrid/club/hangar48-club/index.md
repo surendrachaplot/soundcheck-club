@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "SOMA" on Fri, 10 Jul 2026.
+Hangar48 Club is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SOMA" on Fri, 10 Jul 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Esther Summer, Fgdj, KRSDJ and MEANA and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -19,4 +19,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 6 upcoming nights
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

@@ -1,6 +1,6 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Elsewhere, New York City on Sat, 11 Jul 2026.
+Nicky Elisabeth is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Elsewhere, New York City on Sat, 11 Jul 2026.
 
 Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Basel and Berlin and 20 more. Often billed alongside Rezident, CRi and Marsh. Next up: Elsewhere, Newyorkcity on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 78 sets
 
 Rezident, CRi, Marsh
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

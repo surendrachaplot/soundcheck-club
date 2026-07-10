@@ -1,6 +1,6 @@
 # OCCA
 
-OCCA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Volnost, Seoul on Fri, 10 Jul 2026.
+OCCA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Volnost, Seoul on Fri, 10 Jul 2026.
 
 OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 18 more. Often billed alongside Spekki Webu, DJ Sodeyama and AKIRAM EN. Next up: Volnost, Seoul on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 12
 
 Spekki Webu, DJ Sodeyama, AKIRAM EN
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*

@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
+shekdash is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
 
 shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 79 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Nowadays, Newyorkcity on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ shekdash is a techno and club artist based in United States of America, tracked 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

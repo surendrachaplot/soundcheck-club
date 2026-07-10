@@ -1,6 +1,6 @@
 # Gene Farris
 
-Gene Farris is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
+Gene Farris is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
 
 Gene Farris is a house and tech house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Austin and Boston and 18 more. Often billed alongside OFFAIAH, Mark Knight and Anthony Attalla. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Gene Farris is a house and tech house artist tracked on soundcheck, with 106 set
 
 OFFAIAH, Mark Knight, Anthony Attalla
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/genefarris/)*

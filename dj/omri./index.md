@@ -1,6 +1,6 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 24 Jul 2026.
+OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 24 Jul 2026.
 
 OMRI. is a house and tech house artist tracked on soundcheck, with 62 sets logged across Austin, Barcelona, Brussels and Buenosaires and 15 more. Often billed alongside Jamie Jones, Black Coffee and Damian Lazarus. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ OMRI. is a house and tech house artist tracked on soundcheck, with 62 sets logge
 
 Jamie Jones, Black Coffee, Damian Lazarus
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

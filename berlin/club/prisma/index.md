@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sssmile Afterhour" on Thu, 9 Jul 2026.
+Prisma is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Klubkneipe x House Cats" on Sun, 12 Jul 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Carl Conrad, CRAIZ, Damien Barthet (2) and DJ Kodah and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Carl Conrad, CRAIZ, Damien Barthet (2) and DJ Kodah and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Sssmile Afterhour | The Shredder |
 | Sun, 12 Jul 2026 | Klubkneipe x House Cats | Vanity |
 | Tue, 14 Jul 2026 | Klubkneipe x Tuesday Ritual - Makramee Workshop | DJ Kodah, Domovnika, Emilion Dollar Baby, Prometheus |
 | Thu, 16 Jul 2026 | Sssmile Afterhour | CRAIZ, Carl Conrad, Sinetiketa, Unerhört |
@@ -23,4 +22,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

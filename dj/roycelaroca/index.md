@@ -1,6 +1,6 @@
 # Royce Larøca
 
-Royce Larøca is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
+Royce Larøca is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
 
 Royce Larøca is a house and minimal artist tracked on soundcheck, with 66 sets logged across Dublin, Lisbon, London and Philadelphia. Often billed alongside Waximum, Hera (IE) and RealTalks Soundsystem. Next up: Electric Garden, Dublin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Royce Larøca is a house and minimal artist tracked on soundcheck, with 66 sets 
 
 Waximum, Hera (IE), RealTalks Soundsystem
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roycelaroca/)*

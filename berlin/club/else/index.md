@@ -1,6 +1,6 @@
 # Else
 
-Else is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Polyamor /w. Mika Heggemann ALL DAY LONG" on Fri, 10 Jul 2026.
+Else is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Polyamor /w. Mika Heggemann ALL DAY LONG" on Fri, 10 Jul 2026.
 
 Else is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including 3LNA, Javier Anxiety, AgainstMe and ain't Marco and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
@@ -23,4 +23,4 @@ Else is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with l
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

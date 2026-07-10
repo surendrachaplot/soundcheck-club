@@ -1,6 +1,6 @@
 # Kate Simko
 
-Kate Simko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Epiphany Center for the Arts, Chicago on Fri, 24 Jul 2026.
+Kate Simko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Epiphany Center for the Arts, Chicago on Fri, 24 Jul 2026.
 
 Kate Simko is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Chicago, Denver, Detroit and Ibiza and 3 more. Often billed alongside Ataxia, Herodot and John Acquaviva. Next up: Epiphany Center for the Arts, Chicago on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Kate Simko is a house and techno artist based in United Kingdom, tracked on soun
 
 Ataxia, Herodot, John Acquaviva
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katesimko/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katesimko/)*

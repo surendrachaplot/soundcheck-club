@@ -1,6 +1,6 @@
 # The Pioneer Club
 
-The Pioneer Club is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Nice presents: The 1st Birthday" on Sat, 1 Aug 2026.
+The Pioneer Club is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Nice presents: The 1st Birthday" on Sat, 1 Aug 2026.
 
 The Pioneer Club is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Mack Gibson. Browse upcoming dates, start times and who's playing. Heathlands Drive, St Albans, AL3 5AY.
 
@@ -14,4 +14,4 @@ The Pioneer Club is a music venue in London listed on soundcheck. 1 upcoming nig
 
 Heathlands Drive, St Albans, AL3 5AY, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-pioneer-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-pioneer-club/)*

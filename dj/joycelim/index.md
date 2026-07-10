@@ -1,6 +1,6 @@
 # Joyce Lim
 
-Joyce Lim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at DC9, Washington DC on Sat, 11 Jul 2026.
+Joyce Lim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at DC9, Washington DC on Sat, 11 Jul 2026.
 
 Joyce Lim is a house and techno artist based in United States of America, tracked on soundcheck, with 83 sets logged across Detroit, London, Newyorkcity and Washingtondc. Often billed alongside Baronhawk Poitier, Tommy Cornelis and Jacq Jill. Next up: DC9, Washingtondc on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Joyce Lim is a house and techno artist based in United States of America, tracke
 
 Baronhawk Poitier, Tommy Cornelis, Jacq Jill
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joycelim/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joycelim/)*

@@ -1,6 +1,6 @@
 # Bazart
 
-Bazart is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "JOSEPH (CH) at Nuits Bazart" on Fri, 10 Jul 2026.
+Bazart is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "JOSEPH (CH) at Nuits Bazart" on Fri, 10 Jul 2026.
 
 Bazart is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Andruss, Ankhoï, AWEN and BARON (FR) and 2 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 1W4.
 
@@ -20,4 +20,4 @@ Bazart is a music venue in Montreal listed on soundcheck. 7 upcoming nights, wit
 
 950 Ottawa St, Montreal, Quebec H3C 1W4, Montreal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bazart/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bazart/)*

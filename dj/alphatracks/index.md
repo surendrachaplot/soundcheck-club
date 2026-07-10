@@ -1,6 +1,6 @@
 # Alpha Tracks
 
-Alpha Tracks is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at SMUT Athens, Athens on Sat, 18 Jul 2026.
+Alpha Tracks is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at SMUT Athens, Athens on Sat, 18 Jul 2026.
 
 Alpha Tracks is a techno and trance artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Bangkok and Basel and 29 more. Often billed alongside DINA, Blue Hour and Oprofessionell. Next up: SMUT Athens, Athens on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Alpha Tracks is a techno and trance artist tracked on soundcheck, with 90 sets l
 
 DINA, Blue Hour, Oprofessionell
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*

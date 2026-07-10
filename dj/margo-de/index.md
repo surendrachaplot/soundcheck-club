@@ -1,6 +1,6 @@
 # Margo
 
-Margo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fundbureau, Hamburg on Fri, 10 Jul 2026.
+Margo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fundbureau, Hamburg on Fri, 10 Jul 2026.
 
 Margo is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, Brussels and Hamburg. Often billed alongside Margo (GER), Bushfya and DJ SOURCE. Next up: Fundbureau, Hamburg on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Margo is a techno and house artist tracked on soundcheck, with 45 sets logged ac
 
 Margo (GER), Bushfya, DJ SOURCE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margo-de/)*

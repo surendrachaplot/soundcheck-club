@@ -1,6 +1,6 @@
 # Carriageworks
 
-Carriageworks is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "move my way festival / eora / Carriageworks" on Sat, 3 Oct 2026.
+Carriageworks is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "move my way festival / eora / Carriageworks" on Sat, 3 Oct 2026.
 
 Carriageworks is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Coco Maria, Ezra Collective, Jamz Supernova and Kokoroko and 2 more. Browse upcoming dates, start times and who's playing. 245 Wilson Street, Eveleigh, NSW 2015, Australia.
 
@@ -14,4 +14,4 @@ Carriageworks is a music venue in Sydney listed on soundcheck. 1 upcoming night,
 
 245 Wilson Street, Eveleigh, NSW 2015, Australia, Sydney
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*

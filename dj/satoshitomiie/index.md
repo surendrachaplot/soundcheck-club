@@ -1,6 +1,6 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 17 Jul 2026.
+Satoshi Tomiie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Monarch, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 36 more. Often billed alongside Doudou MD, Cabanne and Kuniyuki. Next up: Monarch, Sanfrancisco on Fri 17 Jul.
 
@@ -34,4 +34,4 @@ Satoshi Tomiie is a house and techno artist tracked on soundcheck, with 117 sets
 
 Doudou MD, Cabanne, Kuniyuki
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

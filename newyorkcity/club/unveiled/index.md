@@ -1,15 +1,13 @@
 # Unveiled
 
-Unveiled is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Thursdays are Casual" on Thu, 9 Jul 2026.
+Unveiled is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Saturday with Groove Creator 07/11" on Sat, 11 Jul 2026.
 
-Unveiled is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Daniela, LOFTUS, Pablo Fierro and Ryan Farr. Browse upcoming dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
+Unveiled is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including LOFTUS, Pablo Fierro and Ryan Farr. Browse upcoming dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Thursdays are Casual | Daniela |
-| Thu, 9 Jul 2026 | Thursdays Are Casual 07/09 |  |
 | Sat, 11 Jul 2026 | Saturday with Groove Creator 07/11 |  |
 | Fri, 17 Jul 2026 | GOOD BOY | LOFTUS, Ryan Farr |
 | Sat, 18 Jul 2026 | Pablo Fierro @ UNVEILED | Pablo Fierro |
@@ -19,4 +17,4 @@ Unveiled is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights
 
 94 n 13th st, brooklyn, NY 11249, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*

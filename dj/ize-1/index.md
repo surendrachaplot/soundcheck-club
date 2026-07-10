@@ -1,6 +1,6 @@
 # Ize (1)
 
-Ize (1) is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Egg London, London on Sat, 11 Jul 2026.
+Ize (1) is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Egg London, London on Sat, 11 Jul 2026.
 
 Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged across Brighton and London. Often billed alongside Alfaz, Tenzin and ARLYSS. Next up: Egg London, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged 
 
 Alfaz, Tenzin, ARLYSS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*

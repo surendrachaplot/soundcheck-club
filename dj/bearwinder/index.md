@@ -1,6 +1,6 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
+Bear Winder is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
 
 Bear Winder is a house and garage artist tracked on soundcheck, with 36 sets logged across London, Manchester and Melbourne. Often billed alongside Jeremy Sylvester, DJ Perception and Jules Cameron. Next up: KOKO, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Bear Winder is a house and garage artist tracked on soundcheck, with 36 sets log
 
 Jeremy Sylvester, DJ Perception, Jules Cameron
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*

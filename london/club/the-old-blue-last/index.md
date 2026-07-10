@@ -1,8 +1,8 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Don't - Free Party" on Fri, 10 Jul 2026.
+The Old Blue Last is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Don't - Free Party" on Fri, 10 Jul 2026.
 
-The Old Blue Last is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Asa Tate, Billy Nasty, DAVE the Drummer and Dev/Null and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
+The Old Blue Last is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Asa Tate, Billy Nasty, DAVE the Drummer and Dev/Null and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 14 upcoming n
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

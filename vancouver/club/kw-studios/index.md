@@ -1,6 +1,6 @@
 # KW Studios
 
-KW Studios is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Heaven Camera YVR || Ivy Hollivana, BINKY, ANTI-NOTHING + more" on Fri, 18 Sept 2026.
+KW Studios is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Heaven Camera YVR || Ivy Hollivana, BINKY, ANTI-NOTHING + more" on Fri, 18 Sept 2026.
 
 KW Studios is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including ANTI-NOTHING, BINKY and Ivy Hollivana. Browse upcoming dates, start times and who's playing. #10 – 111 Hastings St W, Vancouver, BC V6B 1H4, Canada.
 
@@ -14,4 +14,4 @@ KW Studios is a music venue in Vancouver listed on soundcheck. 1 upcoming night,
 
 #10 – 111 Hastings St W, Vancouver, BC V6B 1H4, Canada, Vancouver
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/kw-studios/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/kw-studios/)*

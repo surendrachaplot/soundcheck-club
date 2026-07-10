@@ -1,6 +1,6 @@
 # Re.You
 
-Re.You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Red Ruby, Bali on Sat, 11 Jul 2026.
+Re.You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Red Ruby, Bali on Sat, 11 Jul 2026.
 
 Re.You is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Athens and Bali and 17 more. Often billed alongside Belben, MAKII and Anja Schneider. Next up: Red Ruby, Bali on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Re.You is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Belben, MAKII, Anja Schneider
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*

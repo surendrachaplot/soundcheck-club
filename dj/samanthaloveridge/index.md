@@ -1,6 +1,6 @@
 # Samantha Loveridge
 
-Samantha Loveridge is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ora, Seattle on Fri, 10 Jul 2026.
+Samantha Loveridge is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ora, Seattle on Fri, 10 Jul 2026.
 
 Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Ora, Seattle on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Samantha Loveridge is a house and afro house artist tracked on soundcheck, with 
 
 OLIIV, CamelPhat, Gumm
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*

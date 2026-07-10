@@ -1,6 +1,6 @@
 # Raf & Rod
 
-Raf & Rod is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 10 Jul 2026.
+Raf & Rod is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 10 Jul 2026.
 
 Raf & Rod are a house and electro duo tracked on soundcheck, with 43 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Omar M, DJ Gamba and Lyonel. Next up: Sunseabar Beach Club, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Raf & Rod are a house and electro duo tracked on soundcheck, with 43 sets logged
 
 Omar M, DJ Gamba, Lyonel
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafrod/)*

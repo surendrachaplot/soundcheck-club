@@ -1,14 +1,13 @@
 # Opium Barcelona
 
-Opium Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "WEDJS pres Dj Diesel" on Thu, 9 Jul 2026.
+Opium Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Waa pres: MK" on Wed, 15 Jul 2026.
 
-Opium Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Bob Sinclar, Dimitri Vegas & Like Mike, Dj Mk and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. Paseo Maritimo, 34; 08003 Barcelona; Spain.
+Opium Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Bob Sinclar, Dimitri Vegas & Like Mike, Dj Mk and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. Paseo Maritimo, 34; 08003 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | WEDJS pres Dj Diesel |  |
 | Wed, 15 Jul 2026 | Waa pres: MK | Dj Mk, Marc Kinchen, Marcel BS |
 | Wed, 22 Jul 2026 | WEDJS pres Bob Sinclar | Bob Sinclar |
 | Thu, 30 Jul 2026 | WEDJS pres Dimitri Vegas | Dimitri Vegas & Like Mike |
@@ -22,4 +21,4 @@ Opium Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming n
 
 Paseo Maritimo, 34; 08003 Barcelona; Spain, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opium-barcelona/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opium-barcelona/)*

@@ -1,6 +1,6 @@
 # Paulette Sauvage
 
-Paulette Sauvage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Glazart, Paris on Sat, 11 Jul 2026.
+Paulette Sauvage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Glazart, Paris on Sat, 11 Jul 2026.
 
 Paulette Sauvage is a techno and house artist tracked on soundcheck, with 43 sets logged across Lyon, Nantes and Paris. Often billed alongside Or'l, Nicol and Tina Tornade. Next up: Glazart, Paris on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Paulette Sauvage is a techno and house artist tracked on soundcheck, with 43 set
 
 Or'l, Nicol, Tina Tornade
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*

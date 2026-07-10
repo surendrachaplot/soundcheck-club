@@ -1,6 +1,6 @@
 # Biblioteca di Parco Sempione
 
-Biblioteca di Parco Sempione is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Parco Sempione Open Air with DJ Ralf" on Sat, 11 Jul 2026.
+Biblioteca di Parco Sempione is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Parco Sempione Open Air with DJ Ralf" on Sat, 11 Jul 2026.
 
 Biblioteca di Parco Sempione is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Dario Lem, DJ Ralf, Fabio Alampi and Pitchup Collective. Browse upcoming dates, start times and who's playing. Viale Miguel de Cervantes, 20121 Milano MI.
 
@@ -14,4 +14,4 @@ Biblioteca di Parco Sempione is a music venue in Milan listed on soundcheck. 1 u
 
 Viale Miguel de Cervantes, 20121 Milano MI, Milan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/biblioteca-di-parco-sempione/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/biblioteca-di-parco-sempione/)*

@@ -1,6 +1,6 @@
 # Classmatic
 
-Classmatic is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at D-EDGE, Sao Paulo on Fri, 17 Jul 2026.
+Classmatic is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at D-EDGE, Sao Paulo on Fri, 17 Jul 2026.
 
 Classmatic is a tech house and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Basel and 23 more. Often billed alongside The Martinez Brothers, Paco Osuna and Jesse Calosso. Next up: D-EDGE, Saopaulo on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Classmatic is a tech house and house artist tracked on soundcheck, with 83 sets 
 
 The Martinez Brothers, Paco Osuna, Jesse Calosso
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*

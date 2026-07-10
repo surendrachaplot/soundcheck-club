@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "NO TOMORROW - Kamafaka, Axydent, D'ILLEGAL, 3en" on Fri, 10 Jul 2026.
+Aether Club Budapest is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "NO TOMORROW - Kamafaka, Axydent, D'ILLEGAL, 3en" on Fri, 10 Jul 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including 3en, ädene, Akác and And/Or and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -23,4 +23,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 10 upcom
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

@@ -1,6 +1,6 @@
 # Blu:sh
 
-Blu:sh is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kwia, Berlin on Tue, 14 Jul 2026.
+Blu:sh is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kwia, Berlin on Tue, 14 Jul 2026.
 
 Blu:sh is a techno and trance artist based in France, tracked on soundcheck, with 49 sets logged across Athens, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Zeynep, Marie Malarie and Von Riu. Next up: Kwia, Berlin on Tue 14 Jul.
 
@@ -27,4 +27,4 @@ Blu:sh is a techno and trance artist based in France, tracked on soundcheck, wit
 
 Zeynep, Marie Malarie, Von Riu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blush-de/)*

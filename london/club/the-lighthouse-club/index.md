@@ -1,6 +1,6 @@
 # The Lighthouse Club
 
-The Lighthouse Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bashment & Afrobeats Shoreditch Party - Everyone Free Before 12AM" on Fri, 10 Jul 2026.
+The Lighthouse Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bashment & Afrobeats Shoreditch Party - Everyone Free Before 12AM" on Fri, 10 Jul 2026.
 
 The Lighthouse Club is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 62 Rivington Street.
 
@@ -16,4 +16,4 @@ The Lighthouse Club is a music venue in London listed on soundcheck. 3 upcoming 
 
 62 Rivington Street, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-club/)*

@@ -1,6 +1,6 @@
 # Bridgeport Records
 
-Bridgeport Records is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bounce with Shmoo & Wyser" on Sun, 26 Jul 2026.
+Bridgeport Records is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bounce" on Sun, 26 Jul 2026.
 
 Bridgeport Records is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Shmoo and Wyser. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Bridgeport Records is a music venue in Chicago listed on soundcheck. 1 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 26 Jul 2026 | Bounce with Shmoo & Wyser | Shmoo, Wyser |
+| Sun, 26 Jul 2026 | Bounce | Shmoo, Wyser |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bridgeport-records/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bridgeport-records/)*

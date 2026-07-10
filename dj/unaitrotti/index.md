@@ -1,6 +1,6 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Radio Radio, Amsterdam on Fri, 10 Jul 2026.
+Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Radio Radio, Amsterdam on Fri, 10 Jul 2026.
 
 Unai Trotti is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Radio Radio, Amsterdam on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 153 sets lo
 
 Z@p, Vass, Junki Inoue
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

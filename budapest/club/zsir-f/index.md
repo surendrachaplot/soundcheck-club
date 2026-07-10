@@ -1,6 +1,6 @@
 # Zsiráf
 
-Zsiráf is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Zsiráf Pest presents: AYYBO (US)" on Fri, 10 Jul 2026.
+Zsiráf is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Zsiráf Pest presents: AYYBO (US)" on Fri, 10 Jul 2026.
 
 Zsiráf is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including Davko, Lucien, Sumofdem and Volkoder. Browse upcoming dates, start times and who's playing. Budapest, Teréz krt. 53, 1062 Hungary.
 
@@ -15,4 +15,4 @@ Zsiráf is a music venue in Budapest listed on soundcheck. 2 upcoming nights, wi
 
 Budapest, Teréz krt. 53, 1062 Hungary, Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*

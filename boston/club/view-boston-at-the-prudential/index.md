@@ -1,6 +1,6 @@
 # View Boston at The Prudential
 
-View Boston at The Prudential is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sun Sets at the Prudential: Costa's White Party" on Sat, 11 Jul 2026.
+View Boston at The Prudential is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sun Sets at the Prudential: Costa's White Party" on Sat, 11 Jul 2026.
 
 View Boston at The Prudential is a music venue in Boston listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 800 Boylston Street, Floor 52, Boston, MA 02199, USA.
 
@@ -16,4 +16,4 @@ View Boston at The Prudential is a music venue in Boston listed on soundcheck. 3
 
 800 Boylston Street, Floor 52, Boston, MA 02199, USA, Boston
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/view-boston-at-the-prudential/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/view-boston-at-the-prudential/)*

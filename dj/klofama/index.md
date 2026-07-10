@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
+KLOFAMA is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
 KLOFAMA is a techno and industrial artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
@@ -33,4 +33,4 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 91 sets lo
 
 KARAH, SLVL, SANTØS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

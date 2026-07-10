@@ -1,6 +1,6 @@
 # Specific Objects
 
-Specific Objects is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fuchs2, Prague on Sat, 18 Jul 2026.
+Specific Objects is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fuchs2, Prague on Sat, 18 Jul 2026.
 
 Specific Objects is a techno and trance artist tracked on soundcheck, with 60 sets logged across Antwerp, Berlin, Bucharest and Cologne and 11 more. Often billed alongside Caniche, Steven Shade and DJ.P. Next up: Fuchs2, Prague on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Specific Objects is a techno and trance artist tracked on soundcheck, with 60 se
 
 Caniche, Steven Shade, DJ.P
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specificobjects/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specificobjects/)*

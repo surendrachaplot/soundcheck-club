@@ -1,6 +1,6 @@
 # Ida Daugaard
 
-Ida Daugaard is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen on Fri, 10 Jul 2026.
+Ida Daugaard is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen on Fri, 10 Jul 2026.
 
 Ida Daugaard is a techno and minimal artist based in Denmark, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Ana Karla, Markovela and Mira. Next up: TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ida Daugaard is a techno and minimal artist based in Denmark, tracked on soundch
 
 Ana Karla, Markovela, Mira
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idadaugaard-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idadaugaard-de/)*

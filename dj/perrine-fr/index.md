@@ -1,6 +1,6 @@
 # P errine
 
-P errine is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Le Transbordeur, Lyon on Sat, 11 Jul 2026.
+P errine is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Le Transbordeur, Lyon on Sat, 11 Jul 2026.
 
 P errine is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, Hamburg, Lyon and Marseille and 2 more. Often billed alongside Axel Blanc, RIGO and CallBackSami. Next up: Le Transbordeur, Lyon on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ P errine is a techno and house artist tracked on soundcheck, with 41 sets logged
 
 Axel Blanc, RIGO, CallBackSami
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perrine-fr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perrine-fr/)*

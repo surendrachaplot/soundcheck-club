@@ -1,6 +1,6 @@
 # Karizma
 
-Karizma is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
+Karizma is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
 
 Karizma is a house and deep house artist tracked on soundcheck, with 51 sets logged across Chicago, Denver, Detroit and Losangeles and 7 more. Often billed alongside Baronhawk Poitier, Natasha Diggs and Rick Wilhite. Next up: TBA - 2346 Porter Street, Los Angeles, CA 90021, Losangeles on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Karizma is a house and deep house artist tracked on soundcheck, with 51 sets log
 
 Baronhawk Poitier, Natasha Diggs, Rick Wilhite
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*

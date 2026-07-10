@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "PHANTASMAGORIA x SIGNAL  ↠ Madelic, AKWA & Milo" on Fri, 10 Jul 2026.
+radial is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "PHANTASMAGORIA x SIGNAL  ↠ Madelic, AKWA & Milo" on Fri, 10 Jul 2026.
 
 radial is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including AKWA, Blood of Aza, Brother of Set and Caroune and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -22,4 +22,4 @@ radial is a music venue in London listed on soundcheck. 9 upcoming nights, with 
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

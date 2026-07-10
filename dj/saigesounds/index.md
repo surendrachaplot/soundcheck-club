@@ -1,6 +1,6 @@
 # Saige Sounds
 
-Saige Sounds is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Night Tales Loft, London on Sat, 11 Jul 2026.
+Saige Sounds is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Night Tales Loft, London on Sat, 11 Jul 2026.
 
 Saige Sounds is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Berlin and London. Often billed alongside Alexander Nut, joey manzi and Ben hauke. Next up: Night Tales Loft, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Saige Sounds is a house and broken beat artist based in United Kingdom, tracked 
 
 Alexander Nut, joey manzi, Ben hauke
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saigesounds/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saigesounds/)*

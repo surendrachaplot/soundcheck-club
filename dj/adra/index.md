@@ -1,6 +1,6 @@
 # Adra
 
-Adra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 10 Jul 2026.
+Adra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 10 Jul 2026.
 
 Adra is a techno and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Max Gardner, 9-System and Eichef. Next up: 1015 Folsom, Sanfrancisco on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Adra is a techno and house artist based in United States of America, tracked on 
 
 Max Gardner, 9-System, Eichef
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*

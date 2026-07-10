@@ -1,6 +1,6 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Good Room, New York City on Sat, 11 Jul 2026.
+S4M23 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Good Room, New York City on Sat, 11 Jul 2026.
 
 S4M23 is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Boston, Chicago and Detroit and 5 more. Often billed alongside Mike Servito, Lauren Flax and Miss Parker. Next up: Good Room, Newyorkcity on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ S4M23 is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 Mike Servito, Lauren Flax, Miss Parker
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

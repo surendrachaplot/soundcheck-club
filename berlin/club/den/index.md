@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "candyflip x delululand // 4 Floors & 35 Artists " on Fri, 10 Jul 2026.
+ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "candyflip x delululand // 4 Floors & 35 Artists " on Fri, 10 Jul 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including .JKM, 7CIRCLE, Alexa Fluor and Alex Pastore and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

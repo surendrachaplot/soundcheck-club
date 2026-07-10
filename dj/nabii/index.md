@@ -1,6 +1,6 @@
 # nabii
 
-nabii is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Milneys, Melbourne on Fri, 10 Jul 2026.
+nabii is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Milneys, Melbourne on Fri, 10 Jul 2026.
 
 nabii is a techno and trance artist tracked on soundcheck, with 39 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: Milneys, Melbourne on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ nabii is a techno and trance artist tracked on soundcheck, with 39 sets logged a
 
 syrup-E, Chaotiic Good, Lost Memories
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*

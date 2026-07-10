@@ -1,6 +1,6 @@
 # My Aeon
 
-My Aeon is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Off Axis MyAeon" on Fri, 10 Jul 2026.
+My Aeon is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Off Axis MyAeon" on Fri, 10 Jul 2026.
 
 My Aeon is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including ALIEN-A, Andrew Till, Chiara Kickdrum and cuznmatt and 2 more. Browse upcoming dates, start times and who's playing. 791 Sydney Rd; Brunswick VIC 3056; Australia.
 
@@ -17,4 +17,4 @@ My Aeon is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, w
 
 791 Sydney Rd; Brunswick VIC 3056; Australia, Melbourne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*

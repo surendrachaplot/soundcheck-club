@@ -1,6 +1,6 @@
 # DJ Service
 
-DJ Service is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
+DJ Service is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
 
 DJ Service is a house and electro artist based in Spain, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Nick (IT) and Quim Clausell. Next up: TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ DJ Service is a house and electro artist based in Spain, tracked on soundcheck, 
 
 CMYK, Nick (IT), Quim Clausell
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*

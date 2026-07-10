@@ -1,6 +1,6 @@
 # Anton Tumas
 
-Anton Tumas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
+Anton Tumas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
 
 Anton Tumas is a house and techno artist tracked on soundcheck, with 44 sets logged across Losangeles, Montreal and Sanfrancisco. Often billed alongside DAVI, Doc Martin and Treavor Moontribe. Next up: Shoreline Aquatic Park, Losangeles on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Anton Tumas is a house and techno artist tracked on soundcheck, with 44 sets log
 
 DAVI, Doc Martin, Treavor Moontribe
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antontumas/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antontumas/)*

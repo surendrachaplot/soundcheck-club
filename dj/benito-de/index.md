@@ -1,6 +1,6 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 10 Jul 2026.
+BENITO (DE) is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 10 Jul 2026.
 
 BENITO (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Leipzig and Munich. Often billed alongside Limoncello, BRTLGR and EZA (DE). Next up: Lokschuppen Berlin, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ BENITO (DE) is a trance and techno artist based in Germany, tracked on soundchec
 
 Limoncello, BRTLGR, EZA (DE)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*

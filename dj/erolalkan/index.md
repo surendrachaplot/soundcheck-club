@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 21 Jul 2026.
+Erol Alkan is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 Erol Alkan is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: 528 Ibiza, Ibiza on Tue 21 Jul.
 
@@ -31,4 +31,4 @@ Erol Alkan is a house and techno artist tracked on soundcheck, with 129 sets log
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

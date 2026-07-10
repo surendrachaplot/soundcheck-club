@@ -1,6 +1,6 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Premises, Chicago on Sat, 11 Jul 2026.
+Beau Wanzer is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Premises, Chicago on Sat, 11 Jul 2026.
 
 Beau Wanzer is an experimental and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: TBA - Premises, Chicago on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Beau Wanzer is an experimental and techno artist tracked on soundcheck, with 101
 
 Amber Gris, Dretraxx, L.F.T.
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*

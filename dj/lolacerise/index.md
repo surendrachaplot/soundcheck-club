@@ -1,6 +1,6 @@
 # Lola Cerise
 
-Lola Cerise is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
+Lola Cerise is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
 
 Lola Cerise is a techno and trance artist tracked on soundcheck, with 43 sets logged across Amsterdam, Basel, Berlin and Brussels and 16 more. Often billed alongside Alex Farell, 999999999 and Carotin. Next up: Z-Bau, Nurnberg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Lola Cerise is a techno and trance artist tracked on soundcheck, with 43 sets lo
 
 Alex Farell, 999999999, Carotin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*

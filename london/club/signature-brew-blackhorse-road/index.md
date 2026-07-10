@@ -1,6 +1,6 @@
 # Signature Brew Blackhorse Road
 
-Signature Brew Blackhorse Road is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "nospace launch" on Sat, 18 Jul 2026.
+Signature Brew Blackhorse Road is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "nospace launch" on Sat, 18 Jul 2026.
 
 Signature Brew Blackhorse Road is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Adela, Alexis Taylor, Benebe and Drastic Shuffle and 2 more. Browse upcoming dates, start times and who's playing. Unit 15, Uplands Business Park, Blackhorse Ln, London E17 5QJ, United Kingdom.
 
@@ -15,4 +15,4 @@ Signature Brew Blackhorse Road is a music venue in London listed on soundcheck. 
 
 Unit 15, Uplands Business Park, Blackhorse Ln, London E17 5QJ, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/signature-brew-blackhorse-road/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/signature-brew-blackhorse-road/)*

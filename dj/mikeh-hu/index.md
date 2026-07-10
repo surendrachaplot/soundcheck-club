@@ -1,6 +1,6 @@
 # Mike.H
 
-Mike.H is a Electronica and Krautrock artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tendance, Prague on Wed, 15 Jul 2026.
+Mike.H is a Electronica and Krautrock artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tendance, Prague on Wed, 15 Jul 2026.
 
 Mike.H is an electronica and krautrock artist based in Czech Republic, tracked on soundcheck, with 48 sets logged across Berlin and Prague. Often billed alongside Eva Porating, AMB (6) and Kredenc. Next up: Tendance, Prague on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Mike.H is an electronica and krautrock artist based in Czech Republic, tracked o
 
 Eva Porating, AMB (6), Kredenc
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeh-hu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeh-hu/)*

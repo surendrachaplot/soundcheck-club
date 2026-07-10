@@ -1,6 +1,6 @@
 # Bellevue Teatret
 
-Bellevue Teatret is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Berverly Glenn-Copeland (CA)" on Mon, 7 Sept 2026.
+Bellevue Teatret is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Berverly Glenn-Copeland (CA)" on Mon, 7 Sept 2026.
 
 Bellevue Teatret is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Beverly Glenn-Copeland. Browse upcoming dates, start times and who's playing. Strandvejen 451, 2930 Klampenborg.
 
@@ -14,4 +14,4 @@ Bellevue Teatret is a music venue in Copenhagen listed on soundcheck. 1 upcoming
 
 Strandvejen 451, 2930 Klampenborg, Copenhagen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/bellevue-teatret/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/bellevue-teatret/)*

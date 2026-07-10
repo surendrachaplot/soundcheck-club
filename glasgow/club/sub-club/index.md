@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "RTM: Chlär & Slam & KAAI" on Fri, 10 Jul 2026.
+Sub Club is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "RTM: Chlär & Slam & KAAI" on Fri, 10 Jul 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including Acido Cielo, Aiko Inoue, Chlär and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

@@ -1,6 +1,6 @@
 # 8KAYS
 
-8KAYS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 26 Aug 2026.
+8KAYS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 26 Aug 2026.
 
 8KAYS is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Barcelona and Basel and 32 more. Often billed alongside Miss Monique, Tale Of Us and Kevin de Vries. Next up: Hï Ibiza, Ibiza on Wed 26 Aug.
 
@@ -26,4 +26,4 @@
 
 Miss Monique, Tale Of Us, Kevin de Vries
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/8kays/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/8kays/)*

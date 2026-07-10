@@ -1,6 +1,6 @@
 # Barac
 
-Barac is a Minimal and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Supermarket, Zurich on Sat, 18 Jul 2026.
+Barac is a Minimal and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Supermarket, Zurich on Sat, 18 Jul 2026.
 
 Barac is a minimal and minimal techno artist tracked on soundcheck, with 43 sets logged across Athens, Belgrade, Bucharest and Buenosaires and 13 more. Often billed alongside Andreas Ramos, BRYZ and CEZAR. Next up: Supermarket, Zurich on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Barac is a minimal and minimal techno artist tracked on soundcheck, with 43 sets
 
 Andreas Ramos, BRYZ, CEZAR
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barac/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barac/)*

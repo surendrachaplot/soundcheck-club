@@ -1,6 +1,6 @@
 # Kaori Watt
 
-Kaori Watt is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at WOMB, Tokyo on Sun, 19 Jul 2026.
+Kaori Watt is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at WOMB, Tokyo on Sun, 19 Jul 2026.
 
 Kaori Watt is a techno and industrial artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside marimari, Akiko Iwahara and BEPPU. Next up: WOMB, Tokyo on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Kaori Watt is a techno and industrial artist based in Japan, tracked on soundche
 
 marimari, Akiko Iwahara, BEPPU
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoriwatt/)*

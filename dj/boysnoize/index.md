@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
+Boys Noize is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
 Boys Noize is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Austin, Barcelona and Berlin and 45 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Fvtvr, Paris on Fri 10 Jul.
 
@@ -31,4 +31,4 @@ Boys Noize is a techno and house artist tracked on soundcheck, with 144 sets log
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

@@ -1,6 +1,6 @@
 # Diesco
 
-Diesco is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 10 Jul 2026.
+Diesco is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 10 Jul 2026.
 
 Diesco is a house and downtempo artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Vince Void, Pau Rosés and Adria (ES). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Diesco is a house and downtempo artist tracked on soundcheck, with 54 sets logge
 
 Vince Void, Pau Rosés, Adria (ES)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diesco/)*

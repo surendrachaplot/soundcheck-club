@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Love Inn, Bristol on Fri, 10 Jul 2026.
+OMOLOKO is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Love Inn, Bristol on Fri, 10 Jul 2026.
 
 OMOLOKO is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: The Love Inn, Bristol on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ OMOLOKO is a house and techno artist tracked on soundcheck, with 79 sets logged 
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

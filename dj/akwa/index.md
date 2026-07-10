@@ -1,6 +1,6 @@
 # AKWA
 
-AKWA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at radial, London on Fri, 10 Jul 2026.
+AKWA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at radial, London on Fri, 10 Jul 2026.
 
 AKWA is a house and techno artist tracked on soundcheck, with 40 sets logged across Berlin, London, Montreal and Newyorkcity and 1 more. Often billed alongside TESFAY, Andre Zimmer and Jacob de Hooge. Next up: radial, London on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ AKWA is a house and techno artist tracked on soundcheck, with 40 sets logged acr
 
 TESFAY, Andre Zimmer, Jacob de Hooge
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*

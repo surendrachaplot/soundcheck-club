@@ -1,6 +1,6 @@
 # Anja Schneider
 
-Anja Schneider is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Noble Savage, Tbilisi on Fri, 10 Jul 2026.
+Anja Schneider is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Noble Savage, Tbilisi on Fri, 10 Jul 2026.
 
 Anja Schneider is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Cassy, Radio Slave and Foolik. Next up: Noble Savage, Tbilisi on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Anja Schneider is a techno and house artist tracked on soundcheck, with 134 sets
 
 Cassy, Radio Slave, Foolik
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*

@@ -1,6 +1,6 @@
 # La Clairière
 
-La Clairière is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "La Clairière: Adam Ten B2B Mita Gami, Lilya Mandre" on Fri, 10 Jul 2026.
+La Clairière is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "La Clairière: Adam Ten B2B Mita Gami, Lilya Mandre" on Fri, 10 Jul 2026.
 
 La Clairière is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Adam Ten, Agoria, Alastair Lane and ARKADYAN and 2 more. Browse upcoming dates, start times and who's playing. 1, carrefour de Longchamp, 75116 Paris, France.
 
@@ -23,4 +23,4 @@ La Clairière is a music venue in Paris listed on soundcheck. 16 upcoming nights
 
 1, carrefour de Longchamp, 75116 Paris, France, Paris
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*

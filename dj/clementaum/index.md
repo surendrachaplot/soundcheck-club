@@ -1,6 +1,6 @@
 # Clementaum
 
-Clementaum is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nitsa Club, Barcelona on Fri, 10 Jul 2026.
+Clementaum is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nitsa Club, Barcelona on Fri, 10 Jul 2026.
 
 Clementaum is a house and baile funk artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Rafa Maia, BADSISTA and Paulete Lindacelva. Next up: Nitsa Club, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Clementaum is a house and baile funk artist tracked on soundcheck, with 68 sets 
 
 Rafa Maia, BADSISTA, Paulete Lindacelva
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clementaum/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clementaum/)*

@@ -1,6 +1,6 @@
 # Just Another Bitch
 
-Just Another Bitch is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Honey's, New York City on Sat, 11 Jul 2026.
+Just Another Bitch is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Honey's, New York City on Sat, 11 Jul 2026.
 
 Just Another Bitch is a techno and club artist tracked on soundcheck, with 44 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside Beverly Chills, nonsuit and Papa Xanny. Next up: Honey's, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Just Another Bitch is a techno and club artist tracked on soundcheck, with 44 se
 
 Beverly Chills, nonsuit, Papa Xanny
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justanotherbitch/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justanotherbitch/)*

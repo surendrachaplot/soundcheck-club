@@ -1,6 +1,6 @@
 # Unholy Playhouse
 
-Unholy Playhouse is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Freda's Presents: Delirious" on Fri, 10 Jul 2026.
+Unholy Playhouse is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Freda's Presents: Delirious" on Fri, 10 Jul 2026.
 
 Unholy Playhouse is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including Attu, Baba Boubou, Ciara and Fresh Hex and 2 more. Browse upcoming dates, start times and who's playing. 420 Kent Street.
 
@@ -23,4 +23,4 @@ Unholy Playhouse is a music venue in Sydney listed on soundcheck. 10 upcoming ni
 
 420 Kent Street, Sydney
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/unholy-playhouse/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/unholy-playhouse/)*

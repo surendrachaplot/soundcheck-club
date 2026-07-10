@@ -1,6 +1,6 @@
 # Shouse
 
-Shouse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 11 Jul 2026.
+Shouse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 11 Jul 2026.
 
 Shouse is a house and techno artist based in Australia, tracked on soundcheck, with 19 sets logged across Berlin, Budapest, Copenhagen and Ibiza and 6 more. Often billed alongside DJ LONER, James Juke and Aazure. Next up: Oxford Art Factory, Sydney on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Shouse is a house and techno artist based in Australia, tracked on soundcheck, w
 
 DJ LONER, James Juke, Aazure
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shouse/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shouse/)*

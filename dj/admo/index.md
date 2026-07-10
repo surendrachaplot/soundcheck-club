@@ -1,6 +1,6 @@
 # Admo
 
-Admo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ministerium Club, Lisbon on Fri, 10 Jul 2026.
+Admo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ministerium Club, Lisbon on Fri, 10 Jul 2026.
 
 Admo is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside International Mac, Gene On Earth and Kirill Astra. Next up: Ministerium Club, Lisbon on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Admo is a house and tech house artist tracked on soundcheck, with 70 sets logged
 
 International Mac, Gene On Earth, Kirill Astra
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/admo/)*

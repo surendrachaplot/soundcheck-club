@@ -1,6 +1,6 @@
 # The Fridge
 
-The Fridge is a music venue in Washington DC with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "VARUKERS" on Thu, 16 Jul 2026.
+The Fridge is a music venue in Washington DC with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "VARUKERS" on Thu, 16 Jul 2026.
 
 The Fridge is a music venue in Washingtondc listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 516 8th St SE Rear Alley, Washington, DC 20003; United States.
 
@@ -18,4 +18,4 @@ The Fridge is a music venue in Washingtondc listed on soundcheck. 5 upcoming nig
 
 516 8th St SE Rear Alley, Washington, DC 20003; United States, Washington DC
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/the-fridge/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/the-fridge/)*

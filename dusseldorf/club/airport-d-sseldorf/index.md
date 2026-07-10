@@ -1,6 +1,6 @@
 # Airport Düsseldorf
 
-Airport Düsseldorf is a music venue in Düsseldorf with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Hawā Open Air at DUS Airport w/ Damian Lazarus - Saturday, 01.08.2026" on Sat, 1 Aug 2026.
+Airport Düsseldorf is a music venue in Düsseldorf with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Hawā Open Air at DUS Airport w/ Damian Lazarus - Saturday, 01.08.2026" on Sat, 1 Aug 2026.
 
 Airport Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 4 upcoming nights, with line-ups including Âme, Damian Lazarus, Frank Wiedemann and Jonathan Kaspar. Browse upcoming dates, start times and who's playing. Flughafenstraße 105, 40474 Düsseldorf.
 
@@ -17,4 +17,4 @@ Airport Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 4 upcom
 
 Flughafenstraße 105, 40474 Düsseldorf, Düsseldorf
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/airport-d-sseldorf/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/airport-d-sseldorf/)*

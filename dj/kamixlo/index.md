@@ -1,6 +1,6 @@
 # Kamixlo
 
-Kamixlo is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+Kamixlo is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 Kamixlo is an experimental and club artist tracked on soundcheck, with 49 sets logged across Athens, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Felix Lee, Isabella Lovestory and Mechatok. Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Kamixlo is an experimental and club artist tracked on soundcheck, with 49 sets l
 
 Felix Lee, Isabella Lovestory, Mechatok
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamixlo/)*

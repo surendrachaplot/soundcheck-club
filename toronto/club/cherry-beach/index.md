@@ -1,6 +1,6 @@
 # Cherry Beach
 
-Cherry Beach is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Promise Cherry Beach: Phillippe presents Jojoflores (MTL)" on Sun, 12 Jul 2026.
+Cherry Beach is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Promise Cherry Beach: Phillippe presents Jojoflores (MTL)" on Sun, 12 Jul 2026.
 
 Cherry Beach is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 1morning, 98dots, ARK1TEK and Audio Space and 2 more. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
 
@@ -22,4 +22,4 @@ Cherry Beach is a music venue in Toronto listed on soundcheck. 9 upcoming nights
 
 Toronto, ON; Canada, Toronto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*

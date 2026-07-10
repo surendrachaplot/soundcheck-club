@@ -1,6 +1,6 @@
 # LONDON CALLING with Mystra at FLUCC
 
-LONDON CALLING with Mystra at FLUCC on Fri 10 Jul, Vienna. 1 act on the bill: Fernweh. Techno. Preview the line-up and save it on soundcheck.
+LONDON CALLING with Mystra at FLUCC on Fri 10 Jul, Vienna. 2 acts on the bill: Aleta and Fernweh. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LONDON CALLING with Mystra at FLUCC on Fri 10 Jul, Vienna. 1 act on the bill: Fe
 
 ## Line-up
 
+- Aleta
 - Fernweh
 
 *Source: [soundcheck](https://soundcheck.club/e/2477488-london-calling-with-mystra-at-flucc/)*

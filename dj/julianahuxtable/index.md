@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BASEMENT, New York City on Fri, 10 Jul 2026.
+Juliana Huxtable is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BASEMENT, New York City on Fri, 10 Jul 2026.
 
 Juliana Huxtable is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and BASHKKA. Next up: BASEMENT, Newyorkcity on Fri 10 Jul.
 
@@ -33,4 +33,4 @@ Juliana Huxtable is a techno and house artist tracked on soundcheck, with 189 se
 
 JASSS, Shyboi, BASHKKA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

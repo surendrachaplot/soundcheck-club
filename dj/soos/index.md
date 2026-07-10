@@ -1,6 +1,6 @@
 # Soos
 
-Soos is a House and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 10 Jul 2026.
+Soos is a House and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 10 Jul 2026.
 
 Soos is a house and italo disco artist based in Mexico, tracked on soundcheck, with 92 sets logged across Barcelona, Berlin, Denver and Lisbon and 13 more. Often billed alongside Rafatel, papa jazz and Valeriana. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Soos is a house and italo disco artist based in Mexico, tracked on soundcheck, w
 
 Rafatel, papa jazz, Valeriana
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*

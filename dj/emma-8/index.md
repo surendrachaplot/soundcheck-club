@@ -1,6 +1,6 @@
 # Emma (8)
 
-Emma (8) is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 10 Jul 2026.
+Emma (8) is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 10 Jul 2026.
 
 Emma (8) is a techno and tech house artist tracked on soundcheck, with 70 sets logged across Berlin. Often billed alongside Epicx, Kopflos and TechNovaBader. Next up: Der Weiße Hase, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Emma (8) is a techno and tech house artist tracked on soundcheck, with 70 sets l
 
 Epicx, Kopflos, TechNovaBader
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-8/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-8/)*

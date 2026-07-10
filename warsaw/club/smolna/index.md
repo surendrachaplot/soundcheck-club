@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Smolna Academy Takeover" on Fri, 10 Jul 2026.
+Smolna is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Smolna Academy Takeover" on Fri, 10 Jul 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with line-ups including Abrew, Anela, BBN (1) and Bedlam and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Altenburg 1964, Prague on Fri, 10 Jul 2026.
+BENZA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Altenburg 1964, Prague on Fri, 10 Jul 2026.
 
 BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 12 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Altenburg 1964, Prague on Fri 10 Jul.
 
@@ -31,4 +31,4 @@ BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

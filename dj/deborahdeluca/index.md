@@ -1,6 +1,6 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 12 Jul 2026.
+Deborah De Luca is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 Deborah De Luca is a techno and house artist tracked on soundcheck, with 142 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Amnesia Ibiza, Ibiza on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 142 set
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

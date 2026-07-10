@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Zuckerwatt w/ Daria Kolosova" on Fri, 10 Jul 2026.
+Grelle Forelle is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Zuckerwatt w/ Daria Kolosova" on Fri, 10 Jul 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including Alarico, ALIBI, Aras and ASCHENBRENNER and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -21,4 +21,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming night
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

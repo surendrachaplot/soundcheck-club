@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 20 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Above & Beyond with Dosem, Glusko" on Fri, 10 Jul 2026.
+Echostage is a music venue in Washington DC with 20 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Above & Beyond with Dosem, Glusko" on Fri, 10 Jul 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 20 upcoming nights, with line-ups including 999999999, Above & Beyond, Adrian Mills and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 20 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

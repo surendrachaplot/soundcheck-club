@@ -1,6 +1,6 @@
 # Melanie Havens
 
-Melanie Havens is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Jardi Dels Tarongers, El Raval, Barcelona on Sat, 11 Jul 2026.
+Melanie Havens is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Jardi Dels Tarongers, El Raval, Barcelona on Sat, 11 Jul 2026.
 
 Melanie Havens is a techno and ebm artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 15 more. Often billed alongside The Brvtalist, Paty Vapor and Inverse Element. Next up: TBA - Jardi Dels Tarongers, El Raval, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Melanie Havens is a techno and ebm artist tracked on soundcheck, with 72 sets lo
 
 The Brvtalist, Paty Vapor, Inverse Element
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniehavens/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniehavens/)*

@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 10 Jul 2026.
+Aldonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 10 Jul 2026.
 
 Aldonna is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Berlin and Brisbane and 25 more. Often billed alongside Tjade, DAWS and D Stone. Next up: CLUB RAUM, Amsterdam on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Aldonna is a house and techno artist tracked on soundcheck, with 123 sets logged
 
 Tjade, DAWS, D Stone
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

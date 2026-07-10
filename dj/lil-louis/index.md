@@ -1,6 +1,6 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 10 Jul 2026.
+Lil' Louis is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 10 Jul 2026.
 
 Lil' Louis is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Lil' Louis is a house and techno artist based in United States of America, track
 
 Aiko Inoue, Adiel, Boys Noize
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*

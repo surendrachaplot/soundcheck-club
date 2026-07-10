@@ -1,6 +1,6 @@
 # Simina Grigoriu
 
-Simina Grigoriu is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
+Simina Grigoriu is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
 
 Simina Grigoriu is a techno and tech house artist based in Germany, tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Berlin and Bucharest and 9 more. Often billed alongside ASK:ME, Anna Tur and Felix Kröcher. Next up: Treptower Park, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Simina Grigoriu is a techno and tech house artist based in Germany, tracked on s
 
 ASK:ME, Anna Tur, Felix Kröcher
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siminagrigoriu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siminagrigoriu/)*

@@ -1,6 +1,6 @@
 # Gaspard Magda
 
-Gaspard Magda is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Péniche Cinéma, Paris on Fri, 10 Jul 2026.
+Gaspard Magda is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Péniche Cinéma, Paris on Fri, 10 Jul 2026.
 
 Gaspard Magda is a house and techno artist tracked on soundcheck, with 7 sets logged across Marseille, Paris and Tokyo. Often billed alongside Inner Lakes, Alexia Glensy and Andy Martin. Next up: La Péniche Cinéma, Paris on Fri 10 Jul.
 
@@ -23,4 +23,4 @@ Gaspard Magda is a house and techno artist tracked on soundcheck, with 7 sets lo
 
 Inner Lakes, Alexia Glensy, Andy Martin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspardmagda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaspardmagda/)*

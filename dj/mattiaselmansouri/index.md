@@ -1,6 +1,6 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 10 Jul 2026.
+Mattias El Mansouri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 10 Jul 2026.
 
 Mattias El Mansouri is a house and techno artist based in Sweden, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Brussels and London and 4 more. Often billed alongside Sergej Orlov, Bennet (DE) and Chlär. Next up: RSO.BERLIN, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Mattias El Mansouri is a house and techno artist based in Sweden, tracked on sou
 
 Sergej Orlov, Bennet (DE), Chlär
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*

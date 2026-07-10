@@ -1,6 +1,6 @@
 # Bea Trinidad
 
-Bea Trinidad is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Salon Daomé, Montreal on Fri, 10 Jul 2026.
+Bea Trinidad is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Salon Daomé, Montreal on Fri, 10 Jul 2026.
 
 Bea Trinidad is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Berlin, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside ANICHE, Bridge (NY) and Dynoman. Next up: Salon Daomé, Montreal on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Bea Trinidad is a house and techno artist based in United States of America, tra
 
 ANICHE, Bridge (NY), Dynoman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*

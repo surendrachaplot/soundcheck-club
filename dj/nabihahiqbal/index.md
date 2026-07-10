@@ -1,6 +1,6 @@
 # Nabihah Iqbal
 
-Nabihah Iqbal is a House and Funk / Soul artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silence Please, New York City on Fri, 17 Jul 2026.
+Nabihah Iqbal is a House and Funk / Soul artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silence Please, New York City on Fri, 17 Jul 2026.
 
 Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 26 more. Often billed alongside Habibi Funk, Budino and CARISTA. Next up: Silence Please, Newyorkcity on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 83 s
 
 Habibi Funk, Budino, CARISTA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabihahiqbal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nabihahiqbal/)*

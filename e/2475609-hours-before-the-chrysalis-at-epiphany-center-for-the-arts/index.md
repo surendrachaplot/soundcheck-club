@@ -1,6 +1,6 @@
 # Hours Before The Chrysalis at Epiphany Center for the Arts
 
-Hours Before The Chrysalis at Epiphany Center for the Arts on Sat 11 Jul, Chicago. 3 acts on the bill: Sian Nevenicola, dj e6 and pearls. House and Club. Preview the line-up and save it on soundcheck.
+Hours Before The Chrysalis at Epiphany Center for the Arts on Sat 11 Jul, Chicago. 4 acts on the bill: Kapmar, Sian Nevenicola, dj e6 and pearls. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Hours Before The Chrysalis at Epiphany Center for the Arts on Sat 11 Jul, Chicag
 
 ## Line-up
 
+- Kapmar
 - Sian Nevenicola
 - dj e6
 - pearls

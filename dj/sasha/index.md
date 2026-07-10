@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
+Sasha is a Progressive House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Sasha is a progressive house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: 1015 Folsom, Sanfrancisco on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 156 s
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

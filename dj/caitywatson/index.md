@@ -1,6 +1,6 @@
 # CAITY WATSON
 
-CAITY WATSON is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 10 Jul 2026.
+CAITY WATSON is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Revolver Upstairs, Melbourne on Fri, 10 Jul 2026.
 
 CAITY WATSON is a techno and house artist tracked on soundcheck, with 107 sets logged across Melbourne, Singapore and Sydney. Often billed alongside Shell Shock, BDE and ALIEN-A. Next up: Revolver Upstairs, Melbourne on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ CAITY WATSON is a techno and house artist tracked on soundcheck, with 107 sets l
 
 Shell Shock, BDE, ALIEN-A
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caitywatson/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caitywatson/)*

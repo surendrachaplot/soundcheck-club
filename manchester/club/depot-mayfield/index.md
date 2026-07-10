@@ -1,6 +1,6 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
 
 Depot Mayfield is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including Kepler, ADR (US), Alexandria and Alex Culross and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
@@ -17,4 +17,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 4 upcoming n
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

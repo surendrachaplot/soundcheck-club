@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Circolo Magnolia, Milan on Fri, 10 Jul 2026.
+Sam Gellaitry is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Circolo Magnolia, Milan on Fri, 10 Jul 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Brighton, Glasgow and Houston and 17 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: Circolo Magnolia, Milan on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

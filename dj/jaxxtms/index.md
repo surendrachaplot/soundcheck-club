@@ -1,6 +1,6 @@
 # JAXX TMS
 
-JAXX TMS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
+JAXX TMS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Two Tribes CAMPFIRE, London on Sat, 8 Aug 2026.
 
 JAXX TMS is a house and disco artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside yung_womb, DJ Westfa and JADA MORAES. Next up: Two Tribes CAMPFIRE, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ JAXX TMS is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 yung_womb, DJ Westfa, JADA MORAES
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxtms/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxtms/)*

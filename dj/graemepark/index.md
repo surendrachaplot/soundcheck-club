@@ -1,6 +1,6 @@
 # Graeme Park
 
-Graeme Park is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Back Room Leeds, Leeds on Sat, 25 Jul 2026.
+Graeme Park is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Back Room Leeds, Leeds on Sat, 25 Jul 2026.
 
 Graeme Park is a house and club artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Aberdeen, Bristol, Dublin and Edinburgh and 9 more. Often billed alongside DJ Paulette, Greg Wilson and David Morales. Next up: The Back Room Leeds, Leeds on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Graeme Park is a house and club artist based in United Kingdom, tracked on sound
 
 DJ Paulette, Greg Wilson, David Morales
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*

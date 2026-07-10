@@ -1,6 +1,6 @@
 # Villa Kuriosum
 
-Villa Kuriosum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Behind the Barricades #12" on Sat, 18 Jul 2026.
+Villa Kuriosum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Behind the Barricades #12" on Sat, 18 Jul 2026.
 
 Villa Kuriosum is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including ADHSMR. Browse upcoming dates, start times and who's playing. Scheffelstraße 21, 10367 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Villa Kuriosum is a music venue in Berlin listed on soundcheck. 1 upcoming night
 
 Scheffelstraße 21, 10367 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/villa-kuriosum/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/villa-kuriosum/)*

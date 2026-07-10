@@ -1,6 +1,6 @@
 # aka-Sol
 
-aka-Sol is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Night Club 101, New York City on Thu, 16 Jul 2026.
+aka-Sol is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Night Club 101, New York City on Thu, 16 Jul 2026.
 
 aka-Sol is a techno and house artist tracked on soundcheck, with 79 sets logged across Chicago, Detroit, Losangeles and Montreal and 5 more. Often billed alongside Nema Hän, Relaxer and Baby Leo. Next up: Night Club 101, Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ aka-Sol is a techno and house artist tracked on soundcheck, with 79 sets logged 
 
 Nema Hän, Relaxer, Baby Leo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*

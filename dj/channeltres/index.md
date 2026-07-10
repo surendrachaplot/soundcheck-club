@@ -1,6 +1,6 @@
 # Channel Tres
 
-Channel Tres is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
+Channel Tres is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
 
 Channel Tres is a house and techno artist tracked on soundcheck, with 45 sets logged across Austin, Berlin, Brisbane and Brussels and 17 more. Often billed alongside KETTAMA, Boys Noize and Mochakk. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Channel Tres is a house and techno artist tracked on soundcheck, with 45 sets lo
 
 KETTAMA, Boys Noize, Mochakk
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*

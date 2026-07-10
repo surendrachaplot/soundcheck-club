@@ -1,6 +1,6 @@
 # Wow & Flutter
 
-Wow & Flutter is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Secret Location, Sheffield on Fri, 10 Jul 2026.
+Wow & Flutter is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Secret Location, Sheffield on Fri, 10 Jul 2026.
 
 Wow & Flutter are a house and disco duo tracked on soundcheck, with 44 sets logged across London, Manchester, Nottingham and Sheffield. Often billed alongside Joi La Frique, Aaron Dynamic and Nonna Fab. Next up: TBA - Secret Location, Sheffield on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Wow & Flutter are a house and disco duo tracked on soundcheck, with 44 sets logg
 
 Joi La Frique, Aaron Dynamic, Nonna Fab
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wowflutter/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wowflutter/)*

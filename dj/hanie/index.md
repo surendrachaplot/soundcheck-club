@@ -1,6 +1,6 @@
 # HANIE
 
-HANIE is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Terrrazza, Barcelona on Fri, 10 Jul 2026.
+HANIE is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Terrrazza, Barcelona on Fri, 10 Jul 2026.
 
 HANIE is a tech house and house artist based in Venezuela, tracked on soundcheck, with 88 sets logged across Barcelona and Madrid. Often billed alongside Bill Hates, Brieela and Cucut. Next up: La Terrrazza, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ HANIE is a tech house and house artist based in Venezuela, tracked on soundcheck
 
 Bill Hates, Brieela, Cucut
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hanie/)*

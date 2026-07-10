@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "THIRD 2HIFT B2B Valenthin all night long" on Fri, 10 Jul 2026.
+Turbina is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "THIRD 2HIFT B2B Valenthin all night long" on Fri, 10 Jul 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including CRIME, Galactic Jackson, Jaffa Surfa and Maron and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -20,4 +20,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

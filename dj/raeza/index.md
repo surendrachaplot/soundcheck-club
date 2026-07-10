@@ -1,6 +1,6 @@
 # RÆZA
 
-RÆZA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
+RÆZA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
 
 RÆZA is a techno and house artist based in France, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside Rachel Noon, Mama Snake and Angel D'lite. Next up: CLUB RAUM, Amsterdam on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ RÆZA is a techno and house artist based in France, tracked on soundcheck, with 
 
 Rachel Noon, Mama Snake, Angel D'lite
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*

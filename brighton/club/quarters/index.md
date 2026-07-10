@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Oldboy & DJ Cosworth" on Fri, 10 Jul 2026.
+Quarters is a music venue in Brighton with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Oldboy & DJ Cosworth" on Fri, 10 Jul 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming nights, with line-ups including 2ManyDJs, A For Alpha, Alix Perez and Arthi and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming nights, 
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

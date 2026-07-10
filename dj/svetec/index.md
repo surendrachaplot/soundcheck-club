@@ -1,6 +1,6 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
+Svetec is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
 Svetec is a techno and industrial artist based in Hungary, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 26 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Svetec is a techno and industrial artist based in Hungary, tracked on soundcheck
 
 O.B.I. (DE), Kitti Kay, Sonic Rain
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*

@@ -1,6 +1,6 @@
 # Ivy
 
-Ivy is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Sydney on Sat, 11 Jul 2026.
+Ivy is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Sydney on Sat, 11 Jul 2026.
 
 Ivy is a club and bass artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Bristol and Detroit and 8 more. Often billed alongside Freda, KAMIKAZE and Mefjus. Next up: TBA, Sydney on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Ivy is a club and bass artist based in United States of America, tracked on soun
 
 Freda, KAMIKAZE, Mefjus
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*

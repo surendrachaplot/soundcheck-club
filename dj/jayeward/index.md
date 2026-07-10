@@ -1,6 +1,6 @@
 # Jaye Ward
 
-Jaye Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Jaye Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Jaye Ward is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 7 more. Often billed alongside Michelle Manetti, RAW SILK and Ysanne. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jaye Ward is a house and techno artist tracked on soundcheck, with 79 sets logge
 
 Michelle Manetti, RAW SILK, Ysanne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayeward/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayeward/)*

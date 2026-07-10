@@ -1,6 +1,6 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
+Bambi (FR) is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
 Bambi (FR) is a techno and trance artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: Fvtvr, Paris on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ Bambi (FR) is a techno and trance artist tracked on soundcheck, with 76 sets log
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

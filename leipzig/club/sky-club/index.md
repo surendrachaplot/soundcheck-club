@@ -1,6 +1,6 @@
 # Sky Club
 
-Sky Club is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Fuchsbau zum satten Bass - Techno / Hardtekk / Hardtechno" on Sat, 11 Jul 2026.
+Sky Club is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Fuchsbau zum satten Bass - Techno / Hardtekk / Hardtechno" on Sat, 11 Jul 2026.
 
 Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, with line-ups including DeGuzman, DETEST and OGUZ. Browse upcoming dates, start times and who's playing. Riesaer Str. 56-64, 04328 Leipzig.
 
@@ -16,4 +16,4 @@ Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, wi
 
 Riesaer Str. 56-64, 04328 Leipzig, Leipzig
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/sky-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/sky-club/)*

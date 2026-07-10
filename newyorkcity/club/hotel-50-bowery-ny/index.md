@@ -1,6 +1,6 @@
 # Hotel 50 Bowery NY
 
-Hotel 50 Bowery NY is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Mercer Day Party with Damaged Goods" on Sat, 11 Jul 2026.
+Hotel 50 Bowery NY is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Mercer Day Party with Damaged Goods" on Sat, 11 Jul 2026.
 
 Hotel 50 Bowery NY is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 50 Bowery New York 10013 USA.
 
@@ -17,4 +17,4 @@ Hotel 50 Bowery NY is a music venue in Newyorkcity listed on soundcheck. 4 upcom
 
 50 Bowery New York 10013 USA, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hotel-50-bowery-ny/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hotel-50-bowery-ny/)*

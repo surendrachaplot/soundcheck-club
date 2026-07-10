@@ -1,6 +1,6 @@
 # NYC-DSA Victory Party at Nowadays
 
-NYC-DSA Victory Party at Nowadays on Sat 18 Jul, Newyorkcity. Preview the line-up and save it on soundcheck.
+NYC-DSA Victory Party at Nowadays on Sat 18 Jul, Newyorkcity. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

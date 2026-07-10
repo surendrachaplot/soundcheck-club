@@ -1,6 +1,6 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Headset's Gay Garage: Pride Day Rave" on Sat, 11 Jul 2026.
+Sawmills is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Headset's Gay Garage: Pride Day Rave" on Sat, 11 Jul 2026.
 
 Sawmills is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including A.M.C., AD (UK), Anton X and Atki2 and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
@@ -20,4 +20,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 7 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

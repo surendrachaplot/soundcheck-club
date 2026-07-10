@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Freak NYC" on Fri, 10 Jul 2026.
+Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Freak NYC" on Fri, 10 Jul 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including MORENXXX, Amor Satyr, Amy Jor and Andrei Ciubuc and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -21,4 +21,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

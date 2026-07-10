@@ -1,6 +1,6 @@
 # LAVERN
 
-LAVERN is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at fabric, London on Fri, 10 Jul 2026.
+LAVERN is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at fabric, London on Fri, 10 Jul 2026.
 
 LAVERN is a house and tech house artist tracked on soundcheck, with 46 sets logged across Austin, Boston, Brisbane and Budapest and 20 more. Often billed alongside Martin Garrix, Black Tiger Sex Machine and Bou (UK). Next up: fabric, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ LAVERN is a house and tech house artist tracked on soundcheck, with 46 sets logg
 
 Martin Garrix, Black Tiger Sex Machine, Bou (UK)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*

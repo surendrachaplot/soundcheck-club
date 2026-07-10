@@ -1,6 +1,6 @@
 # KarateKnur
 
-KarateKnur is a Reggaeton and Kuduro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at DZiK, Warsaw on Fri, 10 Jul 2026.
+KarateKnur is a Reggaeton and Kuduro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at DZiK, Warsaw on Fri, 10 Jul 2026.
 
 KarateKnur is a reggaeton and kuduro artist based in Poland, tracked on soundcheck, with 50 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Cosaco, Adobo (PL) and Fourth World Music. Next up: DZiK, Warsaw on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ KarateKnur is a reggaeton and kuduro artist based in Poland, tracked on soundche
 
 Cosaco, Adobo (PL), Fourth World Music
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karateknur/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karateknur/)*

@@ -1,6 +1,6 @@
 # Eddie Leader
 
-Eddie Leader is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
+Eddie Leader is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
 
 Eddie Leader is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Auckland, Berlin and Ibiza and 10 more. Often billed alongside Chez Damier, IVES and Benedict. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Eddie Leader is a house and deep house artist based in United Kingdom, tracked o
 
 Chez Damier, IVES, Benedict
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieleader/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieleader/)*

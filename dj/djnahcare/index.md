@@ -1,6 +1,6 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 DJ Nah Care is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 6 more. Often billed alongside Entree, Ezy and Peachlyfe. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DJ Nah Care is a techno and house artist tracked on soundcheck, with 71 sets log
 
 Entree, Ezy, Peachlyfe
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*

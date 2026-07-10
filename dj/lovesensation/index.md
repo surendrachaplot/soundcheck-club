@@ -1,6 +1,6 @@
 # Love Sensation
 
-Love Sensation is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 10 Jul 2026.
+Love Sensation is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 10 Jul 2026.
 
 Love Sensation is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin and London. Often billed alongside MADDØG, Panooc and W.M.D. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Love Sensation is a house and deep house artist based in United Kingdom, tracked
 
 MADDØG, Panooc, W.M.D
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovesensation/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovesensation/)*

@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 18 Jul 2026.
+Francesco Farfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 18 Jul 2026.
 
 Francesco Farfa is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Alex Picone, Janina and Ale Carniel. Next up: Platforma Wolff, Bucharest on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Francesco Farfa is a house and techno artist tracked on soundcheck, with 83 sets
 
 Alex Picone, Janina, Ale Carniel
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

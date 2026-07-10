@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DUMAMA — Sounds from a Listening Body Vocal Wokrshop" on Fri, 10 Jul 2026.
+Acud Macht NEU is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DUMAMA — Sounds from a Listening Body Vocal Wokrshop" on Fri, 10 Jul 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Book, DJ B2B and Sonny Grin. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

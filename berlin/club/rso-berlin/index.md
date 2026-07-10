@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "NOUS'KLAER with Anthony Linell b2b Oberman, Mattias El Mansouri, Sunju Hargun " on Fri, 10 Jul 2026.
+RSO.BERLIN is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "NOUS'KLAER with Anthony Linell b2b Oberman, Mattias El Mansouri, Sunju Hargun " on Fri, 10 Jul 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including 1morning, 2HOT2PLAY, NYRA (DE) and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 14 upcoming nights, 
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

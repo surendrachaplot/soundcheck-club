@@ -1,13 +1,14 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Boomtown (Kouter), Ghent on Sat, 18 Jul 2026.
+Coco Maria is a House and Jazz artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Mexico City on Sun, 12 Jul 2026.
 
-Coco Maria is a house and jazz artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Boomtown (Kouter), Ghent on Sat 18 Jul.
+Coco Maria is a house and jazz artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: TBA, Mexicocity on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 12 Jul 2026 | TBA | Mexico City |
 | Sat, 18 Jul 2026 | Boomtown (Kouter) | Ghent |
 | Sun, 26 Jul 2026 | The Bath House | London |
 | Sun, 16 Aug 2026 | ZENNER | Berlin |
@@ -29,4 +30,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 116 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

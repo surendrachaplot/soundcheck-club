@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "HUUSH: Roi Perez, Dornika, DIRTY MIRAGE, HEN YANNI" on Sat, 11 Jul 2026.
+Silencio is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "HUUSH: Roi Perez, Dornika, DIRTY MIRAGE, HEN YANNI" on Sat, 11 Jul 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Ali RQ, The Avalanches, Dornika and Foster The People and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -19,4 +19,4 @@ Silencio is a music venue in Paris listed on soundcheck. 6 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

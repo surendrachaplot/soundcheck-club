@@ -1,6 +1,6 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Little Jerry, Toronto on Sat, 11 Jul 2026.
+Roland Gonzales is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Little Jerry, Toronto on Sat, 11 Jul 2026.
 
 Roland Gonzales is a house and downtempo artist based in Canada, tracked on soundcheck, with 128 sets logged across Kyoto, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: The Little Jerry, Toronto on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Roland Gonzales is a house and downtempo artist based in Canada, tracked on soun
 
 Sakiko Nagai, Toronto Hustle, Kiki LeFreak
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandgonzales/)*

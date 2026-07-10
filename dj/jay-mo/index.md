@@ -1,6 +1,6 @@
 # JAY-MO
 
-JAY-MO is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Patterns, Brighton on Fri, 10 Jul 2026.
+JAY-MO is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Patterns, Brighton on Fri, 10 Jul 2026.
 
 JAY-MO is a jungle and drum & bass artist tracked on soundcheck, with 48 sets logged across Brighton and London. Often billed alongside Randoma, RACH! and AUDIO DUNE. Next up: Patterns, Brighton on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ JAY-MO is a jungle and drum & bass artist tracked on soundcheck, with 48 sets lo
 
 Randoma, RACH!, AUDIO DUNE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-mo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-mo/)*

@@ -1,6 +1,6 @@
 # ZAHNATZIN
 
-ZAHNATZIN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Conne Island, Leipzig on Sat, 18 Jul 2026.
+ZAHNATZIN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Conne Island, Leipzig on Sat, 18 Jul 2026.
 
 ZAHNATZIN is a house and techno artist tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Arninho. Next up: Conne Island, Leipzig on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ ZAHNATZIN is a house and techno artist tracked on soundcheck, with 37 sets logge
 
 DJ SPORTSCHUH, Flavius (DE), Arninho
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnatzin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zahnatzin/)*

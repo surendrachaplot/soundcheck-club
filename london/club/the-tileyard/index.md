@@ -1,6 +1,6 @@
 # The Tileyard
 
-The Tileyard is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Norman Jay & Melvo Baptiste...Street Party + Haseeb Iqbal" on Sat, 18 Jul 2026.
+The Tileyard is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Norman Jay & Melvo Baptiste...Street Party + Haseeb Iqbal" on Sat, 18 Jul 2026.
 
 The Tileyard is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Haseeb Iqbal, Melvo Baptiste and Norman Jay. Browse upcoming dates, start times and who's playing. Tileyard Rd, London, N7 9AH, United Kingdom.
 
@@ -14,4 +14,4 @@ The Tileyard is a music venue in London listed on soundcheck. 1 upcoming night, 
 
 Tileyard Rd, London, N7 9AH, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-tileyard/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-tileyard/)*

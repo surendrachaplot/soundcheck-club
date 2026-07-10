@@ -1,6 +1,6 @@
 # Friction
 
-Friction is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Friction is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
 
 Friction is a drum & bass and bass artist tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 33 more. Often billed alongside Linguistics, Hybrid Minds and A Little Sound. Next up: Tägi, Zurich on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Friction is a drum & bass and bass artist tracked on soundcheck, with 73 sets lo
 
 Linguistics, Hybrid Minds, A Little Sound
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*

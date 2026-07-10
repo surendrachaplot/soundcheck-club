@@ -1,6 +1,6 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Golden Lion, Manchester on Fri, 10 Jul 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Golden Lion, Manchester on Fri, 10 Jul 2026.
 
 Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 24 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: The Golden Lion, Manchester on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 10
 
 Napes, Mandidextrous, 4am Kru
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*

@@ -1,6 +1,6 @@
 # Kid Moss
 
-Kid Moss is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bikini Club, Barcelona on Fri, 10 Jul 2026.
+Kid Moss is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bikini Club, Barcelona on Fri, 10 Jul 2026.
 
 Kid Moss is a house and techno artist tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: Bikini Club, Barcelona on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Kid Moss is a house and techno artist tracked on soundcheck, with 88 sets logged
 
 Guedes (ES), Guedes, IVAN POSEIDON
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*

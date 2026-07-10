@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+deBasement is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 deBasement is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 32 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

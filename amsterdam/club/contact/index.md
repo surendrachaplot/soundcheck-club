@@ -1,6 +1,6 @@
 # CONTACT
 
-CONTACT is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Discosabotage summer issue 25.07.26" on Sat, 25 Jul 2026.
+CONTACT is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Discosabotage summer issue 25.07.26" on Sat, 25 Jul 2026.
 
 CONTACT is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Adrian Marth, atomo, Emilio Arias and Luval and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 47, 1014AN, Amsterdam.
 
@@ -15,4 +15,4 @@ CONTACT is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, w
 
 Contactweg 47, 1014AN, Amsterdam, Amsterdam
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/contact/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/contact/)*

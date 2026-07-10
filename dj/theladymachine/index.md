@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BLITZ, Munich on Fri, 10 Jul 2026.
+The Lady Machine is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BLITZ, Munich on Fri, 10 Jul 2026.
 
 The Lady Machine is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: BLITZ, Munich on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 170 se
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

@@ -1,6 +1,6 @@
 # DJ Lady D
 
-DJ Lady D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Podlasie Club, Chicago on Fri, 10 Jul 2026.
+DJ Lady D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Podlasie Club, Chicago on Fri, 10 Jul 2026.
 
 DJ Lady D is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Detroit, Miami and Nashville and 3 more. Often billed alongside DJ Heather, VITIGRRL and Carl Craig. Next up: Podlasie Club, Chicago on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ DJ Lady D is a house and techno artist based in United States of America, tracke
 
 DJ Heather, VITIGRRL, Carl Craig
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*

@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "[CANCELLED] ⋆｡°✩ #digitaldetox ⋆｡°✩" on Thu, 9 Jul 2026.
+The Greyhound is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Last Dance 002 with Katie Baxter" on Fri, 10 Jul 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including ALNA, arawzi, Black Devil Disco Club and Blossom Hill and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including ALNA, arawzi, Black Devil Disco Club and Blossom Hill and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | [CANCELLED] ⋆｡°✩ #digitaldetox ⋆｡°✩ | Takenbymarshall |
 | Fri, 10 Jul 2026 | Last Dance 002 with Katie Baxter | Katie Baxter |
 | Thu, 16 Jul 2026 | That Yolk! | delirious.blanc |
 | Fri, 17 Jul 2026 | Matter - Massi NPL b2b Hostmigrate | Massi NPL |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 13 upcoming night
 | Fri, 31 Jul 2026 | Jeshi + Fonzo + Just Lil + Crash Tracy | Fonzo (UK), Jeshi |
 | Sat, 1 Aug 2026 | Mezze presents: Echo Juliet & Lebo | Echo Juliet |
 | Fri, 7 Aug 2026 | MUSAR: Black Devil Disco Club (live), Charlie Levan, Dweedo & Tania Atyabi | Black Devil Disco Club, Dweedo, Tania Atyabi |
+| Sat, 8 Aug 2026 | Rave, Rebels | ALNA, Franzine, Sandy Beach, arawzi |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

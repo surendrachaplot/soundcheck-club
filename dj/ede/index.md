@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BORIS CLUB, Barcelona on Fri, 10 Jul 2026.
+Ede is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BORIS CLUB, Barcelona on Fri, 10 Jul 2026.
 
 Ede is a house and techno artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: BORIS CLUB, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ede is a house and techno artist based in Germany, tracked on soundcheck, with 8
 
 Skatman, julës jay, JAMIIE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

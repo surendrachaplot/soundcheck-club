@@ -1,6 +1,6 @@
 # TBA - MONUMENTO A COLON 
 
-TBA - MONUMENTO A COLON  is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "OCASO BOAT PARTY" on Sun, 12 Jul 2026.
+TBA - MONUMENTO A COLON  is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "OCASO BOAT PARTY" on Sun, 12 Jul 2026.
 
 TBA - MONUMENTO A COLON  is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - MONUMENTO A COLON  is a music venue in Barcelona listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | OCASO BOAT PARTY |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-monumento-a-colon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-monumento-a-colon/)*

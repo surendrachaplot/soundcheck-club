@@ -1,6 +1,6 @@
 # Praia de Esmoriz Beach
 
-Praia de Esmoriz Beach is a music venue in Porto with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "SOUND WAVES 2026" on Sat, 11 Jul 2026.
+Praia de Esmoriz Beach is a music venue in Porto with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "SOUND WAVES 2026" on Sat, 11 Jul 2026.
 
 Praia de Esmoriz Beach is a music venue in Porto listed on soundcheck. 1 upcoming night, with line-ups including 6EJOU, Adrian Mills, Cloudy and GA70 and 2 more. Browse upcoming dates, start times and who's playing. Praia de Esmoriz.
 
@@ -14,4 +14,4 @@ Praia de Esmoriz Beach is a music venue in Porto listed on soundcheck. 1 upcomin
 
 Praia de Esmoriz, Porto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/praia-de-esmoriz-beach/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/praia-de-esmoriz-beach/)*

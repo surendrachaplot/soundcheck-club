@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 19 Jul 2026.
+Janeret is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 19 Jul 2026.
 
 Janeret is a house and minimal artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Traumer, Miroloja and Alex (ES). Next up: Parc de la Trinitat, Barcelona on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Janeret is a house and minimal artist tracked on soundcheck, with 124 sets logge
 
 Traumer, Miroloja, Alex (ES)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

@@ -1,6 +1,6 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Soap Seoul., Seoul on Fri, 10 Jul 2026.
+Joy Orbison is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Soap Seoul., Seoul on Fri, 10 Jul 2026.
 
 Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Interplanetary Criminal, Overmono and Mia Koden. Next up: Soap Seoul., Seoul on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets log
 
 Interplanetary Criminal, Overmono, Mia Koden
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*

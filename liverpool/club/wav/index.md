@@ -1,6 +1,6 @@
 # WaV
 
-WaV is a music venue in Liverpool with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "TREMOR Presents: ZKU + U47 + DEEZL" on Fri, 10 Jul 2026.
+WaV is a music venue in Liverpool with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "TREMOR Presents: ZKU + U47 + DEEZL" on Fri, 10 Jul 2026.
 
 WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming nights, with line-ups including Blasha & Allatt, Coop (2), DJ Rush and DJ Vibes and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
@@ -23,4 +23,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming nights, with
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

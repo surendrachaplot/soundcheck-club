@@ -1,6 +1,6 @@
 # Pabels
 
-Pabels is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Dead Letter No. 9, New York City on Fri, 10 Jul 2026.
+Pabels is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Dead Letter No. 9, New York City on Fri, 10 Jul 2026.
 
 Pabels is a house and disco artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Budapest and Buenosaires and 15 more. Often billed alongside Dobao, JUNA and Bermani. Next up: Dead Letter No. 9, Newyorkcity on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Pabels is a house and disco artist tracked on soundcheck, with 65 sets logged ac
 
 Dobao, JUNA, Bermani
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pabels/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pabels/)*

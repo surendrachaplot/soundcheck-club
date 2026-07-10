@@ -1,6 +1,6 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Dolder Kunsteisbahn Zurich, Zurich on Sat, 11 Jul 2026.
+Armin van Buuren is a Trance and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Dolder Kunsteisbahn Zurich, Zurich on Sat, 11 Jul 2026.
 
 Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Dolder Kunsteisbahn Zurich, Zurich on Sat 11 Jul.
 
@@ -34,4 +34,4 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 se
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

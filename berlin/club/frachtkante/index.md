@@ -1,6 +1,6 @@
 # frachtkante
 
-frachtkante is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Aurōra x Dance Power at Tegel Airport (Open Air)" on Sat, 11 Jul 2026.
+frachtkante is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Aurōra x Dance Power at Tegel Airport (Open Air)" on Sat, 11 Jul 2026.
 
 frachtkante is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including ALKARLINE, DJ Thai Take Away, djvonnebenan and Ollie Lishman and 1 more. Browse upcoming dates, start times and who's playing. Urban Tech Republic, 13405 Berlin, Germany.
 
@@ -15,4 +15,4 @@ frachtkante is a music venue in Berlin listed on soundcheck. 2 upcoming nights, 
 
 Urban Tech Republic, 13405 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frachtkante/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frachtkante/)*

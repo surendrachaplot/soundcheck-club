@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Glimmer (US), The River Speaks" on Sun, 12 Jul 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Glimmer (US), The River Speaks" on Sun, 12 Jul 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Dis Fig, The Delay in the Universal Loop and Violent Magic Orchestra. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -22,4 +22,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights,
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

@@ -1,6 +1,6 @@
 # Houtbaar Haarlem
 
-Houtbaar Haarlem is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "KNALL with Alex O'Rion" on Fri, 10 Jul 2026.
+Houtbaar Haarlem is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "KNALL with Alex O'Rion" on Fri, 10 Jul 2026.
 
 Houtbaar Haarlem is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Alex O'Rion, Boyos Soundsystem, DJ ZAC and GALAGO (BE) and 2 more. Browse upcoming dates, start times and who's playing. Woudplein 2, 2031 CZ, Haarlem.
 
@@ -18,4 +18,4 @@ Houtbaar Haarlem is a music venue in Amsterdam listed on soundcheck. 5 upcoming 
 
 Woudplein 2, 2031 CZ, Haarlem, Amsterdam
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/houtbaar-haarlem/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/houtbaar-haarlem/)*

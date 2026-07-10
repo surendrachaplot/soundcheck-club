@@ -1,6 +1,6 @@
 # Shanti
 
-Shanti is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cassiopeia, Berlin on Sat, 11 Jul 2026.
+Shanti is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cassiopeia, Berlin on Sat, 11 Jul 2026.
 
 Shanti is a techno and acid artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Chicago and Detroit and 4 more. Often billed alongside Scum.ee, Josh Tong and JS Alvarez. Next up: Cassiopeia, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Shanti is a techno and acid artist based in United States of America, tracked on
 
 Scum.ee, Josh Tong, JS Alvarez
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanti/)*

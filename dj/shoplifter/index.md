@@ -1,6 +1,6 @@
 # Shoplifter
 
-Shoplifter is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Jama, Toronto on Fri, 10 Jul 2026.
+Shoplifter is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Jama, Toronto on Fri, 10 Jul 2026.
 
 Shoplifter is a techno and house artist based in Belgium, tracked on soundcheck, with 57 sets logged across Antwerp, Berlin, Brussels and Ghent and 5 more. Often billed alongside DC Noises, BAVR and Casper. Next up: The Jama, Toronto on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Shoplifter is a techno and house artist based in Belgium, tracked on soundcheck,
 
 DC Noises, BAVR, Casper
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shoplifter/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shoplifter/)*

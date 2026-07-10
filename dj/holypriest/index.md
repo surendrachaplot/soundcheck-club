@@ -1,6 +1,6 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Holy Priest is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Holy Priest is a techno and hardcore artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 44 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Holy Priest is a techno and hardcore artist tracked on soundcheck, with 117 sets
 
 elMefti, Fantasm, JAZZY (2)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

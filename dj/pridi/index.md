@@ -1,6 +1,6 @@
 # Pridi
 
-Pridi is a Tech House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at B-SIDE, Warsaw on Sat, 11 Jul 2026.
+Pridi is a Tech House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at B-SIDE, Warsaw on Sat, 11 Jul 2026.
 
 Pridi is a tech house and electronica artist tracked on soundcheck, with 26 sets logged across Antwerp, Berlin, Hamburg and Krakow and 2 more. Often billed alongside Plastik (1), Ilya Semashkevich and Shjva. Next up: B-SIDE, Warsaw on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Pridi is a tech house and electronica artist tracked on soundcheck, with 26 sets
 
 Plastik (1), Ilya Semashkevich, Shjva
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pridi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pridi/)*

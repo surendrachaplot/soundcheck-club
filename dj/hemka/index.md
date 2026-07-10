@@ -1,6 +1,6 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Hemka is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Hemka is a techno and minimal techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 12 more. Often billed alongside SHDW, Lacchesi and Lars Huismann. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Hemka is a techno and minimal techno artist tracked on soundcheck, with 41 sets 
 
 SHDW, Lacchesi, Lars Huismann
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*

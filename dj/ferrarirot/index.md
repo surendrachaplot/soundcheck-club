@@ -1,6 +1,6 @@
 # ferrari rot
 
-ferrari rot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MS Stubnitz, Hamburg on Sat, 11 Jul 2026.
+ferrari rot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MS Stubnitz, Hamburg on Sat, 11 Jul 2026.
 
 ferrari rot is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside MALUGI, evin and Surf 2 Glory. Next up: MS Stubnitz, Hamburg on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ ferrari rot is a techno and house artist tracked on soundcheck, with 133 sets lo
 
 MALUGI, evin, Surf 2 Glory
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*

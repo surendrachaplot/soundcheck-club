@@ -1,6 +1,6 @@
 # Annett Gapstream
 
-Annett Gapstream is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
+Annett Gapstream is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
 
 Annett Gapstream is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Bangkok and Berlin and 8 more. Often billed alongside Kotoe, Baba The Knife and Chris Schwarzwälder. Next up: Treptower Park, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Annett Gapstream is a techno and house artist based in Germany, tracked on sound
 
 Kotoe, Baba The Knife, Chris Schwarzwälder
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annettgapstream/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annettgapstream/)*

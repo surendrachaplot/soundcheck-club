@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 17 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Mandragora" on Sat, 11 Jul 2026.
+Substation is a music venue in Seattle with 17 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Mandragora" on Sat, 11 Jul 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 17 upcoming nights, with line-ups including Bushbaby, Craze, Dean Turnley and Dieselboy and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 17 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

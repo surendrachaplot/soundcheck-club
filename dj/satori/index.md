@@ -1,6 +1,6 @@
 # Satori
 
-Satori is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Vajdahunyad Castle, Budapest on Sat, 11 Jul 2026.
+Satori is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Vajdahunyad Castle, Budapest on Sat, 11 Jul 2026.
 
 Satori is a house and techno artist based in Netherlands, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Sorä, Cera Khin and Marco Carola. Next up: Vajdahunyad Castle, Budapest on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Satori is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Sorä, Cera Khin, Marco Carola
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

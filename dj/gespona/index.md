@@ -1,6 +1,6 @@
 # Gespona
 
-Gespona is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bikini Club, Barcelona on Sat, 18 Jul 2026.
+Gespona is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bikini Club, Barcelona on Sat, 18 Jul 2026.
 
 Gespona is a progressive house and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 12 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Bikini Club, Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Gespona is a progressive house and house artist tracked on soundcheck, with 100 
 
 Amadori, Djolee, Martin Cozar
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*

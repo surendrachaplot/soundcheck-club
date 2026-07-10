@@ -1,6 +1,6 @@
 # Terry Farley
 
-Terry Farley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
+Terry Farley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
 
 Terry Farley is a house and disco artist tracked on soundcheck, with 68 sets logged across Bali, Brighton, Cardiff and Glasgow and 6 more. Often billed alongside Stuart Patterson, JARVIS and Nancy Noise. Next up: 93 Feet East, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Terry Farley is a house and disco artist tracked on soundcheck, with 68 sets log
 
 Stuart Patterson, JARVIS, Nancy Noise
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*

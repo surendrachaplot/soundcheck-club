@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Easy Easy presents OBLIG" on Fri, 10 Jul 2026.
+The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Easy Easy presents OBLIG" on Fri, 10 Jul 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming nights, with line-ups including Arveene, ByPhil, Conor Schmtz and Daniel Wang and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upco
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

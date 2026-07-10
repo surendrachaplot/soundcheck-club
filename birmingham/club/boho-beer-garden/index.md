@@ -1,6 +1,6 @@
 # Boho Beer Garden
 
-Boho Beer Garden is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "AMAPIANOLAND - Birmingham's Biggest Afrobeats & Amapiano Day Party" on Sun, 12 Jul 2026.
+Boho Beer Garden is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "AMAPIANOLAND - Birmingham's Biggest Afrobeats & Amapiano Day Party" on Sun, 12 Jul 2026.
 
 Boho Beer Garden is a music venue in Birmingham listed on soundcheck. 1 upcoming night, with line-ups including ID. Browse upcoming dates, start times and who's playing. Boho Gardens, 1 Rea Terrace, Deritend, Birmingham B5 5TR.
 
@@ -14,4 +14,4 @@ Boho Beer Garden is a music venue in Birmingham listed on soundcheck. 1 upcoming
 
 Boho Gardens, 1 Rea Terrace, Deritend, Birmingham B5 5TR, Birmingham
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/boho-beer-garden/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/boho-beer-garden/)*

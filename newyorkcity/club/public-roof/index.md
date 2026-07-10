@@ -1,6 +1,6 @@
 # Public Roof
 
-Public Roof is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Essential Music x Public Roof" on Sat, 11 Jul 2026.
+Public Roof is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Essential Music x Public Roof" on Sat, 11 Jul 2026.
 
 Public Roof is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Goldcap, Noncitizens and NURAN. Browse upcoming dates, start times and who's playing. 215 Chrystie, New York, NY, 10002.
 
@@ -15,4 +15,4 @@ Public Roof is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nig
 
 215 Chrystie, New York, NY, 10002, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-roof/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-roof/)*

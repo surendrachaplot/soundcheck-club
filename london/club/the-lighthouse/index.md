@@ -1,6 +1,6 @@
 # The Lighthouse
 
-The Lighthouse is a music venue in London with 29 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Vybz Kartel - Free Bashment Party - Everyone Free Before 12AM" on Fri, 10 Jul 2026.
+The Lighthouse is a music venue in London with 29 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Vybz Kartel - Free Bashment Party - Everyone Free Before 12AM" on Fri, 10 Jul 2026.
 
 The Lighthouse is a music venue in London listed on soundcheck. 29 upcoming nights. Browse upcoming dates, start times and who's playing. 62-68 Rivington Street, Shoreditch, London EC2A 3AY.
 
@@ -23,4 +23,4 @@ The Lighthouse is a music venue in London listed on soundcheck. 29 upcoming nigh
 
 62-68 Rivington Street, Shoreditch, London EC2A 3AY, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse/)*

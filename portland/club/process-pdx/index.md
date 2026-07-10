@@ -1,14 +1,13 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Synth Library 10th Anniversary Party feat. Eric Schlappi Golden Donna Wet Mango Baseck" on Thu, 9 Jul 2026.
+Process PDX is a music venue in Portland with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Process Club Night - zi! (Flush, Montreal), R A L L Y" on Fri, 10 Jul 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 12 upcoming nights, with line-ups including Aaron Davis, Alec Fursman, August V. M. and Baseck and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 11 upcoming nights, with line-ups including Aaron Davis, Alec Fursman, August V. M. and Ben Bondy and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Synth Library 10th Anniversary Party feat. Eric Schlappi Golden Donna Wet Mango Baseck | Baseck, Golden Donna |
 | Fri, 10 Jul 2026 | Process Club Night - zi! (Flush, Montreal), R A L L Y | R A L L Y, zi! |
 | Sat, 11 Jul 2026 | Process Residency Night - DJ DISSOLVE invites: Patrice Scott, Aaron Davis, Gazin | Aaron Davis, DJ DISSOLVE, Gazin, Patrice Scott |
 | Thu, 16 Jul 2026 | LéMix presents: A Night with Lady D | DJ Lady D, Vignette |
@@ -18,9 +17,10 @@ Process PDX is a music venue in Portland listed on soundcheck. 12 upcoming night
 | Wed, 29 Jul 2026 | Triple Threat - A Queer & Trans Strip Night |  |
 | Thu, 30 Jul 2026 | USBCHECK x FRICKTION | Alec Fursman, Claudia LB, N SO |
 | Fri, 31 Jul 2026 | Dark Arts Collective presents... Two Swords | Stutter, Two Swords |
+| Sat, 1 Aug 2026 | THROB | C Powers, Pacer, Shi Shi |
 
 ## Address
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

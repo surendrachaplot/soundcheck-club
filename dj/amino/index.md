@@ -1,6 +1,6 @@
 # Amino
 
-Amino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
+Amino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
 
 Amino is a techno and electro artist tracked on soundcheck, with 83 sets logged across Detroit and Newyorkcity. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: Lincoln Factory, Detroit on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Amino is a techno and electro artist tracked on soundcheck, with 83 sets logged 
 
 Garrison XR, Duck Trash, Loren
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

@@ -1,6 +1,6 @@
 # Bar do Netão
 
-Bar do Netão is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Válvula Records - Behavior Structure EP Part 1 - Lançamento" on Sat, 25 Jul 2026.
+Bar do Netão is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Válvula Records - Behavior Structure EP Part 1 - Lançamento" on Sat, 25 Jul 2026.
 
 Bar do Netão is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights, with line-ups including Alvinho L. Noise, Brankelo and Phabian. Browse upcoming dates, start times and who's playing. Rua Augusta, 584 | Baixo Augusta, Sao Paulo, State of Sao Paulo 01304-000, Brazil.
 
@@ -15,4 +15,4 @@ Bar do Netão is a music venue in Saopaulo listed on soundcheck. 2 upcoming nigh
 
 Rua Augusta, 584 | Baixo Augusta, Sao Paulo, State of Sao Paulo 01304-000, Brazil, Sao Paulo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/bar-do-net-o/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/bar-do-net-o/)*

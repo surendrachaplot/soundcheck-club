@@ -1,6 +1,6 @@
 # Gadutra
 
-Gadutra is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OXI, Berlin on Fri, 10 Jul 2026.
+Gadutra is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OXI, Berlin on Fri, 10 Jul 2026.
 
 Gadutra is a baile funk and electronica artist tracked on soundcheck, with 48 sets logged across Berlin, Hamburg, Lisbon and Porto and 1 more. Often billed alongside DJ LOUI FROM JUPITER4, Maque and XD Erica. Next up: OXI, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Gadutra is a baile funk and electronica artist tracked on soundcheck, with 48 se
 
 DJ LOUI FROM JUPITER4, Maque, XD Erica
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gadutra/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gadutra/)*

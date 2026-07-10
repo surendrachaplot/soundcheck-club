@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Savaya Bali, Bali on Fri, 10 Jul 2026.
+Melé is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Savaya Bali, Bali on Fri, 10 Jul 2026.
 
 Melé is a house and tech house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Bali, Barcelona and Bristol and 28 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Savaya Bali, Bali on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Melé is a house and tech house artist tracked on soundcheck, with 115 sets logg
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

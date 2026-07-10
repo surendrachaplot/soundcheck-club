@@ -1,6 +1,6 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Clairière, Paris on Fri, 10 Jul 2026.
+Adam Ten is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Clairière, Paris on Fri, 10 Jul 2026.
 
 Adam Ten is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: La Clairière, Paris on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ Adam Ten is a house and techno artist tracked on soundcheck, with 146 sets logge
 
 Mita Gami, Jamie Jones, CamelPhat
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamten/)*

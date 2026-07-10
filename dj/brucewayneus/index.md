@@ -1,6 +1,6 @@
 # Bruce Wayne (US)
 
-Bruce Wayne (US) is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Althea's Rooftop, New York City on Fri, 10 Jul 2026.
+Bruce Wayne (US) is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Althea's Rooftop, New York City on Fri, 10 Jul 2026.
 
 Bruce Wayne (US) is a house and afro house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside IgP (1), Valentin and KRAVE. Next up: Althea's Rooftop, Newyorkcity on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Bruce Wayne (US) is a house and afro house artist based in United States of Amer
 
 IgP (1), Valentin, KRAVE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*

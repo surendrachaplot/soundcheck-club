@@ -1,6 +1,6 @@
 # Craig Charles
 
-Craig Charles is a Funk / Soul and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
+Craig Charles is a Funk / Soul and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
 
 Craig Charles is a funk / soul and disco artist tracked on soundcheck, with 31 sets logged across Birmingham, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Norman Jay, Crazy P and Fabio. Next up: Moseley Park, Birmingham on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Craig Charles is a funk / soul and disco artist tracked on soundcheck, with 31 s
 
 Norman Jay, Crazy P, Fabio
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigcharles/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craigcharles/)*

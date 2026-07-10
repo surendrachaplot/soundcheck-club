@@ -1,14 +1,13 @@
 # Scorpios
 
-Scorpios is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Jimi Jules, Lannka" on Thu, 9 Jul 2026.
+Scorpios is a music venue in Mykonos with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Lannka Invites Thievery Corporation (Live)" on Fri, 10 Jul 2026.
 
-Scorpios is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Âme, Dengue Dengue Dengue, Dixon and Gordo (1) and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
+Scorpios is a music venue in Mykonos listed on soundcheck. 7 upcoming nights, with line-ups including Âme, Dengue Dengue Dengue, Dixon and Gordo (1) and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Jimi Jules, Lannka | Jimi Jules |
 | Fri, 10 Jul 2026 | Lannka Invites Thievery Corporation (Live) | Thievery Corporation |
 | Sat, 11 Jul 2026 | Valeron & Band (Live) | Valeron |
 | Sun, 12 Jul 2026 | Gordo, Yamagucci | Gordo (1), Yamagucci |
@@ -21,4 +20,4 @@ Scorpios is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, wi
 
 Paraga, Mikonos 846 00, Greece, Mykonos
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*

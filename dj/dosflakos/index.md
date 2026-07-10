@@ -1,6 +1,6 @@
 # Dos Flakos
 
-Dos Flakos is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Chocolate Factory, New York City on Sat, 11 Jul 2026.
+Dos Flakos is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Chocolate Factory, New York City on Sat, 11 Jul 2026.
 
 Dos Flakos is a reggaeton and house artist tracked on soundcheck, with 46 sets logged across Austin, Chicago, Losangeles and Madrid and 5 more. Often billed alongside Rosa Perreo, DJ Ultra Violet and ALoSo. Next up: The Chocolate Factory, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Dos Flakos is a reggaeton and house artist tracked on soundcheck, with 46 sets l
 
 Rosa Perreo, DJ Ultra Violet, ALoSo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*

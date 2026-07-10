@@ -1,6 +1,6 @@
 # DREY (UK)
 
-DREY (UK) is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Fox and Firkin, London on Fri, 10 Jul 2026.
+DREY (UK) is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Fox and Firkin, London on Fri, 10 Jul 2026.
 
 DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside Donut, blissy e and Alexander Nut. Next up: The Fox and Firkin, London on Fri 10 Jul.
 
@@ -25,4 +25,4 @@ DREY (UK) is a house and funk / soul artist based in United Kingdom, tracked on 
 
 Donut, blissy e, Alexander Nut
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drey-2/)*

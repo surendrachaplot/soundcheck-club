@@ -1,6 +1,6 @@
 # Forest Drive West
 
-Forest Drive West is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Forest Drive West is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Forest Drive West is a techno and jungle artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Azu Tiwaline, Mantra and Rrose. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Forest Drive West is a techno and jungle artist tracked on soundcheck, with 55 s
 
 Azu Tiwaline, Mantra, Rrose
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/forestdrivewest/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/forestdrivewest/)*

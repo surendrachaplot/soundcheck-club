@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BCCO x HIVE" on Sat, 15 Aug 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BCCO x HIVE" on Sat, 15 Aug 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Paolo Ferrara, Ben Techy, Dexphase and DJ Hyperdrive and 2 more. Browse upcoming dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -15,4 +15,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming n
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

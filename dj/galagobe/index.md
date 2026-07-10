@@ -1,6 +1,6 @@
 # GALAGO (BE)
 
-GALAGO (BE) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Houtbaar Haarlem, Amsterdam on Fri, 10 Jul 2026.
+GALAGO (BE) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Houtbaar Haarlem, Amsterdam on Fri, 10 Jul 2026.
 
 GALAGO (BE) is a techno and house artist based in Belgium, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Don Cabron, Jaxter and Groovegsus. Next up: Houtbaar Haarlem, Amsterdam on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ GALAGO (BE) is a techno and house artist based in Belgium, tracked on soundcheck
 
 Don Cabron, Jaxter, Groovegsus
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*

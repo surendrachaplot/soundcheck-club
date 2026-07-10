@@ -1,6 +1,6 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 18 Jul 2026.
+Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 18 Jul 2026.
 
 Risa Taniguchi is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Drunken Kong, YURI VALEN and ALEXANDER M. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Risa Taniguchi is a techno and house artist tracked on soundcheck, with 107 sets
 
 Drunken Kong, YURI VALEN, ALEXANDER M
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

@@ -1,6 +1,6 @@
 # Stefan Muchte
 
-Stefan Muchte is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Süss War Gestern, Berlin on Fri, 10 Jul 2026.
+Stefan Muchte is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Süss War Gestern, Berlin on Fri, 10 Jul 2026.
 
 Stefan Muchte is a house and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside BOHO, Bøgen and Vlad Yaki. Next up: Süss War Gestern, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Stefan Muchte is a house and techno artist based in Germany, tracked on soundche
 
 BOHO, Bøgen, Vlad Yaki
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmuchte/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmuchte/)*

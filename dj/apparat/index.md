@@ -1,6 +1,6 @@
 # Apparat
 
-Apparat is a Electronica and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gazometro, Rome on Fri, 10 Jul 2026.
+Apparat is a Electronica and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gazometro, Rome on Fri, 10 Jul 2026.
 
 Apparat is an electronica and electro artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 10 more. Often billed alongside NZIRIA, Alessandro Addi and Andrea Saba. Next up: Gazometro, Rome on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Apparat is an electronica and electro artist based in Germany, tracked on soundc
 
 NZIRIA, Alessandro Addi, Andrea Saba
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*

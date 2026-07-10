@@ -1,6 +1,6 @@
 # Naomi (Berlin)
 
-Naomi (Berlin) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Südpol, Hamburg on Fri, 10 Jul 2026.
+Naomi (Berlin) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Südpol, Hamburg on Fri, 10 Jul 2026.
 
 Naomi (Berlin) is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside Dj Heartbreak, Natalie Robinson and LOVEFOXY. Next up: Südpol, Hamburg on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Naomi (Berlin) is a house and techno artist tracked on soundcheck, with 82 sets 
 
 Dj Heartbreak, Natalie Robinson, LOVEFOXY
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-berlin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-berlin/)*

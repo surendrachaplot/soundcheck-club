@@ -1,6 +1,6 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Audio Club, Geneva on Fri, 10 Jul 2026.
+Michael Mayer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Audio Club, Geneva on Fri, 10 Jul 2026.
 
 Michael Mayer is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Audio Club, Geneva on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 76 sets l
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

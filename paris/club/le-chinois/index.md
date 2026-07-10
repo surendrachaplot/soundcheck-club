@@ -1,6 +1,6 @@
 # Le Chinois
 
-Le Chinois is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Meteors Recordings Invites Future City Punks (Aus)" on Sat, 25 Jul 2026.
+Le Chinois is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Meteors Recordings Invites Future City Punks (Aus)" on Sat, 25 Jul 2026.
 
 Le Chinois is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including cfds, Kalyug Citizen and Studerkel. Browse upcoming dates, start times and who's playing. 6 place du Marché, Montreuil.
 
@@ -14,4 +14,4 @@ Le Chinois is a music venue in Paris listed on soundcheck. 1 upcoming night, wit
 
 6 place du Marché, Montreuil, Paris
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*

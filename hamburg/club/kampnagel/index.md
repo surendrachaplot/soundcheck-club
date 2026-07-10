@@ -1,6 +1,6 @@
 # Kampnagel
 
-Kampnagel is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Diarfest: Joseph Shami with The Band (live), DJ Elto, Hanadisgarage & Tutku" on Fri, 7 Aug 2026.
+Kampnagel is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Diarfest: Joseph Shami with The Band (live), DJ Elto, Hanadisgarage & Tutku" on Fri, 7 Aug 2026.
 
 Kampnagel is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including DJ SOURCE, JADA MORAES, Kanucia and Kontronatura and 2 more. Browse upcoming dates, start times and who's playing. Jarrestrasse 20; 22303 Hamburg; Germany.
 
@@ -20,4 +20,4 @@ Kampnagel is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, w
 
 Jarrestrasse 20; 22303 Hamburg; Germany, Hamburg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/kampnagel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/kampnagel/)*

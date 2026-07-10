@@ -1,14 +1,13 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Jerome Thomas - Freight Brixton presents: Soul of the South" on Thu, 9 Jul 2026.
+Freight Brixton is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Greg Wilson Rooftop Day Party" on Sat, 11 Jul 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Amy Cutter, Chris Halliday, Chunky and Craig Charles and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Amy Cutter, Chris Halliday, Chunky and Craig Charles and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Jerome Thomas - Freight Brixton presents: Soul of the South |  |
 | Sat, 11 Jul 2026 | Greg Wilson Rooftop Day Party | Amy Cutter, Chris Halliday, Greg Wilson |
 | Thu, 16 Jul 2026 | Summer Pearl - Freight Brixton & Cross The Tracks presents: Soul of the South |  |
 | Sat, 18 Jul 2026 | GHOST OF GARAGE W/ MARK HILL (The Original Artful Dodger) + Friends |  |
@@ -18,9 +17,10 @@ Freight Brixton is a music venue in London listed on soundcheck. 15 upcoming nig
 | Sat, 1 Aug 2026 | Old School Jam on The Roof |  |
 | Thu, 6 Aug 2026 | Tanhai Collective & Secret Night Gang |  |
 | Sat, 8 Aug 2026 | Laurence Guy Rooftop Day Party | Laurence Guy |
+| Sat, 22 Aug 2026 | GHOST OF GARAGE W/ Plastician (UKG SET), El-B B2B J DA FLEX, Mike Millrain, Lady Passion + more | El-B, LARISHKA (UK), Lady Passion, Mike Millrain, Plastician |
 
 ## Address
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

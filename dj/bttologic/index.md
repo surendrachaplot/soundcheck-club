@@ -1,6 +1,6 @@
 # Bttologic
 
-Bttologic is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 10 Jul 2026.
+Bttologic is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 10 Jul 2026.
 
 Bttologic is a house and minimal artist tracked on soundcheck, with 48 sets logged across Barcelona, Denver, Newyorkcity and Riga. Often billed alongside John Karam, Fedo (UA) and Gera (3). Next up: 303 Audiophile Bar, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Bttologic is a house and minimal artist tracked on soundcheck, with 48 sets logg
 
 John Karam, Fedo (UA), Gera (3)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bttologic/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bttologic/)*

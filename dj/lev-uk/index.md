@@ -1,6 +1,6 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
+LEV (UK) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KOKO, London on Fri, 10 Jul 2026.
 
 LEV (UK) is a house and disco artist tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: KOKO, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ LEV (UK) is a house and disco artist tracked on soundcheck, with 82 sets logged 
 
 Faro, Aroop Roy, MiNNA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*

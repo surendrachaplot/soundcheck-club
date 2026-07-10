@@ -1,6 +1,6 @@
 # Avision
 
-Avision is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Vertigo, Toronto on Sat, 11 Jul 2026.
+Avision is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Vertigo, Toronto on Sat, 11 Jul 2026.
 
 Avision is a house and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Maceo Plex, Victor Calderone and Alan Fitzpatrick. Next up: Vertigo, Toronto on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Avision is a house and techno artist based in United States of America, tracked 
 
 Maceo Plex, Victor Calderone, Alan Fitzpatrick
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avision/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avision/)*

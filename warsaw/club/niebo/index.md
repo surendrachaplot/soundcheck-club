@@ -1,6 +1,6 @@
 # NIEBO
 
-NIEBO is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sina Bathaie White Lotus World Tour - Live in Warsaw" on Sun, 12 Jul 2026.
+NIEBO is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sina Bathaie White Lotus World Tour - Live in Warsaw" on Sun, 12 Jul 2026.
 
 NIEBO is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Sina Bathaie. Browse upcoming dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
 
@@ -14,4 +14,4 @@ NIEBO is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with li
 
 Nowy Świat 21, 00-001 Warszawa, Warsaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*

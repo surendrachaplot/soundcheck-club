@@ -1,6 +1,6 @@
 # Cooks Valley Campground
 
-Cooks Valley Campground is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Dirtybird Campout x Northern Nights Music Festival 2026" on Fri, 17 Jul 2026.
+Cooks Valley Campground is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Dirtybird Campout x Northern Nights Music Festival 2026" on Fri, 17 Jul 2026.
 
 Cooks Valley Campground is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Addison Groove, AMPRS&ND, Ardalan and Audiojack and 2 more. Browse upcoming dates, start times and who's playing. 83950 RD 442 E, Piercy, CA 95587, USA.
 
@@ -14,4 +14,4 @@ Cooks Valley Campground is a music venue in Sanfrancisco listed on soundcheck. 1
 
 83950 RD 442 E, Piercy, CA 95587, USA, San Francisco/Oakland
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cooks-valley-campground/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cooks-valley-campground/)*

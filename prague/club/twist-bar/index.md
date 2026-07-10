@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Wildt Anniversary" on Fri, 10 Jul 2026.
+Twist Bar is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Wildt Anniversary" on Fri, 10 Jul 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Alex Neivel, Austin Powers, Francisco Nada and In Abyss and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 10 upcoming nights, w
 | Thu, 30 Jul 2026 | ZUZA |  |
 | Fri, 31 Jul 2026 | Theo, Meangirlz (CH) | Theo (8) |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

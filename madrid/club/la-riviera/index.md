@@ -1,6 +1,6 @@
 # La Riviera
 
-La Riviera is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Fat Freddy's Drop - Madrid" on Thu, 24 Sept 2026.
+La Riviera is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Fat Freddy's Drop - Madrid" on Thu, 24 Sept 2026.
 
 La Riviera is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Fat Freddys Drop. Browse upcoming dates, start times and who's playing. Paseo de la Virgen del Puerto, Madrid, España.
 
@@ -14,4 +14,4 @@ La Riviera is a music venue in Madrid listed on soundcheck. 1 upcoming night, wi
 
 Paseo de la Virgen del Puerto, Madrid, España, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-riviera/)*

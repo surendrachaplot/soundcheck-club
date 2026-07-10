@@ -1,6 +1,6 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 21 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Colorado Charlie with Folamour (3hrs), Young Pulse, Ajuma (SOLD OUT)" on Sat, 11 Jul 2026.
+Colorado Charlie is a music venue in The Hague with 21 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Colorado Charlie with Folamour (3hrs), Young Pulse, Ajuma (SOLD OUT)" on Sat, 11 Jul 2026.
 
 Colorado Charlie is a music venue in Thehague listed on soundcheck. 21 upcoming nights, with line-ups including 22 Interns, AAT (NL), Ajuma and Baron Von Trax and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
@@ -23,4 +23,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 21 upcoming 
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

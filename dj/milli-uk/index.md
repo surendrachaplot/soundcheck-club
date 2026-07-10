@@ -1,6 +1,6 @@
 # Milli
 
-Milli is a Club and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 11 Jul 2026.
+Milli is a Club and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 11 Jul 2026.
 
 Milli is a club and disco artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Berlin and Frankfurt and 3 more. Often billed alongside Anahita Shamsaei, RONISA and Rohan the producer. Next up: Tanzhaus West, Frankfurt on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Milli is a club and disco artist based in United Kingdom, tracked on soundcheck,
 
 Anahita Shamsaei, RONISA, Rohan the producer
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milli-uk/)*

@@ -1,6 +1,6 @@
 # YUKIMASA
 
-YUKIMASA is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ruby Room, Tokyo on Fri, 10 Jul 2026.
+YUKIMASA is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ruby Room, Tokyo on Fri, 10 Jul 2026.
 
 YUKIMASA is a techno and ambient artist tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Budapest and Osaka and 4 more. Often billed alongside DANA NADA, Yoshitaka Shirakura and DJ Yazi. Next up: Ruby Room, Tokyo on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ YUKIMASA is a techno and ambient artist tracked on soundcheck, with 61 sets logg
 
 DANA NADA, Yoshitaka Shirakura, DJ Yazi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukimasa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukimasa/)*

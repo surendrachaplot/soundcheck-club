@@ -1,6 +1,6 @@
 # Bar結界
 
-Bar結界 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "206" on Sat, 11 Jul 2026.
+Bar結界 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "206" on Sat, 11 Jul 2026.
 
 Bar結界 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Jellyf!sh and Yo Nishijima. Browse upcoming dates, start times and who's playing. 渋谷区道玄坂２丁目２５−７ プラザ道玄坂 5F.
 
@@ -14,4 +14,4 @@ Bar結界 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with
 
 渋谷区道玄坂２丁目２５−７ プラザ道玄坂 5F, Tokyo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bar/)*

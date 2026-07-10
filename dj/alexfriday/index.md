@@ -1,6 +1,6 @@
 # Alex Friday
 
-Alex Friday is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OST, Berlin on Fri, 10 Jul 2026.
+Alex Friday is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OST, Berlin on Fri, 10 Jul 2026.
 
 Alex Friday is a techno and trance artist tracked on soundcheck, with 117 sets logged across Basel, Berlin, Copenhagen and Frankfurt and 2 more. Often billed alongside ROJI, 3LEEZA and KLING&KLANG. Next up: OST, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Alex Friday is a techno and trance artist tracked on soundcheck, with 117 sets l
 
 ROJI, 3LEEZA, KLING&KLANG
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfriday/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfriday/)*

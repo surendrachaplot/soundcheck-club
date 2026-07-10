@@ -1,6 +1,6 @@
 # Towicz
 
-Towicz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at DNA Club, Munich on Fri, 10 Jul 2026.
+Towicz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at DNA Club, Munich on Fri, 10 Jul 2026.
 
 Towicz is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin, Munich and Nurnberg. Often billed alongside Dominique Lamee, HNAS and Janky. Next up: DNA Club, Munich on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Towicz is a techno and trance artist tracked on soundcheck, with 24 sets logged 
 
 Dominique Lamee, HNAS, Janky
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/towicz/)*

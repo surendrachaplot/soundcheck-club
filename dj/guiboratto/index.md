@@ -1,6 +1,6 @@
 # Gui Boratto
 
-Gui Boratto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hive Club, Zurich on Fri, 10 Jul 2026.
+Gui Boratto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hive Club, Zurich on Fri, 10 Jul 2026.
 
 Gui Boratto is a house and tech house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Barcelona and Basel and 15 more. Often billed alongside Coppola, Adnan Sharif and Gabriel Brasil. Next up: Hive Club, Zurich on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Gui Boratto is a house and tech house artist tracked on soundcheck, with 47 sets
 
 Coppola, Adnan Sharif, Gabriel Brasil
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*

@@ -1,6 +1,6 @@
 # Triqi
 
-Triqi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Crack Bellmer, Berlin on Fri, 10 Jul 2026.
+Triqi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Crack Bellmer, Berlin on Fri, 10 Jul 2026.
 
 Triqi is a house and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Cologne, Hamburg and Prague. Often billed alongside Immy, INVERNO and hripsime. Next up: Crack Bellmer, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Triqi is a house and techno artist tracked on soundcheck, with 116 sets logged a
 
 Immy, INVERNO, hripsime
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*

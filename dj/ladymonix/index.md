@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at smartbar, Chicago on Sun, 12 Jul 2026.
+LADYMONIX is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at smartbar, Chicago on Sun, 12 Jul 2026.
 
 LADYMONIX is a house and techno artist tracked on soundcheck, with 145 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: smartbar, Chicago on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 145 sets logg
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

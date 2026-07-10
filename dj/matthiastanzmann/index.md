@@ -1,6 +1,6 @@
 # Matthias Tanzmann
 
-Matthias Tanzmann is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
+Matthias Tanzmann is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
 
 Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Domenic D'Agnelli, Chris Di Perri and Davide Squillace. Next up: Treptower Park, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 1
 
 Domenic D'Agnelli, Chris Di Perri, Davide Squillace
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*

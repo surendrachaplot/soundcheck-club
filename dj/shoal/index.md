@@ -1,6 +1,6 @@
 # Shoal
 
-Shoal is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gare Porto, Porto on Fri, 10 Jul 2026.
+Shoal is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gare Porto, Porto on Fri, 10 Jul 2026.
 
 Shoal is a techno and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Vand, Laura BCR and Spekki Webu. Next up: Gare Porto, Porto on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Shoal is a techno and electro artist tracked on soundcheck, with 52 sets logged 
 
 Vand, Laura BCR, Spekki Webu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*

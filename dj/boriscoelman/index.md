@@ -1,6 +1,6 @@
 # Boris Coelman
 
-Boris Coelman is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Skatecafe, Amsterdam on Sat, 11 Jul 2026.
+Boris Coelman is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Skatecafe, Amsterdam on Sat, 11 Jul 2026.
 
 Boris Coelman is a house and disco artist tracked on soundcheck, with 87 sets logged across Amsterdam, Brussels, Rotterdam and Thehague and 2 more. Often billed alongside TINS, Trippy Tins and KALLE (NL). Next up: Skatecafe, Amsterdam on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Boris Coelman is a house and disco artist tracked on soundcheck, with 87 sets lo
 
 TINS, Trippy Tins, KALLE (NL)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscoelman/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscoelman/)*

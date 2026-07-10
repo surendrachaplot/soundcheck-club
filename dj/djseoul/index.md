@@ -1,6 +1,6 @@
 # DJ Seoul
 
-DJ Seoul is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+DJ Seoul is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 DJ Seoul is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Detroit, Melbourne, Philadelphia and Toronto. Often billed alongside T.Linder, DJ Katalist and DJ Krazy. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -27,4 +27,4 @@ DJ Seoul is a techno and house artist based in United States of America, tracked
 
 T.Linder, DJ Katalist, DJ Krazy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djseoul/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djseoul/)*

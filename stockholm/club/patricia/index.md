@@ -1,6 +1,6 @@
 # Patricia
 
-Patricia is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "FIST Pride 2026" on Wed, 29 Jul 2026.
+Patricia is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "FIST Pride 2026" on Wed, 29 Jul 2026.
 
 Patricia is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including Alma Negrot, Cáit, deBasement and Seb Odyssey. Browse upcoming dates, start times and who's playing. Söder Mälarstrand Kajplats N19, Stockholm.
 
@@ -14,4 +14,4 @@ Patricia is a music venue in Stockholm listed on soundcheck. 1 upcoming night, w
 
 Söder Mälarstrand Kajplats N19, Stockholm, Stockholm
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/patricia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/patricia/)*

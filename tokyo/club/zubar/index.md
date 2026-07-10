@@ -1,6 +1,6 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Gypsyland" on Thu, 9 Jul 2026.
+ZUBAR is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MAGOME BASIC" on Fri, 10 Jul 2026.
 
 ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including AKARI, cash (2), Dsitb and Eda and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
@@ -8,7 +8,6 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Gypsyland |  |
 | Fri, 10 Jul 2026 | MAGOME BASIC |  |
 | Sat, 11 Jul 2026 | NEIGHBORS | Mars (FR), Soichiro |
 | Sun, 12 Jul 2026 | 深空-Shinkuu- | Florence (2), Slopy |
@@ -18,9 +17,10 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with l
 | Sat, 18 Jul 2026 | Atomosphere | Dsitb |
 | Sun, 19 Jul 2026 | Pale Green |  |
 | Mon, 20 Jul 2026 | Slowcore | cash (2) |
+| Wed, 22 Jul 2026 | Drowsy | TOSHIHISA HIRANO |
 
 ## Address
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

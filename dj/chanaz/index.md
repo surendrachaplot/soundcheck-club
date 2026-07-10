@@ -1,6 +1,6 @@
 # Chanaz
 
-Chanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Noon + Cafe, Osaka on Fri, 10 Jul 2026.
+Chanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Noon + Cafe, Osaka on Fri, 10 Jul 2026.
 
 Chanaz is a house and techno artist tracked on soundcheck, with 86 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Vís (1), Ryogo and KOTSU. Next up: Noon + Cafe, Osaka on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Chanaz is a house and techno artist tracked on soundcheck, with 86 sets logged a
 
 Vís (1), Ryogo, KOTSU
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chanaz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chanaz/)*

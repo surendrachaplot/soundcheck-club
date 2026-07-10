@@ -1,6 +1,6 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
+David Penn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
 
 David Penn is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Claptone, Low Steppa and ROOG. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ David Penn is a house and tech house artist tracked on soundcheck, with 64 sets 
 
 Claptone, Low Steppa, ROOG
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

@@ -1,14 +1,13 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mondo, Madrid on Thu, 9 Jul 2026.
+Luke Alessi is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 11 Jul 2026.
 
-Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Mondo, Madrid on Thu 9 Jul.
+Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Mondo | Madrid |
 | Sat, 11 Jul 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 | Fri, 24 Jul 2026 | Coda | Toronto |
 | Sat, 25 Jul 2026 | Roberta's | New York City |
@@ -22,6 +21,7 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 ## Recently played
 
+- Mondo, Madrid — Thu, 9 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Parque da Pasteleira, Porto — Fri, 3 Jul 2026
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
@@ -29,10 +29,9 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 - Yamamori Tengu, Dublin — Sat, 30 May 2026
 - Spot Lite Detroit, Detroit — Mon, 25 May 2026
 - Refuge, New York City — Sun, 24 May 2026
-- Smoke & Mirrors, Chicago — Sat, 23 May 2026
 
 ## Shares bills with
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

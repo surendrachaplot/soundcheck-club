@@ -1,6 +1,6 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
+Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
 
 Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Frankfurt and Ibiza and 3 more. Often billed alongside AEREA, ALI3N and Alberto Tolo. Next up: Loone, Berlin on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Iman Janes is a techno and tech house artist based in France, tracked on soundch
 
 AEREA, ALI3N, Alberto Tolo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

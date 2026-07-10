@@ -1,14 +1,13 @@
 # ALEXANDER M
 
-ALEXANDER M is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at WOMB, Tokyo on Thu, 9 Jul 2026.
+ALEXANDER M is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 11 Jul 2026.
 
-ALEXANDER M is a techno and house artist tracked on soundcheck, with 127 sets logged across Barcelona, Ibiza, London and Manchester and 6 more. Often billed alongside Louis Shannon, EIGHT and GReY (1). Next up: WOMB, Tokyo on Thu 9 Jul.
+ALEXANDER M is a techno and house artist tracked on soundcheck, with 127 sets logged across Barcelona, Ibiza, London and Manchester and 6 more. Often billed alongside Louis Shannon, EIGHT and GReY (1). Next up: Enter Shibuya, Tokyo on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | WOMB | Tokyo |
 | Sat, 11 Jul 2026 | Enter Shibuya | Tokyo |
 | Thu, 6 Aug 2026 | DJ Bar Bridge | Tokyo |
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -16,6 +15,7 @@ ALEXANDER M is a techno and house artist tracked on soundcheck, with 127 sets lo
 
 ## Recently played
 
+- WOMB, Tokyo — Thu, 9 Jul 2026
 - WOMB, Tokyo — Fri, 3 Jul 2026
 - Seaseaclub Barcelona, Barcelona — Wed, 17 Jun 2026
 - WOMB, Tokyo — Fri, 12 Jun 2026
@@ -23,10 +23,9 @@ ALEXANDER M is a techno and house artist tracked on soundcheck, with 127 sets lo
 - Cova Santa, Ibiza — Thu, 28 May 2026
 - Zerotokyo, Tokyo — Fri, 15 May 2026
 - Zerotokyo, Tokyo — Fri, 15 May 2026
-- WOMB, Tokyo — Thu, 14 May 2026
 
 ## Shares bills with
 
 Louis Shannon, EIGHT, GReY (1)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderm/)*

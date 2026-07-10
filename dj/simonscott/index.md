@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Outlaws Yacht Club, Leeds on Sat, 18 Jul 2026.
+Simon Scott is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Outlaws Yacht Club, Leeds on Sat, 18 Jul 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 115 sets logged across Belgrade, Brighton, Leeds and London and 2 more. Often billed alongside Mike BC, Cosmikuro and Slacky [Space Ritual]. Next up: Outlaws Yacht Club, Leeds on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked o
 
 Mike BC, Cosmikuro, Slacky [Space Ritual]
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

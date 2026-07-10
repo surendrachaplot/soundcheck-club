@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MONKEY LOVE pres. bart ender & uiava" on Fri, 10 Jul 2026.
+MONKEY LOVE is a music venue in Warsaw with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MONKEY LOVE pres. bart ender & uiava" on Fri, 10 Jul 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with line-ups including bart ender, Easy Audio, espoff and Johannes Albert and 2 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -22,4 +22,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, 
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

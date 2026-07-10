@@ -1,6 +1,6 @@
 # Dylan Fogarty
 
-Dylan Fogarty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Toronto on Fri, 10 Jul 2026.
+Dylan Fogarty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Toronto on Fri, 10 Jul 2026.
 
 Dylan Fogarty is a techno and house artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Belfast and Belgrade and 29 more. Often billed alongside CULT, Antigone and Vromo. Next up: TBA, Toronto on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Dylan Fogarty is a techno and house artist tracked on soundcheck, with 121 sets 
 
 CULT, Antigone, Vromo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*

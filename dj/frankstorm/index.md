@@ -1,8 +1,8 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 10 Jul 2026.
+Frank Storm is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 10 Jul 2026.
 
-Frank Storm is a tech house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 6 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Pacha Ibiza, Ibiza on Fri 10 Jul.
+Frank Storm is a tech house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 6 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Pacha Ibiza, Ibiza on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Frank Storm is a tech house and techno artist tracked on soundcheck, with 38 set
 | Fri, 10 Jul 2026 | Pacha Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Ministry Of Sound | London |
 | Fri, 21 Aug 2026 | Pacha Ibiza | Ibiza |
+| Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Frank Storm is a tech house and techno artist tracked on soundcheck, with 38 set
 
 Marco Carola, Ale De Tuglie, Wade
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

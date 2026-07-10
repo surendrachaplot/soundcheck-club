@@ -1,6 +1,6 @@
 # Dexphase
 
-Dexphase is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Puerto de Sagunto, Valencia on Sat, 11 Jul 2026.
+Dexphase is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Puerto de Sagunto, Valencia on Sat, 11 Jul 2026.
 
 Dexphase is a techno and industrial artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Skryption, Bárbara Lago and SNTS. Next up: TBA - Puerto de Sagunto, Valencia on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Dexphase is a techno and industrial artist tracked on soundcheck, with 107 sets 
 
 Skryption, Bárbara Lago, SNTS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*

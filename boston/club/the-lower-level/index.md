@@ -1,6 +1,6 @@
 # The Lower Level
 
-The Lower Level is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Social Studies presents: Mo Yasin" on Fri, 10 Jul 2026.
+The Lower Level is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Social Studies presents: Mo Yasin" on Fri, 10 Jul 2026.
 
 The Lower Level is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Azzeddine, DJ Nobu and Mo Yasin. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
@@ -15,4 +15,4 @@ The Lower Level is a music venue in Boston listed on soundcheck. 2 upcoming nigh
 
 55 Bishop Allen Dr, Cambridge, MA 02139, USA, Boston
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*

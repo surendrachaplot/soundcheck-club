@@ -1,6 +1,6 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Metrik is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
 
 Metrik is a drum & bass and bass artist tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 18 more. Often billed alongside Degs, P Money and Whiney. Next up: Tägi, Zurich on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Metrik is a drum & bass and bass artist tracked on soundcheck, with 49 sets logg
 
 Degs, P Money, Whiney
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

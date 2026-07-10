@@ -1,6 +1,6 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Macarena Club, Barcelona on Sun, 12 Jul 2026.
+Sabrina is a Drum & Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Macarena Club, Barcelona on Sun, 12 Jul 2026.
 
 Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 30 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, Monrroe and Pola & Bryson. Next up: Macarena Club, Barcelona on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 30 s
 
 Iñigo Vontier, Monrroe, Pola & Bryson
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*

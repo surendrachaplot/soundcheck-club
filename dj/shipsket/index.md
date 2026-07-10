@@ -1,6 +1,6 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+Ship Sket is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 Ship Sket is an experimental and club artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Proc Fiskal, Blood of Aza and KAVARI. Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ship Sket is an experimental and club artist tracked on soundcheck, with 68 sets
 
 Proc Fiskal, Blood of Aza, KAVARI
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*

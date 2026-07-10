@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
+Eli & Fur is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
 
 Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Austin and Barcelona and 30 more. Often billed alongside CRi, Marsh and Jody Wisternoff. Next up: Life Park, Istanbul on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundch
 
 CRi, Marsh, Jody Wisternoff
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

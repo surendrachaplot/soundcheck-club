@@ -1,6 +1,6 @@
 # Bastard Love
 
-Bastard Love is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
+Bastard Love is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri, 10 Jul 2026.
 
 Bastard Love is a house and electro artist based in Mexico, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: TBA - SECRET LOCATION 45 min from BCN , Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Bastard Love is a house and electro artist based in Mexico, tracked on soundchec
 
 Mejia, Ossios, Oliverio Segura
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*

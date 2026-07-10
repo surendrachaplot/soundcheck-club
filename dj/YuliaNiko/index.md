@@ -1,6 +1,6 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Fri, 10 Jul 2026.
+Yulia Niko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cova Santa, Ibiza on Fri, 10 Jul 2026.
 
 Yulia Niko is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside ARODES, Damian Lazarus and Ida Engberg. Next up: Cova Santa, Ibiza on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Yulia Niko is a house and techno artist tracked on soundcheck, with 109 sets log
 
 ARODES, Damian Lazarus, Ida Engberg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*

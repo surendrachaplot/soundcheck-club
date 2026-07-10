@@ -1,6 +1,6 @@
 # Etari
 
-Etari is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 10 Jul 2026.
+Etari is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 10 Jul 2026.
 
 Etari is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside fun2bjane, OZA and Capes. Next up: Homage Brewing, Losangeles on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Etari is a techno and house artist based in United States of America, tracked on
 
 fun2bjane, OZA, Capes
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*

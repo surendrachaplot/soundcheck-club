@@ -1,6 +1,6 @@
 # Gipsy Village
 
-Gipsy Village is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Ertoba" on Sat, 25 Jul 2026.
+Gipsy Village is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ertoba" on Sat, 25 Jul 2026.
 
 Gipsy Village is a music venue in Tbilisi listed on soundcheck. 1 upcoming night, with line-ups including Bodaishin, BRUNNÄ, Kora (CA) and Nico Stojan. Browse upcoming dates, start times and who's playing. Gipsy Village Park Hotel, Asureti 2301, Kvemo Kartli, Georgia.
 
@@ -14,4 +14,4 @@ Gipsy Village is a music venue in Tbilisi listed on soundcheck. 1 upcoming night
 
 Gipsy Village Park Hotel, Asureti 2301, Kvemo Kartli, Georgia, Tbilisi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/gipsy-village/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/gipsy-village/)*

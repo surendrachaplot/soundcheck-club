@@ -1,6 +1,6 @@
 # CHUKWU
 
-CHUKWU is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tresor / Globus, Berlin on Wed, 15 Jul 2026.
+CHUKWU is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tresor / Globus, Berlin on Wed, 15 Jul 2026.
 
 CHUKWU is a house and disco artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Losangeles. Often billed alongside Jana Falcon, Ahni and Akirahawks. Next up: Tresor / Globus, Berlin on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ CHUKWU is a house and disco artist based in Germany, tracked on soundcheck, with
 
 Jana Falcon, Ahni, Akirahawks
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*

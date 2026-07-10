@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 29 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Free Rave Summer Series: ÆON:MODE + T & Sugah" on Fri, 10 Jul 2026.
+The Clock Factory is a music venue in Bristol with 29 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Free Rave Summer Series: ÆON:MODE + T & Sugah" on Fri, 10 Jul 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 29 upcoming nights, with line-ups including Aries, Bladerunner, Burt Cope and Congo Natty and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 29 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

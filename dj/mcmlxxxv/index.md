@@ -1,6 +1,6 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - OUTDOOR VENUE , Philadelphia on Sat, 11 Jul 2026.
+MCMLXXXV is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - OUTDOOR VENUE , Philadelphia on Sat, 11 Jul 2026.
 
 MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: TBA - OUTDOOR VENUE , Philadelphia on Sat 11 Jul.
 
@@ -33,4 +33,4 @@ MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, w
 
 CEM, Dj Saliva, JASSS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*

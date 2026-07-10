@@ -1,6 +1,6 @@
 # Markov
 
-Markov is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at A38, Budapest on Fri, 10 Jul 2026.
+Markov is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at A38, Budapest on Fri, 10 Jul 2026.
 
 Markov is a drum & bass and bass artist tracked on soundcheck, with 21 sets logged across Budapest and Lisbon. Often billed alongside Alix Perez, Gemcamp and Monrroe. Next up: A38, Budapest on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Markov is a drum & bass and bass artist tracked on soundcheck, with 21 sets logg
 
 Alix Perez, Gemcamp, Monrroe
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markov/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markov/)*

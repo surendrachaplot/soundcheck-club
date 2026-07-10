@@ -1,6 +1,6 @@
 # Busy P
 
-Busy P is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
+Busy P is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
 Busy P is a house and electro artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 13 more. Often billed alongside Tatyana Jane, Breakbot and Myd. Next up: Fvtvr, Paris on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Busy P is a house and electro artist tracked on soundcheck, with 49 sets logged 
 
 Tatyana Jane, Breakbot, Myd
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/busyp/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/busyp/)*

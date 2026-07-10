@@ -1,6 +1,6 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
+Mari.te is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 Mari.te is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: Pikes Ibiza, Ibiza on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ Mari.te is a house and techno artist tracked on soundcheck, with 152 sets logged
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "SIGHT pres. Patrick Topping, ACA, Luca 606, Nicholls" on Sun, 12 Jul 2026.
+Ku Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SIGHT pres. Patrick Topping, ACA, Luca 606, Nicholls" on Sun, 12 Jul 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including ACA (YU), Alex Now, BizZa and Caste and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -22,4 +22,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "CAVE - Into The Valley (Open Air)" on Fri, 10 Jul 2026.
+Lavallée is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CAVE - Into The Valley (Open Air)" on Fri, 10 Jul 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with line-ups including AliA, DTM Funk, Erykah and essi and 2 more. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -21,4 +21,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 8 upcoming nights, 
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

@@ -1,6 +1,6 @@
 # Michelle Kay
 
-Michelle Kay is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Honey's, New York City on Fri, 10 Jul 2026.
+Michelle Kay is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Honey's, New York City on Fri, 10 Jul 2026.
 
 Michelle Kay is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Boston and Chicago and 4 more. Often billed alongside Ramsey Neville, Adrian Hex and Dalton Taylor. Next up: Honey's, Newyorkcity on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Michelle Kay is a techno and minimal techno artist based in United States of Ame
 
 Ramsey Neville, Adrian Hex, Dalton Taylor
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*

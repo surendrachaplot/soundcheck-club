@@ -1,6 +1,6 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nordstern, Basel on Fri, 10 Jul 2026.
+Felix Kröcher is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nordstern, Basel on Fri, 10 Jul 2026.
 
 Felix Kröcher is a techno and electro artist tracked on soundcheck, with 43 sets logged across Bangkok, Barcelona, Basel and Berlin and 9 more. Often billed alongside LOVRA, Anna Tur and Simina Grigoriu. Next up: Nordstern, Basel on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Felix Kröcher is a techno and electro artist tracked on soundcheck, with 43 set
 
 LOVRA, Anna Tur, Simina Grigoriu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

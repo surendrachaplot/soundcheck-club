@@ -1,6 +1,6 @@
 # Chloe Battelle
 
-Chloe Battelle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Outer Heaven, New York City on Fri, 10 Jul 2026.
+Chloe Battelle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Outer Heaven, New York City on Fri, 10 Jul 2026.
 
 Chloe Battelle is a house and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Newyorkcity and Washingtondc. Often billed alongside gabby cocco, Raquel Michel and Serrian. Next up: Outer Heaven, Newyorkcity on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Chloe Battelle is a house and techno artist based in United States of America, t
 
 gabby cocco, Raquel Michel, Serrian
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*

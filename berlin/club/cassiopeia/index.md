@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Indie Club Berlin • Indie-Party auf 3 Floors • Cassiopeia Berlin" on Fri, 10 Jul 2026.
+Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Indie Club Berlin • Indie-Party auf 3 Floors • Cassiopeia Berlin" on Fri, 10 Jul 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including diladï, Emma Keks, hörmi and justUS and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

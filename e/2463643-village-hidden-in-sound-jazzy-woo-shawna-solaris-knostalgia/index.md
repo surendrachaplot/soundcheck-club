@@ -1,6 +1,6 @@
-# Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal, Rzn8tr, Kettle at Jupiter Disco
+# Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal, RZN8R, Kettle at Jupiter Disco
 
-Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal, Rzn8tr, Kettle at Jupiter Disco on Wed 15 Jul, Newyorkcity. 5 acts on the bill: Kettle, Knostalgia, MISS VEE and Petal (2) and 1 more. Preview the line-up and save it on soundcheck.
+Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal, RZN8R, Kettle at Jupiter Disco on Wed 15 Jul, Newyorkcity. 6 acts on the bill: Kettle, Knostalgia, MISS VEE and Petal (2) and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal,
 - Knostalgia
 - MISS VEE
 - Petal (2)
+- RZN8R
 - Shawna Solaris
 
 *Source: [soundcheck](https://soundcheck.club/e/2463643-village-hidden-in-sound-jazzy-woo-shawna-solaris-knostalgia/)*

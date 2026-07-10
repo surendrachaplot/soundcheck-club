@@ -1,6 +1,6 @@
 # Brasi
 
-Brasi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri, 10 Jul 2026.
+Brasi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri, 10 Jul 2026.
 
 Brasi is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Niff, Jane Fitz and sohrab.. Next up: TBA - Agriturismo Il Paliarete, Orvieto , Rome on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Brasi is a techno and house artist tracked on soundcheck, with 125 sets logged a
 
 Niff, Jane Fitz, sohrab.
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

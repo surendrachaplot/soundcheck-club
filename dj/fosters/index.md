@@ -1,6 +1,6 @@
 # Fosters
 
-Fosters is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Il Mercato Centrale, Melbourne on Sat, 11 Jul 2026.
+Fosters is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Il Mercato Centrale, Melbourne on Sat, 11 Jul 2026.
 
 Fosters is a techno and house artist tracked on soundcheck, with 52 sets logged across Hobart and Melbourne. Often billed alongside HYBE, Mount Mike and TEMPER TANTRA. Next up: Il Mercato Centrale, Melbourne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Fosters is a techno and house artist tracked on soundcheck, with 52 sets logged 
 
 HYBE, Mount Mike, TEMPER TANTRA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosters/)*

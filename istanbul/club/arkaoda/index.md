@@ -1,6 +1,6 @@
 # Arkaoda
 
-Arkaoda is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Test Point #2" on Sat, 11 Jul 2026.
+Arkaoda is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Test Point #2" on Sat, 11 Jul 2026.
 
 Arkaoda is a music venue in Istanbul listed on soundcheck. 2 upcoming nights, with line-ups including DJ Strawberry, Fosil and morrolander. Browse upcoming dates, start times and who's playing. Kadife Sokak No:18/A Kadıköy/İstanbul.
 
@@ -15,4 +15,4 @@ Arkaoda is a music venue in Istanbul listed on soundcheck. 2 upcoming nights, wi
 
 Kadife Sokak No:18/A Kadıköy/İstanbul, Istanbul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*

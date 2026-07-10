@@ -1,6 +1,6 @@
 # TWO EX
 
-TWO EX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lioncity, Brussels on Sat, 11 Jul 2026.
+TWO EX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lioncity, Brussels on Sat, 11 Jul 2026.
 
 TWO EX is a techno and house artist tracked on soundcheck, with 62 sets logged across Berlin, Brussels, Madrid and Tokyo. Often billed alongside frankydrama, Eder Croket and Yahaira. Next up: Lioncity, Brussels on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ TWO EX is a techno and house artist tracked on soundcheck, with 62 sets logged a
 
 frankydrama, Eder Croket, Yahaira
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twoex/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twoex/)*

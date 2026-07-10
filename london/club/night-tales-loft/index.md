@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 21 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "NT's Loft: COEO (All Night Long)" on Fri, 10 Jul 2026.
+Night Tales Loft is a music venue in London with 21 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "NT's Loft: COEO (All Night Long)" on Fri, 10 Jul 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Ash Lauryn, Ayanna Heaven, COEO and Dean Bryce and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ Night Tales Loft is a music venue in London listed on soundcheck. 21 upcoming ni
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

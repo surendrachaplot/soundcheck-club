@@ -1,6 +1,6 @@
 # Bruce Bailey
 
-Bruce Bailey is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Le Nocturne, Chicago on Fri, 10 Jul 2026.
+Bruce Bailey is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Le Nocturne, Chicago on Fri, 10 Jul 2026.
 
 Bruce Bailey is a house and deep house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Chicago, Detroit, Houston and Miami. Often billed alongside sillygirlcarmen, Rick Wilhite and Delano Smith. Next up: Le Nocturne, Chicago on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Bruce Bailey is a house and deep house artist based in United States of America,
 
 sillygirlcarmen, Rick Wilhite, Delano Smith
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucebailey/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucebailey/)*

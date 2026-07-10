@@ -1,6 +1,6 @@
 # Elwei
 
-Elwei is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 23 Jul 2026.
+Elwei is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 23 Jul 2026.
 
 Elwei is a house and techno artist based in Spain, tracked on soundcheck, with 91 sets logged across Barcelona, Berlin, Madrid and Mexicocity and 1 more. Often billed alongside Miguel Silva, Popsky and Djoan. Next up: Sunseabar Beach Club, Barcelona on Thu 23 Jul.
 
@@ -9,7 +9,7 @@ Elwei is a house and techno artist based in Spain, tracked on soundcheck, with 9
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Sunseabar Beach Club | Barcelona |
-| Fri, 24 Jul 2026 | 7833 Soundlab | Barcelona |
+| Sat, 25 Jul 2026 | 7833 Soundlab | Barcelona |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Elwei is a house and techno artist based in Spain, tracked on soundcheck, with 9
 
 Miguel Silva, Popsky, Djoan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*

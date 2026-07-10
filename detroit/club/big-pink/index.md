@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bambii + PROBLEMATICBLACKHOTTIE & Stardust (HIGH ENERGY BOOTY MUSIC)" on Fri, 10 Jul 2026.
+Big Pink is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bambii + PROBLEMATICBLACKHOTTIE & Stardust (HIGH ENERGY BOOTY MUSIC)" on Fri, 10 Jul 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including Bambii. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -20,4 +20,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights, wi
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

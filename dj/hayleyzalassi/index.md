@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hidden, Manchester on Fri, 17 Jul 2026.
+Hayley Zalassi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hidden, Manchester on Fri, 17 Jul 2026.
 
 Hayley Zalassi is a house and techno artist tracked on soundcheck, with 85 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Hidden, Manchester on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 85 sets 
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

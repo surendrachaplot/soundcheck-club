@@ -1,6 +1,6 @@
 # Valerie Toronto
 
-Valerie Toronto is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Narratives & Sofrinas presents: Riviera Sunset Social" on Sat, 11 Jul 2026.
+Valerie Toronto is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Narratives & Sofrinas presents: Riviera Sunset Social" on Sat, 11 Jul 2026.
 
 Valerie Toronto is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Gorje Hewek, Jonathan Rosa and Mustafa Ismaeel. Browse upcoming dates, start times and who's playing. 111 Princes' Blvd 28th floor, Toronto, ON M6K 3C3 , Canada.
 
@@ -15,4 +15,4 @@ Valerie Toronto is a music venue in Toronto listed on soundcheck. 2 upcoming nig
 
 111 Princes' Blvd 28th floor, Toronto, ON M6K 3C3 , Canada, Toronto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/valerie-toronto/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/valerie-toronto/)*

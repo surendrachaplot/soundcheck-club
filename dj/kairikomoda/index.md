@@ -1,6 +1,6 @@
 # Kairi Komoda
 
-Kairi Komoda is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Oath, Tokyo on Fri, 10 Jul 2026.
+Kairi Komoda is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Oath, Tokyo on Fri, 10 Jul 2026.
 
 Kairi Komoda is a house and techno artist based in Japan, tracked on soundcheck, with 62 sets logged across Seoul and Tokyo. Often billed alongside ueue (2), MINAMI and The Library. Next up: Oath, Tokyo on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Kairi Komoda is a house and techno artist based in Japan, tracked on soundcheck,
 
 ueue (2), MINAMI, The Library
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kairikomoda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kairikomoda/)*

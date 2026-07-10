@@ -1,6 +1,6 @@
 # Kazimier Stockroom
 
-Kazimier Stockroom is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Junk UK Tour" on Tue, 14 Jul 2026.
+Kazimier Stockroom is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Junk UK Tour" on Tue, 14 Jul 2026.
 
 Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 32 Seel Street, Liverpool, L1 4JJ, United Kingdom.
 
@@ -14,4 +14,4 @@ Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 1 upcomin
 
 32 Seel Street, Liverpool, L1 4JJ, United Kingdom, Liverpool
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*

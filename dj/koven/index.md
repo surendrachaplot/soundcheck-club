@@ -1,6 +1,6 @@
 # Koven
 
-Koven is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Koven is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
 
 Koven is a drum & bass and bass artist tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Brisbane and Bristol and 20 more. Often billed alongside Hybrid Minds, Camo & Krooked and Sub Focus. Next up: Tägi, Zurich on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Koven is a drum & bass and bass artist tracked on soundcheck, with 48 sets logge
 
 Hybrid Minds, Camo & Krooked, Sub Focus
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/koven/)*

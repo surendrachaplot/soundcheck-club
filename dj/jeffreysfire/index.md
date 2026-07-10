@@ -1,6 +1,6 @@
 # Jeffrey Sfire
 
-Jeffrey Sfire is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Green Room NYC, New York City on Fri, 10 Jul 2026.
+Jeffrey Sfire is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Green Room NYC, New York City on Fri, 10 Jul 2026.
 
 Jeffrey Sfire is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Chicago, Detroit and Hongkong and 6 more. Often billed alongside Mike Servito, Justin Cudmore and Carlos Souffront. Next up: Green Room NYC, Newyorkcity on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Jeffrey Sfire is a house and techno artist based in United States of America, tr
 
 Mike Servito, Justin Cudmore, Carlos Souffront
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffreysfire/)*

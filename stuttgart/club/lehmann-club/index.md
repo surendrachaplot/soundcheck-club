@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "TOYBOIS (ALL NIGHT LONG)" on Fri, 10 Jul 2026.
+Lehmann Club is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "TOYBOIS (ALL NIGHT LONG)" on Fri, 10 Jul 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including 2HOT2PLAY, AHURA, Bastian Hill and Ben Hille and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -19,4 +19,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

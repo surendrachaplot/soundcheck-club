@@ -1,6 +1,6 @@
 # BL3SS
 
-BL3SS is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Vinyl, Denver on Fri, 24 Jul 2026.
+BL3SS is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Vinyl, Denver on Fri, 24 Jul 2026.
 
 BL3SS is a house and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 20 more. Often billed alongside LAMMER, ANDG LUNA and Alycia Bezgo. Next up: Club Vinyl, Denver on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ BL3SS is a house and garage artist based in United Kingdom, tracked on soundchec
 
 LAMMER, ANDG LUNA, Alycia Bezgo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3ss/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3ss/)*

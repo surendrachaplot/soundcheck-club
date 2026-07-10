@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Ascension with DJ Sonnenbrand, DJ Sodbrennen, ADEMES at Helios" on Fri, 10 Jul 2026.
+Helios37 is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ascension with DJ Sonnenbrand, DJ Sodbrennen, ADEMES at Helios" on Fri, 10 Jul 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 4 upcoming nights, with line-ups including ADEMES, Bensonius, C H A Y A and DJ SODBRENNEN and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -17,4 +17,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 4 upcoming nights, wi
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

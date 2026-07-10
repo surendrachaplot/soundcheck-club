@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Burgtheater, Vienna on Sat, 11 Jul 2026.
+Anna Ullrich is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Burgtheater, Vienna on Sat, 11 Jul 2026.
 
 Anna Ullrich is a trance and techno artist tracked on soundcheck, with 40 sets logged across Milan, Stuttgart and Vienna. Often billed alongside Who is ela¿, Dimitrios (2) and KAROLINA. Next up: Burgtheater, Vienna on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Anna Ullrich is a trance and techno artist tracked on soundcheck, with 40 sets l
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

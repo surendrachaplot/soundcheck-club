@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "CROW with Kwartz + Beste Hira + Joton + SAINT SINNER" on Fri, 10 Jul 2026.
+LAB theCLUB is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CROW with Kwartz + Beste Hira + Joton + SAINT SINNER" on Fri, 10 Jul 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Abdon, Beste Hira, De La Swing and Joton and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -17,4 +17,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 4 upcoming nights, 
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

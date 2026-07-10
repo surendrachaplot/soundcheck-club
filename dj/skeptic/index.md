@@ -1,6 +1,6 @@
 # Skeptic
 
-Skeptic is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Baggen, Copenhagen on Sat, 11 Jul 2026.
+Skeptic is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Baggen, Copenhagen on Sat, 11 Jul 2026.
 
 Skeptic is a garage and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Aberdeen, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside Silva Bumpa, Dr Dubplate and Soul Mass Transit System. Next up: Baggen, Copenhagen on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Skeptic is a garage and house artist based in United Kingdom, tracked on soundch
 
 Silva Bumpa, Dr Dubplate, Soul Mass Transit System
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptic/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptic/)*

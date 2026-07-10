@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Petit Comité Barcelona with Bastian Bux (All night long)" on Fri, 10 Jul 2026.
+Luz De Gas is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Petit Comité Barcelona with Bastian Bux (All night long)" on Fri, 10 Jul 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Ale Hope, ALOT, Arpy Brown and Bastian Bux and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -20,4 +20,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

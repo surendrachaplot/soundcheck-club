@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "帝 / MiKADO" on Fri, 10 Jul 2026.
+Circus Tokyo is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "帝 / MiKADO" on Fri, 10 Jul 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AI (10) and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 13 upcoming nights,
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

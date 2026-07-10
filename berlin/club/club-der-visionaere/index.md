@@ -1,14 +1,13 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Phonik" on Thu, 9 Jul 2026.
+Club der Visionaere is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Understory x Misbits" on Fri, 10 Jul 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Akaj, Alessia Ceruti, Alex Kraemer and Alex Neivel and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Akaj, Alessia Ceruti, Alex Kraemer and Alex Neivel and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Phonik | Franziska Berns, Soju Gang, Yoshitaca |
 | Fri, 10 Jul 2026 | Understory x Misbits | Clovis, Elli.on, Inner, Junki Inoue, Miss I, Sammy Dee, Yone-Ko, oddist |
 | Sat, 11 Jul 2026 | CDV Summer Weekender Part 1 | Alex Kraemer, Andrea Ferlin, Cabanne, Cez (1), JA JA, Katsuya Sano, Michel7000, RAHA, Suburbial |
 | Sun, 12 Jul 2026 | CDV Summer Weekender Part 2 | Arno aka Einzelkind, Hugo, Janina, Katsuya Sano, Lenny Mailleau, Lorenzo Chiabotti, Maki Polne, Ohm Hourani |
@@ -16,6 +15,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 | Tue, 14 Jul 2026 | Wildt Anniversary | Alex Neivel, Nastik (UA), Tau Car, Tiago Walter |
 | Wed, 15 Jul 2026 | Domesticated presents: STAY HUMBLE | Bruno Schmidt, DMC., Garo, Konrad Black |
 | Thu, 16 Jul 2026 | 60waves | Alessia Ceruti, Dana Ruh, Elia Nafzger, Leolo, Rick Baguette |
+| Sat, 18 Jul 2026 | Easymix | Buzé, Gathaspar, Stefanos Skifos, Tobi Neumann |
 | Sun, 19 Jul 2026 | Noisy Glance Sunday | Aline Umber, Daniele Papini, Topper, Triptease |
 | Tue, 21 Jul 2026 | Axis of People | Andy Hart, Courtney Bailey, Fantastic Man, Huerta |
 
@@ -23,4 +23,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

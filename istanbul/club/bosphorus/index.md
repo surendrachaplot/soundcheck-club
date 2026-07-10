@@ -1,6 +1,6 @@
 # Bosphorus
 
-Bosphorus is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Ghost in Town Boat Party Bosphorus" on Sat, 11 Jul 2026.
+Bosphorus is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ghost in Town Boat Party Bosphorus" on Sat, 11 Jul 2026.
 
 Bosphorus is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Ceren Patron. Browse upcoming dates, start times and who's playing. Istanbul Bosphorus.
 
@@ -14,4 +14,4 @@ Bosphorus is a music venue in Istanbul listed on soundcheck. 1 upcoming night, w
 
 Istanbul Bosphorus, Istanbul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/bosphorus/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/bosphorus/)*

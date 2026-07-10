@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kater, Berlin on Sat, 11 Jul 2026.
+Nizar Sarakbi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kater, Berlin on Sat, 11 Jul 2026.
 
 Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: Kater, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 70 sets l
 
 Katia Curie, KATIA, vince
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

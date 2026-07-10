@@ -1,6 +1,6 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
 
 JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 21 sets logged across Brighton, Bristol, London and Malta. Often billed alongside SKALAH (UK), Akira (Buntai) and ESC (5). Next up: Document, Bristol on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 21 sets logge
 
 SKALAH (UK), Akira (Buntai), ESC (5)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*

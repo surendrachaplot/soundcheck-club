@@ -1,8 +1,8 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tuff Club, Singapore on Fri, 10 Jul 2026.
+MRD (NO) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tuff Club, Singapore on Fri, 10 Jul 2026.
 
-MRD (NO) is a techno and trance artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Tuff Club, Singapore on Fri 10 Jul.
+MRD (NO) is a techno and trance artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Tuff Club, Singapore on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MRD (NO) is a techno and trance artist tracked on soundcheck, with 117 sets logg
 | Fri, 10 Jul 2026 | Tuff Club | Singapore |
 | Sat, 11 Jul 2026 | OIL Club | Shenzhen |
 | Sat, 18 Jul 2026 | Hangaren | Copenhagen |
+| Fri, 31 Jul 2026 | Smoke & Mirrors | Chicago |
 | Sat, 12 Sept 2026 | Phonox | London |
 
 ## Recently played
@@ -28,4 +29,4 @@ MRD (NO) is a techno and trance artist tracked on soundcheck, with 117 sets logg
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

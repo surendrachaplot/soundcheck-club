@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Underground 01" on Thu, 9 Jul 2026.
+Le Red Room is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Confessional of the Doomed" on Sat, 11 Jul 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including ADB (FR), Airon, ALY and AYMÉ and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including ADB (FR), Airon, ALY and AYMÉ and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Underground 01 | Outback |
 | Sat, 11 Jul 2026 | Confessional of the Doomed |  |
 | Sat, 11 Jul 2026 | RELOAD - 10e Anniversaire |  |
 | Sun, 12 Jul 2026 | Electro Oasis (every Sunday) ***Free with RSVP ticket*** | AYMÉ, Harry Trancer, Walji |
@@ -18,9 +17,10 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming night
 | Sun, 19 Jul 2026 | Electro Oasis (every Sunday) ***Free with RSVP ticket*** | Marciana, namanariii |
 | Tue, 21 Jul 2026 | 5:14 Sessions: Nasty Gloss |  |
 | Wed, 22 Jul 2026 | DOWN2TECHNO: Every Wednesday | Char.l.n, Thompson |
+| Thu, 23 Jul 2026 | Freeform 4 |  |
 
 ## Address
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

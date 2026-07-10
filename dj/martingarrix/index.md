@@ -1,14 +1,13 @@
 # Martin Garrix
 
-Martin Garrix is a House and Progressive House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 9 Jul 2026.
+Martin Garrix is a House and Progressive House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 16 Jul 2026.
 
-Martin Garrix is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Boston and Budapest and 14 more. Often billed alongside Miss Monique, Afrojack and Artbat. Next up: Ushuaïa Ibiza, Ibiza on Thu 9 Jul.
+Martin Garrix is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Boston and Budapest and 14 more. Often billed alongside Miss Monique, Afrojack and Artbat. Next up: Ushuaïa Ibiza, Ibiza on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 16 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 23 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 30 Jul 2026 | Ushuaïa Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Martin Garrix is a house and progressive house artist based in Netherlands, trac
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Thu, 9 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Thu, 2 Jul 2026
 - The Huntington Bank Pavilion at Northerly Island, Chicago — Thu, 25 Jun 2026
 - Agganis Arena, Boston — Fri, 19 Jun 2026
@@ -30,10 +30,9 @@ Martin Garrix is a house and progressive house artist based in Netherlands, trac
 - Agganis Arena, Boston — Thu, 18 Jun 2026
 - Echostage, Washington DC — Sat, 6 Jun 2026
 - Factory Town, Miami — Sun, 3 May 2026
-- Wonder Ballroom, Portland — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Miss Monique, Afrojack, Artbat
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*

@@ -1,6 +1,6 @@
 # Maksim
 
-Maksim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Maksim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Maksim is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Berlin, Boston, Brighton and Bristol and 12 more. Often billed alongside Shvili, O.BEE and Gian-Paul. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Maksim is a house and techno artist based in United States of America, tracked o
 
 Shvili, O.BEE, Gian-Paul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maksim/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maksim/)*

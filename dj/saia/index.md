@@ -1,6 +1,6 @@
 # Saia
 
-Saia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 9 Bob Note, New York City on Fri, 10 Jul 2026.
+Saia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 9 Bob Note, New York City on Fri, 10 Jul 2026.
 
 Saia is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Mexicocity and Newyorkcity. Often billed alongside Markus (US), Sharlese and Arvin T. Next up: 9 Bob Note, Newyorkcity on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Saia is a house and techno artist based in United States of America, tracked on 
 
 Markus (US), Sharlese, Arvin T
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saia/)*

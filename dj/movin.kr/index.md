@@ -1,6 +1,6 @@
 # MOVIN.KR
 
-MOVIN.KR is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Paper, Seoul on Fri, 10 Jul 2026.
+MOVIN.KR is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Paper, Seoul on Fri, 10 Jul 2026.
 
 MOVIN.KR is a techno and electro artist based in South Korea, tracked on soundcheck, with 143 sets logged across Seoul. Often billed alongside Honn, X2C (1) and bumv. Next up: Paper, Seoul on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ MOVIN.KR is a techno and electro artist based in South Korea, tracked on soundch
 
 Honn, X2C (1), bumv
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/movin.kr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/movin.kr/)*

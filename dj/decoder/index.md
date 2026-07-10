@@ -1,6 +1,6 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BLITZ, Munich on Fri, 10 Jul 2026.
+Decoder is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BLITZ, Munich on Fri, 10 Jul 2026.
 
 Decoder is a techno and minimal techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: BLITZ, Munich on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 79 set
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

@@ -1,6 +1,6 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at DV8 Bar & Venue, Dublin on Fri, 10 Jul 2026.
+AnD is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at DV8 Bar & Venue, Dublin on Fri, 10 Jul 2026.
 
 AnD is a techno and industrial artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 43 more. Often billed alongside CLTX, LESSSS and Cynthia Spiering. Next up: DV8 Bar & Venue, Dublin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ AnD is a techno and industrial artist tracked on soundcheck, with 138 sets logge
 
 CLTX, LESSSS, Cynthia Spiering
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*

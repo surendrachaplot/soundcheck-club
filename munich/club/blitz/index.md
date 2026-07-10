@@ -1,6 +1,6 @@
 # BLITZ
 
-BLITZ is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BLITZ with Decoder, Reduks, The Lady Machine, VSSL" on Fri, 10 Jul 2026.
+BLITZ is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BLITZ with Decoder, Reduks, The Lady Machine, VSSL" on Fri, 10 Jul 2026.
 
 BLITZ is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including CJ Bolland, Daphni, Decoder and Lyder and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
 
@@ -23,4 +23,4 @@ BLITZ is a music venue in Munich listed on soundcheck. 10 upcoming nights, with 
 
 Museumsinsel 1, 80538 München, Germany, Munich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*

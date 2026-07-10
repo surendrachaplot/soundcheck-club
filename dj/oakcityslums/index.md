@@ -1,6 +1,6 @@
 # Oak City Slums
 
-Oak City Slums is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at El Secreto De Rosita, Washington DC on Fri, 10 Jul 2026.
+Oak City Slums is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at El Secreto De Rosita, Washington DC on Fri, 10 Jul 2026.
 
 Oak City Slums is a club and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 2 more. Often billed alongside Daddy Kev, Avi Loud and Liano. Next up: El Secreto De Rosita, Washingtondc on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Oak City Slums is a club and techno artist based in United States of America, tr
 
 Daddy Kev, Avi Loud, Liano
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*

@@ -1,6 +1,6 @@
 # CARAVEL
 
-CARAVEL is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Grelle Forelle, Vienna on Sat, 25 Jul 2026.
+CARAVEL is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Grelle Forelle, Vienna on Sat, 25 Jul 2026.
 
 CARAVEL is a techno and industrial artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: Grelle Forelle, Vienna on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ CARAVEL is a techno and industrial artist tracked on soundcheck, with 118 sets l
 
 Tham, Cassie Raptor, KØZLØV
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*

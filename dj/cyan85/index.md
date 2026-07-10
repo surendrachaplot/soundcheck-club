@@ -1,6 +1,6 @@
 # Cyan85
 
-Cyan85 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
+Cyan85 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
 
 Cyan85 is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside DJ MELL G, P.Vanillaboy and DJ SOURCE. Next up: Westhafen, Leipzig on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Cyan85 is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 DJ MELL G, P.Vanillaboy, DJ SOURCE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyan85/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cyan85/)*

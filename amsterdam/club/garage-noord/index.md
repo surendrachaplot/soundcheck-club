@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "co-curation by Oceanic: Kiernan Laveaux, Oceanic, LazerGazer" on Fri, 10 Jul 2026.
+Garage Noord is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "co-curation by Oceanic: Kiernan Laveaux, Oceanic, LazerGazer" on Fri, 10 Jul 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Amz, Candy Coup, CCL and Chucho and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming nig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

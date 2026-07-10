@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lux Fragil, Lisbon on Fri, 10 Jul 2026.
+Ani Phoebe is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lux Fragil, Lisbon on Fri, 10 Jul 2026.
 
 Ani Phoebe is a house and balearic artist tracked on soundcheck, with 65 sets logged across Bangkok, Berlin, Hongkong and Lisbon and 14 more. Often billed alongside Seelie, Heels & Souls and Issasha. Next up: Lux Fragil, Lisbon on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Ani Phoebe is a house and balearic artist tracked on soundcheck, with 65 sets lo
 
 Seelie, Heels & Souls, Issasha
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

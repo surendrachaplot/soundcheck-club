@@ -1,6 +1,6 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Nicole Moudaber is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Nicole Moudaber is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -33,4 +33,4 @@ Nicole Moudaber is a techno and house artist tracked on soundcheck, with 128 set
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

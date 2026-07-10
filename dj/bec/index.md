@@ -1,6 +1,6 @@
 # BEC
 
-BEC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+BEC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 BEC is a techno and house artist tracked on soundcheck, with 38 sets logged across Athens, Berlin, Boston and Chicago and 13 more. Often billed alongside Indira Paganotto, LOVRA and Prismode. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ BEC is a techno and house artist tracked on soundcheck, with 38 sets logged acro
 
 Indira Paganotto, LOVRA, Prismode
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bec/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bec/)*

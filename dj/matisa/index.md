@@ -1,6 +1,6 @@
 # Matisa
 
-Matisa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
+Matisa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KREUZWERK, Berlin on Sat, 8 Aug 2026.
 
 Matisa is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside Chris Stussy, DJ Tennis and Josh Baker. Next up: KREUZWERK, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Matisa is a house and techno artist tracked on soundcheck, with 115 sets logged 
 
 Chris Stussy, DJ Tennis, Josh Baker
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

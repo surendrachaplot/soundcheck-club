@@ -1,6 +1,6 @@
 # Encode Hub
 
-Encode Hub is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "house blend after hours" on Sat, 18 Jul 2026.
+Encode Hub is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "house blend after hours" on Sat, 18 Jul 2026.
 
 Encode Hub is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including chrs apula, Deep Fiktion, LINOR and NORIK LALA. Browse upcoming dates, start times and who's playing. 41 Pitfield St, London N1 6DA.
 
@@ -14,4 +14,4 @@ Encode Hub is a music venue in London listed on soundcheck. 1 upcoming night, wi
 
 41 Pitfield St, London N1 6DA, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/encode-hub/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/encode-hub/)*

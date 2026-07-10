@@ -1,6 +1,6 @@
 # Bonnefooi
 
-Bonnefooi is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "HUSSLE X SOUND.it - FREE ENTRANCE" on Fri, 17 Jul 2026.
+Bonnefooi is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "HUSSLE X SOUND.it - FREE ENTRANCE" on Fri, 17 Jul 2026.
 
 Bonnefooi is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Poppy (BE) and STITCH. Browse upcoming dates, start times and who's playing. Steenstraat 8, 1000 Brussels, Belgium.
 
@@ -14,4 +14,4 @@ Bonnefooi is a music venue in Brussels listed on soundcheck. 1 upcoming night, w
 
 Steenstraat 8, 1000 Brussels, Belgium, Brussels
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bonnefooi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bonnefooi/)*

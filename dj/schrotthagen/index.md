@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Schrotthagen is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Schrotthagen is a techno and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Basel, Berlin and Cologne and 13 more. Often billed alongside A.N.I., Somewhen and Cleopard2000. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Schrotthagen is a techno and trance artist tracked on soundcheck, with 37 sets l
 
 A.N.I., Somewhen, Cleopard2000
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

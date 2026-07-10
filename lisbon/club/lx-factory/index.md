@@ -1,6 +1,6 @@
 # Lx Factory
 
-Lx Factory is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "ASSEMBLING Lx Factory LISBOA W/ XDB, Acid Cell, Mary B, Solid Funk" on Thu, 16 Jul 2026.
+Lx Factory is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ASSEMBLING Lx Factory LISBOA W/ XDB, Acid Cell, Mary B, Solid Funk" on Thu, 16 Jul 2026.
 
 Lx Factory is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Andre Cascais, Eduardo de la Calle, Foster The People and Lerosa and 2 more. Browse upcoming dates, start times and who's playing. RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON.
 
@@ -17,4 +17,4 @@ Lx Factory is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, w
 
 RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON, Lisbon
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*

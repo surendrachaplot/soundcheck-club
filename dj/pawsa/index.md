@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Marina Sur, Valencia on Sat, 11 Jul 2026.
+PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Marina Sur, Valencia on Sat, 11 Jul 2026.
 
 PAWSA is a house and tech house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Dennis Cruz, ANOTR and Chris Stussy. Next up: Marina Sur, Valencia on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 136 sets logg
 
 Dennis Cruz, ANOTR, Chris Stussy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

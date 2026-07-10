@@ -1,6 +1,6 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Viper Patrol & Pat Hyland" on Fri, 10 Jul 2026.
+Hang Dai Chinese is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Viper Patrol & Pat Hyland" on Fri, 10 Jul 2026.
 
 Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Arveene, Eclair Fifi, Jono Xidias and Justin Strauss and 2 more. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
@@ -19,4 +19,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 6 upcoming nig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

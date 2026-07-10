@@ -1,6 +1,6 @@
 # DART
 
-DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
+DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
 
 DART is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and Kara Okay. Next up: Colorado Charlie, Thehague on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ DART is a techno and house artist tracked on soundcheck, with 105 sets logged ac
 
 Kyle Starkey, Ben Hemsley, Kara Okay
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

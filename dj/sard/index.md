@@ -1,6 +1,6 @@
 # Sard
 
-Sard is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
+Sard is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
 
 Sard is a techno and acid artist tracked on soundcheck, with 41 sets logged across Chicago, Denver, Detroit and Montreal and 5 more. Often billed alongside Amino, Dretraxx and Miguel Cisne. Next up: Lincoln Factory, Detroit on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Sard is a techno and acid artist tracked on soundcheck, with 41 sets logged acro
 
 Amino, Dretraxx, Miguel Cisne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*

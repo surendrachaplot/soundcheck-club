@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 29 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Rhadoo {From beginning till end}" on Fri, 10 Jul 2026.
+The White Hotel is a music venue in Manchester with 29 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Rhadoo {From beginning till end}" on Fri, 10 Jul 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 29 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Angel D'lite and Annabel Fraser and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 29 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

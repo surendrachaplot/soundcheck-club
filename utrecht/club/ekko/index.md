@@ -1,6 +1,6 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Diep In De Groef" on Fri, 10 Jul 2026.
+EKKO is a music venue in Utrecht with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Diep In De Groef" on Fri, 10 Jul 2026.
 
 EKKO is a music venue in Utrecht listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
@@ -16,4 +16,4 @@ EKKO is a music venue in Utrecht listed on soundcheck. 3 upcoming nights. Browse
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "FILTER W TUMOSA" on Fri, 10 Jul 2026.
+B2 Rīga is a music venue in Riga with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FILTER W TUMOSA" on Fri, 10 Jul 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 4 upcoming nights, with line-ups including A.Certo, Elvi Soulsystems, HENRI LAKIS and Johnny Depo and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -17,4 +17,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 4 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

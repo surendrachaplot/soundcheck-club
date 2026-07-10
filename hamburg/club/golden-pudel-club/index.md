@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "rrauswurf with Penglord" on Thu, 9 Jul 2026.
+Golden Pudel Club is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "STAMMTISCH" on Fri, 10 Jul 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including AGILY, cmp (1), DJ Babyblade and DJ Hochzeit and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including AGILY, cmp (1), DJ Babyblade and DJ MELL G and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | rrauswurf with Penglord | DJ Hochzeit, MLE (2), Penglord |
 | Fri, 10 Jul 2026 | STAMMTISCH | DJ MELL G, Festnacht, UNZHA, cmp (1) |
 | Wed, 15 Jul 2026 | Afrotonic |  |
 | Thu, 16 Jul 2026 | VERTIGO | DJ SOURCE, Newinfluenzer, PSL, Roof (2), TTX (GER) |
@@ -22,4 +21,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

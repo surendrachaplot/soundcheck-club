@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Binh is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
 Binh is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Bali and Bangkok and 40 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ Binh is a techno and house artist tracked on soundcheck, with 186 sets logged ac
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

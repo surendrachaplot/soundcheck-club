@@ -1,6 +1,6 @@
 # Club AMT
 
-Club AMT is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Kitchenrave by CiaoCiao" on Fri, 7 Aug 2026.
+Club AMT is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kitchenrave by CiaoCiao" on Fri, 7 Aug 2026.
 
 Club AMT is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Lobby (FR), Annina, BAHAA AL DEEN and Blosvenn and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstraße 114, 10178 Berlin.
 
@@ -14,4 +14,4 @@ Club AMT is a music venue in Berlin listed on soundcheck. 1 upcoming night, with
 
 Dircksenstraße 114, 10178 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-amt/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-amt/)*

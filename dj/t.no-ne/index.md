@@ -1,6 +1,6 @@
 # T.NO
 
-T.NO is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tresor / Globus, Berlin on Fri, 10 Jul 2026.
+T.NO is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tresor / Globus, Berlin on Fri, 10 Jul 2026.
 
 T.NO is a techno and electronica artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Rozaly, Styn and Cheyanne Hudson. Next up: Tresor / Globus, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ T.NO is a techno and electronica artist based in Netherlands, tracked on soundch
 
 Rozaly, Styn, Cheyanne Hudson
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

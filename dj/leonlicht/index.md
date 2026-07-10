@@ -1,6 +1,6 @@
 # Leon Licht
 
-Leon Licht is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ritter Butzke, Berlin on Fri, 10 Jul 2026.
+Leon Licht is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ritter Butzke, Berlin on Fri, 10 Jul 2026.
 
 Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Kaufmann, ADAMN and Memo.. Next up: Ritter Butzke, Berlin on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets log
 
 Kaufmann, ADAMN, Memo.
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*

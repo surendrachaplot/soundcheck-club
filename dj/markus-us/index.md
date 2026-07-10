@@ -1,6 +1,6 @@
 # Markus (US)
 
-Markus (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Razzmatazz, Barcelona on Fri, 10 Jul 2026.
+Markus (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Razzmatazz, Barcelona on Fri, 10 Jul 2026.
 
 Markus (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Frankfurt and Naples and 4 more. Often billed alongside Makadsi, FASHION (US) and Kilopatrah Jones. Next up: Razzmatazz, Barcelona on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Markus (US) is a techno and house artist based in United States of America, trac
 
 Makadsi, FASHION (US), Kilopatrah Jones
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markus-us/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markus-us/)*

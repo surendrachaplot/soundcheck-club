@@ -1,6 +1,6 @@
 # Santanna Mykonos
 
-Santanna Mykonos is a music venue in Mykonos with 25 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Mestiza at SantAnna Mykonos" on Sat, 11 Jul 2026.
+Santanna Mykonos is a music venue in Mykonos with 25 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Mestiza at SantAnna Mykonos" on Sat, 11 Jul 2026.
 
 Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 25 upcoming nights, with line-ups including ARYMÉ, AVÖ (PT), Ben Sterling and Black Coffee and 2 more. Browse upcoming dates, start times and who's playing. Paraga Beach, Mykonos, Greece 84600.
 
@@ -23,4 +23,4 @@ Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 25 upcoming n
 
 Paraga Beach, Mykonos, Greece 84600, Mykonos
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*

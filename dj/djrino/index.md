@@ -1,6 +1,6 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Secret London Location TBA, London on Fri, 10 Jul 2026.
+DJ Rino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Secret London Location TBA, London on Fri, 10 Jul 2026.
 
 DJ Rino is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Penelope (2). Next up: Secret London Location TBA, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ DJ Rino is a techno and house artist tracked on soundcheck, with 93 sets logged 
 
 Walrus, Dana Kuehr, Penelope (2)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*

@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
+Palms Trax is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 10 Jul 2026.
 
 Palms Trax is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Francesco Del Garda and Peach. Next up: Fvtvr, Paris on Fri 10 Jul.
 
@@ -34,4 +34,4 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 192 sets log
 
 Job Jobse, Francesco Del Garda, Peach
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

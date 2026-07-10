@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Willkommen zu Hause - Open Air" on Fri, 10 Jul 2026.
+Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Willkommen zu Hause - Open Air" on Fri, 10 Jul 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including 0-Dimensional, Adrija, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights,
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

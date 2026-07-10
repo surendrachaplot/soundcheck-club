@@ -1,6 +1,6 @@
 # Evergreen Brick Works
 
-Evergreen Brick Works is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Ozmozis presents The Soundgarden" on Sun, 27 Sept 2026.
+Evergreen Brick Works is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ozmozis presents The Soundgarden" on Sun, 27 Sept 2026.
 
 Evergreen Brick Works is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Armen Miran, Dubfire, Mystic Mind and Nick Warren. Browse upcoming dates, start times and who's playing. 550 Bayview Avenue, Toronto, Ontario M4W 3X8.
 
@@ -14,4 +14,4 @@ Evergreen Brick Works is a music venue in Toronto listed on soundcheck. 1 upcomi
 
 550 Bayview Avenue, Toronto, Ontario M4W 3X8, Toronto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evergreen-brick-works/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evergreen-brick-works/)*

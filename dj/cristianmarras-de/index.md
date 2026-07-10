@@ -1,6 +1,6 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+Cristian Marras is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 Cristian Marras is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Cristian Marras is a techno and house artist based in Germany, tracked on soundc
 
 Mar/us, Metaraph, OCD
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

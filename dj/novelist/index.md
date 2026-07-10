@@ -1,6 +1,6 @@
 # Novelist
 
-Novelist is a Grime and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Phonox, London on Fri, 10 Jul 2026.
+Novelist is a Grime and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Phonox, London on Fri, 10 Jul 2026.
 
 Novelist is a grime and bass artist tracked on soundcheck, with 30 sets logged across Amsterdam, London and Manchester. Often billed alongside CHAMBER45, Christian AB and Mia Koden. Next up: Phonox, London on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Novelist is a grime and bass artist tracked on soundcheck, with 30 sets logged a
 
 CHAMBER45, Christian AB, Mia Koden
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novelist/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novelist/)*

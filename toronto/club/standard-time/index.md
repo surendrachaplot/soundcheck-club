@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 16 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Club XXX featuring Divina (Lou Celsius + Fate), Venus in Foil and City Dance Corporation" on Fri, 10 Jul 2026.
+Standard Time is a music venue in Toronto with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Club XXX featuring Divina (Lou Celsius + Fate), Venus in Foil and City Dance Corporation" on Fri, 10 Jul 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming nights, with line-ups including A$H BANKS, anise, Benski and Choirboi and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming nights, with line-ups including A$H BANKS, anise, Benski and Benski (CA) and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

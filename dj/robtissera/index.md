@@ -1,6 +1,6 @@
 # Rob Tissera
 
-Rob Tissera is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at WaV, Liverpool on Sat, 11 Jul 2026.
+Rob Tissera is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at WaV, Liverpool on Sat, 11 Jul 2026.
 
 Rob Tissera is a trance and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Ibiza, Leeds and Liverpool and 4 more. Often billed alongside Dale Castell, Slipmatt and John Marshall. Next up: WaV, Liverpool on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Rob Tissera is a trance and house artist tracked on soundcheck, with 49 sets log
 
 Dale Castell, Slipmatt, John Marshall
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*

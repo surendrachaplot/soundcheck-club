@@ -1,6 +1,6 @@
 # Gino (DET)
 
-Gino (DET) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Arbella, Chicago on Sat, 11 Jul 2026.
+Gino (DET) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Arbella, Chicago on Sat, 11 Jul 2026.
 
 Gino (DET) is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Chicago, Detroit and Tokyo. Often billed alongside Tyson Dias, Chachi Guerrero and Greg Webb. Next up: Arbella, Chicago on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Gino (DET) is a house and deep house artist based in United States of America, t
 
 Tyson Dias, Chachi Guerrero, Greg Webb
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*

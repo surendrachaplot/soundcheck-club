@@ -1,6 +1,6 @@
 # Stckman
 
-Stckman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Last Arch, London on Sun, 12 Jul 2026.
+Stckman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Last Arch, London on Sun, 12 Jul 2026.
 
 Stckman is a house and techno artist based in Portugal, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: Last Arch, London on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Stckman is a house and techno artist based in Portugal, tracked on soundcheck, w
 
 Guigas, ozmin, Raphael Carrau
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*

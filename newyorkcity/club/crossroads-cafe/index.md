@@ -1,6 +1,6 @@
 # Crossroads Cafe
 
-Crossroads Cafe is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Mobile Output x JunXion" on Sat, 11 Jul 2026.
+Crossroads Cafe is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Mobile Output x JunXion" on Sat, 11 Jul 2026.
 
 Crossroads Cafe is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including 2melo, okDUNC, Ranch Guerra and Rob Mancino and 1 more. Browse upcoming dates, start times and who's playing. 119 Knickerbocker Ave, Brooklyn, NY 11237, USA.
 
@@ -14,4 +14,4 @@ Crossroads Cafe is a music venue in Newyorkcity listed on soundcheck. 1 upcoming
 
 119 Knickerbocker Ave, Brooklyn, NY 11237, USA, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/crossroads-cafe/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/crossroads-cafe/)*

@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Queens Wharf, Auckland on Fri, 17 Jul 2026.
+Danny Tenaglia is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Queens Wharf, Auckland on Fri, 17 Jul 2026.
 
 Danny Tenaglia is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Auckland, Austin and Barcelona and 24 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Queens Wharf, Auckland on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 103 sets
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

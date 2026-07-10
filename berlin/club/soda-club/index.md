@@ -1,6 +1,6 @@
 # Soda Club
 
-Soda Club is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Soda Club Sounds Friday" on Fri, 10 Jul 2026.
+Soda Club is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Soda Club Sounds Friday" on Fri, 10 Jul 2026.
 
 Soda Club is a music venue in Berlin listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. KulturBrauerei, Knaackstraße 97, 10435 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Soda Club is a music venue in Berlin listed on soundcheck. 16 upcoming nights. B
 
 KulturBrauerei, Knaackstraße 97, 10435 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/soda-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/soda-club/)*

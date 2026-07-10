@@ -1,6 +1,6 @@
 # Benicassim
 
-Benicassim is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "FIB 2026 (Benicàssim)" on Fri, 17 Jul 2026.
+Benicassim is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "FIB 2026 (Benicàssim)" on Fri, 17 Jul 2026.
 
 Benicassim is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including Maadraassoo. Browse upcoming dates, start times and who's playing. Benicassim, Valencia.
 
@@ -14,4 +14,4 @@ Benicassim is a music venue in Valencia listed on soundcheck. 1 upcoming night, 
 
 Benicassim, Valencia, Valencia
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/benicassim/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/benicassim/)*

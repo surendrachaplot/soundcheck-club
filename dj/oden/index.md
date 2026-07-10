@@ -1,6 +1,6 @@
 # Oden
 
-Oden is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+Oden is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
 Oden is a house and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Fatzo, Armand Van Helden and Low Steppa. Next up: Silverworks Island, London on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ Oden is a house and tech house artist tracked on soundcheck, with 137 sets logge
 
 Fatzo, Armand Van Helden, Low Steppa
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

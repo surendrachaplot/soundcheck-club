@@ -1,6 +1,6 @@
 # Pentridge Station
 
-Pentridge Station is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DJ Jamz presents: Watermelon Glow" on Sat, 11 Jul 2026.
+Pentridge Station is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DJ Jamz presents: Watermelon Glow" on Sat, 11 Jul 2026.
 
 Pentridge Station is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 5116 Pentridge Street Philadelphia, PA 19143.
 
@@ -16,4 +16,4 @@ Pentridge Station is a music venue in Philadelphia listed on soundcheck. 3 upcom
 
 5116 Pentridge Street Philadelphia, PA 19143, Philadelphia
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/pentridge-station/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/pentridge-station/)*

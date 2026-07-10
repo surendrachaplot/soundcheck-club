@@ -1,6 +1,6 @@
 # Darrell Privett
 
-Darrell Privett is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ministry Of Sound, London on Sat, 11 Jul 2026.
+Darrell Privett is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ministry Of Sound, London on Sat, 11 Jul 2026.
 
 Darrell Privett is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Ibiza and London. Often billed alongside Steven Cee, DJ Majesty and JAYDAA. Next up: Ministry Of Sound, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Darrell Privett is a tech house and house artist based in United Kingdom, tracke
 
 Steven Cee, DJ Majesty, JAYDAA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrellprivett/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrellprivett/)*

@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hito Scheveningen, The Hague on Sat, 11 Jul 2026.
+Antal is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hito Scheveningen, The Hague on Sat, 11 Jul 2026.
 
 Antal is a house and disco artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: Hito Scheveningen, Thehague on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Antal is a house and disco artist tracked on soundcheck, with 137 sets logged ac
 
 Hunee, Kléo, Coco Maria
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

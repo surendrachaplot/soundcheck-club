@@ -1,6 +1,6 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kilomètre25, Paris on Thu, 16 Jul 2026.
+Mha iri is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kilomètre25, Paris on Thu, 16 Jul 2026.
 
 Mha iri is a techno and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Eli Brown, Lilly Palmer and Adam Beyer. Next up: Kilomètre25, Paris on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 98 sets lo
 
 Eli Brown, Lilly Palmer, Adam Beyer
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

@@ -1,6 +1,6 @@
 # Habitat Shaking
 
-Habitat Shaking is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Renate, Berlin on Fri, 10 Jul 2026.
+Habitat Shaking is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Renate, Berlin on Fri, 10 Jul 2026.
 
 Habitat Shaking is a house and bass artist based in Ukraine, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Lyon and Marseille and 2 more. Often billed alongside Ann Mysochka, Dasha Atom and Passionfruit. Next up: Renate, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Habitat Shaking is a house and bass artist based in Ukraine, tracked on soundche
 
 Ann Mysochka, Dasha Atom, Passionfruit
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/habitatshaking/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/habitatshaking/)*

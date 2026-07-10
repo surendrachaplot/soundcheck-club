@@ -1,6 +1,6 @@
 # Made in the 90s x Producers Corner Festival at Addington Park
 
-Made in the 90s x Producers Corner Festival at Addington Park on Sat 8 Aug, London. 7 acts on the bill: DJ Decimal, DJ Eastwood, Ill Blu and Melo-D and 3 more. House and R&B. Preview the line-up and save it on soundcheck.
+Made in the 90s x Producers Corner Festival at Addington Park on Sat 8 Aug, London. 8 acts on the bill: DJ Decimal, DJ Eastwood, Ill Blu and Melo-D and 4 more. House and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Made in the 90s x Producers Corner Festival at Addington Park on Sat 8 Aug, Lond
 - DJ Eastwood
 - Ill Blu
 - Melo-D
+- Pioneer
 - Scottie D
 - Shenin Amara
 - Supa D

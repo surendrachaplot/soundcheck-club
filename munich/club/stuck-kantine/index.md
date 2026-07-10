@@ -1,14 +1,13 @@
 # Stuck Kantine
 
-Stuck Kantine is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Charlie Stuck Kantine" on Thu, 9 Jul 2026.
+Stuck Kantine is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Charlie Stuck Kantine" on Thu, 16 Jul 2026.
 
-Stuck Kantine is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including Balearic Eric, Benjamin Roeder, Bogus Trumper and DJoy and 2 more. Browse upcoming dates, start times and who's playing. Prinzregentenstr. 60, 81675 Munich.
+Stuck Kantine is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including Benjamin Roeder, Bogus Trumper, DJoy and DJ Trompete and 1 more. Browse upcoming dates, start times and who's playing. Prinzregentenstr. 60, 81675 Munich.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Charlie Stuck Kantine | Balearic Eric, Nic Jalusi, Pio (1), Super Sound Global |
 | Thu, 16 Jul 2026 | Charlie Stuck Kantine | DJoy, sianza |
 | Thu, 23 Jul 2026 | Charlie Stuck Kantine | DJ Trompete |
 | Thu, 30 Jul 2026 | Charlie Stuck Kantine - SCHOOLS OUT | Benjamin Roeder, Bogus Trumper |
@@ -17,4 +16,4 @@ Stuck Kantine is a music venue in Munich listed on soundcheck. 4 upcoming nights
 
 Prinzregentenstr. 60, 81675 Munich, Munich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/stuck-kantine/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/stuck-kantine/)*

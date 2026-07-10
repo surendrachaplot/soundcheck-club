@@ -1,6 +1,6 @@
 # Tangela
 
-Tangela is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Tangela is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 Tangela is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Tangela is a techno and house artist tracked on soundcheck, with 111 sets logged
 
 Kia (AU), amuwa, Andy Garvey
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*

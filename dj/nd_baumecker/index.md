@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bassiani, Tbilisi on Fri, 10 Jul 2026.
+nd_baumecker is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bassiani, Tbilisi on Fri, 10 Jul 2026.
 
 nd_baumecker is a house and techno artist tracked on soundcheck, with 111 sets logged across Athens, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Jorkes, Steffi and Luigi Di Venere. Next up: Bassiani, Tbilisi on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ nd_baumecker is a house and techno artist tracked on soundcheck, with 111 sets l
 
 Jorkes, Steffi, Luigi Di Venere
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

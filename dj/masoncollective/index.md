@@ -1,8 +1,8 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 10 Jul 2026.
+Mason Collective is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 10 Jul 2026.
 
-Mason Collective is a tech house and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Marco Carola and AJ Christou. Next up: Jolene Downtown Miami, Miami on Fri 10 Jul.
+Mason Collective is a tech house and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Marco Carola and AJ Christou. Next up: Jolene Downtown Miami, Miami on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 | Fri, 28 Aug 2026 | KOKO | London |
 | Sat, 5 Sept 2026 | Fabrik | Madrid |
 | Fri, 18 Sept 2026 | Pacha Ibiza | Ibiza |
+| Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Mason Collective is a tech house and house artist tracked on soundcheck, with 21
 
 Jamie Jones, Marco Carola, AJ Christou
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

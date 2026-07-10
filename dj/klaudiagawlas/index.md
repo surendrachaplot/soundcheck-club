@@ -1,6 +1,6 @@
 # Klaudia Gawlas
 
-Klaudia Gawlas is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 10 Jul 2026.
+Klaudia Gawlas is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 10 Jul 2026.
 
 Klaudia Gawlas is a techno and tech house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside Spartaque, Joyhauser and Mark Reeve. Next up: Halcyon, Sanfrancisco on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Klaudia Gawlas is a techno and tech house artist tracked on soundcheck, with 73 
 
 Spartaque, Joyhauser, Mark Reeve
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaudiagawlas/)*

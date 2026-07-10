@@ -1,6 +1,6 @@
 # ALBA (3)
 
-ALBA (3) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Goldener Reiter, Munich on Sat, 11 Jul 2026.
+ALBA (3) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Goldener Reiter, Munich on Sat, 11 Jul 2026.
 
 ALBA (3) is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig, Munich and Nurnberg. Often billed alongside Helina, DJ HOT and KIM SWIM. Next up: Goldener Reiter, Munich on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ ALBA (3) is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Helina, DJ HOT, KIM SWIM
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alba-3/)*

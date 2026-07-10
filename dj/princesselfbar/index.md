@@ -1,8 +1,8 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Soup, Manchester on Fri, 10 Jul 2026.
+Princess Elf Bar is a Trance and Club artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Soup, Manchester on Fri, 10 Jul 2026.
 
-Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Barcelona, Berlin, Glasgow and Leeds and 7 more. Often billed alongside AYDJ, Anop and Leaha. Next up: Soup, Manchester on Fri 10 Jul.
+Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and Leaha. Next up: Soup, Manchester on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on
 | Sat, 18 Jul 2026 | Stage and Radio | Manchester |
 | Fri, 24 Jul 2026 | Soup | Manchester |
 | Fri, 24 Jul 2026 | Wharf Chambers | Leeds |
+| Thu, 6 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 18 Sept 2026 | Hidden | Manchester |
 
 ## Recently played
@@ -29,4 +30,4 @@ Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on
 
 AYDJ, Anop, Leaha
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

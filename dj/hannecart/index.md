@@ -1,6 +1,6 @@
 # Hannecart
 
-Hannecart is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Radio Radio, Amsterdam on Fri, 10 Jul 2026.
+Hannecart is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Radio Radio, Amsterdam on Fri, 10 Jul 2026.
 
 Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Reiss, Noach and Samuel Deep. Next up: Radio Radio, Amsterdam on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Hannecart is a house and techno artist based in Dominican Republic, tracked on s
 
 Reiss, Noach, Samuel Deep
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

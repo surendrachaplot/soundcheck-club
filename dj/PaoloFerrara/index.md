@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Zoom Club, Frankfurt on Sat, 11 Jul 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Zoom Club, Frankfurt on Sat, 11 Jul 2026.
 
 Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: Zoom Club, Frankfurt on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 80 set
 
 Lorenzo Raganzini, Alignment, BIIA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

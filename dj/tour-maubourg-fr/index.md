@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Rex Club, Paris on Fri, 10 Jul 2026.
+Tour-Maubourg is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Rex Club, Paris on Fri, 10 Jul 2026.
 
 Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Rex Club, Paris on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets lo
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

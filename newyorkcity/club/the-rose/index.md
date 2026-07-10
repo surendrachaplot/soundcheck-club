@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Eugene presents Fragments" on Mon, 13 Jul 2026.
+The Rose is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Eugene presents Fragments" on Mon, 13 Jul 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -14,4 +14,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night.
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

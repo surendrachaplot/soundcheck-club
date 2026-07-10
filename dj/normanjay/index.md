@@ -1,6 +1,6 @@
 # Norman Jay
 
-Norman Jay is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Apps Court, London on Sat, 11 Jul 2026.
+Norman Jay is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Apps Court, London on Sat, 11 Jul 2026.
 
 Norman Jay is a disco and house artist tracked on soundcheck, with 51 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Rob Alldritt, Si Kurrage and Mr Shiver. Next up: Apps Court, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Norman Jay is a disco and house artist tracked on soundcheck, with 51 sets logge
 
 Rob Alldritt, Si Kurrage, Mr Shiver
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*

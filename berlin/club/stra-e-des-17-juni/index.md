@@ -1,6 +1,6 @@
 # Straße des 17. Juni
 
-Straße des 17. Juni is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "OST Rave The Planet Truck" on Sat, 15 Aug 2026.
+Straße des 17. Juni is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "OST Rave The Planet Truck" on Sat, 15 Aug 2026.
 
 Straße des 17. Juni is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 2HOT2PLAY, Acid Asian, A.D.H.S. and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Straße des 17. Juni, Berlin.
 
@@ -23,4 +23,4 @@ Straße des 17. Juni is a music venue in Berlin listed on soundcheck. 10 upcomin
 
 Straße des 17. Juni, Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/stra-e-des-17-juni/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/stra-e-des-17-juni/)*

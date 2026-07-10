@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Residency Night: Kilopatrah Jones invites Kush Jones, shekdash & Zack Fox" on Fri, 10 Jul 2026.
+Nowadays is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Residency Night: Kilopatrah Jones invites Kush Jones, shekdash & Zack Fox" on Fri, 10 Jul 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, with line-ups including Aaron J, aka-Sol, Akanbi and Ali Coleman and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 31 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

@@ -1,6 +1,6 @@
 # Discoteca Paradiso
 
-Discoteca Paradiso is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Radio Paradiso - EPISODE 002 x FEEL THE BEAT" on Fri, 10 Jul 2026.
+Discoteca Paradiso is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Radio Paradiso - EPISODE 002 x FEEL THE BEAT" on Fri, 10 Jul 2026.
 
 Discoteca Paradiso is a music venue in Naples listed on soundcheck. 4 upcoming nights, with line-ups including Alfio Pienne, EKSPO and Michele Lopardo. Browse upcoming dates, start times and who's playing. Via Fascione, 4, 80078 Pozzuoli NA, Italy.
 
@@ -17,4 +17,4 @@ Discoteca Paradiso is a music venue in Naples listed on soundcheck. 4 upcoming n
 
 Via Fascione, 4, 80078 Pozzuoli NA, Italy, Naples
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/discoteca-paradiso/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/discoteca-paradiso/)*

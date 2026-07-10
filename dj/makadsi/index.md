@@ -1,6 +1,6 @@
 # Makadsi
 
-Makadsi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 195 Morgan Ave, New York City on Fri, 10 Jul 2026.
+Makadsi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 195 Morgan Ave, New York City on Fri, 10 Jul 2026.
 
 Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, with 82 sets logged across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Sterling Juan Diaz, Dangerous Rose and FASHION (US). Next up: 195 Morgan Ave, Newyorkcity on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, wi
 
 Sterling Juan Diaz, Dangerous Rose, FASHION (US)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*

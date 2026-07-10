@@ -1,6 +1,6 @@
 # All My Friends
 
-All My Friends is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MODERNO INVITES BOUSTI" on Sat, 11 Jul 2026.
+All My Friends is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MODERNO INVITES BOUSTI" on Sat, 11 Jul 2026.
 
 All My Friends is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including KT, CRL (1), Crumpler and Damiano (2) and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
@@ -19,4 +19,4 @@ All My Friends is a music venue in London listed on soundcheck. 6 upcoming night
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

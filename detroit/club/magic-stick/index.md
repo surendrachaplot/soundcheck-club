@@ -1,6 +1,6 @@
 # Magic Stick
 
-Magic Stick is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Paul Oakenfold + The Crystal Method" on Fri, 10 Jul 2026.
+Magic Stick is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Paul Oakenfold + The Crystal Method" on Fri, 10 Jul 2026.
 
 Magic Stick is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Fred V, Mac Diesel, Mona Black and Paul Oakenfold and 2 more. Browse upcoming dates, start times and who's playing. 4120-4140 Woodward Avenue; Detroit, MI 48201; United States.
 
@@ -17,4 +17,4 @@ Magic Stick is a music venue in Detroit listed on soundcheck. 4 upcoming nights,
 
 4120-4140 Woodward Avenue; Detroit, MI 48201; United States, Detroit
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*

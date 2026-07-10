@@ -1,6 +1,6 @@
 # SoundPreta
 
-SoundPreta is a Electronica and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lark, Berlin on Sat, 11 Jul 2026.
+SoundPreta is a Electronica and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lark, Berlin on Sat, 11 Jul 2026.
 
 SoundPreta is an electronica and baile funk artist tracked on soundcheck, with 48 sets logged across Berlin, Bristol, Brussels and Hamburg and 3 more. Often billed alongside C0linas, Bieu and Cigarra. Next up: Lark, Berlin on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ SoundPreta is an electronica and baile funk artist tracked on soundcheck, with 4
 
 C0linas, Bieu, Cigarra
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soundpreta/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soundpreta/)*

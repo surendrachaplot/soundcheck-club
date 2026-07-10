@@ -1,6 +1,6 @@
 # Lisatrix
 
-Lisatrix is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Humboldthain Club, Berlin on Fri, 17 Jul 2026.
+Lisatrix is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Humboldthain Club, Berlin on Fri, 17 Jul 2026.
 
 Lisatrix is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin. Often billed alongside Pilar Jordan, Dj Sunflash and JUWLZ. Next up: Humboldthain Club, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Lisatrix is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Pilar Jordan, Dj Sunflash, JUWLZ
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatrix-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatrix-de/)*

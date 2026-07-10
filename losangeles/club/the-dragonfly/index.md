@@ -1,6 +1,6 @@
 # The Dragonfly
 
-The Dragonfly is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "BSideLA: Chloé Robinson" on Sat, 11 Jul 2026.
+The Dragonfly is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "BSideLA: Chloé Robinson" on Sat, 11 Jul 2026.
 
 The Dragonfly is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Blue Blood, Cerulo, Chloé Robinson and Neumonic and 1 more. Browse upcoming dates, start times and who's playing. 6510 Santa Monica Blvd, Los Angeles CA 90038.
 
@@ -14,4 +14,4 @@ The Dragonfly is a music venue in Losangeles listed on soundcheck. 1 upcoming ni
 
 6510 Santa Monica Blvd, Los Angeles CA 90038, Los Angeles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-dragonfly/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-dragonfly/)*

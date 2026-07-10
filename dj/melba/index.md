@@ -1,6 +1,6 @@
 # melba
 
-melba is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sneaky Pete's, Edinburgh on Fri, 10 Jul 2026.
+melba is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sneaky Pete's, Edinburgh on Fri, 10 Jul 2026.
 
 melba is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Auckland, Berlin, Edinburgh and London and 5 more. Often billed alongside Nectax, e-kitty and Sketchy Rida. Next up: Sneaky Pete's, Edinburgh on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ melba is a jungle and bass artist based in United Kingdom, tracked on soundcheck
 
 Nectax, e-kitty, Sketchy Rida
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melba/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melba/)*

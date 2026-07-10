@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "JakoJako / SAMSARA EPISODE 14" on Fri, 10 Jul 2026.
+VENT is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "JakoJako / SAMSARA EPISODE 14" on Fri, 10 Jul 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including Andre McLeod, Answer Code Request, avion__ and Chhabb and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -10,7 +10,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | JakoJako / SAMSARA EPISODE 14 | Chhabb, IRON, JakoJako, LiaRako, NITA, tnseei |
 | Sat, 11 Jul 2026 | Jonathan Kusuma | HIMAWARI, Jonathan Kusuma, RIHO ASAEDA, Remmy, YOSHIHAARAA, hiroto yano |
-| Fri, 17 Jul 2026 | FRANCOIS X , Drunken Kong | Drunken Kong, SENNY D, SHELLY (2), TOCHAN, avion__ |
+| Fri, 17 Jul 2026 | FRANCOIS X | Drunken Kong, SENNY D, SHELLY (2), TOCHAN, avion__ |
 | Sat, 18 Jul 2026 | Steve Bug | MOTOKA, MZKN, SIGNAL (JP), Signal, Steve Bug, Torus, ki (43) |
 | Fri, 24 Jul 2026 | KUSS | Fulusoma, KUSS, NITA, Ririko, Sonny Sun |
 | Sat, 25 Jul 2026 | CAPTAIN VINYL , DJ Koco aka Shimokita | Andre McLeod, DJ Koco aka Shimokita, HEAVEN, Mizuki, Nari (2), Soma (2) |
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with li
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

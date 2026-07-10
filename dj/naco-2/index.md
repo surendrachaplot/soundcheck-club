@@ -1,6 +1,6 @@
 # Naco (2)
 
-Naco (2) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Compufunk Records, Osaka on Sat, 11 Jul 2026.
+Naco (2) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Compufunk Records, Osaka on Sat, 11 Jul 2026.
 
 Naco (2) is a techno and bass artist based in Japan, tracked on soundcheck, with 59 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, sintaro fujita (2) and Lomax. Next up: Compufunk Records, Osaka on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Naco (2) is a techno and bass artist based in Japan, tracked on soundcheck, with
 
 Ryogo, sintaro fujita (2), Lomax
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naco-2/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naco-2/)*

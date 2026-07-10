@@ -1,6 +1,6 @@
 # Kwartz
 
-Kwartz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at LAB theCLUB, Madrid on Fri, 10 Jul 2026.
+Kwartz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at LAB theCLUB, Madrid on Fri, 10 Jul 2026.
 
 Kwartz is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kaiser (K S R), BLANKA and Beste Hira. Next up: LAB theCLUB, Madrid on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Kwartz is a techno and house artist tracked on soundcheck, with 89 sets logged a
 
 Kaiser (K S R), BLANKA, Beste Hira
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*

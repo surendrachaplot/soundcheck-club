@@ -1,6 +1,6 @@
 # DAVE the Drummer
 
-DAVE the Drummer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Old Blue Last, London on Fri, 10 Jul 2026.
+DAVE the Drummer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Old Blue Last, London on Fri, 10 Jul 2026.
 
 DAVE the Drummer is a techno and acid artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Chris Liberator, CJ Bolland and Cinquedea. Next up: The Old Blue Last, London on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ DAVE the Drummer is a techno and acid artist tracked on soundcheck, with 41 sets
 
 Chris Liberator, CJ Bolland, Cinquedea
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*

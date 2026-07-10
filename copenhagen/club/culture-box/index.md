@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Culture Box Chillout Afterparty: Aja Gulris / Almost Ginger / Klarskov / THE SWEET SPOT" on Fri, 10 Jul 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Culture Box Chillout Afterparty: Aja Gulris / Almost Ginger / Klarskov / THE SWEET SPOT" on Fri, 10 Jul 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including AELVA K, Aja Gulris, Ama Lien and AMITTET and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

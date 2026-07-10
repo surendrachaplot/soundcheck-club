@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 57 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BADSISTA, DJ Travella, Anita B Queen" on Fri, 10 Jul 2026.
+The Jazz Cafe is a music venue in London with 58 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BADSISTA, DJ Travella, Anita B Queen" on Fri, 10 Jul 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 57 upcoming nights, with line-ups including Adam F, Anita B Queen, Ata Kak and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 58 upcoming nights, with line-ups including Adam F, Anita B Queen, Ata Kak and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 57 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

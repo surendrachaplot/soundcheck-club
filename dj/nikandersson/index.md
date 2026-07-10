@@ -1,6 +1,6 @@
 # Nik Andersson
 
-Nik Andersson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cassiopeia, Berlin on Sat, 11 Jul 2026.
+Nik Andersson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cassiopeia, Berlin on Sat, 11 Jul 2026.
 
 Nik Andersson is a house and tech house artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Dusseldorf and Munich and 2 more. Often billed alongside Mark La Placa, VALI THUN and Jessy. Next up: Cassiopeia, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Nik Andersson is a house and tech house artist tracked on soundcheck, with 20 se
 
 Mark La Placa, VALI THUN, Jessy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikandersson/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikandersson/)*

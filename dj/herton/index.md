@@ -1,6 +1,6 @@
 # Herton
 
-Herton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at RADION, Amsterdam on Fri, 10 Jul 2026.
+Herton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at RADION, Amsterdam on Fri, 10 Jul 2026.
 
 Herton is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Initial Code, Sylvie Maziarz and Clara D. Next up: RADION, Amsterdam on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Herton is a techno and house artist tracked on soundcheck, with 88 sets logged a
 
 Initial Code, Sylvie Maziarz, Clara D
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*

@@ -1,6 +1,6 @@
 # object blue
 
-object blue is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Karmakoma, Belgrade on Fri, 10 Jul 2026.
+object blue is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Karmakoma, Belgrade on Fri, 10 Jul 2026.
 
 object blue is a techno and bass artist based in Japan, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside TSVI, Anz and DJ Voices. Next up: Karmakoma, Belgrade on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ object blue is a techno and bass artist based in Japan, tracked on soundcheck, w
 
 TSVI, Anz, DJ Voices
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/objectblue/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/objectblue/)*

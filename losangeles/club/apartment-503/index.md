@@ -1,6 +1,6 @@
 # Apartment 503
 
-Apartment 503 is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "UNA NOCHE DE PERREO 2 YR ANNIVERSARY" on Sat, 18 Jul 2026.
+Apartment 503 is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "UNA NOCHE DE PERREO 2 YR ANNIVERSARY" on Sat, 18 Jul 2026.
 
 Apartment 503 is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including DINABN and JOAQU.N. Browse upcoming dates, start times and who's playing. 3680 Wilshire Blvd #503, Los Angeles, CA 90010, USA.
 
@@ -14,4 +14,4 @@ Apartment 503 is a music venue in Losangeles listed on soundcheck. 1 upcoming ni
 
 3680 Wilshire Blvd #503, Los Angeles, CA 90010, USA, Los Angeles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apartment-503/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apartment-503/)*

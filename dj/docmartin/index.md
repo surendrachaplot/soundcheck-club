@@ -1,6 +1,6 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Flash, Washington DC on Sat, 11 Jul 2026.
+Doc Martin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Flash, Washington DC on Sat, 11 Jul 2026.
 
 Doc Martin is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Chicago and Denver and 15 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Flash, Washingtondc on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 87 sets logg
 
 DJ Sneak, DJ M3, Mark Farina
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

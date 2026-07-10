@@ -1,6 +1,6 @@
 # Soul II Soul
 
-Soul II Soul is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
+Soul II Soul is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
 
 Soul II Soul is a disco and house artist tracked on soundcheck, with 7 sets logged across Birmingham, Glasgow, London and Manchester and 1 more. Often billed alongside Roger Sanchez, 808 State and Graeme Park. Next up: Moseley Park, Birmingham on Fri 10 Jul.
 
@@ -23,4 +23,4 @@ Soul II Soul is a disco and house artist tracked on soundcheck, with 7 sets logg
 
 Roger Sanchez, 808 State, Graeme Park
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soul2soul/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soul2soul/)*

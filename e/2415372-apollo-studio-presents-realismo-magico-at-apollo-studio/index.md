@@ -1,6 +1,6 @@
 # Apollo Studio presents Realismo Magico at Apollo Studio
 
-Apollo Studio presents Realismo Magico on Fri 10 Jul, Newyorkcity. 3 acts on the bill: ADREE, Martino Boga and Moaad BKR. Preview the line-up and save it on soundcheck.
+Apollo Studio presents Realismo Magico on Fri 10 Jul, Newyorkcity. 5 acts on the bill: ADREE, Ariel me Llamo, Manny (us) and Martino Boga and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Apollo Studio presents Realismo Magico on Fri 10 Jul, Newyorkcity. 3 acts on the
 ## Line-up
 
 - ADREE
+- Ariel me Llamo
+- Manny (us)
 - Martino Boga
 - Moaad BKR
 

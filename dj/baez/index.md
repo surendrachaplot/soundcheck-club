@@ -1,6 +1,6 @@
 # baez
 
-baez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 10 Jul 2026.
+baez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 10 Jul 2026.
 
 baez is a house and deep house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Wild Dark, Newman and Nick Curly. Next up: Do Not Sit On The Furniture, Miami on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ baez is a house and deep house artist based in United States of America, tracked
 
 Wild Dark, Newman, Nick Curly
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baez/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baez/)*

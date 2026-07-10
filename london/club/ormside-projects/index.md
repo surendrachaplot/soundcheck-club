@@ -1,15 +1,14 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Atomiser presents: ideasforconversations, Patch +, Helen Sun, peace_without_love" on Thu, 9 Jul 2026.
+Ormside Projects is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more" on Fri, 10 Jul 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Ab.Diablo, Angel D'lite, Annabel Fraser and A-Sides and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1000raks, Ab.Diablo, Angel D'lite and Annabel Fraser and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Atomiser presents: ideasforconversations, Patch +, Helen Sun, peace_without_love | Helen Sun, Patch+, Resimota |
-| Fri, 10 Jul 2026 | Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more | Ab.Diablo, Manuka Honey, Pochola, Suutoo, VIRI$$, XT1ANA |
+| Fri, 10 Jul 2026 | Warmth presents: Manuka Honey, Suutoo, Pochola, OLUWA, XT1ANA + more | 1000raks, Ab.Diablo, Manuka Honey, Pochola, Suutoo, VIRI$$, XT1ANA |
 | Sat, 11 Jul 2026 | ORMSIDE presents: DJ Sotofett | DJ Sotofett |
 | Sun, 12 Jul 2026 | Paria Farzaneh x Alma Fundraiser Abdorrahman Boroumand Center for Human Rights in Iran | Angel D'lite, Impey, Kasra V, Mia Koden |
 | Thu, 16 Jul 2026 | Goldsmiths MFA Degree Show AFTERPARTY | Millie Rose Dobree |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming ni
 | Fri, 24 Jul 2026 | JIJEI X ORMSIDE / MC ZKW / onoola-sama / Grandmixxer / DARKIO BLACKS  | Grandmixxer, onoola-sama |
 | Wed, 29 Jul 2026 | Knee Deep in Custard x Great Area |  |
 | Fri, 31 Jul 2026 | Reverse | Chloe Lula, Ireen Amnes, Kerrie, V.40 |
+| Sat, 1 Aug 2026 | Zeobat X All Centre with re:ni, DEBONAIR, Zeobat, Ramos, DJ Pitch, Simkin & Coe | Coe (1), DEBONAIR, DJ Pitch, Simkin, re:ni |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

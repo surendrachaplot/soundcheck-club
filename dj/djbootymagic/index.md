@@ -1,6 +1,6 @@
 # dj bootymagic
 
-dj bootymagic is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MODULE, Copenhagen on Sat, 11 Jul 2026.
+dj bootymagic is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MODULE, Copenhagen on Sat, 11 Jul 2026.
 
 dj bootymagic is a techno and trance artist based in Denmark, tracked on soundcheck, with 32 sets logged across Copenhagen. Often billed alongside Baime, Arto (2) and Anna Logic. Next up: MODULE, Copenhagen on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ dj bootymagic is a techno and trance artist based in Denmark, tracked on soundch
 
 Baime, Arto (2), Anna Logic
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootymagic/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootymagic/)*

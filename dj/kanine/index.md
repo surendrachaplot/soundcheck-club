@@ -1,6 +1,6 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Kanine is a Drum & Bass and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
 
 Kanine is a drum & bass and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 37 more. Often billed alongside Mozey, Bou (UK) and Disrupta. Next up: Tägi, Zurich on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Kanine is a drum & bass and house artist tracked on soundcheck, with 88 sets log
 
 Mozey, Bou (UK), Disrupta
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

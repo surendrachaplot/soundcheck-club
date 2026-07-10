@@ -1,6 +1,6 @@
 # Montana Badlands
 
-Montana Badlands is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Before the Signal with Restless Planet" on Sat, 18 Jul 2026.
+Montana Badlands is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Before the Signal with Restless Planet" on Sat, 18 Jul 2026.
 
 Montana Badlands is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including Interwave Surfer and Misha Mir. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Montana Badlands is a music venue in Seattle listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Before the Signal with Restless Planet | Interwave Surfer, Misha Mir |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/montana-badlands/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/montana-badlands/)*

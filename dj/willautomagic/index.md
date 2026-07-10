@@ -1,6 +1,6 @@
 # Will Automagic
 
-Will Automagic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Club Rawhide, New York City on Fri, 10 Jul 2026.
+Will Automagic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Rawhide, New York City on Fri, 10 Jul 2026.
 
 Will Automagic is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Newyorkcity. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: Club Rawhide, Newyorkcity on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Will Automagic is a house and techno artist based in United States of America, t
 
 Nita Aviance, The Carry Nation, S'aint Panic
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*

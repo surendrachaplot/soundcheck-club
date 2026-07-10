@@ -1,6 +1,6 @@
 # Jerome Hill
 
-Jerome Hill is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Old Blue Last, London on Fri, 10 Jul 2026.
+Jerome Hill is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Old Blue Last, London on Fri, 10 Jul 2026.
 
 Jerome Hill is a techno and acid artist tracked on soundcheck, with 116 sets logged across Bangkok, Barcelona, Belfast and Berlin and 23 more. Often billed alongside Louise Plus One, Hughesee and Ben Pest. Next up: The Old Blue Last, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Jerome Hill is a techno and acid artist tracked on soundcheck, with 116 sets log
 
 Louise Plus One, Hughesee, Ben Pest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeromehill/)*

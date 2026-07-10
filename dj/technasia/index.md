@@ -1,6 +1,6 @@
 # Technasia
 
-Technasia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Luz De Gas, Barcelona on Sat, 11 Jul 2026.
+Technasia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Luz De Gas, Barcelona on Sat, 11 Jul 2026.
 
 Technasia is a tech house and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 14 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: Luz De Gas, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Technasia is a tech house and house artist tracked on soundcheck, with 49 sets l
 
 Lexlay, Carlo Lio, Dub Tiger
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*

@@ -1,6 +1,6 @@
 # Thabo
 
-Thabo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Romantica, Stuttgart on Fri, 10 Jul 2026.
+Thabo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Romantica, Stuttgart on Fri, 10 Jul 2026.
 
 Thabo is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside Thalo Santana, Blame Anthony and DJ Butterhands. Next up: Romantica, Stuttgart on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Thabo is a house and techno artist tracked on soundcheck, with 77 sets logged ac
 
 Thalo Santana, Blame Anthony, DJ Butterhands
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

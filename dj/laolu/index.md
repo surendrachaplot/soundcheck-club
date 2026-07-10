@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lofi, Amsterdam on Sat, 11 Jul 2026.
+Laolu is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lofi, Amsterdam on Sat, 11 Jul 2026.
 
 Laolu is a house and afro house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside La Forêt, Rimbu (CH) and Ankhoï. Next up: Lofi, Amsterdam on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Laolu is a house and afro house artist tracked on soundcheck, with 87 sets logge
 
 La Forêt, Rimbu (CH), Ankhoï
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

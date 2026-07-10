@@ -1,6 +1,6 @@
 # Anz
 
-Anz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nitsa Club, Barcelona on Fri, 10 Jul 2026.
+Anz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nitsa Club, Barcelona on Fri, 10 Jul 2026.
 
 Anz is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: Nitsa Club, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Anz is a house and techno artist tracked on soundcheck, with 101 sets logged acr
 
 Call Super, Special Request, Sedef Adasï
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*

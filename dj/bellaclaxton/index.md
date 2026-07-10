@@ -1,8 +1,8 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Colorado Charlie, The Hague on Sun, 12 Jul 2026.
+Bella Claxton is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Colorado Charlie, The Hague on Sun, 12 Jul 2026.
 
-Bella Claxton is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Auckland and Bali and 23 more. Often billed alongside Kyle Starkey, Ollie Lishman and Faster Horses. Next up: Colorado Charlie, Thehague on Sun 12 Jul.
+Bella Claxton is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Auckland and Bali and 24 more. Often billed alongside Kyle Starkey, Faster Horses and Ollie Lishman. Next up: Colorado Charlie, Thehague on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 108 sets 
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+| Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Bella Claxton is a techno and house artist tracked on soundcheck, with 108 sets 
 
 ## Shares bills with
 
-Kyle Starkey, Ollie Lishman, Faster Horses
+Kyle Starkey, Faster Horses, Ollie Lishman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

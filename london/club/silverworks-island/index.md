@@ -1,6 +1,6 @@
 # Silverworks Island
 
-Silverworks Island is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "FISHER with Gordo, Denis Sulta b2b KILIMAJARO, Oden & Fatzo (Live)" on Sat, 11 Jul 2026.
+Silverworks Island is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FISHER with Gordo, Denis Sulta b2b KILIMAJARO, Oden & Fatzo (Live)" on Sat, 11 Jul 2026.
 
 Silverworks Island is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Andrea Oliva, Antares, Arielle Free and Denis Sulta and 2 more. Browse upcoming dates, start times and who's playing. Royal Victoria Dock,, Silvertown Square, Connaught Bridge, N Woolwich Rd, London E16 2BU.
 
@@ -15,4 +15,4 @@ Silverworks Island is a music venue in London listed on soundcheck. 2 upcoming n
 
 Royal Victoria Dock,, Silvertown Square, Connaught Bridge, N Woolwich Rd, London E16 2BU, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/silverworks-island/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/silverworks-island/)*

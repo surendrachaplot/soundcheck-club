@@ -1,6 +1,6 @@
 # Deorro
 
-Deorro is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Concourse Project, Austin on Thu, 16 Jul 2026.
+Deorro is a Latin Bass and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Concourse Project, Austin on Thu, 16 Jul 2026.
 
 Deorro is a latin bass and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Boston, Chicago and Denver and 7 more. Often billed alongside Loco Dice, AMÉMÉ and Audien. Next up: The Concourse Project, Austin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Deorro is a latin bass and house artist based in United States of America, track
 
 Loco Dice, AMÉMÉ, Audien
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*

@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hafenklang, Hamburg on Fri, 10 Jul 2026.
+Newinfluenzer is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hafenklang, Hamburg on Fri, 10 Jul 2026.
 
 Newinfluenzer is a techno and electro artist tracked on soundcheck, with 81 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside yamyam, DJ SOURCE and 11Schnull. Next up: Hafenklang, Hamburg on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 81 sets
 
 yamyam, DJ SOURCE, 11Schnull
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

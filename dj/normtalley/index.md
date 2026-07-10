@@ -1,6 +1,6 @@
 # Norm Talley
 
-Norm Talley is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lincoln Factory, Detroit on Sat, 11 Jul 2026.
+Norm Talley is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lincoln Factory, Detroit on Sat, 11 Jul 2026.
 
 Norm Talley is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Detroit and Newyorkcity. Often billed alongside Delano Smith, Mike Agent X Clark and Eddie Fowlkes. Next up: Lincoln Factory, Detroit on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Norm Talley is a house and techno artist based in United States of America, trac
 
 Delano Smith, Mike Agent X Clark, Eddie Fowlkes
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normtalley/)*

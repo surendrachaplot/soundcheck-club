@@ -1,6 +1,6 @@
 # Special Request
 
-Special Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Special Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
 Special Request is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Boston Manor Park, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Special Request is a techno and house artist tracked on soundcheck, with 161 set
 
 Ewan McVicar, Goldie, SHERELLE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*

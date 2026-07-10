@@ -1,6 +1,6 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at RADION, Amsterdam on Sat, 11 Jul 2026.
+Rebecca Delle Piane is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at RADION, Amsterdam on Sat, 11 Jul 2026.
 
 Rebecca Delle Piane is a techno and electronica artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Freddy K, Ben Sims and SDN (1). Next up: RADION, Amsterdam on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Rebecca Delle Piane is a techno and electronica artist tracked on soundcheck, wi
 
 Freddy K, Ben Sims, SDN (1)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*

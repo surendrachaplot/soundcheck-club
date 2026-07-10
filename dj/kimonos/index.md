@@ -1,6 +1,6 @@
 # Kimonos
 
-Kimonos is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 10 Jul 2026.
+Kimonos is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 10 Jul 2026.
 
 Kimonos is a house and afro house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Pacha Ibiza, Ibiza on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Kimonos is a house and afro house artist tracked on soundcheck, with 50 sets log
 
 Guy Gerber, BLOND:ISH, Vintage Culture
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*

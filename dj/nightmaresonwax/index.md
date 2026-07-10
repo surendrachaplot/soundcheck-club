@@ -1,6 +1,6 @@
 # Nightmares on Wax
 
-Nightmares on Wax is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
+Nightmares on Wax is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
 
 Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Moseley Park, Birmingham on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 
 
 Colleen 'Cosmo' Murphy, Mr Scruff, Romare
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*

@@ -1,6 +1,6 @@
 # Vico Deep
 
-Vico Deep is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at X Private Club, Madrid on Sat, 11 Jul 2026.
+Vico Deep is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at X Private Club, Madrid on Sat, 11 Jul 2026.
 
 Vico Deep is a techno and progressive house artist based in Spain, tracked on soundcheck, with 55 sets logged across Lisbon and Madrid. Often billed alongside Unai García, Javi Garza and 2Qimic. Next up: X Private Club, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Vico Deep is a techno and progressive house artist based in Spain, tracked on so
 
 Unai García, Javi Garza, 2Qimic
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*

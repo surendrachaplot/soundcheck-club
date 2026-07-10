@@ -1,18 +1,17 @@
 # Ocaña
 
-Ocaña is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "The Magic Sun presents Sol Sessions" on Thu, 9 Jul 2026.
+Ocaña is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ritual Apotheke - Ancestrall & Mutul at Ocaña Barcelona" on Fri, 17 Jul 2026.
 
-Ocaña is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including DALAH, Mutul and ÜNAM. Browse upcoming dates, start times and who's playing. Plaza Reial 13, Barcelona 08002, Spain.
+Ocaña is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Mutul. Browse upcoming dates, start times and who's playing. Plaza Reial 13, Barcelona 08002, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | The Magic Sun presents Sol Sessions | DALAH, ÜNAM |
 | Fri, 17 Jul 2026 | Ritual Apotheke - Ancestrall & Mutul at Ocaña Barcelona | Mutul |
 
 ## Address
 
 Plaza Reial 13, Barcelona 08002, Spain, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/oca-a/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/oca-a/)*

@@ -1,6 +1,6 @@
 # Global
 
-Global is a Experimental and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+Global is a Experimental and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 Global is an experimental and electro artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Glasgow and Hamburg and 3 more. Often billed alongside Sodomland, Blood of Aza and Europa (1). Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Global is an experimental and electro artist tracked on soundcheck, with 18 sets
 
 Sodomland, Blood of Aza, Europa (1)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/global/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/global/)*

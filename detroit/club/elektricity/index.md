@@ -1,6 +1,6 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 16 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DIRT MONKEY: GOLDEN BANANA TOUR" on Fri, 10 Jul 2026.
+Elektricity is a music venue in Detroit with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DIRT MONKEY: GOLDEN BANANA TOUR" on Fri, 10 Jul 2026.
 
 Elektricity is a music venue in Detroit listed on soundcheck. 16 upcoming nights, with line-ups including Dantiez, Dombresky, Drop Catch and Gossamer and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 16 upcoming nights
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

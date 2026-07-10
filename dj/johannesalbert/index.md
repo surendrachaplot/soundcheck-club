@@ -1,6 +1,6 @@
 # Johannes Albert
 
-Johannes Albert is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sunday Sunday, Mexico City on Sun, 12 Jul 2026.
+Johannes Albert is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sunday Sunday, Mexico City on Sun, 12 Jul 2026.
 
 Johannes Albert is a house and techno artist tracked on soundcheck, with 92 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 12 more. Often billed alongside Ady Toledano, Iron Curtis and Leon Licht. Next up: Sunday Sunday, Mexicocity on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Johannes Albert is a house and techno artist tracked on soundcheck, with 92 sets
 
 Ady Toledano, Iron Curtis, Leon Licht
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*

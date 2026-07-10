@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Interval - James Pepper [3.5 Hours]" on Fri, 10 Jul 2026.
+Glamorama is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Interval - James Pepper [3.5 Hours]" on Fri, 10 Jul 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Anima Omada, BETHANY (1), CHEEKI and Ejeckt and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -20,4 +20,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 7 upcoming nights,
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

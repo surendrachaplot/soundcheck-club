@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Fri, 10 Jul 2026.
+Hardt Antoine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cova Santa, Ibiza on Fri, 10 Jul 2026.
 
 Hardt Antoine is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Cova Santa, Ibiza on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Hardt Antoine is a house and techno artist tracked on soundcheck, with 70 sets l
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

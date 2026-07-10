@@ -1,6 +1,6 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "sense. x babel pres. Jay Tripwire (CA)" on Fri, 10 Jul 2026.
+Abercrombie Hotel is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "sense. x babel pres. Jay Tripwire (CA)" on Fri, 10 Jul 2026.
 
 Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Attu, Couch Mechanic, Jane Decks and Jay Tripwire and 2 more. Browse upcoming dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
@@ -17,4 +17,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming ni
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

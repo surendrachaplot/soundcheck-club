@@ -1,6 +1,6 @@
 # The Illustrious Blacks
 
-The Illustrious Blacks is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at C'mon Everybody, New York City on Sat, 11 Jul 2026.
+The Illustrious Blacks is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at C'mon Everybody, New York City on Sat, 11 Jul 2026.
 
 The Illustrious Blacks is a house and disco artist tracked on soundcheck, with 53 sets logged across Berlin, Boston, Detroit and Hongkong and 13 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: C'mon Everybody, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ The Illustrious Blacks is a house and disco artist tracked on soundcheck, with 5
 
 Boris, Gabrielle Kwarteng, Hercules & Love Affair
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*

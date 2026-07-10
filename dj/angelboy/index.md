@@ -1,6 +1,6 @@
 # angelboy
 
-angelboy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at murmur, Amsterdam on Fri, 10 Jul 2026.
+angelboy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at murmur, Amsterdam on Fri, 10 Jul 2026.
 
 angelboy is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Slimfit, DIORA and Lola Edo. Next up: murmur, Amsterdam on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ angelboy is a techno and house artist tracked on soundcheck, with 107 sets logge
 
 Slimfit, DIORA, Lola Edo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelboy/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelboy/)*

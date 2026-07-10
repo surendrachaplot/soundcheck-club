@@ -1,6 +1,6 @@
 # Monty Luke
 
-Monty Luke is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jasna 1, Warsaw on Sat, 11 Jul 2026.
+Monty Luke is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jasna 1, Warsaw on Sat, 11 Jul 2026.
 
 Monty Luke is a techno and house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Detroit and Leipzig and 7 more. Often billed alongside Radio Slave, Adriana Ruas and Alfonsvs. Next up: Jasna 1, Warsaw on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Monty Luke is a techno and house artist based in United States of America, track
 
 Radio Slave, Adriana Ruas, Alfonsvs
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/montyluke/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/montyluke/)*

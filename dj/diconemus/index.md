@@ -1,6 +1,6 @@
 # Dico Nemus
 
-Dico Nemus is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MODULE, Copenhagen on Fri, 10 Jul 2026.
+Dico Nemus is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MODULE, Copenhagen on Fri, 10 Jul 2026.
 
 Dico Nemus is a techno artist based in Denmark, tracked on soundcheck, with 17 sets logged across Copenhagen. Often billed alongside Holtz (2), SORT SIND and David Cortese. Next up: MODULE, Copenhagen on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Dico Nemus is a techno artist based in Denmark, tracked on soundcheck, with 17 s
 
 Holtz (2), SORT SIND, David Cortese
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diconemus/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diconemus/)*

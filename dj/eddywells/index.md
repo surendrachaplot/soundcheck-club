@@ -1,6 +1,6 @@
 # Eddy Wells
 
-Eddy Wells is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Factory Theatre, Sydney on Sat, 18 Jul 2026.
+Eddy Wells is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Factory Theatre, Sydney on Sat, 18 Jul 2026.
 
 Eddy Wells is a house and techno artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Cassette, Ari Kiko and OLIIV. Next up: Factory Theatre, Sydney on Sat 18 Jul.
 
@@ -24,4 +24,4 @@ Eddy Wells is a house and techno artist based in Australia, tracked on soundchec
 
 Cassette, Ari Kiko, OLIIV
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddywells/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddywells/)*

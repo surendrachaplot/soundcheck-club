@@ -1,6 +1,6 @@
 # Rüfüs Du Sol
 
-Rüfüs Du Sol is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pacha Ibiza, Ibiza on Tue, 14 Jul 2026.
+Rüfüs Du Sol is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pacha Ibiza, Ibiza on Tue, 14 Jul 2026.
 
 Rüfüs Du Sol is a house and electronica artist based in Australia, tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Bali and Barcelona and 15 more. Often billed alongside Cassian, Yulia Niko and ANOTR. Next up: Pacha Ibiza, Ibiza on Tue 14 Jul.
 
@@ -28,4 +28,4 @@ Rüfüs Du Sol is a house and electronica artist based in Australia, tracked on 
 
 Cassian, Yulia Niko, ANOTR
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rufusdusol/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rufusdusol/)*

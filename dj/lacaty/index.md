@@ -1,6 +1,6 @@
 # LACATY
 
-LACATY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Skatecafe, Amsterdam on Fri, 10 Jul 2026.
+LACATY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Skatecafe, Amsterdam on Fri, 10 Jul 2026.
 
 LACATY is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside miszo, Body Clinic and DJ Cosworth. Next up: Skatecafe, Amsterdam on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ LACATY is a house and techno artist tracked on soundcheck, with 51 sets logged a
 
 miszo, Body Clinic, DJ Cosworth
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lacaty/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lacaty/)*

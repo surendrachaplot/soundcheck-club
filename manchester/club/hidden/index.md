@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Cause & Effect presents: GEE LEE, El-B, Hannah Lynch (Girls Dont Sync), Amber Rose, AMG" on Fri, 10 Jul 2026.
+Hidden is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Cause & Effect presents: GEE LEE, El-B, Hannah Lynch (Girls Dont Sync), Amber Rose, AMG" on Fri, 10 Jul 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Aiden Francis, Amber Rose, AMG (UK) and Chimpo and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -20,4 +20,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 7 upcoming nights, w
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

@@ -1,6 +1,6 @@
 # Papa Xanny
 
-Papa Xanny is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, San Francisco/Oakland on Sat, 18 Jul 2026.
+Papa Xanny is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, San Francisco/Oakland on Sat, 18 Jul 2026.
 
 Papa Xanny is a techno and club artist tracked on soundcheck, with 51 sets logged across Sanfrancisco. Often billed alongside nonsuit, Beverly Chills and DYLUSION. Next up: TBA, Sanfrancisco on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Papa Xanny is a techno and club artist tracked on soundcheck, with 51 sets logge
 
 nonsuit, Beverly Chills, DYLUSION
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*

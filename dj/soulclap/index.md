@@ -1,6 +1,6 @@
 # Soul Clap
 
-Soul Clap is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Good Room, New York City on Fri, 10 Jul 2026.
+Soul Clap is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Good Room, New York City on Fri, 10 Jul 2026.
 
 Soul Clap is a house and disco artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 27 more. Often billed alongside DJ Minx, Stacey Pullen and LADYMONIX. Next up: Good Room, Newyorkcity on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Soul Clap is a house and disco artist tracked on soundcheck, with 155 sets logge
 
 DJ Minx, Stacey Pullen, LADYMONIX
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*

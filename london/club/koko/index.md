@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Camden Disco Festival: The Shapeshifters, Luke Solomon, LEV" on Fri, 10 Jul 2026.
+KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Camden Disco Festival: The Shapeshifters, Luke Solomon, LEV" on Fri, 10 Jul 2026.
 
 KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Ally Tropical, Anane, babyschön and Bear Winder and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

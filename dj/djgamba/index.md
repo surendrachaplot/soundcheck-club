@@ -1,6 +1,6 @@
 # DJ Gamba
 
-DJ Gamba is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 10 Jul 2026.
+DJ Gamba is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 10 Jul 2026.
 
 DJ Gamba is a house and electro artist tracked on soundcheck, with 102 sets logged across Antwerp, Barcelona, Belfast and Copenhagen and 6 more. Often billed alongside mves, Sampol and DJ Houseum. Next up: 303 Audiophile Bar, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ DJ Gamba is a house and electro artist tracked on soundcheck, with 102 sets logg
 
 mves, Sampol, DJ Houseum
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*

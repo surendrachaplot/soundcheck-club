@@ -1,6 +1,6 @@
 # Forbindelsehallen
 
-Forbindelsehallen is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Artbat / Stockholm" on Fri, 4 Sept 2026.
+Forbindelsehallen is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Artbat / Stockholm" on Fri, 4 Sept 2026.
 
 Forbindelsehallen is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including Artbat and The Blaze. Browse upcoming dates, start times and who's playing. Stora Skorstensgatan 14, 121 62 Johanneshov.
 
@@ -15,4 +15,4 @@ Forbindelsehallen is a music venue in Stockholm listed on soundcheck. 2 upcoming
 
 Stora Skorstensgatan 14, 121 62 Johanneshov, Stockholm
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/forbindelsehallen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/forbindelsehallen/)*

@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Palais, London on Fri, 10 Jul 2026.
+SHDW is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Palais, London on Fri, 10 Jul 2026.
 
 SHDW is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Palais, London on Fri 10 Jul.
 
@@ -35,4 +35,4 @@ SHDW is a techno and house artist tracked on soundcheck, with 189 sets logged ac
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

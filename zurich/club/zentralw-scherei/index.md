@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "*:･ﾟ✧ EUTROTRANCE VOL. V ✧ *:･ﾟ" on Sat, 11 Jul 2026.
+Zentralwäscherei is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "*:･ﾟ✧ EUTROTRANCE VOL. V ✧ *:･ﾟ" on Sat, 11 Jul 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Daddy Long Legs, F1-PV, Gio Elia and Jenny Cara and 2 more. Browse upcoming dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -16,4 +16,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 3 upcoming ni
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Underground Konektion Vol 2 (Konekta x Beaten Track x Hooney Tunes)" on Fri, 10 Jul 2026.
+Distillery N17 is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Underground Konektion Vol 2 (Konekta x Beaten Track x Hooney Tunes)" on Fri, 10 Jul 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 69DB, Ac1d Vicious, Acerbic and Acid Steve and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -23,4 +23,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nigh
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

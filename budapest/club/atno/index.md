@@ -1,6 +1,6 @@
 # Atno
 
-Atno is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Break-Oázis" on Fri, 10 Jul 2026.
+Atno is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Break-Oázis" on Fri, 10 Jul 2026.
 
 Atno is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including 96zen, Aikatherina, Benc and Breakforce One and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
 
@@ -19,4 +19,4 @@ Atno is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with 
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

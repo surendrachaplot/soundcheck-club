@@ -1,6 +1,6 @@
 # Gaswerksiedlung
 
-Gaswerksiedlung is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Gaswerk Music Days 2026 - MODULA" on Fri, 24 Jul 2026.
+Gaswerksiedlung is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Gaswerk Music Days 2026 - MODULA" on Fri, 24 Jul 2026.
 
 Gaswerksiedlung is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Azu Tiwaline, Burnt Friedman, Catu Diosis and DJ Scotch Egg and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Chaussee 24-39, Berlin, Germany, 10317.
 
@@ -19,4 +19,4 @@ Gaswerksiedlung is a music venue in Berlin listed on soundcheck. 6 upcoming nigh
 
 Köpenicker Chaussee 24-39, Berlin, Germany, 10317, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gaswerksiedlung/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gaswerksiedlung/)*

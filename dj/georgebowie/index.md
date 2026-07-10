@@ -1,6 +1,6 @@
 # George Bowie
 
-George Bowie is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Savoy, Glasgow on Sat, 11 Jul 2026.
+George Bowie is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Savoy, Glasgow on Sat, 11 Jul 2026.
 
 George Bowie is a trance and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Dundee and Glasgow. Often billed alongside Joe Deacon, Michael Paterson and Andy Whitby. Next up: Savoy, Glasgow on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ George Bowie is a trance and house artist based in United Kingdom, tracked on so
 
 Joe Deacon, Michael Paterson, Andy Whitby
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*

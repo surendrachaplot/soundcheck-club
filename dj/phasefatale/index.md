@@ -1,8 +1,8 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fvtvr, Paris on Fri, 17 Jul 2026.
+Phase Fatale is a Techno and EBM artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Fri, 17 Jul 2026.
 
-Phase Fatale is a techno and ebm artist tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Barcelona and Berlin and 53 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Fvtvr, Paris on Fri 17 Jul.
+Phase Fatale is a techno and ebm artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Barcelona and Berlin and 53 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Fvtvr, Paris on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Phase Fatale is a techno and ebm artist tracked on soundcheck, with 194 sets log
 | Sat, 8 Aug 2026 | EXIL | Zurich |
 | Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | Paragon | New York City |
+| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Phase Fatale is a techno and ebm artist tracked on soundcheck, with 194 sets log
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

@@ -1,6 +1,6 @@
 # Mandiz
 
-Mandiz is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Wiggle Room, Toronto on Sat, 11 Jul 2026.
+Mandiz is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Wiggle Room, Toronto on Sat, 11 Jul 2026.
 
 Mandiz is a tech house and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Ibiza and Miami and 2 more. Often billed alongside Manzone & Strong, Barroness and Addy. Next up: Wiggle Room, Toronto on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Mandiz is a tech house and house artist tracked on soundcheck, with 46 sets logg
 
 Manzone & Strong, Barroness, Addy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*

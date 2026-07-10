@@ -1,6 +1,6 @@
 # Bermondsey Social Club
 
-Bermondsey Social Club is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "ｐｒｅｃｉｐｉｔａｔｉｏｎ" on Fri, 17 Jul 2026.
+Bermondsey Social Club is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "ｐｒｅｃｉｐｉｔａｔｉｏｎ" on Fri, 17 Jul 2026.
 
 Bermondsey Social Club is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Rat Racing, WAAW and Zak Smiff. Browse upcoming dates, start times and who's playing. Arch 19 Almond Road, Bermondsey, London, SE16 3LR.
 
@@ -14,4 +14,4 @@ Bermondsey Social Club is a music venue in London listed on soundcheck. 1 upcomi
 
 Arch 19 Almond Road, Bermondsey, London, SE16 3LR, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bermondsey-social-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bermondsey-social-club/)*

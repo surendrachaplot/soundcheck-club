@@ -1,6 +1,6 @@
 # Ali Coleman
 
-Ali Coleman is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Commodore Barry Park, New York City on Sat, 11 Jul 2026.
+Ali Coleman is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Commodore Barry Park, New York City on Sat, 11 Jul 2026.
 
 Ali Coleman is a house and disco artist based in United States of America, tracked on soundcheck, with 50 sets logged across Newyorkcity. Often billed alongside Harry Fletcher, Jeremy Giros and Bendito. Next up: Commodore Barry Park, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Ali Coleman is a house and disco artist based in United States of America, track
 
 Harry Fletcher, Jeremy Giros, Bendito
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicoleman/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicoleman/)*

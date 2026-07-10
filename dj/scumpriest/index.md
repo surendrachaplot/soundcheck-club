@@ -1,6 +1,6 @@
 # SCUM PRIEST
 
-SCUM PRIEST is a Techno and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at clubasia, Tokyo on Fri, 10 Jul 2026.
+SCUM PRIEST is a Techno and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at clubasia, Tokyo on Fri, 10 Jul 2026.
 
 SCUM PRIEST is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 60 sets logged across Osaka and Tokyo. Often billed alongside HSC (1), TERU and CHISE. Next up: clubasia, Tokyo on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ SCUM PRIEST is a techno and hip-hop artist based in Japan, tracked on soundcheck
 
 HSC (1), TERU, CHISE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scumpriest/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scumpriest/)*

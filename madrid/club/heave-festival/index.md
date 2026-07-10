@@ -1,6 +1,6 @@
 # Heave Festival
 
-Heave Festival is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Heave Festival" on Fri, 25 Sept 2026.
+Heave Festival is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Heave Festival" on Fri, 25 Sept 2026.
 
 Heave Festival is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Baldman, Bibi, Bleach and Deceit and 2 more. Browse upcoming dates, start times and who's playing. Las Inviernas, 19491, Guadalajara, Spain.
 
@@ -14,4 +14,4 @@ Heave Festival is a music venue in Madrid listed on soundcheck. 1 upcoming night
 
 Las Inviernas, 19491, Guadalajara, Spain, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/heave-festival/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/heave-festival/)*

@@ -1,6 +1,6 @@
 # Mohajer
 
-Mohajer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
+Mohajer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
 
 Mohajer is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Schacke, Rachel Noon and Hyperaktivist. Next up: Koupaliště Džbán, Prague on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Mohajer is a techno and house artist tracked on soundcheck, with 96 sets logged 
 
 Schacke, Rachel Noon, Hyperaktivist
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*

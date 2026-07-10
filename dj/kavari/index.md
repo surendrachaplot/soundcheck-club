@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+KAVARI is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 KAVARI is an experimental and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Austin and Barcelona and 29 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ KAVARI is an experimental and techno artist tracked on soundcheck, with 95 sets 
 
 Blood of Aza, KLAUDIO, Mvcoko
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

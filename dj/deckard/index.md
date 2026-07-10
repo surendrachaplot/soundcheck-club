@@ -1,6 +1,6 @@
 # Deckard
 
-Deckard is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Jardi Dels Tarongers, El Raval, Barcelona on Sat, 11 Jul 2026.
+Deckard is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Jardi Dels Tarongers, El Raval, Barcelona on Sat, 11 Jul 2026.
 
 Deckard is a house and disco artist based in Spain, tracked on soundcheck, with 159 sets logged across Barcelona, Lyon, Madrid and Mallorca and 2 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: TBA - Jardi Dels Tarongers, El Raval, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Deckard is a house and disco artist based in Spain, tracked on soundcheck, with 
 
 Fede Zerdan, Zonzo, Bruno (DO)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*

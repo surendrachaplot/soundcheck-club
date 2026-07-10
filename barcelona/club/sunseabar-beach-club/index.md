@@ -1,6 +1,6 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "FREE OPEN AIR BEACH PARTY  | Boots & Cats x Re-Clubbing pres. E.T.H (Italy) and Raf & Rod" on Fri, 10 Jul 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FREE OPEN AIR BEACH PARTY  | Boots & Cats x Re-Clubbing pres. E.T.H (Italy) and Raf & Rod" on Fri, 10 Jul 2026.
 
 Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including acidheaven, Alex Dima, Alex (ES) and Arista and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
@@ -23,4 +23,4 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 22 upco
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

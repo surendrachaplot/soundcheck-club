@@ -1,6 +1,6 @@
 # Public Works Gallery
 
-Public Works Gallery is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "The Electronic Buffet" on Fri, 17 Jul 2026.
+Public Works Gallery is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Electronic Buffet" on Fri, 17 Jul 2026.
 
 Public Works Gallery is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Radius and RMM (1). Browse upcoming dates, start times and who's playing. 2141 W North Ave,  Chicago, IL 60647.
 
@@ -14,4 +14,4 @@ Public Works Gallery is a music venue in Chicago listed on soundcheck. 1 upcomin
 
 2141 W North Ave,  Chicago, IL 60647, Chicago
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/public-works-gallery/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/public-works-gallery/)*

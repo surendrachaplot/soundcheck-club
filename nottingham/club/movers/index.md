@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 13 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Honeydips: sweet sweet R&B" on Fri, 10 Jul 2026.
+Movers is a music venue in Nottingham with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Honeydips: sweet sweet R&B" on Fri, 10 Jul 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights. 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

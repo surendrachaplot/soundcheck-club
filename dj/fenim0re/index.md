@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Klein, Istanbul on Fri, 10 Jul 2026.
+FENIM0RE is a Techno and Dub Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Klein, Istanbul on Fri, 10 Jul 2026.
 
 FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Athens and Berlin and 18 more. Often billed alongside Pōnky, future.666 and ÜBERKIKZ. Next up: Klein, Istanbul on Fri 10 Jul.
 
@@ -32,4 +32,4 @@ FENIM0RE is a techno and dub techno artist tracked on soundcheck, with 44 sets l
 
 Pōnky, future.666, ÜBERKIKZ
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

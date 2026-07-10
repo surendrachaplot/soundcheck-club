@@ -1,6 +1,6 @@
 # Handelsbeurs Concertzaal
 
-Handelsbeurs Concertzaal is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Daft Funk Live in Ghent" on Sat, 12 Sept 2026.
+Handelsbeurs Concertzaal is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Daft Funk Live in Ghent" on Sat, 12 Sept 2026.
 
 Handelsbeurs Concertzaal is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including Daft Funk Live. Browse upcoming dates, start times and who's playing. Kouter 29, 9000 Gent, Belgium.
 
@@ -14,4 +14,4 @@ Handelsbeurs Concertzaal is a music venue in Ghent listed on soundcheck. 1 upcom
 
 Kouter 29, 9000 Gent, Belgium, Ghent
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/handelsbeurs-concertzaal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/handelsbeurs-concertzaal/)*

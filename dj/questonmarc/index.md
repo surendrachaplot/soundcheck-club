@@ -1,6 +1,6 @@
 # quest?onmarq
 
-quest?onmarq is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tresor / Globus, Berlin on Fri, 10 Jul 2026.
+quest?onmarq is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tresor / Globus, Berlin on Fri, 10 Jul 2026.
 
 quest?onmarq is a techno and acid artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Manchester and 3 more. Often billed alongside Miss Italia, Nadia Struiwigh and Dj handbag. Next up: Tresor / Globus, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ quest?onmarq is a techno and acid artist based in United States of America, trac
 
 Miss Italia, Nadia Struiwigh, Dj handbag
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/questonmarc/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/questonmarc/)*

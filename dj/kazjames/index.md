@@ -1,6 +1,6 @@
 # Kaz James
 
-Kaz James is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ace Hotel & Swim Club Athens, Athens on Sat, 11 Jul 2026.
+Kaz James is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ace Hotel & Swim Club Athens, Athens on Sat, 11 Jul 2026.
 
 Kaz James is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Athens, Ibiza, Istanbul and London and 9 more. Often billed alongside Black Coffee, Carlita and Guy Gerber. Next up: Ace Hotel & Swim Club Athens, Athens on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Kaz James is a house and afro house artist based in United Kingdom, tracked on s
 
 Black Coffee, Carlita, Guy Gerber
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*

@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
+Argia is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
 
 Argia is a techno and electronica artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Âme, Alican and Manu Strasse. Next up: Cova Santa, Ibiza on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Argia is a techno and electronica artist tracked on soundcheck, with 65 sets log
 
 Âme, Alican, Manu Strasse
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

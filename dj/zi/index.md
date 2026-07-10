@@ -1,6 +1,6 @@
 # zi!
 
-zi! is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Process PDX, Portland on Fri, 10 Jul 2026.
+zi! is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Process PDX, Portland on Fri, 10 Jul 2026.
 
 zi! is a techno and house artist tracked on soundcheck, with 67 sets logged across Auckland, Chicago, Melbourne and Montreal and 5 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: Process PDX, Portland on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ zi! is a techno and house artist tracked on soundcheck, with 67 sets logged acro
 
 Field Note, Dijipoune, Lia Plutonic
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*

@@ -1,6 +1,6 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Studio Club Invites: FJAAK - AEREA LIVE - Alex Nantaya" on Fri, 10 Jul 2026.
+Studio Club Malaga is a music venue in Malaga with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Studio Club Invites: FJAAK - AEREA LIVE - Alex Nantaya" on Fri, 10 Jul 2026.
 
 Studio Club Malaga is a music venue in Malaga listed on soundcheck. 12 upcoming nights, with line-ups including AEREA, Alci, Alex Nantaya and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
@@ -23,4 +23,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 12 upcoming 
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

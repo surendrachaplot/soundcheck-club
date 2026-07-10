@@ -1,6 +1,6 @@
 # Alienata
 
-Alienata is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pawn Shop, Dublin on Fri, 10 Jul 2026.
+Alienata is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pawn Shop, Dublin on Fri, 10 Jul 2026.
 
 Alienata is a techno and electro artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Bloody Mary, Ben Sims and L.F.T.. Next up: Pawn Shop, Dublin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Alienata is a techno and electro artist tracked on soundcheck, with 94 sets logg
 
 Bloody Mary, Ben Sims, L.F.T.
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*

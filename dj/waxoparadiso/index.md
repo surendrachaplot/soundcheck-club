@@ -1,6 +1,6 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tender, Melbourne on Fri, 10 Jul 2026.
+Wax'o Paradiso is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tender, Melbourne on Fri, 10 Jul 2026.
 
 Wax'o Paradiso is a house and balearic artist based in Australia, tracked on soundcheck, with 51 sets logged across Bali, Bangkok, Berlin and Brisbane and 6 more. Often billed alongside Lauren Hansom, Bradley Zero and Darcy Justice. Next up: Tender, Melbourne on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Wax'o Paradiso is a house and balearic artist based in Australia, tracked on sou
 
 Lauren Hansom, Bradley Zero, Darcy Justice
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*

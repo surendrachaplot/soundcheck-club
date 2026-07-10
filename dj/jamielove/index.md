@@ -1,6 +1,6 @@
 # Jamie Love
 
-Jamie Love is a House and Pop artist with 17 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at O Beach, Ibiza on Fri, 10 Jul 2026.
+Jamie Love is a House and Pop artist with 17 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at O Beach, Ibiza on Fri, 10 Jul 2026.
 
 Jamie Love is a house and pop artist tracked on soundcheck, with 120 sets logged across Ibiza, London and Losangeles. Often billed alongside Parris Taylor, Perry Martin and Alex Mills. Next up: O Beach, Ibiza on Fri 10 Jul.
 
@@ -36,4 +36,4 @@ Jamie Love is a house and pop artist tracked on soundcheck, with 120 sets logged
 
 Parris Taylor, Perry Martin, Alex Mills
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamielove/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamielove/)*

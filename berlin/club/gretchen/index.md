@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "TULIPA RUIZ *live" on Fri, 10 Jul 2026.
+Gretchen is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "TULIPA RUIZ *live" on Fri, 10 Jul 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aalia Iraki, Allynx, Buunshin and Dillinja and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 22 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

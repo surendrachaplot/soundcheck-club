@@ -1,6 +1,6 @@
 # Philipp Drube
 
-Philipp Drube is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amphitheatre by Circadian, Berlin on Fri, 10 Jul 2026.
+Philipp Drube is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amphitheatre by Circadian, Berlin on Fri, 10 Jul 2026.
 
 Philipp Drube is a techno and trance artist tracked on soundcheck, with 65 sets logged across Berlin, Brussels, Budapest and Copenhagen and 13 more. Often billed alongside Frank Heise, Inverse Element and DINA. Next up: Amphitheatre by Circadian, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Philipp Drube is a techno and trance artist tracked on soundcheck, with 65 sets 
 
 Frank Heise, Inverse Element, DINA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*

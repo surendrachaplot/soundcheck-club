@@ -1,6 +1,6 @@
 # Bikini Beach
 
-Bikini Beach is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Dominik Eulberg und Jonathan Kaspar - strandliebe Open Air I Bikini Beach Bonn" on Fri, 10 Jul 2026.
+Bikini Beach is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Dominik Eulberg und Jonathan Kaspar - strandliebe Open Air I Bikini Beach Bonn" on Fri, 10 Jul 2026.
 
 Bikini Beach is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with line-ups including Chris Schwarzwälder, Dominik Eulberg, Jonathan Kaspar and Levi (AU) and 2 more. Browse upcoming dates, start times and who's playing. Karl-Duwe-Str. 4b, 53227 Bonn.
 
@@ -18,4 +18,4 @@ Bikini Beach is a music venue in Cologne listed on soundcheck. 5 upcoming nights
 
 Karl-Duwe-Str. 4b, 53227 Bonn, Cologne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bikini-beach/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bikini-beach/)*

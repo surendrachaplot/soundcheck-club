@@ -1,6 +1,6 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Echostage, Washington DC on Fri, 10 Jul 2026.
+Dosem is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Echostage, Washington DC on Fri, 10 Jul 2026.
 
 Dosem is a progressive house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Jody Wisternoff, Marsh and Durante. Next up: Echostage, Washingtondc on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Dosem is a progressive house and techno artist tracked on soundcheck, with 69 se
 
 Jody Wisternoff, Marsh, Durante
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*

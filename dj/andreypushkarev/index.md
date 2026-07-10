@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kater, Berlin on Sat, 11 Jul 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kater, Berlin on Sat, 11 Jul 2026.
 
 Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Kater, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 83 se
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

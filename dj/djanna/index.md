@@ -1,14 +1,13 @@
 # ANNA
 
-ANNA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bolivar Beach Bar, Athens on Thu, 9 Jul 2026.
+ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Obudai Island, Budapest on Tue, 11 Aug 2026.
 
-ANNA is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Bolivar Beach Bar, Athens on Thu 9 Jul.
+ANNA is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Obudai Island, Budapest on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Bolivar Beach Bar | Athens |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Sat, 22 Aug 2026 | block. | Dublin |
 | Sun, 23 Aug 2026 | Jardins de Joan Brossa | Barcelona |
@@ -16,6 +15,7 @@ ANNA is a techno and house artist tracked on soundcheck, with 91 sets logged acr
 
 ## Recently played
 
+- Bolivar Beach Bar, Athens — Thu, 9 Jul 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
 - Sunnyside Pavilion, Toronto — Sat, 20 Jun 2026
 - TBA - ONE77 BROOKLYN, New York City — Fri, 19 Jun 2026
@@ -23,10 +23,9 @@ ANNA is a techno and house artist tracked on soundcheck, with 91 sets logged acr
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
 - 620 Jones, San Francisco/Oakland — Sat, 16 May 2026
-- Oaklash, San Francisco/Oakland — Sat, 16 May 2026
 
 ## Shares bills with
 
 DJ Tennis, Vintage Culture, Kevin de Vries
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

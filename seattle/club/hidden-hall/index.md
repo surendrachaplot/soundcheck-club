@@ -1,6 +1,6 @@
 # Hidden Hall
 
-Hidden Hall is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "ill.Gates + SFAM plus Pressha" on Fri, 10 Jul 2026.
+Hidden Hall is a music venue in Seattle with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ill.Gates + SFAM plus Pressha" on Fri, 10 Jul 2026.
 
 Hidden Hall is a music venue in Seattle listed on soundcheck. 6 upcoming nights, with line-ups including ill.Gates, Juan Maclean, Korra the Kid and Lusine and 2 more. Browse upcoming dates, start times and who's playing. 400 N 35th Street Seattle, WA 98103.
 
@@ -19,4 +19,4 @@ Hidden Hall is a music venue in Seattle listed on soundcheck. 6 upcoming nights,
 
 400 N 35th Street Seattle, WA 98103, Seattle
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*

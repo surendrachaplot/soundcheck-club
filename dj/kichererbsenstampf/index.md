@@ -1,6 +1,6 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at OST, Berlin on Sat, 11 Jul 2026.
+kichererbsenstampf is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OST, Berlin on Sat, 11 Jul 2026.
 
 kichererbsenstampf is a techno and trance artist tracked on soundcheck, with 33 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside DJ Schnürschuh, VLUNA and ANKA (2). Next up: OST, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ kichererbsenstampf is a techno and trance artist tracked on soundcheck, with 33 
 
 DJ Schnürschuh, VLUNA, ANKA (2)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

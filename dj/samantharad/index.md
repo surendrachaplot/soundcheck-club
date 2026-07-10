@@ -1,6 +1,6 @@
 # samantha rad
 
-samantha rad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - RSVP FOR LOCATION, Chicago on Sat, 11 Jul 2026.
+samantha rad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - RSVP FOR LOCATION, Chicago on Sat, 11 Jul 2026.
 
 samantha rad is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago. Often billed alongside Pat Fee, Amy Unland and Geto Mark. Next up: TBA - RSVP FOR LOCATION, Chicago on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ samantha rad is a house and techno artist based in United States of America, tra
 
 Pat Fee, Amy Unland, Geto Mark
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samantharad/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samantharad/)*

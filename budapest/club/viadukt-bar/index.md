@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Tilos Radio" on Thu, 9 Jul 2026.
+Viadukt Bar is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Találka" on Fri, 10 Jul 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Chris.SU, NoNameLeft and Woody. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Chris.SU, NoNameLeft and Woody. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Tilos Radio |  |
 | Fri, 10 Jul 2026 | Találka |  |
 | Sat, 11 Jul 2026 | Drum & bass on the riverside |  |
 | Sun, 12 Jul 2026 | I Am Soyuz (LIVE) |  |
@@ -23,4 +22,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 10 upcoming night
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

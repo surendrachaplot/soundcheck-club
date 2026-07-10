@@ -1,6 +1,6 @@
 # Total XTC
 
-Total XTC is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amant, New York City on Fri, 10 Jul 2026.
+Total XTC is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amant, New York City on Fri, 10 Jul 2026.
 
 Total XTC is a club and techno artist based in United States of America, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Donis, Pauli Cakes and friedplatano. Next up: Amant, Newyorkcity on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Total XTC is a club and techno artist based in United States of America, tracked
 
 Donis, Pauli Cakes, friedplatano
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totalxtc/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totalxtc/)*

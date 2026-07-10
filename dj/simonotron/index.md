@@ -1,6 +1,6 @@
 # Simonotron
 
-Simonotron is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sneaky Pete's, Edinburgh on Fri, 7 Aug 2026.
+Simonotron is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sneaky Pete's, Edinburgh on Fri, 7 Aug 2026.
 
 Simonotron is a house and disco artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Edinburgh and Glasgow. Often billed alongside Marie Davidson, Accident Machine and Horse Meat Disco. Next up: Sneaky Pete's, Edinburgh on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Simonotron is a house and disco artist based in United Kingdom, tracked on sound
 
 Marie Davidson, Accident Machine, Horse Meat Disco
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*

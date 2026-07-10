@@ -1,6 +1,6 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Melkweg, Amsterdam on Fri, 10 Jul 2026.
+Henri Bergmann is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Melkweg, Amsterdam on Fri, 10 Jul 2026.
 
 Henri Bergmann is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Basel and 28 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Melkweg, Amsterdam on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Henri Bergmann is a techno and house artist tracked on soundcheck, with 89 sets 
 
 Agents Of Time, Argy, Brina Knauss
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*

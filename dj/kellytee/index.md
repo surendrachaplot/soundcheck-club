@@ -1,6 +1,6 @@
 # KELLY TEE
 
-KELLY TEE is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 26 Jul 2026.
+KELLY TEE is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 26 Jul 2026.
 
 KELLY TEE is a house and techno artist tracked on soundcheck, with 95 sets logged across Cologne, Melbourne and Sydney. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Revolver Upstairs, Melbourne on Sun 26 Jul.
 
@@ -31,4 +31,4 @@ KELLY TEE is a house and techno artist tracked on soundcheck, with 95 sets logge
 
 Boogs, Spacey Space, Ben Silver (AUS)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellytee/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellytee/)*

@@ -1,6 +1,6 @@
 # MAV666
 
-MAV666 is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Wigwam, Dublin on Fri, 10 Jul 2026.
+MAV666 is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Wigwam, Dublin on Fri, 10 Jul 2026.
 
 MAV666 is a techno and hardcore artist based in Ireland, tracked on soundcheck, with 51 sets logged across Amsterdam, Belfast, Berlin and Dublin and 7 more. Often billed alongside Shannen Blessing, blk. and JWY (1). Next up: Wigwam, Dublin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ MAV666 is a techno and hardcore artist based in Ireland, tracked on soundcheck, 
 
 Shannen Blessing, blk., JWY (1)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mav666/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mav666/)*

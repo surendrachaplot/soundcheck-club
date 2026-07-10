@@ -1,6 +1,6 @@
 # Deer park
 
-Deer park is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+Deer park is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 Deer park is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Glasgow and London and 3 more. Often billed alongside Patch+, ANTHEM and Able Archer. Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Deer park is an experimental and ambient artist based in United States of Americ
 
 Patch+, ANTHEM, Able Archer
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deerpark/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deerpark/)*

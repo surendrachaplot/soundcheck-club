@@ -1,6 +1,6 @@
 # Allius
 
-Allius is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bar Shrimp, Manchester on Sat, 18 Jul 2026.
+Allius is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bar Shrimp, Manchester on Sat, 18 Jul 2026.
 
 Allius is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Bar Shrimp, Manchester on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Allius is a house and techno artist based in United Kingdom, tracked on soundche
 
 Cersy, ngoma, Channell
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*

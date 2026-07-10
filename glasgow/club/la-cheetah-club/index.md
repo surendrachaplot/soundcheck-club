@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "NIGHTSHIFT: Surplus + Johnny Greig" on Thu, 9 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Midnight Bass presents Winslow (Hospital Records)" on Fri, 10 Jul 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Boss Priester, Bristol Luke, Corran and DANCING WITH STANLEY and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including Boss Priester, Bristol Luke, Corran and DANCING WITH STANLEY and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | NIGHTSHIFT: Surplus + Johnny Greig | Johnny Greig, Surplus |
 | Fri, 10 Jul 2026 | Midnight Bass presents Winslow (Hospital Records) | SOLECTA, Winslow |
 | Sat, 11 Jul 2026 | Loefah at 20 YEARS OF FORTIFIED / TEN YEARS LOST - TRAP EXCURSIONS VOL1 ALBUM LAUNCH | Jurnalist, Loefah, Ten Years Lost (2) |
 | Sun, 12 Jul 2026 | KEEP ON with David Barbarossa All Night Long | David Barbarossa |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 18 upcoming ni
 | Thu, 23 Jul 2026 | One Under presents: Dec Duffy | Dec Duffy |
 | Fri, 24 Jul 2026 | INTO SOLA launch night: DANCING WITH STANLEY & David Scott | DANCING WITH STANLEY, David Scott |
 | Sat, 25 Jul 2026 | Pedestrianism presents: Drinks On Me | Drinks On Me |
+| Sun, 26 Jul 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

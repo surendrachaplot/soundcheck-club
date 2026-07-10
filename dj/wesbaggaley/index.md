@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Golden Lion, Manchester on Sat, 25 Jul 2026.
+Wes Baggaley is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Golden Lion, Manchester on Sat, 25 Jul 2026.
 
 Wes Baggaley is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Birmingham, Bristol and Dublin and 14 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: The Golden Lion, Manchester on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Wes Baggaley is a techno and house artist tracked on soundcheck, with 69 sets lo
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

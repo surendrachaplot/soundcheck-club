@@ -1,6 +1,6 @@
 # Goldfish
 
-Goldfish is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Goldfish is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Goldfish is a house and deep house artist based in South Africa, tracked on soundcheck, with 23 sets logged across Amsterdam, Austin, Berlin and Boston and 5 more. Often billed alongside Alle Farben, 6EJOU and 999999999. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Goldfish is a house and deep house artist based in South Africa, tracked on soun
 
 Alle Farben, 6EJOU, 999999999
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldfish/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldfish/)*

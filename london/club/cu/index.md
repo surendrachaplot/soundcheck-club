@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "The Return Of Timehri Part 2 W/ Tim Reaper, Dwarde, Lady Passion, Moodswing, D-Dubz, T Dunn, BP" on Fri, 10 Jul 2026.
+Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Return Of Timehri Part 2 W/ Tim Reaper, Dwarde, Lady Passion, Moodswing, D-Dubz, T Dunn, BP" on Fri, 10 Jul 2026.
 
 Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Blackdown, BP (1), DJ Chromz and Dwarde and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -19,4 +19,4 @@ Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

@@ -1,6 +1,6 @@
 # DJ Mischkonsum
 
-DJ Mischkonsum is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at ://about blank, Berlin on Fri, 10 Jul 2026.
+DJ Mischkonsum is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ://about blank, Berlin on Fri, 10 Jul 2026.
 
 DJ Mischkonsum is a techno and trance artist tracked on soundcheck, with 42 sets logged across Antwerp, Berlin, Cologne and Leipzig and 5 more. Often billed alongside Bernossi, DJ Bruh and Mondaiji. Next up: ://about blank, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ DJ Mischkonsum is a techno and trance artist tracked on soundcheck, with 42 sets
 
 Bernossi, DJ Bruh, Mondaiji
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmischkonsum/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmischkonsum/)*

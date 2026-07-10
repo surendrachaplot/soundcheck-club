@@ -1,6 +1,6 @@
 # materia hache
 
-materia hache is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 23 Jul 2026.
+materia hache is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 23 Jul 2026.
 
 materia hache is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: Bulbul Berlin, Berlin on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ materia hache is a house and techno artist tracked on soundcheck, with 74 sets l
 
 Fluffi, Mamede, ilbroccolovolante
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*

@@ -1,6 +1,6 @@
 # Sidney Myer Music Bowl
 
-Sidney Myer Music Bowl is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Freeform Festival 2026" on Sat, 3 Oct 2026.
+Sidney Myer Music Bowl is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Freeform Festival 2026" on Sat, 3 Oct 2026.
 
 Sidney Myer Music Bowl is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Ash Lauryn, Avalon Emerson, Barry Can't Swim and Bella Claxton and 2 more. Browse upcoming dates, start times and who's playing. 21 Linlithgow Ave; Melbourne, VIC 3004; Australia.
 
@@ -14,4 +14,4 @@ Sidney Myer Music Bowl is a music venue in Melbourne listed on soundcheck. 1 upc
 
 21 Linlithgow Ave; Melbourne, VIC 3004; Australia, Melbourne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sidney-myer-music-bowl/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sidney-myer-music-bowl/)*

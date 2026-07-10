@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Avalon Emerson · Anz · Nahoomie / Clementaum · d.silvestre · MUNA KHALED" on Fri, 10 Jul 2026.
+Nitsa Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Avalon Emerson · Anz · Nahoomie / Clementaum · d.silvestre · MUNA KHALED" on Fri, 10 Jul 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Anz, Astin, Avalon Emerson and CANDADISMO and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -21,4 +21,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

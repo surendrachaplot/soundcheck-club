@@ -1,6 +1,6 @@
 # Bull Horris
 
-Bull Horris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Big Romance, Dublin on Fri, 10 Jul 2026.
+Bull Horris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Big Romance, Dublin on Fri, 10 Jul 2026.
 
 Bull Horris is a techno and house artist tracked on soundcheck, with 34 sets logged across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Mercorn, Tadhg K and Cáit. Next up: The Big Romance, Dublin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Bull Horris is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Mercorn, Tadhg K, Cáit
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*

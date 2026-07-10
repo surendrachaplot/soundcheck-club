@@ -1,6 +1,6 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Bed By 10" on Sat, 19 Sept 2026.
+Ampere is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bed By 10" on Sat, 19 Sept 2026.
 
 Ampere is a music venue in Antwerp listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
@@ -14,4 +14,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 1 upcoming night. Brows
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

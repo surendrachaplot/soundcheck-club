@@ -1,6 +1,6 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MIGARDEN at NAMA" on Fri, 10 Jul 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MIGARDEN at NAMA" on Fri, 10 Jul 2026.
 
 NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including 7Astris, Al Paino, Atrice and Bear Bones, Lay Low and 2 more. Browse upcoming dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
@@ -15,4 +15,4 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 
 Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia, Milan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*

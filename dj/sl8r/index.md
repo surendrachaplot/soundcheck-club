@@ -1,6 +1,6 @@
 # SL8R
 
-SL8R is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Golden Lion, Manchester on Fri, 10 Jul 2026.
+SL8R is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Golden Lion, Manchester on Fri, 10 Jul 2026.
 
 SL8R is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logged across Birmingham, Boston, Brighton and Bristol and 11 more. Often billed alongside Bryan Gee, Rich Reason and Metrodome. Next up: The Golden Lion, Manchester on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ SL8R is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logg
 
 Bryan Gee, Rich Reason, Metrodome
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*

@@ -1,6 +1,6 @@
 # Jos
 
-Jos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at All My Friends, London on Fri, 17 Jul 2026.
+Jos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at All My Friends, London on Fri, 17 Jul 2026.
 
 Jos is a techno and house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: All My Friends, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jos is a techno and house artist based in United Kingdom, tracked on soundcheck,
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

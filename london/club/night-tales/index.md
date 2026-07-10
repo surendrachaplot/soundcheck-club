@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 30 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Night Tales: Roni Size [Extended Set] & Friends " on Fri, 10 Jul 2026.
+Night Tales is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Night Tales: Roni Size [Extended Set] & Friends " on Fri, 10 Jul 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including KT, ADMNTi, ADR (UK) and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights,
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

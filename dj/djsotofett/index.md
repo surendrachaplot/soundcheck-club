@@ -1,6 +1,6 @@
 # DJ Sotofett
 
-DJ Sotofett is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ormside Projects, London on Sat, 11 Jul 2026.
+DJ Sotofett is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ormside Projects, London on Sat, 11 Jul 2026.
 
 DJ Sotofett is a house and dub artist based in Norway, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside LNS, DJ Fett Burger and Ireen Amnes. Next up: Ormside Projects, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ DJ Sotofett is a house and dub artist based in Norway, tracked on soundcheck, wi
 
 LNS, DJ Fett Burger, Ireen Amnes
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsotofett/)*

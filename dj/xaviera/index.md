@@ -1,6 +1,6 @@
 # Xaviera
 
-Xaviera is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Blue Room, Montreal on Sat, 11 Jul 2026.
+Xaviera is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Blue Room, Montreal on Sat, 11 Jul 2026.
 
 Xaviera is a techno and trance artist tracked on soundcheck, with 51 sets logged across Montreal and Toronto. Often billed alongside K657, Inside Blur and Yorel. Next up: Blue Room, Montreal on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Xaviera is a techno and trance artist tracked on soundcheck, with 51 sets logged
 
 K657, Inside Blur, Yorel
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xaviera/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xaviera/)*

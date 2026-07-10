@@ -1,6 +1,6 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Klaudia Gawlas" on Fri, 10 Jul 2026.
+Halcyon is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Klaudia Gawlas" on Fri, 10 Jul 2026.
 
 Halcyon is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including IZIK, Klaudia Gawlas, MONĪ and Mr Black. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
@@ -16,4 +16,4 @@ Halcyon is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

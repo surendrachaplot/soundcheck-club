@@ -1,8 +1,8 @@
 # Diplo
 
-Diplo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 11 Aug 2026.
+Diplo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-Diplo is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Charlotte de Witte, Claptone and Chris Lake. Next up: Ushuaïa Ibiza, Ibiza on Tue 11 Aug.
+Diplo is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Charlotte de Witte, Claptone and Chris Lake. Next up: Ushuaïa Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Diplo is a house and techno artist tracked on soundcheck, with 84 sets logged ac
 | --- | --- | --- |
 | Tue, 11 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 20 Aug 2026 | Hï Ibiza | Ibiza |
+| Thu, 8 Oct 2026 | Savaya Bali | Bali |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Diplo is a house and techno artist tracked on soundcheck, with 84 sets logged ac
 
 Charlotte de Witte, Claptone, Chris Lake
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*

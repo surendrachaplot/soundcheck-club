@@ -1,14 +1,13 @@
 # The End
 
-The End is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "IMPULSE" on Thu, 9 Jul 2026.
+The End is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Standard Procedures X Impulse - Tech house & Garage" on Thu, 16 Jul 2026.
 
-The End is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including DARQGOLD. Browse upcoming dates, start times and who's playing. Hirst's Yard, Leeds, LS1 6NJ.
+The End is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including DARQGOLD. Browse upcoming dates, start times and who's playing. Hirst's Yard, Leeds, LS1 6NJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | IMPULSE |  |
 | Thu, 16 Jul 2026 | Standard Procedures X Impulse - Tech house & Garage | DARQGOLD |
 | Thu, 16 Jul 2026 | IMPULSE |  |
 | Thu, 23 Jul 2026 | IMPULSE |  |
@@ -19,4 +18,4 @@ The End is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with 
 
 Hirst's Yard, Leeds, LS1 6NJ, Leeds
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-end/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-end/)*

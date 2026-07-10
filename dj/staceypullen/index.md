@@ -1,6 +1,6 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Coda, Toronto on Sat, 11 Jul 2026.
+Stacey Pullen is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Coda, Toronto on Sat, 11 Jul 2026.
 
 Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Coda, Toronto on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets 
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

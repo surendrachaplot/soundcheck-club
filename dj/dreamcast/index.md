@@ -1,6 +1,6 @@
 # dreamcastmoe
 
-dreamcastmoe is a House and R&B artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BERHTA, Washington DC on Fri, 10 Jul 2026.
+dreamcastmoe is a House and R&B artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BERHTA, Washington DC on Fri, 10 Jul 2026.
 
 dreamcastmoe is a house and r&b artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Bradley Zero, DJ Tennis and Jyoty. Next up: BERHTA, Washingtondc on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ dreamcastmoe is a house and r&b artist based in United States of America, tracke
 
 Bradley Zero, DJ Tennis, Jyoty
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*

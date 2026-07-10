@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Max Cooper | 3D/AV Live SHOW" on Fri, 24 Jul 2026.
+Haus der Visionäre is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Max Cooper | 3D/AV Live SHOW" on Fri, 24 Jul 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Alexander Skancke, DJ Senc, Elena Moroder and Eli Verveine and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -16,4 +16,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

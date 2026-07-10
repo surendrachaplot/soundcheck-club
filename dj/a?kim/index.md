@@ -1,13 +1,14 @@
 # AṢKIM
 
-AṢKIM is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Blue Room, Montreal on Thu, 16 Jul 2026.
+AṢKIM is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ESC, Montreal on Sat, 11 Jul 2026.
 
-AṢKIM is a techno and electro artist based in Turkey, tracked on soundcheck, with 12 sets logged across Montreal. Often billed alongside Ada Dielman, Casa Kobrae and Claireyy. Next up: Blue Room, Montreal on Thu 16 Jul.
+AṢKIM is a techno and electro artist based in Turkey, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Ada Dielman, Casa Kobrae and Claireyy. Next up: ESC, Montreal on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 11 Jul 2026 | ESC | Montreal |
 | Thu, 16 Jul 2026 | Blue Room | Montreal |
 | Fri, 24 Jul 2026 | Bain Mathieu | Montreal |
 | Thu, 30 Jul 2026 | Bar Datcha | Montreal |
@@ -27,4 +28,4 @@ AṢKIM is a techno and electro artist based in Turkey, tracked on soundcheck, w
 
 Ada Dielman, Casa Kobrae, Claireyy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a?kim/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a?kim/)*

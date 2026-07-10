@@ -1,6 +1,6 @@
 # Thomas M
 
-Thomas M is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lavallée, Brussels on Fri, 10 Jul 2026.
+Thomas M is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lavallée, Brussels on Fri, 10 Jul 2026.
 
 Thomas M is a progressive house and techno artist based in Belgium, tracked on soundcheck, with 45 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Dave Urania, Juan Del Chambo and Carlos H. Next up: Lavallée, Brussels on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Thomas M is a progressive house and techno artist based in Belgium, tracked on s
 
 Dave Urania, Juan Del Chambo, Carlos H
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasm/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasm/)*

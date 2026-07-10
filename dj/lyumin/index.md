@@ -1,6 +1,6 @@
 # Lyumin
 
-Lyumin is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hertz, Seoul on Thu, 16 Jul 2026.
+Lyumin is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hertz, Seoul on Thu, 16 Jul 2026.
 
 Lyumin is a house and tech house artist based in South Korea, tracked on soundcheck, with 236 sets logged across Barcelona and Seoul. Often billed alongside givogi, .2ndfloor and Mihak. Next up: Hertz, Seoul on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Lyumin is a house and tech house artist based in South Korea, tracked on soundch
 
 givogi, .2ndfloor, Mihak
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyumin/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyumin/)*

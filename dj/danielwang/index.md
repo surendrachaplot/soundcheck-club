@@ -1,6 +1,6 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Kater, Berlin on Tue, 14 Jul 2026.
+Daniel Wang is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kater, Berlin on Tue, 14 Jul 2026.
 
 Daniel Wang is a disco and house artist tracked on soundcheck, with 89 sets logged across Athens, Barcelona, Belfast and Belgrade and 12 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: Kater, Berlin on Tue 14 Jul.
 
@@ -29,4 +29,4 @@ Daniel Wang is a disco and house artist tracked on soundcheck, with 89 sets logg
 
 ADAM MUNNINGS, AAguilAA, DJ Petite
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*

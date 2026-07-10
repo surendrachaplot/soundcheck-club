@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Plush & Catacombs presents:The meat computer OstrichMilk Tour (LIVE IN DUBLIN)" on Tue, 14 Jul 2026.
+The Grand Social is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Plush & Catacombs presents:The meat computer OstrichMilk Tour (LIVE IN DUBLIN)" on Tue, 14 Jul 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including MD (AR), meat computer, Oatmilkandcodeine and Simon Vuarambon and 1 more. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -15,4 +15,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 2 upcoming nig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

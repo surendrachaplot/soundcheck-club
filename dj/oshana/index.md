@@ -1,6 +1,6 @@
 # Oshana
 
-Oshana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hertz, Seoul on Fri, 10 Jul 2026.
+Oshana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hertz, Seoul on Fri, 10 Jul 2026.
 
 Oshana is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Anthea, Astral Travel and Giammarco Orsini. Next up: Hertz, Seoul on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Oshana is a house and techno artist based in United States of America, tracked o
 
 Anthea, Astral Travel, Giammarco Orsini
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*

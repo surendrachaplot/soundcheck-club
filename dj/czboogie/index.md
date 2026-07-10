@@ -1,6 +1,6 @@
 # Czboogie
 
-Czboogie is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chicago, Chicago on Sat, 11 Jul 2026.
+Czboogie is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Chicago, Chicago on Sat, 11 Jul 2026.
 
 Czboogie is a house and deep house artist tracked on soundcheck, with 60 sets logged across Chicago, Detroit and London. Often billed alongside Gant-Man, John Simmons and Gregboi. Next up: Chicago, Chicago on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Czboogie is a house and deep house artist tracked on soundcheck, with 60 sets lo
 
 Gant-Man, John Simmons, Gregboi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/czboogie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/czboogie/)*

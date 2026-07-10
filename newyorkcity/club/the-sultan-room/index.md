@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MIRROR WORSHIP Rooftop" on Fri, 10 Jul 2026.
+The Sultan Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MIRROR WORSHIP Rooftop" on Fri, 10 Jul 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Baby Prince, Charity Kill, Destro187 and Lil'T and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcomin
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

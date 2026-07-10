@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Scorpios, Mykonos on Mon, 13 Jul 2026.
+Dengue Dengue Dengue is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Scorpios, Mykonos on Mon, 13 Jul 2026.
 
 Dengue Dengue Dengue is a techno and electronica artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Basy Tropikalne, Phran and Dj Babatr. Next up: Scorpios, Mykonos on Mon 13 Jul.
 
@@ -28,4 +28,4 @@ Dengue Dengue Dengue is a techno and electronica artist based in Germany, tracke
 
 Basy Tropikalne, Phran, Dj Babatr
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

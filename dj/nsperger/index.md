@@ -1,6 +1,6 @@
 # NSPERGER
 
-NSPERGER is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at KitKatClub, Berlin on Fri, 10 Jul 2026.
+NSPERGER is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KitKatClub, Berlin on Fri, 10 Jul 2026.
 
 NSPERGER is a techno and house artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 3 more. Often billed alongside Katalina Schwarz, Aaron Blau and Daniela Fuzz. Next up: KitKatClub, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ NSPERGER is a techno and house artist tracked on soundcheck, with 12 sets logged
 
 Katalina Schwarz, Aaron Blau, Daniela Fuzz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nsperger/)*

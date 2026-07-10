@@ -1,6 +1,6 @@
 # Studio Stereo x Microdots pres. Kuyateh (until 3am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Microdots pres. Kuyateh (until 3am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 16 Jul, Barcelona. 3 acts on the bill: Kuyateh, TOT. and Villaça. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Microdots pres. Kuyateh (until 3am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 16 Jul, Barcelona. 4 acts on the bill: Kuyateh, TOT (BR), TOT. and Villaça. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Studio Stereo x Microdots pres. Kuyateh (until 3am) at TBA - Studio Stereo, clos
 ## Line-up
 
 - Kuyateh
+- TOT (BR)
 - TOT.
 - Villaça
 

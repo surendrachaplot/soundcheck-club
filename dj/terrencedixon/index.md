@@ -1,6 +1,6 @@
 # Terrence Dixon
 
-Terrence Dixon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at H0L0, New York City on Sat, 11 Jul 2026.
+Terrence Dixon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at H0L0, New York City on Sat, 11 Jul 2026.
 
 Terrence Dixon is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Cody Hammer, DAIYAH and Fred P. Next up: H0L0, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Terrence Dixon is a techno and house artist based in United States of America, t
 
 Cody Hammer, DAIYAH, Fred P
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*

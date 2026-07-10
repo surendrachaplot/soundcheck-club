@@ -1,6 +1,6 @@
 # Sy Sez
 
-Sy Sez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Dutch Master, London on Sat, 11 Jul 2026.
+Sy Sez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Dutch Master, London on Sat, 11 Jul 2026.
 
 Sy Sez is a house and deep house artist tracked on soundcheck, with 56 sets logged across Birmingham, Leeds, Lisbon and Liverpool and 4 more. Often billed alongside Neil Pierce, Jeremy Sylvester and David Bailey (UK). Next up: The Dutch Master, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Sy Sez is a house and deep house artist tracked on soundcheck, with 56 sets logg
 
 Neil Pierce, Jeremy Sylvester, David Bailey (UK)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*

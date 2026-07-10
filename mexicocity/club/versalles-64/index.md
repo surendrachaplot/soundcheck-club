@@ -1,6 +1,6 @@
 # Versalles 64
 
-Versalles 64 is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "[sic]: Nasty / panko / NEGRACONDA" on Sat, 11 Jul 2026.
+Versalles 64 is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "[sic]: Nasty / panko / NEGRACONDA" on Sat, 11 Jul 2026.
 
 Versalles 64 is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Dj E.T., NEGRACONDA, panko and Parches. Browse upcoming dates, start times and who's playing. Calle Versalles 64, Col. Juárez. CDMX.
 
@@ -14,4 +14,4 @@ Versalles 64 is a music venue in Mexicocity listed on soundcheck. 1 upcoming nig
 
 Calle Versalles 64, Col. Juárez. CDMX, Mexico City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*

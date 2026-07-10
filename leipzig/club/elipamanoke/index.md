@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Datsche #30 [indoor & outdoor]" on Fri, 10 Jul 2026.
+elipamanoke is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Datsche #30 [indoor & outdoor]" on Fri, 10 Jul 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 8 upcoming nights, with line-ups including .koshka., Aivee, Atimo and Cyan85 and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -21,4 +21,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 8 upcoming nights,
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MORD x SMUT x Bas Mooy x UVB x Mathys Lenne" on Sat, 11 Jul 2026.
+SMUT Athens is a music venue in Athens with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "MORD x SMUT x Bas Mooy x UVB x Mathys Lenne" on Sat, 11 Jul 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming nights, with line-ups including AgainstMe, Alpha Tracks, Alírio and ANAMORPH_ and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -23,4 +23,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming nights,
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

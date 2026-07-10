@@ -1,6 +1,6 @@
 # Easy Audio
 
-Easy Audio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MONKEY LOVE, Warsaw on Sat, 11 Jul 2026.
+Easy Audio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MONKEY LOVE, Warsaw on Sat, 11 Jul 2026.
 
 Easy Audio is a house and techno artist based in Poland, tracked on soundcheck, with 64 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, Valdemar ST and bart ender. Next up: MONKEY LOVE, Warsaw on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Easy Audio is a house and techno artist based in Poland, tracked on soundcheck, 
 
 Schmeltzer, Valdemar ST, bart ender
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*

@@ -1,6 +1,6 @@
 # Monki
 
-Monki is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 20 Aug 2026.
+Monki is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Monki is a house and tech house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Bali, Bristol and Ibiza and 9 more. Often billed alongside Sam Divine, Hannah Wants and Lowsteppa. Next up: Ushuaïa Ibiza, Ibiza on Thu 20 Aug.
 
@@ -27,4 +27,4 @@ Monki is a house and tech house artist tracked on soundcheck, with 50 sets logge
 
 Sam Divine, Hannah Wants, Lowsteppa
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monki/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monki/)*

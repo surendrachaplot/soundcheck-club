@@ -1,6 +1,6 @@
 # The Old Hairdressers
 
-The Old Hairdressers is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "craftybrownkid with aminabonthebeat, Maxosa, ACE V!S!ON" on Sat, 11 Jul 2026.
+The Old Hairdressers is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "craftybrownkid with aminabonthebeat, Maxosa, ACE V!S!ON" on Sat, 11 Jul 2026.
 
 The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including aminabonthebeat, Craggyland, Konx-om-Pax and Xylitol. Browse upcoming dates, start times and who's playing. 20 - 28 Renfield Lane, G2 6PH Glasgow.
 
@@ -17,4 +17,4 @@ The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 4 upcomin
 
 20 - 28 Renfield Lane, G2 6PH Glasgow, Glasgow
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*

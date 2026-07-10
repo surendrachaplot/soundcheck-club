@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MAD Radio NYC, New York City on Fri, 10 Jul 2026.
+Jimpster is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MAD Radio NYC, New York City on Fri, 10 Jul 2026.
 
 Jimpster is a house and deep house artist tracked on soundcheck, with 78 sets logged across Barcelona, Brighton, Budapest and Chicago and 28 more. Often billed alongside Anton Tumas, Conrad Lee and David Harness. Next up: MAD Radio NYC, Newyorkcity on Fri 10 Jul.
 
@@ -30,4 +30,4 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 78 sets lo
 
 Anton Tumas, Conrad Lee, David Harness
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

@@ -1,6 +1,6 @@
 # Nik Kastel
 
-Nik Kastel is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 1 Aug 2026.
+Nik Kastel is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 1 Aug 2026.
 
 Nik Kastel is a techno and psytrance artist based in Australia, tracked on soundcheck, with 23 sets logged across Brisbane, Melbourne, Paris and Shenzhen and 1 more. Often billed alongside Alex Farell, Andrea Guadalupi and KAYA (AU). Next up: TBA - Il Mercato Centrale, Melbourne on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Nik Kastel is a techno and psytrance artist based in Australia, tracked on sound
 
 Alex Farell, Andrea Guadalupi, KAYA (AU)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*

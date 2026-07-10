@@ -1,6 +1,6 @@
 # Kenny Dope
 
-Kenny Dope is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at smartbar, Chicago on Fri, 10 Jul 2026.
+Kenny Dope is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at smartbar, Chicago on Fri, 10 Jul 2026.
 
 Kenny Dope is a house and deep house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: smartbar, Chicago on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Kenny Dope is a house and deep house artist based in United States of America, t
 
 Terry Hunter, Louie Vega, Young Pulse
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*

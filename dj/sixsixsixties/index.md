@@ -1,6 +1,6 @@
 # Sixsixsixties
 
-Sixsixsixties is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
+Sixsixsixties is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 24 Jul 2026.
 
 Sixsixsixties is a house and techno artist based in Belgium, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Fais Le Beau, Dana Kuehr and Paulo Sea. Next up: La Station - Gare des Mines, Paris on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Sixsixsixties is a house and techno artist based in Belgium, tracked on soundche
 
 Fais Le Beau, Dana Kuehr, Paulo Sea
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsixsixties/)*

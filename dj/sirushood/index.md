@@ -1,6 +1,6 @@
 # Sirus Hood
 
-Sirus Hood is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
+Sirus Hood is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
 
 Sirus Hood is a tech house and house artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 14 more. Often billed alongside Manda Moor, Andrea Oliva and Jean Pierre. Next up: [UNVRS], Ibiza on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Sirus Hood is a tech house and house artist based in France, tracked on soundche
 
 Manda Moor, Andrea Oliva, Jean Pierre
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sirushood/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sirushood/)*

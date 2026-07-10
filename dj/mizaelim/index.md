@@ -1,6 +1,6 @@
 # mizae lim
 
-mizae lim is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Volnost, Seoul on Fri, 10 Jul 2026.
+mizae lim is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Volnost, Seoul on Fri, 10 Jul 2026.
 
 mizae lim is a techno and dub techno artist tracked on soundcheck, with 97 sets logged across Seoul and Tokyo. Often billed alongside DJ SIN, Purusha and Siot. Next up: Volnost, Seoul on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ mizae lim is a techno and dub techno artist tracked on soundcheck, with 97 sets 
 
 DJ SIN, Purusha, Siot
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizaelim/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizaelim/)*

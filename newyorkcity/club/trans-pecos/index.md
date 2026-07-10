@@ -1,6 +1,6 @@
 # Trans-Pecos
 
-Trans-Pecos is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "XQT: chinapoet, .cutspace, Chloe Scarlett, egoseed, katmoji, ClayNation, ear training, wackoes" on Fri, 10 Jul 2026.
+Trans-Pecos is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "XQT: chinapoet, .cutspace, Chloe Scarlett, egoseed, katmoji, ClayNation, ear training, wackoes" on Fri, 10 Jul 2026.
 
 Trans-Pecos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including ARCHANGEL (US), Babypufff, beewack and bossy boots and 2 more. Browse upcoming dates, start times and who's playing. 9-15 Wyckoff Ave, Queens, NY 11385.
 
@@ -17,4 +17,4 @@ Trans-Pecos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nig
 
 9-15 Wyckoff Ave, Queens, NY 11385, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*

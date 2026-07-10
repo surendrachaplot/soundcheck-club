@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "RAUM invites Power Dance Club" on Fri, 10 Jul 2026.
+CLUB RAUM is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "RAUM invites Power Dance Club" on Fri, 10 Jul 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including 36framez, Afra, Aldonna and Alienata and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

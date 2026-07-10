@@ -1,6 +1,6 @@
 # Martin Ka
 
-Martin Ka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ritter Butzke, Berlin on Fri, 10 Jul 2026.
+Martin Ka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ritter Butzke, Berlin on Fri, 10 Jul 2026.
 
 Martin Ka is a techno and house artist tracked on soundcheck, with 58 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 3 more. Often billed alongside vom Feisten, Daniel Neuland and Sin:port. Next up: Ritter Butzke, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Martin Ka is a techno and house artist tracked on soundcheck, with 58 sets logge
 
 vom Feisten, Daniel Neuland, Sin:port
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinka/)*

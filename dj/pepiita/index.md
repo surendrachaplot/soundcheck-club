@@ -1,6 +1,6 @@
 # PEPIITA
 
-PEPIITA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
+PEPIITA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
 
 PEPIITA is a techno and house artist based in France, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Istanbul and Lyon and 2 more. Often billed alongside RAG, Lea Occhi and Nicol. Next up: CLUB RAUM, Amsterdam on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ PEPIITA is a techno and house artist based in France, tracked on soundcheck, wit
 
 RAG, Lea Occhi, Nicol
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*

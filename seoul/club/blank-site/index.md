@@ -1,6 +1,6 @@
 # Blank Site
 
-Blank Site is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BBCB NIGHT I with Sarah Sommers (DE - LIVE SET)" on Sat, 11 Jul 2026.
+Blank Site is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BBCB NIGHT I with Sarah Sommers (DE - LIVE SET)" on Sat, 11 Jul 2026.
 
 Blank Site is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including ANSR, CHICHI (2), François X and HASLA and 2 more. Browse upcoming dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
 
@@ -15,4 +15,4 @@ Blank Site is a music venue in Seoul listed on soundcheck. 2 upcoming nights, wi
 
 B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*

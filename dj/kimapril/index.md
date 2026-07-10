@@ -1,6 +1,6 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 11 Jul 2026.
+Kim April is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 11 Jul 2026.
 
 Kim April is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside Job de Jong, M-High and ELVI (SE). Next up: Ushuaïa Ibiza, Ibiza on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Kim April is a house and tech house artist tracked on soundcheck, with 78 sets l
 
 Job de Jong, M-High, ELVI (SE)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

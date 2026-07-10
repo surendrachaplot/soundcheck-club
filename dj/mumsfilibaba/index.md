@@ -1,6 +1,6 @@
 # Mumsfilibaba
 
-Mumsfilibaba is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at 12 x 12, Bangkok on Fri, 10 Jul 2026.
+Mumsfilibaba is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 12 x 12, Bangkok on Fri, 10 Jul 2026.
 
 Mumsfilibaba is a house and tech house artist tracked on soundcheck, with 67 sets logged across Bangkok, Copenhagen, Hongkong and Madrid and 5 more. Often billed alongside Brent Burns, DOTT and Jayja. Next up: 12 x 12, Bangkok on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Mumsfilibaba is a house and tech house artist tracked on soundcheck, with 67 set
 
 Brent Burns, DOTT, Jayja
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*

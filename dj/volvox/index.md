@@ -1,6 +1,6 @@
 # Volvox
 
-Volvox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Refuge, New York City on Fri, 10 Jul 2026.
+Volvox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Refuge, New York City on Fri, 10 Jul 2026.
 
 Volvox is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bali and 41 more. Often billed alongside Boris, Ellen Allien and Elli Acula. Next up: Refuge, Newyorkcity on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Volvox is a techno and house artist tracked on soundcheck, with 145 sets logged 
 
 Boris, Ellen Allien, Elli Acula
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

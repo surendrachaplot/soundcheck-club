@@ -1,6 +1,6 @@
 # TBA - Porto (Vila Nova de Gaia)
 
-TBA - Porto (Vila Nova de Gaia) is a music venue in Porto with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Cabaret Mobille" on Sat, 19 Sept 2026.
+TBA - Porto (Vila Nova de Gaia) is a music venue in Porto with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Cabaret Mobille" on Sat, 19 Sept 2026.
 
 TBA - Porto (Vila Nova de Gaia) is a music venue in Porto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Porto (Vila Nova de Gaia) is a music venue in Porto listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Cabaret Mobille |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/tba-porto-vila-nova-de-gaia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/tba-porto-vila-nova-de-gaia/)*

@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 16 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Zagareet: yetpet & Yadin Moha" on Fri, 10 Jul 2026.
+宀 Club is a music venue in Hong Kong with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Zagareet: yetpet & Yadin Moha" on Fri, 10 Jul 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 16 upcoming nights, with line-ups including A Strange Wedding, Charlieowo, DJ Yazi and Faxtory and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

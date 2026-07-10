@@ -1,6 +1,6 @@
 # Arlo
 
-Arlo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 11 Jul 2026.
+Arlo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 11 Jul 2026.
 
 Arlo is a house and tech house artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Bristol, Chicago and Miami and 4 more. Often billed alongside Martini Raw, AMARI and ARTIIC. Next up: Jolene Downtown Miami, Miami on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Arlo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Martini Raw, AMARI, ARTIIC
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*

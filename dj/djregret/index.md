@@ -1,6 +1,6 @@
 # DJ Regret
 
-DJ Regret is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Humboldthain Club, Berlin on Sat, 11 Jul 2026.
+DJ Regret is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Humboldthain Club, Berlin on Sat, 11 Jul 2026.
 
 DJ Regret is a techno and electro artist based in Turkey, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg and Istanbul. Often billed alongside JEDRANALINE, Potkid and ECE (DE). Next up: Humboldthain Club, Berlin on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ DJ Regret is a techno and electro artist based in Turkey, tracked on soundcheck,
 
 JEDRANALINE, Potkid, ECE (DE)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djregret/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djregret/)*

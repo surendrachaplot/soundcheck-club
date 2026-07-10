@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Umoya, Naples on Sun, 12 Jul 2026.
+Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Umoya, Naples on Sun, 12 Jul 2026.
 
 Call Super is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: Umoya, Naples on Sun 12 Jul.
 
@@ -36,4 +36,4 @@ Call Super is a techno and house artist tracked on soundcheck, with 202 sets log
 
 Anz, Shanti Celeste, Objekt
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

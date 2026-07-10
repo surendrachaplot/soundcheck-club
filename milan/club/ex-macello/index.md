@@ -1,6 +1,6 @@
 # Ex Macello
 
-Ex Macello is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Le Cannibale Ex Macello - Bawrut, Gima" on Sat, 11 Jul 2026.
+Ex Macello is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Le Cannibale Ex Macello - Bawrut, Gima" on Sat, 11 Jul 2026.
 
 Ex Macello is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Bawrut, Charlotte de Witte, Leo Mas and Michael Bibi and 2 more. Browse upcoming dates, start times and who's playing. Viale Molise, 62, 20137 Milano MI.
 
@@ -18,4 +18,4 @@ Ex Macello is a music venue in Milan listed on soundcheck. 5 upcoming nights, wi
 
 Viale Molise, 62, 20137 Milano MI, Milan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*

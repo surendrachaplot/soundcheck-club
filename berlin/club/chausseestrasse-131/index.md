@@ -1,6 +1,6 @@
 # Chausseestrasse 131
 
-Chausseestrasse 131 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "p u s h" on Fri, 10 Jul 2026.
+Chausseestrasse 131 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "p u s h" on Fri, 10 Jul 2026.
 
 Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including .JKM, Kenzo Sone, Loodas and M21SIX. Browse upcoming dates, start times and who's playing. Chausseestrasse 131, 10115 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 2 upcoming 
 
 Chausseestrasse 131, 10115 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*

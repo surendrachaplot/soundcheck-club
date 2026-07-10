@@ -1,6 +1,6 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
+O'Flynn is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
 
 O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Brighton and Bristol and 23 more. Often billed alongside Dan Shake, Jasper Tygner and Archie Holmes. Next up: Amnesia Ibiza, Ibiza on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 
 Dan Shake, Jasper Tygner, Archie Holmes
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

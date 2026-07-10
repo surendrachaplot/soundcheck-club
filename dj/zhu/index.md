@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Roundhouse, London on Sat, 18 Jul 2026.
+ZHU is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Roundhouse, London on Sat, 18 Jul 2026.
 
 ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Chicago, Denver, Detroit and Ibiza and 9 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: The Roundhouse, London on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 
 Diplo, Azzecca, Biscits
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

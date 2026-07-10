@@ -1,6 +1,6 @@
 # Hal25
 
-Hal25 is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Legacy Outdoor Festival 11 juli 2026" on Sat, 11 Jul 2026.
+Hal25 is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Legacy Outdoor Festival 11 juli 2026" on Sat, 11 Jul 2026.
 
 Hal25 is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Aiden Francis, Amelia Leigh, Buzz Fuzz and Kamma and 2 more. Browse upcoming dates, start times and who's playing. Pettemerstraat 15, 1823 CW Alkmaar.
 
@@ -15,4 +15,4 @@ Hal25 is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, wit
 
 Pettemerstraat 15, 1823 CW Alkmaar, Amsterdam
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hal25/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hal25/)*

@@ -1,8 +1,8 @@
 # Soup
 
-Soup is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Kuta 016 // Otis, waltur, mamba.exe, Trance Fairies " on Fri, 10 Jul 2026.
+Soup is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kuta 016 // Otis, waltur, mamba.exe, Trance Fairies " on Fri, 10 Jul 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including aminabonthebeat, A.Morgan, AYDJ and Big Dope P and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including aminabonthebeat, A.Morgan, AYDJ and Big Dope P and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

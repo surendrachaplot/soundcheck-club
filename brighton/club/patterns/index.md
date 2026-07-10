@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Deep Cuts Terrace Party - Dancehall, Dub, Jungle" on Fri, 10 Jul 2026.
+Patterns is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Deep Cuts Terrace Party - Dancehall, Dub, Jungle" on Fri, 10 Jul 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including Asa Tate, Benji Hedonator, Dj Streaks and Dufraine and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 11 upcoming nights, 
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

@@ -1,6 +1,6 @@
 # Nosaj Thing
 
-Nosaj Thing is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at MoN Takanawa, Tokyo on Sat, 11 Jul 2026.
+Nosaj Thing is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MoN Takanawa, Tokyo on Sat, 11 Jul 2026.
 
 Nosaj Thing is a techno and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Austin and Bangkok and 28 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: MoN Takanawa, Tokyo on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Nosaj Thing is a techno and house artist based in United States of America, trac
 
 Jacques Greene, Daito Manabe, Chloé Caillet
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*

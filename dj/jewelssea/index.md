@@ -1,6 +1,6 @@
 # JEWELSSEA
 
-JEWELSSEA is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bastet, Philadelphia on Fri, 10 Jul 2026.
+JEWELSSEA is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bastet, Philadelphia on Fri, 10 Jul 2026.
 
 JEWELSSEA is a club and techno artist based in United States of America, tracked on soundcheck, with 114 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 3 more. Often billed alongside low iron, Phreakwency and SHUGAZI. Next up: Bastet, Philadelphia on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ JEWELSSEA is a club and techno artist based in United States of America, tracked
 
 low iron, Phreakwency, SHUGAZI
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*

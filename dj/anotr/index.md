@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pacha New York, New York City on Fri, 10 Jul 2026.
+ANOTR is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pacha New York, New York City on Fri, 10 Jul 2026.
 
 ANOTR is a house and tech house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Pacha New York, Newyorkcity on Fri 10 Jul.
 
@@ -36,4 +36,4 @@ ANOTR is a house and tech house artist tracked on soundcheck, with 149 sets logg
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

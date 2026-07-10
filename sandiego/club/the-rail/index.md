@@ -1,6 +1,6 @@
 # The Rail
 
-The Rail is a music venue in San Diego with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Steam San Diego Pre-pride" on Fri, 10 Jul 2026.
+The Rail is a music venue in San Diego with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Steam San Diego Pre-pride" on Fri, 10 Jul 2026.
 
 The Rail is a music venue in Sandiego listed on soundcheck. 3 upcoming nights, with line-ups including Danny Lethal. Browse upcoming dates, start times and who's playing. 5th Avenue, San Diego, CA 92103, USA.
 
@@ -16,4 +16,4 @@ The Rail is a music venue in Sandiego listed on soundcheck. 3 upcoming nights, w
 
 5th Avenue, San Diego, CA 92103, USA, San Diego
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-rail/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-rail/)*

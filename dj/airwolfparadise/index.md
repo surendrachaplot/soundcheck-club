@@ -1,6 +1,6 @@
 # Airwolf Paradise
 
-Airwolf Paradise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 24 Jul 2026.
+Airwolf Paradise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Airwolf Paradise is a house and tech house artist tracked on soundcheck, with 46 sets logged across Austin, Australiancapitalterritory, Bali and Belfast and 17 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: Ushuaïa Ibiza, Ibiza on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Airwolf Paradise is a house and tech house artist tracked on soundcheck, with 46
 
 Torren Foot, Patrick Topping, Dom Dolla
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*

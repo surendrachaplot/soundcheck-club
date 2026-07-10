@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Prins Thomas b2b Bjorn Torske" on Fri, 10 Jul 2026.
+Oxford Art Factory is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Prins Thomas b2b Bjorn Torske" on Fri, 10 Jul 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 8 upcoming nights, with line-ups including DJ LONER, Grasps, Maison Ware and Marcus Whale and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -21,4 +21,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 8 upcoming n
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

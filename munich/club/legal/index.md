@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Legal KLUBNACHT w./ Angel, WITTGENSTEIN, Zsa-Zsa, CHUBBS, DJ HOT" on Fri, 10 Jul 2026.
+Legal is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Legal KLUBNACHT w./ Angel, WITTGENSTEIN, Zsa-Zsa, CHUBBS, DJ HOT" on Fri, 10 Jul 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including A-DEE, Angel (GR), Bogus Trumper and CHIEF QUEEF and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -18,4 +18,4 @@ Legal is a music venue in Munich listed on soundcheck. 5 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

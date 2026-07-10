@@ -1,14 +1,15 @@
 # Alex Pastor
 
-Alex Pastor is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Flash, Washington DC on Fri, 10 Jul 2026.
+Alex Pastor is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Flash, Washington DC on Fri, 10 Jul 2026.
 
-Alex Pastor is a house and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Boston, Chicago, Denver and Detroit and 7 more. Often billed alongside Kev Gee, John Patrick and Connor Mikami. Next up: Flash, Washingtondc on Fri 10 Jul.
+Alex Pastor is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Boston, Chicago, Denver and Detroit and 7 more. Often billed alongside Kev Gee, John Patrick and Connor Mikami. Next up: Flash, Washingtondc on Fri 10 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | Flash | Washington DC |
+| Sun, 12 Jul 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Sun, 12 Jul 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Fri, 17 Jul 2026 | TBA | Boston |
 
@@ -27,4 +28,4 @@ Alex Pastor is a house and techno artist based in United States of America, trac
 
 Kev Gee, John Patrick, Connor Mikami
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*

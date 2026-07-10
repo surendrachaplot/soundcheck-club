@@ -1,6 +1,6 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at fabric, London on Sun, 26 Jul 2026.
+Alvaro Medina is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at fabric, London on Sun, 26 Jul 2026.
 
 Alvaro Medina is a house and minimal artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside MARYO, Federico Molinari and Nekes. Next up: fabric, London on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Alvaro Medina is a house and minimal artist based in Spain, tracked on soundchec
 
 MARYO, Federico Molinari, Nekes
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*

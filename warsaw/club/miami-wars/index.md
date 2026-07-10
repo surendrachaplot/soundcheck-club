@@ -1,6 +1,6 @@
 # Miami Wars
 
-Miami Wars is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Synergy Cult pres. Trippsy [LT/UA], mFX [DE], stereometrix (live) & Aist" on Fri, 10 Jul 2026.
+Miami Wars is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Synergy Cult pres. Trippsy [LT/UA], mFX [DE], stereometrix (live) & Aist" on Fri, 10 Jul 2026.
 
 Miami Wars is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including aist (LT), Ilya Semashkevich, MFX (1) and Michalec and 2 more. Browse upcoming dates, start times and who's playing. Solec 8, 00-439 Warszawa.
 
@@ -17,4 +17,4 @@ Miami Wars is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, w
 
 Solec 8, 00-439 Warszawa, Warsaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/miami-wars/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/miami-wars/)*

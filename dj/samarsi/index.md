@@ -1,6 +1,6 @@
 # samarsi
 
-samarsi is a House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Samigo Amusement, Zurich on Sat, 11 Jul 2026.
+samarsi is a House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Samigo Amusement, Zurich on Sat, 11 Jul 2026.
 
 samarsi is a house artist based in Switzerland, tracked on soundcheck, with 13 sets logged across Basel and Zurich. Often billed alongside Animal Trainer, Juli Lee and Manuel Moreno. Next up: Samigo Amusement, Zurich on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ samarsi is a house artist based in Switzerland, tracked on soundcheck, with 13 s
 
 Animal Trainer, Juli Lee, Manuel Moreno
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samarsi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samarsi/)*

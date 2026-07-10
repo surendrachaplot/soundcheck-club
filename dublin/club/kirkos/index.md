@@ -1,6 +1,6 @@
 # Kirkos
 
-Kirkos is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "BORED IN THE CITY : Malachy Sammon" on Fri, 10 Jul 2026.
+Kirkos is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BORED IN THE CITY : Malachy Sammon" on Fri, 10 Jul 2026.
 
 Kirkos is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Little Green Street, D07 K744.
 
@@ -15,4 +15,4 @@ Kirkos is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Brows
 
 Little Green Street, D07 K744, Dublin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/kirkos/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/kirkos/)*

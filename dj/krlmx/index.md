@@ -1,6 +1,6 @@
 # Krl Mx
 
-Krl Mx is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at La Cité Fertile, Paris on Sat, 18 Jul 2026.
+Krl Mx is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Cité Fertile, Paris on Sat, 18 Jul 2026.
 
 Krl Mx is a techno and trance artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside Shlømo, Tham and LESSSS. Next up: La Cité Fertile, Paris on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Krl Mx is a techno and trance artist tracked on soundcheck, with 117 sets logged
 
 Shlømo, Tham, LESSSS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*

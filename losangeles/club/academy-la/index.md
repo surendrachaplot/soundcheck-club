@@ -1,6 +1,6 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "R3HAB" on Sat, 11 Jul 2026.
+Academy LA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "R3HAB" on Sat, 11 Jul 2026.
 
 Academy LA is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
@@ -15,4 +15,4 @@ Academy LA is a music venue in Losangeles listed on soundcheck. 2 upcoming night
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

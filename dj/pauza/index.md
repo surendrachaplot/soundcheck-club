@@ -1,6 +1,6 @@
 # PAUZA
 
-PAUZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Aurathebunker, Grellingen (CH), Basel on Sat, 11 Jul 2026.
+PAUZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Aurathebunker, Grellingen (CH), Basel on Sat, 11 Jul 2026.
 
 PAUZA is a house and techno artist tracked on soundcheck, with 44 sets logged across Antwerp, Barcelona, Basel and Brussels and 14 more. Often billed alongside Carl Cox, fajardo and jose fajardo. Next up: Aurathebunker, Grellingen (CH), Basel on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ PAUZA is a house and techno artist tracked on soundcheck, with 44 sets logged ac
 
 Carl Cox, fajardo, jose fajardo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauza/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauza/)*

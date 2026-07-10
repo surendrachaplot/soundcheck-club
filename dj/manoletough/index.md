@@ -1,6 +1,6 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lux Fragil, Lisbon on Fri, 17 Jul 2026.
+Mano Le Tough is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lux Fragil, Lisbon on Fri, 17 Jul 2026.
 
 Mano Le Tough is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Âme, Sossa and DJ Tennis. Next up: Lux Fragil, Lisbon on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Mano Le Tough is a house and techno artist tracked on soundcheck, with 159 sets 
 
 Âme, Sossa, DJ Tennis
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

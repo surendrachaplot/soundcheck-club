@@ -1,6 +1,6 @@
 # Noto Philadelphia
 
-Noto Philadelphia is a music venue in Philadelphia with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Philly Noto Gherbo 07/11" on Sat, 11 Jul 2026.
+Noto Philadelphia is a music venue in Philadelphia with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Philly Noto Gherbo 07/11" on Sat, 11 Jul 2026.
 
 Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 7 upcoming nights, with line-ups including Cosmic Gate, Kyle Watson, Maddalena and Mayank. Browse upcoming dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
 
@@ -20,4 +20,4 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 7 upcom
 
 1209 Vine Street Philadelphia, Pennsylvania, Philadelphia
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*

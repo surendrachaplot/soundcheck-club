@@ -1,6 +1,6 @@
 # Aiden Francis
 
-Aiden Francis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
+Aiden Francis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
 
 Aiden Francis is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Berlin and Bristol and 9 more. Often billed alongside Fastlove, Bollibubbles and Angel D'lite. Next up: TILLATEC, Amsterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Aiden Francis is a house and techno artist tracked on soundcheck, with 67 sets l
 
 Fastlove, Bollibubbles, Angel D'lite
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenfrancis/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenfrancis/)*

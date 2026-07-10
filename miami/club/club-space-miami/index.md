@@ -1,6 +1,6 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Wax Motif, Devault & Dansyn" on Fri, 10 Jul 2026.
+Club Space Miami is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Wax Motif, Devault & Dansyn" on Fri, 10 Jul 2026.
 
 Club Space Miami is a music venue in Miami listed on soundcheck. 5 upcoming nights, with line-ups including 19:26, AABEL, Adam Sellouk and Art Department and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
@@ -18,4 +18,4 @@ Club Space Miami is a music venue in Miami listed on soundcheck. 5 upcoming nigh
 
 34 NE 11th St; Miami, FL 33132; United States, Miami
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-space-miami/)*

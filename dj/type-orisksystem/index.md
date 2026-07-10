@@ -1,6 +1,6 @@
 # TYPE-O RISK SYSTEM
 
-TYPE-O RISK SYSTEM is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 10 Jul 2026.
+TYPE-O RISK SYSTEM is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 10 Jul 2026.
 
 TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on soundcheck, with 44 sets logged across Osaka and Tokyo. Often billed alongside EVE (1), KAMIKAZE and YPF. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ TYPE-O RISK SYSTEM is a techno and industrial artist based in Japan, tracked on 
 
 EVE (1), KAMIKAZE, YPF
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/type-orisksystem/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/type-orisksystem/)*

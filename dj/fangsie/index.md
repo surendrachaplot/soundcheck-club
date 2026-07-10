@@ -1,6 +1,6 @@
 # fangsie
 
-fangsie is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Le Belmont, Montreal on Fri, 10 Jul 2026.
+fangsie is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Le Belmont, Montreal on Fri, 10 Jul 2026.
 
 fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal and Newyorkcity. Often billed alongside sineila, the bald girl and Baby Bimbo. Next up: Le Belmont, Montreal on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, 
 
 sineila, the bald girl, Baby Bimbo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*

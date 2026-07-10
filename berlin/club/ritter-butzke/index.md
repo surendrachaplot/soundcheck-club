@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Echos of Utopia (Open Air & Indoor) - free entry until 8pm" on Fri, 10 Jul 2026.
+Ritter Butzke is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Echos of Utopia (Open Air & Indoor) - free entry until 8pm" on Fri, 10 Jul 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Alma Negrot, BEC, Blossmbae and Bøgen and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

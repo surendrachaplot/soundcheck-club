@@ -1,8 +1,8 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
+Heidi Lawden is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
 
-Heidi Lawden is a house and disco artist tracked on soundcheck, with 161 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
+Heidi Lawden is a house and disco artist tracked on soundcheck, with 162 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 161 sets lo
 | --- | --- | --- |
 | Fri, 10 Jul 2026 | TBA - 1800 Ocean Front Walk, Venice  | Los Angeles |
 | Sat, 11 Jul 2026 | TBA - 2346 Porter Street, Los Angeles, CA 90021 | Los Angeles |
+| Sun, 12 Jul 2026 | The Escondite (The Hideout) | Los Angeles |
 | Fri, 17 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 23 Jul 2026 | TBA - address sent to all ticket holders  | London |
 | Sat, 25 Jul 2026 | Kater | Berlin |
@@ -33,4 +34,4 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 161 sets lo
 
 Masha Mar, Lovefingers, Masha
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*

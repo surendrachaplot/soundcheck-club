@@ -1,14 +1,13 @@
 # Honey's
 
-Honey's is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "broken beats" on Thu, 9 Jul 2026.
+Honey's is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "IMPULSE CØNTROL // Pop-up with Beau Didier" on Fri, 10 Jul 2026.
 
-Honey's is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 1ol1v1a, Adam Rose, A lana and Ali Stack and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
+Honey's is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including 1ol1v1a, Adam Rose, A lana and Ali Stack and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | broken beats | Ayanna Heaven, chuki, cry$cross |
 | Fri, 10 Jul 2026 | IMPULSE CØNTROL // Pop-up with Beau Didier | Beau Didier, Michelle Kay, Ramsey Neville |
 | Sat, 11 Jul 2026 | Kissa Mode (Rooftop Vinyl Party) | A lana |
 | Sat, 11 Jul 2026 | panatekk | Just Another Bitch, LaFHomme, Sevyn Love |
@@ -18,9 +17,10 @@ Honey's is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights
 | Sat, 18 Jul 2026 | Gleam: Special Guest, EscaFlowne, Bone Bone (live), Tiny T-Bone | EscaFlowne, Feargal (2), Mole (US), Tiny T-Bone |
 | Thu, 23 Jul 2026 | PEPPERPOT: girl_irl, amita, NINE11, CH3RI, Samantha DaSilva, DJ ANEE | CH3RI, NINE11, Samantha DaSilva, amita, girl_irl |
 | Sat, 25 Jul 2026 | RAW CUTS: Not Without Friends After Party | Adam Rose, Bea Trinidad, Jordan Brando, Luke Alessi, William Kiss, gabby cocco, shanty mane |
+| Sat, 25 Jul 2026 | Community Hole Day Party | Brutal Twink, SWIMMIE, Subcultures, Zeigler, maenad |
 
 ## Address
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

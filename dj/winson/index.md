@@ -1,8 +1,8 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Eden, Ibiza on Tue, 21 Jul 2026.
+Winson is a Techno and Deep House artist with 14 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Eden, Ibiza on Tue, 21 Jul 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Eden, Ibiza on Tue 21 Jul.
+Winson is a techno and deep house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Eden, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Winson is a techno and deep house artist tracked on soundcheck, with 68 sets log
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

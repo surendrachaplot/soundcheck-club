@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "fi x NUOBN x Uptown Records Vinyl Bus" on Fri, 10 Jul 2026.
+fi is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "fi x NUOBN x Uptown Records Vinyl Bus" on Fri, 10 Jul 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Björn Torwellen, Chlär, Diskohengst and Etane and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -21,4 +21,4 @@ fi is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

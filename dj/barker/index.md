@@ -1,6 +1,6 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Barker is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Barker is a techno and experimental artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -32,4 +32,4 @@ Barker is a techno and experimental artist tracked on soundcheck, with 84 sets l
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

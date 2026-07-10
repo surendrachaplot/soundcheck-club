@@ -1,6 +1,6 @@
 # Stavroz
 
-Stavroz is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gent Jazz Festival, Ghent on Thu, 16 Jul 2026.
+Stavroz is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gent Jazz Festival, Ghent on Thu, 16 Jul 2026.
 
 Stavroz is a house and electronica artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Auckland and Barcelona and 22 more. Often billed alongside Mira, Lola Bozzano and Myd. Next up: Gent Jazz Festival, Ghent on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Stavroz is a house and electronica artist tracked on soundcheck, with 64 sets lo
 
 Mira, Lola Bozzano, Myd
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stavroz/)*

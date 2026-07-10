@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at fabric, London on Fri, 10 Jul 2026.
+Linska is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at fabric, London on Fri, 10 Jul 2026.
 
 Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside Gorgon City, Adam Beyer and Riordan. Next up: fabric, London on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gorgon City, Adam Beyer, Riordan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

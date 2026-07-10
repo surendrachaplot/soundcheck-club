@@ -1,6 +1,6 @@
 # OZA
 
-OZA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 24 Jul 2026.
+OZA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 24 Jul 2026.
 
 OZA is a techno and trance artist based in United States of America, tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Boston and Losangeles and 8 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Studio Club Malaga, Malaga on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ OZA is a techno and trance artist based in United States of America, tracked on 
 
 DJ Gigola, MCR-T, PALMA (US)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*

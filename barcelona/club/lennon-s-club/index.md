@@ -1,6 +1,6 @@
 # Lennon's Club
 
-Lennon's Club is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Musicón" on Fri, 10 Jul 2026.
+Lennon's Club is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Musicón" on Fri, 10 Jul 2026.
 
 Lennon's Club is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Dispël. Browse upcoming dates, start times and who's playing. Av. Fabregada, 91, 08901 L'Hospitalet de Llobregat, Barcelona.
 
@@ -17,4 +17,4 @@ Lennon's Club is a music venue in Barcelona listed on soundcheck. 4 upcoming nig
 
 Av. Fabregada, 91, 08901 L'Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/lennon-s-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/lennon-s-club/)*

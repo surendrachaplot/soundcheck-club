@@ -1,6 +1,6 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sunset Rooftop Party with Ali Farahani at Via Hotel" on Sun, 19 Jul 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sunset Rooftop Party with Ali Farahani at Via Hotel" on Sun, 19 Jul 2026.
 
 Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Ali Farahani, Alkemiss Erika, Luttrell and Sainte Vie. Browse upcoming dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
@@ -17,4 +17,4 @@ Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nigh
 
 138 King St. San Francisco, CA 94107, San Francisco/Oakland
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*

@@ -1,6 +1,6 @@
 # The Dutch Master
 
-The Dutch Master is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Deep into Soul x Mi Casa Summer Boat Party" on Sat, 11 Jul 2026.
+The Dutch Master is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Deep into Soul x Mi Casa Summer Boat Party" on Sat, 11 Jul 2026.
 
 The Dutch Master is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including AmyElle, Andrew Sharpe, David Bailey (UK) and Dean Jay and 2 more. Browse upcoming dates, start times and who's playing. Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom.
 
@@ -16,4 +16,4 @@ The Dutch Master is a music venue in London listed on soundcheck. 3 upcoming nig
 
 Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dutch-master/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dutch-master/)*

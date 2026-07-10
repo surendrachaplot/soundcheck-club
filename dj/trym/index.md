@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
+Trym is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
 Trym is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Trym is a techno and house artist tracked on soundcheck, with 168 sets logged ac
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

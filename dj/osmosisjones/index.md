@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Sat, 11 Jul 2026.
+Osmosis Jones is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Sat, 11 Jul 2026.
 
 Osmosis Jones is a garage and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Bali and 21 more. Often billed alongside IsGwan, Prizefight and WOLTERS. Next up: Ostrov Štvanice, Prague on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Osmosis Jones is a garage and house artist tracked on soundcheck, with 81 sets l
 
 IsGwan, Prizefight, WOLTERS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

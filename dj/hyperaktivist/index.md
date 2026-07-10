@@ -1,6 +1,6 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 11 Jul 2026.
+Hyperaktivist is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 11 Jul 2026.
 
 Hyperaktivist is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Karmen Camina, Strasbourg on Sat 11 Jul.
 
@@ -33,4 +33,4 @@ Hyperaktivist is a techno and house artist tracked on soundcheck, with 169 sets 
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*

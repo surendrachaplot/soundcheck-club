@@ -1,6 +1,6 @@
 # Avsluta
 
-Avsluta is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sun, 12 Jul 2026.
+Avsluta is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sun, 12 Jul 2026.
 
 Avsluta is a techno and ambient artist tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Brussels and London and 6 more. Often billed alongside Alicia (UK), Christian Duka and Luther Vine. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Avsluta is a techno and ambient artist tracked on soundcheck, with 56 sets logge
 
 Alicia (UK), Christian Duka, Luther Vine
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avsluta/)*

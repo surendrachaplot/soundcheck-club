@@ -1,6 +1,6 @@
 # nataliepops
 
-nataliepops is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Mood Ring, New York City on Fri, 17 Jul 2026.
+nataliepops is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mood Ring, New York City on Fri, 17 Jul 2026.
 
 nataliepops is a techno and house artist tracked on soundcheck, with 69 sets logged across Mexicocity, Newyorkcity and Washingtondc. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: Mood Ring, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ nataliepops is a techno and house artist tracked on soundcheck, with 69 sets log
 
 ethereal.mvp, Pacha DJ, kyxm
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*

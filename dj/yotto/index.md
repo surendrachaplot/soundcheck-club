@@ -1,6 +1,6 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Melkweg, Amsterdam on Fri, 10 Jul 2026.
+Yotto is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Melkweg, Amsterdam on Fri, 10 Jul 2026.
 
 Yotto is a progressive house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: Melkweg, Amsterdam on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Yotto is a progressive house and techno artist tracked on soundcheck, with 97 se
 
 Nicky Elisabeth, Cristoph, Qrion
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

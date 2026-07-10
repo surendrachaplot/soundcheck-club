@@ -1,6 +1,6 @@
 # Bad Rabbit Coffee
 
-Bad Rabbit Coffee is a music venue in Denver with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Espresso Sessions°" on Sat, 11 Jul 2026.
+Bad Rabbit Coffee is a music venue in Denver with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Espresso Sessions°" on Sat, 11 Jul 2026.
 
 Bad Rabbit Coffee is a music venue in Denver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3827 Lafayette St, Denver, CO 80205.
 
@@ -14,4 +14,4 @@ Bad Rabbit Coffee is a music venue in Denver listed on soundcheck. 1 upcoming ni
 
 3827 Lafayette St, Denver, CO 80205, Denver
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/bad-rabbit-coffee/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/bad-rabbit-coffee/)*

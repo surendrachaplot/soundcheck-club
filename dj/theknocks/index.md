@@ -1,6 +1,6 @@
 # The Knocks
 
-The Knocks is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 10 Jul 2026.
+The Knocks is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 10 Jul 2026.
 
 The Knocks is a house and electronica artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Destructo, KSHMR and LOVRA. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ The Knocks is a house and electronica artist based in United States of America, 
 
 Destructo, KSHMR, LOVRA
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*

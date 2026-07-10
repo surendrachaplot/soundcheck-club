@@ -1,6 +1,6 @@
 # Jesse Maas
 
-Jesse Maas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Jesse Maas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
 Jesse Maas is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Barcelona and Dublin and 11 more. Often billed alongside Prunk, Boss Priester and Dennis Quin. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Jesse Maas is a house and tech house artist tracked on soundcheck, with 70 sets 
 
 Prunk, Boss Priester, Dennis Quin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*

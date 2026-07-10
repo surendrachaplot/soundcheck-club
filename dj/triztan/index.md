@@ -1,6 +1,6 @@
 # TRIZTAN
 
-TRIZTAN is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Hangar48 Club, Madrid on Sat, 11 Jul 2026.
+TRIZTAN is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hangar48 Club, Madrid on Sat, 11 Jul 2026.
 
 TRIZTAN is a house and afro house artist based in Mexico, tracked on soundcheck, with 58 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Diego Walle, Disco 86 and Enya Botello. Next up: Hangar48 Club, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ TRIZTAN is a house and afro house artist based in Mexico, tracked on soundcheck,
 
 Diego Walle, Disco 86, Enya Botello
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triztan/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triztan/)*

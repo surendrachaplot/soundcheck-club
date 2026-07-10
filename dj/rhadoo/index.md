@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The White Hotel, Manchester on Fri, 10 Jul 2026.
+Rhadoo is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The White Hotel, Manchester on Fri, 10 Jul 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: The White Hotel, Manchester on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 171 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

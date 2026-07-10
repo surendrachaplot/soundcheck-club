@@ -1,6 +1,6 @@
 # Matadero Madrid
 
-Matadero Madrid is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "TARDES DE ESCUCHA Y REFUGIO" on Wed, 22 Jul 2026.
+Matadero Madrid is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "TARDES DE ESCUCHA Y REFUGIO" on Wed, 22 Jul 2026.
 
 Matadero Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including DJ Feet, Josephine and Valium. Browse upcoming dates, start times and who's playing. Paseo de la Chopera, 14, 28045 Madrid, España.
 
@@ -15,4 +15,4 @@ Matadero Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming nigh
 
 Paseo de la Chopera, 14, 28045 Madrid, España, Madrid
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/matadero-madrid/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/matadero-madrid/)*

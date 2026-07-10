@@ -1,6 +1,6 @@
 # DJ Tara
 
-DJ Tara is a House and R&B artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Good Room, New York City on Fri, 10 Jul 2026.
+DJ Tara is a House and R&B artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Good Room, New York City on Fri, 10 Jul 2026.
 
 DJ Tara is a house and r&b artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Detroit, London and Losangeles and 1 more. Often billed alongside FLORA, Toribio and Donis. Next up: Good Room, Newyorkcity on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ DJ Tara is a house and r&b artist based in United States of America, tracked on 
 
 FLORA, Toribio, Donis
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*

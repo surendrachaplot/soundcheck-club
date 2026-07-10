@@ -1,6 +1,6 @@
 # KCD(JP)
 
-KCD(JP) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Blvck Water, Osaka on Fri, 10 Jul 2026.
+KCD(JP) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Blvck Water, Osaka on Fri, 10 Jul 2026.
 
 KCD(JP) is a techno and acid artist based in Japan, tracked on soundcheck, with 39 sets logged across Osaka. Often billed alongside Goodrug, Rikuto and FENGX2. Next up: Blvck Water, Osaka on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ KCD(JP) is a techno and acid artist based in Japan, tracked on soundcheck, with 
 
 Goodrug, Rikuto, FENGX2
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kcdjp/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kcdjp/)*

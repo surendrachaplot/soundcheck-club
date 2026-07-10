@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "SOMMERFEST / GRELL, TURBO, TRANCESPHERE, TRANSCENDÆNCE, XOXO" on Fri, 10 Jul 2026.
+Humboldthain Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SOMMERFEST / GRELL, TURBO, TRANCESPHERE, TRANSCENDÆNCE, XOXO" on Fri, 10 Jul 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including AMRTUM, YOVA, B.A.O. and B.R.K.Ø. and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 12 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Nitsa Club, Barcelona on Fri, 10 Jul 2026.
+Avalon Emerson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nitsa Club, Barcelona on Fri, 10 Jul 2026.
 
 Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside BASHKKA, Sedef Adasï and Roi Perez. Next up: Nitsa Club, Barcelona on Fri 10 Jul.
 
@@ -31,4 +31,4 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets
 
 BASHKKA, Sedef Adasï, Roi Perez
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

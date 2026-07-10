@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Outer Space x Supervibe" on Fri, 10 Jul 2026.
+Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Outer Space x Supervibe" on Fri, 10 Jul 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights, with line-ups including CEZAR, Alessio da Silva, Aline (CH) and Amae and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -23,4 +23,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights,
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

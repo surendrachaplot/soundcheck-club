@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "IOU presents D. Tiffany - 4AM LAST CALL" on Fri, 10 Jul 2026.
+Cafeteria is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "IOU presents D. Tiffany - 4AM LAST CALL" on Fri, 10 Jul 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including 99hp, BOOTYCORNFED, Ciel and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -20,4 +20,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

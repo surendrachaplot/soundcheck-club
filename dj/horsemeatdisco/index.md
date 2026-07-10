@@ -1,6 +1,6 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 15 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
+Horse Meat Disco is a House and Disco artist with 15 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
 
 Horse Meat Disco is a house and disco artist tracked on soundcheck, with 368 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Moseley Park, Birmingham on Fri 10 Jul.
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 368 set
 
 Luke Howard, James Hillard, Severino
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

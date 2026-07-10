@@ -1,6 +1,6 @@
 # Flash
 
-Flash is a music venue in Washington DC with 25 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sonic Groove: Mike Parker & Adam X [open-to-close]" on Fri, 10 Jul 2026.
+Flash is a music venue in Washington DC with 25 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sonic Groove: Mike Parker & Adam X [open-to-close]" on Fri, 10 Jul 2026.
 
 Flash is a music venue in Washingtondc listed on soundcheck. 25 upcoming nights, with line-ups including Aaron Sparks, Adam X, Adyy Love and Alex Pastor and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
@@ -15,7 +15,7 @@ Flash is a music venue in Washingtondc listed on soundcheck. 25 upcoming nights,
 | Thu, 16 Jul 2026 | Headroom Listening Sessions: Washington, DC |  |
 | Fri, 17 Jul 2026 | TEED | Dabz, Kai Song, KayLaSoul, MÖSEE, TEED |
 | Sat, 18 Jul 2026 | 20 Years of Hudd Traxx: Chez Damier & Eddie Leader | Chez Damier, Conscious Contact, Eddie Leader, Tony Smooth |
-| Sun, 19 Jul 2026 | Sunday Love: DJ Sneak - Andy Grant | Andy Grant, DJ Sneak |
+| Sun, 19 Jul 2026 | Sunday Love: DJ Sneak - Andy Grant - Katrina Mir | Andy Grant, DJ Sneak, Katrina Mir |
 | Fri, 24 Jul 2026 | Patrice Bäumel [open-to-close] | BE EZY, Cassia, E-QUE, Patrice Bäumel |
 | Sat, 25 Jul 2026 | Satoshi Tomiie | Ariel me Llamo, DJ Soul (US), DJ TMF, G.E.N.E., Martino Boga, Satoshi Tomiie |
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washingtondc listed on soundcheck. 25 upcoming nights,
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

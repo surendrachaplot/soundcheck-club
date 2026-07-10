@@ -1,6 +1,6 @@
 # The Crystal Method
 
-The Crystal Method is a Breakbeat and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Magic Stick, Detroit on Fri, 10 Jul 2026.
+The Crystal Method is a Breakbeat and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Magic Stick, Detroit on Fri, 10 Jul 2026.
 
 The Crystal Method is a breakbeat and electronica artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Denver, Detroit and Houston and 5 more. Often billed alongside Paul Oakenfold, Orbital and DJ Hyper. Next up: Magic Stick, Detroit on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ The Crystal Method is a breakbeat and electronica artist based in United States 
 
 Paul Oakenfold, Orbital, DJ Hyper
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*

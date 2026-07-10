@@ -1,6 +1,6 @@
 # Hitam
 
-Hitam is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ministerium Club, Lisbon on Sat, 11 Jul 2026.
+Hitam is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ministerium Club, Lisbon on Sat, 11 Jul 2026.
 
 Hitam is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Bali and Berlin and 28 more. Often billed alongside WINDFUHR, AMORAL and MARRØN. Next up: Ministerium Club, Lisbon on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Hitam is a techno and minimal techno artist based in Netherlands, tracked on sou
 
 WINDFUHR, AMORAL, MARRØN
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

@@ -1,8 +1,8 @@
 # Supa D
 
-Supa D is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at XOYO, London on Sat, 11 Jul 2026.
+Supa D is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at XOYO, London on Sat, 11 Jul 2026.
 
-Supa D is a house and afro house artist tracked on soundcheck, with 159 sets logged across Berlin, Birmingham, Bristol and Ibiza and 2 more. Often billed alongside Shenin Amara, Pioneer and Beezo. Next up: XOYO, London on Sat 11 Jul.
+Supa D is a house and afro house artist tracked on soundcheck, with 160 sets logged across Berlin, Birmingham, Bristol and Ibiza and 2 more. Often billed alongside Shenin Amara, Pioneer and Beezo. Next up: XOYO, London on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Supa D is a house and afro house artist tracked on soundcheck, with 159 sets log
 | Sat, 8 Aug 2026 | XOYO | London |
 | Sat, 15 Aug 2026 | Ministry Of Sound | London |
 | Fri, 28 Aug 2026 | Ministry Of Sound | London |
+| Sat, 29 Aug 2026 | Setlist @ Somerset House | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Supa D is a house and afro house artist tracked on soundcheck, with 159 sets log
 
 Shenin Amara, Pioneer, Beezo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supad/)*

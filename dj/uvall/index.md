@@ -1,6 +1,6 @@
 # Uväll
 
-Uväll is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 11 Jul 2026.
+Uväll is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 11 Jul 2026.
 
 Uväll is a techno and trance artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Dusseldorf and Hamburg and 8 more. Often billed alongside gwän, Script (GE) and WINDFUHR. Next up: RSO.BERLIN, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Uväll is a techno and trance artist tracked on soundcheck, with 46 sets logged 
 
 gwän, Script (GE), WINDFUHR
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*

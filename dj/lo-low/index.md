@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ballroom at Palais, London on Fri, 10 Jul 2026.
+LO-LOW is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ballroom at Palais, London on Fri, 10 Jul 2026.
 
 LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, Someone Sunny and ASHTREY. Next up: Ballroom at Palais, London on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged a
 
 Samantha Togni, Someone Sunny, ASHTREY
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

@@ -1,6 +1,6 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "NeverMonday x Techno Crudo: Resistance" on Fri, 10 Jul 2026.
+Newspeak is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "NeverMonday x Techno Crudo: Resistance" on Fri, 10 Jul 2026.
 
 Newspeak is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including AKAntu, DJ Cinéma Quartier Latin, Dusky and Gabriel & Dresden and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
@@ -21,4 +21,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 8 upcoming nights, w
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

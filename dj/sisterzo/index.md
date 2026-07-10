@@ -1,6 +1,6 @@
 # Sister Zo
 
-Sister Zo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Green Room NYC, New York City on Fri, 10 Jul 2026.
+Sister Zo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Green Room NYC, New York City on Fri, 10 Jul 2026.
 
 Sister Zo is a techno and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Bryan Kasenic, Mike Servito and Patrick Russell. Next up: Green Room NYC, Newyorkcity on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Sister Zo is a techno and house artist based in United States of America, tracke
 
 Bryan Kasenic, Mike Servito, Patrick Russell
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sisterzo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sisterzo/)*

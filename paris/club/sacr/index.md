@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Sacré présente: Nick Curly & Lunar Disco" on Fri, 10 Jul 2026.
+Sacré is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sacré présente: Nick Curly & Lunar Disco" on Fri, 10 Jul 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Ams (FR), Anita B Queen, Autograf and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 14 upcoming nights, with 
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

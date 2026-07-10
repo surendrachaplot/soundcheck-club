@@ -1,6 +1,6 @@
 # MENTA
 
-MENTA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Barcelona on Fri, 10 Jul 2026.
+MENTA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Barcelona on Fri, 10 Jul 2026.
 
 MENTA is a techno and house artist based in Argentina, tracked on soundcheck, with 102 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Intruso, J Bronsted and Roberta.Mikeila. Next up: TBA, Barcelona on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ MENTA is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Intruso, J Bronsted, Roberta.Mikeila
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/menta/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/menta/)*

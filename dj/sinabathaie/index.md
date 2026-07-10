@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 11 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Södra Teatern, Kägelbanan, Stockholm on Fri, 10 Jul 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Södra Teatern, Kägelbanan, Stockholm on Fri, 10 Jul 2026.
 
 Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Södra Teatern, Kägelbanan, Stockholm on Fri 10 Jul.
 
@@ -35,4 +35,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

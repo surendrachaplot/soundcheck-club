@@ -1,14 +1,13 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at [UNVRS], Ibiza on Thu, 9 Jul 2026.
+FISHER is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
-FISHER is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: [UNVRS], Ibiza on Thu 9 Jul.
+FISHER is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: Silverworks Island, London on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | [UNVRS] | Ibiza |
 | Sat, 11 Jul 2026 | Silverworks Island | London |
 | Tue, 14 Jul 2026 | BCM | Mallorca |
 | Thu, 16 Jul 2026 | [UNVRS] | Ibiza |
@@ -20,9 +19,11 @@ FISHER is a house and tech house artist tracked on soundcheck, with 154 sets log
 | Thu, 20 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 27 Aug 2026 | [UNVRS] | Ibiza |
 | Thu, 3 Sept 2026 | [UNVRS] | Ibiza |
+| Thu, 10 Sept 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
 
+- [UNVRS], Ibiza — Thu, 9 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - [UNVRS], Ibiza — Thu, 2 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
@@ -30,10 +31,9 @@ FISHER is a house and tech house artist tracked on soundcheck, with 154 sets log
 - TBA - Galopprennbahn Freudenau, Vienna, Vienna — Sat, 20 Jun 2026
 - [UNVRS], Ibiza — Thu, 18 Jun 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
-- [UNVRS], Ibiza — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Vintage Culture, Jason Bye, Little Fritter
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*

@@ -1,6 +1,6 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 18 Jul 2026.
+Bridge (NY) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 18 Jul 2026.
 
 Bridge (NY) is a house and disco artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity, Seattle, Toronto and Washingtondc. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Bridge (NY) is a house and disco artist based in United States of America, track
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

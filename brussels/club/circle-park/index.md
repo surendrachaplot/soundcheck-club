@@ -1,6 +1,6 @@
 # Circle Park
 
-Circle Park is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Play Label Open Air & Afterparty • Circle Park x La Fabriek (16 hours)" on Sat, 11 Jul 2026.
+Circle Park is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Play Label Open Air & Afterparty • Circle Park x La Fabriek (16 hours)" on Sat, 11 Jul 2026.
 
 Circle Park is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Alex Kassian, Ampe, Antonym and ATARAXY and 2 more. Browse upcoming dates, start times and who's playing. Rue des Goujons 156, 1070 Anderlecht.
 
@@ -18,4 +18,4 @@ Circle Park is a music venue in Brussels listed on soundcheck. 5 upcoming nights
 
 Rue des Goujons 156, 1070 Anderlecht, Brussels
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/circle-park/)*

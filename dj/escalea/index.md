@@ -1,6 +1,6 @@
 # ESCALEA
 
-ESCALEA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at M-BIA, Berlin on Sat, 25 Jul 2026.
+ESCALEA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at M-BIA, Berlin on Sat, 25 Jul 2026.
 
 ESCALEA is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Leipzig. Often billed alongside humae, jeanska and JUNiQUE. Next up: M-BIA, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ ESCALEA is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 humae, jeanska, JUNiQUE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escalea/)*

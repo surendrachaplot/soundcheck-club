@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
+Naone is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
 
 Naone is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Iggy P, Doudou MD and Sansibar. Next up: CLUB RAUM, Amsterdam on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Naone is a techno and house artist tracked on soundcheck, with 172 sets logged a
 
 Iggy P, Doudou MD, Sansibar
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

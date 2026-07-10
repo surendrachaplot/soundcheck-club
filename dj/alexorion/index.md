@@ -1,6 +1,6 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Houtbaar Haarlem, Amsterdam on Fri, 10 Jul 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Houtbaar Haarlem, Amsterdam on Fri, 10 Jul 2026.
 
 Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 16 more. Often billed alongside Alain Pauwels, Around Us and Cris-H. Next up: Houtbaar Haarlem, Amsterdam on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Alex O'Rion is a progressive house and deep house artist based in Netherlands, t
 
 Alain Pauwels, Around Us, Cris-H
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*

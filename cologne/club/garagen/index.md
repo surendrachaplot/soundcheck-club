@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "West Bounce" on Fri, 10 Jul 2026.
+Garagen is a music venue in Cologne with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "West Bounce" on Fri, 10 Jul 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming nights, with line-ups including Borai, DJ Spit, ENNA and Lizzle and 2 more. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -17,4 +17,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 4 upcoming nights, wit
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

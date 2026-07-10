@@ -1,6 +1,6 @@
 # West Code
 
-West Code is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at One Day Beach Club, Naples on Sat, 11 Jul 2026.
+West Code is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at One Day Beach Club, Naples on Sat, 11 Jul 2026.
 
 West Code is a techno and electronica artist tracked on soundcheck, with 19 sets logged across Belfast, Berlin, Buenosaires and Madrid and 4 more. Often billed alongside cufaxx, JXXXO and Bondarük. Next up: One Day Beach Club, Naples on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ West Code is a techno and electronica artist tracked on soundcheck, with 19 sets
 
 cufaxx, JXXXO, Bondarük
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westcode/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westcode/)*

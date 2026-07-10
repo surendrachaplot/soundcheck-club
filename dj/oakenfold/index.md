@@ -1,6 +1,6 @@
 # Paul Oakenfold
 
-Paul Oakenfold is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Magic Stick, Detroit on Fri, 10 Jul 2026.
+Paul Oakenfold is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Magic Stick, Detroit on Fri, 10 Jul 2026.
 
 Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Athens, Bali, Birmingham and Boston and 17 more. Often billed alongside Jason Bye, Infected Mushroom and Judge Jules. Next up: Magic Stick, Detroit on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on 
 
 Jason Bye, Infected Mushroom, Judge Jules
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*

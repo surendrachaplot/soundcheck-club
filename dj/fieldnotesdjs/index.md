@@ -1,6 +1,6 @@
 # Field Notes DJs
 
-Field Notes DJs is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Studio 508, Amsterdam on Sat, 11 Jul 2026.
+Field Notes DJs is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Studio 508, Amsterdam on Sat, 11 Jul 2026.
 
 Field Notes DJs is a club and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin and Edinburgh. Often billed alongside Sound Metaphors Djs, Richii and Robert Bergman. Next up: Studio 508, Amsterdam on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Field Notes DJs is a club and house artist tracked on soundcheck, with 28 sets l
 
 Sound Metaphors Djs, Richii, Robert Bergman
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*

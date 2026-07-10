@@ -1,6 +1,6 @@
 # 260° Bar
 
-260° Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "ROOFTOP PARTY - AMÎ x 260° Bar" on Sat, 11 Jul 2026.
+260° Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "ROOFTOP PARTY - AMÎ x 260° Bar" on Sat, 11 Jul 2026.
 
 260° Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Mercedes Platz 2, 10243 Berlin, Germany.
 
@@ -14,4 +14,4 @@
 
 Mercedes Platz 2, 10243 Berlin, Germany, Berlin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/260-bar/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/260-bar/)*

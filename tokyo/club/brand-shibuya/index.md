@@ -1,14 +1,13 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "MIXMATES" on Thu, 9 Jul 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BEAT MONSTER" on Sat, 11 Jul 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including hidemi, Junya, Nanlaze and You Liang and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including hidemi, Nanlaze, You Liang and YU-S-KE. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | MIXMATES | Junya |
 | Sat, 11 Jul 2026 | BEAT MONSTER |  |
 | Mon, 13 Jul 2026 | EMIRIBAR＜楽園＞ |  |
 | Tue, 14 Jul 2026 | LOVE -2ND ANNIVERSARY- | Nanlaze, hidemi |
@@ -22,4 +21,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 9 upcoming nights,
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

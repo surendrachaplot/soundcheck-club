@@ -1,6 +1,6 @@
 # Udda
 
-Udda is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Renate, Berlin on Fri, 10 Jul 2026.
+Udda is a Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Renate, Berlin on Fri, 10 Jul 2026.
 
 Udda is a bass and electronica artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: Renate, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Udda is a bass and electronica artist tracked on soundcheck, with 41 sets logged
 
 Habitat Shaking, Ann Mysochka, Terikon
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/udda/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/udda/)*

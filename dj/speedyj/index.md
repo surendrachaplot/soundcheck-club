@@ -1,6 +1,6 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Speedy J is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Speedy J is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ Speedy J is a techno and house artist tracked on soundcheck, with 129 sets logge
 
 SPEEDY, Chris Liebing, FJAAK
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*

@@ -1,6 +1,6 @@
 # Beatrice (DE)
 
-Beatrice (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Location in Telegram, Berlin on Fri, 10 Jul 2026.
+Beatrice (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Location in Telegram, Berlin on Fri, 10 Jul 2026.
 
 Beatrice (DE) is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Mathys Lenne, AOIFE and Mareena. Next up: TBA - Location in Telegram, Berlin on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Beatrice (DE) is a techno and house artist tracked on soundcheck, with 77 sets l
 
 Mathys Lenne, AOIFE, Mareena
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrice-de/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrice-de/)*

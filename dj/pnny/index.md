@@ -1,6 +1,6 @@
 # PNNY
 
-PNNY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 19 Jul 2026.
+PNNY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 19 Jul 2026.
 
 PNNY is a house and disco artist tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Bangkok and Berlin and 9 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: Pikes Ibiza, Ibiza on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ PNNY is a house and disco artist tracked on soundcheck, with 114 sets logged acr
 
 Tiago Oudman, Tjade, DITA (ID)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*

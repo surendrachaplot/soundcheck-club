@@ -1,6 +1,6 @@
 # MUSCLECARS
 
-MUSCLECARS is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at StereoBar, Montreal on Fri, 10 Jul 2026.
+MUSCLECARS is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at StereoBar, Montreal on Fri, 10 Jul 2026.
 
 MUSCLECARS is a house and deep house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Auckland and Austin and 34 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: StereoBar, Montreal on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ MUSCLECARS is a house and deep house artist tracked on soundcheck, with 161 sets
 
 Lakuti, Tama Sumo, Toribio
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*

@@ -1,6 +1,6 @@
 # lady lavender
 
-lady lavender is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 12 Jul 2026.
+lady lavender is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 12 Jul 2026.
 
 lady lavender is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Austin, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Jacq Jill, Kenny M and Mrs. Qbert. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ lady lavender is a house and techno artist based in United States of America, tr
 
 Jacq Jill, Kenny M, Mrs. Qbert
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*

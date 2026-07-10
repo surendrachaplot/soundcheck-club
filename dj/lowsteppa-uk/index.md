@@ -1,6 +1,6 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Sunnyside Pavilion, Toronto on Sat, 11 Jul 2026.
+Low Steppa is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sunnyside Pavilion, Toronto on Sat, 11 Jul 2026.
 
 Low Steppa is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Bali, Brisbane and Bristol and 22 more. Often billed alongside Sam Divine, Arielle Free and Hannah Wants. Next up: Sunnyside Pavilion, Toronto on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Low Steppa is a house and tech house artist based in United Kingdom, tracked on 
 
 Sam Divine, Arielle Free, Hannah Wants
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*

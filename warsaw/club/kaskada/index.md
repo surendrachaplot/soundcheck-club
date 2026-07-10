@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Before Sunrise Festival by Meloradio" on Fri, 10 Jul 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Before Sunrise Festival by Meloradio" on Fri, 10 Jul 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Glasse and Simon Mattson. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

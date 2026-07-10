@@ -1,6 +1,6 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA -  SECRET LOCATION , Valencia on Sat, 11 Jul 2026.
+Pizzicatto is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA -  SECRET LOCATION , Valencia on Sat, 11 Jul 2026.
 
 Pizzicatto is a house and tech house artist tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Dj badtrip. Next up: TBA -  SECRET LOCATION , Valencia on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Pizzicatto is a house and tech house artist tracked on soundcheck, with 56 sets 
 
 Varis, Pau Pérez, Dj badtrip
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*

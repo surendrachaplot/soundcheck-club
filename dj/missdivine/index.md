@@ -1,14 +1,13 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 9 Jul 2026.
+Sam Divine is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Terrrazza, Barcelona on Sat, 11 Jul 2026.
 
-Sam Divine is a house and tech house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: Chinois Ibiza, Ibiza on Thu 9 Jul.
+Sam Divine is a house and tech house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: La Terrrazza, Barcelona on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Chinois Ibiza | Ibiza |
 | Sat, 11 Jul 2026 | La Terrrazza | Barcelona |
 | Fri, 17 Jul 2026 | 77 | London |
 | Thu, 23 Jul 2026 | Chinois Ibiza | Ibiza |
@@ -18,9 +17,11 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 162 sets
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | Chinois Ibiza | Ibiza |
+| Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Thu, 9 Jul 2026
 - Sublim, Malaga — Sun, 28 Jun 2026
 - Audio Club, Geneva — Fri, 26 Jun 2026
 - Hï Ibiza, Ibiza — Wed, 3 Jun 2026
@@ -28,10 +29,9 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 162 sets
 - StereoBar, Montreal — Sat, 16 May 2026
 - Superior Ingredients, New York City — Fri, 15 May 2026
 - Chinois Ibiza, Ibiza — Thu, 7 May 2026
-- Index, Dublin — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Low Steppa, Arielle Free, Rio Tashan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

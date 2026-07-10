@@ -1,6 +1,6 @@
 # Karim Alkhayat
 
-Karim Alkhayat is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Birgit, Berlin on Fri, 10 Jul 2026.
+Karim Alkhayat is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Birgit, Berlin on Fri, 10 Jul 2026.
 
 Karim Alkhayat is a techno and house artist based in Syria, tracked on soundcheck, with 57 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside NÚRIA (DE), KEN (DE) and Leon Licht. Next up: Birgit, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Karim Alkhayat is a techno and house artist based in Syria, tracked on soundchec
 
 NÚRIA (DE), KEN (DE), Leon Licht
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*

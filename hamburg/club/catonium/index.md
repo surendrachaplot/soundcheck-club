@@ -1,6 +1,6 @@
 # Catonium
 
-Catonium is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "HEATWAVE 2026" on Sat, 11 Jul 2026.
+Catonium is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "HEATWAVE 2026" on Sat, 11 Jul 2026.
 
 Catonium is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Annett Gapstream, Hypermobil, Ivy Lou and maniaclina. Browse upcoming dates, start times and who's playing. Försterweg 163, 22525 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Catonium is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, wi
 
 Försterweg 163, 22525 Hamburg, Germany, Hamburg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/catonium/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/catonium/)*

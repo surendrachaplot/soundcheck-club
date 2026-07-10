@@ -1,6 +1,6 @@
 # Barkasse Tanja
 
-Barkasse Tanja is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Secret Paradiso Summer Peak 2026: On Boat" on Sat, 11 Jul 2026.
+Barkasse Tanja is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Secret Paradiso Summer Peak 2026: On Boat" on Sat, 11 Jul 2026.
 
 Barkasse Tanja is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Lennault and Panamæ.x. Browse upcoming dates, start times and who's playing. Bei den St. Pauli Landungsbrücken 7.
 
@@ -14,4 +14,4 @@ Barkasse Tanja is a music venue in Hamburg listed on soundcheck. 1 upcoming nigh
 
 Bei den St. Pauli Landungsbrücken 7, Hamburg
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/barkasse-tanja/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/barkasse-tanja/)*

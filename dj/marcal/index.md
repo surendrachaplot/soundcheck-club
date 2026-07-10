@@ -1,8 +1,8 @@
 # Marcal
 
-Marcal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Faust, Seoul on Fri, 31 Jul 2026.
+Marcal is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Faust, Seoul on Fri, 31 Jul 2026.
 
-Marcal is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Ignez, Zisko and Amotik. Next up: Faust, Seoul on Fri 31 Jul.
+Marcal is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Ignez, Zisko and Amotik. Next up: Faust, Seoul on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Marcal is a techno and house artist tracked on soundcheck, with 91 sets logged a
 | Fri, 14 Aug 2026 | Le Sucre | Lyon |
 | Sat, 29 Aug 2026 | KALT | Strasbourg |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
+| Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Marcal is a techno and house artist tracked on soundcheck, with 91 sets logged a
 
 Ignez, Zisko, Amotik
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

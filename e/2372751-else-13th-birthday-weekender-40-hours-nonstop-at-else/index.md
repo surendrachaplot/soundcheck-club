@@ -1,6 +1,6 @@
 # Else 13th Birthday Weekender: 40 hours nonstop at Else
 
-Else 13th Birthday Weekender: 40 hours nonstop on Sat 8 Aug, Berlin. 20 acts on the bill: ALI3N, Blue Hour, Carl Bergé and Cecilia Tosh and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
+Else 13th Birthday Weekender: 40 hours nonstop on Sat 8 Aug, Berlin. 24 acts on the bill: ALI3N, Angel D'lite, Blue Hour and COZi and 20 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,14 @@ Else 13th Birthday Weekender: 40 hours nonstop on Sat 8 Aug, Berlin. 20 acts on 
 ## Line-up
 
 - ALI3N
+- Angel D'lite
 - Blue Hour
+- COZi
 - Carl Bergé
 - Cecilia Tosh
 - DJ SOURCE
 - DJ SUN (CH/DE)
+- DJ Sun
 - DJ TOOL
 - Dee Diggs
 - KVLR
@@ -28,6 +31,7 @@ Else 13th Birthday Weekender: 40 hours nonstop on Sat 8 Aug, Berlin. 20 acts on 
 - Talia Dorr
 - Thabo
 - Vincent Neumann
+- Young Marco
 - jiyun kim
 - nthng
 

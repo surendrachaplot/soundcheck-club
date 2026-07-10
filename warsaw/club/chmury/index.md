@@ -1,6 +1,6 @@
 # Chmury
 
-Chmury is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "FREE RAVE" on Fri, 10 Jul 2026.
+Chmury is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FREE RAVE" on Fri, 10 Jul 2026.
 
 Chmury is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including Catnapp, DJ Papaya and uszko. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -17,4 +17,4 @@ Chmury is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with 
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*

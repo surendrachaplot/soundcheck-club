@@ -1,6 +1,6 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BIRD, Rotterdam on Fri, 10 Jul 2026.
+S!RENE is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BIRD, Rotterdam on Fri, 10 Jul 2026.
 
 S!RENE is a hip-hop and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 20 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: BIRD, Rotterdam on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ S!RENE is a hip-hop and house artist tracked on soundcheck, with 59 sets logged 
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

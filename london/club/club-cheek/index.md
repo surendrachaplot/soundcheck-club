@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "STAY CLOSE x DOTWAV" on Thu, 9 Jul 2026.
+Club Cheek is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Marlon DuBois" on Fri, 17 Jul 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 0RACL3, Bailey Ibbs, Caspa Mono and DJ-HOTLINE 333 and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Bailey Ibbs, Caspa Mono, DJ-HOTLINE 333 and DJ Kane (1) and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | STAY CLOSE x DOTWAV | 0RACL3, Kieran Dotwav, Petit Problème, SALD3E, Skybxrn, TEBI TV |
 | Fri, 17 Jul 2026 | Marlon DuBois |  |
 | Fri, 17 Jul 2026 | Pomelo Dance w/Esa & Nina Yamada | Esa, Guohan, Nina Yamada |
 | Sat, 18 Jul 2026 | Jimbhuna Beats | Caspa Mono, Thousand Fingers |
@@ -20,4 +19,4 @@ Club Cheek is a music venue in London listed on soundcheck. 7 upcoming nights, w
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

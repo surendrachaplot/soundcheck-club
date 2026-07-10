@@ -1,6 +1,6 @@
 # Passion Club
 
-Passion Club is a music venue in Malta with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Vortech Malta House Sessions" on Tue, 14 Jul 2026.
+Passion Club is a music venue in Malta with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Vortech Malta House Sessions" on Tue, 14 Jul 2026.
 
 Passion Club is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. St'George's Road Paceville, Saint Julian's, Malta.
 
@@ -14,4 +14,4 @@ Passion Club is a music venue in Malta listed on soundcheck. 1 upcoming night. B
 
 St'George's Road Paceville, Saint Julian's, Malta, Malta
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/passion-club/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/passion-club/)*

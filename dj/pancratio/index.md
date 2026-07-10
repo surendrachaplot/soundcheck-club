@@ -1,6 +1,6 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Gewölbe, Cologne on Sat, 11 Jul 2026.
+Pancratio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gewölbe, Cologne on Sat, 11 Jul 2026.
 
 Pancratio is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Gewölbe, Cologne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Pancratio is a house and techno artist tracked on soundcheck, with 50 sets logge
 
 Dante (H501), Fabrizio Sala, Leo Benassi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

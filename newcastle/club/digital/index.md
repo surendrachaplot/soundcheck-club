@@ -1,6 +1,6 @@
 # Digital
 
-Digital is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "NORTHERN FREQUENCY presents Hidde van Wee" on Sat, 11 Jul 2026.
+Digital is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "NORTHERN FREQUENCY presents Hidde van Wee" on Sat, 11 Jul 2026.
 
 Digital is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Cristoph, Easby, Hidde van Wee and SOBAH and 1 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
@@ -18,4 +18,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, w
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

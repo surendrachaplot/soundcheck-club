@@ -1,6 +1,6 @@
 # Theo (8)
 
-Theo (8) is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
+Theo (8) is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
 
 Theo (8) is an electronica and house artist based in France, tracked on soundcheck, with 3 sets logged across Prague. Often billed alongside Silhouette, ANĪC and Alfred Czital. Next up: Koupaliště Džbán, Prague on Sat 11 Jul.
 
@@ -16,4 +16,4 @@ Theo (8) is an electronica and house artist based in France, tracked on soundche
 
 Silhouette, ANĪC, Alfred Czital
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-8/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-8/)*

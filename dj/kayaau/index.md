@@ -1,6 +1,6 @@
 # KAYA (AU)
 
-KAYA (AU) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Beaumont Brisbane, Brisbane on Fri, 10 Jul 2026.
+KAYA (AU) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Beaumont Brisbane, Brisbane on Fri, 10 Jul 2026.
 
 KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck, with 13 sets logged across Brisbane, Melbourne, Newyorkcity and Sydney. Often billed alongside mara (AU), Nik Kastel and Alex Farell. Next up: The Beaumont Brisbane, Brisbane on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ KAYA (AU) is a techno and acid artist based in Australia, tracked on soundcheck,
 
 mara (AU), Nik Kastel, Alex Farell
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kayaau/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kayaau/)*

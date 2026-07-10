@@ -1,6 +1,6 @@
 # Analodjica
 
-Analodjica is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Lux Fragil, Lisbon on Thu, 30 Jul 2026.
+Analodjica is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lux Fragil, Lisbon on Thu, 30 Jul 2026.
 
 Analodjica is a techno and progressive house artist based in Portugal, tracked on soundcheck, with 39 sets logged across Lisbon. Often billed alongside DJ Nox, Syper and Gilvaia. Next up: Lux Fragil, Lisbon on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Analodjica is a techno and progressive house artist based in Portugal, tracked o
 
 DJ Nox, Syper, Gilvaia
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/analodjica/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/analodjica/)*

@@ -1,6 +1,6 @@
 # Villa Hasenholz
 
-Villa Hasenholz is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "KUPALA MYSTERIUM" on Sun, 19 Jul 2026.
+Villa Hasenholz is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "KUPALA MYSTERIUM" on Sun, 19 Jul 2026.
 
 Villa Hasenholz is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including Juliane Wolf. Browse upcoming dates, start times and who's playing. Gustav-Esche-Straße 1, 04179 Leipzig.
 
@@ -14,4 +14,4 @@ Villa Hasenholz is a music venue in Leipzig listed on soundcheck. 1 upcoming nig
 
 Gustav-Esche-Straße 1, 04179 Leipzig, Leipzig
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/villa-hasenholz/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/villa-hasenholz/)*

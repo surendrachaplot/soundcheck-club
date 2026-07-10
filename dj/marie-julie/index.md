@@ -1,6 +1,6 @@
 # Marie-Julie
 
-Marie-Julie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Stormkop, Antwerp on Sat, 11 Jul 2026.
+Marie-Julie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Stormkop, Antwerp on Sat, 11 Jul 2026.
 
 Marie-Julie is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Phara, Altinbas and Border One. Next up: Stormkop, Antwerp on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Marie-Julie is a techno and house artist tracked on soundcheck, with 86 sets log
 
 Phara, Altinbas, Border One
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*

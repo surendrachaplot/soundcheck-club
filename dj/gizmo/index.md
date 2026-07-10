@@ -1,6 +1,6 @@
 # Gizmo
 
-Gizmo is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Birgit, Berlin on Fri, 10 Jul 2026.
+Gizmo is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Birgit, Berlin on Fri, 10 Jul 2026.
 
 Gizmo is a hardcore and gabber artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Frankfurt, Ghent and Munich and 2 more. Often billed alongside Shabiki, Lazykid and Rad.Lez. Next up: Birgit, Berlin on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Gizmo is a hardcore and gabber artist based in Germany, tracked on soundcheck, w
 
 Shabiki, Lazykid, Rad.Lez
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*

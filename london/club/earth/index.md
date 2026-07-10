@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "DARKSIDE (late show)" on Sun, 12 Jul 2026.
+EartH is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DARKSIDE (late show)" on Sun, 12 Jul 2026.
 
 EartH is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Bianca Scout, BJ Holy, Coby Sey and DARKSIDE and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -20,4 +20,4 @@ EartH is a music venue in London listed on soundcheck. 7 upcoming nights, with l
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

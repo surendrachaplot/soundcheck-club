@@ -1,6 +1,6 @@
 # r1ku
 
-r1ku is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at WOMB, Tokyo on Sat, 11 Jul 2026.
+r1ku is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at WOMB, Tokyo on Sat, 11 Jul 2026.
 
 r1ku is a house and techno artist based in Japan, tracked on soundcheck, with 185 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: WOMB, Tokyo on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ r1ku is a house and techno artist based in Japan, tracked on soundcheck, with 18
 
 kengotaki, SAMO (JP), YUVIE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*

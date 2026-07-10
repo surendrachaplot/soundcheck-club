@@ -1,6 +1,6 @@
 # Frost Children
 
-Frost Children is a Electronica and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
+Frost Children is a Electronica and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ostrov Štvanice, Prague on Fri, 10 Jul 2026.
 
 Frost Children is an electronica and pop artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: Ostrov Štvanice, Prague on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Frost Children is an electronica and pop artist tracked on soundcheck, with 49 s
 
 10cust, Ali RQ, DJ Trick
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

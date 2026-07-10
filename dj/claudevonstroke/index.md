@@ -1,6 +1,6 @@
 # Claude VonStroke
 
-Claude VonStroke is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 624 S Anderson St, Los Angeles, CA 90023, Los Angeles on Sun, 12 Jul 2026.
+Claude VonStroke is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 624 S Anderson St, Los Angeles, CA 90023, Los Angeles on Sun, 12 Jul 2026.
 
 Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Boys Noize and DJ Minx. Next up: TBA - 624 S Anderson St, Los Angeles, CA 90023, Losangeles on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 
 Green Velvet, Boys Noize, DJ Minx
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*

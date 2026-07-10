@@ -1,6 +1,6 @@
 # Meow Wolf Houston
 
-Meow Wolf Houston is a music venue in Houston with 8 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Barnacle Boi" on Fri, 10 Jul 2026.
+Meow Wolf Houston is a music venue in Houston with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Barnacle Boi" on Fri, 10 Jul 2026.
 
 Meow Wolf Houston is a music venue in Houston listed on soundcheck. 8 upcoming nights, with line-ups including Amarji King, Dj Sliink and Whales. Browse upcoming dates, start times and who's playing. 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA.
 
@@ -21,4 +21,4 @@ Meow Wolf Houston is a music venue in Houston listed on soundcheck. 8 upcoming n
 
 2103 Lyons Ave Bldg 2, Houston, TX 77020, USA, Houston
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/meow-wolf-houston/)*

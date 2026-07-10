@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Rote Sonne x Gabber Industries Berlin" on Fri, 10 Jul 2026.
+Rote Sonne is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Rote Sonne x Gabber Industries Berlin" on Fri, 10 Jul 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including ÆNZØ, Alicea, Artifex (DE) and COLD ASS ICE and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -22,4 +22,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 9 upcoming nights, w
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

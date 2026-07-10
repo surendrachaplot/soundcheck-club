@@ -1,6 +1,6 @@
 # GEGEN X PRNCPTL - CSD at Komplex Berlin
 
-GEGEN X PRNCPTL - CSD at Komplex Berlin on Sat 25 Jul, Berlin. 25 acts on the bill: Alírio, BOYCA, Chami and Cristian Marras and 21 more. Preview the line-up and save it on soundcheck.
+GEGEN X PRNCPTL - CSD at Komplex Berlin on Sat 25 Jul, Berlin. 26 acts on the bill: Alírio, BOYCA, Chami and Cristian Marras and 22 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -29,6 +29,7 @@ GEGEN X PRNCPTL - CSD at Komplex Berlin on Sat 25 Jul, Berlin. 25 acts on the bi
 - Miss Bashful
 - Mohajer
 - NSPERGER
+- Paul Wolsch
 - Sarah Sommers
 - Schacke
 - Shadysnack

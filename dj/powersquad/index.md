@@ -1,6 +1,6 @@
 # Power Squad
 
-Power Squad is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BLITZ, Munich on Sat, 11 Jul 2026.
+Power Squad is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BLITZ, Munich on Sat, 11 Jul 2026.
 
 Power Squad is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Athens, Berlin, Cologne and Dusseldorf and 5 more. Often billed alongside Dj Norma, Greta Spark and Natalie Robinson. Next up: BLITZ, Munich on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Power Squad is a house and techno artist based in Germany, tracked on soundcheck
 
 Dj Norma, Greta Spark, Natalie Robinson
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/powersquad/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/powersquad/)*

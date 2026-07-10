@@ -1,6 +1,6 @@
 # Sinéad
 
-Sinéad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Humble Sea Beer Garden on the Wharf, San Francisco/Oakland on Sat, 11 Jul 2026.
+Sinéad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Humble Sea Beer Garden on the Wharf, San Francisco/Oakland on Sat, 11 Jul 2026.
 
 Sinéad is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Berlin, Chicago, Cork and Detroit and 20 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: Humble Sea Beer Garden on the Wharf, Sanfrancisco on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Sinéad is a house and techno artist based in United States of America, tracked 
 
 Shanti Celeste, Louiv, Galen
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*

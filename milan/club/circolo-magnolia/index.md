@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Electric Wave Outline with Sam Gellaitry, Imanu, 33Below, SHERELLE and many more" on Fri, 10 Jul 2026.
+Circolo Magnolia is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Electric Wave Outline with Sam Gellaitry, Imanu, 33Below, SHERELLE and many more" on Fri, 10 Jul 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Alessandro Reale, Andrea Isella, Cristopher Arcuri and Disrupta and 2 more. Browse upcoming dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -18,4 +18,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 5 upcoming nigh
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

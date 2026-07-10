@@ -1,6 +1,6 @@
 # Eva Porating
 
-Eva Porating is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - 49.8954328N, 14.1708278E, Prague on Fri, 10 Jul 2026.
+Eva Porating is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 49.8954328N, 14.1708278E, Prague on Fri, 10 Jul 2026.
 
 Eva Porating is a techno and downtempo artist based in Czech Republic, tracked on soundcheck, with 51 sets logged across Berlin and Prague. Often billed alongside Marie Pravda, Mike.H and Møreti. Next up: TBA - 49.8954328N, 14.1708278E, Prague on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Eva Porating is a techno and downtempo artist based in Czech Republic, tracked o
 
 Marie Pravda, Mike.H, Møreti
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaporating/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaporating/)*

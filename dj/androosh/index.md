@@ -1,6 +1,6 @@
 # androosh
 
-androosh is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Moonfield, Antwerp on Fri, 10 Jul 2026.
+androosh is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moonfield, Antwerp on Fri, 10 Jul 2026.
 
 androosh is a house and disco artist tracked on soundcheck, with 50 sets logged across Antwerp, Barcelona, Berlin and Geneva and 4 more. Often billed alongside Mona Lee, iamkimkong and DVDE. Next up: Moonfield, Antwerp on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ androosh is a house and disco artist tracked on soundcheck, with 50 sets logged 
 
 Mona Lee, iamkimkong, DVDE
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/androosh/)*

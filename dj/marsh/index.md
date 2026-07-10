@@ -1,6 +1,6 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bauhaus, Houston on Fri, 17 Jul 2026.
+Marsh is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bauhaus, Houston on Fri, 17 Jul 2026.
 
 Marsh is a progressive house and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 36 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Bauhaus, Houston on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Marsh is a progressive house and house artist tracked on soundcheck, with 120 se
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

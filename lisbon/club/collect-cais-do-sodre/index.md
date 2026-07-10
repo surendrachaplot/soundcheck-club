@@ -1,14 +1,13 @@
 # Collect - Cais do Sodre
 
-Collect - Cais do Sodre is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "COLLECT w/ MÂHFOUD" on Thu, 9 Jul 2026.
+Collect - Cais do Sodre is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "COLLECT w/ ENKŌ" on Fri, 10 Jul 2026.
 
-Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Bernardo Vaz, Enkō, Johan (PT) and Mâhfoud and 1 more. Browse upcoming dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
+Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Bernardo Vaz, Enkō, Johan (PT) and Telma. Browse upcoming dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | COLLECT w/ MÂHFOUD | Mâhfoud |
 | Fri, 10 Jul 2026 | COLLECT w/ ENKŌ | Enkō |
 | Mon, 13 Jul 2026 | COLLECT w/ “Memória Futura” by JOHAN | Johan (PT) |
 | Tue, 14 Jul 2026 | COLLECT w/ Telma | Telma |
@@ -20,4 +19,4 @@ Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 7 upcom
 
 R. Nova do Carvalho 60 62, 1200-371 Lisboa, Lisbon
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*

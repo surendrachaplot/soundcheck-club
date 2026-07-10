@@ -1,6 +1,6 @@
 # Brisa Then
 
-Brisa Then is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 11 Jul 2026.
+Brisa Then is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Under Bridge Madrid, Madrid on Sat, 11 Jul 2026.
 
 Brisa Then is a house and afro house artist based in Spain, tracked on soundcheck, with 49 sets logged across Ibiza and Madrid. Often billed alongside Tucu (Tucu), Savanna and ALEX FÖX. Next up: Under Bridge Madrid, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Brisa Then is a house and afro house artist based in Spain, tracked on soundchec
 
 Tucu (Tucu), Savanna, ALEX FÖX
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brisathen/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brisathen/)*

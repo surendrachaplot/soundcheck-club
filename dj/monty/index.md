@@ -1,6 +1,6 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Insomnia, Berlin on Fri, 10 Jul 2026.
+Monty is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Insomnia, Berlin on Fri, 10 Jul 2026.
 
 Monty is a drum & bass and bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Visages, SP:MC and Wiebe Roose. Next up: Insomnia, Berlin on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Monty is a drum & bass and bass artist tracked on soundcheck, with 79 sets logge
 
 Visages, SP:MC, Wiebe Roose
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

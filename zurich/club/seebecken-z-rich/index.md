@@ -1,6 +1,6 @@
 # Seebecken Zürich
 
-Seebecken Zürich is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "Street Parade" on Sat, 8 Aug 2026.
+Seebecken Zürich is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Street Parade" on Sat, 8 Aug 2026.
 
 Seebecken Zürich is a music venue in Zurich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Seebecken Zürich is a music venue in Zurich listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Street Parade |  |
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/seebecken-z-rich/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/seebecken-z-rich/)*

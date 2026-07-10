@@ -1,6 +1,6 @@
 # Collé
 
-Collé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Thuishaven, Amsterdam on Sat, 11 Jul 2026.
+Collé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Thuishaven, Amsterdam on Sat, 11 Jul 2026.
 
 Collé is a techno and house artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and CamelPhat. Next up: Thuishaven, Amsterdam on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Collé is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Hedda Stenberg, Mees Salomé, CamelPhat
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*

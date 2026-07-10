@@ -1,6 +1,6 @@
 # System Olympia
 
-System Olympia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Jumbi, London on Sat, 11 Jul 2026.
+System Olympia is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jumbi, London on Sat, 11 Jul 2026.
 
 System Olympia is a house and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Move D, Attila and Crazy P. Next up: Jumbi, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ System Olympia is a house and disco artist tracked on soundcheck, with 69 sets l
 
 Move D, Attila, Crazy P
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/systemolympia/)*

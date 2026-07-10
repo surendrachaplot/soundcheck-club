@@ -1,14 +1,13 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Scorpios, Mykonos on Thu, 9 Jul 2026.
+Jimi Jules is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
 
-Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Scorpios, Mykonos on Thu 9 Jul.
+Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | Scorpios | Mykonos |
 | Sat, 11 Jul 2026 | TBA - Albisgütli | Zurich |
 | Sun, 12 Jul 2026 | Kiesgrube | Düsseldorf |
 | Sat, 18 Jul 2026 | Knockdown Center | New York City |
@@ -20,9 +19,11 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets log
 | Sun, 6 Sept 2026 | Woodstock'69 | Amsterdam |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 11 Sept 2026 | Lula Club | Madrid |
+| Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Scorpios, Mykonos — Thu, 9 Jul 2026
 - Future Nightlife, Toronto — Mon, 6 Jul 2026
 - Hï Ibiza, Ibiza — Sat, 4 Jul 2026
 - Island Athens Riviera, Athens — Sun, 28 Jun 2026
@@ -30,10 +31,9 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets log
 - Chinois Ibiza, Ibiza — Sun, 21 Jun 2026
 - DC-10, Ibiza — Mon, 1 Jun 2026
 - Mia Mao, Paris — Sat, 23 May 2026
-- Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
 
 ## Shares bills with
 
 Dixon, Âme, Trikk
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

@@ -1,6 +1,6 @@
 # Various Venues
 
-Various Venues is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "AVA London 2026" on Thu, 24 Sept 2026.
+Various Venues is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "AVA London 2026" on Thu, 24 Sept 2026.
 
 Various Venues is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including The Avalanches, Moby, Oklou and Richie Hawtin. Browse upcoming dates, start times and who's playing. Various Venues.
 
@@ -14,4 +14,4 @@ Various Venues is a music venue in London listed on soundcheck. 1 upcoming night
 
 Various Venues, London
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/various-venues/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/various-venues/)*

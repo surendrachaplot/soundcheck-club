@@ -1,6 +1,6 @@
 # Amtrac
 
-Amtrac is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Tigres de la Noche, Washington DC on Fri, 10 Jul 2026.
+Amtrac is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tigres de la Noche, Washington DC on Fri, 10 Jul 2026.
 
 Amtrac is a house and deep house artist tracked on soundcheck, with 62 sets logged across Austin, Chicago, Denver and Detroit and 16 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and Jacques Greene. Next up: Tigres de la Noche, Washingtondc on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Amtrac is a house and deep house artist tracked on soundcheck, with 62 sets logg
 
 Totally Enormous Extinct Dinosaurs, Tourist, Jacques Greene
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*

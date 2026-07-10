@@ -1,6 +1,6 @@
 # Shanne
 
-Shanne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 10 Jul 2026.
+Shanne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 10 Jul 2026.
 
 Shanne is a house and tech house artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Job de Jong, Anil Aras and M-High. Next up: Shelter Amsterdam, Amsterdam on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Shanne is a house and tech house artist based in Netherlands, tracked on soundch
 
 Job de Jong, Anil Aras, M-High
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanne/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanne/)*

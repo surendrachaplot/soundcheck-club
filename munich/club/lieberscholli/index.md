@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Kinky Karneval - Festival Edition" on Sat, 11 Jul 2026.
+Lieberscholli is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kinky Karneval - Festival Edition" on Sat, 11 Jul 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including Alex Volta, Apolonia, Black Box and DEYST and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -16,10 +16,10 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights
 | Sat, 8 Aug 2026 | Kinky Karneval Festival Edition |  |
 | Sat, 15 Aug 2026 | Township Rebellion Invites Open Air | Nothing But Love, SKIY, Township Rebellion |
 | Sun, 23 Aug 2026 | Discovery Sessions: Open Air w. Justin Jay | Justin Jay |
-| Sun, 6 Sept 2026 | Scholli SECCO sunDAY CLUB #5 (Open Air - 100 Free Tickets) | Alex Volta, Apolonia, DEYST, Schwofdrossel |
+| Sun, 6 Sept 2026 | SECCO DAY CLUB - SUNDAY OPEN AIR (100 Free Tickets) | Alex Volta, Apolonia, DEYST, Schwofdrossel |
 
 ## Address
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

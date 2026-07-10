@@ -1,6 +1,6 @@
 # Raketka
 
-Raketka is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA - Asureti Village, 35km from Tbilisi, Tbilisi on Fri, 10 Jul 2026.
+Raketka is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Asureti Village, 35km from Tbilisi, Tbilisi on Fri, 10 Jul 2026.
 
 Raketka is a techno and acid artist based in Poland, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Ghent and Madrid and 2 more. Often billed alongside Salat, BUDZKO and Šuma. Next up: TBA - Asureti Village, 35km from Tbilisi, Tbilisi on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Raketka is a techno and acid artist based in Poland, tracked on soundcheck, with
 
 Salat, BUDZKO, Šuma
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raketka/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raketka/)*

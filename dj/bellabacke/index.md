@@ -1,6 +1,6 @@
 # Bella Backe
 
-Bella Backe is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
+Bella Backe is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
 
 Bella Backe is a house and afro house artist tracked on soundcheck, with 74 sets logged across Bali, Ibiza, London and Melbourne and 1 more. Often billed alongside Caleb Jackson, Mixed Methods and Callyy. Next up: The Cause, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Bella Backe is a house and afro house artist tracked on soundcheck, with 74 sets
 
 Caleb Jackson, Mixed Methods, Callyy
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabacke/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabacke/)*

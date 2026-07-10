@@ -1,6 +1,6 @@
 # Moontalk
 
-Moontalk is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Barbary, Philadelphia on Fri, 10 Jul 2026.
+Moontalk is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Barbary, Philadelphia on Fri, 10 Jul 2026.
 
 Moontalk is a house and tech house artist tracked on soundcheck, with 17 sets logged across Austin, Berlin, Copenhagen and Ibiza and 6 more. Often billed alongside Darius Syrossian, Jamie Jones and Tummetott. Next up: The Barbary, Philadelphia on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Moontalk is a house and tech house artist tracked on soundcheck, with 17 sets lo
 
 Darius Syrossian, Jamie Jones, Tummetott
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalk/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalk/)*

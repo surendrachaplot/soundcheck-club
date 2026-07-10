@@ -1,6 +1,6 @@
 # M Salaciak
 
-M Salaciak is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Bar Datcha, Montreal on Fri, 31 Jul 2026.
+M Salaciak is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bar Datcha, Montreal on Fri, 31 Jul 2026.
 
 M Salaciak is a techno and ebm artist based in Canada, tracked on soundcheck, with 24 sets logged across Montreal. Often billed alongside Alan Harman, Mickey Dagger and CUERPOS. Next up: Bar Datcha, Montreal on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ M Salaciak is a techno and ebm artist based in Canada, tracked on soundcheck, wi
 
 Alan Harman, Mickey Dagger, CUERPOS
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/msalaciak/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/msalaciak/)*

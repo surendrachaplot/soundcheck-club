@@ -1,6 +1,6 @@
 # Parkcafe
 
-Parkcafe is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Saturday le Jour im Park Café mit Mathias Kaden" on Sat, 11 Jul 2026.
+Parkcafe is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Saturday le Jour im Park Café mit Mathias Kaden" on Sat, 11 Jul 2026.
 
 Parkcafe is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including Bergen, Bryan Kessler, David Hasert and DIMON and 2 more. Browse upcoming dates, start times and who's playing. Jugendpark.
 
@@ -16,4 +16,4 @@ Parkcafe is a music venue in Cologne listed on soundcheck. 3 upcoming nights, wi
 
 Jugendpark, Cologne
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*

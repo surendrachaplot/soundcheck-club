@@ -1,14 +1,13 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "TRIP DON'T SLEEP: iku / Amy Jor / Auphoria / HAYLEY'S KITCHEN " on Thu, 9 Jul 2026.
+MAD Radio NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SPECIAL GUEST: Jimpster / AG (NYC)" on Fri, 10 Jul 2026.
 
-MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including AG (NYC), Alex Raouf, Amy Jor and Ariel me Llamo and 2 more. Browse upcoming dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
+MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including AG (NYC), Alex Raouf, Ariel me Llamo and Chuck Daniels and 2 more. Browse upcoming dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | TRIP DON'T SLEEP: iku / Amy Jor / Auphoria / HAYLEY'S KITCHEN  | Amy Jor, Auphoria, iku |
 | Fri, 10 Jul 2026 | SPECIAL GUEST: Jimpster / AG (NYC) | AG (NYC), Jimpster |
 | Sat, 11 Jul 2026 | WE ARE ECLIPSE: LUGARIC / KARL BLANCHARD / REVA / JLU / FONICA | JLu (MX), KARL BLANCHARD |
 | Wed, 15 Jul 2026 | David Gaviria & Juan Toca Rico | David Gaviria, Juan Toca Rico |
@@ -22,4 +21,4 @@ MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming n
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

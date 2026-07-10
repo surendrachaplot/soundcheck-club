@@ -1,6 +1,6 @@
 # Mark Farina
 
-Mark Farina is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Cardiff Lounge, San Francisco/Oakland on Fri, 10 Jul 2026.
+Mark Farina is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cardiff Lounge, San Francisco/Oakland on Fri, 10 Jul 2026.
 
 Mark Farina is a house and deep house artist tracked on soundcheck, with 116 sets logged across Antwerp, Auckland, Chicago and Denver and 20 more. Often billed alongside DJ Heather, Derrick Carter and Doc Martin. Next up: Cardiff Lounge, Sanfrancisco on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Mark Farina is a house and deep house artist tracked on soundcheck, with 116 set
 
 DJ Heather, Derrick Carter, Doc Martin
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markfarina/)*

@@ -1,6 +1,6 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "The Zawose Queens" on Sat, 11 Jul 2026.
+Casa Montjuïc is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Zawose Queens" on Sat, 11 Jul 2026.
 
 Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including JASSS and The Zawose Queens. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
@@ -18,4 +18,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 5 upcoming ni
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

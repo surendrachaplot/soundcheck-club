@@ -1,6 +1,6 @@
 # Chunky
 
-Chunky is a Garage and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 17 Jul 2026.
+Chunky is a Garage and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 17 Jul 2026.
 
 Chunky is a garage and hip-hop artist tracked on soundcheck, with 92 sets logged across Antwerp, Barcelona, Brisbane and Bristol and 7 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: Yamamori Tengu, Dublin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Chunky is a garage and hip-hop artist tracked on soundcheck, with 92 sets logged
 
 Rich Reason, Tom Boogizm, Chimpo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

@@ -1,6 +1,6 @@
 # Ellxandra
 
-Ellxandra is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Barbossa, Montreal on Fri, 10 Jul 2026.
+Ellxandra is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Barbossa, Montreal on Fri, 10 Jul 2026.
 
 Ellxandra is a house and minimal artist tracked on soundcheck, with 40 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Claire, Massyl and DJ Chris (CA). Next up: Barbossa, Montreal on Fri 10 Jul.
 
@@ -26,4 +26,4 @@ Ellxandra is a house and minimal artist tracked on soundcheck, with 40 sets logg
 
 Claire, Massyl, DJ Chris (CA)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellxandra/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellxandra/)*

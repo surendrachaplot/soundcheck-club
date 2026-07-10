@@ -1,6 +1,6 @@
 # nasthug
 
-nasthug is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Circus Osaka, Osaka on Fri, 10 Jul 2026.
+nasthug is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Circus Osaka, Osaka on Fri, 10 Jul 2026.
 
 nasthug is a hip-hop and techno artist based in Japan, tracked on soundcheck, with 79 sets logged across Bangkok, Barcelona, Hongkong and Kyoto and 7 more. Often billed alongside MoEPiKA, MARZY and TAKENOKO. Next up: Circus Osaka, Osaka on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ nasthug is a hip-hop and techno artist based in Japan, tracked on soundcheck, wi
 
 MoEPiKA, MARZY, TAKENOKO
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nasthug/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nasthug/)*

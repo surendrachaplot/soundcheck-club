@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Big Pink, Detroit on Fri, 10 Jul 2026.
+Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Big Pink, Detroit on Fri, 10 Jul 2026.
 
 Bambii is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Austin and Barcelona and 25 more. Often billed alongside Young Teesh, Nino Brown (2) and Chinelo. Next up: Big Pink, Detroit on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Bambii is a techno and house artist tracked on soundcheck, with 96 sets logged a
 
 Young Teesh, Nino Brown (2), Chinelo
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

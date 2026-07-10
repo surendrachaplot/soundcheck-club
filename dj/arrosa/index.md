@@ -1,6 +1,6 @@
 # Arrosa
 
-Arrosa is a Techno and EBM artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Bongo Club, Edinburgh on Sat, 11 Jul 2026.
+Arrosa is a Techno and EBM artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Bongo Club, Edinburgh on Sat, 11 Jul 2026.
 
 Arrosa is a techno and ebm artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Brighton, Budapest and Dublin and 3 more. Often billed alongside Ricardo Castro, Odilon's Grip and Leviminks. Next up: The Bongo Club, Edinburgh on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Arrosa is a techno and ebm artist based in Germany, tracked on soundcheck, with 
 
 Ricardo Castro, Odilon's Grip, Leviminks
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arrosa/)*

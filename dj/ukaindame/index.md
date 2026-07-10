@@ -1,6 +1,6 @@
 # Ukãi Ndame
 
-Ukãi Ndame is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Else, Berlin on Sat, 11 Jul 2026.
+Ukãi Ndame is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Else, Berlin on Sat, 11 Jul 2026.
 
 Ukãi Ndame is an afro house and afro tech artist based in Angola, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Walter Griot, Hyenah and Mista Wallizz. Next up: Else, Berlin on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Ukãi Ndame is an afro house and afro tech artist based in Angola, tracked on so
 
 Walter Griot, Hyenah, Mista Wallizz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ukaindame/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ukaindame/)*

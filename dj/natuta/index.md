@@ -1,6 +1,6 @@
 # Natuta
 
-Natuta is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at BASEMENT, New York City on Fri, 10 Jul 2026.
+Natuta is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BASEMENT, New York City on Fri, 10 Jul 2026.
 
 Natuta is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, Leipzig, Losangeles and Newyorkcity and 2 more. Often billed alongside Citizens Union, Juliana Huxtable and Bekuchi. Next up: BASEMENT, Newyorkcity on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Natuta is a techno and house artist tracked on soundcheck, with 45 sets logged a
 
 Citizens Union, Juliana Huxtable, Bekuchi
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natuta/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natuta/)*

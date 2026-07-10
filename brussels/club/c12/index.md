@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "C12 Boat Party" on Sat, 11 Jul 2026.
+C12 is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "C12 Boat Party" on Sat, 11 Jul 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with line-ups including Afonso Peixoto, Casper, Chris Ferreira and FENIM0RE and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -19,4 +19,4 @@ C12 is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with l
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

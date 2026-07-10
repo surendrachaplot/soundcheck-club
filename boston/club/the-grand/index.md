@@ -1,6 +1,6 @@
 # The Grand
 
-The Grand is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "Matoma" on Fri, 10 Jul 2026.
+The Grand is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Matoma" on Fri, 10 Jul 2026.
 
 The Grand is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 58 Seapport Blvd, Boston, MA 02210, USA.
 
@@ -15,4 +15,4 @@ The Grand is a music venue in Boston listed on soundcheck. 2 upcoming nights. Br
 
 58 Seapport Blvd, Boston, MA 02210, USA, Boston
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-grand/)*

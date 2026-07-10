@@ -1,6 +1,6 @@
 # Nat SuPrise
 
-Nat SuPrise is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Insomnia, Berlin on Fri, 10 Jul 2026.
+Nat SuPrise is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Insomnia, Berlin on Fri, 10 Jul 2026.
 
 Nat SuPrise is a techno and tech house artist based in Germany, tracked on soundcheck, with 79 sets logged across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: Insomnia, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Nat SuPrise is a techno and tech house artist based in Germany, tracked on sound
 
 Sika Akis, Kaminka Merel, Mijk van Dijk
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsuprise/)*

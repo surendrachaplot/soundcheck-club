@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at The Glove That Fits, London on Fri, 10 Jul 2026.
+Seb Odyssey is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Glove That Fits, London on Fri, 10 Jul 2026.
 
 Seb Odyssey is a house and techno artist tracked on soundcheck, with 44 sets logged across Leeds, London, Manchester and Stockholm. Often billed alongside Josh Caffé, Jade Seatle and Grace Sands. Next up: The Glove That Fits, London on Fri 10 Jul.
 
@@ -31,4 +31,4 @@ Seb Odyssey is a house and techno artist tracked on soundcheck, with 44 sets log
 
 Josh Caffé, Jade Seatle, Grace Sands
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

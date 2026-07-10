@@ -1,6 +1,6 @@
 # Sound Factory
 
-Sound Factory is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Thu, 9 Jul 2026; the next is "It's Beyoncé Bitch Party Lyon avec Lolita Banana" on Sat, 11 Jul 2026.
+Sound Factory is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "It's Beyoncé Bitch Party Lyon avec Lolita Banana" on Sat, 11 Jul 2026.
 
 Sound Factory is a music venue in Lyon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. ZAC Espace Bourbonnais - 65/73 Rue du Bourbonnais, Lyon.
 
@@ -14,4 +14,4 @@ Sound Factory is a music venue in Lyon listed on soundcheck. 1 upcoming night. B
 
 ZAC Espace Bourbonnais - 65/73 Rue du Bourbonnais, Lyon, Lyon
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/sound-factory/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/sound-factory/)*

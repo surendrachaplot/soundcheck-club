@@ -1,6 +1,6 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 90 upcoming nights listed on soundcheck as of Thu, 9 Jul 2026; the next is "FISHER" on Thu, 9 Jul 2026.
+[UNVRS] is a music venue in Ibiza with 90 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "David Guetta presents Galactic Circus" on Fri, 10 Jul 2026.
 
 [UNVRS] is a music venue in Ibiza listed on soundcheck. 90 upcoming nights, with line-ups including 19:26, Artbat, Adam Sellouk and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
@@ -8,7 +8,6 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 9 Jul 2026 | FISHER | FISHER, Jason Bye, Paco Osuna |
 | Fri, 10 Jul 2026 | David Guetta presents Galactic Circus | David Guetta, MALUGI, VisionV |
 | Sat, 11 Jul 2026 | elrow Ibiza | AJ Christou, Bastian Bux, Dan Shake, Patrick Topping |
 | Sun, 12 Jul 2026 | Carl Cox | Carl Cox, Chris Stussy, Karretero, Melon Bomb |
@@ -18,9 +17,10 @@
 | Thu, 16 Jul 2026 | FISHER | FISHER, Jason Bye, MPH (1), salute |
 | Fri, 17 Jul 2026 | David Guetta presents Galactic Circus | David Guetta, Korolova |
 | Sat, 18 Jul 2026 | elrow Ibiza | Jay de Lys, Joshwa, Manda Moor, Nic Fanciulli, Sirus Hood |
+| Sun, 19 Jul 2026 | Carl Cox | Andrea Oliva, Carl Cox, Chelina Manuhutu, Maceo Plex, Melon Bomb, VICTORIA WHYNOT |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

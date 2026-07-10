@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at TBA, Berlin on Fri, 10 Jul 2026.
+Brutalismus 3000 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Berlin on Fri, 10 Jul 2026.
 
 Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 31 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: TBA, Berlin on Fri 10 Jul.
 
@@ -28,4 +28,4 @@ Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 66 set
 
 DJ Gigola, MCR-T, 999999999
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

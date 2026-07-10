@@ -1,6 +1,6 @@
 # Esther Côté
 
-Esther Côté is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at Système, Montreal on Fri, 10 Jul 2026.
+Esther Côté is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Système, Montreal on Fri, 10 Jul 2026.
 
 Esther Côté is a techno and house artist tracked on soundcheck, with 32 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside esme (US), Lis Dalton and 1111hz. Next up: Système, Montreal on Fri 10 Jul.
 
@@ -27,4 +27,4 @@ Esther Côté is a techno and house artist tracked on soundcheck, with 32 sets l
 
 esme (US), Lis Dalton, 1111hz
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esthercote/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esthercote/)*

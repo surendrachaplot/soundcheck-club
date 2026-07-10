@@ -1,6 +1,6 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 9 Jul 2026, next at UMI, Brussels on Fri, 10 Jul 2026.
+Simone de Kunovich is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UMI, Brussels on Fri, 10 Jul 2026.
 
 Simone de Kunovich is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside PARAMIDA, Pascal Moscheni and Dante (H501). Next up: UMI, Brussels on Fri 10 Jul.
 
@@ -29,4 +29,4 @@ Simone de Kunovich is a house and techno artist tracked on soundcheck, with 142 
 
 PARAMIDA, Pascal Moscheni, Dante (H501)
 
-*Updated Thu, 9 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
