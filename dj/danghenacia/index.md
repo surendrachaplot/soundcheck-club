@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+Dan Ghenacia is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 145 se
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

@@ -1,6 +1,6 @@
 # Brunello presents Mellow Circus at Club Space Miami
 
-Brunello presents Mellow Circus at Club Space Miami on Sat 11 Jul, Miami. 5 acts on the bill: Art Department, Mai iachetti, Skream and Tripolism and 1 more. Preview the line-up and save it on soundcheck.
+Brunello presents Mellow Circus at Club Space Miami on Sat 11 Jul, Miami. 6 acts on the bill: Art Department, Brunello, Mai iachetti and Skream and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Brunello presents Mellow Circus at Club Space Miami on Sat 11 Jul, Miami. 5 acts
 ## Line-up
 
 - Art Department
+- Brunello
 - Mai iachetti
 - Skream
 - Tripolism

@@ -1,14 +1,13 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Love Infected: embraceOurweird x Circular Music at JK on 2 Floors" on Fri, 10 Jul 2026.
+Jonny Knüppel is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SENSUS FESTIVAL 24h SOMMERPARTY" on Sat, 11 Jul 2026.
 
-Jonny Knüppel is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AGILY, Ali Rajat, Allynx and Ana Malo and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
+Jonny Knüppel is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including AGILY, Ali Rajat, Allynx and Ana Malo and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Love Infected: embraceOurweird x Circular Music at JK on 2 Floors | JaFrei Loufoque, KappaPlenti, M.o.E, Max Nytram, Oliver Raumklang, Pepi Soljanka, Phat Beat, Pierre Vice, RedtomCat |
 | Sat, 11 Jul 2026 | SENSUS FESTIVAL 24h SOMMERPARTY | AGILY, Bamela Paywatch, Brauer, DJ Fucks Himself, DJ IL, EUROBABES, Ecke & Hugo, Euphrat, Hanna Baertig, HiHat, Katta Lana, Lenny Fuck, Menzel, S.3000, Talia Dorr, lie:ven, nasty (1), sarah4K, tamarawrx3 |
 | Sun, 12 Jul 2026 | Trips & Ticks OA at JK | Ezio Aguiar, Janoma, Jemski., Libra |
 | Fri, 17 Jul 2026 | Midsommer Verglühen | Ali Rajat, Bouncing Mirrors, DJ Banba, Dino S, IRAD, Tschatsching, romp (DE), romp_about |
@@ -21,4 +20,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

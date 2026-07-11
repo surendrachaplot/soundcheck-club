@@ -1,6 +1,6 @@
 # submarine
 
-submarine is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Fox and Firkin, London on Fri, 17 Jul 2026.
+submarine is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Fox and Firkin, London on Fri, 17 Jul 2026.
 
 submarine is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Basel, Berlin, Bristol and Cologne and 6 more. Often billed alongside Alix Perez, Sancta and Amoss. Next up: The Fox and Firkin, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ submarine is a drum & bass and techno artist based in Germany, tracked on soundc
 
 Alix Perez, Sancta, Amoss
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*

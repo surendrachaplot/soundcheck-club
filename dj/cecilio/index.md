@@ -1,6 +1,6 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 11 Jul 2026.
+Cecilio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 11 Jul 2026.
 
 Cecilio is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 24 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Platforma Wolff, Bucharest on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Cecilio is a house and techno artist tracked on soundcheck, with 104 sets logged
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

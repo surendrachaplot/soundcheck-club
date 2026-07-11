@@ -1,6 +1,6 @@
 # The Compound by Dirt Dog
 
-The Compound by Dirt Dog is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "RAVEKAWA - Chiikawa Rave" on Fri, 17 Jul 2026.
+The Compound by Dirt Dog is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "RAVEKAWA - Chiikawa Rave" on Fri, 17 Jul 2026.
 
 The Compound by Dirt Dog is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2909 Supply Ave, Commerce, CA 90040, USA.
 
@@ -14,4 +14,4 @@ The Compound by Dirt Dog is a music venue in Losangeles listed on soundcheck. 1 
 
 2909 Supply Ave, Commerce, CA 90040, USA, Los Angeles
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-compound-by-dirt-dog/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-compound-by-dirt-dog/)*

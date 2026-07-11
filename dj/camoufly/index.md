@@ -1,6 +1,6 @@
 # camoufly
 
-camoufly is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
+camoufly is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
 
 camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside Arthi, Chris Avantgarde and Club Angel. Next up: Document, Bristol on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ camoufly is a house and garage artist based in Italy, tracked on soundcheck, wit
 
 Arthi, Chris Avantgarde, Club Angel
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

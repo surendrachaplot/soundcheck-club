@@ -1,6 +1,6 @@
 # DJ KILLING
 
-DJ KILLING is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Phantom Bar Berlin, Berlin on Sat, 11 Jul 2026.
+DJ KILLING is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Phantom Bar Berlin, Berlin on Sat, 11 Jul 2026.
 
 DJ KILLING is a techno and house artist based in Germany, tracked on soundcheck, with 121 sets logged across Amsterdam, Basel, Berlin and Hamburg and 6 more. Often billed alongside travaspango, LINDHOUSE and juan and only. Next up: Phantom Bar Berlin, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ DJ KILLING is a techno and house artist based in Germany, tracked on soundcheck,
 
 travaspango, LINDHOUSE, juan and only
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*

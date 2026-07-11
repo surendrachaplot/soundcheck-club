@@ -1,6 +1,6 @@
 # La Cité des Arts de la Rue
 
-La Cité des Arts de la Rue is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kumquat 10 years • Round 2/3 with Sweely, Magda, Lamache" on Sat, 25 Jul 2026.
+La Cité des Arts de la Rue is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kumquat 10 years • Round 2/3 with Sweely, Magda, Lamache" on Sat, 25 Jul 2026.
 
 La Cité des Arts de la Rue is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Lamache, Magda and Sweely. Browse upcoming dates, start times and who's playing. 225 Av. Ibrahim Ali, 13015 Marseille.
 
@@ -14,4 +14,4 @@ La Cité des Arts de la Rue is a music venue in Marseille listed on soundcheck. 
 
 225 Av. Ibrahim Ali, 13015 Marseille, Marseille
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-cit-des-arts-de-la-rue/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-cit-des-arts-de-la-rue/)*

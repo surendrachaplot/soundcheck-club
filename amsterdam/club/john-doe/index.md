@@ -1,26 +1,26 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 42 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Under One Groove" on Fri, 10 Jul 2026.
+John Doe is a music venue in Amsterdam with 41 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Stuck in a Loop - (hard)house to techno" on Sat, 11 Jul 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 42 upcoming nights, with line-ups including Arabesque (AU), Alex Sharp, Aztlan Zidonia and BEZMEZH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, with line-ups including Arabesque (AU), Alex Sharp, Aztlan Zidonia and BEZMEZH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Under One Groove | Alex Sharp |
 | Sat, 11 Jul 2026 | Stuck in a Loop - (hard)house to techno | Holopine, TIDEE |
 | Sun, 12 Jul 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 13 Jul 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
-| Tue, 14 Jul 2026 | [PHANTOM GROUP] inKKiss INVITES | Solus, inKKiss |
+| Tue, 14 Jul 2026 | [PHANTOM GROUP] KLUBNACHT w inKKiss / ELYVEN [FR] / ØZMØZ B2B MALØ [BE] / CRD B2B AORBE / Solus | Solus, inKKiss |
 | Wed, 15 Jul 2026 | RAVELAND x 20kHz: Hard Techno, Groove & Bounce | STVN, stargurl |
 | Thu, 16 Jul 2026 | Amsterdam Techno Sessions with Second Gate - MEX & Marco Ramos | Marco Ramos, Second Gate |
 | Fri, 17 Jul 2026 | CODE 303 x UNDRGRND | DMS1N3RGY, Gaya Carmeli, LEX LEDU, Vero_ |
 | Sat, 18 Jul 2026 | Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX | Marco Ramos, Villaseñor |
 | Sun, 19 Jul 2026 | No Sundays Without Techno | Alex Sharp |
+| Mon, 20 Jul 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
 
 ## Address
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

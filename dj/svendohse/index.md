@@ -1,6 +1,6 @@
 # Sven Dohse
 
-Sven Dohse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Sven Dohse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Sven Dohse is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Copenhagen, Hamburg and Istanbul and 3 more. Often billed alongside Mira, Chris Schwarzwälder and Mimi Love. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Sven Dohse is a techno and house artist based in Germany, tracked on soundcheck,
 
 Mira, Chris Schwarzwälder, Mimi Love
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svendohse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svendohse/)*

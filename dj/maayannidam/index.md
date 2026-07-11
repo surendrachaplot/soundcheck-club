@@ -1,6 +1,6 @@
 # Maayan Nidam
 
-Maayan Nidam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Green Room NYC, New York City on Sat, 11 Jul 2026.
+Maayan Nidam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Green Room NYC, New York City on Sat, 11 Jul 2026.
 
 Maayan Nidam is a house and minimal artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Green Room NYC, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Maayan Nidam is a house and minimal artist based in Germany, tracked on soundche
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maayannidam/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maayannidam/)*

@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SW ♡ IBIZA 15 JULY" on Wed, 15 Jul 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SW ♡ IBIZA 15 JULY" on Wed, 15 Jul 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Dunmore Brothers, EVGHENIIA, Leon and Pachanga Boys and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -23,4 +23,4 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming n
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

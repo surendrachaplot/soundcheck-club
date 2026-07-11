@@ -1,6 +1,6 @@
 # TraTraTrax at Berghain | Panorama Bar | Säule
 
-TraTraTrax at Berghain | Panorama Bar | Säule on Fri 31 Jul, Berlin. 17 acts on the bill: Aquarian, Bitter Babe, Brenda and DJ Marfox and 13 more. Preview the line-up and save it on soundcheck.
+TraTraTrax at Berghain | Panorama Bar | Säule on Fri 31 Jul, Berlin. 19 acts on the bill: Aquarian, Bitter Babe, Brenda and DJ Marfox and 15 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,8 @@ TraTraTrax at Berghain | Panorama Bar | Säule on Fri 31 Jul, Berlin. 17 acts on
 - Pariah
 - Scion
 - Simo Cell
+- Substance
+- Vainqueur
 - Verraco
 - Yu Su
 - dj lomalinda

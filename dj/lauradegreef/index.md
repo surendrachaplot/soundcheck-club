@@ -1,14 +1,14 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UMI, Brussels on Fri, 10 Jul 2026.
+Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 18 Jul 2026.
 
-Laura De Greef is a house and techno artist tracked on soundcheck, with 23 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 4 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: UMI, Brussels on Fri 10 Jul.
+Laura De Greef is a house and techno artist tracked on soundcheck, with 24 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 5 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Frankhan Selectist, Istanbul on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | UMI | Brussels |
+| Sat, 18 Jul 2026 | Frankhan Selectist | Istanbul |
 | Sun, 19 Jul 2026 | Colorado Charlie | The Hague |
 | Thu, 30 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -16,6 +16,7 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 23 sets 
 
 ## Recently played
 
+- UMI, Brussels — Fri, 10 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - fabric, London — Fri, 19 Jun 2026
 - Thuishaven, Amsterdam — Sun, 14 Jun 2026
@@ -23,10 +24,9 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 23 sets 
 - Albert Summer Rooftop, Brussels — Fri, 22 May 2026
 - Jalousy, Brussels — Fri, 15 May 2026
 - Kilomètre25, Paris — Fri, 10 Apr 2026
-- Jeux d'Hiver, Brussels — Thu, 9 Apr 2026
 
 ## Shares bills with
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

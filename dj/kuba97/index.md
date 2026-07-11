@@ -1,6 +1,6 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat, 18 Jul 2026.
+Kuba'97 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat, 18 Jul 2026.
 
 Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Kuba'97 is a techno and house artist based in Belgium, tracked on soundcheck, wi
 
 DJ Rino, Dana Kuehr, Ben Kamal
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kuba97/)*

@@ -1,15 +1,13 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 24 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Macadam • DJ Maria ~ Combe" on Fri, 10 Jul 2026.
+Macadam is a music venue in Nantes with 22 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "FA7 CREW invite Vera" on Sat, 11 Jul 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 24 upcoming nights, with line-ups including Abr., Adam Pits, Alan.D and Alpha Tracks and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 22 upcoming nights, with line-ups including Abr., Adam Pits, Alan.D and Alpha Tracks and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Macadam • DJ Maria ~ Combe | Combe, DJ MARIA. |
-| Fri, 10 Jul 2026 | Macadam • DJ Maria ~ Combe | Combe, DJ MARIA. |
 | Sat, 11 Jul 2026 | FA7 CREW invite Vera | Vera |
 | Mon, 13 Jul 2026 | DIVA • NIGHT SESSION • Byron Yeates ~ Paulette Sauvage B2B Club Devotion ~ Les 4L ~ F.T.Mutant | Byron Yeates, Club Devotion, Nawme, Paulette Sauvage, matilda (2) |
 | Thu, 16 Jul 2026 | Macadam x Combo Bongos • Super Salmon ~ L'Étalon Disco |  |
@@ -18,9 +16,11 @@ Macadam is a music venue in Nantes listed on soundcheck. 24 upcoming nights, wit
 | Thu, 23 Jul 2026 | Macadam x Connexion Records • NEBEL ~ SHRED 2000 | SHRED 2000 |
 | Fri, 24 Jul 2026 | Macadam x Contrepoint • Fafi Abdel Nour ~ Charleeps ~ Nicco Venier B2B Klud ~ Lélie | Charleeps, Fafi Abdel Nour, Klud |
 | Sat, 25 Jul 2026 | Macadam x Combo Bongos • Bufiman ~ Tia Cousins ~ Vidock | Bufiman, Tia Cousins, Vidock |
+| Sun, 26 Jul 2026 | Gloria Slip Extended with Grace Open Air · Sansibar ~ Caim ~ Taylor Shockley ~ Bambi ~ GTI | Bambi (FR), Caim, GTI, Princ3kx, Sansibar, Taylor Shockley |
+| Thu, 30 Jul 2026 | Macadam x Frog Attack • Millord ~ Carloooza | Carloooza, Millord |
 
 ## Address
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

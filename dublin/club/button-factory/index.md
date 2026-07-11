@@ -1,6 +1,6 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Booka Shade" on Sat, 11 Jul 2026.
+Button Factory is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Booka Shade" on Sat, 11 Jul 2026.
 
 Button Factory is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Booka Shade, Jake Fitz, Sem Jacobs and Wheats. Browse upcoming dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
@@ -16,4 +16,4 @@ Button Factory is a music venue in Dublin listed on soundcheck. 3 upcoming night
 
 2 Curved Street; Dublin 2; Ireland, Dublin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*

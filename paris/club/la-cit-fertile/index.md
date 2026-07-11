@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "AREA SUMMER EDITION: future.666 b2b DJ ANGEL, KUSS" on Sun, 12 Jul 2026.
+La Cité Fertile is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "AREA SUMMER EDITION: future.666 b2b DJ ANGEL, KUSS" on Sun, 12 Jul 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Abn - P2z, Asaya, Bours? and Bürt and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -19,4 +19,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 6 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

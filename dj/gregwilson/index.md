@@ -1,6 +1,6 @@
 # Greg Wilson
 
-Greg Wilson is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Freight Brixton, London on Sat, 11 Jul 2026.
+Greg Wilson is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Freight Brixton, London on Sat, 11 Jul 2026.
 
 Greg Wilson is a disco and house artist tracked on soundcheck, with 59 sets logged across Brighton, Bristol, Brussels and Dublin and 14 more. Often billed alongside Graeme Park, DJ Paulette and Jon Dasilva. Next up: Freight Brixton, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Greg Wilson is a disco and house artist tracked on soundcheck, with 59 sets logg
 
 Graeme Park, DJ Paulette, Jon Dasilva
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gregwilson/)*

@@ -1,6 +1,6 @@
 # SOUZAC
 
-SOUZAC is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Electric Garden, Dublin on Sat, 11 Jul 2026.
+SOUZAC is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Electric Garden, Dublin on Sat, 11 Jul 2026.
 
 SOUZAC is a progressive house and techno artist based in Brazil, tracked on soundcheck, with 49 sets logged across Dublin. Often billed alongside GABR:EL, Belen G and NAZARENO. Next up: Electric Garden, Dublin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ SOUZAC is a progressive house and techno artist based in Brazil, tracked on soun
 
 GABR:EL, Belen G, NAZARENO
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/souzac/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/souzac/)*

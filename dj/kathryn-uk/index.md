@@ -1,6 +1,6 @@
 # Kathryn
 
-Kathryn is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Commune, Liverpool on Sat, 25 Jul 2026.
+Kathryn is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Commune, Liverpool on Sat, 25 Jul 2026.
 
 Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged across Liverpool. Often billed alongside Aly P, Kirwan and Pea (5). Next up: Commune, Liverpool on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged 
 
 Aly P, Kirwan, Pea (5)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kathryn-uk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kathryn-uk/)*

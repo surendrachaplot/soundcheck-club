@@ -1,6 +1,6 @@
 # Crescent London: Sunday Explorations IX at Starlane Pizza Bar
 
-Crescent London: Sunday Explorations IX at Starlane Pizza Bar on Sun 12 Jul, London. 6 acts on the bill: Caligari_, Concrete Gold, DJ Winggold and Labyrinthine and 2 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Crescent London: Sunday Explorations IX at Starlane Pizza Bar on Sun 12 Jul, London. 6 acts on the bill: Caligari_, Concrete Gold, DJ Winggold and Labyrinthine and 2 more. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

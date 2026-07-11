@@ -1,6 +1,6 @@
 # Gonno
 
-Gonno is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mitsuki, Tokyo on Sat, 11 Jul 2026.
+Gonno is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Mitsuki, Tokyo on Sat, 11 Jul 2026.
 
 Gonno is a house and techno artist tracked on soundcheck, with 110 sets logged across Bali, Bangkok, Berlin and Hongkong and 13 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Mitsuki, Tokyo on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Gonno is a house and techno artist tracked on soundcheck, with 110 sets logged a
 
 K.E.G, U-T, Satoshi Otsuki
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*

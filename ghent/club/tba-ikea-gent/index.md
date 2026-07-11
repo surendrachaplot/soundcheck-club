@@ -1,6 +1,6 @@
 # TBA - Ikea Gent
 
-TBA - Ikea Gent is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Panda In The City - The IKEA Rave" on Sun, 2 Aug 2026.
+TBA - Ikea Gent is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Panda In The City - The IKEA Rave" on Sun, 2 Aug 2026.
 
 TBA - Ikea Gent is a music venue in Ghent listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Ikea Gent is a music venue in Ghent listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Panda In The City - The IKEA Rave |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-ikea-gent/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-ikea-gent/)*

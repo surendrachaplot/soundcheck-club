@@ -1,6 +1,6 @@
 # Paléo Festival
 
-Paléo Festival is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Paléo Festival: Timmy Trumpets - Amelie Lens pres. AURA - Bob Sinclar - Mosimann -" on Tue, 21 Jul 2026.
+Paléo Festival is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Paléo Festival: Timmy Trumpets - Amelie Lens pres. AURA - Bob Sinclar - Mosimann -" on Tue, 21 Jul 2026.
 
 Paléo Festival is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Bob Sinclar, Diffrent, Dj Schnake and Jen Cardini and 2 more. Browse upcoming dates, start times and who's playing. 312 Route de St-Cergue, Nyon 1260, Switzerland.
 
@@ -14,4 +14,4 @@ Paléo Festival is a music venue in Geneva listed on soundcheck. 1 upcoming nigh
 
 312 Route de St-Cergue, Nyon 1260, Switzerland, Geneva
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/pal-o-festival/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/pal-o-festival/)*

@@ -1,20 +1,20 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 26 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Element: Summer Session" on Fri, 10 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Mono Records: Starlane Pizza Bar" on Sat, 11 Jul 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including TommyGDJ, Aniaef, Arnaud Le Texier and ASHOJU and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including TommyGDJ, Aniaef, Arnaud Le Texier and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Element: Summer Session | ASHOJU, IZZY (UK), KREED., Sho (UK) |
 | Sat, 11 Jul 2026 | Mono Records: Starlane Pizza Bar |  |
 | Sat, 11 Jul 2026 | Afters at starlane Pizza Bar : Dancing in Paradise | Casey Lockhart and Alfie Binet, Drako, James Cooper (UK), Mase (2), Rian Mahandru |
 | Sun, 12 Jul 2026 | Crescent London: Sunday Explorations IX | Caligari_, Concrete Gold, DJ Winggold, Labyrinthine, Onyr, basic chanel |
 | Fri, 17 Jul 2026 | Third Nature @Starlane |  |
 | Sat, 18 Jul 2026 |  EXTENDED SUMMER SESSION 2 | E. Alexander, Ivan Iacobucci, JUNTARO Y, Modebaku |
 | Sun, 19 Jul 2026 | Saints & Sinners with Arnaud Le Texier, Desireè, Greg Brockmann & nohexcode b2b CITYTRONIX | Arnaud Le Texier, CITYTRONIX, Desiree', Greg Brockmann, nohexcode |
+| Fri, 24 Jul 2026 | INTO THE WOODS 10TH ANNIVERSARY PART 2 - OCTAVE (RO), LA CASSETTE, FLORA THA EXPLORA (12 HOUR) | Cristi Klebleev, FLORA THA EXPLORA, Guillaume Cartier, Mano Andrei, Octave Ian, krif |
 | Sat, 25 Jul 2026 | Starlane presents: Praslea, Timoti, Nate Oldfield | Oldfield, Praslea, Timoti |
 | Sat, 25 Jul 2026 | Sweet Greens: Vol. 2 - DAY & NIGHT | Dolce Verde |
 | Fri, 31 Jul 2026 | JFF invites StandUP - Just For Fun 4 | Monterosso, Oren (IT), Oren., Save P, Ughe, Vlad Ioachimescu, Yuma (UK) |
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

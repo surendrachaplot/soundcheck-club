@@ -1,14 +1,13 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BORIS CLUB, Barcelona on Fri, 10 Jul 2026.
+Layla Benitez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-Layla Benitez is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: BORIS CLUB, Barcelona on Fri 10 Jul.
+Layla Benitez is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Hï Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | BORIS CLUB | Barcelona |
 | Wed, 15 Jul 2026 | Hï Ibiza | Ibiza |
 | Tue, 21 Jul 2026 | [UNVRS] | Ibiza |
 | Fri, 24 Jul 2026 | Club Space Miami | Miami |
@@ -18,6 +17,7 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 153 sets 
 
 ## Recently played
 
+- BORIS CLUB, Barcelona — Fri, 10 Jul 2026
 - Silverworks Island, London — Sat, 27 Jun 2026
 - [UNVRS], Ibiza — Fri, 26 Jun 2026
 - Club Space Miami, Miami — Sat, 20 Jun 2026
@@ -25,10 +25,9 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 153 sets 
 - Floyd, Miami — Sat, 23 May 2026
 - Prysm Nightclub, Chicago — Fri, 8 May 2026
 - Culture, Washington DC — Fri, 1 May 2026
-- Óbuda Bay, Budapest — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

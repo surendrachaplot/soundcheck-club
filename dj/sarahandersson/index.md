@@ -1,8 +1,8 @@
 # Sarah Andersson
 
-Sarah Andersson is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Noxe Barcelona, Barcelona on Wed, 15 Jul 2026.
+Sarah Andersson is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Noxe Barcelona, Barcelona on Wed, 15 Jul 2026.
 
-Sarah Andersson is a house and tech house artist tracked on soundcheck, with 59 sets logged across Barcelona, Ibiza and Stockholm. Often billed alongside GIVIO, Vikki and Nesi. Next up: Noxe Barcelona, Barcelona on Wed 15 Jul.
+Sarah Andersson is a house and tech house artist tracked on soundcheck, with 60 sets logged across Barcelona, Ibiza and Stockholm. Often billed alongside GIVIO, Vikki and Nesi. Next up: Noxe Barcelona, Barcelona on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sarah Andersson is a house and tech house artist tracked on soundcheck, with 59 
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | Noxe Barcelona | Barcelona |
 | Wed, 22 Jul 2026 | Noxe Barcelona | Barcelona |
+| Sun, 26 Jul 2026 | W Barcelona | Barcelona |
 | Tue, 28 Jul 2026 | Noxe Barcelona | Barcelona |
 | Wed, 29 Jul 2026 | Noxe Barcelona | Barcelona |
 
@@ -28,4 +29,4 @@ Sarah Andersson is a house and tech house artist tracked on soundcheck, with 59 
 
 GIVIO, Vikki, Nesi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahandersson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahandersson/)*

@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mood Ring, New York City on Sat, 11 Jul 2026.
+purp is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Mood Ring, New York City on Sat, 11 Jul 2026.
 
 purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Brussels, Losangeles and Miami and 4 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Mood Ring, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ purp is a club and ghetto tech artist based in United States of America, tracked
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

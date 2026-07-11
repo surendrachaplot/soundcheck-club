@@ -1,6 +1,6 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Twelve Bells #003: Just Her" on Sat, 18 Jul 2026.
+Future Yard is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Twelve Bells #003: Just Her" on Sat, 18 Jul 2026.
 
 Future Yard is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including DJ Andy Smith, James Lavelle, Just Her and Stealing Sheep and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
@@ -23,4 +23,4 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 11 upcoming nigh
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

@@ -1,6 +1,6 @@
 # Neska
 
-Neska is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nitsa Club, Barcelona on Sat, 11 Jul 2026.
+Neska is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Nitsa Club, Barcelona on Sat, 11 Jul 2026.
 
 Neska is a techno and club artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 7 more. Often billed alongside BERTON, Jasmín and Konduku. Next up: Nitsa Club, Barcelona on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Neska is a techno and club artist tracked on soundcheck, with 72 sets logged acr
 
 BERTON, Jasmín, Konduku
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

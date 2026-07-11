@@ -1,14 +1,13 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Electrik Faeries" on Fri, 10 Jul 2026.
+Vespers Club is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "INTOXtasy" on Sat, 11 Jul 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including AAKAARA, Akiko Haruna, Amor Ante and Artur M Puga and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including AAKAARA, Akiko Haruna, Artur M Puga and BABii and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Electrik Faeries | Amor Ante, DJ BinBag, Sid The Science Bitch |
 | Sat, 11 Jul 2026 | INTOXtasy |  |
 | Thu, 16 Jul 2026 | HyperLink |  |
 | Sat, 18 Jul 2026 | XPHORIA: LOVE IS THE END | Akiko Haruna, Artur M Puga, BABii, ecolagbohrsac2021, it_dont_Matt.er |
@@ -23,4 +22,4 @@ Vespers Club is a music venue in London listed on soundcheck. 10 upcoming nights
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

@@ -1,6 +1,6 @@
 # Ranerro
 
-Ranerro is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Porto Pollo, Vienna on Sat, 11 Jul 2026.
+Ranerro is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Porto Pollo, Vienna on Sat, 11 Jul 2026.
 
 Ranerro is a house and deep house artist based in Slovenia, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Budapest and Paris and 1 more. Often billed alongside Alex Picone, Ancut and Andrew James Gustav. Next up: Porto Pollo, Vienna on Sat 11 Jul.
 
@@ -25,4 +25,4 @@ Ranerro is a house and deep house artist based in Slovenia, tracked on soundchec
 
 Alex Picone, Ancut, Andrew James Gustav
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*

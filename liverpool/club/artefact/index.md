@@ -1,6 +1,6 @@
 # Artefact
 
-Artefact is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "ACIDFEST Liverpool All-Dayer feat. Bike (BR), Thee Lucifer Sams & more" on Sat, 22 Aug 2026.
+Artefact is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "ACIDFEST Liverpool All-Dayer feat. Bike (BR), Thee Lucifer Sams & more" on Sat, 22 Aug 2026.
 
 Artefact is a music venue in Liverpool listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 71 Roscoe St, L1 9DW.
 
@@ -14,4 +14,4 @@ Artefact is a music venue in Liverpool listed on soundcheck. 1 upcoming night. B
 
 71 Roscoe St, L1 9DW, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/artefact/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/artefact/)*

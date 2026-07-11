@@ -1,14 +1,13 @@
 # D. Tiffany
 
-D. Tiffany is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cafeteria, Toronto on Fri, 10 Jul 2026.
+D. Tiffany is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Outer Heaven, New York City on Sat, 11 Jul 2026.
 
-D. Tiffany is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Cafeteria, Toronto on Fri 10 Jul.
+D. Tiffany is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Outer Heaven, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Cafeteria | Toronto |
 | Sat, 11 Jul 2026 | Outer Heaven | New York City |
 | Fri, 17 Jul 2026 | TBA | Los Angeles |
 | Sat, 18 Jul 2026 | Marble Bar | Detroit |
@@ -21,6 +20,7 @@ D. Tiffany is a house and techno artist tracked on soundcheck, with 174 sets log
 
 ## Recently played
 
+- Cafeteria, Toronto — Fri, 10 Jul 2026
 - Village Underground Barcelona, Barcelona — Sat, 27 Jun 2026
 - The Christmas Steps, Bristol — Sat, 20 Jun 2026
 - Backsteinboot, Berlin — Sat, 6 Jun 2026
@@ -28,10 +28,9 @@ D. Tiffany is a house and techno artist tracked on soundcheck, with 174 sets log
 - Badaboum, Paris — Sat, 16 May 2026
 - Lofi, Amsterdam — Mon, 27 Apr 2026
 - The Loft, Manchester — Sat, 25 Apr 2026
-- Macadam, Nantes — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

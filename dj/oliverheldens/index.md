@@ -1,6 +1,6 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Oliver Heldens is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Boston and Buenosaires and 20 more. Often billed alongside Kaskade, Tiesto and Adam Beyer. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Oliver Heldens is a house and electronica artist tracked on soundcheck, with 50 
 
 Kaskade, Tiesto, Adam Beyer
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

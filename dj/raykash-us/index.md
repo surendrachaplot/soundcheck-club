@@ -1,6 +1,6 @@
 # Ray Kash
 
-Ray Kash is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
+Ray Kash is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
 
 Ray Kash is a house and deep house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Barcelona, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Enzo Muro, Artur (US) and Borak. Next up: TBA - 2346 Porter Street, Los Angeles, CA 90021, Losangeles on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Ray Kash is a house and deep house artist based in United States of America, tra
 
 Enzo Muro, Artur (US), Borak
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raykash-us/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raykash-us/)*

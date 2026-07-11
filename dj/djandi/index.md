@@ -1,14 +1,13 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 9 Bob Note, New York City on Fri, 10 Jul 2026.
+Andi is a EBM and Italo Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Good Room, New York City on Sat, 11 Jul 2026.
 
-Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logged across Austin, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: 9 Bob Note, Newyorkcity on Fri 10 Jul.
+Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logged across Austin, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Good Room, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | 9 Bob Note | New York City |
 | Sat, 11 Jul 2026 | Good Room | New York City |
 | Thu, 30 Jul 2026 | Gabriela | New York City |
 | Thu, 6 Aug 2026 | Bossa Nova Civic Club | New York City |
@@ -16,6 +15,7 @@ Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logge
 
 ## Recently played
 
+- 9 Bob Note, New York City — Fri, 10 Jul 2026
 - BASEMENT, New York City — Fri, 3 Jul 2026
 - Bossa Nova Civic Club, New York City — Thu, 2 Jul 2026
 - Gabriela, New York City — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logge
 - Knockdown Center, New York City — Sat, 13 Jun 2026
 - Gabriela, New York City — Fri, 12 Jun 2026
 - La Terrrazza, Barcelona — Sat, 6 Jun 2026
-- Bossa Nova Civic Club, New York City — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

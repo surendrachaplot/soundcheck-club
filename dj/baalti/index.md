@@ -1,6 +1,6 @@
 # Baalti
 
-Baalti is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 314 Scholes, New York City on Sat, 11 Jul 2026.
+Baalti is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 314 Scholes, New York City on Sat, 11 Jul 2026.
 
 Baalti is a house and club artist tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Berlin and Brisbane and 19 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: 314 Scholes, Newyorkcity on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Baalti is a house and club artist tracked on soundcheck, with 55 sets logged acr
 
 Seb Wildblood, Tom VR, Ahadadream
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*

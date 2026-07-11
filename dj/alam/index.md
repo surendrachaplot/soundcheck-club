@@ -1,6 +1,6 @@
 # Alam
 
-Alam is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 25 Jul 2026.
+Alam is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 25 Jul 2026.
 
 Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, with 186 sets logged across Bali, Kualalumpur and Singapore. Often billed alongside Axel Groove, Victor G (MY) and Odd (MY). Next up: Wet Deck at W Hotel, Kualalumpur on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, 
 
 Axel Groove, Victor G (MY), Odd (MY)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*

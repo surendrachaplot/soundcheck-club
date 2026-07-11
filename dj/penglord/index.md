@@ -1,6 +1,6 @@
 # Penglord
 
-Penglord is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Penglord is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Penglord is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Basel, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Penglord is a techno and house artist based in Germany, tracked on soundcheck, w
 
 P.Vanillaboy, EliaHaze, Hello Sasy
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*

@@ -1,6 +1,6 @@
 # A-Trak
 
-A-Trak is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Chinois Ibiza, Ibiza on Sat, 11 Jul 2026.
+A-Trak is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Chinois Ibiza, Ibiza on Sat, 11 Jul 2026.
 
 A-Trak is a house and hip-hop artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside The Magician, Claptone and James Juke. Next up: Chinois Ibiza, Ibiza on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ A-Trak is a house and hip-hop artist tracked on soundcheck, with 87 sets logged 
 
 The Magician, Claptone, James Juke
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*

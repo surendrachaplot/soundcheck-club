@@ -1,6 +1,6 @@
 # Ropemaker
 
-Ropemaker is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Elektroküche, Cologne on Sat, 11 Jul 2026.
+Ropemaker is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Elektroküche, Cologne on Sat, 11 Jul 2026.
 
 Ropemaker is a techno and industrial artist based in Germany, tracked on soundcheck, with 57 sets logged across Cologne, Dusseldorf, Frankfurt and Nurnberg. Often billed alongside Alchemiah, Kos:mo and Roben Gardemann. Next up: Elektroküche, Cologne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Ropemaker is a techno and industrial artist based in Germany, tracked on soundch
 
 Alchemiah, Kos:mo, Roben Gardemann
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ropemaker/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ropemaker/)*

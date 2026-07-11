@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Vaag, Antwerp on Sat, 11 Jul 2026.
+SAIDAH is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Club Vaag, Antwerp on Sat, 11 Jul 2026.
 
 SAIDAH is a house and garage artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 14 more. Often billed alongside Diffrent, Silva Bumpa and Benwal. Next up: Club Vaag, Antwerp on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 106 sets logged 
 
 Diffrent, Silva Bumpa, Benwal
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

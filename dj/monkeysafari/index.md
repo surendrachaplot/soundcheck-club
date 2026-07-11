@@ -1,6 +1,6 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
+Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
 
 Monkey Safari is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 30 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Westhafen, Leipzig on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Monkey Safari is a house and techno artist tracked on soundcheck, with 102 sets 
 
 Einmusik, Surreal Flight, ELIF
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

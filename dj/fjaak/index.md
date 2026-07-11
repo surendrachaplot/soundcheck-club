@@ -1,14 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 10 Jul 2026.
+FJAAK is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at FOLD, London on Sat, 18 Jul 2026.
 
-FJAAK is a techno and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Studio Club Malaga, Malaga on Fri 10 Jul.
+FJAAK is a techno and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: FOLD, London on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Studio Club Malaga | Malaga |
 | Sat, 18 Jul 2026 | FOLD | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -20,6 +19,7 @@ FJAAK is a techno and house artist tracked on soundcheck, with 246 sets logged a
 
 ## Recently played
 
+- Studio Club Malaga, Malaga — Fri, 10 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
 - Le Sucre, Lyon — Sun, 5 Jul 2026
 - Mia Mao, Paris — Sat, 4 Jul 2026
@@ -27,10 +27,9 @@ FJAAK is a techno and house artist tracked on soundcheck, with 246 sets logged a
 - Titanic Distillers, Belfast — Sat, 27 Jun 2026
 - Joshua Brooks, Manchester — Fri, 26 Jun 2026
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Elli Acula, Anna Z., Daria Kolosova
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

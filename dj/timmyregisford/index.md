@@ -1,6 +1,6 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Manko Athens, Athens on Sat, 11 Jul 2026.
+Timmy Regisford is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Manko Athens, Athens on Sat, 11 Jul 2026.
 
 Timmy Regisford is a house and deep house artist tracked on soundcheck, with 57 sets logged across Athens, Chicago, Detroit and London and 6 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: Manko Athens, Athens on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 57 
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

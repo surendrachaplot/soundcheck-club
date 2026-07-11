@@ -1,6 +1,6 @@
 # Helina
 
-Helina is a Club and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Helina is a Club and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Helina is a club and amapiano artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 3 more. Often billed alongside JADA MORAES, ALBA (3) and S!RENE. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Helina is a club and amapiano artist based in Germany, tracked on soundcheck, wi
 
 JADA MORAES, ALBA (3), S!RENE
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*

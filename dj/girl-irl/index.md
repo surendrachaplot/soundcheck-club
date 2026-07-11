@@ -1,6 +1,6 @@
 # girl_irl
 
-girl_irl is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Elsewhere, New York City on Sat, 11 Jul 2026.
+girl_irl is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Elsewhere, New York City on Sat, 11 Jul 2026.
 
 girl_irl is a techno and house artist tracked on soundcheck, with 45 sets logged across Barcelona, Chicago, Losangeles and Miami and 5 more. Often billed alongside DJ ing, Flash Gea and Mozn. Next up: Elsewhere, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ girl_irl is a techno and house artist tracked on soundcheck, with 45 sets logged
 
 DJ ing, Flash Gea, Mozn
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/girl-irl/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/girl-irl/)*

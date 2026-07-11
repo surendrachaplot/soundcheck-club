@@ -1,6 +1,6 @@
 # Hella Bees
 
-Hella Bees is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "BASSEDELIC WEEKENDER" on Sat, 25 Jul 2026.
+Hella Bees is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "BASSEDELIC WEEKENDER" on Sat, 25 Jul 2026.
 
 Hella Bees is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hella Bees is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | BASSEDELIC WEEKENDER |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hella-bees/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hella-bees/)*

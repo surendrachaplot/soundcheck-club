@@ -1,6 +1,6 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Debit is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 41 sets logged across Antwerp, Austin, Berlin and Bristol and 14 more. Often billed alongside Rosa Pistola, upsammy and Andy Stott. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -28,4 +28,4 @@ Debit is a techno and experimental artist based in United States of America, tra
 
 Rosa Pistola, upsammy, Andy Stott
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

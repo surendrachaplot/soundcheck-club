@@ -1,6 +1,6 @@
 # Doctor Jeep
 
-Doctor Jeep is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 314 Scholes, New York City on Sat, 11 Jul 2026.
+Doctor Jeep is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 314 Scholes, New York City on Sat, 11 Jul 2026.
 
 Doctor Jeep is a bass and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 31 more. Often billed alongside Ayesha, Aurora Halal and Identified Patient. Next up: 314 Scholes, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Doctor Jeep is a bass and techno artist based in United States of America, track
 
 Ayesha, Aurora Halal, Identified Patient
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorjeep/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorjeep/)*

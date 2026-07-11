@@ -1,6 +1,6 @@
 # Technopagan
 
-Technopagan is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 17 Jul 2026.
+Technopagan is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TRANSMISSION DC, Washington DC on Fri, 17 Jul 2026.
 
 Technopagan is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Barcelona, Birmingham, Chicago and London and 10 more. Often billed alongside Outback, Tall CEO and EXTEENG. Next up: TRANSMISSION DC, Washingtondc on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Technopagan is a hardcore and techno artist based in United States of America, t
 
 Outback, Tall CEO, EXTEENG
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technopagan/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technopagan/)*

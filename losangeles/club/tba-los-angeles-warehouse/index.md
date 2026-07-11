@@ -1,6 +1,6 @@
 # TBA - Los Angeles (Warehouse)
 
-TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "INCOGNITO presents Klaudia Gawlas (4-Hour Set) plus Gigi b2b Gerard Not Gerald" on Sat, 11 Jul 2026.
+TBA - Los Angeles (Warehouse) is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "INCOGNITO presents Klaudia Gawlas (4-Hour Set) plus Gigi b2b Gerard Not Gerald" on Sat, 11 Jul 2026.
 
 TBA - Los Angeles (Warehouse) is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Paolo Ferrara, Andrew S., Aundreja and Boris and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Los Angeles (Warehouse) is a music venue in Losangeles listed on soundchec
 | Sat, 22 Aug 2026 | INCOGNITO presents Paolo Ferrara - LA Debut (Extended Set) | Paolo Ferrara |
 | Sat, 22 Aug 2026 | SWXCH 007: Boris, The Residency | Boris |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles-warehouse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles-warehouse/)*

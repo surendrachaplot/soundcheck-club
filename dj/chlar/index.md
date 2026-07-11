@@ -1,14 +1,13 @@
 # Chlär
 
-Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sub Club, Glasgow on Fri, 10 Jul 2026.
+Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Sun, 19 Jul 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 240 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Sub Club, Glasgow on Fri 10 Jul.
+Chlär is a techno and house artist tracked on soundcheck, with 240 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Else, Berlin on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Sub Club | Glasgow |
 | Sun, 19 Jul 2026 | Else | Berlin |
 | Fri, 24 Jul 2026 | Fvtvr | Paris |
 | Fri, 24 Jul 2026 | MIRA | Paris |
@@ -23,6 +22,7 @@ Chlär is a techno and house artist tracked on soundcheck, with 240 sets logged 
 
 ## Recently played
 
+- Sub Club, Glasgow — Fri, 10 Jul 2026
 - Grelle Forelle, Vienna — Fri, 26 Jun 2026
 - Tokonoma Club, Frankfurt — Sat, 20 Jun 2026
 - Razzmatazz, Barcelona — Thu, 18 Jun 2026
@@ -30,10 +30,9 @@ Chlär is a techno and house artist tracked on soundcheck, with 240 sets logged 
 - FOLD, London — Sat, 13 Jun 2026
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
 - TBA - Villalgordo del Júcar, Albacete, Madrid — Fri, 5 Jun 2026
-- Stereo, Montreal — Fri, 15 May 2026
 
 ## Shares bills with
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

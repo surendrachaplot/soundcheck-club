@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Tashattot x ojoo with Mayss + Tedzi + Intibint + Rojin Shafari" on Sat, 11 Jul 2026.
+Recyclart is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Tashattot x ojoo with Mayss + Tedzi + Intibint + Rojin Shafari" on Sat, 11 Jul 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Mayss, ojoo and Rojin Sharafi. Browse upcoming dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -14,4 +14,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 1 upcoming night, w
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

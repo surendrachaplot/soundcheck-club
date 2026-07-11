@@ -1,14 +1,16 @@
 # OLEA
 
-OLEA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at SOMA, San Diego on Sat, 11 Jul 2026.
+OLEA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at SOMA, San Diego on Sat, 11 Jul 2026.
 
-OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 7 more. Often billed alongside Rad.Lez, Bo Irion and Henny Freiheit. Next up: SOMA, Sandiego on Sat 11 Jul.
+OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 8 more. Often billed alongside Mark Dekoda, Markus Klee and Prismode. Next up: SOMA, Sandiego on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | SOMA | San Diego |
+| Sat, 8 Aug 2026 | Elsewhere | New York City |
+| Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -24,6 +26,6 @@ OLEA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Rad.Lez, Bo Irion, Henny Freiheit
+Mark Dekoda, Markus Klee, Prismode
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*

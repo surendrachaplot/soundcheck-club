@@ -1,6 +1,6 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
+Johannes Schuster is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
 Johannes Schuster is a techno and trance artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 187 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

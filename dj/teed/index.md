@@ -1,6 +1,6 @@
 # TEED
 
-TEED is a House and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Flash, Washington DC on Fri, 17 Jul 2026.
+TEED is a House and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Flash, Washington DC on Fri, 17 Jul 2026.
 
 TEED is a house and bass artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Boston and Brisbane and 20 more. Often billed alongside Dom Dolla, Heidi Lawden and Oppidan. Next up: Flash, Washingtondc on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ TEED is a house and bass artist tracked on soundcheck, with 41 sets logged acros
 
 Dom Dolla, Heidi Lawden, Oppidan
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

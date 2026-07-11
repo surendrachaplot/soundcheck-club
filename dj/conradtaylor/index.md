@@ -1,6 +1,6 @@
 # Conrad Taylor
 
-Conrad Taylor is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Celebrities Night Club, Vancouver on Sat, 22 Aug 2026.
+Conrad Taylor is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Celebrities Night Club, Vancouver on Sat, 22 Aug 2026.
 
 Conrad Taylor is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Newyorkcity, Paris and Sanfrancisco and 3 more. Often billed alongside Flash Gea, Aazure and Acid Barbie. Next up: Celebrities Night Club, Vancouver on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Conrad Taylor is a house and techno artist tracked on soundcheck, with 17 sets l
 
 Flash Gea, Aazure, Acid Barbie
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

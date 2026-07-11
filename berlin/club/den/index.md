@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "candyflip x delululand // 4 Floors & 35 Artists " on Fri, 10 Jul 2026.
+ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Toy Tonics Summer Jam (OPEN AIR & INDOOR 18Hours - 4 FLOORS)" on Sat, 11 Jul 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including .JKM, 7CIRCLE, Alexa Fluor and Alex Pastore and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including .JKM, 7CIRCLE, Alexa Fluor and Alex Pastore and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | candyflip x delululand // 4 Floors & 35 Artists  | Blame the Booker, Blossmbae, Cobb Douglas, DJ Spaßgetränk, EPIC, EUROPLUS, EZA (DE), Filialleiter, Florelle, GM1 (IT), GeisterFahrer, Jambu, Lezza, MARRE, NØA (DE), Patchy, Paul Bauhaus, Plattenlieferant, Segun, TIZIANO, TechTonic, Wieko, YËDM, ZYNTAX, bbymeister, e.leptic, jeanska, maedchenballern, phlipzee, sterni (DE), subga |
 | Sat, 11 Jul 2026 | Toy Tonics Summer Jam (OPEN AIR & INDOOR 18Hours - 4 FLOORS) | Amin Fallaha, Arpy Brown, COEO, Claudio Zanon, Gee Lane, Gigi Galante, KINTEL, Kapote, Liam Mockridge, Linda shiro, Luca Elsi, Martha Pinel, Melon Bomb, Robin Flux, cliff |
 | Wed, 15 Jul 2026 | Lilith |  |
 | Wed, 15 Jul 2026 | Crêpes & Open Decks - 2 YEARS ANNIVERSARY |  |
@@ -18,9 +17,10 @@
 | Wed, 22 Jul 2026 | Lilith |  |
 | Thu, 23 Jul 2026 | Complice x Kluster — Prelude to CSD | Alfred Czital, Aurian, CLEO, EMIRA, Elvin, Equus Belli, Iris Leidenschaft, KEUT, Litoshka, Miro Von, The Camel |
 | Wed, 29 Jul 2026 | Lilith |  |
+| Thu, 30 Jul 2026 | OBXENE - CLOSING SESSION | Alex Pastore, Azkonar, D3VAN, F DRAXIS, La Rod's, OSKAR., UNT3N |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

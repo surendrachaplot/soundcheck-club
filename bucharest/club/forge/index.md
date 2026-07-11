@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "1 YEAR ANNIVERSARY/3O3 DIVISION/TECHNO ALL NIGHT" on Sat, 11 Jul 2026.
+Forge is a music venue in Bucharest with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "1 YEAR ANNIVERSARY/3O3 DIVISION/TECHNO ALL NIGHT" on Sat, 11 Jul 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming nights, with line-ups including Ada Kaleh, DA NA, FAUST (1) and GODINI and 2 more. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -18,4 +18,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming nights, wit
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

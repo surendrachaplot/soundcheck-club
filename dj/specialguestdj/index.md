@@ -1,6 +1,6 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Process PDX, Portland on Sun, 19 Jul 2026.
+Special Guest DJ is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Process PDX, Portland on Sun, 19 Jul 2026.
 
 Special Guest DJ is a techno and ambient artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, Ayesha and CCL. Next up: Process PDX, Portland on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Special Guest DJ is a techno and ambient artist based in United States of Americ
 
 Ben Bondy, Ayesha, CCL
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

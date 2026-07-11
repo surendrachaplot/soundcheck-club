@@ -1,6 +1,6 @@
 # Sinden
 
-Sinden is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
+Sinden is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
 
 Sinden is a tech house and house artist tracked on soundcheck, with 4 sets logged across Brisbane, Losangeles, Melbourne and Sydney. Often billed alongside Booka Shade, Crookers and Riva Starr. Next up: Superordinary, Brisbane on Fri 17 Jul.
 
@@ -20,4 +20,4 @@ Sinden is a tech house and house artist tracked on soundcheck, with 4 sets logge
 
 Booka Shade, Crookers, Riva Starr
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinden/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinden/)*

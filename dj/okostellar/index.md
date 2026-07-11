@@ -1,6 +1,6 @@
 # Oko Stellar
 
-Oko Stellar is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 11 Jul 2026.
+Oko Stellar is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 11 Jul 2026.
 
 Oko Stellar is a house and disco artist based in Belgium, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside BAVR, Bibi Seck and DTM Funk. Next up: The Rooftop Garden at The Standard, Brussels, Brussels on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Oko Stellar is a house and disco artist based in Belgium, tracked on soundcheck,
 
 BAVR, Bibi Seck, DTM Funk
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okostellar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okostellar/)*

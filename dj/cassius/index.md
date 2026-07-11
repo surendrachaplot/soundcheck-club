@@ -1,6 +1,6 @@
 # Cassius
 
-Cassius is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Mairie de Marseille / Vieux port, Marseille on Sat, 11 Jul 2026.
+Cassius is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Mairie de Marseille / Vieux port, Marseille on Sat, 11 Jul 2026.
 
 Cassius is a house and electro artist based in France, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brussels and Chicago and 19 more. Often billed alongside Busy P, Myd and Etienne De Crecy. Next up: TBA - Mairie de Marseille / Vieux port, Marseille on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Cassius is a house and electro artist based in France, tracked on soundcheck, wi
 
 Busy P, Myd, Etienne De Crecy
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

@@ -1,6 +1,6 @@
 # Detune
 
-Detune is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Karmadrome: Electro / Indie Party - Full DJset" on Sat, 11 Jul 2026.
+Detune is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Karmadrome: Electro / Indie Party - Full DJset" on Sat, 11 Jul 2026.
 
 Detune is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Via Felice Casati 24, 20124 Milano.
 
@@ -14,4 +14,4 @@ Detune is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse 
 
 Via Felice Casati 24, 20124 Milano, Milan
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*

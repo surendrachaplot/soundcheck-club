@@ -1,6 +1,6 @@
 # Brenda
 
-Brenda is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at smartbar, Chicago on Sat, 11 Jul 2026.
+Brenda is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at smartbar, Chicago on Sat, 11 Jul 2026.
 
 Brenda is a techno and acid artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Chicago and Detroit and 6 more. Often billed alongside DJ Hyperactive, Mark Angel and Justin Aulis Long. Next up: smartbar, Chicago on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Brenda is a techno and acid artist based in United States of America, tracked on
 
 DJ Hyperactive, Mark Angel, Justin Aulis Long
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brenda/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brenda/)*

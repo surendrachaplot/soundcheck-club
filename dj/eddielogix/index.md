@@ -1,6 +1,6 @@
 # Eddie Logix
 
-Eddie Logix is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 11 Jul 2026.
+Eddie Logix is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 11 Jul 2026.
 
 Eddie Logix is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 140 sets logged across Chicago, Detroit, Newyorkcity and Seattle and 1 more. Often billed alongside Jo Rad Silver, Peter Croce and Crate Digga. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Eddie Logix is a house and funk / soul artist based in United States of America,
 
 Jo Rad Silver, Peter Croce, Crate Digga
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddielogix/)*

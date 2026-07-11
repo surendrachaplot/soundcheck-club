@@ -1,6 +1,6 @@
 # ildec
 
-ildec is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Barcelona on Sat, 25 Jul 2026.
+ildec is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Barcelona on Sat, 25 Jul 2026.
 
 ildec is a house and techno artist tracked on soundcheck, with 86 sets logged across Barcelona, Berlin, Brussels and Cologne and 10 more. Often billed alongside Javier Carballo, Alex (ES) and Anthea. Next up: TBA, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ ildec is a house and techno artist tracked on soundcheck, with 86 sets logged ac
 
 Javier Carballo, Alex (ES), Anthea
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ildec/)*

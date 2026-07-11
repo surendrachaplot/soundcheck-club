@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bi Nuu, Berlin on Sat, 11 Jul 2026.
+Kat_Es is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bi Nuu, Berlin on Sat, 11 Jul 2026.
 
 Kat_Es is a house and techno artist based in Poland, tracked on soundcheck, with 41 sets logged across Berlin and Leipzig. Often billed alongside La Terrasse, Lobo (DE) and Monsai. Next up: Bi Nuu, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Kat_Es is a house and techno artist based in Poland, tracked on soundcheck, with
 
 La Terrasse, Lobo (DE), Monsai
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

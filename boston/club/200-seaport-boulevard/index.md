@@ -1,6 +1,6 @@
 # 200 Seaport Boulevard
 
-200 Seaport Boulevard is a music venue in Boston with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Barbie's Pink Party Cruise feat. DJ Twinem 07/11" on Sat, 11 Jul 2026.
+200 Seaport Boulevard is a music venue in Boston with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Barbie's Pink Party Cruise feat. DJ Twinem 07/11" on Sat, 11 Jul 2026.
 
 200 Seaport Boulevard is a music venue in Boston listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 200 Seaport BlvdBoston, MA 02210, USA.
 
@@ -20,4 +20,4 @@
 
 200 Seaport BlvdBoston, MA 02210, USA, Boston
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*

@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - ÎLE DES LOISIRS, 5 Parking du temps Libre, 34300 Agde, France, Paris on Sat, 11 Jul 2026.
+DJ Snake is a House and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - ÎLE DES LOISIRS, 5 Parking du temps Libre, 34300 Agde, France, Paris on Sat, 11 Jul 2026.
 
 DJ Snake is a house and dubstep artist tracked on soundcheck, with 43 sets logged across Austin, Barcelona, Boston and Chicago and 16 more. Often billed alongside Henry Fong, Audien and Zedd. Next up: TBA - ÎLE DES LOISIRS, 5 Parking du temps Libre, 34300 Agde, France, Paris on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ DJ Snake is a house and dubstep artist tracked on soundcheck, with 43 sets logge
 
 Henry Fong, Audien, Zedd
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

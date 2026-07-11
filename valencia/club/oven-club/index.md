@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Blanch + Tommaso Pizzelli + Fran.cis / Bar: Cris Cross + Paola + Bel C" on Fri, 10 Jul 2026.
+Oven Club is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Felipe Valenzuela + Bruno Schmidt + Andy Dyer / Bar: Dj Grip & Dystorizon" on Sat, 11 Jul 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 13 upcoming nights, with line-ups including Ariezzz, BAR (DE), Blanch and Bruno Schmidt and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights, with line-ups including Ariezzz, BAR (DE), Blanch and Bruno Schmidt and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Blanch + Tommaso Pizzelli + Fran.cis / Bar: Cris Cross + Paola + Bel C | BAR (DE), Blanch, Paola (1), Tommaso Pizzelli |
 | Sat, 11 Jul 2026 | Felipe Valenzuela + Bruno Schmidt + Andy Dyer / Bar: Dj Grip & Dystorizon | Bruno Schmidt, Dystorizon, Felipe Valenzuela |
 | Wed, 15 Jul 2026 | Souleast + Giorgio Bonetti |  |
 | Thu, 16 Jul 2026 | Oracle: JO$S + A13X + &MØRE |  |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 13 upcoming nights,
 | Thu, 23 Jul 2026 | ERA: Camiel Daamen + Depanachi | Camiel Daamen |
 | Fri, 24 Jul 2026 | Total with Spacer Woman + Ladrillovitz + Ariezzz / Bar: Rafa Molina + Felix Portales | Ariezzz, Ladrillovitz, Spacer Woman |
 | Sat, 25 Jul 2026 | Dubbyman + Blanch / Bar: Colectivo Retropico | Blanch, Dubbyman |
+| Wed, 29 Jul 2026 | Souleast + Nate Cabrera |  |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

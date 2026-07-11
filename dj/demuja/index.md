@@ -1,6 +1,6 @@
 # Demuja
 
-Demuja is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cabaret Sauvage, Paris on Sat, 11 Jul 2026.
+Demuja is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cabaret Sauvage, Paris on Sat, 11 Jul 2026.
 
 Demuja is a house and disco artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside Black Loops, Cinthie and Marina Trench. Next up: Cabaret Sauvage, Paris on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Demuja is a house and disco artist tracked on soundcheck, with 100 sets logged a
 
 Black Loops, Cinthie, Marina Trench
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*

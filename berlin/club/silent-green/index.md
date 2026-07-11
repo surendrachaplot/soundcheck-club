@@ -1,17 +1,17 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Samba Jean-Baptiste + Static Cleaner Lost Reward (Tarquin Manek)" on Fri, 10 Jul 2026.
+Silent Green is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Silent Green Open Lab #6: Gregory Pearce + gega.fisk" on Tue, 14 Jul 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Gregory Pearce, HTRK, JakoJako and Nicolas Bougaïeff and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including AIEL, Edoardo Micheli, Gregory Pearce and HTRK and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Samba Jean-Baptiste + Static Cleaner Lost Reward (Tarquin Manek) | Tarquin Manek |
 | Tue, 14 Jul 2026 | Silent Green Open Lab #6: Gregory Pearce + gega.fisk | Gregory Pearce |
 | Tue, 21 Jul 2026 | Silent Green Open Lab #7: Shu and Frieda + GLTR Mauer |  |
 | Thu, 23 Jul 2026 | Silent Green & Music From Beyond pres. Maresz + Del Gesù + The Midnight Audience |  |
+| Tue, 28 Jul 2026 | Silent Green Open Lab #8: AIEL + Xingqi Liu | AIEL, Edoardo Micheli |
 | Sun, 2 Aug 2026 | HTRK | HTRK |
 | Thu, 6 Aug 2026 | Exhibition Islands of Time by Niccolò Masini – Opening | JakoJako, Nicolas Bougaïeff, Pole |
 | Fri, 21 Aug 2026 | Psychic Liberation Night: Niloofar Asghary + Júlia Koffler |  |
@@ -22,4 +22,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

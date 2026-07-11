@@ -1,6 +1,6 @@
 # Nexo
 
-Nexo is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC" on Sat, 11 Jul 2026.
+Nexo is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC" on Sat, 11 Jul 2026.
 
 Nexo is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
@@ -23,4 +23,4 @@ Nexo is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights. B
 
 29 W 36th St., New York, NY 10018, USA, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*

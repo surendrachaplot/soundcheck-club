@@ -1,14 +1,13 @@
 # Watermark
 
-Watermark is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bachata v Merengue v Reggaeton Night Beach Party" on Fri, 10 Jul 2026.
+Watermark is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Oasis: J Balvin v Bad Bunny Night Beach" on Sat, 11 Jul 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Bachata v Merengue v Reggaeton Night Beach Party |  |
 | Sat, 11 Jul 2026 | Oasis: J Balvin v Bad Bunny Night Beach |  |
 | Sun, 12 Jul 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
 | Thu, 16 Jul 2026 | AFTERWORK THURSDAY - COLOMBIAN FESTIVAL |  |
@@ -18,9 +17,10 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nigh
 | Sun, 19 Jul 2026 | Ritmos Colombian Independence Festival Beach Open-Air NYC |  |
 | Sat, 25 Jul 2026 | Reggaeton Disco - Perreo Parrty Beach Pier 15 |  |
 | Sun, 2 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
+| Sun, 16 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
 
 ## Address
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

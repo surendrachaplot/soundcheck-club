@@ -1,14 +1,13 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BABA HARARE Live in Glasgow" on Fri, 10 Jul 2026.
+142b Lounge is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "NOTHING HITS HARDER" on Sat, 11 Jul 2026.
 
-142b Lounge is a music venue in Glasgow listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
+142b Lounge is a music venue in Glasgow listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | BABA HARARE Live in Glasgow |  |
 | Sat, 11 Jul 2026 | NOTHING HITS HARDER |  |
 | Fri, 17 Jul 2026 | FREAKY AFROPIANO FRIDAYS |  |
 | Sat, 18 Jul 2026 | NOTHINGS HIT HARDER: DJ JOLA & DJ EVZ Live In Glasgow |  |
@@ -22,4 +21,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

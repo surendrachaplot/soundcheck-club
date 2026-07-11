@@ -1,6 +1,6 @@
 # DATA RYDER
 
-DATA RYDER is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
+DATA RYDER is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
 
 DATA RYDER is a techno and house artist based in Ireland, tracked on soundcheck, with 16 sets logged across Berlin, Cork, Dublin and Galway and 1 more. Often billed alongside JWY (1), BK86 and Cailín. Next up: M01, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ DATA RYDER is a techno and house artist based in Ireland, tracked on soundcheck,
 
 JWY (1), BK86, Cailín
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dataryder/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dataryder/)*

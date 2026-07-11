@@ -1,6 +1,6 @@
 # Burgtheater
 
-Burgtheater is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Anna Ullrich & Friends - Implustanz Festival" on Sat, 11 Jul 2026.
+Burgtheater is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Anna Ullrich & Friends - Implustanz Festival" on Sat, 11 Jul 2026.
 
 Burgtheater is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Anna Ullrich and TAUSEND2Ø. Browse upcoming dates, start times and who's playing. Universitätsring 2, 1010 Vienna, Austria.
 
@@ -14,4 +14,4 @@ Burgtheater is a music venue in Vienna listed on soundcheck. 1 upcoming night, w
 
 Universitätsring 2, 1010 Vienna, Austria, Vienna
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/burgtheater/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/burgtheater/)*

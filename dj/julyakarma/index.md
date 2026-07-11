@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hive Club, Zurich on Sat, 11 Jul 2026.
+Julya Karma is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hive Club, Zurich on Sat, 11 Jul 2026.
 
 Julya Karma is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Hive Club, Zurich on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Julya Karma is a techno and house artist tracked on soundcheck, with 87 sets log
 
 Âme, Jimi Jules, Dixon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

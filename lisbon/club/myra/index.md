@@ -1,6 +1,6 @@
 # Myra
 
-Myra is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Tizi x MYRA with Billi, Monile & Diego Knows" on Sat, 11 Jul 2026.
+Myra is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Tizi x MYRA with Billi, Monile & Diego Knows" on Sat, 11 Jul 2026.
 
 Myra is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Ali Love, Bernardo Vaz, Billi and David Triana and 2 more. Browse upcoming dates, start times and who's playing. R. da Praia, 2825-391 Costa da Caparica, Portugal.
 
@@ -16,4 +16,4 @@ Myra is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with li
 
 R. da Praia, 2825-391 Costa da Caparica, Portugal, Lisbon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra/)*

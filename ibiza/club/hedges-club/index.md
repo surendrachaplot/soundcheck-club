@@ -1,6 +1,6 @@
 # Hedges Club
 
-Hedges Club is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "ORA presents - FIRST Edition" on Fri, 17 Jul 2026.
+Hedges Club is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "ORA presents - FIRST Edition" on Fri, 17 Jul 2026.
 
 Hedges Club is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Soofnic. Browse upcoming dates, start times and who's playing. Carrer de Josep Maria Quadrado, 2, 07800 Eivissa, Illes Balears, Spain.
 
@@ -14,4 +14,4 @@ Hedges Club is a music venue in Ibiza listed on soundcheck. 1 upcoming night, wi
 
 Carrer de Josep Maria Quadrado, 2, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/hedges-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/hedges-club/)*

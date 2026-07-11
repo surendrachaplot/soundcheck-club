@@ -1,6 +1,6 @@
 # Cordell Johnson
 
-Cordell Johnson is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Salt Shed, Chicago on Sat, 18 Jul 2026.
+Cordell Johnson is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Salt Shed, Chicago on Sat, 18 Jul 2026.
 
 Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 86 sets logged across Amsterdam, Chicago, Detroit and Lisbon and 2 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: The Salt Shed, Chicago on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 86 
 
 James Vincent, Lorenzo Dewberry, CTRLZORA
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*

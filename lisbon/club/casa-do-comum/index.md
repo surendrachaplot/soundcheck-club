@@ -1,6 +1,6 @@
 # Casa do Comum
 
-Casa do Comum is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Phædra" on Sat, 11 Jul 2026.
+Casa do Comum is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Phædra" on Sat, 11 Jul 2026.
 
 Casa do Comum is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rua da Rosa nº 285, Lisboa.
 
@@ -14,4 +14,4 @@ Casa do Comum is a music venue in Lisbon listed on soundcheck. 1 upcoming night.
 
 Rua da Rosa nº 285, Lisboa, Lisbon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/casa-do-comum/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/casa-do-comum/)*

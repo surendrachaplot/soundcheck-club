@@ -1,6 +1,6 @@
 # Megix
 
-Megix is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Aurathebunker, Grellingen (CH), Basel on Sat, 11 Jul 2026.
+Megix is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Aurathebunker, Grellingen (CH), Basel on Sat, 11 Jul 2026.
 
 Megix is a techno and industrial artist tracked on soundcheck, with 80 sets logged across Basel, Cologne, Frankfurt and Geneva and 6 more. Often billed alongside CAERMI, Galopp and dasstudach. Next up: Aurathebunker, Grellingen (CH), Basel on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Megix is a techno and industrial artist tracked on soundcheck, with 80 sets logg
 
 CAERMI, Galopp, dasstudach
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*

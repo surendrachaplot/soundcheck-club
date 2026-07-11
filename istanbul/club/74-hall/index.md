@@ -1,6 +1,6 @@
 # 74 Hall
 
-74 Hall is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kobosil Takes over Istanbul" on Fri, 21 Aug 2026.
+74 Hall is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kobosil Takes over Istanbul" on Fri, 21 Aug 2026.
 
 74 Hall is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including Kobosil and Neon Graveyard. Browse upcoming dates, start times and who's playing. Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul.
 
@@ -14,4 +14,4 @@
 
 Zeytinlik Mah. Yakut Sok. No:7 (Eski 74 Sineması), 34140 Bakırköy/İstanbul, Istanbul
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/74-hall/)*

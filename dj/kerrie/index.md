@@ -1,6 +1,6 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at essaim, Paris on Fri, 17 Jul 2026.
+Kerrie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at essaim, Paris on Fri, 17 Jul 2026.
 
 Kerrie is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Mareena, Sunil Sharpe and DJ Bone. Next up: essaim, Paris on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kerrie is a techno and house artist tracked on soundcheck, with 122 sets logged 
 
 Mareena, Sunil Sharpe, DJ Bone
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

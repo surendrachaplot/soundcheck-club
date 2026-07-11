@@ -1,6 +1,6 @@
 # Katiee.eem
 
-Katiee.eem is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Berkeley Suite, Glasgow on Sat, 18 Jul 2026.
+Katiee.eem is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Berkeley Suite, Glasgow on Sat, 18 Jul 2026.
 
 Katiee.eem is a house and trance artist tracked on soundcheck, with 13 sets logged across Belfast, Berlin and Glasgow. Often billed alongside Popper Cherry, T4T B2B and Bonzai Bonner. Next up: The Berkeley Suite, Glasgow on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Katiee.eem is a house and trance artist tracked on soundcheck, with 13 sets logg
 
 Popper Cherry, T4T B2B, Bonzai Bonner
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiee.eem/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiee.eem/)*

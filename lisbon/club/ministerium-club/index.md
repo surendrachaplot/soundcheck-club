@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Cirque with Admo (FR), h2acid & MURI" on Fri, 10 Jul 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "1/4 Escuro Club Series with Hitam" on Sat, 11 Jul 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including Admo, Alex TB, Amulador and Andre Cascais and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including Alex TB, Amulador, Andre Cascais and ANÍBAL and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Cirque with Admo (FR), h2acid & MURI | Admo, MURI, h2acid |
 | Sat, 11 Jul 2026 | 1/4 Escuro Club Series with Hitam | FRESKO, Hitam, Ricardo P., Saag |
 | Thu, 16 Jul 2026 | Riktus IV ANNIVERSARY - 4.3 (Day Three) with Alex TB b2b Buchecha, DTEXX | Alex TB, Buchecha, DTEXX, Destt, GAIVEU, SIKXTO |
 | Fri, 17 Jul 2026 | Ministerium Club // DPR, Cruz, Hélio & Manuel Cotta | Cruz (PT), DPR (1), Helio, Manuel Cotta |
@@ -22,4 +21,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Audio SF, San Francisco/Oakland on Sun, 12 Jul 2026.
+Yung Singh is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Audio SF, San Francisco/Oakland on Sun, 12 Jul 2026.
 
 Yung Singh is a garage and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Auckland and Austin and 53 more. Often billed alongside Bakey, salute and Sally C. Next up: Audio SF, Sanfrancisco on Sun 12 Jul.
 
@@ -32,4 +32,4 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 166 sets log
 
 Bakey, salute, Sally C
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

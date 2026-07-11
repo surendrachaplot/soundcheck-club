@@ -1,14 +1,15 @@
 # Gabber Eleganza
 
-Gabber Eleganza is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+Gabber Eleganza is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
 
-Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Radius, Chicago on Sun 19 Jul.
+Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Radius, Chicago on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Radius | Chicago |
+| Fri, 31 Jul 2026 | Paragon | New York City |
 | Sat, 1 Aug 2026 | Société des arts technologiques | Montreal |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
@@ -27,4 +28,4 @@ Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 95 s
 
 Anetha, DJ Gigola, 999999999
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*

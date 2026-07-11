@@ -1,6 +1,6 @@
 # Veni Vidi Vici
 
-Veni Vidi Vici is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "PACE presents Sunday Brunch" on Sun, 12 Jul 2026.
+Veni Vidi Vici is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "PACE presents Sunday Brunch" on Sun, 12 Jul 2026.
 
 Veni Vidi Vici is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including The Solo Twins. Browse upcoming dates, start times and who's playing. 1116 N Fulton St, Fresno, CA 93728.
 
@@ -14,4 +14,4 @@ Veni Vidi Vici is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming
 
 1116 N Fulton St, Fresno, CA 93728, San Francisco/Oakland
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/veni-vidi-vici/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/veni-vidi-vici/)*

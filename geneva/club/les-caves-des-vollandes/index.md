@@ -1,6 +1,6 @@
 # Les Caves des Vollandes
 
-Les Caves des Vollandes is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "NØ RULES PROJECT - Tropical Sound System" on Sat, 11 Jul 2026.
+Les Caves des Vollandes is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "NØ RULES PROJECT - Tropical Sound System" on Sat, 11 Jul 2026.
 
 Les Caves des Vollandes is a music venue in Geneva listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rue des Vollandes, 73 1207 Genève.
 
@@ -14,4 +14,4 @@ Les Caves des Vollandes is a music venue in Geneva listed on soundcheck. 1 upcom
 
 Rue des Vollandes, 73 1207 Genève, Geneva
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/les-caves-des-vollandes/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/les-caves-des-vollandes/)*

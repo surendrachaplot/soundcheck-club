@@ -1,6 +1,6 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Tommy Four Seven is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Tauceti (FR), CESAR ALMENA and Dasha Rush. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 1
 
 Tauceti (FR), CESAR ALMENA, Dasha Rush
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

@@ -1,6 +1,6 @@
 # Archive Liverpool
 
-Archive Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Finley Quaye Live at Archive Liverpool" on Sat, 29 Aug 2026.
+Archive Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Finley Quaye Live at Archive Liverpool" on Sat, 29 Aug 2026.
 
 Archive Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Beaufort St, Liverpool L8 5XJ.
 
@@ -14,4 +14,4 @@ Archive Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming
 
 Beaufort St, Liverpool L8 5XJ, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/archive-liverpool/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/archive-liverpool/)*

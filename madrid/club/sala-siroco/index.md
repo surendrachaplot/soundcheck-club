@@ -1,14 +1,13 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "DISCOSCURO #10" on Fri, 10 Jul 2026.
+Sala Siroco is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "La Potra" on Sat, 11 Jul 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Alvaro Cabana, Ana Alves, Fer Xplosion and Gueparda and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Ana Alves, Fer Xplosion, Inglawt and Julia Pé and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | DISCOSCURO #10 | Alvaro Cabana, Gueparda |
 | Sat, 11 Jul 2026 | La Potra | Nukki, Sany Delitos |
 | Fri, 17 Jul 2026 | Ubicuo | Ana Alves, Inglawt, Noise from beyond |
 | Thu, 23 Jul 2026 | RAW#14 - season closing |  |
@@ -19,4 +18,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 6 upcoming nights, 
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

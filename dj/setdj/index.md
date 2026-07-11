@@ -1,6 +1,6 @@
 # $et
 
-$et is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 11 Jul 2026.
+$et is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 11 Jul 2026.
 
 $et is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Washingtondc. Often billed alongside camb, xXabiXx and Artemis.105. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ $et is a house and techno artist based in United States of America, tracked on s
 
 camb, xXabiXx, Artemis.105
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/setdj/)*

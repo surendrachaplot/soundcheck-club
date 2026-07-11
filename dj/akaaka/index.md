@@ -1,6 +1,6 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
+AKA AKA is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Treptower Park, Berlin on Sat, 11 Jul 2026.
 
 AKA AKA is a techno and tech house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 3 more. Often billed alongside Moonbootica, Format B and Alignment. Next up: Treptower Park, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ AKA AKA is a techno and tech house artist based in Germany, tracked on soundchec
 
 Moonbootica, Format B, Alignment
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

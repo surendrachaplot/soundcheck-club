@@ -1,6 +1,6 @@
 # Sonson
 
-Sonson is a Afro House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pimpernel, Munich on Sat, 11 Jul 2026.
+Sonson is a Afro House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pimpernel, Munich on Sat, 11 Jul 2026.
 
 Sonson is an afro house and tech house artist tracked on soundcheck, with 96 sets logged across Munich. Often billed alongside Thomas Herb, Alice DiMar and Basti Grub. Next up: Pimpernel, Munich on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Sonson is an afro house and tech house artist tracked on soundcheck, with 96 set
 
 Thomas Herb, Alice DiMar, Basti Grub
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonson/)*

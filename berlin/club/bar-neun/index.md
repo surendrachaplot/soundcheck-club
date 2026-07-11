@@ -1,6 +1,6 @@
 # Bar Neun
 
-Bar Neun is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "❥❥❥ Pleasure Patterns @ Bar Neun ❥❥❥  Queer Night" on Sat, 11 Jul 2026.
+Bar Neun is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "❥❥❥ Pleasure Patterns @ Bar Neun ❥❥❥  Queer Night" on Sat, 11 Jul 2026.
 
 Bar Neun is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including aemlx, Balthazar Martinez, Calamidades Lola and elliephunk and 2 more. Browse upcoming dates, start times and who's playing. Pücklerstraße 34, 10997 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Bar Neun is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wit
 
 Pücklerstraße 34, 10997 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*

@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 80 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Calvin Harris & MK" on Fri, 10 Jul 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 79 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "ANTS" on Sat, 11 Jul 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 80 upcoming nights, with line-ups including Afrojack, Airwolf Paradise, Alesso and Alok and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 79 upcoming nights, with line-ups including Afrojack, Airwolf Paradise, Alesso and Alok and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Calvin Harris & MK | Calvin Harris, Lee Foss, Marc Kinchen |
 | Sat, 11 Jul 2026 | ANTS | Fabe, Ilario Alicante, Kim April, Sven Vath |
 | Sun, 12 Jul 2026 | Swedish House Mafia | Swedish House Mafia |
 | Mon, 13 Jul 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Korolova, Paul Reynolds |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 80 upcoming night
 | Fri, 17 Jul 2026 | Calvin Harris & MK | Arielle Free, Calvin Harris, Marc Kinchen |
 | Sat, 18 Jul 2026 | ANTS | Gaskin, Melanie Ribbe, Prunk, Raul Rodriguez, The Martinez Brothers |
 | Sun, 19 Jul 2026 | Swedish House Mafia | Swedish House Mafia |
+| Mon, 20 Jul 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Ian Asher, Paul Reynolds |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

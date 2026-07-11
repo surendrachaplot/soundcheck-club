@@ -1,6 +1,6 @@
 # kabir.
 
-kabir. is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Gallery O on H, Washington DC on Sat, 11 Jul 2026.
+kabir. is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Gallery O on H, Washington DC on Sat, 11 Jul 2026.
 
 kabir. is a techno and garage artist based in United States of America, tracked on soundcheck, with 41 sets logged across Washingtondc. Often billed alongside Kabir, flotussin and Djoser. Next up: TBA - Gallery O on H, Washingtondc on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ kabir. is a techno and garage artist based in United States of America, tracked 
 
 Kabir, flotussin, Djoser
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabir./)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabir./)*

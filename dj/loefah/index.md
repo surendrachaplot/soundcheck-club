@@ -1,6 +1,6 @@
 # Loefah
 
-Loefah is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Cheetah Club, Glasgow on Sat, 11 Jul 2026.
+Loefah is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Cheetah Club, Glasgow on Sat, 11 Jul 2026.
 
 Loefah is a bass and drum & bass artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 13 more. Often billed alongside Chinese Daughter, Coki and SGT Pokes. Next up: La Cheetah Club, Glasgow on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Loefah is a bass and drum & bass artist based in United Kingdom, tracked on soun
 
 Chinese Daughter, Coki, SGT Pokes
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loefah/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loefah/)*

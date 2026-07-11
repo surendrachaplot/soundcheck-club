@@ -1,6 +1,6 @@
 # Burgess Park
 
-Burgess Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Boiler Room: London - Friday" on Fri, 31 Jul 2026.
+Burgess Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Boiler Room: London - Friday" on Fri, 31 Jul 2026.
 
 Burgess Park is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including 999999999, AANYA, ALCATRAZ and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. Burgess Park, Albany Road, London SE5 0RJ.
 
@@ -18,4 +18,4 @@ Burgess Park is a music venue in London listed on soundcheck. 5 upcoming nights,
 
 Burgess Park, Albany Road, London SE5 0RJ, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/burgess-park/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/burgess-park/)*

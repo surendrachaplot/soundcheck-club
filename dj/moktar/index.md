@@ -1,6 +1,6 @@
 # Moktar
 
-Moktar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Night Cat, Melbourne on Sat, 11 Jul 2026.
+Moktar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Night Cat, Melbourne on Sat, 11 Jul 2026.
 
 Moktar is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Surusinghe, Roza Terenzi and Yung Singh. Next up: The Night Cat, Melbourne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Moktar is a techno and house artist tracked on soundcheck, with 54 sets logged a
 
 Surusinghe, Roza Terenzi, Yung Singh
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moktar/)*

@@ -1,6 +1,6 @@
 # Marco Ohboy
 
-Marco Ohboy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amphitheatre by Circadian, Berlin on Sat, 11 Jul 2026.
+Marco Ohboy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amphitheatre by Circadian, Berlin on Sat, 11 Jul 2026.
 
 Marco Ohboy is a house and disco artist based in Italy, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin and Milan. Often billed alongside Ansonica, Luca Carluccio and Izzy Demzky. Next up: Amphitheatre by Circadian, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Marco Ohboy is a house and disco artist based in Italy, tracked on soundcheck, w
 
 Ansonica, Luca Carluccio, Izzy Demzky
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*

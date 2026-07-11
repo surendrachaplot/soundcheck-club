@@ -1,6 +1,6 @@
 # Julia Sandstorm
 
-Julia Sandstorm is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
+Julia Sandstorm is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
 
 Julia Sandstorm is a house and deep house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Bora Uzer, Britta Arnold and Christian Löffler. Next up: Cova Santa, Ibiza on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Julia Sandstorm is a house and deep house artist tracked on soundcheck, with 42 
 
 Bora Uzer, Britta Arnold, Christian Löffler
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*

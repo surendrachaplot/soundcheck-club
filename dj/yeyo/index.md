@@ -1,6 +1,6 @@
 # Yeyo
 
-Yeyo is a Reggaeton and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at EL SÓTANO, Madrid on Sat, 15 Aug 2026.
+Yeyo is a Reggaeton and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at EL SÓTANO, Madrid on Sat, 15 Aug 2026.
 
 Yeyo is a reggaeton and club artist based in Mexico, tracked on soundcheck, with 42 sets logged across Barcelona, Madrid, Mexicocity and Miami and 2 more. Often billed alongside Ender, Da Tweekaz and Sound Rush. Next up: EL SÓTANO, Madrid on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Yeyo is a reggaeton and club artist based in Mexico, tracked on soundcheck, with
 
 Ender, Da Tweekaz, Sound Rush
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeyo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yeyo/)*

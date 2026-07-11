@@ -1,6 +1,6 @@
 # Daniella da Silva
 
-Daniella da Silva is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Daniella da Silva is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Daniella da Silva is a techno and industrial artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 17 more. Often billed alongside Parsa Jafari, Bárbara Lago and CESAR ALMENA. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Daniella da Silva is a techno and industrial artist based in Germany, tracked on
 
 Parsa Jafari, Bárbara Lago, CESAR ALMENA
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielladasilva/)*

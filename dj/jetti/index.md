@@ -1,6 +1,6 @@
 # Jetti
 
-Jetti is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Phono Lake, Amsterdam on Sat, 18 Jul 2026.
+Jetti is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Phono Lake, Amsterdam on Sat, 18 Jul 2026.
 
 Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Post, Jeans (NL) and David Vunk. Next up: Phono Lake, Amsterdam on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Jetti is a techno and house artist tracked on soundcheck, with 56 sets logged ac
 
 Post, Jeans (NL), David Vunk
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jetti/)*

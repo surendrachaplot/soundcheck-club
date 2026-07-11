@@ -1,6 +1,6 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Off.peaK Day & Night with Junki Inoue, 4D & Residents" on Sat, 11 Jul 2026.
+Kapsule is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Off.peaK Day & Night with Junki Inoue, 4D & Residents" on Sat, 11 Jul 2026.
 
 Kapsule is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including 4D (UK), Aly P, Ant TC1 and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
@@ -17,4 +17,4 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, w
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

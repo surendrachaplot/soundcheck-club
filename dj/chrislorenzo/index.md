@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Pferdesport Pfannenstiel Meilen, Zurich on Sat, 11 Jul 2026.
+Chris Lorenzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Pferdesport Pfannenstiel Meilen, Zurich on Sat, 11 Jul 2026.
 
 Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Chris Lake, Eats Everything and Eli & Fur. Next up: TBA - Pferdesport Pfannenstiel Meilen, Zurich on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 48 se
 
 Chris Lake, Eats Everything, Eli & Fur
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

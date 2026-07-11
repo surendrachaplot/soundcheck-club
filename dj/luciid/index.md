@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Puerto de Sagunto, Valencia on Sat, 11 Jul 2026.
+Luciid is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Puerto de Sagunto, Valencia on Sat, 11 Jul 2026.
 
 Luciid is a techno and industrial artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Skryption, Vendex and Dexphase. Next up: TBA - Puerto de Sagunto, Valencia on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Luciid is a techno and industrial artist tracked on soundcheck, with 104 sets lo
 
 Skryption, Vendex, Dexphase
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

@@ -1,6 +1,6 @@
 # Narciss
 
-Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Narciss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Narciss is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside MALUGI, DJ Gigola and Morphena. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Narciss is a techno and house artist tracked on soundcheck, with 186 sets logged
 
 MALUGI, DJ Gigola, Morphena
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-de/)*

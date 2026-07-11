@@ -1,6 +1,6 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 11 Jul 2026.
+Melina Serser is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 11 Jul 2026.
 
 Melina Serser is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside DJ Koolt, ASIA (DE) and Cecilio. Next up: Platforma Wolff, Bucharest on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Melina Serser is a house and techno artist tracked on soundcheck, with 50 sets l
 
 DJ Koolt, ASIA (DE), Cecilio
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*

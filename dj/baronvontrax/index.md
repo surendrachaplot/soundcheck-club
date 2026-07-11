@@ -1,6 +1,6 @@
 # Baron Von Trax
 
-Baron Von Trax is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Colorado Charlie, The Hague on Sat, 18 Jul 2026.
+Baron Von Trax is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Colorado Charlie, The Hague on Sat, 18 Jul 2026.
 
 Baron Von Trax is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 23 more. Often billed alongside Upper90, Bad Boombox and Gerardo Niva. Next up: Colorado Charlie, Thehague on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Baron Von Trax is a techno and trance artist tracked on soundcheck, with 82 sets
 
 Upper90, Bad Boombox, Gerardo Niva
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*

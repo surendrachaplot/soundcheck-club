@@ -1,6 +1,6 @@
 # Candy Coup
 
-Candy Coup is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Garage Noord, Amsterdam on Sat, 11 Jul 2026.
+Candy Coup is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Garage Noord, Amsterdam on Sat, 11 Jul 2026.
 
 Candy Coup is a techno and house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Chucho, DIORA and Eurowitch. Next up: Garage Noord, Amsterdam on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Candy Coup is a techno and house artist based in Netherlands, tracked on soundch
 
 Chucho, DIORA, Eurowitch
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*

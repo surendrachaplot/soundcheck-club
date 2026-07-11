@@ -1,14 +1,13 @@
 # E1
 
-E1 is a music venue in London with 36 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ALIVE: Cristobal Pesce" on Fri, 10 Jul 2026.
+E1 is a music venue in London with 35 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "England vs Norway World Cup Quarter Final + After Party" on Sat, 11 Jul 2026.
 
-E1 is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including ACA (YU), Ade Smilez, Afem Syko and Aida Arko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including ACA (YU), Ade Smilez, Afem Syko and Aida Arko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | ALIVE: Cristobal Pesce | Cristian Collodoro, Cristobal Pesce, Vorick |
 | Sat, 11 Jul 2026 | England vs Norway World Cup Quarter Final + After Party | Carly Wilford, Jake Bailey |
 | Fri, 17 Jul 2026 | ALIVE: DJ GUESTLIST & Trancemaster Krause | Becky Stroke, DJ GUESTLIST, Trancemaster Krause |
 | Fri, 17 Jul 2026 | ELECTRONIC MISCHIEF | Charlotte Devaney, Devious D, Holly Rouge, J Dragon, QUEEN JRK, TILLY (2), The Ragga Twins |
@@ -18,9 +17,10 @@ E1 is a music venue in London listed on soundcheck. 36 upcoming nights, with lin
 | Sat, 25 Jul 2026 | Pavel Petrov | Greggio, Pavel Petrov |
 | Sat, 25 Jul 2026 | Rave Beyond Reality |  |
 | Sat, 25 Jul 2026 | Destination House X House Warming | Beezo, DJ Majesty, Mark Radford, S FLY |
+| Fri, 31 Jul 2026 | ALIVE: ANXHELA & Lola Cerise | ANXHELA, AVCI, Lola Cerise |
 
 ## Address
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

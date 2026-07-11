@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Dextros Discotheque - Happy b-day edition" on Fri, 10 Jul 2026.
+Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DUAL WIELDING with Group Therapy" on Sat, 11 Jul 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming nights, with line-ups including Adexia, Alegrando, Alexander Santana and Anna Logic and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Adexia, Alegrando, Alexander Santana and Anna Logic and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Dextros Discotheque - Happy b-day edition | Dr. Dextro, KACHU2K, UBER KNAST |
 | Sat, 11 Jul 2026 | DUAL WIELDING with Group Therapy | Carlo & Selma, Dj Algorythm, Frederik Tollund |
 | Tue, 14 Jul 2026 | Group Therapy presents: Sexistential Therapy | Bella Sarris, Cockwhore & Macho, Gavnlig, Lucky Lube, Suzie The Cockroach |
 | Fri, 17 Jul 2026 | Pater Noster | Britney Speed, Hugo, Kristian Andersen, Matriark, Peachlyfe |
@@ -18,9 +17,10 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming 
 | Sat, 1 Aug 2026 | ESCAPISM presents: Rødhåd extended set | Anna Logic, Dico Nemus, Johannes Astrup, Nazira, Rødhåd, SORT SIND |
 | Fri, 7 Aug 2026 | Masculina & dj g2g presents | Adexia, Britney Speed, ELLE FIERCE, Suzie The Cockroach, dj g2g |
 | Sat, 8 Aug 2026 | MIAW - Pride starts underground | Alegrando, Britney Speed, DJ John Key, Fafi Abdel Nour, Kali, Majdolen |
+| Fri, 21 Aug 2026 | Amniote Editions | FILTH.y, Mama Snake, Matriark |
 
 ## Address
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

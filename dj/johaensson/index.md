@@ -1,6 +1,6 @@
 # Johænsson
 
-Johænsson is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 11 Jul 2026.
+Johænsson is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 11 Jul 2026.
 
 Johænsson is a trance and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside LASERBOY, Elias Doré and bīsu. Next up: Tanzhaus West, Frankfurt on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Johænsson is a trance and techno artist based in Germany, tracked on soundcheck
 
 LASERBOY, Elias Doré, bīsu
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*

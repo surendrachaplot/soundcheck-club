@@ -1,6 +1,6 @@
 # A lana
 
-A lana is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Honey's, New York City on Sat, 11 Jul 2026.
+A lana is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Honey's, New York City on Sat, 11 Jul 2026.
 
 A lana is a house and techno artist based in United States of America, tracked on soundcheck, with 44 sets logged across Boston and Newyorkcity. Often billed alongside DJ Christmas, Interpretive Sound and Klipdagga. Next up: Honey's, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ A lana is a house and techno artist based in United States of America, tracked o
 
 DJ Christmas, Interpretive Sound, Klipdagga
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*

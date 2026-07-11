@@ -1,6 +1,6 @@
 # JAZZY (2)
 
-JAZZY (2) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+JAZZY (2) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 JAZZY (2) is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ JAZZY (2) is a techno and house artist tracked on soundcheck, with 81 sets logge
 
 Holy Priest, Sonny Fodera, Azyr
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*

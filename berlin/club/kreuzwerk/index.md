@@ -1,14 +1,13 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FEIERAMT" on Fri, 10 Jul 2026.
+KREUZWERK is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Tipsy Disco" on Sun, 12 Jul 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Alex Kassian, CEM, D.E.S Fr and Dj Saliva and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alex Kassian, CEM, Dj Saliva and Dj Warning and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | FEIERAMT | D.E.S Fr, GEISTFREI, KUSS, Mara Menace, Maris Shilton, Mathys Lenne, SOLE DOSI |
 | Sun, 12 Jul 2026 | Tipsy Disco | Lady J, Lady J (Berlin), Orik, Paulita, Snax |
 | Fri, 17 Jul 2026 | Lobster & Phil Berg - ALL NIGHT LONG | Lobster (NL), Phil Berg |
 | Fri, 24 Jul 2026 | HERRENSAUNA PRIDEFEST | Dj Saliva, JASSS, MCMLXXXV, Makadsi, RHR |
@@ -22,4 +21,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming nights, wi
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

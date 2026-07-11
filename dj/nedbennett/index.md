@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Bassement, Madrid on Sat, 11 Jul 2026.
+Ned Bennett is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Bassement, Madrid on Sat, 11 Jul 2026.
 
 Ned Bennett is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 8 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: The Bassement, Madrid on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Ned Bennett is a techno and house artist tracked on soundcheck, with 58 sets log
 
 KSMBA, 6 SENSE, Prizefight
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

@@ -1,6 +1,6 @@
 # CRAZYHYUGA
 
-CRAZYHYUGA is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at WOMB, Tokyo on Wed, 15 Jul 2026.
+CRAZYHYUGA is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at WOMB, Tokyo on Wed, 15 Jul 2026.
 
 CRAZYHYUGA is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 56 sets logged across Osaka and Tokyo. Often billed alongside Altemica, SAKO and ITSUKI. Next up: WOMB, Tokyo on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ CRAZYHYUGA is a drum & bass and bass artist based in Japan, tracked on soundchec
 
 Altemica, SAKO, ITSUKI
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyhyuga/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyhyuga/)*

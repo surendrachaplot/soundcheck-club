@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
+DXNBY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
 
 DXNBY is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 19 more. Often billed alongside Ozzie Guven, ALISHA and Jamback. Next up: Cova Santa, Ibiza on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ DXNBY is a house and tech house artist tracked on soundcheck, with 108 sets logg
 
 Ozzie Guven, ALISHA, Jamback
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

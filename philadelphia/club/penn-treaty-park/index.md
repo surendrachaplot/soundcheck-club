@@ -1,6 +1,6 @@
 # Penn Treaty Park
 
-Penn Treaty Park is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "PURE HOUSE" on Sun, 12 Jul 2026.
+Penn Treaty Park is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "PURE HOUSE" on Sun, 12 Jul 2026.
 
 Penn Treaty Park is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including Cameron Kelly and Tommy HoGunz. Browse upcoming dates, start times and who's playing. 1199 N Delaware Ave, Philadelphia, PA 19125.
 
@@ -14,4 +14,4 @@ Penn Treaty Park is a music venue in Philadelphia listed on soundcheck. 1 upcomi
 
 1199 N Delaware Ave, Philadelphia, PA 19125, Philadelphia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/penn-treaty-park/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/penn-treaty-park/)*

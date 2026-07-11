@@ -1,6 +1,6 @@
 # Boston Manor Park
 
-Boston Manor Park is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Hedex presents: My Home Is The Rave Festival" on Fri, 24 Jul 2026.
+Boston Manor Park is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Hedex presents: My Home Is The Rave Festival" on Fri, 24 Jul 2026.
 
 Boston Manor Park is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Howling, Aaron Hibell, Adam Beyer and Âme and 2 more. Browse upcoming dates, start times and who's playing. Boston Manor Park, Brentford, TW8 9JX, London.
 
@@ -13,10 +13,10 @@ Boston Manor Park is a music venue in London listed on soundcheck. 6 upcoming ni
 | Sun, 26 Jul 2026 | Junction 2: Adam Beyer, Miss Monique, Indo Warehouse | Aaron Hibell, Adam Beyer, Avangart Tabldot, Carina Lawrence, Franky Wah, Julia Linkogel, Kotiēr, Mia Aurora, Miss Monique, Tripolism |
 | Fri, 31 Jul 2026 | Effy & Mall Grab present: Fragrance | BLUMITSU, Benga, Claire O'Brien, DJ Storm (2), David Jackson, Effy, LO-LOW, Mall Grab, RONI, Special Request, Sully, Tarzsa |
 | Sat, 1 Aug 2026 | Innervisions LONDON | Dixon, Howling, Ivory, JAMIIE, Jimi Jules, Julya Karma, RY X, Sama' Abdulhadi, Trikk, Âme |
-| Sun, 2 Aug 2026 | Junction 2: I Hate Models, Charlie Sparks | AMMARA, CARAVEL, Charlie Sparks, Funk Tribu, I Hate Models, LAMMER, Leo Pol, MarcelDune, Supergloss |
+| Sun, 2 Aug 2026 | Junction 2: Azyr, I Hate Models, Charlie Sparks | AMMARA, Azyr, CARAVEL, Charlie Sparks, Funk Tribu, I Hate Models, LAMMER, Leo Pol, MarcelDune, Supergloss |
 
 ## Address
 
 Boston Manor Park, Brentford, TW8 9JX, London, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*

@@ -1,6 +1,6 @@
 # Cuba (PT)
 
-Cuba (PT) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 11 Jul 2026.
+Cuba (PT) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sat, 11 Jul 2026.
 
 Cuba (PT) is a house and techno artist tracked on soundcheck, with 50 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: Café Schöne Aussichten (CSA), Hamburg on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Cuba (PT) is a house and techno artist tracked on soundcheck, with 50 sets logge
 
 Miguel Nery, Jean Mauj, Klin Klop
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*

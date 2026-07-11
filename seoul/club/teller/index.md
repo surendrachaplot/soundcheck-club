@@ -1,14 +1,13 @@
 # teller
 
-teller is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Friday, July 10, 2026" on Fri, 10 Jul 2026.
+teller is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Saturday, July 11, 2026" on Sat, 11 Jul 2026.
 
-teller is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including Baso, DJ SIN, Jucid and Kibum and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
+teller is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including Baso, Jucid, Kibum and Krijka and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Friday, July 10, 2026 | DJ SIN, Nomal, Siot |
 | Sat, 11 Jul 2026 | Saturday, July 11, 2026 | Krijka, Kugel, Sunday Lee |
 | Thu, 16 Jul 2026 | invites Raphael Carrau | Oho., Raphael Carrau, Yoel |
 | Sat, 18 Jul 2026 | White Lunar 2nd Anniversary | Baso, Lyumin, Oho., Stefano Andriezzi |
@@ -20,4 +19,4 @@ teller is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with l
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

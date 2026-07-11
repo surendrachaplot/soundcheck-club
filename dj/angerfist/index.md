@@ -1,6 +1,6 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Angerfist is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Angerfist is a techno and hardcore artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Trym, 999999999 and Alignment. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 61 sets lo
 
 Trym, 999999999, Alignment
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

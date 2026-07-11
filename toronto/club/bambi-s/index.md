@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "HYMZ, Yao Yao, Prince Josh, Thanks for the Tears" on Fri, 10 Jul 2026.
+Bambi's is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Bubble Trouble" on Sat, 11 Jul 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including AKWA, Critter, dj miss and florasystem and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including AKWA, Critter, dj miss and florasystem and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | HYMZ, Yao Yao, Prince Josh, Thanks for the Tears | HYMZ, Prince Josh, Thanks for the Tears, Yao Yao |
 | Sat, 11 Jul 2026 | Bubble Trouble | Lily (JP), Sakiko Nagai |
 | Fri, 17 Jul 2026 | Disco Portal: PARADISO | Venus in Foil, maiiii |
 | Sat, 18 Jul 2026 | Hot Take (Chicago), Florasystem, & dj miss | Hot Take, dj miss, florasystem |
@@ -20,4 +19,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 7 upcoming nights, wit
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Club Opp with Oppidan, Diffrent, Flava D - Bristol" on Sat, 11 Jul 2026.
+Document is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Club Opp with Oppidan, Diffrent, Flava D - Bristol" on Sat, 11 Jul 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including Kepler, Altern-8, Amy Wiles and Anil Aras and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -19,4 +19,4 @@ Document is a music venue in Bristol listed on soundcheck. 6 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

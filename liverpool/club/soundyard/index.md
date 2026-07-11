@@ -1,6 +1,6 @@
 # Soundyard
 
-Soundyard is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Save The Rave X Future Headliners Liverpool" on Sat, 25 Jul 2026.
+Soundyard is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Save The Rave X Future Headliners Liverpool" on Sat, 25 Jul 2026.
 
 Soundyard is a music venue in Liverpool listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Cains Brewery Village, Stanhope Street, Liverpool L8 5XJ.
 
@@ -14,4 +14,4 @@ Soundyard is a music venue in Liverpool listed on soundcheck. 1 upcoming night. 
 
 Cains Brewery Village, Stanhope Street, Liverpool L8 5XJ, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/soundyard/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/soundyard/)*

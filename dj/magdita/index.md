@@ -1,6 +1,6 @@
 # MagDita
 
-MagDita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bulbul Berlin, Berlin on Sat, 11 Jul 2026.
+MagDita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bulbul Berlin, Berlin on Sat, 11 Jul 2026.
 
 MagDita is a house and disco artist tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside ADAM REC., Nikklaas and Better Call Paul. Next up: Bulbul Berlin, Berlin on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ MagDita is a house and disco artist tracked on soundcheck, with 47 sets logged a
 
 ADAM REC., Nikklaas, Better Call Paul
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magdita/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magdita/)*

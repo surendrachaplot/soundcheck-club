@@ -1,6 +1,6 @@
 # Eev Frances
 
-Eev Frances is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
+Eev Frances is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
 
 Eev Frances is a club and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity and Philadelphia. Often billed alongside JEWELSSEA, SHUGAZI and DJ Papaya. Next up: New York Avenue Beach, Philadelphia on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Eev Frances is a club and techno artist based in United States of America, track
 
 JEWELSSEA, SHUGAZI, DJ Papaya
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eevfrances/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eevfrances/)*

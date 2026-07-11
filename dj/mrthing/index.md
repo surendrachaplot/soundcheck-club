@@ -1,6 +1,6 @@
 # Mr Thing
 
-Mr Thing is a Funk / Soul and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Horse & Groom, London on Sat, 11 Jul 2026.
+Mr Thing is a Funk / Soul and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Horse & Groom, London on Sat, 11 Jul 2026.
 
 Mr Thing is a funk / soul and hip-hop artist tracked on soundcheck, with 41 sets logged across Bristol, Lisbon, Liverpool and London and 3 more. Often billed alongside Alexander Nut, Ella Knight and Gilles Peterson. Next up: The Horse & Groom, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Mr Thing is a funk / soul and hip-hop artist tracked on soundcheck, with 41 sets
 
 Alexander Nut, Ella Knight, Gilles Peterson
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrthing/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrthing/)*

@@ -1,14 +1,15 @@
 # Olly Brady
 
-Olly Brady is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Egg London, London on Sat, 11 Jul 2026.
+Olly Brady is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Egg London, London on Sat, 11 Jul 2026.
 
-Olly Brady is a house and tech house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside MTRG, SAM PHONIC and BOA (1). Next up: Egg London, London on Sat 11 Jul.
+Olly Brady is a house and tech house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside MTRG, SAM PHONIC and BOA (1). Next up: Egg London, London on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Egg London | London |
+| Wed, 15 Jul 2026 | XOYO | London |
 | Fri, 24 Jul 2026 | Egg London | London |
 | Sat, 1 Aug 2026 | Starlane Pizza Bar | London |
 
@@ -27,4 +28,4 @@ Olly Brady is a house and tech house artist tracked on soundcheck, with 16 sets 
 
 MTRG, SAM PHONIC, BOA (1)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollybrady/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ollybrady/)*

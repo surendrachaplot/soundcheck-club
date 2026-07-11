@@ -1,6 +1,6 @@
 # Brixton Storeys
 
-Brixton Storeys is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Day Party Motion" on Sun, 12 Jul 2026.
+Brixton Storeys is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Day Party Motion" on Sun, 12 Jul 2026.
 
 Brixton Storeys is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
 
@@ -16,4 +16,4 @@ Brixton Storeys is a music venue in London listed on soundcheck. 3 upcoming nigh
 
 467- 469 Brixton Rd, London SW9 8HH, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*

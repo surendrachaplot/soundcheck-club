@@ -1,6 +1,6 @@
 # Human Movement
 
-Human Movement is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Enmore Theatre, Sydney on Sun, 12 Jul 2026.
+Human Movement is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Enmore Theatre, Sydney on Sun, 12 Jul 2026.
 
 Human Movement is a house and garage artist based in Australia, tracked on soundcheck, with 28 sets logged across Auckland, Berlin, Brisbane and London and 3 more. Often billed alongside Mincy, AHJU and Ari Kiko. Next up: Enmore Theatre, Sydney on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Human Movement is a house and garage artist based in Australia, tracked on sound
 
 Mincy, AHJU, Ari Kiko
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmovement/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanmovement/)*

@@ -1,14 +1,13 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "daGoogie (Of My Bloody Valentine) and Cara Tivey" on Fri, 10 Jul 2026.
+Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Lydia Lunch & Marc Hurtado plays Suicide" on Tue, 14 Jul 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including djcd, Hardcore Babes, Insurrect and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including djcd, Hardcore Babes, Insurrect and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | daGoogie (Of My Bloody Valentine) and Cara Tivey |  |
 | Tue, 14 Jul 2026 | Lydia Lunch & Marc Hurtado plays Suicide |  |
 | Thu, 23 Jul 2026 | In the room presents Sunglasz Vendor & Or Sobre Blau |  |
 | Sat, 25 Jul 2026 | SWITCH presents Liverpool Pride After-Party | Hardcore Babes, TAMAN (2) |
@@ -22,4 +21,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, wi
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

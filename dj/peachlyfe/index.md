@@ -1,8 +1,8 @@
 # Peachlyfe
 
-Peachlyfe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 17 Jul 2026.
+Peachlyfe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Den Anden Side, Copenhagen on Fri, 17 Jul 2026.
 
-Peachlyfe is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Schacke, Ezy and DJ Nah Care. Next up: Den Anden Side, Copenhagen on Fri 17 Jul.
+Peachlyfe is a techno and trance artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Den Anden Side, Copenhagen on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Peachlyfe is a techno and trance artist tracked on soundcheck, with 119 sets log
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Den Anden Side | Copenhagen |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
+| Sat, 22 Aug 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Peachlyfe is a techno and trance artist tracked on soundcheck, with 119 sets log
 
 ## Shares bills with
 
-Schacke, Ezy, DJ Nah Care
+Ezy, Schacke, DJ Nah Care
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*

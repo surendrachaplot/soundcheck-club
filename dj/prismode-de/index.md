@@ -1,6 +1,6 @@
 # Prismode
 
-Prismode is a Techno and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ritter Butzke, Berlin on Sat, 11 Jul 2026.
+Prismode is a Techno and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ritter Butzke, Berlin on Sat, 11 Jul 2026.
 
 Prismode is a techno and afro house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Ritter Butzke, Berlin on Sat 11 Jul.
 
@@ -11,7 +11,7 @@ Prismode is a techno and afro house artist tracked on soundcheck, with 94 sets l
 | Sat, 11 Jul 2026 | Ritter Butzke | Berlin |
 | Sat, 11 Jul 2026 | Treptower Park | Berlin |
 | Sat, 25 Jul 2026 | Ritter Butzke | Berlin |
-| Sat, 15 Aug 2026 | Straße des 17. Juni | Berlin |
+| Sat, 15 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Prismode is a techno and afro house artist tracked on soundcheck, with 94 sets l
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

@@ -1,14 +1,13 @@
 # David Morales
 
-David Morales is a House and Disco artist with 21 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 10 Jul 2026.
+David Morales is a House and Disco artist with 20 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pikes Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-David Morales is a house and disco artist tracked on soundcheck, with 187 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Amnesia Ibiza, Ibiza on Fri 10 Jul.
+David Morales is a house and disco artist tracked on soundcheck, with 187 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Pikes Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 15 Jul 2026 | Pikes Ibiza | Ibiza |
 | Wed, 29 Jul 2026 | Pikes Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ David Morales is a house and disco artist tracked on soundcheck, with 187 sets l
 | Thu, 20 Aug 2026 | Bolivar Beach Bar | Athens |
 | Fri, 21 Aug 2026 | Cavo Paradiso | Mykonos |
 | Wed, 26 Aug 2026 | Pikes Ibiza | Ibiza |
+| Wed, 2 Sept 2026 | Pikes Ibiza | Ibiza |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
 - Stereo, Montreal — Sat, 4 Jul 2026
 - Pikes Ibiza, Ibiza — Wed, 1 Jul 2026
 - The Opera House, Toronto — Sun, 28 Jun 2026
@@ -30,10 +31,9 @@ David Morales is a house and disco artist tracked on soundcheck, with 187 sets l
 - Refuge, New York City — Sun, 21 Jun 2026
 - Refuge, New York City — Sun, 21 Jun 2026
 - Refuge, New York City — Sat, 20 Jun 2026
-- Refuge, New York City — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Louie Vega, Melvo Baptiste, DJ Paulette
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

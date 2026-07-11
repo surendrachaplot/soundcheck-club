@@ -1,6 +1,6 @@
 # Daughter In Law
 
-Daughter In Law is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Pferdesport Pfannenstiel Meilen, Zurich on Sat, 11 Jul 2026.
+Daughter In Law is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Pferdesport Pfannenstiel Meilen, Zurich on Sat, 11 Jul 2026.
 
 Daughter In Law is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Basel, Frankfurt and Munich and 3 more. Often billed alongside Alex Dallas, Animal Trainer and De La Maso. Next up: TBA - Pferdesport Pfannenstiel Meilen, Zurich on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Daughter In Law is a house and techno artist tracked on soundcheck, with 47 sets
 
 Alex Dallas, Animal Trainer, De La Maso
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*

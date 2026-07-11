@@ -1,6 +1,6 @@
 # MC Fox
 
-MC Fox is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at PRST, Vienna on Sat, 11 Jul 2026.
+MC Fox is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at PRST, Vienna on Sat, 11 Jul 2026.
 
 MC Fox is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Leeds, Lisbon and London and 3 more. Often billed alongside Lenzman, T-Man (UK) and Chimpo. Next up: PRST, Vienna on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ MC Fox is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Lenzman, T-Man (UK), Chimpo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfox/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfox/)*

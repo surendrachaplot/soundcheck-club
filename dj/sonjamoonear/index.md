@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+Sonja Moonear is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 186 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

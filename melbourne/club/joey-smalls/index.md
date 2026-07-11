@@ -1,6 +1,6 @@
 # Joey Smalls
 
-Joey Smalls is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Gab Oliver - Secret Locations Collective: Deep Dark Progressive House" on Sat, 12 Sept 2026.
+Joey Smalls is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Gab Oliver - Secret Locations Collective: Deep Dark Progressive House" on Sat, 12 Sept 2026.
 
 Joey Smalls is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Dean Millson and Gab Oliver. Browse upcoming dates, start times and who's playing. 284 Sydney Rd, Brunswick VIC 3056.
 
@@ -14,4 +14,4 @@ Joey Smalls is a music venue in Melbourne listed on soundcheck. 1 upcoming night
 
 284 Sydney Rd, Brunswick VIC 3056, Melbourne
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/joey-smalls/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/joey-smalls/)*

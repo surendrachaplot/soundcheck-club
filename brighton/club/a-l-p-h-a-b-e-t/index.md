@@ -1,6 +1,6 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Berlin presents Carina Lawrence" on Sat, 11 Jul 2026.
+A L P H A B E T is a music venue in Brighton with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Berlin presents Carina Lawrence" on Sat, 11 Jul 2026.
 
 A L P H A B E T is a music venue in Brighton listed on soundcheck. 7 upcoming nights, with line-ups including Alena Arpels, Carina Lawrence, CasuallyClued and ÉRIU and 2 more. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
@@ -20,4 +20,4 @@ A L P H A B E T is a music venue in Brighton listed on soundcheck. 7 upcoming ni
 
 11 Dyke Road.  Brighton.  BN1 3FE.  UK., Brighton
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*

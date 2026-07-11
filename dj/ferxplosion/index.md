@@ -1,6 +1,6 @@
 # Fer Xplosion
 
-Fer Xplosion is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at EL SÓTANO, Madrid on Sat, 8 Aug 2026.
+Fer Xplosion is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at EL SÓTANO, Madrid on Sat, 8 Aug 2026.
 
 Fer Xplosion is a house and club artist tracked on soundcheck, with 56 sets logged across Madrid. Often billed alongside Eder Croket, DHERMIDA and El cuerpo del Disco. Next up: EL SÓTANO, Madrid on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Fer Xplosion is a house and club artist tracked on soundcheck, with 56 sets logg
 
 Eder Croket, DHERMIDA, El cuerpo del Disco
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferxplosion/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferxplosion/)*

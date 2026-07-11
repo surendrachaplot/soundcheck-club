@@ -1,6 +1,6 @@
 # One Tough Cookie
 
-One Tough Cookie is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 11 Jul 2026.
+One Tough Cookie is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 11 Jul 2026.
 
 One Tough Cookie is a house and minimal artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: Shelter Amsterdam, Amsterdam on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ One Tough Cookie is a house and minimal artist tracked on soundcheck, with 32 se
 
 Charlotte (FR), Charonne, Poggio
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*

@@ -1,6 +1,6 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+Denis Sulta is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
 Denis Sulta is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 48 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stussy. Next up: Silverworks Island, London on Sat 11 Jul.
 
@@ -33,4 +33,4 @@ Denis Sulta is a house and techno artist tracked on soundcheck, with 137 sets lo
 
 Ben Hemsley, Sarah Story, Chris Stussy
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denissulta/)*

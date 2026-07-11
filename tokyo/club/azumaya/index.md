@@ -1,6 +1,6 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Azumaya -Saturday-" on Sat, 11 Jul 2026.
+Azumaya is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Azumaya -Saturday-" on Sat, 11 Jul 2026.
 
 Azumaya is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AME (JP), BLUEMEW, Chrysis and CLESENT and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
@@ -23,4 +23,4 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with
 
 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/azumaya/)*

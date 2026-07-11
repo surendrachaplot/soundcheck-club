@@ -1,6 +1,6 @@
 # Worm Class
 
-Worm Class is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lisa, Lisbon on Sat, 11 Jul 2026.
+Worm Class is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lisa, Lisbon on Sat, 11 Jul 2026.
 
 Worm Class is a techno and house artist tracked on soundcheck, with 40 sets logged across Lisbon and Porto. Often billed alongside Solid-Funk, Schlingen and Luisa. Next up: Lisa, Lisbon on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Worm Class is a techno and house artist tracked on soundcheck, with 40 sets logg
 
 Solid-Funk, Schlingen, Luisa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wormclass/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wormclass/)*

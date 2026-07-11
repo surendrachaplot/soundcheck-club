@@ -1,6 +1,6 @@
 # Kathleen C
 
-Kathleen C is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 11 Jul 2026.
+Kathleen C is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 11 Jul 2026.
 
 Kathleen C is a techno and house artist based in Belgium, tracked on soundcheck, with 28 sets logged across Antwerp, Brussels, Strasbourg and Thehague. Often billed alongside Vera Moro, Azo and Stanislawa. Next up: The Rooftop Garden at The Standard, Brussels, Brussels on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Kathleen C is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Vera Moro, Azo, Stanislawa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kathleenc/)*

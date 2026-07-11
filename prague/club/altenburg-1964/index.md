@@ -1,14 +1,13 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Location ATG: BENZA, Nastya Muravyova b2b Adamatron & TerminusTechnikus" on Fri, 10 Jul 2026.
+Altenburg 1964 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SUN > ATG < SET: MaxB & Blen" on Thu, 16 Jul 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including Adamatron, Ansea, Axis Alpha and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Ansea, Axis Alpha, Big Lil and Blame The Mono and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Location ATG: BENZA, Nastya Muravyova b2b Adamatron & TerminusTechnikus | Adamatron, BENZA, Nastya Muravyova, TerminusTechnikus |
 | Thu, 16 Jul 2026 | SUN > ATG < SET: MaxB & Blen | Blen (3) |
 | Fri, 17 Jul 2026 | ALTRA with DDK, Olivia Nebula, ZANDOLY, Gabrielle | DDK (1), Gabrielle (DE), Olivia Nebula, ZANDOLY |
 | Sat, 18 Jul 2026 | POSEIDON: Paralich, TRANSmisia, PAY2PLAY, Big Lil & XENEA LUMRA | Big Lil, PAY2PLAY, Paralich, SJ Yellow, TRANSmisia, XENEA LUMRA, tmk (CZ) |
@@ -18,9 +17,10 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 11 upcoming nigh
 | Thu, 30 Jul 2026 | SUN > ATG < SET: FOOTCLAN (Tuco & N.D.N.M.) | DJ Tuco, Name Does Not Matter |
 | Fri, 31 Jul 2026 | RUSH HOUR: Blame The Mono, MIKLEI, SJ Yellow, Takē | Blame The Mono, MIKLEI, SJ Yellow, Takē |
 | Sat, 8 Aug 2026 | HEAT 9 / Pride Edition  | Ansea, Big Lil, Nakrasia, SENAIDA, Zuzana Hakl |
+| Sat, 12 Sept 2026 | DOCK RAVE — MADE IN GERMANY | Diva, Mike Stevens, carlo kalu |
 
 ## Address
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

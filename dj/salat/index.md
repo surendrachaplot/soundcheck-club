@@ -1,6 +1,6 @@
 # Salat
 
-Salat is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jasna 1, Warsaw on Sat, 11 Jul 2026.
+Salat is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jasna 1, Warsaw on Sat, 11 Jul 2026.
 
 Salat is an experimental and techno artist tracked on soundcheck, with 68 sets logged across Krakow and Warsaw. Often billed alongside Pean, Slowmode and Ganna Glass. Next up: Jasna 1, Warsaw on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Salat is an experimental and techno artist tracked on soundcheck, with 68 sets l
 
 Pean, Slowmode, Ganna Glass
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salat/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salat/)*

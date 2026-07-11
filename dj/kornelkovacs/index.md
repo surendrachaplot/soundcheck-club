@@ -1,6 +1,6 @@
 # Kornél Kovács
 
-Kornél Kovács is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Trädgården, Stockholm on Sat, 11 Jul 2026.
+Kornél Kovács is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Trädgården, Stockholm on Sat, 11 Jul 2026.
 
 Kornél Kovács is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Trädgården, Stockholm on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Kornél Kovács is a house and techno artist tracked on soundcheck, with 95 sets
 
 Axel Boman, Pedrodollar, Studio Barnhus
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*

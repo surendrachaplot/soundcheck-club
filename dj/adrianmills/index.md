@@ -1,6 +1,6 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
+Adrian Mills is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
 
 Adrian Mills is a techno and trance artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 210 sets 
 
 Cloudy, KUKO, Serafina
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

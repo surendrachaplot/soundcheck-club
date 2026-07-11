@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ANARCHY PRESENTS… The Hot Honey Mixer - Day & Night Party" on Sat, 11 Jul 2026.
+Honey Street Studio is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "ANARCHY PRESENTS… The Hot Honey Mixer - Day & Night Party" on Sat, 11 Jul 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Admin, B.Love, Coyle and Deventi and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -22,4 +22,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcom
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

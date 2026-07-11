@@ -1,14 +1,13 @@
 # Two More Years
 
-Two More Years is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Doué Digitale" on Fri, 10 Jul 2026.
+Two More Years is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "All Day Long - House & Disco by the canal" on Sat, 11 Jul 2026.
 
-Two More Years is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Another George, BRUIN (UK), Haruka (UK) and Ivaylo and 2 more. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
+Two More Years is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Another George, BRUIN (UK), Haruka (UK) and Ivaylo and 2 more. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Doué Digitale |  |
 | Sat, 11 Jul 2026 | All Day Long - House & Disco by the canal |  |
 | Fri, 17 Jul 2026 | Nightriders | Jake Hodgkinson |
 | Sat, 18 Jul 2026 | All Day Long - House & Disco by the canal |  |
@@ -21,4 +20,4 @@ Two More Years is a music venue in London listed on soundcheck. 8 upcoming night
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

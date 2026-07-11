@@ -1,6 +1,6 @@
 # Marvio
 
-Marvio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bikini Club, Barcelona on Sat, 11 Jul 2026.
+Marvio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bikini Club, Barcelona on Sat, 11 Jul 2026.
 
 Marvio is a house and techno artist based in Argentina, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Buenosaires and Malaga. Often billed alongside Kevin Williams, Perch and Kev Williams. Next up: Bikini Club, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Marvio is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Kevin Williams, Perch, Kev Williams
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*

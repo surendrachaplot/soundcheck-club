@@ -1,6 +1,6 @@
 # Longevity Rave - DAY RAVE at 45 London
 
-Longevity Rave - DAY RAVE at 45 London on Sat 18 Jul, London. 4 acts on the bill: D LAI, Kazuki Takahashi, Tina Technotic and Yukari. Techno and House. Preview the line-up and save it on soundcheck.
+Longevity Rave - DAY RAVE at 45 London on Sat 18 Jul, London. 5 acts on the bill: D LAI, Kazuki Takahashi, TELT and Tina Technotic and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Longevity Rave - DAY RAVE at 45 London on Sat 18 Jul, London. 4 acts on the bill
 
 - D LAI
 - Kazuki Takahashi
+- TELT
 - Tina Technotic
 - Yukari
 

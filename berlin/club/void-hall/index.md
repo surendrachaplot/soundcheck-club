@@ -1,6 +1,6 @@
 # Void Hall
 
-Void Hall is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Liminal with Vittjas Tief, Berfu, K.EULE, Zeihta" on Sat, 18 Jul 2026.
+Void Hall is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Liminal with Vittjas Tief, Berfu, K.EULE, Zeihta" on Sat, 18 Jul 2026.
 
 Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Berfu, K.EULE, Vittjas Tief and Zeihta. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365 Berlin.
 
@@ -15,4 +15,4 @@ Void Hall is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wi
 
 Wiesenweg 5-9, 10365 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-hall/)*

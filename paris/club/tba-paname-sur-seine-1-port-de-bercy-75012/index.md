@@ -1,6 +1,6 @@
 # TBA - Paname sur Seine, 1 Port de Bercy 75012
 
-TBA - Paname sur Seine, 1 Port de Bercy 75012 is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Saturation Collective - Open Air Paname Sur Seine" on Sat, 11 Jul 2026.
+TBA - Paname sur Seine, 1 Port de Bercy 75012 is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Saturation Collective - Open Air Paname Sur Seine" on Sat, 11 Jul 2026.
 
 TBA - Paname sur Seine, 1 Port de Bercy 75012 is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including AMAYO, ANKA (4) and Karenine. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Paname sur Seine, 1 Port de Bercy 75012 is a music venue in Paris listed o
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Saturation Collective - Open Air Paname Sur Seine | AMAYO, ANKA (4), Karenine |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-paname-sur-seine-1-port-de-bercy-75012/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-paname-sur-seine-1-port-de-bercy-75012/)*

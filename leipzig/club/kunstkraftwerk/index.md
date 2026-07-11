@@ -1,6 +1,6 @@
 # Kunstkraftwerk
 
-Kunstkraftwerk is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SUNDAY FREE OPEN AIR - GROOVERS X Kunstkraftwerk Leipzig" on Sun, 12 Jul 2026.
+Kunstkraftwerk is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SUNDAY FREE OPEN AIR - GROOVERS X Kunstkraftwerk Leipzig" on Sun, 12 Jul 2026.
 
 Kunstkraftwerk is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including Filburt, Mac-Kee, Naomi (Berlin) and Padsingers and 2 more. Browse upcoming dates, start times and who's playing. Saalfelder Straße 8b, 04179 Leipzig.
 
@@ -15,4 +15,4 @@ Kunstkraftwerk is a music venue in Leipzig listed on soundcheck. 2 upcoming nigh
 
 Saalfelder Straße 8b, 04179 Leipzig, Leipzig
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kunstkraftwerk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kunstkraftwerk/)*

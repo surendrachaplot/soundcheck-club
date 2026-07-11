@@ -1,6 +1,6 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tofte Manor, London on Sat, 11 Jul 2026.
+John Summit is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tofte Manor, London on Sat, 11 Jul 2026.
 
 John Summit is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: Tofte Manor, London on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ John Summit is a house and tech house artist tracked on soundcheck, with 108 set
 
 Eli Brown, Layton Giordani, Loco Dice
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*

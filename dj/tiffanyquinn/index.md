@@ -1,6 +1,6 @@
 # Tiffany Quinn
 
-Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Horse & Groom, London on Sat, 25 Jul 2026.
+Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Horse & Groom, London on Sat, 25 Jul 2026.
 
 Tiffany Quinn is a house and disco artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 4 more. Often billed alongside Maria Hanlon, Oh See and bangus. Next up: The Horse & Groom, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Tiffany Quinn is a house and disco artist tracked on soundcheck, with 76 sets lo
 
 Maria Hanlon, Oh See, bangus
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*

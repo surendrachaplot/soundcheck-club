@@ -1,6 +1,6 @@
 # Ross Harper
 
-Ross Harper is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
+Ross Harper is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Various Venues, Brighton on Sat, 1 Aug 2026.
 
 Ross Harper is a techno and deep house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Nathan Godolphin, Døra and PETRU. Next up: TBA - Various Venues, Brighton on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Ross Harper is a techno and deep house artist tracked on soundcheck, with 45 set
 
 Nathan Godolphin, Døra, PETRU
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossharper/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossharper/)*

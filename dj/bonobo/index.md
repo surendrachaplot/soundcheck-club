@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Santanna Mykonos, Mykonos on Sat, 1 Aug 2026.
+Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Santanna Mykonos, Mykonos on Sat, 1 Aug 2026.
 
 Bonobo is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: Santanna Mykonos, Mykonos on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bonobo is a house and techno artist tracked on soundcheck, with 90 sets logged a
 
 DJ Tennis, Sofia Kourtesis, Honey Dijon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

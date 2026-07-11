@@ -1,6 +1,6 @@
 # Giuseppe Fava
 
-Giuseppe Fava is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Jazz Cafe, London on Sat, 25 Jul 2026.
+Giuseppe Fava is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Jazz Cafe, London on Sat, 25 Jul 2026.
 
 Giuseppe Fava is a house and disco artist tracked on soundcheck, with 29 sets logged across London, Milan, Naples and Rome and 1 more. Often billed alongside Obbi, ThanksMate and KARLOVE. Next up: The Jazz Cafe, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Giuseppe Fava is a house and disco artist tracked on soundcheck, with 29 sets lo
 
 Obbi, ThanksMate, KARLOVE
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*

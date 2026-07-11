@@ -1,6 +1,6 @@
 # Postponez
 
-Postponez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tokyo Sing Song, Sydney on Sun, 12 Jul 2026.
+Postponez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tokyo Sing Song, Sydney on Sun, 12 Jul 2026.
 
 Postponez is a house and techno artist based in Australia, tracked on soundcheck, with 46 sets logged across Auckland, Hobart, Melbourne and Sydney. Often billed alongside Ari Kiko, Mina Tonic and Reenie. Next up: Tokyo Sing Song, Sydney on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Postponez is a house and techno artist based in Australia, tracked on soundcheck
 
 Ari Kiko, Mina Tonic, Reenie
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/postponez/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/postponez/)*

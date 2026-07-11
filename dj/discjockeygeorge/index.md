@@ -1,6 +1,6 @@
 # Disc Jockey George
 
-Disc Jockey George is a House and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TV Lounge, Detroit on Sat, 11 Jul 2026.
+Disc Jockey George is a House and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TV Lounge, Detroit on Sat, 11 Jul 2026.
 
 Disc Jockey George is a house and ghetto tech artist tracked on soundcheck, with 65 sets logged across Denver and Detroit. Often billed alongside JMT (2), Duck Trash and AK (US). Next up: TV Lounge, Detroit on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Disc Jockey George is a house and ghetto tech artist tracked on soundcheck, with
 
 JMT (2), Duck Trash, AK (US)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/discjockeygeorge/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/discjockeygeorge/)*

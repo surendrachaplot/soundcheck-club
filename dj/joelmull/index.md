@@ -1,6 +1,6 @@
 # Joel Mull
 
-Joel Mull is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Joel Mull is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Joel Mull is a techno and house artist based in Sweden, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Hamburg and Istanbul and 13 more. Often billed alongside Jessamine, Barbara Hofmann and Alex.Do. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Joel Mull is a techno and house artist based in Sweden, tracked on soundcheck, w
 
 Jessamine, Barbara Hofmann, Alex.Do
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joelmull/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joelmull/)*

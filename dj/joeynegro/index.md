@@ -1,6 +1,6 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Apps Court, London on Sat, 11 Jul 2026.
+Dave Lee is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Apps Court, London on Sat, 11 Jul 2026.
 
 Dave Lee is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Apps Court, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Dave Lee is a house and disco artist tracked on soundcheck, with 88 sets logged 
 
 Melvo Baptiste, Mousse T., Natasha Diggs
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*

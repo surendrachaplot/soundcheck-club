@@ -1,14 +1,13 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
+Zack Fox is a Ghetto Tech and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 12 Jul 2026.
 
-Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: Nowadays, Newyorkcity on Fri 10 Jul.
+Zack Fox is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Berlin and 20 more. Often billed alongside DJ Bone, JEWELSSEA and BAE BAE. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Nowadays | New York City |
 | Sun, 12 Jul 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Thu, 16 Jul 2026 | Tresor / Globus | Berlin |
 | Fri, 31 Jul 2026 | Encore Event Center | San Diego |
@@ -19,6 +18,7 @@ Zack Fox is a ghetto tech and house artist based in United States of America, tr
 
 ## Recently played
 
+- Nowadays, New York City — Fri, 10 Jul 2026
 - TBA - DON QUIXOTE - 2811 E OLYMPIC BLVD, LOS ANGELES, Los Angeles — Fri, 3 Jul 2026
 - TRANSMISSION DC, Washington DC — Fri, 19 Jun 2026
 - Ampere, Antwerp — Sun, 7 Jun 2026
@@ -26,10 +26,9 @@ Zack Fox is a ghetto tech and house artist based in United States of America, tr
 - Amber's, Manchester — Fri, 5 Jun 2026
 - Radius, Chicago — Sat, 30 May 2026
 - El Club, Detroit — Mon, 25 May 2026
-- Hart Plaza, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ Bone, JEWELSSEA, BAE BAE
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

@@ -1,6 +1,6 @@
 # Tikal
 
-Tikal is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "OWNBOSS LIVE A MONTREAL" on Sat, 25 Jul 2026.
+Tikal is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "OWNBOSS LIVE A MONTREAL" on Sat, 25 Jul 2026.
 
 Tikal is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 6610 Rue St Hubert, Montreal, QC H2S 2M5.
 
@@ -14,4 +14,4 @@ Tikal is a music venue in Montreal listed on soundcheck. 1 upcoming night. Brows
 
 6610 Rue St Hubert, Montreal, QC H2S 2M5, Montreal
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tikal/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tikal/)*

@@ -1,6 +1,6 @@
 # Konnection
 
-Konnection is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 24 Jul 2026.
+Konnection is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 24 Jul 2026.
 
 Konnection is a techno and house artist based in China, tracked on soundcheck, with 39 sets logged across Hongkong, Shenzhen and Tokyo. Often billed alongside Dan-neo, Finsent C and Faxtory. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Konnection is a techno and house artist based in China, tracked on soundcheck, w
 
 Dan-neo, Finsent C, Faxtory
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konnection/)*

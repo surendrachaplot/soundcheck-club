@@ -1,6 +1,6 @@
 # Edgar Peng
 
-Edgar Peng is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Golden Gate, Berlin on Fri, 24 Jul 2026.
+Edgar Peng is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Golden Gate, Berlin on Fri, 24 Jul 2026.
 
 Edgar Peng is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Nils Ohrmann, Koljah and Empro. Next up: Golden Gate, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Edgar Peng is a house and techno artist tracked on soundcheck, with 84 sets logg
 
 Nils Ohrmann, Koljah, Empro
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarpeng/)*

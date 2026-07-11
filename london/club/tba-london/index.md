@@ -1,6 +1,6 @@
 # TBA - London
 
-TBA - London is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Summer Ambient Rave" on Sat, 25 Jul 2026.
+TBA - London is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Summer Ambient Rave" on Sat, 25 Jul 2026.
 
 TBA - London is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - London is a music venue in London listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Summer Ambient Rave |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-london/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-london/)*

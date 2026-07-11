@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+DJ Holographic is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 DJ Holographic is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 195 sets
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

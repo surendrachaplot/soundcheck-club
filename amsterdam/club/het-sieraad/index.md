@@ -1,14 +1,13 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Tom Trago All Night Long" on Fri, 10 Jul 2026.
+Het Sieraad is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Miss Melera - Vero" on Sat, 11 Jul 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Ammé, Corren Cavini, Deeparture and Ferro and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Ammé, Corren Cavini, Deeparture and Ferro and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Tom Trago All Night Long | Tom Trago |
 | Sat, 11 Jul 2026 | Miss Melera - Vero | Miss Melera, Vero |
 | Fri, 17 Jul 2026 | Olivier Weiter All Night Long | Olivier Weiter |
 | Fri, 17 Jul 2026 | Scala with Caro - Ferro - Lori - Pascal Benjamin - Wodda (UK) | Ferro, Pascal Benjamin, Wodda |
@@ -22,4 +21,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 9 upcoming night
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

@@ -1,6 +1,6 @@
 # Tom of England
 
-Tom of England is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Glob, Denver on Sat, 18 Jul 2026.
+Tom of England is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Glob, Denver on Sat, 18 Jul 2026.
 
 Tom of England is a house and disco artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Athens, Bali, Berlin and Bristol and 9 more. Often billed alongside Paul Nickerson, Capablanca and DJ M3. Next up: Glob, Denver on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Tom of England is a house and disco artist based in United Kingdom, tracked on s
 
 Paul Nickerson, Capablanca, DJ M3
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*

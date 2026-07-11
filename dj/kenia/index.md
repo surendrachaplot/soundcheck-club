@@ -1,6 +1,6 @@
 # Kenia
 
-Kenia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Etnia Underground Club, Madrid on Sat, 11 Jul 2026.
+Kenia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Etnia Underground Club, Madrid on Sat, 11 Jul 2026.
 
 Kenia is a house and techno artist tracked on soundcheck, with 82 sets logged across London, Madrid, Miami and Milan and 3 more. Often billed alongside Vithz, Rakim Under and David Triana. Next up: Etnia Underground Club, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Kenia is a house and techno artist tracked on soundcheck, with 82 sets logged ac
 
 Vithz, Rakim Under, David Triana
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*

@@ -1,6 +1,6 @@
 # TBA - Stockholm
 
-TBA - Stockholm is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Funk & Soul Popup" on Sat, 1 Aug 2026.
+TBA - Stockholm is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Funk & Soul Popup" on Sat, 1 Aug 2026.
 
 TBA - Stockholm is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including Lady Vusumzi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Stockholm is a music venue in Stockholm listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Funk & Soul Popup | Lady Vusumzi |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tba-stockholm/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tba-stockholm/)*

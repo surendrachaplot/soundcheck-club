@@ -1,6 +1,6 @@
 # Cesc (ES)
 
-Cesc (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cadavra, Madrid on Fri, 24 Jul 2026.
+Cesc (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cadavra, Madrid on Fri, 24 Jul 2026.
 
 Cesc (ES) is a house and techno artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Avo (ES), DANIL0 and Babu. Next up: Cadavra, Madrid on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Cesc (ES) is a house and techno artist based in Spain, tracked on soundcheck, wi
 
 Avo (ES), DANIL0, Babu
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cesc-es/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cesc-es/)*

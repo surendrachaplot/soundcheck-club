@@ -1,6 +1,6 @@
 # Factory Theatre
 
-Factory Theatre is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Subsonic: Launch Party" on Sat, 18 Jul 2026.
+Factory Theatre is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Subsonic: Launch Party" on Sat, 18 Jul 2026.
 
 Factory Theatre is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Adarah, Alex Dowsing, Ari Kiko and Astronafrica and 2 more. Browse upcoming dates, start times and who's playing. 105 Victoria Rd; Enmore, NSW 2042; Australia.
 
@@ -14,4 +14,4 @@ Factory Theatre is a music venue in Sydney listed on soundcheck. 1 upcoming nigh
 
 105 Victoria Rd; Enmore, NSW 2042; Australia, Sydney
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/factory-theatre/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/factory-theatre/)*

@@ -1,6 +1,6 @@
 # Sika Akis
 
-Sika Akis is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Golden Flamingo, Berlin on Sat, 11 Jul 2026.
+Sika Akis is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Golden Flamingo, Berlin on Sat, 11 Jul 2026.
 
 Sika Akis is a techno and tech house artist based in Germany, tracked on soundcheck, with 95 sets logged across Berlin. Often billed alongside Nat SuPrise, Kaminka Merel and Felidae. Next up: Golden Flamingo, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Sika Akis is a techno and tech house artist based in Germany, tracked on soundch
 
 Nat SuPrise, Kaminka Merel, Felidae
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*

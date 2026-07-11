@@ -1,17 +1,17 @@
 # Workshop
 
-Workshop is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Love Letter at Workshop Bar" on Fri, 10 Jul 2026.
+Workshop is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "In The Nett" on Sat, 1 Aug 2026.
 
-Workshop is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including ANNIE KEZ. Browse upcoming dates, start times and who's playing. 1/413 Elizabeth St; Melbourne, VIC 3000; Australia.
+Workshop is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including DJ JNETT. Browse upcoming dates, start times and who's playing. 1/413 Elizabeth St; Melbourne, VIC 3000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Love Letter at Workshop Bar | ANNIE KEZ |
+| Sat, 1 Aug 2026 | In The Nett | DJ JNETT |
 
 ## Address
 
 1/413 Elizabeth St; Melbourne, VIC 3000; Australia, Melbourne
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/workshop/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/workshop/)*

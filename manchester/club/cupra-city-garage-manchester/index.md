@@ -1,6 +1,6 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "House Rules x DJ Club MCR x Swing Theory" on Fri, 17 Jul 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "House Rules x DJ Club MCR x Swing Theory" on Fri, 17 Jul 2026.
 
 Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including ANT1 (2), Deventi, FXCKBOUT and Gatling and 2 more. Browse upcoming dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
@@ -15,4 +15,4 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

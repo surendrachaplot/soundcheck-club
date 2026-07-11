@@ -1,14 +1,13 @@
 # Forum Station
 
-Forum Station is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ARAB PRIDE 2026 - PRIDE بالعربي hosted by Salma Zahore with TAKHNIS" on Fri, 10 Jul 2026.
+Forum Station is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Egoless Showcase at Forum Station - OPEN AIR" on Sun, 12 Jul 2026.
 
-Forum Station is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including ASHTATTZ. Browse upcoming dates, start times and who's playing. Avenida del Litoral, 08019 Forum BARCELONA.
+Forum Station is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Avenida del Litoral, 08019 Forum BARCELONA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | ARAB PRIDE 2026 - PRIDE بالعربي hosted by Salma Zahore with TAKHNIS | ASHTATTZ |
 | Sun, 12 Jul 2026 | Egoless Showcase at Forum Station - OPEN AIR |  |
 | Sun, 19 Jul 2026 | UNÍSONO |  |
 
@@ -16,4 +15,4 @@ Forum Station is a music venue in Barcelona listed on soundcheck. 3 upcoming nig
 
 Avenida del Litoral, 08019 Forum BARCELONA, Barcelona
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/forum-station/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/forum-station/)*

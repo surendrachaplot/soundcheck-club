@@ -1,20 +1,20 @@
 # dustBunny
 
-dustBunny is a Club and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Le Belmont, Montreal on Fri, 10 Jul 2026.
+dustBunny is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Montreal on Sat, 18 Jul 2026.
 
-dustBunny is a club and experimental artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, London, Montreal and Strasbourg. Often billed alongside Jamvvis, 16:9 ratio and CAAMEELIAAAAA. Next up: Le Belmont, Montreal on Fri 10 Jul.
+dustBunny is a club and experimental artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, London, Montreal and Strasbourg. Often billed alongside Jamvvis, 16:9 ratio and CAAMEELIAAAAA. Next up: TBA, Montreal on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Le Belmont | Montreal |
 | Sat, 18 Jul 2026 | TBA | Montreal |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Wed, 26 Aug 2026 | Esplanade Tranquille | Montreal |
 
 ## Recently played
 
+- Le Belmont, Montreal — Fri, 10 Jul 2026
 - Piranha Bar, Montreal — Fri, 26 Jun 2026
 - Algha's Plantroom, London — Sat, 16 May 2026
 - Karmen Camina, Strasbourg — Thu, 23 Apr 2026
@@ -22,10 +22,9 @@ dustBunny is a club and experimental artist based in Canada, tracked on soundche
 - Espace Morphoze, Montreal — Sun, 8 Feb 2026
 - La Toscadura, Montreal — Fri, 5 Dec 2025
 - Complexe Sky, Montreal — Fri, 21 Nov 2025
-- Barbossa, Montreal — Thu, 30 Oct 2025
 
 ## Shares bills with
 
 Jamvvis, 16:9 ratio, CAAMEELIAAAAA
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustbunny/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustbunny/)*

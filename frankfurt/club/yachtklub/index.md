@@ -1,6 +1,6 @@
 # Yachtklub
 
-Yachtklub is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "NSB code Festival" on Sat, 25 Jul 2026.
+Yachtklub is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "NSB code Festival" on Sat, 25 Jul 2026.
 
 Yachtklub is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including DUDUNIA and Viktoriia Merlan. Browse upcoming dates, start times and who's playing. Sachsenhäuser Ufer, 60594 Frankfurt am Main, Germany.
 
@@ -14,4 +14,4 @@ Yachtklub is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, 
 
 Sachsenhäuser Ufer, 60594 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/yachtklub/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/yachtklub/)*

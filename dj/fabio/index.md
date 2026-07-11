@@ -1,14 +1,13 @@
 # Fabio
 
-Fabio is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
+Fabio is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at fabric, London on Fri, 24 Jul 2026.
 
-Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Bali, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Grooverider, Lenzman and MC GQ. Next up: Moseley Park, Birmingham on Fri 10 Jul.
+Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets logged across Bali, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Grooverider, Lenzman and MC GQ. Next up: fabric, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Moseley Park | Birmingham |
 | Fri, 24 Jul 2026 | fabric | London |
 | Sat, 8 Aug 2026 | The Prospect Building | Bristol |
 | Fri, 14 Aug 2026 | The Fox and Firkin | London |
@@ -18,6 +17,7 @@ Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets lo
 
 ## Recently played
 
+- Moseley Park, Birmingham — Fri, 10 Jul 2026
 - The Cause, London — Sun, 14 Jun 2026
 - Grelle Forelle, Vienna — Fri, 12 Jun 2026
 - Night Tales Loft, London — Fri, 5 Jun 2026
@@ -25,10 +25,9 @@ Fabio is a drum & bass and jungle artist tracked on soundcheck, with 102 sets lo
 - Phonox, London — Sat, 2 May 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 24 Apr 2026
 - Volks, Brighton — Sat, 18 Apr 2026
-- Runnymede Hall, Toronto — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Grooverider, Lenzman, MC GQ
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*

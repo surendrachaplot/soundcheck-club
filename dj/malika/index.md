@@ -1,6 +1,6 @@
 # Malika
 
-Malika is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
+Malika is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 Malika is a house and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: Pikes Ibiza, Ibiza on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Malika is a house and techno artist tracked on soundcheck, with 43 sets logged a
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

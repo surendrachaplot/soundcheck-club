@@ -1,6 +1,6 @@
 # djvonnebenan
 
-djvonnebenan is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at frachtkante, Berlin on Sat, 11 Jul 2026.
+djvonnebenan is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at frachtkante, Berlin on Sat, 11 Jul 2026.
 
 djvonnebenan is a trance and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin and Leipzig. Often billed alongside DJ Thai Take Away, Maschérie and Femme Fatale. Next up: frachtkante, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ djvonnebenan is a trance and techno artist based in Germany, tracked on soundche
 
 DJ Thai Take Away, Maschérie, Femme Fatale
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvonnebenan/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvonnebenan/)*

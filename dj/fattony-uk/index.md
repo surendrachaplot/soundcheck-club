@@ -1,6 +1,6 @@
 # Fat Tony
 
-Fat Tony is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - The Irish Beach Sant Antoni, Ibiza on Sun, 12 Jul 2026.
+Fat Tony is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - The Irish Beach Sant Antoni, Ibiza on Sun, 12 Jul 2026.
 
 Fat Tony is a house and disco artist tracked on soundcheck, with 64 sets logged across Amsterdam, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside Princess Julia, Pj Gardner and Mark-Ashley Dupé. Next up: TBA - The Irish Beach Sant Antoni, Ibiza on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ Fat Tony is a house and disco artist tracked on soundcheck, with 64 sets logged 
 
 Princess Julia, Pj Gardner, Mark-Ashley Dupé
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony-uk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony-uk/)*

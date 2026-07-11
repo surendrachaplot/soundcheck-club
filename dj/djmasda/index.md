@@ -1,6 +1,6 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 11 Jul 2026.
+DJ Masda is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 11 Jul 2026.
 
 DJ Masda is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 45 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Tokonoma Club, Frankfurt on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ DJ Masda is a techno and house artist tracked on soundcheck, with 196 sets logge
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

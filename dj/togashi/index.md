@@ -1,6 +1,6 @@
 # TOGASHI
 
-TOGASHI is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at V2 Tokyo, Tokyo on Thu, 16 Jul 2026.
+TOGASHI is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at V2 Tokyo, Tokyo on Thu, 16 Jul 2026.
 
 TOGASHI is a techno and electro artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside KENTARO, DJ NECO and Shingo Nakamura. Next up: V2 Tokyo, Tokyo on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ TOGASHI is a techno and electro artist based in Japan, tracked on soundcheck, wi
 
 KENTARO, DJ NECO, Shingo Nakamura
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/togashi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/togashi/)*

@@ -1,6 +1,6 @@
 # Cupula Rec. meets RRR at La Terrrazza
 
-Cupula Rec. meets RRR at La Terrrazza on Fri 17 Jul, Barcelona. 4 acts on the bill: Adria (ES), Katia Curie, Nizar Sarakbi and Pau Rosés. House and Electronica. Preview the line-up and save it on soundcheck.
+Cupula Rec. meets RRR at La Terrrazza on Fri 17 Jul, Barcelona. 5 acts on the bill: Adria (ES), Katia Curie, Nizar Sarakbi and Pau Rosés and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Cupula Rec. meets RRR at La Terrrazza on Fri 17 Jul, Barcelona. 4 acts on the bi
 - Katia Curie
 - Nizar Sarakbi
 - Pau Rosés
+- Torrent
 
 *Source: [soundcheck](https://soundcheck.club/e/2465179-cupula-rec-meets-rrr-at-la-terrrazza/)*

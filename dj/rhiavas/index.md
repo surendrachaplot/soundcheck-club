@@ -1,6 +1,6 @@
 # Rhiavas
 
-Rhiavas is a Afro House and Afrobeats artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at XOYO, London on Sat, 11 Jul 2026.
+Rhiavas is a Afro House and Afrobeats artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at XOYO, London on Sat, 11 Jul 2026.
 
 Rhiavas is an afro house and afrobeats artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside DRIA, FLORA THA EXPLORA and Duo. Next up: XOYO, London on Sat 11 Jul.
 
@@ -24,4 +24,4 @@ Rhiavas is an afro house and afrobeats artist based in United Kingdom, tracked o
 
 DRIA, FLORA THA EXPLORA, Duo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

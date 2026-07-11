@@ -1,6 +1,6 @@
 # Hypnotic Black Magic
 
-Hypnotic Black Magic is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OXI, Berlin on Thu, 16 Jul 2026.
+Hypnotic Black Magic is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OXI, Berlin on Thu, 16 Jul 2026.
 
 Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Bangkok and 20 more. Often billed alongside Luis FMR, Andrea Cossu and Lateral Movement. Next up: OXI, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 
 
 Luis FMR, Andrea Cossu, Lateral Movement
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*

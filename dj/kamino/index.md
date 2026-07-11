@@ -1,14 +1,14 @@
 # Kamino
 
-Kamino is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Riverside East, London on Sat, 11 Jul 2026.
+Kamino is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Freight Brixton, London on Sat, 11 Jul 2026.
 
-Kamino is a tech house and house artist tracked on soundcheck, with 29 sets logged across Austin, Boston, Chicago and Denver and 9 more. Often billed alongside Cassian, Azzecca and Dyslecta. Next up: Riverside East, London on Sat 11 Jul.
+Kamino is a tech house and house artist tracked on soundcheck, with 29 sets logged across Austin, Boston, Chicago and Denver and 9 more. Often billed alongside Cassian, Azzecca and Dyslecta. Next up: Freight Brixton, London on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Riverside East | London |
+| Sat, 11 Jul 2026 | Freight Brixton | London |
 | Sat, 18 Jul 2026 | Night We Met | Nashville |
 | Sat, 19 Sept 2026 | The Concourse Project | Austin |
 
@@ -27,4 +27,4 @@ Kamino is a tech house and house artist tracked on soundcheck, with 29 sets logg
 
 Cassian, Azzecca, Dyslecta
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamino/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamino/)*

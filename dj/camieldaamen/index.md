@@ -1,6 +1,6 @@
 # Camiel Daamen
 
-Camiel Daamen is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA -  SECRET LOCATION , Valencia on Sat, 11 Jul 2026.
+Camiel Daamen is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA -  SECRET LOCATION , Valencia on Sat, 11 Jul 2026.
 
 Camiel Daamen is a house and tech house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Ibiza and Valencia. Often billed alongside Caballeri, Pau Pérez and 4Pleasure. Next up: TBA -  SECRET LOCATION , Valencia on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Camiel Daamen is a house and tech house artist based in Netherlands, tracked on 
 
 Caballeri, Pau Pérez, 4Pleasure
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camieldaamen/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camieldaamen/)*

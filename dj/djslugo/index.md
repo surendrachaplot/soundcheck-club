@@ -1,6 +1,6 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jackson Park, Chicago on Sat, 11 Jul 2026.
+DJ Slugo is a Ghetto Tech and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jackson Park, Chicago on Sat, 11 Jul 2026.
 
 DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Boston, Chicago and Detroit and 10 more. Often billed alongside Traxman, DJ Clent and DJ PHATS. Next up: Jackson Park, Chicago on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 65 sets l
 
 Traxman, DJ Clent, DJ PHATS
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

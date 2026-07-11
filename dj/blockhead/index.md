@@ -1,6 +1,6 @@
 # Blockhead
 
-Blockhead is a Hip-Hop and Downtempo artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Revolution, Tbilisi on Wed, 9 Sept 2026.
+Blockhead is a Hip-Hop and Downtempo artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Revolution, Tbilisi on Wed, 9 Sept 2026.
 
 Blockhead is a hip-hop and downtempo artist tracked on soundcheck, with 13 sets logged across Amsterdam, Austin, Berlin and Hamburg and 7 more. Often billed alongside Eliot Lipp, Teebs and Break Science. Next up: TBA - Revolution, Tbilisi on Wed 9 Sept.
 
@@ -29,4 +29,4 @@ Blockhead is a hip-hop and downtempo artist tracked on soundcheck, with 13 sets 
 
 Eliot Lipp, Teebs, Break Science
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blockhead/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blockhead/)*

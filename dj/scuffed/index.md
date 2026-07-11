@@ -1,6 +1,6 @@
 # Scuffed
 
-Scuffed is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at fabric, London on Fri, 24 Jul 2026.
+Scuffed is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at fabric, London on Fri, 24 Jul 2026.
 
 Scuffed is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside Aries, Deanie Rankin and Benny Page. Next up: fabric, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Scuffed is a drum & bass and jungle artist tracked on soundcheck, with 42 sets l
 
 Aries, Deanie Rankin, Benny Page
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scuffed/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scuffed/)*

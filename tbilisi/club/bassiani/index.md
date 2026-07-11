@@ -1,14 +1,13 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Invited by Residents" on Fri, 10 Jul 2026.
+Bassiani is a music venue in Tbilisi with 15 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Horoom – Sat, 11.07.2026" on Sat, 11 Jul 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 13 upcoming nights, with line-ups including 2ciu, 98dots, Altinbas and Bekuchi and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 15 upcoming nights, with line-ups including 2ciu, 98dots, K.pal and Anthony Linell and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Invited by Residents | Altinbas, Caim, Carlos Valdes, Dito, Franziska Berns, Hamatsuki, Kameliia, Kancheli, Katra, Kvanchi, Ndrx, Newa, Rorschack, Sophie Phare, Tal Fussman, Valley Dolly, Zitto, nd_baumecker, no service, skyra |
 | Sat, 11 Jul 2026 | Horoom – Sat, 11.07.2026 | Boyá, Dr. Long, Eli Verveine |
 | Fri, 17 Jul 2026 | Horoom – Fri, 17.07.2026 | Bekuchi, Courtesy, Mancho, Reshio |
 | Sat, 18 Jul 2026 | Horoom – Fri, 18.07.2026 | .VRIL, HVL, Third soul, ninasupsa |
@@ -18,9 +17,10 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 13 upcoming nights, w
 | Sat, 1 Aug 2026 | Hydrash: 2ciu, edge, Kdema, Mesh | 2ciu, Edge (GE) |
 | Fri, 7 Aug 2026 | Horoom – Fri, 07.08.2026 | BMI (GE), Dito, Identified Patient, Kraumur, Kvanchi |
 | Sat, 8 Aug 2026 | Horoom – Sat, 08.08.2026 | Kancheli, Ndrx, Newa, Zitto |
+| Fri, 14 Aug 2026 | Horoom – Fri, 14.08.2026 | Deetron, HVL, Zenker Brothers, skyra |
 
 ## Address
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

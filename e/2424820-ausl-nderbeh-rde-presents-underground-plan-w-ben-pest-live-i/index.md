@@ -1,6 +1,6 @@
-# Ausländerbehörde presents: UNDERGROUND PLAN w/ Ben Pest (Live), Ixindamix, Sarah Ka and more at Humboldthain Club
+# Ausländerbehörde presents: UNDERGROUND PLAN w/ Ben Pest (Live), Ixindamix (Live), and many more at Humboldthain Club
 
-Ausländerbehörde presents: UNDERGROUND PLAN w/ Ben Pest (Live), Ixindamix, Sarah Ka and more at Humboldthain Club on Sat 11 Jul, Berlin. 6 acts on the bill: Ben Pest, DJ Regret, Ixindamix and JEDRANALINE and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ausländerbehörde presents: UNDERGROUND PLAN w/ Ben Pest (Live), Ixindamix (Live), and many more at Humboldthain Club on Sat 11 Jul, Berlin. 6 acts on the bill: Ben Pest, DJ Regret, Ixindamix and JEDRANALINE and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Omer Tayar
 
-Omer Tayar is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
+Omer Tayar is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
 
-Omer Tayar is a house and deep house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Beard2Beard, Landikhan and Henrik Schwarz. Next up: Cova Santa, Ibiza on Fri 17 Jul.
+Omer Tayar is a house and deep house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Beard2Beard, Landikhan and Words of Niō. Next up: Cova Santa, Ibiza on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Cova Santa | Ibiza |
+| Fri, 31 Jul 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sun, 23 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Beachouse | Ibiza |
 
@@ -25,6 +26,6 @@ Omer Tayar is a house and deep house artist tracked on soundcheck, with 42 sets 
 
 ## Shares bills with
 
-Beard2Beard, Landikhan, Henrik Schwarz
+Beard2Beard, Landikhan, Words of Niō
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omertayar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omertayar/)*

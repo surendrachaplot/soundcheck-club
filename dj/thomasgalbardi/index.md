@@ -1,6 +1,6 @@
 # Thomas Galbardi
 
-Thomas Galbardi is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Union Club, Vauxhall, London on Sun, 12 Jul 2026.
+Thomas Galbardi is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Union Club, Vauxhall, London on Sun, 12 Jul 2026.
 
 Thomas Galbardi is a techno and tech house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Barcelona, Lisbon and London and 2 more. Often billed alongside Diana Loredana, Dhez and VeselinPetroff. Next up: Union Club, Vauxhall, London on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Thomas Galbardi is a techno and tech house artist tracked on soundcheck, with 27
 
 Diana Loredana, Dhez, VeselinPetroff
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgalbardi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgalbardi/)*

@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "I LOVE DNB: Jumpin' Jack Frost + Ray Keith" on Sat, 11 Jul 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "I LOVE DNB: Jumpin' Jack Frost + Ray Keith" on Sat, 11 Jul 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 13 upcoming nights, with line-ups including AC13, Alan Fitzpatrick, Amir Javasoul and Anastasia Giovani and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 13 upcomi
 | Sat, 22 Aug 2026 | RE/FORM presents Trip To Galaxy: Joris Voorn, LUIS MIRANDA, & Materielle | Joris Voorn, LUIS MIRANDA, Materielle |
 | Sat, 22 Aug 2026 | I LOVE DNB: Voltage + AC13 | AC13, Voltage |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

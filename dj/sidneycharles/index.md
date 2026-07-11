@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Sidney Charles is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
 Sidney Charles is a house and tech house artist tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 38 more. Often billed alongside Prunk, ALISHA and East End Dubs. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 200 
 
 Prunk, ALISHA, East End Dubs
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

@@ -1,17 +1,17 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Groove with Steven Shade (Berlin) & Vektra (Hamburg)" on Fri, 10 Jul 2026.
+Baalsaal is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "NONCHALANT #2 (Read Description)" on Fri, 24 Jul 2026.
 
-Baalsaal is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including Eva Nyx, ROOB, Steven Shade and Vektra. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
+Baalsaal is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including ROOB and Steven Shade. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Groove with Steven Shade (Berlin) & Vektra (Hamburg) | Eva Nyx, Steven Shade, Vektra |
 | Fri, 24 Jul 2026 | NONCHALANT #2 (Read Description) |  |
 | Sat, 1 Aug 2026 | Move to Groove |  |
 | Fri, 14 Aug 2026 | Groove | Steven Shade |
+| Fri, 21 Aug 2026 | SENZA NOME |  |
 | Sat, 29 Aug 2026 | BLOCKED |  |
 | Fri, 18 Sept 2026 | Groove | Steven Shade |
 | Fri, 25 Sept 2026 | GR:IT |  |
@@ -21,4 +21,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, wi
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

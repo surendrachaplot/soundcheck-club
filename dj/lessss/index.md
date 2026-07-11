@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
+LESSSS is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
 
 LESSSS is a techno and hardcore artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Azyr, Basswell and Charlie Sparks. Next up: MTW, Frankfurt on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ LESSSS is a techno and hardcore artist tracked on soundcheck, with 156 sets logg
 
 Azyr, Basswell, Charlie Sparks
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

@@ -1,6 +1,6 @@
 # gum.mp3
 
-gum.mp3 is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ZeyZey, Miami on Sat, 18 Jul 2026.
+gum.mp3 is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at ZeyZey, Miami on Sat, 18 Jul 2026.
 
 gum.mp3 is a house and garage artist based in United States of America, tracked on soundcheck, with 70 sets logged across Austin, Boston, Chicago and Detroit and 12 more. Often billed alongside Swami Sound, Dazegxd and EDEN BEKELE. Next up: ZeyZey, Miami on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ gum.mp3 is a house and garage artist based in United States of America, tracked 
 
 Swami Sound, Dazegxd, EDEN BEKELE
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*

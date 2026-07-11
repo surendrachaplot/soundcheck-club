@@ -1,6 +1,6 @@
 # L3Ni
 
-L3Ni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Onyx Room at House of Yes, New York City on Sat, 18 Jul 2026.
+L3Ni is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Onyx Room at House of Yes, New York City on Sat, 18 Jul 2026.
 
 L3Ni is a house and disco artist tracked on soundcheck, with 52 sets logged across Chicago, Denver, Detroit and Ibiza and 5 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: The Onyx Room at House of Yes, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ L3Ni is a house and disco artist tracked on soundcheck, with 52 sets logged acro
 
 Natasha Diggs, Donis, Melvo Baptiste
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

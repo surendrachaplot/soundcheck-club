@@ -1,6 +1,6 @@
-# ✦✦encore.une.fois✦✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN at OXI
+# ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN at OXI
 
-✦✦encore.une.fois✦✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN at OXI on Tue 21 Jul, Berlin. 4 acts on the bill: Encanto, Inverse Element, Ruslan Mays and Stephanie Sykes. Techno. Preview the line-up and save it on soundcheck.
+✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN at OXI on Tue 21 Jul, Berlin. 4 acts on the bill: Encanto, Inverse Element, Ruslan Mays and Stephanie Sykes. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

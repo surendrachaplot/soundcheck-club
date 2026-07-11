@@ -1,8 +1,8 @@
 # MËSTIZA
 
-MËSTIZA is a Afro House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Santanna Mykonos, Mykonos on Sat, 11 Jul 2026.
+MËSTIZA is a Afro House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Santanna Mykonos, Mykonos on Sat, 11 Jul 2026.
 
-MËSTIZA is an afro house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Santanna Mykonos, Mykonos on Sat 11 Jul.
+MËSTIZA is an afro house and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Santanna Mykonos, Mykonos on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MËSTIZA is an afro house and techno artist tracked on soundcheck, with 109 sets
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Santanna Mykonos | Mykonos |
 | Sat, 18 Jul 2026 | Café del Mar Malta | Malta |
+| Sun, 19 Jul 2026 | Fitz Mallorca | Mallorca |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Creekside - Under The K Bridge | New York City |
@@ -32,4 +33,4 @@ MËSTIZA is an afro house and techno artist tracked on soundcheck, with 109 sets
 
 Pomboklap, Indira Paganotto, Mrgoodalf
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*

@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "REVOLT+FREEZONE" on Sat, 11 Jul 2026.
+Bonobo is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "REVOLT+FREEZONE" on Sat, 11 Jul 2026.
 
 Bonobo is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including eijin, Frankie $, HIZAT and illequal and 2 more. Browse upcoming dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -16,4 +16,4 @@ Bonobo is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with l
 
 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*

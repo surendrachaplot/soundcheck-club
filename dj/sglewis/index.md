@@ -1,14 +1,13 @@
 # SG Lewis
 
-SG Lewis is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 10 Jul 2026.
+SG Lewis is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at [UNVRS], Ibiza on Sat, 25 Jul 2026.
 
-SG Lewis is a house and disco artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Eliza Rose and Deetron. Next up: Level 1 @ Cannonball Arts, Seattle on Fri 10 Jul.
+SG Lewis is a house and disco artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Gorgon City, Eliza Rose and Deetron. Next up: [UNVRS], Ibiza on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Sat, 25 Jul 2026 | [UNVRS] | Ibiza |
 | Sat, 8 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Knockdown Center | New York City |
@@ -19,6 +18,7 @@ SG Lewis is a house and disco artist tracked on soundcheck, with 78 sets logged 
 
 ## Recently played
 
+- Level 1 @ Cannonball Arts, Seattle — Fri, 10 Jul 2026
 - The Church Nightclub, Denver — Fri, 19 Jun 2026
 - Castaways, Chicago — Fri, 12 Jun 2026
 - [UNVRS], Ibiza — Mon, 8 Jun 2026
@@ -26,10 +26,9 @@ SG Lewis is a house and disco artist tracked on soundcheck, with 78 sets logged 
 - Pacha Ibiza, Ibiza — Wed, 27 May 2026
 - Studio Club Malaga, Malaga — Sat, 23 May 2026
 - Shelter Amsterdam, Amsterdam — Fri, 8 May 2026
-- Nitsa Club, Barcelona — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Gorgon City, Eliza Rose, Deetron
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

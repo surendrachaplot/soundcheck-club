@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 11 Jul 2026.
+Mike Servito is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 11 Jul 2026.
 
 Mike Servito is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Shaun J. Wright, Erika and Bryan Kasenic. Next up: TBA - Downtown LA, Losangeles on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Mike Servito is a house and techno artist tracked on soundcheck, with 271 sets l
 
 Shaun J. Wright, Erika, Bryan Kasenic
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

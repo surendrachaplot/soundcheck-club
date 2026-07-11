@@ -1,6 +1,6 @@
 # The Barge
 
-The Barge is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "ARCLINE_002 - The Barge 360°" on Sat, 15 Aug 2026.
+The Barge is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "ARCLINE_002 - The Barge 360°" on Sat, 15 Aug 2026.
 
 The Barge is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including Casual, CLERK., DJ Crispy and GUZZ. and 2 more. Browse upcoming dates, start times and who's playing. Lanyon Quay; Belfast County; Antrim BT1 3LG.
 
@@ -14,4 +14,4 @@ The Barge is a music venue in Belfast listed on soundcheck. 1 upcoming night, wi
 
 Lanyon Quay; Belfast County; Antrim BT1 3LG, Belfast
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-barge/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-barge/)*

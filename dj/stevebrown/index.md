@@ -1,6 +1,6 @@
 # Steve Brown
 
-Steve Brown is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Egg London, London on Sat, 11 Jul 2026.
+Steve Brown is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Egg London, London on Sat, 11 Jul 2026.
 
 Steve Brown is a house and tech house artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside BOA (1), NouchKat and Chérie. Next up: Egg London, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Steve Brown is a house and tech house artist tracked on soundcheck, with 13 sets
 
 BOA (1), NouchKat, Chérie
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebrown/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebrown/)*

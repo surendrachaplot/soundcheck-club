@@ -1,6 +1,6 @@
 # Char.l.n
 
-Char.l.n is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Blue Room, Montreal on Sat, 11 Jul 2026.
+Char.l.n is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Blue Room, Montreal on Sat, 11 Jul 2026.
 
 Char.l.n is a techno and house artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside ALEX REV, Special K (CA) and Xaviera. Next up: Blue Room, Montreal on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Char.l.n is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 ALEX REV, Special K (CA), Xaviera
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*

@@ -1,14 +1,14 @@
 # aláya
 
-aláya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
+aláya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Prague on Sat, 11 Jul 2026.
 
-aláya is a techno and house artist based in Czech Republic, tracked on soundcheck, with 40 sets logged across Prague. Often billed alongside Pink Concrete, Adamatron and Yan (CZ). Next up: Koupaliště Džbán, Prague on Sat 11 Jul.
+aláya is a techno and house artist based in Czech Republic, tracked on soundcheck, with 40 sets logged across Prague. Often billed alongside Pink Concrete, Adamatron and Yan (CZ). Next up: TBA, Prague on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Koupaliště Džbán | Prague |
+| Sat, 11 Jul 2026 | TBA | Prague |
 | Sat, 18 Jul 2026 | Fuchs2 | Prague |
 | Sat, 1 Aug 2026 | TBA - Holešovice | Prague |
 
@@ -27,4 +27,4 @@ aláya is a techno and house artist based in Czech Republic, tracked on soundche
 
 Pink Concrete, Adamatron, Yan (CZ)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alaya-cz/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alaya-cz/)*

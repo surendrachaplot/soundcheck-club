@@ -1,14 +1,13 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lincoln Factory, Detroit on Fri, 10 Jul 2026.
+Ariel Zetina is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Nowadays, New York City on Sat, 11 Jul 2026.
 
-Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: Lincoln Factory, Detroit on Fri 10 Jul.
+Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: Nowadays, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Lincoln Factory | Detroit |
 | Sat, 11 Jul 2026 | Nowadays | New York City |
 | Sat, 18 Jul 2026 | smartbar | Chicago |
 | Sun, 19 Jul 2026 | Radius | Chicago |
@@ -17,6 +16,7 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets l
 
 ## Recently played
 
+- Lincoln Factory, Detroit — Fri, 10 Jul 2026
 - Chicago Eagle, Chicago — Fri, 3 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
 - Smoke & Mirrors, Chicago — Sat, 20 Jun 2026
@@ -24,10 +24,9 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets l
 - TBA - Downtown, Los Angeles — Sat, 13 Jun 2026
 - TBA - Skyport Marina, 2430 FDR Drive (at 23rd Street & East River), NYC., New York City — Sun, 7 Jun 2026
 - smartbar, Chicago — Fri, 5 Jun 2026
-- Signal, New York City — Fri, 8 May 2026
 
 ## Shares bills with
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

@@ -1,6 +1,6 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
+SEEPS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
 
 SEEPS is a house and deep house artist tracked on soundcheck, with 60 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: TBA - 2346 Porter Street, Los Angeles, CA 90021, Losangeles on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ SEEPS is a house and deep house artist tracked on soundcheck, with 60 sets logge
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

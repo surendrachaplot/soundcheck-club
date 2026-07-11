@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Mexico City on Sun, 12 Jul 2026.
+Coco Maria is a House and Jazz artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Mexico City on Sun, 12 Jul 2026.
 
 Coco Maria is a house and jazz artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: TBA, Mexicocity on Sun 12 Jul.
 
@@ -30,4 +30,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 117 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

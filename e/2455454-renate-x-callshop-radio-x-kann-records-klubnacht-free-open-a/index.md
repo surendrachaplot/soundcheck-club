@@ -1,6 +1,6 @@
 # Renate x Callshop Radio x KANN Records (Klubnacht + Free Open Air) at Renate
 
-Renate x Callshop Radio x KANN Records (Klubnacht + Free Open Air) on Sat 11 Jul, Berlin. 11 acts on the bill: Aino DJ, Bloom, Blush and HAL and 7 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Renate x Callshop Radio x KANN Records (Klubnacht + Free Open Air) on Sat 11 Jul, Berlin. 12 acts on the bill: Aino DJ, Ben Jacov, Bloom and Blush and 8 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Renate x Callshop Radio x KANN Records (Klubnacht + Free Open Air) on Sat 11 Jul
 ## Line-up
 
 - Aino DJ
+- Ben Jacov
 - Bloom
 - Blush
 - HAL

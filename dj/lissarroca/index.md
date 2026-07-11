@@ -1,6 +1,6 @@
 # Lis Sarroca
 
-Lis Sarroca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
+Lis Sarroca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 Lis Sarroca is a house and techno artist tracked on soundcheck, with 92 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 17 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Pikes Ibiza, Ibiza on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Lis Sarroca is a house and techno artist tracked on soundcheck, with 92 sets log
 
 Mari.te, Vince Void, Mejia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*

@@ -1,6 +1,6 @@
 # Patrick Holland
 
-Patrick Holland is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
+Patrick Holland is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Bentway, Toronto on Sat, 15 Aug 2026.
 
 Patrick Holland is a house and techno artist based in Canada, tracked on soundcheck, with 41 sets logged across Austin, Berlin, Brisbane and Brussels and 10 more. Often billed alongside Priori, Jump Source and DJ D.Dee. Next up: The Bentway, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Patrick Holland is a house and techno artist based in Canada, tracked on soundch
 
 Priori, Jump Source, DJ D.Dee
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickholland/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickholland/)*

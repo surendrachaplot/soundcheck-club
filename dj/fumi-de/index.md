@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Odonien, Cologne on Fri, 24 Jul 2026.
+fumi (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Odonien, Cologne on Fri, 24 Jul 2026.
 
 fumi (DE) is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Odonien, Cologne on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ fumi (DE) is a techno and trance artist tracked on soundcheck, with 130 sets log
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

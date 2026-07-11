@@ -1,6 +1,6 @@
 # TONS
 
-TONS is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Marina Sur, Valencia on Sat, 11 Jul 2026.
+TONS is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Marina Sur, Valencia on Sat, 11 Jul 2026.
 
 TONS is a tech house and house artist based in Venezuela, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Barcelona and Boston and 15 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: Marina Sur, Valencia on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ TONS is a tech house and house artist based in Venezuela, tracked on soundcheck,
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

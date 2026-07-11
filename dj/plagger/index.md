@@ -1,6 +1,6 @@
 # Plagger
 
-Plagger is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at IT Athens, Athens on Sat, 11 Jul 2026.
+Plagger is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at IT Athens, Athens on Sat, 11 Jul 2026.
 
 Plagger is an acid and techno artist tracked on soundcheck, with 143 sets logged across Athens and Berlin. Often billed alongside TYPEO (3), MOSHBEAT and Human Cruelty. Next up: IT Athens, Athens on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Plagger is an acid and techno artist tracked on soundcheck, with 143 sets logged
 
 TYPEO (3), MOSHBEAT, Human Cruelty
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plagger/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plagger/)*

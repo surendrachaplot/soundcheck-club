@@ -1,6 +1,6 @@
 # Nina Yamada
 
-Nina Yamada is a House and Jazz artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrica, Brighton on Sat, 11 Jul 2026.
+Nina Yamada is a House and Jazz artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrica, Brighton on Sat, 11 Jul 2026.
 
 Nina Yamada is a house and jazz artist tracked on soundcheck, with 56 sets logged across Bangkok, Berlin, Birmingham and Brighton and 7 more. Often billed alongside Tonydot, Ozwick and Joi La Frique. Next up: Fabrica, Brighton on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Nina Yamada is a house and jazz artist tracked on soundcheck, with 56 sets logge
 
 Tonydot, Ozwick, Joi La Frique
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*

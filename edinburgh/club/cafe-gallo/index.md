@@ -1,6 +1,6 @@
 # Cafe Gallo
 
-Cafe Gallo is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "CADENCE x CAFE GALLO SUMMER SERIES VOL.2" on Sat, 11 Jul 2026.
+Cafe Gallo is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "CADENCE x CAFE GALLO SUMMER SERIES VOL.2" on Sat, 11 Jul 2026.
 
 Cafe Gallo is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 96 Raeburn Place, Edinburgh, EH4 1HH, Scotland.
 
@@ -14,4 +14,4 @@ Cafe Gallo is a music venue in Edinburgh listed on soundcheck. 1 upcoming night.
 
 96 Raeburn Place, Edinburgh, EH4 1HH, Scotland, Edinburgh
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cafe-gallo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cafe-gallo/)*

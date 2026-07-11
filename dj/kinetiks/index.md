@@ -1,6 +1,6 @@
 # KINETIKS
 
-KINETIKS is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Flash, Washington DC on Thu, 16 Jul 2026.
+KINETIKS is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Flash, Washington DC on Thu, 16 Jul 2026.
 
 KINETIKS is a house and disco artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht and 1 more. Often billed alongside AUTOFLOWER, Kara Okay and Lisa Korver. Next up: Flash, Washingtondc on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ KINETIKS is a house and disco artist based in Netherlands, tracked on soundcheck
 
 AUTOFLOWER, Kara Okay, Lisa Korver
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetiks/)*

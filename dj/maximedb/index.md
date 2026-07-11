@@ -1,6 +1,6 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 11 Jul 2026.
+Maxime dB is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 11 Jul 2026.
 
 Maxime dB is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Rumore Nightclub Capri, Naples on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Maxime dB is a house and techno artist tracked on soundcheck, with 116 sets logg
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

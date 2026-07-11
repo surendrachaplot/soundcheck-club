@@ -1,6 +1,6 @@
 # Robin Flux
 
-Robin Flux is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ÆDEN, Berlin on Sat, 11 Jul 2026.
+Robin Flux is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at ÆDEN, Berlin on Sat, 11 Jul 2026.
 
 Robin Flux is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Berlin, Cologne, Copenhagen and Detroit and 8 more. Often billed alongside DJ LoveCatt, Mari to the future and Ady Toledano. Next up: ÆDEN, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Robin Flux is a house and techno artist based in Germany, tracked on soundcheck,
 
 DJ LoveCatt, Mari to the future, Ady Toledano
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*

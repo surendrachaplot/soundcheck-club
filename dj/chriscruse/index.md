@@ -1,6 +1,6 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Qncc, New York City on Sat, 11 Jul 2026.
+Chris Cruse is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Qncc, New York City on Sat, 11 Jul 2026.
 
 Chris Cruse is a house and techno artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Austin and Bali and 26 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Roi Perez. Next up: Qncc, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Chris Cruse is a house and techno artist based in United States of America, trac
 
 Luigi Di Venere, Massimiliano Pagliara, Roi Perez
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*

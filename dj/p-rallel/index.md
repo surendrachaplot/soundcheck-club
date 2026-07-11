@@ -1,6 +1,6 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
+p-rallel is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
 
 p-rallel is a garage and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Dr Dubplate, Special Request and Casnova. Next up: LDN East, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ p-rallel is a garage and house artist tracked on soundcheck, with 79 sets logged
 
 Dr Dubplate, Special Request, Casnova
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*

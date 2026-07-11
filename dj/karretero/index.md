@@ -1,6 +1,6 @@
 # Karretero
 
-Karretero is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at [UNVRS], Ibiza on Sun, 12 Jul 2026.
+Karretero is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at [UNVRS], Ibiza on Sun, 12 Jul 2026.
 
 Karretero is a tech house and techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 2 more. Often billed alongside Chelina Manuhutu, Joseph Capriati and Vitrie Vitoli. Next up: [UNVRS], Ibiza on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Karretero is a tech house and techno artist based in Spain, tracked on soundchec
 
 Chelina Manuhutu, Joseph Capriati, Vitrie Vitoli
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*

@@ -1,6 +1,6 @@
 # Exhibition Park
 
-Exhibition Park is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Lost Minds Festival" on Sat, 11 Jul 2026.
+Exhibition Park is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Lost Minds Festival" on Sat, 11 Jul 2026.
 
 Exhibition Park is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with line-ups including Alex Kidd, Angerfist, Argy and Billy Gillies and 2 more. Browse upcoming dates, start times and who's playing. Claremont Rd, Newcastle upon Tyne NE2 4PZ.
 
@@ -14,4 +14,4 @@ Exhibition Park is a music venue in Newcastle listed on soundcheck. 1 upcoming n
 
 Claremont Rd, Newcastle upon Tyne NE2 4PZ, Newcastle
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/exhibition-park/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/exhibition-park/)*

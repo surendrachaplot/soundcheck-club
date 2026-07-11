@@ -1,6 +1,6 @@
 # Klara Missyle
 
-Klara Missyle is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Klara Missyle is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Klara Missyle is a house and disco artist tracked on soundcheck, with 40 sets logged across Barcelona and Milan. Often billed alongside Jazz K, Ferdiyei and oddzero. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Klara Missyle is a house and disco artist tracked on soundcheck, with 40 sets lo
 
 Jazz K, Ferdiyei, oddzero
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaramissyle/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klaramissyle/)*

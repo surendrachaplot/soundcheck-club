@@ -1,6 +1,6 @@
 # Calabasa
 
-Calabasa is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Terrrazza, Barcelona on Sat, 11 Jul 2026.
+Calabasa is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Terrrazza, Barcelona on Sat, 11 Jul 2026.
 
 Calabasa is a house and minimal artist tracked on soundcheck, with 47 sets logged across Antwerp, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Foie Gras, MARYO and Moulin. Next up: La Terrrazza, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Calabasa is a house and minimal artist tracked on soundcheck, with 47 sets logge
 
 Foie Gras, MARYO, Moulin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*

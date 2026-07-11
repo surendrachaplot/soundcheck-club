@@ -1,6 +1,6 @@
 # WATARU
 
-WATARU is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Z Maruyama, Tokyo on Sun, 19 Jul 2026.
+WATARU is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Z Maruyama, Tokyo on Sun, 19 Jul 2026.
 
 WATARU is a techno and trance artist based in Japan, tracked on soundcheck, with 39 sets logged across Shanghai and Tokyo. Often billed alongside PONTA, HK. (1) and Drunken Kong. Next up: Z Maruyama, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ WATARU is a techno and trance artist based in Japan, tracked on soundcheck, with
 
 PONTA, HK. (1), Drunken Kong
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataru/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataru/)*

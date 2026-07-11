@@ -1,6 +1,6 @@
 # DMITRI ABSINTHE
 
-DMITRI ABSINTHE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at W Osaka, Osaka on Sat, 11 Jul 2026.
+DMITRI ABSINTHE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at W Osaka, Osaka on Sat, 11 Jul 2026.
 
 DMITRI ABSINTHE is a house and techno artist tracked on soundcheck, with 89 sets logged across Kyoto, Osaka and Rome. Often billed alongside MAX PELA, Nao Nomura and YUUKI YOSHIYAMA. Next up: W Osaka, Osaka on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ DMITRI ABSINTHE is a house and techno artist tracked on soundcheck, with 89 sets
 
 MAX PELA, Nao Nomura, YUUKI YOSHIYAMA
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitriabsinthe/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmitriabsinthe/)*

@@ -1,6 +1,6 @@
 # Tekk
 
-Tekk is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
+Tekk is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Museumspark Rüdersdorf, Berlin on Sat, 1 Aug 2026.
 
 Tekk is a techno and hardcore artist based in Slovakia, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside A², Techno Frühstück and Bass. Next up: Museumspark Rüdersdorf, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Tekk is a techno and hardcore artist based in Slovakia, tracked on soundcheck, w
 
 A², Techno Frühstück, Bass
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekk/)*

@@ -1,14 +1,13 @@
 # Kilopatrah Jones
 
-Kilopatrah Jones is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Fri, 10 Jul 2026.
+Kilopatrah Jones is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 24 Jul 2026.
 
-Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Nowadays, Newyorkcity on Fri 10 Jul.
+Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Dee Diggs, Mike Servito and Ron Like Hell. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Nowadays | New York City |
 | Fri, 24 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 1 Aug 2026 | Südpol | Hamburg |
 | Sun, 2 Aug 2026 | TILLATEC | Amsterdam |
@@ -20,6 +19,7 @@ Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 178 se
 
 ## Recently played
 
+- Nowadays, New York City — Fri, 10 Jul 2026
 - BASEMENT, New York City — Sat, 4 Jul 2026
 - La Station - Gare des Mines, Paris — Sat, 27 Jun 2026
 - The White Hotel, Manchester — Sat, 20 Jun 2026
@@ -27,10 +27,9 @@ Kilopatrah Jones is a house and techno artist tracked on soundcheck, with 178 se
 - Pacha New York, New York City — Sun, 14 Jun 2026
 - Psstudio, Los Angeles — Sat, 13 Jun 2026
 - Podlasie Club, Chicago — Fri, 12 Jun 2026
-- Signal, New York City — Fri, 29 May 2026
 
 ## Shares bills with
 
 Dee Diggs, Mike Servito, Ron Like Hell
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilopatrahjones/)*

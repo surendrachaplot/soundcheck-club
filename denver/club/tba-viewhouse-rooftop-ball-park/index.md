@@ -1,6 +1,6 @@
 # TBA - Viewhouse Rooftop Ball Park
 
-TBA - Viewhouse Rooftop Ball Park is a music venue in Denver with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Dirty Fancy Music / Danger Foley Sunset Takeover" on Sat, 25 Jul 2026.
+TBA - Viewhouse Rooftop Ball Park is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Dirty Fancy Music / Danger Foley Sunset Takeover" on Sat, 25 Jul 2026.
 
 TBA - Viewhouse Rooftop Ball Park is a music venue in Denver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Viewhouse Rooftop Ball Park is a music venue in Denver listed on soundchec
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Dirty Fancy Music / Danger Foley Sunset Takeover |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-viewhouse-rooftop-ball-park/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-viewhouse-rooftop-ball-park/)*

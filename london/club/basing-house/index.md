@@ -1,14 +1,13 @@
 # Basing House
 
-Basing House is a music venue in London with 22 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CHARgD" on Fri, 10 Jul 2026.
+Basing House is a music venue in London with 21 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Los De Casa" on Sat, 11 Jul 2026.
 
-Basing House is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | CHARgD | Holly Rouge, Lee De Rosa, rebrånded |
 | Sat, 11 Jul 2026 | Los De Casa | KEMADA |
 | Sat, 11 Jul 2026 | ITS A WhiteBoyCarl PARTY |  |
 | Fri, 17 Jul 2026 | Paradise Rhythm Comes To London |  |
@@ -18,9 +17,10 @@ Basing House is a music venue in London listed on soundcheck. 22 upcoming nights
 | Fri, 31 Jul 2026 | Nowhere Special | Andre Gabriel, Common Occupation |
 | Sat, 1 Aug 2026 | Certified Ravers presents : Nocturnal |  |
 | Sun, 2 Aug 2026 | Housewarming presents: Rooftop Sessions Summer Day Party | Beyond Blonde, House of Allegro |
+| Sat, 8 Aug 2026 | INFORMAL . Jungle Promoters Night | DJ Ron, IC3, Marly Marl, Micky Finn, The Ragga Twins |
 
 ## Address
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

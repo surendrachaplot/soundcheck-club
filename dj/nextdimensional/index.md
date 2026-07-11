@@ -1,6 +1,6 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at House of Yes, New York City on Sat, 11 Jul 2026.
+nextdimensional is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at House of Yes, New York City on Sat, 11 Jul 2026.
 
 nextdimensional is a techno and club artist based in United States of America, tracked on soundcheck, with 89 sets logged across Chicago, Montreal, Newyorkcity and Paris and 5 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: House of Yes, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ nextdimensional is a techno and club artist based in United States of America, t
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

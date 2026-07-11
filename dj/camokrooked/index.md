@@ -1,14 +1,13 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tägi, Zurich on Fri, 10 Jul 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
 
-Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Tägi, Zurich on Fri 10 Jul.
+Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Document, Bristol on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Tägi | Zurich |
 | Sat, 18 Jul 2026 | Document | Bristol |
 | Sat, 29 Aug 2026 | H2o6 | Riga |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
@@ -18,6 +17,7 @@ Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 73 s
 
 ## Recently played
 
+- Tägi, Zurich — Fri, 10 Jul 2026
 - Now&Wow, Rotterdam — Fri, 26 Jun 2026
 - High Lights - Barking Park, London — Sun, 31 May 2026
 - IDRA, Manchester — Sat, 23 May 2026
@@ -25,10 +25,9 @@ Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 73 s
 - OCZKI, Warsaw — Sat, 11 Apr 2026
 - Mia Mao, Paris — Fri, 10 Apr 2026
 - Vystaviste Holesovice, Prague — Sat, 14 Mar 2026
-- Electric Studios, Sheffield — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Mefjus, Disrupta, Kanine
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

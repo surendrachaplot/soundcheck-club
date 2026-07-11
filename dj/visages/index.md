@@ -1,6 +1,6 @@
 # Visages
 
-Visages is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
+Visages is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Prospect Building, Bristol on Sat, 8 Aug 2026.
 
 Visages is a drum & bass and bass artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Basel and Brighton and 17 more. Often billed alongside Monty, Alix Perez and SP:MC. Next up: The Prospect Building, Bristol on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Visages is a drum & bass and bass artist tracked on soundcheck, with 32 sets log
 
 Monty, Alix Perez, SP:MC
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*

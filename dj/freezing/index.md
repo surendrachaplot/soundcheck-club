@@ -1,6 +1,6 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at M.O.T, London on Fri, 17 Jul 2026.
+Free Zing is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at M.O.T, London on Fri, 17 Jul 2026.
 
 Free Zing is a techno and electro artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: M.O.T, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Free Zing is a techno and electro artist tracked on soundcheck, with 57 sets log
 
 Alien Communications, BAYS, Jos
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

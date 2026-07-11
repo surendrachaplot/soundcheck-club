@@ -1,6 +1,6 @@
 # Hibotep
 
-Hibotep is a Bass and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Fiume Calore, Naples on Sat, 11 Jul 2026.
+Hibotep is a Bass and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Fiume Calore, Naples on Sat, 11 Jul 2026.
 
 Hibotep is a bass and afro tech artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Nsasi, Authentically Plastic and Catu Diosis. Next up: TBA - Fiume Calore, Naples on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Hibotep is a bass and afro tech artist tracked on soundcheck, with 18 sets logge
 
 Nsasi, Authentically Plastic, Catu Diosis
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibotep/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hibotep/)*

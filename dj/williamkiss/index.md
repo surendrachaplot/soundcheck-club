@@ -1,6 +1,6 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Mondo, Madrid on Thu, 23 Jul 2026.
+William Kiss is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Mondo, Madrid on Thu, 23 Jul 2026.
 
 William Kiss is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Barcelona and Berlin and 13 more. Often billed alongside Jordan Brando, Luke Alessi and Baron Von Trax. Next up: Mondo, Madrid on Thu 23 Jul.
 
@@ -34,4 +34,4 @@ William Kiss is a house and techno artist tracked on soundcheck, with 46 sets lo
 
 Jordan Brando, Luke Alessi, Baron Von Trax
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*

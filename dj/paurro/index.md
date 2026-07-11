@@ -1,6 +1,6 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BASEMENT, New York City on Sat, 11 Jul 2026.
+PAURRO is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BASEMENT, New York City on Sat, 11 Jul 2026.
 
 PAURRO is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: BASEMENT, Newyorkcity on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ PAURRO is a house and techno artist tracked on soundcheck, with 171 sets logged 
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

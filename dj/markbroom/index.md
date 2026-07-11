@@ -1,6 +1,6 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Mark Broom is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Mark Broom is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Mark Broom is a techno and house artist tracked on soundcheck, with 106 sets log
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

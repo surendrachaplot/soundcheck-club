@@ -1,6 +1,6 @@
 # Aaron J
 
-Aaron J is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Nowadays, New York City on Sat, 25 Jul 2026.
+Aaron J is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Nowadays, New York City on Sat, 25 Jul 2026.
 
 Aaron J is a techno and house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lychee, Clarisa Kimskii and Marco Shuttle. Next up: Nowadays, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Aaron J is a techno and house artist based in United States of America, tracked 
 
 Lychee, Clarisa Kimskii, Marco Shuttle
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronj/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronj/)*

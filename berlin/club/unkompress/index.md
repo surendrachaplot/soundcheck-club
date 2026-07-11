@@ -1,6 +1,6 @@
 # Unkompress
 
-Unkompress is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Unkompress Saturday Session: Otis Mensah" on Sat, 11 Jul 2026.
+Unkompress is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Unkompress Saturday Session: Otis Mensah" on Sat, 11 Jul 2026.
 
 Unkompress is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Otis Mensah and Yuzo Iwata. Browse upcoming dates, start times and who's playing. Fichtestrasse 23, 10967 Berlin.
 
@@ -19,4 +19,4 @@ Unkompress is a music venue in Berlin listed on soundcheck. 6 upcoming nights, w
 
 Fichtestrasse 23, 10967 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/unkompress/)*

@@ -1,6 +1,6 @@
 # TBA - Little Creatures Brewery, Geelong
 
-TBA - Little Creatures Brewery, Geelong is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Marigold pres Kumi + Benjamin at The Brewery" on Sat, 25 Jul 2026.
+TBA - Little Creatures Brewery, Geelong is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Marigold pres Kumi + Benjamin at The Brewery" on Sat, 25 Jul 2026.
 
 TBA - Little Creatures Brewery, Geelong is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Benjamin (3), HARRII, Kumi and NOAH JAMES. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Little Creatures Brewery, Geelong is a music venue in Melbourne listed on 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Marigold pres Kumi + Benjamin at The Brewery | Benjamin (3), HARRII, Kumi, NOAH JAMES |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-little-creatures-brewery-geelong/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-little-creatures-brewery-geelong/)*

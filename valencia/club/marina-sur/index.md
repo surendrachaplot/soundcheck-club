@@ -1,6 +1,6 @@
 # Marina Sur
 
-Marina Sur is a music venue in Valencia with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Solid Grooves Valencia" on Sat, 11 Jul 2026.
+Marina Sur is a music venue in Valencia with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Solid Grooves Valencia" on Sat, 11 Jul 2026.
 
 Marina Sur is a music venue in Valencia listed on soundcheck. 2 upcoming nights, with line-ups including Adam Port, Chris Stussy, Michael Bibi and Miguelle and 2 more. Browse upcoming dates, start times and who's playing. Marina Sur, 46011 Valencia.
 
@@ -15,4 +15,4 @@ Marina Sur is a music venue in Valencia listed on soundcheck. 2 upcoming nights,
 
 Marina Sur, 46011 Valencia, Valencia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/marina-sur/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/marina-sur/)*

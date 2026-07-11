@@ -1,6 +1,6 @@
 # Durante
 
-Durante is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Room 22, Sydney on Sat, 11 Jul 2026.
+Durante is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Room 22, Sydney on Sat, 11 Jul 2026.
 
 Durante is a house and progressive house artist tracked on soundcheck, with 54 sets logged across Austin, Brighton, Bristol and Buenosaires and 18 more. Often billed alongside Marsh, Braxton and Hana. Next up: Room 22, Sydney on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Durante is a house and progressive house artist tracked on soundcheck, with 54 s
 
 Marsh, Braxton, Hana
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*

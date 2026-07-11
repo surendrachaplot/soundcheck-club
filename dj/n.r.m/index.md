@@ -1,6 +1,6 @@
 # N.R.M
 
-N.R.M is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sala Upload Barcelona, Barcelona on Sat, 11 Jul 2026.
+N.R.M is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sala Upload Barcelona, Barcelona on Sat, 11 Jul 2026.
 
 N.R.M is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Faerber, ENNIO and HAMY. Next up: Sala Upload Barcelona, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ N.R.M is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Faerber, ENNIO, HAMY
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/n.r.m/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/n.r.m/)*

@@ -1,6 +1,6 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UNO MALTA, Malta on Fri, 24 Jul 2026.
+KARAH is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at UNO MALTA, Malta on Fri, 24 Jul 2026.
 
 KARAH is a techno and industrial artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: UNO MALTA, Malta on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 132 sets log
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

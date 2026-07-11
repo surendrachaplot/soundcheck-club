@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "TokyoCitySessions Club night - All vinyl techno & house party SHIBUYA" on Fri, 10 Jul 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "RISE" on Sat, 11 Jul 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, ceza and Chediak and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, ceza and Chediak and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | TokyoCitySessions Club night - All vinyl techno & house party SHIBUYA | MileZ, Seimei |
 | Sat, 11 Jul 2026 | RISE |  |
 | Sun, 12 Jul 2026 | OUTSIDE THE BOX | DJ Shufflemaster, Mitaka Sound, Ruki, Yebisu303 |
 | Thu, 16 Jul 2026 | LUEUR vol.4 |  |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, wit
 | Thu, 23 Jul 2026 | on | AOI BLOOM |
 | Thu, 23 Jul 2026 | Resound | MOTOKA, SIGNAL (JP) |
 | Sat, 25 Jul 2026 | R Lounge 13TH ANNIVERSARY PRESENTS Ezequiel Arias | Ayana Pattra, Conures (DJ Tokunaga), DJ NECO, DJ endorphin, Ezequiel Arias, Monna Lisa, SHIGe, Shingo Nakamura, Shun Kurashima, uuu7 |
+| Fri, 31 Jul 2026 | EP 'PRISM' Elena Berry × SKYTOPIA Release Party | MOOTOE, VECSILLE |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

@@ -1,6 +1,6 @@
 # MOODYBOOM
 
-MOODYBOOM is a Techno and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Dual, Bangkok on Sat, 11 Jul 2026.
+MOODYBOOM is a Techno and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Dual, Bangkok on Sat, 11 Jul 2026.
 
 MOODYBOOM is a techno and minimal artist tracked on soundcheck, with 115 sets logged across Bali and Bangkok. Often billed alongside Kunanon, IYY (TH) and DMT Disco. Next up: Dual, Bangkok on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ MOODYBOOM is a techno and minimal artist tracked on soundcheck, with 115 sets lo
 
 Kunanon, IYY (TH), DMT Disco
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyboom/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyboom/)*

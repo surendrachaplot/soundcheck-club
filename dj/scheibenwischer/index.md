@@ -1,6 +1,6 @@
 # Scheibenwischer
 
-Scheibenwischer is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Das Werk, Vienna on Sat, 11 Jul 2026.
+Scheibenwischer is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Das Werk, Vienna on Sat, 11 Jul 2026.
 
 Scheibenwischer is a techno and trance artist based in Austria, tracked on soundcheck, with 28 sets logged across Berlin, Frankfurt, Malta and Nantes and 2 more. Often billed alongside KAROLINA, DJ Backstage and MIA MIA. Next up: Das Werk, Vienna on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Scheibenwischer is a techno and trance artist based in Austria, tracked on sound
 
 KAROLINA, DJ Backstage, MIA MIA
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibenwischer/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibenwischer/)*

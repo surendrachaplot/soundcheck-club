@@ -1,6 +1,6 @@
 # Openluchttheater Amersfoort
 
-Openluchttheater Amersfoort is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Into the Woods 2026" on Fri, 18 Sept 2026.
+Openluchttheater Amersfoort is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Into the Woods 2026" on Fri, 18 Sept 2026.
 
 Openluchttheater Amersfoort is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including ALISHA, Bastienne, Benny2 and BLANKA and 2 more. Browse upcoming dates, start times and who's playing. Barchman Wuytierslaan 238, Amersfoort.
 
@@ -14,4 +14,4 @@ Openluchttheater Amersfoort is a music venue in Amsterdam listed on soundcheck. 
 
 Barchman Wuytierslaan 238, Amersfoort, Amsterdam
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/openluchttheater-amersfoort/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/openluchttheater-amersfoort/)*

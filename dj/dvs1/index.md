@@ -1,14 +1,13 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Forte Antenne, Rome on Fri, 10 Jul 2026.
+DVS1 is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
-DVS1 is a techno and house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Forte Antenne, Rome on Fri 10 Jul.
+DVS1 is a techno and house artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Ogazón, Helena Hauff and Jeff Mills. Next up: Fabrik, Madrid on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Forte Antenne | Rome |
 | Sat, 11 Jul 2026 | Fabrik | Madrid |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sun, 19 Jul 2026 | Radius | Chicago |
@@ -23,6 +22,7 @@ DVS1 is a techno and house artist tracked on soundcheck, with 296 sets logged ac
 
 ## Recently played
 
+- Forte Antenne, Rome — Fri, 10 Jul 2026
 - The Bongo Club, Edinburgh — Fri, 3 Jul 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 20 Jun 2026
@@ -30,10 +30,9 @@ DVS1 is a techno and house artist tracked on soundcheck, with 296 sets logged ac
 - TBA - Los Angeles, Los Angeles — Sat, 30 May 2026
 - TBA - SECRET SAN FRANCISCO LOCATION , San Francisco/Oakland — Fri, 29 May 2026
 - Bert's Warehouse Theater, Detroit — Sun, 24 May 2026
-- Bert's Warehouse Theater, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 Ogazón, Helena Hauff, Jeff Mills
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

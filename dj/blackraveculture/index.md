@@ -1,6 +1,6 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Podlasie Club, Chicago on Sat, 18 Jul 2026.
+Black Rave Culture is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Podlasie Club, Chicago on Sat, 18 Jul 2026.
 
 Black Rave Culture is a techno and club artist tracked on soundcheck, with 90 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 26 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: Podlasie Club, Chicago on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 90 se
 
 Nativesun, Amal, James Bangura
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

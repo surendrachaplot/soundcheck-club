@@ -1,6 +1,6 @@
 # Annie Mac
 
-Annie Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 16 Jul 2026.
+Annie Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 16 Jul 2026.
 
 Annie Mac is a house and techno artist tracked on soundcheck, with 26 sets logged across Belfast, Cardiff, Dublin and Glasgow and 4 more. Often billed alongside Honey Dijon, Shy FX and Skream. Next up: 528 Ibiza, Ibiza on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Annie Mac is a house and techno artist tracked on soundcheck, with 26 sets logge
 
 Honey Dijon, Shy FX, Skream
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*

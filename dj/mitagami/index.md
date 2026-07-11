@@ -1,14 +1,13 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Clairière, Paris on Fri, 10 Jul 2026.
+Mita Gami is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jolene Downtown Miami, Miami on Sat, 11 Jul 2026.
 
-Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: La Clairière, Paris on Fri 10 Jul.
+Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Jolene Downtown Miami, Miami on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | La Clairière | Paris |
 | Sat, 11 Jul 2026 | Jolene Downtown Miami | Miami |
 | Sat, 25 Jul 2026 | Central Park SummerStage | New York City |
 | Wed, 29 Jul 2026 | Pacha Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logg
 
 ## Recently played
 
+- La Clairière, Paris — Fri, 10 Jul 2026
 - Stereo, Montreal — Tue, 30 Jun 2026
 - BERHTA, Washington DC — Sat, 27 Jun 2026
 - Domicile, Miami — Thu, 11 Jun 2026
@@ -29,10 +29,9 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logg
 - Pacha Ibiza, Ibiza — Sun, 17 May 2026
 - TBA - Anfiteatro da Pedra, Lisbon — Sat, 16 May 2026
 - Hï Ibiza, Ibiza — Fri, 1 May 2026
-- Audio Club, Geneva — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

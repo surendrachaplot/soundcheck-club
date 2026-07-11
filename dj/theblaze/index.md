@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Campo Marte, Mexico City on Sat, 11 Jul 2026.
+The Blaze is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Campo Marte, Mexico City on Sat, 11 Jul 2026.
 
 The Blaze is a house and electro artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 24 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: Campo Marte, Mexicocity on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ The Blaze is a house and electro artist tracked on soundcheck, with 49 sets logg
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

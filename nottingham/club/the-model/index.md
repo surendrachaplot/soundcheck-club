@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Witching Hour X Control. Evil Woman, Dennis Roswell & Muad'Dib" on Sat, 11 Jul 2026.
+The Model is a music venue in Nottingham with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "The Witching Hour X Control. Evil Woman, Dennis Roswell & Muad'Dib" on Sat, 11 Jul 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 3 upcoming nights, with line-ups including Croft (UK), Evil Woman, Hannah D and Jimmy Rocket and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -16,4 +16,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 3 upcoming nights
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

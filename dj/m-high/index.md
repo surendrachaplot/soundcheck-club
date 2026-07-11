@@ -1,14 +1,13 @@
 # M-High
 
-M-High is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 10 Jul 2026.
+M-High is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 11 Jul 2026.
 
-M-High is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Shelter Amsterdam, Amsterdam on Fri 10 Jul.
+M-High is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: Hï Ibiza, Ibiza on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 11 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 18 Jul 2026 | Mint Warehouse | Leeds |
 | Tue, 21 Jul 2026 | Cova Santa | Ibiza |
@@ -21,6 +20,7 @@ M-High is a house and tech house artist tracked on soundcheck, with 167 sets log
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam — Fri, 10 Jul 2026
 - 528 Ibiza, Ibiza — Fri, 3 Jul 2026
 - Cova Santa, Ibiza — Tue, 30 Jun 2026
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
@@ -28,10 +28,9 @@ M-High is a house and tech house artist tracked on soundcheck, with 167 sets log
 - D-EDGE, Sao Paulo — Fri, 19 Jun 2026
 - Castell de BEN Viure, Barcelona — Thu, 18 Jun 2026
 - Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
-- BRET, Amsterdam — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, Dennis Quin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

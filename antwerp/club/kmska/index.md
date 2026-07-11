@@ -1,6 +1,6 @@
 # KMSKA
 
-KMSKA is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Amelie Lens in front of the KMSKA - Chaos in the City" on Sat, 5 Sept 2026.
+KMSKA is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Amelie Lens in front of the KMSKA - Chaos in the City" on Sat, 5 Sept 2026.
 
 KMSKA is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including Amelie Lens. Browse upcoming dates, start times and who's playing. Leopold De Waelplaats.
 
@@ -14,4 +14,4 @@ KMSKA is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with l
 
 Leopold De Waelplaats, Antwerp
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/kmska/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/kmska/)*

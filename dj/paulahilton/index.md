@@ -1,6 +1,6 @@
 # Paula Hilton
 
-Paula Hilton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+Paula Hilton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
 Paula Hilton is a techno and house artist based in Germany, tracked on soundcheck, with 93 sets logged across Bangkok, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Ele Luz, Sabura and Leon Licht. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Paula Hilton is a techno and house artist based in Germany, tracked on soundchec
 
 Ele Luz, Sabura, Leon Licht
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahilton/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahilton/)*

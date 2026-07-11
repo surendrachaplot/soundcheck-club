@@ -1,6 +1,6 @@
 # Lio'
 
-Lio' is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tapestry, Toronto on Sat, 11 Jul 2026.
+Lio' is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tapestry, Toronto on Sat, 11 Jul 2026.
 
 Lio' is a house and minimal artist based in Lebanon, tracked on soundcheck, with 8 sets logged across Montreal and Toronto. Often billed alongside MightyKat, Mok-T and Ohm Hourani. Next up: Tapestry, Toronto on Sat 11 Jul.
 
@@ -24,4 +24,4 @@ Lio' is a house and minimal artist based in Lebanon, tracked on soundcheck, with
 
 MightyKat, Mok-T, Ohm Hourani
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lio/)*

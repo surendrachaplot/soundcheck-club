@@ -1,6 +1,6 @@
 # Wolkezwei
 
-Wolkezwei is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Deep Sensation auf Wolkezwei mit ARODES" on Sat, 11 Jul 2026.
+Wolkezwei is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Deep Sensation auf Wolkezwei mit ARODES" on Sat, 11 Jul 2026.
 
 Wolkezwei is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, with line-ups including ARODES, Cosmic Gate, Einmusik and FYNN and 2 more. Browse upcoming dates, start times and who's playing. Volbedingstrasse 2, 04357 Leipzig.
 
@@ -16,4 +16,4 @@ Wolkezwei is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, w
 
 Volbedingstrasse 2, 04357 Leipzig, Leipzig
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/wolkezwei/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/wolkezwei/)*

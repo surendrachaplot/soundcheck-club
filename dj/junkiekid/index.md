@@ -1,6 +1,6 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BERHTA, Washington DC on Sat, 11 Jul 2026.
+Junkie Kid is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BERHTA, Washington DC on Sat, 11 Jul 2026.
 
 Junkie Kid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 12 sets logged across Brisbane, Chicago, Houston and Losangeles and 6 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: BERHTA, Washingtondc on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Junkie Kid is a techno and hardcore artist based in United States of America, tr
 
 DJ GUESTLIST, HIJCKD, Mark Blair
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*

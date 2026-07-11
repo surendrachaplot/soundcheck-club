@@ -1,14 +1,13 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "'LAST DANCE' - 999 PROJEKT & TEMPLE for PSYTONIC" on Fri, 10 Jul 2026.
+UNDERCITY is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "CHILLING CITY: Shisha with music" on Sat, 11 Jul 2026.
 
-UNDERCITY is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including An Yunbi, Bagagee Viphex13, BYOL and DAMIE (KR) and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
+UNDERCITY is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including An Yunbi, BYOL, DAMIE (KR) and Ginchy and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | 'LAST DANCE' - 999 PROJEKT & TEMPLE for PSYTONIC | Bagagee Viphex13, Jamjari, K4NCIIO, Kataploks, PSYTONIC, ROXY, Rubato, SIONA |
 | Sat, 11 Jul 2026 | CHILLING CITY: Shisha with music |  |
 | Fri, 17 Jul 2026 | CHILLING CITY: Shisha with music |  |
 | Sat, 18 Jul 2026 | CORE #008 by UNDERCITY | An Yunbi, BYOL, DAMIE (KR), KIMNA, MOAH, No/ah |
@@ -19,4 +18,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 6 upcoming nights, wit
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

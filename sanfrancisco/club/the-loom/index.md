@@ -1,6 +1,6 @@
 # The Loom
 
-The Loom is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Après Mundi" on Sat, 11 Jul 2026.
+The Loom is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Après Mundi" on Sat, 11 Jul 2026.
 
 The Loom is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Andy Martin, Ayesha, Bake and Ben Bondy and 2 more. Browse upcoming dates, start times and who's playing. 2220 Livingston St, Oakland, CA 94606, USA.
 
@@ -15,4 +15,4 @@ The Loom is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming night
 
 2220 Livingston St, Oakland, CA 94606, USA, San Francisco/Oakland
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-loom/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-loom/)*

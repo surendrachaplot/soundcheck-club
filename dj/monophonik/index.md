@@ -1,14 +1,14 @@
 # Monophonik
 
-Monophonik is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
+Monophonik is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Prague on Sat, 11 Jul 2026.
 
-Monophonik is a techno and trance artist based in India, tracked on soundcheck, with 14 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 5 more. Often billed alongside Chalo, D.Dan and Inner Zone. Next up: Koupaliště Džbán, Prague on Sat 11 Jul.
+Monophonik is a techno and trance artist based in India, tracked on soundcheck, with 14 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 5 more. Often billed alongside Chalo, D.Dan and Inner Zone. Next up: TBA, Prague on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Koupaliště Džbán | Prague |
+| Sat, 11 Jul 2026 | TBA | Prague |
 | Fri, 24 Jul 2026 | Else | Berlin |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Sat, 29 Aug 2026 | 宀 Club | Hong Kong |
@@ -28,4 +28,4 @@ Monophonik is a techno and trance artist based in India, tracked on soundcheck, 
 
 Chalo, D.Dan, Inner Zone
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monophonik/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monophonik/)*

@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Clifton Street, London on Sat, 11 Jul 2026.
+salute is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Clifton Street, London on Sat, 11 Jul 2026.
 
 salute is a house and garage artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Clifton Street, London on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ salute is a house and garage artist tracked on soundcheck, with 177 sets logged 
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

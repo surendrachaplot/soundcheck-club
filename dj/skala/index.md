@@ -1,14 +1,13 @@
 # SKALA
 
-SKALA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 10 Jul 2026.
+SKALA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Flash, Washington DC on Sun, 12 Jul 2026.
 
-SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Do Not Sit On The Furniture, Miami on Fri 10 Jul.
+SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Flash, Washingtondc on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Do Not Sit On The Furniture | Miami |
 | Sun, 12 Jul 2026 | Flash | Washington DC |
 | Sat, 18 Jul 2026 | Santa Monica Pier | Los Angeles |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
@@ -16,6 +15,7 @@ SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged ac
 
 ## Recently played
 
+- Do Not Sit On The Furniture, Miami — Fri, 10 Jul 2026
 - Ritter Butzke, Berlin — Sun, 21 Jun 2026
 - ://about blank, Berlin — Sat, 20 Jun 2026
 - fabric, London — Sat, 30 May 2026
@@ -23,10 +23,9 @@ SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged ac
 - Fundbureau, Hamburg — Sat, 23 May 2026
 - Kater, Berlin — Fri, 8 May 2026
 - Frankhan Selectist, Istanbul — Sat, 18 Apr 2026
-- Hidden, Manchester — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Theologos, ELIF, Mila Stern
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

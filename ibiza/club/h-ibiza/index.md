@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 90 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Dom Dolla" on Fri, 10 Jul 2026.
+Hï Ibiza is a music venue in Ibiza with 89 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Black Coffee" on Sat, 11 Jul 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 90 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 89 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Dom Dolla | Cody Currie, Dom Dolla, Ewan McVicar, Ghoulish |
 | Sat, 11 Jul 2026 | Black Coffee | Black Coffee, DJ EZ, Joe Rolét, M-High, Vanco |
 | Sun, 12 Jul 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto, Patrick Mason, Ramiro Lopez, Valentino |
 | Mon, 13 Jul 2026 | Francis Mercier presents Solèy | ARYMÉ, Andrea Oliva, Francis Mercier, Nomis, Notre Dame, Ramyen, Sasson |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 90 upcoming nights, wi
 | Fri, 17 Jul 2026 | Dom Dolla | Alinka, Bradley Zero, Dom Dolla, Ewan McVicar |
 | Sat, 18 Jul 2026 | Black Coffee | Black Coffee, Djammin, Fiona Kraft, Henrik Schwarz, MAXImum, Meeshy, Ossie, SHAE REID (2), Skepta, The Menendez Brothers |
 | Sun, 19 Jul 2026 | CamelPhat present Summer of Love | BIIA, CamelPhat, Indira Paganotto, Marhu |
+| Mon, 20 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Francis Mercier, Kasango, Mambo Brothers, Marten Lou, Moeaike |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Clifton Street, London on Sat, 11 Jul 2026.
+Bambounou is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Clifton Street, London on Sat, 11 Jul 2026.
 
 Bambounou is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Clifton Street, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Bambounou is a techno and house artist tracked on soundcheck, with 158 sets logg
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

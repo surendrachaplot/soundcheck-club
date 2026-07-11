@@ -1,6 +1,6 @@
 # Evie
 
-Evie is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at [UNVRS], Ibiza on Wed, 15 Jul 2026.
+Evie is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at [UNVRS], Ibiza on Wed, 15 Jul 2026.
 
 Evie is a house and tech house artist tracked on soundcheck, with 54 sets logged across Aberdeen, Amsterdam, Berlin and Edinburgh and 9 more. Often billed alongside Danny Bodega, Mike Who and Ben Fester. Next up: [UNVRS], Ibiza on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ Evie is a house and tech house artist tracked on soundcheck, with 54 sets logged
 
 Danny Bodega, Mike Who, Ben Fester
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evie/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evie/)*

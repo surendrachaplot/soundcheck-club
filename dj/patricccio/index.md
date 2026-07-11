@@ -1,14 +1,14 @@
 # patricccio
 
-patricccio is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
+patricccio is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Prague on Sat, 11 Jul 2026.
 
-patricccio is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Koupaliště Džbán, Prague on Sat 11 Jul.
+patricccio is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: TBA, Prague on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Koupaliště Džbán | Prague |
+| Sat, 11 Jul 2026 | TBA | Prague |
 | Fri, 31 Jul 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -26,4 +26,4 @@ patricccio is a techno and trance artist tracked on soundcheck, with 41 sets log
 
 Atch22, Yan (CZ), Alfred Czital
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*

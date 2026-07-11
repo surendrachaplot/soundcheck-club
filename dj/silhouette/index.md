@@ -1,14 +1,14 @@
 # Silhouette
 
-Silhouette is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Koupaliště Džbán, Prague on Sat, 11 Jul 2026.
+Silhouette is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Prague on Sat, 11 Jul 2026.
 
-Silhouette is a techno and house artist based in Czech Republic, tracked on soundcheck, with 42 sets logged across Prague. Often billed alongside Yan (CZ), NCOL and Nina Farrina. Next up: Koupaliště Džbán, Prague on Sat 11 Jul.
+Silhouette is a techno and house artist based in Czech Republic, tracked on soundcheck, with 42 sets logged across Prague. Often billed alongside Yan (CZ), NCOL and Nina Farrina. Next up: TBA, Prague on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Koupaliště Džbán | Prague |
+| Sat, 11 Jul 2026 | TBA | Prague |
 | Sat, 1 Aug 2026 | Bike Jesus | Prague |
 
 ## Recently played
@@ -26,4 +26,4 @@ Silhouette is a techno and house artist based in Czech Republic, tracked on soun
 
 Yan (CZ), NCOL, Nina Farrina
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silhouette/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silhouette/)*

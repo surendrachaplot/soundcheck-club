@@ -1,6 +1,6 @@
 # Flemish.Fetish
 
-Flemish.Fetish is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Paloma, Berlin on Sat, 11 Jul 2026.
+Flemish.Fetish is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paloma, Berlin on Sat, 11 Jul 2026.
 
 Flemish.Fetish is a house and disco artist tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Munich and Newyorkcity and 1 more. Often billed alongside Jana Falcon, ADAM MUNNINGS and VRTL. Next up: Paloma, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Flemish.Fetish is a house and disco artist tracked on soundcheck, with 39 sets l
 
 Jana Falcon, ADAM MUNNINGS, VRTL
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flemishfetish-de/)*

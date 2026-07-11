@@ -1,6 +1,6 @@
 # Not For Sale Gallery
 
-Not For Sale Gallery is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Nocturna" on Fri, 17 Jul 2026.
+Not For Sale Gallery is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Nocturna" on Fri, 17 Jul 2026.
 
 Not For Sale Gallery is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Alex Banks, Fabient, Moa Pillar and Stylus Rex. Browse upcoming dates, start times and who's playing. 83 Smeed Road, Hackney Wick, E3 2NR.
 
@@ -16,4 +16,4 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 3 upcoming
 
 83 Smeed Road, Hackney Wick, E3 2NR, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*

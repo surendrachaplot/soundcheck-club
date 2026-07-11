@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "X2C PRESENTS GLITCH" on Sat, 11 Jul 2026.
+ESC is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "X2C PRESENTS GLITCH" on Sat, 11 Jul 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including 10cust, AṢKIM, Baby Bimbo and Badgalquirit and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -17,4 +17,4 @@ ESC is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

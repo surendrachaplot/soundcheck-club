@@ -1,6 +1,6 @@
 # Rele
 
-Rele is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 303 Audiophile Bar, Barcelona on Sat, 11 Jul 2026.
+Rele is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 303 Audiophile Bar, Barcelona on Sat, 11 Jul 2026.
 
 Rele is a house and electro artist based in Italy, tracked on soundcheck, with 57 sets logged across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: 303 Audiophile Bar, Barcelona on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Rele is a house and electro artist based in Italy, tracked on soundcheck, with 5
 
 Alexxx, PAZ WAZ HERE, lorenzo del po
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*

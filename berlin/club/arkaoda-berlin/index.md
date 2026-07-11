@@ -1,14 +1,13 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Arkaoda 10.07" on Fri, 10 Jul 2026.
+arkaoda Berlin is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Daisy Records with DJ Life + DJ Niamh" on Sat, 11 Jul 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including A.Wild, Amperia, Barmus and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including A.Wild, Amperia, Barmus and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Arkaoda 10.07 | Jd J, Khidja, MR TC, Nina Welch, Ozan Maral |
 | Sat, 11 Jul 2026 | Daisy Records with DJ Life + DJ Niamh | DJ Life, DJ Niamh, Obelix |
 | Thu, 16 Jul 2026 | Intursit (live), Poko Cox, Chikiss |  |
 | Fri, 17 Jul 2026 | Osàre! Editions x arkaoda | Buttechno, Elena Colombi, RRRKRTA |
@@ -18,9 +17,10 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nigh
 | Fri, 24 Jul 2026 | FOAM at arkaoda | DJ Fiona, MFX (1), Regularfantasy |
 | Sat, 25 Jul 2026 | Future3 'Despite the Rumbling' LP Release Party |  |
 | Sat, 8 Aug 2026 | Braygray — 1 Year　A.Wild , Diamin b2b Sean Gates , SONOKI | A.Wild, Diamin, SONOKI |
+| Thu, 27 Aug 2026 | Wormhole 005 | Emanuele Barilli, Josefina Tapia (2), Sean Gonzalez |
 
 ## Address
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

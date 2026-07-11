@@ -1,6 +1,6 @@
 # Oatmilkandcodeine
 
-Oatmilkandcodeine is a Experimental and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Grand Social, Dublin on Tue, 14 Jul 2026.
+Oatmilkandcodeine is a Experimental and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Grand Social, Dublin on Tue, 14 Jul 2026.
 
 Oatmilkandcodeine is an experimental and hip-hop artist tracked on soundcheck, with 26 sets logged across Berlin, Denver, Dublin and Glasgow and 6 more. Often billed alongside Heartcoregirl, Gweilo Ghost and Harto Falión. Next up: The Grand Social, Dublin on Tue 14 Jul.
 
@@ -29,4 +29,4 @@ Oatmilkandcodeine is an experimental and hip-hop artist tracked on soundcheck, w
 
 Heartcoregirl, Gweilo Ghost, Harto Falión
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilkandcodeine/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilkandcodeine/)*

@@ -1,14 +1,13 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 10 Jul 2026.
+Danny Daze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
 
-Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Nick León and Sister System. Next up: Smoke & Mirrors, Chicago on Fri 10 Jul.
+Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Nick León and Sister System. Next up: TILLATEC, Amsterdam on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Smoke & Mirrors | Chicago |
 | Fri, 17 Jul 2026 | TILLATEC | Amsterdam |
 | Sat, 1 Aug 2026 | Motel Campo | Geneva |
 | Sun, 16 Aug 2026 | Sonnenraum | Berlin |
@@ -17,6 +16,7 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets log
 
 ## Recently played
 
+- Smoke & Mirrors, Chicago — Fri, 10 Jul 2026
 - Jolene Downtown Miami, Miami — Sat, 4 Jul 2026
 - Platform9, Vancouver — Fri, 19 Jun 2026
 - Gateway Mendocino, San Francisco/Oakland — Thu, 18 Jun 2026
@@ -24,10 +24,9 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets log
 - Bastet, Philadelphia — Sat, 6 Jun 2026
 - Signal, New York City — Fri, 5 Jun 2026
 - 3fifty Terrace, Detroit — Mon, 25 May 2026
-- 94th Aero Squadron, Miami — Fri, 22 May 2026
 
 ## Shares bills with
 
 Jonny From Space, Nick León, Sister System
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

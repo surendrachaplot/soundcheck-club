@@ -1,15 +1,16 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Samurai Breaks b2b SL8R, Metrodome, Jken / Dankashire Soundsystem" on Fri, 10 Jul 2026.
+The Golden Lion is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "AYA Away Day 2. Golden Lion. Are You Affiliated vs Shoulda Known Better" on Sat, 11 Jul 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including Alexander Nut, Chunky, Fancy Shews and Goldie and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Alexander Nut, Benedict, Chunky and Fancy Shews and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Samurai Breaks b2b SL8R, Metrodome, Jken / Dankashire Soundsystem | Metrodome, SL8R, Samurai Breaks |
+| Sat, 11 Jul 2026 | AYA Away Day 2. Golden Lion. Are You Affiliated vs Shoulda Known Better | Man Power |
 | Fri, 17 Jul 2026 | El Diablo's Social Club vs Talking Drums |  |
+| Fri, 17 Jul 2026 | SQUASH | Benedict |
 | Sat, 18 Jul 2026 | Plynyl presents - Alex Nut and Chunky - Jazz2Jungle | Alexander Nut, Chunky |
 | Fri, 24 Jul 2026 | Infrared Beam x Golden Lion present Dj Hell | DJ Hell |
 | Sat, 25 Jul 2026 | Lana Loves | Fancy Shews, Kim Lana, Michael Upson, Tiffany Kidd, Wes Baggaley |
@@ -21,4 +22,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming 
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

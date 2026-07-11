@@ -1,6 +1,6 @@
 # Millie McKee
 
-Millie McKee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at ZENNER, Berlin on Sun, 23 Aug 2026.
+Millie McKee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at ZENNER, Berlin on Sun, 23 Aug 2026.
 
 Millie McKee is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside DAR DISKU, Joi La Frique and Kyle Toole. Next up: ZENNER, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Millie McKee is a house and techno artist tracked on soundcheck, with 62 sets lo
 
 DAR DISKU, Joi La Frique, Kyle Toole
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*

@@ -1,6 +1,6 @@
 # Kemuri Hi-Fi
 
-Kemuri Hi-Fi is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "COLLEKT WINTER SERIES | MATARIKI LWE feat. PIECES OF PLASTIC" on Sat, 11 Jul 2026.
+Kemuri Hi-Fi is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "COLLEKT WINTER SERIES | MATARIKI LWE feat. PIECES OF PLASTIC" on Sat, 11 Jul 2026.
 
 Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 1 Queen Street, Commercial Bay, Auckland 1010.
 
@@ -16,4 +16,4 @@ Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 3 upcoming night
 
 1 Queen Street, Commercial Bay, Auckland 1010, Auckland
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*

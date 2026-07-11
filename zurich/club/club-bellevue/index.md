@@ -1,6 +1,6 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "NIGHTRANCE" on Sat, 11 Jul 2026.
+Club Bellevue is a music venue in Zurich with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "NIGHTRANCE" on Sat, 11 Jul 2026.
 
 Club Bellevue is a music venue in Zurich listed on soundcheck. 6 upcoming nights, with line-ups including Elia, MONYAL and Nhū. Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
@@ -19,4 +19,4 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 6 upcoming nights
 
 Rämistrasse 6; 8001, Zürich; Switzerland, Zurich
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*

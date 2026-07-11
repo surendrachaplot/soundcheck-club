@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Yeah Buoy Sunset Boat Party" on Sat, 11 Jul 2026.
+Inception Boat is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Yeah Buoy Sunset Boat Party" on Sat, 11 Jul 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -22,4 +22,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 9 upcoming night
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

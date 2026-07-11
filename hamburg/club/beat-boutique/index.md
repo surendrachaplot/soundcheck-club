@@ -1,6 +1,6 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Remold My Heart" on Sat, 11 Jul 2026.
+Beat Boutique is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Remold My Heart" on Sat, 11 Jul 2026.
 
 Beat Boutique is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including babey, lexpon, NoraDrenalin and Seydou Salomon and 1 more. Browse upcoming dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 3 upcoming night
 
 Altländer Str. 12, 20095 Hamburg, Germany, Hamburg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*

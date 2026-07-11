@@ -1,6 +1,6 @@
 # Vinka Wydro
 
-Vinka Wydro is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 11 Jul 2026.
+Vinka Wydro is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 11 Jul 2026.
 
 Vinka Wydro is a techno and industrial artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Angel Karel, DEBBIE (IT) and LiXaa. Next up: Lokschuppen Berlin, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Vinka Wydro is a techno and industrial artist based in France, tracked on soundc
 
 Angel Karel, DEBBIE (IT), LiXaa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*

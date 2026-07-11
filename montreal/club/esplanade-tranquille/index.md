@@ -1,6 +1,6 @@
 # Esplanade Tranquille
 
-Esplanade Tranquille is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Ida Toninato, Pick a Piper, SURPRISE DJ SET - MUTEK 27" on Tue, 25 Aug 2026.
+Esplanade Tranquille is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Ida Toninato, Pick a Piper, SURPRISE DJ SET - MUTEK 27" on Tue, 25 Aug 2026.
 
 Esplanade Tranquille is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including 16:9 ratio, ArtSaves, dustBunny and Ida Toninato and 2 more. Browse upcoming dates, start times and who's playing. 1442 rue Clark, Montréal, QC H2X 1Z7, Canada.
 
@@ -19,4 +19,4 @@ Esplanade Tranquille is a music venue in Montreal listed on soundcheck. 6 upcomi
 
 1442 rue Clark, Montréal, QC H2X 1Z7, Canada, Montreal
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esplanade-tranquille/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esplanade-tranquille/)*

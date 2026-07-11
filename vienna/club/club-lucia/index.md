@@ -1,14 +1,13 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ComeUnityDub.Vienna presenting Mexican Stepper" on Fri, 10 Jul 2026.
+Club Lucia is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "OVER:TONE" on Sat, 11 Jul 2026.
 
-Club Lucia is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including NooK (2), TONKS and Violent Magic Orchestra. Browse upcoming dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
+Club Lucia is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including NooK (2), TONKS and Violent Magic Orchestra. Browse upcoming dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | ComeUnityDub.Vienna presenting Mexican Stepper |  |
 | Sat, 11 Jul 2026 | OVER:TONE |  |
 | Mon, 13 Jul 2026 | Violent Magic Orchestra | Violent Magic Orchestra |
 | Sat, 18 Jul 2026 | DRUM & BASSICK 1 Year Anniversary |  |
@@ -20,4 +19,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 7 upcoming nights, w
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

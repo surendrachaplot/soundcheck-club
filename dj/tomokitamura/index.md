@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Crate Brewery, London on Sat, 18 Jul 2026.
+Tomoki Tamura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Crate Brewery, London on Sat, 18 Jul 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Crate Brewery, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 GARAN GARAN, Satoshi Tomiie, Cromby
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

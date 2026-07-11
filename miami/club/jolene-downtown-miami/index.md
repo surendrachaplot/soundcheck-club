@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 22 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Mason Collective" on Fri, 10 Jul 2026.
+Jolene Downtown Miami is a music venue in Miami with 21 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Mita Gami" on Sat, 11 Jul 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including 1-800-Lolita, Arapu, Archie Hamilton and Arlo and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 21 upcoming nights, with line-ups including 1-800-Lolita, Arapu, Archie Hamilton and Arlo and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Mason Collective | Mason Collective |
 | Sat, 11 Jul 2026 | Mita Gami | Jason Rault, Mita Gami, Thunderpony |
 | Sat, 11 Jul 2026 | Arlo | Arlo |
 | Thu, 16 Jul 2026 | Terence Tabeau b2b Fabiola & DJ Fitness b2b Girlcop | DJ Fitness, Fabiola, Girlcop, Terence Tabeau, grant sabadash |
@@ -18,9 +17,10 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 22 upcomin
 | Fri, 24 Jul 2026 | Wheats | Danyelino, Wheats |
 | Sat, 25 Jul 2026 | Gaiser | Gaiser |
 | Thu, 30 Jul 2026 | Club Rats: VLTRA | Nat Siriani, VLTRA (IT) |
+| Fri, 31 Jul 2026 | Enzo is Burning | Enzo is Burning, Mick Jerome, Thunderpony |
 
 ## Address
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

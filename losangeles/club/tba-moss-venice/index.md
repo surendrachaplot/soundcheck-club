@@ -1,6 +1,6 @@
 # TBA - Moss Venice
 
-TBA - Moss Venice is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Third Eye Lover X Moss: Midsummer Dream" on Fri, 17 Jul 2026.
+TBA - Moss Venice is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Third Eye Lover X Moss: Midsummer Dream" on Fri, 17 Jul 2026.
 
 TBA - Moss Venice is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Saqib. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Moss Venice is a music venue in Losangeles listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Third Eye Lover X Moss: Midsummer Dream | Saqib |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-moss-venice/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-moss-venice/)*

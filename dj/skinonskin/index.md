@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tivoli, Brisbane on Fri, 17 Jul 2026.
+Skin On Skin is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tivoli, Brisbane on Fri, 17 Jul 2026.
 
 Skin On Skin is a techno and house artist tracked on soundcheck, with 123 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Tivoli, Brisbane on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 123 sets l
 
 KETTAMA, Mall Grab, CRUSH3d
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

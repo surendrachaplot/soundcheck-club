@@ -1,6 +1,6 @@
 # CRi
 
-CRi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Elsewhere, New York City on Sat, 11 Jul 2026.
+CRi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Elsewhere, New York City on Sat, 11 Jul 2026.
 
 CRi is a house and deep house artist based in Canada, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Chicago and London and 12 more. Often billed alongside Nicky Elisabeth, Eli & Fur and Hana. Next up: Elsewhere, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ CRi is a house and deep house artist based in Canada, tracked on soundcheck, wit
 
 Nicky Elisabeth, Eli & Fur, Hana
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*

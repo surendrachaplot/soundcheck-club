@@ -1,6 +1,6 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 22 Jul 2026.
+The Blessed Madonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 The Blessed Madonna is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Hï Ibiza, Ibiza on Wed 22 Jul.
 
@@ -31,4 +31,4 @@ The Blessed Madonna is a house and techno artist tracked on soundcheck, with 133
 
 Honey Dijon, Mochakk, HAAi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

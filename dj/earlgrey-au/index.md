@@ -1,6 +1,6 @@
 # DJ Earl Grey
 
-DJ Earl Grey is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Collingwood Children's Farm, Melbourne on Sat, 11 Jul 2026.
+DJ Earl Grey is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Collingwood Children's Farm, Melbourne on Sat, 11 Jul 2026.
 
 DJ Earl Grey is a house and bass artist tracked on soundcheck, with 38 sets logged across Lisbon, Manchester, Melbourne and Sydney. Often billed alongside Adi Toohey, Deepa and Adriana (1). Next up: Collingwood Children's Farm, Melbourne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ DJ Earl Grey is a house and bass artist tracked on soundcheck, with 38 sets logg
 
 Adi Toohey, Deepa, Adriana (1)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-au/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/earlgrey-au/)*

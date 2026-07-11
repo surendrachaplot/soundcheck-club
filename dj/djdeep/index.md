@@ -1,6 +1,6 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Audio Club, Geneva on Sat, 11 Jul 2026.
+DJ Deep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Audio Club, Geneva on Sat, 11 Jul 2026.
 
 DJ Deep is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Kerri Chandler, DJ Reas and Laurent Garnier. Next up: Audio Club, Geneva on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ DJ Deep is a house and techno artist tracked on soundcheck, with 79 sets logged 
 
 Kerri Chandler, DJ Reas, Laurent Garnier
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*

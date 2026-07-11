@@ -1,6 +1,6 @@
 # 1991 (UK)
 
-1991 (UK) is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
+1991 (UK) is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
 
 1991 (UK) is a drum & bass and bass artist tracked on soundcheck, with 25 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 14 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Finsbury Park, London on Sun 2 Aug.
 
@@ -27,4 +27,4 @@
 
 Culture Shock, Dimension, Sub Focus
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*

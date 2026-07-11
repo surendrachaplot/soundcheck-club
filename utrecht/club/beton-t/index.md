@@ -1,6 +1,6 @@
 # Beton-T
 
-Beton-T is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "BASIS Outdoor/ 2026" on Sat, 1 Aug 2026.
+Beton-T is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "BASIS Outdoor/ 2026" on Sat, 1 Aug 2026.
 
 Beton-T is a music venue in Utrecht listed on soundcheck. 1 upcoming night, with line-ups including Alycia Bezgo, Aphøtic, Beau Didier and Dissolver and 2 more. Browse upcoming dates, start times and who's playing. Koningin Wilhelminalaan 4, Utrecht, 3527 LD, The Netherlands.
 
@@ -14,4 +14,4 @@ Beton-T is a music venue in Utrecht listed on soundcheck. 1 upcoming night, with
 
 Koningin Wilhelminalaan 4, Utrecht, 3527 LD, The Netherlands, Utrecht
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/beton-t/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/beton-t/)*

@@ -1,14 +1,13 @@
 # WaV
 
-WaV is a music venue in Liverpool with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "TREMOR Presents: ZKU + U47 + DEEZL" on Fri, 10 Jul 2026.
+WaV is a music venue in Liverpool with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Amnesia House & Back to the Dock presents The Summer of Love" on Sat, 11 Jul 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming nights, with line-ups including Blasha & Allatt, Coop (2), DJ Rush and DJ Vibes and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming nights, with line-ups including Blasha & Allatt, Coop (2), DJ Rush and DJ Vibes and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | TREMOR Presents: ZKU + U47 + DEEZL | Luma |
 | Sat, 11 Jul 2026 | Amnesia House & Back to the Dock presents The Summer of Love | Rob Tissera |
 | Sat, 18 Jul 2026 | Ride On Time - 90's & 00's Club Culture | Lee Butler, Rob Cain |
 | Sat, 25 Jul 2026 | 909 x WAV - Summer Party II | Fidge, Moritz, Quivver, Steve Parry |
@@ -18,9 +17,10 @@ WaV is a music venue in Liverpool listed on soundcheck. 13 upcoming nights, with
 | Fri, 14 Aug 2026 | CØNTAMINATED Presents: ONEFIVE | Coop (2) |
 | Sat, 15 Aug 2026 | The Hardcore Gathering | DJ Vibes, Hannah Taylor |
 | Sat, 22 Aug 2026 | Genesis presents ILLUMINA: The Thrillseekers, Indecent Noise, K90 | Indecent Noise, K90, Madwave |
+| Sun, 30 Aug 2026 | State of Mind - The Launch |  |
 
 ## Address
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

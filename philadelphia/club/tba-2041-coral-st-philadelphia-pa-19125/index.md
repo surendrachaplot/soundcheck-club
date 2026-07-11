@@ -1,6 +1,6 @@
 # TBA - 2041 Coral St, Philadelphia, PA 19125
 
-TBA - 2041 Coral St, Philadelphia, PA 19125 is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Them Local x HHH Radio" on Sat, 11 Jul 2026.
+TBA - 2041 Coral St, Philadelphia, PA 19125 is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Them Local x HHH Radio" on Sat, 11 Jul 2026.
 
 TBA - 2041 Coral St, Philadelphia, PA 19125 is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including LOWIRON and vinectomy. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 2041 Coral St, Philadelphia, PA 19125 is a music venue in Philadelphia lis
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Them Local x HHH Radio | LOWIRON, vinectomy |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-2041-coral-st-philadelphia-pa-19125/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-2041-coral-st-philadelphia-pa-19125/)*

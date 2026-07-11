@@ -1,6 +1,6 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Jay de Lys is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
 Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Manda Moor. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets 
 
 Franky Rizardo, Easttown, Manda Moor
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

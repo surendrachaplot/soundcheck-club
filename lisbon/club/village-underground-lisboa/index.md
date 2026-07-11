@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Reborn x Pulse" on Sat, 18 Jul 2026.
+Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Reborn x Pulse" on Sat, 18 Jul 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Cruzz, DLØW, ELEVIN and Rausu. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -17,4 +17,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

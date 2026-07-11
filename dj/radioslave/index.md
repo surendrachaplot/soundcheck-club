@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Refuge, New York City on Sat, 11 Jul 2026.
+Radio Slave is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Refuge, New York City on Sat, 11 Jul 2026.
 
 Radio Slave is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: Refuge, Newyorkcity on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Radio Slave is a house and techno artist tracked on soundcheck, with 107 sets lo
 
 Tal Fussman, Anja Schneider, DJ Minx
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

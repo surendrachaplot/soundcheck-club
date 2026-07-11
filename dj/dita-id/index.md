@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Klymax Discotheque, Bali on Sat, 11 Jul 2026.
+DITA (ID) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Klymax Discotheque, Bali on Sat, 11 Jul 2026.
 
 DITA (ID) is a house and disco artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Brent Burns, Cormac and Marcellus Pittman. Next up: Klymax Discotheque, Bali on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 97 sets logged
 
 Brent Burns, Cormac, Marcellus Pittman
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

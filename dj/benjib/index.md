@@ -1,6 +1,6 @@
 # Benji B
 
-Benji B is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Costa Da Caparica, Lisbon on Sat, 11 Jul 2026.
+Benji B is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Costa Da Caparica, Lisbon on Sat, 11 Jul 2026.
 
 Benji B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 13 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: Costa Da Caparica, Lisbon on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Benji B is a house and techno artist based in United Kingdom, tracked on soundch
 
 &ME, Dan Shake, Rampa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*

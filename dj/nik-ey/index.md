@@ -1,6 +1,6 @@
 # nik-ey
 
-nik-ey is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Skatecafe, Amsterdam on Sat, 11 Jul 2026.
+nik-ey is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Skatecafe, Amsterdam on Sat, 11 Jul 2026.
 
 nik-ey is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague. Often billed alongside Mees Mattern, Dan Dusty and Julien Simmons. Next up: Skatecafe, Amsterdam on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ nik-ey is a house and tech house artist tracked on soundcheck, with 34 sets logg
 
 Mees Mattern, Dan Dusty, Julien Simmons
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*

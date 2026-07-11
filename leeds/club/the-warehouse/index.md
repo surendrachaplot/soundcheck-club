@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Giuseppe Ottaviani [3 Hour Set] – Digital Society Leeds" on Fri, 24 Jul 2026.
+The Warehouse is a music venue in Leeds with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Giuseppe Ottaviani [3 Hour Set] – Digital Society Leeds" on Fri, 24 Jul 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming nights, with line-ups including Champion, Clouds, Effy and Faster Horses and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -17,4 +17,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 4 upcoming nights,
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

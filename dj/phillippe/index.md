@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cherry Beach, Toronto on Sun, 12 Jul 2026.
+Phillippe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cherry Beach, Toronto on Sun, 12 Jul 2026.
 
 Phillippe is a house and techno artist tracked on soundcheck, with 70 sets logged across Mexicocity, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jaw Jones and Jeremy Glenn. Next up: Cherry Beach, Toronto on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ Phillippe is a house and techno artist tracked on soundcheck, with 70 sets logge
 
 Karim Olen Ash, Jaw Jones, Jeremy Glenn
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

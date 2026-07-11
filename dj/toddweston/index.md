@@ -1,6 +1,6 @@
 # Todd Weston
 
-Todd Weston is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Fabrica, Washington DC on Sat, 11 Jul 2026.
+Todd Weston is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Fabrica, Washington DC on Sat, 11 Jul 2026.
 
 Todd Weston is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit and Washingtondc. Often billed alongside Bruce Bailey, DJ SYNC and Big Joe Hix. Next up: La Fabrica, Washingtondc on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Todd Weston is a house and techno artist based in United States of America, trac
 
 Bruce Bailey, DJ SYNC, Big Joe Hix
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddweston/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddweston/)*

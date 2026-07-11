@@ -1,6 +1,6 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berlin, Los Angeles on Sat, 11 Jul 2026.
+DJ Ruby is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berlin, Los Angeles on Sat, 11 Jul 2026.
 
 DJ Ruby is a progressive house and deep house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Mayro. Next up: Berlin, Losangeles on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ DJ Ruby is a progressive house and deep house artist tracked on soundcheck, with
 
 Daniel Blade, Abdy, Mayro
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*

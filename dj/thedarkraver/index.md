@@ -1,6 +1,6 @@
 # The Darkraver
 
-The Darkraver is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Maarsseveense Plassen, Utrecht on Sat, 11 Jul 2026.
+The Darkraver is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Maarsseveense Plassen, Utrecht on Sat, 11 Jul 2026.
 
 The Darkraver is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Frankfurt and 2 more. Often billed alongside Pavo, Ruffian and Buzz Fuzz. Next up: Maarsseveense Plassen, Utrecht on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ The Darkraver is a hardcore and gabber artist based in Netherlands, tracked on s
 
 Pavo, Ruffian, Buzz Fuzz
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkraver/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkraver/)*

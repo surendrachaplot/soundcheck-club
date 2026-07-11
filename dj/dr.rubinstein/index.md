@@ -1,6 +1,6 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
+Dr. Rubinstein is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
 
 Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 58 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: Razzmatazz, Barcelona on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Dr. Rubinstein is a techno and house artist tracked on soundcheck, with 197 sets
 
 Ellen Allien, Freddy K, Akua
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

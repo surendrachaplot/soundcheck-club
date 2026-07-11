@@ -1,6 +1,6 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silbergold, Frankfurt on Sat, 11 Jul 2026.
+Deselecta is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silbergold, Frankfurt on Sat, 11 Jul 2026.
 
 Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 63 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: Silbergold, Frankfurt on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 63 sets
 
 Krash Dubs, 50CAL, Sleazebag
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*

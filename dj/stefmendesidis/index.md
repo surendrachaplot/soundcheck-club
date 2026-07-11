@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Stef Mendesidis is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Stef Mendesidis is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 41 more. Often billed alongside DAX J, Nastia and SHDW. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Stef Mendesidis is a techno and house artist tracked on soundcheck, with 136 set
 
 DAX J, Nastia, SHDW
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

@@ -1,6 +1,6 @@
 # Christa Belle
 
-Christa Belle is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The American, Vancouver on Sat, 11 Jul 2026.
+Christa Belle is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The American, Vancouver on Sat, 11 Jul 2026.
 
 Christa Belle is a house and balearic artist based in Canada, tracked on soundcheck, with 24 sets logged across Berlin and Vancouver. Often billed alongside DJ D.Dee, Martyn Bootyspoon and Pascale Project. Next up: The American, Vancouver on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Christa Belle is a house and balearic artist based in Canada, tracked on soundch
 
 DJ D.Dee, Martyn Bootyspoon, Pascale Project
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*

@@ -1,6 +1,6 @@
 # Mizuki
 
-Mizuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Red Bar, Tokyo on Sat, 11 Jul 2026.
+Mizuki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Red Bar, Tokyo on Sat, 11 Jul 2026.
 
 Mizuki is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Mexicocity, Newyorkcity and Tokyo. Often billed alongside DJ Sodeyama, Leo Gabriel and Andre McLeod. Next up: Red Bar, Tokyo on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Mizuki is a house and techno artist based in United Kingdom, tracked on soundche
 
 DJ Sodeyama, Leo Gabriel, Andre McLeod
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*

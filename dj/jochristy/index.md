@@ -1,6 +1,6 @@
 # Jo Christy
 
-Jo Christy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 11 Jul 2026.
+Jo Christy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Collingwood Basement, Melbourne on Sat, 11 Jul 2026.
 
 Jo Christy is a house and techno artist tracked on soundcheck, with 39 sets logged across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: Collingwood Basement, Melbourne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Jo Christy is a house and techno artist tracked on soundcheck, with 39 sets logg
 
 Jesse DM, Simonetti, Slumdog
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*

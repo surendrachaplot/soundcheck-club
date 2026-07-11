@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Julian Fijma is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
 Julian Fijma is a house and tech house artist tracked on soundcheck, with 105 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 27 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 105 se
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

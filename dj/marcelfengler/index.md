@@ -1,6 +1,6 @@
 # Marcel Fengler
 
-Marcel Fengler is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at KALT, Strasbourg on Sat, 11 Jul 2026.
+Marcel Fengler is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at KALT, Strasbourg on Sat, 11 Jul 2026.
 
 Marcel Fengler is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside STEYA, Inverse Element and OGUZ. Next up: KALT, Strasbourg on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Marcel Fengler is a techno and house artist based in Germany, tracked on soundch
 
 STEYA, Inverse Element, OGUZ
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelfengler/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelfengler/)*

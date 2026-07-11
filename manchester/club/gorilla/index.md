@@ -1,6 +1,6 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "VOID 001" on Sat, 18 Jul 2026.
+Gorilla is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "VOID 001" on Sat, 18 Jul 2026.
 
 Gorilla is a music venue in Manchester listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
@@ -19,4 +19,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 6 upcoming nights. 
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

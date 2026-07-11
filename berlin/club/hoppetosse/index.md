@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SWAG Records Re-Launch Party" on Sat, 18 Jul 2026.
+Hoppetosse is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SWAG Records Re-Launch Party" on Sat, 18 Jul 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including BODYSHIFT, Coco, Eddie Richards and Elli Altenberger and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

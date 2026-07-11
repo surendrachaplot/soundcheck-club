@@ -1,6 +1,6 @@
 # Onkel Dannys Plads
 
-Onkel Dannys Plads is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Cumfort x Alternativ Pride Åbningsfest" on Sat, 8 Aug 2026.
+Onkel Dannys Plads is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Cumfort x Alternativ Pride Åbningsfest" on Sat, 8 Aug 2026.
 
 Onkel Dannys Plads is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including DJ Nah Care, DJ Woo Girl and Jungle Julia(DK). Browse upcoming dates, start times and who's playing. Onkel Dannys Pl., 1711 KÃ¸benhavn.
 
@@ -14,4 +14,4 @@ Onkel Dannys Plads is a music venue in Copenhagen listed on soundcheck. 1 upcomi
 
 Onkel Dannys Pl., 1711 KÃ¸benhavn, Copenhagen
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/onkel-dannys-plads/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/onkel-dannys-plads/)*

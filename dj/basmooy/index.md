@@ -1,6 +1,6 @@
 # Bas Mooy
 
-Bas Mooy is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at SMUT Athens, Athens on Sat, 11 Jul 2026.
+Bas Mooy is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at SMUT Athens, Athens on Sat, 11 Jul 2026.
 
 Bas Mooy is a techno and acid artist tracked on soundcheck, with 62 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Charlton, UVB and Thanos Hana. Next up: SMUT Athens, Athens on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Bas Mooy is a techno and acid artist tracked on soundcheck, with 62 sets logged 
 
 Charlton, UVB, Thanos Hana
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*

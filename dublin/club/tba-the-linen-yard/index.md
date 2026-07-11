@@ -1,6 +1,6 @@
 # TBA - The Linen Yard
 
-TBA - The Linen Yard is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Self Care Craft Club X C'mere to Me Block Party" on Sat, 18 Jul 2026.
+TBA - The Linen Yard is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Self Care Craft Club X C'mere to Me Block Party" on Sat, 18 Jul 2026.
 
 TBA - The Linen Yard is a music venue in Dublin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Linen Yard is a music venue in Dublin listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Self Care Craft Club X C'mere to Me Block Party |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-the-linen-yard/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/tba-the-linen-yard/)*

@@ -1,6 +1,6 @@
 # Ludviq
 
-Ludviq is a Downtempo and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Super5, Lyon on Thu, 16 Jul 2026.
+Ludviq is a Downtempo and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Super5, Lyon on Thu, 16 Jul 2026.
 
 Ludviq is a downtempo and disco artist based in Mexico, tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Lyon and Madrid and 4 more. Often billed alongside Heinech, Intruso and sergione. Next up: Super5, Lyon on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Ludviq is a downtempo and disco artist based in Mexico, tracked on soundcheck, w
 
 Heinech, Intruso, sergione
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*

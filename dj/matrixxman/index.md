@@ -1,6 +1,6 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 11 Jul 2026.
+Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 11 Jul 2026.
 
 Matrixxman is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: RSO.BERLIN, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Matrixxman is a techno and house artist tracked on soundcheck, with 163 sets log
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

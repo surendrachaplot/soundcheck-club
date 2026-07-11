@@ -1,15 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Freak NYC" on Fri, 10 Jul 2026.
+Green Room NYC is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Come With" on Sat, 11 Jul 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including MORENXXX, Amor Satyr, Amy Jor and Andrei Ciubuc and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including MORENXXX, Amor Satyr, Amy Jor and Andrei Ciubuc and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Freak NYC | Arvin T, Graeme, Jeffrey Sfire, LUN★, Leonce, Saia, Sharlese, Sister Zo |
-| Fri, 10 Jul 2026 | Golden Record NYC presents Penelope, Kiyoshi, Sasta | Chuwee, Kiyoshi, Penelope (2), Sasta, Seb Hall |
 | Sat, 11 Jul 2026 | Come With | Berky, KRNeY, MISS VEE, SheDay |
 | Sat, 11 Jul 2026 | Golden Record NYC x Nocturna | Amy Jor, Andrei Ciubuc, Bella Mutino, Chloe Battelle, Cosmjn, Maayan Nidam, Nico Noir, Yochanan |
 | Fri, 17 Jul 2026 | Golden Record NYC x Hudd Traxx present Chez Damier, Huerta & Eddie Leader | Auphoria, Chez Damier, Choukroun, Eddie Leader, Huerta, Jon Starks |
@@ -21,4 +19,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

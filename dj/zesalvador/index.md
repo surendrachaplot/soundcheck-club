@@ -1,6 +1,6 @@
 # Ze Salvador
 
-Ze Salvador is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 5A, Lisbon on Sat, 11 Jul 2026.
+Ze Salvador is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 5A, Lisbon on Sat, 11 Jul 2026.
 
 Ze Salvador is a techno and house artist based in Portugal, tracked on soundcheck, with 100 sets logged across Lisbon and Porto. Often billed alongside Solid-Funk, Cruz (PT) and Kaesar. Next up: 5A, Lisbon on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Ze Salvador is a techno and house artist based in Portugal, tracked on soundchec
 
 Solid-Funk, Cruz (PT), Kaesar
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zesalvador/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zesalvador/)*

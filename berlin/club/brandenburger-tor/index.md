@@ -1,6 +1,6 @@
 # Brandenburger Tor
 
-Brandenburger Tor is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Rave the Planet - Vibration Float" on Sat, 15 Aug 2026.
+Brandenburger Tor is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Rave the Planet - Vibration Float" on Sat, 15 Aug 2026.
 
 Brandenburger Tor is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Brandenburger Tor, Berlin.
 
@@ -14,4 +14,4 @@ Brandenburger Tor is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Brandenburger Tor, Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/brandenburger-tor/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/brandenburger-tor/)*

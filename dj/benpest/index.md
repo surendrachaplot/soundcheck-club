@@ -1,6 +1,6 @@
 # Ben Pest
 
-Ben Pest is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Humboldthain Club, Berlin on Sat, 11 Jul 2026.
+Ben Pest is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Humboldthain Club, Berlin on Sat, 11 Jul 2026.
 
 Ben Pest is a techno and electro artist tracked on soundcheck, with 38 sets logged across Athens, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Jerome Hill, ARA-U and Fear-E. Next up: Humboldthain Club, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Ben Pest is a techno and electro artist tracked on soundcheck, with 38 sets logg
 
 Jerome Hill, ARA-U, Fear-E
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benpest/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benpest/)*

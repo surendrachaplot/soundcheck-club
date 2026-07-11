@@ -1,6 +1,6 @@
 # Andy Luff
 
-Andy Luff is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 11 Jul 2026.
+Andy Luff is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 11 Jul 2026.
 
 Andy Luff is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Jos, Loa Szala and Tadeusz. Next up: Tokonoma Club, Frankfurt on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Andy Luff is a house and techno artist tracked on soundcheck, with 108 sets logg
 
 Jos, Loa Szala, Tadeusz
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*

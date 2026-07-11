@@ -1,6 +1,6 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Terrrazza, Barcelona on Sat, 11 Jul 2026.
+Sam Divine is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Terrrazza, Barcelona on Sat, 11 Jul 2026.
 
 Sam Divine is a house and tech house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: La Terrrazza, Barcelona on Sat 11 Jul.
 
@@ -34,4 +34,4 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 163 sets
 
 Low Steppa, Arielle Free, Rio Tashan
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

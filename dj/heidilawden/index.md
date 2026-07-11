@@ -1,14 +1,13 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 1800 Ocean Front Walk, Venice , Los Angeles on Fri, 10 Jul 2026.
+Heidi Lawden is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
 
-Heidi Lawden is a house and disco artist tracked on soundcheck, with 162 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 1800 Ocean Front Walk, Venice , Losangeles on Fri 10 Jul.
+Heidi Lawden is a house and disco artist tracked on soundcheck, with 162 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - 2346 Porter Street, Los Angeles, CA 90021, Losangeles on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | TBA - 1800 Ocean Front Walk, Venice  | Los Angeles |
 | Sat, 11 Jul 2026 | TBA - 2346 Porter Street, Los Angeles, CA 90021 | Los Angeles |
 | Sun, 12 Jul 2026 | The Escondite (The Hideout) | Los Angeles |
 | Fri, 17 Jul 2026 | Amnesia Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 162 sets lo
 
 ## Recently played
 
+- TBA - 1800 Ocean Front Walk, Venice , Los Angeles — Fri, 10 Jul 2026
 - TBA - Rave DEN, Los Angeles — Sat, 27 Jun 2026
 - François Ghebaly + Night Gallery, Los Angeles — Sat, 27 Jun 2026
 - Massive, Seattle — Wed, 24 Jun 2026
@@ -28,10 +28,9 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 162 sets lo
 - TBA - DTLA, Los Angeles — Sat, 30 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - The Rose Room, Los Angeles — Sat, 16 May 2026
-- Aurora Warehouse, Los Angeles — Sat, 2 May 2026
 
 ## Shares bills with
 
 Masha Mar, Lovefingers, Masha
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*

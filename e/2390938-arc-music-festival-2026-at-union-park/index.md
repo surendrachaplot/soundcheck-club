@@ -1,6 +1,6 @@
 # ARC Music Festival 2026 at Union Park
 
-ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 113 acts on the bill: 999999999, ANNA, Adrian Mills and Anyma and 109 more. Techno and House. Preview the line-up and save it on soundcheck.
+ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bill: 999999999, ANNA, Adrian Mills and Anyma and 110 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 113 acts on the bi
 - Ben Sterling
 - Ben UFO
 - Biscits
+- Brunello
 - Brutalismus 3000
 - Bushbaby
 - Carl Craig

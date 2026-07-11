@@ -1,6 +1,6 @@
 # Céleste
 
-Céleste is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Berkeley Suite, Glasgow on Fri, 31 Jul 2026.
+Céleste is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Berkeley Suite, Glasgow on Fri, 31 Jul 2026.
 
 Céleste is a techno and house artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 8 more. Often billed alongside t e s t p r e s s, LA MAISON and ALWAYS 8:15. Next up: The Berkeley Suite, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Céleste is a techno and house artist based in United Kingdom, tracked on soundc
 
 t e s t p r e s s, LA MAISON, ALWAYS 8:15
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/celeste/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/celeste/)*

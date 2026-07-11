@@ -1,14 +1,13 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Orange Room, London on Fri, 10 Jul 2026.
+leverson is a Hip-Hop and R&B artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Nine Lives, London on Sat, 11 Jul 2026.
 
-leverson is a hip-hop and r&b artist tracked on soundcheck, with 165 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Orange Room, London on Fri 10 Jul.
+leverson is a hip-hop and r&b artist tracked on soundcheck, with 165 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Nine Lives, London on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Orange Room | London |
 | Sat, 11 Jul 2026 | Nine Lives | London |
 | Thu, 30 Jul 2026 | New Forms | London |
 | Fri, 31 Jul 2026 | Spiritland | London |
@@ -19,6 +18,7 @@ leverson is a hip-hop and r&b artist tracked on soundcheck, with 165 sets logged
 
 ## Recently played
 
+- Orange Room, London — Fri, 10 Jul 2026
 - The Rainbow Venues, Birmingham — Fri, 26 Jun 2026
 - Nico's Bar at Hackney Bridge, London — Fri, 19 Jun 2026
 - Mad Cats, London — Thu, 18 Jun 2026
@@ -26,10 +26,9 @@ leverson is a hip-hop and r&b artist tracked on soundcheck, with 165 sets logged
 - Multi Story, London — Fri, 5 Jun 2026
 - New Forms, London — Thu, 4 Jun 2026
 - The Devil You Know, London — Sat, 30 May 2026
-- Ballroom at Palais, London — Thu, 28 May 2026
 
 ## Shares bills with
 
 Signorina, Omari King, Omari
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

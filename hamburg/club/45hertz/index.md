@@ -1,6 +1,6 @@
 # 45hertz
 
-45hertz is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bassmuzik Festival 2026" on Sat, 11 Jul 2026.
+45hertz is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Bassmuzik Festival 2026" on Sat, 11 Jul 2026.
 
 45hertz is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Bangerfabrique, Cho Room, Gard and Gato and 2 more. Browse upcoming dates, start times and who's playing. Lagerstraße 18-24 20357 Hamburg.
 
@@ -14,4 +14,4 @@
 
 Lagerstraße 18-24 20357 Hamburg, Hamburg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/45hertz/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/45hertz/)*

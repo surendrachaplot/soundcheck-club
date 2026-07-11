@@ -1,6 +1,6 @@
 # Floyd Lavine
 
-Floyd Lavine is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at SAGE, Berlin on Sat, 11 Jul 2026.
+Floyd Lavine is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at SAGE, Berlin on Sat, 11 Jul 2026.
 
 Floyd Lavine is an afro house and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: SAGE, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Floyd Lavine is an afro house and house artist tracked on soundcheck, with 64 se
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*

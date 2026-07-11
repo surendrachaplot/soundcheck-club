@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Milneys, Melbourne on Sat, 11 Jul 2026.
+Mothafunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Milneys, Melbourne on Sat, 11 Jul 2026.
 
 Mothafunk is a house and techno artist based in United States of America, tracked on soundcheck, with 64 sets logged across Chicago, Melbourne and Newyorkcity. Often billed alongside Chris NG, Kgomotso and Sophie Forrest. Next up: Milneys, Melbourne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Mothafunk is a house and techno artist based in United States of America, tracke
 
 Chris NG, Kgomotso, Sophie Forrest
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

@@ -1,6 +1,6 @@
 # Scottie D
 
-Scottie D is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Get Naked by Bordello, Bucharest on Sat, 11 Jul 2026.
+Scottie D is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Get Naked by Bordello, Bucharest on Sat, 11 Jul 2026.
 
 Scottie D is a house and afro house artist tracked on soundcheck, with 17 sets logged across Bucharest and London. Often billed alongside Zaki, Manish and Shenin Amara. Next up: Get Naked by Bordello, Bucharest on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Scottie D is a house and afro house artist tracked on soundcheck, with 17 sets l
 
 Zaki, Manish, Shenin Amara
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottied/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottied/)*

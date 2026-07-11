@@ -1,6 +1,6 @@
 # Kora (CA)
 
-Kora (CA) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 11 Jul 2026.
+Kora (CA) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 11 Jul 2026.
 
 Kora (CA) is a deep house and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Austin and Berlin and 13 more. Often billed alongside Dexter Crowe, Madota and Atish. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Kora (CA) is a deep house and house artist tracked on soundcheck, with 55 sets l
 
 Dexter Crowe, Madota, Atish
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kora-ca/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kora-ca/)*

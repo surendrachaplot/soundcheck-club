@@ -1,6 +1,6 @@
 # NICI PALM
 
-NICI PALM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
+NICI PALM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
 
 NICI PALM is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Leipzig, Mexicocity and Milan and 1 more. Often billed alongside Templeton, catjes and DJ Hell. Next up: Distillery, Leipzig on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ NICI PALM is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Templeton, catjes, DJ Hell
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicipalm/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicipalm/)*

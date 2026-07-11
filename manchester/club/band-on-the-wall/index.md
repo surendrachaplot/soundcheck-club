@@ -1,6 +1,6 @@
 # Band on the Wall
 
-Band on the Wall is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Carbon Based Lifeforms x AES Dana" on Fri, 2 Oct 2026.
+Band on the Wall is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Carbon Based Lifeforms x AES Dana" on Fri, 2 Oct 2026.
 
 Band on the Wall is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Aes Dana and Carbon Based Lifeforms. Browse upcoming dates, start times and who's playing. 27 Swan St, Manchester M4 5JZ.
 
@@ -14,4 +14,4 @@ Band on the Wall is a music venue in Manchester listed on soundcheck. 1 upcoming
 
 27 Swan St, Manchester M4 5JZ, Manchester
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/band-on-the-wall/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/band-on-the-wall/)*

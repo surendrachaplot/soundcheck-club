@@ -1,6 +1,6 @@
 # Vivian Wang
 
-Vivian Wang is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Refuge, New York City on Sat, 11 Jul 2026.
+Vivian Wang is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Refuge, New York City on Sat, 11 Jul 2026.
 
 Vivian Wang is a house and techno artist based in United States of America, tracked on soundcheck, with 98 sets logged across Amsterdam, Buenosaires, Chicago and Detroit and 6 more. Often billed alongside Asha Jasz, Devoye and J. Richards. Next up: Refuge, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Vivian Wang is a house and techno artist based in United States of America, trac
 
 Asha Jasz, Devoye, J. Richards
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianwang/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianwang/)*

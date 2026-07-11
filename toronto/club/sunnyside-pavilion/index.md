@@ -1,6 +1,6 @@
 # Sunnyside Pavilion
 
-Sunnyside Pavilion is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Defected Records Takeover x Sunnyside Sessions" on Sat, 11 Jul 2026.
+Sunnyside Pavilion is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Defected Records Takeover x Sunnyside Sessions" on Sat, 11 Jul 2026.
 
 Sunnyside Pavilion is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Gene Farris, Hatiras, Jeremy Olander and Low Steppa and 1 more. Browse upcoming dates, start times and who's playing. 1755 Lake Shore Blvd; Toronto, ON M6S; Canada.
 
@@ -15,4 +15,4 @@ Sunnyside Pavilion is a music venue in Toronto listed on soundcheck. 2 upcoming 
 
 1755 Lake Shore Blvd; Toronto, ON M6S; Canada, Toronto
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sunnyside-pavilion/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sunnyside-pavilion/)*

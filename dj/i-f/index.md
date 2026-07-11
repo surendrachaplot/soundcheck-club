@@ -1,6 +1,6 @@
 # I-F
 
-I-F is a Disco and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+I-F is a Disco and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
 I-F is a disco and italo disco artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ I-F is a disco and italo disco artist tracked on soundcheck, with 75 sets logged
 
 Intergalactic Gary, Marsman, Esther Dune
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*

@@ -1,14 +1,13 @@
 # Pacha New York
 
-Pacha New York is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "ANOTR" on Fri, 10 Jul 2026.
+Pacha New York is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "ANOTR" on Sat, 11 Jul 2026.
 
-Pacha New York is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Artbat, Alok, ANOTR and Argy and 2 more. Browse upcoming dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
+Pacha New York is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including Artbat, Alok, ANOTR and Argy and 2 more. Browse upcoming dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | ANOTR | ANOTR |
 | Sat, 11 Jul 2026 | ANOTR | ANOTR |
 | Fri, 17 Jul 2026 | elrow: Dance with the Serpent by Nychos (2nd show added) | Easttown, Gene Farris, Grace Arribas, HVNLEE, J. Worra, Luna Mar, Patrick Topping, RSquared, Tini Gessler |
 | Sat, 18 Jul 2026 | elrow |  |
@@ -17,10 +16,11 @@ Pacha New York is a music venue in Newyorkcity listed on soundcheck. 16 upcoming
 | Sat, 1 Aug 2026 | Alok presents Rave The World | Alok |
 | Sat, 15 Aug 2026 | Lost Frequencies |  |
 | Fri, 21 Aug 2026 | Seth Troxler, Loco Dice and Victor Calderone | Loco Dice, Seth Troxler, Victor Calderone |
+| Fri, 21 Aug 2026 | Loco Dice, Seth Troxler, Victor Calderone | Loco Dice, Seth Troxler, Victor Calderone |
 | Fri, 28 Aug 2026 | Argy | Argy |
 
 ## Address
 
 140 Stewart Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*

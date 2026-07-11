@@ -1,6 +1,6 @@
 # HARDWeRK VI: HARDCORE WILL [ ..NEVER] WeRK at TBA
 
-HARDWeRK VI: HARDCORE WILL [ ..NEVER] WeRK at TBA on Fri 2 Oct, Manchester. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+HARDWeRK VI: HARDCORE WILL [ ..NEVER] WeRK at TBA on Fri 2 Oct, Manchester. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

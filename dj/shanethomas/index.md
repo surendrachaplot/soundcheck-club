@@ -1,6 +1,6 @@
 # Shane Thomas
 
-Shane Thomas is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Escondite (The Hideout), Los Angeles on Sun, 12 Jul 2026.
+Shane Thomas is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Escondite (The Hideout), Los Angeles on Sun, 12 Jul 2026.
 
 Shane Thomas is a club and techno artist tracked on soundcheck, with 74 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: The Escondite (The Hideout), Losangeles on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Shane Thomas is a club and techno artist tracked on soundcheck, with 74 sets log
 
 Rob Aquino, Banoffee, Miracles
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shanethomas/)*

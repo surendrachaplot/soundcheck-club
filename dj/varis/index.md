@@ -1,6 +1,6 @@
 # Varis
 
-Varis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA -  SECRET LOCATION , Valencia on Sat, 11 Jul 2026.
+Varis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA -  SECRET LOCATION , Valencia on Sat, 11 Jul 2026.
 
 Varis is a house and tech house artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Budapest and Madrid and 1 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: TBA -  SECRET LOCATION , Valencia on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Varis is a house and tech house artist tracked on soundcheck, with 33 sets logge
 
 Pizzicatto, Pau Pérez, Sueezo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*

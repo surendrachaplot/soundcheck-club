@@ -1,6 +1,6 @@
 # Dirty Rabbit Hidden Bar
 
-Dirty Rabbit Hidden Bar is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "DEEP DARK DIRTY" on Sat, 11 Jul 2026.
+Dirty Rabbit Hidden Bar is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "DEEP DARK DIRTY" on Sat, 11 Jul 2026.
 
 Dirty Rabbit Hidden Bar is a music venue in Bangkok listed on soundcheck. 1 upcoming night, with line-ups including André Pillar and OPTIKZ. Browse upcoming dates, start times and who's playing. 11 Soi Yen Akat 2, Khwaeng Chong Nonsi, Khet Yan Nawa, 10120.
 
@@ -14,4 +14,4 @@ Dirty Rabbit Hidden Bar is a music venue in Bangkok listed on soundcheck. 1 upco
 
 11 Soi Yen Akat 2, Khwaeng Chong Nonsi, Khet Yan Nawa, 10120, Bangkok
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dirty-rabbit-hidden-bar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dirty-rabbit-hidden-bar/)*

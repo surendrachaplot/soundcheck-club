@@ -1,6 +1,6 @@
 # Dana Montana
 
-Dana Montana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at House of Yes, New York City on Sat, 11 Jul 2026.
+Dana Montana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at House of Yes, New York City on Sat, 11 Jul 2026.
 
 Dana Montana is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Montana, OGUZ and EMILIJA. Next up: House of Yes, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Dana Montana is a techno and house artist tracked on soundcheck, with 110 sets l
 
 Montana, OGUZ, EMILIJA
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danamontana/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danamontana/)*

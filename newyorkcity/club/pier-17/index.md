@@ -1,6 +1,6 @@
 # Pier 17
 
-Pier 17 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Rooftop - New York, NY" on Sat, 29 Aug 2026.
+Pier 17 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "The Rooftop - New York, NY" on Sat, 29 Aug 2026.
 
 Pier 17 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing. South Street Seaport, 12 Fulton St; New York, NY 10038; United States.
 
@@ -14,4 +14,4 @@ Pier 17 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, 
 
 South Street Seaport, 12 Fulton St; New York, NY 10038; United States, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-17/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-17/)*

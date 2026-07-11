@@ -1,6 +1,6 @@
 # Buttechno
 
-Buttechno is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Coro Wine and Vinyls, Berlin on Sat, 11 Jul 2026.
+Buttechno is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Coro Wine and Vinyls, Berlin on Sat, 11 Jul 2026.
 
 Buttechno is an experimental and techno artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: Coro Wine and Vinyls, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Buttechno is an experimental and techno artist based in Germany, tracked on soun
 
 Mama Snake, upsammy, DjRUM
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buttechno/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buttechno/)*

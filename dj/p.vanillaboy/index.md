@@ -1,6 +1,6 @@
 # P.Vanillaboy
 
-P.Vanillaboy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+P.Vanillaboy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 P.Vanillaboy is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Penglord, EliaHaze and BBetriebswirt. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ P.Vanillaboy is a techno and house artist based in Germany, tracked on soundchec
 
 Penglord, EliaHaze, BBetriebswirt
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p.vanillaboy/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/p.vanillaboy/)*

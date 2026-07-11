@@ -1,6 +1,6 @@
 # Doula
 
-Doula is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, New York City on Sat, 11 Jul 2026.
+Doula is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, New York City on Sat, 11 Jul 2026.
 
 Doula is a techno and bass artist tracked on soundcheck, with 64 sets logged across Newyorkcity. Often billed alongside 8ULENTINA, wahala.wav and LITA DA DOLL. Next up: TBA, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Doula is a techno and bass artist tracked on soundcheck, with 64 sets logged acr
 
 8ULENTINA, wahala.wav, LITA DA DOLL
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doula/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doula/)*

@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "CODE SUMMER FESTIVAL - Fabrik" on Sat, 11 Jul 2026.
+Fabrik is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "CODE SUMMER FESTIVAL - Fabrik" on Sat, 11 Jul 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Adriana Lopez, Ana Rs, Anetha and Anna Jevills and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -19,4 +19,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with 
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

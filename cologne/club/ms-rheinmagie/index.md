@@ -1,6 +1,6 @@
 # MS RheinMagie
 
-MS RheinMagie is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "PollerWiesen Boat 2026 (sold out)" on Sun, 12 Jul 2026.
+MS RheinMagie is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "PollerWiesen Boat 2026 (sold out)" on Sun, 12 Jul 2026.
 
 MS RheinMagie is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including Benwal, DJ Fuckoff, Janis Zielinski and Mija and 1 more. Browse upcoming dates, start times and who's playing. Konrad Adenauer Ufer 80 50688 Köln.
 
@@ -16,4 +16,4 @@ MS RheinMagie is a music venue in Cologne listed on soundcheck. 3 upcoming night
 
 Konrad Adenauer Ufer 80 50688 Köln, Cologne
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/ms-rheinmagie/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/ms-rheinmagie/)*

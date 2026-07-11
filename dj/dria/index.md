@@ -1,6 +1,6 @@
 # DRIA
 
-DRIA is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Eutopia Warehouse, London on Sat, 18 Jul 2026.
+DRIA is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Eutopia Warehouse, London on Sat, 18 Jul 2026.
 
 DRIA is an afro house and tech house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across London. Often billed alongside Beezo, Shenin Amara and HAIG. Next up: Eutopia Warehouse, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ DRIA is an afro house and tech house artist based in United Kingdom, tracked on 
 
 Beezo, Shenin Amara, HAIG
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*

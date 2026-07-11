@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
+Andrew Azara is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
 
 Andrew Azara is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 7 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Andrew Azara is a house and tech house artist tracked on soundcheck, with 35 set
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

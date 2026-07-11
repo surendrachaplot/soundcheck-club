@@ -1,14 +1,13 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "OPERATOR with Maruwa, Kawun & Prom Night" on Fri, 10 Jul 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "strictly strictly with Vincent Neumann & Ensure" on Sat, 11 Jul 2026.
 
-Jolene is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including avoN, Crisco, djfix and Jek (US) and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
+Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including avoN, Crisco, djfix and Jek (US) and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | OPERATOR with Maruwa, Kawun & Prom Night | Kawun, Maruwa, Prom Night |
 | Sat, 11 Jul 2026 | strictly strictly with Vincent Neumann & Ensure | Klex, Vincent Neumann |
 | Thu, 16 Jul 2026 | Jolene x ROLL AS ONE #2 | avoN |
 | Thu, 23 Jul 2026 | Pass-The-Aux Copenhagen | samgood |
@@ -19,4 +18,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

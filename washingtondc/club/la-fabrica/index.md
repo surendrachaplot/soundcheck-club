@@ -1,6 +1,6 @@
 # La Fabrica
 
-La Fabrica is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "A10N AFTER [ArpTen] : J.Garcia, Todd Weston, SPCL.K, Ravida" on Sat, 11 Jul 2026.
+La Fabrica is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "A10N AFTER [ArpTen] : J.Garcia, Todd Weston, SPCL.K, Ravida" on Sat, 11 Jul 2026.
 
 La Fabrica is a music venue in Washingtondc listed on soundcheck. 4 upcoming nights, with line-ups including Eric Yaz, J.Garcia, MAXIMILIANO (US) and Micfreak and 2 more. Browse upcoming dates, start times and who's playing. 1124 Congress St NE, Washington DC 20002.
 
@@ -17,4 +17,4 @@ La Fabrica is a music venue in Washingtondc listed on soundcheck. 4 upcoming nig
 
 1124 Congress St NE, Washington DC 20002, Washington DC
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*

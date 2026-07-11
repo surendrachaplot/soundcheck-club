@@ -1,6 +1,6 @@
 # Tippa
 
-Tippa is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Studio 338, London on Sat, 11 Jul 2026.
+Tippa is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Studio 338, London on Sat, 11 Jul 2026.
 
 Tippa is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across London. Often billed alongside Supa D, Mark Radford and Shenin Amara. Next up: Studio 338, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Tippa is a house and deep house artist based in United Kingdom, tracked on sound
 
 Supa D, Mark Radford, Shenin Amara
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*

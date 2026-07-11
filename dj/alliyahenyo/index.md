@@ -1,6 +1,6 @@
 # Alliyah Enyo
 
-Alliyah Enyo is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Alliyah Enyo is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Alliyah Enyo is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Edinburgh and Glasgow and 3 more. Often billed alongside JayJay, TRSSX and blairo. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Alliyah Enyo is an experimental and techno artist based in United Kingdom, track
 
 JayJay, TRSSX, blairo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alliyahenyo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alliyahenyo/)*

@@ -1,6 +1,6 @@
 # Dixon
 
-Dixon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
+Dixon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
 
 Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged a
 
 Jimi Jules, Âme, Trikk
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

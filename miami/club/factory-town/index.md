@@ -1,6 +1,6 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Zeds Dead: Journey Of A Lifetime Tour" on Sat, 1 Aug 2026.
+Factory Town is a music venue in Miami with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Zeds Dead: Journey Of A Lifetime Tour" on Sat, 1 Aug 2026.
 
 Factory Town is a music venue in Miami listed on soundcheck. 6 upcoming nights, with line-ups including Brutalismus 3000, Eera, fumi (DE) and hhunter and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
@@ -19,4 +19,4 @@ Factory Town is a music venue in Miami listed on soundcheck. 6 upcoming nights, 
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

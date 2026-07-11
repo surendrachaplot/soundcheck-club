@@ -1,8 +1,8 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
+DESIREE (RSA) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
 
-DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Carlita and Dixon. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
+DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Carlita and Dixon. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 109 sets 
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Sat, 12 Sept 2026 | Lula Club | Madrid |
 | Fri, 18 Sept 2026 | Petra Theater | Athens |
+| Sat, 26 Sept 2026 | KOKO | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 109 sets 
 
 Sossa, Carlita, Dixon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

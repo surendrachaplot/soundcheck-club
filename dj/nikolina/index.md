@@ -1,6 +1,6 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Puerto de Sagunto, Valencia on Sat, 11 Jul 2026.
+Nikolina is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Puerto de Sagunto, Valencia on Sat, 11 Jul 2026.
 
 Nikolina is a techno and industrial artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Azyr, Restricted and Adrian Mills. Next up: TBA - Puerto de Sagunto, Valencia on Sat 11 Jul.
 
@@ -35,4 +35,4 @@ Nikolina is a techno and industrial artist tracked on soundcheck, with 102 sets 
 
 Azyr, Restricted, Adrian Mills
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

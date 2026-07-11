@@ -1,14 +1,13 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Yu Yu Cine Club: EM2K, Mejía, Emme" on Fri, 10 Jul 2026.
+YuYu Cine Club is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Yu Yu Cine Club: Anthony Parasole" on Sat, 11 Jul 2026.
 
-YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including Anthony Parasole, Buena Tarde, Byrell The Great and Camila Valero and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
+YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including Anthony Parasole, Buena Tarde, Byrell The Great and Camila Valero and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Yu Yu Cine Club: EM2K, Mejía, Emme | EM2K, Mejia |
 | Sat, 11 Jul 2026 | Yu Yu Cine Club: Anthony Parasole | Anthony Parasole |
 | Fri, 17 Jul 2026 | Yu Yu Cine Club: Milky Babe Records takeover with DJ Milka, Camila Valero, Celice | Camila Valero, Celice Monnette, DJ Milka |
 | Sat, 18 Jul 2026 | Yu Yu Cine Club: Finesse takeover w/ Teen Flirt, Buena Tarde, Carmina | Buena Tarde, Carmina, Teen Flirt |
@@ -21,4 +20,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 8 upcoming n
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

@@ -1,6 +1,6 @@
 # Juan Atkins
 
-Juan Atkins is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Juan Atkins is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Juan Atkins is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 19 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Juan Atkins is a techno and house artist based in United States of America, trac
 
 Delano Smith, Carl Craig, Christian AB
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*

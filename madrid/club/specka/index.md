@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Triffulca I Specka Club" on Fri, 10 Jul 2026.
+Specka is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "F.L.A.D 2.0 I Specka Club" on Sat, 11 Jul 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including Akibeel, ananke, Dani Durán and David Ponziano and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Akibeel, ananke, Dani Durán and David Ponziano and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Triffulca I Specka Club | Gonzalo S |
 | Sat, 11 Jul 2026 | F.L.A.D 2.0 I Specka Club | Rosy Specka, Yvan Corrochano |
 | Fri, 17 Jul 2026 | Techno Madrid Group 100% vinyl I Specka Club | NSEL, Vibrations of Gravity, ananke |
 | Sat, 18 Jul 2026 | David el Niño I Incunables |  |
@@ -22,4 +21,4 @@ Specka is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with 
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

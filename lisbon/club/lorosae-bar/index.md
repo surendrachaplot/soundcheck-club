@@ -1,6 +1,6 @@
 # Lorosae Bar
 
-Lorosae Bar is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "EDIT presents...The Desert Beach Edition" on Sat, 11 Jul 2026.
+Lorosae Bar is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "EDIT presents...The Desert Beach Edition" on Sat, 11 Jul 2026.
 
 Lorosae Bar is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Billi, Dj Over12, Jamaimoi and Jigar and 2 more. Browse upcoming dates, start times and who's playing. Sabor a Praia - Lorosae - Praias de S.João - Costa da Caparica.
 
@@ -16,4 +16,4 @@ Lorosae Bar is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, 
 
 Sabor a Praia - Lorosae - Praias de S.João - Costa da Caparica, Lisbon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lorosae-bar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lorosae-bar/)*

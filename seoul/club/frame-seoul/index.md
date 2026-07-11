@@ -1,6 +1,6 @@
 # Frame Seoul
 
-Frame Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "SHIP WREK presented by OFFGRID x FRAME" on Fri, 17 Jul 2026.
+Frame Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "SHIP WREK presented by OFFGRID x FRAME" on Fri, 17 Jul 2026.
 
 Frame Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including AXÖN and Howmini. Browse upcoming dates, start times and who's playing. 36, Eonju-ro 170-gil, Gangnam-gu, Seoul, Korea 06017.
 
@@ -14,4 +14,4 @@ Frame Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, wi
 
 36, Eonju-ro 170-gil, Gangnam-gu, Seoul, Korea 06017, Seoul
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/frame-seoul/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/frame-seoul/)*

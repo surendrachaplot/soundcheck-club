@@ -1,6 +1,6 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 12 Jul 2026.
+Job Jobse is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 12 Jul 2026.
 
 Job Jobse is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Sedef Adasï. Next up: Parc de la Trinitat, Barcelona on Sun 12 Jul.
 
@@ -33,4 +33,4 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 139 sets logg
 
 Palms Trax, BASHKKA, Sedef Adasï
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

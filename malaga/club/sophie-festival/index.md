@@ -1,6 +1,6 @@
 # Sophie Festival
 
-Sophie Festival is a music venue in Malaga with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Sophie #3 - Apollonia, John Talabot, Sonja Moonear, Ryan Elliott" on Sat, 11 Jul 2026.
+Sophie Festival is a music venue in Malaga with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Sophie #3 - Apollonia, John Talabot, Sonja Moonear, Ryan Elliott" on Sat, 11 Jul 2026.
 
 Sophie Festival is a music venue in Malaga listed on soundcheck. 5 upcoming nights, with line-ups including KT, Apollonia, Baldo and Call Super and 2 more. Browse upcoming dates, start times and who's playing. Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España.
 
@@ -18,4 +18,4 @@ Sophie Festival is a music venue in Malaga listed on soundcheck. 5 upcoming nigh
 
 Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España, Malaga
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sophie-festival/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sophie-festival/)*

@@ -1,6 +1,6 @@
 # NUUP
 
-NUUP is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 12 Jul 2026.
+NUUP is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 6
 
 Valderrama, Thomas Hernandez, JE·ROME
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuup/)*

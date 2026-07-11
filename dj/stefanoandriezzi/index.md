@@ -1,6 +1,6 @@
 # Stefano Andriezzi
 
-Stefano Andriezzi is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 11 Jul 2026.
+Stefano Andriezzi is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 11 Jul 2026.
 
 Stefano Andriezzi is a house and electro artist based in Venezuela, tracked on soundcheck, with 51 sets logged across Barcelona, Brussels, Buenosaires and Cologne and 6 more. Often billed alongside LM, Sampol and Brieela. Next up: Tokonoma Club, Frankfurt on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Stefano Andriezzi is a house and electro artist based in Venezuela, tracked on s
 
 LM, Sampol, Brieela
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*

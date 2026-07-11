@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+KILIMANJARO is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
 
 KILIMANJARO is a house and afro house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 35 more. Often billed alongside Eliza Rose, TSHA and Chloé Caillet. Next up: Silverworks Island, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ KILIMANJARO is a house and afro house artist tracked on soundcheck, with 129 set
 
 Eliza Rose, TSHA, Chloé Caillet
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

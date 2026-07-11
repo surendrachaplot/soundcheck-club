@@ -1,6 +1,6 @@
 # Davide Del Vecchio
 
-Davide Del Vecchio is a Disco and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Jazz Cafe, London on Sat, 11 Jul 2026.
+Davide Del Vecchio is a Disco and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Jazz Cafe, London on Sat, 11 Jul 2026.
 
 Davide Del Vecchio is a disco and deep house artist tracked on soundcheck, with 144 sets logged across Berlin, Ibiza, Lisbon and Liverpool and 3 more. Often billed alongside Duappo, ARLYSS and Dan Cluskey. Next up: The Jazz Cafe, London on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Davide Del Vecchio is a disco and deep house artist tracked on soundcheck, with 
 
 Duappo, ARLYSS, Dan Cluskey
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*

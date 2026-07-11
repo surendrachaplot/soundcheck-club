@@ -1,6 +1,6 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+NEW YORK is a Electro and Pop artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 13 more. Often billed alongside Rat Section, Smerz and gyrofield. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundc
 
 Rat Section, Smerz, gyrofield
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*

@@ -1,20 +1,20 @@
 # Traxx
 
-Traxx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Elektricity, Detroit on Fri, 10 Jul 2026.
+Traxx is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Signal, New York City on Sat, 11 Jul 2026.
 
-Traxx is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside DVS1, JADALAREIGN and Kosmik. Next up: Elektricity, Detroit on Fri 10 Jul.
+Traxx is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside DVS1, JADALAREIGN and Kosmik. Next up: Signal, Newyorkcity on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Elektricity | Detroit |
 | Sat, 11 Jul 2026 | Signal | New York City |
 | Fri, 17 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 24 Jul 2026 | TBA | Detroit |
 
 ## Recently played
 
+- Elektricity, Detroit — Fri, 10 Jul 2026
 - Bert's Warehouse Theater, Detroit — Sat, 23 May 2026
 - The California Clipper, Chicago — Sat, 16 May 2026
 - Good Room, New York City — Sat, 18 Apr 2026
@@ -22,10 +22,9 @@ Traxx is a house and techno artist tracked on soundcheck, with 50 sets logged ac
 - Podlasie Club, Chicago — Sat, 14 Mar 2026
 - Rhythm, Toronto — Fri, 30 Jan 2026
 - TBA, Los Angeles — Sat, 24 Jan 2026
-- public records, New York City — Sun, 18 Jan 2026
 
 ## Shares bills with
 
 DVS1, JADALAREIGN, Kosmik
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traxx/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traxx/)*

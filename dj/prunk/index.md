@@ -1,6 +1,6 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 22 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Prunk is a House and Tech House artist with 22 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
 Prunk is a house and tech house artist tracked on soundcheck, with 289 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
@@ -36,4 +36,4 @@ Prunk is a house and tech house artist tracked on soundcheck, with 289 sets logg
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

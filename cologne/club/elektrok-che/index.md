@@ -1,6 +1,6 @@
 # Elektroküche
 
-Elektroküche is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "2 Jahre Schranz Only" on Sat, 11 Jul 2026.
+Elektroküche is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "2 Jahre Schranz Only" on Sat, 11 Jul 2026.
 
 Elektroküche is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including I.D.A, Loraw and Ropemaker. Browse upcoming dates, start times and who's playing. Siegburgerstr. 110; 50679 Cologne; Germany.
 
@@ -14,4 +14,4 @@ Elektroküche is a music venue in Cologne listed on soundcheck. 1 upcoming night
 
 Siegburgerstr. 110; 50679 Cologne; Germany, Cologne
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/elektrok-che/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/elektrok-che/)*

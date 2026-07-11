@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "KTV & Friends: Jeremy J, Rakla Maté, KTV (DJ Halloumi b2b Vic)" on Fri, 10 Jul 2026.
+Bulbul Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "HOUSE OF BERLINSHIT #2: Candice, Wallat Wallat, Subassi, MagDita, ADAM REC." on Sat, 11 Jul 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ADAM REC., Alessio Collina, Alma Negrot and Anestis and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ADAM REC., Alessio Collina, Alma Negrot and Anestis and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | KTV & Friends: Jeremy J, Rakla Maté, KTV (DJ Halloumi b2b Vic) | DJ Halloumi, Jeremy J, Rakla Maté (2), Vic (FR) |
 | Sat, 11 Jul 2026 | HOUSE OF BERLINSHIT #2: Candice, Wallat Wallat, Subassi, MagDita, ADAM REC. | ADAM REC., MagDita, Subassi, Wallat Wallat |
 | Thu, 16 Jul 2026 | Black Box Records: Alessio Collina, Vito Fattore, DJ Delivery | Alessio Collina, DJ Delivery, Vito Fattore |
 | Fri, 17 Jul 2026 | HAUSNACHT: Furz (live), Nikklaas, Loves_kills b2b Slow PSTL, Dirty Runners | Dirty Runners, Furz, Loves_kills, Nikklaas, Slow PSTL |
@@ -23,4 +22,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

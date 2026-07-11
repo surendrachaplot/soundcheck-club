@@ -1,20 +1,20 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - The People Lyon, Lyon on Fri, 10 Jul 2026.
+Vice Experience is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Le Discopathe, Paris on Sat, 11 Jul 2026.
 
-Vice Experience is a techno and house artist tracked on soundcheck, with 133 sets logged across Brussels, Buenosaires, Lisbon and Lyon and 2 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - The People Lyon, Lyon on Fri 10 Jul.
+Vice Experience is a techno and house artist tracked on soundcheck, with 133 sets logged across Brussels, Buenosaires, Lisbon and Lyon and 2 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - Le Discopathe, Paris on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | TBA - The People Lyon | Lyon |
 | Sat, 11 Jul 2026 | TBA - Le Discopathe | Paris |
 | Thu, 6 Aug 2026 | Radio Campus Paris | Paris |
 | Thu, 3 Sept 2026 | Radio Campus Paris | Paris |
 
 ## Recently played
 
+- TBA - The People Lyon, Lyon — Fri, 10 Jul 2026
 - Radio Campus Paris, Paris — Thu, 9 Jul 2026
 - TBA - Secret Place, Paris — Sat, 27 Jun 2026
 - Radio Campus Paris, Paris — Thu, 11 Jun 2026
@@ -22,10 +22,9 @@ Vice Experience is a techno and house artist tracked on soundcheck, with 133 set
 - TBA - 55 amours, Paris — Wed, 3 Jun 2026
 - Café Barge, Paris — Sat, 30 May 2026
 - TBA - Surpat, Paris — Fri, 1 May 2026
-- TBA - The People Lyon, Lyon — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 euler, French Phil, GLAD
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

@@ -1,6 +1,6 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Lechuga Zafiro is a Techno and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Lechuga Zafiro is a techno and uk funky artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Verraco, Animistic Beliefs and Gavsborg. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Lechuga Zafiro is a techno and uk funky artist tracked on soundcheck, with 59 se
 
 Verraco, Animistic Beliefs, Gavsborg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

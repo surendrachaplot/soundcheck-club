@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
+James Andrew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pikes Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 James Andrew is a house and techno artist tracked on soundcheck, with 38 sets logged across Barcelona, Brussels, Ibiza and Leeds and 8 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: Pikes Ibiza, Ibiza on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ James Andrew is a house and techno artist tracked on soundcheck, with 38 sets lo
 
 Charley, Heels & Souls, Apple B
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

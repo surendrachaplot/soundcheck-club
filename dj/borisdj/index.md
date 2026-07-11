@@ -1,14 +1,14 @@
 # Boris
 
-Boris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Refuge, New York City on Fri, 10 Jul 2026.
+Boris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Flux, Istanbul on Sat, 18 Jul 2026.
 
-Boris is a techno and house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Refuge, Newyorkcity on Fri 10 Jul.
+Boris is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Flux, Istanbul on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Refuge | New York City |
+| Sat, 18 Jul 2026 | Flux | Istanbul |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | Fvtvr | Paris |
 | Sat, 1 Aug 2026 | Der Weiße Hase | Berlin |
@@ -18,6 +18,7 @@ Boris is a techno and house artist tracked on soundcheck, with 209 sets logged a
 
 ## Recently played
 
+- Refuge, New York City — Fri, 10 Jul 2026
 - Outernet, London — Sat, 4 Jul 2026
 - Paragon, New York City — Sat, 27 Jun 2026
 - TBA - Brooklyn, New York City — Fri, 26 Jun 2026
@@ -25,10 +26,9 @@ Boris is a techno and house artist tracked on soundcheck, with 209 sets logged a
 - Domicile, Miami — Fri, 19 Jun 2026
 - Grelle Forelle, Vienna — Sat, 13 Jun 2026
 - Skin Club, Madrid — Sat, 6 Jun 2026
-- Studio Club Malaga, Malaga — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

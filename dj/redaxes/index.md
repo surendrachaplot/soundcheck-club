@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 11 Jul 2026.
+Red Axes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 11 Jul 2026.
 
 Red Axes is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Tennis, Luke Alessi and Sossa. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Red Axes is a techno and house artist tracked on soundcheck, with 72 sets logged
 
 DJ Tennis, Luke Alessi, Sossa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

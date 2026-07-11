@@ -1,14 +1,13 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Cymatix invite 45/33" on Fri, 10 Jul 2026.
+Les Enfants Brillants is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Les Enfants pres. Hamish & Toby All Night Long" on Sat, 11 Jul 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including Mariiin, Aleja Sanchez, AMARANTE and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including Mariiin, Aleja Sanchez, AMARANTE and André Galluzzi and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Cymatix invite 45/33 | Anah, Ed Warner, Lumiere, Paz |
 | Sat, 11 Jul 2026 | Les Enfants pres. Hamish & Toby All Night Long | Hamish & Toby |
 | Thu, 16 Jul 2026 | Noizer pres. PRIDE AMARANTE Invites: Yuri + Jhort b2b Carolina | AMARANTE, Carolina, Jhort, Yuri |
 | Fri, 17 Jul 2026 | ■ Checkpoint pres pres. Anthea, Raf&Rod, DJ Gamba | Anthea, DJ Gamba, Raf & Rod |
@@ -18,9 +17,10 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 20 upc
 | Sat, 25 Jul 2026 | Enrenou pres. outransa (Nicky Macha & Kensa) + Tunik | Kensa, Nicky Macha, Tunik |
 | Thu, 30 Jul 2026 | Noizer pres. Aleja Sanchez + Connie | Aleja Sanchez |
 | Fri, 31 Jul 2026 | Trails pres. Harry McCanna, Mianda + Paul Popa | Harry McCanna, Mianda, Paul Popa |
+| Fri, 7 Aug 2026 | Unnanounced by Raxon |  |
 
 ## Address
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

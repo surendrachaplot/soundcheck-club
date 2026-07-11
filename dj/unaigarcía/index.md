@@ -1,6 +1,6 @@
 # Unai García
 
-Unai García is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at X Private Club, Madrid on Sat, 11 Jul 2026.
+Unai García is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at X Private Club, Madrid on Sat, 11 Jul 2026.
 
 Unai García is a progressive house and techno artist based in Spain, tracked on soundcheck, with 57 sets logged across Barcelona, Copenhagen, Madrid and Vienna. Often billed alongside Vico Deep, Javi Garza and 2Qimic. Next up: X Private Club, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Unai García is a progressive house and techno artist based in Spain, tracked on
 
 Vico Deep, Javi Garza, 2Qimic
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaigarcía/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaigarcía/)*

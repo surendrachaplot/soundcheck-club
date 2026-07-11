@@ -1,8 +1,8 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Spikey Lee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Spikey Lee is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Spikey Lee is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside Lenard Klein, Haeder and VINVAR. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 95 sets logg
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 8 Aug 2026 | RADION | Amsterdam |
+| Sat, 29 Aug 2026 | Club NYX | Amsterdam |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Spikey Lee is a techno and house artist tracked on soundcheck, with 95 sets logg
 
 Lenard Klein, Haeder, VINVAR
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

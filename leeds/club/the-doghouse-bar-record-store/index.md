@@ -1,6 +1,6 @@
 # The Doghouse bar & Record Store
 
-The Doghouse bar & Record Store is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Disguised303 + Friends" on Sat, 11 Jul 2026.
+The Doghouse bar & Record Store is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Disguised303 + Friends" on Sat, 11 Jul 2026.
 
 The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 90 Kirkgate, Leeds LS2 7DJ, UK.
 
@@ -14,4 +14,4 @@ The Doghouse bar & Record Store is a music venue in Leeds listed on soundcheck. 
 
 90 Kirkgate, Leeds LS2 7DJ, UK, Leeds
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-doghouse-bar-record-store/)*

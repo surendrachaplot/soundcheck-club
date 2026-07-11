@@ -1,6 +1,6 @@
 # Portola at TBA - Pier 80
 
-Portola at TBA - Pier 80 on Sat 26 Sept, Sanfrancisco. 51 acts on the bill: ALISHA, Airwolf Paradise, Azzecca and Baby J and 47 more. House and Electro. Preview the line-up and save it on soundcheck.
+Portola at TBA - Pier 80 on Sat 26 Sept, Sanfrancisco. 52 acts on the bill: ALISHA, Airwolf Paradise, Azzecca and Baby J and 48 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Portola at TBA - Pier 80 on Sat 26 Sept, Sanfrancisco. 51 acts on the bill: ALIS
 - Ben Sterling
 - Ben UFO
 - Boys Noize
+- Brunello
 - Channel Tres
 - Clearcast
 - DJ Shadow

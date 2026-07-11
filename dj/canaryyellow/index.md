@@ -1,6 +1,6 @@
 # canary yellow
 
-canary yellow is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+canary yellow is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 canary yellow is a garage and house artist tracked on soundcheck, with 19 sets logged across Chicago, Denver, Losangeles and Mexicocity and 2 more. Often billed alongside Clearcast, RamonPang and Hannah Laing. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ canary yellow is a garage and house artist tracked on soundcheck, with 19 sets l
 
 Clearcast, RamonPang, Hannah Laing
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*

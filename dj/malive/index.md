@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
+Malive is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
 
 Malive is a house and deep house artist tracked on soundcheck, with 27 sets logged across Athens, Barcelona, Ibiza and Istanbul and 10 more. Often billed alongside Jonas Blue, Korolova and Maz (BR). Next up: The Cause, London on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Malive is a house and deep house artist tracked on soundcheck, with 27 sets logg
 
 Jonas Blue, Korolova, Maz (BR)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

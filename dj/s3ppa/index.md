@@ -1,6 +1,6 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Boomerang Beach, The Hague on Sat, 11 Jul 2026.
+S3PPA is a House and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Boomerang Beach, The Hague on Sat, 11 Jul 2026.
 
 S3PPA is a house and trance artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Dublin and Ibiza and 4 more. Often billed alongside Gerardo Niva, DART and KELLAR. Next up: Boomerang Beach, Thehague on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ S3PPA is a house and trance artist tracked on soundcheck, with 19 sets logged ac
 
 Gerardo Niva, DART, KELLAR
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

@@ -1,6 +1,6 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
+Yamagucci is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
 
 Yamagucci is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Adam Ten, Mita Gami and Tom & Collins. Next up: The Cause, London on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Yamagucci is a house and techno artist tracked on soundcheck, with 55 sets logge
 
 Adam Ten, Mita Gami, Tom & Collins
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

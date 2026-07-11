@@ -1,6 +1,6 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Studio Zürich, Zurich on Sat, 11 Jul 2026.
+Demi Riquisimo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Studio Zürich, Zurich on Sat, 11 Jul 2026.
 
 Demi Riquisimo is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Auckland, Austin and Bangkok and 48 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Studio Zürich, Zurich on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 164 sets
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

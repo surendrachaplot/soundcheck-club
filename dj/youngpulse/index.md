@@ -1,6 +1,6 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Colorado Charlie, The Hague on Sat, 11 Jul 2026.
+Young Pulse is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Colorado Charlie, The Hague on Sat, 11 Jul 2026.
 
 Young Pulse is a disco and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 13 more. Often billed alongside Melvo Baptiste, Tonno Disko and Dave Lee. Next up: Colorado Charlie, Thehague on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Young Pulse is a disco and house artist tracked on soundcheck, with 93 sets logg
 
 Melvo Baptiste, Tonno Disko, Dave Lee
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*

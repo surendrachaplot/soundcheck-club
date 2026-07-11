@@ -1,14 +1,13 @@
 # Palais
 
-Palais is a music venue in London with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Palais: SHDW (All Night Long)" on Fri, 10 Jul 2026.
+Palais is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Night Slugs: Bok Bok, Ikonika, Leonce, EQUISS (OSSX), Karen Nyame KG " on Sat, 11 Jul 2026.
 
-Palais is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including A Guy Called Gerald, ANNĒ, Bill Brewster and Bok Bok and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including A Guy Called Gerald, ANNĒ, Bill Brewster and Bok Bok and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Palais: SHDW (All Night Long) | SHDW |
 | Sat, 11 Jul 2026 | Night Slugs: Bok Bok, Ikonika, Leonce, EQUISS (OSSX), Karen Nyame KG  | Bok Bok, EQUISS, Ikonika, Karen Nyame KG, Leonce, OSSX |
 | Fri, 17 Jul 2026 | Palais: Move D (All Night Long) | Move D |
 | Sat, 18 Jul 2026 | 15 Years of Livity Sound: Hodge, Joe Milli, Laurel Halo, NIKS & Peverelist | Hodge, Joe Milli, Laurel Halo, NIKS, Peverelist |
@@ -18,9 +17,10 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming nights, with
 | Sat, 1 Aug 2026 | Palais: DVS1 & Livid (Extended Sets)  | DVS1, Livid (UK) |
 | Fri, 7 Aug 2026 | Palais: Session Victim (All Night Long) | Session Victim |
 | Sat, 8 Aug 2026 | Palais: livwutang & Richard Akingbehin, James Massiah | James Massiah, Richard Akingbehin, livwutang |
+| Fri, 14 Aug 2026 | Origins: Unai Trotti (All Night Long) | Unai Trotti |
 
 ## Address
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

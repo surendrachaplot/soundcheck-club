@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Dutch Master, London on Sat, 11 Jul 2026.
+Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Dutch Master, London on Sat, 11 Jul 2026.
 
 Max Sinàl is a deep house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, Elliot Schooling and Faro. Next up: The Dutch Master, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 27 sets 
 
 Mr James, Elliot Schooling, Faro
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

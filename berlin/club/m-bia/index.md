@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Bassquake by Vero" on Fri, 10 Jul 2026.
+M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "INCEPTION with Tim Fluck & Der Walcher - 2 Floors - Goa & Techno" on Sat, 11 Jul 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including A², Bass, Basstronauten and BrettHit and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including A², Bass, Basstronauten and BrettHit and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Bassquake by Vero | Danny Avila, EMZN, Gerrit X, Herbrido, JENKA, Popsen, The Enveloper, Vero_ |
 | Sat, 11 Jul 2026 | INCEPTION with Tim Fluck & Der Walcher - 2 Floors - Goa & Techno | Momentune, SAOX |
 | Fri, 17 Jul 2026 | Club Night feat. Lovetrain Kollektiv (2 Floors // Bounce + Techno) | DJ Banba, RaVix, T.O.X.I.C, Trash Bandit, zicke kuh |
 | Sat, 18 Jul 2026 | Bhalabasa \ *Sommer Edition* / | Gerrit X, K3VKO, NYXEA, RHYTMOX, Texo |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with 
 | Fri, 7 Aug 2026 | EFN PRESENTS LIL TEXAS SUPPORT BY FABITEKK • GENETEKK • PETRA STRUWE • REDMANN | A², Bass, Lil Texas, Techno Frühstück, Tekk |
 | Fri, 14 Aug 2026 | SHØCC pres. Plea5urepul5e | Plea5urepul5e |
 | Sat, 15 Aug 2026 | Goanautika After Parade Party w./ Klopfgeister, Simina Grigoriu, Daniela Hensel, Benni Moon | Basstronauten, Daniel Boon, Daniela Hensel, Diana May, LORD of Psychedelics (2), Linda Grazia, Patrick Scuro, Simina Grigoriu |
+| Fri, 28 Aug 2026 | VEXED with Fernanda Martins  | BrettHit, Fernanda Martins |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

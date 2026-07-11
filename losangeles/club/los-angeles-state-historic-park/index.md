@@ -1,6 +1,6 @@
 # Los Angeles State Historic Park
 
-Los Angeles State Historic Park is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Day Trip In The Park LA: Omnom, Marco Strous, SLAMM" on Sun, 12 Jul 2026.
+Los Angeles State Historic Park is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Day Trip In The Park LA: Omnom, Marco Strous, SLAMM" on Sun, 12 Jul 2026.
 
 Los Angeles State Historic Park is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Adam Auburn, Adam Sellouk, Archie Hamilton and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. 1245 N. Spring St, Los Angeles, CA 90012.
 
@@ -20,4 +20,4 @@ Los Angeles State Historic Park is a music venue in Losangeles listed on soundch
 
 1245 N. Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-angeles-state-historic-park/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-angeles-state-historic-park/)*

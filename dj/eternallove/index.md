@@ -1,6 +1,6 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Colour Factory, London on Sun, 12 Jul 2026.
+Eternal Love is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Colour Factory, London on Sun, 12 Jul 2026.
 
 Eternal Love is a house and disco artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Dirty Channels, Larry Masmero and Coco Maria. Next up: Colour Factory, London on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Eternal Love is a house and disco artist tracked on soundcheck, with 117 sets lo
 
 Dirty Channels, Larry Masmero, Coco Maria
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*

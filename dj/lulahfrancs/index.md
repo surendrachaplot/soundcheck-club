@@ -1,6 +1,6 @@
 # Lulah Francs
 
-Lulah Francs is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
+Lulah Francs is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
 
 Lulah Francs is a house and disco artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside Demi Riquisimo, Michelle Manetti and Scarlett O'Malley. Next up: Gaffe, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Lulah Francs is a house and disco artist tracked on soundcheck, with 67 sets log
 
 Demi Riquisimo, Michelle Manetti, Scarlett O'Malley
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lulahfrancs/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lulahfrancs/)*

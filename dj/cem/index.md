@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at BASEMENT, New York City on Sat, 11 Jul 2026.
+CEM is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BASEMENT, New York City on Sat, 11 Jul 2026.
 
 CEM is a techno and house artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Berlin and 48 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: BASEMENT, Newyorkcity on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ CEM is a techno and house artist based in Germany, tracked on soundcheck, with 1
 
 MCMLXXXV, JASSS, Dj Saliva
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

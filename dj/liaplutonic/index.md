@@ -1,6 +1,6 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Secret Location, Chicago on Sat, 11 Jul 2026.
+Lia Plutonic is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Secret Location, Chicago on Sat, 11 Jul 2026.
 
 Lia Plutonic is a house and techno artist tracked on soundcheck, with 68 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: TBA - Secret Location, Chicago on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Lia Plutonic is a house and techno artist tracked on soundcheck, with 68 sets lo
 
 Guthrie, Lis Dalton, Pascale Project
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*

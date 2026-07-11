@@ -1,6 +1,6 @@
 # Stojche
 
-Stojche is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Stojche is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Stojche is a techno and dub techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside SHDW, Anika Kunst and Phara. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Stojche is a techno and dub techno artist tracked on soundcheck, with 58 sets lo
 
 SHDW, Anika Kunst, Phara
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*

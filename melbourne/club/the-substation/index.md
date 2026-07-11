@@ -1,6 +1,6 @@
 # The Substation
 
-The Substation is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kerfew: Testing" on Sat, 11 Jul 2026.
+The Substation is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kerfew: Testing" on Sat, 11 Jul 2026.
 
 The Substation is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Aarti Jadu, Arsonist and claire rousay. Browse upcoming dates, start times and who's playing. 1 Market Street, Newport VIC 3015, Australia.
 
@@ -16,4 +16,4 @@ The Substation is a music venue in Melbourne listed on soundcheck. 3 upcoming ni
 
 1 Market Street, Newport VIC 3015, Australia, Melbourne
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-substation/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-substation/)*

@@ -1,14 +1,13 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Nachtfalter pres Alyne" on Fri, 10 Jul 2026.
+Die Rakete is a music venue in Nürnberg with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kiss Klub feat. Amanda Mussi + The Hotbox" on Sat, 11 Jul 2026.
 
-Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights, with line-ups including Acid Foxy, Alyne, Amanda Mussi and Bee Lincoln and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
+Die Rakete is a music venue in Nurnberg listed on soundcheck. 8 upcoming nights, with line-ups including Acid Foxy, Amanda Mussi, Bee Lincoln and Bernhard Groeger and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Nachtfalter pres Alyne | Alyne, Lena Brysch, nox |
 | Sat, 11 Jul 2026 | Kiss Klub feat. Amanda Mussi + The Hotbox | Amanda Mussi, DJ Nicelife |
 | Fri, 17 Jul 2026 | Henneberg und die Nürnberger Symphoniker | Beth Lydi, Kevin Knapp |
 | Sat, 18 Jul 2026 | Why So Serious feat. Daniel Neuland x DONT BLINK + Stained Rec. Floor | DONT BLINK, Daniel Neuland, Dario Milkovic, Thys |
@@ -22,4 +21,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

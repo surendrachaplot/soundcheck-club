@@ -1,6 +1,6 @@
 # Young Teesh
 
-Young Teesh is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cafeteria, Toronto on Sat, 11 Jul 2026.
+Young Teesh is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cafeteria, Toronto on Sat, 11 Jul 2026.
 
 Young Teesh is a club and techno artist tracked on soundcheck, with 108 sets logged across Berlin, Losangeles, Montreal and Newyorkcity and 2 more. Often billed alongside Nino Brown (2), HVN (1) and Bambii. Next up: Cafeteria, Toronto on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Young Teesh is a club and techno artist tracked on soundcheck, with 108 sets log
 
 Nino Brown (2), HVN (1), Bambii
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*

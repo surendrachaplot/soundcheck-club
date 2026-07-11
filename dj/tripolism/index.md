@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Club Space Miami, Miami on Sat, 11 Jul 2026.
+Tripolism is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Club Space Miami, Miami on Sat, 11 Jul 2026.
 
 Tripolism is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Club Space Miami, Miami on Sat 11 Jul.
 
@@ -31,4 +31,4 @@ Tripolism is a house and techno artist tracked on soundcheck, with 70 sets logge
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

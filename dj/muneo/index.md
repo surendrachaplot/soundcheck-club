@@ -1,6 +1,6 @@
 # MUNÉO
 
-MUNÉO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Queendom, Tokyo on Sat, 11 Jul 2026.
+MUNÉO is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Queendom, Tokyo on Sat, 11 Jul 2026.
 
 MUNÉO is a techno and electronica artist tracked on soundcheck, with 138 sets logged across Bangkok, Melbourne, Osaka and Seattle and 2 more. Often billed alongside RUKE, INAE and MELEETIME. Next up: Queendom, Tokyo on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ MUNÉO is a techno and electronica artist tracked on soundcheck, with 138 sets l
 
 RUKE, INAE, MELEETIME
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*

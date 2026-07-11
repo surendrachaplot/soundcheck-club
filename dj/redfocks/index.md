@@ -1,6 +1,6 @@
 # Redfocks
 
-Redfocks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Artheater, Cologne on Fri, 17 Jul 2026.
+Redfocks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Artheater, Cologne on Fri, 17 Jul 2026.
 
 Redfocks is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 1 more. Often billed alongside Eszter, LALENA and Marcel Janovsky. Next up: Artheater, Cologne on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Redfocks is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Eszter, LALENA, Marcel Janovsky
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redfocks/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redfocks/)*

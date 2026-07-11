@@ -1,6 +1,6 @@
 # Cho Room
 
-Cho Room is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 45hertz, Hamburg on Sat, 11 Jul 2026.
+Cho Room is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 45hertz, Hamburg on Sat, 11 Jul 2026.
 
 Cho Room is a bass and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Hamburg and London and 1 more. Often billed alongside Haaizey, Spriteeyez and Chinyere. Next up: 45hertz, Hamburg on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Cho Room is a bass and techno artist based in Germany, tracked on soundcheck, wi
 
 Haaizey, Spriteeyez, Chinyere
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choroom/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/choroom/)*

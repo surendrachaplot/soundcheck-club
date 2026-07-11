@@ -1,6 +1,6 @@
 # Sandilé
 
-Sandilé is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parkcafe, Cologne on Sat, 11 Jul 2026.
+Sandilé is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parkcafe, Cologne on Sat, 11 Jul 2026.
 
 Sandilé is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Dusseldorf and London and 2 more. Often billed alongside DCHM, Thabo and Thalo Santana. Next up: Parkcafe, Cologne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Sandilé is a house and techno artist based in Germany, tracked on soundcheck, w
 
 DCHM, Thabo, Thalo Santana
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandile-de/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandile-de/)*

@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Burnski is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Burnski is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Job de Jong and Sidney Charles. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Burnski is a house and tech house artist tracked on soundcheck, with 62 sets log
 
 Kepler, Job de Jong, Sidney Charles
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

@@ -1,6 +1,6 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Queen Elizabeth Olympic Park, London on Sat, 11 Jul 2026.
+Marcia Carr is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Queen Elizabeth Olympic Park, London on Sat, 11 Jul 2026.
 
 Marcia Carr is a house and disco artist tracked on soundcheck, with 70 sets logged across Brighton, Bristol, Leeds and London and 2 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Queen Elizabeth Olympic Park, London on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Marcia Carr is a house and disco artist tracked on soundcheck, with 70 sets logg
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

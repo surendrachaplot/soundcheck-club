@@ -1,6 +1,6 @@
 # ♢ GROOVE STREET ♢ at ÆDEN
 
-♢ GROOVE STREET ♢ at ÆDEN on Fri 31 Jul, Berlin. 20 acts on the bill: Ancient Alien, Bélavie, CLEO and Cleo (AU) and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
+♢ GROOVE STREET ♢ at ÆDEN on Fri 31 Jul, Berlin. 21 acts on the bill: Ancient Alien, Bélavie, CLEO and Cleo (AU) and 17 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@
 - Lisatrix
 - MANNIO
 - Najka
+- Niklas Delhey
 - Roots (ES)
 - Roots.
 - Violetta (1)

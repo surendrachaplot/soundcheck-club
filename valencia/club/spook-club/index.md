@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Oven Garden en Spook Sunbox: TOTAL SUMMER: Ladrillovitz + Ariezzz + Angelinanyuli" on Sat, 11 Jul 2026.
+Spook Club is a music venue in Valencia with 14 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Oven Garden en Spook Sunbox: TOTAL SUMMER: Ladrillovitz + Ariezzz + Angelinanyuli" on Sat, 11 Jul 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights, with line-ups including Angelinanyulí, Acidus, Adriana Lopez and Aida Arko and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights
 
 Pinedo Valencia, Valencia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

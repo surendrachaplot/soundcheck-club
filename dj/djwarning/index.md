@@ -1,6 +1,6 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 11 Jul 2026.
+Dj Warning is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Station - Gare des Mines, Paris on Sat, 11 Jul 2026.
 
 Dj Warning is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: La Station - Gare des Mines, Paris on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Dj Warning is a techno and house artist tracked on soundcheck, with 76 sets logg
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

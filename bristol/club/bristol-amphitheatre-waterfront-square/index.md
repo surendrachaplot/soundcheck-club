@@ -1,6 +1,6 @@
 # Bristol Amphitheatre & Waterfront Square
 
-Bristol Amphitheatre & Waterfront Square is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Faithless [LIVE] on Bristol Harbourside - Siren" on Fri, 24 Jul 2026.
+Bristol Amphitheatre & Waterfront Square is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Faithless [LIVE] on Bristol Harbourside - Siren" on Fri, 24 Jul 2026.
 
 Bristol Amphitheatre & Waterfront Square is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including DJ Bryan Gee, DJ Marky, Faithless and Fred V and 2 more. Browse upcoming dates, start times and who's playing. Canons House Canons Way, Bristol, BS1 5LL, United Kingdom.
 
@@ -15,4 +15,4 @@ Bristol Amphitheatre & Waterfront Square is a music venue in Bristol listed on s
 
 Canons House Canons Way, Bristol, BS1 5LL, United Kingdom, Bristol
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/bristol-amphitheatre-waterfront-square/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/bristol-amphitheatre-waterfront-square/)*

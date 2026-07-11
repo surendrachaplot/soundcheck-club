@@ -1,6 +1,6 @@
 # OSKAMAXX
 
-OSKAMAXX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Grelle Forelle, Vienna on Sat, 11 Jul 2026.
+OSKAMAXX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Grelle Forelle, Vienna on Sat, 11 Jul 2026.
 
 OSKAMAXX is a trance and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, Baumeister98 and Pueblo Gelb. Next up: Grelle Forelle, Vienna on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ OSKAMAXX is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 BabaBass3000, Baumeister98, Pueblo Gelb
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*

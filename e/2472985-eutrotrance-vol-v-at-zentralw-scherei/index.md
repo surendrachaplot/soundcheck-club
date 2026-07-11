@@ -1,6 +1,6 @@
-# *:･ﾟ✧ EUTROTRANCE VOL. V ✧ *:･ﾟ at Zentralwäscherei
+# EUTROTRANCE VOL. V at Zentralwäscherei
 
-*:･ﾟ✧ EUTROTRANCE VOL. V ✧ *:･ﾟ at Zentralwäscherei on Sat 11 Jul, Zurich. Trance. Preview the line-up and save it on soundcheck.
+EUTROTRANCE VOL. V at Zentralwäscherei on Sat 11 Jul, Zurich. Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

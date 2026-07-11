@@ -1,13 +1,14 @@
 # The Drop inn
 
-The Drop inn is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Garage Paradise - The Birmimgham Summer Day Rave" on Sat, 29 Aug 2026.
+The Drop inn is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "ARCANE" on Sat, 18 Jul 2026.
 
-The Drop inn is a music venue in Birmingham listed on soundcheck. 1 upcoming night, with line-ups including Danny Kane, DJ MJ, Jeremy Sylvester and Mikey DJ. Browse upcoming dates, start times and who's playing.
+The Drop inn is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, with line-ups including Dannheimer, Danny Kane, DJ MJ and Jeremy Sylvester and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | ARCANE | Dannheimer |
 | Sat, 29 Aug 2026 | Garage Paradise - The Birmimgham Summer Day Rave | DJ MJ, Danny Kane, Jeremy Sylvester, Mikey DJ |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-drop-inn/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-drop-inn/)*

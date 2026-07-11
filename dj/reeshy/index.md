@@ -1,6 +1,6 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
+Reeshy is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Reeshy is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Josh Baker. Next up: 528 Ibiza, Ibiza on Sun 2 Aug.
 
@@ -33,4 +33,4 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 103 sets log
 
 Enzo Siragusa, Laidlaw, Josh Baker
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

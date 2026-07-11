@@ -1,6 +1,6 @@
 # Tofte Manor
 
-Tofte Manor is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "John Summit presents Experts Only UK Debut" on Sat, 11 Jul 2026.
+Tofte Manor is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "John Summit presents Experts Only UK Debut" on Sat, 11 Jul 2026.
 
 Tofte Manor is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including John Summit. Browse upcoming dates, start times and who's playing. Souldrop Rd, Sharnbrook, Bedford MK44 1HH, United Kingdom.
 
@@ -15,4 +15,4 @@ Tofte Manor is a music venue in London listed on soundcheck. 2 upcoming nights, 
 
 Souldrop Rd, Sharnbrook, Bedford MK44 1HH, United Kingdom, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tofte-manor/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tofte-manor/)*

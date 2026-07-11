@@ -1,6 +1,6 @@
 # SØMOS
 
-SØMOS is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Los Angeles on Sat, 11 Jul 2026.
+SØMOS is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Los Angeles on Sat, 11 Jul 2026.
 
 SØMOS is a trance and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Berlin, Cologne and Losangeles. Often billed alongside SØMOS, Cobb Douglas and Amøn. Next up: TBA, Losangeles on Sat 11 Jul.
 
@@ -16,4 +16,4 @@ SØMOS is a trance and techno artist based in United States of America, tracked 
 
 SØMOS, Cobb Douglas, Amøn
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somos-usa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somos-usa/)*

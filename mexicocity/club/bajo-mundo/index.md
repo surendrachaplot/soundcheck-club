@@ -1,6 +1,6 @@
 # Bajo Mundo
 
-Bajo Mundo is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BDAY Savve And Friends" on Sat, 11 Jul 2026.
+Bajo Mundo is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BDAY Savve And Friends" on Sat, 11 Jul 2026.
 
 Bajo Mundo is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including Disorder44, Gino, KVN and Praqqa. Browse upcoming dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
 
@@ -16,4 +16,4 @@ Bajo Mundo is a music venue in Mexicocity listed on soundcheck. 3 upcoming night
 
 Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-mundo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-mundo/)*

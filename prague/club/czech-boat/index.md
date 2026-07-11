@@ -1,6 +1,6 @@
 # Czech Boat
 
-Czech Boat is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SOTD x Mikro Boat 2026 ≋" on Sat, 18 Jul 2026.
+Czech Boat is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SOTD x Mikro Boat 2026 ≋" on Sat, 18 Jul 2026.
 
 Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Coco, Hugorieri, Lucas Hulan and Ondrej K and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem).
 
@@ -17,4 +17,4 @@ Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, w
 
 Nábřeží na Františku. Dvořákovo nábřeží (pod Štefánikovým mostem), Prague
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/czech-boat/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/czech-boat/)*

@@ -1,6 +1,6 @@
 # Casamiento
 
-Casamiento is a Reggaeton and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Virgil, Los Angeles on Sat, 11 Jul 2026.
+Casamiento is a Reggaeton and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Virgil, Los Angeles on Sat, 11 Jul 2026.
 
 Casamiento is a reggaeton and ghetto tech artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago, Losangeles and Sanfrancisco. Often billed alongside henrryrza, Cquestt and Giselle Peppers. Next up: The Virgil, Losangeles on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Casamiento is a reggaeton and ghetto tech artist based in United States of Ameri
 
 henrryrza, Cquestt, Giselle Peppers
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casamiento/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/casamiento/)*

@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Cartographies of Dissolution" on Wed, 15 Jul 2026.
+Atemporal is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Cartographies of Dissolution" on Wed, 15 Jul 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including current (hiss), Dimitra Zina and Oiqe. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -20,4 +20,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

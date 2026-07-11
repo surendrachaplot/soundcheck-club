@@ -1,6 +1,6 @@
 # Lab 11
 
-Lab 11 is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "BELLY DEEP OUTDOOR SUMMER PARTY CELEBRATING 2 YEARS" on Sun, 12 Jul 2026.
+Lab 11 is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BELLY DEEP OUTDOOR SUMMER PARTY CELEBRATING 2 YEARS" on Sun, 12 Jul 2026.
 
 Lab 11 is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, with line-ups including Crossy. Browse upcoming dates, start times and who's playing. Trent St, Birmingham B5 5NL.
 
@@ -15,4 +15,4 @@ Lab 11 is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, w
 
 Trent St, Birmingham B5 5NL, Birmingham
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab-11/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab-11/)*

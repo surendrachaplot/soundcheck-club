@@ -1,6 +1,6 @@
 # Kiesgrube
 
-Kiesgrube is a music venue in Düsseldorf with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "FAZE MAG presents Sven Väth, DIXON B2B Jimi Jules, Jonathan Kaspar, Jamiie" on Sun, 12 Jul 2026.
+Kiesgrube is a music venue in Düsseldorf with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "FAZE MAG presents Sven Väth, DIXON B2B Jimi Jules, Jonathan Kaspar, Jamiie" on Sun, 12 Jul 2026.
 
 Kiesgrube is a music venue in Dusseldorf listed on soundcheck. 6 upcoming nights, with line-ups including Andrea Oliva, Boris Brejcha, Cloudy and Dixon and 2 more. Browse upcoming dates, start times and who's playing. Blankenwasser Sudermannstraße 41468 Neuss.
 
@@ -19,4 +19,4 @@ Kiesgrube is a music venue in Dusseldorf listed on soundcheck. 6 upcoming nights
 
 Blankenwasser Sudermannstraße 41468 Neuss, Düsseldorf
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/kiesgrube/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/kiesgrube/)*

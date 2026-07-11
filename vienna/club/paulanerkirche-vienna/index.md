@@ -1,6 +1,6 @@
 # Paulanerkirche, Vienna
 
-Paulanerkirche, Vienna is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Antonio Vivaldi: Four Seasons by Mystery Ensemble" on Fri, 28 Aug 2026.
+Paulanerkirche, Vienna is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Antonio Vivaldi: Four Seasons by Mystery Ensemble" on Fri, 28 Aug 2026.
 
 Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Antonio Vivaldi: Four Seasons by Mystery Ensemble |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*

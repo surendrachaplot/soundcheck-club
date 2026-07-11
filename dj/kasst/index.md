@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bolivar Beach Bar, Athens on Fri, 24 Jul 2026.
+KAS:ST is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bolivar Beach Bar, Athens on Fri, 24 Jul 2026.
 
 KAS:ST is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: Bolivar Beach Bar, Athens on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ KAS:ST is a techno and house artist tracked on soundcheck, with 86 sets logged a
 
 Mathame, Henri Bergmann, Enrico Sangiuliano
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

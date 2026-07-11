@@ -1,14 +1,13 @@
 # KOKO
 
-KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Camden Disco Festival: The Shapeshifters, Luke Solomon, LEV" on Fri, 10 Jul 2026.
+KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "World Cup Special [DJs & Game Screening]" on Sat, 11 Jul 2026.
 
-KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Ally Tropical, Anane, babyschön and Bear Winder and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Ally Tropical, Anane, babyschön and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Camden Disco Festival: The Shapeshifters, Luke Solomon, LEV | Bear Winder, Disco Stu, Hot Cross Fun, Jules Cameron, LEV (UK), Luke Solomon, The Shapeshifters, Zerya |
 | Sat, 11 Jul 2026 | World Cup Special [DJs & Game Screening] | Gordo, Wakyin |
 | Fri, 17 Jul 2026 | KOKO Electronic: Mid-Summer Party Pt.2 [House & Techno] | Sunnery James & Ryan Marciano |
 | Sat, 18 Jul 2026 | KOKO Electronic: Rossi [SOLD OUT] | RTK Tarantino, Rossi |
@@ -18,9 +17,10 @@ KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with l
 | Fri, 31 Jul 2026 | 15 Years of Rhythm Section: Bradley Zero (All Night Long) | Bradley Zero |
 | Fri, 14 Aug 2026 | KOKO Electronic: Neil Frances | Lulah Francs, Masha Mar, Neil Frances |
 | Sat, 15 Aug 2026 | KOKO Electronic: Ewan McVicar | Ewan McVicar |
+| Fri, 21 Aug 2026 | KOKO Electronic: Summer Closing - House & Disco |  |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

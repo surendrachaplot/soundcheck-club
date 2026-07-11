@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "EXTENDED HOURS: Sola Wang, Elise Røise & Plogen, Casper Schulz, Tecklund & Fanny Wallace" on Sat, 11 Jul 2026.
+The Villa is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "EXTENDED HOURS: Sola Wang, Elise Røise & Plogen, Casper Schulz, Tecklund & Fanny Wallace" on Sat, 11 Jul 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including Bjørn Torske, DJ Fart in the Club, DJ Fett Burger and Evian Christ and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -21,4 +21,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Honeydips: sweet sweet R&B" on Fri, 10 Jul 2026.
+Movers is a music venue in Nottingham with 14 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "WC: ENG V NORWAY + Pre-Match DJs Control Sheffield" on Sat, 11 Jul 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, with line-ups including Jack DiY. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Honeydips: sweet sweet R&B |  |
 | Sat, 11 Jul 2026 | WC: ENG V NORWAY + Pre-Match DJs Control Sheffield |  |
 | Fri, 17 Jul 2026 | Electroclash 3: Grimes, New Order, LCD Soundsystem + more |  |
 | Sat, 18 Jul 2026 | All Night Northern Soul with Nick Raine & Russell Fenby |  |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights. 
 | Sat, 1 Aug 2026 | Ordinary People: Jazz & Deep House |  |
 | Thu, 6 Aug 2026 | JT Soar x Movers: Showcase |  |
 | Fri, 7 Aug 2026 | Lost in Detroit - Sounds from the Motor City w/ Beane |  |
+| Sat, 8 Aug 2026 | ALL CAPS: Summer Send-Off |  |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

@@ -1,6 +1,6 @@
 # Badewiese Naglikon
 
-Badewiese Naglikon is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "THE TREE OPENAIR" on Sat, 18 Jul 2026.
+Badewiese Naglikon is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "THE TREE OPENAIR" on Sat, 18 Jul 2026.
 
 Badewiese Naglikon is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Beltran, Franky Rizardo, Patrischa and Ronny Grauer. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Badewiese Naglikon is a music venue in Zurich listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | THE TREE OPENAIR | Beltran, Franky Rizardo, Patrischa, Ronny Grauer |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/badewiese-naglikon/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/badewiese-naglikon/)*

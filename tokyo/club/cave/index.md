@@ -1,14 +1,13 @@
 # Cave
 
-Cave is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Koenji Cave presents - Elven Dance - Vol.32" on Fri, 10 Jul 2026.
+Cave is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "'The Psychedelic Trance Party' Kaleidoscope Vol.19" on Sat, 11 Jul 2026.
 
-Cave is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including BERLINER KINDL, Frank S, NAGEE and ONO (3) and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including BERLINER KINDL, Frank S, NAGEE and ONO (3) and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Koenji Cave presents - Elven Dance - Vol.32 |  |
 | Sat, 11 Jul 2026 | 'The Psychedelic Trance Party' Kaleidoscope Vol.19 | BERLINER KINDL, NAGEE |
 | Fri, 17 Jul 2026 | Koenji Cave presents ◎PHANTOM◎ Vol.33 | Spiritjack, Takuya Asakura |
 | Sat, 18 Jul 2026 | Koenji Cave presents - Apparition - The 21st Chapter | BERLINER KINDL, ONO (3) |
@@ -21,4 +20,4 @@ Cave is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with lin
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cave/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cave/)*

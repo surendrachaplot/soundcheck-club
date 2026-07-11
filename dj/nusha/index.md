@@ -1,6 +1,6 @@
 # Nusha
 
-Nusha is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Spazio Cavea, Rome on Sat, 11 Jul 2026.
+Nusha is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Spazio Cavea, Rome on Sat, 11 Jul 2026.
 
 Nusha is a techno and tech house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Simina Grigoriu, Alfred Heinrichs and Anna Tur. Next up: Spazio Cavea, Rome on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Nusha is a techno and tech house artist tracked on soundcheck, with 52 sets logg
 
 Simina Grigoriu, Alfred Heinrichs, Anna Tur
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*

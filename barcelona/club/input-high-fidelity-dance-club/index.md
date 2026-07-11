@@ -1,15 +1,15 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "INPUT pres Mija" on Fri, 10 Jul 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "INPUT pres Stephan Jolk" on Sat, 11 Jul 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including 753, Aiden (DE), AISHA and BLONDEX and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including 753, Aiden (DE), AISHA and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | INPUT pres Mija | BLONDEX, Mija |
 | Sat, 11 Jul 2026 | INPUT pres Stephan Jolk | Stephan Jolk |
+| Sat, 11 Jul 2026 | INPUT pres LOCAL HEROES | Julì, Keyblow |
 | Thu, 16 Jul 2026 | PRISM Hard & WARM pres Nusha | Nusha |
 | Fri, 17 Jul 2026 | INPUT pres Pawlowski | Pawlowski |
 | Thu, 23 Jul 2026 | PRISM Hard pres CHARLIE SPARKS | Charlie Sparks, moUnique |
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

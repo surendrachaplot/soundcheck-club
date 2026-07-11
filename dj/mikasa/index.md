@@ -1,6 +1,6 @@
 # Mikasa
 
-Mikasa is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Forestlimit, Tokyo on Fri, 17 Jul 2026.
+Mikasa is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Forestlimit, Tokyo on Fri, 17 Jul 2026.
 
 Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside KYLE MIKASA, RICKY and Coretex. Next up: Forestlimit, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mikasa is a hardcore and gabber artist based in United States of America, tracke
 
 KYLE MIKASA, RICKY, Coretex
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikasa/)*

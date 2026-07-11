@@ -1,6 +1,6 @@
 # Guedes (ES)
 
-Guedes (ES) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bikini Club, Barcelona on Fri, 17 Jul 2026.
+Guedes (ES) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bikini Club, Barcelona on Fri, 17 Jul 2026.
 
 Guedes (ES) is a house and minimal artist based in Venezuela, tracked on soundcheck, with 36 sets logged across Barcelona and Berlin. Often billed alongside Kid Moss, Galu Bla and HANIE. Next up: Bikini Club, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Guedes (ES) is a house and minimal artist based in Venezuela, tracked on soundch
 
 Kid Moss, Galu Bla, HANIE
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guedes-es/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guedes-es/)*

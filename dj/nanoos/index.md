@@ -1,14 +1,13 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Point Ephémère, Paris on Fri, 10 Jul 2026.
+Nanoos is a Club and Ghetto Tech artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Gravière, Geneva on Sat, 11 Jul 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 77 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: Point Ephémère, Paris on Fri 10 Jul.
+Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 77 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: La Gravière, Geneva on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Point Ephémère | Paris |
 | Sat, 11 Jul 2026 | La Gravière | Geneva |
 | Fri, 17 Jul 2026 | Soup | Manchester |
 | Thu, 23 Jul 2026 | Sneaky Pete's | Edinburgh |
@@ -20,6 +19,7 @@ Nanoos is a club and ghetto tech artist based in United States of America, track
 
 ## Recently played
 
+- Point Ephémère, Paris — Fri, 10 Jul 2026
 - Smoke & Mirrors, Chicago — Thu, 2 Jul 2026
 - Newspeak, Montreal — Sat, 20 Jun 2026
 - TV Lounge, Detroit — Fri, 12 Jun 2026
@@ -27,10 +27,9 @@ Nanoos is a club and ghetto tech artist based in United States of America, track
 - Spot Lite Detroit, Detroit — Sun, 24 May 2026
 - Big Pink, Detroit — Sun, 24 May 2026
 - UFO Bar, Detroit — Sat, 23 May 2026
-- Elsewhere, New York City — Fri, 15 May 2026
 
 ## Shares bills with
 
 Dj Nico, Nadim Maghzal, Cquestt
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

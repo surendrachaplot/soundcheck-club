@@ -1,6 +1,6 @@
 # Black Coffee at Hï Ibiza
 
-Black Coffee at Hï Ibiza on Sat 8 Aug, Ibiza. 5 acts on the bill: Black Coffee, Mita Gami, OMRI. and Salomé Le Chat and 1 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee at Hï Ibiza on Sat 8 Aug, Ibiza. 6 acts on the bill: Black Coffee, Brunello, Mita Gami and OMRI. and 2 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Black Coffee at Hï Ibiza on Sat 8 Aug, Ibiza. 5 acts on the bill: Black Coffee,
 ## Line-up
 
 - Black Coffee
+- Brunello
 - Mita Gami
 - OMRI.
 - Salomé Le Chat

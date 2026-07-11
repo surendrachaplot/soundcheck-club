@@ -1,6 +1,6 @@
 # Dean Chew
 
-Dean Chew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Paper, Seoul on Sun, 12 Jul 2026.
+Dean Chew is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paper, Seoul on Sun, 12 Jul 2026.
 
 Dean Chew is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bali, Bangkok and Berlin and 16 more. Often billed alongside Daryl Knows, Dexter Colt and Marco Weibel. Next up: Paper, Seoul on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Dean Chew is a house and techno artist tracked on soundcheck, with 58 sets logge
 
 Daryl Knows, Dexter Colt, Marco Weibel
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deanchew/)*

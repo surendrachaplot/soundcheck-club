@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Paolo Ferrara ANL (BOXOFFICE TILL 1am 20€)" on Sat, 11 Jul 2026.
+Zoom Club is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Paolo Ferrara ANL (BOXOFFICE TILL 1am 20€)" on Sat, 11 Jul 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Paolo Ferrara, IGDA, Kennysutra and nonock. Browse upcoming dates, start times and who's playing. Brönnerstr. 5-9; 60313 Frankfurt; Germany.
 
@@ -15,4 +15,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights,
 
 Brönnerstr. 5-9; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

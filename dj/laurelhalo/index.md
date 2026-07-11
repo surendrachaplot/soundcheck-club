@@ -1,6 +1,6 @@
 # Laurel Halo
 
-Laurel Halo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Laurel Halo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Laurel Halo is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Marie Davidson, Aurora Halal and CCL. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Laurel Halo is a techno and house artist tracked on soundcheck, with 96 sets log
 
 Marie Davidson, Aurora Halal, CCL
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurelhalo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurelhalo/)*

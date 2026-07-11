@@ -1,6 +1,6 @@
 # Kalimanda
 
-Kalimanda is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - VIP Späti, Neukölln, Berlin on Sat, 11 Jul 2026.
+Kalimanda is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - VIP Späti, Neukölln, Berlin on Sat, 11 Jul 2026.
 
 Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Emilion Dollar Baby, Domovnika and Fo Ewa. Next up: TBA - VIP Späti, Neukölln, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Kalimanda is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Emilion Dollar Baby, Domovnika, Fo Ewa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimanda/)*

@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Chetana x SOL: July 11th OPEN AIR" on Sat, 11 Jul 2026.
+99 Scott Ave is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Chetana x SOL: July 11th OPEN AIR" on Sat, 11 Jul 2026.
 
 99 Scott Ave is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Deeper Purpose, Echonomist, Jenia Tarsol and Lee Foss and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

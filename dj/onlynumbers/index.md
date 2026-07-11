@@ -1,14 +1,13 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UNO MALTA, Malta on Fri, 10 Jul 2026.
+Onlynumbers is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Epic Prague, Prague on Fri, 17 Jul 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: UNO MALTA, Malta on Fri 10 Jul.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: Epic Prague, Prague on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | UNO MALTA | Malta |
 | Fri, 17 Jul 2026 | Epic Prague | Prague |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
@@ -20,6 +19,7 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 69 sets 
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 10 Jul 2026
 - Eden, Ibiza — Tue, 30 Jun 2026
 - Afas Live, Amsterdam — Sat, 27 Jun 2026
 - E1, London — Fri, 26 Jun 2026
@@ -27,10 +27,9 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 69 sets 
 - REC Napoli, Naples — Fri, 12 Jun 2026
 - Riverside, Glasgow — Sat, 30 May 2026
 - Sala Urbana, Mexico City — Fri, 22 May 2026
-- Harbour Event & Convention Centre, Vancouver — Sun, 17 May 2026
 
 ## Shares bills with
 
 NOVAH, Basswell, Fantasm
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

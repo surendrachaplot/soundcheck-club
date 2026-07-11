@@ -1,6 +1,6 @@
 # Big Night Live
 
-Big Night Live is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Mitis,SadBois, Tej (Through The Dark Tour)" on Sat, 11 Jul 2026.
+Big Night Live is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Mitis,SadBois, Tej (Through The Dark Tour)" on Sat, 11 Jul 2026.
 
 Big Night Live is a music venue in Boston listed on soundcheck. 6 upcoming nights, with line-ups including Above & Beyond, Afrojack, Eli Brown and Ian Asher. Browse upcoming dates, start times and who's playing. 110 Causeway St, Boston, MA 02114, USA.
 
@@ -19,4 +19,4 @@ Big Night Live is a music venue in Boston listed on soundcheck. 6 upcoming night
 
 110 Causeway St, Boston, MA 02114, USA, Boston
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/big-night-live/)*

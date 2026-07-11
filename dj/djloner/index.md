@@ -1,6 +1,6 @@
 # DJ LONER
 
-DJ LONER is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 11 Jul 2026.
+DJ LONER is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Oxford Art Factory, Sydney on Sat, 11 Jul 2026.
 
 DJ LONER is a house and techno artist tracked on soundcheck, with 17 sets logged across Melbourne and Sydney. Often billed alongside Shouse, BAiiN TWINS and BLURR3D. Next up: Oxford Art Factory, Sydney on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ DJ LONER is a house and techno artist tracked on soundcheck, with 17 sets logged
 
 Shouse, BAiiN TWINS, BLURR3D
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djloner/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djloner/)*

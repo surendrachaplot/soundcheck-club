@@ -1,6 +1,6 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Savaya Bali, Bali on Sun, 26 Jul 2026.
+Maxi Meraki is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Savaya Bali, Bali on Sun, 26 Jul 2026.
 
 Maxi Meraki is a house and afro house artist tracked on soundcheck, with 89 sets logged across Antwerp, Athens, Austin and Bali and 33 more. Often billed alongside Mahmut Orhan, AJNA and Adriatique. Next up: Savaya Bali, Bali on Sun 26 Jul.
 
@@ -29,4 +29,4 @@ Maxi Meraki is a house and afro house artist tracked on soundcheck, with 89 sets
 
 Mahmut Orhan, AJNA, Adriatique
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

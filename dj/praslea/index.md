@@ -1,14 +1,13 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 10 Jul 2026.
+Praslea is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Starlane Pizza Bar, London on Sat, 25 Jul 2026.
 
-Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Platforma Wolff, Bucharest on Fri 10 Jul.
+Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Starlane Pizza Bar, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Platforma Wolff | Bucharest |
 | Sat, 25 Jul 2026 | Starlane Pizza Bar | London |
 | Sat, 1 Aug 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Fri, 7 Aug 2026 | Supermarket | Zurich |
@@ -17,6 +16,7 @@ Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged
 
 ## Recently played
 
+- Platforma Wolff, Bucharest — Fri, 10 Jul 2026
 - Club der Visionaere, Berlin — Sun, 5 Jul 2026
 - Deseo BS AS, Buenos Aires — Sat, 18 Apr 2026
 - Kapsule, Liverpool — Sat, 31 Jan 2026
@@ -24,10 +24,9 @@ Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged
 - Supermarket, Zurich — Wed, 28 Jan 2026
 - Platforma Wolff, Bucharest — Fri, 23 Jan 2026
 - Tunnel, Milan — Sat, 10 Jan 2026
-- Gaffe, London — Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Raresh, CEZAR, Traumer
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

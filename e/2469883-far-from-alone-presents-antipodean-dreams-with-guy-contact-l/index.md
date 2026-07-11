@@ -1,6 +1,6 @@
 # Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala at The Glove That Fits
 
-Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala at The Glove That Fits on Fri 17 Jul, London. 3 acts on the bill: Guy Contact, Loa Szala and Markozonio. Progressive House and House. Preview the line-up and save it on soundcheck.
+Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala at The Glove That Fits on Fri 17 Jul, London. 4 acts on the bill: Guy Contact, Jefferson King, Loa Szala and Markozonio. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala at The Gl
 ## Line-up
 
 - Guy Contact
+- Jefferson King
 - Loa Szala
 - Markozonio
 

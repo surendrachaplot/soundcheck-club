@@ -1,6 +1,6 @@
 # CHIKA
 
-CHIKA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Blvck Water, Osaka on Fri, 17 Jul 2026.
+CHIKA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Blvck Water, Osaka on Fri, 17 Jul 2026.
 
 CHIKA is a techno and industrial artist tracked on soundcheck, with 98 sets logged across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside YOXIKI, DALJAE and YURI VALEN. Next up: Blvck Water, Osaka on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ CHIKA is a techno and industrial artist tracked on soundcheck, with 98 sets logg
 
 YOXIKI, DALJAE, YURI VALEN
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*

@@ -1,6 +1,6 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+Charlotte (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 Charlotte (FR) is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside tINI, ABI (FR) and Giammarco Orsini. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Charlotte (FR) is a house and techno artist tracked on soundcheck, with 88 sets 
 
 tINI, ABI (FR), Giammarco Orsini
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*

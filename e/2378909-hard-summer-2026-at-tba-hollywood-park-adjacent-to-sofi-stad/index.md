@@ -1,6 +1,6 @@
 # HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium
 
-HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, Losangeles. 64 acts on the bill: 10cust, 1tbsp, ATRIP and Adiel and 60 more. Preview the line-up and save it on soundcheck.
+HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, Losangeles. 65 acts on the bill: 10cust, 1tbsp, ATRIP and Adiel and 61 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ HARD Summer 2026 at TBA - Hollywood Park adjacent to SoFi Stadium on Sat 1 Aug, 
 - Andy C
 - Anetha
 - Boys Noize
+- Brunello
 - Brutalismus 3000
 - Bushbaby
 - Charlotte de Witte

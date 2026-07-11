@@ -1,6 +1,6 @@
 # Red Rooms
 
-Red Rooms is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 11 Jul 2026.
+Red Rooms is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 11 Jul 2026.
 
 Red Rooms is a techno and dub techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Cologne and 16 more. Often billed alongside AgainstMe, Jennifer Loveless and Lea Occhi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Red Rooms is a techno and dub techno artist tracked on soundcheck, with 53 sets 
 
 AgainstMe, Jennifer Loveless, Lea Occhi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redrooms/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redrooms/)*

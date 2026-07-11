@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "RAMA FOREVER" on Fri, 10 Jul 2026.
+Crack Bellmer is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Skew & rythme brisé invite Holandês" on Sat, 11 Jul 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Ancient Alien, Anjawah, Ayham and Baby Kallax and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Ancient Alien, Anjawah, Ayham and Baby Kallax and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | RAMA FOREVER | Somme Farris, Steele, Triqi |
 | Sat, 11 Jul 2026 | Skew & rythme brisé invite Holandês | Cmba, Rythme Brisé, gugol maps, holandês |
 | Sun, 12 Jul 2026 | BATS & SASS | Nyx |
 | Wed, 15 Jul 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming night
 | Wed, 22 Jul 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 23 Jul 2026 | Arcane XIII: The Lovers ♡ Pride Week Edition (Free Entry*) | Daniela Fuzz, Katalina Schwarz, Leonor Baesler, MATIAS SAURI, NSPERGER, Pamela Svart, SARA |
 | Fri, 24 Jul 2026 | 3 Years of Inline with Karim Alkhayat, UniKhatu, CMR-A, Julia S, Pink Panther & Rovin | CMR-A, Julia S., Karim Alkhayat, Rovin, UniKhatu, pink-panther |
+| Sat, 25 Jul 2026 | RAVAGÉE 4 PRIDE | Dgeral, Kidcat, Kylie Exotic, Lixi, Paulina (2), SuperBush, ilbroccolovolante |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

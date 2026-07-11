@@ -1,6 +1,6 @@
 # Monsieur Mikey
 
-Monsieur Mikey is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Please Don't Tell, Edinburgh on Sat, 11 Jul 2026.
+Monsieur Mikey is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Please Don't Tell, Edinburgh on Sat, 11 Jul 2026.
 
 Monsieur Mikey is a house and techno artist tracked on soundcheck, with 8 sets logged across Edinburgh, London, Malta and Nantes. Often billed alongside JOHNJAYDEE, She is Spinderella and AnDD. Next up: Please Don't Tell, Edinburgh on Sat 11 Jul.
 
@@ -24,4 +24,4 @@ Monsieur Mikey is a house and techno artist tracked on soundcheck, with 8 sets l
 
 JOHNJAYDEE, She is Spinderella, AnDD
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmikey/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmikey/)*

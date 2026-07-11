@@ -1,6 +1,6 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Spin, San Diego on Fri, 24 Jul 2026.
+Georgie Riot is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Spin, San Diego on Fri, 24 Jul 2026.
 
 Georgie Riot is a drum & bass and bass artist tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: Spin, Sandiego on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Georgie Riot is a drum & bass and bass artist tracked on soundcheck, with 18 set
 
 Anaïs, Benny L, Benny Page
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*

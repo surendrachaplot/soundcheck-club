@@ -1,6 +1,6 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Kangding Ray is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
 
 Kangding Ray is a techno and experimental artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Dasha Rush, DJ Nobu and Clarisa Kimskii. Next up: Fabrik, Madrid on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Kangding Ray is a techno and experimental artist tracked on soundcheck, with 126
 
 Dasha Rush, DJ Nobu, Clarisa Kimskii
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

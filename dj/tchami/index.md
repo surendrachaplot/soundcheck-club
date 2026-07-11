@@ -1,6 +1,6 @@
 # Tchami
 
-Tchami is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 31 Jul 2026.
+Tchami is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 31 Jul 2026.
 
 Tchami is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Boston and Chicago and 23 more. Often billed alongside AC Slater, David Guetta and Wax Motif. Next up: Level 1 @ Cannonball Arts, Seattle on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Tchami is a house and tech house artist tracked on soundcheck, with 55 sets logg
 
 AC Slater, David Guetta, Wax Motif
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tchami/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tchami/)*

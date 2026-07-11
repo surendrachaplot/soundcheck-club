@@ -1,6 +1,6 @@
 # Anaco
 
-Anaco is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - La Dolors Bar Viaducte de Vallcarca, 4, Gràcia., Barcelona on Sun, 12 Jul 2026.
+Anaco is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - La Dolors Bar Viaducte de Vallcarca, 4, Gràcia., Barcelona on Sun, 12 Jul 2026.
 
 Anaco is a techno and reggaeton artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Geneva and Lyon and 3 more. Often billed alongside Olympe4000, Azamat B. and RAG. Next up: TBA - La Dolors Bar Viaducte de Vallcarca, 4, Gràcia., Barcelona on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Anaco is a techno and reggaeton artist tracked on soundcheck, with 51 sets logge
 
 Olympe4000, Azamat B., RAG
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaco/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaco/)*

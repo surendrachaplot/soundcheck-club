@@ -1,14 +1,13 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "2200" on Fri, 10 Jul 2026.
+Sigurd CPH is a music venue in Copenhagen with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BAS UNDER BUEN EXTENDED" on Sat, 11 Jul 2026.
 
-Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Ave Maria, CALIFANO, Diego Armando and Fergus Murphy and 2 more. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
+Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 9 upcoming nights, with line-ups including Ave Maria, CALIFANO, Diego Armando and Fergus Murphy and 2 more. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | 2200 |  |
 | Sat, 11 Jul 2026 | BAS UNDER BUEN EXTENDED | CALIFANO, Fergus Murphy, Gavnlig, SANJARI |
 | Thu, 16 Jul 2026 | FLOOR - FREE ALL NIGHT |  |
 | Fri, 17 Jul 2026 | 2200 |  |
@@ -23,4 +22,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 10 upcoming nigh
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

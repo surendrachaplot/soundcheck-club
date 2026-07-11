@@ -1,6 +1,6 @@
 # BETÏSES
 
-BETÏSES is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fvtvr, Paris on Mon, 13 Jul 2026.
+BETÏSES is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fvtvr, Paris on Mon, 13 Jul 2026.
 
 BETÏSES is a techno and trance artist tracked on soundcheck, with 34 sets logged across Brussels, Lyon, Nantes and Paris. Often billed alongside Britney Speed (FR), Enigmatik and Etienne Nogues. Next up: Fvtvr, Paris on Mon 13 Jul.
 
@@ -27,4 +27,4 @@ BETÏSES is a techno and trance artist tracked on soundcheck, with 34 sets logge
 
 Britney Speed (FR), Enigmatik, Etienne Nogues
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/betïses/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/betïses/)*

@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
+Paige Tomlinson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
 
 Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 151 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: Silverworks Island, London on Sun 12 Jul.
 
@@ -33,4 +33,4 @@ Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 151
 
 Prunk, L.P. Rhythm, Gaskin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

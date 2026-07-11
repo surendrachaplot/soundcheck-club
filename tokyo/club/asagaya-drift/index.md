@@ -1,6 +1,6 @@
 # Asagaya Drift
 
-Asagaya Drift is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "HitBox" on Thu, 16 Jul 2026.
+Asagaya Drift is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "HitBox" on Thu, 16 Jul 2026.
 
 Asagaya Drift is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 〒166-0004 Tokyo, Suginami City, Asagayaminami, 3 Chome−38−30 清水ビル 3F.
 
@@ -14,4 +14,4 @@ Asagaya Drift is a music venue in Tokyo listed on soundcheck. 1 upcoming night. 
 
 〒166-0004 Tokyo, Suginami City, Asagayaminami, 3 Chome−38−30 清水ビル 3F, Tokyo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/asagaya-drift/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/asagaya-drift/)*

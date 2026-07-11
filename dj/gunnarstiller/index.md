@@ -1,6 +1,6 @@
 # Gunnar Stiller
 
-Gunnar Stiller is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Süss War Gestern, Berlin on Sat, 11 Jul 2026.
+Gunnar Stiller is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Süss War Gestern, Berlin on Sat, 11 Jul 2026.
 
 Gunnar Stiller is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Hamburg, Munich and Nurnberg. Often billed alongside Mømentum, Slurm McKenzie and Cosmokat. Next up: Süss War Gestern, Berlin on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Gunnar Stiller is a techno and house artist based in Germany, tracked on soundch
 
 Mømentum, Slurm McKenzie, Cosmokat
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnarstiller/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnarstiller/)*

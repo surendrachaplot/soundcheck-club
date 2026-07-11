@@ -1,6 +1,6 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Francesco Del Garda is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Francesco Del Garda is a house and techno artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Francesco Del Garda is a house and techno artist tracked on soundcheck, with 202
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

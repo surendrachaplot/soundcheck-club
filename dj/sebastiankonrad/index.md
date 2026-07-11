@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Aurathebunker, Grellingen (CH), Basel on Sat, 11 Jul 2026.
+Sebastian Konrad is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Aurathebunker, Grellingen (CH), Basel on Sat, 11 Jul 2026.
 
 Sebastian Konrad is a house and techno artist tracked on soundcheck, with 51 sets logged across Basel, Berlin, Dusseldorf and Ibiza and 7 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Aurathebunker, Grellingen (CH), Basel on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Sebastian Konrad is a house and techno artist tracked on soundcheck, with 51 set
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

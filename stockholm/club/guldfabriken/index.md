@@ -1,6 +1,6 @@
 # Guldfabriken
 
-Guldfabriken is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "GOSH! x Gull33 pres. Human Movement, DJ Sprinter & Ms Renegade" on Sat, 25 Jul 2026.
+Guldfabriken is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "GOSH! x Gull33 pres. Human Movement, DJ Sprinter & Ms Renegade" on Sat, 25 Jul 2026.
 
 Guldfabriken is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including DJ Sprinter, Human Movement, Marble and Ms. Renegade. Browse upcoming dates, start times and who's playing. Lindetorpsvägen 21, 121 63 Johanneshov, Sweden.
 
@@ -14,4 +14,4 @@ Guldfabriken is a music venue in Stockholm listed on soundcheck. 1 upcoming nigh
 
 Lindetorpsvägen 21, 121 63 Johanneshov, Sweden, Stockholm
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/guldfabriken/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/guldfabriken/)*

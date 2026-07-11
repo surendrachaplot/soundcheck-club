@@ -1,6 +1,6 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Luitpoldblock, Munich on Sat, 11 Jul 2026.
+Eden Burns is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Luitpoldblock, Munich on Sat, 11 Jul 2026.
 
 Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 47 sets logged across Auckland, Bali, Bangkok and Berlin and 20 more. Often billed alongside Adriana (1), Babycino and DJ City. Next up: Luitpoldblock, Munich on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 
 Adriana (1), Babycino, DJ City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

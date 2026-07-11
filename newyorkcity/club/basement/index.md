@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Juliana Huxtable all night long / Natuta / Leonce / ALEXIS DE LA ROSA" on Fri, 10 Jul 2026.
+BASEMENT is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Herrensauna 10 Year Anniversary: MCMLXXXV / DJ TOOL / Princess Peggie / CEM / PAURRO / DJPT" on Sat, 11 Jul 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including ALEXIS DE LA ROSA, Altinbas, Analog Soul and Annie Lew and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Altinbas, Analog Soul, Annie Lew and Auspex and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Juliana Huxtable all night long / Natuta / Leonce / ALEXIS DE LA ROSA | ALEXIS DE LA ROSA, Juliana Huxtable, Leonce, Natuta |
 | Sat, 11 Jul 2026 | Herrensauna 10 Year Anniversary: MCMLXXXV / DJ TOOL / Princess Peggie / CEM / PAURRO / DJPT | CEM, DJ TOOL, DJPT, MCMLXXXV, PAURRO, Princess Peggie |
 | Fri, 17 Jul 2026 | Drumcell / Stephanie Sykes / threehz / The Carry Nation / x3butterfly / Matas | Drumcell, Matas, Stephanie Sykes, The Carry Nation, threehz, x3butterfly |
 | Sat, 18 Jul 2026 | WRECKED: Psyk / Jason Kendig / Jubilee / HONEY B / Ron Like Hell / Ryan Smith | HONEY B, Jason Kendig, Jubilee, Psyk, Ron Like Hell, Ryan Smith |
@@ -18,9 +17,10 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 13 upcoming night
 | Sat, 1 Aug 2026 | Locals Night | Analog Soul, Concrete Husband, Holden Federico, Justin Cudmore, Katie Rex, Kim Anh, Manu Miran, Mos (NYC), Ne/Re/A |
 | Sat, 8 Aug 2026 | WRECKED: Sterling Juan Diaz / Mister Wallace / Jellyfish / Ron Like Hell b2b Ryan Smith | Jellyfish, Mister Wallace, Ron Like Hell, Ryan Smith, Sterling Juan Diaz |
 | Sat, 15 Aug 2026 | Function / LOLSNAKE / Elle Dee / Tom Peters / Dee Diggs / Miracles | Dee Diggs, Elle Dee, Function, LOLSNAKE, Miracles, Tom Peters |
+| Sat, 22 Aug 2026 | Dustin Zahn / NEUX / Nastia Reigel / Eau De Cologne: Natuta / MVHY / Mutualism | Dustin Zahn, MVHY, Mutualism, NEUX, Nastia Reigel, Natuta |
 
 ## Address
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

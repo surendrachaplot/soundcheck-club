@@ -1,6 +1,6 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "The 2000s Forever Parrty by THE Y2K Parrty" on Sat, 11 Jul 2026.
+Mehanata Bar is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "The 2000s Forever Parrty by THE Y2K Parrty" on Sat, 11 Jul 2026.
 
 Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including DJ Sauci Soni, FTZGRLD, MAXWELL HöUSE and MISS VEE and 2 more. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
@@ -23,4 +23,4 @@ Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 19 upcoming n
 
 113, Ludlow street, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*

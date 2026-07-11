@@ -1,14 +1,13 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "LOCAL with Bass Chronicles" on Fri, 10 Jul 2026.
+Plot 22 is a music venue in Sheffield with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "LOCAL with Nightshift & Friends" on Sat, 11 Jul 2026.
 
-Plot 22 is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Creola and TC. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
+Plot 22 is a music venue in Sheffield listed on soundcheck. 6 upcoming nights, with line-ups including Creola and TC. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | LOCAL with Bass Chronicles |  |
 | Sat, 11 Jul 2026 | LOCAL with Nightshift & Friends |  |
 | Fri, 17 Jul 2026 | RiteTrax Open Decks |  |
 | Sat, 18 Jul 2026 | LOCAL with Disoriental |  |
@@ -20,4 +19,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, w
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

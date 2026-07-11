@@ -1,6 +1,6 @@
 # Sebastiaan Hooft
 
-Sebastiaan Hooft is a Minimal and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Tomorrowland Store Ibiza, Ibiza on Fri, 17 Jul 2026.
+Sebastiaan Hooft is a Minimal and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tomorrowland Store Ibiza, Ibiza on Fri, 17 Jul 2026.
 
 Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Tomorrowland Store Ibiza, Ibiza on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracke
 
 AFAR, Bi Män, Dana Ruh
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*

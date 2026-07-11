@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+Shonky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 Shonky is a house and tech house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Shonky is a house and tech house artist tracked on soundcheck, with 210 sets log
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

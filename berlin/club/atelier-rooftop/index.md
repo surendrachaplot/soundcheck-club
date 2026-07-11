@@ -1,6 +1,6 @@
 # Atelier Rooftop
 
-Atelier Rooftop is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "BCCO x Goldies Penthouse & Burgers" on Sat, 1 Aug 2026.
+Atelier Rooftop is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "BCCO x Goldies Penthouse & Burgers" on Sat, 1 Aug 2026.
 
 Atelier Rooftop is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including DJ ANGEL (fr), Junkfile, LO-2C and RLK18 and 1 more. Browse upcoming dates, start times and who's playing. Oranienstr.140 / Prinzenstr.84.1, 10969 Berlin.
 
@@ -14,4 +14,4 @@ Atelier Rooftop is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 
 Oranienstr.140 / Prinzenstr.84.1, 10969 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-rooftop/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-rooftop/)*

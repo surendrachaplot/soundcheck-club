@@ -1,6 +1,6 @@
 # Kleurstoff
 
-Kleurstoff is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Soft Landing" on Sun, 6 Sept 2026.
+Kleurstoff is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Soft Landing" on Sun, 6 Sept 2026.
 
 Kleurstoff is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Hogehilweg 20, 1101 CD Amsterdam.
 
@@ -14,4 +14,4 @@ Kleurstoff is a music venue in Amsterdam listed on soundcheck. 1 upcoming night.
 
 Hogehilweg 20, 1101 CD Amsterdam, Amsterdam
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kleurstoff/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kleurstoff/)*

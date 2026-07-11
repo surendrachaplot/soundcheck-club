@@ -1,6 +1,6 @@
 # Mandragora
 
-Mandragora is a Psytrance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - DTLA, Los Angeles on Sat, 11 Jul 2026.
+Mandragora is a Psytrance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - DTLA, Los Angeles on Sat, 11 Jul 2026.
 
 Mandragora is a psytrance and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Cologne and Istanbul and 12 more. Often billed alongside Vladimir Cauchemar, DYEN and Jacidorex. Next up: TBA - DTLA, Losangeles on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Mandragora is a psytrance and techno artist tracked on soundcheck, with 36 sets 
 
 Vladimir Cauchemar, DYEN, Jacidorex
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

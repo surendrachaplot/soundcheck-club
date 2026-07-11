@@ -1,17 +1,17 @@
 # ZK/U (Zentrum für Kunst und Urbanistik)
 
-ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Lost In ZK/U ☼ Rooftop Open Air ☼" on Fri, 10 Jul 2026.
+ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "AROMA DAY+NITE" on Sat, 8 Aug 2026.
 
-ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including krawallwitz, patte and Stefoon. Browse upcoming dates, start times and who's playing. Siemensstraße 27, 10551 Berlin, Germany.
+ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including asphalt angel, LG JASPER <3 and Sinan Varol. Browse upcoming dates, start times and who's playing. Siemensstraße 27, 10551 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Lost In ZK/U ☼ Rooftop Open Air ☼ | Stefoon, krawallwitz, patte |
+| Sat, 8 Aug 2026 | AROMA DAY+NITE | LG JASPER <3, Sinan Varol, asphalt angel |
 
 ## Address
 
 Siemensstraße 27, 10551 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zk-u-zentrum-f-r-kunst-und-urbanistik/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zk-u-zentrum-f-r-kunst-und-urbanistik/)*

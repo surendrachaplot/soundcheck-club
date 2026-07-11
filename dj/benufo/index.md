@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Ben UFO is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Ben UFO is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Athens, Auckland and Austin and 56 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 222 sets logged
 
 Helena Hauff, Ogazón, Pangaea
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

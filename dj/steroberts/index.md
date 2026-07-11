@@ -1,6 +1,6 @@
 # Ste Roberts
 
-Ste Roberts is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Lion and Lamb, London on Sat, 11 Jul 2026.
+Ste Roberts is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Lion and Lamb, London on Sat, 11 Jul 2026.
 
 Ste Roberts is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: The Lion and Lamb, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Ste Roberts is a techno and electro artist based in United Kingdom, tracked on s
 
 Alien Communications, Jos, De La Reef
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*

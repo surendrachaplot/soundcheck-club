@@ -1,14 +1,13 @@
 # Super5
 
-Super5 is a music venue in Lyon with 13 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "GRISHAGREG" on Fri, 10 Jul 2026.
+Super5 is a music venue in Lyon with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Mush" on Sat, 11 Jul 2026.
 
-Super5 is a music venue in Lyon listed on soundcheck. 13 upcoming nights, with line-ups including CallBackSami, CL Beats, Eloi and Ludviq and 2 more. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
+Super5 is a music venue in Lyon listed on soundcheck. 12 upcoming nights, with line-ups including CallBackSami, CL Beats, Eloi and Ludviq and 2 more. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | GRISHAGREG |  |
 | Sat, 11 Jul 2026 | Mush | Mush |
 | Wed, 15 Jul 2026 | KAMBO RESIDENCY - CALINE |  |
 | Thu, 16 Jul 2026 | Ludviq | Ludviq |
@@ -18,9 +17,10 @@ Super5 is a music venue in Lyon listed on soundcheck. 13 upcoming nights, with l
 | Thu, 23 Jul 2026 | MASTAÏ & MINÙ JR |  |
 | Fri, 24 Jul 2026 | CL Beats | CL Beats |
 | Sat, 25 Jul 2026 | AXYMT & ROXANE |  |
+| Wed, 29 Jul 2026 | KAMBO RESIDENCY - Eloi & LAZINE | Eloi |
 
 ## Address
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

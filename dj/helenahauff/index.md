@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Glasgow on Sat, 11 Jul 2026.
+Helena Hauff is a Techno and Electro artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Glasgow on Sat, 11 Jul 2026.
 
 Helena Hauff is a techno and electro artist based in Germany, tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: TBA, Glasgow on Sat 11 Jul.
 
@@ -33,4 +33,4 @@ Helena Hauff is a techno and electro artist based in Germany, tracked on soundch
 
 Ben UFO, DVS1, Job Jobse
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

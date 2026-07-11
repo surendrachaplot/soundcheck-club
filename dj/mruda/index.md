@@ -1,6 +1,6 @@
 # Mruda
 
-Mruda is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 25 Jul 2026.
+Mruda is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Gaswerksiedlung, Berlin on Sat, 25 Jul 2026.
 
 Mruda is a techno and experimental artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Delta Division, Feral and N ska. Next up: Gaswerksiedlung, Berlin on Sat 25 Jul.
 
@@ -22,4 +22,4 @@ Mruda is a techno and experimental artist based in Germany, tracked on soundchec
 
 Delta Division, Feral, N ska
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mruda/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mruda/)*

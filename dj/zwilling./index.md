@@ -1,14 +1,13 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OST, Berlin on Fri, 10 Jul 2026.
+zwilling. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 2 Aug 2026.
 
-zwilling. is a techno and trance artist tracked on soundcheck, with 92 sets logged across Antwerp, Barcelona, Basel and Berlin and 30 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: OST, Berlin on Fri 10 Jul.
+zwilling. is a techno and trance artist tracked on soundcheck, with 92 sets logged across Antwerp, Barcelona, Basel and Berlin and 30 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Lokschuppen Berlin, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | OST | Berlin |
 | Sun, 2 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
@@ -20,6 +19,7 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 92 sets logg
 
 ## Recently played
 
+- OST, Berlin — Fri, 10 Jul 2026
 - Smoke & Mirrors, Chicago — Sat, 4 Jul 2026
 - Superior Ingredients, New York City — Thu, 2 Jul 2026
 - Superior Ingredients, New York City — Thu, 2 Jul 2026
@@ -27,10 +27,9 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 92 sets logg
 - Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
 - TBA - Place Jean Rey, 1000 Brussels, Brussels — Sat, 13 Jun 2026
 - Lehmann Club, Stuttgart — Fri, 12 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

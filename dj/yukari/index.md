@@ -1,6 +1,6 @@
 # Yukari
 
-Yukari is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - VIP Späti, Neukölln, Berlin on Sat, 11 Jul 2026.
+Yukari is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - VIP Späti, Neukölln, Berlin on Sat, 11 Jul 2026.
 
 Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Berlin, London, Tokyo and Vienna. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: TBA - VIP Späti, Neukölln, Berlin on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Kazuki Takahashi, Tina Technotic, Emilion Dollar Baby
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*

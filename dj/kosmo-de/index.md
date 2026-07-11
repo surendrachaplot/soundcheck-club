@@ -1,6 +1,6 @@
 # Kos:mo
 
-Kos:mo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Lago Beach Fühlinger See, Cologne on Sun, 12 Jul 2026.
+Kos:mo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Lago Beach Fühlinger See, Cologne on Sun, 12 Jul 2026.
 
 Kos:mo is a techno and progressive house artist based in Germany, tracked on soundcheck, with 67 sets logged across Berlin, Cologne, Dublin and Hamburg and 2 more. Often billed alongside Alchemiah, Diode Eins and Ropemaker. Next up: TBA - Lago Beach Fühlinger See, Cologne on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Kos:mo is a techno and progressive house artist based in Germany, tracked on sou
 
 Alchemiah, Diode Eins, Ropemaker
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmo-de/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmo-de/)*

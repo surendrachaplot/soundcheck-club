@@ -1,6 +1,6 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Z33 DAY AND NIGHT" on Sat, 18 Jul 2026.
+Z-Bau is a music venue in Nürnberg with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Z33 DAY AND NIGHT" on Sat, 18 Jul 2026.
 
 Z-Bau is a music venue in Nurnberg listed on soundcheck. 2 upcoming nights, with line-ups including ALLY, DJ SEXSTASY, Dominique Lamee and EDNA and 2 more. Browse upcoming dates, start times and who's playing. Frankenstr.200.
 
@@ -15,4 +15,4 @@ Z-Bau is a music venue in Nurnberg listed on soundcheck. 2 upcoming nights, with
 
 Frankenstr.200, Nürnberg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

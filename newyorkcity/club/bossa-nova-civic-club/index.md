@@ -1,6 +1,6 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SLICK DOWN w/ Stonie Blue & Niyah West" on Fri, 10 Jul 2026.
+Bossa Nova Civic Club is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Body Journey with Maldita Vaina, Total XTC, Giselle Peppers and Yatta" on Sat, 11 Jul 2026.
 
 Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including a.gar, AceMo, Aleska and Amarji King and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
@@ -8,7 +8,6 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 u
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | SLICK DOWN w/ Stonie Blue & Niyah West | Love Higher, Niyah West, Simisola, Stonie Blue, wahala.wav |
 | Sat, 11 Jul 2026 | Body Journey with Maldita Vaina, Total XTC, Giselle Peppers and Yatta | Giselle Peppers, Maldita Vaina, Total XTC |
 | Sat, 11 Jul 2026 | Happy Hour - GENRELESS presents: The 7/11 Special | DJ ATTENTION, grunge mum, steele deficiency |
 | Sun, 12 Jul 2026 | Noise Control: Mike Servito, lady lavender, RATONC1T0, Rogelio | Mike Servito, RATONC1T0, Rogelio, lady lavender |
@@ -18,9 +17,10 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 u
 | Thu, 16 Jul 2026 | BUCKLE UP BABY | ARCHANGEL (US), BEARCAT, EMMALINE, LeCamille |
 | Thu, 16 Jul 2026 | Happy Hour: High Voltage | Eyes Wide Shut (US), P.Swaney, lotus. |
 | Fri, 17 Jul 2026 | SIMPULSO 014: with Sevyn Love, DJ KMS, DJ Mahroo + Trax Unit | Sevyn Love, Trax Unit |
+| Sat, 18 Jul 2026 | ky's relentless happy hour |  |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

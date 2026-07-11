@@ -1,6 +1,6 @@
 # Ellie Stokes
 
-Ellie Stokes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Ellie Stokes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Ellie Stokes is a house and techno artist tracked on soundcheck, with 89 sets logged across Athens, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Chez de Milo, Dave Harvey and Ivan Smagghe. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Ellie Stokes is a house and techno artist tracked on soundcheck, with 89 sets lo
 
 Chez de Milo, Dave Harvey, Ivan Smagghe
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliestokes/)*

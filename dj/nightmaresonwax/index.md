@@ -1,14 +1,13 @@
 # Nightmares on Wax
 
-Nightmares on Wax is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Moseley Park, Birmingham on Fri, 10 Jul 2026.
+Nightmares on Wax is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
-Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Moseley Park, Birmingham on Fri 10 Jul.
+Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Moseley Park | Birmingham |
 | Fri, 17 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 2 Aug 2026 | Burgess Park | London |
 | Sat, 8 Aug 2026 | Else | Berlin |
@@ -16,6 +15,7 @@ Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 
 
 ## Recently played
 
+- Moseley Park, Birmingham — Fri, 10 Jul 2026
 - Electric Studios, Sheffield — Fri, 12 Jun 2026
 - TBA - Multiple venues, Sheffield — Fri, 12 Jun 2026
 - Quarters, Brighton — Sat, 6 Jun 2026
@@ -23,10 +23,9 @@ Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 
 - PROGRESS, Manchester — Sun, 5 Apr 2026
 - 24 Kitchen Street, Liverpool — Fri, 3 Apr 2026
 - Hare & Hounds, Birmingham — Sun, 29 Mar 2026
-- The Brickworks, Nottingham — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Colleen 'Cosmo' Murphy, Mr Scruff, Romare
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*

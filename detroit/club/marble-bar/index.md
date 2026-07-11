@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "PORTAL // Shaun Reeves + Dan Bain" on Fri, 10 Jul 2026.
+Marble Bar is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "CURIOUSER & CURIOUSER…" on Sat, 11 Jul 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including AK (US), BMG, Creams and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including AK (US), BMG, Creams and D. Tiffany and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | PORTAL // Shaun Reeves + Dan Bain | Dan Bain, Shaun Reeves |
 | Sat, 11 Jul 2026 | CURIOUSER & CURIOUSER… | Duck Trash, Gabi, Mac Diesel, Medha Achar |
 | Fri, 17 Jul 2026 | GHETTOTECHTOPIA | AK (US), DJ THADZ, Disc Jockey George, Sheefy McFly |
 | Sat, 18 Jul 2026 | thrg x Auntie. present Plush Managements Inc. (D. Tiffany + Regularfantasy), Creams | Creams, D. Tiffany, Ladylike, Plush Managements Inc., Regularfantasy, mirepoix |
@@ -19,4 +18,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

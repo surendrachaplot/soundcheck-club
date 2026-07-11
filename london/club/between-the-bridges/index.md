@@ -1,6 +1,6 @@
 # Between The Bridges
 
-Between The Bridges is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "R'n'B LDN Summer Day Party" on Sat, 11 Jul 2026.
+Between The Bridges is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "R'n'B LDN Summer Day Party" on Sat, 11 Jul 2026.
 
 Between The Bridges is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including DJ Luck & MC Neat and Star.One. Browse upcoming dates, start times and who's playing. Queen's Walk, South Bank, SE1.
 
@@ -16,4 +16,4 @@ Between The Bridges is a music venue in London listed on soundcheck. 3 upcoming 
 
 Queen's Walk, South Bank, SE1, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/between-the-bridges/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/between-the-bridges/)*

@@ -1,14 +1,13 @@
 # Bricks
 
-Bricks is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Precinct Sonics [Deep house, Garage, Minimal, Electro]" on Fri, 10 Jul 2026.
+Bricks is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "England - Norway & Salotto Sounds Afterparty | Bear Winder, ARLYSS & Alfaz " on Sat, 11 Jul 2026.
 
-Bricks is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AHARDS, Alfaz, ARLYSS and Bear Winder and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
+Bricks is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AHARDS, Alfaz, ARLYSS and Bear Winder and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Precinct Sonics [Deep house, Garage, Minimal, Electro] | Perspect, Saint Lukez |
 | Sat, 11 Jul 2026 | England - Norway & Salotto Sounds Afterparty / Bear Winder, ARLYSS & Alfaz  | ARLYSS, Alfaz, Bear Winder |
 | Fri, 17 Jul 2026 | ElixSystem | Brennan |
 | Sat, 18 Jul 2026 | Groove27 | Faro, House Purist |
@@ -18,9 +17,10 @@ Bricks is a music venue in London listed on soundcheck. 14 upcoming nights, with
 | Sat, 25 Jul 2026 | DANCEFLOOR EDUCATION DAY PARTY |  |
 | Fri, 31 Jul 2026 | SYCAMORE.club | Alfaz, Henson, Ize (1), MTRG |
 | Fri, 7 Aug 2026 | Anything But House (Brixton) | BIDOIS, DJ Leeloo, Jawrs, Margella, Noizfiend, Positive_Con, tasha.mp4 |
+| Sat, 15 Aug 2026 | SHINDIG NIGHTS - fancy dress |  |
 
 ## Address
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

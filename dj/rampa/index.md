@@ -1,6 +1,6 @@
 # Rampa
 
-Rampa is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at [UNVRS], Ibiza on Tue, 14 Jul 2026.
+Rampa is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at [UNVRS], Ibiza on Tue, 14 Jul 2026.
 
 Rampa is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: [UNVRS], Ibiza on Tue 14 Jul.
 
@@ -30,4 +30,4 @@ Rampa is a house and techno artist tracked on soundcheck, with 82 sets logged ac
 
 &ME, Adam Port, Seth Troxler
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*

@@ -1,14 +1,13 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 10 Jul 2026.
+Louie Vega is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - 2346 Porter Street, Los Angeles, CA 90021, Los Angeles on Sat, 11 Jul 2026.
 
-Louie Vega is a house and disco artist tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Public Works, Sanfrancisco on Fri 10 Jul.
+Louie Vega is a house and disco artist tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: TBA - 2346 Porter Street, Los Angeles, CA 90021, Losangeles on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Public Works | San Francisco/Oakland |
 | Sat, 11 Jul 2026 | TBA - 2346 Porter Street, Los Angeles, CA 90021 | Los Angeles |
 | Fri, 17 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Clifton Downs | Bristol |
@@ -20,6 +19,7 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 199 sets logg
 
 ## Recently played
 
+- Public Works, San Francisco/Oakland — Fri, 10 Jul 2026
 - public records, New York City — Sun, 5 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 19 Jun 2026
 - Praia Irmão, Lisbon — Thu, 18 Jun 2026
@@ -27,10 +27,9 @@ Louie Vega is a house and disco artist tracked on soundcheck, with 199 sets logg
 - Departamento, Mexico City — Fri, 29 May 2026
 - Departamento, Mexico City — Wed, 27 May 2026
 - Spot Lite Detroit, Detroit — Sun, 24 May 2026
-- Hart Plaza, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

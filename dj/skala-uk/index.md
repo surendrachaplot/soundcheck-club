@@ -1,6 +1,6 @@
 # SKALAH (UK)
 
-SKALAH (UK) is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
+SKALAH (UK) is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
 
 SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 41 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside JAZ IMSKY, Figs and Just Jane. Next up: Document, Bristol on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ SKALAH (UK) is a dubstep and bass artist tracked on soundcheck, with 41 sets log
 
 JAZ IMSKY, Figs, Just Jane
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*

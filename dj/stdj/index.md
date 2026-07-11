@@ -1,6 +1,6 @@
 # STDJ
 
-STDJ is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at UMI, Brussels on Sat, 11 Jul 2026.
+STDJ is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at UMI, Brussels on Sat, 11 Jul 2026.
 
 STDJ is a bass and techno artist based in Belgium, tracked on soundcheck, with 44 sets logged across Antwerp, Brussels, Ghent and London and 2 more. Often billed alongside EliseThere, Nefeli and DJ Rino. Next up: UMI, Brussels on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ STDJ is a bass and techno artist based in Belgium, tracked on soundcheck, with 4
 
 EliseThere, Nefeli, DJ Rino
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stdj/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stdj/)*

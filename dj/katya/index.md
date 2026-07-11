@@ -1,6 +1,6 @@
 # Katya
 
-Katya is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at FOLD, London on Sat, 15 Aug 2026.
+Katya is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at FOLD, London on Sat, 15 Aug 2026.
 
 Katya is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Berlin, Bristol, London and Portland and 1 more. Often billed alongside Alien Communications, Bobby. and Olita (UK). Next up: FOLD, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Katya is a techno and electro artist based in United Kingdom, tracked on soundch
 
 Alien Communications, Bobby., Olita (UK)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*

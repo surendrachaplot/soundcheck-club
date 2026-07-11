@@ -1,6 +1,6 @@
 # Torsion
 
-Torsion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
+Torsion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
 
 Torsion is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Berlin, Detroit, Newyorkcity and Paris and 1 more. Often billed alongside Kudeki, RMNA and Mike Parker. Next up: OHM, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Torsion is a techno and house artist based in United States of America, tracked 
 
 Kudeki, RMNA, Mike Parker
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/torsion/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/torsion/)*

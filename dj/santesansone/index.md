@@ -1,6 +1,6 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 14 Jul 2026.
+Sante Sansone is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 14 Jul 2026.
 
 Sante Sansone is a tech house and house artist tracked on soundcheck, with 39 sets logged across Barcelona, Boston, Buenosaires and Frankfurt and 16 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Hï Ibiza, Ibiza on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ Sante Sansone is a tech house and house artist tracked on soundcheck, with 39 se
 
 Hector Couto, Pirate Copy, Ammo Avenue
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*

@@ -1,6 +1,6 @@
 # Areál7
 
-Areál7 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Outcasts presents Holy Priest - The Holy Shit Show" on Sat, 18 Jul 2026.
+Areál7 is a music venue in Prague with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Outcasts presents Holy Priest - The Holy Shit Show" on Sat, 18 Jul 2026.
 
 Areál7 is a music venue in Prague listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Za Elektrárnou, 170 00 Prague 7-Holešovice, Czech Republic.
 
@@ -15,4 +15,4 @@ Areál7 is a music venue in Prague listed on soundcheck. 2 upcoming nights. Brow
 
 Za Elektrárnou, 170 00 Prague 7-Holešovice, Czech Republic, Prague
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/are-l7/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/are-l7/)*

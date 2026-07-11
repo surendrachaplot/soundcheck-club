@@ -1,6 +1,6 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Boomerang Beach, The Hague on Sat, 11 Jul 2026.
+Faster Horses is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Boomerang Beach, The Hague on Sat, 11 Jul 2026.
 
 Faster Horses is a techno and trance artist tracked on soundcheck, with 231 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Leaha, Azyr and Kander. Next up: Boomerang Beach, Thehague on Sat 11 Jul.
 
@@ -35,4 +35,4 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 231 sets
 
 Leaha, Azyr, Kander
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

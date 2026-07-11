@@ -1,14 +1,13 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "YOUNG LOVE" on Fri, 10 Jul 2026.
+Insomnia is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Colours of the Night" on Sat, 11 Jul 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Andrea Marino, Bäggy, Bi Män and BioTec -official- and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Andrea Marino, Bäggy, Bi Män and CLAESSENS and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | YOUNG LOVE | BioTec -official-, Monty, Nat SuPrise, Sqim |
 | Sat, 11 Jul 2026 | Colours of the Night | Sika Akis |
 | Thu, 16 Jul 2026 | Berlin Kink |  |
 | Fri, 17 Jul 2026 | FLASHBACK FRIDAY! Berlin's Hottest Kinky 90s–00s Throwback Party |  |
@@ -18,9 +17,10 @@ Insomnia is a music venue in Berlin listed on soundcheck. 20 upcoming nights, wi
 | Sat, 25 Jul 2026 | UNLEASHED by UNDR - Kinky CSD Afterparty | Cøral Negrø, Flemish.Fetish, Marvel Gold, Maze Kashi, Misha Svirid, NDNA, Omi on Acid |
 | Thu, 30 Jul 2026 | Berlin Kink |  |
 | Fri, 7 Aug 2026 | Slave to Rock | The Shredder |
+| Sat, 8 Aug 2026 | Kinktastisch! Techno. Kink. Play | Emma (8), Epicx, Katja Kilig |
 
 ## Address
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

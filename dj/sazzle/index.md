@@ -1,6 +1,6 @@
 # Sazzle
 
-Sazzle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 11 Jul 2026.
+Sazzle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 11 Jul 2026.
 
 Sazzle is a techno and house artist tracked on soundcheck, with 24 sets logged across Belfast, London and Newcastle. Often billed alongside TEDESCO, AKU (3) and Dusty Dan. Next up: Vittoria Wharf Studio, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Sazzle is a techno and house artist tracked on soundcheck, with 24 sets logged a
 
 TEDESCO, AKU (3), Dusty Dan
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sazzle/)*

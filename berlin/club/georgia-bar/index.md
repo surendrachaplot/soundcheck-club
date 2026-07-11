@@ -1,6 +1,6 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "EVERYTHING IS O.K. collective presents MiiSCHA, Tomasz Guiddo, Tina Colada (SPECIAL GUEST)" on Fri, 17 Jul 2026.
+Georgia Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "EVERYTHING IS O.K. collective presents MiiSCHA, Tomasz Guiddo, Tina Colada (SPECIAL GUEST)" on Fri, 17 Jul 2026.
 
 Georgia Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Guiddo, MiiSCHA and Tina Colada. Browse upcoming dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

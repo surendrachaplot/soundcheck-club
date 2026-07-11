@@ -1,6 +1,6 @@
 # Zwart-Wit
 
-Zwart-Wit is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Melanin Music Open Air - All White Edition" on Sat, 11 Jul 2026.
+Zwart-Wit is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Melanin Music Open Air - All White Edition" on Sat, 11 Jul 2026.
 
 Zwart-Wit is a music venue in Ghent listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Ottergemsesteenweg Zuid 802, 9000 Ghent.
 
@@ -14,4 +14,4 @@ Zwart-Wit is a music venue in Ghent listed on soundcheck. 1 upcoming night. Brow
 
 Ottergemsesteenweg Zuid 802, 9000 Ghent, Ghent
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/zwart-wit/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/zwart-wit/)*

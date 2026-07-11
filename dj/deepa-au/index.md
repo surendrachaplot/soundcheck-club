@@ -1,6 +1,6 @@
 # Deepa
 
-Deepa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Collingwood Children's Farm, Melbourne on Sat, 11 Jul 2026.
+Deepa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Collingwood Children's Farm, Melbourne on Sat, 11 Jul 2026.
 
 Deepa is a house and techno artist based in Australia, tracked on soundcheck, with 114 sets logged across Berlin, Brisbane, London and Melbourne and 1 more. Often billed alongside Ciara, Rakish and Baschoe. Next up: Collingwood Children's Farm, Melbourne on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Deepa is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Ciara, Rakish, Baschoe
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepa-au/)*

@@ -1,6 +1,6 @@
 # Hackney Wick Multiple Venues
 
-Hackney Wick Multiple Venues is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Hospital30 Block Party" on Sat, 1 Aug 2026.
+Hackney Wick Multiple Venues is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Hospital30 Block Party" on Sat, 1 Aug 2026.
 
 Hackney Wick Multiple Venues is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Amoss, Arkaik, Blackout and Black Sun Empire and 2 more. Browse upcoming dates, start times and who's playing. Hackney Wick.
 
@@ -14,4 +14,4 @@ Hackney Wick Multiple Venues is a music venue in London listed on soundcheck. 1 
 
 Hackney Wick, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-wick-multiple-venues/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-wick-multiple-venues/)*

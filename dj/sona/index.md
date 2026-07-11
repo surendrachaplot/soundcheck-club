@@ -1,6 +1,6 @@
 # Sona
 
-Sona is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Rubell's, Liverpool on Sat, 11 Jul 2026.
+Sona is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Rubell's, Liverpool on Sat, 11 Jul 2026.
 
 Sona is an afro house and house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Houston and Ibiza and 5 more. Often billed alongside AMÉMÉ, BARON (UK) and Benja. Next up: TBA - Rubell's, Liverpool on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Sona is an afro house and house artist tracked on soundcheck, with 12 sets logge
 
 AMÉMÉ, BARON (UK), Benja
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*

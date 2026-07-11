@@ -1,14 +1,13 @@
 # komunal
 
-komunal is a music venue in Birmingham with 8 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Classic Wabaso, Ikoni + G.I.Joey" on Fri, 10 Jul 2026.
+komunal is a music venue in Birmingham with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kesone x Bon Voyage with Alex Manea b2b Sam Alfassi, Asha + Langeveld b2b Tschubenko" on Sat, 11 Jul 2026.
 
-komunal is a music venue in Birmingham listed on soundcheck. 8 upcoming nights, with line-ups including Classic Wabaso and Josh Gregg. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
+komunal is a music venue in Birmingham listed on soundcheck. 7 upcoming nights, with line-ups including Josh Gregg. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Classic Wabaso, Ikoni + G.I.Joey | Classic Wabaso |
 | Sat, 11 Jul 2026 | Kesone x Bon Voyage with Alex Manea b2b Sam Alfassi, Asha + Langeveld b2b Tschubenko |  |
 | Sat, 11 Jul 2026 | Ghastly pre's with Spudz, sys + Noah |  |
 | Fri, 17 Jul 2026 | Ning-Ning Li, Styler + meleag |  |
@@ -21,4 +20,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 8 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

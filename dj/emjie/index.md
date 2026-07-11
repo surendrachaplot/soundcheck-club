@@ -1,8 +1,8 @@
 # EMJIE
 
-EMJIE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
+EMJIE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Thuishaven, Amsterdam on Sun, 2 Aug 2026.
 
-EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and Joey Daniel. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
+EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Thuishaven, Amsterdam on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Thuishaven | Amsterdam |
 | Fri, 14 Aug 2026 | Cova Santa | Ibiza |
+| Sat, 15 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 ## Shares bills with
 
-Nico Morano, Belben, Joey Daniel
+Nico Morano, Belben, LP Giobbi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*

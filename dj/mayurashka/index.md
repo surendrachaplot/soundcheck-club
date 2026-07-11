@@ -1,6 +1,6 @@
 # MAYURASHKA
 
-MAYURASHKA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at WOMB, Tokyo on Sat, 11 Jul 2026.
+MAYURASHKA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at WOMB, Tokyo on Sat, 11 Jul 2026.
 
 MAYURASHKA is a house and techno artist based in Japan, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Hongkong and London and 6 more. Often billed alongside levolant, John Talabot and Samo. Next up: WOMB, Tokyo on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ MAYURASHKA is a house and techno artist based in Japan, tracked on soundcheck, w
 
 levolant, John Talabot, Samo
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayurashka/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayurashka/)*

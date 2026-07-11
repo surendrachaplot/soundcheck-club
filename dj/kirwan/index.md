@@ -1,6 +1,6 @@
 # Kirwan
 
-Kirwan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Commune, Liverpool on Sat, 25 Jul 2026.
+Kirwan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Commune, Liverpool on Sat, 25 Jul 2026.
 
 Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged across Liverpool and Manchester. Often billed alongside 4D (UK), Allmark and Aly P. Next up: Commune, Liverpool on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Kirwan is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 4D (UK), Allmark, Aly P
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirwan/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirwan/)*

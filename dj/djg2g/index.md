@@ -1,20 +1,20 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Stereo, Glasgow on Fri, 10 Jul 2026.
+dj g2g is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
 
-dj g2g is a techno and club artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Stereo, Glasgow on Fri 10 Jul.
+dj g2g is a techno and club artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Bain Mathieu, Montreal on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Stereo | Glasgow |
 | Fri, 24 Jul 2026 | Bain Mathieu | Montreal |
 | Fri, 7 Aug 2026 | Den Anden Side | Copenhagen |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 
 ## Recently played
 
+- Stereo, Glasgow — Fri, 10 Jul 2026
 - Kraftwerk Berlin, Berlin — Sun, 31 May 2026
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 - The Imperial Hotel, Sydney — Fri, 17 Apr 2026
@@ -22,10 +22,9 @@ dj g2g is a techno and club artist tracked on soundcheck, with 103 sets logged a
 - Den Anden Side, Copenhagen — Fri, 3 Apr 2026
 - Jolene, Copenhagen — Fri, 3 Apr 2026
 - Nitsa Club, Barcelona — Fri, 27 Mar 2026
-- Electric Bristol, Bristol — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Azyr, Miss Bashful x DBBD, Adrian Mills
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

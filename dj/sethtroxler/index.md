@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
+Seth Troxler is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
 
-Seth Troxler is a house and techno artist tracked on soundcheck, with 295 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
+Seth Troxler is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 295 sets l
 | Sun, 16 Aug 2026 | Old Royal Naval College | London |
 | Mon, 17 Aug 2026 | Santanna Mykonos | Mykonos |
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
+| Fri, 21 Aug 2026 | Pacha New York | New York City |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
-| Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 295 sets l
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

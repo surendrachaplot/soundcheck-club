@@ -1,14 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "EURO IDOL [Antony No Limit (live), GQB, Nass, Panteros666]" on Fri, 10 Jul 2026.
+Karmen Camina is a music venue in Strasbourg with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "KLUB CAMINA [Hyperaktivist (3H30 set), JKS (3H set), Shônagon, Velia]" on Sat, 11 Jul 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 33Soleil, Azo, Camion Bazar and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming nights, with line-ups including 33Soleil, Azo, Camion Bazar and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | EURO IDOL [Antony No Limit (live), GQB, Nass, Panteros666] | GQB (FR), Panteros666 |
 | Sat, 11 Jul 2026 | KLUB CAMINA [Hyperaktivist (3H30 set), JKS (3H set), Shônagon, Velia] | Hyperaktivist, JKS |
 | Fri, 17 Jul 2026 | Body Lab II [Austral, LuiCestFaycal, Offmax, YUME] |  |
 | Sat, 18 Jul 2026 | KLUB CAMINA [Azo (4h set), Camion Bazar, HiLo, Piezo (3h30 set)] | Azo, Camion Bazar, Piezo |
@@ -22,4 +21,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

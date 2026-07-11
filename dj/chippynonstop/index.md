@@ -1,14 +1,13 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Stereo, Glasgow on Fri, 10 Jul 2026.
+Chippy Nonstop is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Nitsa Club, Barcelona on Fri, 24 Jul 2026.
 
-Chippy Nonstop is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 41 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN (1). Next up: Stereo, Glasgow on Fri 10 Jul.
+Chippy Nonstop is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 41 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN (1). Next up: Nitsa Club, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Stereo | Glasgow |
 | Fri, 24 Jul 2026 | Nitsa Club | Barcelona |
 | Sat, 25 Jul 2026 | Karmen Camina | Strasbourg |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
@@ -16,6 +15,7 @@ Chippy Nonstop is a techno and house artist tracked on soundcheck, with 158 sets
 
 ## Recently played
 
+- Stereo, Glasgow — Fri, 10 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
 - Superior Ingredients, New York City — Sun, 28 Jun 2026
 - OXI, Berlin — Sat, 13 Jun 2026
@@ -23,10 +23,9 @@ Chippy Nonstop is a techno and house artist tracked on soundcheck, with 158 sets
 - Badaboum, Paris — Sat, 30 May 2026
 - Colour Factory, London — Sat, 16 May 2026
 - Parc Jean-Drapeau, Montreal — Thu, 14 May 2026
-- Barn Radio, Portland — Sat, 2 May 2026
 
 ## Shares bills with
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+John Talabot is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
 
 John Talabot is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Sophie Festival, Malaga on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ John Talabot is a house and techno artist tracked on soundcheck, with 167 sets l
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

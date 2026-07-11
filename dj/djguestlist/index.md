@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at E1, London on Fri, 17 Jul 2026.
+DJ GUESTLIST is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at E1, London on Fri, 17 Jul 2026.
 
 DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: E1, London on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 123 sets 
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

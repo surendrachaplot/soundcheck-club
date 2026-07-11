@@ -1,8 +1,8 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Pegassi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
-Pegassi is a techno and trance artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 42 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: MS Artville, Hamburg on Sat 18 Jul.
+Pegassi is a techno and trance artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 42 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 158 sets logge
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 11 Sept 2026 | MÄX | Zurich |
+| Sun, 13 Sept 2026 | Else | Berlin |
 | Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 19 Sept 2026 | Mondo | Madrid |
-| Sat, 3 Oct 2026 | The Limelight | Belfast |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 158 sets logge
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

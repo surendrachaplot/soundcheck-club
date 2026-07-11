@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Lilly Palmer is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -34,4 +34,4 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets l
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

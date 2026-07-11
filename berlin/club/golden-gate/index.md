@@ -1,14 +1,13 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Nightshade Family" on Fri, 10 Jul 2026.
+Golden Gate is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "MDK" on Sat, 11 Jul 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Berunth, Edgar Peng, Elli.on and Geroge and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Berunth, Edgar Peng, Elli.on and Geroge and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Nightshade Family | Johana Jost, Nils Ohrmann, Ronny Krohn, Sqim |
 | Sat, 11 Jul 2026 | MDK | Geroge, Ricardo Roessel, Stek, Thilini |
 | Thu, 16 Jul 2026 | Hidden Variables | Neco, SERENE |
 | Fri, 17 Jul 2026 | Analoque Records | Elli.on, Roberg |
@@ -23,4 +22,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 10 upcoming nights,
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

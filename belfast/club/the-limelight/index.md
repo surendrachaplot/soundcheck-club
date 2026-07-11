@@ -1,6 +1,6 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SHINE x PRTY - NEEK" on Sat, 18 Jul 2026.
+The Limelight is a music venue in Belfast with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SHINE x PRTY - NEEK" on Sat, 18 Jul 2026.
 
 The Limelight is a music venue in Belfast listed on soundcheck. 4 upcoming nights, with line-ups including CIAN__, Judge Jules, Pegassi and Seb Fontaine and 2 more. Browse upcoming dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
@@ -17,4 +17,4 @@ The Limelight is a music venue in Belfast listed on soundcheck. 4 upcoming night
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

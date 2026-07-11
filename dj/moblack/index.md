@@ -1,6 +1,6 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lofi, Amsterdam on Sat, 11 Jul 2026.
+MoBlack is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lofi, Amsterdam on Sat, 11 Jul 2026.
 
 MoBlack is an afro house and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Francis Mercier, Nitefreak and Sparrow & Barbossa. Next up: Lofi, Amsterdam on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ MoBlack is an afro house and house artist tracked on soundcheck, with 82 sets lo
 
 Francis Mercier, Nitefreak, Sparrow & Barbossa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

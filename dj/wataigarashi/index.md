@@ -1,14 +1,13 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jasna 1, Warsaw on Fri, 10 Jul 2026.
+Wata Igarashi is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Para Klub Beograd, Belgrade on Sun, 19 Jul 2026.
 
-Wata Igarashi is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Jasna 1, Warsaw on Fri 10 Jul.
+Wata Igarashi is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Para Klub Beograd, Belgrade on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Jasna 1 | Warsaw |
 | Sun, 19 Jul 2026 | Para Klub Beograd | Belgrade |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -23,6 +22,7 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 196 sets 
 
 ## Recently played
 
+- Jasna 1, Warsaw — Fri, 10 Jul 2026
 - RSO.BERLIN, Berlin — Fri, 3 Jul 2026
 - fabric, London — Sat, 27 Jun 2026
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
@@ -30,10 +30,9 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 196 sets 
 - Karmen Camina, Strasbourg — Sat, 13 Jun 2026
 - BLITZ, Munich — Sat, 6 Jun 2026
 - Nowadays, New York City — Sat, 30 May 2026
-- Floyd, Miami — Fri, 29 May 2026
 
 ## Shares bills with
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

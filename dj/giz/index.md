@@ -1,14 +1,14 @@
 # GiZ
 
-GiZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - THE LOOM, 2220 Livingston St, Oakland, San Francisco/Oakland on Sat, 18 Jul 2026.
+GiZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Club Six, San Francisco/Oakland on Sat, 18 Jul 2026.
 
-GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Ghent and Hamburg and 14 more. Often billed alongside Oliver Koletzki, TOOKER and Fabian Krooss. Next up: TBA - THE LOOM, 2220 Livingston St, Oakland, Sanfrancisco on Sat 18 Jul.
+GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Ghent and Hamburg and 14 more. Often billed alongside Oliver Koletzki, TOOKER and Fabian Krooss. Next up: Club Six, Sanfrancisco on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA - THE LOOM, 2220 Livingston St, Oakland | San Francisco/Oakland |
+| Sat, 18 Jul 2026 | Club Six | San Francisco/Oakland |
 | Fri, 7 Aug 2026 | Kater | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 4
 
 Oliver Koletzki, TOOKER, Fabian Krooss
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giz/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giz/)*

@@ -1,13 +1,14 @@
 # Ulla
 
-Ulla is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Almar Beach Club, Barcelona on Sat, 1 Aug 2026.
+Ulla is a Ambient and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pastiche, Berlin on Sat, 11 Jul 2026.
 
-Ulla is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Map.ache, Perila and Jan Jelinek. Next up: Almar Beach Club, Barcelona on Sat 1 Aug.
+Ulla is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Map.ache, Perila and Jan Jelinek. Next up: Pastiche, Berlin on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 11 Jul 2026 | Pastiche | Berlin |
 | Sat, 1 Aug 2026 | Almar Beach Club | Barcelona |
 | Fri, 4 Sept 2026 | TBA - Multiple Venues | Vienna |
 | Fri, 2 Oct 2026 | Strange Brew | Bristol |
@@ -27,4 +28,4 @@ Ulla is an ambient and experimental artist based in United States of America, tr
 
 Map.ache, Perila, Jan Jelinek
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ulla/)*

@@ -1,6 +1,6 @@
 # Ekko
 
-Ekko is a Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sub Club Melbourne, Melbourne on Fri, 31 Jul 2026.
+Ekko is a Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sub Club Melbourne, Melbourne on Fri, 31 Jul 2026.
 
 Ekko is a drum & bass artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Brisbane, Melbourne and Sydney. Often billed alongside Flowidus, Anubix and Cece. Next up: Sub Club Melbourne, Melbourne on Fri 31 Jul.
 
@@ -20,4 +20,4 @@ Ekko is a drum & bass artist based in Germany, tracked on soundcheck, with 4 set
 
 Flowidus, Anubix, Cece
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekko/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekko/)*

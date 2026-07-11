@@ -1,6 +1,6 @@
 # Daft Funk Live
 
-Daft Funk Live is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Handelsbeurs Concertzaal, Ghent on Sat, 12 Sept 2026.
+Daft Funk Live is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Handelsbeurs Concertzaal, Ghent on Sat, 12 Sept 2026.
 
 Daft Funk Live is an electro and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 13 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: Handelsbeurs Concertzaal, Ghent on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Daft Funk Live is an electro and house artist based in United Kingdom, tracked o
 
 Andy Mac, Armand Van Helden, Ben Santiago
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*

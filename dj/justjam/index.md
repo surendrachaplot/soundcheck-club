@@ -1,13 +1,14 @@
 # Just Jam
 
-Just Jam is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Just Jam is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - EAST LONDON, London on Sat, 22 Aug 2026.
 
-Just Jam is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside ADMNTi, Laidlaw and Julian Anthony. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Just Jam is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside ADMNTi, Laidlaw and Julian Anthony. Next up: TBA - EAST LONDON, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | TBA - EAST LONDON | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
@@ -26,4 +27,4 @@ Just Jam is a house and tech house artist tracked on soundcheck, with 60 sets lo
 
 ADMNTi, Laidlaw, Julian Anthony
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justjam/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justjam/)*

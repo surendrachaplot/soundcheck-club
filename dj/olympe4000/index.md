@@ -1,6 +1,6 @@
 # Olympe4000
 
-Olympe4000 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OXI, Berlin on Fri, 17 Jul 2026.
+Olympe4000 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OXI, Berlin on Fri, 17 Jul 2026.
 
 Olympe4000 is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 22 more. Often billed alongside Pablo Bozzi, Anaco and Bambounou. Next up: OXI, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Olympe4000 is a techno and house artist tracked on soundcheck, with 96 sets logg
 
 Pablo Bozzi, Anaco, Bambounou
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*

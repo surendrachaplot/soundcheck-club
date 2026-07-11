@@ -1,6 +1,6 @@
 # Paul Elstak
 
-Paul Elstak is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Paul Elstak is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
 
 Paul Elstak is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Angerfist, Dual Damage and Brennan Heart. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Paul Elstak is a hardcore and techno artist based in Netherlands, tracked on sou
 
 Angerfist, Dual Damage, Brennan Heart
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulelstak/)*

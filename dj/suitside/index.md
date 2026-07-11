@@ -1,14 +1,13 @@
 # SUITSIDE
 
-SUITSIDE is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at PRST, Vienna on Fri, 10 Jul 2026.
+SUITSIDE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Grelle Forelle, Vienna on Sat, 11 Jul 2026.
 
-SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside Joey (2), ASCHENBRENNER and Crystal O. Next up: PRST, Vienna on Fri 10 Jul.
+SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside Joey (2), ASCHENBRENNER and Crystal O. Next up: Grelle Forelle, Vienna on Sat 11 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | PRST | Vienna |
 | Sat, 11 Jul 2026 | Grelle Forelle | Vienna |
 | Sat, 18 Jul 2026 | Das Werk | Vienna |
 | Sat, 1 Aug 2026 | Schrotty | Cologne |
@@ -16,6 +15,7 @@ SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, 
 
 ## Recently played
 
+- PRST, Vienna — Fri, 10 Jul 2026
 - Lokschuppen Berlin, Berlin — Sat, 20 Jun 2026
 - TBA, Cologne — Sat, 6 Jun 2026
 - TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
@@ -23,10 +23,9 @@ SUITSIDE is a techno and trance artist based in Austria, tracked on soundcheck, 
 - Gleis19, Vienna — Wed, 3 Jun 2026
 - Gleis19, Vienna — Sat, 2 May 2026
 - Grelle Forelle, Vienna — Sat, 2 May 2026
-- DNA Club, Munich — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Joey (2), ASCHENBRENNER, Crystal O
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*

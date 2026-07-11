@@ -1,6 +1,6 @@
 # Erick E
 
-Erick E is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Maarsseveense Plassen, Utrecht on Sat, 11 Jul 2026.
+Erick E is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Maarsseveense Plassen, Utrecht on Sat, 11 Jul 2026.
 
 Erick E is a house and techno artist based in Netherlands, tracked on soundcheck, with 53 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Maarsseveense Plassen, Utrecht on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Erick E is a house and techno artist based in Netherlands, tracked on soundcheck
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

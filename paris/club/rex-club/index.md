@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Rex Club presents: Tour-Maubourg all night long" on Fri, 10 Jul 2026.
+Rex Club is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Fckng Serious: Ann Clue, Deniz Bul, DONT BLINK, Frieder & Jakob" on Sat, 11 Jul 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Ann Clue, Bérou, Deniz Bul and DJ Senc and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Ann Clue, Bérou, Deniz Bul and DJ Senc and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Rex Club presents: Tour-Maubourg all night long | Tour-Maubourg |
 | Sat, 11 Jul 2026 | Fckng Serious: Ann Clue, Deniz Bul, DONT BLINK, Frieder & Jakob | Ann Clue, DONT BLINK, Deniz Bul, Jakob (BE) |
 | Thu, 16 Jul 2026 | Olympe x Abastrac: Gøre, Uzi Nas, Vinka Wydro, Zku | Vinka Wydro |
 | Fri, 17 Jul 2026 | Rex Club presents: Bérou, Noise Mafia, KE-YEN | Bérou, KE-YEN, Noise Mafia |
@@ -18,4 +17,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 5 upcoming nights, with
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

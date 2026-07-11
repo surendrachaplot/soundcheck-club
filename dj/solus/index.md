@@ -1,6 +1,6 @@
 # Solus
 
-Solus is a House and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at John Doe, Amsterdam on Tue, 14 Jul 2026.
+Solus is a House and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at John Doe, Amsterdam on Tue, 14 Jul 2026.
 
 Solus is a house and industrial artist tracked on soundcheck, with 24 sets logged across Amsterdam, Budapest, Manchester and Prague and 1 more. Often billed alongside kD (HU), Sam Gittis and AR38. Next up: John Doe, Amsterdam on Tue 14 Jul.
 
@@ -27,4 +27,4 @@ Solus is a house and industrial artist tracked on soundcheck, with 24 sets logge
 
 kD (HU), Sam Gittis, AR38
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solus/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solus/)*

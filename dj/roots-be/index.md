@@ -1,6 +1,6 @@
 # Roots.
 
-Roots. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
+Roots. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
 
 Roots. is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside dOctOr doms, __iwana__ and Luminick. Next up: TBA, Berlin on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Roots. is a techno and house artist tracked on soundcheck, with 18 sets logged a
 
 dOctOr doms, __iwana__, Luminick
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roots-be/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roots-be/)*

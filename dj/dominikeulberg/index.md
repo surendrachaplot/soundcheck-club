@@ -1,15 +1,13 @@
 # Dominik Eulberg
 
-Dominik Eulberg is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Bikini Beach, Cologne on Fri, 10 Jul 2026.
+Dominik Eulberg is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Cologne on Sat, 25 Jul 2026.
 
-Dominik Eulberg is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Basel, Berlin and Cologne and 11 more. Often billed alongside Super Flu, Bebetta and Marius Lehnert. Next up: Bikini Beach, Cologne on Fri 10 Jul.
+Dominik Eulberg is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Basel, Berlin and Cologne and 11 more. Often billed alongside Super Flu, Bebetta and Marius Lehnert. Next up: TBA, Cologne on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Bikini Beach | Cologne |
-| Fri, 10 Jul 2026 | Bevegemse Vijvers | Ghent |
 | Sat, 25 Jul 2026 | TBA | Cologne |
 | Sun, 26 Jul 2026 | Arsenaal Site | Ghent |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
@@ -17,17 +15,17 @@ Dominik Eulberg is a techno and house artist tracked on soundcheck, with 78 sets
 
 ## Recently played
 
+- Bikini Beach, Cologne — Fri, 10 Jul 2026
+- Bevegemse Vijvers, Ghent — Fri, 10 Jul 2026
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
 - Westhafen, Leipzig — Sat, 30 May 2026
 - MTW, Frankfurt — Thu, 14 May 2026
 - Uebel & Gefährlich, Hamburg — Thu, 30 Apr 2026
 - Hotel Arena, Amsterdam — Mon, 27 Apr 2026
 - Ritter Butzke, Berlin — Sat, 25 Apr 2026
-- Odonien, Cologne — Sat, 4 Apr 2026
-- Distillery, Leipzig — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Super Flu, Bebetta, Marius Lehnert
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*

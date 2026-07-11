@@ -1,6 +1,6 @@
 # Cashu
 
-Cashu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 11 Jul 2026.
+Cashu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 11 Jul 2026.
 
 Cashu is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: El Pumarejo Barcelona, Barcelona on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Cashu is a techno and house artist tracked on soundcheck, with 140 sets logged a
 
 BADSISTA, RHR, Alírio
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

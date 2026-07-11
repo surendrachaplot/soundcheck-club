@@ -1,14 +1,13 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "HERZ & SEELE w./ Fab Massimo • tim|bre • Molekularmusik" on Fri, 10 Jul 2026.
+Kowalski is a music venue in Stuttgart with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "KOWA SAMSTAG • RIMALA • Jochen Pash" on Sat, 11 Jul 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 12 upcoming nights, with line-ups including DJ Unholy, Esin, Fabian Kaa and Fab Massimo and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 11 upcoming nights, with line-ups including DJ Unholy, Esin, Fabian Kaa and FANXI B and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | HERZ & SEELE w./ Fab Massimo • tim/bre • Molekularmusik | Fab Massimo, Molekularmusik, tim/bre |
 | Sat, 11 Jul 2026 | KOWA SAMSTAG • RIMALA • Jochen Pash | Jochen Pash |
 | Sun, 12 Jul 2026 | Kowalski Terrasse Day Party by What You Say¿ |  |
 | Fri, 17 Jul 2026 | TIMELESS HOUSE CLASSICS • STEVE TURNER • ALVIN KYER |  |
@@ -18,9 +17,10 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 12 upcoming nights,
 | Sun, 26 Jul 2026 | Kowalski TERRASSE | SABEE (2) |
 | Sun, 26 Jul 2026 | SONNTAGS TERRASSE • ELIANO • SABEE |  |
 | Fri, 31 Jul 2026 | Exit Zone with Volkoder | Volkoder |
+| Fri, 7 Aug 2026 | 07ELEVEN X Kowalski | DJ Unholy, FANXI B, Fabian Kaa, Paradox, Paradox.NKR, Thomas Colin |
 
 ## Address
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

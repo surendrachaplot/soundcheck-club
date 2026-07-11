@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Soul Session - LDN East" on Sat, 11 Jul 2026.
+LDN East is a music venue in London with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Soul Session - LDN East" on Sat, 11 Jul 2026.
 
 LDN East is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Angela Rose, Crazy P, Diana Bravo and DJ Cosworth and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -23,4 +23,4 @@ LDN East is a music venue in London listed on soundcheck. 12 upcoming nights, wi
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

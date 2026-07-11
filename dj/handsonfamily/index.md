@@ -1,6 +1,6 @@
 # Handson Family
 
-Handson Family is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Seabird, London on Sat, 25 Jul 2026.
+Handson Family is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Seabird, London on Sat, 25 Jul 2026.
 
 Handson Family is a funk / soul and house artist tracked on soundcheck, with 44 sets logged across London and Milan. Often billed alongside Vanessa Freeman, Bustin' Loose and LEV (UK). Next up: Seabird, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Handson Family is a funk / soul and house artist tracked on soundcheck, with 44 
 
 Vanessa Freeman, Bustin' Loose, LEV (UK)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*

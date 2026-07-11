@@ -1,6 +1,6 @@
 # Blackfriars Pier
 
-Blackfriars Pier is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "PapaLoko: Bliss Boat Sunset Party v5" on Sun, 12 Jul 2026.
+Blackfriars Pier is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "PapaLoko: Bliss Boat Sunset Party v5" on Sun, 12 Jul 2026.
 
 Blackfriars Pier is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Aslan Venom, Diana Isi and Othon. Browse upcoming dates, start times and who's playing. A3211, London EC4V 3QR, United Kingdom.
 
@@ -14,4 +14,4 @@ Blackfriars Pier is a music venue in London listed on soundcheck. 1 upcoming nig
 
 A3211, London EC4V 3QR, United Kingdom, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/blackfriars-pier/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/blackfriars-pier/)*

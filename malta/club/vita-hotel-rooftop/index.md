@@ -1,6 +1,6 @@
 # Vita - Hotel & Rooftop
 
-Vita - Hotel & Rooftop is a music venue in Malta with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "HIGHLIGHT presents Jelly For The Babies" on Fri, 17 Jul 2026.
+Vita - Hotel & Rooftop is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "HIGHLIGHT presents Jelly For The Babies" on Fri, 17 Jul 2026.
 
 Vita - Hotel & Rooftop is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including Abdy, Adel dj, Jelly For The Babies and Shabab Khan. Browse upcoming dates, start times and who's playing. St. George's Road, St. Julian's, Malta.
 
@@ -14,4 +14,4 @@ Vita - Hotel & Rooftop is a music venue in Malta listed on soundcheck. 1 upcomin
 
 St. George's Road, St. Julian's, Malta, Malta
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/vita-hotel-rooftop/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/vita-hotel-rooftop/)*

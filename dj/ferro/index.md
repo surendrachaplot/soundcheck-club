@@ -1,6 +1,6 @@
 # Ferro
 
-Ferro is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 17 Jul 2026.
+Ferro is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 17 Jul 2026.
 
 Ferro is a house and minimal artist based in Netherlands, tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Bali and Barcelona and 13 more. Often billed alongside Reiss, Herra and Kim April. Next up: Het Sieraad, Amsterdam on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Ferro is a house and minimal artist based in Netherlands, tracked on soundcheck,
 
 Reiss, Herra, Kim April
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ferro/)*

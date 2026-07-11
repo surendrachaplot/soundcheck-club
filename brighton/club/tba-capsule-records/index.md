@@ -1,6 +1,6 @@
 # TBA - Capsule Records
 
-TBA - Capsule Records is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Missing People & Friends" on Sat, 11 Jul 2026.
+TBA - Capsule Records is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Missing People & Friends" on Sat, 11 Jul 2026.
 
 TBA - Capsule Records is a music venue in Brighton listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Capsule Records is a music venue in Brighton listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 11 Jul 2026 | Missing People & Friends |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tba-capsule-records/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/tba-capsule-records/)*

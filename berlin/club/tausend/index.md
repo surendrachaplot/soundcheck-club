@@ -1,18 +1,17 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Le Salon Privé: Cedric Marian - Schiela - LUMES" on Fri, 10 Jul 2026.
+Tausend is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Tausend House: Sam Paradise" on Sat, 11 Jul 2026.
 
-Tausend is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including C.M.A., LUMES, Sam Paradise and Schiela. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
+Tausend is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Sam Paradise. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Le Salon Privé: Cedric Marian - Schiela - LUMES | C.M.A., LUMES, Schiela |
 | Sat, 11 Jul 2026 | Tausend House: Sam Paradise | Sam Paradise |
 
 ## Address
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

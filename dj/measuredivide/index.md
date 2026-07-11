@@ -1,6 +1,6 @@
 # Measure Divide
 
-Measure Divide is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 11 Jul 2026.
+Measure Divide is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 11 Jul 2026.
 
 Measure Divide is a techno and acid artist tracked on soundcheck, with 82 sets logged across Berlin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 11 Jul.
 
@@ -28,4 +28,4 @@ Measure Divide is a techno and acid artist tracked on soundcheck, with 82 sets l
 
 AADJA, Circumscums, Vadim Khan
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*

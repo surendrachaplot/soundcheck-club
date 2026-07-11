@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Pain Management: John T Gast, Trailcam, NAP, Eleftheria & Significant Other" on Fri, 10 Jul 2026.
+OHM is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Endzeit: Mike Parker // Convextion (Live) // Lily Ackerman" on Thu, 16 Jul 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Alexy, Anja Schneider, Banu and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Alexy, Anja Schneider, Banu and Bloody Mary and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Pain Management: John T Gast, Trailcam, NAP, Eleftheria & Significant Other | Eleftheria, John T. Gast, NAP (MX), Significant Other, Trailcam |
 | Thu, 16 Jul 2026 | Endzeit: Mike Parker // Convextion (Live) // Lily Ackerman | Convextion, Kudeki, Lily Ackerman, Mike Parker, RMNA, Torsion |
 | Fri, 17 Jul 2026 | Konstantin (All Night Long) | Konstantin |
 | Sat, 18 Jul 2026 | Asian Queers Reunited (AQR) by Jiā La | Evaluvfrog, HAMZA, Jeena, Jiun, PINKBOIALWAYSCRY, Temple Rat, Wu Zhuoling, marum |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with li
 | Sat, 1 Aug 2026 | Animalia | C3D-E, Kia (AU), Lolo (AU), livwutang |
 | Thu, 6 Aug 2026 | DAME-MUSIC LABEL SHOWCASE with Bloody Mary, Fear-E, Jerome Hill | Bloody Mary, Fear-E, Jerome Hill |
 | Fri, 7 Aug 2026 | Discos Movimiento | Bluecommand, Eduardo de la Calle, Lara Fein, ORION (IT) |
+| Sat, 8 Aug 2026 | George FitzGerald - All Night Long | George FitzGerald |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

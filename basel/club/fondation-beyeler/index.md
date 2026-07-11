@@ -1,6 +1,6 @@
 # Fondation Beyeler
 
-Fondation Beyeler is a music venue in Basel with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "sun.set" on Sat, 18 Jul 2026.
+Fondation Beyeler is a music venue in Basel with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "sun.set" on Sat, 18 Jul 2026.
 
 Fondation Beyeler is a music venue in Basel listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Baselstrasse 101, 4125 Riehen.
 
@@ -14,4 +14,4 @@ Fondation Beyeler is a music venue in Basel listed on soundcheck. 1 upcoming nig
 
 Baselstrasse 101, 4125 Riehen, Basel
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/fondation-beyeler/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/fondation-beyeler/)*

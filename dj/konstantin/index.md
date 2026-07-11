@@ -1,14 +1,15 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OHM, Berlin on Fri, 17 Jul 2026.
+Konstantin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OHM, Berlin on Fri, 17 Jul 2026.
 
-Konstantin is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: OHM, Berlin on Fri 17 Jul.
+Konstantin is a house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: OHM, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | OHM | Berlin |
+| Sat, 18 Jul 2026 | Refuge | New York City |
 | Mon, 20 Jul 2026 | DC-10 | Ibiza |
 | Sat, 22 Aug 2026 | Phonox | London |
 
@@ -27,4 +28,4 @@ Konstantin is a house and techno artist tracked on soundcheck, with 162 sets log
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

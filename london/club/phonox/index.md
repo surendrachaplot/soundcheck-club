@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 26 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "LDN History Part 1: Flowdan, Ruff Sqwad, Novelist, Youngsta, DJ Maximum" on Fri, 10 Jul 2026.
+Phonox is a music venue in London with 26 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Phonox: Jeremy Underground, System Olympia" on Sat, 11 Jul 2026.
 
 Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and A LOVE FROM OUTER SPACE and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -8,7 +8,6 @@ Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | LDN History Part 1: Flowdan, Ruff Sqwad, Novelist, Youngsta, DJ Maximum | Flowdan, Novelist, Ruff Sqwad, Youngsta |
 | Sat, 11 Jul 2026 | Phonox: Jeremy Underground, System Olympia | Jeremy Underground, System Olympia |
 | Fri, 17 Jul 2026 | LDN History Part 2: Rusko & P Money, Coki & Crazy D, Plastician, JAZ IMSKY | Coki, JAZ IMSKY, P Money, Plastician, Rusko |
 | Sat, 18 Jul 2026 | Swerve Deep Summer Daytime Session | Badly Drawn Banana, Grooverider, Tendai, Zero T |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with
 | Sat, 25 Jul 2026 | Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN  | Egyptian Lover, FREAKENSTEIN |
 | Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | Chinese Daughter, Sexy Lady Massive |
 | Sat, 8 Aug 2026 | Phonox: Derrick Carter (All Night Long) | Derrick Carter |
+| Fri, 14 Aug 2026 | Recondite (Live) | Recondite |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

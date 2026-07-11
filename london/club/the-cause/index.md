@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 27 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Lost Frequencies Open Air" on Sat, 11 Jul 2026.
+The Cause is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Lost Frequencies Open Air" on Sat, 11 Jul 2026.
 
 The Cause is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 4am Kru, KT, Aba Shanti-I and AliA and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 27 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

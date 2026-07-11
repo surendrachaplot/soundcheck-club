@@ -1,6 +1,6 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+X-Coast is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
 X-Coast is a techno and house artist tracked on soundcheck, with 175 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 59 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Else, Berlin on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ X-Coast is a techno and house artist tracked on soundcheck, with 175 sets logged
 
 Juicy Romance, Partiboi69, X CLUB.
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*

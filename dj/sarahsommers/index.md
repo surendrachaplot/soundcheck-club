@@ -1,6 +1,6 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Blank Site, Seoul on Sat, 11 Jul 2026.
+Sarah Sommers is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Blank Site, Seoul on Sat, 11 Jul 2026.
 
 Sarah Sommers is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 19 more. Often billed alongside Josef Kunz, Tomo in der Muhlen and Trovarsi. Next up: Blank Site, Seoul on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Sarah Sommers is a techno and house artist tracked on soundcheck, with 51 sets l
 
 Josef Kunz, Tomo in der Muhlen, Trovarsi
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

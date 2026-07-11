@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at WUEST - Pittlerwerke, Leipzig on Sat, 11 Jul 2026.
+JANEIN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at WUEST - Pittlerwerke, Leipzig on Sat, 11 Jul 2026.
 
 JANEIN is a techno and house artist tracked on soundcheck, with 81 sets logged across Basel, Belgrade, Berlin and Frankfurt and 14 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: WUEST - Pittlerwerke, Leipzig on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ JANEIN is a techno and house artist tracked on soundcheck, with 81 sets logged a
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

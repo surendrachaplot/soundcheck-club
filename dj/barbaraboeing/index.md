@@ -1,6 +1,6 @@
 # Barbara Boeing
 
-Barbara Boeing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 19 Jul 2026.
+Barbara Boeing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun, 19 Jul 2026.
 
 Barbara Boeing is a house and disco artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: TBA - Villa di Fiorano - Via di Fioranello 18, Rome on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Barbara Boeing is a house and disco artist tracked on soundcheck, with 107 sets 
 
 Kapote, Cody Currie, Max NRG Supply
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*

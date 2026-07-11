@@ -1,6 +1,6 @@
 # Telep Budapest
 
-Telep Budapest is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Filter's Rebel Waltz: w.Murray Richardson and Vittorio Waxman" on Sat, 18 Jul 2026.
+Telep Budapest is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Filter's Rebel Waltz: w.Murray Richardson and Vittorio Waxman" on Sat, 18 Jul 2026.
 
 Telep Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Murray Richardson. Browse upcoming dates, start times and who's playing. Budapest, Madách Imre út 8, 1075 Hungary.
 
@@ -14,4 +14,4 @@ Telep Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming nig
 
 Budapest, Madách Imre út 8, 1075 Hungary, Budapest
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/telep-budapest/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/telep-budapest/)*

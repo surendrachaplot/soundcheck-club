@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
+HALFPINT is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at DC-10, Ibiza on Mon, 3 Aug 2026.
 
 HALFPINT is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Brighton, Dublin and Hamburg and 2 more. Often billed alongside Sossa, Seth Troxler and Jamback. Next up: DC-10, Ibiza on Mon 3 Aug.
 
@@ -28,4 +28,4 @@ HALFPINT is a house and techno artist tracked on soundcheck, with 40 sets logged
 
 Sossa, Seth Troxler, Jamback
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

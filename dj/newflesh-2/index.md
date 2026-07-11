@@ -1,6 +1,6 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at radial, London on Sat, 11 Jul 2026.
+New Flesh (2) is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at radial, London on Sat, 11 Jul 2026.
 
 New Flesh (2) is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Toni S, AAKAARA and Becky Stroke. Next up: radial, London on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ New Flesh (2) is an experimental and ambient artist based in United Kingdom, tra
 
 Toni S, AAKAARA, Becky Stroke
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*

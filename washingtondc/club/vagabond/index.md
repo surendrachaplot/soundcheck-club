@@ -1,6 +1,6 @@
 # Vagabond
 
-Vagabond is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Legal Aliens" on Sat, 11 Jul 2026.
+Vagabond is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Legal Aliens" on Sat, 11 Jul 2026.
 
 Vagabond is a music venue in Washingtondc listed on soundcheck. 4 upcoming nights, with line-ups including BE EZY, Constantine Markopoulos, D.O.S and E-QUE and 2 more. Browse upcoming dates, start times and who's playing. 1836 18th Street NW, Washington, DC.
 
@@ -17,4 +17,4 @@ Vagabond is a music venue in Washingtondc listed on soundcheck. 4 upcoming night
 
 1836 18th Street NW, Washington, DC, Washington DC
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vagabond/)*

@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
 Chinonegro is a tech house and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 7 more. Often billed alongside Luuk van Dijk, BLOND:ISH and Gaskin. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
@@ -30,4 +30,4 @@ Chinonegro is a tech house and house artist tracked on soundcheck, with 22 sets 
 
 Luuk van Dijk, BLOND:ISH, Gaskin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

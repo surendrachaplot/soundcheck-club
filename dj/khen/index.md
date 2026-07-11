@@ -1,6 +1,6 @@
 # Khen
 
-Khen is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
+Khen is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Fibre Penthouse, Leeds on Fri, 14 Aug 2026.
 
 Khen is a progressive house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Barcelona and Budapest and 23 more. Often billed alongside Guy J, Guy Mantzur and Eli Nissan. Next up: The Fibre Penthouse, Leeds on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Khen is a progressive house and house artist tracked on soundcheck, with 65 sets
 
 Guy J, Guy Mantzur, Eli Nissan
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*

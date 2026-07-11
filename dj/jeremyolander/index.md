@@ -1,6 +1,6 @@
 # Jeremy Olander
 
-Jeremy Olander is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Sunnyside Pavilion, Toronto on Sat, 18 Jul 2026.
+Jeremy Olander is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sunnyside Pavilion, Toronto on Sat, 18 Jul 2026.
 
 Jeremy Olander is a progressive house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Bali and Bangkok and 32 more. Often billed alongside Cristoph, Nick Warren and Argy. Next up: Sunnyside Pavilion, Toronto on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Jeremy Olander is a progressive house and techno artist tracked on soundcheck, w
 
 Cristoph, Nick Warren, Argy
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*

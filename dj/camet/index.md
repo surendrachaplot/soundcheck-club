@@ -1,6 +1,6 @@
 # CAMET
 
-CAMET is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Lula Club, Madrid on Sat, 25 Jul 2026.
+CAMET is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lula Club, Madrid on Sat, 25 Jul 2026.
 
 CAMET is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Barcelona and Madrid. Often billed alongside Torrione, COLLISION and JP Candela. Next up: Lula Club, Madrid on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ CAMET is a house and afro house artist based in United Kingdom, tracked on sound
 
 Torrione, COLLISION, JP Candela
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camet/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camet/)*

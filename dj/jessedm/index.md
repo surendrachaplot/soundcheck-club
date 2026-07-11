@@ -1,6 +1,6 @@
 # Jesse DM
 
-Jesse DM is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 24 Jul 2026.
+Jesse DM is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 24 Jul 2026.
 
 Jesse DM is a house and club artist tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside Simonetti, Jo Christy and Bertie. Next up: Angel Music Bar, Melbourne on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Jesse DM is a house and club artist tracked on soundcheck, with 36 sets logged a
 
 Simonetti, Jo Christy, Bertie
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessedm/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessedm/)*

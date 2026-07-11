@@ -1,6 +1,6 @@
 # GIMIC
 
-GIMIC is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "BLVSH Takeover at GIMIC Radio" on Sat, 18 Jul 2026.
+GIMIC is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "BLVSH Takeover at GIMIC Radio" on Sat, 18 Jul 2026.
 
 GIMIC is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including ilbroccolovolante, INVERNO and Ká (DE). Browse upcoming dates, start times and who's playing. Rue Des Renards 9, 1000 Brussels.
 
@@ -14,4 +14,4 @@ GIMIC is a music venue in Brussels listed on soundcheck. 1 upcoming night, with 
 
 Rue Des Renards 9, 1000 Brussels, Brussels
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/gimic/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/gimic/)*

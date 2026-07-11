@@ -1,14 +1,13 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Knockdown Center, New York City on Fri, 10 Jul 2026.
+Tommy Phillips is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 26 Jul 2026.
 
-Tommy Phillips is a tech house and house artist tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Knockdown Center, Newyorkcity on Fri 10 Jul.
+Tommy Phillips is a tech house and house artist tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 22 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Ku Barcelona, Barcelona on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Knockdown Center | New York City |
 | Sun, 26 Jul 2026 | Ku Barcelona | Barcelona |
 | Sat, 1 Aug 2026 | Binks Yard | Nottingham |
 | Sat, 1 Aug 2026 | Steelyard Kelham | Sheffield |
@@ -22,6 +21,7 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 56 s
 
 ## Recently played
 
+- Knockdown Center, New York City — Fri, 10 Jul 2026
 - TBA - Wave, Mallorca — Fri, 26 Jun 2026
 - Ku Barcelona, Barcelona — Sat, 20 Jun 2026
 - Hotel Sofitel Skipper Barcelona, Barcelona — Sat, 20 Jun 2026
@@ -29,10 +29,9 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 56 s
 - Sala Upload Barcelona, Barcelona — Thu, 18 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 - Amnesia Ibiza, Ibiza — Tue, 9 Jun 2026
-- 528 Ibiza, Ibiza — Sun, 31 May 2026
 
 ## Shares bills with
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

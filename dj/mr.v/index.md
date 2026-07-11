@@ -1,14 +1,13 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cardiff Lounge, San Francisco/Oakland on Fri, 10 Jul 2026.
+Mr. V is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cardiff Lounge, San Francisco/Oakland on Fri, 17 Jul 2026.
 
-Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Detroit, Ibiza and Losangeles and 5 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: Cardiff Lounge, Sanfrancisco on Fri 10 Jul.
+Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 153 sets logged across Amsterdam, Detroit, Ibiza and Losangeles and 5 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: Cardiff Lounge, Sanfrancisco on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Cardiff Lounge | San Francisco/Oakland |
 | Fri, 17 Jul 2026 | Cardiff Lounge | San Francisco/Oakland |
 | Fri, 24 Jul 2026 | Cardiff Lounge | San Francisco/Oakland |
 | Sun, 26 Jul 2026 | White Rabbit | San Francisco/Oakland |
@@ -20,6 +19,7 @@ Mr. V is a house and deep house artist based in United States of America, tracke
 
 ## Recently played
 
+- Cardiff Lounge, San Francisco/Oakland — Fri, 10 Jul 2026
 - TBA, San Francisco/Oakland — Sat, 27 Jun 2026
 - Cardiff Lounge, San Francisco/Oakland — Fri, 26 Jun 2026
 - Cardiff Lounge, San Francisco/Oakland — Fri, 19 Jun 2026
@@ -27,10 +27,9 @@ Mr. V is a house and deep house artist based in United States of America, tracke
 - Cardiff Lounge, San Francisco/Oakland — Fri, 12 Jun 2026
 - Cardiff Lounge, San Francisco/Oakland — Fri, 5 Jun 2026
 - Catalina Classic Cruises, Los Angeles — Sun, 24 May 2026
-- Cardiff Lounge, San Francisco/Oakland — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 David Harness, Franky Boissy, Hector Romero
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

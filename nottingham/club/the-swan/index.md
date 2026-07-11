@@ -1,6 +1,6 @@
 # The Swan
 
-The Swan is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Kepler, Luuk van Dijk & MORE - Groovebox & MUZAK Mansfield" on Sun, 30 Aug 2026.
+The Swan is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kepler, Luuk van Dijk & MORE - Groovebox & MUZAK Mansfield" on Sun, 30 Aug 2026.
 
 The Swan is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including Kepler and Luuk van Dijk. Browse upcoming dates, start times and who's playing. Church St, Mansfield NG18 1AE.
 
@@ -14,4 +14,4 @@ The Swan is a music venue in Nottingham listed on soundcheck. 1 upcoming night, 
 
 Church St, Mansfield NG18 1AE, Nottingham
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-swan/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-swan/)*

@@ -1,6 +1,6 @@
 # TBA - 9 - 13 Wisbourne Road, Brookvale
 
-TBA - 9 - 13 Wisbourne Road, Brookvale is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Good Groove X DeDoof Present: Carpark Boogie" on Sat, 25 Jul 2026.
+TBA - 9 - 13 Wisbourne Road, Brookvale is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Good Groove X DeDoof Present: Carpark Boogie" on Sat, 25 Jul 2026.
 
 TBA - 9 - 13 Wisbourne Road, Brookvale is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Jay McMullen and Robbie Lowe. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 9 - 13 Wisbourne Road, Brookvale is a music venue in Sydney listed on soun
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Good Groove X DeDoof Present: Carpark Boogie | Jay McMullen, Robbie Lowe |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-9-13-wisbourne-road-brookvale/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-9-13-wisbourne-road-brookvale/)*

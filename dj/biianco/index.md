@@ -1,6 +1,6 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Under the K Bridge, New York City on Sat, 11 Jul 2026.
+BIIANCO is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Under the K Bridge, New York City on Sat, 11 Jul 2026.
 
 BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and Diffrent. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
 
@@ -34,4 +34,4 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 Fenrick, Adrian Mills, Diffrent
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

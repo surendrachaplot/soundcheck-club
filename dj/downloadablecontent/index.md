@@ -1,6 +1,6 @@
 # Downloadable Content
 
-Downloadable Content is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 11 Jul 2026.
+Downloadable Content is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Brooklyn, New York City on Sat, 11 Jul 2026.
 
 Downloadable Content is a techno and house artist tracked on soundcheck, with 52 sets logged across Newyorkcity and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and adobeprincess. Next up: TBA - Brooklyn, Newyorkcity on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Downloadable Content is a techno and house artist tracked on soundcheck, with 52
 
 Aquatic Themes, Aurora Halal, adobeprincess
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*

@@ -1,6 +1,6 @@
 # Haunt/Frontviews
 
-Haunt/Frontviews is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Global Dystopia Sound Art Biennial" on Sat, 26 Sept 2026.
+Haunt/Frontviews is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Global Dystopia Sound Art Biennial" on Sat, 26 Sept 2026.
 
 Haunt/Frontviews is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Haunt/Frontviews is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Global Dystopia Sound Art Biennial |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haunt-frontviews/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haunt-frontviews/)*

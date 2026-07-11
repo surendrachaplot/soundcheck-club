@@ -1,6 +1,6 @@
 # Eksman
 
-Eksman is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Eksman is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
 Eksman is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Auckland, Birmingham, Bristol and Leeds and 7 more. Often billed alongside IC3, Logan D and Hedex. Next up: Boston Manor Park, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Eksman is a drum & bass and jungle artist tracked on soundcheck, with 58 sets lo
 
 IC3, Logan D, Hedex
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*

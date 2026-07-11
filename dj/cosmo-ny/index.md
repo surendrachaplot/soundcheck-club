@@ -1,6 +1,6 @@
 # Cosmo (NY)
 
-Cosmo (NY) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Paragon, New York City on Sat, 11 Jul 2026.
+Cosmo (NY) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paragon, New York City on Sat, 11 Jul 2026.
 
 Cosmo (NY) is a house and techno artist tracked on soundcheck, with 132 sets logged across Boston, Detroit, Montreal and Newyorkcity. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: Paragon, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Cosmo (NY) is a house and techno artist tracked on soundcheck, with 132 sets log
 
 Eli Escobar, Donis, Mike Servito
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*

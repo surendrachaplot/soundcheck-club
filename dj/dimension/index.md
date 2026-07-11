@@ -1,6 +1,6 @@
 # Dimension
 
-Dimension is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
+Dimension is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
 
 Dimension is a drum & bass and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Austin and Birmingham and 29 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Finsbury Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Dimension is a drum & bass and house artist tracked on soundcheck, with 68 sets 
 
 Sub Focus, Culture Shock, Andy C
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*

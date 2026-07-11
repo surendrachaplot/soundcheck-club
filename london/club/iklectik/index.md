@@ -1,6 +1,6 @@
 # IKLECTIK
 
-IKLECTIK is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "IKLECTIK 12th Anniversary Party" on Sat, 11 Jul 2026.
+IKLECTIK is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "IKLECTIK 12th Anniversary Party" on Sat, 11 Jul 2026.
 
 IKLECTIK is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including aya, Dhangsha, Quieting and Rrose. Browse upcoming dates, start times and who's playing. Peckham Levels - 95a Rye Ln, London SE15 4ST.
 
@@ -14,4 +14,4 @@ IKLECTIK is a music venue in London listed on soundcheck. 1 upcoming night, with
 
 Peckham Levels - 95a Rye Ln, London SE15 4ST, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/iklectik/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/iklectik/)*

@@ -1,6 +1,6 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Patterns, Brighton on Sat, 11 Jul 2026.
+Late Replies is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Patterns, Brighton on Sat, 11 Jul 2026.
 
 Late Replies is a tech house and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Bali and Barcelona and 16 more. Often billed alongside Detlef, Darius Syrossian and Seb Zito. Next up: Patterns, Brighton on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Late Replies is a tech house and house artist tracked on soundcheck, with 68 set
 
 Detlef, Darius Syrossian, Seb Zito
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

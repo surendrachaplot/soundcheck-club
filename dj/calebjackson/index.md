@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at La Brisa, Bali on Sat, 25 Jul 2026.
+Caleb Jackson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Brisa, Bali on Sat, 25 Jul 2026.
 
 Caleb Jackson is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Bali and Brisbane and 6 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: La Brisa, Bali on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Caleb Jackson is a house and tech house artist tracked on soundcheck, with 62 se
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

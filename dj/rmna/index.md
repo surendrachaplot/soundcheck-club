@@ -1,6 +1,6 @@
 # RMNA
 
-RMNA is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
+RMNA is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
 
 RMNA is a techno and dub artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Detroit and Sanfrancisco. Often billed alongside Kudeki, Torsion and 2dahlia. Next up: OHM, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ RMNA is a techno and dub artist based in United States of America, tracked on so
 
 Kudeki, Torsion, 2dahlia
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rmna/)*

@@ -1,6 +1,6 @@
 # Will Clarke
 
-Will Clarke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Will Clarke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Will Clarke is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Will Clarke is a techno and house artist tracked on soundcheck, with 88 sets log
 
 DJ Minx, Dombresky, Boys Noize
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*

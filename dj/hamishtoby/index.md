@@ -1,6 +1,6 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Les Enfants Brillants, Barcelona on Sat, 11 Jul 2026.
+Hamish & Toby is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Les Enfants Brillants, Barcelona on Sat, 11 Jul 2026.
 
 Hamish & Toby are a house and tech house duo tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside The Ghost, Dr Banana and Truly Madly. Next up: Les Enfants Brillants, Barcelona on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ Hamish & Toby are a house and tech house duo tracked on soundcheck, with 131 set
 
 The Ghost, Dr Banana, Truly Madly
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

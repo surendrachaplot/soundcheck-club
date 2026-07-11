@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "11 JULI - Thuishaven with Mees Salomé 10HRS" on Sat, 11 Jul 2026.
+Thuishaven is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "11 JULI - Thuishaven with Mees Salomé 10HRS" on Sat, 11 Jul 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming night
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

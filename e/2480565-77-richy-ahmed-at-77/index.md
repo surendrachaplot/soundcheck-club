@@ -1,6 +1,6 @@
 # 77: Richy Ahmed at 77
 
-77: Richy Ahmed on Fri 24 Jul, London. 1 act on the bill: Richy Ahmed. Afro House. Preview the line-up and save it on soundcheck.
+77: Richy Ahmed on Fri 24 Jul, London. 1 act on the bill: Richy Ahmed. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

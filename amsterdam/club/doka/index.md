@@ -1,14 +1,13 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "Doka Summer Studio x Jazz Club" on Fri, 10 Jul 2026.
+Doka is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Doka Summer Studio x XXX" on Sat, 11 Jul 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including baesmith, Coco Coquelicot, Evi (1) and Fouk and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Coco Coquelicot, Evi (1), Gizem and Gizem Öz and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | Doka Summer Studio x Jazz Club | Fouk, Nikko Axzul, baesmith |
 | Sat, 11 Jul 2026 | Doka Summer Studio x XXX | Evi (1), Mike Sacchetti |
 | Fri, 17 Jul 2026 | Doka Summer Studio x Klub Analog | Jaimy, Piepotelli, Portente, Young Duif |
 | Fri, 17 Jul 2026 | Klub Analog | Jaimy (2), Piepotelli, Young Duif |
@@ -23,4 +22,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, wit
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

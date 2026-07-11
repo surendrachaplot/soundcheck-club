@@ -1,6 +1,6 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 11 Jul 2026.
+ChaseWest is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 11 Jul 2026.
 
 ChaseWest is a house and tech house artist tracked on soundcheck, with 44 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 11 Jul.
 
@@ -29,4 +29,4 @@ ChaseWest is a house and tech house artist tracked on soundcheck, with 44 sets l
 
 Beltran, KinAhau, Max Dean
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

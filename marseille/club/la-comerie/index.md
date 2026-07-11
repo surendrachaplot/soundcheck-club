@@ -1,6 +1,6 @@
 # La Comerie
 
-La Comerie is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "Rasputin - AFTERSUN" on Sat, 1 Aug 2026.
+La Comerie is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Rasputin - AFTERSUN" on Sat, 1 Aug 2026.
 
 La Comerie is a music venue in Marseille listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ La Comerie is a music venue in Marseille listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Rasputin - AFTERSUN |  |
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-comerie/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-comerie/)*

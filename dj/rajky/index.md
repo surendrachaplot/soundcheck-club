@@ -1,6 +1,6 @@
 # Rajky
 
-Rajky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 17 Jul 2026.
+Rajky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ankali & Planeta Za, Prague on Fri, 17 Jul 2026.
 
 Rajky is a techno and house artist based in France, tracked on soundcheck, with 66 sets logged across Prague. Often billed alongside Tatomed (2), Sam Gittis and DDK (1). Next up: Ankali & Planeta Za, Prague on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Rajky is a techno and house artist based in France, tracked on soundcheck, with 
 
 Tatomed (2), Sam Gittis, DDK (1)
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rajky/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rajky/)*

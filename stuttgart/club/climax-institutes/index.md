@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 11 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "VIBRATION" on Fri, 10 Jul 2026.
+Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DANSE AVEC MOI w/Eliano, Mary, Chamelio3000" on Sat, 11 Jul 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 11 upcoming nights, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Kate no Sleep and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Kate no Sleep and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | VIBRATION | Sanel |
 | Sat, 11 Jul 2026 | DANSE AVEC MOI w/Eliano, Mary, Chamelio3000 | Chamelio 3000 |
 | Thu, 16 Jul 2026 | APPETIZER - 11 YEARS ANNIVERSARY (PART1) | Adi Dassler, Kate no Sleep, Modeplex |
 | Fri, 17 Jul 2026 | HYPERDOSE | Laau Pama, Meret Forêt |
@@ -18,9 +17,10 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 11 upcomin
 | Sat, 25 Jul 2026 | PRIDE TRUCK AFTERPARTY | Michael Clash Gottschalk |
 | Thu, 30 Jul 2026 | APPETIZER - 11 YEARS ANNIVERSARY (PART2) | Adi Dassler, Pysh |
 | Fri, 31 Jul 2026 | Different Reality 'TERMINAL X' at Climax Institutes |  |
+| Fri, 14 Aug 2026 | This !s | E-PUNK |
 
 ## Address
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Jumbi, London on Sat, 11 Jul 2026.
+MiNNA is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jumbi, London on Sat, 11 Jul 2026.
 
 MiNNA is a house and disco artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Horse Meat Disco and Melvo Baptiste. Next up: Jumbi, London on Sat 11 Jul.
 
@@ -32,4 +32,4 @@ MiNNA is a house and disco artist tracked on soundcheck, with 138 sets logged ac
 
 Kirollus, Horse Meat Disco, Melvo Baptiste
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

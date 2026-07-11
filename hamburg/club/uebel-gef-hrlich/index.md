@@ -1,14 +1,13 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "PULS:STUDIO" on Fri, 10 Jul 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Blaue Stunde" on Sat, 11 Jul 2026.
 
-Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including 3LEEZA, AH-N!CE, ANXHELA and Charleen Herzig and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
+Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including 3LEEZA, AH-N!CE, ANXHELA and Charleen Herzig and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | PULS:STUDIO | Nana Tranquillo |
 | Sat, 11 Jul 2026 | Blaue Stunde | Cherries040, LYNDA, Softdrive, WILDERÍCH |
 | Fri, 17 Jul 2026 | BAILE FEMME | KBRAL, SoundPreta |
 | Sat, 1 Aug 2026 | Bunker Rave with ANXHELA & 3LEEZA | 3LEEZA, AH-N!CE, ANXHELA, JAMera, L.A.tifa, TERMINAL 23 (DE) |
@@ -22,4 +21,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 9 upcoming
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

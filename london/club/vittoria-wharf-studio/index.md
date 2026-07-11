@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "EL HOUSE" on Sat, 11 Jul 2026.
+Vittoria Wharf Studio is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "EL HOUSE" on Sat, 11 Jul 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Bailey Ibbs, Crumpler, DREY (UK) and Elkka and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -20,4 +20,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

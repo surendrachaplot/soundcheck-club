@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "lowtide w/ durane specter & deep philippe" on Sat, 11 Jul 2026.
+Unter Deck is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "lowtide w/ durane specter & deep philippe" on Sat, 11 Jul 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including AFAIC, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and RONNY. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -18,4 +18,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming nights, w
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

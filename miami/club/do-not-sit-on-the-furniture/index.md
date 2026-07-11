@@ -1,14 +1,13 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 25 upcoming nights listed on soundcheck as of Fri, 10 Jul 2026; the next is "SKALA [Ameo]" on Fri, 10 Jul 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 24 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kidnap [Cercle / This Never Happened]" on Sat, 11 Jul 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 25 upcoming nights, with line-ups including baez, DAVI, Eli Nissan and Gadi Mitrani and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 upcoming nights, with line-ups including baez, DAVI, Eli Nissan and Gadi Mitrani and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 10 Jul 2026 | SKALA [Ameo] | SKALA, baez |
 | Sat, 11 Jul 2026 | Kidnap [Cercle / This Never Happened] | Jessy Nimni, Kidnap |
 | Wed, 15 Jul 2026 | Jessy & Friends | Jessy Nimni, Marie Posa, Patafunk |
 | Thu, 16 Jul 2026 | Secret Thursdays |  |
@@ -18,9 +17,10 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 25 u
 | Fri, 24 Jul 2026 | Adam Nazar [Nervous Records] |  |
 | Sat, 25 Jul 2026 | Surreal Flight & Friends | Surreal Flight |
 | Thu, 30 Jul 2026 | Secret Thursdays | Jessy Nimni, YeshaYahu |
+| Fri, 31 Jul 2026 | Lumia | DAVI, Lumia |
 
 ## Address
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

@@ -1,8 +1,8 @@
 # Franky Rizardo
 
-Franky Rizardo is a Tech House and House artist with 18 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Franky Rizardo is a Tech House and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
 
-Franky Rizardo is a tech house and house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and ALISHA. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Franky Rizardo is a tech house and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Franky Rizardo is a tech house and house artist tracked on soundcheck, with 228 
 
 ## Shares bills with
 
-Marco Carola, East End Dubs, ALISHA
+Marco Carola, East End Dubs, Mason Collective
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

@@ -1,6 +1,6 @@
 # DJ T-1000
 
-DJ T-1000 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 18 Jul 2026.
+DJ T-1000 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 18 Jul 2026.
 
 DJ T-1000 is a techno and electro artist based in Germany, tracked on soundcheck, with 57 sets logged across Antwerp, Belgrade, Berlin and Brussels and 14 more. Often billed alongside Ellen Allien, BLACK ANTHEM RESTORE and Tigerhead. Next up: Der Weiße Hase, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DJ T-1000 is a techno and electro artist based in Germany, tracked on soundcheck
 
 Ellen Allien, BLACK ANTHEM RESTORE, Tigerhead
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djt-1000/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djt-1000/)*

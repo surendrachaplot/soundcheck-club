@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Quarters, Brighton on Sat, 11 Jul 2026.
+Luke Dean_ is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Quarters, Brighton on Sat, 11 Jul 2026.
 
 Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 25 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Quarters, Brighton on Sat 11 Jul.
 
@@ -35,4 +35,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

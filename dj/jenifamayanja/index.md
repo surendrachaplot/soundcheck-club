@@ -1,6 +1,6 @@
 # Jenifa Mayanja
 
-Jenifa Mayanja is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at public records, New York City on Sat, 11 Jul 2026.
+Jenifa Mayanja is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at public records, New York City on Sat, 11 Jul 2026.
 
 Jenifa Mayanja is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Chicago, London, Montreal and Munich and 2 more. Often billed alongside Francis Harris, Lovie and Scott Grooves. Next up: public records, Newyorkcity on Sat 11 Jul.
 
@@ -27,4 +27,4 @@ Jenifa Mayanja is a house and deep house artist based in United States of Americ
 
 Francis Harris, Lovie, Scott Grooves
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenifamayanja/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenifamayanja/)*

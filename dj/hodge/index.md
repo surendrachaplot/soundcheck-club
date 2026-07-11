@@ -1,6 +1,6 @@
 # Hodge
 
-Hodge is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Palais, London on Sat, 18 Jul 2026.
+Hodge is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Palais, London on Sat, 18 Jul 2026.
 
 Hodge is a techno and bass artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 26 more. Often billed alongside Peverelist, Darwin and Danielle. Next up: Palais, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Hodge is a techno and bass artist tracked on soundcheck, with 102 sets logged ac
 
 Peverelist, Darwin, Danielle
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*

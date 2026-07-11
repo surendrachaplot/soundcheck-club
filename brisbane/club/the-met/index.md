@@ -1,6 +1,6 @@
 # The Met
 
-The Met is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Fri, 10 Jul 2026; the next is "The Met featuring Cooper Smith" on Sat, 18 Jul 2026.
+The Met is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "The Met featuring Cooper Smith" on Sat, 18 Jul 2026.
 
 The Met is a music venue in Brisbane listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 256 Wickham Street, Fortitude Valley, QLD 4006, Australia.
 
@@ -14,4 +14,4 @@ The Met is a music venue in Brisbane listed on soundcheck. 1 upcoming night. Bro
 
 256 Wickham Street, Fortitude Valley, QLD 4006, Australia, Brisbane
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-met/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-met/)*

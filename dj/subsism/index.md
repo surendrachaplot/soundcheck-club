@@ -1,6 +1,6 @@
 # Subsism
 
-Subsism is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at TBA - 2 place de la manufacture, Sèvres, Paris on Sat, 11 Jul 2026.
+Subsism is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - 2 place de la manufacture, Sèvres, Paris on Sat, 11 Jul 2026.
 
 Subsism is a techno and electro artist based in France, tracked on soundcheck, with 54 sets logged across Brussels, Glasgow, Lyon and Marseille and 6 more. Often billed alongside Maelita, Elvira (1) and oror. Next up: TBA - 2 place de la manufacture, Sèvres, Paris on Sat 11 Jul.
 
@@ -26,4 +26,4 @@ Subsism is a techno and electro artist based in France, tracked on soundcheck, w
 
 Maelita, Elvira (1), oror
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subsism/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subsism/)*

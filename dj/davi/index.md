@@ -1,6 +1,6 @@
 # DAVI
 
-DAVI is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
+DAVI is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
 
 DAVI is a house and deep house artist tracked on soundcheck, with 66 sets logged across Kyoto, Losangeles, Mexicocity and Miami and 7 more. Often billed alongside Anton Tumas, Ray Kash and Doc Martin. Next up: Shoreline Aquatic Park, Losangeles on Sat 18 Jul.
 
@@ -9,7 +9,7 @@ DAVI is a house and deep house artist tracked on soundcheck, with 66 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Shoreline Aquatic Park | Los Angeles |
-| Sat, 18 Jul 2026 | TBA - THE LOOM, 2220 Livingston St, Oakland | San Francisco/Oakland |
+| Sat, 18 Jul 2026 | Club Six | San Francisco/Oakland |
 | Fri, 31 Jul 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
@@ -27,4 +27,4 @@ DAVI is a house and deep house artist tracked on soundcheck, with 66 sets logged
 
 Anton Tumas, Ray Kash, Doc Martin
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davi/)*

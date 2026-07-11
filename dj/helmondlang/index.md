@@ -1,6 +1,6 @@
 # Helmond Lang
 
-Helmond Lang is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 10 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Helmond Lang is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 Helmond Lang is a techno and breakbeat artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, London, Rotterdam and Thehague and 1 more. Often billed alongside dirtydms, Cheyanne Hudson and DEY.REY. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Helmond Lang is a techno and breakbeat artist based in Netherlands, tracked on s
 
 dirtydms, Cheyanne Hudson, DEY.REY
 
-*Updated Fri, 10 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helmondlang/)*
+*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helmondlang/)*
