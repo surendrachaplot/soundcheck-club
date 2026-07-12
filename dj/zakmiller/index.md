@@ -1,6 +1,6 @@
 # Zak Miller
 
-Zak Miller is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
+Zak Miller is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Brixton Jamm, London on Fri, 14 Aug 2026.
 
 Zak Miller is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Alfaz, Bear Winder and A Hard Day's Dance. Next up: Brixton Jamm, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Zak Miller is a house and deep house artist based in United Kingdom, tracked on 
 
 Alfaz, Bear Winder, A Hard Day's Dance
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*

@@ -1,6 +1,6 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Fri, 17 Jul 2026.
+Partiboi69 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Fri, 17 Jul 2026.
 
 Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 63 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: Else, Berlin on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 
 KETTAMA, Juicy Romance, DJ Heartstring
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

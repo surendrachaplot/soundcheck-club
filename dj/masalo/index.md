@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 18 Jul 2026.
+Masalo is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 18 Jul 2026.
 
 Masalo is a house and disco artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Bali and 34 more. Often billed alongside Kamma, Antal and Budino. Next up: Shelter Amsterdam, Amsterdam on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Masalo is a house and disco artist tracked on soundcheck, with 123 sets logged a
 
 Kamma, Antal, Budino
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

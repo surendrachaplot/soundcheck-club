@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Clairière, Paris on Fri, 17 Jul 2026.
+Franc Fala is a House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Clairière, Paris on Fri, 17 Jul 2026.
 
 Franc Fala is a house and afro tech artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Basel and Brussels and 7 more. Often billed alongside Benja (NL), Benja and Cincity. Next up: La Clairière, Paris on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Franc Fala is a house and afro tech artist tracked on soundcheck, with 30 sets l
 
 Benja (NL), Benja, Cincity
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

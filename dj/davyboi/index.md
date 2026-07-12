@@ -1,14 +1,13 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 11 Jul 2026.
+davyboi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Club Phoenix - Gianpula Village, Malta on Sat 11 Jul.
+davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Club Phoenix - Gianpula Village | Malta |
 | Wed, 15 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Boomerang Beach | The Hague |
 | Fri, 31 Jul 2026 | RSO.BERLIN | Berlin |
@@ -20,9 +19,11 @@ davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logge
 | Sat, 5 Sept 2026 | TBA | Melbourne |
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 
 ## Recently played
 
+- Club Phoenix - Gianpula Village, Malta — Sat, 11 Jul 2026
 - Else, Berlin — Fri, 10 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Spook Club, Valencia — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logge
 - TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 - The Grand Social, Dublin — Sun, 31 May 2026
-- Nordstern, Basel — Sat, 30 May 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

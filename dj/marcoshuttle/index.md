@@ -1,6 +1,6 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
+Marco Shuttle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
 
 Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and GiGi FM. Next up: Port del Comte, Barcelona on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 
 Jane Fitz, Erika, GiGi FM
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoshuttle/)*

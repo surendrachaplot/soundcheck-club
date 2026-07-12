@@ -1,6 +1,6 @@
 # Qrion
 
-Qrion is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at SILO, New York City on Fri, 17 Jul 2026.
+Qrion is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at SILO, New York City on Fri, 17 Jul 2026.
 
 Qrion is a house and techno artist based in Japan, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Bali and Chicago and 25 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: SILO, Newyorkcity on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Qrion is a house and techno artist based in Japan, tracked on soundcheck, with 6
 
 Nicky Elisabeth, Rezident, Romain Garcia
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*

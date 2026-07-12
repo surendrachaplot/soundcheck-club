@@ -1,6 +1,6 @@
 # Matt Arnold
 
-Matt Arnold is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Mezzanine - Tooting, London on Fri, 31 Jul 2026.
+Matt Arnold is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mezzanine - Tooting, London on Fri, 31 Jul 2026.
 
 Matt Arnold is a techno and tech house artist tracked on soundcheck, with 31 sets logged across London and Melbourne. Often billed alongside Diego Gee, Etwas and Ophelie Mercury. Next up: Mezzanine - Tooting, London on Fri 31 Jul.
 
@@ -9,7 +9,7 @@ Matt Arnold is a techno and tech house artist tracked on soundcheck, with 31 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Mezzanine - Tooting | London |
-| Fri, 31 Jul 2026 | TBA - TO BE ANNOUNCED | London |
+| Fri, 31 Jul 2026 | TBA - Regent Balham 21 Chestnut Grove, London SW12 8JB | London |
 | Sat, 1 Aug 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
@@ -27,4 +27,4 @@ Matt Arnold is a techno and tech house artist tracked on soundcheck, with 31 set
 
 Diego Gee, Etwas, Ophelie Mercury
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattarnold/)*

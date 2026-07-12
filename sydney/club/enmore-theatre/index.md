@@ -1,6 +1,6 @@
 # Enmore Theatre
 
-Enmore Theatre is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "King Street Crawl x Enmore Theatre" on Sun, 12 Jul 2026.
+Enmore Theatre is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "King Street Crawl x Enmore Theatre" on Sun, 12 Jul 2026.
 
 Enmore Theatre is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Human Movement, Miss Kaninna and Yasmina Sadiki. Browse upcoming dates, start times and who's playing. 118-132 Enmore Rd; Newtown, NSW 2042; Australia.
 
@@ -14,4 +14,4 @@ Enmore Theatre is a music venue in Sydney listed on soundcheck. 1 upcoming night
 
 118-132 Enmore Rd; Newtown, NSW 2042; Australia, Sydney
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/enmore-theatre/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/enmore-theatre/)*

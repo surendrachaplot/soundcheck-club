@@ -1,6 +1,6 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
+Jan Blomqvist is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
 
 Jan Blomqvist is a deep house and house artist based in Germany, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside WhoMadeWho, Bedouin and Colyn. Next up: TBA - Theater Augusta Raurica, Basel on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Jan Blomqvist is a deep house and house artist based in Germany, tracked on soun
 
 WhoMadeWho, Bedouin, Colyn
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

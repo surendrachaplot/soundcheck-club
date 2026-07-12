@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "The Glove That Fits presents Alien Communications, Greg Brockmann & Ste Roberts" on Sat, 11 Jul 2026.
+The Glove That Fits is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Fossil Archive presents: Burden, DJ People's Princess, R.M.K" on Sun, 12 Jul 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Aero (1), Alien Communications, Balrog and Burden and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Aero (1), Balrog, Burden and Custard Soup and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | The Glove That Fits presents Alien Communications, Greg Brockmann & Ste Roberts | Alien Communications, Greg Brockmann, Ste Roberts |
 | Sun, 12 Jul 2026 | Fossil Archive presents: Burden, DJ People's Princess, R.M.K | Burden, R.M.K, dj people's princess |
 | Fri, 17 Jul 2026 | Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala | Guy Contact, Jefferson King, Loa Szala, Markozonio |
 | Sat, 18 Jul 2026 | 10 years of Subtle Radio: Open Air Day Party | Johana, POLO JAFFA, SI*BL |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 14 upcoming
 | Sat, 8 Aug 2026 | PINHOLE x KHAZAD RECORDS | Aero (1), Balrog, Lockhart, SIOBHAN., TILEBOI |
 | Sun, 9 Aug 2026 | Fossil Archive presents: Lineup Tbc | R.M.K |
 | Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor & Nik Colk Void | Datassette, Equinox (UK), Kid Drama, Monoak, Nik Colk Void, No data available, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
+| Sun, 23 Aug 2026 | SPLDN#002 |  |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

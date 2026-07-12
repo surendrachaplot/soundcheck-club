@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Seb Odyssey is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 Seb Odyssey is a house and techno artist tracked on soundcheck, with 45 sets logged across Leeds, London, Manchester and Stockholm. Often billed alongside Josh Caffé, Jade Seatle and FAFF. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Seb Odyssey is a house and techno artist tracked on soundcheck, with 45 sets log
 
 Josh Caffé, Jade Seatle, FAFF
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

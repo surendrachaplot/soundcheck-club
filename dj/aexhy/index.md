@@ -1,6 +1,6 @@
 # Aexhy
 
-Aexhy is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Illegaal, Brussels on Sat, 25 Jul 2026.
+Aexhy is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Illegaal, Brussels on Sat, 25 Jul 2026.
 
 Aexhy is a techno and trance artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside SACID, 1luu and Trancemaster Krause. Next up: Illegaal, Brussels on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Aexhy is a techno and trance artist tracked on soundcheck, with 104 sets logged 
 
 SACID, 1luu, Trancemaster Krause
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aexhy/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aexhy/)*

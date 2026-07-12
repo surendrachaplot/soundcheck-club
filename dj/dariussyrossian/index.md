@@ -1,15 +1,15 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Flava Beach, Naples on Sat, 11 Jul 2026.
+Darius Syrossian is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 13 Aug 2026.
 
-Darius Syrossian is a house and tech house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Flava Beach, Naples on Sat 11 Jul.
+Darius Syrossian is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Chinois Ibiza, Ibiza on Thu 13 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Flava Beach | Naples |
 | Thu, 13 Aug 2026 | Chinois Ibiza | Ibiza |
+| Sat, 22 Aug 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Thu, 27 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | 77 | London |
 | Tue, 8 Sept 2026 | Cova Santa | Ibiza |
@@ -19,6 +19,7 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 18
 
 ## Recently played
 
+- Flava Beach, Naples — Sat, 11 Jul 2026
 - ZT Hotel Villa Olimpica, Barcelona — Sat, 20 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
 - Atlantic Club, Barcelona — Thu, 18 Jun 2026
@@ -26,10 +27,9 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 18
 - Joshua Brooks, Manchester — Fri, 12 Jun 2026
 - Chinois Ibiza, Ibiza — Thu, 11 Jun 2026
 - TBA, Ibiza — Sun, 7 Jun 2026
-- 528 Ibiza, Ibiza — Fri, 29 May 2026
 
 ## Shares bills with
 
 Olive F, Prunk, GW Harrison
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*

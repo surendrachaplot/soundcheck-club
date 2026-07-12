@@ -1,8 +1,8 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+IC3 is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
-IC3 is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logged across Amsterdam, Birmingham, Bristol and Hamburg and 5 more. Often billed alongside DJ Hype, Dillinja and Eksman. Next up: Boston Manor Park, London on Fri 24 Jul.
+IC3 is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Birmingham, Bristol and Hamburg and 5 more. Often billed alongside DJ Hype, Eksman and K Motionz. Next up: Boston Manor Park, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ IC3 is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logge
 | Fri, 24 Jul 2026 | Boston Manor Park | London |
 | Sat, 8 Aug 2026 | Basing House | London |
 | Sat, 15 Aug 2026 | Riverside East | London |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ IC3 is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logge
 
 ## Shares bills with
 
-DJ Hype, Dillinja, Eksman
+DJ Hype, Eksman, K Motionz
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

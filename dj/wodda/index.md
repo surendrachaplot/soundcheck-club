@@ -1,6 +1,6 @@
 # Wodda
 
-Wodda is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 17 Jul 2026.
+Wodda is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 17 Jul 2026.
 
 Wodda is a garage and house artist tracked on soundcheck, with 57 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 13 more. Often billed alongside Locky, Just Jam and ADMNTi. Next up: Het Sieraad, Amsterdam on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Wodda is a garage and house artist tracked on soundcheck, with 57 sets logged ac
 
 Locky, Just Jam, ADMNTi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*

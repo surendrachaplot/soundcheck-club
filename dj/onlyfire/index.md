@@ -1,6 +1,6 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Only Fire is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Only Fire is a techno and club artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Auckland and Austin and 28 more. Often billed alongside River Moon, Memphy and Chippy Nonstop. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Only Fire is a techno and club artist tracked on soundcheck, with 75 sets logged
 
 River Moon, Memphy, Chippy Nonstop
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

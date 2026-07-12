@@ -1,6 +1,6 @@
 # SZG
 
-SZG is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sala Cocó, Madrid on Sat, 18 Jul 2026.
+SZG is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sala Cocó, Madrid on Sat, 18 Jul 2026.
 
 SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside Arman John, Cara Elizabeth and DJ GUESTLIST. Next up: Sala Cocó, Madrid on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 
 
 Arman John, Cara Elizabeth, DJ GUESTLIST
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*

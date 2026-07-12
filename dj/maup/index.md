@@ -1,6 +1,6 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 26 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BRET, Amsterdam on Sun, 12 Jul 2026.
+Mau P is a House and Tech House artist with 26 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BRET, Amsterdam on Sun, 12 Jul 2026.
 
 Mau P is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: BRET, Amsterdam on Sun 12 Jul.
 
@@ -36,4 +36,4 @@ Mau P is a house and tech house artist tracked on soundcheck, with 152 sets logg
 
 Joseph Capriati, Dom Dolla, Tini Gessler
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

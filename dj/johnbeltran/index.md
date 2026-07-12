@@ -1,6 +1,6 @@
 # John Beltran
 
-John Beltran is a Ambient and Balearic artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MotorCity Wine, Detroit on Sun, 12 Jul 2026.
+John Beltran is a Ambient and Balearic artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MotorCity Wine, Detroit on Sun, 12 Jul 2026.
 
 John Beltran is an ambient and balearic artist tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Chicago and Detroit and 5 more. Often billed alongside David A-P, Peter Croce and Blair French. Next up: MotorCity Wine, Detroit on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ John Beltran is an ambient and balearic artist tracked on soundcheck, with 29 se
 
 David A-P, Peter Croce, Blair French
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbeltran/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbeltran/)*

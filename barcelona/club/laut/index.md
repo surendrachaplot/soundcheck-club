@@ -1,14 +1,13 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Eugenia Spell + Geistform (Live) + Non Punire" on Sat, 11 Jul 2026.
+LAUT is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Juan Evangelista + Unreal" on Fri, 17 Jul 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including ANFS, Ángel Molina, Axis Mundi and Dafunkas and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including ANFS, Ángel Molina, Axis Mundi and Dafunkas and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Eugenia Spell + Geistform (Live) + Non Punire | Marianella, Non Punire |
 | Fri, 17 Jul 2026 | Juan Evangelista + Unreal | Juan Evangelista, Unreal |
 | Sat, 18 Jul 2026 | ANFS + Angel Molina | ANFS, Ángel Molina |
 | Fri, 24 Jul 2026 | Christian + Fabrega + Onoffon | Fabrega, Onoffon |
@@ -19,4 +18,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

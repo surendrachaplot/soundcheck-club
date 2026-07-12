@@ -1,15 +1,13 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 22 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Simone de Kunovich, KORNEL KOVACS" on Sat, 11 Jul 2026.
+Trädgården is a music venue in Stockholm with 20 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "X CLUB, Juicy Romance, Valrik" on Thu, 16 Jul 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 22 upcoming nights, with line-ups including ALCATRAZ, Amaliah, Anthony Linell and Art Alfie and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 20 upcoming nights, with line-ups including ALCATRAZ, Amaliah, Anthony Linell and Art Alfie and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Simone de Kunovich, KORNEL KOVACS | Kornél Kovács, Simone de Kunovich |
-| Sat, 11 Jul 2026 | DANCE NIGHTS: Simone de Kunovich | Kornél Kovács, Simone de Kunovich |
 | Thu, 16 Jul 2026 | X CLUB, Juicy Romance, Valrik | Juicy Romance, Valrik, X CLUB. |
 | Fri, 17 Jul 2026 | BASHKKA, Dexter | Dexter |
 | Fri, 17 Jul 2026 | DANCE NIGHTS: BASHKKA | BASHKKA, Dexter |
@@ -18,9 +16,11 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 22 upcoming nig
 | Thu, 23 Jul 2026 | Whitearmor, Eurohead, ALCATRAZ (LIVE), Femi | ALCATRAZ, Eurohead, Femi |
 | Fri, 24 Jul 2026 | TONOTOPI, TANDEM |  |
 | Sat, 25 Jul 2026 | Sonja Moonear, MAJKEL KOKO | Sonja Moonear |
+| Sat, 25 Jul 2026 | DANCE NIGHTS: Sonja Moonear | Sonja Moonear |
+| Tue, 28 Jul 2026 | PRIDE WEEK: TUESDAY | Nadine Noor, Oscar Nñ |
 
 ## Address
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

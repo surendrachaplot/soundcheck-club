@@ -1,6 +1,6 @@
 # Oldyungmayn
 
-Oldyungmayn is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
+Oldyungmayn is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
 
 Oldyungmayn is a club and techno artist based in United Arab Emirates, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Brussels and 10 more. Often billed alongside CEM, Assyouti and Majdolen. Next up: Loone, Berlin on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Oldyungmayn is a club and techno artist based in United Arab Emirates, tracked o
 
 CEM, Assyouti, Majdolen
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldyungmayn/)*

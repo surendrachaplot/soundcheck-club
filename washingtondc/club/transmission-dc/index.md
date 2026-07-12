@@ -1,14 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "CHIMSTAR pres. BIRTHDAY RAVE" on Sat, 11 Jul 2026.
+TRANSMISSION DC is a music venue in Washington DC with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SUBSTRATE Pres. SALOME" on Thu, 16 Jul 2026.
 
-TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights, with line-ups including Alarico, Alexandre Docouto, Associate and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 9 upcoming nights, with line-ups including Alarico, Alexandre Docouto, Associate and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | CHIMSTAR pres. BIRTHDAY RAVE | Xana 101, znorthy |
 | Thu, 16 Jul 2026 | SUBSTRATE Pres. SALOME | SALOME |
 | Fri, 17 Jul 2026 | Sweat-O-Meter Pres By GOkibstarGO X 140 | DJ Land Reform, FortifiedStructures, Franxx, GOkibstarGO, Pouty's Rage, Technopagan, satronica |
 | Sat, 18 Jul 2026 | Black Box pres. DJ Nobu | Associate, DJ Nobu, Doltz, Sard |
@@ -23,4 +22,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

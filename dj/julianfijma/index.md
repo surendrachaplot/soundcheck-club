@@ -1,14 +1,13 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Julian Fijma is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
 
-Julian Fijma is a house and tech house artist tracked on soundcheck, with 105 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 27 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Julian Fijma is a house and tech house artist tracked on soundcheck, with 105 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 27 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: [UNVRS], Ibiza on Wed 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hembrugterrein | Amsterdam |
 | Wed, 22 Jul 2026 | [UNVRS] | Ibiza |
 | Sun, 26 Jul 2026 | Colorado Charlie | The Hague |
 | Sat, 1 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 105 se
 | Sat, 12 Sept 2026 | Smoke & Mirrors | Chicago |
 | Sun, 13 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Thu, 24 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - 528 Ibiza, Ibiza — Fri, 3 Jul 2026
 - TBA - Wave, Mallorca — Fri, 26 Jun 2026
@@ -30,10 +31,9 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 105 se
 - INPUT High Fidelity Dance Club, Barcelona — Sat, 20 Jun 2026
 - Parc d’Atraccions del Tibidabo, Barcelona — Thu, 18 Jun 2026
 - Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
-- The Telegraph Building, Belfast — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

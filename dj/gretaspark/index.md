@@ -1,6 +1,6 @@
 # Greta Spark
 
-Greta Spark is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Greta Spark is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Greta Spark is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Hamburg and Ibiza and 3 more. Often billed alongside Dj Norma, Power Squad and Immy. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Greta Spark is a house and techno artist tracked on soundcheck, with 24 sets log
 
 Dj Norma, Power Squad, Immy
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaspark/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaspark/)*

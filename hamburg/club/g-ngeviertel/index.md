@@ -1,6 +1,6 @@
 # Gängeviertel
 
-Gängeviertel is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "In der Schwebe Festival" on Fri, 24 Jul 2026.
+Gängeviertel is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "In der Schwebe Festival" on Fri, 24 Jul 2026.
 
 Gängeviertel is a music venue in Hamburg listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg.
 
@@ -15,4 +15,4 @@ Gängeviertel is a music venue in Hamburg listed on soundcheck. 2 upcoming night
 
 Valentinskamp 34A, 20355 Hamburg, Hamburg
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/g-ngeviertel/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/g-ngeviertel/)*

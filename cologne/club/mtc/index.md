@@ -1,6 +1,6 @@
 # MTC
 
-MTC is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "The Datsuns (NZ), Stacy Crowne" on Tue, 14 Jul 2026.
+MTC is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "The Datsuns (NZ), Stacy Crowne" on Tue, 14 Jul 2026.
 
 MTC is a music venue in Cologne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Zülpicher Str.10; 50674 Cologne; Germany.
 
@@ -14,4 +14,4 @@ MTC is a music venue in Cologne listed on soundcheck. 1 upcoming night. Browse u
 
 Zülpicher Str.10; 50674 Cologne; Germany, Cologne
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/mtc/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/mtc/)*

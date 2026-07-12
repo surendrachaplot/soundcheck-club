@@ -1,6 +1,6 @@
 # Mon Franco
 
-Mon Franco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+Mon Franco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
 Mon Franco is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Melbourne. Often billed alongside Haus of Ralph, House Mum and Cristal No.5. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Mon Franco is a techno and house artist based in Australia, tracked on soundchec
 
 Haus of Ralph, House Mum, Cristal No.5
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monfranco/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monfranco/)*

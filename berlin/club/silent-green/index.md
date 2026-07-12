@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Silent Green Open Lab #6: Gregory Pearce + gega.fisk" on Tue, 14 Jul 2026.
+Silent Green is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Silent Green Open Lab #6: Gregory Pearce + gega.fisk" on Tue, 14 Jul 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including AIEL, Edoardo Micheli, Gregory Pearce and HTRK and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 9 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

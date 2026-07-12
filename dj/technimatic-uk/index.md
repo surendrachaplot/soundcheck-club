@@ -1,6 +1,6 @@
 # Technimatic
 
-Technimatic is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Le Kilowatt, Paris on Fri, 28 Aug 2026.
+Technimatic is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Le Kilowatt, Paris on Fri, 28 Aug 2026.
 
 Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Auckland and Bali and 16 more. Often billed alongside Camo & Krooked, LowQui and Monrroe. Next up: Le Kilowatt, Paris on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 40 se
 
 Camo & Krooked, LowQui, Monrroe
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*

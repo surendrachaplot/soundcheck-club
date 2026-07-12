@@ -1,6 +1,6 @@
 # Stann Lumo
 
-Stann Lumo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at RADION, Amsterdam on Fri, 17 Jul 2026.
+Stann Lumo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RADION, Amsterdam on Fri, 17 Jul 2026.
 
 Stann Lumo is a techno and house artist based in South Korea, tracked on soundcheck, with 142 sets logged across Amsterdam, Berlin, Glasgow and Seoul. Often billed alongside Mars Parck, NUSNOOM and DAMIE (KR). Next up: RADION, Amsterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Stann Lumo is a techno and house artist based in South Korea, tracked on soundch
 
 Mars Parck, NUSNOOM, DAMIE (KR)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stannlumo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stannlumo/)*

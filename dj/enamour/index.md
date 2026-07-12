@@ -1,6 +1,6 @@
 # Enamour
 
-Enamour is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ritter Butzke, Berlin on Sat, 18 Jul 2026.
+Enamour is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ritter Butzke, Berlin on Sat, 18 Jul 2026.
 
 Enamour is a house and progressive house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Brisbane and Chicago and 18 more. Often billed alongside Cassian, Dastan and Facundo Mohrr. Next up: Ritter Butzke, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Enamour is a house and progressive house artist tracked on soundcheck, with 79 s
 
 Cassian, Dastan, Facundo Mohrr
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enamour/)*

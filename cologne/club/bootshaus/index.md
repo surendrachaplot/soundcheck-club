@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "HAKKE360 OUTDOOR" on Sat, 18 Jul 2026.
+Bootshaus is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "HAKKE360 OUTDOOR" on Sat, 18 Jul 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 10 upcoming nights, 
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | HAKKE360 OUTDOOR |  |
 | Fri, 24 Jul 2026 | HÖR ON TOUR - Cologne | Acid Asian, Amber Broos, Charleen Herzig, Danilo Filipe, Deborah De Luca, Juno (NY), Katy Rough, Limoncello, The Rocketman |
-| Sat, 25 Jul 2026 | WILL SPARKS pres. by Bootshaus |  |
+| Sat, 25 Jul 2026 | WILL SPARKS pres. by Bootshaus | DVBBS |
 | Fri, 7 Aug 2026 | R3hab pres. by Bootshaus | R3hab |
 | Fri, 21 Aug 2026 | LOONYLAND pres. LUCA DANTE SPADAFORA & 2 ENGEL & Charlie | Charlie |
 | Thu, 27 Aug 2026 | ANIME SOUNDS by CrispyRob - The Last Chapter |  |
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 10 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

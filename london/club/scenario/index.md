@@ -1,6 +1,6 @@
 # Scenario
 
-Scenario is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Sankofa - One Tower Scenario Floreasca 17th Floor" on Sat, 25 Jul 2026.
+Scenario is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sankofa - One Tower Scenario Floreasca 17th Floor" on Sat, 25 Jul 2026.
 
 Scenario is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 97 Stoke Newington Road; London N16 8BX; United Kingdom.
 
@@ -14,4 +14,4 @@ Scenario is a music venue in London listed on soundcheck. 1 upcoming night. Brow
 
 97 Stoke Newington Road; London N16 8BX; United Kingdom, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/scenario/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/scenario/)*

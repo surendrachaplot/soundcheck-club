@@ -1,6 +1,6 @@
 # DJ Mois
 
-DJ Mois is a Afro House and Afrobeat artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at EL SÓTANO, Madrid on Thu, 16 Jul 2026.
+DJ Mois is a Afro House and Afrobeat artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at EL SÓTANO, Madrid on Thu, 16 Jul 2026.
 
 DJ Mois is an afro house and afrobeat artist tracked on soundcheck, with 51 sets logged across Madrid. Often billed alongside DJ MBA, DJ MATERIA PRIMA and Floyd Lavine. Next up: EL SÓTANO, Madrid on Thu 16 Jul.
 
@@ -29,4 +29,4 @@ DJ Mois is an afro house and afrobeat artist tracked on soundcheck, with 51 sets
 
 DJ MBA, DJ MATERIA PRIMA, Floyd Lavine
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmois/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmois/)*

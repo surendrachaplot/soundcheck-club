@@ -1,6 +1,6 @@
 # Sabo
 
-Sabo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Circle Line Cruises, New York City on Sat, 25 Jul 2026.
+Sabo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Circle Line Cruises, New York City on Sat, 25 Jul 2026.
 
 Sabo is a house and deep house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Austin, Berlin, Chicago and Denver and 14 more. Often billed alongside Goldcap, ELIF and SATICA. Next up: Circle Line Cruises, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sabo is a house and deep house artist based in United States of America, tracked
 
 Goldcap, ELIF, SATICA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabo/)*

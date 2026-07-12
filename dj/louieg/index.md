@@ -1,6 +1,6 @@
 # Louie G
 
-Louie G is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Manchester on Fri, 31 Jul 2026.
+Louie G is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Manchester on Fri, 31 Jul 2026.
 
 Louie G is a house and electro artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Bucharest and Glasgow and 9 more. Often billed alongside Ryan Ingleby, Ethan McNamara and DMC.. Next up: TBA, Manchester on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Louie G is a house and electro artist tracked on soundcheck, with 79 sets logged
 
 Ryan Ingleby, Ethan McNamara, DMC.
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*

@@ -1,6 +1,6 @@
 # misa nakamura
 
-misa nakamura is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at clubasia, Tokyo on Wed, 22 Jul 2026.
+misa nakamura is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at clubasia, Tokyo on Wed, 22 Jul 2026.
 
 misa nakamura is a hip-hop and bass artist tracked on soundcheck, with 84 sets logged across Tokyo. Often billed alongside FUJI TRILL, kyuuu and Jellyf!sh. Next up: clubasia, Tokyo on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ misa nakamura is a hip-hop and bass artist tracked on soundcheck, with 84 sets l
 
 FUJI TRILL, kyuuu, Jellyf!sh
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misanakamura/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misanakamura/)*

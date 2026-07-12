@@ -1,8 +1,8 @@
 # Radius
 
-Radius is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "boost+++ xxl - day two" on Sun, 19 Jul 2026.
+Radius is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "boost+++ xxl - day two" on Sun, 19 Jul 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including 1tbsp, Alarico, AMAYAH and Ariel Zetina and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including 1tbsp, Afrojack, Alarico and AMAYAH and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 17 upcoming nights, wit
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

@@ -1,8 +1,8 @@
 # Jamie Jones
 
-Jamie Jones is a Tech House and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at [UNVRS], Ibiza on Wed, 15 Jul 2026.
+Jamie Jones is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at [UNVRS], Ibiza on Wed, 15 Jul 2026.
 
-Jamie Jones is a tech house and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 15 Jul.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Jamie Jones is a tech house and house artist tracked on soundcheck, with 206 set
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

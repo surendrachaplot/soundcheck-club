@@ -1,6 +1,6 @@
 # Austin Powers
 
-Austin Powers is a Disco and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Austin Powers is a Disco and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Austin Powers is a disco and balearic artist based in Czech Republic, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg and Prague. Often billed alongside Schaumstoff, Demonika and NCOL. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Austin Powers is a disco and balearic artist based in Czech Republic, tracked on
 
 Schaumstoff, Demonika, NCOL
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/austinpowers/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/austinpowers/)*

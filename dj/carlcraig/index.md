@@ -1,14 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Coda, Toronto on Sat, 11 Jul 2026.
+Carl Craig is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 16 Jul 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Coda, Toronto on Sat 11 Jul.
+Carl Craig is a house and techno artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Chinois Ibiza, Ibiza on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Coda | Toronto |
 | Thu, 16 Jul 2026 | Chinois Ibiza | Ibiza |
 | Sat, 18 Jul 2026 | Lux Fragil | Lisbon |
 | Fri, 24 Jul 2026 | The Jazz Cafe | London |
@@ -20,9 +19,11 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 254 sets log
 | Sat, 15 Aug 2026 | Flash | Washington DC |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
+| Tue, 15 Sept 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
+- Coda, Toronto — Sat, 11 Jul 2026
 - 45hertz, Hamburg — Sun, 5 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Blue Marlin Ibiza, Ibiza — Wed, 1 Jul 2026
@@ -30,10 +31,9 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 254 sets log
 - BLITZ, Munich — Fri, 19 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
 - Under Club, Buenos Aires — Sat, 13 Jun 2026
-- Refuge, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

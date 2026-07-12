@@ -1,8 +1,8 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Fri, 17 Jul 2026.
+MCR-T is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Fri, 17 Jul 2026.
 
-MCR-T is a techno and house artist tracked on soundcheck, with 251 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 58 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Else, Berlin on Fri 17 Jul.
+MCR-T is a techno and house artist tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Else, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MCR-T is a techno and house artist tracked on soundcheck, with 251 sets logged a
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Else | Berlin |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
+| Sat, 1 Aug 2026 | Holocene | Portland |
 | Sat, 8 Aug 2026 | Kingdom Nightclub | Austin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -33,4 +34,4 @@ MCR-T is a techno and house artist tracked on soundcheck, with 251 sets logged a
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

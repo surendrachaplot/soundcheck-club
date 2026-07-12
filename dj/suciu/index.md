@@ -1,6 +1,6 @@
 # Suciu
 
-Suciu is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 15 Jul 2026.
+Suciu is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Suciu is a house and minimal artist based in Romania, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Brussels and Bucharest and 14 more. Often billed alongside Cap, Gescu and Andrei Ciubuc. Next up: Playa Soleil Ibiza, Ibiza on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ Suciu is a house and minimal artist based in Romania, tracked on soundcheck, wit
 
 Cap, Gescu, Andrei Ciubuc
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suciu/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suciu/)*

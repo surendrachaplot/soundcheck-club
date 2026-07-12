@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Rev Up with Dust Dolls & SLAY" on Sat, 11 Jul 2026.
+elipamanoke is a music venue in Leipzig with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "between x fem*vak" on Wed, 15 Jul 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 7 upcoming nights, with line-ups including .koshka., Atimo, Cyan85 and DYNASTY and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, with line-ups including .koshka., Atimo, Cyan85 and itsadisasta and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Rev Up with Dust Dolls & SLAY | DYNASTY, Juan Alejandro, SCHUB |
 | Wed, 15 Jul 2026 | between x fem*vak |  |
 | Sat, 18 Jul 2026 | CIRCUS CRUSH – CSD EDITION | Atimo, KETA PERRY, MIMI404, Neptune, Nycky Estrella, Plateau Bitch, itsadisasta |
 | Wed, 22 Jul 2026 | between x Jurassic Heart |  |
@@ -20,4 +19,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 7 upcoming nights,
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

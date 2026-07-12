@@ -1,6 +1,6 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 18 Jul 2026.
+Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 18 Jul 2026.
 
 Terry Francis is a house and tech house artist tracked on soundcheck, with 56 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 7 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: NUMBER 90 LONDON, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Terry Francis is a house and tech house artist tracked on soundcheck, with 56 se
 
 3 Minds, Eddie Richards, Jake Beautyman
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*

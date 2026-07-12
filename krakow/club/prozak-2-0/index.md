@@ -1,15 +1,13 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "PROZAK ON THE ROOF: CLOSE PROXIMITY" on Sat, 11 Jul 2026.
+Prozak 2.0 is a music venue in Krakow with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "what a mess we made" on Thu, 16 Jul 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 7 upcoming nights, with line-ups including CLOSE PROXIMITY, Kara Okay, Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 5 upcoming nights, with line-ups including Kara Okay, Kuriozum and Meg (PL). Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | PROZAK ON THE ROOF: CLOSE PROXIMITY | CLOSE PROXIMITY, Meg (PL), Saigön |
-| Sat, 11 Jul 2026 | Prozak on the Roof: After Hours | CLOSE PROXIMITY, Meg (PL) |
 | Thu, 16 Jul 2026 | what a mess we made |  |
 | Fri, 17 Jul 2026 | ALL THE COOL KIDS LISTEN TO ELECTRO |  |
 | Sat, 25 Jul 2026 | PROZAK ON THE ROOF: TWOFACED | Kuriozum, Meg (PL) |
@@ -20,4 +18,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 7 upcoming nights, w
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

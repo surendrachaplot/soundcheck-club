@@ -1,14 +1,13 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+Andrea Oliva is a Tech House and House artist with 19 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
 
-Andrea Oliva is a tech house and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, ARODES and Nic Fanciulli. Next up: Silverworks Island, London on Sat 11 Jul.
+Andrea Oliva is a tech house and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, ARODES and Nic Fanciulli. Next up: Hï Ibiza, Ibiza on Mon 13 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Silverworks Island | London |
 | Mon, 13 Jul 2026 | Hï Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | [UNVRS] | Ibiza |
 | Mon, 20 Jul 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 196 se
 | Sun, 16 Aug 2026 | Kiesgrube | Düsseldorf |
 | Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 24 Aug 2026 | Hï Ibiza | Ibiza |
+| Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Silverworks Island, London — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 6 Jul 2026
 - Seaseaclub Barcelona, Barcelona — Sun, 5 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 29 Jun 2026
@@ -30,10 +31,9 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 196 se
 - Ushuaïa Ibiza, Ibiza — Sat, 27 Jun 2026
 - Hï Ibiza, Ibiza — Mon, 22 Jun 2026
 - Hï Ibiza, Ibiza — Mon, 15 Jun 2026
-- Aahhh Rooftop, Munich — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Raul Rodriguez, ARODES, Nic Fanciulli
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

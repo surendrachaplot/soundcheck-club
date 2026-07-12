@@ -1,8 +1,8 @@
 # Joker
 
-Joker is a Dubstep and Grime artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at public records, New York City on Thu, 13 Aug 2026.
+Joker is a Dubstep and Grime artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at public records, New York City on Thu, 13 Aug 2026.
 
-Joker is a dubstep and grime artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: public records, Newyorkcity on Thu 13 Aug.
+Joker is a dubstep and grime artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Sir Spyro, Coki and SGT Pokes. Next up: public records, Newyorkcity on Thu 13 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joker is a dubstep and grime artist based in United Kingdom, tracked on soundche
 | Sat, 15 Aug 2026 | The Black Box | Denver |
 | Sat, 22 Aug 2026 | The Cause | London |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Joker is a dubstep and grime artist based in United Kingdom, tracked on soundche
 
 Sir Spyro, Coki, SGT Pokes
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joker/)*

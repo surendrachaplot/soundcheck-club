@@ -1,6 +1,6 @@
 # DJ Bone
 
-DJ Bone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tresor / Globus, Berlin on Thu, 16 Jul 2026.
+DJ Bone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tresor / Globus, Berlin on Thu, 16 Jul 2026.
 
 DJ Bone is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Austin and Bali and 35 more. Often billed alongside Azucy, Yeti Mind Tricks and Jack Fresia. Next up: Tresor / Globus, Berlin on Thu 16 Jul.
 
@@ -29,4 +29,4 @@ DJ Bone is a techno and house artist tracked on soundcheck, with 124 sets logged
 
 Azucy, Yeti Mind Tricks, Jack Fresia
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*

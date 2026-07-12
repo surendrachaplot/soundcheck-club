@@ -1,6 +1,6 @@
 # Alex Volta
 
-Alex Volta is a Tech House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 25 Jul 2026.
+Alex Volta is a Tech House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 25 Jul 2026.
 
 Alex Volta is a tech house and downtempo artist based in Germany, tracked on soundcheck, with 44 sets logged across Hamburg and Munich. Often billed alongside DEYST, Moritz Butschek and NUAH. Next up: Bahnwärter Thiel, Munich on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Alex Volta is a tech house and downtempo artist based in Germany, tracked on sou
 
 DEYST, Moritz Butschek, NUAH
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvolta/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvolta/)*

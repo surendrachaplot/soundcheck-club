@@ -1,6 +1,6 @@
 # Friche Belle de Mai
 
-Friche Belle de Mai is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Maraboutage 9ème Anniversaire @ Toit Terrasse + Petit Cab" on Thu, 30 Jul 2026.
+Friche Belle de Mai is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Maraboutage 9ème Anniversaire @ Toit Terrasse + Petit Cab" on Thu, 30 Jul 2026.
 
 Friche Belle de Mai is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including Alycia Bezgo, EARGASM GOD, Joachim Pastor and Joris Delacroix and 2 more. Browse upcoming dates, start times and who's playing. 41 rue Jobin 13003 Marseille.
 
@@ -16,4 +16,4 @@ Friche Belle de Mai is a music venue in Marseille listed on soundcheck. 3 upcomi
 
 41 rue Jobin 13003 Marseille, Marseille
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/friche-belle-de-mai/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/friche-belle-de-mai/)*

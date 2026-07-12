@@ -1,6 +1,6 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
+Henry Saiz is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 14 Aug 2026.
 
 Henry Saiz is a progressive house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Gespona and Guy J. Next up: Seaseaclub Barcelona, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Henry Saiz is a progressive house and house artist tracked on soundcheck, with 5
 
 Amadori, Gespona, Guy J
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*

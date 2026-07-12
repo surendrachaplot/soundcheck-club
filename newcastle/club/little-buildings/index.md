@@ -1,6 +1,6 @@
 # Little Buildings
 
-Little Buildings is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Program 2 - 001: 'The First Transmission'" on Fri, 17 Jul 2026.
+Little Buildings is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Program 2 - 001: 'The First Transmission'" on Fri, 17 Jul 2026.
 
 Little Buildings is a music venue in Newcastle listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Ford St, Newcastle upon Tyne NE6 1LN, UK.
 
@@ -16,4 +16,4 @@ Little Buildings is a music venue in Newcastle listed on soundcheck. 3 upcoming 
 
 Ford St, Newcastle upon Tyne NE6 1LN, UK, Newcastle
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*

@@ -1,6 +1,6 @@
 # David Gtronic
 
-David Gtronic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
+David Gtronic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
 
 David Gtronic is a house and techno artist based in Colombia, tracked on soundcheck, with 38 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 12 more. Often billed alongside Gian-Paul, Adam Cloud and Alex (ES). Next up: TBA, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ David Gtronic is a house and techno artist based in Colombia, tracked on soundch
 
 Gian-Paul, Adam Cloud, Alex (ES)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*

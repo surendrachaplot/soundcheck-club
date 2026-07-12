@@ -1,6 +1,6 @@
 # Bread & Butter
 
-Bread & Butter is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Bread & Butter is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 Bread & Butter are a tech house and house duo tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Copenhagen and London. Often billed alongside William Quintero (2), TIME LVPSE and Itswilliamquintero. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Bread & Butter are a tech house and house duo tracked on soundcheck, with 34 set
 
 William Quintero (2), TIME LVPSE, Itswilliamquintero
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breadbutter/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breadbutter/)*

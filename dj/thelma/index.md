@@ -1,6 +1,6 @@
 # THELMA
 
-THELMA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
+THELMA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
 
 THELMA is a techno and house artist tracked on soundcheck, with 90 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Faster Horses, Helena Lauwaert and Pegassi. Next up: Silverworks Island, London on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ THELMA is a techno and house artist tracked on soundcheck, with 90 sets logged a
 
 Faster Horses, Helena Lauwaert, Pegassi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

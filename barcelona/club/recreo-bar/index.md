@@ -1,6 +1,6 @@
 # Recreo Bar
 
-Recreo Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "ANKLUB 028 SUMMER" on Thu, 16 Jul 2026.
+Recreo Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "ANKLUB 028 SUMMER" on Thu, 16 Jul 2026.
 
 Recreo Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Marco Aurelio, Noisats and TRIZTAN. Browse upcoming dates, start times and who's playing. Carrer de la Mercè, 26, 08002 Barcelona, Spain.
 
@@ -16,4 +16,4 @@ Recreo Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights
 
 Carrer de la Mercè, 26, 08002 Barcelona, Spain, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/recreo-bar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/recreo-bar/)*

@@ -1,6 +1,6 @@
 # Bredella Village
 
-Bredella Village is a music venue in Basel with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "RedRoom Kitchen X HappyBeats Open Air Daydance" on Sat, 18 Jul 2026.
+Bredella Village is a music venue in Basel with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "RedRoom Kitchen X HappyBeats Open Air Daydance" on Sat, 18 Jul 2026.
 
 Bredella Village is a music venue in Basel listed on soundcheck. 1 upcoming night, with line-ups including Boran Ece, Fred Linger, Guy Brûlé and Oliver Aden & Luis Cruz. Browse upcoming dates, start times and who's playing. Wasenstrasse 10, 4133 Pratteln, Switzerland.
 
@@ -14,4 +14,4 @@ Bredella Village is a music venue in Basel listed on soundcheck. 1 upcoming nigh
 
 Wasenstrasse 10, 4133 Pratteln, Switzerland, Basel
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/bredella-village/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/bredella-village/)*

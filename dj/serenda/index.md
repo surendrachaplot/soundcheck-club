@@ -1,6 +1,6 @@
 # Serenda
 
-Serenda is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at M.O.T, London on Sat, 18 Jul 2026.
+Serenda is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at M.O.T, London on Sat, 18 Jul 2026.
 
 Serenda is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Bristol and Ibiza and 5 more. Often billed alongside &ME, Bradley Zero and Rampa. Next up: M.O.T, London on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Serenda is a house and techno artist based in United Kingdom, tracked on soundch
 
 &ME, Bradley Zero, Rampa
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*

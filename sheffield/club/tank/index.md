@@ -1,6 +1,6 @@
 # Tank
 
-Tank is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BASSFEST AFTERPARTY (Basslayerz Takeover / Sunday)" on Sun, 19 Jul 2026.
+Tank is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BASSFEST AFTERPARTY (Basslayerz Takeover / Sunday)" on Sun, 19 Jul 2026.
 
 Tank is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with line-ups including BassLayerz, Chad Harrison, DJ Q and Jamie Duggan and 1 more. Browse upcoming dates, start times and who's playing. 52-55 Arundel Gate, Sheffield.
 
@@ -15,4 +15,4 @@ Tank is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with
 
 52-55 Arundel Gate, Sheffield, Sheffield
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/tank/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/tank/)*

@@ -1,15 +1,13 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+AAT (NL) is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at W Barcelona, Barcelona on Sun, 12 Jul 2026.
 
-AAT (NL) is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+AAT (NL) is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: W Barcelona, Barcelona on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hembrugterrein | Amsterdam |
-| Sat, 11 Jul 2026 | Maarsseveense Plassen | Utrecht |
 | Sun, 12 Jul 2026 | W Barcelona | Barcelona |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 28 Aug 2026 | Colorado Charlie | The Hague |
@@ -20,17 +18,17 @@ AAT (NL) is a house and tech house artist tracked on soundcheck, with 76 sets lo
 
 ## Recently played
 
+- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
+- Maarsseveense Plassen, Utrecht — Sat, 11 Jul 2026
 - Supperclub, Amsterdam — Sat, 4 Jul 2026
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
 - Boomerang Beach, The Hague — Sat, 20 Jun 2026
 - Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
 - BRET, Amsterdam — Fri, 12 Jun 2026
-- Cova Santa, Ibiza — Tue, 9 Jun 2026
-- NDSM Docklands, Amsterdam — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Prunk, Michel de Hey, Benny Rodrigues
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*

@@ -1,6 +1,6 @@
 # Napa Music Hall
 
-Napa Music Hall is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "FEMME FATALE - Salty Residency at Napa Music Hall" on Fri, 17 Jul 2026.
+Napa Music Hall is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "FEMME FATALE - Salty Residency at Napa Music Hall" on Fri, 17 Jul 2026.
 
 Napa Music Hall is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including ELIF. Browse upcoming dates, start times and who's playing. 1030 Main St, Napa, CA 94559, United States.
 
@@ -16,4 +16,4 @@ Napa Music Hall is a music venue in Sanfrancisco listed on soundcheck. 3 upcomin
 
 1030 Main St, Napa, CA 94559, United States, San Francisco/Oakland
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/napa-music-hall/)*

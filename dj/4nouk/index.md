@@ -1,8 +1,8 @@
 # 4NOUK
 
-4NOUK is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 12 Jul 2026.
+4NOUK is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 12 Jul 2026.
 
-4NOUK is a trance and techno artist tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Amo (IT), Hanne B and Bruno Brero. Next up: Lokschuppen Berlin, Berlin on Sun 12 Jul.
+4NOUK is a trance and techno artist tracked on soundcheck, with 51 sets logged across Berlin. Often billed alongside Amo (IT), Hanne B and Deltapeak. Next up: Lokschuppen Berlin, Berlin on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Fri, 17 Jul 2026 | OST | Berlin |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
+| Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@
 
 ## Shares bills with
 
-Amo (IT), Hanne B, Bruno Brero
+Amo (IT), Hanne B, Deltapeak
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/4nouk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/4nouk/)*

@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Makino Ibiza [Drum & Bass, Jungle, 140]" on Fri, 17 Jul 2026.
+Sigma is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Makino Ibiza [Drum & Bass, Jungle, 140]" on Fri, 17 Jul 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with line-ups including Anabel Arroyo, Luigi Rossi, Marcelo Demarco and Santa Cruz. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -18,4 +18,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with li
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

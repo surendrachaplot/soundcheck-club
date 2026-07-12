@@ -1,6 +1,6 @@
 # Jeny Michelle
 
-Jeny Michelle is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Green Room NYC, New York City on Sat, 25 Jul 2026.
+Jeny Michelle is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Green Room NYC, New York City on Sat, 25 Jul 2026.
 
 Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundcheck, with 63 sets logged across London, Mexicocity, Newyorkcity and Sandiego. Often billed alongside Auphoria, shanty mane and Amba. Next up: Green Room NYC, Newyorkcity on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundche
 
 Auphoria, shanty mane, Amba
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*

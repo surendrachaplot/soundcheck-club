@@ -1,6 +1,6 @@
 # Taylor Shockley
 
-Taylor Shockley is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 18 Jul 2026.
+Taylor Shockley is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 18 Jul 2026.
 
 Taylor Shockley is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Boston and Brussels and 8 more. Often billed alongside 98dots, Carl H and Aurora Halal. Next up: TBA - Downtown LA, Losangeles on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Taylor Shockley is a techno and house artist based in United States of America, 
 
 98dots, Carl H, Aurora Halal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*

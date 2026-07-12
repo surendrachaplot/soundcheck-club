@@ -1,14 +1,13 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Coda, Toronto on Sat, 11 Jul 2026.
+Stacey Pullen is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - N. Wells St + W. Superior St, Chicago on Fri, 17 Jul 2026.
 
-Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: Coda, Toronto on Sat 11 Jul.
+Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: TBA - N. Wells St + W. Superior St, Chicago on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Coda | Toronto |
 | Fri, 17 Jul 2026 | TBA - N. Wells St + W. Superior St | Chicago |
 | Sat, 18 Jul 2026 | Spybar | Chicago |
 | Tue, 28 Jul 2026 | Amnesia Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets 
 
 ## Recently played
 
+- Coda, Toronto — Sat, 11 Jul 2026
 - TBA, Los Angeles — Fri, 26 Jun 2026
 - Jolene Downtown Miami, Miami — Fri, 19 Jun 2026
 - Bikini Club, Barcelona — Fri, 29 May 2026
@@ -24,10 +24,9 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets 
 - Lincoln Factory, Detroit — Sat, 23 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - TV Lounge, Detroit — Sat, 23 May 2026
-- TV Lounge, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

@@ -1,6 +1,6 @@
 # Diass
 
-Diass is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 19 Jul 2026.
+Diass is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 19 Jul 2026.
 
 Diass is a techno and house artist based in Bulgaria, tracked on soundcheck, with 3 sets logged across Berlin and Ibiza. Often billed alongside Dj Diass, Bedouin and Ben Evers. Next up: Chinois Ibiza, Ibiza on Sun 19 Jul.
 
@@ -16,4 +16,4 @@ Diass is a techno and house artist based in Bulgaria, tracked on soundcheck, wit
 
 Dj Diass, Bedouin, Ben Evers
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*

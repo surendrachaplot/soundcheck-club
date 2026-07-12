@@ -1,6 +1,6 @@
 # Antilope
 
-Antilope is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Harbour Music Shelter, Lisbon on Sun, 12 Jul 2026.
+Antilope is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Harbour Music Shelter, Lisbon on Sun, 12 Jul 2026.
 
 Antilope is a house and techno artist based in Belgium, tracked on soundcheck, with 37 sets logged across Lisbon and Porto. Often billed alongside Adam Purnell, DJ STRANGELOVE and EVGHENIIA. Next up: Harbour Music Shelter, Lisbon on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Antilope is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 Adam Purnell, DJ STRANGELOVE, EVGHENIIA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antilope/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antilope/)*

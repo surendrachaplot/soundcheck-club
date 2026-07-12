@@ -1,6 +1,6 @@
 # marum
 
-marum is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OHM, Berlin on Sat, 18 Jul 2026.
+marum is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OHM, Berlin on Sat, 18 Jul 2026.
 
 marum is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Hongkong and Leipzig and 7 more. Often billed alongside BLEID, Violet (PT) and Phoebe (1). Next up: OHM, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ marum is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 BLEID, Violet (PT), Phoebe (1)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marum/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marum/)*

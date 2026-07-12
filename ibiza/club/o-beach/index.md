@@ -1,14 +1,13 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SOUL HEAVEN WITH O BEACH RESIDENTS" on Sat, 11 Jul 2026.
+O Beach is a music venue in Ibiza with 26 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BOAT CLUB" on Sun, 12 Jul 2026.
 
-O Beach is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including Aik, A K, Beyond Chicago and Bo Conquest and 2 more. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
+O Beach is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, with line-ups including Aik, A K, Beyond Chicago and Bo Conquest and 2 more. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | SOUL HEAVEN WITH O BEACH RESIDENTS | Jamie Love |
 | Sun, 12 Jul 2026 | BOAT CLUB |  |
 | Mon, 13 Jul 2026 | LOVEJUICE |  |
 | Tue, 14 Jul 2026 | KISSTORY WITH DJ PIONEER |  |
@@ -18,9 +17,10 @@ O Beach is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with
 | Sat, 18 Jul 2026 | SOUL HEAVEN WITH MICHAEL GRAY | Jamie Love, Juliet Thurbz, Michael Gray |
 | Sun, 19 Jul 2026 | KISS POOL PARTY LIVE |  |
 | Mon, 20 Jul 2026 | JOEL CORRY | Jamie Love |
+| Tue, 21 Jul 2026 | KISSTORY WITH O BEACH RESIDENTS |  |
 
 ## Address
 
 Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/o-beach/)*

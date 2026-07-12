@@ -1,6 +1,6 @@
 # Giulia Gutterer
 
-Giulia Gutterer is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OXI, Berlin on Sun, 2 Aug 2026.
+Giulia Gutterer is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OXI, Berlin on Sun, 2 Aug 2026.
 
 Giulia Gutterer is an italo disco and house artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Fabrizio Mammarella, Franz Scala and Radondo. Next up: OXI, Berlin on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Giulia Gutterer is an italo disco and house artist based in Italy, tracked on so
 
 Fabrizio Mammarella, Franz Scala, Radondo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*

@@ -1,6 +1,6 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 24 Jul 2026.
+2HOT2PLAY is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 24 Jul 2026.
 
 2HOT2PLAY is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Mika Heggemann, Cara Elizabeth and IGDA. Next up: Lehmann Club, Stuttgart on Fri 24 Jul.
 
@@ -31,4 +31,4 @@
 
 Mika Heggemann, Cara Elizabeth, IGDA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

@@ -1,6 +1,6 @@
 # Anane
 
-Anane is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
+Anane is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
 
 Anane is a house and afro house artist tracked on soundcheck, with 85 sets logged across Chicago, Denver, Detroit and Ibiza and 11 more. Often billed alongside Louie Vega, Christian Mantini and Jihad Muhammad. Next up: Amnesia Ibiza, Ibiza on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Anane is a house and afro house artist tracked on soundcheck, with 85 sets logge
 
 Louie Vega, Christian Mantini, Jihad Muhammad
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anane/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anane/)*

@@ -1,14 +1,13 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "AETHER HEROES: Jaffa Surfa, Falcao, Raff Track, Krudy C" on Sat, 11 Jul 2026.
+Aether Club Budapest is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "AETHER HARD: Sikztah, ädene, Diana Hassan, Benke" on Fri, 17 Jul 2026.
 
-Aether Club Budapest is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including ädene, Akác, And/Or and Antique (HU) and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
+Aether Club Budapest is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including ädene, Akác, And/Or and Antique (HU) and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | AETHER HEROES: Jaffa Surfa, Falcao, Raff Track, Krudy C | Falcao, Jaffa Surfa, Krudy C, Raff Track |
 | Fri, 17 Jul 2026 | AETHER HARD: Sikztah, ädene, Diana Hassan, Benke | Johanna Bozai, Sikztah, ädene |
 | Sat, 18 Jul 2026 | RAW CCLXIII: NOTA BENE | Solus, kD (HU) |
 | Sat, 18 Jul 2026 | RAW CCLXIII: NOTA BENE | Solus, kD (HU) |
@@ -22,4 +21,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 9 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

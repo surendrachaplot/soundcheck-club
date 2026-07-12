@@ -1,6 +1,6 @@
 # ETHICS
 
-ETHICS is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Planet Wax, London on Thu, 23 Jul 2026.
+ETHICS is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Planet Wax, London on Thu, 23 Jul 2026.
 
 ETHICS is a drum & bass and dubstep artist tracked on soundcheck, with 11 sets logged across Bristol, London and Southampton. Often billed alongside Deselecta, DJ LESSONS and Dogfish. Next up: Planet Wax, London on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ ETHICS is a drum & bass and dubstep artist tracked on soundcheck, with 11 sets l
 
 Deselecta, DJ LESSONS, Dogfish
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*

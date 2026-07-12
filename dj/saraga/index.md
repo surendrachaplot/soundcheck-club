@@ -1,14 +1,15 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 12 Jul 2026.
+Saraga is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 12 Jul 2026.
 
-Saraga is a house and tech house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 11 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Amnesia Ibiza, Ibiza on Sun 12 Jul.
+Saraga is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 11 more. Often billed alongside Guy Gerber, AGELESS and Bedouin. Next up: Amnesia Ibiza, Ibiza on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Amnesia Ibiza | Ibiza |
+| Wed, 15 Jul 2026 | Blue Marlin Ibiza | Ibiza |
 | Fri, 17 Jul 2026 | TBA - Lisboa | Lisbon |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 
@@ -25,6 +26,6 @@ Saraga is a house and tech house artist tracked on soundcheck, with 63 sets logg
 
 ## Shares bills with
 
-Guy Gerber, Bedouin, Ramyen
+Guy Gerber, AGELESS, Bedouin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

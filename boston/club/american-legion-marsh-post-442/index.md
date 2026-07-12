@@ -1,14 +1,13 @@
 # American Legion Marsh Post #442
 
-American Legion Marsh Post #442 is a music venue in Boston with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Dancing on the Charles - July Edition- Outdoor DANCE  Party" on Sat, 11 Jul 2026.
+American Legion Marsh Post #442 is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Dancing on the Charles & LoveStrukk present Matthew Dear - OUTDOOR RIVERSIDE DANCE PARTY" on Sat, 25 Jul 2026.
 
-American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck. 5 upcoming nights, with line-ups including Camila (2), Chelita, CoZy and Juju and 2 more. Browse upcoming dates, start times and who's playing. 198 Greenough Blvd; Cambridge, MA 02138; United States.
+American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including CoZy, Keith Mattar, Matthew Dear and Soul Clap and 1 more. Browse upcoming dates, start times and who's playing. 198 Greenough Blvd; Cambridge, MA 02138; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Dancing on the Charles - July Edition- Outdoor DANCE  Party | Camila (2), Chelita, Juju |
 | Sat, 25 Jul 2026 | Dancing on the Charles & LoveStrukk present Matthew Dear - OUTDOOR RIVERSIDE DANCE PARTY | CoZy, Keith Mattar, Matthew Dear, Trip Report |
 | Sat, 12 Sept 2026 | Dancing on the Charles - Soul Clap Edition | Soul Clap |
 | Sat, 19 Sept 2026 | LoveStrukk Outdoors - Dance Party |  |
@@ -18,4 +17,4 @@ American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck.
 
 198 Greenough Blvd; Cambridge, MA 02138; United States, Boston
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/american-legion-marsh-post-442/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/american-legion-marsh-post-442/)*

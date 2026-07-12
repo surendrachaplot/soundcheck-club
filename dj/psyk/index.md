@@ -1,6 +1,6 @@
 # Psyk
 
-Psyk is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Secret Location , Denver on Fri, 17 Jul 2026.
+Psyk is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location , Denver on Fri, 17 Jul 2026.
 
 Psyk is a techno and dub techno artist based in Spain, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside ORBE, Luigi Tozzi and Laura BCR. Next up: TBA - Secret Location , Denver on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Psyk is a techno and dub techno artist based in Spain, tracked on soundcheck, wi
 
 ORBE, Luigi Tozzi, Laura BCR
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/psyk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/psyk/)*

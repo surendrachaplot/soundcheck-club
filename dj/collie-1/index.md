@@ -1,6 +1,6 @@
 # Collie (1)
 
-Collie (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fidelity Studio, Dublin on Sat, 18 Jul 2026.
+Collie (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Fidelity Studio, Dublin on Sat, 18 Jul 2026.
 
 Collie (1) is a house and techno artist based in Ireland, tracked on soundcheck, with 78 sets logged across Cork, Dublin, Liverpool and London. Often billed alongside Surka (1), Derv and Boots & Kats. Next up: Fidelity Studio, Dublin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Collie (1) is a house and techno artist based in Ireland, tracked on soundcheck,
 
 Surka (1), Derv, Boots & Kats
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/collie-1/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/collie-1/)*

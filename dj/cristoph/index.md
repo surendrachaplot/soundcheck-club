@@ -1,14 +1,13 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Celebrities Night Club, Vancouver on Sat, 11 Jul 2026.
+Cristoph is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Barbary, Philadelphia on Fri, 17 Jul 2026.
 
-Cristoph is a techno and progressive house artist tracked on soundcheck, with 138 sets logged across Auckland, Austin, Bali and Berlin and 33 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Celebrities Night Club, Vancouver on Sat 11 Jul.
+Cristoph is a techno and progressive house artist tracked on soundcheck, with 138 sets logged across Auckland, Austin, Bali and Berlin and 33 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: The Barbary, Philadelphia on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Celebrities Night Club | Vancouver |
 | Fri, 17 Jul 2026 | The Barbary | Philadelphia |
 | Fri, 14 Aug 2026 | Magazine Open–Air | London |
 | Fri, 14 Aug 2026 | fabric | London |
@@ -18,6 +17,7 @@ Cristoph is a techno and progressive house artist tracked on soundcheck, with 13
 
 ## Recently played
 
+- Celebrities Night Club, Vancouver — Sat, 11 Jul 2026
 - Q Nightclub, Seattle — Fri, 10 Jul 2026
 - Magic Stick, Detroit — Sat, 27 Jun 2026
 - Bauhaus, Houston — Fri, 26 Jun 2026
@@ -25,10 +25,9 @@ Cristoph is a techno and progressive house artist tracked on soundcheck, with 13
 - Academy LA, Los Angeles — Sat, 13 Jun 2026
 - Sunnyside Pavilion, Toronto — Sat, 6 Jun 2026
 - Sunset Park Rooftop, New York City — Fri, 15 May 2026
-- Savaya Bali, Bali — Sat, 2 May 2026
 
 ## Shares bills with
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

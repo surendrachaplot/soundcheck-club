@@ -1,6 +1,6 @@
 # Irakli
 
-Irakli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Irakli is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Irakli is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Bangkok and Berlin and 13 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Irakli is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Hang Aoki, fr. JPLA, Barbara Hofmann
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*

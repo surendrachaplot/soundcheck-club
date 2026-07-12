@@ -1,6 +1,6 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 12 Jul 2026.
+Apotheke is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 12 Jul 2026.
 
 Apotheke is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Discotheke DJs, Gay Felony, Goodtunes and Jen Ferrer and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
@@ -16,4 +16,4 @@ Apotheke is a music venue in Losangeles listed on soundcheck. 3 upcoming nights,
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

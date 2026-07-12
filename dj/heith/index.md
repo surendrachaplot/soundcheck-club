@@ -1,6 +1,6 @@
 # Heith
 
-Heith is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - VILLA, Milan on Sun, 12 Jul 2026.
+Heith is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - VILLA, Milan on Sun, 12 Jul 2026.
 
 Heith is an experimental and electronica artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside Amnesia Scanner, Bill Kouligas and Azu Tiwaline. Next up: TBA - VILLA, Milan on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Heith is an experimental and electronica artist based in Italy, tracked on sound
 
 Amnesia Scanner, Bill Kouligas, Azu Tiwaline
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heith/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heith/)*

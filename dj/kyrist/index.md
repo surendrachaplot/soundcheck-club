@@ -1,8 +1,8 @@
 # Kyrist
 
-Kyrist is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
+Kyrist is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Planet Wax, London on Sat, 22 Aug 2026.
 
-Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Auckland, Berlin and Brighton and 10 more. Often billed alongside SP:MC, Visionobi and Skeptical. Next up: Planet Wax, London on Sat 22 Aug.
+Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Auckland, Berlin and Brighton and 10 more. Often billed alongside SP:MC, Visionobi and Emily Makis. Next up: Planet Wax, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Planet Wax | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-SP:MC, Visionobi, Skeptical
+SP:MC, Visionobi, Emily Makis
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*

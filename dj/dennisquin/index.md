@@ -1,14 +1,13 @@
 # Dennis Quin
 
-Dennis Quin is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Dennis Quin is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
 
-Dennis Quin is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Austin and Bali and 28 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Dennis Quin is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Austin and Bali and 28 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hembrugterrein | Amsterdam |
 | Sun, 12 Jul 2026 | Thuishaven | Amsterdam |
 | Wed, 15 Jul 2026 | [UNVRS] | Ibiza |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Dennis Quin is a house and tech house artist tracked on soundcheck, with 143 set
 
 ## Recently played
 
+- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Lab11, Birmingham — Fri, 10 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 5 Jul 2026
 - Jolene Downtown Miami, Miami — Fri, 19 Jun 2026
@@ -26,10 +26,9 @@ Dennis Quin is a house and tech house artist tracked on soundcheck, with 143 set
 - 528 Ibiza, Ibiza — Fri, 12 Jun 2026
 - Cova Santa, Ibiza — Tue, 2 Jun 2026
 - Hazelwood Castle, Leeds — Sat, 30 May 2026
-- block., Dublin — Fri, 29 May 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, M-High
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*

@@ -1,6 +1,6 @@
 # SurfingDJs
 
-SurfingDJs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Mehanata Bar, New York City on Thu, 16 Jul 2026.
+SurfingDJs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mehanata Bar, New York City on Thu, 16 Jul 2026.
 
 SurfingDJs is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Ibiza and Newyorkcity. Often billed alongside ROBOTRAN, FTZGRLD and DJ Sauci Soni. Next up: Mehanata Bar, Newyorkcity on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ SurfingDJs is a house and techno artist based in United States of America, track
 
 ROBOTRAN, FTZGRLD, DJ Sauci Soni
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*

@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
+Stephan Bodzin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Stephan Bodzin is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: 1015 Folsom, Sanfrancisco on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 104 sets
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

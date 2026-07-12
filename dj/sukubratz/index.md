@@ -1,6 +1,6 @@
 # Sukubratz
 
-Sukubratz is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Gravière, Geneva on Fri, 17 Jul 2026.
+Sukubratz is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Gravière, Geneva on Fri, 17 Jul 2026.
 
 Sukubratz is a techno and club artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Slimfit, Miss Jay (RO) and DIORA. Next up: La Gravière, Geneva on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Sukubratz is a techno and club artist tracked on soundcheck, with 65 sets logged
 
 Slimfit, Miss Jay (RO), DIORA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*

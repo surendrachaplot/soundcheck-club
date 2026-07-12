@@ -1,6 +1,6 @@
 # Scrambled Network presents: DJ Steaw at renae
 
-Scrambled Network presents: DJ Steaw at renae on Fri 17 Jul, Manchester. 1 act on the bill: DJ Steaw. House. Preview the line-up and save it on soundcheck.
+Scrambled Network presents: DJ Steaw at renae on Fri 17 Jul, Manchester. 2 acts on the bill: DJ Steaw and Rivera (UK). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Scrambled Network presents: DJ Steaw at renae on Fri 17 Jul, Manchester. 1 act o
 ## Line-up
 
 - DJ Steaw
+- Rivera (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2473782-scrambled-network-presents-dj-steaw-at-renae/)*

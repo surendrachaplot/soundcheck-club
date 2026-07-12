@@ -1,6 +1,6 @@
 # Said Dami
 
-Said Dami is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 25 Jul 2026.
+Said Dami is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 25 Jul 2026.
 
 Said Dami is a house and deep house artist based in Australia, tracked on soundcheck, with 34 sets logged across Melbourne and Sydney. Often billed alongside Oscar de Lima, Callyy and CA LOU. Next up: Carousel Bar & Ballroom, Sydney on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Said Dami is a house and deep house artist based in Australia, tracked on soundc
 
 Oscar de Lima, Callyy, CA LOU
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saiddami/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saiddami/)*

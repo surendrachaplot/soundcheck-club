@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Namy& Friends 2026" on Sun, 12 Jul 2026.
+Daikanyama ORD. is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Namy& Friends 2026" on Sun, 12 Jul 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including Abyss, CHEZ MOI, DAIY and Jellyf!sh and 2 more. Browse upcoming dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -16,4 +16,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 3 upcoming night
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

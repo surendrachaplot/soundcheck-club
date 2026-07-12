@@ -1,14 +1,13 @@
 # SYREETA
 
-SYREETA is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+SYREETA is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 22 Jul 2026.
 
-SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Silverworks Island, London on Sat 11 Jul.
+SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Hï Ibiza, Ibiza on Wed 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Silverworks Island | London |
 | Wed, 22 Jul 2026 | Hï Ibiza | Ibiza |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
 | Fri, 31 Jul 2026 | Paradiso | Amsterdam |
@@ -20,6 +19,7 @@ SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets lo
 
 ## Recently played
 
+- Silverworks Island, London — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sat, 4 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 4 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 30 May 2026
@@ -27,10 +27,9 @@ SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets lo
 - SILO, New York City — Sat, 23 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
 - Neo Química Arena, Sao Paulo — Fri, 1 May 2026
-- DRUMSHEDS, London — Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Andrea Oliva, Loco Dice, Eats Everything
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*

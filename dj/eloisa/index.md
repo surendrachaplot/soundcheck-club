@@ -1,6 +1,6 @@
 # ELOISA
 
-ELOISA is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
+ELOISA is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at ÆDEN, Berlin on Sat, 1 Aug 2026.
 
 ELOISA is a techno and trance artist tracked on soundcheck, with 74 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Carotin, Melanchromie and Alexa Fluor. Next up: ÆDEN, Berlin on Sat 1 Aug.
 
@@ -32,4 +32,4 @@ ELOISA is a techno and trance artist tracked on soundcheck, with 74 sets logged 
 
 Carotin, Melanchromie, Alexa Fluor
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*

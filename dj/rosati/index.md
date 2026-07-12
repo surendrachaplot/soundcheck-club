@@ -1,6 +1,6 @@
 # Rosati
 
-Rosati is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
+Rosati is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Parc des Etangs/Vijverspark, Brussels on Fri, 14 Aug 2026.
 
 Rosati is a techno and dub techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and I-RO. Next up: Parc des Etangs/Vijverspark, Brussels on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Rosati is a techno and dub techno artist tracked on soundcheck, with 76 sets log
 
 Steffi, Comrade Winston, I-RO
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

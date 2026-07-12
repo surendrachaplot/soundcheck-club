@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary Screening" on Thu, 6 Aug 2026.
+Kantine am Berghain is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "S/HE IS STILL HER/E: Official Genesis P-Orridge Documentary Screening" on Thu, 6 Aug 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Blockhead, Chloe Lula, Christoph de Babalon and Mark (DE) and 1 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 6 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

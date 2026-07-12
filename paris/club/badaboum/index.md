@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Club — Floorfillers (extended set), Deatra" on Sat, 11 Jul 2026.
+Badaboum is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Club — Sauti: Que DJ, Clumsy B, Tattie Maggie, Heezy, Tribal Evans" on Mon, 13 Jul 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including Aidan Lee, Aliceyuki, Anastazja and Brenda. and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Aidan Lee, Aliceyuki, Anastazja and Brenda. and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Club — Floorfillers (extended set), Deatra | Deatra, Floorfillers (1) |
 | Mon, 13 Jul 2026 | Club — Sauti: Que DJ, Clumsy B, Tattie Maggie, Heezy, Tribal Evans | Clumsy B, Que DJ |
 | Thu, 16 Jul 2026 | Club — LA CH!CK: Disney Channel Night |  |
 | Fri, 17 Jul 2026 | Club — Halfpipe Records: Unsho b2b Me & George all night long | Halfpipe Records, Me & George, Unsho |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 19 upcoming nights, wit
 | Sat, 25 Jul 2026 | Club — rythme brisé, Alice Yuki, holandês, Hyperlison, Yoko Ûno | Aliceyuki, Rythme Brisé, holandês |
 | Fri, 31 Jul 2026 | Club — Anastazja, Kx9000, Plage84, Sahar Bagherpour | Anastazja, Kx9000, Plage 84 |
 | Sat, 1 Aug 2026 | Club — De La Groove x System Sol | System Sol |
+| Fri, 7 Aug 2026 | Club — D.KO Records: Swooh, Hanzo Tono, Surprise Guest | Hanzo Tono, Swooh |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

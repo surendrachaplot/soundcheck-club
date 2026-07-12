@@ -1,6 +1,6 @@
 # Festa Bros
 
-Festa Bros is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 17 Jul 2026.
+Festa Bros is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 17 Jul 2026.
 
 Festa Bros is a tech house and house artist tracked on soundcheck, with 47 sets logged across Buenosaires and Saopaulo. Often billed alongside Tobias DL, Elio Riso and Loulou Players. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Festa Bros is a tech house and house artist tracked on soundcheck, with 47 sets 
 
 Tobias DL, Elio Riso, Loulou Players
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/festabros/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/festabros/)*

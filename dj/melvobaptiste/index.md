@@ -1,8 +1,8 @@
 # Melvo Baptiste
 
-Melvo Baptiste is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Tileyard, London on Sat, 18 Jul 2026.
+Melvo Baptiste is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Tileyard, London on Sat, 18 Jul 2026.
 
-Melvo Baptiste is a house and disco artist tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: The Tileyard, London on Sat 18 Jul.
+Melvo Baptiste is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Natasha Diggs, The Shapeshifters and Horse Meat Disco. Next up: The Tileyard, London on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Melvo Baptiste is a house and disco artist tracked on soundcheck, with 117 sets 
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Fri, 25 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Fri, 9 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Melvo Baptiste is a house and disco artist tracked on soundcheck, with 117 sets 
 
 Natasha Diggs, The Shapeshifters, Horse Meat Disco
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melvobaptiste/)*

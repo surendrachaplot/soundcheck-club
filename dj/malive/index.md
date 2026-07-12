@@ -1,14 +1,13 @@
 # Malive
 
-Malive is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Cause, London on Sat, 11 Jul 2026.
+Malive is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Pier of Scheveningen, The Hague on Sat, 18 Jul 2026.
 
-Malive is a house and deep house artist tracked on soundcheck, with 27 sets logged across Athens, Barcelona, Ibiza and Istanbul and 10 more. Often billed alongside Jonas Blue, Korolova and Maz (BR). Next up: The Cause, London on Sat 11 Jul.
+Malive is a house and deep house artist tracked on soundcheck, with 27 sets logged across Athens, Barcelona, Ibiza and Istanbul and 10 more. Often billed alongside Jonas Blue, Korolova and Maz (BR). Next up: The Pier of Scheveningen, Thehague on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | The Cause | London |
 | Sat, 18 Jul 2026 | The Pier of Scheveningen | The Hague |
 | Sat, 25 Jul 2026 | Central Park SummerStage | New York City |
 | Fri, 14 Aug 2026 | Cova Santa | Ibiza |
@@ -16,6 +15,7 @@ Malive is a house and deep house artist tracked on soundcheck, with 27 sets logg
 
 ## Recently played
 
+- The Cause, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 4 Jul 2026
 - Moon Warsaw, Warsaw — Sat, 20 Jun 2026
 - Klein Phönix, Istanbul — Fri, 19 Jun 2026
@@ -23,10 +23,9 @@ Malive is a house and deep house artist tracked on soundcheck, with 27 sets logg
 - Hï Ibiza, Ibiza — Thu, 21 May 2026
 - BORIS CLUB, Barcelona — Fri, 8 May 2026
 - Vera Cocina & بار, Washington DC — Fri, 24 Apr 2026
-- Floyd, Miami — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Jonas Blue, Korolova, Maz (BR)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

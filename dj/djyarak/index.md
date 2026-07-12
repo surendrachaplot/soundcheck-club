@@ -1,19 +1,19 @@
 # DJ YARAK
 
-DJ YARAK is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OST, Berlin on Sat, 11 Jul 2026.
+DJ YARAK is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
-DJ YARAK is a techno and trance artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 14 more. Often billed alongside EliaHaze, EARGASM GOD and Penglord. Next up: OST, Berlin on Sat 11 Jul.
+DJ YARAK is a techno and trance artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 14 more. Often billed alongside EliaHaze, EARGASM GOD and Penglord. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | OST | Berlin |
 | Sat, 8 Aug 2026 | Munich Beach Resort | Munich |
 | Sat, 12 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- OST, Berlin — Sat, 11 Jul 2026
 - Fridas Pier, Stuttgart — Fri, 3 Jul 2026
 - Lokschuppen Berlin, Berlin — Sat, 27 Jun 2026
 - Lokschuppen Berlin, Berlin — Sun, 24 May 2026
@@ -21,10 +21,9 @@ DJ YARAK is a techno and trance artist tracked on soundcheck, with 84 sets logge
 - Ritter Butzke, Berlin — Fri, 3 Apr 2026
 - Café Schöne Aussichten (CSA), Hamburg — Sat, 28 Mar 2026
 - OST, Berlin — Sat, 14 Mar 2026
-- Lokschuppen Berlin, Berlin — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 EliaHaze, EARGASM GOD, Penglord
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*

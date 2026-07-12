@@ -1,6 +1,6 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Location With Ticket, Denver on Sun, 2 Aug 2026.
+Swami Sound is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Location With Ticket, Denver on Sun, 2 Aug 2026.
 
 Swami Sound is a garage and house artist tracked on soundcheck, with 96 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and Baltra. Next up: TBA - Location With Ticket, Denver on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Swami Sound is a garage and house artist tracked on soundcheck, with 96 sets log
 
 gum.mp3, Dazegxd, Baltra
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

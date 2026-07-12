@@ -1,8 +1,8 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Hedex is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
-Hedex is a drum & bass and bass artist tracked on soundcheck, with 70 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Turno and Eksman. Next up: Boston Manor Park, London on Fri 24 Jul.
+Hedex is a drum & bass and bass artist tracked on soundcheck, with 71 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Eksman and Turno. Next up: Boston Manor Park, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hedex is a drum & bass and bass artist tracked on soundcheck, with 70 sets logge
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Boston Manor Park | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Hedex is a drum & bass and bass artist tracked on soundcheck, with 70 sets logge
 
 ## Shares bills with
 
-BassLayerz, Turno, Eksman
+BassLayerz, Eksman, Turno
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

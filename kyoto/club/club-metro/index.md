@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 24 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "RASTAFARiddim presents 'PUSH TO LAMP'" on Sat, 11 Jul 2026.
+Club Metro is a music venue in Kyoto with 23 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "3MAN SHOW x 3 MONTHS 'gold'" on Sun, 12 Jul 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 24 upcoming nights, with line-ups including Doltz, HINOTO, imus and Ken'ichi Itoi and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 23 upcoming nights, with line-ups including Doltz, HINOTO, imus and Ken'ichi Itoi and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | RASTAFARiddim presents 'PUSH TO LAMP' |  |
 | Sun, 12 Jul 2026 | 3MAN SHOW x 3 MONTHS 'gold' |  |
 | Thu, 16 Jul 2026 | lovers teiji furuhashi 2026 – a homage to Nino Rota – |  |
 | Fri, 17 Jul 2026 | LAST FRIDAY | Krikor |
@@ -18,9 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 24 upcoming nights, w
 | Thu, 23 Jul 2026 | SOUND BAR METRO |  |
 | Sat, 25 Jul 2026 | Semaphore | Ken'ichi Itoi, Kensuke Fukushima, SOICHI |
 | Sun, 26 Jul 2026 | 'World Wide Waddle Sugarcoated' |  |
+| Wed, 29 Jul 2026 | EMERGE & RISE International Music Exchange Project -KYOTO- |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

@@ -1,13 +1,14 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SW ♡ IBIZA 15 JULY" on Wed, 15 Jul 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Lehar & FRIENDS (UNDERWATER & BUMM)" on Tue, 14 Jul 2026.
 
-Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Dunmore Brothers, EVGHENIIA, Leon and Pachanga Boys and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
+Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming nights, with line-ups including Antares, Dunmore Brothers, EVGHENIIA and Lehar and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Tue, 14 Jul 2026 | Lehar & FRIENDS (UNDERWATER & BUMM) | Antares, Lehar, Masy (IT), Mike Gannu |
 | Wed, 15 Jul 2026 | SW ♡ IBIZA 15 JULY | Dunmore Brothers, Leon, Sonja Moonear, Suciu, Zya (1) |
 | Wed, 22 Jul 2026 | SW ♡ IBIZA 22 JULY |  |
 | Wed, 29 Jul 2026 | SW ♡ IBIZA 29 JULY |  |
@@ -17,10 +18,9 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming n
 | Wed, 19 Aug 2026 | SW ♡ IBIZA AUGUST 19 |  |
 | Wed, 16 Sept 2026 | SW ♡ IBIZA SEPTEMBER 16 |  |
 | Wed, 30 Sept 2026 | SW ♡ IBIZA SEPTEMBER 30 |  |
-| Wed, 7 Oct 2026 | SW ♡ IBIZA CLOSING OCTOBER 7 |  |
 
 ## Address
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

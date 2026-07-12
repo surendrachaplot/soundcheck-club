@@ -1,14 +1,13 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Woodstock'69, Amsterdam on Sat, 11 Jul 2026.
+Hernan Cattaneo is a Progressive House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Woodstock'69, Amsterdam on Sun, 12 Jul 2026.
 
-Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Woodstock'69, Amsterdam on Sat 11 Jul.
+Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Woodstock'69, Amsterdam on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Woodstock'69 | Amsterdam |
 | Sun, 12 Jul 2026 | Woodstock'69 | Amsterdam |
 | Thu, 16 Jul 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 18 Jul 2026 | Poolen | Copenhagen |
@@ -19,6 +18,7 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 
 ## Recently played
 
+- Woodstock'69, Amsterdam — Sat, 11 Jul 2026
 - Cova Santa, Ibiza — Thu, 9 Jul 2026
 - Bora Bora, Ibiza — Sun, 28 Jun 2026
 - Club Space Miami, Miami — Sat, 20 Jun 2026
@@ -26,10 +26,9 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 - Castaways, Chicago — Sun, 14 Jun 2026
 - Evergreen Brick Works, Toronto — Sat, 13 Jun 2026
 - TBA, Los Angeles — Fri, 12 Jun 2026
-- Madrid Caja Mágica, Madrid — Sat, 30 May 2026
 
 ## Shares bills with
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

@@ -1,6 +1,6 @@
 # Handlebar
 
-Handlebar is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SARIN (Live)/Ninechecker (Live)/Eteon (Live) & Grind Abrasion (DJ)" on Fri, 17 Jul 2026.
+Handlebar is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SARIN (Live)/Ninechecker (Live)/Eteon (Live) & Grind Abrasion (DJ)" on Fri, 17 Jul 2026.
 
 Handlebar is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Gruve Collective, ROU-H, Sandwavv and SARIN. Browse upcoming dates, start times and who's playing. 159 Augusta, Ave, Toronto, Canada, M5T 2L4.
 
@@ -16,4 +16,4 @@ Handlebar is a music venue in Toronto listed on soundcheck. 3 upcoming nights, w
 
 159 Augusta, Ave, Toronto, Canada, M5T 2L4, Toronto
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/handlebar/)*

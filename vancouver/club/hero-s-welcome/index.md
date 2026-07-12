@@ -1,6 +1,6 @@
 # Hero's Welcome
 
-Hero's Welcome is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Infidels Jazz Presents: Neil Gray Quartet" on Sun, 12 Jul 2026.
+Hero's Welcome is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Infidels Jazz Presents: Neil Gray Quartet" on Sun, 12 Jul 2026.
 
 Hero's Welcome is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3917 Main St, Vancouver, BC V5V 3P3.
 
@@ -14,4 +14,4 @@ Hero's Welcome is a music venue in Vancouver listed on soundcheck. 1 upcoming ni
 
 3917 Main St, Vancouver, BC V5V 3P3, Vancouver
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hero-s-welcome/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hero-s-welcome/)*

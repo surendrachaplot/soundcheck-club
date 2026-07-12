@@ -1,6 +1,6 @@
 # Buddy's Bar
 
-Buddy's Bar is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Buddys: King Street Crawl" on Sun, 12 Jul 2026.
+Buddy's Bar is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Buddys: King Street Crawl" on Sun, 12 Jul 2026.
 
 Buddy's Bar is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 391 King St, Newtown NSW 2042, Australia.
 
@@ -14,4 +14,4 @@ Buddy's Bar is a music venue in Sydney listed on soundcheck. 1 upcoming night. B
 
 391 King St, Newtown NSW 2042, Australia, Sydney
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/buddy-s-bar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/buddy-s-bar/)*

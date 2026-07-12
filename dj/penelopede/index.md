@@ -1,6 +1,6 @@
 # PENELOPE (DE)
 
-PENELOPE (DE) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
+PENELOPE (DE) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
 
 PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 35 sets logged across Amsterdam, Frankfurt, Hamburg and Toronto and 1 more. Often billed alongside Kacy, The Belgian Stallion and CiKi. Next up: MTW, Frankfurt on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 35 sets 
 
 Kacy, The Belgian Stallion, CiKi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penelopede/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penelopede/)*

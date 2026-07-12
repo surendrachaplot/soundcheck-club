@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Paradiso: Marshall Jefferson, Galcher Lustwerk, Cosmo + DAY/DEM, Sweater On Polo" on Sat, 11 Jul 2026.
+Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Club Stars: u.r.trax, WTCHCRFT, Ultrathem + OOMFCON" on Fri, 17 Jul 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 550am, MORENXXX, Adred and AG (NYC) and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including 550am, MORENXXX, Adred and AG (NYC) and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Paradiso: Marshall Jefferson, Galcher Lustwerk, Cosmo + DAY/DEM, Sweater On Polo | Cosmo (NY), DAY/DEM, Galcher Lustwerk, Marshall Jefferson, Sweater On Polo |
 | Fri, 17 Jul 2026 | Club Stars: u.r.trax, WTCHCRFT, Ultrathem + OOMFCON | Gagbert, Malcolm XL, Robyn DaBank, Ultrathem, WTCHCRFT, u.r.trax |
 | Sat, 18 Jul 2026 | Dantiez Saunderson, Tone Troy, AG, DJ Raquel + MORE | AG (NYC), DJ RaQuel, Dantiez, LeCamille, Max Parkinson, SLEEPYLYCHEE, Tone Troy, Vanos, oomfhaver |
 | Thu, 23 Jul 2026 | Toss Your Body | DJ Shannon, Giovannii, MikeQ, Will Jack |
@@ -18,9 +17,10 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights
 | Sat, 1 Aug 2026 | Paradiso: The Carry Nation, Mike Servito, Female + SCRAAATCH, SEXINCHURCH | Mike Servito, SCRAAATCH, SEXINCHURCH, The Carry Nation, Zeigler, maenad |
 | Fri, 7 Aug 2026 | Club Stars: TOCCORORO, BEARCAT, Guillotine + No_4mat, Christian Tokyo | BEARCAT, Christian Tokyo, Guillotine, No_4mat, TOCCORORO |
 | Sat, 8 Aug 2026 | Paradiso: LOVEFOXY, Kilopatrah Jones, 550am + HARD  | 550am, BLAIZE, DJ SWISHA, Kilopatrah Jones, LOVEFOXY |
+| Fri, 14 Aug 2026 | C+C Music Factory (Live), DJ Miss Parker, Latino Drive, S4M23 + MORENXXX, Coyado | Coyado, DREAMINSLOW, MORENXXX, Miss Parker, Muerte Lenta, S4M23 |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

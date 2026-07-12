@@ -1,6 +1,6 @@
 # Faded Society
 
-Faded Society is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Faded Society is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Faded Society is a house and electro artist tracked on soundcheck, with 61 sets logged across Liverpool and London. Often billed alongside Venxm, Adela and Kitsch. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Faded Society is a house and electro artist tracked on soundcheck, with 61 sets 
 
 Venxm, Adela, Kitsch
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fadedsociety/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fadedsociety/)*

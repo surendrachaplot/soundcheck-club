@@ -1,14 +1,13 @@
 # BLITZ
 
-BLITZ is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BLITZ with The Martinez Brothers, Muallem, Power Squad" on Sat, 11 Jul 2026.
+BLITZ is a music venue in Munich with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BLITZ with CJ Bolland b2b The Advent, Philppa Pacho, Polygonia [Start 23:59]" on Fri, 17 Jul 2026.
 
-BLITZ is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including CJ Bolland, Daphni, Lyder and mad miran and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
+BLITZ is a music venue in Munich listed on soundcheck. 8 upcoming nights, with line-ups including CJ Bolland, Daphni, Lyder and mad miran and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | BLITZ with The Martinez Brothers, Muallem, Power Squad | Muallem, Power Squad, The Martinez Brothers |
 | Fri, 17 Jul 2026 | BLITZ with CJ Bolland b2b The Advent, Philppa Pacho, Polygonia [Start 23:59] | CJ Bolland, Philippa Pacho, Polygonia, The Advent |
 | Fri, 17 Jul 2026 | JAZZFEST [19:30 - 23:30] with DIGILOGUE, Sabina Sciubba, Solaire |  |
 | Sat, 18 Jul 2026 | BLITZ with Daphni, Gernot von Modeselektor, mad miran, Shed LIVE | Daphni, Modeselektor, Shed, mad miran |
@@ -22,4 +21,4 @@ BLITZ is a music venue in Munich listed on soundcheck. 9 upcoming nights, with l
 
 Museumsinsel 1, 80538 München, Germany, Munich
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*

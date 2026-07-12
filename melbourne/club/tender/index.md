@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Somatic Vocal Practice w/ Aarti Jadu" on Wed, 15 Jul 2026.
+Tender is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Somatic Vocal Practice w/ Aarti Jadu" on Wed, 15 Jul 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Aarti Jadu. Browse upcoming dates, start times and who's playing. 535 Sydney Road.
 
@@ -14,4 +14,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming night, wit
 
 535 Sydney Road, Melbourne
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

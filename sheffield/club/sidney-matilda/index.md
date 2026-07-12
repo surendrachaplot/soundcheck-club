@@ -1,14 +1,13 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Flock's 5th Birthday: Courtyard Day Party" on Sat, 11 Jul 2026.
+Sidney & Matilda is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BILL REAVER's 1st Birthday: Wodda & Lazar" on Sat, 18 Jul 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 8 upcoming nights, with line-ups including Craig Cassiera, Damu, Dave Lazenby and DJ Paypal and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Craig Cassiera, Damu, Dave Lazenby and DJ Paypal and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Flock's 5th Birthday: Courtyard Day Party | Steely, The Doobskins |
 | Sat, 18 Jul 2026 | BILL REAVER's 1st Birthday: Wodda & Lazar | Wodda |
 | Sat, 25 Jul 2026 | *FREE ENTRY* Unity Underground X Loop Progression - E.P. Launch Party | King Chuga |
 | Thu, 30 Jul 2026 | Algorave Sheffield | Damu, Eye Measure, Switch Angel, Tim Exile, Yaxu |
@@ -21,4 +20,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 8 upcoming 
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

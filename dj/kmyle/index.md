@@ -1,6 +1,6 @@
 # Kmyle
 
-Kmyle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Glazart, Paris on Sun, 12 Jul 2026.
+Kmyle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Glazart, Paris on Sun, 12 Jul 2026.
 
 Kmyle is a techno and house artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Geneva and Lyon and 3 more. Often billed alongside Double Trouble (1), A.mo and Electric Rescue. Next up: Glazart, Paris on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Kmyle is a techno and house artist based in France, tracked on soundcheck, with 
 
 Double Trouble (1), A.mo, Electric Rescue
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kmyle/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kmyle/)*

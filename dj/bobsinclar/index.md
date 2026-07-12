@@ -1,6 +1,6 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Bob Sinclar is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Bob Sinclar is a house and electro artist based in France, tracked on soundcheck, with 39 sets logged across Barcelona, Chicago, Geneva and Ibiza and 11 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -28,4 +28,4 @@ Bob Sinclar is a house and electro artist based in France, tracked on soundcheck
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

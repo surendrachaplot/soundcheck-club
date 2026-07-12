@@ -1,6 +1,6 @@
 # Anetha
 
-Anetha is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 18 Jul 2026.
+Anetha is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 18 Jul 2026.
 
 Anetha is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: Sparta Schwimmclub, Frankfurt on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Anetha is a techno and house artist tracked on soundcheck, with 196 sets logged 
 
 Mac Declos, VEL (MA), DJ Gigola
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

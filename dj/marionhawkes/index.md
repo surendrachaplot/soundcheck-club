@@ -1,6 +1,6 @@
 # Marion Hawkes
 
-Marion Hawkes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
+Marion Hawkes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
 
 Marion Hawkes is a house and techno artist tracked on soundcheck, with 43 sets logged across Belfast, Bristol, Cork and Dublin and 4 more. Often billed alongside Conor Schmtz, Inside Moves and Jordan Nocturne. Next up: C.S. Lewis Square, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Marion Hawkes is a house and techno artist tracked on soundcheck, with 43 sets l
 
 Conor Schmtz, Inside Moves, Jordan Nocturne
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marionhawkes/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marionhawkes/)*

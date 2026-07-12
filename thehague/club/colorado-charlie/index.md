@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 21 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Colorado Charlie with Folamour (3hrs), Young Pulse, Ajuma (SOLD OUT)" on Sat, 11 Jul 2026.
+Colorado Charlie is a music venue in The Hague with 20 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Colorado Charlie with Diffrent (3hrs), Bella Claxton, Boris Coelman (SOLD OUT)" on Sun, 12 Jul 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 21 upcoming nights, with line-ups including 22 Interns, AAT (NL), Ajuma and Baron Von Trax and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 20 upcoming nights, with line-ups including 22 Interns, AAT (NL), Baron Von Trax and Bart Skils and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Colorado Charlie with Folamour (3hrs), Young Pulse, Ajuma (SOLD OUT) | Ajuma, Folamour, Young Pulse |
 | Sun, 12 Jul 2026 | Colorado Charlie with Diffrent (3hrs), Bella Claxton, Boris Coelman (SOLD OUT) | Bella Claxton, Boris Coelman, Diffrent |
 | Sat, 18 Jul 2026 | Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT | Baron Von Trax, Freddi, OLIVIA LENSEN |
 | Sun, 19 Jul 2026 | Colorado Charlie with Jamback (extended set), Laura De Greef (SOLD OUT) | Jamback, Laura De Greef |
@@ -18,9 +17,10 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 21 upcoming 
 | Sat, 1 Aug 2026 | Colorado Charlie with Bart Skils (5hrs), Luis Ripa | Bart Skils, Luis Ripa |
 | Fri, 7 Aug 2026 | Prunk ALL DAY | Prunk |
 | Sat, 8 Aug 2026 | Colorado Charlie with Marsolo (All Day Long) (SOLD OUT) | Marsolo |
+| Sun, 9 Aug 2026 | Colorado Charlie with East End Dubs (All Day Long) (SOLD OUT) | East End Dubs |
 
 ## Address
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

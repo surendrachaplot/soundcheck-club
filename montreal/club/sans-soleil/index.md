@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Open_Secret___" on Mon, 3 Aug 2026.
+Sans Soleil is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Open_Secret___" on Mon, 3 Aug 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including bell.pierre. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -14,4 +14,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 1 upcoming night,
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

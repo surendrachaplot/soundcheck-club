@@ -1,6 +1,6 @@
 # The Social Hub Berlin
 
-The Social Hub Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "COFFEE RAVE 8 – Dance, Espresso & Daylight Energy" on Sat, 18 Jul 2026.
+The Social Hub Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "COFFEE RAVE 8 – Dance, Espresso & Daylight Energy" on Sat, 18 Jul 2026.
 
 The Social Hub Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Alexanderstraße 40, 10179 Berlin.
 
@@ -15,4 +15,4 @@ The Social Hub Berlin is a music venue in Berlin listed on soundcheck. 2 upcomin
 
 Alexanderstraße 40, 10179 Berlin, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-social-hub-berlin/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-social-hub-berlin/)*

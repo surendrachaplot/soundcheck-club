@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
+deBasement is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
 
 deBasement is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: Else, Berlin on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 32 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

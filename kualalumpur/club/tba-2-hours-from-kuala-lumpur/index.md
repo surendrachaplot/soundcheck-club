@@ -1,6 +1,6 @@
 # TBA - 2 hours from Kuala Lumpur
 
-TBA - 2 hours from Kuala Lumpur is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "FRACTAL offsite Festival 2026" on Fri, 11 Sept 2026.
+TBA - 2 hours from Kuala Lumpur is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "FRACTAL offsite Festival 2026" on Fri, 11 Sept 2026.
 
 TBA - 2 hours from Kuala Lumpur is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 2 hours from Kuala Lumpur is a music venue in Kualalumpur listed on soundc
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | FRACTAL offsite Festival 2026 |  |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-2-hours-from-kuala-lumpur/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/tba-2-hours-from-kuala-lumpur/)*

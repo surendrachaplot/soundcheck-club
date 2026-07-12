@@ -1,14 +1,13 @@
 # CEM
 
-CEM is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BASEMENT, New York City on Sat, 11 Jul 2026.
+CEM is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-CEM is a techno and house artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Berlin and 48 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: BASEMENT, Newyorkcity on Sat 11 Jul.
+CEM is a techno and house artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Barcelona and Berlin and 48 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | BASEMENT | New York City |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
 | Fri, 7 Aug 2026 | La Station - Gare des Mines | Paris |
@@ -17,6 +16,7 @@ CEM is a techno and house artist based in Germany, tracked on soundcheck, with 1
 
 ## Recently played
 
+- BASEMENT, New York City — Sat, 11 Jul 2026
 - EXIL, Zurich — Sat, 20 Jun 2026
 - TBA, New York City — Fri, 12 Jun 2026
 - YuYu Cine Club, Mexico City — Sat, 6 Jun 2026
@@ -24,10 +24,9 @@ CEM is a techno and house artist based in Germany, tracked on soundcheck, with 1
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
 - Knockdown Center, New York City — Thu, 14 May 2026
-- TILLATEC, Amsterdam — Sat, 2 May 2026
 
 ## Shares bills with
 
 MCMLXXXV, JASSS, Dj Saliva
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

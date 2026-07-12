@@ -1,8 +1,8 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
-Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
+Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 107 se
 | Fri, 31 Jul 2026 | 45 East | Portland |
 | Sat, 1 Aug 2026 | Q Nightclub | Seattle |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 107 se
 
 K Motionz, Tempza, Andy C
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

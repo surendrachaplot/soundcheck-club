@@ -1,6 +1,6 @@
 # Love Higher
 
-Love Higher is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Honey's, New York City on Thu, 16 Jul 2026.
+Love Higher is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Honey's, New York City on Thu, 16 Jul 2026.
 
 Love Higher is a club and house artist based in United States of America, tracked on soundcheck, with 106 sets logged across Chicago, Detroit, Newyorkcity and Vancouver. Often billed alongside wahala.wav, sola system and Nishévitha. Next up: Honey's, Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Love Higher is a club and house artist based in United States of America, tracke
 
 wahala.wav, sola system, Nishévitha
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovehigher/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovehigher/)*

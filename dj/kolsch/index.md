@@ -1,14 +1,13 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amager Strandpark, Copenhagen on Sat, 11 Jul 2026.
+Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Kolsch is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Amager Strandpark, Copenhagen on Sat 11 Jul.
+Kolsch is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Amager Strandpark | Copenhagen |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 28 Aug 2026 | Budai Vár - Oroszlános Udvar | Budapest |
 | Sat, 29 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Kolsch is a techno and house artist tracked on soundcheck, with 139 sets logged 
 
 ## Recently played
 
+- Amager Strandpark, Copenhagen — Sat, 11 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - Seaseaclub Barcelona, Barcelona — Sun, 21 Jun 2026
 - [UNVRS], Ibiza — Sat, 20 Jun 2026
@@ -25,10 +25,9 @@ Kolsch is a techno and house artist tracked on soundcheck, with 139 sets logged 
 - Audio Club, Geneva — Fri, 5 Jun 2026
 - Colorado Charlie, The Hague — Sat, 30 May 2026
 - Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
-- Galopprennbahn, Munich — Sat, 9 May 2026
 
 ## Shares bills with
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

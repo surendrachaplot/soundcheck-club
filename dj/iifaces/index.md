@@ -1,6 +1,6 @@
 # II FACES
 
-II FACES is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
+II FACES is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
 
 II FACES is a house and tech house artist based in France, tracked on soundcheck, with 40 sets logged across Amsterdam, Bali, Barcelona and Ibiza and 7 more. Often billed alongside Chris Stussy, Matteo Diop and Mason Collective. Next up: La Clairière, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ II FACES is a house and tech house artist based in France, tracked on soundcheck
 
 Chris Stussy, Matteo Diop, Mason Collective
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iifaces/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iifaces/)*

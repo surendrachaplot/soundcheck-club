@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "PERIODICO DE AYER · Especial Cali Flow Latino" on Sun, 12 Jul 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "PERIODICO DE AYER · Especial Cali Flow Latino" on Sun, 12 Jul 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including Mariiin, Abdon, Agatha Pher and AIIVIIK and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

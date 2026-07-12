@@ -1,14 +1,13 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BLACK NOIR presents: Jon Connor" on Sat, 11 Jul 2026.
+The Flinders is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BLACK NOIR presents: DJ COMP FINALS 2026" on Fri, 17 Jul 2026.
 
-The Flinders is a music venue in Sydney listed on soundcheck. 11 upcoming nights, with line-ups including 2LUX, ARTISAH, Bleach and BLNK and 2 more. Browse upcoming dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
+The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including ARTISAH, Bleach, BLNK and Davor and 2 more. Browse upcoming dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | BLACK NOIR presents: Jon Connor | 2LUX, ARTISAH, Jon Connor, SHAY |
 | Fri, 17 Jul 2026 | BLACK NOIR presents: DJ COMP FINALS 2026 | Bleach, Davor, ORKA, YONKS, keanu (3) |
 | Sat, 18 Jul 2026 | BLACK NOIR presents: KÜMARA | I-SO |
 | Fri, 24 Jul 2026 | BLACK NOIR presents: LIL-RËD | ARTISAH, pretzelz |
@@ -18,9 +17,10 @@ The Flinders is a music venue in Sydney listed on soundcheck. 11 upcoming nights
 | Fri, 7 Aug 2026 | BLACK NOIR presents: RAGETRAIN [IRE] | I-SO, ORKA, Repercussion, headrush |
 | Sat, 8 Aug 2026 | BLACK NOIR presents: 5VRGN [SCO] | pretzelz |
 | Fri, 14 Aug 2026 | BLACK NOIR presents: AZDAT [FRA] | Bleach, Pachanga Boys |
+| Sat, 15 Aug 2026 | BLACK NOIR presents: KETTING [NL] | Davor, KETTING, Pandemonium, Slater (UK) |
 
 ## Address
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

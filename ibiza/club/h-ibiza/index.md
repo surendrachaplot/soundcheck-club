@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 89 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Black Coffee" on Sat, 11 Jul 2026.
+Hï Ibiza is a music venue in Ibiza with 88 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CamelPhat present Summer of Love" on Sun, 12 Jul 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 89 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 88 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Black Coffee | Black Coffee, DJ EZ, Joe Rolét, M-High, Vanco |
 | Sun, 12 Jul 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto, Patrick Mason, Ramiro Lopez, Valentino |
 | Mon, 13 Jul 2026 | Francis Mercier presents Solèy | ARYMÉ, Andrea Oliva, Francis Mercier, Nomis, Notre Dame, Ramyen, Sasson |
 | Tue, 14 Jul 2026 | East End Dubs presents Eastenderz | Archie Hamilton, Dale Howard, East End Dubs, Franky Rizardo, Paco Osuna, Sante Sansone |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 89 upcoming nights, wi
 | Sat, 18 Jul 2026 | Black Coffee | Black Coffee, Djammin, Fiona Kraft, Henrik Schwarz, MAXImum, Meeshy, Ossie, SHAE REID (2), Skepta, The Menendez Brothers |
 | Sun, 19 Jul 2026 | CamelPhat present Summer of Love | BIIA, CamelPhat, Indira Paganotto, Marhu |
 | Mon, 20 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Francis Mercier, Kasango, Mambo Brothers, Marten Lou, Moeaike |
+| Mon, 20 Jul 2026 | Hi Ibiza | Alex Wann |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

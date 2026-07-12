@@ -1,14 +1,13 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Grundton with Trikk & Julya Karma" on Sat, 11 Jul 2026.
+Hive Club is a music venue in Zurich with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "RUND mit Sahra Bass" on Fri, 17 Jul 2026.
 
-Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming nights, with line-ups including ACID FLORA, And Hazel, Animal Trainer and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
+Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming nights, with line-ups including ACID FLORA, And Hazel, Animal Trainer and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Grundton with Trikk & Julya Karma | Julya Karma, Manuel Moreno, Moritz Butschek, Smalltown Collective, samarsi |
 | Fri, 17 Jul 2026 | RUND mit Sahra Bass | Natch, Ruben Coslada, Sahra Bass |
 | Sat, 18 Jul 2026 | Volkoder & Rodriguez Jr | Audera, Nexus, Vanita, Volkoder |
 | Fri, 24 Jul 2026 | Mad Katz mit David Löhlein, Stef Mendesidis & Cormac | Cormac, David Löhlein, Galopp, Jamira Estrada, Luka (CH), Shabiyou, Stef Mendesidis |
@@ -18,9 +17,10 @@ Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming nights, w
 | Fri, 14 Aug 2026 | Sascha Braemer | Daughter In Law, De La Maso, Sascha Braemer |
 | Sat, 15 Aug 2026 | Babalu | And Hazel, Beez, Dario La Mazza, Gregor Tresher, Pazkal |
 | Fri, 28 Aug 2026 | Mad Katz mit DVS1 & Ogazón | DVS1, Ogazón |
+| Fri, 25 Sept 2026 | Mad Katz x Tresor | Ben Sims, Fireground, Hitam, Mareena |
 
 ## Address
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

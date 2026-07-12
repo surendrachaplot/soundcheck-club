@@ -1,6 +1,6 @@
 # Chika-Ikkai
 
-Chika-Ikkai is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "CODEBREAKER VOL 002" on Sat, 18 Jul 2026.
+Chika-Ikkai is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CODEBREAKER VOL 002" on Sat, 18 Jul 2026.
 
 Chika-Ikkai is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including 春麗 Chun Li, D.J.Fulltono and ohichaaan. Browse upcoming dates, start times and who's playing. 1-1-12 B1F, Minamisenba, Osaka, 542-0081, Japan.
 
@@ -16,4 +16,4 @@ Chika-Ikkai is a music venue in Osaka listed on soundcheck. 3 upcoming nights, w
 
 1-1-12 B1F, Minamisenba, Osaka, 542-0081, Japan, Osaka
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/chika-ikkai/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/chika-ikkai/)*

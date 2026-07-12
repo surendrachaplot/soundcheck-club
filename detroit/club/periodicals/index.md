@@ -1,6 +1,6 @@
 # Periodicals
 
-Periodicals is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Pieces Chess Club - Detroit" on Thu, 16 Jul 2026.
+Periodicals is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Pieces Chess Club - Detroit" on Thu, 16 Jul 2026.
 
 Periodicals is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Ameera and Meftah. Browse upcoming dates, start times and who's playing. 4892 Grand River Ave Detroit, MI, 48208-2257, USA.
 
@@ -14,4 +14,4 @@ Periodicals is a music venue in Detroit listed on soundcheck. 1 upcoming night, 
 
 4892 Grand River Ave Detroit, MI, 48208-2257, USA, Detroit
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/periodicals/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/periodicals/)*

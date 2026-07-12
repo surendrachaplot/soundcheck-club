@@ -1,6 +1,6 @@
 # Carlos Souffront
 
-Carlos Souffront is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sahara Lounge, Austin on Sun, 12 Jul 2026.
+Carlos Souffront is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sahara Lounge, Austin on Sun, 12 Jul 2026.
 
 Carlos Souffront is a techno and acid artist tracked on soundcheck, with 103 sets logged across Austin, Belgrade, Berlin and Boston and 15 more. Often billed alongside Mike Servito, Patrick Russell and Derek Plaslaiko. Next up: Sahara Lounge, Austin on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Carlos Souffront is a techno and acid artist tracked on soundcheck, with 103 set
 
 Mike Servito, Patrick Russell, Derek Plaslaiko
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlossouffront/)*

@@ -1,6 +1,6 @@
 # Nicolle Velcro
 
-Nicolle Velcro is a House and Afrobeat artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Those Who Dance, Lisbon on Sun, 12 Jul 2026.
+Nicolle Velcro is a House and Afrobeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Those Who Dance, Lisbon on Sun, 12 Jul 2026.
 
 Nicolle Velcro is a house and afrobeat artist based in Brazil, tracked on soundcheck, with 26 sets logged across Lisbon. Often billed alongside Adam Purnell, Kemetic and AZM (1). Next up: Those Who Dance, Lisbon on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Nicolle Velcro is a house and afrobeat artist based in Brazil, tracked on soundc
 
 Adam Purnell, Kemetic, AZM (1)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*

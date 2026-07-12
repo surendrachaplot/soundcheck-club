@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 25 Jul, Berlin. 4 acts on the bill: James Cherry, UniKhatu, V (NYC) and ZAKARE. Techno and Tech House. Preview the line-up and save it on soundcheck.
+SENSO NACHT at Sensorium on Sat 25 Jul, Berlin. 5 acts on the bill: James Cherry, LynnMayya, UniKhatu and V (NYC) and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SENSO NACHT at Sensorium on Sat 25 Jul, Berlin. 4 acts on the bill: James Cherry
 ## Line-up
 
 - James Cherry
+- LynnMayya
 - UniKhatu
 - V (NYC)
 - ZAKARE

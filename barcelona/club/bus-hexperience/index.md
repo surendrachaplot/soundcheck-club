@@ -1,14 +1,13 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Bus Hexperience" on Sat, 11 Jul 2026.
+BUS Hexperience is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Bus Hexperience" on Sun, 12 Jul 2026.
 
-BUS Hexperience is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Raul Naro, Sonia Heis and Victor Hugo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
+BUS Hexperience is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Raul Naro, Sonia Heis and Victor Hugo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Bus Hexperience |  |
 | Sun, 12 Jul 2026 | Bus Hexperience |  |
 | Sun, 12 Jul 2026 | EPIQ OPEN AIR SPECIAL | Raul Naro, Sonia Heis |
 | Fri, 17 Jul 2026 | Bus Hexperience |  |
@@ -22,4 +21,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 9 upcoming n
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

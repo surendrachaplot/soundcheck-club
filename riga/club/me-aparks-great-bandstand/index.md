@@ -1,6 +1,6 @@
 # Mežaparks Great Bandstand
 
-Mežaparks Great Bandstand is a music venue in Riga with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Calvin Harris" on Thu, 6 Aug 2026.
+Mežaparks Great Bandstand is a music venue in Riga with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Calvin Harris" on Thu, 6 Aug 2026.
 
 Mežaparks Great Bandstand is a music venue in Riga listed on soundcheck. 1 upcoming night, with line-ups including Calvin Harris. Browse upcoming dates, start times and who's playing. Ostas prospekts 11, Ziemeļu rajons, Rīga, LV-1034.
 
@@ -14,4 +14,4 @@ Mežaparks Great Bandstand is a music venue in Riga listed on soundcheck. 1 upco
 
 Ostas prospekts 11, Ziemeļu rajons, Rīga, LV-1034, Riga
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/me-aparks-great-bandstand/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/me-aparks-great-bandstand/)*

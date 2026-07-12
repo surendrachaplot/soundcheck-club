@@ -1,6 +1,6 @@
 # Parris Taylor
 
-Parris Taylor is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at O Beach, Ibiza on Fri, 17 Jul 2026.
+Parris Taylor is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at O Beach, Ibiza on Fri, 17 Jul 2026.
 
 Parris Taylor is a house and tech house artist tracked on soundcheck, with 73 sets logged across Ibiza and London. Often billed alongside Jamie Love, Alex Mills and Beyond Chicago. Next up: O Beach, Ibiza on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Parris Taylor is a house and tech house artist tracked on soundcheck, with 73 se
 
 Jamie Love, Alex Mills, Beyond Chicago
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parristaylor/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parristaylor/)*

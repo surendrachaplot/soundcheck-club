@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 12 Jul 2026.
+Mira is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Sun, 12 Jul 2026.
 
 Mira is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Austin and Bangkok and 37 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Chinois Ibiza, Ibiza on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ Mira is a house and techno artist tracked on soundcheck, with 180 sets logged ac
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

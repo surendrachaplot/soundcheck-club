@@ -1,6 +1,6 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
+Fonzo (UK) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
 
 Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 9 more. Often billed alongside Yemz, Notion and REA (UK). Next up: BRET, Amsterdam on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on sound
 
 Yemz, Notion, REA (UK)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*

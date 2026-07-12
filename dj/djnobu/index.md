@@ -1,14 +1,13 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+DJ Nobu is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
 
-DJ Nobu is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Fabrik, Madrid on Sat 11 Jul.
+DJ Nobu is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TBA - Brooklyn, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Fabrik | Madrid |
 | Fri, 17 Jul 2026 | TBA - Brooklyn | New York City |
 | Sat, 18 Jul 2026 | TRANSMISSION DC | Washington DC |
 | Sun, 19 Jul 2026 | Radius | Chicago |
@@ -20,9 +19,11 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 217 sets logged
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | Société des arts technologiques | Montreal |
 | Sat, 22 Aug 2026 | Lincoln Factory | Detroit |
+| Sun, 23 Aug 2026 | Nowadays | New York City |
 
 ## Recently played
 
+- Fabrik, Madrid — Sat, 11 Jul 2026
 - TBA - OAKYARD GROUNDS - 2h north of Berlin., Berlin — Fri, 3 Jul 2026
 - The Cause, London — Sat, 13 Jun 2026
 - WOMB, Tokyo — Sat, 30 May 2026
@@ -30,10 +31,9 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 217 sets logged
 - DURO, Milan — Sat, 23 May 2026
 - Tokonoma Club, Frankfurt — Fri, 22 May 2026
 - Nitsa Club, Barcelona — Fri, 15 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

@@ -1,6 +1,6 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
+Woody92 is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
 Woody92 is a techno and experimental artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: Else, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Woody92 is a techno and experimental artist tracked on soundcheck, with 131 sets
 
 Loek Frey, Jeans (NL), Konduku
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*

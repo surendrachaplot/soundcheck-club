@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Brick Rhythm x Concrete — Day Party" on Fri, 17 Jul 2026.
+Brixton Jamm is a music venue in London with 19 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Brick Rhythm x Concrete — Day Party" on Fri, 17 Jul 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Bertie UK and Deselecta and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Amber Rose, AUDIO DUNE, Bertie UK and Deselecta and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming nights
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

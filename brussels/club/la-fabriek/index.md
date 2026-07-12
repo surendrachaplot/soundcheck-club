@@ -1,6 +1,6 @@
 # La Fabriek
 
-La Fabriek is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kiosk Radio x CREVETTE RECORDS · 16h Open Air & Afterparty" on Sat, 18 Jul 2026.
+La Fabriek is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Kiosk Radio x CREVETTE RECORDS · 16h Open Air & Afterparty" on Sat, 18 Jul 2026.
 
 La Fabriek is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including dirt bike dub, Hicham, JACKUZZI and Jana Joanna and 2 more. Browse upcoming dates, start times and who's playing. Rue de la petite ile 1A, 1070 Brussels, Belgium.
 
@@ -15,4 +15,4 @@ La Fabriek is a music venue in Brussels listed on soundcheck. 2 upcoming nights,
 
 Rue de la petite ile 1A, 1070 Brussels, Belgium, Brussels
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*

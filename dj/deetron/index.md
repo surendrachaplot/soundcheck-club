@@ -1,14 +1,13 @@
 # Deetron
 
-Deetron is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BRET, Amsterdam on Sun, 19 Jul 2026.
 
-Deetron is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 23 more. Often billed alongside SG Lewis, Zenker Brothers and AMMARA. Next up: Fabrik, Madrid on Sat 11 Jul.
+Deetron is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 23 more. Often billed alongside SG Lewis, Zenker Brothers and AMMARA. Next up: BRET, Amsterdam on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Fabrik | Madrid |
 | Sun, 19 Jul 2026 | BRET | Amsterdam |
 | Sat, 25 Jul 2026 | The Yard | Manchester |
 | Fri, 14 Aug 2026 | Bassiani | Tbilisi |
@@ -17,6 +16,7 @@ Deetron is a techno and house artist tracked on soundcheck, with 51 sets logged 
 
 ## Recently played
 
+- Fabrik, Madrid — Sat, 11 Jul 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 13 Jun 2026
 - Yamamori Tengu, Dublin — Sat, 6 Jun 2026
 - BLITZ, Munich — Sat, 30 May 2026
@@ -24,10 +24,9 @@ Deetron is a techno and house artist tracked on soundcheck, with 51 sets logged 
 - Bunker, Turin — Sat, 25 Apr 2026
 - FOLD, London — Fri, 24 Apr 2026
 - fabric, London — Fri, 27 Feb 2026
-- Sub Club, Glasgow — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 SG Lewis, Zenker Brothers, AMMARA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

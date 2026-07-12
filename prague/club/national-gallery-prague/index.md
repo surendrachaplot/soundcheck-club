@@ -1,6 +1,6 @@
 # National Gallery Prague
 
-National Gallery Prague is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Lunchmeat Festival Prague 2026 - Main Event" on Thu, 24 Sept 2026.
+National Gallery Prague is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Lunchmeat Festival Prague 2026 - Main Event" on Thu, 24 Sept 2026.
 
 National Gallery Prague is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Autechre, Bapari, Buena Tarde and Debit and 2 more. Browse upcoming dates, start times and who's playing. Dukelských hrdinů 47, 170 00 Prague 7, Czech Republic.
 
@@ -14,4 +14,4 @@ National Gallery Prague is a music venue in Prague listed on soundcheck. 1 upcom
 
 Dukelských hrdinů 47, 170 00 Prague 7, Czech Republic, Prague
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/national-gallery-prague/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/national-gallery-prague/)*

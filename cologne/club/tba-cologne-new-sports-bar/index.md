@@ -1,6 +1,6 @@
 # TBA - Cologne ( New Sports BAR )
 
-TBA - Cologne ( New Sports BAR ) is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Plastic 4 - Cologne Popup - 22 YRS Bash" on Wed, 22 Jul 2026.
+TBA - Cologne ( New Sports BAR ) is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Plastic 4 - Cologne Popup - 22 YRS Bash" on Wed, 22 Jul 2026.
 
 TBA - Cologne ( New Sports BAR ) is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including Lady Vusumzi, Raketka and Wiebe Roose. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Cologne ( New Sports BAR ) is a music venue in Cologne listed on soundchec
 | --- | --- | --- |
 | Wed, 22 Jul 2026 | Plastic 4 - Cologne Popup - 22 YRS Bash | Lady Vusumzi, Raketka, Wiebe Roose |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-cologne-new-sports-bar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-cologne-new-sports-bar/)*

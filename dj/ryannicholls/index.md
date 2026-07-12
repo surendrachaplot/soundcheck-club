@@ -1,6 +1,6 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 12 Jul 2026.
+Ryan Nicholls is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ku Barcelona, Barcelona on Sun, 12 Jul 2026.
 
 Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 24 sets logged across Barcelona, Birmingham, Ibiza and Liverpool and 3 more. Often billed alongside Josh Gregg, Ryan Resso and Fleur Shore. Next up: Ku Barcelona, Barcelona on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 24 se
 
 Josh Gregg, Ryan Resso, Fleur Shore
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*

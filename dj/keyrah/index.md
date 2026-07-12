@@ -1,6 +1,6 @@
 # Keyrah
 
-Keyrah is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
+Keyrah is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
 
 Keyrah is a house and hip-hop artist tracked on soundcheck, with 63 sets logged across Amsterdam, Birmingham, Brighton and Edinburgh and 6 more. Often billed alongside Tiffany Calver, Casnova and Juls. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Keyrah is a house and hip-hop artist tracked on soundcheck, with 63 sets logged 
 
 Tiffany Calver, Casnova, Juls
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*

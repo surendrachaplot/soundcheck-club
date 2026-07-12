@@ -1,14 +1,13 @@
 # Mareike Bautz
 
-Mareike Bautz is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Stubnitz, Hamburg on Sat, 11 Jul 2026.
+Mareike Bautz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at ://about blank, Berlin on Sat, 18 Jul 2026.
 
-Mareike Bautz is a techno and trance artist tracked on soundcheck, with 104 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside KLING&KLANG, DJ Primitivo and Justin Tinderdate. Next up: MS Stubnitz, Hamburg on Sat 11 Jul.
+Mareike Bautz is a techno and trance artist tracked on soundcheck, with 104 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside KLING&KLANG, DJ Primitivo and Justin Tinderdate. Next up: ://about blank, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | MS Stubnitz | Hamburg |
 | Sat, 18 Jul 2026 | ://about blank | Berlin |
 | Fri, 24 Jul 2026 | Südpol | Hamburg |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
@@ -16,6 +15,7 @@ Mareike Bautz is a techno and trance artist tracked on soundcheck, with 104 sets
 
 ## Recently played
 
+- MS Stubnitz, Hamburg — Sat, 11 Jul 2026
 - ://about blank, Berlin — Sat, 30 May 2026
 - Jonny Knüppel, Berlin — Wed, 13 May 2026
 - ://about blank, Berlin — Fri, 1 May 2026
@@ -23,10 +23,9 @@ Mareike Bautz is a techno and trance artist tracked on soundcheck, with 104 sets
 - Kater, Berlin — Sat, 18 Apr 2026
 - Edelfettwerk, Hamburg — Sat, 4 Apr 2026
 - Fitzroy, Berlin — Sat, 21 Mar 2026
-- ://about blank, Berlin — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 KLING&KLANG, DJ Primitivo, Justin Tinderdate
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*

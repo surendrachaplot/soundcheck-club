@@ -1,6 +1,6 @@
 # Oscar de Lima
 
-Oscar de Lima is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Solace, Melbourne on Thu, 23 Jul 2026.
+Oscar de Lima is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Solace, Melbourne on Thu, 23 Jul 2026.
 
 Oscar de Lima is a house and deep house artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Brisbane, Madrid and Melbourne and 2 more. Often billed alongside Joey Coco, CA LOU and Said Dami. Next up: Solace, Melbourne on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Oscar de Lima is a house and deep house artist based in Australia, tracked on so
 
 Joey Coco, CA LOU, Said Dami
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardelima/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardelima/)*

@@ -1,14 +1,13 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Dolder Kunsteisbahn Zurich, Zurich on Sat, 11 Jul 2026.
+Armin van Buuren is a Trance and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
-Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Dolder Kunsteisbahn Zurich, Zurich on Sat 11 Jul.
+Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Dolder Kunsteisbahn Zurich | Zurich |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Fri, 4 Sept 2026 | Gateway Studios | Oslo |
@@ -21,6 +20,7 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 se
 
 ## Recently played
 
+- Dolder Kunsteisbahn Zurich, Zurich — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw — Sat, 20 Jun 2026
 - Ushuaïa Ibiza, Ibiza — Thu, 18 Jun 2026
@@ -28,10 +28,9 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 66 se
 - Document, Bristol — Fri, 22 May 2026
 - Industry City, New York City — Sat, 16 May 2026
 - Echostage, Washington DC — Sat, 21 Mar 2026
-- TBA, London — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

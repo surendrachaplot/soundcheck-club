@@ -1,6 +1,6 @@
 # Rigopolar
 
-Rigopolar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bike Jesus, Prague on Fri, 17 Jul 2026.
+Rigopolar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bike Jesus, Prague on Fri, 17 Jul 2026.
 
 Rigopolar is a house and techno artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg, London and Losangeles and 6 more. Often billed alongside Discolypso Crew, Isaac Ferry and Ark3r. Next up: Bike Jesus, Prague on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Rigopolar is a house and techno artist tracked on soundcheck, with 25 sets logge
 
 Discolypso Crew, Isaac Ferry, Ark3r
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*

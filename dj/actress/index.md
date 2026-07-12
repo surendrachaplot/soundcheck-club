@@ -1,6 +1,6 @@
 # Actress
 
-Actress is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Actress is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Actress is a techno and experimental artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Kode9, Blawan and Suzanne Ciani. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Actress is a techno and experimental artist tracked on soundcheck, with 78 sets 
 
 Kode9, Blawan, Suzanne Ciani
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*

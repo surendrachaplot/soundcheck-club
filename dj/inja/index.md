@@ -1,8 +1,8 @@
 # Inja
 
-Inja is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jaeger, Oslo on Fri, 31 Jul 2026.
+Inja is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Jaeger, Oslo on Fri, 31 Jul 2026.
 
-Inja is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logged across Antwerp, Auckland, Bangkok and Berlin and 14 more. Often billed alongside Kings of the Rollers, Bladerunner and Carasel. Next up: Jaeger, Oslo on Fri 31 Jul.
+Inja is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Antwerp, Auckland, Bangkok and Berlin and 14 more. Often billed alongside Kings of the Rollers, Bladerunner and Carasel. Next up: Jaeger, Oslo on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Inja is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logg
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Jaeger | Oslo |
 | Sat, 19 Sept 2026 | Jumunjy Bar | London |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Inja is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logg
 
 Kings of the Rollers, Bladerunner, Carasel
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inja/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inja/)*

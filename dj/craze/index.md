@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Concourse Project, Austin on Thu, 13 Aug 2026.
+Craze is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Concourse Project, Austin on Thu, 13 Aug 2026.
 
 Craze is a drum & bass and jungle artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Austin and Boston and 14 more. Often billed alongside shinobi (US), Billy Daniel Bunter and Dillinja. Next up: The Concourse Project, Austin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Craze is a drum & bass and jungle artist tracked on soundcheck, with 55 sets log
 
 shinobi (US), Billy Daniel Bunter, Dillinja
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

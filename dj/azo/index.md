@@ -1,6 +1,6 @@
 # Azo
 
-Azo is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 18 Jul 2026.
+Azo is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 18 Jul 2026.
 
 Azo is a techno and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Vera Moro, Fais Le Beau and Kathleen C. Next up: Karmen Camina, Strasbourg on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Azo is a techno and electro artist tracked on soundcheck, with 86 sets logged ac
 
 Vera Moro, Fais Le Beau, Kathleen C
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*

@@ -1,6 +1,6 @@
 # Shaun Reeves
 
-Shaun Reeves is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sonnenraum, Berlin on Sat, 18 Jul 2026.
+Shaun Reeves is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sonnenraum, Berlin on Sat, 18 Jul 2026.
 
 Shaun Reeves is a house and minimal artist tracked on soundcheck, with 78 sets logged across Berlin, Boston, Brussels and Chicago and 9 more. Often billed alongside Ryan Crosson, Stretch (DET) and Andrea Ghita. Next up: Sonnenraum, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Shaun Reeves is a house and minimal artist tracked on soundcheck, with 78 sets l
 
 Ryan Crosson, Stretch (DET), Andrea Ghita
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*

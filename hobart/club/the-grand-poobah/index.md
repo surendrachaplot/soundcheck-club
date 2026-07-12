@@ -1,14 +1,13 @@
 # The Grand Poobah
 
-The Grand Poobah is a music venue in Hobart with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Club Revel ▬ Prizefight [AU]" on Sat, 11 Jul 2026.
+The Grand Poobah is a music venue in Hobart with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Club Revel ▬ Love, Jess [AU]" on Sat, 18 Jul 2026.
 
-The Grand Poobah is a music venue in Hobart listed on soundcheck. 3 upcoming nights, with line-ups including Love, Jess, Prizefight and Sophentai. Browse upcoming dates, start times and who's playing. 142 Liverpool St, Hobart TAS 7000, Australia.
+The Grand Poobah is a music venue in Hobart listed on soundcheck. 2 upcoming nights, with line-ups including Love, Jess. Browse upcoming dates, start times and who's playing. 142 Liverpool St, Hobart TAS 7000, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Club Revel ▬ Prizefight [AU] | Prizefight, Sophentai |
 | Sat, 18 Jul 2026 | Club Revel ▬ Love, Jess [AU] | Love, Jess |
 | Sat, 25 Jul 2026 | Club Revel ▬ Rev [AU] & Chaps [AU] |  |
 
@@ -16,4 +15,4 @@ The Grand Poobah is a music venue in Hobart listed on soundcheck. 3 upcoming nig
 
 142 Liverpool St, Hobart TAS 7000, Australia, Hobart
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/the-grand-poobah/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/the-grand-poobah/)*

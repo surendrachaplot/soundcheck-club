@@ -1,6 +1,6 @@
 # Substance
 
-Substance is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Substance is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Substance is a techno and house artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Bristol and Cologne and 5 more. Often billed alongside DJ Pete, Inverse Element and Vainqueur. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Substance is a techno and house artist tracked on soundcheck, with 31 sets logge
 
 DJ Pete, Inverse Element, Vainqueur
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/substance/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/substance/)*

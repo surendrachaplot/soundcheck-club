@@ -1,6 +1,6 @@
 # Manu Calmet
 
-Manu Calmet is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
+Manu Calmet is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
 
 Manu Calmet is a techno and club artist tracked on soundcheck, with 11 sets logged across Berlin, Buenosaires, Madrid and Shenzhen. Often billed alongside Valentina Spirito, Bermani and AADJA. Next up: Loone, Berlin on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Manu Calmet is a techno and club artist tracked on soundcheck, with 11 sets logg
 
 Valentina Spirito, Bermani, AADJA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manucalmet/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manucalmet/)*

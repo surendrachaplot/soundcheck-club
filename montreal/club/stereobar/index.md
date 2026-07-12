@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Guillaume Michaud b2b Manu" on Sat, 11 Jul 2026.
+StereoBar is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "14 Yrs of LBD: Mishell (All Night Long)" on Sun, 12 Jul 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Guillaume Michaud, Lumbago, Mihai Popoviciu and Moaad BKR and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Lumbago, Mihai Popoviciu, Moaad BKR and Monitors and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Guillaume Michaud b2b Manu | Guillaume Michaud |
 | Sun, 12 Jul 2026 | 14 Yrs of LBD: Mishell (All Night Long) |  |
 | Fri, 17 Jul 2026 | Queenie Jr b2b Vayia | Queenie Jr, Vayia |
 | Sat, 18 Jul 2026 | Analog Volts x SB: Unai Trotti - Lumbago - Moaad BKR | Lumbago, Moaad BKR, Unai Trotti |
@@ -22,4 +21,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 9 upcoming nights, 
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

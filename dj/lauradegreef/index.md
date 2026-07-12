@@ -1,6 +1,6 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 18 Jul 2026.
+Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Frankhan Selectist, Istanbul on Sat, 18 Jul 2026.
 
 Laura De Greef is a house and techno artist tracked on soundcheck, with 24 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 5 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Frankhan Selectist, Istanbul on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 24 sets 
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

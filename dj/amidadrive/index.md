@@ -1,6 +1,6 @@
 # AMIDAdrive
 
-AMIDAdrive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Suns Shimokitazawa, Tokyo on Sun, 12 Jul 2026.
+AMIDAdrive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Suns Shimokitazawa, Tokyo on Sun, 12 Jul 2026.
 
 AMIDAdrive is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Tokyo. Often billed alongside uuu7, Kengo Yuasa and WAKA XINXI. Next up: Suns Shimokitazawa, Tokyo on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ AMIDAdrive is a techno and house artist based in Japan, tracked on soundcheck, w
 
 uuu7, Kengo Yuasa, WAKA XINXI
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amidadrive/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amidadrive/)*

@@ -1,8 +1,8 @@
 # LIEKS
 
-LIEKS is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
+LIEKS is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Odonien, Cologne on Fri, 7 Aug 2026.
 
-LIEKS is a techno and trance artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 5 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: Odonien, Cologne on Fri 7 Aug.
+LIEKS is a techno and trance artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 6 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: Odonien, Cologne on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ LIEKS is a techno and trance artist tracked on soundcheck, with 21 sets logged a
 | Sat, 29 Aug 2026 | Maassilo | Rotterdam |
 | Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
 | Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
+| Fri, 9 Oct 2026 | TBA - SEKTOR6D | Warsaw |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ LIEKS is a techno and trance artist tracked on soundcheck, with 21 sets logged a
 
 BLNK, TiTi, BØĘRY
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

@@ -1,14 +1,13 @@
 # Gestrandet An Der Jannowitzbrücke
 
-Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Circular Music 'Open Air' with finest House Music w/ Dole & Kom" on Sat, 11 Jul 2026.
+Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Treib:Gut presents: Hazi & friends" on Fri, 17 Jul 2026.
 
-Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Aimé You, Baloo Itapoá, Danilo Kupfernagel and DJ with Soul and 2 more. Browse upcoming dates, start times and who's playing. Rolandufer, 10179 Berlin, Germany.
+Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Aimé You, Baloo Itapoá, Danilo Kupfernagel and Felix Raphael and 2 more. Browse upcoming dates, start times and who's playing. Rolandufer, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Circular Music 'Open Air' with finest House Music w/ Dole & Kom | DJ with Soul, Dole & Kom, Hanebüchener, Oliver Raumklang |
 | Fri, 17 Jul 2026 | Treib:Gut presents: Hazi & friends | Baloo Itapoá, Hazi |
 | Sat, 18 Jul 2026 | PROMPT OPEN AIR | Fynn Eicke, Hanebüchener, Oliver Raumklang, Stella Stellar |
 | Thu, 23 Jul 2026 | Afterwork Sessions with Felix Raphael LiVE | Danilo Kupfernagel, Felix Raphael, LEENI, justUS |
@@ -20,4 +19,4 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 
 Rolandufer, 10179 Berlin, Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*

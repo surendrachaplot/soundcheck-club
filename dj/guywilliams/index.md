@@ -1,20 +1,20 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 93 Feet East, London on Sat, 11 Jul 2026.
+Guy Williams is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 13 Jul 2026.
 
-Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and Mr Doris. Next up: 93 Feet East, London on Sat 11 Jul.
+Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and Mr Doris. Next up: Chinois Ibiza, Ibiza on Mon 13 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | 93 Feet East | London |
 | Mon, 13 Jul 2026 | Chinois Ibiza | Ibiza |
 | Thu, 23 Jul 2026 | 528 Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
+- 93 Feet East, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 13 Jun 2026
 - The Loft, Manchester — Fri, 5 Jun 2026
 - The Golden Lion, Manchester — Fri, 29 May 2026
@@ -22,10 +22,9 @@ Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets log
 - renae, Manchester — Fri, 13 Feb 2026
 - La Paloma, Barcelona — Fri, 23 Jan 2026
 - The Light Bar, London — Wed, 31 Dec 2025
-- The Warehouse Project, Manchester — Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Jo Mills, S/A/M, Mr Doris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

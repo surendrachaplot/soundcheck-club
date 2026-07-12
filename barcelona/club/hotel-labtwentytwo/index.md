@@ -1,6 +1,6 @@
 # Hotel Labtwentytwo
 
-Hotel Labtwentytwo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "AYLA - Coffee Rave BCN - Vol. 3 (+100 pax from Luma)" on Sun, 12 Jul 2026.
+Hotel Labtwentytwo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "AYLA - Coffee Rave BCN - Vol. 3 (+100 pax from Luma)" on Sun, 12 Jul 2026.
 
 Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including LYNNA. Browse upcoming dates, start times and who's playing. Calle de peru 102, Barcelona, 08018, Spain.
 
@@ -15,4 +15,4 @@ Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 2 upcomin
 
 Calle de peru 102, Barcelona, 08018, Spain, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-labtwentytwo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-labtwentytwo/)*

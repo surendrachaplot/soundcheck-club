@@ -1,6 +1,6 @@
 # Johana
 
-Johana is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Glove That Fits, London on Sat, 18 Jul 2026.
+Johana is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Glove That Fits, London on Sat, 18 Jul 2026.
 
 Johana is an electro and techno artist tracked on soundcheck, with 12 sets logged across Belgrade and London. Often billed alongside Amor Ante, Feloneezy and New Flesh (2). Next up: The Glove That Fits, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Johana is an electro and techno artist tracked on soundcheck, with 12 sets logge
 
 Amor Ante, Feloneezy, New Flesh (2)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johana/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johana/)*

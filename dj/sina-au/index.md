@@ -1,6 +1,6 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
+Sina (AU) is a Ambient and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
 
 Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Kavil, Vlada and Tangerine. Next up: TBA, Berlin on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 37 s
 
 Kavil, Vlada, Tangerine
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*

@@ -1,6 +1,6 @@
 # Unreal Vibes
 
-Unreal Vibes is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Doggy Klœb, Malaga on Sat, 18 Jul 2026.
+Unreal Vibes is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Doggy Klœb, Malaga on Sat, 18 Jul 2026.
 
 Unreal Vibes is an electronica and electro artist tracked on soundcheck, with 71 sets logged across Barcelona, Brighton, Malaga and Mallorca. Often billed alongside Jorgge Decar, KONSAT and Andrés Sancho. Next up: Doggy Klœb, Malaga on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Unreal Vibes is an electronica and electro artist tracked on soundcheck, with 71
 
 Jorgge Decar, KONSAT, Andrés Sancho
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unrealvibes/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unrealvibes/)*

@@ -1,6 +1,6 @@
 # Steve Rachmad
 
-Steve Rachmad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Steve Rachmad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Steve Rachmad is a techno and house artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 15 more. Often billed alongside STERAC, Dimitri Kneppers and Fadi Mohem. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Steve Rachmad is a techno and house artist based in Netherlands, tracked on soun
 
 STERAC, Dimitri Kneppers, Fadi Mohem
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*

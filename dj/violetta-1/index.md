@@ -1,6 +1,6 @@
 # Violetta (1)
 
-Violetta (1) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
+Violetta (1) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Grelle Forelle, Vienna on Fri, 24 Jul 2026.
 
 Violetta (1) is a techno and industrial artist tracked on soundcheck, with 38 sets logged across Berlin, Tokyo and Vienna. Often billed alongside DJ Deadlift, Gerald VDH and Hannah mit Hut. Next up: Grelle Forelle, Vienna on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Violetta (1) is a techno and industrial artist tracked on soundcheck, with 38 se
 
 DJ Deadlift, Gerald VDH, Hannah mit Hut
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-1/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violetta-1/)*

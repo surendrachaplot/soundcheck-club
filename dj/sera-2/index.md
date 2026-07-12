@@ -1,6 +1,6 @@
 # SERA (2)
 
-SERA (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Helios37, Cologne on Sat, 25 Jul 2026.
+SERA (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Helios37, Cologne on Sat, 25 Jul 2026.
 
 SERA (2) is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and Daraio. Next up: Helios37, Cologne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ SERA (2) is a techno and house artist tracked on soundcheck, with 34 sets logged
 
 Francesco Passantino, KARAYAN, Daraio
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*

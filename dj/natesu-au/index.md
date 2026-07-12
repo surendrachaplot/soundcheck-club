@@ -1,6 +1,6 @@
 # Nate S.U
 
-Nate S.U is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
+Nate S.U is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 31 Jul 2026.
 
 Nate S.U is a house and electro artist based in Australia, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Elijah Something, DJ Botermelk and Fabiano José. Next up: Sunseabar Beach Club, Barcelona on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Nate S.U is a house and electro artist based in Australia, tracked on soundcheck
 
 Elijah Something, DJ Botermelk, Fabiano José
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*

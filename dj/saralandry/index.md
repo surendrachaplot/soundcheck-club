@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 25 Jul 2026.
+Sara Landry is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tapada da Ajuda, Lisbon on Sat, 25 Jul 2026.
 
 Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Tapada da Ajuda, Lisbon on Sat 25 Jul.
 
@@ -35,4 +35,4 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 190 sets lo
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

@@ -1,6 +1,6 @@
 # Bruna N.
 
-Bruna N. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Bruna N. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Bruna N. is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Daisy Weweh, Anton Jonathan and Jean Mauj. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Bruna N. is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Daisy Weweh, Anton Jonathan, Jean Mauj
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brunan/)*

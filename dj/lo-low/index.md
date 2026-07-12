@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at radial, London on Sun, 12 Jul 2026.
+LO-LOW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at radial, London on Sun, 12 Jul 2026.
 
 LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, Someone Sunny and ASHTREY. Next up: radial, London on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ LO-LOW is a techno and house artist tracked on soundcheck, with 78 sets logged a
 
 Samantha Togni, Someone Sunny, ASHTREY
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

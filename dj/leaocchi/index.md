@@ -1,14 +1,13 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 11 Jul 2026.
+Lea Occhi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Lea Occhi is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: CLUB RAUM, Amsterdam on Sat 11 Jul.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | CLUB RAUM | Amsterdam |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -19,6 +18,7 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 175 sets logg
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Sat, 11 Jul 2026
 - Boomerang Beach, The Hague — Sat, 4 Jul 2026
 - TBA - Los Angeles (Warehouse), Los Angeles — Sat, 27 Jun 2026
 - TBA - Brooklyn, New York City — Fri, 26 Jun 2026
@@ -26,10 +26,9 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 175 sets logg
 - Bassiani, Tbilisi — Fri, 19 Jun 2026
 - Mia Mao, Paris — Sat, 13 Jun 2026
 - Mystic Skatepark, Prague — Sat, 23 May 2026
-- Tokonoma Club, Frankfurt — Wed, 13 May 2026
 
 ## Shares bills with
 
 Toscan Haas, Amotik, Lobster (NL)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

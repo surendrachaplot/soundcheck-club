@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 20 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "マハニタラトリ　vol.8" on Sat, 11 Jul 2026.
+Socore Factory is a music venue in Osaka with 19 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "J-ROCK大作戦 其ノ拾陸" on Sun, 12 Jul 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 20 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 19 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | マハニタラトリ　vol.8 | Erochemist |
 | Sun, 12 Jul 2026 | J-ROCK大作戦 其ノ拾陸 | Merry, Shota |
 | Tue, 14 Jul 2026 | ナインティーズは突然に |  |
 | Fri, 17 Jul 2026 | andromeda | Daisuke Kakimoto |
@@ -18,9 +17,10 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 20 upcoming night
 | Mon, 27 Jul 2026 | Takuto&NEKKOYA BAND TOUR 'UKAGE'」 〜ウカゲだりょっどー〜 | Takaya, Takuto |
 | Wed, 29 Jul 2026 | HOOFIT | Mash |
 | Fri, 31 Jul 2026 | vital signs |  |
+| Sat, 1 Aug 2026 | ENISHIT! Release GIG BAAD BEAT GOOD GROOVE |  |
 
 ## Address
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

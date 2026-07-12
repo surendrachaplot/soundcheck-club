@@ -1,14 +1,13 @@
 # mafiii
 
-mafiii is a Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Space for Skate, Munich on Sat, 11 Jul 2026.
+mafiii is a Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Madam, Amsterdam on Sat, 25 Jul 2026.
 
-mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Madrid and Munich. Often billed alongside groovian peruvian, Katopodis and Anthony Godfather (2). Next up: Space for Skate, Munich on Sat 11 Jul.
+mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Madrid and Munich. Often billed alongside groovian peruvian, Katopodis and Anthony Godfather (2). Next up: Madam, Amsterdam on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Space for Skate | Munich |
 | Sat, 25 Jul 2026 | Madam | Amsterdam |
 | Sat, 25 Jul 2026 | Madam | Amsterdam |
 | Sat, 1 Aug 2026 | Aahhh Rooftop | Munich |
@@ -17,6 +16,7 @@ mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10
 
 ## Recently played
 
+- Space for Skate, Munich — Sat, 11 Jul 2026
 - Container Collective, Munich — Sat, 6 Jun 2026
 - The Bassement, Madrid — Sat, 23 May 2026
 - Space for Skate, Munich — Sat, 25 Apr 2026
@@ -26,4 +26,4 @@ mafiii is a tech house artist based in Venezuela, tracked on soundcheck, with 10
 
 groovian peruvian, Katopodis, Anthony Godfather (2)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mafiii/)*

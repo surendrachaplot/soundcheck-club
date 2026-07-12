@@ -1,6 +1,6 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Massimiliano Pagliara is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

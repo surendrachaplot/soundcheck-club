@@ -1,6 +1,6 @@
 # SYNC - London at The Cause
 
-SYNC - London at The Cause on Sun 26 Jul, London. 15 acts on the bill: Bappy, Crybaby, DJ Travella and JUPiTA and 11 more. Preview the line-up and save it on soundcheck.
+SYNC - London at The Cause on Sun 26 Jul, London. 16 acts on the bill: Bappy, Crybaby, DJ Travella and JUPiTA and 12 more. Bass and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ SYNC - London at The Cause on Sun 26 Jul, London. 15 acts on the bill: Bappy, Cr
 - JUPiTA
 - K2RAH
 - Miss Tacacá
+- Moonshine
 - Nadine Noor
 - NegoO
 - Ramnik

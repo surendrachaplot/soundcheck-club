@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SPOELBOYS" on Sat, 11 Jul 2026.
+Skatecafe is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "OG Records" on Fri, 17 Jul 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Alec Dienaar, Bibtiana, Boris Coelman and Dan Dusty and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Alec Dienaar, Bibtiana, Dan Dusty and Dr Dubplate and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | SPOELBOYS | Boris Coelman, Kaiena, mance, nik-ey |
 | Fri, 17 Jul 2026 | OG Records | Dan Dusty, Dr Dubplate, KIM SWIM, Raven Karijo |
 | Sat, 18 Jul 2026 | ROOTED X BOUNCE THAT BOOTY | Bibtiana, Eurowitch, Jarreau Vandal, River (1), River (2), Tida Kamara, Zena-Rae, milliyen |
 | Tue, 21 Jul 2026 | Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS |  |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights
 | Sat, 1 Aug 2026 | PRIDE / DOPPELGANG PRESENTS HONEY HONEY |  |
 | Sat, 1 Aug 2026 | PRIDE / HONEY HONEY |  |
 | Sat, 8 Aug 2026 | DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD | Alec Dienaar, Zeldenrust |
+| Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

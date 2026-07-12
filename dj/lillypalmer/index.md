@@ -1,14 +1,13 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Exhibition Park, Newcastle on Sat, 11 Jul 2026.
+Lilly Palmer is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Royale, Boston on Sat, 18 Jul 2026.
 
-Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Exhibition Park, Newcastle on Sat 11 Jul.
+Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Royale, Boston on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Exhibition Park | Newcastle |
 | Sat, 18 Jul 2026 | Royale | Boston |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
@@ -21,6 +20,7 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets l
 
 ## Recently played
 
+- Exhibition Park, Newcastle — Sat, 11 Jul 2026
 - Camperdown Country Park, Dundee — Sat, 4 Jul 2026
 - Tomorrowland Store Ibiza, Ibiza — Fri, 19 Jun 2026
 - Bolivar Beach Bar, Athens — Sat, 6 Jun 2026
@@ -28,10 +28,9 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets l
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 - fabric, London — Sun, 3 May 2026
 - Akvárium Klub, Budapest — Fri, 24 Apr 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

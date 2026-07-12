@@ -1,6 +1,6 @@
 # Comrade Winston
 
-Comrade Winston is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
+Comrade Winston is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The White Hotel, Manchester on Sat, 25 Jul 2026.
 
 Comrade Winston is a techno and house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Dublin and Madrid and 6 more. Often billed alongside Rosati, Blasha & Allatt and Beau Didier. Next up: The White Hotel, Manchester on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Comrade Winston is a techno and house artist based in Netherlands, tracked on so
 
 Rosati, Blasha & Allatt, Beau Didier
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comradewinston/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/comradewinston/)*

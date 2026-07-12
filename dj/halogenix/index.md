@@ -1,6 +1,6 @@
 # Halogenix
 
-Halogenix is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
+Halogenix is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
 
 Halogenix is a drum & bass and jungle artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Basel and Birmingham and 22 more. Often billed alongside SP:MC, Skeptical and Workforce. Next up: Document, Bristol on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Halogenix is a drum & bass and jungle artist tracked on soundcheck, with 55 sets
 
 SP:MC, Skeptical, Workforce
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halogenix/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halogenix/)*

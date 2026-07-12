@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Felipe Valenzuela + Bruno Schmidt + Andy Dyer / Bar: Dj Grip & Dystorizon" on Sat, 11 Jul 2026.
+Oven Club is a music venue in Valencia with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Souleast + Giorgio Bonetti" on Wed, 15 Jul 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights, with line-ups including Ariezzz, BAR (DE), Blanch and Bruno Schmidt and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 11 upcoming nights, with line-ups including Ariezzz, BAR (DE), Blanch and Caballeri and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Felipe Valenzuela + Bruno Schmidt + Andy Dyer / Bar: Dj Grip & Dystorizon | Bruno Schmidt, Dystorizon, Felipe Valenzuela |
 | Wed, 15 Jul 2026 | Souleast + Giorgio Bonetti |  |
 | Thu, 16 Jul 2026 | Oracle: JO$S + A13X + &MØRE |  |
 | Fri, 17 Jul 2026 | Total with Luigi Di Venere + Ladrillovitz + Angelinanyuli / Bar: La Bamba DJ´s | Ladrillovitz, Luigi Di Venere |
@@ -18,9 +17,10 @@ Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming nights,
 | Fri, 24 Jul 2026 | Total with Spacer Woman + Ladrillovitz + Ariezzz / Bar: Rafa Molina + Felix Portales | Ariezzz, Ladrillovitz, Spacer Woman |
 | Sat, 25 Jul 2026 | Dubbyman + Blanch / Bar: Colectivo Retropico | Blanch, Dubbyman |
 | Wed, 29 Jul 2026 | Souleast + Nate Cabrera |  |
+| Thu, 30 Jul 2026 | Set Point: Marc Strap + Juanjo Tur + Sara Freckled | Juanjo Tur |
 
 ## Address
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

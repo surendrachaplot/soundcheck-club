@@ -1,8 +1,8 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Mozey is a drum & bass and jungle artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Birmingham and Boston and 26 more. Often billed alongside Kanine, Hybrid Minds and K Motionz. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Mozey is a drum & bass and jungle artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Birmingham and Boston and 26 more. Often billed alongside Kanine, Hybrid Minds and K Motionz. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mozey is a drum & bass and jungle artist tracked on soundcheck, with 91 sets log
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mozey is a drum & bass and jungle artist tracked on soundcheck, with 91 sets log
 
 Kanine, Hybrid Minds, K Motionz
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

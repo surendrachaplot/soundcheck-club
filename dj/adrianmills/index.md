@@ -1,14 +1,13 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Praia de Esmoriz Beach, Porto on Sat, 11 Jul 2026.
+Adrian Mills is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Valley, Berlin on Sun, 2 Aug 2026.
 
-Adrian Mills is a techno and trance artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Praia de Esmoriz Beach, Porto on Sat 11 Jul.
+Adrian Mills is a techno and trance artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Valley, Berlin on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Praia de Esmoriz Beach | Porto |
 | Sun, 2 Aug 2026 | Valley | Berlin |
 | Sat, 8 Aug 2026 | TBA - // HALLE622 | Zurich |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -20,9 +19,11 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 210 sets 
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sat, 5 Sept 2026 | Industry City | New York City |
+| Fri, 11 Sept 2026 | TBA | Brussels |
 
 ## Recently played
 
+- Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - Audiodrome, Turin — Sun, 5 Jul 2026
 - Westhafen, Leipzig — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 210 sets 
 - Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 - Mondo Open Air, Madrid — Sat, 13 Jun 2026
-- Mondo, Madrid — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Cloudy, KUKO, Serafina
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

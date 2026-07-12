@@ -1,6 +1,6 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Bennet (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brussels and Cologne and 13 more. Often billed alongside Bambounou, Jenny Cara and dj sweet6teen. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 Bambounou, Jenny Cara, dj sweet6teen
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

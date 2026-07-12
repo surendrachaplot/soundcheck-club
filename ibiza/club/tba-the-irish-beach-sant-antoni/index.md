@@ -1,6 +1,6 @@
 # TBA - The Irish Beach Sant Antoni
 
-TBA - The Irish Beach Sant Antoni is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "[CANCELLED] Boat Brunch Ibiza" on Sun, 12 Jul 2026.
+TBA - The Irish Beach Sant Antoni is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "[CANCELLED] Boat Brunch Ibiza" on Sun, 12 Jul 2026.
 
 TBA - The Irish Beach Sant Antoni is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Fat Tony. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - The Irish Beach Sant Antoni is a music venue in Ibiza listed on soundcheck
 | Sun, 12 Jul 2026 | [CANCELLED] Boat Brunch Ibiza | Fat Tony |
 | Sun, 19 Jul 2026 | Boat Brunch Ibiza | Fat Tony |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tba-the-irish-beach-sant-antoni/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tba-the-irish-beach-sant-antoni/)*

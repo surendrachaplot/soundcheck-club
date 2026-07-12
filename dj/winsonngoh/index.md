@@ -1,14 +1,13 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 12 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Frankfurt on Sat, 11 Jul 2026.
+Winson Ngoh is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Next Eden Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 13 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: TBA, Frankfurt on Sat 11 Jul.
+Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 13 more. Often billed alongside Fantasm, KLOFAMA and I Hate Models. Next up: Next Eden Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | TBA | Frankfurt |
 | Tue, 21 Jul 2026 | Next Eden Ibiza | Ibiza |
 | Sun, 26 Jul 2026 | TBA | Munich |
 | Fri, 31 Jul 2026 | UNO MALTA | Malta |
@@ -23,6 +22,7 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 set
 
 ## Recently played
 
+- TBA, Frankfurt — Sat, 11 Jul 2026
 - Arzenal, Budapest — Fri, 3 Jul 2026
 - Studio Club Malaga, Malaga — Fri, 19 Jun 2026
 - Lx Factory, Lisbon — Sat, 13 Jun 2026
@@ -30,10 +30,9 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 22 set
 - TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
 - Lotto Arena / Sportpaleis, Antwerp — Thu, 30 Apr 2026
-- RAI Amsterdam, Amsterdam — Mon, 27 Apr 2026
 
 ## Shares bills with
 
 Fantasm, KLOFAMA, I Hate Models
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

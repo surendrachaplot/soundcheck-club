@@ -1,6 +1,6 @@
 # Dirty Daddy Don
 
-Dirty Daddy Don is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Dirty Daddy Don is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Dirty Daddy Don is a techno and house artist based in Canada, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Berlin and Hamburg and 4 more. Often billed alongside Khloe, Majdolen and Jacob Meehan. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Dirty Daddy Don is a techno and house artist based in Canada, tracked on soundch
 
 Khloe, Majdolen, Jacob Meehan
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydaddydon/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydaddydon/)*

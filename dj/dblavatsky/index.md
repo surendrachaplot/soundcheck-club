@@ -1,6 +1,6 @@
 # D.Blavatsky
 
-D.Blavatsky is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 1 Aug 2026.
+D.Blavatsky is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 1 Aug 2026.
 
 D.Blavatsky is a techno and hardcore artist tracked on soundcheck, with 52 sets logged across Athens, Berlin, London and Montreal and 4 more. Often billed alongside Neo Edo, Malice Doll and Beamskii. Next up: Société des arts technologiques, Montreal on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ D.Blavatsky is a techno and hardcore artist tracked on soundcheck, with 52 sets 
 
 Neo Edo, Malice Doll, Beamskii
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dblavatsky/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dblavatsky/)*

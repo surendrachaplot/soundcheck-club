@@ -1,6 +1,6 @@
 # Egregore
 
-Egregore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OXI, Berlin on Thu, 16 Jul 2026.
+Egregore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OXI, Berlin on Thu, 16 Jul 2026.
 
 Egregore is a techno and trance artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Chicago and Copenhagen and 8 more. Often billed alongside DINA, David Fogarty and Translucid. Next up: OXI, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Egregore is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 DINA, David Fogarty, Translucid
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egregore/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egregore/)*

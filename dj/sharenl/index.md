@@ -1,6 +1,6 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ipse, Berlin on Sun, 12 Jul 2026.
+SHARE (NL) is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ipse, Berlin on Sun, 12 Jul 2026.
 
 SHARE (NL) is a house and electronica artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Basel, Berlin and Ibiza and 8 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: Ipse, Berlin on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ SHARE (NL) is a house and electronica artist based in Netherlands, tracked on so
 
 BOHEM, KAHMEYA, Mira
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*

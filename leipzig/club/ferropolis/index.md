@@ -1,6 +1,6 @@
 # Ferropolis
 
-Ferropolis is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "WHOLE Festival 2026" on Fri, 17 Jul 2026.
+Ferropolis is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "WHOLE Festival 2026" on Fri, 17 Jul 2026.
 
 Ferropolis is a music venue in Leipzig listed on soundcheck. 1 upcoming night, with line-ups including 2THEMAX, aantz, Aaro (2) and Aaron Blau and 2 more. Browse upcoming dates, start times and who's playing. Ferropolisstrasse 1; 06773 Gräfenhainichen; Germany.
 
@@ -14,4 +14,4 @@ Ferropolis is a music venue in Leipzig listed on soundcheck. 1 upcoming night, w
 
 Ferropolisstrasse 1; 06773 Gräfenhainichen; Germany, Leipzig
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ferropolis/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ferropolis/)*

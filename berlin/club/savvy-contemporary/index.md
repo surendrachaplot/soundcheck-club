@@ -1,6 +1,6 @@
 # SAVVY Contemporary
 
-SAVVY Contemporary is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Lila – A nightlong musical ritual" on Fri, 17 Jul 2026.
+SAVVY Contemporary is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Lila – A nightlong musical ritual" on Fri, 17 Jul 2026.
 
 SAVVY Contemporary is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Reinickendorfer Straße 17, 13347 Berlin.
 
@@ -14,4 +14,4 @@ SAVVY Contemporary is a music venue in Berlin listed on soundcheck. 1 upcoming n
 
 Reinickendorfer Straße 17, 13347 Berlin, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/savvy-contemporary/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/savvy-contemporary/)*

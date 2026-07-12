@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "WE PLAY HARD: PETDuo, Dolce Potente, Atmosphreal, DRUM THE SYSTEM live" on Sat, 11 Jul 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Oriental Techno Garden - 東極玄音花園: Sea Ho, Rei7801, Morva (OPEN-AIR)" on Fri, 17 Jul 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 13 upcoming nights, with line-ups including Acidalia, Alimac, Atmosphreal and cccre and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 12 upcoming nights, with line-ups including Acidalia, Alimac, Atmosphreal and cccre and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | WE PLAY HARD: PETDuo, Dolce Potente, Atmosphreal, DRUM THE SYSTEM live | Atmosphreal, DRUM THE SYSTEM live, Dolce Potente, PETDuo |
 | Fri, 17 Jul 2026 | Oriental Techno Garden - 東極玄音花園: Sea Ho, Rei7801, Morva (OPEN-AIR) | Morva, Rei7801, Sea Ho |
 | Sat, 18 Jul 2026 | Educazione Techno Sessuale: Kinky Garden | Acidalia, Alimac, Elisa Bee, Industrial Romantico, Naydiaa, Waldo |
 | Fri, 24 Jul 2026 | Oriental Techno Garden - 東極玄音花園: Pinkboialwayscry, Shū, Zenyee | SHŪ (1), Zenyee |
@@ -18,9 +17,10 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 13 upc
 | Fri, 7 Aug 2026 | Oriental Techno Garden - 東極玄音花園: Shū b2b Morva, ZHAZHA WANG | Morva, SHŪ (1), ZHAZHA WANG |
 | Sat, 8 Aug 2026 | HARDGROOVE PARK: M.I.T.A., Elisa Bee, Kora Lyssa, cccre, Marthial | Elisa Bee, Kora Lyssa, M.I.T.A., Marthial, cccre |
 | Fri, 14 Aug 2026 | Oriental Techno Garden - 東極玄音花園: Morva, Zenyee, Shū | Morva, SHŪ (1), Zenyee |
+| Sat, 15 Aug 2026 | FERRAGHETTO: Dolce Potente b2b Industrial Romantico | Dolce Potente, Industrial Romantico |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

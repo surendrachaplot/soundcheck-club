@@ -1,6 +1,6 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Soffio Fregene, Rome on Sun, 12 Jul 2026.
+Nosedrip is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Soffio Fregene, Rome on Sun, 12 Jul 2026.
 
 Nosedrip is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OKO DJ, CJ Bolland and Donato Dozzy. Next up: Soffio Fregene, Rome on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 121 sets logge
 
 OKO DJ, CJ Bolland, Donato Dozzy
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

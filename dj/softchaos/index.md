@@ -1,6 +1,6 @@
 # softchaos
 
-softchaos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+softchaos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 softchaos is a techno and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ softchaos is a techno and house artist based in United States of America, tracke
 
 ENGALANAN, Hanaby, JASSS
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*

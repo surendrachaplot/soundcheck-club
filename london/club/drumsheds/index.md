@@ -1,8 +1,8 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
+DRUMSHEDS is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada" on Sat, 19 Sept 2026.
 
-DRUMSHEDS is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Ammo Avenue, Andy Daniell, Armand Van Helden and Basement Jaxx and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
+DRUMSHEDS is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Ammo Avenue, Amy Wiles, Andy Daniell and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
 ## What's on
 
@@ -11,9 +11,10 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 3 upcoming nights, wi
 | Sat, 19 Sept 2026 | Defected London w/ Armand Van Helden, Basement Jaxx, Groove Armada | Ammo Avenue, Andy Daniell, Armand Van Helden, Basement Jaxx, Don't F**k with Disco, Eats Everything, Ella Knight, Groove Armada, Jonas Blue, LEV (UK), Lloyd Nwagboso, Makèz, Melvo Baptiste, Paisley Jensen, RUZE, Roger Sanchez, Sam Divine, The Shapeshifters |
 | Sat, 26 Sept 2026 | City Splash |  |
 | Sat, 3 Oct 2026 | NEXUP: The Return with Max Dean  | Max Dean |
+| Fri, 9 Oct 2026 | Don't Let Daddy Know London w/ Ben Nicky, Dimitri Vegas | Amy Wiles, Krewella, Nicky Romero, P.O.U, R3hab |
 
 ## Address
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

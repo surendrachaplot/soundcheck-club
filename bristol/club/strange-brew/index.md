@@ -1,15 +1,13 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Strange Brew - Pride Afterparty w/ PeopleLikeusDJ + Love Muscle" on Sat, 11 Jul 2026.
+Strange Brew is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Baile do Futuro with BADSISTA, holandês & Mica" on Fri, 24 Jul 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including ALYA L, BADSISTA, Carla dal Forno and Chez de Milo and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including ALYA L, BADSISTA, Carla dal Forno and Chez de Milo and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Strange Brew - Pride Afterparty w/ PeopleLikeusDJ + Love Muscle |  |
-| Sat, 11 Jul 2026 | Pride Afterparty with PeopleLikeusDJ + Love Muscle | Michael Upson |
 | Fri, 24 Jul 2026 | Baile do Futuro with BADSISTA, holandês & Mica | BADSISTA, holandês |
 | Sat, 25 Jul 2026 | dreamcastmoe (with full live band) | Eldon (1), dreamcastmoe |
 | Fri, 31 Jul 2026 | PTS ϟ MssingNo & Mobilegirl | ALYA L, Mobilegirl, MssingNo |
@@ -22,4 +20,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 9 upcoming nights
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paragon, New York City on Fri, 17 Jul 2026.
+WTCHCRFT is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paragon, New York City on Fri, 17 Jul 2026.
 
 WTCHCRFT is a techno and club artist tracked on soundcheck, with 148 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, estoc and nextdimensional. Next up: Paragon, Newyorkcity on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ WTCHCRFT is a techno and club artist tracked on soundcheck, with 148 sets logged
 
 KYRUH, estoc, nextdimensional
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

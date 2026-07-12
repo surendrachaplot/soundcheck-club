@@ -1,6 +1,6 @@
 # Barca
 
-Barca is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "House of Tynemouth" on Sat, 29 Aug 2026.
+Barca is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "House of Tynemouth" on Sat, 29 Aug 2026.
 
 Barca is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4 The Arcade, Tynemouth, Tyne & Wear NE30 4BS.
 
@@ -14,4 +14,4 @@ Barca is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Brow
 
 4 The Arcade, Tynemouth, Tyne & Wear NE30 4BS, Newcastle
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/barca/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/barca/)*

@@ -1,6 +1,6 @@
 # Doss
 
-Doss is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
+Doss is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
 
 Doss is a club and techno artist tracked on soundcheck, with 50 sets logged across Athens, Austin, Berlin and Brisbane and 18 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: Colour Factory, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Doss is a club and techno artist tracked on soundcheck, with 50 sets logged acro
 
 Yves Tumor, 1NN3R53LF, CFCF
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

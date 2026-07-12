@@ -1,6 +1,6 @@
 # Voices From The Lake
 
-Voices From The Lake is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Gazometro, Rome on Sun, 12 Jul 2026.
+Voices From The Lake is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gazometro, Rome on Sun, 12 Jul 2026.
 
 Voices From The Lake is a techno and ambient artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Donato Dozzy, Neel and Ogazón. Next up: Gazometro, Rome on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ Voices From The Lake is a techno and ambient artist based in Italy, tracked on s
 
 Donato Dozzy, Neel, Ogazón
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voicesfromthelake/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voicesfromthelake/)*

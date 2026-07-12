@@ -1,14 +1,15 @@
 # Tammy Lakkis
 
-Tammy Lakkis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Spkrbox, Detroit on Sun, 12 Jul 2026.
+Tammy Lakkis is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Spkrbox, Detroit on Sun, 12 Jul 2026.
 
-Tammy Lakkis is a house and techno artist tracked on soundcheck, with 260 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Spkrbox, Detroit on Sun 12 Jul.
+Tammy Lakkis is a house and techno artist tracked on soundcheck, with 261 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Spkrbox, Detroit on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Spkrbox | Detroit |
+| Fri, 24 Jul 2026 | Mansions | New York City |
 | Sat, 25 Jul 2026 | TBA - Brooklyn | New York City |
 | Sun, 2 Aug 2026 | smartbar | Chicago |
 
@@ -27,4 +28,4 @@ Tammy Lakkis is a house and techno artist tracked on soundcheck, with 260 sets l
 
 Shigeto, Kenjiro, Ryan Spencer
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*

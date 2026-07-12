@@ -1,6 +1,6 @@
 # Heimlich Knüller
 
-Heimlich Knüller is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at gART.n, Berlin on Sun, 12 Jul 2026.
+Heimlich Knüller is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at gART.n, Berlin on Sun, 12 Jul 2026.
 
 Heimlich Knüller is a techno and downtempo artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Basel, Berlin and Cologne and 15 more. Often billed alongside Mimi Love, Mira and Pauli Pocket. Next up: gART.n, Berlin on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Heimlich Knüller is a techno and downtempo artist based in Germany, tracked on 
 
 Mimi Love, Mira, Pauli Pocket
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichknuller/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichknuller/)*

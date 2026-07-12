@@ -1,14 +1,13 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Under the K Bridge, New York City on Sat, 11 Jul 2026.
+BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Los Angeles, Los Angeles on Fri, 17 Jul 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and Diffrent. Next up: Under the K Bridge, Newyorkcity on Sat 11 Jul.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Basel and Berlin and 30 more. Often billed alongside Fenrick, Adrian Mills and Diffrent. Next up: TBA - Los Angeles, Losangeles on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Under the K Bridge | New York City |
 | Fri, 17 Jul 2026 | TBA - Los Angeles | Los Angeles |
 | Sun, 19 Jul 2026 | Radius | Chicago |
 | Sat, 25 Jul 2026 | KALT | Strasbourg |
@@ -21,6 +20,7 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
+- Under the K Bridge, New York City — Sat, 11 Jul 2026
 - 1015 Folsom, San Francisco/Oakland — Thu, 9 Jul 2026
 - Kilomètre25, Paris — Sat, 20 Jun 2026
 - Spook Club, Valencia — Sat, 6 Jun 2026
@@ -28,10 +28,9 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 - 8 Marvila, Lisbon — Sat, 16 May 2026
 - Den Anden Side, Copenhagen — Sat, 9 May 2026
-- TBA, Munich — Sun, 3 May 2026
 
 ## Shares bills with
 
 Fenrick, Adrian Mills, Diffrent
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

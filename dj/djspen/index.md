@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at House of Yes, New York City on Fri, 24 Jul 2026.
+DJ Spen is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at House of Yes, New York City on Fri, 24 Jul 2026.
 
 DJ Spen is a house and deep house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Chicago, Detroit and Edinburgh and 23 more. Often billed alongside sillygirlcarmen, Eddie Logix and Kenny Dope. Next up: House of Yes, Newyorkcity on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ DJ Spen is a house and deep house artist tracked on soundcheck, with 78 sets log
 
 sillygirlcarmen, Eddie Logix, Kenny Dope
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

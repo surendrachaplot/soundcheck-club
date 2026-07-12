@@ -1,6 +1,6 @@
 # Unglued
 
-Unglued is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Clock Factory, Bristol on Sat, 18 Jul 2026.
+Unglued is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Clock Factory, Bristol on Sat, 18 Jul 2026.
 
 Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Berlin and Boston and 20 more. Often billed alongside Degs, Whiney and Metrik. Next up: The Clock Factory, Bristol on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Degs, Whiney, Metrik
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*

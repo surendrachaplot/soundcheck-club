@@ -1,6 +1,6 @@
 # Red Light Tisco at KitKatClub
 
-Red Light Tisco at KitKatClub on Fri 31 Jul, Berlin. 12 acts on the bill: Acid Foxy, Blame the Booker, Franeva and Julian Shore and 8 more. Preview the line-up and save it on soundcheck.
+Red Light Tisco at KitKatClub on Fri 31 Jul, Berlin. 13 acts on the bill: Acid Foxy, Blame the Booker, Franeva and Julian Shore and 9 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Red Light Tisco at KitKatClub on Fri 31 Jul, Berlin. 12 acts on the bill: Acid F
 - Paula Hilton
 - PyjamaMama
 - maniaclina
+- nuarrrrr
 - substitüt
 
 *Source: [soundcheck](https://soundcheck.club/e/2469728-red-light-tisco-at-kitkatclub/)*

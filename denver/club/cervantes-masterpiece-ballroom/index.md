@@ -1,6 +1,6 @@
 # Cervantes' Masterpiece Ballroom
 
-Cervantes' Masterpiece Ballroom is a music venue in Denver with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Paul Oakenfold with The Crystal Method" on Fri, 17 Jul 2026.
+Cervantes' Masterpiece Ballroom is a music venue in Denver with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Paul Oakenfold with The Crystal Method" on Fri, 17 Jul 2026.
 
 Cervantes' Masterpiece Ballroom is a music venue in Denver listed on soundcheck. 3 upcoming nights, with line-ups including Paul Oakenfold, oskar med k and The Crystal Method. Browse upcoming dates, start times and who's playing. 2637 Welton Street, Five Points; Denver, CO 80205; United States.
 
@@ -16,4 +16,4 @@ Cervantes' Masterpiece Ballroom is a music venue in Denver listed on soundcheck.
 
 2637 Welton Street, Five Points; Denver, CO 80205; United States, Denver
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/cervantes-masterpiece-ballroom/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/cervantes-masterpiece-ballroom/)*

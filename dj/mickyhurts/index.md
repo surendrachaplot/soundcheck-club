@@ -1,6 +1,6 @@
 # Micky Hurts
 
-Micky Hurts is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Yellow House, Amsterdam on Fri, 31 Jul 2026.
+Micky Hurts is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Yellow House, Amsterdam on Fri, 31 Jul 2026.
 
 Micky Hurts is a house and tech house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Liverpool and 2 more. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri (1). Next up: Yellow House, Amsterdam on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Micky Hurts is a house and tech house artist tracked on soundcheck, with 51 sets
 
 Alexander Koning, Dave Leatherman, Dimitri (1)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyhurts/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyhurts/)*

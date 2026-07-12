@@ -1,6 +1,6 @@
 # Hicham
 
-Hicham is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
+Hicham is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
 
 Hicham is a house and techno artist tracked on soundcheck, with 51 sets logged across Bangkok, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Onur Özer, Alex Picone and Ancut. Next up: Circle Park, Brussels on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Hicham is a house and techno artist tracked on soundcheck, with 51 sets logged a
 
 Onur Özer, Alex Picone, Ancut
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham/)*

@@ -1,14 +1,13 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "jon van mono plays at migas" on Sat, 11 Jul 2026.
+migas, a listening bar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Machi plays at migas" on Sun, 12 Jul 2026.
 
-migas, a listening bar is a music venue in Berlin listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
+migas, a listening bar is a music venue in Berlin listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | jon van mono plays at migas |  |
 | Sun, 12 Jul 2026 | Machi plays at migas |  |
 | Fri, 17 Jul 2026 | 20 Spänn plays at migas |  |
 | Sat, 18 Jul 2026 | Christian Bachmann plays at migas |  |
@@ -20,4 +19,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 7 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

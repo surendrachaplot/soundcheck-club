@@ -1,6 +1,6 @@
 # The Shed
 
-The Shed is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "WaRoho x BROKEN TEMPO" on Sat, 25 Jul 2026.
+The Shed is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "WaRoho x BROKEN TEMPO" on Sat, 25 Jul 2026.
 
 The Shed is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. THE SHED SW19 1SD.
 
@@ -14,4 +14,4 @@ The Shed is a music venue in London listed on soundcheck. 1 upcoming night. Brow
 
 THE SHED SW19 1SD, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-shed/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-shed/)*

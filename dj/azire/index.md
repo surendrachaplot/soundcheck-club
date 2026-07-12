@@ -1,6 +1,6 @@
 # Azire
 
-Azire is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Hackney - secret location., London on Sat, 25 Jul 2026.
+Azire is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Hackney - secret location., London on Sat, 25 Jul 2026.
 
 Azire is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London and Manchester. Often billed alongside Kesh (1), Billa Bazz and DeRizzio. Next up: TBA - Hackney - secret location., London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Azire is a house and minimal artist based in United Kingdom, tracked on soundche
 
 Kesh (1), Billa Bazz, DeRizzio
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azire/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azire/)*

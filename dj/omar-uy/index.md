@@ -1,6 +1,6 @@
 # OMAR (UY)
 
-OMAR (UY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Rhythm, Toronto on Fri, 17 Jul 2026.
+OMAR (UY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Rhythm, Toronto on Fri, 17 Jul 2026.
 
 OMAR (UY) is a house and techno artist based in Uruguay, tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 30 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Rhythm, Toronto on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ OMAR (UY) is a house and techno artist based in Uruguay, tracked on soundcheck, 
 
 Oriana, Binh, Bobby.
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*

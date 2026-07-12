@@ -1,6 +1,6 @@
 # Victor Ruiz
 
-Victor Ruiz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lieberscholli, Munich on Fri, 17 Jul 2026.
+Victor Ruiz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lieberscholli, Munich on Fri, 17 Jul 2026.
 
 Victor Ruiz is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Bali and Bangkok and 38 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Lieberscholli, Munich on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Victor Ruiz is a techno and trance artist tracked on soundcheck, with 98 sets lo
 
 Bart Skils, Alex Stein, Sama' Abdulhadi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*

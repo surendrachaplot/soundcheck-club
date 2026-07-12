@@ -1,6 +1,6 @@
 # aerodynamisme
 
-aerodynamisme is a Electronica and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Point Ephémère, Paris on Fri, 17 Jul 2026.
+aerodynamisme is a Electronica and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Point Ephémère, Paris on Fri, 17 Jul 2026.
 
 aerodynamisme is an electronica and afro tech artist based in France, tracked on soundcheck, with 14 sets logged across Paris. Often billed alongside Muddyoush, SIL V3 R 100 and 9oodkid. Next up: Point Ephémère, Paris on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ aerodynamisme is an electronica and afro tech artist based in France, tracked on
 
 Muddyoush, SIL V3 R 100, 9oodkid
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aerodynamisme/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aerodynamisme/)*

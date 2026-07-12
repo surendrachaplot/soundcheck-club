@@ -1,6 +1,6 @@
 # DARKSIDE
 
-DARKSIDE is a Electronica and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at EartH, London on Sun, 12 Jul 2026.
+DARKSIDE is a Electronica and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at EartH, London on Sun, 12 Jul 2026.
 
 DARKSIDE is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Chicago, Dublin and Edinburgh and 10 more. Often billed alongside Adam Ten, Beltran and Blawan. Next up: EartH, London on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ DARKSIDE is an electronica and experimental artist based in United States of Ame
 
 Adam Ten, Beltran, Blawan
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*

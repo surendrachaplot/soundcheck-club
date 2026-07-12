@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium
 
-TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium on Wed 5 Aug, Berlin. 2 acts on the bill: Niklas Delhey and Slimegoat144. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium on Wed 5 Aug, Berlin. 3 acts on the bill: Gabrielle (DE), Niklas Delhey and Slimegoat144. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium on Wed 5 Aug, Berlin. 2 acts on 
 
 ## Line-up
 
+- Gabrielle (DE)
 - Niklas Delhey
 - Slimegoat144
 

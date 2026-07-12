@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at KitKatClub, Berlin on Fri, 17 Jul 2026.
+BERLIN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at KitKatClub, Berlin on Fri, 17 Jul 2026.
 
 BERLIN is a house and techno artist based in Japan, tracked on soundcheck, with 36 sets logged across Berlin, Osaka, Paris and Tokyo. Often billed alongside Laigonen Kanonen, V (NYC) and circles of monarch. Next up: KitKatClub, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ BERLIN is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Laigonen Kanonen, V (NYC), circles of monarch
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

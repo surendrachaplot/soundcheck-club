@@ -1,15 +1,13 @@
 # dBridge
 
-dBridge is a Drum & Bass and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at PRST, Vienna on Sat, 11 Jul 2026.
+dBridge is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Garage Noord, Amsterdam on Sat, 18 Jul 2026.
 
-dBridge is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Boston and Brighton and 29 more. Often billed alongside SP:MC, DjRUM and Kia (AU). Next up: PRST, Vienna on Sat 11 Jul.
+dBridge is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Boston and Brighton and 29 more. Often billed alongside SP:MC, DjRUM and Kia (AU). Next up: Garage Noord, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | PRST | Vienna |
-| Sat, 11 Jul 2026 | PRST | Vienna |
 | Sat, 18 Jul 2026 | Garage Noord | Amsterdam |
 | Fri, 24 Jul 2026 | The White Hotel | Manchester |
 | Fri, 21 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -17,17 +15,17 @@ dBridge is a drum & bass and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- PRST, Vienna — Sat, 11 Jul 2026
+- PRST, Vienna — Sat, 11 Jul 2026
 - OIL Club, Shenzhen — Sat, 13 Jun 2026
 - FOLD, London — Sat, 16 May 2026
 - Volks, Brighton — Sat, 16 May 2026
 - TBA - LFO, Madrid — Fri, 15 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 - Nowadays, New York City — Fri, 13 Feb 2026
-- The Fox and Firkin, London — Sat, 7 Feb 2026
-- Process PDX, Portland — Sat, 22 Nov 2025
 
 ## Shares bills with
 
 SP:MC, DjRUM, Kia (AU)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*

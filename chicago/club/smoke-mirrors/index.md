@@ -1,14 +1,13 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Player Dave" on Sat, 11 Jul 2026.
+Smoke & Mirrors is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Hadone" on Fri, 24 Jul 2026.
 
-Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including XVIA, DJ Dextro, Dombresky and Eulalia and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
+Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including XVIA, DJ Dextro, Dombresky and Eulalia and 2 more. Browse upcoming dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Player Dave | Player Dave |
 | Fri, 24 Jul 2026 | Hadone | Hadone, Jason Patrick, XVIA |
 | Sat, 25 Jul 2026 | Villager | Villager |
 | Thu, 30 Jul 2026 | Official Lollapalooza Aftershow: MPH | Kirk (US), MPH (1) |
@@ -22,4 +21,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming nig
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

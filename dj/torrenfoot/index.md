@@ -1,6 +1,6 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at SILO, New York City on Fri, 14 Aug 2026.
+Torren Foot is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at SILO, New York City on Fri, 14 Aug 2026.
 
 Torren Foot is a house and tech house artist tracked on soundcheck, with 49 sets logged across Austin, Boston, Brisbane and Chicago and 12 more. Often billed alongside Airwolf Paradise, Dom Dolla and Sonny Fodera. Next up: SILO, Newyorkcity on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Torren Foot is a house and tech house artist tracked on soundcheck, with 49 sets
 
 Airwolf Paradise, Dom Dolla, Sonny Fodera
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*

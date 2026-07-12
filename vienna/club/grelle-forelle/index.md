@@ -1,14 +1,13 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Trance & Bounce in der Grellen Forelle /w Wyldhearts Germany" on Sat, 11 Jul 2026.
+Grelle Forelle is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "FISH MARKET - Dextro" on Fri, 17 Jul 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Alarico, ALIBI, Aras and ASCHENBRENNER and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Alarico, ALIBI, Aras and CARAVEL and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Trance & Bounce in der Grellen Forelle /w Wyldhearts Germany | ASCHENBRENNER, BabaBass3000, Bobaz Lobster, Kamäleon, Nachtwasser, OSKAMAXX, SUITSIDE, pinklotion |
 | Fri, 17 Jul 2026 | FISH MARKET - Dextro | DREYA, Dextro, Felix Rupprecht, Gerald VDH, Lina K |
 | Sat, 18 Jul 2026 | CONTRAST pres. DARKMTTR Label Night | ALIBI, Aras, Eminelli, Purrdition, S.P.Y, Special Guest (US), The Upbeats, VISION |
 | Fri, 24 Jul 2026 | Grelle Forelle Sommerfest | Alarico, SHDW, Violetta (1) |
@@ -20,4 +19,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming night
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

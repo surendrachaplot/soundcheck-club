@@ -1,6 +1,6 @@
 # klik klak SUMMER EDIT at Laska V21
 
-klik klak SUMMER EDIT at Laska V21 on Fri 14 Aug, Riga. 2 acts on the bill: Baba Sy and Opoku. Techno. Preview the line-up and save it on soundcheck.
+klik klak SUMMER EDIT at Laska V21 on Fri 14 Aug, Riga. 3 acts on the bill: Baba Sy, Freiya March and Opoku. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ klik klak SUMMER EDIT at Laska V21 on Fri 14 Aug, Riga. 2 acts on the bill: Baba
 ## Line-up
 
 - Baba Sy
+- Freiya March
 - Opoku
 
 *Source: [soundcheck](https://soundcheck.club/e/2485450-klik-klak-summer-edit-at-laska-v21/)*

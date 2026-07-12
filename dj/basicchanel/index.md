@@ -1,6 +1,6 @@
 # basic chanel
 
-basic chanel is a Dub Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Starlane Pizza Bar, London on Sun, 12 Jul 2026.
+basic chanel is a Dub Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Starlane Pizza Bar, London on Sun, 12 Jul 2026.
 
 basic chanel is a dub techno and dubstep artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and London and 1 more. Often billed alongside Allecto, Cam Joon and Ehua. Next up: Starlane Pizza Bar, London on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ basic chanel is a dub techno and dubstep artist tracked on soundcheck, with 36 s
 
 Allecto, Cam Joon, Ehua
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

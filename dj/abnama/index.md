@@ -1,6 +1,6 @@
 # ābnamā
 
-ābnamā is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+ābnamā is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 ābnamā is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Athens, Berlin, Leipzig and Madrid and 7 more. Often billed alongside Camilla Rae, 131bpm and Majdolen. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@
 
 Camilla Rae, 131bpm, Majdolen
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abnama/)*

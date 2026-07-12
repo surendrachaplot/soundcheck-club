@@ -1,6 +1,6 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Parkcafe, Cologne on Sat, 18 Jul 2026.
+Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Parkcafe, Cologne on Sat, 18 Jul 2026.
 
 Mystery Affair is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: Parkcafe, Cologne on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mystery Affair is a house and techno artist tracked on soundcheck, with 91 sets 
 
 Ursula Prawn, Portugal, sadgal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*

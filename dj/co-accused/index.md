@@ -1,6 +1,6 @@
 # Co-Accused
 
-Co-Accused is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Macarena Club, Barcelona on Thu, 16 Jul 2026.
+Co-Accused is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Macarena Club, Barcelona on Thu, 16 Jul 2026.
 
 Co-Accused is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Dundee and Glasgow and 1 more. Often billed alongside Gary Beck, Fear-E and Dave Clarke. Next up: Macarena Club, Barcelona on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Co-Accused is a techno and acid artist based in United Kingdom, tracked on sound
 
 Gary Beck, Fear-E, Dave Clarke
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/co-accused/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/co-accused/)*

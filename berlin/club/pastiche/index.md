@@ -1,14 +1,13 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Ulla - Live Set I 28193 I SOLD OUT" on Sat, 11 Jul 2026.
+Pastiche is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Dudù Kouate - Live Performance*" on Sat, 18 Jul 2026.
 
-Pastiche is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Billy Caso, Space Ghost (BD) and Ulla. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
+Pastiche is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Billy Caso and Space Ghost (BD). Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Ulla - Live Set I 28193 I SOLD OUT | Ulla |
 | Sat, 18 Jul 2026 | Dudù Kouate - Live Performance* |  |
 | Fri, 24 Jul 2026 | Spaceghost - DJ Set* | Space Ghost (BD) |
 | Tue, 28 Jul 2026 | Music Production for Beginners | Billy Caso |
@@ -18,4 +17,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 5 upcoming nights, wit
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

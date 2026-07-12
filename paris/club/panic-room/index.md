@@ -1,14 +1,13 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "FINESSE REKORDS X MAGIC MARKET" on Sat, 11 Jul 2026.
+Panic Room is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "AÉROMIX" on Thu, 16 Jul 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Magic Number. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Magic Number. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | FINESSE REKORDS X MAGIC MARKET |  |
 | Thu, 16 Jul 2026 | AÉROMIX |  |
 | Fri, 17 Jul 2026 | BERRY BEATS |  |
 | Sat, 18 Jul 2026 | SHYMEN RECORDS |  |
@@ -20,4 +19,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 7 upcoming nights, wi
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

@@ -1,6 +1,6 @@
 # Forum Station
 
-Forum Station is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Egoless Showcase at Forum Station - OPEN AIR" on Sun, 12 Jul 2026.
+Forum Station is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Egoless Showcase at Forum Station - OPEN AIR" on Sun, 12 Jul 2026.
 
 Forum Station is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Avenida del Litoral, 08019 Forum BARCELONA.
 
@@ -15,4 +15,4 @@ Forum Station is a music venue in Barcelona listed on soundcheck. 2 upcoming nig
 
 Avenida del Litoral, 08019 Forum BARCELONA, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/forum-station/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/forum-station/)*

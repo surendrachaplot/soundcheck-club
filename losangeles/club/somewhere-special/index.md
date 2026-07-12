@@ -1,14 +1,13 @@
 # Somewhere Special
 
-Somewhere Special is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Hypersleep - a deep progressive rooftop day party" on Sat, 11 Jul 2026.
+Somewhere Special is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "VERTICAL" on Sun, 12 Jul 2026.
 
-Somewhere Special is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including DARIUS, Dastan, DELACOUR and Dirt Vibes and 2 more. Browse upcoming dates, start times and who's playing. 929 S Broadway, Los Angeles, CA 90015.
+Somewhere Special is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including DARIUS, DELACOUR, Dirt Vibes and goodie bags. Browse upcoming dates, start times and who's playing. 929 S Broadway, Los Angeles, CA 90015.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hypersleep - a deep progressive rooftop day party | Dastan, Rongeth Guzman, tenSpeed |
 | Sun, 12 Jul 2026 | VERTICAL | DARIUS, Dirt Vibes |
 | Sat, 18 Jul 2026 | Rooftop Noise presents: DELACOUR, goodie bags and NoriKuest | DELACOUR, goodie bags |
 
@@ -16,4 +15,4 @@ Somewhere Special is a music venue in Losangeles listed on soundcheck. 3 upcomin
 
 929 S Broadway, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/somewhere-special/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/somewhere-special/)*

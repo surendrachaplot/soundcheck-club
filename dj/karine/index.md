@@ -1,6 +1,6 @@
 # Karine
 
-Karine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat, 18 Jul 2026.
+Karine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat, 18 Jul 2026.
 
 Karine is a house and techno artist based in Ukraine, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Karine is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 Shakolin, Noizar, Timur Basha
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*

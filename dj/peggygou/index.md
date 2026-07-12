@@ -1,6 +1,6 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Domaine National du Palais Royal, Paris on Mon, 13 Jul 2026.
+Peggy Gou is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Domaine National du Palais Royal, Paris on Mon, 13 Jul 2026.
 
 Peggy Gou is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Barcelona and 38 more. Often billed alongside ANOTR, Chloé Caillet and Skream. Next up: TBA - Domaine National du Palais Royal, Paris on Mon 13 Jul.
 
@@ -29,4 +29,4 @@ Peggy Gou is a house and techno artist tracked on soundcheck, with 95 sets logge
 
 ANOTR, Chloé Caillet, Skream
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

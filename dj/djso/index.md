@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at FLUCC, Vienna on Fri, 31 Jul 2026.
+DJ SO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at FLUCC, Vienna on Fri, 31 Jul 2026.
 
 DJ SO is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 12 more. Often billed alongside Cityboy from Seoul, DJ Sodeyama and Hiver. Next up: FLUCC, Vienna on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ DJ SO is a techno and house artist tracked on soundcheck, with 79 sets logged ac
 
 Cityboy from Seoul, DJ Sodeyama, Hiver
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

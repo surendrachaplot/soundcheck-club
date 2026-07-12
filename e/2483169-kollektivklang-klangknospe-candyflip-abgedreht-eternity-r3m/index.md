@@ -1,6 +1,6 @@
 # KollektivKlang - KlangKnospe - Candyflip - Abgedreht - Eternity - R3M - Lerm at Void Club
 
-KollektivKlang - KlangKnospe - Candyflip - Abgedreht - Eternity - R3M - Lerm at Void Club on Fri 31 Jul, Berlin. 14 acts on the bill: Callado, Cobb Douglas, DJ Parabolspiegel and Dj Wifi (3) and 10 more. Techno. Preview the line-up and save it on soundcheck.
+KollektivKlang - KlangKnospe - Candyflip - Abgedreht - Eternity - R3M - Lerm at Void Club on Fri 31 Jul, Berlin. 15 acts on the bill: Callado, Cobb Douglas, DJ Parabolspiegel and Dj Wifi (3) and 11 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ KollektivKlang - KlangKnospe - Candyflip - Abgedreht - Eternity - R3M - Lerm at 
 - MILANCHOLIE
 - Obelisk
 - Ozzwald
+- Rheindaaa
 - STURM
 - Un.Frieden
 - e.leptic

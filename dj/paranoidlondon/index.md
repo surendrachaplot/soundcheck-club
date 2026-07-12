@@ -1,6 +1,6 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+Paranoid London is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
 Paranoid London is a techno and acid artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 115 sets
 
 Palms Trax, Elena Colombi, FJAAK
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

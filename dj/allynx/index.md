@@ -1,6 +1,6 @@
 # Allynx
 
-Allynx is a Jazz and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+Allynx is a Jazz and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 Allynx is a jazz and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin and Hamburg. Often billed alongside Marian Tone, Daniel Best and Kava (GE). Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Allynx is a jazz and techno artist based in Germany, tracked on soundcheck, with
 
 Marian Tone, Daniel Best, Kava (GE)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allynx/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allynx/)*

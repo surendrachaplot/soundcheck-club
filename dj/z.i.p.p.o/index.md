@@ -1,6 +1,6 @@
 # Z.I.P.P.O
 
-Z.I.P.P.O is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
+Z.I.P.P.O is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
 
 Z.I.P.P.O is a techno and house artist tracked on soundcheck, with 65 sets logged across Athens, Berlin, Boston and Brussels and 14 more. Often billed alongside Asymptote, Fireground and Hiver. Next up: Tresor / Globus, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Z.I.P.P.O is a techno and house artist tracked on soundcheck, with 65 sets logge
 
 Asymptote, Fireground, Hiver
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/z.i.p.p.o/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/z.i.p.p.o/)*

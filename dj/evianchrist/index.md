@@ -1,6 +1,6 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
+Evian Christ is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
 
 Evian Christ is a trance and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Belfast and 28 more. Often billed alongside seretide, Torus and Malibu. Next up: Silverworks Island, London on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Evian Christ is a trance and techno artist tracked on soundcheck, with 76 sets l
 
 seretide, Torus, Malibu
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

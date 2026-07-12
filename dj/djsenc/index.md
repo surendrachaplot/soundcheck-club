@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Rex Club, Paris on Sat, 18 Jul 2026.
+DJ Senc is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Rex Club, Paris on Sat, 18 Jul 2026.
 
 DJ Senc is a house and tech house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Samuel Deep, Doudou MD and Dyed Soundorom. Next up: Rex Club, Paris on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ DJ Senc is a house and tech house artist tracked on soundcheck, with 124 sets lo
 
 Samuel Deep, Doudou MD, Dyed Soundorom
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

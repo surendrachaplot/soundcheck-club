@@ -1,14 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Take A Trip with Mario Cotto" on Sat, 11 Jul 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Spatial Awareness - Shang" on Thu, 16 Jul 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 9 upcoming nights, with line-ups including ADAB, Furtive, Mario Cotto and Shang and 1 more. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 8 upcoming nights, with line-ups including ADAB, Furtive, Shang and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Take A Trip with Mario Cotto | Mario Cotto |
 | Thu, 16 Jul 2026 | Spatial Awareness - Shang | Shang |
 | Fri, 17 Jul 2026 | FRONT STREET CLASH WITH DJ QUIKDISH |  |
 | Sat, 18 Jul 2026 | Harlan Levine at The Sound Lounge |  |
@@ -22,4 +21,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

@@ -1,14 +1,13 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "3xNYX: Bootylicious" on Sat, 11 Jul 2026.
+Club NYX is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "3xNYX: POP-UP hosted by Loena Maas" on Sat, 18 Jul 2026.
 
-Club NYX is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Alexis Knox, Alma Negrot, cera and Dangerous Rose and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
+Club NYX is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Alexis Knox, Alma Negrot, cera and Dangerous Rose and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | 3xNYX: Bootylicious | Gabriell, Kaiena, hababy maroc |
 | Sat, 18 Jul 2026 | 3xNYX: POP-UP hosted by Loena Maas |  |
 | Sat, 25 Jul 2026 | 3xNYX: Milkshake AFTER | Alexis Knox, HE.RA, Juja, MRNDB |
 | Wed, 29 Jul 2026 | Vodka Woensdag XXL: Night of the Diva's | Emma Champagne Queen, Heritage Listed, Kirilski, Matt Suave, The Groovejet, cera |
@@ -22,4 +21,4 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, 
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

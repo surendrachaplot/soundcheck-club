@@ -1,6 +1,6 @@
 # Absolem Marseille
 
-Absolem Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "[AFTER] THAT TRIP W. Vadim Svoboda LIVE, HI.lo, Remain" on Sun, 12 Jul 2026.
+Absolem Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "[AFTER] THAT TRIP W. Vadim Svoboda LIVE, HI.lo, Remain" on Sun, 12 Jul 2026.
 
 Absolem Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including Chtak., FRANKIEE, KHALK and Lüma-G and 2 more. Browse upcoming dates, start times and who's playing. 40 Boulevard Jacques Saadé, 13002 Marseille, France.
 
@@ -16,4 +16,4 @@ Absolem Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming
 
 40 Boulevard Jacques Saadé, 13002 Marseille, France, Marseille
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/absolem-marseille/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/absolem-marseille/)*

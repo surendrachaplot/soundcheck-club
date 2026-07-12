@@ -1,14 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Sacré présente: Burrata Records Take Over" on Sat, 11 Jul 2026.
+Sacré is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sacré présente: Anita B Queen & Blossom UP" on Fri, 17 Jul 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Ams (FR), Anita B Queen, Autograf and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Ams (FR), Anita B Queen, Autograf and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Sacré présente: Burrata Records Take Over |  |
 | Fri, 17 Jul 2026 | Sacré présente: Anita B Queen & Blossom UP | Anita B Queen |
 | Sat, 18 Jul 2026 | Sacré présente: Jafunk & Perle Ropers | Jafunk, Perle Ropers |
 | Fri, 24 Jul 2026 | Sacré présente: Wondersun Festival Take Over | Da Fresh, Ferrari |
@@ -18,9 +17,10 @@ Sacré is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Fri, 7 Aug 2026 | Sacré présente: Black Rave Culture & Kokoprisci | Black Rave Culture, Kokoprisci |
 | Sat, 8 Aug 2026 | Sacré présente: Anna Lunoe & Monaco | Monaco |
 | Fri, 28 Aug 2026 | Sacré présente: Schak & Camporeale | Camporeale (FR), Schak |
+| Sat, 29 Aug 2026 | Sacré présente: Autograf | Autograf |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

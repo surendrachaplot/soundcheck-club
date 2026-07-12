@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Dean Fielding" on Fri, 24 Jul 2026.
+Hope House is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Dean Fielding" on Fri, 24 Jul 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including Dean Fielding. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -15,4 +15,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 2 upcoming nights, wi
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

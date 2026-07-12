@@ -1,6 +1,6 @@
 # Laia
 
-Laia is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Glazart, Paris on Sat, 18 Jul 2026.
+Laia is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Glazart, Paris on Sat, 18 Jul 2026.
 
 Laia is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: Glazart, Paris on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Laia is a techno and house artist tracked on soundcheck, with 111 sets logged ac
 
 Roll Dann, Shadow Hrym (ES), Alexandre Laeddis
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

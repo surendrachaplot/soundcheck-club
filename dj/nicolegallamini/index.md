@@ -1,6 +1,6 @@
 # Nicole Gallamini
 
-Nicole Gallamini is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at District 7, Los Angeles on Sun, 12 Jul 2026.
+Nicole Gallamini is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at District 7, Los Angeles on Sun, 12 Jul 2026.
 
 Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 46 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside DIFFER, Thunderpony and Miluhska. Next up: District 7, Losangeles on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 46
 
 DIFFER, Thunderpony, Miluhska
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*

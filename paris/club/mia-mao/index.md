@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "BOUNCIN': Lil' Louis, Koboyo, Zisko, LeLeon" on Sat, 11 Jul 2026.
+Mia Mao is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "MIND: Franck, Upper90, Arman John, Carla Schmitt & more" on Mon, 13 Jul 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Adam Beyer, Alba Franch, Arman John and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Alba Franch, Arman John and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | BOUNCIN': Lil' Louis, Koboyo, Zisko, LeLeon | Koboyo, LeLeon, Lil' Louis, Zisko |
 | Mon, 13 Jul 2026 | MIND: Franck, Upper90, Arman John, Carla Schmitt & more | Arman John, Carla Schmitt, Parfait, Upper90, franck |
 | Fri, 17 Jul 2026 | MIA MAO presents: Alba Franch, KØZLØV, Noro$t & Nyco | Alba Franch, KØZLØV, Nyco (FR) |
 | Sat, 18 Jul 2026 | 23:59 – Dual Damage pres. BUILD 2 BREAK (Double DJ SET), FRAW, INCULT, NGL, nox, Glaskeen | Dual Damage, Glaskeen, NGL (NL), nox |
@@ -23,4 +22,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 10 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

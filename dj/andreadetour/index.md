@@ -1,6 +1,6 @@
 # Andrea de Tour
 
-Andrea de Tour is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 12 Jul 2026.
+Andrea de Tour is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sun, 12 Jul 2026.
 
 Andrea de Tour is a house and techno artist based in Canada, tracked on soundcheck, with 33 sets logged across Montreal and Toronto. Often billed alongside Audrey Bélanger, Vayia and Felix Patry. Next up: Village au Pied-du-Courant, Montreal on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Andrea de Tour is a house and techno artist based in Canada, tracked on soundche
 
 Audrey Bélanger, Vayia, Felix Patry
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadetour/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadetour/)*

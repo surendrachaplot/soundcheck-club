@@ -1,6 +1,6 @@
 # Revier Oslo
 
-Revier Oslo is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Skodde invites Space Trax" on Sat, 18 Jul 2026.
+Revier Oslo is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Skodde invites Space Trax" on Sat, 18 Jul 2026.
 
 Revier Oslo is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Anémi, Frank Heise, Komet99 and Philipp Drube and 1 more. Browse upcoming dates, start times and who's playing. Kongens gate 5, 0153 Oslo.
 
@@ -14,4 +14,4 @@ Revier Oslo is a music venue in Oslo listed on soundcheck. 1 upcoming night, wit
 
 Kongens gate 5, 0153 Oslo, Oslo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*

@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Hidden Love presents: The Loopmasters All Night Long" on Sat, 11 Jul 2026.
+Yamamori Tengu is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Tengu presents: Lou Nour fka SICARIA with Chunky + Burnout & Jezebel + Rub A Dub HIFI" on Fri, 17 Jul 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including ANNĒ, Byron Yeates, Chunky and darkmavis and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ANNĒ, Byron Yeates, Chunky and darkmavis and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hidden Love presents: The Loopmasters All Night Long | DJ Frequency, DJ Speed, TheLoopmasters |
 | Fri, 17 Jul 2026 | Tengu presents: Lou Nour fka SICARIA with Chunky + Burnout & Jezebel + Rub A Dub HIFI | Chunky, Jezebel, Lou Nour, Rub A Dub HiFi, SICARIA |
 | Sat, 18 Jul 2026 | Tengu presents: I. JORDAN & Byron Yeates + darkmavis | Byron Yeates, I. JORDAN, darkmavis |
 | Fri, 24 Jul 2026 | illicit: Dave Angel | Dave Angel, EMMIE, JUSTDYL |
@@ -23,4 +22,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 10 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,14 +1,13 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 24 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Techno Agency - O.S.M.W.S.T.A - T6E RESILIENCE @ Liquid Club - 2 Stages" on Sat, 11 Jul 2026.
+Liquid Club is a music venue in Malta with 23 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DOSE: Techno Thursdays / Season III" on Thu, 16 Jul 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 24 upcoming nights, with line-ups including A.Paul, Abdy, ALMOST HUMAN and ARANEA and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 23 upcoming nights, with line-ups including A.Paul, Abdy, ALMOST HUMAN and Billy Hills and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Techno Agency - O.S.M.W.S.T.A - T6E RESILIENCE @ Liquid Club - 2 Stages | ARANEA, Philip Ackowsky |
 | Thu, 16 Jul 2026 | DOSE: Techno Thursdays / Season III | Eaub, PHYNYKS, VANHEUSDEN |
 | Fri, 17 Jul 2026 | Coyu [VINYL SET] – VORTEX | Coyu |
 | Sat, 18 Jul 2026 | UNDERGROUND ROOM & BRUTAL RAVE PRESENT WARIND |  |
@@ -18,9 +17,10 @@ Liquid Club is a music venue in Malta listed on soundcheck. 24 upcoming nights, 
 | Thu, 30 Jul 2026 | DOSE: Techno Thursdays / Season III |  |
 | Sun, 2 Aug 2026 | Lil Texas // BASSTEK | ALMOST HUMAN, Billy Hills, Lil Texas |
 | Thu, 6 Aug 2026 | DOSE: Techno Thursdays / Season III |  |
+| Sat, 8 Aug 2026 | Kore Hypnotica - CHAPTER THREE - Tina, Chouhal, Sofried |  |
 
 ## Address
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

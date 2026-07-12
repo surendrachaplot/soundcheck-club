@@ -1,6 +1,6 @@
 # Triqi
 
-Triqi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OXI, Berlin on Sun, 12 Jul 2026.
+Triqi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OXI, Berlin on Sun, 12 Jul 2026.
 
 Triqi is a house and techno artist tracked on soundcheck, with 118 sets logged across Berlin, Cologne, Hamburg and Prague. Often billed alongside Immy, INVERNO and hripsime. Next up: OXI, Berlin on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Triqi is a house and techno artist tracked on soundcheck, with 118 sets logged a
 
 Immy, INVERNO, hripsime
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/triqi/)*

@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Wax Music Lounge, Melbourne on Fri, 17 Jul 2026.
+DJ Possum is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Wax Music Lounge, Melbourne on Fri, 17 Jul 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 80 sets logged across Berlin, Copenhagen, London and Losangeles and 4 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: Wax Music Lounge, Melbourne on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 80 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

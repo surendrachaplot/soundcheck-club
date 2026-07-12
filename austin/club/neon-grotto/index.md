@@ -1,14 +1,13 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Might Be Magic: Second Saturdays (VINYL NIGHT) feat. Slyde Drexler, TIM & Horse Opera" on Sat, 11 Jul 2026.
+Neon Grotto is a music venue in Austin with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "All Things Deep | JT Donaldson - Knos - Rambo " on Thu, 16 Jul 2026.
 
-Neon Grotto is a music venue in Austin listed on soundcheck. 3 upcoming nights, with line-ups including Feathervane, Horse Opera, JT Donaldson and Knos and 2 more. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
+Neon Grotto is a music venue in Austin listed on soundcheck. 2 upcoming nights, with line-ups including Feathervane, JT Donaldson, Knos and Rambo. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Might Be Magic: Second Saturdays (VINYL NIGHT) feat. Slyde Drexler, TIM & Horse Opera | Horse Opera, Slyde Drexler |
 | Thu, 16 Jul 2026 | All Things Deep / JT Donaldson - Knos - Rambo  | JT Donaldson, Knos, Rambo |
 | Sun, 26 Jul 2026 | Where We Are | Feathervane |
 
@@ -16,4 +15,4 @@ Neon Grotto is a music venue in Austin listed on soundcheck. 3 upcoming nights, 
 
 318 Colorado St, Austin, TX 78701, United States, Austin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*

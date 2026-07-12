@@ -1,6 +1,6 @@
 # De Schuurman
 
-De Schuurman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Beachclub Indigo, The Hague on Sat, 18 Jul 2026.
+De Schuurman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Beachclub Indigo, The Hague on Sat, 18 Jul 2026.
 
 De Schuurman is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Catu Diosis, Nsasi and BASHKKA. Next up: Beachclub Indigo, Thehague on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ De Schuurman is a house and techno artist tracked on soundcheck, with 52 sets lo
 
 Catu Diosis, Nsasi, BASHKKA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

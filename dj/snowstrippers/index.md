@@ -1,6 +1,6 @@
 # Snow Strippers
 
-Snow Strippers is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Snow Strippers is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Snow Strippers is an electro and electronica artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Barcelona, Basel and Berlin and 29 more. Often billed alongside Eera, Nick León and A. G. Cook. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Snow Strippers is an electro and electronica artist based in United States of Am
 
 Eera, Nick León, A. G. Cook
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snowstrippers/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snowstrippers/)*

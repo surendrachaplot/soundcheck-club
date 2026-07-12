@@ -1,14 +1,13 @@
 # Entertainment Project
 
-Entertainment Project is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Entertainment Project with GodDam" on Sat, 11 Jul 2026.
+Entertainment Project is a music venue in Bangkok with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Open Decks at Ent Project" on Sun, 12 Jul 2026.
 
-Entertainment Project is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with line-ups including .g (TH), DMT Disco, GodDam and Zambug. Browse upcoming dates, start times and who's playing. 1107, Khwaeng Si Phraya, Bang Rak, Bangkok 10500.
+Entertainment Project is a music venue in Bangkok listed on soundcheck. 6 upcoming nights, with line-ups including .g (TH), DMT Disco and Zambug. Browse upcoming dates, start times and who's playing. 1107, Khwaeng Si Phraya, Bang Rak, Bangkok 10500.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Entertainment Project with GodDam | GodDam |
 | Sun, 12 Jul 2026 | Open Decks at Ent Project |  |
 | Thu, 16 Jul 2026 | Entertainment Project with Lilya |  |
 | Fri, 17 Jul 2026 | Entertainment Project with DMT Disco | DMT Disco |
@@ -20,4 +19,4 @@ Entertainment Project is a music venue in Bangkok listed on soundcheck. 7 upcomi
 
 1107, Khwaeng Si Phraya, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/entertainment-project/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/entertainment-project/)*

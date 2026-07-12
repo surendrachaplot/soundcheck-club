@@ -1,15 +1,15 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "HOUSE HAVENS" on Fri, 17 Jul 2026.
+Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "HOUSE HAVENS" on Fri, 17 Jul 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Benoît, Jordino, Julien Simmons and Kirilski and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Benoît, DJ Crystal Bitch, Heritage Listed and Holopine and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | HOUSE HAVENS |  |
-| Sat, 18 Jul 2026 | Kirilski BIRTHDAY BASH with Boogie House | Kirilski |
+| Sat, 18 Jul 2026 | Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR  | DJ Crystal Bitch, Heritage Listed, Holopine, Kirilski, Pao, Phil-o, Pura Pachanga, RAW/B |
 | Fri, 24 Jul 2026 | Portente Invites | Benoît, Jordino, Julien Simmons, Mallie, Maria Louisa, Portente, SOLIT |
 | Fri, 31 Jul 2026 | SINE OFF | Micky Hurts |
 | Sun, 2 Aug 2026 | Queer Aunties presents: Aunties in Amsterdam |  |
@@ -18,4 +18,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

@@ -1,14 +1,13 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Easttown is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, AAT (NL) and Joëlla Jackson. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Easttown is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, AAT (NL) and Joëlla Jackson. Next up: Pacha New York, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hembrugterrein | Amsterdam |
 | Fri, 17 Jul 2026 | Pacha New York | New York City |
 | Sat, 8 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 21 Aug 2026 | Boomerang Beach | The Hague |
@@ -21,6 +20,7 @@ Easttown is a house and tech house artist tracked on soundcheck, with 90 sets lo
 
 ## Recently played
 
+- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona — Sun, 21 Jun 2026
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
@@ -28,10 +28,9 @@ Easttown is a house and tech house artist tracked on soundcheck, with 90 sets lo
 - BORIS CLUB, Barcelona — Wed, 17 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
-- Cova Santa, Ibiza — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Rooléh, AAT (NL), Joëlla Jackson
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

@@ -1,6 +1,6 @@
 # Donna Leake
 
-Donna Leake is a Jazz and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Old Blue Last, London on Fri, 17 Jul 2026.
+Donna Leake is a Jazz and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Old Blue Last, London on Fri, 17 Jul 2026.
 
 Donna Leake is a jazz and funk / soul artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Haseeb Iqbal, Konduku and Suze Ijó. Next up: The Old Blue Last, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Donna Leake is a jazz and funk / soul artist tracked on soundcheck, with 78 sets
 
 Haseeb Iqbal, Konduku, Suze Ijó
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donnaleake/)*

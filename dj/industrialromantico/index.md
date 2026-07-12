@@ -1,6 +1,6 @@
 # Industrial Romantico
 
-Industrial Romantico is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Tempio del Futuro Perduto, Milan on Sat, 18 Jul 2026.
+Industrial Romantico is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tempio del Futuro Perduto, Milan on Sat, 18 Jul 2026.
 
 Industrial Romantico is an electronic artist based in Italy, tracked on soundcheck, with 62 sets logged across Berlin, Hongkong, Lyon and Milan and 1 more. Often billed alongside Dolce Potente, Waldo and Acidalia. Next up: Tempio del Futuro Perduto, Milan on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Industrial Romantico is an electronic artist based in Italy, tracked on soundche
 
 Dolce Potente, Waldo, Acidalia
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/industrialromantico/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/industrialromantico/)*

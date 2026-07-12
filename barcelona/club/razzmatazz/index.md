@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "PRIDE: La Zowie Showcase / Sedef Adasï / Inga / Ruben Secaduras / SANTANA / more" on Sat, 11 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "RAZZCLUBS: Mainline Club: PPJ + Casa Pepa x Gallery: Secret Guest " on Fri, 17 Jul 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Aemilius, Aleman Beatz, Alírio and Anita B Queen and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Aemilius, Aleman Beatz, Alírio and Anita B Queen and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | PRIDE: La Zowie Showcase / Sedef Adasï / Inga / Ruben Secaduras / SANTANA / more | FKS (1), Inga, JoE DemBow, Julio César, MUNA KHALED, SANTANA, Sofy Suars, T0M1, Tiyumii |
 | Fri, 17 Jul 2026 | RAZZCLUBS: Mainline Club: PPJ + Casa Pepa x Gallery: Secret Guest  | Aemilius, Aleman Beatz, Femi, JUMER, John Heaven, Julietta Ferrari, Nile Fee, PPJ (1), PethbUri, seretide |
 | Sat, 18 Jul 2026 | Bronka / DJ SWISHA / Slam / Chloe Lula / Night in Athens Live / Asymetric80 / more | Bronka, Carmilla Sioux, Chloe Lula, DJ SWISHA, DJ2D2, Drizzyclare, Jessica Bellomo, NAUAL, Slam |
 | Fri, 24 Jul 2026 | RAZZCLUBS:  Anita B Queen + Disobey Soundsystem Closing: El WiWi + Virtual Flavor + 666ata  | Anita B Queen, DJ2D2, Drizzyclare, Kaidara, Pentola, PethbUri, RUXI, Virtual Flavor |
@@ -23,4 +22,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

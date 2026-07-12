@@ -1,6 +1,6 @@
 # Bloop.
 
-Bloop. is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "ephoura Invites: yumpiece" on Sat, 15 Aug 2026.
+Bloop. is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "ephoura Invites: yumpiece" on Sat, 15 Aug 2026.
 
 Bloop. is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 42 Theobalds Road, Holborn, London WC1X 8NW.
 
@@ -14,4 +14,4 @@ Bloop. is a music venue in London listed on soundcheck. 1 upcoming night. Browse
 
 42 Theobalds Road, Holborn, London WC1X 8NW, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bloop/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bloop/)*

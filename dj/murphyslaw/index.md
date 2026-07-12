@@ -1,6 +1,6 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Floyd, Miami on Sun, 26 Jul 2026.
+Murphy's Law is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Floyd, Miami on Sun, 26 Jul 2026.
 
 Murphy's Law is a house and tech house artist tracked on soundcheck, with 66 sets logged across Auckland, Austin, Brighton and Brisbane and 21 more. Often billed alongside Enzo is Burning, Max Dean and RUZE. Next up: Floyd, Miami on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Murphy's Law is a house and tech house artist tracked on soundcheck, with 66 set
 
 Enzo is Burning, Max Dean, RUZE
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

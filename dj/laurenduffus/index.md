@@ -1,6 +1,6 @@
 # Lauren Duffus
 
-Lauren Duffus is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
+Lauren Duffus is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Burgess Park, London on Sun, 2 Aug 2026.
 
 Lauren Duffus is an experimental and bass artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 13 more. Often billed alongside 2K88, Rainy Miller and Bianca Scout. Next up: Burgess Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Lauren Duffus is an experimental and bass artist tracked on soundcheck, with 52 
 
 2K88, Rainy Miller, Bianca Scout
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenduffus/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenduffus/)*

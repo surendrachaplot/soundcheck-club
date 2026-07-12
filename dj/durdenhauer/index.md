@@ -1,6 +1,6 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 25 Jul 2026.
+DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 25 Jul 2026.
 
 DURDENHAUER is a techno and trance artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Carla Schmitt, DJ GUESTLIST and Elotrance. Next up: La Machine Du Moulin Rouge, Paris on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DURDENHAUER is a techno and trance artist tracked on soundcheck, with 66 sets lo
 
 Carla Schmitt, DJ GUESTLIST, Elotrance
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

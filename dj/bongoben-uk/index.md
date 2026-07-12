@@ -1,6 +1,6 @@
 # Bongo Ben
 
-Bongo Ben is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Broadcaster, London on Sat, 1 Aug 2026.
+Bongo Ben is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Broadcaster, London on Sat, 1 Aug 2026.
 
 Bongo Ben is a house and disco artist tracked on soundcheck, with 41 sets logged across Amsterdam, Birmingham and London. Often billed alongside Brandon Block, Darrell Privett and Alex P. Next up: The Broadcaster, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bongo Ben is a house and disco artist tracked on soundcheck, with 41 sets logged
 
 Brandon Block, Darrell Privett, Alex P
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoben-uk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoben-uk/)*

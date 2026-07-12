@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
+Jhobei is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 9 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 B.Love, Julian Anthony, Reeshy
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

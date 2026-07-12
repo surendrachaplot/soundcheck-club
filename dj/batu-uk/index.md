@@ -1,6 +1,6 @@
 # Batu
 
-Batu is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sawmills, Bristol on Fri, 17 Jul 2026.
+Batu is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sawmills, Bristol on Fri, 17 Jul 2026.
 
 Batu is a techno and bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Sawmills, Bristol on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Batu is a techno and bass artist tracked on soundcheck, with 151 sets logged acr
 
 Ben UFO, Verraco, CCL
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*

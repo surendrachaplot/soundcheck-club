@@ -1,14 +1,13 @@
 # Open Aera
 
-Open Aera is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Mystical Open Air with Dosem (Anjunadeep): Rooftop Day Event" on Sat, 11 Jul 2026.
+Open Aera is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "COLORIZE TORONTO 2026 (ALLKNIGHT, Estiva, Fejká, Ocula)" on Thu, 16 Jul 2026.
 
-Open Aera is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including ALLKNIGHT, Chris Luno, Dosem and EMBRZ (IE) and 2 more. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
+Open Aera is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including ALLKNIGHT, Chris Luno, EMBRZ (IE) and Estiva and 2 more. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Mystical Open Air with Dosem (Anjunadeep): Rooftop Day Event | Dosem |
 | Thu, 16 Jul 2026 | COLORIZE TORONTO 2026 (ALLKNIGHT, Estiva, Fejká, Ocula) | ALLKNIGHT, Estiva, Fejká, Ocula |
 | Sat, 15 Aug 2026 | Eric Luttrell: Summer of Love Tour (70 percent sold out) | Luttrell |
 | Thu, 20 Aug 2026 | Volen Sentir (Sunset Rooftop Party) | Jonathan Rosa, R8YZ, Volen Sentir |
@@ -21,4 +20,4 @@ Open Aera is a music venue in Toronto listed on soundcheck. 8 upcoming nights, w
 
 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada, Toronto
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*

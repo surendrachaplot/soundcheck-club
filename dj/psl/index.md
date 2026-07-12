@@ -1,6 +1,6 @@
 # PSL
 
-PSL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 16 Jul 2026.
+PSL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 16 Jul 2026.
 
 PSL is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Carly Zeng, Berenice and Cora (CN). Next up: Golden Pudel Club, Hamburg on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ PSL is a house and techno artist based in Germany, tracked on soundcheck, with 3
 
 Carly Zeng, Berenice, Cora (CN)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/psl/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/psl/)*

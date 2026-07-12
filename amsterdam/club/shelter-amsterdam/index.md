@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Shelter presents: Kumquat" on Sat, 11 Jul 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Garrett David - All Night " on Fri, 17 Jul 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Amaliah, Ammé, ANNASNEL and Boss Priester and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Amaliah, Ammé, ANNASNEL and Boss Priester and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Shelter presents: Kumquat | Cap, Lilley, One Tough Cookie, PARAMIDA |
 | Fri, 17 Jul 2026 | Garrett David - All Night  | Garrett David |
 | Sat, 18 Jul 2026 | Doppelgang B2B Kamma & Masalo, Kléo, Natalie Robinson & More | Doppelgang, EYCEE, Kamma, Kléo, Masalo, Natalie Robinson |
 | Fri, 24 Jul 2026 | New Tone - All Night | NewTone |
@@ -18,9 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcomin
 | Fri, 7 Aug 2026 | Locky curates | Ammé, Captain Wallop, Cici Daze, HALFPINT, Locky, RTK Tarantino |
 | Sat, 8 Aug 2026 | Lauren Lo Sung, Luis Ripa, Theo Kottis | Dan Dusty, Fabio Santos, Lauren Lo Sung, Luis Ripa, Theo Kottis |
 | Fri, 14 Aug 2026 | Luke Alessi (all night) | ANNASNEL, Capron, Luke Alessi |
+| Sat, 15 Aug 2026 | Shelter presents: S.A.S.H. - Laidlaw, Brainssurfers | Harry McCanna, Kerry, Laidlaw, Marlie, Sam Bangura, Shakèd |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # Nekoza Records
 
-Nekoza Records is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Instore session / Los Suruba" on Fri, 17 Jul 2026.
+Nekoza Records is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Instore session / Los Suruba" on Fri, 17 Jul 2026.
 
 Nekoza Records is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including Los Suruba. Browse upcoming dates, start times and who's playing. Calle Zapateros 8.
 
@@ -14,4 +14,4 @@ Nekoza Records is a music venue in Valencia listed on soundcheck. 1 upcoming nig
 
 Calle Zapateros 8, Valencia
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/nekoza-records/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/nekoza-records/)*

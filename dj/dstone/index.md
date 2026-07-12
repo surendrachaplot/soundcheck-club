@@ -1,6 +1,6 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
+D Stone is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
 
 D Stone is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ D Stone is a house and tech house artist tracked on soundcheck, with 105 sets lo
 
 Benjamin Berg, Benny Rodrigues, Dam Swindle
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*

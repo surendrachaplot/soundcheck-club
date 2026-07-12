@@ -1,6 +1,6 @@
 # Newa
 
-Newa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BASEMENT, New York City on Fri, 24 Jul 2026.
+Newa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BASEMENT, New York City on Fri, 24 Jul 2026.
 
 Newa is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Berlin and Brussels and 20 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: BASEMENT, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Newa is a techno and house artist tracked on soundcheck, with 127 sets logged ac
 
 Kancheli, Ndrx, Kvanchi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*

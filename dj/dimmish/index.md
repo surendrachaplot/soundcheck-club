@@ -1,6 +1,6 @@
 # Dimmish
 
-Dimmish is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
+Dimmish is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
 
 Dimmish is a tech house and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 19 more. Often billed alongside ACA (YU), Stefano Noferini and ALISHA. Next up: [UNVRS], Ibiza on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Dimmish is a tech house and house artist tracked on soundcheck, with 75 sets log
 
 ACA (YU), Stefano Noferini, ALISHA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*

@@ -1,14 +1,13 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "HYBRID: BIXBITA" on Sat, 11 Jul 2026.
+Sala Cocó is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "HYBRID: SZG" on Sat, 18 Jul 2026.
 
-Sala Cocó is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including NYRA (DE), BIXBITA, M.I.XX.I and RODS (ES) and 2 more. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
+Sala Cocó is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including NYRA (DE), M.I.XX.I, RODS (ES) and SZG and 1 more. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | HYBRID: BIXBITA | BIXBITA |
 | Sat, 18 Jul 2026 | HYBRID: SZG | M.I.XX.I, SZG |
 | Sat, 25 Jul 2026 | HYBRID: NYRA | NYRA (DE), RODS (ES), Venus de Milo |
 
@@ -16,4 +15,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 3 upcoming nights, w
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

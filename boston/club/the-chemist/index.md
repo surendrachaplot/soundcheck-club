@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SKYHOUSE SESSIONS x The Chemist - Boston" on Sun, 12 Jul 2026.
+The Chemist is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SKYHOUSE SESSIONS x The Chemist - Boston" on Sun, 12 Jul 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Selector X and Shigeto. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -17,4 +17,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, 
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

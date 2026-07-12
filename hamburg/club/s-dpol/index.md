@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "unceen with ANDATA, two girls one mom, DJ Räucherlaks, Mareike Bautz uvm" on Fri, 24 Jul 2026.
+Südpol is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "unceen with ANDATA, two girls one mom, DJ Räucherlaks, Mareike Bautz uvm" on Fri, 24 Jul 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including ANDATA, Ani con Gas, Arlo Bell and BREITBAND and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, wit
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

@@ -1,6 +1,6 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at StereoBar, Montreal on Sat, 18 Jul 2026.
+Unai Trotti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at StereoBar, Montreal on Sat, 18 Jul 2026.
 
 Unai Trotti is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: StereoBar, Montreal on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 153 sets lo
 
 Z@p, Vass, Junki Inoue
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

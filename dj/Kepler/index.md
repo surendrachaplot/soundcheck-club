@@ -1,14 +1,13 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hembrugterrein, Amsterdam on Sat, 11 Jul 2026.
+Kepler is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 12 Jul 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: Hembrugterrein, Amsterdam on Sat 11 Jul.
+Kepler is a house and tech house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: 528 Ibiza, Ibiza on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hembrugterrein | Amsterdam |
 | Sun, 12 Jul 2026 | 528 Ibiza | Ibiza |
 | Sat, 18 Jul 2026 | TBA | Birmingham |
 | Fri, 24 Jul 2026 | TBA - Warehouse | Denver |
@@ -20,9 +19,11 @@ Kepler is a house and tech house artist tracked on soundcheck, with 146 sets log
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | The Swan | Nottingham |
+| Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Parc d’Atraccions del Tibidabo, Barcelona — Fri, 19 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
@@ -30,10 +31,9 @@ Kepler is a house and tech house artist tracked on soundcheck, with 146 sets log
 - Cova Santa, Ibiza — Tue, 9 Jun 2026
 - NDSM Docklands, Amsterdam — Fri, 5 Jun 2026
 - 528 Ibiza, Ibiza — Sun, 31 May 2026
-- High Lights - Barking Park, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Burnski, L.P. Rhythm, Enzo Siragusa
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

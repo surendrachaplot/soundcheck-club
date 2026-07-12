@@ -1,6 +1,6 @@
 # HTRK
 
-HTRK is a Experimental and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Kiosk Radio, Brussels on Sat, 1 Aug 2026.
+HTRK is a Experimental and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kiosk Radio, Brussels on Sat, 1 Aug 2026.
 
 HTRK is an experimental and downtempo artist based in Australia, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 5 more. Often billed alongside CS + Kreme, ABADIR and Abby Sundborn. Next up: Kiosk Radio, Brussels on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ HTRK is an experimental and downtempo artist based in Australia, tracked on soun
 
 CS + Kreme, ABADIR, Abby Sundborn
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*

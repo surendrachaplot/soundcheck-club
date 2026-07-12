@@ -1,6 +1,6 @@
 # The Marcus Ward
 
-The Marcus Ward is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Free Party - Marcus Ward" on Sat, 1 Aug 2026.
+The Marcus Ward is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Free Party - Marcus Ward" on Sat, 1 Aug 2026.
 
 The Marcus Ward is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including Casual, CLERK., GUZZ. and HUTS and 2 more. Browse upcoming dates, start times and who's playing. 1 Bankmore square Belfast.
 
@@ -14,4 +14,4 @@ The Marcus Ward is a music venue in Belfast listed on soundcheck. 1 upcoming nig
 
 1 Bankmore square Belfast, Belfast
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-marcus-ward/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-marcus-ward/)*

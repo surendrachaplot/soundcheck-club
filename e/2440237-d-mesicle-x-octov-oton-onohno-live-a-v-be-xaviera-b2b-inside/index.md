@@ -1,6 +1,6 @@
-# Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur • Hurakkan at Société des arts technologiques
+# Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur at Société des arts technologiques
 
-Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur • Hurakkan at Société des arts technologiques on Fri 17 Jul, Montreal. 5 acts on the bill: Hurakkan, Inside Blur, OTON and Onohno and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur at Société des arts technologiques on Fri 17 Jul, Montreal. 5 acts on the bill: Hurakkan, Inside Blur, OTON and Onohno and 1 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

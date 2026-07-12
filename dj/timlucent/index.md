@@ -1,6 +1,6 @@
 # Tim Lucent
 
-Tim Lucent is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Apollo Studio, New York City on Sat, 18 Jul 2026.
+Tim Lucent is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Apollo Studio, New York City on Sat, 18 Jul 2026.
 
 Tim Lucent is a house and disco artist based in United States of America, tracked on soundcheck, with 58 sets logged across Losangeles and Newyorkcity. Often billed alongside Laila Amira, Choukroun and Armii1n. Next up: Apollo Studio, Newyorkcity on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Tim Lucent is a house and disco artist based in United States of America, tracke
 
 Laila Amira, Choukroun, Armii1n
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*

@@ -1,6 +1,6 @@
 # FILTRACK
 
-FILTRACK is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 17 Jul 2026.
+FILTRACK is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 17 Jul 2026.
 
 FILTRACK is a techno and hardcore artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 2 more. Often billed alongside NTHR, BASSTIEN and FACDEZORDINESIPLEC. Next up: RSO.BERLIN, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ FILTRACK is a techno and hardcore artist tracked on soundcheck, with 36 sets log
 
 NTHR, BASSTIEN, FACDEZORDINESIPLEC
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/filtrack/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/filtrack/)*

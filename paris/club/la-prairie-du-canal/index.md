@@ -1,14 +1,13 @@
 # La Prairie du Canal
 
-La Prairie du Canal is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Open air - Dure Vie: Spray, Sarcus Soundsystem, Allegory" on Sat, 11 Jul 2026.
+La Prairie du Canal is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "claclaclac! & accès libre & la prairie: fête inter-nationale" on Tue, 14 Jul 2026.
 
-La Prairie du Canal is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including b3bz, Beatrice M., Domi (FR) and Duane and 2 more. Browse upcoming dates, start times and who's playing. 55 rue de Paris 93000 Bobigny, France.
+La Prairie du Canal is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including b3bz, Beatrice M., Domi (FR) and Duane and 2 more. Browse upcoming dates, start times and who's playing. 55 rue de Paris 93000 Bobigny, France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Open air - Dure Vie: Spray, Sarcus Soundsystem, Allegory | Jacky Jeane, Sarcus Soundsystem, Spray |
 | Tue, 14 Jul 2026 | claclaclac! & accès libre & la prairie: fête inter-nationale | Beatrice M., Duane, Jacky Jeane, b3bz |
 | Sat, 18 Jul 2026 | OPEN AIR - LA MONA | Greg Gauthier, Mely, Nick V |
 | Sun, 19 Jul 2026 | OPEN AIR - LA MONA x Battle AJT | Nick V, Odd Sweet |
@@ -19,4 +18,4 @@ La Prairie du Canal is a music venue in Paris listed on soundcheck. 6 upcoming n
 
 55 rue de Paris 93000 Bobigny, France, Paris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-prairie-du-canal/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-prairie-du-canal/)*

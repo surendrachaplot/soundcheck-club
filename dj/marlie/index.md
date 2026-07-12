@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
+Marlie is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
 
 Marlie is a house and tech house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Night Tales, London on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Marlie is a house and tech house artist tracked on soundcheck, with 115 sets log
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Camouflage" on Sat, 11 Jul 2026.
+Supermarket is a music venue in Zurich with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Blurry Apple" on Fri, 17 Jul 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming nights, with line-ups including CEZAR, Alessio da Silva, Aline (CH) and Amae and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 10 upcoming nights, with line-ups including CEZAR, Aline (CH), Amae and And Hazel and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Camouflage | Alessio da Silva, And Hazel, Flavio (CH), Mickael Espinosa, NURI (CH) |
 | Fri, 17 Jul 2026 | Blurry Apple | Andrea Ferlin, Jichael Mackson, Serenne |
 | Sat, 18 Jul 2026 | Unique | Amae, Barac |
 | Fri, 24 Jul 2026 | Eifach Schön | Baerg, Marcus Meinhardt |
@@ -18,9 +17,10 @@ Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming nights,
 | Fri, 14 Aug 2026 | DIVERCITY BASS |  |
 | Fri, 14 Aug 2026 | Soul of Divercity Bass |  |
 | Fri, 21 Aug 2026 | Acid Town | Patrik Widmer, mvdi |
+| Fri, 28 Aug 2026 | 2 Years Hidden Frequencies | Daniel Meister, Gianluca Felline |
 
 ## Address
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

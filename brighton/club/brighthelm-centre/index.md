@@ -1,18 +1,17 @@
 # Brighthelm Centre
 
-Brighthelm Centre is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DANCE - Powerful Dance Journeys [CANCELLED]" on Sat, 11 Jul 2026.
+Brighthelm Centre is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "First Press Record Fair, Brighton - August 8th 2026" on Sat, 8 Aug 2026.
 
-Brighthelm Centre is a music venue in Brighton listed on soundcheck. 2 upcoming nights, with line-ups including Nathan Godolphin. Browse upcoming dates, start times and who's playing. North Road, Brighton, East Sussex, BN1 1YD.
+Brighthelm Centre is a music venue in Brighton listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. North Road, Brighton, East Sussex, BN1 1YD.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | DANCE - Powerful Dance Journeys [CANCELLED] | Nathan Godolphin |
 | Sat, 8 Aug 2026 | First Press Record Fair, Brighton - August 8th 2026 |  |
 
 ## Address
 
 North Road, Brighton, East Sussex, BN1 1YD, Brighton
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/brighthelm-centre/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/brighthelm-centre/)*

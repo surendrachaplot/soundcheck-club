@@ -1,8 +1,8 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Grelle Forelle, Vienna on Sat, 18 Jul 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Grelle Forelle, Vienna on Sat, 18 Jul 2026.
 
-S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Auckland and Bali and 29 more. Often billed alongside LowQui, K Motionz and Mozey. Next up: Grelle Forelle, Vienna on Sat 18 Jul.
+S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Auckland and Bali and 29 more. Often billed alongside LowQui, K Motionz and Mozey. Next up: Grelle Forelle, Vienna on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 60 sets log
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Grelle Forelle | Vienna |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 60 sets log
 
 LowQui, K Motionz, Mozey
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*

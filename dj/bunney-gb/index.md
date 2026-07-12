@@ -1,6 +1,6 @@
 # Bunney
 
-Bunney is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Bunney is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 Bunney is a house and techno artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Brussels, Ghent and Leeds and 3 more. Often billed alongside Dockett Eddy, Gabriel Finch and Dr Banana. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Bunney is a house and techno artist based in United Kingdom, tracked on soundche
 
 Dockett Eddy, Gabriel Finch, Dr Banana
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bunney-gb/)*

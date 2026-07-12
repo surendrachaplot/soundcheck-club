@@ -1,14 +1,13 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bastet, Philadelphia on Sat, 11 Jul 2026.
+Jimpster is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 17 Jul 2026.
 
-Jimpster is a house and deep house artist tracked on soundcheck, with 78 sets logged across Barcelona, Brighton, Budapest and Chicago and 28 more. Often billed alongside Anton Tumas, Conrad Lee and David Harness. Next up: Bastet, Philadelphia on Sat 11 Jul.
+Jimpster is a house and deep house artist tracked on soundcheck, with 78 sets logged across Barcelona, Brighton, Budapest and Chicago and 28 more. Often billed alongside Anton Tumas, Conrad Lee and David Harness. Next up: Do Not Sit On The Furniture, Miami on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Bastet | Philadelphia |
 | Fri, 17 Jul 2026 | Do Not Sit On The Furniture | Miami |
 | Sun, 19 Jul 2026 | smartbar | Chicago |
 | Thu, 23 Jul 2026 | TBA - address sent to all ticket holders  | London |
@@ -16,6 +15,7 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 78 sets lo
 
 ## Recently played
 
+- Bastet, Philadelphia — Sat, 11 Jul 2026
 - MAD Radio NYC, New York City — Fri, 10 Jul 2026
 - La Paloma, Barcelona — Fri, 26 Jun 2026
 - 93 Feet East, London — Sat, 6 Jun 2026
@@ -23,10 +23,9 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 78 sets lo
 - NUMBER 90 LONDON, London — Sat, 7 Mar 2026
 - Minimüzikhol, Istanbul — Fri, 6 Feb 2026
 - Sala Villanos, Madrid — Sat, 24 Jan 2026
-- TBA - LE BOUGE, Marseille — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Anton Tumas, Conrad Lee, David Harness
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

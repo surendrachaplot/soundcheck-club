@@ -1,14 +1,13 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 36 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Tresor Klubnacht" on Sat, 11 Jul 2026.
+Tresor / Globus is a music venue in Berlin with 35 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "◥◣SINGULARITY◥◣" on Mon, 13 Jul 2026.
 
-Tresor / Globus is a music venue in Berlin listed on soundcheck. 36 upcoming nights, with line-ups including Agua con gas, Aksamit, Akua and Alex Albrecht and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
+Tresor / Globus is a music venue in Berlin listed on soundcheck. 35 upcoming nights, with line-ups including Agua con gas, Akua, ALIBIR and ALP (DE) and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Tresor Klubnacht | ASEC, Aksamit, Alex Albrecht, DJ Westfa, LNS, Skee Mask, madwoman |
 | Mon, 13 Jul 2026 | ◥◣SINGULARITY◥◣ | Inverse Element, Majdolen, RUIZ OSC1, Triqi |
 | Mon, 13 Jul 2026 | Singularity | Inverse Element, Majdolen, RUIZ OSC1, Triqi |
 | Wed, 15 Jul 2026 | Büro Siebzig: The Spoiled LIVE & Morwan LIVE | Morwan |
@@ -18,9 +17,10 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 36 upcoming nig
 | Sat, 18 Jul 2026 | Tresor invites Robert Hood | Andy Hart, Cecilia Tosh, JANEIN, Robert Hood, So-Fi |
 | Mon, 20 Jul 2026 | ◥◣SINGULARITY◥◣ | Akua, BLACK ANTHEM RESTORE, Josiane, Sierra Sam, Tetsumasa |
 | Wed, 22 Jul 2026 | Büro Siebzig: Milan W. LIVE | Milan W. |
+| Wed, 22 Jul 2026 | Tresor New Faces hosted by TANGA | ALIBIR, ALP (DE), CLEO, Dirty Daddy Don, Doctora Amor, ILOVDADDYZ, Shadysnack |
 
 ## Address
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

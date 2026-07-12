@@ -1,6 +1,6 @@
 # Eva Charley
 
-Eva Charley is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 29 Jul 2026.
+Eva Charley is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lokschuppen Berlin, Berlin on Wed, 29 Jul 2026.
 
 Eva Charley is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin and Sydney. Often billed alongside GMOZ, Malfunkt and Charlie Shell. Next up: Lokschuppen Berlin, Berlin on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Eva Charley is a techno and trance artist tracked on soundcheck, with 30 sets lo
 
 GMOZ, Malfunkt, Charlie Shell
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*

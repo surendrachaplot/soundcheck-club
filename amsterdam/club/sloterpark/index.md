@@ -1,6 +1,6 @@
 # Sloterpark
 
-Sloterpark is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Loveland Festival 2026" on Sat, 8 Aug 2026.
+Sloterpark is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Loveland Festival 2026" on Sat, 8 Aug 2026.
 
 Sloterpark is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including AAT (NL), Adam Ten, Alarico and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. Geuzenveld/Slotermeer Nederland.
 
@@ -14,4 +14,4 @@ Sloterpark is a music venue in Amsterdam listed on soundcheck. 1 upcoming night,
 
 Geuzenveld/Slotermeer Nederland, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sloterpark/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sloterpark/)*

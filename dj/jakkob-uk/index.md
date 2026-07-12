@@ -1,6 +1,6 @@
 # Jakkob
 
-Jakkob is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ellerslie Racecourse, Auckland on Sat, 18 Jul 2026.
+Jakkob is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ellerslie Racecourse, Auckland on Sat, 18 Jul 2026.
 
 Jakkob is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Bali and Birmingham and 13 more. Often billed alongside Hywel Gregory, Fredd Mann and Bo Conquest. Next up: Ellerslie Racecourse, Auckland on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Jakkob is a house and tech house artist based in United Kingdom, tracked on soun
 
 Hywel Gregory, Fredd Mann, Bo Conquest
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkob-uk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakkob-uk/)*

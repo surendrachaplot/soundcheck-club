@@ -1,6 +1,6 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
+Shermanology is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Madam, Amsterdam on Fri, 7 Aug 2026.
 
 Shermanology is a house and tech house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Arielle Free and Eats Everything. Next up: Madam, Amsterdam on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 92 set
 
 Sam Divine, Arielle Free, Eats Everything
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

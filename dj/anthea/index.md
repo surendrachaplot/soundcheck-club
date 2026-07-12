@@ -1,6 +1,6 @@
 # Anthea
 
-Anthea is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 17 Jul 2026.
+Anthea is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 17 Jul 2026.
 
 Anthea is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: Les Enfants Brillants, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Anthea is a house and techno artist tracked on soundcheck, with 164 sets logged 
 
 tINI, Oshana, Astral Travel
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

@@ -1,6 +1,6 @@
 # Mikropol
 
-Mikropol is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "MEMPHIS GANGSTA RAVE 5" on Fri, 31 Jul 2026.
+Mikropol is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "MEMPHIS GANGSTA RAVE 5" on Fri, 31 Jul 2026.
 
 Mikropol is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including SMFORMA. Browse upcoming dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -15,4 +15,4 @@ Mikropol is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wit
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*

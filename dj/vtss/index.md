@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 13 Jul 2026.
+VTSS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 13 Jul 2026.
 
 VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside I Hate Models, Boys Noize and Patrick Mason. Next up: Amnesia Ibiza, Ibiza on Mon 13 Jul.
 
@@ -31,4 +31,4 @@ VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged ac
 
 I Hate Models, Boys Noize, Patrick Mason
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

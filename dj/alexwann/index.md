@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 20 Jul 2026.
+Alex Wann is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 20 Jul 2026.
 
 Alex Wann is an afro house and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Notre Dame, Francis Mercier and Andrea Oliva. Next up: Hï Ibiza, Ibiza on Mon 20 Jul.
 
@@ -31,4 +31,4 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 134 sets
 
 Notre Dame, Francis Mercier, Andrea Oliva
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

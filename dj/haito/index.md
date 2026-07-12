@@ -1,6 +1,6 @@
 # Haito
 
-Haito is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Haito is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Haito is a techno and tech house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin and Stuttgart. Often billed alongside Hardy Hard, Drauf & Dran DJ Team and Maschine. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Haito is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Hardy Hard, Drauf & Dran DJ Team, Maschine
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haito/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haito/)*

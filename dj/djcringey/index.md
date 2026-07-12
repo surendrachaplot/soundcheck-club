@@ -1,14 +1,13 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Fabrik, Madrid on Sat, 11 Jul 2026.
+DJ Cringey is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-DJ Cringey is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Basel and Belfast and 21 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Fabrik, Madrid on Sat 11 Jul.
+DJ Cringey is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Basel and Belfast and 21 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Fabrik | Madrid |
 | Wed, 15 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 17 Jul 2026 | Else | Berlin |
 | Sat, 18 Jul 2026 | Kilomètre25 | Paris |
@@ -20,6 +19,7 @@ DJ Cringey is a techno and house artist tracked on soundcheck, with 91 sets logg
 
 ## Recently played
 
+- Fabrik, Madrid — Sat, 11 Jul 2026
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
 - Ruigenhoek, Utrecht — Sat, 30 May 2026
 - Arzenal, Budapest — Fri, 29 May 2026
@@ -27,10 +27,9 @@ DJ Cringey is a techno and house artist tracked on soundcheck, with 91 sets logg
 - The Sound House, Dublin — Fri, 15 May 2026
 - PRST, Vienna — Wed, 13 May 2026
 - Valley, Berlin — Sat, 9 May 2026
-- Komplex Berlin, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

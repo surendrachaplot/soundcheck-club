@@ -1,6 +1,6 @@
 # Sonia Heis
 
-Sonia Heis is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BUS Hexperience, Barcelona on Sun, 12 Jul 2026.
+Sonia Heis is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BUS Hexperience, Barcelona on Sun, 12 Jul 2026.
 
 Sonia Heis is a house and disco artist tracked on soundcheck, with 66 sets logged across Barcelona. Often billed alongside PINI, SHAMELESSMUSIC and ANYA (2). Next up: BUS Hexperience, Barcelona on Sun 12 Jul.
 
@@ -31,4 +31,4 @@ Sonia Heis is a house and disco artist tracked on soundcheck, with 66 sets logge
 
 PINI, SHAMELESSMUSIC, ANYA (2)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soniaheis/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soniaheis/)*

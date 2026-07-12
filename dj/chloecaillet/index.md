@@ -1,14 +1,13 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Albisgütli, Zurich on Sat, 11 Jul 2026.
+Chloé Caillet is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: TBA - Albisgütli, Zurich on Sat 11 Jul.
+Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | TBA - Albisgütli | Zurich |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Mon, 20 Jul 2026 | DC-10 | Ibiza |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
@@ -23,6 +22,7 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets
 
 ## Recently played
 
+- TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
 - essaim, Paris — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
@@ -30,10 +30,9 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets
 - Queen Elizabeth Hall Foyer, London — Sun, 21 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - La Terrrazza, Barcelona — Sat, 20 Jun 2026
-- Pacha Ibiza, Ibiza — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 DJ Tennis, Seth Troxler, Mochakk
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

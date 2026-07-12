@@ -1,6 +1,6 @@
 # dj people's princess
 
-dj people's princess is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Glove That Fits, London on Sun, 12 Jul 2026.
+dj people's princess is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Glove That Fits, London on Sun, 12 Jul 2026.
 
 dj people's princess is a techno and dub techno artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside nohexcode, CITYTRONIX and H Grade. Next up: The Glove That Fits, London on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ dj people's princess is a techno and dub techno artist tracked on soundcheck, wi
 
 nohexcode, CITYTRONIX, H Grade
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeoplesprincess/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeoplesprincess/)*

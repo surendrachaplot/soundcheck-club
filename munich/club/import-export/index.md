@@ -1,6 +1,6 @@
 # Import Export
 
-Import Export is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Corleone Summer Bash III" on Sun, 12 Jul 2026.
+Import Export is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Corleone Summer Bash III" on Sun, 12 Jul 2026.
 
 Import Export is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including Cosimoto, Esther, Kamikatze and Martini and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
@@ -19,4 +19,4 @@ Import Export is a music venue in Munich listed on soundcheck. 6 upcoming nights
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

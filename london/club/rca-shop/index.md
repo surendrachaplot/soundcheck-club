@@ -1,6 +1,6 @@
 # RCA Shop
 
-RCA Shop is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Pulse presents: Tom Did It & Friends" on Thu, 16 Jul 2026.
+RCA Shop is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Pulse presents: Tom Did It & Friends" on Thu, 16 Jul 2026.
 
 RCA Shop is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2 Lewis Cubitt Walk, London N1C 4UZ.
 
@@ -14,4 +14,4 @@ RCA Shop is a music venue in London listed on soundcheck. 1 upcoming night. Brow
 
 2 Lewis Cubitt Walk, London N1C 4UZ, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/rca-shop/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/rca-shop/)*

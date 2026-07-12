@@ -1,14 +1,13 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Document, Bristol on Sat, 11 Jul 2026.
+Oppidan is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Art Club, Houston on Fri, 31 Jul 2026.
 
-Oppidan is a garage and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Sammy Virji, MPH (1) and Notion. Next up: Document, Bristol on Sat 11 Jul.
+Oppidan is a garage and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Sammy Virji, MPH (1) and Notion. Next up: Art Club, Houston on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Document | Bristol |
 | Fri, 31 Jul 2026 | Art Club | Houston |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Fri, 7 Aug 2026 | Finsbury Park | London |
@@ -20,6 +19,7 @@ Oppidan is a garage and house artist tracked on soundcheck, with 140 sets logged
 
 ## Recently played
 
+- Document, Bristol — Sat, 11 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Bsmnt, Boston — Fri, 26 Jun 2026
@@ -27,10 +27,9 @@ Oppidan is a garage and house artist tracked on soundcheck, with 140 sets logged
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Baltic Triangle, Liverpool — Fri, 29 May 2026
 - Hangar 34, Liverpool — Fri, 29 May 2026
-- The Ground at Club Space, Miami — Sun, 24 May 2026
 
 ## Shares bills with
 
 Sammy Virji, MPH (1), Notion
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oppidan/)*

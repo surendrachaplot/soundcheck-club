@@ -1,6 +1,6 @@
 # NAS TEA
 
-NAS TEA is a Club and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
+NAS TEA is a Club and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kampnagel, Hamburg on Sat, 22 Aug 2026.
 
 NAS TEA is a club and breakbeat artist tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside Nico Adomako, EuroEyez and Kissen. Next up: Kampnagel, Hamburg on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ NAS TEA is a club and breakbeat artist tracked on soundcheck, with 48 sets logge
 
 Nico Adomako, EuroEyez, Kissen
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastea/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastea/)*

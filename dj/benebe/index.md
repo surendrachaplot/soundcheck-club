@@ -1,6 +1,6 @@
 # Benebe
 
-Benebe is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Music Bar AKA, Tokyo on Fri, 17 Jul 2026.
+Benebe is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Music Bar AKA, Tokyo on Fri, 17 Jul 2026.
 
 Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across London and Tokyo. Often billed alongside Kafn, DJ Cash in Hand and Adela. Next up: TBA - Music Bar AKA, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck
 
 Kafn, DJ Cash in Hand, Adela
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*

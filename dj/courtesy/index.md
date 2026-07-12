@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bassiani, Tbilisi on Fri, 17 Jul 2026.
+Courtesy is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bassiani, Tbilisi on Fri, 17 Jul 2026.
 
 Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Byron Yeates, MCR-T and BASHKKA. Next up: Bassiani, Tbilisi on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Courtesy is a techno and house artist tracked on soundcheck, with 149 sets logge
 
 Byron Yeates, MCR-T, BASHKKA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

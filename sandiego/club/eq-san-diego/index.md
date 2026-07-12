@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 14 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "OVERDRIVE presents: BAILE F**K" on Sun, 12 Jul 2026.
+EQ San Diego is a music venue in San Diego with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "OVERDRIVE presents: BAILE F**K" on Sun, 12 Jul 2026.
 
 EQ San Diego is a music venue in Sandiego listed on soundcheck. 14 upcoming nights, with line-ups including Boys Don't Disco, Codak, Flores Negras and JAQ.XS and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -23,4 +23,4 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 14 upcoming nigh
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

@@ -1,6 +1,6 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Refuge, New York City on Fri, 17 Jul 2026.
+Ken Ishii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Refuge, New York City on Fri, 17 Jul 2026.
 
 Ken Ishii is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Budapest and 12 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: Refuge, Newyorkcity on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Ken Ishii is a techno and house artist tracked on soundcheck, with 103 sets logg
 
 Drunken Kong, Ririko, Risa Taniguchi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenishii/)*

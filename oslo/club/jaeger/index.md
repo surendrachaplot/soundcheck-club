@@ -1,14 +1,13 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 17 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Epiphany: Misjn + IHLE + Epifanov + Lorentz Bodega + Mulo" on Sat, 11 Jul 2026.
+Jaeger is a music venue in Oslo with 16 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Frædag: Schmooze & Brus" on Fri, 17 Jul 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 17 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 16 upcoming nights, with line-ups including Alexander Skancke, Alix Perez, blichfeldt and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Epiphany: Misjn + IHLE + Epifanov + Lorentz Bodega + Mulo | Epifanov, IHLE, Misjn, Mulo |
 | Fri, 17 Jul 2026 | Frædag: Schmooze & Brus | G-HA, Øyvind Morken |
 | Sat, 18 Jul 2026 | Lyd: Olle Abstract + Nora Teslo |  |
 | Fri, 24 Jul 2026 | Frædag x URO: Rigoplar + G-HA + Don Quan + Fabian Berg | G-HA, Rigopolar |
@@ -18,9 +17,10 @@ Jaeger is a music venue in Oslo listed on soundcheck. 17 upcoming nights, with l
 | Fri, 7 Aug 2026 | Frædag: Eden Burns + G-HA & Olanskii + Øyvind Morken + Strangefruit | Eden Burns, G-HA, Olanskii, Øyvind Morken |
 | Sat, 8 Aug 2026 | Nightflight x Fanterier | Tâmitan |
 | Wed, 12 Aug 2026 | Øyanatt x Bigup: Alix Perez + Little Miss Lucifer + Drunkfunk + Fjell + Simon Peter + Tech | Alix Perez |
+| Thu, 13 Aug 2026 | Øyanatt x Helt Texas Dublon + Laurence Guy | Dublon, Laurence Guy |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

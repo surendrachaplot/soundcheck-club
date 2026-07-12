@@ -1,15 +1,13 @@
 # PRST
 
-PRST is a music venue in Vienna with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Crossover CLUBNIGHT w/ dBridge, FD & MC Fox" on Sat, 11 Jul 2026.
+PRST is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BLUR" on Fri, 17 Jul 2026.
 
-PRST is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with line-ups including Azura, BAUGRUPPE90, C.Love (2) and CHERCHES and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
+PRST is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including BAUGRUPPE90, C.Love (2), CHERCHES and Chris Freud and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Crossover CLUBNIGHT w/ dBridge, FD & MC Fox | Azura, FD, Fox (US), MC Fox, dBridge |
-| Sat, 11 Jul 2026 | Crossover dnb | Azura, FD, Fox (US), Logarythm, LuN, dBridge |
 | Fri, 17 Jul 2026 | BLUR | Chris Freud, David Radi, Manuel Petrik, Matthias Kaiser, Veronika Amie |
 | Sat, 18 Jul 2026 | PARK IT HERE SUMMER EDITION | CHERCHES, COBRA, KEEO.FM, Meg10 |
 | Fri, 24 Jul 2026 | Amore AG x REDIVIDER pres. D.TIFFANY | D. Tiffany, DJ Deadlift, DJ Sprudel, DREYA, Julia Goldfarb, Rayya |
@@ -23,4 +21,4 @@ PRST is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with l
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

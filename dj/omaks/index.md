@@ -1,6 +1,6 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 17 Jul 2026.
+OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 17 Jul 2026.
 
 OMAKS is a techno and hardcore artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Lehmann Club, Stuttgart on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ OMAKS is a techno and hardcore artist tracked on soundcheck, with 132 sets logge
 
 LESSSS, Shlømo, Basswell
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

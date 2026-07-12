@@ -1,14 +1,13 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Supergloss / Gerardo Niva" on Sat, 11 Jul 2026.
+Mondo is a music venue in Madrid with 13 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Barbara Lago / pavvvvvvlo" on Thu, 16 Jul 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Alba Franch, Bárbara Lago, DART and DJ SWISHERMAN and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 13 upcoming nights, with line-ups including Alba Franch, Bárbara Lago, DART and DJ SWISHERMAN and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Supergloss / Gerardo Niva | Gerardo Niva, Supergloss |
 | Thu, 16 Jul 2026 | Barbara Lago / pavvvvvvlo | Bárbara Lago, pavvvvvvlo |
 | Sat, 18 Jul 2026 | Spray / Gerardo Niva / SAIDAH | Gerardo Niva, SAIDAH, Spray |
 | Thu, 23 Jul 2026 | William Kiss / Gerardo Niva B2B S3PPA / doccudder | Gerardo Niva, S3PPA, William Kiss, doccudder |
@@ -18,9 +17,10 @@ Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with 
 | Thu, 6 Aug 2026 | Gerardo Niva / Jim Jonathan / doccudder | Gerardo Niva, doccudder |
 | Sat, 8 Aug 2026 | X-Coast / Gerardo Niva / DJ SWISHERMAN | DJ SWISHERMAN, Gerardo Niva, X-Coast |
 | Sat, 29 Aug 2026 | STÜM / Gerardo Niva | Gerardo Niva, STÜM |
+| Sat, 5 Sept 2026 | AFTERPARTY: Kyle Starkey / DART / Gerardo Niva B2B S3PPA | DART, Gerardo Niva, Kyle Starkey, S3PPA |
 
 ## Address
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

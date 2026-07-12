@@ -1,6 +1,6 @@
 # Eclectic Elektra
 
-Eclectic Elektra is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
+Eclectic Elektra is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
 
 Eclectic Elektra is a house and disco artist based in Belgium, tracked on soundcheck, with 39 sets logged across Antwerp, Berlin and Copenhagen. Often billed alongside Ansonica, Jelle from the Block and Arlanoa. Next up: OLT Rivierenhof, Antwerp on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Eclectic Elektra is a house and disco artist based in Belgium, tracked on soundc
 
 Ansonica, Jelle from the Block, Arlanoa
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eclecticelektra/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eclecticelektra/)*

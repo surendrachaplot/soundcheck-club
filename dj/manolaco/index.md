@@ -1,6 +1,6 @@
 # Manolaco
 
-Manolaco is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Manko Athens, Athens on Sun, 12 Jul 2026.
+Manolaco is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Manko Athens, Athens on Sun, 12 Jul 2026.
 
 Manolaco is a techno and house artist tracked on soundcheck, with 72 sets logged across Athens, Bucharest, London and Milan and 1 more. Often billed alongside Mikee (Athens), Viton and Pan-Pot. Next up: Manko Athens, Athens on Sun 12 Jul.
 
@@ -29,4 +29,4 @@ Manolaco is a techno and house artist tracked on soundcheck, with 72 sets logged
 
 Mikee (Athens), Viton, Pan-Pot
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

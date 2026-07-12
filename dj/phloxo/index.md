@@ -1,6 +1,6 @@
 # PHLOXO
 
-PHLOXO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at ://about blank, Berlin on Sat, 25 Jul 2026.
+PHLOXO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at ://about blank, Berlin on Sat, 25 Jul 2026.
 
 PHLOXO is a techno and trance artist based in Ukraine, tracked on soundcheck, with 60 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Manrick Stapez, HAUSBRAND and .Cheka. Next up: ://about blank, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ PHLOXO is a techno and trance artist based in Ukraine, tracked on soundcheck, wi
 
 Manrick Stapez, HAUSBRAND, .Cheka
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phloxo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phloxo/)*

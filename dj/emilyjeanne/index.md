@@ -1,6 +1,6 @@
 # Emily Jeanne
 
-Emily Jeanne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
+Emily Jeanne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Berlin on Sun, 12 Jul 2026.
 
 Emily Jeanne is a techno and house artist based in Belgium, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 18 more. Often billed alongside Carrier, DjRUM and Nosedrip. Next up: TBA, Berlin on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Emily Jeanne is a techno and house artist based in Belgium, tracked on soundchec
 
 Carrier, DjRUM, Nosedrip
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjeanne/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjeanne/)*

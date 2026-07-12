@@ -1,6 +1,6 @@
 # Topper
 
-Topper is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 17 Jul 2026.
+Topper is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Platforma Wolff, Bucharest on Fri, 17 Jul 2026.
 
 Topper is a house and minimal artist tracked on soundcheck, with 83 sets logged across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Platforma Wolff, Bucharest on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Topper is a house and minimal artist tracked on soundcheck, with 83 sets logged 
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

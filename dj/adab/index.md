@@ -1,6 +1,6 @@
 # ADAB
 
-ADAB is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Philadelphia on Sat, 18 Jul 2026.
+ADAB is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Philadelphia on Sat, 18 Jul 2026.
 
 ADAB is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Detroit and London and 6 more. Often billed alongside Kiernan Laveaux, Russell E.L. Butler and Eris Drew. Next up: TBA, Philadelphia on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ ADAB is a techno and house artist based in United States of America, tracked on 
 
 Kiernan Laveaux, Russell E.L. Butler, Eris Drew
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*

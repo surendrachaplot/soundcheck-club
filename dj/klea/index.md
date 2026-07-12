@@ -1,6 +1,6 @@
 # KLEA
 
-KLEA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at OXI, Berlin on Tue, 14 Jul 2026.
+KLEA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OXI, Berlin on Tue, 14 Jul 2026.
 
 KLEA is a techno artist based in Albania, tracked on soundcheck, with 33 sets logged across Berlin and Milan. Often billed alongside Quolcat, Tinco and Luli Panasci. Next up: OXI, Berlin on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ KLEA is a techno artist based in Albania, tracked on soundcheck, with 33 sets lo
 
 Quolcat, Tinco, Luli Panasci
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*

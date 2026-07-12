@@ -1,6 +1,6 @@
 # Space Drum Meditation
 
-Space Drum Meditation is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
+Space Drum Meditation is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Thu, 13 Aug 2026.
 
 Space Drum Meditation is a techno and experimental artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Cologne and 11 more. Often billed alongside Spekki Webu, Woody92 and CCL. Next up: RSO.BERLIN, Berlin on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ Space Drum Meditation is a techno and experimental artist based in Germany, trac
 
 Spekki Webu, Woody92, CCL
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedrummeditation/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedrummeditation/)*

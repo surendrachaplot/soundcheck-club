@@ -1,14 +1,13 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Fangs X Bikini Body afterparty" on Sat, 11 Jul 2026.
+People's Leisure Club is a music venue in Edinburgh with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "The Sessions: Shared Control [Cancelled]" on Tue, 14 Jul 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 9 upcoming nights, with line-ups including Big Dope P, discjocelyne, DJ Shannon and DMG Music and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 8 upcoming nights, with line-ups including Big Dope P, DJ Shannon, DMG Music and freddy haptic and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Fangs X Bikini Body afterparty | George T, Jacuzzi General, discjocelyne |
 | Tue, 14 Jul 2026 | The Sessions: Shared Control [Cancelled] |  |
 | Fri, 17 Jul 2026 | Bristo Snare: Powdersoul and Louspresso | Jedda, Louspresso, Powdersoul, freddy haptic |
 | Thu, 23 Jul 2026 | Live the Dream | DMG Music, SLY DIG, samwooddoowmas |
@@ -22,4 +21,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 9 upco
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

@@ -1,6 +1,6 @@
 # Bredouille
 
-Bredouille is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Surco Wa" on Fri, 17 Jul 2026.
+Bredouille is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Surco Wa" on Fri, 17 Jul 2026.
 
 Bredouille is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including albeiro, Daniel Jaramillo, Dave and DAZA and 2 more. Browse upcoming dates, start times and who's playing. S-Bahnbogen 199, Georgenstraße, 10117 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Bredouille is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 S-Bahnbogen 199, Georgenstraße, 10117 Berlin, Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bredouille/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bredouille/)*

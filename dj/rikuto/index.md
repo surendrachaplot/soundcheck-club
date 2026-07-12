@@ -1,6 +1,6 @@
 # Rikuto
 
-Rikuto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Blvck Water, Osaka on Wed, 15 Jul 2026.
+Rikuto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Blvck Water, Osaka on Wed, 15 Jul 2026.
 
 Rikuto is a techno and house artist based in Japan, tracked on soundcheck, with 104 sets logged across Brisbane, Osaka, Seoul and Tokyo. Often billed alongside Rikuto Shibazaki, Goodrug and KCD(JP). Next up: Blvck Water, Osaka on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ Rikuto is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Rikuto Shibazaki, Goodrug, KCD(JP)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rikuto/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rikuto/)*

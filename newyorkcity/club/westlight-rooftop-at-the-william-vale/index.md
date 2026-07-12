@@ -1,8 +1,8 @@
 # Westlight Rooftop at The William Vale
 
-Westlight Rooftop at The William Vale is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Friends In High Places feat. Colorize" on Fri, 17 Jul 2026.
+Westlight Rooftop at The William Vale is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Friends In High Places feat. Colorize" on Fri, 17 Jul 2026.
 
-Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including ALLKNIGHT, Bakermat, Chris Luno and Estiva and 2 more. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
+Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including ALLKNIGHT, Bakermat, Chris Luno and Estiva and 2 more. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on 
 
 111 North 12th Street, Brooklyn, New York 11249, United States, New York City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*

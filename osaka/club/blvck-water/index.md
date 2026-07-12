@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "PULSE FICTION Vol.4" on Sat, 11 Jul 2026.
+Blvck Water is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SHIVA" on Sun, 12 Jul 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 9 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), C!AO and CHIKA and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 8 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), CHIKA and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | PULSE FICTION Vol.4 | C!AO, MARIHO, PiERO, Tom Monkey |
 | Sun, 12 Jul 2026 | SHIVA |  |
 | Tue, 14 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, 死者蘇生CH |
 | Wed, 15 Jul 2026 | RINN-NE TECHNO MAFIA | Goodrug, KCD(JP), Rikuto |
@@ -22,4 +21,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 9 upcoming nights, w
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

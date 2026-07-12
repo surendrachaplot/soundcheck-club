@@ -1,6 +1,6 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Elsewhere, New York City on Thu, 16 Jul 2026.
+Eurohead is a Trance and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Elsewhere, New York City on Thu, 16 Jul 2026.
 
 Eurohead is a trance and club artist tracked on soundcheck, with 18 sets logged across Austin, Barcelona, Berlin and Houston and 8 more. Often billed alongside Frost Children, 10cust and Ali RQ. Next up: Elsewhere, Newyorkcity on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Eurohead is a trance and club artist tracked on soundcheck, with 18 sets logged 
 
 Frost Children, 10cust, Ali RQ
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

@@ -1,6 +1,6 @@
 # Luzztro
 
-Luzztro is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Kellerstaat releases WRP" on Fri, 17 Jul 2026.
+Luzztro is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Kellerstaat releases WRP" on Fri, 17 Jul 2026.
 
 Luzztro is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Andrew Savich, HANICZ, MERVH and Sixthousand. Browse upcoming dates, start times and who's playing. aleje Jerozolimskie 6, 00-374 Warszawa.
 
@@ -14,4 +14,4 @@ Luzztro is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with 
 
 aleje Jerozolimskie 6, 00-374 Warszawa, Warsaw
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/luzztro/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/luzztro/)*

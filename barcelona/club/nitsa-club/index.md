@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Ellen Allien · Neska / Denis Horvat · Greta Levska" on Sat, 11 Jul 2026.
+Nitsa Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Mathame All Night Long / Chippy Nonstop · Mina Galán · Solsi" on Fri, 24 Jul 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Astin, CANDADISMO, Carla Valenti and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Astin, CANDADISMO, Carla Valenti and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Ellen Allien · Neska / Denis Horvat · Greta Levska | Denis Horvat, Ellen Allien, Greta Levska, Neska |
 | Fri, 24 Jul 2026 | Mathame All Night Long / Chippy Nonstop · Mina Galán · Solsi | Chippy Nonstop, Mathame, Mina Galán |
 | Sat, 25 Jul 2026 | Indo Warehouse · Carla Valenti / VHOOR · CRRDR · L'Miranda b2b CANDADISMO | Astin, CANDADISMO, CRRDR, Carla Valenti, L'Miranda, VHOOR |
 | Fri, 31 Jul 2026 | Trance NXC: TDJ b2b Cult Member · Uffie · JUMER / Kasablanca · Julya Karma · Dj Fra | Cult Member, Dj Fra, JUMER, Julya Karma, Kasablanca, TDJ, Uffie |
@@ -20,4 +19,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

@@ -1,6 +1,6 @@
 # Ryman Auditorium
 
-Ryman Auditorium is a music venue in Nashville with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "foreigner" on Tue, 11 Aug 2026.
+Ryman Auditorium is a music venue in Nashville with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "foreigner" on Tue, 11 Aug 2026.
 
 Ryman Auditorium is a music venue in Nashville listed on soundcheck. 3 upcoming nights, with line-ups including foreigner. Browse upcoming dates, start times and who's playing. 116 5th Ave N, Nashville, TN 37219, United States.
 
@@ -16,4 +16,4 @@ Ryman Auditorium is a music venue in Nashville listed on soundcheck. 3 upcoming 
 
 116 5th Ave N, Nashville, TN 37219, United States, Nashville
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/ryman-auditorium/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/ryman-auditorium/)*

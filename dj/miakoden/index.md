@@ -1,6 +1,6 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ormside Projects, London on Sun, 12 Jul 2026.
+Mia Koden is a Bass and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ormside Projects, London on Sun, 12 Jul 2026.
 
 Mia Koden is a bass and techno artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Ormside Projects, London on Sun 12 Jul.
 
@@ -35,4 +35,4 @@ Mia Koden is a bass and techno artist tracked on soundcheck, with 149 sets logge
 
 Skee Mask, DjRUM, Mala
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*

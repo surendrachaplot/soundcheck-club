@@ -1,6 +1,6 @@
 # Montero
 
-Montero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 28 Aug 2026.
+Montero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 28 Aug 2026.
 
 Montero is a techno and house artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Lisbon and London and 10 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Studio Club Malaga, Malaga on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Montero is a techno and house artist tracked on soundcheck, with 69 sets logged 
 
 Tauer, Anika Kunst, Stojche
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*

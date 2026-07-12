@@ -1,6 +1,6 @@
 # 2KOŁA
 
-2KOŁA is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "DRYF x 00effort Minifest" on Fri, 17 Jul 2026.
+2KOŁA is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "DRYF x 00effort Minifest" on Fri, 17 Jul 2026.
 
 2KOŁA is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including bakblivv, dj neurospicy, KAROLINDA and Key Asc. Browse upcoming dates, start times and who's playing. Tunelowa 2b, 01-221 Warszawa.
 
@@ -14,4 +14,4 @@
 
 Tunelowa 2b, 01-221 Warszawa, Warsaw
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/2ko-a/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/2ko-a/)*

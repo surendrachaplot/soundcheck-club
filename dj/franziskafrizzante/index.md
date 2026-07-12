@@ -1,6 +1,6 @@
 # Franziska Frizzante
 
-Franziska Frizzante is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 31 Jul 2026.
+Franziska Frizzante is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bulbul Berlin, Berlin on Fri, 31 Jul 2026.
 
 Franziska Frizzante is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Sam Paradise, freesi and Carluschka. Next up: Bulbul Berlin, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Franziska Frizzante is a house and techno artist based in Germany, tracked on so
 
 Sam Paradise, freesi, Carluschka
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskafrizzante/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskafrizzante/)*

@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Baile inolvidable" on Tue, 14 Jul 2026.
+K-Bar Powiśle is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Baile inolvidable" on Tue, 14 Jul 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Basy Tropikalne, Berna (PL), dj latinchat and faron and 2 more. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -15,4 +15,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 2 upcoming night
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

@@ -1,6 +1,6 @@
 # Kabylie Minogue
 
-Kabylie Minogue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Kabylie Minogue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Kabylie Minogue is a house and techno artist tracked on soundcheck, with 32 sets logged across Geneva, Marseille, Nantes and Paris. Often billed alongside Hardrock Striker, Joe Lewandowski and Master Phil. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -27,4 +27,4 @@ Kabylie Minogue is a house and techno artist tracked on soundcheck, with 32 sets
 
 Hardrock Striker, Joe Lewandowski, Master Phil
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabylieminogue/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabylieminogue/)*

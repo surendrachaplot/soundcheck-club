@@ -1,6 +1,6 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at fabric, London on Fri, 4 Sept 2026.
+Anaïs is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 Anaïs is a drum & bass and garage artist tracked on soundcheck, with 52 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 17 more. Often billed alongside Whiney, Degs and P Money. Next up: fabric, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Anaïs is a drum & bass and garage artist tracked on soundcheck, with 52 sets lo
 
 Whiney, Degs, P Money
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Manzdiz [Mtl] - Manzone & Strong - Addy - 4AM LAST CALL" on Sat, 11 Jul 2026.
+Wiggle Room is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sunday SerVice: David Herrero [Spain] - 4AM LAST CALL" on Sun, 12 Jul 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including Addy, David Herrero, Dick Diamonds and Juan Gmoney Jaramillo and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including David Herrero, Dick Diamonds, Juan Gmoney Jaramillo and Junior Lopez and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Manzdiz [Mtl] - Manzone & Strong - Addy - 4AM LAST CALL | Addy, Mandiz, Manzone & Strong, TAKiN |
 | Sun, 12 Jul 2026 | Sunday SerVice: David Herrero [Spain] - 4AM LAST CALL | David Herrero, Manzone & Strong |
 | Sat, 18 Jul 2026 | Birthday Trio: Tyler Hill - FLIPSIDE - Randomdoug | MC Flipside, Randomdoug, SHERA, Tyler Hill |
 | Sun, 19 Jul 2026 | Sunday SerVice: BUMMPY NUGGEST [NYC] - FIFA Closing Party - 4AM LAST CALL | Dick Diamonds, Manzone & Strong, TAKiN |
@@ -20,4 +19,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 7 upcoming nights,
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

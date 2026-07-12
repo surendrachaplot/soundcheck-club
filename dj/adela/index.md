@@ -1,6 +1,6 @@
 # Adela
 
-Adela is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Adela is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Adela is a deep house and progressive house artist tracked on soundcheck, with 44 sets logged across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Adela is a deep house and progressive house artist tracked on soundcheck, with 4
 
 Benebe, Faded Society, Glittcherz
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*

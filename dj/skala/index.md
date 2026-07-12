@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Flash, Washington DC on Sun, 12 Jul 2026.
+SKALA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Flash, Washington DC on Sun, 12 Jul 2026.
 
 SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Flash, Washingtondc on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged ac
 
 Theologos, ELIF, Mila Stern
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

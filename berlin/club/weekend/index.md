@@ -1,14 +1,13 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "OFFLINE – BEATS & BOATS AFTERPARTY" on Sat, 11 Jul 2026.
+Weekend is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "WKND X DON'T TELL ANYONE" on Fri, 17 Jul 2026.
 
-Weekend is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including AKA AKA, Alex Gallus, BOHO and Chris Di Perri and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
+Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alex Gallus, BOHO, Dennis Beutler and Denno Matini and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | OFFLINE – BEATS & BOATS AFTERPARTY | AKA AKA, Chris Di Perri, DJ PayPaul, Domenic D'Agnelli, Jil Tanner, Matthias Tanzmann, Moonbootica, Simina Grigoriu |
 | Fri, 17 Jul 2026 | WKND X DON'T TELL ANYONE | BOHO, Lino Fuso, MARIO CORTES (GER), NDNA |
 | Fri, 24 Jul 2026 | WKND X MICHELINS- PRE CSD | Misha Svirid, Mousse T., Phonique, Westside Bass |
 | Fri, 31 Jul 2026 | WKND X HARRIS & GALLUS | Alex Gallus, Gunnar Stiller |
@@ -22,4 +21,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

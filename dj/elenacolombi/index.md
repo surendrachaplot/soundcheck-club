@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 17 Jul 2026.
+Elena Colombi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 17 Jul 2026.
 
 Elena Colombi is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: arkaoda Berlin, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Elena Colombi is a techno and house artist tracked on soundcheck, with 135 sets 
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

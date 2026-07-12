@@ -1,6 +1,6 @@
 # Dubrunner
 
-Dubrunner is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
+Dubrunner is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
 
 Dubrunner is a dub and bass artist tracked on soundcheck, with 45 sets logged across Bangkok, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Breaka, Yushh and Darwin. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Dubrunner is a dub and bass artist tracked on soundcheck, with 45 sets logged ac
 
 Breaka, Yushh, Darwin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*

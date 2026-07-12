@@ -1,6 +1,6 @@
 # Flore
 
-Flore is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Palais de Tokyo, Paris on Sun, 12 Jul 2026.
+Flore is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Palais de Tokyo, Paris on Sun, 12 Jul 2026.
 
 Flore is a techno and bass artist based in France, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Ehua, upsammy and ojoo. Next up: Palais de Tokyo, Paris on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Flore is a techno and bass artist based in France, tracked on soundcheck, with 4
 
 Ehua, upsammy, ojoo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flore/)*

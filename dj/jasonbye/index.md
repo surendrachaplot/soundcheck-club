@@ -1,14 +1,13 @@
 # Jason Bye
 
-Jason Bye is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 11 Jul 2026.
+Jason Bye is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at [UNVRS], Ibiza on Thu, 16 Jul 2026.
 
-Jason Bye is a house and tech house artist tracked on soundcheck, with 79 sets logged across Barcelona, Ibiza and London. Often billed alongside FISHER, Andy Baxter and Jo Mills. Next up: 528 Ibiza, Ibiza on Sat 11 Jul.
+Jason Bye is a house and tech house artist tracked on soundcheck, with 79 sets logged across Barcelona, Ibiza and London. Often billed alongside FISHER, Andy Baxter and Jo Mills. Next up: [UNVRS], Ibiza on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | 528 Ibiza | Ibiza |
 | Thu, 16 Jul 2026 | [UNVRS] | Ibiza |
 | Thu, 23 Jul 2026 | [UNVRS] | Ibiza |
 | Sat, 25 Jul 2026 | 528 Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Jason Bye is a house and tech house artist tracked on soundcheck, with 79 sets l
 | Thu, 20 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 22 Aug 2026 | 528 Ibiza | Ibiza |
 | Thu, 27 Aug 2026 | [UNVRS] | Ibiza |
+| Sat, 29 Aug 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Thu, 9 Jul 2026
 - 528 Ibiza, Ibiza — Sat, 4 Jul 2026
 - 528 Ibiza, Ibiza — Sat, 27 Jun 2026
@@ -30,10 +31,9 @@ Jason Bye is a house and tech house artist tracked on soundcheck, with 79 sets l
 - 528 Ibiza, Ibiza — Sat, 20 Jun 2026
 - [UNVRS], Ibiza — Thu, 18 Jun 2026
 - 528 Ibiza, Ibiza — Sat, 13 Jun 2026
-- [UNVRS], Ibiza — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 FISHER, Andy Baxter, Jo Mills
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonbye/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonbye/)*

@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sophie Festival, Malaga on Sat, 11 Jul 2026.
+Jennifer Loveless is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Sophie Festival, Malaga on Sat 11 Jul.
+Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Sophie Festival | Malaga |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sun, 19 Jul 2026 | Else | Berlin |
 | Fri, 24 Jul 2026 | OXI | Berlin |
@@ -23,6 +22,7 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 s
 
 ## Recently played
 
+- Sophie Festival, Malaga — Sat, 11 Jul 2026
 - M.O.T, London — Sat, 4 Jul 2026
 - Phonox, London — Sat, 4 Jul 2026
 - Micas Garten (Zurich), Zurich — Sat, 27 Jun 2026
@@ -30,10 +30,9 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 s
 - Place du Congrès, Brussels — Sat, 13 Jun 2026
 - TBA, Brussels — Sat, 13 Jun 2026
 - KALT, Strasbourg — Sat, 6 Jun 2026
-- Fridas Pier, Stuttgart — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

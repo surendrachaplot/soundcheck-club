@@ -1,6 +1,6 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "HØMME presents DSM—5" on Thu, 23 Jul 2026.
+TBA - Toronto is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "HØMME presents DSM—5" on Thu, 23 Jul 2026.
 
 TBA - Toronto is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including ALT8, A++, Barac and DJ Deseo and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ TBA - Toronto is a music venue in Toronto listed on soundcheck. 9 upcoming night
 | Fri, 28 Aug 2026 | FORMAT X PARADOX: Limited Capacity |  |
 | Sat, 12 Sept 2026 | ROTE8 EVENTS presents: TBA |  |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-toronto/)*

@@ -1,6 +1,6 @@
 # Dj Kerry
 
-Dj Kerry is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Escondite (The Hideout), Los Angeles on Sun, 12 Jul 2026.
+Dj Kerry is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Escondite (The Hideout), Los Angeles on Sun, 12 Jul 2026.
 
 Dj Kerry is a house and disco artist tracked on soundcheck, with 45 sets logged across Losangeles, Newyorkcity, Osaka and Sanfrancisco and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: The Escondite (The Hideout), Losangeles on Sun 12 Jul.
 
@@ -26,4 +26,4 @@ Dj Kerry is a house and disco artist tracked on soundcheck, with 45 sets logged 
 
 Stacy Christine, Heidi Lawden, Masha Mar
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*

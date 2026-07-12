@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "GROOVA" on Thu, 16 Jul 2026.
+Club Makossa is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "GROOVA" on Thu, 16 Jul 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including BOA (1), DAMPY, Kat Bendis and Steve Brown and 1 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -18,4 +18,4 @@ Club Makossa is a music venue in London listed on soundcheck. 5 upcoming nights,
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

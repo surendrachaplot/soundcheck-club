@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Transgenik" on Mon, 13 Jul 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Transgenik" on Mon, 13 Jul 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adriana Lopez, Alhena_, A.M. Project and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -22,4 +22,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

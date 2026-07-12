@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Frost Children Official Afterparty by HYPERTRASH" on Wed, 15 Jul 2026.
+FLUCC is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Frost Children Official Afterparty by HYPERTRASH" on Wed, 15 Jul 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including ADIRA, Antonia XM, ARMANA KHAN and Comrade Martin and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -21,4 +21,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

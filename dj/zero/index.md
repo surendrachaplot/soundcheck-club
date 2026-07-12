@@ -1,8 +1,8 @@
 # Zero
 
-Zero is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Kilomètre25, Paris on Fri, 17 Jul 2026.
+Zero is a Garage and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kilomètre25, Paris on Fri, 17 Jul 2026.
 
-Zero is a garage and bass artist tracked on soundcheck, with 38 sets logged across Austin, Barcelona, Bristol and Dublin and 16 more. Often billed alongside Skepsis, Window Kid and Darkzy. Next up: Kilomètre25, Paris on Fri 17 Jul.
+Zero is a garage and drum & bass artist tracked on soundcheck, with 39 sets logged across Austin, Barcelona, Bristol and Dublin and 16 more. Often billed alongside Skepsis, Window Kid and Charlie Tee. Next up: Kilomètre25, Paris on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Zero is a garage and bass artist tracked on soundcheck, with 38 sets logged acro
 | Sat, 25 Jul 2026 | The Racket Space | Dublin |
 | Sat, 25 Jul 2026 | Tank | Sheffield |
 | Fri, 4 Sept 2026 | fabric | London |
+| Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Zero is a garage and bass artist tracked on soundcheck, with 38 sets logged acro
 
 ## Shares bills with
 
-Skepsis, Window Kid, Darkzy
+Skepsis, Window Kid, Charlie Tee
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zero/)*

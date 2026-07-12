@@ -1,6 +1,6 @@
 # Adriana Ruas
 
-Adriana Ruas is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - RIVAGE ALGÉS, Lisbon on Fri, 17 Jul 2026.
+Adriana Ruas is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - RIVAGE ALGÉS, Lisbon on Fri, 17 Jul 2026.
 
 Adriana Ruas is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Berlin and 5 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: TBA - RIVAGE ALGÉS, Lisbon on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Adriana Ruas is a house and techno artist tracked on soundcheck, with 65 sets lo
 
 Alfonsvs, Nuno Carneiro, Jorge Caiado
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*

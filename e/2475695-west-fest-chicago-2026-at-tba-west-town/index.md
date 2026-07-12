@@ -1,6 +1,6 @@
 # West Fest Chicago 2026 at TBA - West Town
 
-West Fest Chicago 2026 at TBA - West Town on Fri 17 Jul, Chicago. 23 acts on the bill: Alice Longyu Gao, Angel Alanis, Czboogie and DJ Heather and 19 more. Preview the line-up and save it on soundcheck.
+West Fest Chicago 2026 at TBA - West Town on Fri 17 Jul, Chicago. 24 acts on the bill: Alice Longyu Gao, Angel Alanis, Czboogie and DJ Heather and 20 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ West Fest Chicago 2026 at TBA - West Town on Fri 17 Jul, Chicago. 23 acts on the
 - Glyde
 - Jevon Jackson
 - Justin Reed
+- Justindemus
 - Merrick Brown
 - Phantom 45
 - Renan

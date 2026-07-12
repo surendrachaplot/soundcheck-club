@@ -1,6 +1,6 @@
 # Matrez - Warehouse
 
-Matrez - Warehouse is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Unreal x Music Reactions @Matrez" on Sat, 12 Sept 2026.
+Matrez - Warehouse is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Unreal x Music Reactions @Matrez" on Sat, 12 Sept 2026.
 
 Matrez - Warehouse is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including ACOR, Afem Syko, Charlie Sparks and Cloudy and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Matrez - Warehouse is a music venue in Belgrade listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Unreal x Music Reactions @Matrez | ACOR, Afem Syko, Charlie Sparks, Cloudy, Moraitov, Stameni, nobena |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/matrez-warehouse/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/matrez-warehouse/)*

@@ -1,6 +1,6 @@
 # The Horse Hospital
 
-The Horse Hospital is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "(A)MOL presents Conna Haraway, Burning Pyre and Mirror Organs" on Sun, 2 Aug 2026.
+The Horse Hospital is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "(A)MOL presents Conna Haraway, Burning Pyre and Mirror Organs" on Sun, 2 Aug 2026.
 
 The Horse Hospital is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Conna Haraway and Mirror Organs. Browse upcoming dates, start times and who's playing. Colonnade, Bloomsbury, WC1N 1HX, London.
 
@@ -14,4 +14,4 @@ The Horse Hospital is a music venue in London listed on soundcheck. 1 upcoming n
 
 Colonnade, Bloomsbury, WC1N 1HX, London, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-hospital/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-hospital/)*

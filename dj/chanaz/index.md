@@ -1,6 +1,6 @@
 # Chanaz
 
-Chanaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Mitsuki, Tokyo on Mon, 13 Jul 2026.
+Chanaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mitsuki, Tokyo on Mon, 13 Jul 2026.
 
 Chanaz is a house and techno artist tracked on soundcheck, with 86 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Vís (1), Ryogo and KOTSU. Next up: Mitsuki, Tokyo on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ Chanaz is a house and techno artist tracked on soundcheck, with 86 sets logged a
 
 Vís (1), Ryogo, KOTSU
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chanaz/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chanaz/)*

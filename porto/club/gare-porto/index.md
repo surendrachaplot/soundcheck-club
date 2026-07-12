@@ -1,14 +1,13 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Electric Rescue, Amulador, Tiago Fragateiro" on Sat, 11 Jul 2026.
+Gare Porto is a music venue in Porto with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Flug, Lega, Ernesto" on Fri, 17 Jul 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming nights, with line-ups including Amulador, DANA NADA, DANDAN and Electric Rescue and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming nights, with line-ups including Amulador, DANA NADA, DANDAN and Flug and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Electric Rescue, Amulador, Tiago Fragateiro | Amulador, Electric Rescue, Tiago Fragateiro |
 | Fri, 17 Jul 2026 | Flug, Lega, Ernesto | Flug, Lega |
 | Sat, 18 Jul 2026 | Rene Wise, Amulador, Ricardo P | Amulador, Rene Wise, Ricardo P. |
 | Fri, 24 Jul 2026 | DANA NADA, DANDAN, Gusta-vo | DANA NADA, DANDAN |
@@ -19,4 +18,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

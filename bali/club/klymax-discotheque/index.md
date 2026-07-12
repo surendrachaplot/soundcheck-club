@@ -1,18 +1,17 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Dita, Daffabedamned" on Sat, 11 Jul 2026.
+Klymax Discotheque is a music venue in Bali with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Xin Lie, Bagvs, su66en9" on Fri, 17 Jul 2026.
 
-Klymax Discotheque is a music venue in Bali listed on soundcheck. 6 upcoming nights, with line-ups including Bagvs, DITA (ID), Ega (ID) and Givanka and 2 more. Browse upcoming dates, start times and who's playing.
+Klymax Discotheque is a music venue in Bali listed on soundcheck. 5 upcoming nights, with line-ups including Bagvs, Ega (ID), Givanka and Kenji Takimi and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Dita, Daffabedamned | DITA (ID) |
 | Fri, 17 Jul 2026 | Xin Lie, Bagvs, su66en9 | Bagvs, Xin Lie, su66en9 |
 | Sat, 18 Jul 2026 | Kenji Takimi, Gero | Kenji Takimi |
 | Fri, 24 Jul 2026 | Ega, Givanka, Raynaldi | Ega (ID), Givanka, Raynaldi |
 | Sat, 25 Jul 2026 | Brucey, Scotty Cal, Papü | Scotty Cal |
 | Fri, 31 Jul 2026 | Ice Cream Sundays Djs |  |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

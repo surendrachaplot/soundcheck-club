@@ -1,14 +1,13 @@
 # Jason Kendig
 
-Jason Kendig is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 11 Jul 2026.
+Jason Kendig is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BASEMENT, New York City on Sat, 18 Jul 2026.
 
-Jason Kendig is a techno and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Bali, Berlin, Chicago and Detroit and 11 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: TBA - Downtown LA, Losangeles on Sat 11 Jul.
+Jason Kendig is a techno and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Bali, Berlin, Chicago and Detroit and 11 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: BASEMENT, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | TBA - Downtown LA | Los Angeles |
 | Sat, 18 Jul 2026 | BASEMENT | New York City |
 | Fri, 31 Jul 2026 | BASEMENT | New York City |
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
@@ -16,6 +15,7 @@ Jason Kendig is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
+- TBA - Downtown LA, Los Angeles — Sat, 11 Jul 2026
 - BASEMENT, New York City — Sat, 9 May 2026
 - BASEMENT, New York City — Sat, 25 Apr 2026
 - Monarch, San Francisco/Oakland — Sat, 7 Mar 2026
@@ -23,10 +23,9 @@ Jason Kendig is a techno and house artist based in United States of America, tra
 - Massive, Seattle — Fri, 6 Mar 2026
 - TBA, Los Angeles — Sat, 15 Nov 2025
 - BASEMENT, New York City — Sat, 8 Nov 2025
-- BASEMENT, New York City — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Kilopatrah Jones, Auspex, Cosmo (NY)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*

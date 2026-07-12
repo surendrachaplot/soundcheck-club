@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 19 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Format presents Uun (Live) - Sard (Live) - Brenda - Mark Angel" on Sat, 11 Jul 2026.
+smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Queen! feat. Derrick Carter - LADYMONIX - Michael Serafini" on Sun, 12 Jul 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming nights, with line-ups including Annika Wolfe, Ariel Zetina, Blu9 and Brenda and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Annika Wolfe, Ariel Zetina, Blu9 and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Format presents Uun (Live) - Sard (Live) - Brenda - Mark Angel | Brenda, Mark Angel, Sard, Uun |
 | Sun, 12 Jul 2026 | Queen! feat. Derrick Carter - LADYMONIX - Michael Serafini | Derrick Carter, LADYMONIX, Michael Serafini |
 | Fri, 17 Jul 2026 | Flowers of Romance feat. Annika Wolfe (LIVE) - Justin Aulis Long - Scotia | Annika Wolfe, Justin Aulis Long, Scotia |
 | Sat, 18 Jul 2026 | TEED: DJ-Kicks Tour with Ariel Zetina - Juan Izguerra | Ariel Zetina, Juan Izguerra, TEED |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming nights, w
 | Sun, 26 Jul 2026 | Lucy's Birthday Queen! feat. Derrick Carter - Kon - Michael Serafini | Derrick Carter, Kon (FR), Michael Serafini |
 | Fri, 31 Jul 2026 | Theo Parrish (All Night Long) | Theo Parrish |
 | Sat, 1 Aug 2026 | An Official Lollapalooza Aftershow… Brothers Macklovitch - DJ Heather - Quicktastic | DJ Heather, Quicktastic |
+| Sun, 2 Aug 2026 | Queen! feat. Derrick Carter - Tammy Lakkis - Michael Serafini | Derrick Carter, Michael Serafini, Tammy Lakkis |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

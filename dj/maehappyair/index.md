@@ -1,6 +1,6 @@
 # Mae Happyair
 
-Mae Happyair is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Horn, Bangkok on Fri, 17 Jul 2026.
+Mae Happyair is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Horn, Bangkok on Fri, 17 Jul 2026.
 
 Mae Happyair is a techno and house artist tracked on soundcheck, with 66 sets logged across Bali, Bangkok, Leipzig and Prague and 1 more. Often billed alongside MJMA, Gres Teh and OLLE (TH). Next up: Horn, Bangkok on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mae Happyair is a techno and house artist tracked on soundcheck, with 66 sets lo
 
 MJMA, Gres Teh, OLLE (TH)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maehappyair/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maehappyair/)*

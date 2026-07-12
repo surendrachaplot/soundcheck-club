@@ -1,14 +1,13 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Process Residency Night - DJ DISSOLVE invites: Patrice Scott, Aaron Davis, Gazin" on Sat, 11 Jul 2026.
+Process PDX is a music venue in Portland with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "LéMix presents: A Night with Lady D" on Thu, 16 Jul 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 10 upcoming nights, with line-ups including Aaron Davis, Alec Fursman, August V. M. and Ben Bondy and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming nights, with line-ups including Alec Fursman, August V. M., Ben Bondy and Claudia LB and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Process Residency Night - DJ DISSOLVE invites: Patrice Scott, Aaron Davis, Gazin | Aaron Davis, DJ DISSOLVE, Gazin, Patrice Scott |
 | Thu, 16 Jul 2026 | LéMix presents: A Night with Lady D | DJ Lady D, Vignette |
 | Fri, 17 Jul 2026 | Trainwreck: Crash Out Pride 2026 | C Powers, xBulletNymphx |
 | Sat, 18 Jul 2026 | one-half NelSon presents: Hickey Machine | Phreaker Fighter, leeonn |
@@ -23,4 +22,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 10 upcoming night
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

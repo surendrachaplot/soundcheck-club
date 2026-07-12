@@ -1,14 +1,13 @@
 # A L P H A B E T
 
-A L P H A B E T is a music venue in Brighton with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Berlin presents Carina Lawrence" on Sat, 11 Jul 2026.
+A L P H A B E T is a music venue in Brighton with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "The OFFIE MAG Social with plentyppl" on Sat, 25 Jul 2026.
 
-A L P H A B E T is a music venue in Brighton listed on soundcheck. 7 upcoming nights, with line-ups including Alena Arpels, Carina Lawrence, CasuallyClued and ÉRIU and 2 more. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
+A L P H A B E T is a music venue in Brighton listed on soundcheck. 6 upcoming nights, with line-ups including Alena Arpels, CasuallyClued, Florence. and Sissy Cinnamon and 2 more. Browse upcoming dates, start times and who's playing. 11 Dyke Road.  Brighton.  BN1 3FE.  UK..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Berlin presents Carina Lawrence | Carina Lawrence, Josie Tabb, Markus Saarländer, Nadia, ÉRIU |
 | Sat, 25 Jul 2026 | The OFFIE MAG Social with plentyppl | CasuallyClued |
 | Fri, 31 Jul 2026 | The Lizard Queen presents: Club Cold Blood (Pre Pride Party) | Sissy Cinnamon, Spinks, The Lizard Queen |
 | Fri, 14 Aug 2026 | Chega Mais presents: Alena Arpels | Alena Arpels |
@@ -20,4 +19,4 @@ A L P H A B E T is a music venue in Brighton listed on soundcheck. 7 upcoming ni
 
 11 Dyke Road.  Brighton.  BN1 3FE.  UK., Brighton
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/a-l-p-h-a-b-e-t/)*

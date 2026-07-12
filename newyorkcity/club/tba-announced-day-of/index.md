@@ -1,6 +1,6 @@
 # TBA - Announced Day of 
 
-TBA - Announced Day of  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Submission: A Deep Dance/ Techno Function" on Sat, 8 Aug 2026.
+TBA - Announced Day of  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Submission: A Deep Dance/ Techno Function" on Sat, 8 Aug 2026.
 
 TBA - Announced Day of  is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Announced Day of  is a music venue in Newyorkcity listed on soundcheck. 1 
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Submission: A Deep Dance/ Techno Function |  |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-announced-day-of/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-announced-day-of/)*

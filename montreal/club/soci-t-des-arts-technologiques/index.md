@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 19 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur • Hurakkan" on Fri, 17 Jul 2026.
+Société des arts technologiques is a music venue in Montreal with 19 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur" on Fri, 17 Jul 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 19 upcoming nights, with line-ups including AceMo, A Guy Called Gerald, Alan Harman and Alina (MTL) and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -8,7 +8,7 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur • Hurakkan | Hurakkan, Inside Blur, OTON, Onohno, Xaviera |
+| Fri, 17 Jul 2026 | Dômesicle x OCTOV — OTON & Onohno (live A/V) (BE) • Xaviera b2b Inside Blur | Hurakkan, Inside Blur, OTON, Onohno, Xaviera |
 | Sat, 18 Jul 2026 | SUNSAT | Laurence Matte, Liv K |
 | Sat, 18 Jul 2026 | Club SAT x Deeplomatic — Mok-T b2b Lio • Vincent Lemieux • Wheelie Houdini | Lio', Mok-T, Vincent Lemieux |
 | Fri, 24 Jul 2026 | Dômesicle — Lars Huismann (DE) • Esther Côté b2b newfriend | Esther Côté, Lars Huismann, newfriend |
@@ -23,4 +23,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

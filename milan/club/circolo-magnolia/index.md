@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Der Techno OPEN AIR" on Sun, 12 Jul 2026.
+Circolo Magnolia is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Der Techno OPEN AIR" on Sun, 12 Jul 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Alessandro Reale, Andrea Isella, Cristopher Arcuri and Fritz Kalkbrenner and 2 more. Browse upcoming dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -17,4 +17,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 4 upcoming nigh
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

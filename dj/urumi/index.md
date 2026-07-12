@@ -1,6 +1,6 @@
 # Urumi
 
-Urumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Urumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Urumi is a techno and house artist tracked on soundcheck, with 37 sets logged across Antwerp, Berlin, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Mandragora and Von Bikräv. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -26,4 +26,4 @@ Urumi is a techno and house artist tracked on soundcheck, with 37 sets logged ac
 
 Vladimir Cauchemar, Mandragora, Von Bikräv
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*

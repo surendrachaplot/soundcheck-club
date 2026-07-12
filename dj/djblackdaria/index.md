@@ -1,8 +1,8 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at White Owl Social Club, Portland on Sun, 12 Jul 2026.
+Black Daria is a Hip-Hop and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at White Owl Social Club, Portland on Sun, 12 Jul 2026.
 
-Black Daria is a hip-hop and club artist tracked on soundcheck, with 90 sets logged across Austin, Chicago, Mexicocity and Montreal and 4 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: White Owl Social Club, Portland on Sun 12 Jul.
+Black Daria is a hip-hop and club artist tracked on soundcheck, with 91 sets logged across Austin, Chicago, Mexicocity and Montreal and 4 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: White Owl Social Club, Portland on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Black Daria is a hip-hop and club artist tracked on soundcheck, with 90 sets log
 | Sun, 12 Jul 2026 | White Owl Social Club | Portland |
 | Sat, 18 Jul 2026 | Wonderlove PDX | Portland |
 | Sun, 19 Jul 2026 | Holocene | Portland |
+| Fri, 7 Aug 2026 | TBA - Bat Country | Portland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Black Daria is a hip-hop and club artist tracked on soundcheck, with 90 sets log
 
 Katarra, Dj Dizam, SAMIA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

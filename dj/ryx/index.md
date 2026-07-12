@@ -1,8 +1,8 @@
 # RY X
 
-RY X is a Electronica and Ambient artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
+RY X is a Electronica and Ambient artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cova Santa, Ibiza on Fri, 17 Jul 2026.
 
-RY X is an electronica and ambient artist based in Australia, tracked on soundcheck, with 37 sets logged across Athens, Bali, Barcelona and Basel and 14 more. Often billed alongside Dixon, Jimi Jules and Carlita. Next up: Cova Santa, Ibiza on Fri 17 Jul.
+RY X is an electronica and ambient artist based in Australia, tracked on soundcheck, with 38 sets logged across Athens, Bali, Barcelona and Basel and 14 more. Often billed alongside Dixon, Jimi Jules and Carlita. Next up: Cova Santa, Ibiza on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ RY X is an electronica and ambient artist based in Australia, tracked on soundch
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
 | Sat, 15 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | TBA | Brussels |
+| Thu, 17 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ RY X is an electronica and ambient artist based in Australia, tracked on soundch
 
 Dixon, Jimi Jules, Carlita
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*

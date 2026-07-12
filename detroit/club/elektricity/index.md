@@ -1,14 +1,13 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 15 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DESPICABLE BEATS" on Sat, 11 Jul 2026.
+Elektricity is a music venue in Detroit with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "STAR MONSTER: MAGICAL CRUNCHY TOUR" on Fri, 17 Jul 2026.
 
-Elektricity is a music venue in Detroit listed on soundcheck. 15 upcoming nights, with line-ups including Dantiez, Dombresky, Drop Catch and Gossamer and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
+Elektricity is a music venue in Detroit listed on soundcheck. 14 upcoming nights, with line-ups including Dantiez, Dombresky, Drop Catch and Gossamer and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | DESPICABLE BEATS |  |
 | Fri, 17 Jul 2026 | STAR MONSTER: MAGICAL CRUNCHY TOUR | HARI |
 | Sat, 18 Jul 2026 | GIRLY POP | Hexx |
 | Fri, 24 Jul 2026 | JIQUI + SLANG DOGS |  |
@@ -18,9 +17,10 @@ Elektricity is a music venue in Detroit listed on soundcheck. 15 upcoming nights
 | Fri, 14 Aug 2026 | GOTH GALA | Gossamer |
 | Sat, 15 Aug 2026 | WEIRD & ODD FT. WODD |  |
 | Fri, 21 Aug 2026 | MITIS: THROUGH THE DARK TOUR |  |
+| Sat, 22 Aug 2026 | MADVKTM: THE AMALGAMATION TOUR |  |
 
 ## Address
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

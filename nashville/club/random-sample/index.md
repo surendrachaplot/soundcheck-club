@@ -1,6 +1,6 @@
 # Random Sample
 
-Random Sample is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Magic Tuber Stringband" on Wed, 29 Jul 2026.
+Random Sample is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Magic Tuber Stringband" on Wed, 29 Jul 2026.
 
 Random Sample is a music venue in Nashville listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4904 Charlotte Ave, Nashville, TN 37209.
 
@@ -14,4 +14,4 @@ Random Sample is a music venue in Nashville listed on soundcheck. 1 upcoming nig
 
 4904 Charlotte Ave, Nashville, TN 37209, Nashville
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/random-sample/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/random-sample/)*

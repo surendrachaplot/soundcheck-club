@@ -1,6 +1,6 @@
 # Club Silly (Bosi)
 
-Club Silly (Bosi) is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "THE SILLY DAY OUT FUNDRAISER" on Sun, 12 Jul 2026.
+Club Silly (Bosi) is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "THE SILLY DAY OUT FUNDRAISER" on Sun, 12 Jul 2026.
 
 Club Silly (Bosi) is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including DJ Snuff, Linden C, Slick N Bobby and Sway Of The Verses. Browse upcoming dates, start times and who's playing. Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ.
 
@@ -16,4 +16,4 @@ Club Silly (Bosi) is a music venue in London listed on soundcheck. 3 upcoming ni
 
 Bureau Of Silly ideas, Arch 555, Valentia Place, London, SW9 8PJ, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-silly-bosi/)*

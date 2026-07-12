@@ -1,6 +1,6 @@
 # Cafe Kamyon
 
-Cafe Kamyon is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "MAN AND MACHINE X ONDERONSJE" on Sat, 25 Jul 2026.
+Cafe Kamyon is a music venue in Antwerp with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "MAN AND MACHINE X ONDERONSJE" on Sat, 25 Jul 2026.
 
 Cafe Kamyon is a music venue in Antwerp listed on soundcheck. 2 upcoming nights, with line-ups including Boatman, Detash, Lathouwers and Tomhas and 1 more. Browse upcoming dates, start times and who's playing. Beatrijslaan 29,  2050 Antwerpen.
 
@@ -15,4 +15,4 @@ Cafe Kamyon is a music venue in Antwerp listed on soundcheck. 2 upcoming nights,
 
 Beatrijslaan 29,  2050 Antwerpen, Antwerp
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/cafe-kamyon/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/cafe-kamyon/)*

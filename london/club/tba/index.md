@@ -1,22 +1,22 @@
 # TBA
 
-TBA is a music venue in London with 266 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Ankali & Harmony: ½ festival" on Sat, 11 Jul 2026.
+TBA is a music venue in London with 236 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Spell" on Sun, 12 Jul 2026.
 
-TBA is a music venue in London listed on soundcheck. 266 upcoming nights, with line-ups including 2HZY, 2M (CH), $40 Lawn Chair and 619! and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 236 upcoming nights, with line-ups including 2HZY, 2M (CH), $40 Lawn Chair and 619! and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Ankali & Harmony: ½ festival | Alfred Czital, Atch22, CEREAL, Dash (CZ), Edits, Epoché, Fæ Bestia, Georgia Bird, JöëK, LickMySoul, LuLu (CZ), Mohajer, Monophonik, NCOL, Raleigh, Silhouette, Surrealita, Tasya (2), TerminusTechnikus, Theo (8), Wolk (CZ), Yan (CZ), Zubescu, aláya, mata rubia, patricccio |
-| Sat, 11 Jul 2026 | daze |  |
-| Sat, 11 Jul 2026 | northst4r: 11:11 | Chumbo, Eejungmi, Emissive, Ester Shiner, Hemlock, Hemlock (CA), MMRI, Mrii, Raf Reza, Saigon Prince Hotel, Siren, Siren (4), Trustfall, dj miss |
-| Sat, 11 Jul 2026 | Sub Club Roof Party #6 with Helena Hauff, Stevie Cox + Chicha | Chicha (2), Helena Hauff, Stevie Cox |
-| Sat, 11 Jul 2026 | FREEDOM NYC X SHIFT TAKE OVER  | Allen, Ambivalent, Antenes, Buzzi, Erik Braun, FadeFace, Joey Beltram, KORBEAT, Secret Raver, Sinistermind, jay york |
-| Sat, 11 Jul 2026 | El Junte Latino |  |
-| Sat, 11 Jul 2026 | POSTPONED Deluge & No)one. Art House present: A Program for Sound, Movement & Light | Kelman Duran, Linafornia |
-| Sat, 11 Jul 2026 | Robert Owens + Hardy | Robert Owens |
-| Sat, 11 Jul 2026 | UNDERGROUND AESTHETICS |  |
-| Sat, 11 Jul 2026 | Aan Zee | DWLF |
+| Sun, 12 Jul 2026 | Spell | Emily Jeanne, Katatonic Silentio, Sina (AU), Vaahzer, Vlada |
+| Sun, 12 Jul 2026 | OFFSHORE - Boat Party | Caldii, Dr. Sud, Roots., Rudy Zigliara, dOctOr doms |
+| Mon, 13 Jul 2026 | Minimal Monday: Peter Vaughan | Mic(RO) Dos |
+| Wed, 15 Jul 2026 | ADUNANZA ~ |  |
+| Thu, 16 Jul 2026 | Nordic Pressure |  |
+| Thu, 16 Jul 2026 | Infra presents: Lacchesi, Seo, & Niqi  | Lacchesi, Niqi, Seo (US) |
+| Thu, 16 Jul 2026 | Marco Campos & Coraza Negra | Lukrø |
+| Thu, 16 Jul 2026 | SITH: SECRET RENDEZVOUS - JULY 16 - LOCATION TBA | Franke Estevez, Natasha Diggs, merlin bobb |
+| Fri, 17 Jul 2026 | EU - Fri, 17 Jul - TECHNO SESSION // COMMUNITY RAVE | Kanghu, Michael Ius, suntmilan |
+| Fri, 17 Jul 2026 | TBA Club Moniker |  |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

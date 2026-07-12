@@ -1,14 +1,13 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Ramona Club x CHANEL CARMICHAEL" on Sat, 11 Jul 2026.
+Ramona is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Ramona Club x Rhod Parry" on Fri, 17 Jul 2026.
 
-Ramona is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Chanel Carmichael, Greengaff, K1ng Arthur and Ken(UK) and 1 more. Browse upcoming dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
+Ramona is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including Greengaff, K1ng Arthur, Ken(UK) and Rhod Parry. Browse upcoming dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Ramona Club x CHANEL CARMICHAEL | Chanel Carmichael |
 | Fri, 17 Jul 2026 | Ramona Club x Rhod Parry | Rhod Parry |
 | Sat, 18 Jul 2026 | Ramona Club x Elsewhere |  |
 | Fri, 24 Jul 2026 | Ramona Club x APLS 2 (JONJO WILLIAMS) |  |
@@ -19,4 +18,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 6 upcoming nights, w
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

@@ -1,6 +1,6 @@
 # Fahlberg
 
-Fahlberg is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Klein Phönix, Istanbul on Fri, 17 Jul 2026.
+Fahlberg is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Klein Phönix, Istanbul on Fri, 17 Jul 2026.
 
 Fahlberg is an afro house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Austin, Berlin and Brussels and 14 more. Often billed alongside Elderbrook, ABEL (UK) and ALADAG. Next up: Klein Phönix, Istanbul on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Fahlberg is an afro house and house artist tracked on soundcheck, with 27 sets l
 
 Elderbrook, ABEL (UK), ALADAG
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

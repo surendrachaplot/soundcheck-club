@@ -1,14 +1,13 @@
 # Magda
 
-Magda is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 11 Jul 2026.
+Magda is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
 
-Magda is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 46 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 11 Jul.
+Magda is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 46 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: fabric, London on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Kolonnadenhof der Museumsinsel Berlin | Berlin |
 | Sat, 18 Jul 2026 | fabric | London |
 | Fri, 24 Jul 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Tresor / Globus | Berlin |
@@ -20,6 +19,7 @@ Magda is a techno and house artist tracked on soundcheck, with 155 sets logged a
 
 ## Recently played
 
+- Kolonnadenhof der Museumsinsel Berlin, Berlin — Sat, 11 Jul 2026
 - Piccadilly Central, Manchester — Fri, 3 Jul 2026
 - Platforma Wolff, Bucharest — Sat, 27 Jun 2026
 - Else, Berlin — Sat, 13 Jun 2026
@@ -27,10 +27,9 @@ Magda is a techno and house artist tracked on soundcheck, with 155 sets logged a
 - TBA - East Williamsburg, New York City — Fri, 29 May 2026
 - Lincoln Factory, Detroit — Mon, 25 May 2026
 - Dreamtroit, Detroit — Sun, 24 May 2026
-- Vinylbox, Mexico City — Sat, 23 May 2026
 
 ## Shares bills with
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

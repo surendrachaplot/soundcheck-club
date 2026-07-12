@@ -1,6 +1,6 @@
 # Berfu
 
-Berfu is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - See Telegram, Berlin on Fri, 17 Jul 2026.
+Berfu is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - See Telegram, Berlin on Fri, 17 Jul 2026.
 
 Berfu is a techno and acid artist tracked on soundcheck, with 37 sets logged across Berlin, Ghent, Glasgow and Lisbon and 3 more. Often billed alongside Chili con Sosa, Orbi and REEZN. Next up: TBA - See Telegram, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Berfu is a techno and acid artist tracked on soundcheck, with 37 sets logged acr
 
 Chili con Sosa, Orbi, REEZN
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berfu/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berfu/)*

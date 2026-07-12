@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Kendal is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Kendal is an italo disco and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 25 more. Often billed alongside Belaria, Miguel De Bois and Pablo Bozzi. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -27,4 +27,4 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 99 sets l
 
 Belaria, Miguel De Bois, Pablo Bozzi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

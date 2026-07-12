@@ -1,14 +1,13 @@
 # Forge
 
-Forge is a music venue in Bucharest with 5 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "1 YEAR ANNIVERSARY/3O3 DIVISION/TECHNO ALL NIGHT" on Sat, 11 Jul 2026.
+Forge is a music venue in Bucharest with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Supersanity Rebirth-day Rave—Free Entry" on Fri, 17 Jul 2026.
 
-Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming nights, with line-ups including Ada Kaleh, DA NA, FAUST (1) and GODINI and 2 more. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
+Forge is a music venue in Bucharest listed on soundcheck. 4 upcoming nights, with line-ups including Ada Kaleh, Lobster (NL), Michael Ius and Nedelcut. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | 1 YEAR ANNIVERSARY/3O3 DIVISION/TECHNO ALL NIGHT | DA NA, FAUST (1), GODINI, KØMI, SKORPINA |
 | Fri, 17 Jul 2026 | Supersanity Rebirth-day Rave—Free Entry | Ada Kaleh |
 | Fri, 24 Jul 2026 | RageKore |  |
 | Fri, 24 Jul 2026 | Norzeatic & Qinta Spartă, DJ Zicu, folclorescent, OGB, 0vE - LOOP BRE∆KER #3 |  |
@@ -18,4 +17,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 5 upcoming nights, wit
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

@@ -1,14 +1,13 @@
 # Area51 / 17map Minami
 
-Area51 / 17map Minami is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "PEACH TREE NIGHT" on Sat, 11 Jul 2026.
+Area51 / 17map Minami is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "INCLUDE" on Fri, 17 Jul 2026.
 
-Area51 / 17map Minami is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including Juni, NAOKI, SAYA and Solaris and 1 more. Browse upcoming dates, start times and who's playing. ROYAL KITAGAWA 2-3-7 Shinsaibashi-suji, Chuo-ku, Osaka-shi Osaka, 542-0085 Japan.
+Area51 / 17map Minami is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including Juni, NAOKI, SAYA and Solaris and 1 more. Browse upcoming dates, start times and who's playing. ROYAL KITAGAWA 2-3-7 Shinsaibashi-suji, Chuo-ku, Osaka-shi Osaka, 542-0085 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | PEACH TREE NIGHT |  |
 | Fri, 17 Jul 2026 | INCLUDE | Juni |
 | Sat, 18 Jul 2026 | Hush | SAYA, Yashima |
 | Wed, 12 Aug 2026 | MOVE feat.ryu (THE RAMPAGE) | NAOKI, Solaris |
@@ -17,4 +16,4 @@ Area51 / 17map Minami is a music venue in Osaka listed on soundcheck. 4 upcoming
 
 ROYAL KITAGAWA 2-3-7 Shinsaibashi-suji, Chuo-ku, Osaka-shi Osaka, 542-0085 Japan, Osaka
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area51-17map-minami/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area51-17map-minami/)*

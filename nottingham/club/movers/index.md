@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 14 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "WC: ENG V NORWAY + Pre-Match DJs Control Sheffield" on Sat, 11 Jul 2026.
+Movers is a music venue in Nottingham with 13 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Electroclash 3: Grimes, New Order, LCD Soundsystem + more" on Fri, 17 Jul 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, with line-ups including Jack DiY. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 13 upcoming nights, with line-ups including Jack DiY. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | WC: ENG V NORWAY + Pre-Match DJs Control Sheffield |  |
 | Fri, 17 Jul 2026 | Electroclash 3: Grimes, New Order, LCD Soundsystem + more |  |
 | Sat, 18 Jul 2026 | All Night Northern Soul with Nick Raine & Russell Fenby |  |
 | Fri, 24 Jul 2026 | Bran Rot & Friends |  |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, 
 | Thu, 6 Aug 2026 | JT Soar x Movers: Showcase |  |
 | Fri, 7 Aug 2026 | Lost in Detroit - Sounds from the Motor City w/ Beane |  |
 | Sat, 8 Aug 2026 | ALL CAPS: Summer Send-Off |  |
+| Fri, 21 Aug 2026 | Electroclash: Post-Punk, Indie - with Evil Women [Punk Set] & residents |  |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

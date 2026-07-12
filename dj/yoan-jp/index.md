@@ -1,6 +1,6 @@
 # YO.AN
 
-YO.AN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at WOMB, Tokyo on Sat, 18 Jul 2026.
+YO.AN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at WOMB, Tokyo on Sat, 18 Jul 2026.
 
 YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 179 sets logged across Kyoto and Tokyo. Often billed alongside Mamazu, Sunga and Daichi. Next up: WOMB, Tokyo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 Mamazu, Sunga, Daichi
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*

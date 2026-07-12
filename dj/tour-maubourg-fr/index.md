@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Else, Berlin on Sun, 12 Jul 2026.
+Tour-Maubourg is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Sun, 12 Jul 2026.
 
 Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Else, Berlin on Sun 12 Jul.
 
@@ -28,4 +28,4 @@ Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets lo
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

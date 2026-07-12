@@ -1,6 +1,6 @@
 # Breakglass Studios
 
-Breakglass Studios is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "flop" on Sun, 19 Jul 2026.
+Breakglass Studios is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "flop" on Sun, 19 Jul 2026.
 
 Breakglass Studios is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including Hot Take, Jack Galactic and musa. Browse upcoming dates, start times and who's playing. 7250 Clark Suite 300.
 
@@ -14,4 +14,4 @@ Breakglass Studios is a music venue in Montreal listed on soundcheck. 1 upcoming
 
 7250 Clark Suite 300, Montreal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/breakglass-studios/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/breakglass-studios/)*

@@ -1,6 +1,6 @@
 # JDH
 
-JDH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Kater, Berlin on Fri, 17 Jul 2026.
+JDH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kater, Berlin on Fri, 17 Jul 2026.
 
 JDH is a techno and house artist tracked on soundcheck, with 33 sets logged across Athens, Berlin, Munich and Naples and 2 more. Often billed alongside Gee Dee, Budino and Avalon Emerson. Next up: Kater, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ JDH is a techno and house artist tracked on soundcheck, with 33 sets logged acro
 
 Gee Dee, Budino, Avalon Emerson
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*

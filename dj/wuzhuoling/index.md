@@ -1,6 +1,6 @@
 # Wu Zhuoling
 
-Wu Zhuoling is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sun, 12 Jul 2026.
+Wu Zhuoling is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sun, 12 Jul 2026.
 
 Wu Zhuoling is a techno and electronica artist based in China, tracked on soundcheck, with 15 sets logged across Berlin, Dusseldorf, Hamburg and Milan and 5 more. Often billed alongside Severja, Aion and Jeena. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sun 12 Jul.
 
@@ -27,4 +27,4 @@ Wu Zhuoling is a techno and electronica artist based in China, tracked on soundc
 
 Severja, Aion, Jeena
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*

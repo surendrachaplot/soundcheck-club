@@ -1,6 +1,6 @@
 # IKON
 
-IKON is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "FREQUENCY FREAKS VIII" on Fri, 11 Sept 2026.
+IKON is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "FREQUENCY FREAKS VIII" on Fri, 11 Sept 2026.
 
 IKON is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including Antivirus. Browse upcoming dates, start times and who's playing. Straatsburgdok Noordkaai 3, 2030 Antwerpen.
 
@@ -14,4 +14,4 @@ IKON is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with li
 
 Straatsburgdok Noordkaai 3, 2030 Antwerpen, Antwerp
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ikon/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ikon/)*

@@ -1,14 +1,15 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+TWIENA is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-TWIENA is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+TWIENA is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
+| Sun, 19 Jul 2026 | Radio Radio | Amsterdam |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
 | Sat, 1 Aug 2026 | CLUB RAUM | Amsterdam |
 | Sun, 16 Aug 2026 | BRET | Amsterdam |
@@ -33,4 +34,4 @@ TWIENA is a techno and house artist tracked on soundcheck, with 116 sets logged 
 
 Doppelgang, Mary Lake, Faustin (NL)
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

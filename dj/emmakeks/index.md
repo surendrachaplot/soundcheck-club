@@ -1,8 +1,8 @@
 # Emma Keks
 
-Emma Keks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Motzstrassenfest at Nollendorfplatz, Berlin on Sun, 19 Jul 2026.
+Emma Keks is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Motzstrassenfest at Nollendorfplatz, Berlin on Sun, 19 Jul 2026.
 
-Emma Keks is a tech house and house artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin. Often billed alongside Stephan Licha, Licha and Cyranotaurus Cortex. Next up: Motzstrassenfest at Nollendorfplatz, Berlin on Sun 19 Jul.
+Emma Keks is a tech house and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin. Often billed alongside Stephan Licha, Licha and Goldenaxe. Next up: Motzstrassenfest at Nollendorfplatz, Berlin on Sun 19 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Emma Keks is a tech house and house artist based in Germany, tracked on soundche
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Motzstrassenfest at Nollendorfplatz | Berlin |
 | Sat, 25 Jul 2026 | Cassiopeia | Berlin |
+| Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Emma Keks is a tech house and house artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Stephan Licha, Licha, Cyranotaurus Cortex
+Stephan Licha, Licha, Goldenaxe
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakeks/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakeks/)*

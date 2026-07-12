@@ -1,6 +1,6 @@
 # Provitreff
 
-Provitreff is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "HydraCore x TanzDichWund Kollektiv present: ChaosCore" on Sat, 18 Jul 2026.
+Provitreff is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "HydraCore x TanzDichWund Kollektiv present: ChaosCore" on Sat, 18 Jul 2026.
 
 Provitreff is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including hangarhausi, Lolalita and m4tsch1. Browse upcoming dates, start times and who's playing. Sihlquai 240, 8005 Zürich.
 
@@ -14,4 +14,4 @@ Provitreff is a music venue in Zurich listed on soundcheck. 1 upcoming night, wi
 
 Sihlquai 240, 8005 Zürich, Zurich
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/provitreff/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/provitreff/)*

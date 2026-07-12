@@ -1,6 +1,6 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "GRUNT- DORE SATURDAY" on Sat, 25 Jul 2026.
+The Stud is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "GRUNT- DORE SATURDAY" on Sat, 25 Jul 2026.
 
 The Stud is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including Del (4), Faited, Five and Jasmine Infiniti and 2 more. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
@@ -19,4 +19,4 @@ The Stud is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming night
 
 1123 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*

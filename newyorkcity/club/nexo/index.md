@@ -1,15 +1,13 @@
 # Nexo
 
-Nexo is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC" on Sat, 11 Jul 2026.
+Nexo is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC" on Sat, 18 Jul 2026.
 
-Nexo is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
+Nexo is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
-| Sat, 11 Jul 2026 | Amazonia Reggaeton - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 | Sat, 18 Jul 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 | Sat, 25 Jul 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 | Sat, 25 Jul 2026 | Nexo Nightclub NYC - Two Floor Nightclub in Midtown Manhattan |  |
@@ -18,9 +16,11 @@ Nexo is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights. B
 | Sat, 1 Aug 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 | Sat, 8 Aug 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 | Sat, 8 Aug 2026 | Dominican Day Parade Saturday Reggaeton Dembow Dance Party - Nexo CLUB NYC |  |
+| Sat, 15 Aug 2026 | Ecuadorian Independence Day Reggaeton Party Club Midtown NYC |  |
+| Sat, 22 Aug 2026 | DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC |  |
 
 ## Address
 
 29 W 36th St., New York, NY 10018, USA, New York City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nexo/)*

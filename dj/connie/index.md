@@ -1,19 +1,19 @@
 # Connie
 
-Connie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Apollo Studio, New York City on Sat, 11 Jul 2026.
+Connie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at H0L0, New York City on Thu, 16 Jul 2026.
 
-Connie is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Barcelona, Losangeles, Milan and Newyorkcity and 1 more. Often billed alongside Maksim, Amy Jor and Asha Jasz. Next up: Apollo Studio, Newyorkcity on Sat 11 Jul.
+Connie is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Barcelona, Losangeles, Milan and Newyorkcity and 1 more. Often billed alongside Maksim, Amy Jor and Asha Jasz. Next up: H0L0, Newyorkcity on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Apollo Studio | New York City |
 | Thu, 16 Jul 2026 | H0L0 | New York City |
 | Fri, 31 Jul 2026 | Elsewhere | New York City |
 
 ## Recently played
 
+- Apollo Studio, New York City — Sat, 11 Jul 2026
 - Friends & Lovers, New York City — Thu, 4 Jun 2026
 - El Cid, Los Angeles — Thu, 14 May 2026
 - Apollo Studio, New York City — Fri, 24 Apr 2026
@@ -21,10 +21,9 @@ Connie is a house and techno artist based in United States of America, tracked o
 - Bar  Milagro, New York City — Sat, 28 Feb 2026
 - Apollo Studio, New York City — Fri, 23 Jan 2026
 - Switch Bar, Barcelona — Mon, 5 Jan 2026
-- Apollo Studio, New York City — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Maksim, Amy Jor, Asha Jasz
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connie/)*

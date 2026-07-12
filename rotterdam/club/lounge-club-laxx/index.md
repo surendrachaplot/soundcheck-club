@@ -1,6 +1,6 @@
 # Lounge Club LaXx
 
-Lounge Club LaXx is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Meet & Dance - International Party" on Sat, 18 Jul 2026.
+Lounge Club LaXx is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Meet & Dance - International Party" on Sat, 18 Jul 2026.
 
 Lounge Club LaXx is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Dano C. Browse upcoming dates, start times and who's playing. Mauritsweg 46B, 3012 JV, Rotterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Lounge Club LaXx is a music venue in Rotterdam listed on soundcheck. 1 upcoming 
 
 Mauritsweg 46B, 3012 JV, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lounge-club-laxx/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lounge-club-laxx/)*

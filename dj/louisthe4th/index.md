@@ -1,6 +1,6 @@
 # Louis The 4th
 
-Louis The 4th is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Glazart, Paris on Sun, 19 Jul 2026.
+Louis The 4th is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Glazart, Paris on Sun, 19 Jul 2026.
 
 Louis The 4th is a techno artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 6 more. Often billed alongside Bliss (1), Camion Bazar and Chami. Next up: Glazart, Paris on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Louis The 4th is a techno artist based in France, tracked on soundcheck, with 38
 
 Bliss (1), Camion Bazar, Chami
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisthe4th/)*

@@ -1,14 +1,13 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 11 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Jaz in the City, Vienna on Sat, 11 Jul 2026.
+Fede Frostl is a Progressive House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Zoku Hotel Vienna, Vienna on Wed, 15 Jul 2026.
 
-Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 88 sets logged across Amsterdam, Buenosaires, Leipzig and Mexicocity and 1 more. Often billed alongside Noe Bortolussi, Edictum and Daniel Darkhofer. Next up: Jaz in the City, Vienna on Sat 11 Jul.
+Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 88 sets logged across Amsterdam, Buenosaires, Leipzig and Mexicocity and 1 more. Often billed alongside Noe Bortolussi, Edictum and Daniel Darkhofer. Next up: Zoku Hotel Vienna, Vienna on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Jaz in the City | Vienna |
 | Wed, 15 Jul 2026 | Zoku Hotel Vienna | Vienna |
 | Fri, 17 Jul 2026 | Jaz in the City | Vienna |
 | Thu, 23 Jul 2026 | Jaz in the City | Vienna |
@@ -22,6 +21,7 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 
 ## Recently played
 
+- Jaz in the City, Vienna — Sat, 11 Jul 2026
 - RAFAS Burggasse 81, Vienna — Sat, 27 Jun 2026
 - Wiener Würstelstand - Spittelau, Vienna — Fri, 26 Jun 2026
 - Prater Vienna, Vienna — Fri, 26 Jun 2026
@@ -29,10 +29,9 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 - Jaz in the City, Vienna — Fri, 19 Jun 2026
 - Jaz in the City, Vienna — Sat, 13 Jun 2026
 - Zoku Hotel Vienna, Vienna — Fri, 12 Jun 2026
-- TBA - IStenszeke Tanya - Harka, Vienna — Sat, 30 May 2026
 
 ## Shares bills with
 
 Noe Bortolussi, Edictum, Daniel Darkhofer
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*

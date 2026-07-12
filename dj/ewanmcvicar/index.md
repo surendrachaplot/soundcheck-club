@@ -1,6 +1,6 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BCM, Mallorca on Sun, 12 Jul 2026.
+Ewan McVicar is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BCM, Mallorca on Sun, 12 Jul 2026.
 
 Ewan McVicar is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Special Request, Dom Dolla and CamelPhat. Next up: BCM, Mallorca on Sun 12 Jul.
 
@@ -36,4 +36,4 @@ Ewan McVicar is a house and techno artist tracked on soundcheck, with 167 sets l
 
 Special Request, Dom Dolla, CamelPhat
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

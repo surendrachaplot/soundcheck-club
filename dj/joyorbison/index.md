@@ -1,14 +1,13 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MoN Takanawa, Tokyo on Sat, 11 Jul 2026.
+Joy Orbison is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
-Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Interplanetary Criminal, Overmono and Mia Koden. Next up: MoN Takanawa, Tokyo on Sat 11 Jul.
+Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Interplanetary Criminal, Overmono and Mia Koden. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | MoN Takanawa | Tokyo |
 | Thu, 30 Jul 2026 | Sønder Hoved | Copenhagen |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -16,6 +15,7 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets log
 
 ## Recently played
 
+- MoN Takanawa, Tokyo — Sat, 11 Jul 2026
 - Soap Seoul., Seoul — Fri, 10 Jul 2026
 - Colwick Country Park, Nottingham — Fri, 26 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
@@ -23,10 +23,9 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets log
 - Brockwell Park, London — Sat, 23 May 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Port of Brussels, Brussels — Fri, 1 May 2026
-- NDSM Docklands, Amsterdam — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Interplanetary Criminal, Overmono, Mia Koden
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*

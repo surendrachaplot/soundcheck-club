@@ -1,6 +1,6 @@
 # Fez the Kid
 
-Fez the Kid is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Document, Bristol on Sun, 30 Aug 2026.
+Fez the Kid is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Document, Bristol on Sun, 30 Aug 2026.
 
 Fez the Kid is a jungle and hardcore artist tracked on soundcheck, with 50 sets logged across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: Document, Bristol on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Fez the Kid is a jungle and hardcore artist tracked on soundcheck, with 50 sets 
 
 Cheff The Boy, Artificial Red, Betsy Mae
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*

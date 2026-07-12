@@ -1,14 +1,14 @@
 # Village Underground
 
-Village Underground is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Origins x VU: Special Guest TBA" on Sat, 18 Jul 2026.
+Village Underground is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Origins x VU Rave: House Techno Trance" on Sat, 18 Jul 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Bushbaby and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Bushbaby and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Origins x VU: Special Guest TBA |  |
+| Sat, 18 Jul 2026 | Origins x VU Rave: House Techno Trance |  |
 | Fri, 24 Jul 2026 | Murda Beatz No Phones Tour |  |
 | Fri, 31 Jul 2026 | Foster The People presents FTP (DJ Set)  | Foster The People |
 | Fri, 28 Aug 2026 | Channel One Sound System - Carnival Warm Up | Channel One Sound |
@@ -23,4 +23,4 @@ Village Underground is a music venue in London listed on soundcheck. 11 upcoming
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

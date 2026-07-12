@@ -1,14 +1,13 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Indigo & NoPants" on Sat, 11 Jul 2026.
+Bar v Krymský is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "AMAR DURGA" on Thu, 16 Jul 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including AMAR DURGA, Cuba, Daniel Neighbour and Indigo (CR) and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including AMAR DURGA, Cuba, Daniel Neighbour and Lillou and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Indigo & NoPants | Indigo (CR) |
 | Thu, 16 Jul 2026 | AMAR DURGA | AMAR DURGA |
 | Fri, 17 Jul 2026 | Tom Conrad (UK) & Cuba | Cuba, Tom Conrad |
 | Sat, 18 Jul 2026 | Kohl & Ben |  |
@@ -22,4 +21,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 9 upcoming night
 
 Krymská 21, Praha, Prague
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

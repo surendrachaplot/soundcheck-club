@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Byron The Aquarius, Marco Weibel / Whodat, For Future's Sake / Jenifa Mayanja" on Sat, 11 Jul 2026.
+public records is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "The Nursery: DJ Sprinkles, Frank & Tony" on Sun, 12 Jul 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 36 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Byron The Aquarius, Marco Weibel / Whodat, For Future's Sake / Jenifa Mayanja | Byron The Aquarius, For Future's Sake, Jenifa Mayanja, Marco Weibel, Whodat |
 | Sun, 12 Jul 2026 | The Nursery: DJ Sprinkles, Frank & Tony | DJ Sprinkles, Frank & Tony |
 | Thu, 16 Jul 2026 | FACETIME: Madison Moore, SPRFRK, Eric Umble | Eric Umble, Madison Moore, SPRFRK |
 | Fri, 17 Jul 2026 | IMOGEN, KYRUH / Lacchesi, Toobris / Adrian Rew | IMOGEN, KYRUH, Lacchesi, Toobris |
@@ -18,9 +17,10 @@ public records is a music venue in Newyorkcity listed on soundcheck. 36 upcoming
 | Sat, 25 Jul 2026 | Ali Berger [Live], Ciel / Shawn Dub, Jerome Derradji / A lana | A lana, Ali Berger, Ciel, Jerome Derradji, Shawn Dub |
 | Sun, 26 Jul 2026 | The Nursery: Patrice Bäumel All Day Long | Patrice Bäumel |
 | Sun, 26 Jul 2026 | Shelter: Timmy Regisford Open To Close | Timmy Regisford |
+| Thu, 30 Jul 2026 | Anetha, 320 | 320 (1), Anetha |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

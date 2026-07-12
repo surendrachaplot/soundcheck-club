@@ -1,14 +1,13 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "SOUTH with Luke Dean, George Smeddles, JWave + more" on Sat, 11 Jul 2026.
+Quarters is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Nia Archives: Album Launch Show" on Thu, 23 Jul 2026.
 
-Quarters is a music venue in Brighton listed on soundcheck. 13 upcoming nights, with line-ups including 2ManyDJs, A For Alpha, Alix Perez and Arthi and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
+Quarters is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including 2ManyDJs, A For Alpha, Alix Perez and Arthi and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | SOUTH with Luke Dean, George Smeddles, JWave + more | George Smeddles, Luke Dean_, TwoSlice |
 | Thu, 23 Jul 2026 | Nia Archives: Album Launch Show | Nia Archives |
 | Fri, 24 Jul 2026 | BRICKS N' MORTAR presents: Heatwave with Champion, Arthi, Yemz, and Tsunamy | Arthi, Champion, Tsunamy, Yemz |
 | Sat, 1 Aug 2026 | Quarters presents Pride | A For Alpha, Elianne, Hayley Zalassi, Scarlett O'Malley, Summer Ghemati |
@@ -18,9 +17,10 @@ Quarters is a music venue in Brighton listed on soundcheck. 13 upcoming nights, 
 | Fri, 28 Aug 2026 | hitty | hitty |
 | Sun, 30 Aug 2026 | 2ManyDJs | 2ManyDJs |
 | Sat, 12 Sept 2026 | Supercharged & BassKonection presents Mandidextrous | Mandidextrous |
+| Fri, 18 Sept 2026 | Sofia Kourtesis | Sofia Kourtesis |
 
 ## Address
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

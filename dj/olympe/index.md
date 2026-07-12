@@ -1,19 +1,19 @@
 # Olympe
 
-Olympe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Cova Santa, Ibiza on Sat, 11 Jul 2026.
+Olympe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
 
-Olympe is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Massano, Colyn and Kevin de Vries. Next up: Cova Santa, Ibiza on Sat 11 Jul.
+Olympe is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Massano, Colyn and Kevin de Vries. Next up: La Clairière, Paris on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Cova Santa | Ibiza |
 | Sat, 22 Aug 2026 | La Clairière | Paris |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Hï Ibiza, Ibiza — Wed, 24 Jun 2026
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
@@ -21,10 +21,9 @@ Olympe is a techno and house artist tracked on soundcheck, with 110 sets logged 
 - Studio Club Malaga, Malaga — Sat, 25 Apr 2026
 - fabric, London — Fri, 17 Apr 2026
 - Luz De Gas, Barcelona — Sat, 31 Jan 2026
-- Club M2 Miami, Miami — Sat, 10 Jan 2026
 
 ## Shares bills with
 
 Massano, Colyn, Kevin de Vries
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*

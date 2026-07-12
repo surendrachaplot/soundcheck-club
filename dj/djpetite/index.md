@@ -1,8 +1,8 @@
 # DJ Petite
 
-DJ Petite is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+DJ Petite is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Elninodiablo. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Elninodiablo. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, 
 | Fri, 24 Jul 2026 | TBA - Seestraße 1, 13353 Berlin | Berlin |
 | Sat, 25 Jul 2026 | ÆDEN x MARMORBAR: Fields & Spaces | Berlin |
 | Fri, 31 Jul 2026 | OXI | Berlin |
+| Sun, 2 Aug 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, 
 
 ADAM MUNNINGS, Jonathan Apelbaum, Elninodiablo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpetite/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpetite/)*

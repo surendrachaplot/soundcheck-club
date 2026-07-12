@@ -1,6 +1,6 @@
 # AC13
 
-AC13 is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+AC13 is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
 AC13 is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Bangkok and Brighton and 13 more. Often billed alongside Harriet Jaxxon, Charlie Tee and Disrupta. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ AC13 is a drum & bass and bass artist based in United Kingdom, tracked on soundc
 
 Harriet Jaxxon, Charlie Tee, Disrupta
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ac13/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ac13/)*

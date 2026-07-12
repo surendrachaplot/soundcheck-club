@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "para.normal - Matej Rusmir, Remagov, Emma H, Stony C, PTŽC" on Sun, 12 Jul 2026.
+Para Klub Beograd is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "para.normal - Matej Rusmir, Remagov, Emma H, Stony C, PTŽC" on Sun, 12 Jul 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming nights, with line-ups including .Paragon, aleksssa, Doxia and Emma H and 2 more. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -15,4 +15,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

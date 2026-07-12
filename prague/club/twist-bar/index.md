@@ -1,14 +1,13 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "NAË (CAN)" on Sat, 11 Jul 2026.
+Twist Bar is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Lukas Micka, Zorin" on Thu, 16 Jul 2026.
 
-Twist Bar is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Austin Powers, Francisco Nada, In Abyss and Inger Illel and 2 more. Browse upcoming dates, start times and who's playing.
+Twist Bar is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including Austin Powers, Francisco Nada, In Abyss and Inger Illel and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | NAË (CAN) |  |
 | Thu, 16 Jul 2026 | Lukas Micka, Zorin | Lukas Micka |
 | Fri, 17 Jul 2026 | Inger Illel | Inger Illel |
 | Sat, 18 Jul 2026 | Tabibi (DE), Pyjama Heat |  |
@@ -18,4 +17,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 9 upcoming nights, wi
 | Thu, 30 Jul 2026 | ZUZA |  |
 | Fri, 31 Jul 2026 | Theo, Meangirlz (CH) | Theo (8) |
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

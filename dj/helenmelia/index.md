@@ -1,14 +1,13 @@
 # Helen Me Lia
 
-Helen Me Lia is a House and Disco artist with 23 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Hotel Negresco Princess, Barcelona on Sat, 11 Jul 2026.
+Helen Me Lia is a House and Disco artist with 22 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hotel Negresco Princess, Barcelona on Sun, 12 Jul 2026.
 
-Helen Me Lia is a house and disco artist tracked on soundcheck, with 245 sets logged across Auckland, Austin, Barcelona and Berlin and 16 more. Often billed alongside RAUL ORELLANA. Next up: Hotel Negresco Princess, Barcelona on Sat 11 Jul.
+Helen Me Lia is a house and disco artist tracked on soundcheck, with 245 sets logged across Auckland, Austin, Barcelona and Berlin and 16 more. Often billed alongside RAUL ORELLANA. Next up: Hotel Negresco Princess, Barcelona on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Hotel Negresco Princess | Barcelona |
 | Sun, 12 Jul 2026 | Hotel Negresco Princess | Barcelona |
 | Wed, 15 Jul 2026 | Hotel Negresco Princess | Barcelona |
 | Sat, 18 Jul 2026 | Hotel Negresco Princess | Barcelona |
@@ -20,9 +19,11 @@ Helen Me Lia is a house and disco artist tracked on soundcheck, with 245 sets lo
 | Sat, 1 Aug 2026 | Hotel Negresco Princess | Barcelona |
 | Sun, 2 Aug 2026 | Hotel Negresco Princess | Barcelona |
 | Wed, 5 Aug 2026 | Hotel Negresco Princess | Barcelona |
+| Sat, 8 Aug 2026 | Hotel Negresco Princess | Barcelona |
 
 ## Recently played
 
+- Hotel Negresco Princess, Barcelona — Sat, 11 Jul 2026
 - Hotel Negresco Princess, Barcelona — Wed, 8 Jul 2026
 - Hotel Negresco Princess, Barcelona — Sun, 5 Jul 2026
 - Hotel Negresco Princess, Barcelona — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ Helen Me Lia is a house and disco artist tracked on soundcheck, with 245 sets lo
 - Hotel Negresco Princess, Barcelona — Sun, 28 Jun 2026
 - Hotel Negresco Princess, Barcelona — Sat, 27 Jun 2026
 - Hotel Negresco Princess, Barcelona — Tue, 23 Jun 2026
-- Hotel Negresco Princess, Barcelona — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 RAUL ORELLANA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenmelia/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenmelia/)*

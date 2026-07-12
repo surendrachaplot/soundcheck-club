@@ -1,15 +1,13 @@
 # Oden
 
-Oden is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Silverworks Island, London on Sat, 11 Jul 2026.
+Oden is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 23 Jul 2026.
 
-Oden is a house and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Fatzo, Armand Van Helden and Low Steppa. Next up: Silverworks Island, London on Sat 11 Jul.
+Oden is a house and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Fatzo, Armand Van Helden and Low Steppa. Next up: Chinois Ibiza, Ibiza on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Silverworks Island | London |
-| Sat, 11 Jul 2026 | fabric | London |
 | Thu, 23 Jul 2026 | Chinois Ibiza | Ibiza |
 | Sun, 26 Jul 2026 | Ku Barcelona | Barcelona |
 | Thu, 30 Jul 2026 | Ushuaïa Ibiza | Ibiza |
@@ -19,17 +17,17 @@ Oden is a house and tech house artist tracked on soundcheck, with 137 sets logge
 
 ## Recently played
 
+- Silverworks Island, London — Sat, 11 Jul 2026
+- fabric, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 2 Jul 2026
 - TBA - BOIS DE BOULOGNE , Paris — Sun, 21 Jun 2026
 - TBA - Quinta Mira Rio, Lisbon — Sat, 13 Jun 2026
 - Chinois Ibiza, Ibiza — Thu, 4 Jun 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - Sandown Racecourse, London — Sat, 23 May 2026
-- Digital, Newcastle — Fri, 22 May 2026
-- BCM, Mallorca — Sat, 16 May 2026
 
 ## Shares bills with
 
 Fatzo, Armand Van Helden, Low Steppa
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

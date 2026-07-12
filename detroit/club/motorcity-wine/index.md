@@ -1,6 +1,6 @@
 # MotorCity Wine
 
-MotorCity Wine is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Sail Away" on Sun, 12 Jul 2026.
+MotorCity Wine is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sail Away" on Sun, 12 Jul 2026.
 
 MotorCity Wine is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including John Beltran. Browse upcoming dates, start times and who's playing. 1949 Michigan Ave. Detroit, MI 48216.
 
@@ -17,4 +17,4 @@ MotorCity Wine is a music venue in Detroit listed on soundcheck. 4 upcoming nigh
 
 1949 Michigan Ave. Detroit, MI 48216, Detroit
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*

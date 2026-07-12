@@ -1,6 +1,6 @@
 # Flo Dill
 
-Flo Dill is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+Flo Dill is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
 Flo Dill is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Brussels and Cork and 8 more. Often billed alongside I-F, Lil C and Palms Trax. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Flo Dill is a house and balearic artist based in United Kingdom, tracked on soun
 
 I-F, Lil C, Palms Trax
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flodill/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flodill/)*

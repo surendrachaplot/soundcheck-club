@@ -1,6 +1,6 @@
 # Leon Licht
 
-Leon Licht is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
+Leon Licht is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
 
 Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside Kaufmann, ADAMN and Memo.. Next up: Renate, Berlin on Thu 16 Jul.
 
@@ -10,7 +10,7 @@ Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets log
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Renate | Berlin |
 | Fri, 17 Jul 2026 | Birgit | Berlin |
-| Fri, 31 Jul 2026 | TBA - soon | Berlin |
+| Fri, 31 Jul 2026 | TBA - PARKHAUS IHZ (MITTE) | Berlin |
 | Sat, 1 Aug 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played
@@ -28,4 +28,4 @@ Leon Licht is a techno and house artist tracked on soundcheck, with 206 sets log
 
 Kaufmann, ADAMN, Memo.
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonlicht/)*

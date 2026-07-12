@@ -1,6 +1,6 @@
 # Katie Rex
 
-Katie Rex is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
+Katie Rex is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Chocolate Factory, New York City on Fri, 31 Jul 2026.
 
 Katie Rex is a techno and electronica artist based in United States of America, tracked on soundcheck, with 76 sets logged across Austin, Boston, Chicago and Losangeles and 7 more. Often billed alongside DJ Sharf, KYRUH and LISAS. Next up: The Chocolate Factory, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Katie Rex is a techno and electronica artist based in United States of America, 
 
 DJ Sharf, KYRUH, LISAS
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katierex/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katierex/)*

@@ -1,8 +1,8 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 18 Jul 2026.
+Main Phase is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 18 Jul 2026.
 
-Main Phase is a garage and bass artist tracked on soundcheck, with 191 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 54 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: RSO.BERLIN, Berlin on Sat 18 Jul.
+Main Phase is a garage and bass artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 54 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: RSO.BERLIN, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Main Phase is a garage and bass artist tracked on soundcheck, with 191 sets logg
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 2 Oct 2026 | Wigwam | Dublin |
+| Fri, 9 Oct 2026 | The Warehouse | Leeds |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Main Phase is a garage and bass artist tracked on soundcheck, with 191 sets logg
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

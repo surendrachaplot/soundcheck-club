@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 55 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Soundvision PRESENTS KINK x TUTU with Angel Karel, Dstm, WarinD, LEGION, VINKA WYDRO + more" on Sat, 11 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 55 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "KINDERDERWELT x Pikante - FREE OPEN AIR + CLUB NIGHT (2 FLOORS)" on Sun, 12 Jul 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -8,7 +8,6 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Soundvision PRESENTS KINK x TUTU with Angel Karel, Dstm, WarinD, LEGION, VINKA WYDRO + more | Angel Karel, Billy Currie, Cobb Douglas, Dstm, Edgar de Ramon, Gimenö, Hektor Legion, Legiøn, Tasha Safari, UV909, Vinka Wydro, WarinD, Yuval |
 | Sun, 12 Jul 2026 | KINDERDERWELT x Pikante - FREE OPEN AIR + CLUB NIGHT (2 FLOORS) | 4NOUK, AISHA, Amo (IT), BENITO (DE), Bruno Brero, CARGO (DE), Chili con Sosa, DDUCATI, Eliseo Adri, GM1 (IT), Hanne B, Jacky Ickx, Lisek, Low E (2), Sony2k, honeyboy |
 | Sun, 12 Jul 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
 | Tue, 14 Jul 2026 | PHASE:ONE |  |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming 
 | Sat, 18 Jul 2026 | Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase | Bruno Brero, DJ Jetset, DJ SPORTSCHUH, GI.O, Lisek, MCYL, MILANCHOLIE, Maschérie, NSLZ, OnlyWithYou, Pleasant Michelle, Zukunftsfritze, djvonnebenan |
 | Sat, 18 Jul 2026 | LAPSUS MATINEE |  |
 | Sun, 19 Jul 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
+| Sun, 19 Jul 2026 | Vivid V1 - daytime rave, drug free | DJ Lolo, Krash Cora, Niklas Delhey, Wagner, XIMA, e.leptic, sterni (DE) |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

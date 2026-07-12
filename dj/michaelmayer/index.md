@@ -1,6 +1,6 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Luz De Gas, Barcelona on Fri, 24 Jul 2026.
+Michael Mayer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Luz De Gas, Barcelona on Fri, 24 Jul 2026.
 
 Michael Mayer is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Luz De Gas, Barcelona on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 76 sets l
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

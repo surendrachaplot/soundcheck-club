@@ -1,14 +1,13 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 41 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Stuck in a Loop - (hard)house to techno" on Sat, 11 Jul 2026.
+John Doe is a music venue in Amsterdam with 40 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "No Sundays Without Techno" on Sun, 12 Jul 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, with line-ups including Arabesque (AU), Alex Sharp, Aztlan Zidonia and BEZMEZH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 40 upcoming nights, with line-ups including Arabesque (AU), Alex Sharp, Aztlan Zidonia and BEZMEZH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Stuck in a Loop - (hard)house to techno | Holopine, TIDEE |
 | Sun, 12 Jul 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 13 Jul 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
 | Tue, 14 Jul 2026 | [PHANTOM GROUP] KLUBNACHT w inKKiss / ELYVEN [FR] / ØZMØZ B2B MALØ [BE] / CRD B2B AORBE / Solus | Solus, inKKiss |
@@ -18,9 +17,10 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights,
 | Sat, 18 Jul 2026 | Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX | Marco Ramos, Villaseñor |
 | Sun, 19 Jul 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 20 Jul 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
+| Tue, 21 Jul 2026 | [PHANTOM GROUP] KLUBNACHT | BIØNIC BAMBI, JTN (1), SINTHER, SUKA |
 
 ## Address
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

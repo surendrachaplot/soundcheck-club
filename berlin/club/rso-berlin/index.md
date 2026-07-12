@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "HEISSS FOUR YEARS I 30 hours" on Sat, 11 Jul 2026.
+RSO.BERLIN is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "ULTRANOVA x 10Y MOLEKÜL" on Fri, 17 Jul 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 1morning, 2HOT2PLAY, NYRA (DE) and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 1morning, 2HOT2PLAY, NYRA (DE) and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | HEISSS FOUR YEARS I 30 hours | AMORAL, Amotik, Annie Lew, BUTZ, Carl Bergé, DJ Klosing, Disguised, ENNIO, Eduardo de la Calle, HAMY, Jana Falcon, KONZ, Karina Schneider, Kim She, LYZA, Laure Croft, Matrixxman, SALIMATA, Tobi Lack, Uväll, WINDFUHR, ogtrues |
 | Fri, 17 Jul 2026 | ULTRANOVA x 10Y MOLEKÜL | FANK, FILTRACK, MAURER, Mark Broom, Viktoria Spielmann, West Code, Xiorro |
 | Sat, 18 Jul 2026 | XTRUDE with Kangding Ray, Tarkno, Nastia, 1morning and Erna | 1morning, DJ NORTHERN, DJ Spit, Darwin, Decoder, Erna (FR), Joline Scheffler, Kangding Ray, Main Phase, Nastia, Shoal, Tarkno, machìna |
 | Fri, 24 Jul 2026 | HE.SHE.THEY x SPIELRAUM x RSO CSD WEEKENDER | Amanda Mussi, Carly Zeng, Cora (CN), High Future, JASSS, Jen Cardini, LSDXOXO, Lawrence Lee, Lea Occhi, Maara, Mama Snake, Nazira, PSL, Peachlyfe, Pearlz, Rachel Noon, RÆZA, SALOME, SYREETA, Sharlese, TOCCORORO, TWIENA, Tijana T, Yonti, fka.m4a, softchaos, u.r.trax |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 13 upcoming nights, 
 | Sat, 8 Aug 2026 | MAGMA Festival Afterparty | Blawan, DJ Pipe, Garage Girls, Hekt, JAXX TMS, Luca Eck, Pearson Sound, Surusinghe, Tracey, yungfya |
 | Thu, 13 Aug 2026 | RSO: WALL2WALL CLUB FESTIVAL 2026 | Agonis, BLANKA, Belaria, Blame Anthony, Byetone, Carmen Electro, DJ Fuckoff, Dangermami, Daria Kolosova, Disguised, ENNIO, Ellen Allien, Elli Acula, Emily Jeanne, Erol Alkan, Etapp Kyle, Faerber, Franz Scala, Frederic., Garçon, Glaskin, Grace Dahl, HAMY, Jennifer Loveless, Jesse G, Josey Rebelle, Kim She, Laure Croft, MATRIX3K, Mathys Lenne, Monolake, N.R.M, NORA (BR), OLHA, Paty Vapor, Perfo, Polygonia, Red Rooms, Sept, Setaoc Mass, Space Drum Meditation, Spekki Webu, Thabo, Thalo Santana, Xiorro, Yanamaste, Young Draco, hawi, machìna, slin, stranger (NL), ÜBERKIKZ |
 | Sun, 23 Aug 2026 | Jauchomatic - Open Air (since 1995) By The People For The People (Baergarten) | DJ Jauche |
+| Sat, 12 Sept 2026 | Home Again Festival - 10 Years | Andra, Blame Anthony, Cassy, Chris Stussy, DJ Butterhands, DJ Split, Dan Ghenacia, Disguised, Dj Norma, Eris Drew, GOME, Greta Spark, Home Again Soundsystem, LIA, Lobster (NL), Manuel Fischer, Mara Menace, Marsch, Meggy, Power Squad, Quest, Robert Owens, Robin RB, Rosa Red, Ryan Elliott, Solomun, TSHA, Thabo, Thalo Santana, Tiago Oudman, Vera, ferrari rot, hawi |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

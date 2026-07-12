@@ -1,14 +1,13 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "NOM Pres: Marvio, Amadori, Martín Cozar" on Sat, 11 Jul 2026.
+Bikini Club is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Tunnel presents: Guedes, Camelia, Diana" on Fri, 17 Jul 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Amadori, Carlo Rewer, Djolee and Galu Bla and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Amadori, Carlo Rewer, Djolee and Galu Bla and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | NOM Pres: Marvio, Amadori, Martín Cozar | Amadori, Martin Cozar, Marvio |
 | Fri, 17 Jul 2026 | Tunnel presents: Guedes, Camelia, Diana | Guedes (ES) |
 | Sat, 18 Jul 2026 | NOM Pres: Gespona, Djolee, Martin Cozar | Djolee, Gespona, Martin Cozar |
 | Fri, 24 Jul 2026 | Tunnel presents: Carlo Rewer, Rim, Moray | Carlo Rewer |
@@ -19,4 +18,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 6 upcoming night
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

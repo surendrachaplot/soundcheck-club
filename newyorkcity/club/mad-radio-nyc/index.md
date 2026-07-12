@@ -1,14 +1,13 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "WE ARE ECLIPSE: LUGARIC / KARL BLANCHARD / REVA / JLU / FONICA" on Sat, 11 Jul 2026.
+MAD Radio NYC is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "David Gaviria & Juan Toca Rico" on Wed, 15 Jul 2026.
 
-MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Alex Raouf, Ariel me Llamo, Chuck Daniels and David Gaviria and 2 more. Browse upcoming dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
+MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Alex Raouf, Ariel me Llamo, Chuck Daniels and David Gaviria and 2 more. Browse upcoming dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | WE ARE ECLIPSE: LUGARIC / KARL BLANCHARD / REVA / JLU / FONICA | JLu (MX), KARL BLANCHARD |
 | Wed, 15 Jul 2026 | David Gaviria & Juan Toca Rico | David Gaviria, Juan Toca Rico |
 | Fri, 17 Jul 2026 | SPECIAL GUEST: Chuck Daniels / LELEPARISSAN | Chuck Daniels |
 | Sat, 18 Jul 2026 | Pablo Romero / Ariel me Llamo | Ariel me Llamo, Pablo Romero |
@@ -20,4 +19,4 @@ MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming n
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

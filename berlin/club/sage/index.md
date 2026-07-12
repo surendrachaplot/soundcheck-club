@@ -1,14 +1,13 @@
 # SAGE
 
-SAGE is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Watergate Open Air with Vintage Culture, Floyd Lavine, Manda Moor, Doozie" on Sat, 11 Jul 2026.
+SAGE is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Stil vor Talent Open Air" on Sat, 18 Jul 2026.
 
-SAGE is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Anfisa Letyago, Annett Gapstream, babxi and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 18-20 10997 Berlin, Germany.
+SAGE is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Anfisa Letyago, Annett Gapstream, babxi and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 18-20 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Watergate Open Air with Vintage Culture, Floyd Lavine, Manda Moor, Doozie | Butterman, Daisy Weweh, Floyd Lavine, Manda Moor, Schiela, Sesh Orka, Vintage Culture |
 | Sat, 18 Jul 2026 | Stil vor Talent Open Air | Annett Gapstream, CIOZ, Fabian Krooss, Hidden Empire, babxi |
 | Sat, 1 Aug 2026 | Throwback BERLIN - Back to 80s, 90s & 00s at SAGE |  |
 | Sat, 1 Aug 2026 | Hop on The Top BERLIN - Opening Party (Hip Hop, R&B, Funk & Soul) |  |
@@ -21,4 +20,4 @@ SAGE is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with li
 
 Köpenicker Str. 18-20 10997 Berlin, Germany, Berlin
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sage/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sage/)*

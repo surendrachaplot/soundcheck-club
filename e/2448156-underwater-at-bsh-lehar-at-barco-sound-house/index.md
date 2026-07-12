@@ -1,6 +1,6 @@
 # Underwater at BSH - Lehar at Barco Sound House
 
-Underwater at BSH - Lehar at Barco Sound House on Fri 17 Jul, Madrid. 8 acts on the bill: Fercho salazar, Irene Yago, Jaroman and Lehar and 4 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Underwater at BSH - Lehar at Barco Sound House on Fri 17 Jul, Madrid. 9 acts on the bill: Carla Miskov, Fercho salazar, Irene Yago and Jaroman and 5 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Underwater at BSH - Lehar at Barco Sound House on Fri 17 Jul, Madrid. 8 acts on 
 
 ## Line-up
 
+- Carla Miskov
 - Fercho salazar
 - Irene Yago
 - Jaroman

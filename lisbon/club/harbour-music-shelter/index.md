@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Harbour Sundaze Antilope convida Berberan" on Sun, 12 Jul 2026.
+Harbour Music Shelter is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Harbour Sundaze Antilope convida Berberan" on Sun, 12 Jul 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Alex Vinent, Antilope, David Triana and DJ Ferro and 2 more. Browse upcoming dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -17,4 +17,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 4 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

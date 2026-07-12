@@ -1,14 +1,13 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Sunnyside Pavilion, Toronto on Sat, 11 Jul 2026.
+Riva Starr is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
 
-Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Sunnyside Pavilion, Toronto on Sat 11 Jul.
+Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Superordinary, Brisbane on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Sunnyside Pavilion | Toronto |
 | Fri, 17 Jul 2026 | Superordinary | Brisbane |
 | Sat, 18 Jul 2026 | The Timber Yard | Melbourne |
 | Sat, 25 Jul 2026 | White Bay Power Station | Sydney |
@@ -18,6 +17,7 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets 
 
 ## Recently played
 
+- Sunnyside Pavilion, Toronto — Sat, 11 Jul 2026
 - TBA - 1800 Ocean Front Walk, Venice , Los Angeles — Fri, 10 Jul 2026
 - Basement, Amsterdam — Sat, 13 Jun 2026
 - Tigres de la Noche, Washington DC — Sat, 16 May 2026
@@ -25,10 +25,9 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets 
 - TBA - The Loading Dock 4200 W. Diversey, Chicago — Sat, 18 Apr 2026
 - Sunshine Grove, Miami — Thu, 19 Mar 2026
 - Rex Club, Paris — Sat, 31 Jan 2026
-- Ministry Of Sound, London — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Lowsteppa, Armand Van Helden, Paige Tomlinson
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

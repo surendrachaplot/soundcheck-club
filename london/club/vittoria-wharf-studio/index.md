@@ -1,14 +1,13 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "EL HOUSE" on Sat, 11 Jul 2026.
+Vittoria Wharf Studio is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Pashion presents: Gabbs & Nic David" on Sat, 18 Jul 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Bailey Ibbs, Crumpler, DREY (UK) and Elkka and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Bailey Ibbs, Crumpler, DREY (UK) and Elkka and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | EL HOUSE | QUEENIEPRINX, Sandy Beach, Sazzle, TEDESCO, isavars, tincho |
 | Sat, 18 Jul 2026 | Pashion presents: Gabbs & Nic David | Gabbs, Nic David |
 | Sat, 25 Jul 2026 | Connects at Vittoria Wharf with Fabe, Tardeloco, + many more | Fabe, Jelsen, Scon |
 | Sat, 8 Aug 2026 | Loose Legs presents: Sticky Dub, joey manzi, LORA S & DREY | Crumpler, DREY (UK), LORA S, Listiq, Sticky Dub, Yozza, joey manzi |
@@ -20,4 +19,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 7 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

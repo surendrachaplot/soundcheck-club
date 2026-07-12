@@ -1,6 +1,6 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026" on Fri, 7 Aug 2026.
+Parc del Fòrum is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Brunch Electronik Festival 2026 - 7, 8 & 9 de agosto 2026" on Fri, 7 Aug 2026.
 
 Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including 999999999, Acid Arab, Âme and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
@@ -14,4 +14,4 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 1 upcoming n
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

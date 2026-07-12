@@ -1,6 +1,6 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Sat, 25 Jul 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Sat, 25 Jul 2026.
 
 Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: TBA - Palacio Alsina, Microcentro, Buenosaires on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, wit
 
 Miss Melera, Corren Cavini, Nick Warren
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*

@@ -1,6 +1,6 @@
 # The Brooklyn Monarch
 
-The Brooklyn Monarch is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Reggaeton Warehouse (21+)" on Sat, 25 Jul 2026.
+The Brooklyn Monarch is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Reggaeton Warehouse (21+)" on Sat, 25 Jul 2026.
 
 The Brooklyn Monarch is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Georgie Riot, Grafix, Metrik and Ultra. Browse upcoming dates, start times and who's playing. 23 Meadow Street, Brooklyn, NY 11206 USA.
 
@@ -15,4 +15,4 @@ The Brooklyn Monarch is a music venue in Newyorkcity listed on soundcheck. 2 upc
 
 23 Meadow Street, Brooklyn, NY 11206 USA, New York City
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-brooklyn-monarch/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-brooklyn-monarch/)*

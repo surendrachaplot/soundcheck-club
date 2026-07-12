@@ -1,6 +1,6 @@
 # Leo (2)
 
-Leo (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
+Leo (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
 
 Leo (2) is a house and techno artist tracked on soundcheck, with 20 sets logged across Athens, Bali, Bucharest and Budapest and 10 more. Often billed alongside AbueKev, Colette and Daro. Next up: MTW, Frankfurt on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Leo (2) is a house and techno artist tracked on soundcheck, with 20 sets logged 
 
 AbueKev, Colette, Daro
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-2/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-2/)*

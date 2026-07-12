@@ -1,14 +1,13 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "Senses" on Sat, 11 Jul 2026.
+Supperclub is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "We Love Asian" on Sun, 12 Jul 2026.
 
-Supperclub is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
+Supperclub is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Senses |  |
 | Sun, 12 Jul 2026 | We Love Asian |  |
 | Thu, 16 Jul 2026 | Source |  |
 | Sat, 18 Jul 2026 | Favela Events |  |
@@ -23,4 +22,4 @@ Supperclub is a music venue in Amsterdam listed on soundcheck. 10 upcoming night
 
 Singel 460, 1017 AW Amsterdam, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*

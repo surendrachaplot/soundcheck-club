@@ -1,6 +1,6 @@
 # Oedipus Brewery
 
-Oedipus Brewery is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "Pacific Ondergronds & KRUISPUNT free party #4 at Oedipus Brouwerij" on Sat, 18 Jul 2026.
+Oedipus Brewery is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Pacific Ondergronds & KRUISPUNT free party #4 at Oedipus Brouwerij" on Sat, 18 Jul 2026.
 
 Oedipus Brewery is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Kerker and Movulango. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 85.
 
@@ -14,4 +14,4 @@ Oedipus Brewery is a music venue in Amsterdam listed on soundcheck. 1 upcoming n
 
 Gedempt Hamerkanaal 85, Amsterdam
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oedipus-brewery/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oedipus-brewery/)*

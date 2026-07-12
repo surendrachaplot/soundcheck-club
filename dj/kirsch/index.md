@@ -1,6 +1,6 @@
 # KIRSCH
 
-KIRSCH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at AMT, Berlin on Fri, 17 Jul 2026.
+KIRSCH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at AMT, Berlin on Fri, 17 Jul 2026.
 
 KIRSCH is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Dusseldorf, Hamburg and Ibiza and 2 more. Often billed alongside Coco, Empro and Mimi Love. Next up: AMT, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ KIRSCH is a techno and house artist tracked on soundcheck, with 38 sets logged a
 
 Coco, Empro, Mimi Love
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsch/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsch/)*

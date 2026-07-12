@@ -1,14 +1,13 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 11 Jul 2026.
+Avalon Emerson is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside BASHKKA, Sedef Adasï and Roi Perez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 11 Jul.
+Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside BASHKKA, Sedef Adasï and Roi Perez. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Sat, 18 Jul 2026 | MS Artville | Hamburg |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -17,6 +16,7 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
 - Nitsa Club, Barcelona — Fri, 10 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
@@ -24,10 +24,9 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets
 - Sophie Festival, Malaga — Sat, 13 Jun 2026
 - Magasins Généraux, Paris — Fri, 12 Jun 2026
 - Woodstock'69, Amsterdam — Sun, 7 Jun 2026
-- Lux Fragil, Lisbon — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 BASHKKA, Sedef Adasï, Roi Perez
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

@@ -1,6 +1,6 @@
 # Silver Panda
 
-Silver Panda is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Ministry Of Sound, London on Fri, 4 Sept 2026.
+Silver Panda is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ministry Of Sound, London on Fri, 4 Sept 2026.
 
 Silver Panda is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Austin, Berlin, Buenosaires and Chicago and 13 more. Often billed alongside LORENA (MX), Agents Of Time and Astrix. Next up: Ministry Of Sound, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Silver Panda is a techno and progressive house artist based in United States of 
 
 LORENA (MX), Agents Of Time, Astrix
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpanda/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpanda/)*

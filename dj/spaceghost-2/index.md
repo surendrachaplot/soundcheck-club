@@ -1,6 +1,6 @@
 # Space Ghost
 
-Space Ghost is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Bodega Danza, Copenhagen on Fri, 17 Jul 2026.
+Space Ghost is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bodega Danza, Copenhagen on Fri, 17 Jul 2026.
 
 Space Ghost is a house and deep house artist tracked on soundcheck, with 26 sets logged across Berlin, Copenhagen, London and Losangeles and 9 more. Often billed alongside nina sol, Sangsih and Sánlo. Next up: Bodega Danza, Copenhagen on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Space Ghost is a house and deep house artist tracked on soundcheck, with 26 sets
 
 nina sol, Sangsih, Sánlo
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*

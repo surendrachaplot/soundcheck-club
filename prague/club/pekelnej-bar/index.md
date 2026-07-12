@@ -1,6 +1,6 @@
 # Pekelnej Bar
 
-Pekelnej Bar is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 11 Jul 2026; the next is "House WE Love" on Sat, 18 Jul 2026.
+Pekelnej Bar is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "House WE Love" on Sat, 18 Jul 2026.
 
 Pekelnej Bar is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Nicco Lupen and Tekláč. Browse upcoming dates, start times and who's playing. Na Belidle 38, Praha 5.
 
@@ -14,4 +14,4 @@ Pekelnej Bar is a music venue in Prague listed on soundcheck. 1 upcoming night, 
 
 Na Belidle 38, Praha 5, Prague
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/pekelnej-bar/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/pekelnej-bar/)*

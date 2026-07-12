@@ -1,14 +1,13 @@
 # Fling
 
-Fling is a music venue in Istanbul with 6 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "FLING 12 - BLONDE STATEMENT - Luna Fosepthicc - 4-i" on Sat, 11 Jul 2026.
+Fling is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "FLING 13 - Lidl - XMRXLLXH - 4-i" on Fri, 17 Jul 2026.
 
-Fling is a music venue in Istanbul listed on soundcheck. 6 upcoming nights, with line-ups including 4-i, AFTERTONIGH, BLONDE STATEMENT and jtamul and 2 more. Browse upcoming dates, start times and who's playing. Beyoğlu, ISTANBUL.
+Fling is a music venue in Istanbul listed on soundcheck. 5 upcoming nights, with line-ups including 4-i, AFTERTONIGH, jtamul and XMRXLLXH and 1 more. Browse upcoming dates, start times and who's playing. Beyoğlu, ISTANBUL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | FLING 12 - BLONDE STATEMENT - Luna Fosepthicc - 4-i | 4-i, BLONDE STATEMENT, Luna Fosepthicc |
 | Fri, 17 Jul 2026 | FLING 13 - Lidl - XMRXLLXH - 4-i | 4-i, XMRXLLXH |
 | Sat, 18 Jul 2026 | FLING 14 - T0nigh - Skrdddy - 4-i | 4-i, AFTERTONIGH |
 | Fri, 24 Jul 2026 | FLING 15 - jtamul - Mon Chic - 4-i | 4-i, jtamul |
@@ -19,4 +18,4 @@ Fling is a music venue in Istanbul listed on soundcheck. 6 upcoming nights, with
 
 Beyoğlu, ISTANBUL, Istanbul
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/fling/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/fling/)*

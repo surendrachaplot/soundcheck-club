@@ -1,6 +1,6 @@
 # Diva
 
-Diva is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Altenburg 1964, Prague on Sun, 19 Jul 2026.
+Diva is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Altenburg 1964, Prague on Sun, 19 Jul 2026.
 
 Diva is a techno and trance artist based in Belarus, tracked on soundcheck, with 38 sets logged across Prague. Often billed alongside 2NDRA, S.N.R.I. and SJ Yellow. Next up: Altenburg 1964, Prague on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Diva is a techno and trance artist based in Belarus, tracked on soundcheck, with
 
 2NDRA, S.N.R.I., SJ Yellow
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diva/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diva/)*

@@ -1,6 +1,6 @@
 # Kiara Friend
 
-Kiara Friend is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA, Melbourne on Sat, 5 Sept 2026.
+Kiara Friend is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Melbourne on Sat, 5 Sept 2026.
 
 Kiara Friend is a techno and trance artist tracked on soundcheck, with 35 sets logged across Melbourne and Sydney. Often billed alongside Clancy (2), Safe and Josh Carstens. Next up: TBA, Melbourne on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kiara Friend is a techno and trance artist tracked on soundcheck, with 35 sets l
 
 Clancy (2), Safe, Josh Carstens
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiarafriend/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiarafriend/)*

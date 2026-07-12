@@ -1,6 +1,6 @@
 # DJ Ultra Violet
 
-DJ Ultra Violet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at House of Yes, New York City on Thu, 16 Jul 2026.
+DJ Ultra Violet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at House of Yes, New York City on Thu, 16 Jul 2026.
 
 DJ Ultra Violet is a house and techno artist based in United States of America, tracked on soundcheck, with 89 sets logged across Newyorkcity. Often billed alongside Eli Escobar, DADA COZMIC and Bendito. Next up: House of Yes, Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ DJ Ultra Violet is a house and techno artist based in United States of America, 
 
 Eli Escobar, DADA COZMIC, Bendito
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djultraviolet/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djultraviolet/)*

@@ -1,6 +1,6 @@
 # Elotrance
 
-Elotrance is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
+Elotrance is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
 
 Elotrance is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Westhafen, Leipzig on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Elotrance is a techno and trance artist tracked on soundcheck, with 107 sets log
 
 Justin Tinderdate, Cleopard2000, Mika Heggemann
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*

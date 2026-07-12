@@ -1,6 +1,6 @@
 # Confidence Man
 
-Confidence Man is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Confidence Man is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Confidence Man is a house and techno artist based in Australia, tracked on soundcheck, with 49 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 21 more. Often billed alongside Chloé Caillet, Erol Alkan and Interplanetary Criminal. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Confidence Man is a house and techno artist based in Australia, tracked on sound
 
 Chloé Caillet, Erol Alkan, Interplanetary Criminal
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/confidenceman/)*

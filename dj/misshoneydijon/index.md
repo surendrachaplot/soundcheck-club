@@ -1,14 +1,13 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at Knockdown Center, New York City on Sat, 11 Jul 2026.
+Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Knockdown Center, New York City on Sun, 12 Jul 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Knockdown Center, Newyorkcity on Sat 11 Jul.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Knockdown Center, Newyorkcity on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | Knockdown Center | New York City |
 | Sun, 12 Jul 2026 | Knockdown Center | New York City |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Fri, 7 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets lo
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 11 Jul 2026
 - Parque da Pasteleira, Porto — Fri, 3 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sat, 27 Jun 2026
 - Glendalough Estate, Dublin — Fri, 12 Jun 2026
@@ -27,10 +27,9 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets lo
 - Titanic Slipways, Belfast — Fri, 29 May 2026
 - Het Twiske, Amsterdam — Sat, 23 May 2026
 - Brockwell Park, London — Sat, 23 May 2026
-- Madrid Caja Mágica, Madrid — Sun, 17 May 2026
 
 ## Shares bills with
 
 Chloé Caillet, Mochakk, TSHA
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

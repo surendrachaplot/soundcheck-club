@@ -1,6 +1,6 @@
 # Styn
 
-Styn is a House and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at The Carpet Shop, London on Sat, 18 Jul 2026.
+Styn is a House and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Carpet Shop, London on Sat, 18 Jul 2026.
 
 Styn is a house and afrobeats artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, London, Manchester and Rotterdam and 1 more. Often billed alongside T.NO, EYCEE and Hannecart. Next up: The Carpet Shop, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Styn is a house and afrobeats artist based in Netherlands, tracked on soundcheck
 
 T.NO, EYCEE, Hannecart
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*

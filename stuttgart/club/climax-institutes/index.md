@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Sat, 11 Jul 2026; the next is "DANSE AVEC MOI w/Eliano, Mary, Chamelio3000" on Sat, 11 Jul 2026.
+Climax-Institutes is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "APPETIZER - 11 YEARS ANNIVERSARY (PART1)" on Thu, 16 Jul 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Kate no Sleep and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Adi Dassler, Aniza (DE), CALiACRA and crystal crimez (2) and 2 more. Browse upcoming dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | DANSE AVEC MOI w/Eliano, Mary, Chamelio3000 | Chamelio 3000 |
 | Thu, 16 Jul 2026 | APPETIZER - 11 YEARS ANNIVERSARY (PART1) | Adi Dassler, Kate no Sleep, Modeplex |
 | Fri, 17 Jul 2026 | HYPERDOSE | Laau Pama, Meret Forêt |
 | Sat, 18 Jul 2026 | COME Together x CLIMAX INSTITUTES | Martin Mind, Needles Musik, Tyson Rodenfeld |
@@ -18,9 +17,10 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcomin
 | Thu, 30 Jul 2026 | APPETIZER - 11 YEARS ANNIVERSARY (PART2) | Adi Dassler, Pysh |
 | Fri, 31 Jul 2026 | Different Reality 'TERMINAL X' at Climax Institutes |  |
 | Fri, 14 Aug 2026 | This !s | E-PUNK |
+| Fri, 21 Aug 2026 | COSMIC CONVERGENCE #5 BY KOLLEKTIV BASSZENDENT | Aniza (DE), CALiACRA, crystal crimez (2) |
 
 ## Address
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

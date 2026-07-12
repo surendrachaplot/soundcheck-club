@@ -1,14 +1,13 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Sat, 11 Jul 2026, next at BCM, Mallorca on Sat, 11 Jul 2026.
+CamelPhat is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 12 Jul 2026.
 
-CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: BCM, Mallorca on Sat 11 Jul.
+CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Hï Ibiza, Ibiza on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 11 Jul 2026 | BCM | Mallorca |
 | Sun, 12 Jul 2026 | Hï Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Bolivar Beach Bar | Athens |
@@ -20,9 +19,11 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logg
 | Sun, 9 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 16 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sun, 23 Aug 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- BCM, Mallorca — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 5 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - [UNVRS], Ibiza — Tue, 30 Jun 2026
@@ -30,10 +31,9 @@ CamelPhat is a techno and house artist tracked on soundcheck, with 200 sets logg
 - Hï Ibiza, Ibiza — Sat, 20 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Sat, 11 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
