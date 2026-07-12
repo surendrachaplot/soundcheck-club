@@ -1,8 +1,8 @@
 # Zorza
 
-Zorza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Fvtvr, Paris on Mon, 13 Jul 2026.
+Zorza is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Fvtvr, Paris on Mon, 13 Jul 2026.
 
-Zorza is a techno and trance artist tracked on soundcheck, with 92 sets logged across Austin, Barcelona, Berlin and Brussels and 29 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: Fvtvr, Paris on Mon 13 Jul.
+Zorza is a techno and trance artist tracked on soundcheck, with 93 sets logged across Austin, Barcelona, Berlin and Brussels and 29 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: Fvtvr, Paris on Mon 13 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Zorza is a techno and trance artist tracked on soundcheck, with 92 sets logged a
 | Mon, 13 Jul 2026 | Fvtvr | Paris |
 | Wed, 15 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 24 Jul 2026 | 131 Mccormack St | Toronto |
+| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 
 ## Recently played
 

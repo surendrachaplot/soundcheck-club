@@ -1,8 +1,8 @@
 # Kaw (1)
 
-Kaw (1) is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cafe & Bar Extrawelt, Tokyo on Thu, 16 Jul 2026.
+Kaw (1) is a Electro and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cafe & Bar Extrawelt, Tokyo on Thu, 16 Jul 2026.
 
-Kaw (1) is an electro and experimental artist based in Japan, tracked on soundcheck, with 83 sets logged across Tokyo. Often billed alongside Nao.Ichikawa, MOTOKA and Krankent. Next up: Cafe & Bar Extrawelt, Tokyo on Thu 16 Jul.
+Kaw (1) is an electro and experimental artist based in Japan, tracked on soundcheck, with 84 sets logged across Tokyo. Often billed alongside Nao.Ichikawa, MOTOKA and Krankent. Next up: Cafe & Bar Extrawelt, Tokyo on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kaw (1) is an electro and experimental artist based in Japan, tracked on soundch
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Cafe & Bar Extrawelt | Tokyo |
 | Sun, 26 Jul 2026 | Cafe & Bar Extrawelt | Tokyo |
+| Sat, 15 Aug 2026 | Cafe & Bar Extrawelt | Tokyo |
 
 ## Recently played
 

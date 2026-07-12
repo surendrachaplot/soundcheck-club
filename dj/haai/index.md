@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+HAAi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ HAAi is a techno and house artist tracked on soundcheck, with 193 sets logged ac
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

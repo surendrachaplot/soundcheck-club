@@ -14,7 +14,7 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 11 upcoming nights, w
 | Thu, 23 Jul 2026 | Fiesta Exquisita x Fünk | DJ Detektiv, Itzvan, moog-lee |
 | Thu, 23 Jul 2026 | Mixtlán x Fünk | Alfredo Ávila, JEM (USA), Tomas Reid |
 | Fri, 24 Jul 2026 | Satoshi Tomiie + Bárbara Álvarez + elRojo | Barbara Alvarez, Satoshi Tomiie, elRojo |
-| Sat, 25 Jul 2026 | West Side Project x Anniversary | Mina, Ëlorian |
+| Sat, 25 Jul 2026 | West Side Project x Anniversary | MINÄ, Ëlorian |
 | Thu, 30 Jul 2026 | Concilio x Fünk | Alexis Yasky, Daniel Bukara, Harfush, Rubinskee |
 | Fri, 31 Jul 2026 | Dance Your Name x Fünk | Fig (DYN), Gog, Vanilla Storm, rodman |
 | Sat, 1 Aug 2026 | Egyptian Lover + TBA | Egyptian Lover |

@@ -1,8 +1,8 @@
 # Ocula
 
-Ocula is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
+Ocula is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
 
-Ocula is a deep house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Belfast, Chicago and Denver and 10 more. Often billed alongside ALLKNIGHT, EMBRZ (IE) and Estiva. Next up: Open Aera, Toronto on Thu 16 Jul.
+Ocula is a house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Belfast, Chicago and Denver and 10 more. Often billed alongside ALLKNIGHT, Estiva and EMBRZ (IE). Next up: Open Aera, Toronto on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ocula is a deep house and house artist tracked on soundcheck, with 28 sets logge
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Open Aera | Toronto |
 | Fri, 17 Jul 2026 | Westlight Rooftop at The William Vale | New York City |
+| Sat, 10 Oct 2026 | E1 | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Ocula is a deep house and house artist tracked on soundcheck, with 28 sets logge
 
 ## Shares bills with
 
-ALLKNIGHT, EMBRZ (IE), Estiva
+ALLKNIGHT, Estiva, EMBRZ (IE)
 
 *Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ocula/)*

@@ -14,7 +14,7 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 28 u
 | Wed, 15 Jul 2026 | KI-HOLE | L4RV4, senoritajuicy |
 | Thu, 16 Jul 2026 | BUCKLE UP BABY | ARCHANGEL (US), BEARCAT, EMMALINE, LeCamille |
 | Thu, 16 Jul 2026 | Happy Hour: High Voltage | Eyes Wide Shut (US), P.Swaney, lotus. |
-| Fri, 17 Jul 2026 | SIMPULSO 014: with Sevyn Love, DJ KMS, DJ Mahroo + Trax Unit | Sevyn Love, Trax Unit |
+| Fri, 17 Jul 2026 | SIMPULSO 014: with Sevyn Love, Trax Unit + UR Trax | Sevyn Love, Trax Unit, u.r.trax |
 | Sat, 18 Jul 2026 | ky's relentless happy hour |  |
 | Sat, 18 Jul 2026 | Store Run Radio 2 Year Anniversary Weekend - Night 1 | AceMo, Grabba Ranks, NoahG, Sonia Sol, Syd (US) |
 | Sun, 19 Jul 2026 | ADB by A Delicate Balance | Nicolò Bernardi, Sploofi |

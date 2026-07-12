@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 236 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Spell" on Sun, 12 Jul 2026.
+TBA is a music venue in London with 240 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Spell" on Sun, 12 Jul 2026.
 
-TBA is a music venue in London listed on soundcheck. 236 upcoming nights, with line-ups including 2HZY, 2M (CH), $40 Lawn Chair and 619! and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 240 upcoming nights, with line-ups including 2HZY, 2M (CH), $40 Lawn Chair and 619! and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

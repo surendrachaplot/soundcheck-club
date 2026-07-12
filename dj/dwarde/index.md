@@ -1,8 +1,8 @@
 # Dwarde
 
-Dwarde is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Old Blue Last, London on Sat, 8 Aug 2026.
+Dwarde is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Old Blue Last, London on Sat, 8 Aug 2026.
 
-Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 24 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: The Old Blue Last, London on Sat 8 Aug.
+Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 24 more. Often billed alongside Tim Reaper, Coco Bryce and Sully. Next up: The Old Blue Last, London on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 115 sets l
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | The Old Blue Last | London |
 | Fri, 28 Aug 2026 | Phonox | London |
+| Sat, 10 Oct 2026 | TRAUM | Antwerp |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 115 sets l
 
 ## Shares bills with
 
-Tim Reaper, Coco Bryce, Hughesee
+Tim Reaper, Coco Bryce, Sully
 
 *Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*

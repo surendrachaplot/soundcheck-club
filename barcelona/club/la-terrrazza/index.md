@@ -1,8 +1,8 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 27 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SUMMER HEROES meets RED SESSIONS: Open Air with Animal Trainer" on Thu, 16 Jul 2026.
+La Terrrazza is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SUMMER HEROES meets RED SESSIONS: Open Air with Animal Trainer" on Thu, 16 Jul 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 27 upcoming nights, with line-ups including Acidnena, Adria (ES), Animal Trainer and AUTOFLOWER and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including Acidnena, Adria (ES), Animal Trainer and AUTOFLOWER and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 

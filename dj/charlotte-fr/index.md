@@ -1,8 +1,8 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 12 Jul 2026.
+Charlotte (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 12 Jul 2026.
 
-Charlotte (FR) is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside tINI, ABI (FR) and Giammarco Orsini. Next up: Sunseabar Beach Club, Barcelona on Sun 12 Jul.
+Charlotte (FR) is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside tINI, ABI (FR) and Giammarco Orsini. Next up: Sunseabar Beach Club, Barcelona on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Charlotte (FR) is a house and techno artist tracked on soundcheck, with 88 sets 
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 18 Jul 2026 | Quinta do Miratejo | Lisbon |
+| Sat, 1 Aug 2026 | BRET | Amsterdam |
 
 ## Recently played
 

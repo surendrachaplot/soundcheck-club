@@ -1,8 +1,8 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 17 Jul 2026.
+OMAKS is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 17 Jul 2026.
 
-OMAKS is a techno and hardcore artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Lehmann Club, Stuttgart on Fri 17 Jul.
+OMAKS is a techno and hardcore artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 38 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Lehmann Club, Stuttgart on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ OMAKS is a techno and hardcore artist tracked on soundcheck, with 132 sets logge
 | Fri, 7 Aug 2026 | TBA | Mexico City |
 | Sat, 8 Aug 2026 | TBA - Toronto | Toronto |
 | Sat, 15 Aug 2026 | Arts Club | Liverpool |
+| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 
 ## Recently played
 

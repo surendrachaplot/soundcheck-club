@@ -1,8 +1,8 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Woodstock'69, Amsterdam on Sun, 12 Jul 2026.
+Hernan Cattaneo is a Progressive House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Woodstock'69, Amsterdam on Sun, 12 Jul 2026.
 
-Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Woodstock'69, Amsterdam on Sun 12 Jul.
+Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Woodstock'69, Amsterdam on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 | Sun, 12 Jul 2026 | Woodstock'69 | Amsterdam |
 | Thu, 16 Jul 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 18 Jul 2026 | Poolen | Copenhagen |
+| Sat, 18 Jul 2026 | Bridge Gardens | Glasgow |
 | Sat, 1 Aug 2026 | Óbuda Bay | Budapest |
 | Sun, 2 Aug 2026 | Motorworld, Palma de Mallorca | Mallorca |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |

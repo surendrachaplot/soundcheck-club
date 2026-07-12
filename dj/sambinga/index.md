@@ -1,8 +1,8 @@
 # Sam Binga
 
-Sam Binga is a Bass and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Sam Binga is a Bass and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
-Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 81 sets logged across Auckland, Austin, Birmingham and Boston and 34 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
+Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 82 sets logged across Auckland, Austin, Birmingham and Boston and 34 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sam Binga is a bass and drum & bass artist tracked on soundcheck, with 81 sets l
 | Fri, 17 Jul 2026 | Cooks Valley Campground | San Francisco/Oakland |
 | Fri, 17 Jul 2026 | Casita Hollywood | Los Angeles |
 | Sat, 15 Aug 2026 | ZeyZey | Miami |
+| Sat, 10 Oct 2026 | Radius | Chicago |
 
 ## Recently played
 

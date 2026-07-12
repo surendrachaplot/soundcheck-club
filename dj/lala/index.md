@@ -1,8 +1,8 @@
 # La La
 
-La La is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Savaya Bali, Bali on Sat, 18 Jul 2026.
+La La is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Savaya Bali, Bali on Sat, 18 Jul 2026.
 
-La La is a house and techno artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Savaya Bali, Bali on Sat 18 Jul.
+La La is a house and techno artist tracked on soundcheck, with 138 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Savaya Bali, Bali on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ La La is a house and techno artist tracked on soundcheck, with 137 sets logged a
 | Sat, 18 Jul 2026 | Savaya Bali | Bali |
 | Sat, 25 Jul 2026 | Elsewhere | New York City |
 | Sun, 9 Aug 2026 | Burgess Park | London |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

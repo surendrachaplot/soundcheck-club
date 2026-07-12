@@ -9,7 +9,7 @@ Andriy K. is an experimental and ambient artist based in Ukraine, tracked on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | 20nine30 | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

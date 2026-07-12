@@ -1,8 +1,8 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 16 Jul 2026.
+Silva Bumpa is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 16 Jul 2026.
 
-Silva Bumpa is a garage and house artist tracked on soundcheck, with 197 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Amnesia Ibiza, Ibiza on Thu 16 Jul.
+Silva Bumpa is a garage and house artist tracked on soundcheck, with 198 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Amnesia Ibiza, Ibiza on Thu 16 Jul.
 
 ## Upcoming shows
 

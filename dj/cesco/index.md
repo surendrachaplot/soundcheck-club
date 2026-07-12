@@ -1,8 +1,8 @@
 # Cesco
 
-Cesco is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Quarters, Brighton on Fri, 7 Aug 2026.
+Cesco is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Quarters, Brighton on Fri, 7 Aug 2026.
 
-Cesco is a drum & bass and bass artist tracked on soundcheck, with 57 sets logged across Amsterdam, Austin, Birmingham and Brighton and 23 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: Quarters, Brighton on Fri 7 Aug.
+Cesco is a drum & bass and bass artist tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Birmingham and Brighton and 23 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: Quarters, Brighton on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cesco is a drum & bass and bass artist tracked on soundcheck, with 57 sets logge
 | Fri, 7 Aug 2026 | Quarters | Brighton |
 | Sat, 8 Aug 2026 | The Prospect Building | Bristol |
 | Fri, 4 Sept 2026 | HERE | London |
+| Sat, 10 Oct 2026 | Radius | Chicago |
 
 ## Recently played
 

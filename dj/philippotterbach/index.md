@@ -9,7 +9,7 @@ Philipp Otterbach is an ambient and trance artist based in Germany, tracked on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
 
 ## Recently played

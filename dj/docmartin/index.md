@@ -1,8 +1,8 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
+Doc Martin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
 
-Doc Martin is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Chicago and Denver and 15 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Shoreline Aquatic Park, Losangeles on Sat 18 Jul.
+Doc Martin is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Chicago and Denver and 15 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Shoreline Aquatic Park, Losangeles on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 87 sets logg
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Shoreline Aquatic Park | Los Angeles |
 | Sun, 30 Aug 2026 | The North London Tavern | London |
+| Sat, 10 Oct 2026 | California Plaza | Los Angeles |
 
 ## Recently played
 

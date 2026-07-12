@@ -9,7 +9,7 @@ Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | MS Club | Marseille |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

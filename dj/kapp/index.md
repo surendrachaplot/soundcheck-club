@@ -1,14 +1,15 @@
 # KAPP
 
-KAPP is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret East London Location, London on Sun, 12 Jul 2026.
+KAPP is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret East London Location, London on Sun, 12 Jul 2026.
 
-KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside Simoon Pedro, Juliana Branco and Leonardo Cruz DJ. Next up: TBA - Secret East London Location, London on Sun 12 Jul.
+KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside Simoon Pedro, Juliana Branco and Leonardo Cruz DJ. Next up: TBA - Secret East London Location, London on Sun 12 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 12 Jul 2026 | TBA - Secret East London Location | London |
+| Sun, 19 Jul 2026 | Fitzroy | Berlin |
 | Thu, 6 Aug 2026 | Lux Fragil | Lisbon |
 
 ## Recently played

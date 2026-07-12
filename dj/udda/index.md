@@ -11,7 +11,7 @@ Udda is a bass and electronica artist tracked on soundcheck, with 42 sets logged
 | Sat, 25 Jul 2026 | M01 | Berlin |
 | Thu, 13 Aug 2026 | Kulturcampus Frankfurt | Frankfurt |
 | Sat, 22 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

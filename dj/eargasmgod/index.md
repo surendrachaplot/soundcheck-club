@@ -1,8 +1,8 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
+EARGASM GOD is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Beatland Festival, Krakow on Sat, 25 Jul 2026.
 
-EARGASM GOD is a techno and trance artist tracked on soundcheck, with 152 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Beatland Festival, Krakow on Sat 25 Jul.
+EARGASM GOD is a techno and trance artist tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Beatland Festival, Krakow on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ EARGASM GOD is a techno and trance artist tracked on soundcheck, with 152 sets l
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
 | Sat, 12 Sept 2026 | Phonox | London |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 
 ## Recently played
 

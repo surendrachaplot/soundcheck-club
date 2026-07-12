@@ -1,8 +1,8 @@
 # Oldboy
 
-Oldboy is a Garage and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
+Oldboy is a Garage and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
 
-Oldboy is a garage and breakbeat artist tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Birmingham and Brighton and 16 more. Often billed alongside DJ Cosworth, Megan Wroe and Prozak (IRL). Next up: Ouseburn Garden, Newcastle on Fri 7 Aug.
+Oldboy is a garage and jungle artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Birmingham and Brighton and 16 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: Ouseburn Garden, Newcastle on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Oldboy is a garage and breakbeat artist tracked on soundcheck, with 48 sets logg
 | Fri, 7 Aug 2026 | Ouseburn Garden | Newcastle |
 | Sat, 22 Aug 2026 | 93 Feet East | London |
 | Sat, 26 Sept 2026 | Kapsule | Liverpool |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Oldboy is a garage and breakbeat artist tracked on soundcheck, with 48 sets logg
 
 ## Shares bills with
 
-DJ Cosworth, Megan Wroe, Prozak (IRL)
+DJ Cosworth, Prozak (IRL), Silva Bumpa
 
 *Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

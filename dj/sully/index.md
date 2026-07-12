@@ -1,8 +1,8 @@
 # Sully
 
-Sully is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
+Sully is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Boston Manor Park, London on Fri, 31 Jul 2026.
 
-Sully is a jungle and drum & bass artist tracked on soundcheck, with 140 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Tim Reaper, Dwarde and Coco Bryce. Next up: Boston Manor Park, London on Fri 31 Jul.
+Sully is a jungle and drum & bass artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Tim Reaper, Dwarde and Coco Bryce. Next up: Boston Manor Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sully is a jungle and drum & bass artist tracked on soundcheck, with 140 sets lo
 | Sat, 15 Aug 2026 | The White Hotel | Manchester |
 | Fri, 28 Aug 2026 | Phonox | London |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sat, 10 Oct 2026 | TRAUM | Antwerp |
 
 ## Recently played
 

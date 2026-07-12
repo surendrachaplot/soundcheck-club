@@ -9,7 +9,7 @@ metaverde is a house and techno artist based in Germany, tracked on soundcheck, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | Kater | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

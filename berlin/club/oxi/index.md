@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "LECKEN Moisturize [OPEN AIR]" on Sun, 12 Jul 2026.
+OXI is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "LECKEN Moisturize [OPEN AIR]" on Sun, 12 Jul 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

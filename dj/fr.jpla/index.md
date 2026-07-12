@@ -9,7 +9,7 @@ fr. JPLA is a techno and house artist based in Germany, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 14 Jul 2026 | OXI | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

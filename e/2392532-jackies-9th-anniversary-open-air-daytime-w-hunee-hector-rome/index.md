@@ -1,6 +1,6 @@
-# Jackies - 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero at La Terrrazza
+# Jackies 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero at La Terrrazza
 
-Jackies - 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero at La Terrrazza on Sat 8 Aug, Barcelona. 4 acts on the bill: Hector Romero, Hunee, Nesi and Piem. House. Preview the line-up and save it on soundcheck.
+Jackies 9th Anniversary - Open Air Daytime w/ Hunee, Hector Romero at La Terrrazza on Sat 8 Aug, Barcelona. 4 acts on the bill: Hector Romero, Hunee, Nesi and Piem. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

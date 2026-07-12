@@ -1,6 +1,6 @@
 # Until We Meet Again l 969 Techno (Open Air) at TBA - San Francisco - Open Air
 
-Until We Meet Again l 969 Techno (Open Air) at TBA - San Francisco - Open Air on Sun 26 Jul, Sanfrancisco. 2 acts on the bill: CASPII and Suanni. Techno. Preview the line-up and save it on soundcheck.
+Until We Meet Again l 969 Techno (Open Air) at TBA - San Francisco - Open Air on Sun 26 Jul, Sanfrancisco. 3 acts on the bill: Black Plastica, CASPII and Suanni. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Until We Meet Again l 969 Techno (Open Air) at TBA - San Francisco - Open Air on
 
 ## Line-up
 
+- Black Plastica
 - CASPII
 - Suanni
 

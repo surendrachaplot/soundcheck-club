@@ -1,8 +1,8 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Crazy P is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside MiNNA, DJ Paulette and Danielle Moore. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Crazy P is a disco and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside MiNNA, DJ Paulette and Danielle Moore. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Crazy P is a disco and house artist tracked on soundcheck, with 125 sets logged 
 | Sat, 5 Sept 2026 | LDN East | London |
 | Wed, 16 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Sala Villanos | Madrid |
 
 ## Recently played
 

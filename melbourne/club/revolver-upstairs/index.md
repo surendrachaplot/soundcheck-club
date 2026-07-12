@@ -8,7 +8,7 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | NAIDOC Dance — Proudly Supporting VACCA | Anima Omada, FAF (1), Fosters, Mount Mike, Naycab, Soju Gang, Trey, Yarra, randals dad |
+| Sun, 12 Jul 2026 | NAIDOC Dance — Proudly Supporting VACCA | Anima Omada, FAF (1), Fosters, Mount Mike, Naycab, Numero 6, Trey, Yarra, randals dad |
 | Fri, 17 Jul 2026 | Answer Code Request (DE) — Revolver Fridays & Deep Cargo | Answer Code Request, Crozier, Mike Buhl, Tejavu |
 | Sun, 19 Jul 2026 | Luke Hovey + Special Guests — Agenda & Revolver Sundays | Black Dave, Laura King, Luke Hovey |
 | Fri, 24 Jul 2026 | Love, Jess: 'A drifter's gospel' EP Launch — Proponent Records | BDE, Common Tribe, Lost Memories, Love, Jess |

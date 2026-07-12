@@ -1,8 +1,8 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 1134, Denver on Thu, 16 Jul 2026.
+Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 1134, Denver on Thu, 16 Jul 2026.
 
-Einmusik is a techno and progressive house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Basel and Berlin and 36 more. Often billed alongside Prismode, Solvane and Miss Melera. Next up: 1134, Denver on Thu 16 Jul.
+Einmusik is a techno and progressive house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Basel and Berlin and 36 more. Often billed alongside Prismode, Solvane and Miss Melera. Next up: 1134, Denver on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 | Sat, 1 Aug 2026 | Wolkezwei | Leipzig |
 | Fri, 14 Aug 2026 | TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4 | Cologne |
 | Sat, 19 Sept 2026 | Seaseaclub Barcelona | Barcelona |
+| Sat, 10 Oct 2026 | E1 | London |
 
 ## Recently played
 

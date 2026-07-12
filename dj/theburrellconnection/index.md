@@ -9,7 +9,7 @@ The Burrell Connection is a house and techno artist based in United Kingdom, tra
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Renate | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

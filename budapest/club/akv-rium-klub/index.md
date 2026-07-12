@@ -10,7 +10,7 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 10 upcoming ni
 | --- | --- | --- |
 | Mon, 13 Jul 2026 | Eric Johnson | Eric Johnson |
 | Fri, 24 Jul 2026 | Bogdan presents – Marcelo Vasami 4-HOUR SET at Akvárium Lokál | Marcelo Vasami |
-| Fri, 24 Jul 2026 | Mannel & Kornel Halasz // Akvarium Terasz |  |
+| Fri, 24 Jul 2026 | Mannel & Kornel Halasz // Akvarium Terasz | Kornel Halasz |
 | Fri, 4 Sept 2026 | Fritz Kalkbrenner | Fritz Kalkbrenner |
 | Fri, 4 Sept 2026 | Fritz Kalkkbrenner | Fritz Kalkbrenner |
 | Fri, 11 Sept 2026 | Eli Brown | Eli Brown |

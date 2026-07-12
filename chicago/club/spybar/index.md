@@ -1,8 +1,8 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 13 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Minimal Madness feat. Misha (US)" on Thu, 16 Jul 2026.
+Spybar is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Minimal Madness feat. Misha (US)" on Thu, 16 Jul 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 13 upcoming nights, with line-ups including Dean Turnley, Deeper Purpose, Dennis Ferrer and Fleur Shore and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including Dean Turnley, Deeper Purpose, Dennis Ferrer and Fleur Shore and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 

@@ -11,7 +11,7 @@ skyra is a house and trance artist tracked on soundcheck, with 89 sets logged ac
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Fri, 17 Jul 2026 | TBA - Private Location | Berlin |
 | Fri, 14 Aug 2026 | Bassiani | Tbilisi |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

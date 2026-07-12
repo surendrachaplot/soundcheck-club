@@ -1,8 +1,8 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Disco Portal: PARADISO" on Fri, 17 Jul 2026.
+Bambi's is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Disco Portal: PARADISO" on Fri, 17 Jul 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including AKWA, Critter, dj miss and florasystem and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including AKWA, Critter, dj miss and florasystem and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Bambi's is a music venue in Toronto listed on soundcheck. 5 upcoming nights, wit
 | Sat, 18 Jul 2026 | Hot Take (Chicago), Florasystem, & dj miss | Hot Take, dj miss, florasystem |
 | Fri, 24 Jul 2026 | Sem Forma presents: Scott Zacharias (Detroit) with Invisible City & Justin La Rose | Invisible City, Justin La Rose, Scott Zacharias |
 | Sat, 25 Jul 2026 | Critter b2b Lather Rinse Repeat all night | Critter, Lather Rinse Repeat |
+| Sat, 1 Aug 2026 | Milch & Hasa | Milch (1), Underwaterhasa |
 | Sat, 15 Aug 2026 | SIGNAL: AKWA & TESFAY (All Night Long) | AKWA, TESFAY |
 
 ## Address

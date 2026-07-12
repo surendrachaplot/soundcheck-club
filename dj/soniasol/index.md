@@ -1,8 +1,8 @@
 # Sonia Sol
 
-Sonia Sol is a Afrobeat and Afrobeats artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
+Sonia Sol is a Afrobeat and Afrobeats artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
 
-Sonia Sol is an afrobeat and afrobeats artist based in United States of America, tracked on soundcheck, with 28 sets logged across Copenhagen, London, Losangeles and Madrid and 4 more. Often billed alongside Cquestt, JVINCENT and John Vincent. Next up: Elsewhere, Newyorkcity on Fri 17 Jul.
+Sonia Sol is an afrobeat and afrobeats artist based in United States of America, tracked on soundcheck, with 29 sets logged across Berlin, Copenhagen, London and Losangeles and 5 more. Often billed alongside Cquestt, JVINCENT and John Vincent. Next up: Elsewhere, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sonia Sol is an afrobeat and afrobeats artist based in United States of America,
 | Fri, 17 Jul 2026 | Elsewhere | New York City |
 | Sat, 18 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 25 Jul 2026 | Sigurd CPH | Copenhagen |
+| Fri, 7 Aug 2026 | OXI | Berlin |
 
 ## Recently played
 

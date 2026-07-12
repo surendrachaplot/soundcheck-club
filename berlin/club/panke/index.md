@@ -1,8 +1,8 @@
 # Panke
 
-Panke is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "ROUTiN3" on Fri, 17 Jul 2026.
+Panke is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "ROUTiN3" on Fri, 17 Jul 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including ALEX WANG, bela, Dj Hidrataccioni and eÑe (1) and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ALEX WANG, bela, Chris Imler and Dj Hidrataccioni and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Panke is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with l
 | Sat, 8 Aug 2026 | EEE | ALEX WANG, Kilo Vee, Ziúr, bela |
 | Sat, 8 Aug 2026 | CALENTURA VINYL ALL STARS Vol. 2 | PAULAH, Simón JaVa, eÑe (1) |
 | Sat, 22 Aug 2026 | NOFUTURE 6 YEARS ANNIVERSARY | Dj Hidrataccioni, PAULAH, Paulawar, Some Guest, entecaliente |
+| Sat, 10 Oct 2026 | Outside the BigMac, vol.5: October Edition | Chris Imler |
 
 ## Address
 

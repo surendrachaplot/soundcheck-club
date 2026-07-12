@@ -11,7 +11,7 @@ MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 | Thu, 16 Jul 2026 | Giri | Berlin |
 | Fri, 24 Jul 2026 | arkaoda Berlin | Berlin |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

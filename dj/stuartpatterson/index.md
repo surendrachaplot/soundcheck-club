@@ -1,8 +1,8 @@
 # Stuart Patterson
 
-Stuart Patterson is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at El Charcon Beach, Malaga on Sat, 22 Aug 2026.
+Stuart Patterson is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at El Charcon Beach, Malaga on Sat, 22 Aug 2026.
 
-Stuart Patterson is a house and disco artist tracked on soundcheck, with 66 sets logged across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: El Charcon Beach, Malaga on Sat 22 Aug.
+Stuart Patterson is a house and disco artist tracked on soundcheck, with 67 sets logged across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: El Charcon Beach, Malaga on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Stuart Patterson is a house and disco artist tracked on soundcheck, with 66 sets
 | Sat, 22 Aug 2026 | El Charcon Beach | Malaga |
 | Sun, 30 Aug 2026 | The North London Tavern | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Sat, 10 Oct 2026 | Omeara | London |
 
 ## Recently played
 

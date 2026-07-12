@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler" on Sat, 18 Jul 2026.
+BASIS is a music venue in Utrecht with 15 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler" on Sat, 18 Jul 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 14 upcoming nights, with line-ups including Blame The Mono, BLNK, Brent Honey and Cybersex and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 15 upcoming nights, with line-ups including 36framez, Blame The Mono, BLNK and Brent Honey and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 

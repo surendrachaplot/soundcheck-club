@@ -1,8 +1,8 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Frankhan Selectist, Istanbul on Sun, 12 Jul 2026.
+Egyptian Lover is a Electro and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Frankhan Selectist, Istanbul on Sun, 12 Jul 2026.
 
-Egyptian Lover is an electro and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside DJ Godfather, Acid Pauli and Anah. Next up: Frankhan Selectist, Istanbul on Sun 12 Jul.
+Egyptian Lover is an electro and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside DJ Godfather, Acid Pauli and Anah. Next up: Frankhan Selectist, Istanbul on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Egyptian Lover is an electro and house artist tracked on soundcheck, with 84 set
 | Fri, 28 Aug 2026 | Blå | Oslo |
 | Sun, 27 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 9 Oct 2026 | Humboldthain Club | Berlin |
+| Sat, 10 Oct 2026 | Garagen | Cologne |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # BØĘRY
 
-BØĘRY is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kilomètre25, Paris on Sat, 25 Jul 2026.
+BØĘRY is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kilomètre25, Paris on Sat, 25 Jul 2026.
 
-BØĘRY is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside BLNK, LIEKS and TiTi. Next up: Kilomètre25, Paris on Sat 25 Jul.
+BØĘRY is a techno and house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside BLNK, LIEKS and TiTi. Next up: Kilomètre25, Paris on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ BØĘRY is a techno and house artist tracked on soundcheck, with 15 sets logged 
 | Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 19 Sept 2026 | Airport Würzburg | Nürnberg |
+| Sat, 10 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

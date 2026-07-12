@@ -1,8 +1,8 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bolivar Beach Bar, Athens on Thu, 16 Jul 2026.
+Nick Warren is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bolivar Beach Bar, Athens on Thu, 16 Jul 2026.
 
-Nick Warren is a progressive house and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Bolivar Beach Bar, Athens on Thu 16 Jul.
+Nick Warren is a progressive house and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Bolivar Beach Bar, Athens on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Bolivar Beach Bar | Athens |
 | Fri, 17 Jul 2026 | Sala UNI Madrid | Madrid |
+| Sat, 18 Jul 2026 | Bridge Gardens | Glasgow |
 | Fri, 24 Jul 2026 | Bristol Amphitheatre & Waterfront Square | Bristol |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 5 Sept 2026 | UNLOCKED | London |

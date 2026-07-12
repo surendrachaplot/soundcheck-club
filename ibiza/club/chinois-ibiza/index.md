@@ -1,8 +1,8 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 77 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Bedouin presents SAGA: Bedouin, Mira, Shimza" on Sun, 12 Jul 2026.
+Chinois Ibiza is a music venue in Ibiza with 78 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Bedouin presents SAGA: Bedouin, Mira, Shimza" on Sun, 12 Jul 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 77 upcoming nights, with line-ups including 2lovers, Ace Brothers, Acid Pauli and Alaia & Gallo and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 78 upcoming nights, with line-ups including 2lovers, Ace Brothers, Acid Pauli and Alaia & Gallo and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 

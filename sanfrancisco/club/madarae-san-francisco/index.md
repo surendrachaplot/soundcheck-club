@@ -1,8 +1,8 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DVIRNUNS (MACCABI HOUSE) AT MADARAE" on Sat, 18 Jul 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DVIRNUNS (MACCABI HOUSE) AT MADARAE" on Sat, 18 Jul 2026.
 
-Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including MAGA. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 2 u
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | DVIRNUNS (MACCABI HOUSE) AT MADARAE |  |
 | Sat, 25 Jul 2026 | GROSSOMODDO (Mediterranean Afro House) at MadaRae |  |
+| Sat, 10 Oct 2026 | MAGA AT Madarae San Francisco | MAGA |
 
 ## Address
 

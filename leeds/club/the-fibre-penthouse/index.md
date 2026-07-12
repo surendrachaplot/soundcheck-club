@@ -9,7 +9,7 @@ The Fibre Penthouse is a music venue in Leeds listed on soundcheck. 3 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | OSCURA presents Khen | Easby, Gav Easby, Khen, SOBAH |
-| Fri, 14 Aug 2026 | OSCURA presents Braxton and Paul James Nolan | Braxton, Easby, SOBAH |
+| Fri, 14 Aug 2026 | OSCURA FL presents Braxton and Paul James Nolan | Braxton, Easby, SOBAH |
 | Sat, 19 Sept 2026 | OSCURA FL presents Because of Art | Because of Art, Easby, SOBAH |
 
 ## Address

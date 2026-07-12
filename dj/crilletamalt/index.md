@@ -9,7 +9,7 @@ Crille & Tamalt are a house and techno duo based in Germany, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Distillery | Leipzig |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

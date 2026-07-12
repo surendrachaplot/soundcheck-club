@@ -13,7 +13,7 @@ BRET is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, wit
 | Sat, 18 Jul 2026 | The Ghost x BRET | The Ghost |
 | Sun, 19 Jul 2026 | TAFKAMP INVITES Ben Sims, Deetron PRESENTS SOULMATE & Pelanoir | Ben Sims, Deetron, Pelanoir, TAFKAMP |
 | Sat, 25 Jul 2026 | SLPFNK SUMMER GATHERING - BRET |  |
-| Sat, 1 Aug 2026 | VBX BRET |  |
+| Sat, 1 Aug 2026 | VBX BRET | Charlotte (FR), DIEDE, Franziska Berns, Gabriel Belabbas, Hannecart, Poggio |
 | Fri, 14 Aug 2026 | OG Records presents: bullet tooth | Kyra Khaldi, Melody RA+RE, Truly Madly, bullet tooth |
 | Sun, 16 Aug 2026 | De Reünie X AOS | Anton Jonathan, BAUGRUPPE90, Cybersex, EliaHaze, FORTUNATA, Schwesta P, T.PLAYBOI, TWIENA |
 | Sun, 16 Aug 2026 | DE REÜNIE & AOS | Anton Jonathan, BAUGRUPPE90, Cybersex, EliaHaze, FORTUNATA, Schwesta P, T.PLAYBOI, TWIENA |

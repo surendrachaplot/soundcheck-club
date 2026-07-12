@@ -1,8 +1,8 @@
 # Hannecart
 
-Hannecart is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 18 Jul 2026.
+Hannecart is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 18 Jul 2026.
 
-Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Reiss, Noach and Samuel Deep. Next up: Sportpark Riekerhaven, Amsterdam on Sat 18 Jul.
+Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Reiss, Noach and Samuel Deep. Next up: Sportpark Riekerhaven, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hannecart is a house and techno artist based in Dominican Republic, tracked on s
 | Sat, 18 Jul 2026 | Sportpark Riekerhaven | Amsterdam |
 | Fri, 24 Jul 2026 | Garage Noord | Amsterdam |
 | Sat, 25 Jul 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 1 Aug 2026 | BRET | Amsterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 
 ## Recently played

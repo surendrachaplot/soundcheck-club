@@ -1,8 +1,8 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gianpula Main Room, Malta on Wed, 22 Jul 2026.
+Afrojack is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gianpula Main Room, Malta on Wed, 22 Jul 2026.
 
-Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Martin Garrix. Next up: Gianpula Main Room, Malta on Wed 22 Jul.
+Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Martin Garrix. Next up: Gianpula Main Room, Malta on Wed 22 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Afrojack is a house and progressive house artist based in Netherlands, tracked o
 | Fri, 28 Aug 2026 | Big Night Live | Boston |
 | Mon, 5 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Radius | Chicago |
+| Sat, 10 Oct 2026 | Echostage | Washington DC |
 
 ## Recently played
 

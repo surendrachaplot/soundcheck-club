@@ -1,8 +1,8 @@
 # Smokin Jo
 
-Smokin Jo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 24 Aug 2026.
+Smokin Jo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 24 Aug 2026.
 
-Smokin Jo is a house and disco artist tracked on soundcheck, with 52 sets logged across Amsterdam, Bali, Brighton and Edinburgh and 7 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: Chinois Ibiza, Ibiza on Mon 24 Aug.
+Smokin Jo is a house and disco artist tracked on soundcheck, with 53 sets logged across Amsterdam, Bali, Brighton and Edinburgh and 8 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: Chinois Ibiza, Ibiza on Mon 24 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Smokin Jo is a house and disco artist tracked on soundcheck, with 52 sets logged
 | Mon, 24 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | XOYO | London |
 | Sun, 20 Sept 2026 | The Timber Loft | London |
+| Sat, 10 Oct 2026 | Victoria Baths | Manchester |
 
 ## Recently played
 

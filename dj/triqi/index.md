@@ -12,7 +12,7 @@ Triqi is a house and techno artist tracked on soundcheck, with 118 sets logged a
 | Mon, 13 Jul 2026 | Tresor / Globus | Berlin |
 | Mon, 13 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 22 Aug 2026 | Marmorbar | Berlin |
-| Sat, 29 Aug 2026 | TBA -  JK (near S Greifswalder) | Berlin |
+| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bootshaus, Cologne on Fri, 24 Jul 2026.
+Danilo Filipe is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 19 Jul 2026.
 
-Danilo Filipe is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Bobaz Lobster, DJ SPORTSCHUH and EGE363. Next up: Bootshaus, Cologne on Fri 24 Jul.
+Danilo Filipe is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin and Cologne. Often billed alongside Bobaz Lobster, DJ SPORTSCHUH and EGE363. Next up: Lokschuppen Berlin, Berlin on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 24 Jul 2026 | Bootshaus | Cologne |
 | Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Sept 2026 | Artheater | Cologne |

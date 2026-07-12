@@ -9,8 +9,8 @@ Deorro is a latin bass and house artist based in United States of America, track
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | The Concourse Project | Austin |
-| Fri, 17 Jul 2026 | The Concourse Project | Austin |
 | Fri, 14 Aug 2026 | Echostage | Washington DC |
+| Fri, 25 Sept 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
+Faster Horses is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
 
-Faster Horses is a techno and trance artist tracked on soundcheck, with 232 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Leaha, Azyr and Kander. Next up: Silverworks Island, London on Sun 12 Jul.
+Faster Horses is a techno and trance artist tracked on soundcheck, with 233 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Leaha, Azyr and Kander. Next up: Silverworks Island, London on Sun 12 Jul.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 232 sets
 | Sat, 3 Oct 2026 | The Warehouse | Leeds |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Village Underground | London |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

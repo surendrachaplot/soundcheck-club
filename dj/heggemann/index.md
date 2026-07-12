@@ -1,8 +1,8 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
+Mika Heggemann is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 31 Jul 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Cleopard2000, Trancemaster Krause and PRADA2000. Next up: RSO.BERLIN, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 157 set
 | Sun, 30 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
+| Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 157 set
 
 ## Shares bills with
 
-Cleopard2000, Trancemaster Krause, davyboi
+Cleopard2000, Trancemaster Krause, PRADA2000
 
 *Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

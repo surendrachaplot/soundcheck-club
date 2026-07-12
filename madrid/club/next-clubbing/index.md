@@ -14,7 +14,7 @@ Next Clubbing is a music venue in Madrid listed on soundcheck. 7 upcoming nights
 | Fri, 24 Jul 2026 | Elements Cave |  |
 | Sat, 25 Jul 2026 | Frequencies x LegionTechno / Lista Gratis hasta la 1 |  |
 | Tue, 28 Jul 2026 | Martes Locos by MAD RAVE |  |
-| Fri, 31 Jul 2026 | Elements Cave / Nigabba Invites - Season Close | Larouge, Nigabba |
+| Fri, 31 Jul 2026 | Elements Cave: Nigabba Invites - Close Season | Larouge, Nigabba |
 
 ## Address
 

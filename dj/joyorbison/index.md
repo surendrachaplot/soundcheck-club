@@ -1,8 +1,8 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Joy Orbison is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
-Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Interplanetary Criminal, Overmono and Mia Koden. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
+Joy Orbison is a house and garage artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Belfast and 40 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets log
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Knockdown Center | New York City |
+| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 96 sets log
 
 ## Shares bills with
 
-Interplanetary Criminal, Overmono, Mia Koden
+Interplanetary Criminal, Overmono, Jyoty
 
 *Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
