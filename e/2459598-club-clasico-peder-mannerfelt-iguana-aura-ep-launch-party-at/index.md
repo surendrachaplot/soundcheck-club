@@ -1,6 +1,6 @@
 # Club Clasico: Peder Mannerfelt 'Iguana Aura' EP Launch Party at Planet Wax
 
-Club Clasico: Peder Mannerfelt 'Iguana Aura' EP Launch Party at Planet Wax on Thu 16 Jul, London. 4 acts on the bill: ELEANOR, Ehua, Peder Mannerfelt and Sazzle. Techno and Bass. Preview the line-up and save it on soundcheck.
+Club Clasico: Peder Mannerfelt 'Iguana Aura' EP Launch Party at Planet Wax on Thu 16 Jul, London. 5 acts on the bill: ELEANOR, Ehua, Parris and Peder Mannerfelt and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Club Clasico: Peder Mannerfelt 'Iguana Aura' EP Launch Party at Planet Wax on Th
 
 - ELEANOR
 - Ehua
+- Parris
 - Peder Mannerfelt
 - Sazzle
 

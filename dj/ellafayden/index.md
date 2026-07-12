@@ -1,8 +1,8 @@
 # Ella Fayden
 
-Ella Fayden is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Ella Fayden is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
-Ella Fayden is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, London and Manchester. Often billed alongside Duowe, Picasso and ALIX (UK). Next up: TBA - Secret Location, London on Fri 17 Jul.
+Ella Fayden is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, London and Manchester. Often billed alongside Duowe, Maxibon (2) and Picasso. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ella Fayden is a house and tech house artist based in United Kingdom, tracked on
 | Fri, 17 Jul 2026 | TBA - Secret Location | London |
 | Fri, 24 Jul 2026 | Ballroom at Palais | London |
 | Fri, 31 Jul 2026 | Last Arch | London |
+| Sat, 29 Aug 2026 | Algha's Plantroom | London |
 | Sat, 5 Sept 2026 | Gaffe | London |
 
 ## Recently played
@@ -26,6 +27,6 @@ Ella Fayden is a house and tech house artist based in United Kingdom, tracked on
 
 ## Shares bills with
 
-Duowe, Picasso, ALIX (UK)
+Duowe, Maxibon (2), Picasso
 
 *Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellafayden/)*

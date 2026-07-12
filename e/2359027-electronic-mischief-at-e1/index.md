@@ -1,6 +1,6 @@
 # ELECTRONIC MISCHIEF at E1
 
-ELECTRONIC MISCHIEF at E1 on Fri 17 Jul, London. 7 acts on the bill: Charlotte Devaney, Devious D, Holly Rouge and J Dragon and 3 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+ELECTRONIC MISCHIEF at E1 on Fri 17 Jul, London. 8 acts on the bill: Charlotte Devaney, DJ Millz, Devious D and Holly Rouge and 4 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ELECTRONIC MISCHIEF at E1 on Fri 17 Jul, London. 7 acts on the bill: Charlotte D
 ## Line-up
 
 - Charlotte Devaney
+- DJ Millz
 - Devious D
 - Holly Rouge
 - J Dragon

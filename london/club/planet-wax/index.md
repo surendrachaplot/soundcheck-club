@@ -11,7 +11,7 @@ Planet Wax is a music venue in London listed on soundcheck. 18 upcoming nights, 
 | Sun, 12 Jul 2026 | infrared.fm - sunday sessions |  |
 | Sun, 12 Jul 2026 | SUNDAY SERVICE | Abby Daze, Loki, Slundarq, Uncle G |
 | Wed, 15 Jul 2026 | OPEN DECKS |  |
-| Thu, 16 Jul 2026 | Club Clasico: Peder Mannerfelt 'Iguana Aura' EP Launch Party | ELEANOR, Ehua, Peder Mannerfelt, Sazzle |
+| Thu, 16 Jul 2026 | Club Clasico: Peder Mannerfelt 'Iguana Aura' EP Launch Party | ELEANOR, Ehua, Parris, Peder Mannerfelt, Sazzle |
 | Fri, 17 Jul 2026 | CLB YDLR X Planet Wax | Bianca Blaze, Carlos Biendia, S.D.S, YDLR |
 | Sat, 18 Jul 2026 | DAN SALZ & FRIENDS - UNDERGROUND HOUSE & GARAGE |  |
 | Sat, 18 Jul 2026 | UNTZ: Bass, Breaks, dubstep, hardgroove (by Ragdoll Rhythms) | Live Laugh Layla, Rebekah Abdeen, Sands Spheric, miss jas |
