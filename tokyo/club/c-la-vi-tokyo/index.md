@@ -1,6 +1,6 @@
 # CÉ LA VI Tokyo
 
-CÉ LA VI Tokyo is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "KPOP PARTY YOLO" on Mon, 13 Jul 2026.
+CÉ LA VI Tokyo is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "KPOP PARTY YOLO" on Mon, 13 Jul 2026.
 
 CÉ LA VI Tokyo is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Chome-2-13 Dogenzaka, Shibuya City, Tokyo 150-0043.
 
@@ -14,4 +14,4 @@ CÉ LA VI Tokyo is a music venue in Tokyo listed on soundcheck. 1 upcoming night
 
 1 Chome-2-13 Dogenzaka, Shibuya City, Tokyo 150-0043, Tokyo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/c-la-vi-tokyo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/c-la-vi-tokyo/)*

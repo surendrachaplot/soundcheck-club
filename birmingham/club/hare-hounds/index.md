@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Homoelectric" on Sat, 15 Aug 2026.
+Hare & Hounds is a music venue in Birmingham with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Homoelectric" on Sat, 15 Aug 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 5 upcoming nights, with line-ups including Doc Scott, Goldie, J Majik and Joe Goddard and 1 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -18,4 +18,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 5 upcoming ni
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

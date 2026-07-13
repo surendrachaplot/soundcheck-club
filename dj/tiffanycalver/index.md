@@ -1,6 +1,6 @@
 # Tiffany Calver
 
-Tiffany Calver is a Hip-Hop and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Jumbi, London on Sat, 25 Jul 2026.
+Tiffany Calver is a Hip-Hop and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Jumbi, London on Sat, 25 Jul 2026.
 
 Tiffany Calver is a hip-hop and electro artist tracked on soundcheck, with 31 sets logged across Amsterdam, Birmingham, Bristol and Glasgow and 5 more. Often billed alongside Keyrah, Changing Currents and JAEL. Next up: Jumbi, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Tiffany Calver is a hip-hop and electro artist tracked on soundcheck, with 31 se
 
 Keyrah, Changing Currents, JAEL
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanycalver/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanycalver/)*

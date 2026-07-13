@@ -1,6 +1,6 @@
 # Karma Crew Warsaw
 
-Karma Crew Warsaw is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "GROOVY NIGHT (summer edition)" on Fri, 17 Jul 2026.
+Karma Crew Warsaw is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "GROOVY NIGHT (summer edition)" on Fri, 17 Jul 2026.
 
 Karma Crew Warsaw is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Al. 3 Maja 15, 00-381 Warszawa.
 
@@ -14,4 +14,4 @@ Karma Crew Warsaw is a music venue in Warsaw listed on soundcheck. 1 upcoming ni
 
 Al. 3 Maja 15, 00-381 Warszawa, Warsaw
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/karma-crew-warsaw/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/karma-crew-warsaw/)*

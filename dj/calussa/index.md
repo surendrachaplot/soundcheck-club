@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The William Vale, New York City on Sun, 23 Aug 2026.
+Calussa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The William Vale, New York City on Sun, 23 Aug 2026.
 
 Calussa is a house and afro house artist tracked on soundcheck, with 56 sets logged across Austin, Chicago, Ibiza and Kualalumpur and 12 more. Often billed alongside BLOND:ISH, Bora Uzer and Max Styler. Next up: The William Vale, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Calussa is a house and afro house artist tracked on soundcheck, with 56 sets log
 
 BLOND:ISH, Bora Uzer, Max Styler
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

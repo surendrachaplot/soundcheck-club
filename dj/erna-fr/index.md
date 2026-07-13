@@ -1,6 +1,6 @@
 # Erna (FR)
 
-Erna (FR) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 18 Jul 2026.
+Erna (FR) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 18 Jul 2026.
 
 Erna (FR) is a techno and house artist tracked on soundcheck, with 56 sets logged across Antwerp, Berlin, Brussels and Hamburg and 5 more. Often billed alongside Egna, Amor Satyr and Kanucia. Next up: RSO.BERLIN, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Erna (FR) is a techno and house artist tracked on soundcheck, with 56 sets logge
 
 Egna, Amor Satyr, Kanucia
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*

@@ -1,6 +1,6 @@
 # Mampi Swift
 
-Mampi Swift is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Riverside East, London on Sat, 15 Aug 2026.
+Mampi Swift is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Riverside East, London on Sat, 15 Aug 2026.
 
 Mampi Swift is a drum & bass and jungle artist tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Bangkok and Birmingham and 14 more. Often billed alongside Kenny Ken, IC3 and Moose. Next up: Riverside East, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Mampi Swift is a drum & bass and jungle artist tracked on soundcheck, with 34 se
 
 Kenny Ken, IC3, Moose
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mampiswift/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mampiswift/)*

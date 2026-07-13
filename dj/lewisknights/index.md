@@ -1,6 +1,6 @@
 # Lewis Knights
 
-Lewis Knights is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Greyhound, London on Sat, 25 Jul 2026.
+Lewis Knights is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Greyhound, London on Sat, 25 Jul 2026.
 
 Lewis Knights is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Newcastle. Often billed alongside HashR, Hoodwink and Ohmfield. Next up: The Greyhound, London on Sat 25 Jul.
 
@@ -16,4 +16,4 @@ Lewis Knights is a house and techno artist based in United Kingdom, tracked on s
 
 HashR, Hoodwink, Ohmfield
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisknights/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisknights/)*

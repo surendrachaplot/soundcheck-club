@@ -1,6 +1,6 @@
 # Christians Brygge 31
 
-Christians Brygge 31 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "DIJITAL DRAMA" on Sat, 8 Aug 2026.
+Christians Brygge 31 is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "DIJITAL DRAMA" on Sat, 8 Aug 2026.
 
 Christians Brygge 31 is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Lucy Headburn and maurinstarr. Browse upcoming dates, start times and who's playing. Christians Brygge 31.
 
@@ -14,4 +14,4 @@ Christians Brygge 31 is a music venue in Copenhagen listed on soundcheck. 1 upco
 
 Christians Brygge 31, Copenhagen
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christians-brygge-31/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christians-brygge-31/)*

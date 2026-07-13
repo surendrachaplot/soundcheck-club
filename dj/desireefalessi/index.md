@@ -1,6 +1,6 @@
 # Desirée Falessi
 
-Desirée Falessi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Renate, Berlin on Fri, 17 Jul 2026.
+Desirée Falessi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Renate, Berlin on Fri, 17 Jul 2026.
 
 Desirée Falessi is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Magda, Monile and Enrica Falqui. Next up: Renate, Berlin on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Desirée Falessi is a techno and house artist tracked on soundcheck, with 64 set
 
 Magda, Monile, Enrica Falqui
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desireefalessi/)*

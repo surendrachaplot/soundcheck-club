@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sonica x Lessismore presents Lizz" on Sat, 25 Jul 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sonica x Lessismore presents Lizz" on Sat, 25 Jul 2026.
 
 Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 2 upcoming nights, with line-ups including Alam, Henning Baer, JO (MY) and Lizz and 2 more. Browse upcoming dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -15,4 +15,4 @@ Pisco Bar is a music venue in Kualalumpur listed on soundcheck. 2 upcoming night
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

@@ -1,14 +1,13 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "YUNG SINGH" on Sun, 12 Jul 2026.
+Audio SF is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Morgan Page (Classics Only)" on Fri, 17 Jul 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including EMBRZ (IE), Special Guest (US) and Yung Singh. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including EMBRZ (IE) and Special Guest (US). Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | YUNG SINGH | Yung Singh |
 | Fri, 17 Jul 2026 | Morgan Page (Classics Only) |  |
 | Sat, 18 Jul 2026 | 620 Jones After Party with Special Guest | Special Guest (US) |
 | Fri, 24 Jul 2026 | Jody Wisternoff & Nox Vahn (All Night Long) |  |
@@ -18,9 +17,10 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nigh
 | Sat, 1 Aug 2026 | 620 Jones After Party with Special Guest | Special Guest (US) |
 | Fri, 7 Aug 2026 | ISAAC CARTER |  |
 | Fri, 14 Aug 2026 | JAMBACK |  |
+| Sat, 15 Aug 2026 | EMBRZ (Day Party) | EMBRZ (IE) |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

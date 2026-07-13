@@ -1,6 +1,6 @@
 # Kahl & Kæmena
 
-Kahl & Kæmena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at fi, Cologne on Fri, 17 Jul 2026.
+Kahl & Kæmena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at fi, Cologne on Fri, 17 Jul 2026.
 
 Kahl & Kæmena are a techno and house duo based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne, London and Milan and 5 more. Often billed alongside Ciao 3lla, Borella and ELIZEN THE EMPEROR. Next up: fi, Cologne on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kahl & Kæmena are a techno and house duo based in Germany, tracked on soundchec
 
 Ciao 3lla, Borella, ELIZEN THE EMPEROR
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kahlkaemena/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kahlkaemena/)*

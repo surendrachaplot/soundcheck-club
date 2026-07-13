@@ -1,6 +1,6 @@
 # Mike Parker
 
-Mike Parker is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
+Mike Parker is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
 
 Mike Parker is a techno and experimental artist tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Berlin and Bristol and 17 more. Often billed alongside Kudeki, Adam X and Christian AB. Next up: OHM, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Mike Parker is a techno and experimental artist tracked on soundcheck, with 41 s
 
 Kudeki, Adam X, Christian AB
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeparker/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeparker/)*

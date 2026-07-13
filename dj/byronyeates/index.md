@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Macadam, Nantes on Mon, 13 Jul 2026.
+Byron Yeates is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Macadam, Nantes on Mon, 13 Jul 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Macadam, Nantes on Mon 13 Jul.
 
@@ -34,4 +34,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 180 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

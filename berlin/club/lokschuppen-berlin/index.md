@@ -1,15 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 55 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "KINDERDERWELT x Pikante - FREE OPEN AIR + CLUB NIGHT (2 FLOORS)" on Sun, 12 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 53 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "PHASE:ONE" on Tue, 14 Jul 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 53 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | KINDERDERWELT x Pikante - FREE OPEN AIR + CLUB NIGHT (2 FLOORS) | 4NOUK, AISHA, Amo (IT), BENITO (DE), Bruno Brero, CARGO (DE), Chili con Sosa, DDUCATI, Eliseo Adri, GM1 (IT), Hanne B, Jacky Ickx, Lisek, Low E (2), Sony2k, honeyboy |
-| Sun, 12 Jul 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE |  |
 | Tue, 14 Jul 2026 | PHASE:ONE |  |
 | Wed, 15 Jul 2026 | SIGNALS - 5€ Tickets - with Bobaz Lobster, cravings320 & kichererbsenstampf | Bobaz Lobster, cravings320, kichererbsenstampf |
 | Thu, 16 Jul 2026 | Chantal's House of Shame |  |
@@ -18,9 +16,11 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 55 upcoming 
 | Sat, 18 Jul 2026 | LAPSUS MATINEE |  |
 | Sun, 19 Jul 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | Danilo Filipe, La Rod's |
 | Sun, 19 Jul 2026 | Vivid V1 - daytime rave, drug free | DJ Lolo, Krash Cora, Niklas Delhey, Wagner, XIMA, e.leptic, sterni (DE) |
+| Tue, 21 Jul 2026 | PHASE:ONE |  |
+| Wed, 22 Jul 2026 | SIGNALS - 5€ Tickets - with Turbotrekker3000 LIVE, 9LALEY & Turbotimos | 9LALEY |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

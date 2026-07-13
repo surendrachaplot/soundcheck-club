@@ -1,6 +1,6 @@
 # Anubix
 
-Anubix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 25 Jul 2026.
+Anubix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Der Weiße Hase, Berlin on Sat, 25 Jul 2026.
 
 Anubix is a techno and tech house artist tracked on soundcheck, with 43 sets logged across Berlin. Often billed alongside Epicx, DJ Jordan and Emma (8). Next up: Der Weiße Hase, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Anubix is a techno and tech house artist tracked on soundcheck, with 43 sets log
 
 Epicx, DJ Jordan, Emma (8)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anubix/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anubix/)*

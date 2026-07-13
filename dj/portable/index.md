@@ -1,6 +1,6 @@
 # Portable
 
-Portable is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Portable is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Portable is a house and techno artist based in France, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 8 more. Often billed alongside Map.ache, Marie Montexier and .VRIL. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Portable is a house and techno artist based in France, tracked on soundcheck, wi
 
 Map.ache, Marie Montexier, .VRIL
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/portable/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/portable/)*

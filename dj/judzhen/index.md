@@ -1,6 +1,6 @@
 # Judzhen
 
-Judzhen is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at B2 Rīga, Riga on Sat, 18 Jul 2026.
+Judzhen is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at B2 Rīga, Riga on Sat, 18 Jul 2026.
 
 Judzhen is a house and club artist tracked on soundcheck, with 25 sets logged across Riga. Often billed alongside Nick Ustinov, Jazzy Marky and exxjuly. Next up: B2 Rīga, Riga on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Judzhen is a house and club artist tracked on soundcheck, with 25 sets logged ac
 
 Nick Ustinov, Jazzy Marky, exxjuly
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judzhen/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judzhen/)*

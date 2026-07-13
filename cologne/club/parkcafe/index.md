@@ -1,6 +1,6 @@
 # Parkcafe
 
-Parkcafe is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Art(e)facts Festival 2026" on Sat, 18 Jul 2026.
+Parkcafe is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Art(e)facts Festival 2026" on Sat, 18 Jul 2026.
 
 Parkcafe is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including Bergen, Bryan Kessler, DIMON and Ian Pooley and 2 more. Browse upcoming dates, start times and who's playing. Jugendpark.
 
@@ -15,4 +15,4 @@ Parkcafe is a music venue in Cologne listed on soundcheck. 2 upcoming nights, wi
 
 Jugendpark, Cologne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*

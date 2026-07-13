@@ -1,6 +1,6 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ritter Butzke, Berlin on Sat, 1 Aug 2026.
+Super Flu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ritter Butzke, Berlin on Sat, 1 Aug 2026.
 
 Super Flu is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Ritter Butzke, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Super Flu is a techno and house artist tracked on soundcheck, with 107 sets logg
 
 Prismode, Solvane, Markus Klee
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*

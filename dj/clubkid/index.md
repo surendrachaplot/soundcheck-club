@@ -1,6 +1,6 @@
 # ClubKid
 
-ClubKid is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at SMUT Athens, Athens on Sat, 1 Aug 2026.
+ClubKid is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at SMUT Athens, Athens on Sat, 1 Aug 2026.
 
 ClubKid is a house and techno artist tracked on soundcheck, with 154 sets logged across Athens, Berlin, Bucharest and Mexicocity and 2 more. Often billed alongside Bill Sanders, .Fro. and Maria Politi. Next up: SMUT Athens, Athens on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ ClubKid is a house and techno artist tracked on soundcheck, with 154 sets logged
 
 Bill Sanders, .Fro., Maria Politi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*

@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
+Dan Ghenacia is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Terrrazza, Barcelona on Sat, 25 Jul 2026.
 
 Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: La Terrrazza, Barcelona on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 145 se
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 16 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Palais: Move D (All Night Long)" on Fri, 17 Jul 2026.
+Palais is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Palais: Move D (All Night Long)" on Fri, 17 Jul 2026.
 
 Palais is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including A Guy Called Gerald, ANNĒ, Bill Brewster and Chinese Daughter and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 16 upcoming nights, with
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

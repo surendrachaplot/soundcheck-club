@@ -1,6 +1,6 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 25 Jul 2026.
+DJ Godfather is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 25 Jul 2026.
 
 DJ Godfather is a techno and electro artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Berlin and Boston and 16 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: 131 Mccormack St, Toronto on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ DJ Godfather is a techno and electro artist tracked on soundcheck, with 66 sets 
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

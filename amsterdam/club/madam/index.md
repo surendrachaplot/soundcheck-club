@@ -1,6 +1,6 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Madam by Night invites: EDEN" on Fri, 17 Jul 2026.
+Madam is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Madam by Night invites: EDEN" on Fri, 17 Jul 2026.
 
 Madam is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Abiba Sokoto, BADBOX, Dan Costello and Denoir and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Madam is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, wi
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

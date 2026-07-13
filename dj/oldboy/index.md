@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
+Oldboy is a Garage and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ouseburn Garden, Newcastle on Fri, 7 Aug 2026.
 
 Oldboy is a garage and jungle artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Birmingham and Brighton and 16 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: Ouseburn Garden, Newcastle on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Oldboy is a garage and jungle artist tracked on soundcheck, with 49 sets logged 
 
 DJ Cosworth, Prozak (IRL), Silva Bumpa
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

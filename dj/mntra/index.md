@@ -1,6 +1,6 @@
 # MNTRA
 
-MNTRA is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
+MNTRA is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TV Lounge, Detroit on Thu, 13 Aug 2026.
 
 MNTRA is a house and bass artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Detroit, Losangeles and Miami and 5 more. Often billed alongside TCHiLT, Justin Martin and Gettoblaster. Next up: TV Lounge, Detroit on Thu 13 Aug.
 
@@ -26,4 +26,4 @@ MNTRA is a house and bass artist based in United States of America, tracked on s
 
 TCHiLT, Justin Martin, Gettoblaster
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mntra/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mntra/)*

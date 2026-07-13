@@ -1,6 +1,6 @@
 # Field Notes DJs
 
-Field Notes DJs is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sneaky Pete's, Edinburgh on Sat, 18 Jul 2026.
+Field Notes DJs is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sneaky Pete's, Edinburgh on Sat, 18 Jul 2026.
 
 Field Notes DJs is a club and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin and Edinburgh. Often billed alongside Sound Metaphors Djs, Richii and Robert Bergman. Next up: Sneaky Pete's, Edinburgh on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Field Notes DJs is a club and house artist tracked on soundcheck, with 28 sets l
 
 Sound Metaphors Djs, Richii, Robert Bergman
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*

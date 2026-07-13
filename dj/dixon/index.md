@@ -1,14 +1,13 @@
 # Dixon
 
-Dixon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kiesgrube, Düsseldorf on Sun, 12 Jul 2026.
+Dixon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
 
-Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Kiesgrube, Dusseldorf on Sun 12 Jul.
+Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Kiesgrube | Düsseldorf |
 | Sat, 18 Jul 2026 | Knockdown Center | New York City |
 | Thu, 30 Jul 2026 | Scorpios | Mykonos |
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
@@ -18,6 +17,7 @@ Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged a
 
 ## Recently played
 
+- Kiesgrube, Düsseldorf — Sun, 12 Jul 2026
 - TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sat, 27 Jun 2026
 - Nordstern, Basel — Fri, 19 Jun 2026
@@ -25,10 +25,9 @@ Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged a
 - Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
 - Pacha Ibiza, Ibiza — Sun, 10 May 2026
 - Fabrik, Madrid — Sat, 9 May 2026
-- Jolene Downtown Miami, Miami — Sun, 3 May 2026
 
 ## Shares bills with
 
 Jimi Jules, Âme, Trikk
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

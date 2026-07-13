@@ -1,6 +1,6 @@
 # Alexis Taylor
 
-Alexis Taylor is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
+Alexis Taylor is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Signature Brew Blackhorse Road, London on Sat, 1 Aug 2026.
 
 Alexis Taylor is a house and disco artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brighton and Cork and 11 more. Often billed alongside Hot Chip, Mike Simonetti and Eclair Fifi. Next up: Signature Brew Blackhorse Road, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Alexis Taylor is a house and disco artist tracked on soundcheck, with 45 sets lo
 
 Hot Chip, Mike Simonetti, Eclair Fifi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*

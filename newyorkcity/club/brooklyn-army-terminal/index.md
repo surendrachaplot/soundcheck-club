@@ -1,6 +1,6 @@
 # Brooklyn Army Terminal
 
-Brooklyn Army Terminal is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Teksupport: Adriatique present X" on Sat, 18 Jul 2026.
+Brooklyn Army Terminal is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Teksupport: Adriatique present X" on Sat, 18 Jul 2026.
 
 Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Adriatique, Alesso, Cloonee and Joseph Capriati and 2 more. Browse upcoming dates, start times and who's playing. 58th St, Brooklyn, NY 11220.
 
@@ -20,4 +20,4 @@ Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 7 u
 
 58th St, Brooklyn, NY 11220, New York City
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*

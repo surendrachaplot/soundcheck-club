@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 15 Jul 2026.
+DJ Snake is a House and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cavo Paradiso, Mykonos on Wed, 15 Jul 2026.
 
 DJ Snake is a house and dubstep artist tracked on soundcheck, with 43 sets logged across Austin, Barcelona, Boston and Chicago and 16 more. Often billed alongside Henry Fong, Audien and Zedd. Next up: Cavo Paradiso, Mykonos on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ DJ Snake is a house and dubstep artist tracked on soundcheck, with 43 sets logge
 
 Henry Fong, Audien, Zedd
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

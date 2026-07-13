@@ -1,6 +1,6 @@
 # AGELESS
 
-AGELESS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 15 Jul 2026.
+AGELESS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 AGELESS is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 18 more. Often billed alongside Sossa, Seth Troxler and Arapu. Next up: Blue Marlin Ibiza, Ibiza on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ AGELESS is a house and techno artist tracked on soundcheck, with 111 sets logged
 
 Sossa, Seth Troxler, Arapu
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*

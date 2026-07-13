@@ -1,6 +1,6 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Regal Rooms, Austin on Fri, 17 Jul 2026.
+Detroit In Effect is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Regal Rooms, Austin on Fri, 17 Jul 2026.
 
 Detroit In Effect is a techno and electro artist based in United States of America, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Morgan, Serge and Bailey Ibbs. Next up: Regal Rooms, Austin on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Morgan, Serge, Bailey Ibbs
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

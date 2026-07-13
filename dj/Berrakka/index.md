@@ -1,6 +1,6 @@
 # Berrakka
 
-Berrakka is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
+Berrakka is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
 
 Berrakka is a techno and club artist based in United States of America, tracked on soundcheck, with 60 sets logged across Losangeles, Miami, Newyorkcity and Portland. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: Elsewhere, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Berrakka is a techno and club artist based in United States of America, tracked 
 
 v1fro, Pressure Point (US), SATURNSARii
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Berrakka/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Berrakka/)*

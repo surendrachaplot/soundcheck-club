@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Jackson is H0L0" on Tue, 14 Jul 2026.
+H0L0 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Jackson is H0L0" on Tue, 14 Jul 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Adam R, AG (1), BABEITSPURR and Bastian Bux and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

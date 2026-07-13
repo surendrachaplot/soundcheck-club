@@ -1,6 +1,6 @@
 # Ina Kacz
 
-Ina Kacz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Ina Kacz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Ina Kacz is a techno and trance artist based in France, tracked on soundcheck, with 49 sets logged across Athens, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ Nobu, Erika and Héctor Oaks. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Ina Kacz is a techno and trance artist based in France, tracked on soundcheck, w
 
 DJ Nobu, Erika, Héctor Oaks
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*

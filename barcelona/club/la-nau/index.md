@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DISCO ARABESQUO" on Sat, 18 Jul 2026.
+La Nau is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DISCO ARABESQUO" on Sat, 18 Jul 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Disco Arabesquo. Browse upcoming dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -17,4 +17,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, wi
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

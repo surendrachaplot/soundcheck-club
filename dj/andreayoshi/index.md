@@ -1,6 +1,6 @@
 # Yoshi (DE)
 
-Yoshi (DE) is a Electro and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sameheads, Berlin on Sat, 18 Jul 2026.
+Yoshi (DE) is a Electro and EBM artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sameheads, Berlin on Sat, 18 Jul 2026.
 
 Yoshi (DE) is an electro and ebm artist based in Germany, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Bucharest and Milan and 2 more. Often billed alongside Sbri, Paty Vapor and Carlos GrabStein. Next up: Sameheads, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Yoshi (DE) is an electro and ebm artist based in Germany, tracked on soundcheck,
 
 Sbri, Paty Vapor, Carlos GrabStein
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreayoshi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreayoshi/)*

@@ -1,6 +1,6 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Weekend, Berlin on Fri, 17 Jul 2026.
+Lino Fuso is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Weekend, Berlin on Fri, 17 Jul 2026.
 
 Lino Fuso is a techno and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: Weekend, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Lino Fuso is a techno and tech house artist tracked on soundcheck, with 62 sets 
 
 Cambric, Alex Sharp, ADRIANNA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*

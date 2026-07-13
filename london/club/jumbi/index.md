@@ -1,14 +1,13 @@
 # Jumbi
 
-Jumbi is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Daytime Dance: IFE OGUNJOBI" on Sun, 12 Jul 2026.
+Jumbi is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Daytime Dance: Jamz Supernova" on Sat, 18 Jul 2026.
 
-Jumbi is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including dare balogun, Derrick Carter, DJ Shannon and Glade Marie and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
+Jumbi is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including dare balogun, Derrick Carter, DJ Shannon and Glade Marie and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Daytime Dance: IFE OGUNJOBI |  |
 | Sat, 18 Jul 2026 | Daytime Dance: Jamz Supernova | Jamz Supernova |
 | Sat, 18 Jul 2026 | Moving Parts: Felix CW, LORA S, S.I + more | LORA S, Tibor |
 | Sun, 19 Jul 2026 | Daytime Dance: DJ Shannon  | DJ Shannon |
@@ -21,4 +20,4 @@ Jumbi is a music venue in London listed on soundcheck. 8 upcoming nights, with l
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

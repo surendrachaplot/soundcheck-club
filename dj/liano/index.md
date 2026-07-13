@@ -1,6 +1,6 @@
 # Liano
 
-Liano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Jupiter Disco, New York City on Thu, 16 Jul 2026.
+Liano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Jupiter Disco, New York City on Thu, 16 Jul 2026.
 
 Liano is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco. Often billed alongside Avi Loud, Daddy Kev and Oak City Slums. Next up: Jupiter Disco, Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Liano is a techno and house artist based in United States of America, tracked on
 
 Avi Loud, Daddy Kev, Oak City Slums
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liano/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liano/)*

@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sweetnighter Summer Party: Danger Boys (Whodamanny & Milord) & SweetNightJoe" on Fri, 17 Jul 2026.
+Grow is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sweetnighter Summer Party: Danger Boys (Whodamanny & Milord) & SweetNightJoe" on Fri, 17 Jul 2026.
 
 Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alfie Panaiotis, Apiento, Aqwea and ARLYSS and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -23,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with l
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

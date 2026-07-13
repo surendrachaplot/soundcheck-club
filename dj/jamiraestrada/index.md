@@ -1,6 +1,6 @@
 # Jamira Estrada
 
-Jamira Estrada is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bar Oriente, Mexico City on Fri, 17 Jul 2026.
+Jamira Estrada is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bar Oriente, Mexico City on Fri, 17 Jul 2026.
 
 Jamira Estrada is a club and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Basel, Berlin and Brussels and 9 more. Often billed alongside fka phaedra, Manuel Fischer and Alex Dallas. Next up: Bar Oriente, Mexicocity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jamira Estrada is a club and house artist tracked on soundcheck, with 62 sets lo
 
 fka phaedra, Manuel Fischer, Alex Dallas
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*

@@ -1,6 +1,6 @@
 # berlioz
 
-berlioz is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
+berlioz is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
 
 berlioz is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Brussels and Dublin and 10 more. Often billed alongside Anetha, Aroop Roy and Ben Böhmer. Next up: Finsbury Park, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ berlioz is a house and jazz artist based in United Kingdom, tracked on soundchec
 
 Anetha, Aroop Roy, Ben Böhmer
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlioz/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/berlioz/)*

@@ -1,6 +1,6 @@
 # Ramyen
 
-Ramyen is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
+Ramyen is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
 
 Ramyen is a deep house and tech house artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Budapest and Ibiza and 9 more. Often billed alongside Notre Dame, Saraga and Shimza. Next up: Hï Ibiza, Ibiza on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ Ramyen is a deep house and tech house artist based in France, tracked on soundch
 
 Notre Dame, Saraga, Shimza
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*

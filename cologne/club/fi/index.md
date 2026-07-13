@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "fi x NUOBN x Moodfamily" on Fri, 17 Jul 2026.
+fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "fi x NUOBN x Moodfamily" on Fri, 17 Jul 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Chlär, Diskohengst, Etane and Frau Beji and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -19,4 +19,4 @@ fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

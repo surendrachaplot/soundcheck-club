@@ -1,6 +1,6 @@
 # D Double E
 
-D Double E is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Magazine Open–Air, London on Sun, 16 Aug 2026.
+D Double E is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Magazine Open–Air, London on Sun, 16 Aug 2026.
 
 D Double E is a drum & bass and garage artist tracked on soundcheck, with 30 sets logged across Brighton, Bristol, Cardiff and Dublin and 8 more. Often billed alongside Sir Spyro, P Money and Capo Lee. Next up: Magazine Open–Air, London on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ D Double E is a drum & bass and garage artist tracked on soundcheck, with 30 set
 
 Sir Spyro, P Money, Capo Lee
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddoublee/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddoublee/)*

@@ -1,6 +1,6 @@
 # Flug
 
-Flug is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gare Porto, Porto on Fri, 17 Jul 2026.
+Flug is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gare Porto, Porto on Fri, 17 Jul 2026.
 
 Flug is a techno and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Linkan Ray, Coyu and Lino Fuso. Next up: Gare Porto, Porto on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Flug is a techno and tech house artist tracked on soundcheck, with 76 sets logge
 
 Linkan Ray, Coyu, Lino Fuso
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flug/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flug/)*

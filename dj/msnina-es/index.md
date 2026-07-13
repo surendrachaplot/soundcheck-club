@@ -1,6 +1,6 @@
 # Ms Nina (ES)
 
-Ms Nina (ES) is a Reggaeton and Neo Perreo artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Ms Nina (ES) is a Reggaeton and Neo Perreo artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Ms Nina (ES) is a reggaeton and neo perreo artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Ana Luisa, Linapary and ARMANA KHAN. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Ms Nina (ES) is a reggaeton and neo perreo artist tracked on soundcheck, with 26
 
 Ana Luisa, Linapary, ARMANA KHAN
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/msnina-es/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/msnina-es/)*

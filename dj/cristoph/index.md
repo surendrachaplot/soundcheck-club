@@ -1,6 +1,6 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Barbary, Philadelphia on Fri, 17 Jul 2026.
+Cristoph is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Barbary, Philadelphia on Fri, 17 Jul 2026.
 
 Cristoph is a techno and progressive house artist tracked on soundcheck, with 138 sets logged across Auckland, Austin, Bali and Berlin and 33 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: The Barbary, Philadelphia on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Cristoph is a techno and progressive house artist tracked on soundcheck, with 13
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

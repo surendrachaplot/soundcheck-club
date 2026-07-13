@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Night Tales, London on Fri, 7 Aug 2026.
+WOLTERS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Night Tales, London on Fri, 7 Aug 2026.
 
 WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 46 sets logged across Antwerp, Auckland, Dublin and Glasgow and 8 more. Often billed alongside Bella Claxton, Osmosis Jones and Prizefight. Next up: Night Tales, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Bella Claxton, Osmosis Jones, Prizefight
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

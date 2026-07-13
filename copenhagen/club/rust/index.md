@@ -1,6 +1,6 @@
 # RUST
 
-RUST is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "MISSIO (US) // RUST" on Sun, 9 Aug 2026.
+RUST is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MISSIO (US) // RUST" on Sun, 9 Aug 2026.
 
 RUST is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including Takuya Nakamura. Browse upcoming dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
 
@@ -16,4 +16,4 @@ RUST is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, wit
 
 Guldbergsgade 8, 2200 København N, Copenhagen
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*

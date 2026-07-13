@@ -1,14 +1,13 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Silverworks Island, London on Sun, 12 Jul 2026.
+Faster Horses is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
-Faster Horses is a techno and trance artist tracked on soundcheck, with 233 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Leaha, Azyr and Kander. Next up: Silverworks Island, London on Sun 12 Jul.
+Faster Horses is a techno and trance artist tracked on soundcheck, with 233 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 52 more. Often billed alongside Leaha, Azyr and Kander. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Silverworks Island | London |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Sat, 8 Aug 2026 | KALT | Strasbourg |
 | Sun, 9 Aug 2026 | Thuishaven | Amsterdam |
@@ -23,6 +22,7 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 233 sets
 
 ## Recently played
 
+- Silverworks Island, London — Sun, 12 Jul 2026
 - Boomerang Beach, The Hague — Sat, 11 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Eden, Ibiza — Wed, 1 Jul 2026
@@ -30,10 +30,9 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 233 sets
 - The Cause, London — Sat, 20 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
-- TBA - Refshaleøen, Copenhagen, Copenhagen — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Leaha, Azyr, Kander
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

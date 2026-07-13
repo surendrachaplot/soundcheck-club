@@ -1,6 +1,6 @@
 # Cardiff Lounge
 
-Cardiff Lounge is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Jus Dance" on Fri, 17 Jul 2026.
+Cardiff Lounge is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Jus Dance" on Fri, 17 Jul 2026.
 
 Cardiff Lounge is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including Mr. V. Browse upcoming dates, start times and who's playing. 260 E Campbell Ave, Campbell, CA 95008, United States.
 
@@ -18,4 +18,4 @@ Cardiff Lounge is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming
 
 260 E Campbell Ave, Campbell, CA 95008, United States, San Francisco/Oakland
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cardiff-lounge/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/cardiff-lounge/)*

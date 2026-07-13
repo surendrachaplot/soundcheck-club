@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Dimeshift with Truant, Sharnie, Mod Sens & Axle" on Fri, 17 Jul 2026.
+The Love Inn is a music venue in Bristol with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Dimeshift with Truant, Sharnie, Mod Sens & Axle" on Fri, 17 Jul 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 11 upcoming nights, with line-ups including Axle, Charlie Dark, CHIDA and Cowper and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -23,4 +23,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 11 upcoming night
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CSD Bambule (House & Techno, 80s, 90s, Pop, Hip Hop)" on Sat, 25 Jul 2026.
+Cassiopeia is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "CSD Bambule (House & Techno, 80s, 90s, Pop, Hip Hop)" on Sat, 25 Jul 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including diladï and Emma Keks. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

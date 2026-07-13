@@ -1,6 +1,6 @@
 # Katiusha
 
-Katiusha is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
+Katiusha is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 29 Jul 2026.
 
 Katiusha is a techno and experimental artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 7 more. Often billed alongside Chris Farrell, DJ Carlita and Dubrunner. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Katiusha is a techno and experimental artist tracked on soundcheck, with 42 sets
 
 Chris Farrell, DJ Carlita, Dubrunner
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*

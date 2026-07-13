@@ -1,6 +1,6 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+TOCCORORO is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 34 more. Often billed alongside JASSS, Manuka Honey and SALOME. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 124 sets 
 
 JASSS, Manuka Honey, SALOME
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

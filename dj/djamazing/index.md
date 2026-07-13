@@ -1,6 +1,6 @@
 # DJ AMAZING
 
-DJ AMAZING is a Hip-Hop and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
+DJ AMAZING is a Hip-Hop and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Terrrazza, Barcelona on Fri, 14 Aug 2026.
 
 DJ AMAZING is a hip-hop and afrobeat artist tracked on soundcheck, with 103 sets logged across Barcelona and Lisbon. Often billed alongside Denoir, Hector Hope and JAEL. Next up: La Terrrazza, Barcelona on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ DJ AMAZING is a hip-hop and afrobeat artist tracked on soundcheck, with 103 sets
 
 Denoir, Hector Hope, JAEL
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djamazing/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djamazing/)*

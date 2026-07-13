@@ -1,14 +1,13 @@
 # DJ Shannon
 
-DJ Shannon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OXI, Berlin on Sun, 12 Jul 2026.
+DJ Shannon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Crate Brewery, London on Fri, 17 Jul 2026.
 
-DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: OXI, Berlin on Sun 12 Jul.
+DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: Crate Brewery, London on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | OXI | Berlin |
 | Fri, 17 Jul 2026 | Crate Brewery | London |
 | Sat, 18 Jul 2026 | The Mash House | Edinburgh |
 | Sun, 19 Jul 2026 | Jumbi | London |
@@ -18,6 +17,7 @@ DJ Shannon is a house and techno artist based in United States of America, track
 
 ## Recently played
 
+- OXI, Berlin — Sun, 12 Jul 2026
 - Paloma, Berlin — Sat, 11 Jul 2026
 - American Legion Marsh Post #442, Boston — Sat, 27 Jun 2026
 - Good Room, New York City — Fri, 26 Jun 2026
@@ -25,10 +25,9 @@ DJ Shannon is a house and techno artist based in United States of America, track
 - Jumbi, London — Sat, 16 May 2026
 - House of Yes, New York City — Fri, 8 May 2026
 - Nowadays, New York City — Fri, 1 May 2026
-- Good Room, New York City — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Niyah West, HONEY B, Kandylion
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*

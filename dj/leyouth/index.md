@@ -1,6 +1,6 @@
 # Le Youth
 
-Le Youth is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Harriet's Rooftop Nashville, Nashville on Fri, 7 Aug 2026.
+Le Youth is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Harriet's Rooftop Nashville, Nashville on Fri, 7 Aug 2026.
 
 Le Youth is a deep house and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Brisbane and Melbourne and 14 more. Often billed alongside Sultan + Shepard, EMBRZ (IE) and Nils Hoffmann. Next up: Harriet's Rooftop Nashville, Nashville on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Le Youth is a deep house and house artist based in United States of America, tra
 
 Sultan + Shepard, EMBRZ (IE), Nils Hoffmann
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*

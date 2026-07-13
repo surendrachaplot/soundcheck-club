@@ -1,6 +1,6 @@
 # Amsterdamse Bos
 
-Amsterdamse Bos is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Dekmantel Festival 2026" on Wed, 29 Jul 2026.
+Amsterdamse Bos is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Dekmantel Festival 2026" on Wed, 29 Jul 2026.
 
 Amsterdamse Bos is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Actress, A Guy Called Gerald, Alex Wilcox and Al Wootton and 2 more. Browse upcoming dates, start times and who's playing. Nieuwe Meerlaan 3; 1182 Amstelveen; Amsterdam; Netherlands.
 
@@ -18,4 +18,4 @@ Amsterdamse Bos is a music venue in Amsterdam listed on soundcheck. 5 upcoming n
 
 Nieuwe Meerlaan 3; 1182 Amstelveen; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdamse-bos/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdamse-bos/)*

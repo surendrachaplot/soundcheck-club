@@ -1,6 +1,6 @@
 # Sweater
 
-Sweater is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Liberty Point, Philadelphia on Sun, 19 Jul 2026.
+Sweater is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Liberty Point, Philadelphia on Sun, 19 Jul 2026.
 
 Sweater is a house and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Boston, Losangeles, Newyorkcity and Philadelphia and 2 more. Often billed alongside John Raffaele, DJ Dre and Keen. Next up: Liberty Point, Philadelphia on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Sweater is a house and techno artist based in United States of America, tracked 
 
 John Raffaele, DJ Dre, Keen
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*

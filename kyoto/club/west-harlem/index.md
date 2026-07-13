@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "WH Staff&Friends" on Sun, 12 Jul 2026.
+West Harlem is a music venue in Kyoto with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "podo" on Mon, 13 Jul 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 8 upcoming nights, with line-ups including BIG MATSUMURA, Chanaz, Dani Savant and DJ Master Kohta and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 7 upcoming nights, with line-ups including BIG MATSUMURA, Chanaz, Dani Savant and DJ Master Kohta and 2 more. Browse upcoming dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | WH Staff&Friends |  |
 | Mon, 13 Jul 2026 | podo | ish (JP), nap(JP) |
 | Wed, 15 Jul 2026 | Giant Steps | Lomax, Ryogo, kitapon |
 | Sat, 18 Jul 2026 | Light In Weight feat. Keihin | Keihin, Naco (2), Ryogo, ykah |
@@ -21,4 +20,4 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 8 upcoming nights, w
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

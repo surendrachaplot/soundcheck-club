@@ -1,6 +1,6 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 30 Jul 2026.
+Cristobal Pesce is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 30 Jul 2026.
 
 Cristobal Pesce is a techno and trance artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 22 more. Often billed alongside 999999999, Ornella and CESAR ALMENA. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Cristobal Pesce is a techno and trance artist tracked on soundcheck, with 63 set
 
 999999999, Ornella, CESAR ALMENA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*

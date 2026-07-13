@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hive Club, Zurich on Sat, 18 Jul 2026.
+Volkoder is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hive Club, Zurich on Sat, 18 Jul 2026.
 
 Volkoder is a house and tech house artist tracked on soundcheck, with 13 sets logged across Budapest, Buenosaires, Ibiza and Saopaulo and 2 more. Often billed alongside Miss Monique, AJ Christou and AMÉMÉ. Next up: Hive Club, Zurich on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Volkoder is a house and tech house artist tracked on soundcheck, with 13 sets lo
 
 Miss Monique, AJ Christou, AMÉMÉ
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

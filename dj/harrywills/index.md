@@ -1,6 +1,6 @@
 # Harry Wills
 
-Harry Wills is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Distrikt, Leeds on Sat, 18 Jul 2026.
+Harry Wills is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Distrikt, Leeds on Sat, 18 Jul 2026.
 
 Harry Wills is a house and garage artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Berlin, Birmingham, Edinburgh and Glasgow and 9 more. Often billed alongside Alec Falconer, Rob Amboule and Phone Traxxx. Next up: Distrikt, Leeds on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Harry Wills is a house and garage artist based in United Kingdom, tracked on sou
 
 Alec Falconer, Rob Amboule, Phone Traxxx
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrywills/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrywills/)*

@@ -1,6 +1,6 @@
 # Adidas Sports Base
 
-Adidas Sports Base is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "adidas & Safelight Watch Party (World Cup Final)" on Sun, 19 Jul 2026.
+Adidas Sports Base is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "adidas & Safelight Watch Party (World Cup Final)" on Sun, 19 Jul 2026.
 
 Adidas Sports Base is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Schleusenufer 4, 10997 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Adidas Sports Base is a music venue in Berlin listed on soundcheck. 1 upcoming n
 
 Schleusenufer 4, 10997 Berlin, Germany, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/adidas-sports-base/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/adidas-sports-base/)*

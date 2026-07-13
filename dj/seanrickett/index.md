@@ -1,6 +1,6 @@
 # Sean Rickett
 
-Sean Rickett is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 2 Aug 2026.
+Sean Rickett is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 2 Aug 2026.
 
 Sean Rickett is a techno and house artist based in Malta, tracked on soundcheck, with 25 sets logged across Malta. Often billed alongside Acidulant, Manthrax and Damz. Next up: The Rooftop at Gianpula Village, Malta on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Sean Rickett is a techno and house artist based in Malta, tracked on soundcheck,
 
 Acidulant, Manthrax, Damz
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrickett/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seanrickett/)*

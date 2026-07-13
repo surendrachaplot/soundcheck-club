@@ -1,6 +1,6 @@
 # Kudeki
 
-Kudeki is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
+Kudeki is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at OHM, Berlin on Thu, 16 Jul 2026.
 
 Kudeki is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Berlin, Detroit, Leipzig and Losangeles and 5 more. Often billed alongside Torsion, Fawks and monosym. Next up: OHM, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Kudeki is a techno and house artist based in United States of America, tracked o
 
 Torsion, Fawks, monosym
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*

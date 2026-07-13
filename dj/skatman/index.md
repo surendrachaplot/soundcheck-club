@@ -1,6 +1,6 @@
 # Skatman
 
-Skatman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
+Skatman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 1 Aug 2026.
 
 Skatman is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Ede, JAMIIE and Tal Fussman. Next up: Studio Club Malaga, Malaga on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Skatman is a house and techno artist tracked on soundcheck, with 60 sets logged 
 
 Ede, JAMIIE, Tal Fussman
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skatman/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skatman/)*

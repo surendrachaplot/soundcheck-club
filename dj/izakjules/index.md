@@ -1,6 +1,6 @@
 # Izak Jules
 
-Izak Jules is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
+Izak Jules is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
 
 Izak Jules is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Leeds, Rotterdam and Turin. Often billed alongside Daniele Temperilli, Julien Fuentes and LORI (NL). Next up: TBA, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Izak Jules is a house and tech house artist tracked on soundcheck, with 34 sets 
 
 Daniele Temperilli, Julien Fuentes, LORI (NL)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*

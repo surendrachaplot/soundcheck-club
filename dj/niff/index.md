@@ -1,6 +1,6 @@
 # Niff
 
-Niff is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sameheads, Berlin on Sat, 18 Jul 2026.
+Niff is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sameheads, Berlin on Sat, 18 Jul 2026.
 
 Niff is an electro and techno artist based in Italy, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Brasi, Domenico Rosa and GNMR. Next up: Sameheads, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Niff is an electro and techno artist based in Italy, tracked on soundcheck, with
 
 Brasi, Domenico Rosa, GNMR
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niff/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niff/)*

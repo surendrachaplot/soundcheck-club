@@ -1,6 +1,6 @@
 # Markus Schulz
 
-Markus Schulz is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Avalon Hollywood, Los Angeles on Sat, 18 Jul 2026.
+Markus Schulz is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Avalon Hollywood, Los Angeles on Sat, 18 Jul 2026.
 
 Markus Schulz is a trance and progressive house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Bangkok and Bristol and 24 more. Often billed alongside Amy Wiles, Billy Gillies and Ferry Corsten. Next up: Avalon Hollywood, Losangeles on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Markus Schulz is a trance and progressive house artist tracked on soundcheck, wi
 
 Amy Wiles, Billy Gillies, Ferry Corsten
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*

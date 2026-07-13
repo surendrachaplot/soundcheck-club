@@ -1,6 +1,6 @@
 # not even noticed
 
-not even noticed is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paloma, Berlin on Sat, 25 Jul 2026.
+not even noticed is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Paloma, Berlin on Sat, 25 Jul 2026.
 
 not even noticed is a house and breakbeat artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 12 more. Often billed alongside GERKE, Will A and Jannis Brinkmann. Next up: Paloma, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ not even noticed is a house and breakbeat artist based in Germany, tracked on so
 
 GERKE, Will A, Jannis Brinkmann
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*

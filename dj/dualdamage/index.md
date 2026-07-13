@@ -1,6 +1,6 @@
 # Dual Damage
 
-Dual Damage is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mia Mao, Paris on Sat, 18 Jul 2026.
+Dual Damage is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Sat, 18 Jul 2026.
 
 Dual Damage is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Antwerp, Cologne, Dusseldorf and Frankfurt and 12 more. Often billed alongside Angerfist, Paul Elstak and Coone. Next up: Mia Mao, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Dual Damage is a hardcore and techno artist based in Netherlands, tracked on sou
 
 Angerfist, Paul Elstak, Coone
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*

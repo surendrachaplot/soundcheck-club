@@ -1,6 +1,6 @@
 # La Clairière
 
-La Clairière is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "La Clairière: DISCO LINES, Alastair Lane, VADANELLA" on Mon, 13 Jul 2026.
+La Clairière is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "La Clairière: DISCO LINES, Alastair Lane, VADANELLA" on Mon, 13 Jul 2026.
 
 La Clairière is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Agoria, Alastair Lane, ARKADYAN and Baron and 2 more. Browse upcoming dates, start times and who's playing. 1, carrefour de Longchamp, 75116 Paris, France.
 
@@ -23,4 +23,4 @@ La Clairière is a music venue in Paris listed on soundcheck. 14 upcoming nights
 
 1, carrefour de Longchamp, 75116 Paris, France, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*

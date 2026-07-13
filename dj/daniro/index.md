@@ -1,6 +1,6 @@
 # Daniro
 
-Daniro is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Chocolate Factory, New York City on Fri, 17 Jul 2026.
+Daniro is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Chocolate Factory, New York City on Fri, 17 Jul 2026.
 
 Daniro is a club and techno artist based in United States of America, tracked on soundcheck, with 90 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: The Chocolate Factory, Newyorkcity on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Daniro is a club and techno artist based in United States of America, tracked on
 
 Bodegaparty, PINKYY, shekdash
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniro/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daniro/)*

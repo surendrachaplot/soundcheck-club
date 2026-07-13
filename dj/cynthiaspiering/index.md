@@ -1,6 +1,6 @@
 # Cynthia Spiering
 
-Cynthia Spiering is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
+Cynthia Spiering is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
 Cynthia Spiering is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside DIØN, KARAH and Aphøtic. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Cynthia Spiering is a techno and house artist tracked on soundcheck, with 107 se
 
 DIØN, KARAH, Aphøtic
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiaspiering/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiaspiering/)*

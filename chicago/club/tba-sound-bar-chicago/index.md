@@ -1,6 +1,6 @@
 # TBA - Sound Bar, Chicago
 
-TBA - Sound Bar, Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "BRUT Pink Pusssy RAVE" on Fri, 7 Aug 2026.
+TBA - Sound Bar, Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "BRUT Pink Pusssy RAVE" on Fri, 7 Aug 2026.
 
 TBA - Sound Bar, Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sound Bar, Chicago is a music venue in Chicago listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | BRUT Pink Pusssy RAVE |  |
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-sound-bar-chicago/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-sound-bar-chicago/)*

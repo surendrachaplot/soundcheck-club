@@ -1,6 +1,6 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gabriela, New York City on Thu, 30 Jul 2026.
+Andi is a EBM and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gabriela, New York City on Thu, 30 Jul 2026.
 
 Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logged across Austin, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Gabriela, Newyorkcity on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Andi is an ebm and italo disco artist tracked on soundcheck, with 207 sets logge
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

@@ -1,6 +1,6 @@
 # Hundred Years Gallery
 
-Hundred Years Gallery is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Richard Bolhuis" on Sat, 19 Sept 2026.
+Hundred Years Gallery is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Richard Bolhuis" on Sat, 19 Sept 2026.
 
 Hundred Years Gallery is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 13 Pearson St, London E2 8JD, United Kingdom.
 
@@ -14,4 +14,4 @@ Hundred Years Gallery is a music venue in London listed on soundcheck. 1 upcomin
 
 13 Pearson St, London E2 8JD, United Kingdom, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hundred-years-gallery/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hundred-years-gallery/)*

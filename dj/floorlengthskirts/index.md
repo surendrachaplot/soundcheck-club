@@ -1,6 +1,6 @@
 # floor length skirts
 
-floor length skirts is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+floor length skirts is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 floor length skirts is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Leeds, London and Manchester and 4 more. Often billed alongside Off Supply, Inner Totality and babyschön. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ floor length skirts is a house and balearic artist based in United Kingdom, trac
 
 Off Supply, Inner Totality, babyschön
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*

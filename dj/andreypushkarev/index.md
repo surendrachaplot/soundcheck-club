@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Flash, Washington DC on Sun, 16 Aug 2026.
+Andrey Pushkarev is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flash, Washington DC on Sun, 16 Aug 2026.
 
 Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Flash, Washingtondc on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 83 se
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

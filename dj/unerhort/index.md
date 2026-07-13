@@ -1,6 +1,6 @@
 # Unerhört
 
-Unerhört is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Prisma, Berlin on Thu, 16 Jul 2026.
+Unerhört is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Prisma, Berlin on Thu, 16 Jul 2026.
 
 Unerhört is a techno and acid artist tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside DJ Jordan, Chaos Techno.Berlin and Ida Scheppert. Next up: Prisma, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Unerhört is a techno and acid artist tracked on soundcheck, with 31 sets logged
 
 DJ Jordan, Chaos Techno.Berlin, Ida Scheppert
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unerhort/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unerhort/)*

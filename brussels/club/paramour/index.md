@@ -1,6 +1,6 @@
 # Paramour
 
-Paramour is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Paramour X Closurades" on Sat, 18 Jul 2026.
+Paramour is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Paramour X Closurades" on Sat, 18 Jul 2026.
 
 Paramour is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 104 Rue d'Arlon, 1000 Buxelles.
 
@@ -14,4 +14,4 @@ Paramour is a music venue in Brussels listed on soundcheck. 1 upcoming night. Br
 
 104 Rue d'Arlon, 1000 Buxelles, Brussels
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*

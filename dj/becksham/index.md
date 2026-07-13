@@ -1,6 +1,6 @@
 # BECKSHAM
 
-BECKSHAM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 30 Jul 2026.
+BECKSHAM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bulbul Berlin, Berlin on Thu, 30 Jul 2026.
 
 BECKSHAM is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Frankfurt. Often billed alongside Max Wide, Don Andres and JANSN. Next up: Bulbul Berlin, Berlin on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ BECKSHAM is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Max Wide, Don Andres, JANSN
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/becksham/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/becksham/)*

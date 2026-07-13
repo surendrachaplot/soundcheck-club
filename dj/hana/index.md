@@ -1,6 +1,6 @@
 # Hana
 
-Hana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
+Hana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
 
 Hana is a techno and house artist tracked on soundcheck, with 28 sets logged across Ibiza, London, Melbourne and Miami and 11 more. Often billed alongside Marsh, Romain Garcia and CRi. Next up: Old Royal Naval College, London on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Hana is a techno and house artist tracked on soundcheck, with 28 sets logged acr
 
 Marsh, Romain Garcia, CRi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hana/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hana/)*

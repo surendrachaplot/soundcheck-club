@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CLOSER presents THERMAL with Beau Didier (LA Debut)" on Sat, 18 Jul 2026.
+TBA - DTLA is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "CLOSER presents THERMAL with Beau Didier (LA Debut)" on Sat, 18 Jul 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming nights, with line-ups including Alxander Ivey, Beau Didier, deesco and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 8 upcoming night
 | Fri, 14 Aug 2026 | MARBLE x Texture Summit x Sarah Tonin: Get Milked with DJ Perception  | DJ Perception, Dylan Schwartz, Highkin', Louiv |
 | Sat, 22 Aug 2026 | CVNTROL FREAK | Alxander Ivey, deesco |
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

@@ -1,6 +1,6 @@
 # B From E
 
-B From E is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Culture Box, Copenhagen on Fri, 17 Jul 2026.
+B From E is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Culture Box, Copenhagen on Fri, 17 Jul 2026.
 
 B From E is a house and techno artist based in Denmark, tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Copenhagen and Lyon and 1 more. Often billed alongside Harrison Heat, Crowd Control and Baltza. Next up: Culture Box, Copenhagen on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ B From E is a house and techno artist based in Denmark, tracked on soundcheck, w
 
 Harrison Heat, Crowd Control, Baltza
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*

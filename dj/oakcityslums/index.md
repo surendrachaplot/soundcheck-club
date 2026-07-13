@@ -1,6 +1,6 @@
 # Oak City Slums
 
-Oak City Slums is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
+Oak City Slums is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Homage Brewing, Los Angeles on Fri, 24 Jul 2026.
 
 Oak City Slums is a club and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 2 more. Often billed alongside Daddy Kev, Avi Loud and Liano. Next up: Homage Brewing, Losangeles on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Oak City Slums is a club and techno artist based in United States of America, tr
 
 Daddy Kev, Avi Loud, Liano
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oakcityslums/)*

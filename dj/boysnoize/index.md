@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Boys Noize is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Boys Noize is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Austin, Barcelona and Berlin and 45 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Boys Noize is a techno and house artist tracked on soundcheck, with 144 sets log
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

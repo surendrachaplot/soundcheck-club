@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Colorado Charlie, The Hague on Sun, 19 Jul 2026.
+Jamback is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Colorado Charlie, The Hague on Sun, 19 Jul 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Colorado Charlie, Thehague on Sun 19 Jul.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist tracked on soundcheck, with 172 sets lo
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

@@ -1,6 +1,6 @@
 # Dynoman
 
-Dynoman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Le Bain, New York City on Fri, 31 Jul 2026.
+Dynoman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Le Bain, New York City on Fri, 31 Jul 2026.
 
 Dynoman is a techno and club artist tracked on soundcheck, with 57 sets logged across Newyorkcity and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Le Bain, Newyorkcity on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Dynoman is a techno and club artist tracked on soundcheck, with 57 sets logged a
 
 Zara Dekho, Arianna Danae, JIALING
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dynoman/)*

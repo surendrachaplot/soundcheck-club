@@ -1,6 +1,6 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 29 Jul 2026.
+Steve Aoki is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Steve Aoki is a house and electro artist tracked on soundcheck, with 60 sets logged across Austin, Barcelona, Boston and Budapest and 20 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Anna Tur. Next up: Ushuaïa Ibiza, Ibiza on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Steve Aoki is a house and electro artist tracked on soundcheck, with 60 sets log
 
 Dimitri Vegas & Like Mike, Alesso, Anna Tur
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

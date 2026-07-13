@@ -1,6 +1,6 @@
 # Hammer
 
-Hammer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Bongo Club, Edinburgh on Sat, 18 Jul 2026.
+Hammer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Bongo Club, Edinburgh on Sat, 18 Jul 2026.
 
 Hammer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Barcelona, Belfast, Boston and Brisbane and 15 more. Often billed alongside Bicep, CAOIMHE and Colin Perkins. Next up: The Bongo Club, Edinburgh on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Hammer is a house and techno artist based in United Kingdom, tracked on soundche
 
 Bicep, CAOIMHE, Colin Perkins
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*

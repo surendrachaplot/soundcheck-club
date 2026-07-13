@@ -1,6 +1,6 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sala UNI Madrid, Madrid on Fri, 17 Jul 2026.
+Guy J is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sala UNI Madrid, Madrid on Fri, 17 Jul 2026.
 
 Guy J is a progressive house and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Sala UNI Madrid, Madrid on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Guy J is a progressive house and house artist tracked on soundcheck, with 120 se
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

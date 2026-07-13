@@ -1,14 +1,13 @@
 # Beltran
 
-Beltran is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 1756 Naud St., Los Angeles on Sun, 12 Jul 2026.
+Beltran is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Badewiese Naglikon, Zurich on Sat, 18 Jul 2026.
 
-Beltran is a tech house and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, Prospa and ChaseWest. Next up: 1756 Naud St., Losangeles on Sun 12 Jul.
+Beltran is a tech house and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, Prospa and ChaseWest. Next up: Badewiese Naglikon, Zurich on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | 1756 Naud St. | Los Angeles |
 | Sat, 18 Jul 2026 | Badewiese Naglikon | Zurich |
 | Mon, 27 Jul 2026 | DC-10 | Ibiza |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
@@ -17,6 +16,7 @@ Beltran is a tech house and house artist based in United States of America, trac
 
 ## Recently played
 
+- 1756 Naud St., Los Angeles — Sun, 12 Jul 2026
 - 1756 Naud St., Los Angeles — Sat, 11 Jul 2026
 - The Concourse Project, Austin — Fri, 10 Jul 2026
 - DC-10, Ibiza — Mon, 6 Jul 2026
@@ -24,10 +24,9 @@ Beltran is a tech house and house artist based in United States of America, trac
 - Terreiro das Missas, Lisbon — Sat, 27 Jun 2026
 - TBA - Parque do Avioso, Porto — Sat, 27 Jun 2026
 - Sunset Park Rooftop, New York City — Sun, 21 Jun 2026
-- Brooklyn Storehouse, New York City — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Ben Sterling, Prospa, ChaseWest
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

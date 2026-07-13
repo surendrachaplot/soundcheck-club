@@ -1,6 +1,6 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cova Santa, Ibiza on Mon, 13 Jul 2026.
+Robbie Doherty is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cova Santa, Ibiza on Mon, 13 Jul 2026.
 
 Robbie Doherty is a house and tech house artist tracked on soundcheck, with 151 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 34 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Cova Santa, Ibiza on Mon 13 Jul.
 
@@ -36,4 +36,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 151 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

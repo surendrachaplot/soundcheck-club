@@ -1,6 +1,6 @@
 # HWK Garden / Terrace
 
-HWK Garden / Terrace is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "WHAT.THE.EL! Day Party Birthday Special" on Sat, 29 Aug 2026.
+HWK Garden / Terrace is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "WHAT.THE.EL! Day Party Birthday Special" on Sat, 29 Aug 2026.
 
 HWK Garden / Terrace is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including CAMZ, El Cassar, Leon Michael and Mas Fuego and 2 more. Browse upcoming dates, start times and who's playing. 29 White Post Lane, London, E9 5EN.
 
@@ -15,4 +15,4 @@ HWK Garden / Terrace is a music venue in London listed on soundcheck. 2 upcoming
 
 29 White Post Lane, London, E9 5EN, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk-garden-terrace/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk-garden-terrace/)*

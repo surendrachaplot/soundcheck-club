@@ -1,6 +1,6 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Nowadays, New York City on Sat, 18 Jul 2026.
+DJ Plead is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Nowadays, New York City on Sat, 18 Jul 2026.
 
 DJ Plead is a techno and bass artist tracked on soundcheck, with 119 sets logged across Amsterdam, Basel, Berlin and Bristol and 29 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Nowadays, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 119 sets logged
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

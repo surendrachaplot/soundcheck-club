@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 54 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Jon B" on Tue, 14 Jul 2026.
+The Jazz Cafe is a music venue in London with 54 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Jon B" on Tue, 14 Jul 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 54 upcoming nights, with line-ups including Adam F, Ata Kak, Carl Craig and Cezaire and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 54 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

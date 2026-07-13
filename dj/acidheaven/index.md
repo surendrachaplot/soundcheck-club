@@ -1,6 +1,6 @@
 # acidheaven
 
-acidheaven is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+acidheaven is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
 acidheaven is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 5 more. Often billed alongside ISAbella, Chico Blanco and Albal. Next up: OXI, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ acidheaven is a house and techno artist tracked on soundcheck, with 78 sets logg
 
 ISAbella, Chico Blanco, Albal
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*

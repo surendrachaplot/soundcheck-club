@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
+Tini Gessler is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
 
 Tini Gessler is a tech house and house artist tracked on soundcheck, with 126 sets logged across Bali, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: Pacha New York, Newyorkcity on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 126 se
 
 Ilario Alicante, Andrea Oliva, Adam Beyer
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

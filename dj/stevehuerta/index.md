@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
+Huerta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
 
 Huerta is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Huerta is a house and techno artist tracked on soundcheck, with 113 sets logged 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

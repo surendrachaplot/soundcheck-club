@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Superior Ingredients, New York City on Fri, 17 Jul 2026.
+Moodymann is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Superior Ingredients, New York City on Fri, 17 Jul 2026.
 
 Moodymann is a house and techno artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Superior Ingredients, Newyorkcity on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Moodymann is a house and techno artist tracked on soundcheck, with 149 sets logg
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

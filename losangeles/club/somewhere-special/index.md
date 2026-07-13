@@ -1,18 +1,17 @@
 # Somewhere Special
 
-Somewhere Special is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "VERTICAL" on Sun, 12 Jul 2026.
+Somewhere Special is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Rooftop Noise presents: DELACOUR, goodie bags and NoriKuest" on Sat, 18 Jul 2026.
 
-Somewhere Special is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including DARIUS, DELACOUR, Dirt Vibes and goodie bags. Browse upcoming dates, start times and who's playing. 929 S Broadway, Los Angeles, CA 90015.
+Somewhere Special is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including DELACOUR and goodie bags. Browse upcoming dates, start times and who's playing. 929 S Broadway, Los Angeles, CA 90015.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | VERTICAL | DARIUS, Dirt Vibes |
 | Sat, 18 Jul 2026 | Rooftop Noise presents: DELACOUR, goodie bags and NoriKuest | DELACOUR, goodie bags |
 
 ## Address
 
 929 S Broadway, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/somewhere-special/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/somewhere-special/)*

@@ -1,6 +1,6 @@
 # mayo (2)
 
-mayo (2) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
+mayo (2) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
 
 mayo (2) is a techno and electro artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Ghent and Hongkong and 6 more. Often billed alongside CARISTA, Luna Ludmila and bebe bad. Next up: CLUB RAUM, Amsterdam on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ mayo (2) is a techno and electro artist based in Netherlands, tracked on soundch
 
 CARISTA, Luna Ludmila, bebe bad
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-2/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-2/)*

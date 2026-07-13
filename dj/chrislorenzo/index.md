@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 14 Jul 2026.
+Chris Lorenzo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Tue, 14 Jul 2026.
 
 Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Chris Lake, Eats Everything and Eli & Fur. Next up: Ushuaïa Ibiza, Ibiza on Tue 14 Jul.
 
@@ -27,4 +27,4 @@ Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 48 se
 
 Chris Lake, Eats Everything, Eli & Fur
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

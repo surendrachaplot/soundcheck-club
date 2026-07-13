@@ -1,6 +1,6 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "All Things Deep | JT Donaldson - Knos - Rambo " on Thu, 16 Jul 2026.
+Neon Grotto is a music venue in Austin with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "All Things Deep | JT Donaldson - Knos - Rambo " on Thu, 16 Jul 2026.
 
 Neon Grotto is a music venue in Austin listed on soundcheck. 2 upcoming nights, with line-ups including Feathervane, JT Donaldson, Knos and Rambo. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
@@ -15,4 +15,4 @@ Neon Grotto is a music venue in Austin listed on soundcheck. 2 upcoming nights, 
 
 318 Colorado St, Austin, TX 78701, United States, Austin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*

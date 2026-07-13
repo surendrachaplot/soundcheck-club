@@ -1,6 +1,6 @@
 # Sina XX
 
-Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Faust, Seoul on Fri, 17 Jul 2026.
+Sina XX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Faust, Seoul on Fri, 17 Jul 2026.
 
 Sina XX is a techno and house artist based in France, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Nesa Azadikhah, Egna and A.mo. Next up: Faust, Seoul on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Sina XX is a techno and house artist based in France, tracked on soundcheck, wit
 
 Nesa Azadikhah, Egna, A.mo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinaxx/)*

@@ -1,6 +1,6 @@
 # Guy Contact
 
-Guy Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Glove That Fits, London on Fri, 17 Jul 2026.
+Guy Contact is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Glove That Fits, London on Fri, 17 Jul 2026.
 
 Guy Contact is a house and techno artist tracked on soundcheck, with 48 sets logged across Auckland, Berlin, Brussels and Dublin and 5 more. Often billed alongside Solar Suite, Bria and DJ PGZ. Next up: The Glove That Fits, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Guy Contact is a house and techno artist tracked on soundcheck, with 48 sets log
 
 Solar Suite, Bria, DJ PGZ
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*

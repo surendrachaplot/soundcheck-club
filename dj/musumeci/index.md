@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paal69, Amsterdam on Sat, 18 Jul 2026.
+Musumeci is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Paal69, Amsterdam on Sat, 18 Jul 2026.
 
 Musumeci is a house and deep house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside Lehar, Phunkadelica and Frankey & Sandrino. Next up: Paal69, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Musumeci is a house and deep house artist tracked on soundcheck, with 80 sets lo
 
 Lehar, Phunkadelica, Frankey & Sandrino
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

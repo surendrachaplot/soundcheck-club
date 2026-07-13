@@ -1,6 +1,6 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at District Cardiff, Cardiff on Fri, 24 Jul 2026.
+Gary Beck is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at District Cardiff, Cardiff on Fri, 24 Jul 2026.
 
 Gary Beck is a techno and house artist tracked on soundcheck, with 37 sets logged across Aberdeen, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: District Cardiff, Cardiff on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Gary Beck is a techno and house artist tracked on soundcheck, with 37 sets logge
 
 Co-Accused, Frazi.er, Dave Clarke
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*

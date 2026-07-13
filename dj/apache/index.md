@@ -1,6 +1,6 @@
 # Apache
 
-Apache is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Pacha Ibiza, Ibiza on Wed, 22 Jul 2026.
+Apache is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Pacha Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Apache is an afro house and house artist based in France, tracked on soundcheck, with 44 sets logged across Austin, Bali, Basel and Buenosaires and 11 more. Often billed alongside Malone, Vanjee and Kamcoco. Next up: Pacha Ibiza, Ibiza on Wed 22 Jul.
 
@@ -27,4 +27,4 @@ Apache is an afro house and house artist based in France, tracked on soundcheck,
 
 Malone, Vanjee, Kamcoco
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*

@@ -1,6 +1,6 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at AMT, Berlin on Sat, 18 Jul 2026.
+Polar Inertia is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at AMT, Berlin on Sat, 18 Jul 2026.
 
 Polar Inertia is a techno and bass artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Priori, Anthony Linell and A Strange Wedding. Next up: AMT, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Polar Inertia is a techno and bass artist based in France, tracked on soundcheck
 
 Priori, Anthony Linell, A Strange Wedding
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*

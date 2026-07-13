@@ -1,14 +1,13 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 15 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "THE MAGICK BAR presents: Pec, Ice One, LooseHorses" on Sun, 12 Jul 2026.
+THE MAGICK BAR is a music venue in Rome with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Scherzo al Magick - Wendy, Kodacci, San Nicola" on Thu, 16 Jul 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 15 upcoming nights, with line-ups including Binh, Cosimo Damiano, DJ Red and Donato Dozzy and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 14 upcoming nights, with line-ups including Binh, Cosimo Damiano, DJ Red and Donato Dozzy and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | THE MAGICK BAR presents: Pec, Ice One, LooseHorses |  |
 | Thu, 16 Jul 2026 | Scherzo al Magick - Wendy, Kodacci, San Nicola | Kodacci, San Nicola, Wendy Bkz |
 | Fri, 17 Jul 2026 | Spell x Horny Music for Ambient people | Cosimo Damiano, Sandra Mason, Sina (AU), Vaahzer, Vlada |
 | Tue, 21 Jul 2026 | Jungle at Magick Bar w/ Mirko Felicioli | Mirko Felicioli, Petra (4), Truman |
@@ -18,9 +17,10 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 15 upcoming nights
 | Thu, 6 Aug 2026 | Singularity |  |
 | Fri, 7 Aug 2026 | Anarchy In The Club with DJ Red | DJ Red |
 | Tue, 18 Aug 2026 | Jungle at Magick bar | Matteo Canori, Petra (4) |
+| Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |
 
 ## Address
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

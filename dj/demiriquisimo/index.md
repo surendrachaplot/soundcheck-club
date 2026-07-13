@@ -1,6 +1,6 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
+Demi Riquisimo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
 
 Demi Riquisimo is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Auckland, Austin and Bangkok and 48 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Gaffe, London on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 164 sets
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

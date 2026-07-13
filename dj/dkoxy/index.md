@@ -1,6 +1,6 @@
 # D|K|OXY
 
-D|K|OXY is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Eden NYC, New York City on Fri, 24 Jul 2026.
+D|K|OXY is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eden NYC, New York City on Fri, 24 Jul 2026.
 
 D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 11 more. Often billed alongside PARAPHER, Bildgewalt and Sørenga. Next up: Eden NYC, Newyorkcity on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundchec
 
 PARAPHER, Bildgewalt, Sørenga
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*

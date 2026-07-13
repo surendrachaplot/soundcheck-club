@@ -1,6 +1,6 @@
 # Norman Jay
 
-Norman Jay is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Tileyard, London on Sat, 18 Jul 2026.
+Norman Jay is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Tileyard, London on Sat, 18 Jul 2026.
 
 Norman Jay is a disco and house artist tracked on soundcheck, with 51 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Rob Alldritt, Si Kurrage and Mr Shiver. Next up: The Tileyard, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Norman Jay is a disco and house artist tracked on soundcheck, with 51 sets logge
 
 Rob Alldritt, Si Kurrage, Mr Shiver
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*

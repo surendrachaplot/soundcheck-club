@@ -1,6 +1,6 @@
 # Die Ruhe
 
-Die Ruhe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
+Die Ruhe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Distillery, Leipzig on Sat, 15 Aug 2026.
 
 Die Ruhe is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside ANKA (2), ANNAWAFFEL and Avocado. Next up: Distillery, Leipzig on Sat 15 Aug.
 
@@ -20,4 +20,4 @@ Die Ruhe is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ANKA (2), ANNAWAFFEL, Avocado
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dieruhe/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dieruhe/)*

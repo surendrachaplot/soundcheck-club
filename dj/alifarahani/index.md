@@ -1,6 +1,6 @@
 # Ali Farahani
 
-Ali Farahani is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hotel Via, San Francisco/Oakland on Sun, 19 Jul 2026.
+Ali Farahani is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hotel Via, San Francisco/Oakland on Sun, 19 Jul 2026.
 
 Ali Farahani is a deep house and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Chicago, Houston and Losangeles and 4 more. Often billed alongside Shan Nash, Borak and Ray Kash. Next up: Hotel Via, Sanfrancisco on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Ali Farahani is a deep house and house artist tracked on soundcheck, with 30 set
 
 Shan Nash, Borak, Ray Kash
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alifarahani/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alifarahani/)*

@@ -1,14 +1,13 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 12 Jul 2026.
+Luke Dean_ is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 25 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Sun 12 Jul.
+Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 25 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Chinois Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Tue, 21 Jul 2026 | Chinois Ibiza | Ibiza |
 | Fri, 24 Jul 2026 | Brooklyn Storehouse | New York City |
 | Fri, 31 Jul 2026 | Pacha Ibiza | Ibiza |
@@ -21,6 +20,7 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
 - Quarters, Brighton — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 28 Jun 2026
@@ -28,10 +28,9 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets
 - BRET, Amsterdam — Fri, 26 Jun 2026
 - Parc del Fòrum, Barcelona — Sat, 20 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
-- Parc d’Atraccions del Tibidabo, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

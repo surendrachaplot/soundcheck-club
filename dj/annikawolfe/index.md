@@ -1,6 +1,6 @@
 # Annika Wolfe
 
-Annika Wolfe is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at smartbar, Chicago on Fri, 17 Jul 2026.
+Annika Wolfe is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at smartbar, Chicago on Fri, 17 Jul 2026.
 
 Annika Wolfe is a techno and electro artist based in United States of America, tracked on soundcheck, with 80 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Stacy Christine, Remy Marc and ALKMST. Next up: smartbar, Chicago on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Annika Wolfe is a techno and electro artist based in United States of America, t
 
 Stacy Christine, Remy Marc, ALKMST
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annikawolfe/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annikawolfe/)*

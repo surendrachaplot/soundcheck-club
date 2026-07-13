@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Six Sex is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Six Sex is a techno and reggaeton artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside MCR-T, DJ Gigola and FCUKERS. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 43 sets log
 
 MCR-T, DJ Gigola, FCUKERS
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

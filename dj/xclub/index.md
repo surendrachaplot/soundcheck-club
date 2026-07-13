@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 13 Jul 2026.
+X CLUB. is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 13 Jul 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Amnesia Ibiza, Ibiza on Mon 13 Jul.
 
@@ -36,4 +36,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged
 
 KETTAMA, VTSS, DJ Heartstring
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

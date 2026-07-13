@@ -1,14 +1,13 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 26 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at BRET, Amsterdam on Sun, 12 Jul 2026.
+Mau P is a House and Tech House artist with 25 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 14 Jul 2026.
 
-Mau P is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: BRET, Amsterdam on Sun 12 Jul.
+Mau P is a house and tech house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Bristol and 35 more. Often billed alongside Joseph Capriati, Dom Dolla and Tini Gessler. Next up: Amnesia Ibiza, Ibiza on Tue 14 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | BRET | Amsterdam |
 | Tue, 14 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Flevopark | Amsterdam |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
@@ -20,9 +19,11 @@ Mau P is a house and tech house artist tracked on soundcheck, with 152 sets logg
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 9 Aug 2026 | Burgess Park | London |
 | Wed, 12 Aug 2026 | Pacha Ibiza | Ibiza |
+| Wed, 19 Aug 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played
 
+- BRET, Amsterdam — Sun, 12 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Fabrik, Madrid — Sat, 27 Jun 2026
@@ -30,10 +31,9 @@ Mau P is a house and tech house artist tracked on soundcheck, with 152 sets logg
 - Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
 - Poble Espanyol, Barcelona — Thu, 18 Jun 2026
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- Gallagher Square, San Diego — Sat, 30 May 2026
 
 ## Shares bills with
 
 Joseph Capriati, Dom Dolla, Tini Gessler
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

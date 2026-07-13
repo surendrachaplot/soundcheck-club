@@ -1,6 +1,6 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Concourse Project, Austin on Sat, 18 Jul 2026.
+Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Concourse Project, Austin on Sat, 18 Jul 2026.
 
 Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 44 sets logged across Athens, Austin, Berlin and Boston and 20 more. Often billed alongside Angerfist, Fatima Hajji and Giorgia Angiuli. Next up: The Concourse Project, Austin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 4
 
 Angerfist, Fatima Hajji, Giorgia Angiuli
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

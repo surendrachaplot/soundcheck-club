@@ -1,6 +1,6 @@
 # Audien
 
-Audien is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at New City Gas, Montreal on Sat, 18 Jul 2026.
+Audien is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at New City Gas, Montreal on Sat, 18 Jul 2026.
 
 Audien is a progressive house and house artist tracked on soundcheck, with 28 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Snake, Kaskade and Oliver Heldens. Next up: New City Gas, Montreal on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Audien is a progressive house and house artist tracked on soundcheck, with 28 se
 
 DJ Snake, Kaskade, Oliver Heldens
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*

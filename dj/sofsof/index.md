@@ -1,6 +1,6 @@
 # SOFSOF
 
-SOFSOF is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Stereo, Glasgow on Fri, 17 Jul 2026.
+SOFSOF is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Stereo, Glasgow on Fri, 17 Jul 2026.
 
 SOFSOF is a bass and club artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Edinburgh and Glasgow. Often billed alongside Miss Cabbage, Hometown Sound and Maveen. Next up: Stereo, Glasgow on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ SOFSOF is a bass and club artist based in United Kingdom, tracked on soundcheck,
 
 Miss Cabbage, Hometown Sound, Maveen
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofsof/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofsof/)*

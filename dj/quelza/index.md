@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Quelza is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Quelza is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Quelza is a techno and house artist tracked on soundcheck, with 200 sets logged 
 
 Freddy K, BASHKKA, Ogazón
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

@@ -1,6 +1,6 @@
 # Paquita Gordon
 
-Paquita Gordon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Paquita Gordon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
 Paquita Gordon is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside BASHKKA, DVS1 and Francesco Del Garda. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Paquita Gordon is a house and techno artist tracked on soundcheck, with 124 sets
 
 BASHKKA, DVS1, Francesco Del Garda
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

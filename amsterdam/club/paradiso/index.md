@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Jigitz" on Thu, 16 Jul 2026.
+Paradiso is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Jigitz" on Thu, 16 Jul 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Absoluut, ASHTATTZ, Aurora Halal and Azucy and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights,
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

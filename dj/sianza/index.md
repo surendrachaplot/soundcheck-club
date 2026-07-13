@@ -1,6 +1,6 @@
 # sianza
 
-sianza is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Stuck Kantine, Munich on Thu, 16 Jul 2026.
+sianza is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Stuck Kantine, Munich on Thu, 16 Jul 2026.
 
 sianza is a house and downtempo artist tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: Stuck Kantine, Munich on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ sianza is a house and downtempo artist tracked on soundcheck, with 97 sets logge
 
 Benjamin Roeder, Bogus Trumper, DJoy
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*

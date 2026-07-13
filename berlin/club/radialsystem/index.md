@@ -1,6 +1,6 @@
 # Radialsystem
 
-Radialsystem is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Forecst Festival" on Thu, 16 Jul 2026.
+Radialsystem is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Forecst Festival" on Thu, 16 Jul 2026.
 
 Radialsystem is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Heinali and Hibotep. Browse upcoming dates, start times and who's playing. Holzmarktstraße 33, 10243 Berlin.
 
@@ -15,4 +15,4 @@ Radialsystem is a music venue in Berlin listed on soundcheck. 2 upcoming nights,
 
 Holzmarktstraße 33, 10243 Berlin, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/radialsystem/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/radialsystem/)*

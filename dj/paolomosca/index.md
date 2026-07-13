@@ -1,6 +1,6 @@
 # Paolo Mosca
 
-Paolo Mosca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MS Club, Marseille on Fri, 17 Jul 2026.
+Paolo Mosca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at MS Club, Marseille on Fri, 17 Jul 2026.
 
 Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: MS Club, Marseille on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Paolo Mosca is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paolomosca/)*

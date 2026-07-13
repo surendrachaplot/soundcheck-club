@@ -1,6 +1,6 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Öwnboss at Future" on Fri, 24 Jul 2026.
+Future Nightlife is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Öwnboss at Future" on Fri, 24 Jul 2026.
 
 Future Nightlife is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including bradeazy and Sunnery James & Ryan Marciano. Browse upcoming dates, start times and who's playing. 570 Queen Street West.
 
@@ -18,4 +18,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 5 upcoming ni
 
 570 Queen Street West, Toronto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Cheeky Monday: Bladerunner" on Mon, 13 Jul 2026.
+Melkweg is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Cheeky Monday: Bladerunner" on Mon, 13 Jul 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including A.R.T., Bladerunner, Bob Semp and Daft Funk Live and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

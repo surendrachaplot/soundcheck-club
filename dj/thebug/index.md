@@ -1,6 +1,6 @@
 # The Bug
 
-The Bug is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gretchen, Berlin on Fri, 17 Jul 2026.
+The Bug is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gretchen, Berlin on Fri, 17 Jul 2026.
 
 The Bug is a bass and dub artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: Gretchen, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ The Bug is a bass and dub artist tracked on soundcheck, with 46 sets logged acro
 
 Flowdan, Warrior Queen, CCL
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

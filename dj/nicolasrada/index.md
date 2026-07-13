@@ -1,6 +1,6 @@
 # Nicolas Rada
 
-Nicolas Rada is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - El Muelle, Costanera, Buenos Aires on Sat, 18 Jul 2026.
+Nicolas Rada is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - El Muelle, Costanera, Buenos Aires on Sat, 18 Jul 2026.
 
 Nicolas Rada is a progressive house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Bristol and Budapest and 10 more. Often billed alongside Marcelo Vasami, Antrim and Nick Warren. Next up: TBA - El Muelle, Costanera, Buenosaires on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Nicolas Rada is a progressive house and techno artist tracked on soundcheck, wit
 
 Marcelo Vasami, Antrim, Nick Warren
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasrada/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasrada/)*

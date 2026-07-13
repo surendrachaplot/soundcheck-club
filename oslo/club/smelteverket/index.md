@@ -1,6 +1,6 @@
 # Smelteverket
 
-Smelteverket is a music venue in Oslo with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Vivacity all night long" on Fri, 17 Jul 2026.
+Smelteverket is a music venue in Oslo with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Vivacity all night long" on Fri, 17 Jul 2026.
 
 Smelteverket is a music venue in Oslo listed on soundcheck. 4 upcoming nights, with line-ups including Bellaire, mredrollo, Mulo and Ryan Diefenbach. Browse upcoming dates, start times and who's playing. Vulkan 5, 0182 Oslo.
 
@@ -17,4 +17,4 @@ Smelteverket is a music venue in Oslo listed on soundcheck. 4 upcoming nights, w
 
 Vulkan 5, 0182 Oslo, Oslo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*

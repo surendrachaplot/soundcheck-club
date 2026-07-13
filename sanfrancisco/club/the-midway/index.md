@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Uncle Waffles" on Sat, 18 Jul 2026.
+The Midway is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Uncle Waffles" on Sat, 18 Jul 2026.
 
 The Midway is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including bradeazy, DJ JoJo, Karisma and Zack Fox. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -18,4 +18,4 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nig
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

@@ -1,6 +1,6 @@
 # TBA - 2020 N Albina ave
 
-TBA - 2020 N Albina ave is a music venue in Portland with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Swallow the Sky" on Sat, 25 Jul 2026.
+TBA - 2020 N Albina ave is a music venue in Portland with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Swallow the Sky" on Sat, 25 Jul 2026.
 
 TBA - 2020 N Albina ave is a music venue in Portland listed on soundcheck. 1 upcoming night, with line-ups including Flapjack. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 2020 N Albina ave is a music venue in Portland listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Swallow the Sky | Flapjack |
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/tba-2020-n-albina-ave/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/tba-2020-n-albina-ave/)*

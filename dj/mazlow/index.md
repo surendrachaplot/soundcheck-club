@@ -1,6 +1,6 @@
 # Mazlow
 
-Mazlow is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 17 Jul 2026.
+Mazlow is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 17 Jul 2026.
 
 Mazlow is a house and tech house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Mark Azar, Neko Berg and SPCL.K. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mazlow is a house and tech house artist based in United States of America, track
 
 Mark Azar, Neko Berg, SPCL.K
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazlow/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mazlow/)*

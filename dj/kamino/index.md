@@ -1,6 +1,6 @@
 # Kamino
 
-Kamino is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Night We Met, Nashville on Sat, 18 Jul 2026.
+Kamino is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Night We Met, Nashville on Sat, 18 Jul 2026.
 
 Kamino is a tech house and house artist tracked on soundcheck, with 29 sets logged across Austin, Boston, Chicago and Denver and 9 more. Often billed alongside Cassian, Azzecca and Dyslecta. Next up: Night We Met, Nashville on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Kamino is a tech house and house artist tracked on soundcheck, with 29 sets logg
 
 Cassian, Azzecca, Dyslecta
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamino/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamino/)*

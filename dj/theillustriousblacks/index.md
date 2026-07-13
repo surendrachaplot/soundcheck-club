@@ -1,6 +1,6 @@
 # The Illustrious Blacks
 
-The Illustrious Blacks is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+The Illustrious Blacks is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 The Illustrious Blacks is a house and disco artist tracked on soundcheck, with 53 sets logged across Berlin, Boston, Detroit and Hongkong and 13 more. Often billed alongside Boris, Gabrielle Kwarteng and Hercules & Love Affair. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ The Illustrious Blacks is a house and disco artist tracked on soundcheck, with 5
 
 Boris, Gabrielle Kwarteng, Hercules & Love Affair
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theillustriousblacks/)*

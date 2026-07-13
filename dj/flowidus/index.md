@@ -1,6 +1,6 @@
 # Flowidus
 
-Flowidus is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Clock Factory, Bristol on Fri, 17 Jul 2026.
+Flowidus is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Clock Factory, Bristol on Fri, 17 Jul 2026.
 
 Flowidus is a drum & bass and bass artist tracked on soundcheck, with 15 sets logged across Auckland, Bali, Barcelona and Brighton and 6 more. Often billed alongside Ekko, Andy C and Camo & Krooked. Next up: The Clock Factory, Bristol on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Flowidus is a drum & bass and bass artist tracked on soundcheck, with 15 sets lo
 
 Ekko, Andy C, Camo & Krooked
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flowidus/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flowidus/)*

@@ -1,6 +1,6 @@
 # Judge Jules
 
-Judge Jules is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Space, Leeds on Sat, 25 Jul 2026.
+Judge Jules is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Space, Leeds on Sat, 25 Jul 2026.
 
 Judge Jules is a house and trance artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Aberdeen, Auckland, Belfast and Birmingham and 14 more. Often billed alongside Seb Fontaine, Mauro Picotto and Jeremy Healy. Next up: Space, Leeds on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Judge Jules is a house and trance artist based in United Kingdom, tracked on sou
 
 Seb Fontaine, Mauro Picotto, Jeremy Healy
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*

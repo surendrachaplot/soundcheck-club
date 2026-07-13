@@ -1,6 +1,6 @@
 # Ndrx
 
-Ndrx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mitsuki, Tokyo on Fri, 17 Jul 2026.
+Ndrx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mitsuki, Tokyo on Fri, 17 Jul 2026.
 
 Ndrx is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside Newa, Kancheli and Sophie Phare. Next up: Mitsuki, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Ndrx is a techno and house artist tracked on soundcheck, with 105 sets logged ac
 
 Newa, Kancheli, Sophie Phare
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*

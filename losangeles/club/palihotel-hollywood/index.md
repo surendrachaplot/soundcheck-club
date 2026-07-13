@@ -1,6 +1,6 @@
 # Palihotel Hollywood
 
-Palihotel Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sirens del Sol: Poolside Residency" on Sun, 2 Aug 2026.
+Palihotel Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sirens del Sol: Poolside Residency" on Sun, 2 Aug 2026.
 
 Palihotel Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Dakota Dean, Midnite Mary and Nicoshi. Browse upcoming dates, start times and who's playing. 7023 W Sunset Blvd, Hollywood, CA 90028, USA.
 
@@ -14,4 +14,4 @@ Palihotel Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcom
 
 7023 W Sunset Blvd, Hollywood, CA 90028, USA, Los Angeles
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/palihotel-hollywood/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/palihotel-hollywood/)*

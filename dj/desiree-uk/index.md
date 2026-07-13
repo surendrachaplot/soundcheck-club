@@ -1,6 +1,6 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Starlane Pizza Bar, London on Sun, 19 Jul 2026.
+Desiree' is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Starlane Pizza Bar, London on Sun, 19 Jul 2026.
 
 Desiree' is a techno and electro artist tracked on soundcheck, with 45 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: Starlane Pizza Bar, London on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Desiree' is a techno and electro artist tracked on soundcheck, with 45 sets logg
 
 Gianmarco Gazzillo, Manlio, Ordep (UK)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*

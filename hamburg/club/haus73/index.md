@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Wu Zhuoling (live) - Club Concert & Afterparty" on Fri, 17 Jul 2026.
+Haus73 is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Wu Zhuoling (live) - Club Concert & Afterparty" on Fri, 17 Jul 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including G-Lamour, LAURIX (DE), MANTIS and Maria and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -22,4 +22,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

@@ -1,6 +1,6 @@
 # 98dots
 
-98dots is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Boston on Fri, 17 Jul 2026.
+98dots is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Boston on Fri, 17 Jul 2026.
 
 98dots is a techno and house artist tracked on soundcheck, with 65 sets logged across Antwerp, Belgrade, Berlin and Boston and 11 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: TBA, Boston on Fri 17 Jul.
 
@@ -27,4 +27,4 @@
 
 Amelia Holt, Zitto, Kancheli
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*

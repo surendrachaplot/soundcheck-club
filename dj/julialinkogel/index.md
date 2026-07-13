@@ -1,6 +1,6 @@
 # Julia Linkogel
 
-Julia Linkogel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Julia Linkogel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Julia Linkogel is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Adriatique, Baime and Ae:ther. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Julia Linkogel is a house and techno artist based in Germany, tracked on soundch
 
 Adriatique, Baime, Ae:ther
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*

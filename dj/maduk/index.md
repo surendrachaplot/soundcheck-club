@@ -1,6 +1,6 @@
 # Maduk
 
-Maduk is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Le Kilowatt, Paris on Fri, 28 Aug 2026.
+Maduk is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Le Kilowatt, Paris on Fri, 28 Aug 2026.
 
 Maduk is a drum & bass and bass artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside MOTA, Fox Stevenson and Delta Heavy. Next up: Le Kilowatt, Paris on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Maduk is a drum & bass and bass artist tracked on soundcheck, with 34 sets logge
 
 MOTA, Fox Stevenson, Delta Heavy
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maduk/)*

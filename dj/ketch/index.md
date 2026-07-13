@@ -1,6 +1,6 @@
 # KETCH
 
-KETCH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
+KETCH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gaffe, London on Sat, 8 Aug 2026.
 
 KETCH is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 18 more. Often billed alongside Barbosa, MZR and Ylia (UK). Next up: Gaffe, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ KETCH is a techno and house artist tracked on soundcheck, with 52 sets logged ac
 
 Barbosa, MZR, Ylia (UK)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*

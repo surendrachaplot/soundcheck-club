@@ -1,6 +1,6 @@
 # Skodde
 
-Skodde is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Revier Oslo, Oslo on Sat, 18 Jul 2026.
+Skodde is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Revier Oslo, Oslo on Sat, 18 Jul 2026.
 
 Skodde is a techno and trance artist based in Norway, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Copenhagen and Oslo. Often billed alongside Naboklage, Anémi and Komet99. Next up: Revier Oslo, Oslo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Skodde is a techno and trance artist based in Norway, tracked on soundcheck, wit
 
 Naboklage, Anémi, Komet99
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skodde/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skodde/)*

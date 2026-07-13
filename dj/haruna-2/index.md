@@ -1,6 +1,6 @@
 # HARUNA (2)
 
-HARUNA (2) is a Afrobeats and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Fox and Firkin, London on Sat, 18 Jul 2026.
+HARUNA (2) is a Afrobeats and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Fox and Firkin, London on Sat, 18 Jul 2026.
 
 HARUNA (2) is an afrobeats and afro house artist tracked on soundcheck, with 32 sets logged across Amsterdam, London, Paris and Seoul and 1 more. Often billed alongside ZEE-2, JVINCENT and Sham Steele. Next up: The Fox and Firkin, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ HARUNA (2) is an afrobeats and afro house artist tracked on soundcheck, with 32 
 
 ZEE-2, JVINCENT, Sham Steele
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*

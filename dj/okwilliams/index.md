@@ -1,6 +1,6 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+OK Williams is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 OK Williams is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -32,4 +32,4 @@ OK Williams is a techno and house artist tracked on soundcheck, with 169 sets lo
 
 BASHKKA, Gabrielle Kwarteng, ISAbella
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*

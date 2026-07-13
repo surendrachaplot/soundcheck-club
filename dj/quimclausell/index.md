@@ -1,6 +1,6 @@
 # Quim Clausell
 
-Quim Clausell is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 31 Jul 2026.
+Quim Clausell is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 31 Jul 2026.
 
 Quim Clausell is a house and electro artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona and Berlin. Often billed alongside Bruno (DO), Alba Posas and Adria (ES). Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Quim Clausell is a house and electro artist based in Spain, tracked on soundchec
 
 Bruno (DO), Alba Posas, Adria (ES)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quimclausell/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quimclausell/)*

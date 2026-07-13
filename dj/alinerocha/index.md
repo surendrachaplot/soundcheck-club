@@ -1,6 +1,6 @@
 # Aline Rocha
 
-Aline Rocha is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+Aline Rocha is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Aline Rocha is a house and disco artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Bristol and Copenhagen and 14 more. Often billed alongside The Shapeshifters, Melvo Baptiste and Horse Meat Disco. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Aline Rocha is a house and disco artist tracked on soundcheck, with 52 sets logg
 
 The Shapeshifters, Melvo Baptiste, Horse Meat Disco
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*

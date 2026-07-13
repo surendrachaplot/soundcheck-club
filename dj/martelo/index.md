@@ -1,6 +1,6 @@
 # Martelo
 
-Martelo is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Carpet Shop, London on Sat, 18 Jul 2026.
+Martelo is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Carpet Shop, London on Sat, 18 Jul 2026.
 
 Martelo is a bass and hip-hop artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Glasgow and London. Often billed alongside Oneman, Charisse C and Kemarr. Next up: The Carpet Shop, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Martelo is a bass and hip-hop artist based in United Kingdom, tracked on soundch
 
 Oneman, Charisse C, Kemarr
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martelo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martelo/)*

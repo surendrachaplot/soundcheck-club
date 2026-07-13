@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Glam Open Decks: Winter Series #3" on Fri, 17 Jul 2026.
+Glamorama is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Glam Open Decks: Winter Series #3" on Fri, 17 Jul 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including BETHANY (1), dozie (uk), Ejeckt and GROOVEBABY and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -19,4 +19,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming nights,
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

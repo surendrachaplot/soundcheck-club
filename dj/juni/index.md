@@ -1,6 +1,6 @@
 # Juni
 
-Juni is a House and Classical artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Area51 / 17map Minami, Osaka on Fri, 17 Jul 2026.
+Juni is a House and Classical artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Area51 / 17map Minami, Osaka on Fri, 17 Jul 2026.
 
 Juni is a house and classical artist based in South Korea, tracked on soundcheck, with 42 sets logged across Cologne, Mexicocity, Osaka and Sanfrancisco and 1 more. Often billed alongside Black Daria, Dj Dizam and Jerry. Next up: Area51 / 17map Minami, Osaka on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Juni is a house and classical artist based in South Korea, tracked on soundcheck
 
 Black Daria, Dj Dizam, Jerry
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*

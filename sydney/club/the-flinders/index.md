@@ -1,6 +1,6 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BLACK NOIR presents: DJ COMP FINALS 2026" on Fri, 17 Jul 2026.
+The Flinders is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "BLACK NOIR presents: DJ COMP FINALS 2026" on Fri, 17 Jul 2026.
 
 The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including ARTISAH, Bleach, BLNK and Davor and 2 more. Browse upcoming dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
@@ -23,4 +23,4 @@ The Flinders is a music venue in Sydney listed on soundcheck. 10 upcoming nights
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

@@ -1,6 +1,6 @@
 # Afra
 
-Afra is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
+Afra is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
 
 Afra is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: CLUB RAUM, Amsterdam on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Afra is a techno and house artist tracked on soundcheck, with 111 sets logged ac
 
 Serge, Mary Lake, TWIENA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*

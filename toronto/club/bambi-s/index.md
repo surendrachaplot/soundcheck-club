@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Disco Portal: PARADISO" on Fri, 17 Jul 2026.
+Bambi's is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Disco Portal: PARADISO" on Fri, 17 Jul 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including AKWA, Critter, dj miss and florasystem and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -19,4 +19,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming nights, wit
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

@@ -1,6 +1,6 @@
 # Nancy Noise
 
-Nancy Noise is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
+Nancy Noise is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - address sent to all ticket holders , London on Thu, 23 Jul 2026.
 
 Nancy Noise is a house and balearic artist tracked on soundcheck, with 26 sets logged across Brighton, Ibiza, London and Newcastle and 1 more. Often billed alongside Terry Farley, Stuart Patterson and Lisa Loud. Next up: TBA - address sent to all ticket holders , London on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Nancy Noise is a house and balearic artist tracked on soundcheck, with 26 sets l
 
 Terry Farley, Stuart Patterson, Lisa Loud
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*

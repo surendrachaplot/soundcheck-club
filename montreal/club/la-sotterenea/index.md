@@ -1,6 +1,6 @@
 # La Sotterenea
 
-La Sotterenea is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Principles of Dub feat. The Scientist & Honeydrip" on Mon, 20 Jul 2026.
+La Sotterenea is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Principles of Dub feat. The Scientist & Honeydrip" on Mon, 20 Jul 2026.
 
 La Sotterenea is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including FIAMMA, Honeydrip, Ivy Hollivana and Laura Krieg and 2 more. Browse upcoming dates, start times and who's playing. 4848 Saint Laurent, Montréal, QC H2T 1R6, Canada.
 
@@ -16,4 +16,4 @@ La Sotterenea is a music venue in Montreal listed on soundcheck. 3 upcoming nigh
 
 4848 Saint Laurent, Montréal, QC H2T 1R6, Canada, Montreal
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-sotterenea/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-sotterenea/)*

@@ -1,6 +1,6 @@
 # Jay Jay Revlon
 
-Jay Jay Revlon is a Techno and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at THE OTHER SIDE, Amsterdam on Fri, 31 Jul 2026.
+Jay Jay Revlon is a Techno and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at THE OTHER SIDE, Amsterdam on Fri, 31 Jul 2026.
 
 Jay Jay Revlon is a techno and ballroom artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Maya Matriarch, DJ AMX and GIDEÖN. Next up: THE OTHER SIDE, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Jay Jay Revlon is a techno and ballroom artist based in United Kingdom, tracked 
 
 Maya Matriarch, DJ AMX, GIDEÖN
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjayrevlon/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayjayrevlon/)*

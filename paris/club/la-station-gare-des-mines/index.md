@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "[CANCELLED] The All Black Everything Kiki Ball" on Sun, 12 Jul 2026.
+La Station - Gare des Mines is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Daddy Issues" on Fri, 17 Jul 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Albane, Amina, Andy4000 and Aria Seashell and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Albane, Amina, Andy4000 and Aria Seashell and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | [CANCELLED] The All Black Everything Kiki Ball |  |
 | Fri, 17 Jul 2026 | Daddy Issues | DJ ILEGALA, DJ Music, Franssouax, Golce, Lisa More, fetva |
 | Sat, 18 Jul 2026 | Kluster — Dernière à La Station | Albane, BKEdit |
 | Fri, 24 Jul 2026 | la Culottée (Nord + Sud) | Amina, Fais Le Beau, Gay Haze, Rachel Noon, Sixsixsixties, Soyoon, UNOS, audio primitive, ttyfal |
@@ -18,9 +17,10 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 | Fri, 7 Aug 2026 | Herrensauna × FIST | CEM, DJ Clone, MCMLXXXV, PEPIITA, Word of Command |
 | Sat, 8 Aug 2026 | DJAOULI ENT x NYEGE NYEGE A PARIS | Andy4000, Hibotep |
 | Fri, 14 Aug 2026 | VOLTAGE - Face to Face ⋆˚｡ Camion Bazar | Camion Bazar, Louis The 4th, STL-P, TBA |
+| Sat, 15 Aug 2026 | subtyl | Delano Legito, Egna, KALTBLUME, Sina XX |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

@@ -1,6 +1,6 @@
 # Tonino
 
-Tonino is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Fridas Pier, Stuttgart on Fri, 17 Jul 2026.
+Tonino is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fridas Pier, Stuttgart on Fri, 17 Jul 2026.
 
 Tonino is a techno and progressive house artist tracked on soundcheck, with 27 sets logged across Berlin, Frankfurt, Hamburg and Nurnberg and 2 more. Often billed alongside Adi Dassler, Bjørnson and Element 61. Next up: Fridas Pier, Stuttgart on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Tonino is a techno and progressive house artist tracked on soundcheck, with 27 s
 
 Adi Dassler, Bjørnson, Element 61
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonino/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonino/)*

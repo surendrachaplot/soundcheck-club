@@ -1,6 +1,6 @@
 # Shunter
 
-Shunter is a music venue in Rotterdam with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Weekend002" on Fri, 17 Jul 2026.
+Shunter is a music venue in Rotterdam with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Weekend002" on Fri, 17 Jul 2026.
 
 Shunter is a music venue in Rotterdam listed on soundcheck. 2 upcoming nights, with line-ups including Alberta Balsam, Ambu Bambu, AMORAL and baby ganoush and 2 more. Browse upcoming dates, start times and who's playing. 2e Rosestraat 10, Rotterdam, Netherlands 3074JK.
 
@@ -15,4 +15,4 @@ Shunter is a music venue in Rotterdam listed on soundcheck. 2 upcoming nights, w
 
 2e Rosestraat 10, Rotterdam, Netherlands 3074JK, Rotterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/shunter/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/shunter/)*

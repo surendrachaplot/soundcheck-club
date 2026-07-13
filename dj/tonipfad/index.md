@@ -1,6 +1,6 @@
 # Toni Pfad
 
-Toni Pfad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
+Toni Pfad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Distillery, Leipzig on Sat, 1 Aug 2026.
 
 Toni Pfad is a house and techno artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Crille & Tamalt, Hannie Phi and Heimlich Maneuver. Next up: Distillery, Leipzig on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Toni Pfad is a house and techno artist tracked on soundcheck, with 25 sets logge
 
 Crille & Tamalt, Hannie Phi, Heimlich Maneuver
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonipfad/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonipfad/)*

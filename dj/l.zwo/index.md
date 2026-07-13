@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
+L.zwo is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
 
 L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 86 sets logged across Antwerp, Barcelona, Basel and Berlin and 14 more. Often billed alongside OCIN, 2HOT2PLAY and Antonym. Next up: Fuse, Brussels on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 OCIN, 2HOT2PLAY, Antonym
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

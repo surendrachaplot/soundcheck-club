@@ -1,6 +1,6 @@
 # Nick Castle
 
-Nick Castle is a Deep House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 15 Jul 2026.
+Nick Castle is a Deep House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Nick Castle is a deep house and afro house artist tracked on soundcheck, with 54 sets logged across Birmingham, Brussels, Ibiza and Lisbon and 2 more. Often billed alongside Âme, Adriatique and Caiiro. Next up: Chinois Ibiza, Ibiza on Wed 15 Jul.
 
@@ -28,4 +28,4 @@ Nick Castle is a deep house and afro house artist tracked on soundcheck, with 54
 
 Âme, Adriatique, Caiiro
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*

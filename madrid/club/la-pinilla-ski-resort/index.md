@@ -1,6 +1,6 @@
 # La Pinilla Ski Resort
 
-La Pinilla Ski Resort is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Astral Plane: Total Eclipse Festival 2026" on Mon, 10 Aug 2026.
+La Pinilla Ski Resort is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Astral Plane: Total Eclipse Festival 2026" on Mon, 10 Aug 2026.
 
 La Pinilla Ski Resort is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including AMMARA, Anso, Ben Sims and Black Loops and 2 more. Browse upcoming dates, start times and who's playing. Estacion esqui La Pinilla, s/n, 40500 La Pinilla, Segovia.
 
@@ -14,4 +14,4 @@ La Pinilla Ski Resort is a music venue in Madrid listed on soundcheck. 1 upcomin
 
 Estacion esqui La Pinilla, s/n, 40500 La Pinilla, Segovia, Madrid
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-pinilla-ski-resort/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-pinilla-ski-resort/)*

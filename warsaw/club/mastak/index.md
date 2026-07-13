@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sunday" on Sun, 12 Jul 2026.
+Mastak is a music venue in Warsaw with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Viikatory & Alex Savage" on Fri, 17 Jul 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with line-ups including Adrian Skiba, Alex Savage, Be.roo and Gaamer and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with line-ups including Adrian Skiba, Alex Savage, Be.roo and Gaamer and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Sunday |  |
 | Fri, 17 Jul 2026 | Viikatory & Alex Savage | Alex Savage, Viikatory |
 | Sat, 18 Jul 2026 | FĀLĀ - Vertical Spectrum, Nightfall, Salat, Vakkum | Nightfall, Salat |
 | Sun, 19 Jul 2026 | SUNDAY | MARCUCCIO, VIKKI_ |
@@ -22,4 +21,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with 
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

@@ -1,6 +1,6 @@
 # Joe Goddard
 
-Joe Goddard is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 14 Jul 2026.
+Joe Goddard is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 528 Ibiza, Ibiza on Tue, 14 Jul 2026.
 
 Joe Goddard is a house and disco artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside Colleen 'Cosmo' Murphy, Hot Chip and Kim Lana. Next up: 528 Ibiza, Ibiza on Tue 14 Jul.
 
@@ -28,4 +28,4 @@ Joe Goddard is a house and disco artist tracked on soundcheck, with 56 sets logg
 
 Colleen 'Cosmo' Murphy, Hot Chip, Kim Lana
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*

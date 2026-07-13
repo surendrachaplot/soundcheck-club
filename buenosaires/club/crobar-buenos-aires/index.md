@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Crobar Club Pres.: Ariel Rodz, Bodeler, La Cintia & More" on Fri, 17 Jul 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Crobar Club Pres.: Ariel Rodz, Bodeler, La Cintia & More" on Fri, 17 Jul 2026.
 
 Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 7 upcoming nights, with line-ups including Ariel Rodz, Bart Skils, Bodeler and Dyed Soundorom and 2 more. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -20,4 +20,4 @@ Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 7 up
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

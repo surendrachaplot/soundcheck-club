@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cipriani 42nd St., New York City on Fri, 17 Jul 2026.
+Kaytranada is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cipriani 42nd St., New York City on Fri, 17 Jul 2026.
 
 Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside Justice, Channel Tres and Dom Dolla. Next up: Cipriani 42nd St., Newyorkcity on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Kaytranada is a house and hip-hop artist tracked on soundcheck, with 60 sets log
 
 Justice, Channel Tres, Dom Dolla
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

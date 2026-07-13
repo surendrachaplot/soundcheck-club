@@ -1,6 +1,6 @@
 # Cervantes' Other Side
 
-Cervantes' Other Side is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Stavroz" on Thu, 23 Jul 2026.
+Cervantes' Other Side is a music venue in Denver with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Stavroz" on Thu, 23 Jul 2026.
 
 Cervantes' Other Side is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Stavroz. Browse upcoming dates, start times and who's playing. 2637 Welton Street; Denver, CO 80205; United States.
 
@@ -14,4 +14,4 @@ Cervantes' Other Side is a music venue in Denver listed on soundcheck. 1 upcomin
 
 2637 Welton Street; Denver, CO 80205; United States, Denver
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/cervantes-other-side/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/cervantes-other-side/)*

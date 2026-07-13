@@ -1,6 +1,6 @@
 # florasystem
 
-florasystem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bambi's, Toronto on Sat, 18 Jul 2026.
+florasystem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bambi's, Toronto on Sat, 18 Jul 2026.
 
 florasystem is a techno and house artist tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside Hiroki, maxedvisa and Program Sam. Next up: Bambi's, Toronto on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ florasystem is a techno and house artist tracked on soundcheck, with 38 sets log
 
 Hiroki, maxedvisa, Program Sam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*

@@ -1,6 +1,6 @@
 # SIKXTO
 
-SIKXTO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ministerium Club, Lisbon on Thu, 16 Jul 2026.
+SIKXTO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministerium Club, Lisbon on Thu, 16 Jul 2026.
 
 SIKXTO is a techno and trance artist tracked on soundcheck, with 55 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside DTEXX, Filialleiter and Trancestrudel. Next up: Ministerium Club, Lisbon on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ SIKXTO is a techno and trance artist tracked on soundcheck, with 55 sets logged 
 
 DTEXX, Filialleiter, Trancestrudel
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*

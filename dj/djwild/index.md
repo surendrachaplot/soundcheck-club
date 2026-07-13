@@ -1,6 +1,6 @@
 # DJ W!ld
 
-DJ W!ld is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Club der Visionaere, Berlin on Wed, 22 Jul 2026.
+DJ W!ld is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club der Visionaere, Berlin on Wed, 22 Jul 2026.
 
 DJ W!ld is a house and tech house artist tracked on soundcheck, with 29 sets logged across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Inessa Raum, Gauthier DM and BeleeJean. Next up: Club der Visionaere, Berlin on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ DJ W!ld is a house and tech house artist tracked on soundcheck, with 29 sets log
 
 Inessa Raum, Gauthier DM, BeleeJean
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwild/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwild/)*

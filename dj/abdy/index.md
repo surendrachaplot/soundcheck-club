@@ -1,6 +1,6 @@
 # Abdy
 
-Abdy is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Vita - Hotel & Rooftop, Malta on Fri, 17 Jul 2026.
+Abdy is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Vita - Hotel & Rooftop, Malta on Fri, 17 Jul 2026.
 
 Abdy is a progressive house and techno artist based in Malta, tracked on soundcheck, with 38 sets logged across London, Malta and Zurich. Often billed alongside Philip Ackowsky, Shabab Khan and Adel dj. Next up: Vita - Hotel & Rooftop, Malta on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Abdy is a progressive house and techno artist based in Malta, tracked on soundch
 
 Philip Ackowsky, Shabab Khan, Adel dj
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abdy/)*

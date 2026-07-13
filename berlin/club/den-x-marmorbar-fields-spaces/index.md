@@ -1,6 +1,6 @@
 # ÆDEN x MARMORBAR: Fields & Spaces
 
-ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DAYSHIFT #3: ŒL Garten - Bress Underground,Selin, Robbie K, Kat_Es, Monsai, LOBO" on Sat, 18 Jul 2026.
+ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DAYSHIFT #3: ŒL Garten - Bress Underground,Selin, Robbie K, Kat_Es, Monsai, LOBO" on Sat, 18 Jul 2026.
 
 ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including ADAM MUNNINGS, Amowia, angelboy and Bress Underground and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 3.
 
@@ -17,4 +17,4 @@
 
 Schleusenufer 3, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den-x-marmorbar-fields-spaces/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den-x-marmorbar-fields-spaces/)*

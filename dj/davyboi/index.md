@@ -1,6 +1,6 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+davyboi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
@@ -36,4 +36,4 @@ davyboi is a techno and trance artist tracked on soundcheck, with 154 sets logge
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

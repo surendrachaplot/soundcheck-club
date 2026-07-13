@@ -1,6 +1,6 @@
 # Chinelo
 
-Chinelo is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 25 Jul 2026.
+Chinelo is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 25 Jul 2026.
 
 Chinelo is a club and techno artist tracked on soundcheck, with 69 sets logged across Newyorkcity, Toronto and Vancouver. Often billed alongside HVN (1), Ard1n and Young Teesh. Next up: 131 Mccormack St, Toronto on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Chinelo is a club and techno artist tracked on soundcheck, with 69 sets logged a
 
 HVN (1), Ard1n, Young Teesh
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinelo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinelo/)*

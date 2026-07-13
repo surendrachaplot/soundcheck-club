@@ -1,6 +1,6 @@
 # southstar
 
-southstar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+southstar is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 southstar is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Basel and Belfast and 32 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ southstar is a techno and house artist tracked on soundcheck, with 54 sets logge
 
 Funk Tribu, DJ Heartstring, Janis Zielinski
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

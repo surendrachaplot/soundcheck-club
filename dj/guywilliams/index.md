@@ -1,6 +1,6 @@
 # Guy Williams
 
-Guy Williams is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 13 Jul 2026.
+Guy Williams is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 13 Jul 2026.
 
 Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets logged across Barcelona, Ibiza, London and Manchester and 2 more. Often billed alongside Jo Mills, S/A/M and Mr Doris. Next up: Chinois Ibiza, Ibiza on Mon 13 Jul.
 
@@ -27,4 +27,4 @@ Guy Williams is a house and disco artist tracked on soundcheck, with 64 sets log
 
 Jo Mills, S/A/M, Mr Doris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guywilliams/)*

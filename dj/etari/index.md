@@ -1,6 +1,6 @@
 # Etari
 
-Etari is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, San Diego on Sat, 18 Jul 2026.
+Etari is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, San Diego on Sat, 18 Jul 2026.
 
 Etari is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside fun2bjane, OZA and Capes. Next up: TBA, Sandiego on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Etari is a techno and house artist based in United States of America, tracked on
 
 fun2bjane, OZA, Capes
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*

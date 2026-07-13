@@ -1,6 +1,6 @@
 # Catz 'N Dogz
 
-Catz 'N Dogz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Can Tarranc, Barcelona on Sat, 18 Jul 2026.
+Catz 'N Dogz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Can Tarranc, Barcelona on Sat, 18 Jul 2026.
 
 Catz 'N Dogz is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Jellybean Benitez, Mousse T. and The Shapeshifters. Next up: Can Tarranc, Barcelona on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Catz 'N Dogz is a house and techno artist tracked on soundcheck, with 82 sets lo
 
 Jellybean Benitez, Mousse T., The Shapeshifters
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*

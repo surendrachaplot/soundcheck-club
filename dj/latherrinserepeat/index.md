@@ -1,6 +1,6 @@
 # Lather Rinse Repeat
 
-Lather Rinse Repeat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Barbossa, Montreal on Fri, 17 Jul 2026.
+Lather Rinse Repeat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Barbossa, Montreal on Fri, 17 Jul 2026.
 
 Lather Rinse Repeat is a house and techno artist tracked on soundcheck, with 27 sets logged across Montreal and Toronto. Often billed alongside h1bou, Field Note and Pretty Privilege. Next up: Barbossa, Montreal on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Lather Rinse Repeat is a house and techno artist tracked on soundcheck, with 27 
 
 h1bou, Field Note, Pretty Privilege
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latherrinserepeat/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latherrinserepeat/)*

@@ -1,6 +1,6 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+DJ Hell is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 DJ Hell is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Binh, Helena Hauff and Paty Vapor. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -29,4 +29,4 @@ DJ Hell is a techno and house artist tracked on soundcheck, with 118 sets logged
 
 Binh, Helena Hauff, Paty Vapor
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

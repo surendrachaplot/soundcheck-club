@@ -1,14 +1,13 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Rhythm x Rectangle Triangle In Store Session" on Sun, 12 Jul 2026.
+Rhythm is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Rhythm In Store Session: Sun Rain Record Release" on Tue, 14 Jul 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including 999ADJ, BOOTYCORNFED, Chloe J and Ficilio and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 999ADJ, BOOTYCORNFED, Chloe J and Ficilio and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Rhythm x Rectangle Triangle In Store Session | Lio' |
 | Tue, 14 Jul 2026 | Rhythm In Store Session: Sun Rain Record Release |  |
 | Wed, 15 Jul 2026 | Rhythm Workshop Series: Ableton 101 |  |
 | Thu, 16 Jul 2026 | Long Play: The Language of Guitars |  |
@@ -23,4 +22,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming nights, wit
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

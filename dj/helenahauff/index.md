@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+Helena Hauff is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 Helena Hauff is a techno and electro artist based in Germany, tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -32,4 +32,4 @@ Helena Hauff is a techno and electro artist based in Germany, tracked on soundch
 
 Ben UFO, DVS1, Job Jobse
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

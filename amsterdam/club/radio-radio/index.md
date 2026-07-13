@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Malin Genie • Elias Mazian" on Fri, 17 Jul 2026.
+Radio Radio is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Malin Genie • Elias Mazian" on Fri, 17 Jul 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Cybersex, Danielle, Dee Diggs and De Sluwe Vos and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -19,4 +19,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 6 upcoming night
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

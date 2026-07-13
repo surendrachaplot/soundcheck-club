@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at RASA, Singapore on Fri, 24 Jul 2026.
+JakoJako is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at RASA, Singapore on Fri, 24 Jul 2026.
 
 JakoJako is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Barker, Rødhåd and Fadi Mohem. Next up: RASA, Singapore on Fri 24 Jul.
 
@@ -36,4 +36,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 153 sets logge
 
 Barker, Rødhåd, Fadi Mohem
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

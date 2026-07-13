@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "La Rumba Buena" on Sat, 18 Jul 2026.
+Cafeteria is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "La Rumba Buena" on Sat, 18 Jul 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Ana Luisa, BOOTYCORNFED, Ciel and Clementaum and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -18,4 +18,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

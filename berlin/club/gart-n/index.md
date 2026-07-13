@@ -1,14 +1,13 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Kotori Open Air" on Sun, 12 Jul 2026.
+gART.n is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Chimaera X Transition: Softi, Kat Davids, DJ Balaton *live, Oruvo, Wilhelm Richard *live" on Sat, 18 Jul 2026.
 
-gART.n is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alexia (2), ANNAWAFFEL, Die Ruhe and ELIZEN THE EMPEROR and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
+gART.n is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Alexia (2), ANNAWAFFEL, Die Ruhe and ELIZEN THE EMPEROR and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Kotori Open Air | Heimlich Knüller, Luca Musto, Mia Kober |
 | Sat, 18 Jul 2026 | Chimaera X Transition: Softi, Kat Davids, DJ Balaton *live, Oruvo, Wilhelm Richard *live | Kat Davids, Oruvo, Softi, Wilhelm Richard |
 | Sun, 19 Jul 2026 | Sonntags by Kotoe | ELIZEN THE EMPEROR, Kotoe, Madmotormiquel, Madota |
 | Sat, 8 Aug 2026 | Out of Office: Open Air | Nalamazon, Running Hot, The Office |
@@ -23,4 +22,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

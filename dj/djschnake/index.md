@@ -1,6 +1,6 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Dj Schnake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Dj Schnake is a techno and trance artist tracked on soundcheck, with 49 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -29,4 +29,4 @@ Dj Schnake is a techno and trance artist tracked on soundcheck, with 49 sets log
 
 Die Klar, DJ Caline, Kichta
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*

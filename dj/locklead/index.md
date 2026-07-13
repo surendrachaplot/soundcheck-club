@@ -1,14 +1,13 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 12 Jul 2026.
+Locklead is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Praterinsel, Munich on Sat, 25 Jul 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Chris Stussy, Marsolo and Rossi. Next up: 528 Ibiza, Ibiza on Sun 12 Jul.
+Locklead is a house and tech house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Chris Stussy, Marsolo and Rossi. Next up: Praterinsel, Munich on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | 528 Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Praterinsel | Munich |
 | Fri, 31 Jul 2026 | Elsewhere | New York City |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
@@ -23,6 +22,7 @@ Locklead is a house and tech house artist tracked on soundcheck, with 178 sets l
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - Cova Santa, Ibiza — Tue, 30 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 21 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -30,10 +30,9 @@ Locklead is a house and tech house artist tracked on soundcheck, with 178 sets l
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 - Brighton Beach, Brighton — Sat, 13 Jun 2026
 - NDSM Docklands, Amsterdam — Fri, 5 Jun 2026
-- Hï Ibiza, Ibiza — Tue, 2 Jun 2026
 
 ## Shares bills with
 
 Chris Stussy, Marsolo, Rossi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Black Box Records: Alessio Collina, Vito Fattore, DJ Delivery" on Thu, 16 Jul 2026.
+Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Black Box Records: Alessio Collina, Vito Fattore, DJ Delivery" on Thu, 16 Jul 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alessio Collina, Alma Negrot, Anestis and Baroma and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

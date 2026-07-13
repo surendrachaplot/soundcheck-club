@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at HVEN, Tokyo on Fri, 31 Jul 2026.
+Fred P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at HVEN, Tokyo on Fri, 31 Jul 2026.
 
 Fred P is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, Paquita Gordon and Quelza. Next up: HVEN, Tokyo on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Fred P is a house and techno artist tracked on soundcheck, with 84 sets logged a
 
 DJ Nobu, Paquita Gordon, Quelza
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

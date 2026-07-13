@@ -1,6 +1,6 @@
 # ONO (3)
 
-ONO (3) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cave, Tokyo on Sat, 18 Jul 2026.
+ONO (3) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cave, Tokyo on Sat, 18 Jul 2026.
 
 ONO (3) is a techno and minimal artist based in Japan, tracked on soundcheck, with 32 sets logged across Montreal, Osaka and Tokyo. Often billed alongside Shingo, VIDEOBOY and Kohei. Next up: Cave, Tokyo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ ONO (3) is a techno and minimal artist based in Japan, tracked on soundcheck, wi
 
 Shingo, VIDEOBOY, Kohei
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ono-3/)*

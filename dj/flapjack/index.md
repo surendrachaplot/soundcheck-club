@@ -1,6 +1,6 @@
 # Flapjack
 
-Flapjack is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Market Hotel, New York City on Sat, 18 Jul 2026.
+Flapjack is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Market Hotel, New York City on Sat, 18 Jul 2026.
 
 Flapjack is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 43 sets logged across Austin, Chicago, Losangeles and Madrid and 9 more. Often billed alongside Baseck, Technopagan and BL4ZE. Next up: Market Hotel, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Flapjack is a hardcore and gabber artist based in United States of America, trac
 
 Baseck, Technopagan, BL4ZE
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flapjack/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flapjack/)*

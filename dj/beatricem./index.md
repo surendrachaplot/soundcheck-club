@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Bass and Dubstep artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Prairie du Canal, Paris on Tue, 14 Jul 2026.
+Beatrice M. is a Bass and Dubstep artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Prairie du Canal, Paris on Tue, 14 Jul 2026.
 
 Beatrice M. is a bass and dubstep artist tracked on soundcheck, with 117 sets logged across Amsterdam, Berlin, Brighton and Bristol and 25 more. Often billed alongside Tim Reaper, EMA (1) and Ehua. Next up: La Prairie du Canal, Paris on Tue 14 Jul.
 
@@ -31,4 +31,4 @@ Beatrice M. is a bass and dubstep artist tracked on soundcheck, with 117 sets lo
 
 Tim Reaper, EMA (1), Ehua
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

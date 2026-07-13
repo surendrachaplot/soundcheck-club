@@ -1,6 +1,6 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Walpole Park, London on Sat, 18 Jul 2026.
+Fattony is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Walpole Park, London on Sat, 18 Jul 2026.
 
 Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 31 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Melon Bomb and Melvo Baptiste. Next up: Walpole Park, London on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 
 Horse Meat Disco, Melon Bomb, Melvo Baptiste
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

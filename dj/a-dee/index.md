@@ -1,6 +1,6 @@
 # A-DEE
 
-A-DEE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at LIVE EVIL, Munich on Fri, 17 Jul 2026.
+A-DEE is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at LIVE EVIL, Munich on Fri, 17 Jul 2026.
 
 A-DEE is a house and electro artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Munich and Stuttgart. Often billed alongside A-Dee and Dasmo, DJ Floppy Disk and Julie Fleischer. Next up: LIVE EVIL, Munich on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ A-DEE is a house and electro artist based in Germany, tracked on soundcheck, wit
 
 A-Dee and Dasmo, DJ Floppy Disk, Julie Fleischer
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-dee/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-dee/)*

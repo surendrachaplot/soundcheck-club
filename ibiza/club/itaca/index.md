@@ -1,6 +1,6 @@
 # Itaca
 
-Itaca is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Kiki Events Ibiza presents Mica Piola" on Tue, 21 Jul 2026.
+Itaca is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Kiki Events Ibiza presents Mica Piola" on Tue, 21 Jul 2026.
 
 Itaca is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with line-ups including FINKY, Horatio and Larisse Van Doorn. Browse upcoming dates, start times and who's playing. Avinguda del Doctor Fleming, 8, 07820 Sant Antoni de Portmany, Illes Balears, España.
 
@@ -18,4 +18,4 @@ Itaca is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with li
 
 Avinguda del Doctor Fleming, 8, 07820 Sant Antoni de Portmany, Illes Balears, España, Ibiza
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/itaca/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/itaca/)*

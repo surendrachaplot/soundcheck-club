@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
+Perc is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
 Perc is a techno and industrial artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Somniac One, Ansome and DAX J. Next up: Union Park, Chicago on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Perc is a techno and industrial artist tracked on soundcheck, with 150 sets logg
 
 Somniac One, Ansome, DAX J
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

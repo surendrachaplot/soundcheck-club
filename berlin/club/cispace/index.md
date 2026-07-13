@@ -1,6 +1,6 @@
 # Cispace
 
-Cispace is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Noir House" on Fri, 31 Jul 2026.
+Cispace is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Noir House" on Fri, 31 Jul 2026.
 
 Cispace is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cispace is a music venue in Berlin listed on soundcheck. 1 upcoming night. Brows
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Noir House |  |
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cispace/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cispace/)*

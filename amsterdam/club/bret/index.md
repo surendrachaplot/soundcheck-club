@@ -1,14 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Mau P + Joëlla Jackson" on Sun, 12 Jul 2026.
+BRET is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "BUBBLEGUM - Ranger Trucco, Camille Doe, FONZO, DJANGO" on Fri, 17 Jul 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Anton Jonathan, BAUGRUPPE90, Ben Sims and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Anton Jonathan, BAUGRUPPE90, Ben Sims and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Mau P + Joëlla Jackson | Joëlla Jackson, Mau P |
 | Fri, 17 Jul 2026 | BUBBLEGUM - Ranger Trucco, Camille Doe, FONZO, DJANGO | Camille Doe, DJANGO (NL), Fonzo (UK), Ranger Trucco |
 | Sat, 18 Jul 2026 | The Ghost x BRET | The Ghost |
 | Sun, 19 Jul 2026 | TAFKAMP INVITES Ben Sims, Deetron PRESENTS SOULMATE & Pelanoir | Ben Sims, Deetron, Pelanoir, TAFKAMP |
@@ -23,4 +22,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, wit
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

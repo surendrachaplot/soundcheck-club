@@ -1,6 +1,6 @@
 # Grabba Ranks
 
-Grabba Ranks is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 18 Jul 2026.
+Grabba Ranks is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 18 Jul 2026.
 
 Grabba Ranks is a club and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago, Miami and Newyorkcity. Often billed alongside NoahG, SUPR SPRT and Daniro. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Grabba Ranks is a club and house artist based in United States of America, track
 
 NoahG, SUPR SPRT, Daniro
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grabbaranks/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grabbaranks/)*

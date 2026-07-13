@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "goodie no. 156 with Stonie Blue, Francisco Collazo, Bridget B" on Fri, 24 Jul 2026.
+Bastet is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "goodie no. 156 with Stonie Blue, Francisco Collazo, Bridget B" on Fri, 24 Jul 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Anne Fahn, Bridget B, Dj Danifox and DJ Lycox and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -17,4 +17,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

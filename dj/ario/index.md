@@ -1,6 +1,6 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at rake?raka?, Osaka on Mon, 13 Jul 2026.
+Ario is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at rake?raka?, Osaka on Mon, 13 Jul 2026.
 
 Ario is a techno and ambient artist tracked on soundcheck, with 80 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: rake?raka?, Osaka on Mon 13 Jul.
 
@@ -27,4 +27,4 @@ Ario is a techno and ambient artist tracked on soundcheck, with 80 sets logged a
 
 F-on, Yoshitaka Shirakura, Endurance
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*

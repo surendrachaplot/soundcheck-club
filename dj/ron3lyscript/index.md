@@ -1,6 +1,6 @@
 # ron3lyscript
 
-ron3lyscript is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at WOMB, Tokyo on Wed, 15 Jul 2026.
+ron3lyscript is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at WOMB, Tokyo on Wed, 15 Jul 2026.
 
 ron3lyscript is a drum & bass and jungle artist based in Japan, tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Altemica. Next up: WOMB, Tokyo on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ ron3lyscript is a drum & bass and jungle artist based in Japan, tracked on sound
 
 SN_Yeah, ReFuCafé, Altemica
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ron3lyscript/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ron3lyscript/)*

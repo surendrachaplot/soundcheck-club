@@ -1,6 +1,6 @@
 # m4tsch1
 
-m4tsch1 is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Provitreff, Zurich on Sat, 18 Jul 2026.
+m4tsch1 is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Provitreff, Zurich on Sat, 18 Jul 2026.
 
 m4tsch1 is a hardcore and trance artist tracked on soundcheck, with 39 sets logged across Berlin, Leipzig and Zurich. Often billed alongside FLUCC, Osiris (2) and LØUS. Next up: Provitreff, Zurich on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ m4tsch1 is a hardcore and trance artist tracked on soundcheck, with 39 sets logg
 
 FLUCC, Osiris (2), LØUS
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*

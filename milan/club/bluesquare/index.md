@@ -1,6 +1,6 @@
 # Bluesquare
 
-Bluesquare is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Hi-Fi Weekends with Gramophone *Free Entry*" on Fri, 17 Jul 2026.
+Bluesquare is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Hi-Fi Weekends with Gramophone *Free Entry*" on Fri, 17 Jul 2026.
 
 Bluesquare is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Gramophone and Turbojazz. Browse upcoming dates, start times and who's playing. Via Tortona 33, 20144.
 
@@ -17,4 +17,4 @@ Bluesquare is a music venue in Milan listed on soundcheck. 4 upcoming nights, wi
 
 Via Tortona 33, 20144, Milan
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*

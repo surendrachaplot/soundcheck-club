@@ -1,6 +1,6 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at HVEN, Tokyo on Sun, 19 Jul 2026.
+tamanaramen is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at HVEN, Tokyo on Sun, 19 Jul 2026.
 
 tamanaramen is an experimental and techno artist based in Japan, tracked on soundcheck, with 31 sets logged across Berlin, Brussels, Hongkong and London and 4 more. Often billed alongside HIMAWARI, Torus and Yurushite Nyan. Next up: HVEN, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ tamanaramen is an experimental and techno artist based in Japan, tracked on soun
 
 HIMAWARI, Torus, Yurushite Nyan
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*

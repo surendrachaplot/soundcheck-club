@@ -1,6 +1,6 @@
 # Urbayn Berlin
 
-Urbayn Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Unconventional Speed Dating for Kinksters" on Fri, 17 Jul 2026.
+Urbayn Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Unconventional Speed Dating for Kinksters" on Fri, 17 Jul 2026.
 
 Urbayn Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Glasbläserallee 25.
 
@@ -14,4 +14,4 @@ Urbayn Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night.
 
 Glasbläserallee 25, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urbayn-berlin/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urbayn-berlin/)*

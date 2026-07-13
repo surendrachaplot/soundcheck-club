@@ -1,6 +1,6 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Eric Johnson" on Mon, 13 Jul 2026.
+Akvárium Klub is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Eric Johnson" on Mon, 13 Jul 2026.
 
 Akvárium Klub is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including Eli Brown, Eric Johnson, Fritz Kalkbrenner and Jamie Woon and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 10 upcoming ni
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

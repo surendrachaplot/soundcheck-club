@@ -1,6 +1,6 @@
 # J.Benitez (2)
 
-J.Benitez (2) is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 18 Jul 2026.
+J.Benitez (2) is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 18 Jul 2026.
 
 J.Benitez (2) is a house and reggaeton artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona. Often billed alongside FLEX.cat, A. CASANOVA and Couce. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ J.Benitez (2) is a house and reggaeton artist based in Spain, tracked on soundch
 
 FLEX.cat, A. CASANOVA, Couce
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j.benitez-2/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/j.benitez-2/)*

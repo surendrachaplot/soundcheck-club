@@ -1,6 +1,6 @@
 # Connect
 
-Connect is a Electronica and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Port Bay Brunch & Tapas, Barcelona on Fri, 17 Jul 2026.
+Connect is a Electronica and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Port Bay Brunch & Tapas, Barcelona on Fri, 17 Jul 2026.
 
 Connect is an electronica and progressive house artist based in Brazil, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Cork and Dublin and 1 more. Often billed alongside Romanetto, Phil Bass and ALPER SKR. Next up: Port Bay Brunch & Tapas, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Connect is an electronica and progressive house artist based in Brazil, tracked 
 
 Romanetto, Phil Bass, ALPER SKR
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/connect/)*

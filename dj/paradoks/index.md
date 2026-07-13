@@ -1,6 +1,6 @@
 # Paradoks
 
-Paradoks is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Story Toronto, Toronto on Fri, 17 Jul 2026.
+Paradoks is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Story Toronto, Toronto on Fri, 17 Jul 2026.
 
 Paradoks is a techno and progressive house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Berlin and Brussels and 16 more. Often billed alongside Nora En Pure, Corren Cavini and Miss Monique. Next up: Story Toronto, Toronto on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Paradoks is a techno and progressive house artist tracked on soundcheck, with 31
 
 Nora En Pure, Corren Cavini, Miss Monique
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paradoks/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paradoks/)*

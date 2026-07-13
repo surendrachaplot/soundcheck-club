@@ -1,14 +1,13 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "PillowTalk Sessions with Baby Prince, Lil'T, and Shane One" on Sun, 12 Jul 2026.
+The Sultan Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DANG! - A Soulful Electronic Dance Night" on Fri, 17 Jul 2026.
 
-The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Aleska, Baby Prince, Destro187 and elle xxo and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Aleska, Destro187, elle xxo and Hope 808 and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | PillowTalk Sessions with Baby Prince, Lil'T, and Shane One | Baby Prince, Lil'T, Shane One |
 | Fri, 17 Jul 2026 | DANG! - A Soulful Electronic Dance Night |  |
 | Sat, 18 Jul 2026 | Afro Carnival Riddim N Bass |  |
 | Sun, 19 Jul 2026 | Ascendance Jazz Festival Day 2 |  |
@@ -18,9 +17,10 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 12 upcomin
 | Sat, 1 Aug 2026 | Gorgeous Gorgeous: Renaissance |  |
 | Wed, 12 Aug 2026 | Aleska, elle xxo, Hope 808, La Vega | Aleska, Hope 808, La Vega, elle xxo |
 | Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
+| Fri, 21 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 
 ## Address
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 18 Jul 2026.
+Gabbs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Vittoria Wharf Studio, London on Sat, 18 Jul 2026.
 
 Gabbs is a house and techno artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Alexia Glensy, Christian AB and DJ Senc. Next up: Vittoria Wharf Studio, London on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Gabbs is a house and techno artist tracked on soundcheck, with 176 sets logged a
 
 Alexia Glensy, Christian AB, DJ Senc
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

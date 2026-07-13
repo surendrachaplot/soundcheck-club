@@ -1,6 +1,6 @@
 # SZELEST
 
-SZELEST is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+SZELEST is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
 SZELEST is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside EliaHaze, Anton Jonathan and DJ Babyblade. Next up: Else, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ SZELEST is a house and techno artist tracked on soundcheck, with 31 sets logged 
 
 EliaHaze, Anton Jonathan, DJ Babyblade
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/szelest/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/szelest/)*

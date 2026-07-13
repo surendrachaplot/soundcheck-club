@@ -1,6 +1,6 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Beensufferable Volume 2 with Cat & Calmell" on Fri, 24 Jul 2026.
+The Night Cat is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Beensufferable Volume 2 with Cat & Calmell" on Fri, 24 Jul 2026.
 
 The Night Cat is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Alan Fitzpatrick, Chris Luno and O'Flynn. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
@@ -18,4 +18,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 5 upcoming nig
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

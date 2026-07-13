@@ -1,6 +1,6 @@
 # Memo.
 
-Memo. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
+Memo. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
 
 Memo. is a techno and house artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin and Ibiza. Often billed alongside Leon Licht, ADAMN and Kaufmann. Next up: Renate, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Memo. is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Leon Licht, ADAMN, Kaufmann
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/memo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/memo/)*

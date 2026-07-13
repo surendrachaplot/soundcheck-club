@@ -1,6 +1,6 @@
 # Jodie Harsh
 
-Jodie Harsh is a House and Pop artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 20 Jul 2026.
+Jodie Harsh is a House and Pop artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Mon, 20 Jul 2026.
 
 Jodie Harsh is a house and pop artist tracked on soundcheck, with 28 sets logged across Copenhagen, Ibiza, Liverpool and London and 6 more. Often billed alongside Oscar Colorado, Joshua James and Robin Schulz. Next up: Chinois Ibiza, Ibiza on Mon 20 Jul.
 
@@ -29,4 +29,4 @@ Jodie Harsh is a house and pop artist tracked on soundcheck, with 28 sets logged
 
 Oscar Colorado, Joshua James, Robin Schulz
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieharsh/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieharsh/)*

@@ -1,6 +1,6 @@
 # Tartaruga Beach Bar
 
-Tartaruga Beach Bar is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Riktus on the beach with MEDUSA (Portugal Debut)" on Sat, 1 Aug 2026.
+Tartaruga Beach Bar is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Riktus on the beach with MEDUSA (Portugal Debut)" on Sat, 1 Aug 2026.
 
 Tartaruga Beach Bar is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Madson Carpenter and NOQIA. Browse upcoming dates, start times and who's playing. Praia da Nova Vaga, Costa da Caparica, Almada.
 
@@ -14,4 +14,4 @@ Tartaruga Beach Bar is a music venue in Lisbon listed on soundcheck. 1 upcoming 
 
 Praia da Nova Vaga, Costa da Caparica, Almada, Lisbon
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tartaruga-beach-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tartaruga-beach-bar/)*

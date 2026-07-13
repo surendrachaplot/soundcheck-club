@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Jitsumitsu/Chanaz/MakiMiyaji/Daichi" on Mon, 13 Jul 2026.
+Mitsuki is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Jitsumitsu/Chanaz/MakiMiyaji/Daichi" on Mon, 13 Jul 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including adak7, AKIRAM EN, au4r33y and CALPISS and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -20,4 +20,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with 
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

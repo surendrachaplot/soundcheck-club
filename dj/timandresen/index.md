@@ -1,6 +1,6 @@
 # Tim Andresen
 
-Tim Andresen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hangaren, Copenhagen on Fri, 17 Jul 2026.
+Tim Andresen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hangaren, Copenhagen on Fri, 17 Jul 2026.
 
 Tim Andresen is a house and techno artist based in Denmark, tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 14 more. Often billed alongside Gerssein, NILU and Shansen. Next up: Hangaren, Copenhagen on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Tim Andresen is a house and techno artist based in Denmark, tracked on soundchec
 
 Gerssein, NILU, Shansen
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timandresen/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timandresen/)*

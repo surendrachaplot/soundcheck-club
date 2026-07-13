@@ -1,6 +1,6 @@
 # Big Lil
 
-Big Lil is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Burza #4, Prague on Fri, 17 Jul 2026.
+Big Lil is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Burza #4, Prague on Fri, 17 Jul 2026.
 
 Big Lil is a techno and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Prague. Often billed alongside Fembot, AVHD and Kaotic. Next up: Burza #4, Prague on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Big Lil is a techno and house artist based in United States of America, tracked 
 
 Fembot, AVHD, Kaotic
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*

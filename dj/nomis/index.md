@@ -1,6 +1,6 @@
 # Nomis
 
-Nomis is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
+Nomis is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
 
 Nomis is a deep house and afro house artist tracked on soundcheck, with 28 sets logged across Ibiza, Newyorkcity, Paris and Strasbourg. Often billed alongside Sasson, Oktave and ARKADYAN. Next up: Hï Ibiza, Ibiza on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ Nomis is a deep house and afro house artist tracked on soundcheck, with 28 sets 
 
 Sasson, Oktave, ARKADYAN
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nomis/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nomis/)*

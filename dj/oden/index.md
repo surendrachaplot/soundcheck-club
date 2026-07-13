@@ -1,6 +1,6 @@
 # Oden
 
-Oden is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 23 Jul 2026.
+Oden is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 23 Jul 2026.
 
 Oden is a house and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Fatzo, Armand Van Helden and Low Steppa. Next up: Chinois Ibiza, Ibiza on Thu 23 Jul.
 
@@ -30,4 +30,4 @@ Oden is a house and tech house artist tracked on soundcheck, with 137 sets logge
 
 Fatzo, Armand Van Helden, Low Steppa
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

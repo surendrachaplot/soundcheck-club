@@ -1,6 +1,6 @@
 # Joi La Frique
 
-Joi La Frique is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Grub Records, Sheffield on Sat, 18 Jul 2026.
+Joi La Frique is a Funk / Soul and Jazz artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Grub Records, Sheffield on Sat, 18 Jul 2026.
 
 Joi La Frique is a funk / soul and jazz artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Cardiff, Copenhagen, Leeds and Liverpool and 4 more. Often billed alongside Nonna Fab, Wow & Flutter and Hames. Next up: Grub Records, Sheffield on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Joi La Frique is a funk / soul and jazz artist based in United Kingdom, tracked 
 
 Nonna Fab, Wow & Flutter, Hames
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joilafrique/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joilafrique/)*

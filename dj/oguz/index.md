@@ -1,6 +1,6 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 25 Jul 2026.
+OGUZ is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 25 Jul 2026.
 
 OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Club Phoenix - Gianpula Village, Malta on Sat 25 Jul.
 
@@ -34,4 +34,4 @@ OGUZ is a techno and house artist tracked on soundcheck, with 193 sets logged ac
 
 Basswell, DYEN, Nico Moreno
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

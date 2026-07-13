@@ -1,6 +1,6 @@
 # Derv
 
-Derv is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
+Derv is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at radial, London on Sat, 8 Aug 2026.
 
 Derv is a techno and house artist based in Ireland, tracked on soundcheck, with 69 sets logged across Belfast, Dublin, Galway and Limerick and 2 more. Often billed alongside Puzzy Wrangler, Mode_1 and Collie (1). Next up: radial, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Derv is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 Puzzy Wrangler, Mode_1, Collie (1)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/derv/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/derv/)*

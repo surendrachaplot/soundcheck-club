@@ -1,6 +1,6 @@
 # Todd Terje
 
-Todd Terje is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
+Todd Terje is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at C.S. Lewis Square, London on Sat, 25 Jul 2026.
 
 Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside Jayda G, Skatebård and Underworld. Next up: C.S. Lewis Square, London on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logge
 
 Jayda G, Skatebård, Underworld
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*

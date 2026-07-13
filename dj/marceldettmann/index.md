@@ -1,6 +1,6 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Marcel Dettmann is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Marcel Dettmann is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 244 set
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

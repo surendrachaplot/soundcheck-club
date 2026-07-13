@@ -1,6 +1,6 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Wrong Party! at McChuills" on Sat, 18 Jul 2026.
+McChuills Music Bar is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Wrong Party! at McChuills" on Sat, 18 Jul 2026.
 
 McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Acid Boner, Chris Hewitt, Deepbass and Fernie and 2 more. Browse upcoming dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
@@ -18,4 +18,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 5 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

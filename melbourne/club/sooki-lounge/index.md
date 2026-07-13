@@ -1,6 +1,6 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "HDC #119 DRAEYZO Takeover" on Sat, 18 Jul 2026.
+Sooki Lounge is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "HDC #119 DRAEYZO Takeover" on Sat, 18 Jul 2026.
 
 Sooki Lounge is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Bort, Grem (IT), JENKO and Rock Bottom and 1 more. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
@@ -19,4 +19,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 6 upcoming nigh
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

@@ -1,6 +1,6 @@
 # Koara
 
-Koara is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DOUMEKI" on Sat, 18 Jul 2026.
+Koara is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DOUMEKI" on Sat, 18 Jul 2026.
 
 Koara is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including CHEZ MOI, Ippei, Mikio Kaminakamura and Peri (JP). Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -17,4 +17,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with li
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

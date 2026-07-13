@@ -1,14 +1,13 @@
 # Cherry Beach
 
-Cherry Beach is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Promise Cherry Beach: Phillippe presents Jojoflores (MTL)" on Sun, 12 Jul 2026.
+Cherry Beach is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Promise Cherry Beach: Collective Exile presents Unai Trotti (Spain)" on Sun, 19 Jul 2026.
 
-Cherry Beach is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 1morning, 98dots, ARK1TEK and Audio Space and 2 more. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
+Cherry Beach is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including 1morning, 98dots, ARK1TEK and Audio Space and 2 more. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Promise Cherry Beach: Phillippe presents Jojoflores (MTL) | Hangaelle, Jojoflores, Phillippe |
 | Sun, 19 Jul 2026 | Promise Cherry Beach: Collective Exile presents Unai Trotti (Spain) | 98dots, Audio Space, Unai Trotti |
 | Sun, 26 Jul 2026 | Promise Cherry Beach: Ozmozis presents Dimuth K (Sri Lanka) | Dimuth K, Non (TO) |
 | Mon, 3 Aug 2026 | Promise Cherry Beach: Apollo presents Measure Divide OPEN 2 CLOSE | Measure Divide |
@@ -22,4 +21,4 @@ Cherry Beach is a music venue in Toronto listed on soundcheck. 9 upcoming nights
 
 Toronto, ON; Canada, Toronto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*

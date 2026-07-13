@@ -1,6 +1,6 @@
 # Yudai Sugiyama
 
-Yudai Sugiyama is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 18 Jul 2026.
+Yudai Sugiyama is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 18 Jul 2026.
 
 Yudai Sugiyama is a house and techno artist based in Japan, tracked on soundcheck, with 27 sets logged across Osaka. Often billed alongside Cine, DJ Compufunk and DJ KAZUMA. Next up: Teranoma Tidepool, Osaka on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Yudai Sugiyama is a house and techno artist based in Japan, tracked on soundchec
 
 Cine, DJ Compufunk, DJ KAZUMA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yudaisugiyama/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yudaisugiyama/)*

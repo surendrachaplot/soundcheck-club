@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+Armand Van Helden is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 Armand Van Helden is a house and disco artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ Armand Van Helden is a house and disco artist tracked on soundcheck, with 98 set
 
 Fatzo, Oden, MiNNA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

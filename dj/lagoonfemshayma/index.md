@@ -1,6 +1,6 @@
 # Lagoon Femshayma
 
-Lagoon Femshayma is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Unit 58, London on Sat, 18 Jul 2026.
+Lagoon Femshayma is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Unit 58, London on Sat, 18 Jul 2026.
 
 Lagoon Femshayma is a techno and club artist tracked on soundcheck, with 48 sets logged across Antwerp, Auckland, Bangkok and Barcelona and 9 more. Often billed alongside Lil C, Handsome Rob and Fiyahdred. Next up: Unit 58, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Lagoon Femshayma is a techno and club artist tracked on soundcheck, with 48 sets
 
 Lil C, Handsome Rob, Fiyahdred
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lagoonfemshayma/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lagoonfemshayma/)*

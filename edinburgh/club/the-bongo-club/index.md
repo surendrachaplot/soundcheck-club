@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Disorder: Bongo Closing Party [JUNGLE & DRUM & BASS]" on Fri, 17 Jul 2026.
+The Bongo Club is a music venue in Edinburgh with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Disorder: Bongo Closing Party [JUNGLE & DRUM & BASS]" on Fri, 17 Jul 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 7 upcoming nights, with line-ups including billybawbags, Darrell Pulse, Hammer and Harry Jackson and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -20,4 +20,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 7 upcoming ni
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

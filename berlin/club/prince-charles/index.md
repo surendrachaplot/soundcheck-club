@@ -1,6 +1,6 @@
 # Prince Charles
 
-Prince Charles is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Groove For Good with Refuge Worldwide" on Sun, 2 Aug 2026.
+Prince Charles is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Groove For Good with Refuge Worldwide" on Sun, 2 Aug 2026.
 
 Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including CARISTA, Cyan85, Holten and Mall Grab and 2 more. Browse upcoming dates, start times and who's playing. Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Prince Charles is a music venue in Berlin listed on soundcheck. 3 upcoming night
 
 Prinzenstrasse 85; Friedrichshain-Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prince-charles/)*

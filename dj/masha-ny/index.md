@@ -1,6 +1,6 @@
 # Ma Sha
 
-Ma Sha is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Horn, Bangkok on Fri, 17 Jul 2026.
+Ma Sha is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Horn, Bangkok on Fri, 17 Jul 2026.
 
 Ma Sha is a techno and bass artist tracked on soundcheck, with 89 sets logged across Bangkok, Barcelona, Berlin and Chicago and 22 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Horn, Bangkok on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Ma Sha is a techno and bass artist tracked on soundcheck, with 89 sets logged ac
 
 Sobolik, Sheepshead, Ayesha
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*

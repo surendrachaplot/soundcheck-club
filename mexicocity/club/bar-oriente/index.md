@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Clubhouse Bangers: Las Veronicas (sadgal + Celice), Filius Natura, Stereo Cats" on Thu, 16 Jul 2026.
+Bar Oriente is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Clubhouse Bangers: Las Veronicas (sadgal + Celice), Filius Natura, Stereo Cats" on Thu, 16 Jul 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including Aleksandir, Bobo, Celice Monnette and Elegant Hands and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -19,4 +19,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 6 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

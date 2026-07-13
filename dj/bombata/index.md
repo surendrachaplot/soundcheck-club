@@ -1,6 +1,6 @@
 # Bombata
 
-Bombata is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ritter Butzke, Berlin on Fri, 17 Jul 2026.
+Bombata is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ritter Butzke, Berlin on Fri, 17 Jul 2026.
 
 Bombata is a tech house and house artist based in Germany, tracked on soundcheck, with 78 sets logged across Berlin. Often billed alongside Dennis Beutler, Peet Flower and Fab Massimo. Next up: Ritter Butzke, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Bombata is a tech house and house artist based in Germany, tracked on soundcheck
 
 Dennis Beutler, Peet Flower, Fab Massimo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bombata/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bombata/)*

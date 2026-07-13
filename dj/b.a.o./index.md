@@ -1,6 +1,6 @@
 # B.A.O.
 
-B.A.O. is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Humboldthain Club, Berlin on Sat, 18 Jul 2026.
+B.A.O. is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Humboldthain Club, Berlin on Sat, 18 Jul 2026.
 
 B.A.O. is a trance and techno artist based in Vietnam, tracked on soundcheck, with 25 sets logged across Berlin and Stuttgart. Often billed alongside elliephunk, BreakLD and Mumu. Next up: Humboldthain Club, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ B.A.O. is a trance and techno artist based in Vietnam, tracked on soundcheck, wi
 
 elliephunk, BreakLD, Mumu
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b.a.o./)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b.a.o./)*

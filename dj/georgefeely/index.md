@@ -1,6 +1,6 @@
 # George Feely
 
-George Feely is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Electric Garden, Dublin on Sat, 18 Jul 2026.
+George Feely is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Electric Garden, Dublin on Sat, 18 Jul 2026.
 
 George Feely is a house and disco artist based in Ireland, tracked on soundcheck, with 28 sets logged across Cork, Dublin, Galway and London and 1 more. Often billed alongside Boots & Kats, AADM and Ambit. Next up: Electric Garden, Dublin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ George Feely is a house and disco artist based in Ireland, tracked on soundcheck
 
 Boots & Kats, AADM, Ambit
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefeely/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefeely/)*

@@ -1,6 +1,6 @@
 # Better Tomorrow
 
-Better Tomorrow is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Surface DIY with Jane Margarette, pollensource & Capes" on Thu, 16 Jul 2026.
+Better Tomorrow is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Surface DIY with Jane Margarette, pollensource & Capes" on Thu, 16 Jul 2026.
 
 Better Tomorrow is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Capes, Jane Margarette and pollensource. Browse upcoming dates, start times and who's playing. 1133 Venice Blvd Los Angeles CA 90033.
 
@@ -14,4 +14,4 @@ Better Tomorrow is a music venue in Losangeles listed on soundcheck. 1 upcoming 
 
 1133 Venice Blvd Los Angeles CA 90033, Los Angeles
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*

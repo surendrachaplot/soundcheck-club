@@ -1,6 +1,6 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Laure Croft is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Laure Croft is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Lacchesi, Carmen Electro and Lorenzo Lacchesi. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 173 sets lo
 
 Lacchesi, Carmen Electro, Lorenzo Lacchesi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

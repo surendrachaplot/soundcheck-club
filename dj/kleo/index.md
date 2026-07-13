@@ -1,6 +1,6 @@
 # Kléo
 
-Kléo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 18 Jul 2026.
+Kléo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 18 Jul 2026.
 
 Kléo is a house and disco artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 23 more. Often billed alongside Antal, Hunee and Lakuti. Next up: Shelter Amsterdam, Amsterdam on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Kléo is a house and disco artist tracked on soundcheck, with 103 sets logged ac
 
 Antal, Hunee, Lakuti
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*

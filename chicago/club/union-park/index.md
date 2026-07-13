@@ -1,6 +1,6 @@
 # Union Park
 
-Union Park is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Mayan Warrior - Full Art Car Chicago" on Thu, 16 Jul 2026.
+Union Park is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Mayan Warrior - Full Art Car Chicago" on Thu, 16 Jul 2026.
 
 Union Park is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including 999999999, XVIA, Adrian Mills and Anyma and 2 more. Browse upcoming dates, start times and who's playing. 1501 W. Randolph St; Chicago, IL 60607; United States.
 
@@ -16,4 +16,4 @@ Union Park is a music venue in Chicago listed on soundcheck. 3 upcoming nights, 
 
 1501 W. Randolph St; Chicago, IL 60607; United States, Chicago
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/union-park/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/union-park/)*

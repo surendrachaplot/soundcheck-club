@@ -1,6 +1,6 @@
 # Mowie (2)
 
-Mowie (2) is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Montreal on Sat, 18 Jul 2026.
+Mowie (2) is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Montreal on Sat, 18 Jul 2026.
 
 Mowie (2) is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: TBA, Montreal on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Mowie (2) is a hardcore and gabber artist based in Canada, tracked on soundcheck
 
 the bald girl, Baby Bimbo, Outback
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*

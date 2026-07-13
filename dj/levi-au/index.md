@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 15 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Secret Location (Madrid), Madrid on Fri, 17 Jul 2026.
+Levi (AU) is a Afro House and Deep House artist with 15 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Secret Location (Madrid), Madrid on Fri, 17 Jul 2026.
 
 Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside AJ Christou, Freddy Bello and Wheats. Next up: TBA - Secret Location (Madrid), Madrid on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 84 
 
 AJ Christou, Freddy Bello, Wheats
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

@@ -1,6 +1,6 @@
 # The Loft Amsterdam
 
-The Loft Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Tower of Love - Pride editon" on Sat, 1 Aug 2026.
+The Loft Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Tower of Love - Pride editon" on Sat, 1 Aug 2026.
 
 The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1031 KS, Overhoeksplein 1.
 
@@ -14,4 +14,4 @@ The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcomin
 
 1031 KS, Overhoeksplein 1, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-loft-amsterdam/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-loft-amsterdam/)*

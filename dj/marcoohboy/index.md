@@ -1,6 +1,6 @@
 # Marco Ohboy
 
-Marco Ohboy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Wagenburg Lohmühle Berlin, Berlin on Sat, 18 Jul 2026.
+Marco Ohboy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Wagenburg Lohmühle Berlin, Berlin on Sat, 18 Jul 2026.
 
 Marco Ohboy is a house and disco artist based in Italy, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin and Milan. Often billed alongside Ansonica, Luca Carluccio and Izzy Demzky. Next up: Wagenburg Lohmühle Berlin, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Marco Ohboy is a house and disco artist based in Italy, tracked on soundcheck, w
 
 Ansonica, Luca Carluccio, Izzy Demzky
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoohboy/)*

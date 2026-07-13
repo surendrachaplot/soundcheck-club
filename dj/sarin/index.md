@@ -1,6 +1,6 @@
 # SARIN
 
-SARIN is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Handlebar, Toronto on Fri, 17 Jul 2026.
+SARIN is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Handlebar, Toronto on Fri, 17 Jul 2026.
 
 SARIN is an ebm and industrial artist tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Philipp Strobel, Ottoman Grüw and Schwefelgelb. Next up: Handlebar, Toronto on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ SARIN is an ebm and industrial artist tracked on soundcheck, with 36 sets logged
 
 Philipp Strobel, Ottoman Grüw, Schwefelgelb
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarin/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarin/)*

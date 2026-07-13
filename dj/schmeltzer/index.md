@@ -1,6 +1,6 @@
 # Schmeltzer
 
-Schmeltzer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Plażówka Saska, Warsaw on Fri, 17 Jul 2026.
+Schmeltzer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Plażówka Saska, Warsaw on Fri, 17 Jul 2026.
 
 Schmeltzer is a house and techno artist based in Poland, tracked on soundcheck, with 52 sets logged across Krakow and Warsaw. Often billed alongside Taan, bart ender and bielak. Next up: Plażówka Saska, Warsaw on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Schmeltzer is a house and techno artist based in Poland, tracked on soundcheck, 
 
 Taan, bart ender, bielak
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schmeltzer/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schmeltzer/)*

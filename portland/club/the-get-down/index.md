@@ -1,6 +1,6 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Chris Karns (of Pretty Lights Live Band)" on Thu, 23 Jul 2026.
+The Get Down is a music venue in Portland with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Chris Karns (of Pretty Lights Live Band)" on Thu, 23 Jul 2026.
 
 The Get Down is a music venue in Portland listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
@@ -22,4 +22,4 @@ The Get Down is a music venue in Portland listed on soundcheck. 9 upcoming night
 
 615 SE Alder St Suite B, Portland, OR 97214, United States, Portland
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*

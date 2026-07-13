@@ -1,6 +1,6 @@
 # Molyness
 
-Molyness is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sonnenraum, Berlin on Thu, 16 Jul 2026.
+Molyness is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sonnenraum, Berlin on Thu, 16 Jul 2026.
 
 Molyness is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Lisbon and Montreal and 2 more. Often billed alongside Isa Boom, Pekodjinn and Wake Island. Next up: Sonnenraum, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Molyness is a house and techno artist tracked on soundcheck, with 51 sets logged
 
 Isa Boom, Pekodjinn, Wake Island
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/molyness/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/molyness/)*

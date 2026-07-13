@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "All Styles All Smiles: Anya & DVDE" on Thu, 16 Jul 2026.
+Lux Fragil is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "All Styles All Smiles: Anya & DVDE" on Thu, 16 Jul 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including Afonso Peixoto, Alaya (PT), Analodjica and Anya (FR) and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, 
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

@@ -1,6 +1,6 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Public Works Oddjob Loft, San Francisco/Oakland on Sat, 18 Jul 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Public Works Oddjob Loft, San Francisco/Oakland on Sat, 18 Jul 2026.
 
 Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 16 more. Often billed alongside Alain Pauwels, Around Us and Cris-H. Next up: Public Works Oddjob Loft, Sanfrancisco on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Alex O'Rion is a progressive house and deep house artist based in Netherlands, t
 
 Alain Pauwels, Around Us, Cris-H
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*

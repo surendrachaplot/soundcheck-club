@@ -1,6 +1,6 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Shubostar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Shubostar is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Mano Le Tough, Roman Flügel and WhoMadeWho. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Shubostar is a house and techno artist tracked on soundcheck, with 103 sets logg
 
 Mano Le Tough, Roman Flügel, WhoMadeWho
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

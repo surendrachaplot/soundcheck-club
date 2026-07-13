@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Restricted is a techno and hardcore artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
@@ -33,4 +33,4 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 64 sets l
 
 Azyr, JAZZY (2), Vieze Asbak
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

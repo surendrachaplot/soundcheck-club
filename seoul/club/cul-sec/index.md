@@ -1,6 +1,6 @@
 # Cul Sec
 
-Cul Sec is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CUL SEC" on Thu, 16 Jul 2026.
+Cul Sec is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "CUL SEC" on Thu, 16 Jul 2026.
 
 Cul Sec is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including 2nd Floor, Juncheol, Kimgundi and Lyrical daniel and 1 more. Browse upcoming dates, start times and who's playing. 1F, 242, Noksapyeong-daero, Yongsan-gu,, Seoul, Korea 04343.
 
@@ -19,4 +19,4 @@ Cul Sec is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with 
 
 1F, 242, Noksapyeong-daero, Yongsan-gu,, Seoul, Korea 04343, Seoul
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cul-sec/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cul-sec/)*

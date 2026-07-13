@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "KHAOS: Stephanie Sykes, Takaaki Itoh, Eastel, Max Durante, Oxygeno" on Mon, 13 Jul 2026.
+Kilomètre25 is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "KHAOS: Stephanie Sykes, Takaaki Itoh, Eastel, Max Durante, Oxygeno" on Mon, 13 Jul 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including ADB (FR), Airod, Antonym and ARGOT and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including ADB (FR), Airod, Antonym and ARGOT and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 16 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

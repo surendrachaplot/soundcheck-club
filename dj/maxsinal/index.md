@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Setlist @ Somerset House, London on Sun, 2 Aug 2026.
+Max Sinàl is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Setlist @ Somerset House, London on Sun, 2 Aug 2026.
 
 Max Sinàl is a deep house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, Elliot Schooling and Faro. Next up: Setlist @ Somerset House, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 27 sets 
 
 Mr James, Elliot Schooling, Faro
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

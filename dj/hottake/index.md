@@ -1,6 +1,6 @@
 # Hot Take
 
-Hot Take is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Bambi's, Toronto on Sat, 18 Jul 2026.
+Hot Take is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bambi's, Toronto on Sat, 18 Jul 2026.
 
 Hot Take is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Jack Galactic, Darwin and Etari. Next up: Bambi's, Toronto on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Hot Take is a house and techno artist based in United States of America, tracked
 
 Jack Galactic, Darwin, Etari
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*

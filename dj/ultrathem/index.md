@@ -1,6 +1,6 @@
 # Ultrathem
 
-Ultrathem is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paragon, New York City on Fri, 17 Jul 2026.
+Ultrathem is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Paragon, New York City on Fri, 17 Jul 2026.
 
 Ultrathem is a techno and acid artist tracked on soundcheck, with 99 sets logged across Austin, Berlin, Boston and Chicago and 8 more. Often billed alongside Winter Wrong, Robyn Sin Love and SDRV. Next up: Paragon, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Ultrathem is a techno and acid artist tracked on soundcheck, with 99 sets logged
 
 Winter Wrong, Robyn Sin Love, SDRV
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*

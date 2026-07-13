@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 29 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Rescheduled to 9/25: Deorro" on Thu, 16 Jul 2026.
+The Concourse Project is a music venue in Austin with 29 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Rescheduled to 9/25: Deorro" on Thu, 16 Jul 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcoming nights, with line-ups including AC Slater, Adam Ten, Alignment and Audien and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

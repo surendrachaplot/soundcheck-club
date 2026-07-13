@@ -1,14 +1,13 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 12 Jul 2026.
+Indira Paganotto is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 19 Jul 2026.
 
-Indira Paganotto is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Hï Ibiza, Ibiza on Sun 12 Jul.
+Indira Paganotto is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Hï Ibiza, Ibiza on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Hï Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Hï Ibiza | Ibiza |
 | Sun, 26 Jul 2026 | Hï Ibiza | Ibiza |
 | Sun, 2 Aug 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Indira Paganotto is a techno and house artist tracked on soundcheck, with 190 se
 | Sun, 30 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Hï Ibiza | Ibiza |
+| Sun, 20 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sun, 12 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 5 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 28 Jun 2026
 - Hï Ibiza, Ibiza — Sun, 21 Jun 2026
@@ -30,10 +31,9 @@ Indira Paganotto is a techno and house artist tracked on soundcheck, with 190 se
 - Hï Ibiza, Ibiza — Sun, 14 Jun 2026
 - Bolivar Beach Bar, Athens — Sat, 13 Jun 2026
 - Sophie Festival, Malaga — Sat, 13 Jun 2026
-- Hï Ibiza, Ibiza — Sun, 7 Jun 2026
 
 ## Shares bills with
 
 Joseph Capriati, Patrick Mason, Nico Moreno
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*

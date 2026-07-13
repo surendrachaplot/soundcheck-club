@@ -1,6 +1,6 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+SNTS is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 SNTS is a techno and industrial artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -29,4 +29,4 @@ SNTS is a techno and industrial artist tracked on soundcheck, with 169 sets logg
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

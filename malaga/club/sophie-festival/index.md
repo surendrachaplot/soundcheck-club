@@ -1,6 +1,6 @@
 # Sophie Festival
 
-Sophie Festival is a music venue in Malaga with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sophie #4 - Jamie Jones, Traumer, Call Super, Dekmantel Soundsystem" on Sat, 25 Jul 2026.
+Sophie Festival is a music venue in Malaga with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sophie #4 - Jamie Jones, Traumer, Call Super, Dekmantel Soundsystem" on Sat, 25 Jul 2026.
 
 Sophie Festival is a music venue in Malaga listed on soundcheck. 4 upcoming nights, with line-ups including KT, Baldo, Call Super and Dekmantel Soundsystem and 2 more. Browse upcoming dates, start times and who's playing. Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España.
 
@@ -17,4 +17,4 @@ Sophie Festival is a music venue in Malaga listed on soundcheck. 4 upcoming nigh
 
 Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España, Malaga
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sophie-festival/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sophie-festival/)*

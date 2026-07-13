@@ -1,6 +1,6 @@
 # Varis
 
-Varis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 19 Jul 2026.
+Varis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 19 Jul 2026.
 
 Varis is a house and tech house artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Budapest and Madrid and 1 more. Often billed alongside Pizzicatto, Pau Pérez and Sueezo. Next up: Sunseabar Beach Club, Barcelona on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Varis is a house and tech house artist tracked on soundcheck, with 33 sets logge
 
 Pizzicatto, Pau Pérez, Sueezo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*

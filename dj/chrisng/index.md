@@ -1,6 +1,6 @@
 # Chris NG
 
-Chris NG is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Whitehart Bar, Melbourne on Sat, 18 Jul 2026.
+Chris NG is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Whitehart Bar, Melbourne on Sat, 18 Jul 2026.
 
 Chris NG is a house and afro house artist tracked on soundcheck, with 56 sets logged across Melbourne. Often billed alongside Zepherin Saint, Colette and DJ JNETT. Next up: Whitehart Bar, Melbourne on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Chris NG is a house and afro house artist tracked on soundcheck, with 56 sets lo
 
 Zepherin Saint, Colette, DJ JNETT
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisng/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisng/)*

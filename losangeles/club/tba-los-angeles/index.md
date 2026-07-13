@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "WORK Harder presents: BIIANCO, Fenrick, & Soul Purpose" on Fri, 17 Jul 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "WORK Harder presents: BIIANCO, Fenrick, & Soul Purpose" on Fri, 17 Jul 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 12 upcoming nights, with line-ups including AC13, Alan Fitzpatrick, Amir Javasoul and Anastasia Giovani and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 12 upcomi
 | Sat, 22 Aug 2026 | I LOVE DNB: Voltage + AC13 | AC13, Voltage |
 | Fri, 28 Aug 2026 | WORK Harder presents: RIKHTER [4 HR Set] & EMILIANA | EMILIANA, RIKHTER |
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

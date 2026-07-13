@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
+Nora En Pure is a Deep House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
 
 Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Westhafen, Leipzig on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 se
 
 Paradoks, Claptone, Corren Cavini
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

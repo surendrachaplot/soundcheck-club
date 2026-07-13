@@ -1,6 +1,6 @@
 # COZi
 
-COZi is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 18 Jul 2026.
+COZi is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 18 Jul 2026.
 
 COZi is a house and electro artist based in Australia, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Frankfurt and London and 5 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: Tokonoma Club, Frankfurt on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ COZi is a house and electro artist based in Australia, tracked on soundcheck, wi
 
 Elijah Something, Sasha Milani, Aldonna
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*

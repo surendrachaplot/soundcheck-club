@@ -1,6 +1,6 @@
 # Honey's at Star Love
 
-Honey's at Star Love is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "THROB" on Sat, 8 Aug 2026.
+Honey's at Star Love is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "THROB" on Sat, 8 Aug 2026.
 
 Honey's at Star Love is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Pacer, Princess Dimebag, RAVEDAD and Shi Shi. Browse upcoming dates, start times and who's playing. 1532 N. Western Avenue, Los Angeles, CA 90027.
 
@@ -14,4 +14,4 @@ Honey's at Star Love is a music venue in Losangeles listed on soundcheck. 1 upco
 
 1532 N. Western Avenue, Los Angeles, CA 90027, Los Angeles
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/honey-s-at-star-love/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/honey-s-at-star-love/)*

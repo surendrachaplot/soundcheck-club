@@ -1,6 +1,6 @@
 # Enzo is Burning
 
-Enzo is Burning is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 31 Jul 2026.
+Enzo is Burning is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 31 Jul 2026.
 
 Enzo is Burning is a tech house and house artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: Jolene Downtown Miami, Miami on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Enzo is Burning is a tech house and house artist tracked on soundcheck, with 72 
 
 GW Harrison, ALISHA, Darius Syrossian
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*

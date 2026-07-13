@@ -1,6 +1,6 @@
 # Acidnena
 
-Acidnena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Acidnena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Acidnena is a techno and house artist based in Argentina, tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 5 more. Often billed alongside M8NSE, Verushka and Drazzit. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Acidnena is a techno and house artist based in Argentina, tracked on soundcheck,
 
 M8NSE, Verushka, Drazzit
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidnena/)*

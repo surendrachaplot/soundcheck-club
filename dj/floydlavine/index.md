@@ -1,6 +1,6 @@
 # Floyd Lavine
 
-Floyd Lavine is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 31 Jul 2026.
+Floyd Lavine is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Floyd Lavine is an afro house and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Chinois Ibiza, Ibiza on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Floyd Lavine is an afro house and house artist tracked on soundcheck, with 64 se
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*

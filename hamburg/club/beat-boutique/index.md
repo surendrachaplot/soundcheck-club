@@ -1,6 +1,6 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "EarlyBeats - Part 9 - Techno ab 20 Uhr" on Sat, 1 Aug 2026.
+Beat Boutique is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "EarlyBeats - Part 9 - Techno ab 20 Uhr" on Sat, 1 Aug 2026.
 
 Beat Boutique is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including babey, lexpon, NoraDrenalin and STOECKER_. Browse upcoming dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 2 upcoming night
 
 Altländer Str. 12, 20095 Hamburg, Germany, Hamburg
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*

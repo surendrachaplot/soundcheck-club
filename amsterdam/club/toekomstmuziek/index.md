@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "TM 4 Year Anniversary" on Fri, 17 Jul 2026.
+Toekomstmuziek is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "TM 4 Year Anniversary" on Fri, 17 Jul 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Christoph Cham, Groddis, ilse dorine and iMarly and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -17,4 +17,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 4 upcoming ni
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

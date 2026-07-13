@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Untitled in Tokyo" on Sat, 18 Jul 2026.
+88block is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Untitled in Tokyo" on Sat, 18 Jul 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including Anela, Coco, Dayzero and MOOTOE and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -16,4 +16,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

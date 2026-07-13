@@ -1,6 +1,6 @@
 # Milan Hermess
 
-Milan Hermess is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+Milan Hermess is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
 Milan Hermess is an electro and techno artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Athens, Barcelona, Berlin and Glasgow and 9 more. Often billed alongside Aura Nox, ElectroDon and Mejle. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Milan Hermess is an electro and techno artist based in Netherlands, tracked on s
 
 Aura Nox, ElectroDon, Mejle
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milanhermess/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milanhermess/)*

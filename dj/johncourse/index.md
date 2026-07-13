@@ -1,6 +1,6 @@
 # John Course
 
-John Course is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Queens Wharf, Auckland on Fri, 17 Jul 2026.
+John Course is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Queens Wharf, Auckland on Fri, 17 Jul 2026.
 
 John Course is a house and techno artist tracked on soundcheck, with 20 sets logged across Auckland, Bali, Brisbane and London and 1 more. Often billed alongside Adam Trace, Brandon Block and Danny Tenaglia. Next up: Queens Wharf, Auckland on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ John Course is a house and techno artist tracked on soundcheck, with 20 sets log
 
 Adam Trace, Brandon Block, Danny Tenaglia
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johncourse/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johncourse/)*

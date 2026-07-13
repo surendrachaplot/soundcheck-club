@@ -1,6 +1,6 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hang Dai Chinese, Dublin on Fri, 17 Jul 2026.
+Justin Strauss is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hang Dai Chinese, Dublin on Fri, 17 Jul 2026.
 
 Justin Strauss is a house and electro artist tracked on soundcheck, with 168 sets logged across Belfast, Berlin, Boston and Chicago and 11 more. Often billed alongside Andi, Max Pask and Eli Escobar. Next up: Hang Dai Chinese, Dublin on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Justin Strauss is a house and electro artist tracked on soundcheck, with 168 set
 
 Andi, Max Pask, Eli Escobar
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*

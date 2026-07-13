@@ -1,6 +1,6 @@
 # Durante
 
-Durante is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Night We Met, Nashville on Fri, 17 Jul 2026.
+Durante is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Night We Met, Nashville on Fri, 17 Jul 2026.
 
 Durante is a house and progressive house artist tracked on soundcheck, with 54 sets logged across Austin, Brighton, Bristol and Buenosaires and 18 more. Often billed alongside Marsh, Braxton and Hana. Next up: Night We Met, Nashville on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Durante is a house and progressive house artist tracked on soundcheck, with 54 s
 
 Marsh, Braxton, Hana
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*

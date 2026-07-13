@@ -1,6 +1,6 @@
 # ohjeelo
 
-ohjeelo is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
+ohjeelo is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
 
 ohjeelo is a bass and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Shunter, Rotterdam on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ ohjeelo is a bass and techno artist tracked on soundcheck, with 54 sets logged a
 
 Nico Adomako, Franssouax, Bamao Yendé
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*

@@ -1,14 +1,13 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Manko Athens, Athens on Sun, 12 Jul 2026.
+Jay de Lys is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
 
-Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Manda Moor. Next up: Manko Athens, Athens on Sun 12 Jul.
+Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Manda Moor. Next up: [UNVRS], Ibiza on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Manko Athens | Athens |
 | Sat, 18 Jul 2026 | [UNVRS] | Ibiza |
 | Tue, 21 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets 
 
 ## Recently played
 
+- Manko Athens, Athens — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Cova Santa, Ibiza — Tue, 30 Jun 2026
 - Tigres de la Noche, Washington DC — Sat, 6 Jun 2026
@@ -24,10 +24,9 @@ Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets 
 - Superior Ingredients, New York City — Sun, 31 May 2026
 - Night We Met, Nashville — Sat, 30 May 2026
 - Beach House San Diego, San Diego — Sun, 24 May 2026
-- Halcyon, San Francisco/Oakland — Sat, 23 May 2026
 
 ## Shares bills with
 
 Franky Rizardo, Easttown, Manda Moor
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

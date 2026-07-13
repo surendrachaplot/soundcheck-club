@@ -1,6 +1,6 @@
 # Schak
 
-Schak is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sacré, Paris on Fri, 28 Aug 2026.
+Schak is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sacré, Paris on Fri, 28 Aug 2026.
 
 Schak is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Aberdeen, Belfast, Brighton and Bristol and 14 more. Often billed alongside Hannah Laing, Ben Hemsley and Claptone. Next up: Sacré, Paris on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Schak is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Hannah Laing, Ben Hemsley, Claptone
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schak/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schak/)*

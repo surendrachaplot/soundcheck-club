@@ -1,6 +1,6 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Voice Actor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside Nosedrip, 3Phaz and Ale Hop. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, track
 
 Nosedrip, 3Phaz, Ale Hop
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

@@ -1,14 +1,13 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Kowalski Terrasse Day Party by What You Say¿" on Sun, 12 Jul 2026.
+Kowalski is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "TIMELESS HOUSE CLASSICS • STEVE TURNER • ALVIN KYER" on Fri, 17 Jul 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including DJ Unholy, Esin, Fabian Kaa and FANXI B and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, with line-ups including DJ Unholy, Esin, Fabian Kaa and FANXI B and 2 more. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Kowalski Terrasse Day Party by What You Say¿ |  |
 | Fri, 17 Jul 2026 | TIMELESS HOUSE CLASSICS • STEVE TURNER • ALVIN KYER |  |
 | Sat, 18 Jul 2026 | KOWA SAMSTAG • OUS & ORY • ELIANO |  |
 | Sun, 19 Jul 2026 | SONNTAGS TERRASSE • Samt Gunal & Esin • Ocean Seven | Esin, Samet Gunal |
@@ -23,4 +22,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights,
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

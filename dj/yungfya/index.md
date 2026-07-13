@@ -1,6 +1,6 @@
 # yungfya
 
-yungfya is a Bass and Breakbeat artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Tempelhof Area, Berlin on Sat, 18 Jul 2026.
+yungfya is a Bass and Breakbeat artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Tempelhof Area, Berlin on Sat, 18 Jul 2026.
 
 yungfya is a bass and breakbeat artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Brighton and Cologne and 8 more. Often billed alongside Dangermami, Punani and Carl Hang. Next up: TBA - Tempelhof Area, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ yungfya is a bass and breakbeat artist tracked on soundcheck, with 83 sets logge
 
 Dangermami, Punani, Carl Hang
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*

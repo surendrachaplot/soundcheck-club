@@ -1,6 +1,6 @@
 # DomnRob
 
-DomnRob is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Club M2 Miami, Miami on Sat, 18 Jul 2026.
+DomnRob is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club M2 Miami, Miami on Sat, 18 Jul 2026.
 
 DomnRob is a techno and trance artist based in United States of America, tracked on soundcheck, with 38 sets logged across Miami and Philadelphia. Often billed alongside Dadrev, Mr. Proper and PROLETAR. Next up: Club M2 Miami, Miami on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DomnRob is a techno and trance artist based in United States of America, tracked
 
 Dadrev, Mr. Proper, PROLETAR
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domnrob/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domnrob/)*

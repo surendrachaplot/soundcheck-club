@@ -1,6 +1,6 @@
 # JoeJas
 
-JoeJas is a Hip-Hop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Record Factory, Glasgow on Thu, 16 Jul 2026.
+JoeJas is a Hip-Hop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Record Factory, Glasgow on Thu, 16 Jul 2026.
 
 JoeJas is a hip-hop and experimental artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside retropxssy, anti.Net and ACE C0NWAY. Next up: Record Factory, Glasgow on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ JoeJas is a hip-hop and experimental artist tracked on soundcheck, with 36 sets 
 
 retropxssy, anti.Net, ACE C0NWAY
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joejas/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joejas/)*

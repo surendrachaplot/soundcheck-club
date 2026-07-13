@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+John Talabot is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 John Talabot is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ John Talabot is a house and techno artist tracked on soundcheck, with 167 sets l
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

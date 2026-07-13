@@ -1,6 +1,6 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "dwarf -after party-" on Sun, 19 Jul 2026.
+Compufunk Records is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "dwarf -after party-" on Sun, 19 Jul 2026.
 
 Compufunk Records is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including Kaito Ksi, Ko Kimura, MiTSUYAS and Paul Leonard and 2 more. Browse upcoming dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
@@ -16,4 +16,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 3 upcoming nig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

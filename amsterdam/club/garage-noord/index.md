@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sunju Hargun, VOAL (Shoal & Vand), Leen + bar40 hosting LinksVeld" on Fri, 17 Jul 2026.
+Garage Noord is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sunju Hargun, VOAL (Shoal & Vand), Leen + bar40 hosting LinksVeld" on Fri, 17 Jul 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Amz, CCL, dBridge and dirtydms and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -20,4 +20,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 7 upcoming nigh
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

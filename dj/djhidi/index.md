@@ -1,6 +1,6 @@
 # DJ Hidi
 
-DJ Hidi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Barbossa, Montreal on Fri, 17 Jul 2026.
+DJ Hidi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Barbossa, Montreal on Fri, 17 Jul 2026.
 
 DJ Hidi is a house and disco artist based in Canada, tracked on soundcheck, with 34 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Kris Guilty, Guthrie and Gene Tellem. Next up: Barbossa, Montreal on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DJ Hidi is a house and disco artist based in Canada, tracked on soundcheck, with
 
 Kris Guilty, Guthrie, Gene Tellem
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhidi/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhidi/)*

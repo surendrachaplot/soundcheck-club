@@ -1,6 +1,6 @@
 # Vibe Bar
 
-Vibe Bar is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Multi Genre Madness" on Sat, 25 Jul 2026.
+Vibe Bar is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Multi Genre Madness" on Sat, 25 Jul 2026.
 
 Vibe Bar is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 66 Old Sneddon St, Paisley PA3 2AP.
 
@@ -15,4 +15,4 @@ Vibe Bar is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Br
 
 66 Old Sneddon St, Paisley PA3 2AP, Glasgow
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibe-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibe-bar/)*

@@ -1,6 +1,6 @@
 # SJQ
 
-SJQ is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Enlighten presents: Mary Sue (Singapore), Cold Light, Matthew Mulii" on Tue, 21 Jul 2026.
+SJQ is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Enlighten presents: Mary Sue (Singapore), Cold Light, Matthew Mulii" on Tue, 21 Jul 2026.
 
 SJQ is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 10a Bradbury Street , Dalston, N16 8JH.
 
@@ -15,4 +15,4 @@ SJQ is a music venue in London listed on soundcheck. 2 upcoming nights. Browse u
 
 10a Bradbury Street , Dalston, N16 8JH, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*

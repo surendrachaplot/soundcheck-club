@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 22 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
+Traumer is a House and Techno artist with 22 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 298 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: La Clairière, Paris on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 298 sets logged
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

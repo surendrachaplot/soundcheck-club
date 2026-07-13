@@ -1,6 +1,6 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Eaton Workshop, Washington DC on Mon, 13 Jul 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eaton Workshop, Washington DC on Mon, 13 Jul 2026.
 
 MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 170 sets logged across Barcelona, Buenosaires, Detroit and Ibiza and 2 more. Often billed alongside Factory Reset, Mikey J and Room 12. Next up: Eaton Workshop, Washingtondc on Mon 13 Jul.
 
@@ -27,4 +27,4 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 17
 
 Factory Reset, Mikey J, Room 12
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

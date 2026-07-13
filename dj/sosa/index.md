@@ -1,6 +1,6 @@
 # Sosa
 
-Sosa is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
+Sosa is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
 
 Sosa is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside East End Dubs, Paco Osuna and Jamie Jones. Next up: [UNVRS], Ibiza on Wed 22 Jul.
 
@@ -32,4 +32,4 @@ Sosa is a tech house and house artist tracked on soundcheck, with 72 sets logged
 
 East End Dubs, Paco Osuna, Jamie Jones
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*

@@ -1,14 +1,13 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CLUB 909: KEUT & GOTIS" on Sun, 12 Jul 2026.
+La Gare / Le Gore is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Acid Oslo (ASPHALT TECHNO)" on Mon, 13 Jul 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Acid Oslo, Claude B, GOTIS and HAL and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Acid Oslo, Claude B, GOTIS and HAL and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | CLUB 909: KEUT & GOTIS | GOTIS, KEUT |
 | Mon, 13 Jul 2026 | Acid Oslo (ASPHALT TECHNO) | Acid Oslo |
 | Tue, 14 Jul 2026 | JAM DU BPM CONTEST | Acid Oslo |
 | Wed, 15 Jul 2026 | PYGMENTS inv. RUE-B & In-Tan | In-Tan |
@@ -22,4 +21,4 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 9 upcoming nig
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

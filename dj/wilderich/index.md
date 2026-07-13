@@ -1,6 +1,6 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
+WILDERÍCH is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
 
 WILDERÍCH is a techno and trance artist tracked on soundcheck, with 82 sets logged across Barcelona, Basel, Berlin and Cologne and 19 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Flava Beach, Naples on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 82 sets log
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

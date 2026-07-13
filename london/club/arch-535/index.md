@@ -1,6 +1,6 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Abstrakt Dance with Trevor Rockcliffe, Andy Nicholls and Colin Dale" on Sat, 18 Jul 2026.
+Arch 535 is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Abstrakt Dance with Trevor Rockcliffe, Andy Nicholls and Colin Dale" on Sat, 18 Jul 2026.
 
 Arch 535 is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Colin Dale, ddwy, DJ Frog and Jacob Trip and 2 more. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -18,4 +18,4 @@ Arch 535 is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*

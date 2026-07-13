@@ -1,6 +1,6 @@
 # BOTHER
 
-BOTHER is a Electronica and IDM artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cadavra, Madrid on Sat, 25 Jul 2026.
+BOTHER is a Electronica and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cadavra, Madrid on Sat, 25 Jul 2026.
 
 BOTHER is an electronica and idm artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona and Madrid. Often billed alongside frankydrama, Luska and TWO EX. Next up: Cadavra, Madrid on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ BOTHER is an electronica and idm artist based in Spain, tracked on soundcheck, w
 
 frankydrama, Luska, TWO EX
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bother/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bother/)*

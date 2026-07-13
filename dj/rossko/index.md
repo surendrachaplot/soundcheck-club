@@ -1,6 +1,6 @@
 # Rossko
 
-Rossko is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at [UNVRS], Ibiza on Wed, 15 Jul 2026.
+Rossko is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at [UNVRS], Ibiza on Wed, 15 Jul 2026.
 
 Rossko is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Julian Anthony, Reeshy and Rich NXT. Next up: [UNVRS], Ibiza on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ Rossko is a house and tech house artist tracked on soundcheck, with 74 sets logg
 
 Julian Anthony, Reeshy, Rich NXT
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*

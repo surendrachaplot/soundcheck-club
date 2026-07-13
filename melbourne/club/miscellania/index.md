@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Tessellate Club presents: SIRENS CALL" on Fri, 24 Jul 2026.
+Miscellania is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Tessellate Club presents: SIRENS CALL" on Fri, 24 Jul 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Aaliyah Salem, babyxxan, Colette and DJ PGZ and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -16,4 +16,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 3 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

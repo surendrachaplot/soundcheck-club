@@ -1,6 +1,6 @@
 # Yamil
 
-Yamil is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 19 Jul 2026.
+Yamil is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 19 Jul 2026.
 
 Yamil is an afro house and deep house artist tracked on soundcheck, with 38 sets logged across Barcelona, Frankfurt, Ibiza and Istanbul and 8 more. Often billed alongside PIECES OF LIFE, Thimble and Alfonso Ares. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Yamil is an afro house and deep house artist tracked on soundcheck, with 38 sets
 
 PIECES OF LIFE, Thimble, Alfonso Ares
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamil/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamil/)*

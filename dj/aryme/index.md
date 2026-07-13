@@ -1,6 +1,6 @@
 # ARYMÉ
 
-ARYMÉ is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
+ARYMÉ is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 13 Jul 2026.
 
 ARYMÉ is an afro house and deep house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Barcelona and Basel and 13 more. Often billed alongside Francis Mercier, Nadrums and Nitefreak. Next up: Hï Ibiza, Ibiza on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ ARYMÉ is an afro house and deep house artist tracked on soundcheck, with 37 set
 
 Francis Mercier, Nadrums, Nitefreak
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aryme/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aryme/)*

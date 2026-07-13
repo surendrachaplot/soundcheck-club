@@ -1,6 +1,6 @@
 # Annabelle Gaspar
 
-Annabelle Gaspar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at East Sydney Community & Arts Centre, Sydney on Sun, 26 Jul 2026.
+Annabelle Gaspar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at East Sydney Community & Arts Centre, Sydney on Sun, 26 Jul 2026.
 
 Annabelle Gaspar is a house and techno artist based in Australia, tracked on soundcheck, with 25 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Deepa, Simon Caldwell and AHJU. Next up: East Sydney Community & Arts Centre, Sydney on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Annabelle Gaspar is a house and techno artist based in Australia, tracked on sou
 
 Deepa, Simon Caldwell, AHJU
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annabellegaspar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annabellegaspar/)*

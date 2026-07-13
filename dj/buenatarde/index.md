@@ -1,6 +1,6 @@
 # Buena Tarde
 
-Buena Tarde is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 18 Jul 2026.
+Buena Tarde is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 18 Jul 2026.
 
 Buena Tarde is an electronica and experimental artist based in Mexico, tracked on soundcheck, with 25 sets logged across Mexicocity and Prague. Often billed alongside Bluecommand, Seli (2) and Zoë Mc Pherson. Next up: YuYu Cine Club, Mexicocity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Buena Tarde is an electronica and experimental artist based in Mexico, tracked o
 
 Bluecommand, Seli (2), Zoë Mc Pherson
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buenatarde/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/buenatarde/)*

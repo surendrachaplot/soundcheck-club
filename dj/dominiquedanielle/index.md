@@ -1,6 +1,6 @@
 # Dominique Danielle
 
-Dominique Danielle is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
+Dominique Danielle is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
 
 Dominique Danielle is a deep house and house artist tracked on soundcheck, with 27 sets logged across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and B3. Next up: XOYO, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Dominique Danielle is a deep house and house artist tracked on soundcheck, with 
 
 Mark Radford, Lance Morgan, B3
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquedanielle/)*

@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at California Plaza, Los Angeles on Sat, 12 Sept 2026.
+Rafael is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at California Plaza, Los Angeles on Sat, 12 Sept 2026.
 
 Rafael is a house and tech house artist tracked on soundcheck, with 30 sets logged across Austin, Berlin, Chicago and Dublin and 9 more. Often billed alongside Flor Coto, Jamie Jones and Miluhska. Next up: California Plaza, Losangeles on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Rafael is a house and tech house artist tracked on soundcheck, with 30 sets logg
 
 Flor Coto, Jamie Jones, Miluhska
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

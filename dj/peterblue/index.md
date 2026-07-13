@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ministerium Club, Lisbon on Thu, 23 Jul 2026.
+PETERBLUE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministerium Club, Lisbon on Thu, 23 Jul 2026.
 
 PETERBLUE is a techno and trance artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Adrian Mills, fumi (DE) and Noise Mafia. Next up: Ministerium Club, Lisbon on Thu 23 Jul.
 
@@ -30,4 +30,4 @@ PETERBLUE is a techno and trance artist tracked on soundcheck, with 52 sets logg
 
 Adrian Mills, fumi (DE), Noise Mafia
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

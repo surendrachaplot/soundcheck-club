@@ -1,6 +1,6 @@
 # Miguel Rendeiro
 
-Miguel Rendeiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Plano B, Porto on Fri, 17 Jul 2026.
+Miguel Rendeiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Plano B, Porto on Fri, 17 Jul 2026.
 
 Miguel Rendeiro is a house and techno artist based in Portugal, tracked on soundcheck, with 28 sets logged across Lisbon, Munich and Porto. Often billed alongside OSTINATO, SHIA and Carlos Regadas. Next up: Plano B, Porto on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Miguel Rendeiro is a house and techno artist based in Portugal, tracked on sound
 
 OSTINATO, SHIA, Carlos Regadas
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrendeiro/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelrendeiro/)*

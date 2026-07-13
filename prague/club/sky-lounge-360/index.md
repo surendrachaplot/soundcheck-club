@@ -1,6 +1,6 @@
 # Sky Lounge 360
 
-Sky Lounge 360 is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "𝐑𝐔𝐌𝐁𝐀 𝐇𝐎𝐔𝐒𝐄  - 𝐋𝐀𝐓𝐈𝐍 𝐒𝐔𝐍𝐒𝐄𝐓 𝐑𝐎𝐎𝐅𝐓𝐎𝐏 " on Thu, 23 Jul 2026.
+Sky Lounge 360 is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "𝐑𝐔𝐌𝐁𝐀 𝐇𝐎𝐔𝐒𝐄  - 𝐋𝐀𝐓𝐈𝐍 𝐒𝐔𝐍𝐒𝐄𝐓 𝐑𝐎𝐎𝐅𝐓𝐎𝐏 " on Thu, 23 Jul 2026.
 
 Sky Lounge 360 is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including DJ Duar, Eli Sha, Kleitone and Michael C. and 1 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
 
@@ -17,4 +17,4 @@ Sky Lounge 360 is a music venue in Prague listed on soundcheck. 4 upcoming night
 
 Náměstí Republiky 5, 110 00 Praha 1, Prague
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sky-lounge-360/)*

@@ -1,6 +1,6 @@
 # Theia Daja
 
-Theia Daja is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Skin Club, Madrid on Fri, 17 Jul 2026.
+Theia Daja is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Skin Club, Madrid on Fri, 17 Jul 2026.
 
 Theia Daja is a techno and house artist tracked on soundcheck, with 27 sets logged across Barcelona and Madrid. Often billed alongside NETN, DJ TURBO and Alviker. Next up: Skin Club, Madrid on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Theia Daja is a techno and house artist tracked on soundcheck, with 27 sets logg
 
 NETN, DJ TURBO, Alviker
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*

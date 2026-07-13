@@ -1,6 +1,6 @@
 # Annabel Fraser
 
-Annabel Fraser is a Industrial and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ormside Projects, London on Fri, 17 Jul 2026.
+Annabel Fraser is a Industrial and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ormside Projects, London on Fri, 17 Jul 2026.
 
 Annabel Fraser is an industrial and experimental artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin, Dusseldorf, Edinburgh and Glasgow and 2 more. Often billed alongside Jon K, Elle Andrews and Conor Thomas. Next up: Ormside Projects, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Annabel Fraser is an industrial and experimental artist based in United Kingdom,
 
 Jon K, Elle Andrews, Conor Thomas
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelfraser/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelfraser/)*

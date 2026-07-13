@@ -1,6 +1,6 @@
 # John Morales
 
-John Morales is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Port of Leith Distillery, Edinburgh on Sat, 18 Jul 2026.
+John Morales is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Port of Leith Distillery, Edinburgh on Sat, 18 Jul 2026.
 
 John Morales is a house and disco artist tracked on soundcheck, with 41 sets logged across Barcelona, Cardiff, Chicago and Edinburgh and 10 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: Port of Leith Distillery, Edinburgh on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ John Morales is a house and disco artist tracked on soundcheck, with 41 sets log
 
 Melvo Baptiste, The Shapeshifters, Young Pulse
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*

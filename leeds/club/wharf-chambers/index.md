@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "ITP presents: Arma" on Sat, 18 Jul 2026.
+Wharf Chambers is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "ITP presents: Arma" on Sat, 18 Jul 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including Arma (2), chlo333e, Hollyamorous and Joe Hell and 2 more. Browse upcoming dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -18,4 +18,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 5 upcoming nights
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

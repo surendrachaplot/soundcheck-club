@@ -1,6 +1,6 @@
 # Lou Nour
 
-Lou Nour is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Eden, Ibiza on Wed, 15 Jul 2026.
+Lou Nour is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eden, Ibiza on Wed, 15 Jul 2026.
 
 Lou Nour is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 2 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: Eden, Ibiza on Wed 15 Jul.
 
@@ -24,4 +24,4 @@ Lou Nour is a techno and trance artist based in United Kingdom, tracked on sound
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

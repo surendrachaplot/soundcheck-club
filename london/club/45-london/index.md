@@ -1,6 +1,6 @@
 # 45 London
 
-45 London is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "2 Years of BLEND with Pierre Johnson, Shamiso, Miči + more" on Sat, 18 Jul 2026.
+45 London is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "2 Years of BLEND with Pierre Johnson, Shamiso, Miči + more" on Sat, 18 Jul 2026.
 
 45 London is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Azire, D LAI, Eni (3) and Frenchhh and 2 more. Browse upcoming dates, start times and who's playing. 45 Curtain Road, London EC2A 3PT.
 
@@ -17,4 +17,4 @@
 
 45 Curtain Road, London EC2A 3PT, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*

@@ -1,6 +1,6 @@
 # Gbar
 
-Gbar is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Pride 2026 - A Deeper Love" on Sat, 25 Jul 2026.
+Gbar is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Pride 2026 - A Deeper Love" on Sat, 25 Jul 2026.
 
 Gbar is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Jodie Harsh and Julie Mcknight. Browse upcoming dates, start times and who's playing. 1-7 Eberle Street, Liverpool City Centre, L2 2AG, United Kingdom.
 
@@ -14,4 +14,4 @@ Gbar is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with 
 
 1-7 Eberle Street, Liverpool City Centre, L2 2AG, United Kingdom, Liverpool
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/gbar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/gbar/)*

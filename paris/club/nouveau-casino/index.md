@@ -1,6 +1,6 @@
 # Nouveau Casino
 
-Nouveau Casino is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "DJ Stingray 313" on Fri, 2 Oct 2026.
+Nouveau Casino is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "DJ Stingray 313" on Fri, 2 Oct 2026.
 
 Nouveau Casino is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Aleqs Notal, DJ Stingray 313 and Jean Nipon. Browse upcoming dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
 
@@ -14,4 +14,4 @@ Nouveau Casino is a music venue in Paris listed on soundcheck. 1 upcoming night,
 
 109 Rue Oberkampf, 75011 Paris, France, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*

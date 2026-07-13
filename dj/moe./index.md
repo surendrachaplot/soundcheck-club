@@ -1,6 +1,6 @@
 # moe.
 
-moe. is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
+moe. is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
 
 moe. is a house and disco artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Ken Okuda, DJ Westfa and Suze Ijó. Next up: Renate, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ moe. is a house and disco artist tracked on soundcheck, with 64 sets logged acro
 
 Ken Okuda, DJ Westfa, Suze Ijó
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*

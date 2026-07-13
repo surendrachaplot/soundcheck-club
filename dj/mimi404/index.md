@@ -1,6 +1,6 @@
 # MIMI404
 
-MIMI404 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at elipamanoke, Leipzig on Sat, 18 Jul 2026.
+MIMI404 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at elipamanoke, Leipzig on Sat, 18 Jul 2026.
 
 MIMI404 is a techno and trance artist tracked on soundcheck, with 56 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: elipamanoke, Leipzig on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ MIMI404 is a techno and trance artist tracked on soundcheck, with 56 sets logged
 
 e.leptic, E.T., bbymeister
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi404/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi404/)*

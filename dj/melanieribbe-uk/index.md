@@ -1,6 +1,6 @@
 # Melanie Ribbe
 
-Melanie Ribbe is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 18 Jul 2026.
+Melanie Ribbe is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 18 Jul 2026.
 
 Melanie Ribbe is a tech house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Paco Osuna, Chris Di Perri and De La Swing. Next up: Ushuaïa Ibiza, Ibiza on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Melanie Ribbe is a tech house and techno artist tracked on soundcheck, with 111 
 
 Paco Osuna, Chris Di Perri, De La Swing
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melanieribbe-uk/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melanieribbe-uk/)*

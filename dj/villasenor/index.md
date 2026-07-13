@@ -1,6 +1,6 @@
 # Villaseñor
 
-Villaseñor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at John Doe, Amsterdam on Sat, 18 Jul 2026.
+Villaseñor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at John Doe, Amsterdam on Sat, 18 Jul 2026.
 
 Villaseñor is a techno and house artist based in Mexico, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Losangeles and 7 more. Often billed alongside Enya Botello, sadgal and Portugal. Next up: John Doe, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Villaseñor is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Enya Botello, sadgal, Portugal
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/villasenor/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/villasenor/)*

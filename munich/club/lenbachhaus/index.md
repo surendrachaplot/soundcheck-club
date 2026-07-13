@@ -1,6 +1,6 @@
 # Lenbachhaus
 
-Lenbachhaus is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Yállá Táwlá x SWANA Love Songs" on Fri, 31 Jul 2026.
+Lenbachhaus is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Yállá Táwlá x SWANA Love Songs" on Fri, 31 Jul 2026.
 
 Lenbachhaus is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including A.tari. Browse upcoming dates, start times and who's playing. Luisenstrasse 33 , 80333 Munich.
 
@@ -17,4 +17,4 @@ Lenbachhaus is a music venue in Munich listed on soundcheck. 4 upcoming nights, 
 
 Luisenstrasse 33 , 80333 Munich, Munich
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lenbachhaus/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lenbachhaus/)*

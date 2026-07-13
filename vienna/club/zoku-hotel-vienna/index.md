@@ -1,6 +1,6 @@
 # Zoku Hotel Vienna
 
-Zoku Hotel Vienna is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SUMMER SERIES 26 at ZOKZ" on Wed, 15 Jul 2026.
+Zoku Hotel Vienna is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "SUMMER SERIES 26 at ZOKZ" on Wed, 15 Jul 2026.
 
 Zoku Hotel Vienna is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Fede Frostl. Browse upcoming dates, start times and who's playing. Perspektivstr. 6, 1020 Wien, Austria.
 
@@ -17,4 +17,4 @@ Zoku Hotel Vienna is a music venue in Vienna listed on soundcheck. 4 upcoming ni
 
 Perspektivstr. 6, 1020 Wien, Austria, Vienna
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/zoku-hotel-vienna/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/zoku-hotel-vienna/)*

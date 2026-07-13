@@ -1,14 +1,13 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kiesgrube, Düsseldorf on Sun, 12 Jul 2026.
+Sven Vath is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 19 Jul 2026.
 
-Sven Vath is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: Kiesgrube, Dusseldorf on Sun 12 Jul.
+Sven Vath is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: Amnesia Ibiza, Ibiza on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Kiesgrube | Düsseldorf |
 | Sun, 19 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
@@ -20,9 +19,11 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 201 sets logg
 | Fri, 21 Aug 2026 | fabric | London |
 | Sat, 29 Aug 2026 | TBA | Sao Paulo |
 | Thu, 3 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Fri, 18 Sept 2026 | IFEMA | Madrid |
 
 ## Recently played
 
+- Kiesgrube, Düsseldorf — Sun, 12 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 11 Jul 2026
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -30,10 +31,9 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 201 sets logg
 - Seaseaclub Barcelona, Barcelona — Sat, 30 May 2026
 - SAGE, Berlin — Sat, 23 May 2026
 - Prince Charles, Berlin — Sat, 23 May 2026
-- Grand Central Hall, Liverpool — Fri, 22 May 2026
 
 ## Shares bills with
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

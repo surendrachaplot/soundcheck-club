@@ -1,6 +1,6 @@
 # RITCHRD
 
-RITCHRD is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Massive, Seattle on Fri, 17 Jul 2026.
+RITCHRD is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Massive, Seattle on Fri, 17 Jul 2026.
 
 RITCHRD is a club and techno artist tracked on soundcheck, with 106 sets logged across Denver, London, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Discnogirl, Bored Lord and Tom Marsi. Next up: Massive, Seattle on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ RITCHRD is a club and techno artist tracked on soundcheck, with 106 sets logged 
 
 Discnogirl, Bored Lord, Tom Marsi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*

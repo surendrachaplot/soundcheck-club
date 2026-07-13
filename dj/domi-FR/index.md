@@ -1,6 +1,6 @@
 # Domi (FR)
 
-Domi (FR) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Nido Marseille, Marseille on Mon, 13 Jul 2026.
+Domi (FR) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Nido Marseille, Marseille on Mon, 13 Jul 2026.
 
 Domi (FR) is an electro and house artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Jolly (FR), Lastvuska and Lumbago. Next up: Nido Marseille, Marseille on Mon 13 Jul.
 
@@ -27,4 +27,4 @@ Domi (FR) is an electro and house artist tracked on soundcheck, with 62 sets log
 
 Jolly (FR), Lastvuska, Lumbago
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domi-FR/)*

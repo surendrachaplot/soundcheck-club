@@ -1,6 +1,6 @@
 # Alicea
 
-Alicea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Rote Sonne, Munich on Sat, 18 Jul 2026.
+Alicea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Rote Sonne, Munich on Sat, 18 Jul 2026.
 
 Alicea is a techno and trance artist tracked on soundcheck, with 109 sets logged across Berlin, Hamburg, Leipzig and Marseille and 5 more. Often billed alongside Louis EMP, DJ Yugo and VSSL. Next up: Rote Sonne, Munich on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Alicea is a techno and trance artist tracked on soundcheck, with 109 sets logged
 
 Louis EMP, DJ Yugo, VSSL
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicea/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alicea/)*

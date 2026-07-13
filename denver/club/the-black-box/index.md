@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 11 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "The Black Box - Dewpoint with OddRhythm, Be Right Back" on Thu, 16 Jul 2026.
+The Black Box is a music venue in Denver with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "The Black Box - Dewpoint with OddRhythm, Be Right Back" on Thu, 16 Jul 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming nights, with line-ups including Amit, AWAY, Beard-o-Bees and DRS and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -23,4 +23,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming night
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

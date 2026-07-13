@@ -1,14 +1,13 @@
 # Benwal
 
-Benwal is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MS RheinMagie, Cologne on Sun, 12 Jul 2026.
+Benwal is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Woodstock'69, Amsterdam on Sun, 19 Jul 2026.
 
-Benwal is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: MS RheinMagie, Cologne on Sun 12 Jul.
+Benwal is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Woodstock'69, Amsterdam on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | MS RheinMagie | Cologne |
 | Sun, 19 Jul 2026 | Woodstock'69 | Amsterdam |
 | Sat, 25 Jul 2026 | Fort Vechten | Utrecht |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
@@ -23,6 +22,7 @@ Benwal is a techno and house artist tracked on soundcheck, with 162 sets logged 
 
 ## Recently played
 
+- MS RheinMagie, Cologne — Sun, 12 Jul 2026
 - The Ulster Sports Club, Belfast — Fri, 3 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -30,10 +30,9 @@ Benwal is a techno and house artist tracked on soundcheck, with 162 sets logged 
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
 - Ruigenhoek, Utrecht — Sat, 30 May 2026
-- Flash, Washington DC — Sat, 9 May 2026
 
 ## Shares bills with
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

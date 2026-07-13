@@ -1,6 +1,6 @@
 # Freight Island Newcastle
 
-Freight Island Newcastle is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Simon Lister + Paul Stoker" on Fri, 17 Jul 2026.
+Freight Island Newcastle is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Simon Lister + Paul Stoker" on Fri, 17 Jul 2026.
 
 Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 6 upcoming nights, with line-ups including Carly Foxx, DJ Paulette, Gina Breeze and Horse Meat Disco and 1 more. Browse upcoming dates, start times and who's playing. 54 Newgate St, Newcastle upon Tyne NE1 5RQ.
 
@@ -19,4 +19,4 @@ Freight Island Newcastle is a music venue in Newcastle listed on soundcheck. 6 u
 
 54 Newgate St, Newcastle upon Tyne NE1 5RQ, Newcastle
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/freight-island-newcastle/)*

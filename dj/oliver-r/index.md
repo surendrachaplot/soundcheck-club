@@ -1,6 +1,6 @@
 # Oliver.r
 
-Oliver.r is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Open Air, Lisbon on Fri, 31 Jul 2026.
+Oliver.r is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Open Air, Lisbon on Fri, 31 Jul 2026.
 
 Oliver.r is a house and electro artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside B.Love, Jhobei and Charleze. Next up: TBA - Open Air, Lisbon on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Oliver.r is a house and electro artist based in United Kingdom, tracked on sound
 
 B.Love, Jhobei, Charleze
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*

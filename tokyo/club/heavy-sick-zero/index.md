@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "生活 ～seikatsu～" on Wed, 15 Jul 2026.
+Heavy Sick Zero is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "生活 ～seikatsu～" on Wed, 15 Jul 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including iida Reo, OKBOY, Seimei and Telematic Visions and 1 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -18,4 +18,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 5 upcoming night
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

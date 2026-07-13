@@ -1,6 +1,6 @@
 # Jessy Nimni
 
-Jessy Nimni is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Do Not Sit On The Furniture, Miami on Wed, 15 Jul 2026.
+Jessy Nimni is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Do Not Sit On The Furniture, Miami on Wed, 15 Jul 2026.
 
 Jessy Nimni is a house and deep house artist tracked on soundcheck, with 104 sets logged across Miami. Often billed alongside Kike Roldan, Alex Dovo and Conosur. Next up: Do Not Sit On The Furniture, Miami on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Jessy Nimni is a house and deep house artist tracked on soundcheck, with 104 set
 
 Kike Roldan, Alex Dovo, Conosur
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessynimni/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessynimni/)*

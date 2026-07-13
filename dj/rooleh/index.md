@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 15 Jul 2026.
+Rooléh is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 13 more. Often billed alongside Easttown, Benny Rodrigues and Joëlla Jackson. Next up: Blue Marlin Ibiza, Ibiza on Wed 15 Jul.
 
@@ -30,4 +30,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 77 sets log
 
 Easttown, Benny Rodrigues, Joëlla Jackson
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

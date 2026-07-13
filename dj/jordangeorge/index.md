@@ -1,6 +1,6 @@
 # Jordan George
 
-Jordan George is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sneaky Pete's, Edinburgh on Wed, 15 Jul 2026.
+Jordan George is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sneaky Pete's, Edinburgh on Wed, 15 Jul 2026.
 
 Jordan George is a house and electro artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Copenhagen, Dublin, Edinburgh and Liverpool. Often billed alongside Adrian Salcedo, BORLEY and Harrison Heat. Next up: Sneaky Pete's, Edinburgh on Wed 15 Jul.
 
@@ -17,4 +17,4 @@ Jordan George is a house and electro artist based in United Kingdom, tracked on 
 
 Adrian Salcedo, BORLEY, Harrison Heat
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*

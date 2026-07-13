@@ -1,6 +1,6 @@
 # Maria Cue
 
-Maria Cue is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Switch Bar, Barcelona on Sat, 18 Jul 2026.
+Maria Cue is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Switch Bar, Barcelona on Sat, 18 Jul 2026.
 
 Maria Cue is a techno and dub techno artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Lisbon and Madrid and 2 more. Often billed alongside Valody, BIANKA and Mario Picosso. Next up: Switch Bar, Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Maria Cue is a techno and dub techno artist tracked on soundcheck, with 26 sets 
 
 Valody, BIANKA, Mario Picosso
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacue/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacue/)*

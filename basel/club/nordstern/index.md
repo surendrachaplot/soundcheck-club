@@ -1,6 +1,6 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "after.sun.set with RY X" on Sat, 18 Jul 2026.
+Nordstern is a music venue in Basel with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "after.sun.set with RY X" on Sat, 18 Jul 2026.
 
 Nordstern is a music venue in Basel listed on soundcheck. 6 upcoming nights, with line-ups including Alix Perez, Comzy, JAMIIE and Kaleiko and 2 more. Browse upcoming dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
@@ -19,4 +19,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 6 upcoming nights, wit
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

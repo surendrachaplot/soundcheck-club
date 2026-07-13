@@ -1,6 +1,6 @@
 # WALL & WALL
 
-WALL & WALL is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "STRAWBERRY FIELD vol.5" on Wed, 15 Jul 2026.
+WALL & WALL is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "STRAWBERRY FIELD vol.5" on Wed, 15 Jul 2026.
 
 WALL & WALL is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Bundo, Compuma, DJ Shibata and FUJI (4) and 2 more. Browse upcoming dates, start times and who's playing. 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -15,4 +15,4 @@ WALL & WALL is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, w
 
 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*

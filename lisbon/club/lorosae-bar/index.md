@@ -1,6 +1,6 @@
 # Lorosae Bar
 
-Lorosae Bar is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "SUNSET TRIBE WITH INTERNATIONAL ARTIST AT LOROSAE BEACH CLUB" on Sat, 18 Jul 2026.
+Lorosae Bar is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "SUNSET TRIBE WITH INTERNATIONAL ARTIST AT LOROSAE BEACH CLUB" on Sat, 18 Jul 2026.
 
 Lorosae Bar is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Billi, Dj Over12, Jamaimoi and Jigar and 2 more. Browse upcoming dates, start times and who's playing. Sabor a Praia - Lorosae - Praias de S.João - Costa da Caparica.
 
@@ -15,4 +15,4 @@ Lorosae Bar is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, 
 
 Sabor a Praia - Lorosae - Praias de S.João - Costa da Caparica, Lisbon
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lorosae-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lorosae-bar/)*

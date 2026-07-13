@@ -1,6 +1,6 @@
 # Andy Hart
 
-Andy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tresor / Globus, Berlin on Sat, 18 Jul 2026.
+Andy Hart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tresor / Globus, Berlin on Sat, 18 Jul 2026.
 
 Andy Hart is a house and techno artist based in Australia, tracked on soundcheck, with 26 sets logged across Berlin, Melbourne, Mexicocity and Tokyo. Often billed alongside Myles Mac, Pjenné and Dasha SPRW. Next up: Tresor / Globus, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Andy Hart is a house and techno artist based in Australia, tracked on soundcheck
 
 Myles Mac, Pjenné, Dasha SPRW
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyhart/)*

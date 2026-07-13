@@ -1,6 +1,6 @@
 # meera
 
-meera is a Afro House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cova Santa, Ibiza on Fri, 31 Jul 2026.
+meera is a Afro House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cova Santa, Ibiza on Fri, 31 Jul 2026.
 
 meera is an afro house and techno artist based in Norway, tracked on soundcheck, with 18 sets logged across Amsterdam, Copenhagen, Frankfurt and Ibiza and 7 more. Often billed alongside Damian Lazarus, Black Coffee and DESIREE (RSA). Next up: Cova Santa, Ibiza on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ meera is an afro house and techno artist based in Norway, tracked on soundcheck,
 
 Damian Lazarus, Black Coffee, DESIREE (RSA)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*

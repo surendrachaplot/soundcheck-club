@@ -1,6 +1,6 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 18 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Durante" on Fri, 17 Jul 2026.
+Night We Met is a music venue in Nashville with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Durante" on Fri, 17 Jul 2026.
 
 Night We Met is a music venue in Nashville listed on soundcheck. 18 upcoming nights, with line-ups including Amtrac, bolo, camoufly and Com Truise and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 18 upcoming nig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

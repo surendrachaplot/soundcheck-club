@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Standard Time, Toronto on Sun, 26 Jul 2026.
+Theo Parrish is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Standard Time, Toronto on Sun, 26 Jul 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 26 more. Often billed alongside Moodymann, Avalon Emerson and Batu. Next up: Standard Time, Toronto on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Moodymann, Avalon Emerson, Batu
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

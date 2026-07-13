@@ -1,6 +1,6 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Concord Music Hall, Chicago on Sat, 18 Jul 2026.
+DJ Manny is a Footwork and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Concord Music Hall, Chicago on Sat, 18 Jul 2026.
 
 DJ Manny is a footwork and techno artist tracked on soundcheck, with 85 sets logged across Austin, Boston, Chicago and Detroit and 6 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Concord Music Hall, Chicago on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DJ Manny is a footwork and techno artist tracked on soundcheck, with 85 sets log
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

@@ -1,6 +1,6 @@
 # Wicked West
 
-Wicked West is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Minimal Sessions with Andrey Pushkarev and Markus Homm" on Sat, 29 Aug 2026.
+Wicked West is a music venue in San Diego with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Minimal Sessions with Andrey Pushkarev and Markus Homm" on Sat, 29 Aug 2026.
 
 Wicked West is a music venue in Sandiego listed on soundcheck. 1 upcoming night, with line-ups including Andrey Pushkarev, Dylan Payne and Markus Homm. Browse upcoming dates, start times and who's playing. 1735 National Ave, San Diego, CA 92113, USA.
 
@@ -14,4 +14,4 @@ Wicked West is a music venue in Sandiego listed on soundcheck. 1 upcoming night,
 
 1735 National Ave, San Diego, CA 92113, USA, San Diego
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/wicked-west/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/wicked-west/)*

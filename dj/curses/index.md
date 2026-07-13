@@ -1,6 +1,6 @@
 # Curses
 
-Curses is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Nowadays, New York City on Fri, 24 Jul 2026.
+Curses is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Nowadays, New York City on Fri, 24 Jul 2026.
 
 Curses is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Nowadays, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Curses is a techno and house artist tracked on soundcheck, with 166 sets logged 
 
 Rakans, The Lady Machine, Cormac
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

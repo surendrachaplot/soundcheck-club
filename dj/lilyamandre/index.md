@@ -1,6 +1,6 @@
 # Lilya Mandre
 
-Lilya Mandre is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 15 Jul 2026.
+Lilya Mandre is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Lilya Mandre is a house and afro house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 10 more. Often billed alongside Black Coffee, Paul Reynolds and Damian Lazarus. Next up: Chinois Ibiza, Ibiza on Wed 15 Jul.
 
@@ -29,4 +29,4 @@ Lilya Mandre is a house and afro house artist tracked on soundcheck, with 26 set
 
 Black Coffee, Paul Reynolds, Damian Lazarus
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyamandre/)*

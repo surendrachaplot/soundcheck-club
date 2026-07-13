@@ -1,6 +1,6 @@
 # Arman John
 
-Arman John is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mia Mao, Paris on Mon, 13 Jul 2026.
+Arman John is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Mon, 13 Jul 2026.
 
 Arman John is a trance and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Basel and Belfast and 28 more. Often billed alongside Kø:lab, BNZN and Cara Elizabeth. Next up: Mia Mao, Paris on Mon 13 Jul.
 
@@ -27,4 +27,4 @@ Arman John is a trance and techno artist tracked on soundcheck, with 109 sets lo
 
 Kø:lab, BNZN, Cara Elizabeth
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*

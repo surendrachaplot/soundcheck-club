@@ -1,6 +1,6 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Castaways, Chicago on Sat, 18 Jul 2026.
+Lee Foss is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Castaways, Chicago on Sat, 18 Jul 2026.
 
 Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: Castaways, Chicago on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Lee Foss is a house and tech house artist based in United States of America, tra
 
 Deeper Purpose, Sonny Fodera, ALISHA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

@@ -1,6 +1,6 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 12 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 16 Jul 2026.
+SALOME is a Techno and Electro artist with 12 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TRANSMISSION DC, Washington DC on Thu, 16 Jul 2026.
 
 SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: TRANSMISSION DC, Washingtondc on Thu 16 Jul.
 
@@ -36,4 +36,4 @@ SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logge
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

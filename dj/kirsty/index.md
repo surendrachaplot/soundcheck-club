@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Classic Grand, Glasgow on Fri, 17 Jul 2026.
+KIRSTY is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Classic Grand, Glasgow on Fri, 17 Jul 2026.
 
 KIRSTY is a techno and house artist tracked on soundcheck, with 58 sets logged across Auckland, Belfast, Belgrade and Berlin and 18 more. Often billed alongside Restricted, Lolalita and Stinny Stone. Next up: The Classic Grand, Glasgow on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 Restricted, Lolalita, Stinny Stone
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

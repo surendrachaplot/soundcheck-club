@@ -1,6 +1,6 @@
 # HSC (1)
 
-HSC (1) is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at rake?raka?, Osaka on Mon, 13 Jul 2026.
+HSC (1) is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at rake?raka?, Osaka on Mon, 13 Jul 2026.
 
 HSC (1) is a deep house and techno artist tracked on soundcheck, with 220 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ALTF4, Cine and OSHALEY. Next up: rake?raka?, Osaka on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ HSC (1) is a deep house and techno artist tracked on soundcheck, with 220 sets l
 
 ALTF4, Cine, OSHALEY
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*

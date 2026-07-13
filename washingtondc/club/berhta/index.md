@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Colyn" on Fri, 17 Jul 2026.
+BERHTA is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Colyn" on Fri, 17 Jul 2026.
 
 BERHTA is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights, with line-ups including ALT8, Andy C, Big Gigantic and Colyn and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

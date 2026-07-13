@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DEEP DIVE" on Fri, 17 Jul 2026.
+SASS Music Club is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DEEP DIVE" on Fri, 17 Jul 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including Artemuse, Dyon, Julani and Lefteris. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -15,4 +15,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 2 upcoming nigh
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

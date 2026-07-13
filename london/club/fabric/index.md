@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "CAYA by fabric: Rave Rabbit presents Priku (All Night Long)" on Sun, 12 Jul 2026.
+fabric is a music venue in London with 23 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MTRNM: Emmanuel Jal, AJNA, Malóne Morez, Sam Karam, Cris Cioata, Umaedo, Sam Karam, Rahbani" on Fri, 17 Jul 2026.
 
-fabric is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Adriatique, A For Alpha, Agoria and A Hard Day's Dance and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Adriatique, A For Alpha, Agoria and A Hard Day's Dance and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | CAYA by fabric: Rave Rabbit presents Priku (All Night Long) | Priku |
 | Fri, 17 Jul 2026 | MTRNM: Emmanuel Jal, AJNA, Malóne Morez, Sam Karam, Cris Cioata, Umaedo, Sam Karam, Rahbani | AJNA, Cris Cioata, Emmanuel Jal, Rahbani, Sam Karam, Umaedo |
 | Sat, 18 Jul 2026 | fabric: Seth Troxler, Magda B2B Mari.te, Matias Aguayo (Live), RSquared, Joëlla Jackson | Joëlla Jackson, Magda, Mari.te, Matias Aguayo, RSquared, Seth Troxler |
 | Sun, 19 Jul 2026 | CAYA by fabric: OOZ - Mr Cenz, AndreeA, Miles Atmospheric | AndreeA, Miles Atmospheric, Mr Cenz |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 24 upcoming nights, with
 | Fri, 31 Jul 2026 | Deep Dish (All Night Long), Agoria, Lilya Mandre, SARAHREY | Agoria, Deep Dish, Lilya Mandre |
 | Sat, 1 Aug 2026 | fabric: HVOB (Live), Logic1000, Hardt Antoine B2B Echonomist, PAURRO, Fiona Zanetti | Echonomist, Fiona Zanetti, HVOB, Hardt Antoine, Logic1000, PAURRO |
 | Sat, 8 Aug 2026 | Adriatique presents X - Afterparty | Adriatique |
+| Fri, 14 Aug 2026 | Broadwick Live presents: Cristoph, Giolì & Assia, hitty, Low Steppa, Layla Benitez + more | Brina Knauss, Cristoph, Giolì & Assia, Layla Benitez, Lowsteppa, Paisley Jensen, hitty |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

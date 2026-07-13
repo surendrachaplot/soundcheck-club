@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Libianca & Friends: An Intimate Cultural Evening" on Mon, 13 Jul 2026.
+SOBs is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Libianca & Friends: An Intimate Cultural Evening" on Mon, 13 Jul 2026.
 
 SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including BlackDanielWhite. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -22,4 +22,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, wi
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

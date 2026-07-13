@@ -1,6 +1,6 @@
 # Dan Dusty
 
-Dan Dusty is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Skatecafe, Amsterdam on Fri, 17 Jul 2026.
+Dan Dusty is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Skatecafe, Amsterdam on Fri, 17 Jul 2026.
 
 Dan Dusty is a house and disco artist tracked on soundcheck, with 27 sets logged across Amsterdam. Often billed alongside Luis Ripa, De Sluwe Vos and Mees Mattern. Next up: Skatecafe, Amsterdam on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Dan Dusty is a house and disco artist tracked on soundcheck, with 27 sets logged
 
 Luis Ripa, De Sluwe Vos, Mees Mattern
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dandusty/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dandusty/)*

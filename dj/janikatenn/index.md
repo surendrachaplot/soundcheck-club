@@ -1,6 +1,6 @@
 # Janika Tenn
 
-Janika Tenn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
+Janika Tenn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
 
 Janika Tenn is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Ibiza, Liverpool and London and 2 more. Often billed alongside Todd Terry, Michael Moog and Steve Taylor. Next up: O Beach, Ibiza on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Janika Tenn is a house and tech house artist tracked on soundcheck, with 28 sets
 
 Todd Terry, Michael Moog, Steve Taylor
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*

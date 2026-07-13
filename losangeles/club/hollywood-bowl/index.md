@@ -1,6 +1,6 @@
 # Hollywood Bowl
 
-Hollywood Bowl is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Boris Brejcha with the Hollywood Bowl Orchestra" on Sun, 26 Jul 2026.
+Hollywood Bowl is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Boris Brejcha with the Hollywood Bowl Orchestra" on Sun, 26 Jul 2026.
 
 Hollywood Bowl is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2301 N Highland Ave, Los Angeles, CA 90068.
 
@@ -14,4 +14,4 @@ Hollywood Bowl is a music venue in Losangeles listed on soundcheck. 1 upcoming n
 
 2301 N Highland Ave, Los Angeles, CA 90068, Los Angeles
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hollywood-bowl/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hollywood-bowl/)*

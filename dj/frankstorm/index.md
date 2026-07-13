@@ -1,6 +1,6 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
+Frank Storm is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministry Of Sound, London on Sat, 1 Aug 2026.
 
 Frank Storm is a tech house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 6 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Ministry Of Sound, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Frank Storm is a tech house and techno artist tracked on soundcheck, with 39 set
 
 Marco Carola, Ale De Tuglie, Wade
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

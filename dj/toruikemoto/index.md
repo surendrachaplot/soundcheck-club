@@ -1,6 +1,6 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
+Toru Ikemoto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
 
 Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Berlin, Brisbane, Kyoto and Malta and 6 more. Often billed alongside DJ HI-C, TENO and Goodrug. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck,
 
 DJ HI-C, TENO, Goodrug
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*

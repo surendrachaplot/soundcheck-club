@@ -1,14 +1,13 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Audio SF, San Francisco/Oakland on Sun, 12 Jul 2026.
+Yung Singh is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Coda, Toronto on Thu, 16 Jul 2026.
 
-Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside Bakey, salute and Sally C. Next up: Audio SF, Sanfrancisco on Sun 12 Jul.
+Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside Bakey, salute and Sally C. Next up: Coda, Toronto on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Audio SF | San Francisco/Oakland |
 | Thu, 16 Jul 2026 | Coda | Toronto |
 | Fri, 17 Jul 2026 | Elsewhere | New York City |
 | Sat, 18 Jul 2026 | Art Club | Houston |
@@ -20,6 +19,7 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets log
 
 ## Recently played
 
+- Audio SF, San Francisco/Oakland — Sun, 12 Jul 2026
 - The Cause, London — Sat, 20 Jun 2026
 - Else, Berlin — Sun, 14 Jun 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
@@ -27,10 +27,9 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets log
 - Amber's, Manchester — Fri, 1 May 2026
 - Sala ART, Madrid — Sat, 18 Apr 2026
 - The Cause, London — Sat, 28 Mar 2026
-- Pier 1929, Hong Kong — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Bakey, salute, Sally C
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

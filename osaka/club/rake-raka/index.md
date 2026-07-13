@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DEAR MONDAY, vol.294 ft. Ario" on Mon, 13 Jul 2026.
+rake?raka? is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DEAR MONDAY, vol.294 ft. Ario" on Mon, 13 Jul 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including ALTF4, Ario, C!AO and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -19,4 +19,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

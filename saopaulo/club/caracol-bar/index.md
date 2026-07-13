@@ -1,6 +1,6 @@
 # Caracol Bar
 
-Caracol Bar is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "É Sobre a Pista" on Fri, 17 Jul 2026.
+Caracol Bar is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "É Sobre a Pista" on Fri, 17 Jul 2026.
 
 Caracol Bar is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including Ignacio_live and Zopelar. Browse upcoming dates, start times and who's playing. Rua Boracéa 160, Barra Funda, São Paulo.
 
@@ -14,4 +14,4 @@ Caracol Bar is a music venue in Saopaulo listed on soundcheck. 1 upcoming night,
 
 Rua Boracéa 160, Barra Funda, São Paulo, Sao Paulo
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/caracol-bar/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/caracol-bar/)*

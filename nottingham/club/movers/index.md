@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 14 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Electroclash 3: Grimes, New Order, LCD Soundsystem + more" on Fri, 17 Jul 2026.
+Movers is a music venue in Nottingham with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "WC: ENG V ARGENTINA hosted by Ex-Friendly [Truth & Lies DJ Set]" on Wed, 15 Jul 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, with line-ups including Jack DiY and Truth & Lies. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -8,9 +8,9 @@ Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 15 Jul 2026 | WC: ENG V ARGENTINA hosted by Ex-Friendly [Truth & Lies DJ Set] | Truth & Lies |
 | Fri, 17 Jul 2026 | Electroclash 3: Grimes, New Order, LCD Soundsystem + more |  |
 | Sat, 18 Jul 2026 | All Night Northern Soul with Nick Raine & Russell Fenby |  |
-| Wed, 22 Jul 2026 | WC: ENG V ARGENTINA hosted by Ex-Friendly [Truth & Lies DJ Set] | Truth & Lies |
 | Fri, 24 Jul 2026 | Bran Rot & Friends |  |
 | Sat, 25 Jul 2026 | PRIDE: Notts C*nty |  |
 | Fri, 31 Jul 2026 | Dunya |  |
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

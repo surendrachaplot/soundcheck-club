@@ -1,6 +1,6 @@
 # RRRKRTA
 
-RRRKRTA is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 17 Jul 2026.
+RRRKRTA is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at arkaoda Berlin, Berlin on Fri, 17 Jul 2026.
 
 RRRKRTA is a techno and electronica artist based in Poland, tracked on soundcheck, with 27 sets logged across Belgrade, Berlin, Glasgow and Hamburg and 5 more. Often billed alongside Diamin, Elena Colombi and ābnamā. Next up: arkaoda Berlin, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ RRRKRTA is a techno and electronica artist based in Poland, tracked on soundchec
 
 Diamin, Elena Colombi, ābnamā
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*

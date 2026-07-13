@@ -1,6 +1,6 @@
 # Efa O'Neill
 
-Efa O'Neill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Banana Block, Belfast on Sat, 25 Jul 2026.
+Efa O'Neill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Banana Block, Belfast on Sat, 25 Jul 2026.
 
 Efa O'Neill is a house and techno artist tracked on soundcheck, with 36 sets logged across Belfast, Cork, Dublin and Galway and 1 more. Often billed alongside Barker, Neil Flynn and Sahana. Next up: Banana Block, Belfast on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Efa O'Neill is a house and techno artist tracked on soundcheck, with 36 sets log
 
 Barker, Neil Flynn, Sahana
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/efaoneill/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/efaoneill/)*

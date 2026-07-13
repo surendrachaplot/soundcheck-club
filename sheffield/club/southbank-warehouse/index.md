@@ -1,6 +1,6 @@
 # Southbank Warehouse
 
-Southbank Warehouse is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DUBWIZE#020 TALLULAH SOUNDSYSTEM MEETS SAD BADGER SOUND CLASH" on Sat, 18 Jul 2026.
+Southbank Warehouse is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DUBWIZE#020 TALLULAH SOUNDSYSTEM MEETS SAD BADGER SOUND CLASH" on Sat, 18 Jul 2026.
 
 Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with line-ups including Earl Grey (2), mark andrew (2) and Tommy Badman. Browse upcoming dates, start times and who's playing. 90 Effingham Road, Sheffield, S4 7YS.
 
@@ -15,4 +15,4 @@ Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 2 upcomi
 
 90 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*

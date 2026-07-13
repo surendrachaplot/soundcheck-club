@@ -1,6 +1,6 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "DJ Cinéma Quartier Latin - Montréal" on Fri, 17 Jul 2026.
+Newspeak is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DJ Cinéma Quartier Latin - Montréal" on Fri, 17 Jul 2026.
 
 Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including DJ Cinéma Quartier Latin, Dusky, Gabriel & Dresden and Linska. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
@@ -20,4 +20,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 7 upcoming nights, w
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

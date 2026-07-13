@@ -1,6 +1,6 @@
 # Romain Garcia
 
-Romain Garcia is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Beach House San Diego, San Diego on Sat, 1 Aug 2026.
+Romain Garcia is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Beach House San Diego, San Diego on Sat, 1 Aug 2026.
 
 Romain Garcia is a progressive house and deep house artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Hana, Jody Wisternoff and Nils Hoffmann. Next up: Beach House San Diego, Sandiego on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Romain Garcia is a progressive house and deep house artist based in France, trac
 
 Hana, Jody Wisternoff, Nils Hoffmann
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*

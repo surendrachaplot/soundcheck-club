@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Studio the Venue, Auckland on Fri, 17 Jul 2026.
+Grafix is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Studio the Venue, Auckland on Fri, 17 Jul 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 27 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: Studio the Venue, Auckland on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Wilkinson, A Little Sound, BassLayerz
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*

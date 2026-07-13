@@ -1,6 +1,6 @@
 # Parfait
 
-Parfait is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mia Mao, Paris on Mon, 13 Jul 2026.
+Parfait is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Mon, 13 Jul 2026.
 
 Parfait is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, SNTS and 999999999. Next up: Mia Mao, Paris on Mon 13 Jul.
 
@@ -28,4 +28,4 @@ Parfait is a techno and house artist tracked on soundcheck, with 154 sets logged
 
 Charlie Sparks, SNTS, 999999999
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parfait-fr/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/parfait-fr/)*

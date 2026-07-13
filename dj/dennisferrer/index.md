@@ -1,6 +1,6 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Spybar, Chicago on Fri, 17 Jul 2026.
+Dennis Ferrer is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Spybar, Chicago on Fri, 17 Jul 2026.
 
 Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Bristol and 26 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Spybar, Chicago on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 129 s
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

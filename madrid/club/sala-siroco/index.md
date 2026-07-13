@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Ubicuo" on Fri, 17 Jul 2026.
+Sala Siroco is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Ubicuo" on Fri, 17 Jul 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Ana Alves, Fer Xplosion, Inglawt and Julia Pé and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 4 upcoming nights, 
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

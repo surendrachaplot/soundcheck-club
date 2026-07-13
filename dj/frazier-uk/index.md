@@ -1,6 +1,6 @@
 # Frazi.er
 
-Frazi.er is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sub Club, Glasgow on Fri, 31 Jul 2026.
+Frazi.er is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sub Club, Glasgow on Fri, 31 Jul 2026.
 
 Frazi.er is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 27 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: Sub Club, Glasgow on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Frazi.er is a techno and house artist tracked on soundcheck, with 97 sets logged
 
 E.DN, Liam Cappello, 999999999
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*

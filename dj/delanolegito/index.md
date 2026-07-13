@@ -1,6 +1,6 @@
 # Delano Legito
 
-Delano Legito is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA, Amsterdam on Sun, 19 Jul 2026.
+Delano Legito is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Amsterdam on Sun, 19 Jul 2026.
 
 Delano Legito is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Julie, Amotik and Serti. Next up: TBA, Amsterdam on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ Delano Legito is a techno and house artist tracked on soundcheck, with 102 sets 
 
 Julie, Amotik, Serti
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delanolegito/)*

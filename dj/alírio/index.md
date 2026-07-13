@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Alírio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Alírio is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Alírio is a house and techno artist tracked on soundcheck, with 76 sets logged 
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

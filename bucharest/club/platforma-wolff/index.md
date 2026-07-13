@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "PW x Spinback • Temar, Rafa, Ra2dtoo" on Thu, 16 Jul 2026.
+Platforma Wolff is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "PW x Spinback • Temar, Rafa, Ra2dtoo" on Thu, 16 Jul 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including Ancut, BILA, Cap and Cassy and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -22,4 +22,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

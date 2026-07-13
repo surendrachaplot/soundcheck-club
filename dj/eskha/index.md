@@ -1,6 +1,6 @@
 # Eskha
 
-Eskha is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Plage Privée Parc de Miribel, Lyon on Mon, 13 Jul 2026.
+Eskha is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Plage Privée Parc de Miribel, Lyon on Mon, 13 Jul 2026.
 
 Eskha is a techno and trance artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Lyon and 6 more. Often billed alongside 1luu, Aureb and CLTX. Next up: Plage Privée Parc de Miribel, Lyon on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ Eskha is a techno and trance artist tracked on soundcheck, with 44 sets logged a
 
 1luu, Aureb, CLTX
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*

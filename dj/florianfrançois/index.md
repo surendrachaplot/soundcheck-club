@@ -1,6 +1,6 @@
 # Florian François
 
-Florian François is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Exiles Beach Sliema, Malta on Fri, 17 Jul 2026.
+Florian François is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Exiles Beach Sliema, Malta on Fri, 17 Jul 2026.
 
 Florian François is a techno and progressive house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Malta. Often billed alongside Pascale Voltaire, A-THØX and Víctor Güell. Next up: Exiles Beach Sliema, Malta on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Florian François is a techno and progressive house artist based in Germany, tra
 
 Pascale Voltaire, A-THØX, Víctor Güell
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florianfrançois/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/florianfrançois/)*

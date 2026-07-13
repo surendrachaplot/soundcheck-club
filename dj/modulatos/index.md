@@ -1,6 +1,6 @@
 # Modulatos
 
-Modulatos is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Void Club, Berlin on Fri, 17 Jul 2026.
+Modulatos is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Void Club, Berlin on Fri, 17 Jul 2026.
 
 Modulatos is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin. Often billed alongside Upzet, Der Eggert and Honschu Lee. Next up: Void Club, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Modulatos is a techno and drum & bass artist based in Germany, tracked on soundc
 
 Upzet, Der Eggert, Honschu Lee
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/modulatos/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/modulatos/)*

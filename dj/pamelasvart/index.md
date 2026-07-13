@@ -1,6 +1,6 @@
 # Pamela Svart
 
-Pamela Svart is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 18 Jul 2026.
+Pamela Svart is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 18 Jul 2026.
 
 Pamela Svart is a techno and trance artist based in Chile, tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen and Nurnberg. Often billed alongside GLIA, Reita D Russo and Alegrando. Next up: Den Anden Side, Copenhagen on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Pamela Svart is a techno and trance artist based in Chile, tracked on soundcheck
 
 GLIA, Reita D Russo, Alegrando
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelasvart/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelasvart/)*

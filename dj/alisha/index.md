@@ -1,6 +1,6 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Cova Santa, Ibiza on Mon, 13 Jul 2026.
+ALISHA is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cova Santa, Ibiza on Mon, 13 Jul 2026.
 
 ALISHA is a house and tech house artist tracked on soundcheck, with 169 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 30 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Cova Santa, Ibiza on Mon 13 Jul.
 
@@ -35,4 +35,4 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 169 sets log
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

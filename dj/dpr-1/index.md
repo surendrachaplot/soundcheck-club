@@ -1,6 +1,6 @@
 # DPR (1)
 
-DPR (1) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ministerium Club, Lisbon on Fri, 17 Jul 2026.
+DPR (1) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministerium Club, Lisbon on Fri, 17 Jul 2026.
 
 DPR (1) is a house and minimal artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Bucharest and Hongkong and 12 more. Often billed alongside DJ Kirby, Ethan. and Que Sakamoto. Next up: Ministerium Club, Lisbon on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DPR (1) is a house and minimal artist tracked on soundcheck, with 30 sets logged
 
 DJ Kirby, Ethan., Que Sakamoto
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dpr-1/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dpr-1/)*

@@ -1,6 +1,6 @@
 # Loma Doom
 
-Loma Doom is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Loma Doom is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Loma Doom is an experimental and club artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Cowper, Elena Colombi and Lupini. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Loma Doom is an experimental and club artist based in Netherlands, tracked on so
 
 Cowper, Elena Colombi, Lupini
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lomadoom/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lomadoom/)*

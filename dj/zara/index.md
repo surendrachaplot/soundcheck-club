@@ -1,6 +1,6 @@
 # Zara
 
-Zara is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
+Zara is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
 
 Zara is a techno and experimental artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: Port del Comte, Barcelona on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Zara is a techno and experimental artist tracked on soundcheck, with 76 sets log
 
 Andy Garvey, Tangerine, Agonis
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*

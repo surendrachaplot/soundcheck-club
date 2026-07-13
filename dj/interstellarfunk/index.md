@@ -1,6 +1,6 @@
 # Interstellar Funk
 
-Interstellar Funk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Interstellar Funk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
 Interstellar Funk is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Marcel Dettmann, Loradeniz and Aurora Halal. Next up: Garchinger See, Munich on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Interstellar Funk is a techno and house artist tracked on soundcheck, with 107 s
 
 Marcel Dettmann, Loradeniz, Aurora Halal
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*

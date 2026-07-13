@@ -1,14 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 18 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "NAIDOC Dance — Proudly Supporting VACCA" on Sun, 12 Jul 2026.
+Revolver Upstairs is a music venue in Melbourne with 17 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Answer Code Request (DE) — Revolver Fridays & Deep Cargo" on Fri, 17 Jul 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcoming nights, with line-ups including Anima Omada, Answer Code Request, ARTISAH and BDE and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcoming nights, with line-ups including Answer Code Request, ARTISAH, BDE and Ben Silver and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | NAIDOC Dance — Proudly Supporting VACCA | Anima Omada, FAF (1), Fosters, Mount Mike, Naycab, Numero 6, Trey, Yarra, randals dad |
 | Fri, 17 Jul 2026 | Answer Code Request (DE) — Revolver Fridays & Deep Cargo | Answer Code Request, Crozier, Mike Buhl, Tejavu |
 | Sun, 19 Jul 2026 | Luke Hovey + Special Guests — Agenda & Revolver Sundays | Black Dave, Laura King, Luke Hovey |
 | Fri, 24 Jul 2026 | Love, Jess: 'A drifter's gospel' EP Launch — Proponent Records | BDE, Common Tribe, Lost Memories, Love, Jess |
@@ -18,9 +17,10 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcomin
 | Sat, 8 Aug 2026 | REVOLVER BANDROOM: Canvas Collective — presents (DE)GENERATE |  |
 | Fri, 14 Aug 2026 | SHADOWS | ARTISAH, CJ Slayer, WISER, Yulia Kasa |
 | Sat, 15 Aug 2026 | REVOLVER BANDROOM: Hate Complex (AU) |  |
+| Sun, 16 Aug 2026 | Samantha Loverdige & Cooper Smith - Winter Series pres. by Thick As Thieves | Samantha Loveridge |
 
 ## Address
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "RiteTrax Open Decks" on Fri, 17 Jul 2026.
+Plot 22 is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "RiteTrax Open Decks" on Fri, 17 Jul 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 5 upcoming nights, with line-ups including Creola and TC. Browse upcoming dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -18,4 +18,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 5 upcoming nights, w
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

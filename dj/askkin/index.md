@@ -1,6 +1,6 @@
 # Askkin
 
-Askkin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at essaim, Paris on Fri, 31 Jul 2026.
+Askkin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at essaim, Paris on Fri, 31 Jul 2026.
 
 Askkin is a techno and house artist based in Belgium, tracked on soundcheck, with 35 sets logged across Antwerp, Berlin, Brussels and Lyon and 4 more. Often billed alongside Clara D, Hadone and Fais Le Beau. Next up: essaim, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Askkin is a techno and house artist based in Belgium, tracked on soundcheck, wit
 
 Clara D, Hadone, Fais Le Beau
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/askkin/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/askkin/)*

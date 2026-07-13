@@ -1,6 +1,6 @@
 # Pachanga Boys
 
-Pachanga Boys is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
+Pachanga Boys is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Pachanga Boys is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Auckland, Barcelona and Ibiza and 9 more. Often billed alongside Bleach, DJ Koze and Jungle (UK). Next up: Playa Soleil Ibiza, Ibiza on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Pachanga Boys is a techno and house artist tracked on soundcheck, with 26 sets l
 
 Bleach, DJ Koze, Jungle (UK)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*

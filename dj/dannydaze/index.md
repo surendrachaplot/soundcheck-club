@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
+Danny Daze is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
 
 Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Berlin and Bucharest and 26 more. Often billed alongside Jonny From Space, Nick León and Sister System. Next up: TILLATEC, Amsterdam on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 151 sets log
 
 Jonny From Space, Nick León, Sister System
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

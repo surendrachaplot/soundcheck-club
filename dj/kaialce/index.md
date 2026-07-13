@@ -1,6 +1,6 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Foundry, San Francisco/Oakland on Sat, 18 Jul 2026.
+Kai Alce is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Foundry, San Francisco/Oakland on Sat, 18 Jul 2026.
 
 Kai Alce is a house and deep house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and Omer Mil. Next up: The Foundry, Sanfrancisco on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 80 sets lo
 
 DJ Kemit, Ash Lauryn, Omer Mil
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

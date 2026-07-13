@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Sound In Mind" on Thu, 16 Jul 2026.
+Four Quarters is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sound In Mind" on Thu, 16 Jul 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including David Beckett, ETHICS, Reeves (1) and Wanderer. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -16,4 +16,4 @@ Four Quarters is a music venue in London listed on soundcheck. 3 upcoming nights
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

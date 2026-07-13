@@ -1,6 +1,6 @@
 # Sleep D
 
-Sleep D is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
+Sleep D is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 Sleep D is a techno and house artist tracked on soundcheck, with 77 sets logged across Bali, Bangkok, Berlin and Brisbane and 17 more. Often billed alongside DJ PGZ, Moopie and Darcy Justice. Next up: The Great Northern, Sanfrancisco on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Sleep D is a techno and house artist tracked on soundcheck, with 77 sets logged 
 
 DJ PGZ, Moopie, Darcy Justice
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*

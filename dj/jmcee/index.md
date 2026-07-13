@@ -1,6 +1,6 @@
 # Jmcee
 
-Jmcee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Macarena Club, Barcelona on Fri, 17 Jul 2026.
+Jmcee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Macarena Club, Barcelona on Fri, 17 Jul 2026.
 
 Jmcee is a house and techno artist based in Australia, tracked on soundcheck, with 79 sets logged across Bali, Bangkok, Barcelona and Berlin and 9 more. Often billed alongside Lucca Tan, Gabri-L and Steph Yeah. Next up: Macarena Club, Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jmcee is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Lucca Tan, Gabri-L, Steph Yeah
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jmcee/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jmcee/)*

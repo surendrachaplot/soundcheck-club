@@ -1,6 +1,6 @@
 # La Plaza Cultural
 
-La Plaza Cultural is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "IGNITE YOUR INNER LIGHT" on Mon, 13 Jul 2026.
+La Plaza Cultural is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "IGNITE YOUR INNER LIGHT" on Mon, 13 Jul 2026.
 
 La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 674 East 9th Street, New York, NY 10009.
 
@@ -22,4 +22,4 @@ La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 9 upcomi
 
 674 East 9th Street, New York, NY 10009, New York City
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/la-plaza-cultural/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/la-plaza-cultural/)*

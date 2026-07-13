@@ -1,6 +1,6 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Radio Radio, Amsterdam on Fri, 17 Jul 2026.
+Elias Mazian is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Radio Radio, Amsterdam on Fri, 17 Jul 2026.
 
 Elias Mazian is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Bastienne. Next up: Radio Radio, Amsterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Elias Mazian is a house and techno artist tracked on soundcheck, with 110 sets l
 
 Suze Ijó, Doppelgang, Bastienne
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

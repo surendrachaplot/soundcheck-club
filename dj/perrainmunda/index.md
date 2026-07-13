@@ -1,6 +1,6 @@
 # Perra Inmunda
 
-Perra Inmunda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+Perra Inmunda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
 Perra Inmunda is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Else, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Perra Inmunda is a techno and house artist tracked on soundcheck, with 74 sets l
 
 DJ Gigola, MCR-T, ALCATRAZ
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*

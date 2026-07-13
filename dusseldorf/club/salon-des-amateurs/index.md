@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Silicone Soul & Voltmar" on Fri, 17 Jul 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Silicone Soul & Voltmar" on Fri, 17 Jul 2026.
 
 Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 3 upcoming nights, with line-ups including Lars Eidinger, Silicone Soul and Voltmar. Browse upcoming dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -16,4 +16,4 @@ Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 3 upcomi
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

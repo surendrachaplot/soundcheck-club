@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 35 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "◥◣SINGULARITY◥◣" on Mon, 13 Jul 2026.
+Tresor / Globus is a music venue in Berlin with 35 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "◥◣SINGULARITY◥◣ 2 floors + secret open air garden" on Mon, 13 Jul 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 35 upcoming nights, with line-ups including Agua con gas, Akua, ALIBIR and ALP (DE) and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -8,7 +8,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 35 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | ◥◣SINGULARITY◥◣ | Inverse Element, Majdolen, RUIZ OSC1, Triqi |
+| Mon, 13 Jul 2026 | ◥◣SINGULARITY◥◣ 2 floors + secret open air garden | Inverse Element, Majdolen, RUIZ OSC1, Triqi |
 | Mon, 13 Jul 2026 | Singularity | Inverse Element, Majdolen, RUIZ OSC1, Triqi |
 | Wed, 15 Jul 2026 | Büro Siebzig: The Spoiled LIVE & Morwan LIVE | Morwan |
 | Wed, 15 Jul 2026 | Tresor New Faces hosted by Trifec | CHUKWU, Julia Maria, KaioBarssalos, LINDS (NL), Linds, Maccari |
@@ -23,4 +23,4 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 35 upcoming nig
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

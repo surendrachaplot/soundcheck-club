@@ -1,6 +1,6 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Silly Little Disco 001" on Fri, 17 Jul 2026.
+Piccadilly Central is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Silly Little Disco 001" on Fri, 17 Jul 2026.
 
 Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including ANT1 (2), David James MCR, FAGASH and Harry Rodger and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
@@ -17,4 +17,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

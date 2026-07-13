@@ -1,6 +1,6 @@
 # Tivoli
 
-Tivoli is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Skin On Skin - BRISBANE" on Fri, 17 Jul 2026.
+Tivoli is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Skin On Skin - BRISBANE" on Fri, 17 Jul 2026.
 
 Tivoli is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, with line-ups including Club Angel, Moktar and Skin On Skin. Browse upcoming dates, start times and who's playing. 52 Costin St; Fortitude Valley, QLD 4006; Australia.
 
@@ -15,4 +15,4 @@ Tivoli is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, wit
 
 52 Costin St; Fortitude Valley, QLD 4006; Australia, Brisbane
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tivoli/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tivoli/)*

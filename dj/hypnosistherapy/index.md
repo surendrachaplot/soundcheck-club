@@ -1,6 +1,6 @@
 # HYPNOSIS THERAPY
 
-HYPNOSIS THERAPY is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Grace Darling Hotel, Melbourne on Thu, 16 Jul 2026.
+HYPNOSIS THERAPY is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Grace Darling Hotel, Melbourne on Thu, 16 Jul 2026.
 
 HYPNOSIS THERAPY is a techno and hardcore artist based in South Korea, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Leeds and Melbourne and 4 more. Often billed alongside Closet Yi, DJ Soulscape and Hyejin. Next up: Grace Darling Hotel, Melbourne on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ HYPNOSIS THERAPY is a techno and hardcore artist based in South Korea, tracked o
 
 Closet Yi, DJ Soulscape, Hyejin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*

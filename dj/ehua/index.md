@@ -1,14 +1,13 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Palais de Tokyo, Paris on Sun, 12 Jul 2026.
+Ehua is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Planet Wax, London on Thu, 16 Jul 2026.
 
-Ehua is a techno and bass artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Barcelona and Basel and 30 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: Palais de Tokyo, Paris on Sun 12 Jul.
+Ehua is a techno and bass artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Barcelona and Basel and 30 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: Planet Wax, London on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Palais de Tokyo | Paris |
 | Thu, 16 Jul 2026 | Planet Wax | London |
 | Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | The Cause | London |
@@ -16,6 +15,7 @@ Ehua is a techno and bass artist tracked on soundcheck, with 116 sets logged acr
 
 ## Recently played
 
+- Palais de Tokyo, Paris — Sun, 12 Jul 2026
 - Razzmatazz, Barcelona — Fri, 26 Jun 2026
 - M.O.T, London — Sat, 30 May 2026
 - ASIAT Park, Brussels — Thu, 14 May 2026
@@ -23,10 +23,9 @@ Ehua is a techno and bass artist tracked on soundcheck, with 116 sets logged acr
 - Golden Pudel Club, Hamburg — Sun, 26 Apr 2026
 - Backsteinboot, Berlin — Sat, 11 Apr 2026
 - Ormside Projects, London — Fri, 10 Apr 2026
-- EXIT Glasgow, Glasgow — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 AliA, Bitter Babe, Flore
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

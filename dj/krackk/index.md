@@ -1,6 +1,6 @@
 # Krackk
 
-Krackk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
+Krackk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
 
 Krackk is a techno and house artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside Robin Tasi, Justin Tinderdate and Mika Heggemann. Next up: Westhafen, Leipzig on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Krackk is a techno and house artist tracked on soundcheck, with 47 sets logged a
 
 Robin Tasi, Justin Tinderdate, Mika Heggemann
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*

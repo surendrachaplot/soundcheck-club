@@ -1,6 +1,6 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Floyd, Miami on Sat, 1 Aug 2026.
+Sistek is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Floyd, Miami on Sat, 1 Aug 2026.
 
 Sistek is an afro house and house artist tracked on soundcheck, with 33 sets logged across Basel, Berlin, Boston and Chicago and 16 more. Often billed alongside ARODES, Chelina Manuhutu and Cristoph. Next up: Floyd, Miami on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sistek is an afro house and house artist tracked on soundcheck, with 33 sets log
 
 ARODES, Chelina Manuhutu, Cristoph
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

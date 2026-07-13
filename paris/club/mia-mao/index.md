@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "MIND: Franck, Upper90, Arman John, Carla Schmitt & more" on Mon, 13 Jul 2026.
+Mia Mao is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MIND: Franck, Upper90, Arman John, Carla Schmitt & more" on Mon, 13 Jul 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Alba Franch, Arman John and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -22,4 +22,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with 
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

@@ -1,6 +1,6 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Jennifer Loveless is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 sets logged across Amsterdam, Austin, Bali and Barcelona and 51 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -35,4 +35,4 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 232 s
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

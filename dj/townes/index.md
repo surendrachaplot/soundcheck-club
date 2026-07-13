@@ -1,6 +1,6 @@
 # Townes
 
-Townes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Rote Sonne, Munich on Fri, 17 Jul 2026.
+Townes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Rote Sonne, Munich on Fri, 17 Jul 2026.
 
 Townes is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Detroit and Dublin and 5 more. Often billed alongside SHDW, Salty DJ and Jannis Maxim. Next up: Rote Sonne, Munich on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Townes is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 SHDW, Salty DJ, Jannis Maxim
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/townes/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/townes/)*

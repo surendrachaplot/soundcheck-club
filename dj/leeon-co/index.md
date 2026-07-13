@@ -1,6 +1,6 @@
 # Leeon
 
-Leeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Leeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Leeon is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Fais Le Beau, Adi (CO) and Boris. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Leeon is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 Fais Le Beau, Adi (CO), Boris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-co/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-co/)*

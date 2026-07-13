@@ -1,6 +1,6 @@
 # Corren Cavini
 
-Corren Cavini is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 9 Aug 2026.
+Corren Cavini is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 9 Aug 2026.
 
 Corren Cavini is a progressive house and deep house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, London and Montreal and 4 more. Often billed alongside Nora En Pure, Eelke Kleijn and Mees Salomé. Next up: Křižíkova Fountain, Prague on Sun 9 Aug.
 
@@ -27,4 +27,4 @@ Corren Cavini is a progressive house and deep house artist tracked on soundcheck
 
 Nora En Pure, Eelke Kleijn, Mees Salomé
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*

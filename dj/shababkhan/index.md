@@ -1,6 +1,6 @@
 # Shabab Khan
 
-Shabab Khan is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Vita - Hotel & Rooftop, Malta on Fri, 17 Jul 2026.
+Shabab Khan is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Vita - Hotel & Rooftop, Malta on Fri, 17 Jul 2026.
 
 Shabab Khan is a techno and progressive house artist based in Malta, tracked on soundcheck, with 33 sets logged across Malta. Often billed alongside Abdy, Daniel Blade and Adel dj. Next up: Vita - Hotel & Rooftop, Malta on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Shabab Khan is a techno and progressive house artist based in Malta, tracked on 
 
 Abdy, Daniel Blade, Adel dj
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shababkhan/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shababkhan/)*

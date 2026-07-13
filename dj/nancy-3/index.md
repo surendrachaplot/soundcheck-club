@@ -1,6 +1,6 @@
 # Nancy (3)
 
-Nancy (3) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 17 Jul 2026.
+Nancy (3) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 17 Jul 2026.
 
 Nancy (3) is a house and electro artist tracked on soundcheck, with 37 sets logged across Barcelona. Often billed alongside /K/iara, arnald and Vilalta. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Nancy (3) is a house and electro artist tracked on soundcheck, with 37 sets logg
 
 /K/iara, arnald, Vilalta
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nancy-3/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nancy-3/)*

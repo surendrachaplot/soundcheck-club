@@ -1,6 +1,6 @@
 # FINYA
 
-FINYA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 17 Jul 2026.
+FINYA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 17 Jul 2026.
 
 FINYA is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside EMILIO (3), STRATAH and uuu7. Next up: Circus Tokyo, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ FINYA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 EMILIO (3), STRATAH, uuu7
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finya/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finya/)*

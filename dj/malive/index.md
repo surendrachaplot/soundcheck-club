@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Pier of Scheveningen, The Hague on Sat, 18 Jul 2026.
+Malive is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Pier of Scheveningen, The Hague on Sat, 18 Jul 2026.
 
 Malive is a house and deep house artist tracked on soundcheck, with 27 sets logged across Athens, Barcelona, Ibiza and Istanbul and 10 more. Often billed alongside Jonas Blue, Korolova and Maz (BR). Next up: The Pier of Scheveningen, Thehague on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Malive is a house and deep house artist tracked on soundcheck, with 27 sets logg
 
 Jonas Blue, Korolova, Maz (BR)
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

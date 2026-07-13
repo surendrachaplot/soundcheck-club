@@ -1,6 +1,6 @@
 # ACOR
 
-ACOR is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Karmakoma, Belgrade on Sat, 1 Aug 2026.
+ACOR is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Karmakoma, Belgrade on Sat, 1 Aug 2026.
 
 ACOR is a techno and industrial artist tracked on soundcheck, with 34 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Moraitov, RAR and Azyr. Next up: Karmakoma, Belgrade on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ ACOR is a techno and industrial artist tracked on soundcheck, with 34 sets logge
 
 Moraitov, RAR, Azyr
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/actor/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/actor/)*

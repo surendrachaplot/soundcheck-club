@@ -1,6 +1,6 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Flac, Seoul on Sat, 18 Jul 2026.
+Ammo Avenue is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flac, Seoul on Sat, 18 Jul 2026.
 
 Ammo Avenue is a tech house and house artist based in Peru, tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: Flac, Seoul on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Ammo Avenue is a tech house and house artist based in Peru, tracked on soundchec
 
 Hector Couto, Pirate Copy, East End Dubs
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*

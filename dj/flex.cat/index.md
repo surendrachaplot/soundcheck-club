@@ -1,6 +1,6 @@
 # FLEX.cat
 
-FLEX.cat is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 18 Jul 2026.
+FLEX.cat is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 18 Jul 2026.
 
 FLEX.cat is a house and acid artist tracked on soundcheck, with 32 sets logged across Barcelona. Often billed alongside J.Benitez (2), A. CASANOVA and _MARCBA. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ FLEX.cat is a house and acid artist tracked on soundcheck, with 32 sets logged a
 
 J.Benitez (2), A. CASANOVA, _MARCBA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flex.cat/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flex.cat/)*

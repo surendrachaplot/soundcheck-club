@@ -1,6 +1,6 @@
 # Bastard Love
 
-Bastard Love is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Club der Visionaere, Berlin on Mon, 13 Jul 2026.
+Bastard Love is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club der Visionaere, Berlin on Mon, 13 Jul 2026.
 
 Bastard Love is a house and electro artist based in Mexico, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Mejia, Ossios and Oliverio Segura. Next up: Club der Visionaere, Berlin on Mon 13 Jul.
 
@@ -26,4 +26,4 @@ Bastard Love is a house and electro artist based in Mexico, tracked on soundchec
 
 Mejia, Ossios, Oliverio Segura
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastardlove/)*

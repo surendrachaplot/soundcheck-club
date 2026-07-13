@@ -1,6 +1,6 @@
 # Atomium
 
-Atomium is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Hangar invites Tiësto - Atomium Open Air" on Fri, 31 Jul 2026.
+Atomium is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Hangar invites Tiësto - Atomium Open Air" on Fri, 31 Jul 2026.
 
 Atomium is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Tiesto. Browse upcoming dates, start times and who's playing. Atomium Square, 1020 Laken.
 
@@ -14,4 +14,4 @@ Atomium is a music venue in Brussels listed on soundcheck. 1 upcoming night, wit
 
 Atomium Square, 1020 Laken, Brussels
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/atomium/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/atomium/)*

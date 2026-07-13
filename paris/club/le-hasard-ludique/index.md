@@ -1,6 +1,6 @@
 # Le Hasard Ludique
 
-Le Hasard Ludique is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Open air x Basses Fréquences" on Tue, 14 Jul 2026.
+Le Hasard Ludique is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Open air x Basses Fréquences" on Tue, 14 Jul 2026.
 
 Le Hasard Ludique is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including 42L (1) and Blasha & Allatt. Browse upcoming dates, start times and who's playing. 128, avenue de Saint-Ouen, 75018 Paris, France.
 
@@ -14,4 +14,4 @@ Le Hasard Ludique is a music venue in Paris listed on soundcheck. 1 upcoming nig
 
 128, avenue de Saint-Ouen, 75018 Paris, France, Paris
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-hasard-ludique/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-hasard-ludique/)*

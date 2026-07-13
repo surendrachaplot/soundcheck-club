@@ -1,14 +1,13 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Thuishaven, Amsterdam on Sun, 12 Jul 2026.
+Mad.Again (2) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
 
-Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Thuishaven, Amsterdam on Sun 12 Jul.
+Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Cova Santa, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 12 Jul 2026 | Thuishaven | Amsterdam |
 | Tue, 21 Jul 2026 | Cova Santa | Ibiza |
 | Sat, 8 Aug 2026 | Distrikt | Leeds |
 | Wed, 12 Aug 2026 | [UNVRS] | Ibiza |
@@ -18,6 +17,7 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 se
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 12 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
 - Esferic Bcn, Barcelona — Fri, 19 Jun 2026
 - 528 Ibiza, Ibiza — Sun, 14 Jun 2026
@@ -25,10 +25,9 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 se
 - Vittoria Wharf Studio, London — Thu, 11 Jun 2026
 - Colorado Charlie, The Hague — Sun, 7 Jun 2026
 - Amnesia Ibiza, Ibiza — Mon, 25 May 2026
-- The Cause, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Locky, Liam Palmer, Elliot Schooling
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*

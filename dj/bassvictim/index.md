@@ -1,6 +1,6 @@
 # Bassvictim
 
-Bassvictim is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Bassvictim is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 Bassvictim is an electro and experimental artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside mMega, Evian Christ and Heartcoregirl. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Bassvictim is an electro and experimental artist based in United Kingdom, tracke
 
 mMega, Evian Christ, Heartcoregirl
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvictim/)*

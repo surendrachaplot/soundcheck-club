@@ -1,6 +1,6 @@
 # Luke McKeehan
 
-Luke McKeehan is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TBA - City Centre Artist Lodge, Vancouver on Sat, 18 Jul 2026.
+Luke McKeehan is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - City Centre Artist Lodge, Vancouver on Sat, 18 Jul 2026.
 
 Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 26 sets logged across Vancouver. Often billed alongside Jesse Hills, DJ Heather and DJ Sneak. Next up: TBA - City Centre Artist Lodge, Vancouver on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Luke McKeehan is a deep house and disco artist tracked on soundcheck, with 26 se
 
 Jesse Hills, DJ Heather, DJ Sneak
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemckeehan/)*

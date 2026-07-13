@@ -1,6 +1,6 @@
 # MistaJam
 
-MistaJam is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 17 Aug 2026.
+MistaJam is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 17 Aug 2026.
 
 MistaJam is a house and tech house artist tracked on soundcheck, with 30 sets logged across Ibiza, London, Malta and Manchester and 1 more. Often billed alongside James Hype (UK), Meduza and David Guetta. Next up: Ushuaïa Ibiza, Ibiza on Mon 17 Aug.
 
@@ -26,4 +26,4 @@ MistaJam is a house and tech house artist tracked on soundcheck, with 30 sets lo
 
 James Hype (UK), Meduza, David Guetta
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mistajam/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mistajam/)*

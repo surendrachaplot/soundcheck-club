@@ -1,6 +1,6 @@
 # Trashabelle
 
-Trashabelle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Kater, Berlin on Sat, 18 Jul 2026.
+Trashabelle is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Kater, Berlin on Sat, 18 Jul 2026.
 
 Trashabelle is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig and Munich. Often billed alongside DJ TIPSTER, HØLLE (2) and XIMA. Next up: Kater, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Trashabelle is a techno and trance artist based in Germany, tracked on soundchec
 
 DJ TIPSTER, HØLLE (2), XIMA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trashabelle/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trashabelle/)*

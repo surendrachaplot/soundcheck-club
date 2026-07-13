@@ -1,6 +1,6 @@
 # ISIS
 
-ISIS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at TRAUM, Antwerp on Mon, 20 Jul 2026.
+ISIS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TRAUM, Antwerp on Mon, 20 Jul 2026.
 
 ISIS is a techno and house artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Cologne and Hamburg and 2 more. Often billed alongside Alexander Koning, Dimitri (1) and Lucien Foort. Next up: TRAUM, Antwerp on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ ISIS is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 Alexander Koning, Dimitri (1), Lucien Foort
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isis/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isis/)*

@@ -1,6 +1,6 @@
 # Hotel Ziggy
 
-Hotel Ziggy is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "Bananas Pool Pary" on Sat, 18 Jul 2026.
+Hotel Ziggy is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Bananas Pool Pary" on Sat, 18 Jul 2026.
 
 Hotel Ziggy is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 8462 Sunset Blvd, West Hollywood, CA 90069.
 
@@ -14,4 +14,4 @@ Hotel Ziggy is a music venue in Losangeles listed on soundcheck. 1 upcoming nigh
 
 8462 Sunset Blvd, West Hollywood, CA 90069, Los Angeles
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*

@@ -1,6 +1,6 @@
 # David Bes
 
-David Bes is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Department 184, Milan on Sat, 18 Jul 2026.
+David Bes is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Department 184, Milan on Sat, 18 Jul 2026.
 
 David Bes is a techno and tech house artist based in Italy, tracked on soundcheck, with 26 sets logged across Milan. Often billed alongside Stefano Riva, Avikal and Simon T. Next up: Department 184, Milan on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ David Bes is a techno and tech house artist based in Italy, tracked on soundchec
 
 Stefano Riva, Avikal, Simon T
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbes/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbes/)*

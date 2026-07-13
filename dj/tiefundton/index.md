@@ -1,6 +1,6 @@
 # Tiefundton
 
-Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
+Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
 
 Tiefundton is a techno and trance artist tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Frankfurt and Nurnberg and 1 more. Often billed alongside TAKTSTÖRER, A.N.I. and Daniela Hensel. Next up: MTW, Frankfurt on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Tiefundton is a techno and trance artist tracked on soundcheck, with 26 sets log
 
 TAKTSTÖRER, A.N.I., Daniela Hensel
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

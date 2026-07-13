@@ -1,6 +1,6 @@
 # BISOUX
 
-BISOUX is a Trance and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Club Vaag, Antwerp on Sat, 25 Jul 2026.
+BISOUX is a Trance and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club Vaag, Antwerp on Sat, 25 Jul 2026.
 
 BISOUX is a trance and house artist based in Belgium, tracked on soundcheck, with 23 sets logged across Antwerp, Berlin, Brussels and Paris and 1 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: Club Vaag, Antwerp on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ BISOUX is a trance and house artist based in Belgium, tracked on soundcheck, wit
 
 Jef Nice, BAVR, Lisa Korver
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*

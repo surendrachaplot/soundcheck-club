@@ -1,6 +1,6 @@
 # Sol Ortega
 
-Sol Ortega is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
+Sol Ortega is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
 Sol Ortega is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside ANNĒ, KiNK and LOLSNAKE. Next up: Union Park, Chicago on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Sol Ortega is a techno and house artist tracked on soundcheck, with 80 sets logg
 
 ANNĒ, KiNK, LOLSNAKE
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*

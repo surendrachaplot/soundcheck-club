@@ -1,6 +1,6 @@
 # Waschhaus
 
-Waschhaus is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 12 Jul 2026; the next is "HAVELBEATS FESTIVAL 2026" on Fri, 7 Aug 2026.
+Waschhaus is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "HAVELBEATS FESTIVAL 2026" on Fri, 7 Aug 2026.
 
 Waschhaus is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including 2HOT2PLAY, Alfred Heinrichs, A.N.I. and Ave (DE) and 2 more. Browse upcoming dates, start times and who's playing. Schiffbauergasse 6, 14467 Potsdam.
 
@@ -14,4 +14,4 @@ Waschhaus is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Schiffbauergasse 6, 14467 Potsdam, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/waschhaus/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/waschhaus/)*

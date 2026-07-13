@@ -1,6 +1,6 @@
 # Amy Wiles
 
-Amy Wiles is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Document, Bristol on Sat, 25 Jul 2026.
+Amy Wiles is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Document, Bristol on Sat, 25 Jul 2026.
 
 Amy Wiles is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Brighton and Brisbane and 17 more. Often billed alongside Leena Punks, Billy Gillies and Ferry Corsten. Next up: Document, Bristol on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Amy Wiles is a trance and progressive house artist based in United Kingdom, trac
 
 Leena Punks, Billy Gillies, Ferry Corsten
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amywiles/)*

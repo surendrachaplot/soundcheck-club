@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "BLAUES STÜNDCHEN w. Dave Dinger" on Tue, 14 Jul 2026.
+Klunkerkranich is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "BLAUES STÜNDCHEN w. Dave Dinger" on Tue, 14 Jul 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Balthazar Martinez, Dave Dinger, DJ Houseum and Emorine. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -16,4 +16,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 3 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

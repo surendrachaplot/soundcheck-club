@@ -1,6 +1,6 @@
 # Crybaby
 
-Crybaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
+Crybaby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
 
 Crybaby is a techno and house artist tracked on soundcheck, with 52 sets logged across Bangkok, Brisbane, London and Melbourne and 5 more. Often billed alongside Shampain, Caucasian Opportunities and JUPiTA. Next up: The Cause, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Crybaby is a techno and house artist tracked on soundcheck, with 52 sets logged 
 
 Shampain, Caucasian Opportunities, JUPiTA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby-au/)*

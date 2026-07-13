@@ -1,6 +1,6 @@
 # meat computer
 
-meat computer is a Experimental and Hip-Hop artist with 6 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Grand Social, Dublin on Tue, 14 Jul 2026.
+meat computer is a Experimental and Hip-Hop artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Grand Social, Dublin on Tue, 14 Jul 2026.
 
 meat computer is an experimental and hip-hop artist tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Dublin and Frankfurt and 9 more. Often billed alongside Oatmilkandcodeine, Yungster Jack and 3LNA. Next up: The Grand Social, Dublin on Tue 14 Jul.
 
@@ -30,4 +30,4 @@ meat computer is an experimental and hip-hop artist tracked on soundcheck, with 
 
 Oatmilkandcodeine, Yungster Jack, 3LNA
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meatcomputer/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meatcomputer/)*

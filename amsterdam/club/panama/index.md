@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sun, 12 Jul 2026; the next is "Daft Punk Experience Tribute Show" on Sat, 18 Jul 2026.
+Panama is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Daft Punk Experience Tribute Show" on Sat, 18 Jul 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including KaneLevy, Kuzio and Zeyvers. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, w
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

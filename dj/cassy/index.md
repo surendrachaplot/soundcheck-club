@@ -1,6 +1,6 @@
 # Cassy
 
-Cassy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Sonnenraum, Berlin on Sat, 18 Jul 2026.
+Cassy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sonnenraum, Berlin on Sat, 18 Jul 2026.
 
 Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Berlin and 42 more. Often billed alongside Carlos Valdes, Anja Schneider and Chris Stussy. Next up: Sonnenraum, Berlin on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Carlos Valdes, Anja Schneider, Chris Stussy
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

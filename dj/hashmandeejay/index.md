@@ -1,6 +1,6 @@
 # Hashman Deejay
 
-Hashman Deejay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at The Jama, Toronto on Sat, 18 Jul 2026.
+Hashman Deejay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Jama, Toronto on Sat, 18 Jul 2026.
 
 Hashman Deejay is a house and techno artist tracked on soundcheck, with 29 sets logged across Austin, Berlin, Losangeles and Melbourne and 7 more. Often billed alongside PLO Man, DJ Trystero and Ben Fester. Next up: The Jama, Toronto on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Hashman Deejay is a house and techno artist tracked on soundcheck, with 29 sets 
 
 PLO Man, DJ Trystero, Ben Fester
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*

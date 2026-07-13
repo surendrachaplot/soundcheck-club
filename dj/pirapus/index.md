@@ -1,6 +1,6 @@
 # PIRAPUS
 
-PIRAPUS is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
+PIRAPUS is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
 
 PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 11 sets logged across Amsterdam, Auckland, Bristol and Budapest and 6 more. Often billed alongside Grafix, 1991 (UK) and Anaïs. Next up: Document, Bristol on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ PIRAPUS is a drum & bass and bass artist tracked on soundcheck, with 11 sets log
 
 Grafix, 1991 (UK), Anaïs
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*

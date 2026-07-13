@@ -1,6 +1,6 @@
 # Wille
 
-Wille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Paloma, Berlin on Sat, 25 Jul 2026.
+Wille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Paloma, Berlin on Sat, 25 Jul 2026.
 
 Wille is a house and techno artist based in Denmark, tracked on soundcheck, with 25 sets logged across Berlin and Copenhagen. Often billed alongside Enterthevoigt, Benster and Bokéh. Next up: Paloma, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Wille is a house and techno artist based in Denmark, tracked on soundcheck, with
 
 Enterthevoigt, Benster, Bokéh
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wille/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wille/)*

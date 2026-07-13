@@ -1,6 +1,6 @@
 # Alba Franch
 
-Alba Franch is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Mia Mao, Paris on Fri, 17 Jul 2026.
+Alba Franch is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Fri, 17 Jul 2026.
 
 Alba Franch is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside davyboi, Gerardo Niva and Cleopard2000. Next up: Mia Mao, Paris on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Alba Franch is a techno and trance artist tracked on soundcheck, with 138 sets l
 
 davyboi, Gerardo Niva, Cleopard2000
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*

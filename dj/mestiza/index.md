@@ -1,6 +1,6 @@
 # MËSTIZA
 
-MËSTIZA is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 12 Jul 2026, next at Café del Mar Malta, Malta on Sat, 18 Jul 2026.
+MËSTIZA is a Afro House and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Café del Mar Malta, Malta on Sat, 18 Jul 2026.
 
 MËSTIZA is an afro house and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Café del Mar Malta, Malta on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ MËSTIZA is an afro house and house artist tracked on soundcheck, with 110 sets 
 
 Pomboklap, Indira Paganotto, Mrgoodalf
 
-*Updated Sun, 12 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*
+*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*
