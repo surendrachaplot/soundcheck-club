@@ -1,8 +1,8 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Club 77 Reopen for Everyone: Rydeen, sovblkpssy" on Thu, 30 Jul 2026.
+Club 77 is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Club 77 Reopen for Everyone: Rydeen, sovblkpssy" on Thu, 30 Jul 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 10 upcoming nights, with line-ups including Attu, au4r33y, Cristal No.5 and Jesse DM and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, with line-ups including Attu, au4r33y, Cristal No.5 and DJ Sveta and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Club 77 is a music venue in Sydney listed on soundcheck. 10 upcoming nights, wit
 | Sun, 2 Aug 2026 | 77 x Control: CONFIDE | Jesse DM, Simonetti |
 | Fri, 7 Aug 2026 | Fridays at 77 x Fur Coat: Fur Coat DJs |  |
 | Sat, 8 Aug 2026 | Club 77: Mike Who, Moral Laxa | Mike Who |
-| Sun, 9 Aug 2026 | 77 x Control: Rydeen, KAIKAI | Rydeen (AU) |
+| Sun, 9 Aug 2026 | 77 x Control: Jason De Cox, KAIKAI | Rydeen (AU) |
 | Fri, 14 Aug 2026 | Fridays at 77: Attu, Shuko | Attu, Shuko |
+| Sat, 15 Aug 2026 | Club 77: au4r33y, Jamie Palmer | au4r33y |
 | Sun, 16 Aug 2026 | Club 77: au4r33y, Jamie Palmer | au4r33y |
-| Sun, 16 Aug 2026 | 77 x Control: D.Tyrone, Cristal No.5 | Cristal No.5 |
 
 ## Address
 

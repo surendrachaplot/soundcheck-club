@@ -1,8 +1,8 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fitz Mallorca, Mallorca on Thu, 16 Jul 2026.
+Nic Fanciulli is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fitz Mallorca, Mallorca on Thu, 16 Jul 2026.
 
-Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Fitz Mallorca, Mallorca on Thu 16 Jul.
+Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Fitz Mallorca, Mallorca on Thu 16 Jul.
 
 ## Upcoming shows
 

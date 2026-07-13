@@ -1,6 +1,6 @@
 # FOOTBALLERS at Mood Ring
 
-FOOTBALLERS at Mood Ring on Wed 15 Jul, Newyorkcity. 2 acts on the bill: JEAN-PIERRE and Petal. Preview the line-up and save it on soundcheck.
+FOOTBALLERS at Mood Ring on Wed 15 Jul, Newyorkcity. 2 acts on the bill: JEAN-PIERRE and Pètal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ FOOTBALLERS at Mood Ring on Wed 15 Jul, Newyorkcity. 2 acts on the bill: JEAN-PI
 ## Line-up
 
 - JEAN-PIERRE
-- Petal
+- Pètal
 
 *Source: [soundcheck](https://soundcheck.club/e/2475402-footballers-at-mood-ring/)*

@@ -1,8 +1,8 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Café Bar Jardin, Frankfurt on Sat, 25 Jul 2026.
+Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Café Bar Jardin, Frankfurt on Sat, 25 Jul 2026.
 
-Robert Drewek is a house and techno artist tracked on soundcheck, with 106 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: TBA - Café Bar Jardin, Frankfurt on Sat 25 Jul.
+Robert Drewek is a house and techno artist tracked on soundcheck, with 107 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: TBA - Café Bar Jardin, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Robert Drewek is a house and techno artist tracked on soundcheck, with 106 sets 
 | Sat, 25 Jul 2026 | TBA - Café Bar Jardin | Frankfurt |
 | Fri, 31 Jul 2026 | Silbergold | Frankfurt |
 | Sat, 1 Aug 2026 | Golden Gate | Berlin |
+| Sat, 26 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 
 ## Recently played
 

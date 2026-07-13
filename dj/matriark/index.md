@@ -9,7 +9,7 @@ Matriark is a techno and trance artist based in Norway, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Den Anden Side | Copenhagen |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Sat, 8 Aug 2026 | FOLD | London |
 | Fri, 21 Aug 2026 | Den Anden Side | Copenhagen |
 

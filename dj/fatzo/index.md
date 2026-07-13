@@ -1,8 +1,8 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 23 Jul 2026.
+Fatzo is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 23 Jul 2026.
 
-Fatzo is a house and tech house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Low Steppa. Next up: Chinois Ibiza, Ibiza on Thu 23 Jul.
+Fatzo is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: Chinois Ibiza, Ibiza on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 131 sets logg
 | Sat, 22 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 131 sets logg
 
 ## Shares bills with
 
-Oden, Armand Van Helden, Low Steppa
+Oden, Armand Van Helden, Danny Howard
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

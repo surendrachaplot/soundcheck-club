@@ -1,16 +1,18 @@
 # Posthuman
 
-Posthuman is a Acid and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
+Posthuman is a Acid and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Old Fruitmarket, Glasgow on Sat, 1 Aug 2026.
 
-Posthuman is an acid and techno artist tracked on soundcheck, with 70 sets logged across Bangkok, Birmingham, Bristol and Chicago and 10 more. Often billed alongside Luke Vibert, Leftfield and Nightwave. Next up: The Old Fruitmarket, Glasgow on Sat 1 Aug.
+Posthuman is an acid and techno artist tracked on soundcheck, with 72 sets logged across Bangkok, Birmingham, Bristol and Chicago and 10 more. Often billed alongside Luke Vibert, Nightwave and Leftfield. Next up: The Old Fruitmarket, Glasgow on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | The Old Fruitmarket | Glasgow |
+| Sat, 1 Aug 2026 | La Cheetah Club | Glasgow |
 | Sat, 29 Aug 2026 | Brixton Radio | London |
 | Fri, 4 Sept 2026 | Lost Horizon | Bristol |
+| Fri, 25 Sept 2026 | Hare & Hounds | Birmingham |
 
 ## Recently played
 
@@ -25,6 +27,6 @@ Posthuman is an acid and techno artist tracked on soundcheck, with 70 sets logge
 
 ## Shares bills with
 
-Luke Vibert, Leftfield, Nightwave
+Luke Vibert, Nightwave, Leftfield
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*

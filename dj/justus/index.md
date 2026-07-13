@@ -1,8 +1,8 @@
 # justUS
 
-justUS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ritter Butzke, Berlin on Fri, 17 Jul 2026.
+justUS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ritter Butzke, Berlin on Fri, 17 Jul 2026.
 
-justUS is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 9 more. Often billed alongside MILLA LOU, Katzengold and Chris Plettenberg. Next up: Ritter Butzke, Berlin on Fri 17 Jul.
+justUS is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bangkok, Berlin and Cologne and 9 more. Often billed alongside MILLA LOU, Katzengold and Chris Plettenberg. Next up: Ritter Butzke, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ justUS is a techno and house artist tracked on soundcheck, with 96 sets logged a
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Ritter Butzke | Berlin |
 | Thu, 23 Jul 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
+| Sat, 22 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Insomnia | Berlin |
 
 ## Recently played

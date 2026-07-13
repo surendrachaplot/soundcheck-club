@@ -1,8 +1,8 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 18 Jul 2026.
+Prunk is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 18 Jul 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 290 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Ushuaïa Ibiza, Ibiza on Sat 18 Jul.
+Prunk is a house and tech house artist tracked on soundcheck, with 291 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Ushuaïa Ibiza, Ibiza on Sat 18 Jul.
 
 ## Upcoming shows
 

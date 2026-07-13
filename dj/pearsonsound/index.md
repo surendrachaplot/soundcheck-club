@@ -1,14 +1,15 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at fabric, London on Sat, 25 Jul 2026.
+Pearson Sound is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at fabric, London on Sat, 25 Jul 2026.
 
-Pearson Sound is a techno and bass artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: fabric, London on Sat 25 Jul.
+Pearson Sound is a techno and bass artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: fabric, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | fabric | London |
+| Fri, 7 Aug 2026 | Blå | Oslo |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 

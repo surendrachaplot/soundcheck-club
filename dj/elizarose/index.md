@@ -1,8 +1,8 @@
 # Eliza Rose
 
-Eliza Rose is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 16 Jul 2026.
+Eliza Rose is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 16 Jul 2026.
 
-Eliza Rose is a house and tech house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 40 more. Often billed alongside Sally C, Dan Shake and TSHA. Next up: Chinois Ibiza, Ibiza on Thu 16 Jul.
+Eliza Rose is a house and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 40 more. Often billed alongside Sally C, Dan Shake and TSHA. Next up: Chinois Ibiza, Ibiza on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Eliza Rose is a house and tech house artist tracked on soundcheck, with 136 sets
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

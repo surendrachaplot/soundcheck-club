@@ -1,8 +1,8 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cova Santa, Ibiza on Mon, 13 Jul 2026.
+wAFF is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cova Santa, Ibiza on Mon, 13 Jul 2026.
 
-wAFF is a tech house and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 31 more. Often billed alongside Jamie Jones, Max Dean and Richy Ahmed. Next up: Cova Santa, Ibiza on Mon 13 Jul.
+wAFF is a tech house and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 31 more. Often billed alongside Jamie Jones, Max Dean and Richy Ahmed. Next up: Cova Santa, Ibiza on Mon 13 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ wAFF is a tech house and house artist tracked on soundcheck, with 126 sets logge
 | --- | --- | --- |
 | Mon, 13 Jul 2026 | Cova Santa | Ibiza |
 | Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
+| Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 
 ## Recently played

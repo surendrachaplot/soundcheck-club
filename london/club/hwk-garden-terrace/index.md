@@ -8,7 +8,7 @@ HWK Garden / Terrace is a music venue in London listed on soundcheck. 2 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | WHAT.THE.EL! Day Party Birthday Special | CAMZ, El Cassar, Leon Michael, Mas Fuego, SUNI SIDE UP, Shiloh (UK) |
+| Sat, 29 Aug 2026 | WHAT.THE.EL! Day Party Birthday Special | CAMZ, El Cassar, Leon Michael, Mas Fuego, SUNI SIDE UP, Shiloh (UK), Ty Henry |
 | Sat, 19 Sept 2026 | Something Good at HWK | Shawn Cartier, Something Good (UK) |
 
 ## Address

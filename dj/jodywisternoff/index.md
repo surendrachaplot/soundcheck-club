@@ -1,8 +1,8 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Level 8 DTLA, Los Angeles on Sat, 25 Jul 2026.
+Jody Wisternoff is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Level 8 DTLA, Los Angeles on Sat, 25 Jul 2026.
 
-Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 92 sets logged across Auckland, Austin, Barcelona and Belfast and 31 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Level 8 DTLA, Losangeles on Sat 25 Jul.
+Jody Wisternoff is a progressive house and house artist tracked on soundcheck, with 93 sets logged across Auckland, Austin, Barcelona and Belfast and 32 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Level 8 DTLA, Losangeles on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jody Wisternoff is a progressive house and house artist tracked on soundcheck, w
 | Sat, 1 Aug 2026 | Life Park | Istanbul |
 | Sun, 9 Aug 2026 | Old Royal Naval College | London |
 | Sat, 15 Aug 2026 | TBA - La Biblioteca, San Telmo | Buenos Aires |
+| Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

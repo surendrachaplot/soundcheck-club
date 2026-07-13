@@ -1,8 +1,8 @@
 # 1morning
 
-1morning is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+1morning is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-1morning is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+1morning is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@
 | Sat, 25 Jul 2026 | Signal | New York City |
 | Sun, 9 Aug 2026 | Cherry Beach | Toronto |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
+| Sat, 15 Aug 2026 | The Racket Space | Dublin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played

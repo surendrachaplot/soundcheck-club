@@ -1,8 +1,8 @@
 # Quivver
 
-Quivver is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at WaV, Liverpool on Sat, 25 Jul 2026.
+Quivver is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at WaV, Liverpool on Sat, 25 Jul 2026.
 
-Quivver is a progressive house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Bali, Barcelona and Boston and 12 more. Often billed alongside Dave Seaman, Steve Parry and Cris-H. Next up: WaV, Liverpool on Sat 25 Jul.
+Quivver is a progressive house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Bali, Barcelona and Boston and 13 more. Often billed alongside Dave Seaman, Steve Parry and Cris-H. Next up: WaV, Liverpool on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Quivver is a progressive house and house artist tracked on soundcheck, with 28 s
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | WaV | Liverpool |
 | Sat, 25 Jul 2026 | WaV | Liverpool |
+| Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | DANZE AFRIKA: DJ Mois, DJ Mamba | DJ Mois |
-| Fri, 17 Jul 2026 | 5ºANIVERSARIO KAPPA : Jairo Beltrami, BLANKET B2b Danjers, Jonvs B2b Youti, Adrian Mart | Adrian Mart, BLANKET, Danjers |
+| Fri, 17 Jul 2026 | 5ºANIVERSARIO KAPPA: Jairo Beltrami, BLANKET B2b Danjers, Jonvs B2b Youti, Adrian Mart | Adrian Mart, BLANKET, Danjers |
 | Sat, 18 Jul 2026 | BAKALAO: Michael Lapp, Monty, Gaskón |  |
 | Sun, 19 Jul 2026 | RIOT CLUB: RIOT CLUB: Arzadous, Arok Shiva, Bigot3x | Arok Shiva, Bigot3x (2) |
 | Thu, 23 Jul 2026 | DANZE AFRIKA: DJ Mois, DJ MBA | DJ MBA, DJ Mois |

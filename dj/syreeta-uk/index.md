@@ -1,8 +1,8 @@
 # SYREETA
 
-SYREETA is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 22 Jul 2026.
+SYREETA is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 22 Jul 2026.
 
-SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Hï Ibiza, Ibiza on Wed 22 Jul.
+SYREETA is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Hï Ibiza, Ibiza on Wed 22 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ SYREETA is a house and tech house artist tracked on soundcheck, with 129 sets lo
 | Sat, 12 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Wed, 30 Sept 2026 | [UNVRS] | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

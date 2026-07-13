@@ -1,14 +1,15 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 29 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Rescheduled to 9/25: Deorro" on Thu, 16 Jul 2026.
+The Concourse Project is a music venue in Austin with 30 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Rescheduled to 9/25: Deorro" on Thu, 16 Jul 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcoming nights, with line-ups including AC Slater, Adam Ten, Alignment and Audien and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 30 upcoming nights, with line-ups including AC Slater, Adam Ten, Alignment and Audien and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Rescheduled to 9/25: Deorro | Deorro |
+| Fri, 17 Jul 2026 | Reggaeton Rave |  |
 | Sat, 18 Jul 2026 | Infected Mushroom (Hybrid Set) | Infected Mushroom |
 | Thu, 23 Jul 2026 | FREE with RSVP: AC Slater | AC Slater |
 | Fri, 24 Jul 2026 | Adam Ten - Reflections of Ten (Austin) | Adam Ten |
@@ -17,7 +18,6 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 29 upcomi
 | Sat, 1 Aug 2026 | Matroda (Extended Set) | Matroda |
 | Thu, 6 Aug 2026 | GUDFELLA |  |
 | Fri, 7 Aug 2026 | DILLSTRADAMUS | Dillon Francis, Flosstradamus |
-| Sat, 8 Aug 2026 | SIDEQUEST | Side Quest |
 
 ## Address
 

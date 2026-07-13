@@ -1,8 +1,8 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
+Slam is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
 
-Slam is a techno and dub techno artist tracked on soundcheck, with 130 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 28 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
+Slam is a techno and dub techno artist tracked on soundcheck, with 131 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 28 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Slam is a techno and dub techno artist tracked on soundcheck, with 130 sets logg
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Razzmatazz | Barcelona |
 | Sat, 1 Aug 2026 | The Old Fruitmarket | Glasgow |
+| Sat, 1 Aug 2026 | La Cheetah Club | Glasgow |
 | Fri, 14 Aug 2026 | Sub Club | Glasgow |
 | Sat, 22 Aug 2026 | Palais | London |
 | Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |

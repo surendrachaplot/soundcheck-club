@@ -13,7 +13,7 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 16 upcoming
 | Fri, 24 Jul 2026 | AVIATE vol.4 | DJ PLANE-SPOTTER, Gav Miller, Jezz Simpson |
 | Sat, 25 Jul 2026 | NCTRN014: Club Nocturne presents Lewis Carroll | Lewis Carroll |
 | Fri, 31 Jul 2026 | EASTBOUND: Seb Zito | GALLY, HOTRIBS, Seb Zito |
-| Fri, 7 Aug 2026 | FLY Fringe Opening Party w/ Us Two [no art] + more - 5am Licence | Us Two |
+| Fri, 7 Aug 2026 | FLY Fringe - Us Two [no art] - 5am Licence | Us Two |
 | Fri, 14 Aug 2026 | FLY Fringe Day + Night with Dean Turnley - 5am Licence | Dean Turnley |
 | Fri, 21 Aug 2026 | FLY Fringe Day + Night w/ MALUGI - 5am Licence | MALUGI |
 | Fri, 28 Aug 2026 | FLY Fringe with Ellia Jaya + Hannah Doc  | Ellia Jaya |

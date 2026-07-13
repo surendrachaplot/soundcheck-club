@@ -1,8 +1,8 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
+Nick Curly is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
 
-Nick Curly is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 104 sets
 | Fri, 11 Sept 2026 | Night Tales | London |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Harry Romero
 
-Harry Romero is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club Vinyl, Denver on Sat, 25 Jul 2026.
+Harry Romero is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club Vinyl, Denver on Sat, 25 Jul 2026.
 
-Harry Romero is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Barcelona and Chicago and 14 more. Often billed alongside Nic Fanciulli, Gettoblaster and James Juke. Next up: Club Vinyl, Denver on Sat 25 Jul.
+Harry Romero is a house and tech house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Barcelona and Chicago and 14 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: Club Vinyl, Denver on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Harry Romero is a house and tech house artist based in United States of America,
 | Thu, 17 Sept 2026 | Chinois Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Chinois Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Harry Romero is a house and tech house artist based in United States of America,
 
 ## Shares bills with
 
-Nic Fanciulli, Gettoblaster, James Juke
+Nic Fanciulli, Danny Howard, Darius Syrossian
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*

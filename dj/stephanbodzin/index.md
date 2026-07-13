@@ -1,8 +1,8 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
+Stephan Bodzin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
 
-Stephan Bodzin is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: 1015 Folsom, Sanfrancisco on Fri 17 Jul.
+Stephan Bodzin is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: 1015 Folsom, Sanfrancisco on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 104 sets
 | Sat, 18 Jul 2026 | Santa Monica Pier | Los Angeles |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sun, 16 Aug 2026 | TBA - Chacra El Descanso, La Plata | Buenos Aires |
+| Sat, 5 Sept 2026 | Óbuda Bay | Budapest |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 26 Sept 2026 | Savaya Bali | Bali |

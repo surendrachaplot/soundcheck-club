@@ -10,7 +10,7 @@ Sala ART is a music venue in Madrid listed on soundcheck. 7 upcoming nights, wit
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Antidoto Club: Olivia Babe | Diego Armando, Maxvll, Yosef |
 | Thu, 23 Jul 2026 | Antidoto Club: Mau Moctezuma |  |
-| Fri, 24 Jul 2026 | ART ELECTRONIC | PAULITTAHH |
+| Fri, 24 Jul 2026 | ART ELECTRONIC (FREE TICKETS) | PAULITTAHH |
 | Sat, 25 Jul 2026 | Antidoto Club: Pablito Pesadilla |  |
 | Thu, 30 Jul 2026 | Antidoto Club: Trap Night |  |
 | Fri, 31 Jul 2026 | CHRØMA CLOSING SEASON: SPECIAL B3B | Costa (2), JAIROSKUN, Miguel Rivas, RODS (ES), Suko, Venus de Milo |

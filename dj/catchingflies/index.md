@@ -1,8 +1,8 @@
 # Catching Flies
 
-Catching Flies is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
+Catching Flies is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
 
-Catching Flies is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 11 more. Often billed alongside Christian Löffler, Jody Wisternoff and Eli & Fur. Next up: Life Park, Istanbul on Sat 1 Aug.
+Catching Flies is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Jody Wisternoff, Christian Löffler and Braxton. Next up: Life Park, Istanbul on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Catching Flies is a house and electronica artist based in United Kingdom, tracke
 | Fri, 7 Aug 2026 | Rote Fabrik | Zurich |
 | Sun, 9 Aug 2026 | Old Royal Naval College | London |
 | Fri, 14 Aug 2026 | Kelvedon Hall | London |
+| Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Catching Flies is a house and electronica artist based in United Kingdom, tracke
 
 ## Shares bills with
 
-Christian Löffler, Jody Wisternoff, Eli & Fur
+Jody Wisternoff, Christian Löffler, Braxton
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*

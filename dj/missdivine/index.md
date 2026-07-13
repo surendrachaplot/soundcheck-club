@@ -1,8 +1,8 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 77, London on Fri, 17 Jul 2026.
+Sam Divine is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 77, London on Fri, 17 Jul 2026.
 
-Sam Divine is a house and tech house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: 77, London on Fri 17 Jul.
+Sam Divine is a house and tech house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: 77, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 163 sets
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | Chinois Ibiza | Ibiza |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Thu, 8 Oct 2026 | Chinois Ibiza | Ibiza |
 
 ## Recently played

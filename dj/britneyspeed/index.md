@@ -9,7 +9,7 @@ Britney Speed is a techno and trance artist tracked on soundcheck, with 82 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Den Anden Side | Copenhagen |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Fri, 7 Aug 2026 | Den Anden Side | Copenhagen |
 | Sat, 8 Aug 2026 | Den Anden Side | Copenhagen |
 

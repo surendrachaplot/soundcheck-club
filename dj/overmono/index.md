@@ -1,8 +1,8 @@
 # Overmono
 
-Overmono is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Overmono is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
-Overmono is a techno and house artist tracked on soundcheck, with 95 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Jyoty. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
+Overmono is a techno and house artist tracked on soundcheck, with 96 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Jyoty. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Overmono is a techno and house artist tracked on soundcheck, with 95 sets logged
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Sønder Hoved | Copenhagen |
 | Fri, 7 Aug 2026 | Old Royal Naval College | London |
+| Wed, 12 Aug 2026 | Jacaranda Baltic | Liverpool |
 | Fri, 25 Sept 2026 | Hollywood Palladium | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Thu, 8 Oct 2026 | Radius | Chicago |

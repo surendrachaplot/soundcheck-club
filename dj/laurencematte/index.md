@@ -1,8 +1,8 @@
 # Laurence Matte
 
-Laurence Matte is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bar Datcha, Montreal on Fri, 17 Jul 2026.
+Laurence Matte is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bar Datcha, Montreal on Fri, 17 Jul 2026.
 
-Laurence Matte is a house and tech house artist tracked on soundcheck, with 29 sets logged across Dusseldorf, Montreal, Newyorkcity and Paris and 1 more. Often billed alongside DJ Tennis, Young Marco and Amarcord. Next up: Bar Datcha, Montreal on Fri 17 Jul.
+Laurence Matte is a house and techno artist tracked on soundcheck, with 29 sets logged across Dusseldorf, Montreal, Newyorkcity and Paris and 1 more. Often billed alongside DJ Tennis, Young Marco and Amarcord. Next up: Bar Datcha, Montreal on Fri 17 Jul.
 
 ## Upcoming shows
 

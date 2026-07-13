@@ -9,7 +9,7 @@ S.A.M. is a house and techno artist tracked on soundcheck, with 74 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Playa Soleil & Bora Bora | Ibiza |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 
 ## Recently played
 

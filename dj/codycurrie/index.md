@@ -1,14 +1,15 @@
 # Cody Currie
 
-Cody Currie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Cité Fertile, Paris on Sat, 18 Jul 2026.
+Cody Currie is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Cité Fertile, Paris on Sat, 18 Jul 2026.
 
-Cody Currie is a house and disco artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: La Cité Fertile, Paris on Sat 18 Jul.
+Cody Currie is a house and disco artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: La Cité Fertile, Paris on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | La Cité Fertile | Paris |
+| Fri, 7 Aug 2026 | fabric | London |
 | Fri, 11 Sept 2026 | Jaeger | Oslo |
 
 ## Recently played

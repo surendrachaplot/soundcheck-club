@@ -1,8 +1,8 @@
 # Paisley Jensen
 
-Paisley Jensen is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Boxpark Shoreditch, London on Sat, 18 Jul 2026.
+Paisley Jensen is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Boxpark Shoreditch, London on Sat, 18 Jul 2026.
 
-Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 5 more. Often billed alongside Sammy Porter, Siân Owen and Danny Howard. Next up: Boxpark Shoreditch, London on Sat 18 Jul.
+Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 5 more. Often billed alongside Danny Howard, Sam Divine and Sammy Porter. Next up: Boxpark Shoreditch, London on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Paisley Jensen is a house and tech house artist based in United Kingdom, tracked
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Paisley Jensen is a house and tech house artist based in United Kingdom, tracked
 
 ## Shares bills with
 
-Sammy Porter, Siân Owen, Danny Howard
+Danny Howard, Sam Divine, Sammy Porter
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*

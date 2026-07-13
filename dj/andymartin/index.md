@@ -1,14 +1,14 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Odds and Ends, Copenhagen on Sat, 18 Jul 2026.
+Andy Martin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Copenhagen on Sat, 18 Jul 2026.
 
-Andy Martin is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Niño Arbol, Blasha & Allatt and Darwin. Next up: Odds and Ends, Copenhagen on Sat 18 Jul.
+Andy Martin is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Niño Arbol, Blasha & Allatt and Darwin. Next up: TBA, Copenhagen on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Fri, 7 Aug 2026 | TBA - Secret Place | Marseille |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |

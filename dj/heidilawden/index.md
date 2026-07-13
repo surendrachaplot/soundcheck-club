@@ -1,8 +1,8 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
+Heidi Lawden is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
 
-Heidi Lawden is a house and disco artist tracked on soundcheck, with 163 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: Amnesia Ibiza, Ibiza on Fri 17 Jul.
+Heidi Lawden is a house and disco artist tracked on soundcheck, with 164 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: Amnesia Ibiza, Ibiza on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 163 sets lo
 | Sat, 8 Aug 2026 | The Bridge | Los Angeles |
 | Fri, 18 Sept 2026 | The Cause | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played

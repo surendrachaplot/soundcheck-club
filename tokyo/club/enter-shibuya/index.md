@@ -9,7 +9,7 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 18 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Mon, 13 Jul 2026 | THE GUEST HOUSE presents WEEKDAY COMMON ROOM | Da Yama, Kenji Okano, uruhara |
-| Tue, 14 Jul 2026 | puss -パス- | MileZ, SAMO (JP), eejebee |
+| Tue, 14 Jul 2026 | PASS | MileZ, SAMO (JP), eejebee |
 | Wed, 15 Jul 2026 | HEADS | RYOOKY, TooCee |
 | Thu, 16 Jul 2026 | PROJECT |  |
 | Fri, 17 Jul 2026 | ✿〇 | LOQU, ecec, kengotaki |

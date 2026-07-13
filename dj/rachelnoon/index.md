@@ -1,8 +1,8 @@
 # Rachel Noon
 
-Rachel Noon is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at KALT, Strasbourg on Sat, 18 Jul 2026.
+Rachel Noon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at KALT, Strasbourg on Sat, 18 Jul 2026.
 
-Rachel Noon is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside BASHKKA, Rakans and Mohajer. Next up: KALT, Strasbourg on Sat 18 Jul.
+Rachel Noon is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside BASHKKA, Rakans and Mohajer. Next up: KALT, Strasbourg on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rachel Noon is a techno and house artist tracked on soundcheck, with 131 sets lo
 | Sat, 18 Jul 2026 | KALT | Strasbourg |
 | Fri, 24 Jul 2026 | La Station - Gare des Mines | Paris |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
+| Sat, 25 Jul 2026 | BLITZ | Munich |
 | Sat, 1 Aug 2026 | TBA - Holešovice | Prague |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 

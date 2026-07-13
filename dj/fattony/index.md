@@ -1,8 +1,8 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Walpole Park, London on Sat, 18 Jul 2026.
+Fattony is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Walpole Park, London on Sat, 18 Jul 2026.
 
-Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 31 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Melon Bomb and Melvo Baptiste. Next up: Walpole Park, London on Sat 18 Jul.
+Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 32 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Natasha Diggs. Next up: Walpole Park, London on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 | Mon, 27 Jul 2026 | Chinois Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Horse Meat Disco, Melon Bomb, Melvo Baptiste
+Horse Meat Disco, Melvo Baptiste, Natasha Diggs
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

@@ -1,6 +1,6 @@
 # DURIAN RADIO x SUBURB SOUND at 12 x 12
 
-DURIAN RADIO x SUBURB SOUND at 12 x 12 on Sat 25 Jul, Bangkok. 3 acts on the bill: Jayja, Yorsab and bunnyman.dogs. House and Club. Preview the line-up and save it on soundcheck.
+DURIAN RADIO x SUBURB SOUND at 12 x 12 on Sat 25 Jul, Bangkok. 4 acts on the bill: .g (TH), Jayja, Yorsab and bunnyman.dogs. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DURIAN RADIO x SUBURB SOUND at 12 x 12 on Sat 25 Jul, Bangkok. 3 acts on the bil
 
 ## Line-up
 
+- .g (TH)
 - Jayja
 - Yorsab
 - bunnyman.dogs

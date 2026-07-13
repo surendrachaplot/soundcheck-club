@@ -9,7 +9,7 @@ EXIL is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with li
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Cortez All Night Long | Cortez (2) |
-| Fri, 31 Jul 2026 | Choke mit Mac Declos & K.U.S.S | KUSS, KYLIE, Mac Declos |
+| Fri, 31 Jul 2026 | Choke mit Mac Declos & KUSS | KUSS, KYLIE, Mac Declos |
 | Fri, 7 Aug 2026 | bratty • with charli xcx & other brat coded artists • zürich |  |
 | Sat, 8 Aug 2026 | Choke Street Parade Afterparty | AMORAL, Alarico, Len Faki, Phase Fatale |
 

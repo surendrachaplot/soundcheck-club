@@ -1,8 +1,8 @@
 # Sinca
 
-Sinca is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Colorado Charlie, The Hague on Sat, 22 Aug 2026.
+Sinca is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Colorado Charlie, The Hague on Sat, 22 Aug 2026.
 
-Sinca is a deep house and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Basel, Berlin and Denver and 10 more. Often billed alongside ELIF, Lee Burridge and Christian Löffler. Next up: Colorado Charlie, Thehague on Sat 22 Aug.
+Sinca is a deep house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Basel, Berlin and Denver and 11 more. Often billed alongside ELIF, Lee Burridge and Dosem. Next up: Colorado Charlie, Thehague on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sinca is a deep house and house artist tracked on soundcheck, with 47 sets logge
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 5 Sept 2026 | UNLOCKED | London |
+| Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Sinca is a deep house and house artist tracked on soundcheck, with 47 sets logge
 
 ## Shares bills with
 
-ELIF, Lee Burridge, Christian Löffler
+ELIF, Lee Burridge, Dosem
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*

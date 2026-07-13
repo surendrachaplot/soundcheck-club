@@ -9,7 +9,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Studio Stereo x Microdots pres. Kuyateh (until 3am) | Kuyateh, TOT (BR), TOT., Victor Haas, Villaça |
-| Fri, 17 Jul 2026 | Studio Stereo x Diggin' pres. B. Love (Bizarre Trax, UK) (until 4am) | Buddy Love, KOTNIK, Nancy (3), Vallde, arnald |
+| Fri, 17 Jul 2026 | Studio Stereo x Diggin' pres. B. Love (Bizarre Trax, UK) (until 4am) | B.Love, Buddy Love, KOTNIK, Nancy (3), Vallde, arnald |
 | Sat, 18 Jul 2026 | Studio Stereo x Celo Rec x &Friends pres. Velvet Velour (until 4am) | Alexxx, Marcelo Cura, Rele, Velvet Velour |
 | Thu, 23 Jul 2026 | Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am) | IVAN POSEIDON, JOCHI, Lowkey Loud, Miceli, Narima Satori, Pier Mood, Radio Vega |
 | Fri, 24 Jul 2026 | Studio Stereo x Capricho pres. Ethel, Mikolai (until 4am) | .cosm, Bastard Love, Ethel, Mikolai |

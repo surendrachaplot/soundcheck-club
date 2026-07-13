@@ -1,8 +1,8 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Terrrazza, Barcelona on Sat, 15 Aug 2026.
+Melina Serser is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Terrrazza, Barcelona on Sat, 15 Aug 2026.
 
-Melina Serser is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside DJ Koolt, ASIA (DE) and Cecilio. Next up: La Terrrazza, Barcelona on Sat 15 Aug.
+Melina Serser is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside DJ Koolt, Jane Fitz and ASIA (DE). Next up: La Terrrazza, Barcelona on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Melina Serser is a house and techno artist tracked on soundcheck, with 51 sets l
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | La Terrrazza | Barcelona |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
+| Fri, 4 Sept 2026 | TBA | Sheffield |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Melina Serser is a house and techno artist tracked on soundcheck, with 51 sets l
 
 ## Shares bills with
 
-DJ Koolt, ASIA (DE), Cecilio
+DJ Koolt, Jane Fitz, ASIA (DE)
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*

@@ -1,14 +1,14 @@
 # Hannah D
 
-Hannah D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Odds and Ends, Copenhagen on Sat, 18 Jul 2026.
+Hannah D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Copenhagen on Sat, 18 Jul 2026.
 
-Hannah D is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Auckland, Berlin and Brisbane and 12 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: Odds and Ends, Copenhagen on Sat 18 Jul.
+Hannah D is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Auckland, Berlin and Brisbane and 12 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: TBA, Copenhagen on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Sat, 25 Jul 2026 | Solace | Melbourne |
 
 ## Recently played

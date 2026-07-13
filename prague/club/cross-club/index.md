@@ -1,8 +1,8 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "LOS TEKKENOS" on Mon, 13 Jul 2026.
+Cross Club is a music venue in Prague with 23 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "LOS TEKKENOS" on Mon, 13 Jul 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including Ejdm, fleika, Furious Freaks and Katrixia and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 23 upcoming nights, with line-ups including AMAR DURGA, Ejdm, fleika and Furious Freaks and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 

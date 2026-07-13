@@ -9,7 +9,7 @@ Kasper Marott is a techno and trance artist based in Denmark, tracked on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Sun, 26 Jul 2026 | Hangaren | Copenhagen |
 | Sun, 23 Aug 2026 | Le Sucre | Lyon |
 | Fri, 28 Aug 2026 | DOCK B | Paris |

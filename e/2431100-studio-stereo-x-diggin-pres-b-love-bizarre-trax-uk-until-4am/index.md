@@ -1,6 +1,6 @@
 # Studio Stereo x Diggin' pres. B. Love (Bizarre Trax, UK) (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Diggin' pres. B. Love (Bizarre Trax, UK) (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 17 Jul, Barcelona. 5 acts on the bill: Buddy Love, KOTNIK, Nancy (3) and Vallde and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Diggin' pres. B. Love (Bizarre Trax, UK) (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 17 Jul, Barcelona. 6 acts on the bill: B.Love, Buddy Love, KOTNIK and Nancy (3) and 2 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Studio Stereo x Diggin' pres. B. Love (Bizarre Trax, UK) (until 4am) at TBA - St
 
 ## Line-up
 
+- B.Love
 - Buddy Love
 - KOTNIK
 - Nancy (3)

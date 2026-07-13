@@ -1,14 +1,15 @@
 # Maxvll
 
-Maxvll is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sala ART, Madrid on Thu, 16 Jul 2026.
+Maxvll is a Hip-Hop and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sala ART, Madrid on Thu, 16 Jul 2026.
 
-Maxvll is a baile funk and electronica artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Sala ART, Madrid on Thu 16 Jul.
+Maxvll is a hip-hop and baile funk artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Sala ART, Madrid on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Sala ART | Madrid |
+| Fri, 17 Jul 2026 | Club Magno | Madrid |
 | Sat, 1 Aug 2026 | Sala ART | Madrid |
 
 ## Recently played

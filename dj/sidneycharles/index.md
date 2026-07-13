@@ -1,8 +1,8 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mint Warehouse, Leeds on Sat, 18 Jul 2026.
+Sidney Charles is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mint Warehouse, Leeds on Sat, 18 Jul 2026.
 
-Sidney Charles is a house and tech house artist tracked on soundcheck, with 201 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 38 more. Often billed alongside Prunk, ALISHA and East End Dubs. Next up: Mint Warehouse, Leeds on Sat 18 Jul.
+Sidney Charles is a house and tech house artist tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 38 more. Often billed alongside Prunk, ALISHA and East End Dubs. Next up: Mint Warehouse, Leeds on Sat 18 Jul.
 
 ## Upcoming shows
 

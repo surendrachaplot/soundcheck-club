@@ -1,6 +1,6 @@
 # The Holy Rave Malta - Week #4 at Tigullio
 
-The Holy Rave Malta - Week #4 at Tigullio on Thu 16 Jul, Malta. 2 acts on the bill: Kingsmo and Naomi Baldacchino. Techno. Preview the line-up and save it on soundcheck.
+The Holy Rave Malta - Week #4 at Tigullio on Thu 16 Jul, Malta. 4 acts on the bill: Azhar Sistorms, Faronis, Kingsmo and Naomi Baldacchino. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ The Holy Rave Malta - Week #4 at Tigullio on Thu 16 Jul, Malta. 2 acts on the bi
 
 ## Line-up
 
+- Azhar Sistorms
+- Faronis
 - Kingsmo
 - Naomi Baldacchino
 

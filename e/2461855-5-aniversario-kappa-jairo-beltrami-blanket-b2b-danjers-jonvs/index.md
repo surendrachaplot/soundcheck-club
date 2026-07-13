@@ -1,6 +1,6 @@
-# 5ºANIVERSARIO KAPPA : Jairo Beltrami, BLANKET B2b Danjers, Jonvs B2b Youti, Adrian Mart at EL SÓTANO
+# 5ºANIVERSARIO KAPPA: Jairo Beltrami, BLANKET B2b Danjers, Jonvs B2b Youti, Adrian Mart at EL SÓTANO
 
-5ºANIVERSARIO KAPPA : Jairo Beltrami, BLANKET B2b Danjers, Jonvs B2b Youti, Adrian Mart at EL SÓTANO on Fri 17 Jul, Madrid. 3 acts on the bill: Adrian Mart, BLANKET and Danjers. House and Club. Preview the line-up and save it on soundcheck.
+5ºANIVERSARIO KAPPA: Jairo Beltrami, BLANKET B2b Danjers, Jonvs B2b Youti, Adrian Mart at EL SÓTANO on Fri 17 Jul, Madrid. 3 acts on the bill: Adrian Mart, BLANKET and Danjers. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

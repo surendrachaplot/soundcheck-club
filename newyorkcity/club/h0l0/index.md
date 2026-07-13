@@ -13,9 +13,9 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, w
 | Fri, 17 Jul 2026 | Roni Size | Roni Size |
 | Sat, 18 Jul 2026 | Petit Comité New York with Bastian Bux | Bastian Bux |
 | Sat, 18 Jul 2026 | ABOV: FLINTA NYC | TYGAPAW, Volvox |
-| Thu, 23 Jul 2026 | Binary Shift | AG (1), BEYBLADE SHAWTY, Kapmar, Petal, sweetewth |
+| Thu, 23 Jul 2026 | Binary Shift | AG (1), BEYBLADE SHAWTY, Kapmar, Pètal, sweetewth |
 | Fri, 31 Jul 2026 | SHEILA | Adam R, BEIGE, Kiss Kiss, William Francis |
-| Thu, 6 Aug 2026 | H0NEYM00N | BABEITSPURR, Petal |
+| Thu, 6 Aug 2026 | H0NEYM00N | BABEITSPURR, Pètal |
 | Fri, 4 Sept 2026 | ReSolute presents: Traumer All-Night Long | Traumer |
 | Sat, 26 Sept 2026 | ReSolute x Yoyaku | Chez Damier, Garrett David, Gulp, Kian OK, Lis Sarroca, Maksim, Mari.te, Mike Servito, Rachel Noon, Satoshi Tomiie, Vincent Lemieux, Yamour, limbic sis |
 

@@ -1,13 +1,14 @@
 # Ilario Alicante
 
-Ilario Alicante is a Tech House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 29 Jul 2026.
+Ilario Alicante is a Tech House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at UNO MALTA, Malta on Sun, 19 Jul 2026.
 
-Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Amnesia Ibiza, Ibiza on Wed 29 Jul.
+Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: UNO MALTA, Malta on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | UNO MALTA | Malta |
 | Wed, 29 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Malta Fairs & Conventions Centre | Malta |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |

@@ -13,7 +13,7 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 6 upcoming night
 | Fri, 7 Aug 2026 | Love Punk Hate Racism |  |
 | Fri, 14 Aug 2026 | Queer Theory: Govanhill Festival | Simonotron |
 | Fri, 28 Aug 2026 | Fantastic Man presents Sarahtonin | Sarahtonin |
-| Sat, 5 Sept 2026 | World of Twist: Global Grooves with Special Guest: DAR DISKU | DAR DISKU |
+| Sat, 5 Sept 2026 | World of Twist: Global Grooves with Special Guest: DAR DISKU  | DAR DISKU |
 
 ## Address
 

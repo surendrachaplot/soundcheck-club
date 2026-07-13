@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 17 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Answer Code Request (DE) — Revolver Fridays & Deep Cargo" on Fri, 17 Jul 2026.
+Revolver Upstairs is a music venue in Melbourne with 19 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Answer Code Request (DE) — Revolver Fridays & Deep Cargo" on Fri, 17 Jul 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcoming nights, with line-ups including Answer Code Request, ARTISAH, BDE and Ben Silver and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming nights, with line-ups including Acid Safari, Alex Wann, Answer Code Request and ARTISAH and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcomin
 | Sun, 26 Jul 2026 | Jakkob (UK)/ Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Jakkob, KELLY TEE, Spacey Space |
 | Thu, 30 Jul 2026 | Village Sound & Friends 'All Night Long' — LOVED & 3181 Thursdays |  |
 | Sun, 2 Aug 2026 | Maxi Meraki (BE) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Bridget, Haylo, KELLY TEE, Maxi Meraki, Perka, Spacey Space |
+| Fri, 7 Aug 2026 | Our Garage x Revolver Fridays | Acid Safari, Bby Cass, Claddy, Eluize, Mike Callander, Syrup |
 | Sat, 8 Aug 2026 | REVOLVER BANDROOM: Canvas Collective — presents (DE)GENERATE |  |
 | Fri, 14 Aug 2026 | SHADOWS | ARTISAH, CJ Slayer, WISER, Yulia Kasa |
 | Sat, 15 Aug 2026 | REVOLVER BANDROOM: Hate Complex (AU) |  |
-| Sun, 16 Aug 2026 | Samantha Loverdige & Cooper Smith - Winter Series pres. by Thick As Thieves | Samantha Loveridge |
 
 ## Address
 

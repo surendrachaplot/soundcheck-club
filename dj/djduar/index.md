@@ -9,7 +9,7 @@ DJ Duar is a reggaeton and afrobeats artist tracked on soundcheck, with 7 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | P.M. Club | Prague |
-| Thu, 23 Jul 2026 | Sky Lounge 360 | Prague |
+| Thu, 23 Jul 2026 | TBA - P.M. CLUB | Prague |
 | Sat, 15 Aug 2026 | P.M. Club | Prague |
 | Thu, 20 Aug 2026 | Sky Lounge 360 | Prague |
 

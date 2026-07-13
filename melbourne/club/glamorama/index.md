@@ -9,7 +9,7 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Glam Open Decks: Winter Series #3 |  |
-| Fri, 17 Jul 2026 | Interval - GROOVEBABY + Leon Vera | GROOVEBABY |
+| Fri, 17 Jul 2026 | Interval - GROOVEBABY + LEON VERA | GROOVEBABY |
 | Sat, 18 Jul 2026 | INFUSE feat. dozie - presented by Glamorama, REELIZE Studio, and Leaps & Bounds | Slumdog, dozie (uk) |
 | Fri, 24 Jul 2026 | 2 Years of Interval - Interval Alliance [4 Hours] | BETHANY (1), Ejeckt, Syrup |
 | Fri, 14 Aug 2026 | Interval - Miguel De Bois [NL] | Miguel De Bois |

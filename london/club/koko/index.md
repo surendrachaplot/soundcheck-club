@@ -8,7 +8,7 @@ KOKO is a music venue in London listed on soundcheck. 16 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | KOKO Electronic: Mid-Summer Party Pt.2 [House & Techno] | Sunnery James & Ryan Marciano |
+| Fri, 17 Jul 2026 | KOKO Electronic: Mid-Summer Party Pt.2 [House & Techno] | Lily Rivers, Sef Kombo, Sunnery James & Ryan Marciano |
 | Sat, 18 Jul 2026 | KOKO Electronic: Rossi [SOLD OUT] | RTK Tarantino, Rossi |
 | Fri, 24 Jul 2026 | KOKO Electronic: Mid-Summer Party - House & Disco |  |
 | Fri, 24 Jul 2026 | KOKO Electronic: Oliver Heldens | Oliver Heldens |

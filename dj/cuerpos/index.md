@@ -1,8 +1,8 @@
 # CUERPOS
 
-CUERPOS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Système, Montreal on Thu, 23 Jul 2026.
+CUERPOS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Système, Montreal on Thu, 23 Jul 2026.
 
-CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Kara-Lis Coverdale and Kode9. Next up: Système, Montreal on Thu 23 Jul.
+CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Kara-Lis Coverdale and Kode9. Next up: Système, Montreal on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, wit
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Système | Montreal |
 | Fri, 31 Jul 2026 | Bar Datcha | Montreal |
+| Fri, 14 Aug 2026 | Cafeteria | Toronto |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 
 ## Recently played

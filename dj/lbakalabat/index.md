@@ -1,8 +1,8 @@
 # LB aka LABAT
 
-LB aka LABAT is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Virage, Paris on Sat, 18 Jul 2026.
+LB aka LABAT is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Virage, Paris on Sat, 18 Jul 2026.
 
-LB aka LABAT is a techno and house artist tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 56 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Virage, Paris on Sat 18 Jul.
+LB aka LABAT is a techno and house artist tracked on soundcheck, with 196 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 56 more. Often billed alongside DJ Gigola, Juicy Romance and Special Request. Next up: Virage, Paris on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LB aka LABAT is a techno and house artist tracked on soundcheck, with 195 sets l
 | Sat, 18 Jul 2026 | Virage | Paris |
 | Fri, 24 Jul 2026 | Night Tales | London |
 | Sat, 8 Aug 2026 | Lane 23 | Kuala Lumpur |
+| Fri, 14 Aug 2026 | Soho House Hong Kong | Hong Kong |
 | Sat, 15 Aug 2026 | VENT | Tokyo |
 | Sun, 23 Aug 2026 | Else | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |

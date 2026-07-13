@@ -1,13 +1,14 @@
 # Tommy Gold
 
-Tommy Gold is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at [UNVRS], Ibiza on Fri, 14 Aug 2026.
+Tommy Gold is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at fabric, London on Fri, 7 Aug 2026.
 
-Tommy Gold is a house and tech house artist tracked on soundcheck, with 53 sets logged across Bali, Belfast, Ibiza and Lisbon and 8 more. Often billed alongside Casnova, Ella Knight and Elliot Schooling. Next up: [UNVRS], Ibiza on Fri 14 Aug.
+Tommy Gold is a house and tech house artist tracked on soundcheck, with 54 sets logged across Bali, Belfast, Ibiza and Lisbon and 8 more. Often billed alongside Casnova, Ella Knight and Elliot Schooling. Next up: fabric, London on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | fabric | London |
 | Fri, 14 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 28 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |

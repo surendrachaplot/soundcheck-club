@@ -11,7 +11,7 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 174 sets logg
 | Fri, 17 Jul 2026 | M.O.T | London |
 | Sat, 18 Jul 2026 | OLT Rivierenhof | Antwerp |
 | Sat, 18 Jul 2026 | TRAUM | Antwerp |
-| Sat, 18 Jul 2026 | Odds and Ends | Copenhagen |
+| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Sat, 25 Jul 2026 | Milandia | Zurich |
 | Sun, 26 Jul 2026 | The White Hotel | Manchester |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |

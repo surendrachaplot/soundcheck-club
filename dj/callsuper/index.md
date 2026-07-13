@@ -1,8 +1,8 @@
 # Call Super
 
-Call Super is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
+Call Super is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at DC-10, Ibiza on Mon, 20 Jul 2026.
 
-Call Super is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: DC-10, Ibiza on Mon 20 Jul.
+Call Super is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Anz, Shanti Celeste and Objekt. Next up: DC-10, Ibiza on Mon 20 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Call Super is a techno and house artist tracked on soundcheck, with 202 sets log
 | Sat, 15 Aug 2026 | The Cause | London |
 | Mon, 17 Aug 2026 | DC-10 | Ibiza |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |

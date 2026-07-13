@@ -8,8 +8,8 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Petal |
-| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Petal |
+| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Pètal |
+| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Pètal |
 | Thu, 16 Jul 2026 | MENACE PRESENTS Spurge & MZ3 | Mz3 (1), Spurge |
 | Fri, 17 Jul 2026 | RINSE & REPEAT: Boydell, ceviché, LeCamille, nataliepops, x0trandon | Boydell, LeCamille, ceviché, nataliepops, x0trandon |
 | Fri, 17 Jul 2026 | Sonic Seduction | KIMKILLA, cybr.nova |

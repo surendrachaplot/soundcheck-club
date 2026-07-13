@@ -1,6 +1,6 @@
 # CDVR invites MATE RECORDS at Cadavra
 
-CDVR invites MATE RECORDS at Cadavra on Sat 18 Jul, Madrid. 2 acts on the bill: Deenamic and Rafa Santos. House and Electronica. Preview the line-up and save it on soundcheck.
+CDVR invites MATE RECORDS at Cadavra on Sat 18 Jul, Madrid. 4 acts on the bill: ANIMANUEL, Deenamic, Rafa Santos and Rony Finkel. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ CDVR invites MATE RECORDS at Cadavra on Sat 18 Jul, Madrid. 2 acts on the bill: 
 
 ## Line-up
 
+- ANIMANUEL
 - Deenamic
 - Rafa Santos
+- Rony Finkel
 
 *Source: [soundcheck](https://soundcheck.club/e/2476189-cdvr-invites-mate-records-at-cadavra/)*
