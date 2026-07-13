@@ -9,7 +9,7 @@ Desiree' is a techno and electro artist tracked on soundcheck, with 45 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Starlane Pizza Bar | London |
-| Thu, 23 Jul 2026 | TBA - Autumn Three | London |
+| Thu, 23 Jul 2026 | Autumn Three | London |
 | Fri, 31 Jul 2026 | FOLD | London |
 
 ## Recently played

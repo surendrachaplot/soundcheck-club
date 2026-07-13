@@ -1,6 +1,6 @@
 # 77: Darius Syrossian at 77
 
-77: Darius Syrossian on Sat 5 Sept, London. 1 act on the bill: Darius Syrossian. Afro House. Preview the line-up and save it on soundcheck.
+77: Darius Syrossian on Sat 5 Sept, London. 1 act on the bill: Darius Syrossian. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

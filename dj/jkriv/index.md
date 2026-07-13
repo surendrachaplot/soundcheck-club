@@ -1,8 +1,8 @@
 # JKriv
 
-JKriv is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Roberta's, New York City on Sat, 18 Jul 2026.
+JKriv is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Roberta's, New York City on Sat, 18 Jul 2026.
 
-JKriv is a house and disco artist tracked on soundcheck, with 124 sets logged across Auckland, Barcelona, Bristol and Chicago and 21 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: Roberta's, Newyorkcity on Sat 18 Jul.
+JKriv is a house and disco artist tracked on soundcheck, with 125 sets logged across Auckland, Barcelona, Bristol and Chicago and 21 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: Roberta's, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JKriv is a house and disco artist tracked on soundcheck, with 124 sets logged ac
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Roberta's | New York City |
 | Sat, 15 Aug 2026 | The Jazz Cafe | London |
+| Fri, 28 Aug 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
 

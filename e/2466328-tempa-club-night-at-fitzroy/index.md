@@ -1,6 +1,6 @@
 # TEMPA CLUB NIGHT at Fitzroy
 
-TEMPA CLUB NIGHT at Fitzroy on Sat 18 Jul, Berlin. 7 acts on the bill: Asphodèle, Bloomfeld, Hanaby and Helina and 3 more. Club and Afro Tech. Preview the line-up and save it on soundcheck.
+TEMPA CLUB NIGHT at Fitzroy on Sat 18 Jul, Berlin. 7 acts on the bill: Asphodèle, Bloomfeld, Hanaby and Helina and 3 more. Club and Gqom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

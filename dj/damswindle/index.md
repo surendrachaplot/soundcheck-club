@@ -1,17 +1,20 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lofi, Amsterdam on Sat, 25 Jul 2026.
+Dam Swindle is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 17 Jul 2026.
 
-Dam Swindle is a house and disco artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, Cinthie and De Sluwe Vos. Next up: Lofi, Amsterdam on Sat 25 Jul.
+Dam Swindle is a house and disco artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, Cinthie and De Sluwe Vos. Next up: SISSI'S Amsterdam, Amsterdam on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 25 Jul 2026 | Lofi | Amsterdam |
 | Fri, 31 Jul 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 28 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 29 Aug 2026 | Radio Radio | Amsterdam |
 | Tue, 15 Sept 2026 | Cova Santa | Ibiza |
+| Fri, 18 Sept 2026 | BRET | Amsterdam |
 
 ## Recently played
 

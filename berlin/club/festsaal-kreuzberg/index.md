@@ -1,8 +1,8 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Daniela Mercury - Berlin" on Sun, 19 Jul 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Daniela Mercury - Berlin" on Sun, 19 Jul 2026.
 
-Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
+Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 2 upcoming n
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Daniela Mercury - Berlin |  |
 | Sat, 1 Aug 2026 | Festa Junina - Arraiá da Bossa |  |
+| Sun, 23 Aug 2026 | Berlin Drag Festival |  |
 
 ## Address
 

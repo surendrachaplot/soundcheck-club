@@ -1,6 +1,6 @@
 # Club Inferno at La Terrrazza
 
-Club Inferno at La Terrrazza on Sat 18 Jul, Barcelona. 1 act on the bill: X CLUB.. Garage and Electro. Preview the line-up and save it on soundcheck.
+Club Inferno at La Terrrazza on Sat 18 Jul, Barcelona. 2 acts on the bill: KE-YEN and X CLUB.. Garage and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Club Inferno at La Terrrazza on Sat 18 Jul, Barcelona. 1 act on the bill: X CLUB
 
 ## Line-up
 
+- KE-YEN
 - X CLUB.
 
 *Source: [soundcheck](https://soundcheck.club/e/2465185-club-inferno-at-la-terrrazza/)*

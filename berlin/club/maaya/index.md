@@ -1,8 +1,8 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "KNOCKOUT with DJ LAG (South Africa) with FREAK DE L'AFRIQUE, UNBORN SOUNDS (South Korea)" on Fri, 17 Jul 2026.
+Maaya is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "KNOCKOUT with DJ LAG (South Africa) with FREAK DE L'AFRIQUE, UNBORN SOUNDS (South Korea)" on Fri, 17 Jul 2026.
 
-Maaya is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 0dysseus, danger soundsystem, DJ LAG and Eric D. Clark and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
+Maaya is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including 0dysseus, danger soundsystem, DJ LAG and Eric D. Clark and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Maaya is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with l
 | Sat, 25 Jul 2026 | VvoovV: 2nd Birthday Open Air Day Party | 0dysseus, JA JA, Mila (4), danger soundsystem |
 | Sun, 26 Jul 2026 | Paradiso Pool Party | Feel .MA, Jaycap |
 | Sun, 26 Jul 2026 | Love & Devotion 5 | Eric D. Clark, Haider |
+| Sun, 2 Aug 2026 | WUB, Amour Africain & Delírio present: |  |
 | Sun, 23 Aug 2026 | PRNCPTL POOL PARTY - 13 Years Anniversary |  |
 | Sat, 29 Aug 2026 | AFTER FORTUNA x Maaya |  |
 

@@ -1,8 +1,8 @@
 # Steve Bug
 
-Steve Bug is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hertz, Seoul on Thu, 16 Jul 2026.
+Steve Bug is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hertz, Seoul on Thu, 16 Jul 2026.
 
-Steve Bug is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 27 more. Often billed alongside Steve Challier, miAs and Aera. Next up: Hertz, Seoul on Thu 16 Jul.
+Steve Bug is a house and techno artist tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 28 more. Often billed alongside Steve Challier, miAs and Aera. Next up: Hertz, Seoul on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Steve Bug is a house and techno artist tracked on soundcheck, with 47 sets logge
 | Thu, 16 Jul 2026 | Hertz | Seoul |
 | Fri, 17 Jul 2026 | BAR Inc | Osaka |
 | Sat, 18 Jul 2026 | VENT | Tokyo |
+| Sun, 11 Oct 2026 | The Timber Loft | London |
 
 ## Recently played
 

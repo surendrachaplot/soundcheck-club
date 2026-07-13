@@ -9,7 +9,7 @@ Johana is an electro and techno artist tracked on soundcheck, with 12 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | The Glove That Fits | London |
-| Thu, 23 Jul 2026 | TBA - Autumn Three | London |
+| Thu, 23 Jul 2026 | Autumn Three | London |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
 
 ## Recently played

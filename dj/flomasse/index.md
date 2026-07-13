@@ -1,8 +1,8 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 17 Jul 2026.
+Flo Massé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 17 Jul 2026.
 
-Flo Massé is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside DJ Gamba, Jolly (FR) and P.O (1). Next up: NUMBER 90 LONDON, London on Fri 17 Jul.
+Flo Massé is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside DJ Gamba, Jolly (FR) and P.O (1). Next up: NUMBER 90 LONDON, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Flo Massé is a house and techno artist tracked on soundcheck, with 110 sets log
 | Fri, 17 Jul 2026 | NUMBER 90 LONDON | London |
 | Sat, 18 Jul 2026 | Le 6b | Paris |
 | Fri, 7 Aug 2026 | TBA - Secret Place | Marseille |
+| Fri, 28 Aug 2026 | Radio Radio | Amsterdam |
 
 ## Recently played
 

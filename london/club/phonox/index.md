@@ -14,7 +14,7 @@ Phonox is a music venue in London listed on soundcheck. 26 upcoming nights, with
 | Thu, 23 Jul 2026 | Wiley (In The Round) | Wiley |
 | Fri, 24 Jul 2026 | Dimitri From Paris | Dimitri From Paris |
 | Sat, 25 Jul 2026 | Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN  | Egyptian Lover, FREAKENSTEIN |
-| Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | Chinese Daughter, Sexy Lady Massive |
+| Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | CASISDEAD, Chinese Daughter, Sexy Lady Massive |
 | Sat, 8 Aug 2026 | Phonox: Derrick Carter (All Night Long) | Derrick Carter |
 | Fri, 14 Aug 2026 | Recondite (Live) | Recondite |
 | Sat, 15 Aug 2026 | Phonox x MOT: CIRCULATE with DJ Paypal & Ikonika - Afterparty | Black Rave Culture, DJ Paypal, Ikonika |

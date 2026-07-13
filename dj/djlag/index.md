@@ -1,13 +1,14 @@
 # DJ LAG
 
-DJ LAG is a Gqom and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Maaya, Berlin on Fri, 17 Jul 2026.
+DJ LAG is a Gqom and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Badaboum, Paris on Mon, 13 Jul 2026.
 
-DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Nick León, Batu and Simo Cell. Next up: Maaya, Berlin on Fri 17 Jul.
+DJ LAG is a gqom and club artist based in South Africa, tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Nick León, Batu and Simo Cell. Next up: Badaboum, Paris on Mon 13 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 13 Jul 2026 | Badaboum | Paris |
 | Fri, 17 Jul 2026 | Maaya | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 

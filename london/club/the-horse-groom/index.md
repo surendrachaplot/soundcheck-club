@@ -11,7 +11,7 @@ The Horse & Groom is a music venue in London listed on soundcheck. 7 upcoming ni
 | Sat, 18 Jul 2026 | Unique Rhythm free July daytime party | Mark Osborne |
 | Sat, 25 Jul 2026 | PURE HOUSE LDN presents... its 4th birthday bash | Aruna, Jesse James, Knayohmi, TOMS, Tiffany Quinn |
 | Sat, 1 Aug 2026 | Soul Selectors summer party | Simon Dunmore |
-| Sat, 1 Aug 2026 | Maizon 3rd Birthday - W/ Johannes Albert (Frank Music, Berlin) (FREE TICKETS) | Johannes Albert, Julian Debbag, Maizon DJs |
+| Sat, 1 Aug 2026 | Maizon 3rd Birthday - W/ Johannes Albert (Frank Music, Berlin) (FREE ENTRY ALL NIGHT) | Johannes Albert, Julian Debbag, Maizon DJs |
 | Sat, 8 Aug 2026 | Soul on Wax free daytime party |  |
 | Sat, 15 Aug 2026 | Unique Rhythm free August daytime party |  |
 | Sat, 5 Sept 2026 | Stage One | Danny Howells, Grant McKay, Industry Standard, Nick Muir |

@@ -1,8 +1,8 @@
 # Midas Field
 
-Midas Field is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Wigwam, Dublin on Fri, 17 Jul 2026.
+Midas Field is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Wigwam, Dublin on Fri, 17 Jul 2026.
 
-Midas Field is a house and garage artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Kellie Allen, Micky Hurts and Caleb Jackson. Next up: Wigwam, Dublin on Fri 17 Jul.
+Midas Field is a house and garage artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Dam Swindle, Kellie Allen and Micky Hurts. Next up: Wigwam, Dublin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Midas Field is a house and garage artist based in Netherlands, tracked on soundc
 | Fri, 31 Jul 2026 | Shelter Amsterdam | Amsterdam |
 | Tue, 18 Aug 2026 | Cova Santa | Ibiza |
 | Tue, 15 Sept 2026 | Cova Santa | Ibiza |
+| Fri, 18 Sept 2026 | BRET | Amsterdam |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Midas Field is a house and garage artist based in Netherlands, tracked on soundc
 
 ## Shares bills with
 
-Kellie Allen, Micky Hurts, Caleb Jackson
+Dam Swindle, Kellie Allen, Micky Hurts
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*

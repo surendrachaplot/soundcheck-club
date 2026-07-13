@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 42 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "manic.monday mit DJ Ryder" on Mon, 13 Jul 2026.
+Minimal Bar is a music venue in Berlin with 48 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "manic.monday mit DJ Ryder" on Mon, 13 Jul 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 42 upcoming nights, with line-ups including Beta Basti, CEEE, Chroma and DAZA and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 48 upcoming nights, with line-ups including Beta Basti, CEEE, Chroma and Clarence and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

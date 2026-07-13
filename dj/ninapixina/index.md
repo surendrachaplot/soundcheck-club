@@ -1,8 +1,8 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at EartH, London on Fri, 24 Jul 2026.
+Nina Pixina is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at EartH, London on Fri, 24 Jul 2026.
 
-Nina Pixina is a techno and trance artist tracked on soundcheck, with 32 sets logged across Brighton, Bucharest, Leeds and London. Often billed alongside Gloria Rose, LO-LOW and Melati. Next up: EartH, London on Fri 24 Jul.
+Nina Pixina is a techno and trance artist tracked on soundcheck, with 33 sets logged across Brighton, Bucharest, Leeds and London. Often billed alongside Gloria Rose, RayRay and LO-LOW. Next up: EartH, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 32 sets lo
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | EartH | London |
 | Sat, 1 Aug 2026 | Distillery N17 | London |
+| Sun, 16 Aug 2026 | Algha's Plantroom | London |
 | Sat, 19 Sept 2026 | Eiger Studios | Leeds |
 
 ## Recently played
@@ -25,6 +26,6 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 32 sets lo
 
 ## Shares bills with
 
-Gloria Rose, LO-LOW, Melati
+Gloria Rose, RayRay, LO-LOW
 
 *Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

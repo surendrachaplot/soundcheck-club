@@ -1,6 +1,6 @@
 # FTLOM & Parra Vie Open Air at The Rum House at Jim & Tonic East
 
-FTLOM & Parra Vie Open Air at The Rum House at Jim & Tonic East on Sat 18 Jul, London. 4 acts on the bill: FedUp, MEZ (2), Parra Vie and input. Preview the line-up and save it on soundcheck.
+FTLOM & Parra Vie Open Air at The Rum House at Jim & Tonic East on Sat 18 Jul, London. 4 acts on the bill: FedUp, MEZ (2), Parra Vie and input. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

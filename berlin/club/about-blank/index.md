@@ -16,7 +16,7 @@
 | Fri, 17 Jul 2026 | ://sektgarten x Rodmin [free entry & open air] | Rodmin |
 | Sat, 18 Jul 2026 | DUALISM with Stef de Haan, DJ Tallboy, CARGO | 5euroGoldi, Blossmbae, CARGO (DE), DJ Tallboy, Hang Aoki, Krash Cora, MSKD, Mareike Bautz, PASSA, Stef de Haan, alemiko, brvder jakob, multivitaminmarie |
 | Sat, 18 Jul 2026 | ://sektgarten tanzt aus der reihe 2.0 by Insel der Jugend [free entry & open air] | Ric Piccolo, Unfunk |
-| Sun, 19 Jul 2026 | Brace Brace Day Rave im ://blank Garten | Anne-Lu, Johænsson, OXOPOHA, _minted |
+| Sun, 19 Jul 2026 | Brace Brace Day Rave im ://blank Garten - Free entry until 4PM  | Anne-Lu, Johænsson, OXOPOHA, _minted |
 | Wed, 22 Jul 2026 | ://soli- sektgarten x rabies [free entry & open air] | Belen Zer |
 
 ## Address

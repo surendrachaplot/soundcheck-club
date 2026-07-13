@@ -1,14 +1,15 @@
 # Blawan
 
-Blawan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Blawan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Blawan is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Blawan is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
+| Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

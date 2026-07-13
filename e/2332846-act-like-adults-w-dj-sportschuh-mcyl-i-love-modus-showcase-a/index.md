@@ -1,6 +1,6 @@
 # Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase at Lokschuppen Berlin
 
-Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase at Lokschuppen Berlin on Sat 18 Jul, Berlin. 13 acts on the bill: Bruno Brero, DJ Jetset, DJ SPORTSCHUH and GI.O and 9 more. Trance and House. Preview the line-up and save it on soundcheck.
+Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase at Lokschuppen Berlin on Sat 18 Jul, Berlin. 14 acts on the bill: Benleh, Bruno Brero, DJ Jetset and DJ SPORTSCHUH and 10 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase at Lokschuppen Be
 
 ## Line-up
 
+- Benleh
 - Bruno Brero
 - DJ Jetset
 - DJ SPORTSCHUH

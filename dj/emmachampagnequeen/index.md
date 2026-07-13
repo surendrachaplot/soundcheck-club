@@ -1,13 +1,14 @@
 # Emma Champagne Queen
 
-Emma Champagne Queen is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club NYX, Amsterdam on Wed, 29 Jul 2026.
+Emma Champagne Queen is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 24 Jul 2026.
 
-Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: Club NYX, Amsterdam on Wed 29 Jul.
+Emma Champagne Queen is a house and disco artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Kirilski, Pura Pachanga and Benny Rodrigues. Next up: SISSI'S Amsterdam, Amsterdam on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | SISSI'S Amsterdam | Amsterdam |
 | Wed, 29 Jul 2026 | Club NYX | Amsterdam |
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
 | Sun, 2 Aug 2026 | SISSI'S Amsterdam | Amsterdam |

@@ -1,6 +1,6 @@
 # DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter at Phonox
 
-DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter at Phonox on Fri 7 Aug, London. 2 acts on the bill: Chinese Daughter and Sexy Lady Massive. Grime. Preview the line-up and save it on soundcheck.
+DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter at Phonox on Fri 7 Aug, London. 3 acts on the bill: CASISDEAD, Chinese Daughter and Sexy Lady Massive. Grime. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter at Phonox on F
 
 ## Line-up
 
+- CASISDEAD
 - Chinese Daughter
 - Sexy Lady Massive
 

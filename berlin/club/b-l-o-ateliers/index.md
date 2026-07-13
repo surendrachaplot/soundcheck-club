@@ -1,13 +1,14 @@
 # B.L.O-Ateliers
 
-B.L.O-Ateliers is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Giöbia // B.L.O. Kantine Berlin (support: Icarus Burns)" on Mon, 7 Sept 2026.
+B.L.O-Ateliers is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "seventhfield" on Fri, 24 Jul 2026.
 
-B.L.O-Ateliers is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Kaskelstrasse 55; Berlin; 10317; Germany.
+B.L.O-Ateliers is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Kaskelstrasse 55; Berlin; 10317; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | seventhfield |  |
 | Mon, 7 Sept 2026 | Giöbia // B.L.O. Kantine Berlin (support: Icarus Burns) |  |
 
 ## Address

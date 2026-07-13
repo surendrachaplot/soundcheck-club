@@ -1,13 +1,14 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+Junkie Kid is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Fri, 7 Aug 2026.
 
-Junkie Kid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 12 sets logged across Brisbane, Chicago, Houston and Losangeles and 6 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Superordinary, Brisbane on Fri 18 Sept.
+Junkie Kid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 13 sets logged across Brisbane, Chicago, Houston and Losangeles and 7 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Mia Mao, Paris on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Mia Mao | Paris |
 | Fri, 18 Sept 2026 | Superordinary | Brisbane |
 | Sat, 19 Sept 2026 | White Bay Power Station | Sydney |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |

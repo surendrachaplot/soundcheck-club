@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Club — Sauti: Que DJ, Clumsy B, Tattie Maggie, Heezy, Tribal Evans" on Mon, 13 Jul 2026.
+Badaboum is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Club — Sauti: DJ LAG, Clumsy B, Tattie Maggie, Heezy, Tribal Evans" on Mon, 13 Jul 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Aidan Lee, Aliceyuki, Anastazja and Brenda. and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -8,7 +8,7 @@ Badaboum is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | Club — Sauti: Que DJ, Clumsy B, Tattie Maggie, Heezy, Tribal Evans | Clumsy B, Que DJ |
+| Mon, 13 Jul 2026 | Club — Sauti: DJ LAG, Clumsy B, Tattie Maggie, Heezy, Tribal Evans | Clumsy B, DJ LAG, Que DJ |
 | Thu, 16 Jul 2026 | Club — LA CH!CK: Disney Channel Night |  |
 | Fri, 17 Jul 2026 | Club — Halfpipe Records: Unsho b2b Me & George all night long | Halfpipe Records, Me & George, Unsho |
 | Sat, 18 Jul 2026 | Club — Pitaya Soundsystem (all night long) | Pitaya Soundsystem |

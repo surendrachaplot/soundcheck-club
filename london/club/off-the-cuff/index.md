@@ -2,13 +2,13 @@
 
 Off The Cuff is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Forever Friend Infatuated: AV Event" on Fri, 24 Jul 2026.
 
-Off The Cuff is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Arch 645, 301-303 Railton Rd, Herne Hill SE24 0JN.
+Off The Cuff is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including 2CUTE2CUE. Browse upcoming dates, start times and who's playing. Arch 645, 301-303 Railton Rd, Herne Hill SE24 0JN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | Forever Friend Infatuated: AV Event |  |
+| Fri, 24 Jul 2026 | Forever Friend Infatuated: AV Event | 2CUTE2CUE |
 
 ## Address
 

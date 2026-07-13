@@ -1,13 +1,14 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Comedy Def Jam" on Wed, 15 Jul 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 15 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "8pm to Close" on Mon, 13 Jul 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 14 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 15 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Mon, 13 Jul 2026 | 8pm to Close |  |
 | Wed, 15 Jul 2026 | Comedy Def Jam |  |
 | Thu, 16 Jul 2026 | Blurry Stars |  |
 | Fri, 17 Jul 2026 | Boozewa |  |
@@ -17,7 +18,6 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 1
 | Thu, 23 Jul 2026 | The Futons |  |
 | Fri, 24 Jul 2026 | Solid State Radio |  |
 | Sat, 25 Jul 2026 | Jr Juggernaut |  |
-| Sun, 26 Jul 2026 | Tenement Rats |  |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # DJ Pipe
 
-DJ Pipe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 17 Jul 2026.
+DJ Pipe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 17 Jul 2026.
 
-DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Taslo, Huerta and The Ghost. Next up: Sunseabar Beach Club, Barcelona on Fri 17 Jul.
+DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Taslo, Huerta and The Ghost. Next up: Sunseabar Beach Club, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Sunseabar Beach Club | Barcelona |
+| Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

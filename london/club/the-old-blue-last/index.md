@@ -1,8 +1,8 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Smash & Grab: Donna Leake (all-night-long)" on Fri, 17 Jul 2026.
+The Old Blue Last is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Smash & Grab: Donna Leake (all-night-long)" on Fri, 17 Jul 2026.
 
-The Old Blue Last is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Asa Tate, Billy Nasty, Dev/Null and Donna Leake and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
+The Old Blue Last is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Asa Tate, Billy Nasty, Dev/Null and Donna Leake and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
 ## What's on
 

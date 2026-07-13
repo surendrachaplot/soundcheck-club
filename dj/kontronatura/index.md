@@ -1,8 +1,8 @@
 # Kontronatura
 
-Kontronatura is a Baile Funk and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Kontronatura is a Baile Funk and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Kontronatura is a baile funk and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Kontronatura is a baile funk and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Cashu, Alírio and EVEHIVE. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kontronatura is a baile funk and techno artist tracked on soundcheck, with 85 se
 | Fri, 31 Jul 2026 | OHM | Berlin |
 | Sat, 8 Aug 2026 | Kampnagel | Hamburg |
 | Fri, 14 Aug 2026 | export | Rotterdam |
+| Sun, 16 Aug 2026 | Algha's Plantroom | London |
 
 ## Recently played
 

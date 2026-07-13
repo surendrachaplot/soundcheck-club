@@ -1,8 +1,8 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Mon, 13 Jul 2026.
+Upper90 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mia Mao, Paris on Mon, 13 Jul 2026.
 
-Upper90 is a techno and trance artist tracked on soundcheck, with 120 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: Mia Mao, Paris on Mon 13 Jul.
+Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: Mia Mao, Paris on Mon 13 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 120 sets logge
 | Sat, 18 Jul 2026 | Rote Sonne | Munich |
 | Sat, 25 Jul 2026 | Wigwam | Dublin |
 | Fri, 31 Jul 2026 | RSO.BERLIN | Berlin |
+| Sat, 29 Aug 2026 | La Terrrazza | Barcelona |
 | Fri, 4 Sept 2026 | BASIS | Utrecht |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Kinder der Nacht - Parade After Party w/ T78 at Void Club
 
-Kinder der Nacht - Parade After Party w/ T78 at Void Club on Sat 15 Aug, Berlin. 16 acts on the bill: Activator, DJ Jordan, Dave Demon and Ewelina Koll and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Kinder der Nacht - Parade After Party w/ T78 at Void Club on Sat 15 Aug, Berlin. 18 acts on the bill: ADOBE, Activator, Avex and DJ Jordan and 14 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Kinder der Nacht - Parade After Party w/ T78 at Void Club on Sat 15 Aug, Berlin.
 
 ## Line-up
 
+- ADOBE
 - Activator
+- Avex
 - DJ Jordan
 - Dave Demon
 - Ewelina Koll

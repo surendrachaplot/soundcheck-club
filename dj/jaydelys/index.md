@@ -1,13 +1,14 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
+Jay de Lys is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Luz De Gas, Barcelona on Fri, 17 Jul 2026.
 
-Jay de Lys is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Manda Moor. Next up: [UNVRS], Ibiza on Sat 18 Jul.
+Jay de Lys is a tech house and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Franky Rizardo, Easttown and Manda Moor. Next up: Luz De Gas, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Luz De Gas | Barcelona |
 | Sat, 18 Jul 2026 | [UNVRS] | Ibiza |
 | Tue, 21 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Ushuaïa Ibiza | Ibiza |

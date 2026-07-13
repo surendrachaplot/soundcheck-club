@@ -11,7 +11,7 @@ nimino is a house and electronica artist tracked on soundcheck, with 44 sets log
 | Sat, 1 Aug 2026 | Finsbury Park | London |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Project House | Leeds |
-| Sat, 10 Oct 2026 | TBA - Central Chapelle 4 Esp. Alice Milliat, 75018 Paris | Paris |
+| Sat, 10 Oct 2026 | Central Chapelle | Paris |
 
 ## Recently played
 

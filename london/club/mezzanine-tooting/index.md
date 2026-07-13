@@ -11,7 +11,7 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 8 upcoming 
 | Sat, 18 Jul 2026 | Saturday Night Groove Vol.04 |  |
 | Fri, 24 Jul 2026 | grounded. 016 (liquid dnb) | Episode Three |
 | Sat, 25 Jul 2026 | Say Less & Friends at the Mezzanine | JDM, Tommy Eats |
-| Fri, 31 Jul 2026 | Bites&Beats - House & Techno Party 80% SOLD OUT | Matt Arnold |
+| Fri, 31 Jul 2026 | Bites&Beats - House & Techno Party 90% SOLD OUT | Matt Arnold |
 | Fri, 7 Aug 2026 | Spinimana presents Spun Out  | COBUU, Spinimana |
 | Fri, 14 Aug 2026 | suburban - Friday Night at Mezzanine |  |
 | Fri, 21 Aug 2026 | A2B presents - ELYSIUM - House, UKG, DnB | Kritical Mass |

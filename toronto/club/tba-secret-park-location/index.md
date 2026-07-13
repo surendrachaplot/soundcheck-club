@@ -1,8 +1,8 @@
-# TBA - SECRET PARK LOCATION
+# TBA - Secret Park Location
 
-TBA - SECRET PARK LOCATION is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "TTYL AT THE PARK ☆ 3 YEAR ANNIVERSARY" on Sat, 18 Jul 2026.
+TBA - Secret Park Location is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "TTYL AT THE PARK ☆ 3 YEAR ANNIVERSARY" on Sat, 18 Jul 2026.
 
-TBA - SECRET PARK LOCATION is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including ADEOLA, baby mmune, J.J. and Mrii and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Park Location is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including ADEOLA, baby mmune, J.J. and Mrii and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

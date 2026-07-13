@@ -1,8 +1,8 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Panteros666 is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
-Panteros666 is a trance and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: Downsview Park, Toronto on Fri 31 Jul.
+Panteros666 is a trance and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Panteros666 is a trance and techno artist tracked on soundcheck, with 88 sets lo
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
+| Fri, 11 Sept 2026 | La Machine Du Moulin Rouge | Paris |
 
 ## Recently played
 

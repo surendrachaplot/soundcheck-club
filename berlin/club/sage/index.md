@@ -1,8 +1,8 @@
 # SAGE
 
-SAGE is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Stil vor Talent Open Air" on Sat, 18 Jul 2026.
+SAGE is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Stil vor Talent Open Air" on Sat, 18 Jul 2026.
 
-SAGE is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Anfisa Letyago, Annett Gapstream, babxi and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 18-20 10997 Berlin, Germany.
+SAGE is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Anfisa Letyago, Annett Gapstream, babxi and Bradley Zero and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 18-20 10997 Berlin, Germany.
 
 ## What's on
 
@@ -11,6 +11,7 @@ SAGE is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with li
 | Sat, 18 Jul 2026 | Stil vor Talent Open Air | Annett Gapstream, CIOZ, Fabian Krooss, Hidden Empire, babxi |
 | Sat, 1 Aug 2026 | Throwback BERLIN - Back to 80s, 90s & 00s at SAGE |  |
 | Sat, 1 Aug 2026 | Hop on The Top BERLIN - Opening Party (Hip Hop, R&B, Funk & Soul) |  |
+| Sat, 1 Aug 2026 | Berlin Boat Party Sessions 2.0 | TSNR |
 | Sat, 8 Aug 2026 | Watergate x Power Open Air with Traumer, dj sweet6teen, Bradley Zero, Yamour, Immy, Power Squad | Bradley Zero, Dj Norma, Greta Spark, Immy, Joiah, Power Squad, Traumer, Yamour, dj sweet6teen |
 | Sat, 15 Aug 2026 | SPIN Open Air | Daisy Weweh, Ede, Fritz Kalkbrenner, KENZA KAYATI, Le TIZI, MUKKIMIAU, Swimming Paul, Tripolism |
 | Sun, 30 Aug 2026 | Kinky Beach Festival |  |
