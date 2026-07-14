@@ -1,14 +1,15 @@
 # MATRAKK
 
-MATRAKK is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Cité Fertile, Paris on Tue, 14 Jul 2026.
+MATRAKK is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Cité Fertile, Paris on Tue, 14 Jul 2026.
 
-MATRAKK is a techno and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside 2HOT2PLAY, CLTX and Nico Moreno. Next up: La Cité Fertile, Paris on Tue 14 Jul.
+MATRAKK is a techno and trance artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside 2HOT2PLAY, CLTX and Nico Moreno. Next up: La Cité Fertile, Paris on Tue 14 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 14 Jul 2026 | La Cité Fertile | Paris |
+| Fri, 31 Jul 2026 | Village du Soir | Geneva |
 | Sat, 1 Aug 2026 | Circle Park | Brussels |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
 

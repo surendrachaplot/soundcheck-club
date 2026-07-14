@@ -1,8 +1,8 @@
 # David Vunk
 
-David Vunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
+David Vunk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 31 Jul 2026.
 
-David Vunk is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Afra, Marsman and Anetha. Next up: SISSI'S Amsterdam, Amsterdam on Fri 31 Jul.
+David Vunk is a house and techno artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside Afra, Marsman and Anetha. Next up: SISSI'S Amsterdam, Amsterdam on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Vunk is a house and techno artist tracked on soundcheck, with 153 sets log
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
+| Sat, 12 Sept 2026 | PIP Den Haag | The Hague |
 
 ## Recently played
 

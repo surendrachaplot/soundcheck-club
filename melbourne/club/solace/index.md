@@ -10,7 +10,7 @@ Solace is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, w
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | Free. Live. Music // Jazz Upstairs |  |
 | Thu, 16 Jul 2026 | CORIOLIS // FEATURING SHUGO NOSS, BLUHOL, AKALLA & LYRA |  |
-| Fri, 17 Jul 2026 | Deuce Presents Jay Tripwire | Bex, Jay Tripwire, Millú, Nat Salih, Rev Lon |
+| Fri, 17 Jul 2026 | Deuce Presents Jay Tripwire | Bex, JD (4), Jay Tripwire, Millú, Nat Salih, Rev Lon |
 | Sat, 18 Jul 2026 | MDC pres Ben Fester, DJ Possum, Myles Mac - b2b2b all night long | Ben Fester, DJ Possum, Myles Mac |
 | Wed, 22 Jul 2026 | Free. Live. Music // SOLILOQUY - LIVE DnB & JUNGLE DUO |  |
 | Thu, 23 Jul 2026 | Solace Radio x Refuge W/ Jan Kost, Oscar de Lima, Joey Coco | Jan Kost, Joey Coco, Oscar de Lima |

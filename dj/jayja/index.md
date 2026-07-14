@@ -1,13 +1,14 @@
 # Jayja
 
-Jayja is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 12 x 12, Bangkok on Sat, 25 Jul 2026.
+Jayja is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Siwilai Radical Club, Bangkok on Sat, 18 Jul 2026.
 
-Jayja is a house and deep house artist based in Thailand, tracked on soundcheck, with 44 sets logged across Bangkok. Often billed alongside Kunanon, MOODYBOOM and Mumsfilibaba. Next up: 12 x 12, Bangkok on Sat 25 Jul.
+Jayja is a house and deep house artist based in Thailand, tracked on soundcheck, with 45 sets logged across Bangkok. Often billed alongside Kunanon, MOODYBOOM and Mumsfilibaba. Next up: Siwilai Radical Club, Bangkok on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Siwilai Radical Club | Bangkok |
 | Sat, 25 Jul 2026 | 12 x 12 | Bangkok |
 | Sat, 1 Aug 2026 | Dual | Bangkok |
 

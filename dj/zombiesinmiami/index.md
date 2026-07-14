@@ -1,8 +1,8 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Zombies In Miami is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
-Zombies In Miami is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside DJ Nobu, Fadi Mohem and Marie Montexier. Next up: MS Artville, Hamburg on Sat 18 Jul.
+Zombies In Miami is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside DJ Nobu, Fadi Mohem and Marie Montexier. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Zombies In Miami is a house and techno artist tracked on soundcheck, with 139 se
 | Sat, 18 Jul 2026 | MS Artville | Hamburg |
 | Fri, 31 Jul 2026 | nachbar | Amsterdam |
 | Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 5 Sept 2026 | Central 1926 | Sao Paulo |
 
 ## Recently played
 

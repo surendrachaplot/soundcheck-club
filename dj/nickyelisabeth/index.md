@@ -1,8 +1,8 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Beach House San Diego, San Diego on Sat, 1 Aug 2026.
+Nicky Elisabeth is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Beach House San Diego, San Diego on Sat, 1 Aug 2026.
 
-Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Rezident and Jody Wisternoff. Next up: Beach House San Diego, Sandiego on Sat 1 Aug.
+Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Rezident and Jody Wisternoff. Next up: Beach House San Diego, Sandiego on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 79 sets
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Beach House San Diego | San Diego |
 | Sat, 22 Aug 2026 | Thuishaven | Amsterdam |
+| Sat, 12 Sept 2026 | Colorado Charlie | The Hague |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 

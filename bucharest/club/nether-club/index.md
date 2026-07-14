@@ -9,7 +9,7 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | M.I.L.K - Summer Edition | AMEDEUS, Amnesico, KATHERYNE, LVUR, Sandraz, Stefan Hernandez |
-| Fri, 24 Jul 2026 | THE DEVIL IS BACK |  |
+| Fri, 24 Jul 2026 | THE DEVIL IS BACK w/ NTHR, Gheordu, MANDRAGORA, Project Morpheus | Gheordu, NTHR, Project Morpheus |
 | Fri, 31 Jul 2026 | STEP INTO THE VOID x URBAN RUMBLE: BERLIN TECHNO 8 | FAUST (1), Nilya |
 | Sat, 8 Aug 2026 | THE DEVIL IS BACK |  |
 | Fri, 14 Aug 2026 | M.I.L.K | AMEDEUS, Amnesico, KATHERYNE, LVUR, Stefan Hernandez |

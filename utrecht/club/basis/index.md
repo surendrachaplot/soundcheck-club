@@ -9,7 +9,7 @@ BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | BASIS Talent Night/ Ajonko/ FENNA/ Lunett/ Maccin | Fenna Fiction, Lunett |
-| Sat, 18 Jul 2026 | BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler | BLNK |
+| Sat, 18 Jul 2026 | BASIS/ BLNK/ Blurred Movement/ Imperia/ Juul Exler | BLNK, JUUL |
 | Fri, 24 Jul 2026 | BASIS Talent Night/ LAUZ/ LOYK/ Nito/ S.H.A.R.P | LAUZ, LOYK |
 | Sat, 25 Jul 2026 | BASIS/ DJ Cringey/ Eva Bon/ Luca v/d Hombergh/ Nyco | DJ Cringey, Nyco (FR) |
 | Fri, 31 Jul 2026 | BASIS Talent Night/ Daniel Plainview/ DJ Zelda/ Hedemann/ Jssst | Daniel Plainview, Hedemann, Jssst |

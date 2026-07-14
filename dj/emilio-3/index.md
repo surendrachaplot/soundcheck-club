@@ -1,14 +1,15 @@
 # EMILIO (3)
 
-EMILIO (3) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 17 Jul 2026.
+EMILIO (3) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 17 Jul 2026.
 
-EMILIO (3) is a techno and industrial artist based in Japan, tracked on soundcheck, with 48 sets logged across Tokyo. Often billed alongside EVE (1), STRATAH and uuu7. Next up: Circus Tokyo, Tokyo on Fri 17 Jul.
+EMILIO (3) is a techno and industrial artist based in Japan, tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside EVE (1), STRATAH and uuu7. Next up: Circus Tokyo, Tokyo on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Circus Tokyo | Tokyo |
+| Sat, 18 Jul 2026 | Ruby Room | Tokyo |
 | Sun, 19 Jul 2026 | WOMB | Tokyo |
 | Sat, 25 Jul 2026 | TBA - Secret Location  | Tokyo |
 

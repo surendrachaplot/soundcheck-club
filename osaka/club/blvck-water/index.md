@@ -10,7 +10,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 8 upcoming nights, w
 | --- | --- | --- |
 | Tue, 14 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, 死者蘇生CH |
 | Wed, 15 Jul 2026 | RINN-NE TECHNO MAFIA | Goodrug, KCD(JP), Rikuto |
-| Fri, 17 Jul 2026 | HARD TECHNO 'CRACKS' with CHIKA, FENGX2, Kaoll, inudog system, 死者蘇生CH, ZAGUN | CHIKA, FENGX2, ZAGUN, inudog system, 死者蘇生CH |
+| Fri, 17 Jul 2026 | HARD TECHNO 'CRACKS' with CHIKA, FENGX2, Kaoll, inudog system, 死者蘇生CH, ZAGUN | CHIKA, FENGX2, Kaoll, ZAGUN, inudog system, 死者蘇生CH |
 | Sat, 18 Jul 2026 | RINN-NE 輪廻 Last Dance in Osaka | FENGX2, Goodrug, KCD(JP), Rikuto |
 | Tue, 21 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP) |
 | Tue, 28 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with WOLT & OC | WOLT, ZAGUN, amor (JP) |

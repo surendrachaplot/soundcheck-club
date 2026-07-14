@@ -2,7 +2,7 @@
 
 ZEROTOKYO is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "COINCIDENCE" on Thu, 16 Jul 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 6.do, AEMI, Andrew Moore and CASset and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 6.do, AEMI, Aloetic and Andrew Moore and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
@@ -17,7 +17,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, wi
 | Sat, 25 Jul 2026 | The Temple of Dance | AEMI, DJ 34, Ryota |
 | Sat, 25 Jul 2026 | The Temple of Dance - A Shamanic Experience with FADERS - Also feat. GREEN MAGIC | AEMI, DJ 34, Nono THING, PUSTER, Ryota, WAKA XINXI, YOSHIMASA, Yamato |
 | Sun, 26 Jul 2026 | OMEN -The Manifest- Organized by Aile The Shota × RaySTA |  |
-| Fri, 31 Jul 2026 | Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - | Lee Ann Roberts |
+| Fri, 31 Jul 2026 | Locker Room feat.Lee Ann Roberts - HARD TECHNO / TECHNO - | ASIN, Aloetic, CHIKA, DALJAE, Lee Ann Roberts, YOXIKI, YURI VALEN, YUXI |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # YBZ Invites Denham Audio at Sneaky Pete's
 
-YBZ Invites Denham Audio at Sneaky Pete's on Thu 30 Jul, Edinburgh. 4 acts on the bill: Denham Audio, Texyo, ZO3 (1) and billybawbags. Preview the line-up and save it on soundcheck.
+YBZ Invites Denham Audio at Sneaky Pete's on Thu 30 Jul, Edinburgh. 6 acts on the bill: Denham Audio, Georj, Gilbo and Texyo and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ YBZ Invites Denham Audio at Sneaky Pete's on Thu 30 Jul, Edinburgh. 4 acts on th
 ## Line-up
 
 - Denham Audio
+- Georj
+- Gilbo
 - Texyo
 - ZO3 (1)
 - billybawbags

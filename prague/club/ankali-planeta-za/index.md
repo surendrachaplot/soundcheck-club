@@ -1,14 +1,15 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "★ HD World ★" on Fri, 17 Jul 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "★ HD World ★" on Fri, 17 Jul 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including 3ever, Alfred Czital, AMB (6) and Atch22 and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including 3ever, Alfred Czital, AMB (6) and Andrea Zucca and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | ★ HD World ★ | AVHD, Nastya Muravyova, Rajky, SJ Yellow |
+| Fri, 17 Jul 2026 | Planeta ZMAR | Andrea Zucca, Lucas Croon, Møreti, Shurigen, Vapanda |
 | Sat, 18 Jul 2026 | VOID: Synthception | CRY.NN, ESTER., Flakka, Osman Merter, Tapage Noir |
 | Fri, 24 Jul 2026 | Archiv Teknologi: Axis Alpha & Eva Falt, Decoder, Inger Illel | Axis Alpha, Decoder, Eva Falt, Inger Illel |
 | Fri, 31 Jul 2026 | United at Ankali | AMB (6), Alfred Czital, Atch22, Ayū (1), Big Lil, Dj Poperz, Epoché, Fembot, Høll, Kaotic, LONG, Madeleine, Malachi Constant, Mike.H, Nevinnost, PRDELANZA, Still Sparkling, Tasya, TerminusTechnikus, Unjack*, Yan (CZ), fahell, patricccio |

@@ -1,13 +1,14 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at M.O.T, London on Wed, 2 Sept 2026.
+Valentina Magaletti is a Experimental and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Bari Various Venues , Naples on Wed, 15 Jul 2026.
 
-Valentina Magaletti is an experimental and electro artist based in Italy, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: M.O.T, London on Wed 2 Sept.
+Valentina Magaletti is an experimental and electro artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: TBA - Bari Various Venues , Naples on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 15 Jul 2026 | TBA - Bari Various Venues  | Naples |
 | Wed, 2 Sept 2026 | M.O.T | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | public records | New York City |

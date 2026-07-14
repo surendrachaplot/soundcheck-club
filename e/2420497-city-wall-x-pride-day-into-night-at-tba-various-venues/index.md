@@ -1,6 +1,6 @@
 # City Wall x Pride (Day into Night) at TBA - Various Venues
 
-City Wall x Pride (Day into Night) at TBA - Various Venues on Sat 1 Aug, Brighton. 15 acts on the bill: Aleromaze, Cage (1), Døra and Jack Jeffrey and 11 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+City Wall x Pride (Day into Night) at TBA - Various Venues on Sat 1 Aug, Brighton. 16 acts on the bill: Aleromaze, Cage (1), Døra and Gosia and 12 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ City Wall x Pride (Day into Night) at TBA - Various Venues on Sat 1 Aug, Brighto
 - Aleromaze
 - Cage (1)
 - Døra
+- Gosia
 - Jack Jeffrey
 - Just Her
 - Koipinoxia

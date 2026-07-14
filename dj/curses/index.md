@@ -1,8 +1,8 @@
 # Curses
 
-Curses is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nowadays, New York City on Fri, 24 Jul 2026.
+Curses is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nowadays, New York City on Fri, 24 Jul 2026.
 
-Curses is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Nowadays, Newyorkcity on Fri 24 Jul.
+Curses is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: Nowadays, Newyorkcity on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Curses is a techno and house artist tracked on soundcheck, with 166 sets logged 
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Nowadays | New York City |
 | Sat, 25 Jul 2026 | New York Avenue Beach | Philadelphia |
+| Sat, 5 Sept 2026 | VENT | Tokyo |
 
 ## Recently played
 

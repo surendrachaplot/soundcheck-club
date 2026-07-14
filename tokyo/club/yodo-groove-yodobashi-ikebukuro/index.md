@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Tokyo Rooftop Techno Sunset - Risa Taniguchi at YODO GROOVE" on Sat, 18 Jul 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Tokyo's Ultimate Rooftop Techno Sunset ft. Risa Taniguchi" on Sat, 18 Jul 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Amps, CLESENT, Daitto and DJ SAWA and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -8,7 +8,7 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Tokyo Rooftop Techno Sunset - Risa Taniguchi at YODO GROOVE | Kulage, Risa Taniguchi, YUXI |
+| Sat, 18 Jul 2026 | Tokyo's Ultimate Rooftop Techno Sunset ft. Risa Taniguchi | Kulage, Risa Taniguchi, YUXI |
 | Sun, 19 Jul 2026 | Play Of Color Yodo Groove | Amps, CLESENT, Daitto, GooPer, ISPA, Saeri, Yuta Yamada |
 | Sun, 26 Jul 2026 | Tokyo Rooftop Techno Sunset - Drunken Kong & Yamato | Drunken Kong, Shogo Ito, Shun Mizuki, WAKA XINXI, Yamato |
 | Sun, 9 Aug 2026 | Tokyo Rooftop Dance Experience with Ken Ishii | DJ SAWA, Ken Ishii, Ko Kimura |

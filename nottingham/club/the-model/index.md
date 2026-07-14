@@ -9,8 +9,8 @@ The Model is a music venue in Nottingham listed on soundcheck. 4 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | DJ Clip & DFD |  |
+| Fri, 24 Jul 2026 | Venezuela Fundraiser with food from Made in Brazil |  |
 | Sat, 25 Jul 2026 | Duty Free #4 [Pride unofficial afterparty] |  |
-| Sat, 25 Jul 2026 | Venezuela Fundraiser with food from Made in Brazil |  |
 | Fri, 31 Jul 2026 | Cold Brewed presents Son of Philip b2b Croft, soapy b2b M75 & Jimmy Rocket | Croft (UK), Jimmy Rocket, M75 (1), Son of Philip, soapy |
 
 ## Address

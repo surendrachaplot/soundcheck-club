@@ -9,7 +9,7 @@ Attu is a bass and club artist based in Australia, tracked on soundcheck, with 1
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Abercrombie Hotel | Sydney |
-| Sat, 25 Jul 2026 | Unholy Playhouse | Sydney |
+| Sat, 25 Jul 2026 | Divine Playhouse | Sydney |
 | Fri, 14 Aug 2026 | Club 77 | Sydney |
 
 ## Recently played

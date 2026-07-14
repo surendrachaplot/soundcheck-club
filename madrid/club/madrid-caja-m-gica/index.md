@@ -10,7 +10,7 @@ Madrid Caja Mágica is a music venue in Madrid listed on soundcheck. 3 upcoming 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Brunch Electronik Madrid 05.09 - Metamorfosi |  |
 | Fri, 11 Sept 2026 | Brunch Electronik Madrid 11.09 - Sammy Virji | Job Jobse, MALUGI, Mamba Nera, Maya Jane Coles, Sammy Virji |
-| Sat, 12 Sept 2026 | Brunch Electronik Madrid 12.09 - Smiley | &ME |
+| Sat, 12 Sept 2026 | Brunch Electronik Madrid 12.09 - &ME PRESENTS SMILEY  | &ME |
 
 ## Address
 

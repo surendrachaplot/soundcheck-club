@@ -1,8 +1,8 @@
 # Camille Doe
 
-Camille Doe is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
+Camille Doe is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
 
-Camille Doe is a house and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 6 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: BRET, Amsterdam on Fri 17 Jul.
+Camille Doe is a house and garage artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: BRET, Amsterdam on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Camille Doe is a house and electro artist tracked on soundcheck, with 72 sets lo
 | Fri, 17 Jul 2026 | BRET | Amsterdam |
 | Sat, 25 Jul 2026 | Zeescouts Aan De Stroom | Antwerp |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | Mint XL | Leeds |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # HARD TECHNO 'CRACKS' with CHIKA, FENGX2, Kaoll, inudog system, 死者蘇生CH, ZAGUN at Blvck Water
 
-HARD TECHNO 'CRACKS' with CHIKA, FENGX2, Kaoll, inudog system, 死者蘇生CH, ZAGUN at Blvck Water on Fri 17 Jul, Osaka. 5 acts on the bill: CHIKA, FENGX2, ZAGUN and inudog system and 1 more. Techno. Preview the line-up and save it on soundcheck.
+HARD TECHNO 'CRACKS' with CHIKA, FENGX2, Kaoll, inudog system, 死者蘇生CH, ZAGUN at Blvck Water on Fri 17 Jul, Osaka. 6 acts on the bill: CHIKA, FENGX2, Kaoll and ZAGUN and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ HARD TECHNO 'CRACKS' with CHIKA, FENGX2, Kaoll, inudog system, 死者蘇生CH, Z
 
 - CHIKA
 - FENGX2
+- Kaoll
 - ZAGUN
 - inudog system
 - 死者蘇生CH

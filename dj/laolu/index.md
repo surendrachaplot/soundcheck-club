@@ -1,8 +1,8 @@
 # Laolu
 
-Laolu is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cova Santa, Ibiza on Fri, 31 Jul 2026.
+Laolu is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cova Santa, Ibiza on Fri, 31 Jul 2026.
 
-Laolu is a house and afro house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside La Forêt, Rimbu (CH) and Ankhoï. Next up: Cova Santa, Ibiza on Fri 31 Jul.
+Laolu is a house and afro house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Rimbu (CH) and Ankhoï. Next up: Cova Santa, Ibiza on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Laolu is a house and afro house artist tracked on soundcheck, with 87 sets logge
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Cova Santa | Ibiza |
 | Sat, 8 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Fri, 28 Aug 2026 | VENT | Tokyo |
 | Sat, 19 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played

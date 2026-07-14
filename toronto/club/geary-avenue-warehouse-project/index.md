@@ -12,7 +12,7 @@ Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck.
 | Sat, 25 Jul 2026 | OVERLOAD | Adam James, James Blvck, KILL 9 1 |
 | Fri, 14 Aug 2026 | M O N O L I T H  0 0 3 | ANTON BASHKOV, Rudra Kush |
 | Fri, 21 Aug 2026 | BTS K-pop Rave – Warehouse Edition |  |
-| Sat, 5 Sept 2026 | The Sound of Headhunterz - Unofficial Tribute | Forged Reigns |
+| Sat, 5 Sept 2026 | The Sound of Headhunterz - Unofficial Tribute | Forged Reigns, XD3SIGN |
 
 ## Address
 

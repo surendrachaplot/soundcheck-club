@@ -1,6 +1,6 @@
 # Temp Affairs w/ Jane Remover and Ninajirachi at Kesselhaus
 
-Temp Affairs w/ Jane Remover and Ninajirachi at Kesselhaus on Wed 19 Aug, Berlin. 1 act on the bill: Ninajirachi. Preview the line-up and save it on soundcheck.
+Temp Affairs w/ Jane Remover and Ninajirachi at Kesselhaus on Wed 19 Aug, Berlin. 4 acts on the bill: ALCATRAZ, Izzy Camina, Margo XS and Ninajirachi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Temp Affairs w/ Jane Remover and Ninajirachi at Kesselhaus on Wed 19 Aug, Berlin
 
 ## Line-up
 
+- ALCATRAZ
+- Izzy Camina
+- Margo XS
 - Ninajirachi
 
 *Source: [soundcheck](https://soundcheck.club/e/2458197-temp-affairs-w-jane-remover-and-ninajirachi-at-kesselhaus/)*

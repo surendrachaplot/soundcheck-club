@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium
 
-TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium on Wed 26 Aug, Berlin. 4 acts on the bill: Rosie (UK), Rovin, Sam J and pink-panther. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium on Wed 26 Aug, Berlin. 5 acts on the bill: Connor (UK), Rosie (UK), Rovin and Sam J and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TECHNO MITTWOCH: TAKE YOUR TICKETS at Sensorium on Wed 26 Aug, Berlin. 4 acts on
 
 ## Line-up
 
+- Connor (UK)
 - Rosie (UK)
 - Rovin
 - Sam J

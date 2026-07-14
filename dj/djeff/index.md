@@ -1,13 +1,14 @@
 # DJEFF
 
-DJEFF is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Santanna Mykonos, Mykonos on Mon, 3 Aug 2026.
+DJEFF is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
-DJEFF is an afro house and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Santanna Mykonos, Mykonos on Mon 3 Aug.
+DJEFF is an afro house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Village du Soir | Geneva |
 | Mon, 3 Aug 2026 | Santanna Mykonos | Mykonos |
 | Fri, 11 Sept 2026 | Ministry Of Sound | London |
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |

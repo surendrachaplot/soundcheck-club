@@ -1,8 +1,8 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "PW x Spinback • Temar, Rafa, Ra2dtoo" on Thu, 16 Jul 2026.
+Platforma Wolff is a music venue in Bucharest with 10 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "PW x Spinback • Temar, Rafa, Ra2dtoo" on Thu, 16 Jul 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including Ancut, BILA, Cap and Cassy and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 10 upcoming nights, with line-ups including CEZAR, Ancut, Avram and BILA and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 9 upcoming n
 | Sat, 25 Jul 2026 | PW x OFF THE GRID • Mr. Ho, Onirik, Obre | Mr. Ho, Obre, Onirik |
 | Fri, 31 Jul 2026 | PW • Danilo Plessow (MCDE), Romansoff | Danilo Plessow, Romansoff |
 | Sat, 1 Aug 2026 | SNRS24 - Platforma Wolff - 1-2 August 2026 | BILA, Cap, Cosmina, Dan Andrei, Herodot, Mihnea Rog, Prichindel, Sonja Moonear |
+| Fri, 7 Aug 2026 | PW x Deruta • CEZAR, Avram | Avram, CEZAR |
 | Sat, 8 Aug 2026 | PW x Superluminal • Noizar, Mattias, Ancut | Ancut, Matthias (1), Noizar |
 | Fri, 14 Aug 2026 | PW 5 Years Anniversary • Jane Fitz (all night long) | Jane Fitz |
 

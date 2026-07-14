@@ -1,8 +1,8 @@
 # VENT
 
-VENT is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FRANCOIS X" on Fri, 17 Jul 2026.
+VENT is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FRANCOIS X" on Fri, 17 Jul 2026.
 
-VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AKIRAM EN, Andre McLeod, Answer Code Request and avion__ and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
+VENT is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AKIRAM EN, Andre McLeod, Answer Code Request and avion__ and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
 ## What's on
 
@@ -16,8 +16,8 @@ VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with li
 | Sat, 1 Aug 2026 | GOMA , 三星章紘 | AKIRAM EN, savezearth |
 | Fri, 7 Aug 2026 | ANSWERCODE REQUEST | Answer Code Request, IRON, Jun (+886), Kulage, LiaRako, Remi Ohsugi, WAKA XINXI |
 | Sat, 8 Aug 2026 | Marcal | Jiho, Kazu, Kurumi, LaWhat (2), Marcal, RINALUCKY, Shintarø Kanie, manato |
+| Mon, 10 Aug 2026 | Phil Berg | DJ Sodeyama, FUJI (3), Kent Oria, Kosei Okumura, MiG-25, Phil Berg, shimosoma, the2$ |
 | Fri, 14 Aug 2026 | Leafar Legov | Leafar Legov |
-| Sat, 15 Aug 2026 | LB aka LABAT | LB aka LABAT |
 
 ## Address
 

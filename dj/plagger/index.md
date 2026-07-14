@@ -9,7 +9,7 @@ Plagger is a techno and acid artist tracked on soundcheck, with 144 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | 2ten | Athens |
-| Sat, 25 Jul 2026 | B side Athens | Athens |
+| Sat, 1 Aug 2026 | B side Athens | Athens |
 
 ## Recently played
 

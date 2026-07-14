@@ -1,6 +1,6 @@
 # Borley Room: Jordan George at Sneaky Pete's
 
-Borley Room: Jordan George at Sneaky Pete's on Wed 15 Jul, Edinburgh. 2 acts on the bill: BORLEY and Jordan George. Preview the line-up and save it on soundcheck.
+Borley Room: Jordan George at Sneaky Pete's on Wed 15 Jul, Edinburgh. 3 acts on the bill: BORLEY, Jordan George and PASO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Borley Room: Jordan George at Sneaky Pete's on Wed 15 Jul, Edinburgh. 2 acts on 
 
 - BORLEY
 - Jordan George
+- PASO
 
 *Source: [soundcheck](https://soundcheck.club/e/2464009-borley-room-jordan-george-at-sneaky-pete-s/)*

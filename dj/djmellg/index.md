@@ -9,7 +9,7 @@ DJ MELL G is a techno and house artist tracked on soundcheck, with 178 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Else | Berlin |
-| Sat, 15 Aug 2026 | TBA - OUTDOOR | Toronto |
+| Sat, 15 Aug 2026 | 131 Mccormack St | Toronto |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played

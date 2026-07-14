@@ -1,8 +1,8 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ALL SILLY & Karizma • birthday edition" on Sat, 18 Jul 2026.
+TV Lounge is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ALL SILLY & Karizma • birthday edition" on Sat, 18 Jul 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including britty., Bruce Bailey, Dantiez and Disc Jockey George and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including Ameera, britty., Bruce Bailey and Dantiez and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
@@ -15,6 +15,7 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming nights, w
 | Sat, 1 Aug 2026 | Justin Martin - Open to Close | Justin Martin |
 | Sat, 8 Aug 2026 | Stacey Pullen - Open to Close | Stacey Pullen |
 | Thu, 13 Aug 2026 | Charivari Detroit • Parallel | DJ Bone, DJ Seoul, DJ Spen, Dantiez, Disc Jockey George, Duck Trash, Eddie Fowlkes, Eddie Logix, Garrison XR, Gettoblaster, JMT (2), Kai Alce, LADYMONIX, MNTRA, Norm Talley, Peter Croce, RAEDY LEX, Ryan Sadorus, Satoshi Tomiie, TCHiLT, Terrence Parker, britty., sillygirlcarmen, we1sman |
+| Fri, 14 Aug 2026 | Tv Lounge Friday Charivari Detroit Parallel | Ameera, Norm Talley, Satoshi Tomiie |
 | Fri, 25 Sept 2026 | Hector Romero does TV | Bruce Bailey, Hector Romero, sillygirlcarmen |
 
 ## Address

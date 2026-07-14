@@ -1,13 +1,14 @@
 # Józef Keuner
 
-Józef Keuner is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Smolna, Warsaw on Fri, 24 Jul 2026.
+Józef Keuner is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
 
-Józef Keuner is a techno and hardcore artist tracked on soundcheck, with 53 sets logged across Krakow and Warsaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: Smolna, Warsaw on Fri 24 Jul.
+Józef Keuner is a techno and hardcore artist tracked on soundcheck, with 54 sets logged across Krakow and Warsaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: STK 47 WAREHOUSE, Krakow on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | STK 47 WAREHOUSE | Krakow |
 | Fri, 24 Jul 2026 | Smolna | Warsaw |
 | Sat, 3 Oct 2026 | Klub Progresja | Warsaw |
 

@@ -9,7 +9,7 @@ Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | 131 Mccormack St | Toronto |
-| Sat, 19 Sept 2026 | TBA - Warehouse | Toronto |
+| Sat, 19 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 29 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Perel" on Fri, 17 Jul 2026.
+Club Vinyl is a music venue in Denver with 30 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Perel" on Fri, 17 Jul 2026.
 
-Club Vinyl is a music venue in Denver listed on soundcheck. 29 upcoming nights, with line-ups including BL3SS, Classmatic, DATSKO and EMBRZ (IE) and 2 more. Browse upcoming dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
+Club Vinyl is a music venue in Denver listed on soundcheck. 30 upcoming nights, with line-ups including BL3SS, Classmatic, DATSKO and DJ Sauce and 2 more. Browse upcoming dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Perel |  |
+| Fri, 17 Jul 2026 | Lubdub Records Takeover Rooftop / Maro, DJ Sauce, Jinnie b2b Lady Fly | DJ Sauce |
 | Sat, 18 Jul 2026 | Will Clarke | Will Clarke |
 | Sat, 18 Jul 2026 | Sunday Scaries |  |
 | Sat, 18 Jul 2026 | Matthew Dear b2b Juan Maclean | Juan Maclean, Matthew Dear |
@@ -17,7 +18,6 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 29 upcoming nights, 
 | Fri, 24 Jul 2026 | option4 b2b Sonrizas |  |
 | Sat, 25 Jul 2026 | Cecille Records: Nick Curly & Harry Romero | Harry Romero, Nick Curly |
 | Sun, 26 Jul 2026 | Day Trip On The Rooftop: ATRIP, Laurence Guy, Monty Kiddo |  |
-| Sat, 1 Aug 2026 | EMBRZ | EMBRZ (IE) |
 
 ## Address
 

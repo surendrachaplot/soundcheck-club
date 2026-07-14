@@ -11,10 +11,10 @@ Volnost is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with 
 | Thu, 16 Jul 2026 | Thursday Volnost | PAIK, Pseudobaul |
 | Fri, 17 Jul 2026 | Volnost NIGHT | DJ SIN, Knaif, Recy |
 | Sat, 18 Jul 2026 | Volnost NIGHT | Deekay, Hogun, Yeji |
-| Thu, 23 Jul 2026 | Thursday Volnost | Seo Youngcha |
+| Thu, 23 Jul 2026 | Thursday Volnost | Haeterna, Seo Youngcha |
 | Fri, 24 Jul 2026 | Volnost NIGHT | SINAE, chukimaandal, mizae lim |
 | Sat, 25 Jul 2026 | ENTER TAKEOVER | ComaRobot, Siot, UG (1), age (1) |
-| Fri, 31 Jul 2026 | Volnost NIGHT | Deekay, ccb |
+| Fri, 31 Jul 2026 | Volnost NIGHT | Deekay, Haeterna, ccb |
 
 ## Address
 

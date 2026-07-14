@@ -1,14 +1,15 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KREUZWERK, Berlin on Fri, 17 Jul 2026.
+Phil Berg is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KREUZWERK, Berlin on Fri, 17 Jul 2026.
 
-Phil Berg is a techno and club artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: KREUZWERK, Berlin on Fri 17 Jul.
+Phil Berg is a techno and club artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: KREUZWERK, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | KREUZWERK | Berlin |
+| Mon, 10 Aug 2026 | VENT | Tokyo |
 | Fri, 21 Aug 2026 | Fridas Pier | Stuttgart |
 | Sat, 22 Aug 2026 | The DBA | Manchester |
 

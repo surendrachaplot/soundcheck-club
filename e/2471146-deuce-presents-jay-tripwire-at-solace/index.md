@@ -1,6 +1,6 @@
 # Deuce Presents Jay Tripwire at Solace
 
-Deuce Presents Jay Tripwire at Solace on Fri 17 Jul, Melbourne. 5 acts on the bill: Bex, Jay Tripwire, Millú and Nat Salih and 1 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Deuce Presents Jay Tripwire at Solace on Fri 17 Jul, Melbourne. 6 acts on the bill: Bex, JD (4), Jay Tripwire and Millú and 2 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Deuce Presents Jay Tripwire at Solace on Fri 17 Jul, Melbourne. 5 acts on the bi
 ## Line-up
 
 - Bex
+- JD (4)
 - Jay Tripwire
 - Millú
 - Nat Salih

@@ -1,8 +1,8 @@
 # Jus-Ed
 
-Jus-Ed is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Howler, Melbourne on Fri, 31 Jul 2026.
+Jus-Ed is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Howler, Melbourne on Fri, 31 Jul 2026.
 
-Jus-Ed is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Boston and Buenosaires and 13 more. Often billed alongside Move D, Doreen and Maayan Nidam. Next up: Howler, Melbourne on Fri 31 Jul.
+Jus-Ed is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Boston and Buenosaires and 14 more. Often billed alongside Move D, Doreen and Maayan Nidam. Next up: Howler, Melbourne on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jus-Ed is a house and techno artist tracked on soundcheck, with 51 sets logged a
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Howler | Melbourne |
 | Fri, 31 Jul 2026 | Howler | Melbourne |
+| Sat, 1 Aug 2026 | Portugal Madeira Club | Sydney |
 
 ## Recently played
 

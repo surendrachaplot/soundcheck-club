@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The Sessions: Shared Control [Cancelled]" on Tue, 14 Jul 2026.
+People's Leisure Club is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The Sessions: Shared Control [Cancelled]" on Tue, 14 Jul 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 11 upcoming nights, with line-ups including Ann Tweak, Big Dope P, DJ Shannon and DMG Music and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 12 upcoming nights, with line-ups including Ann Tweak, Big Dope P, DJ Shannon and DMG Music and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
@@ -17,7 +17,7 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 11 upc
 | Sat, 1 Aug 2026 | House / Juke / Footwork: Jana Rush, Big Dope P, Marti Time | Big Dope P, Jana Rush, Marti-Time! |
 | Fri, 14 Aug 2026 | Mirrorsteria (TMD & Microsteria) | Ann Tweak, Raivo Sloan, Zoe from Finance |
 | Fri, 21 Aug 2026 | La Beat Soul Club |  |
-| Fri, 11 Sept 2026 | La Beat Soul Club |  |
+| Fri, 28 Aug 2026 | EPiKA SOFT: EPiKA's 5th Birthday | ENAEN, Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
 
 ## Address
 

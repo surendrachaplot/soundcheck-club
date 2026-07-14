@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 26 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "【MITOHO SESSIONS】" on Tue, 14 Jul 2026.
+Forestlimit is a music venue in Tokyo with 27 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "【MITOHO SESSIONS】" on Tue, 14 Jul 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 26 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Daichi Wago and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 27 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Daichi Wago and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 26 upcoming nights, 
 | Mon, 20 Jul 2026 | conatala & calax records presents 【KiMiMi 「ИМА (IMA)」 Release Party】 |  |
 | Thu, 23 Jul 2026 | 'METAL' | suppa micro panchop |
 | Fri, 24 Jul 2026 | 'Rumble#48' |  |
-| Sun, 26 Jul 2026 | anxiousrei 1st Album【ST INDULGENCE】Release Party |  |
+| Sat, 25 Jul 2026 | ''''''''INITIAL IMPULSE'''''''' |  |
 
 ## Address
 
