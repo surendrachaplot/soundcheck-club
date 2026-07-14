@@ -1,6 +1,6 @@
 # Skint: Anniversary at Trans-Pecos
 
-Skint: Anniversary at Trans-Pecos on Sat 8 Aug, Newyorkcity. 6 acts on the bill: Babypufff, CalvoMusic, Craic Feen and Poisonfrog and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Skint: Anniversary at Trans-Pecos on Sat 8 Aug, Newyorkcity. 6 acts on the bill: Babypufff, CalvoMusic, Craic Feen and Poisonfrog and 2 more. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
+Eli Brown is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
 
-Eli Brown is a techno and house artist tracked on soundcheck, with 145 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
+Eli Brown is a techno and house artist tracked on soundcheck, with 146 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Eli Brown is a techno and house artist tracked on soundcheck, with 145 sets logg
 | Fri, 7 Aug 2026 | Big Night Live | Boston |
 | Fri, 11 Sept 2026 | Akvárium Klub | Budapest |
 | Mon, 14 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 25 Sept 2026 | Factory Town | Miami |
 | Sat, 26 Sept 2026 | The Concourse Project | Austin |
 
 ## Recently played

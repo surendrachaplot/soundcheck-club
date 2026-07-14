@@ -11,7 +11,7 @@ Unveiled is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 | Fri, 17 Jul 2026 | GOOD BOY | LOFTUS, Ryan Farr |
 | Sat, 18 Jul 2026 | Pablo Fierro @ UNVEILED | Pablo Fierro |
 | Sat, 18 Jul 2026 | Pablo Fierro 07/18 |  |
-| Sat, 18 Jul 2026 | Pablo Fierro w. T-Puse & Alexandros | Pablo Fierro, T-Puse |
+| Sat, 18 Jul 2026 | Pablo Fierro w. T-Puse & Alexandros *After Dark* | Pablo Fierro, T-Puse |
 
 ## Address
 

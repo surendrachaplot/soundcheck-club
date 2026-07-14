@@ -1,13 +1,14 @@
 # Jazzy (IRL)
 
-Jazzy (IRL) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 8 Sept 2026.
+Jazzy (IRL) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at UNLOCKED, London on Thu, 16 Jul 2026.
 
-Jazzy (IRL) is a house and tech house artist based in Ireland, tracked on soundcheck, with 14 sets logged across Amsterdam, Austin, Belfast and Boston and 8 more. Often billed alongside Badger (UK), Hedex and 4am Kru. Next up: Hï Ibiza, Ibiza on Tue 8 Sept.
+Jazzy (IRL) is a house and tech house artist based in Ireland, tracked on soundcheck, with 15 sets logged across Amsterdam, Austin, Belfast and Boston and 8 more. Often billed alongside Badger (UK), Chris Lorenzo and Hedex. Next up: UNLOCKED, London on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 16 Jul 2026 | UNLOCKED | London |
 | Tue, 8 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Sat, 10 Oct 2026 | Spybar | Chicago |
@@ -26,6 +27,6 @@ Jazzy (IRL) is a house and tech house artist based in Ireland, tracked on soundc
 
 ## Shares bills with
 
-Badger (UK), Hedex, 4am Kru
+Badger (UK), Chris Lorenzo, Hedex
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyirl/)*

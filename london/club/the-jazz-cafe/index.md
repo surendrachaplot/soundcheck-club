@@ -14,7 +14,7 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 55 upcoming night
 | Thu, 16 Jul 2026 | Afriquoi (Full Live Band) |  |
 | Fri, 17 Jul 2026 | History of UK Pirate Radio: Heartless Crew & Friends (UK Garage Special) |  |
 | Sat, 18 Jul 2026 | Soul City: House Music Every Saturday Night |  |
-| Sat, 18 Jul 2026 | HOMOELECTRIC at Jazz Cafe |  |
+| Sat, 18 Jul 2026 | HOMOELECTRIC with Jamie Bull & Supernature Disco at Jazz Cafe | Jamie Bull, Supernature Disco |
 | Tue, 21 Jul 2026 | Lalalar | Lalalar |
 | Thu, 23 Jul 2026 | Bushman |  |
 | Fri, 24 Jul 2026 | Carl Craig (All Night Long) | Carl Craig |

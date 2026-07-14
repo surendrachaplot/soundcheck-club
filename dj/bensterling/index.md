@@ -1,13 +1,14 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 21 Jul 2026.
+Ben Sterling is a Tech House and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside Marco Carola, Dennis Cruz and Ms. Mada. Next up: Hï Ibiza, Ibiza on Tue 21 Jul.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside Marco Carola, Dennis Cruz and Ms. Mada. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Brooklyn Army Terminal | New York City |
 | Tue, 21 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Hï Ibiza | Ibiza |
 | Sun, 26 Jul 2026 | UNO MALTA | Malta |
@@ -19,7 +20,6 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 181 se
 | Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
 | Sat, 12 Sept 2026 | California Plaza | Los Angeles |
 | Sun, 13 Sept 2026 | Beach House San Diego | San Diego |
-| Fri, 25 Sept 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

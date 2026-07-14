@@ -1,6 +1,6 @@
 # Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE at Jupiter Disco
 
-Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE at Jupiter Disco on Wed 22 Jul, Newyorkcity. 2 acts on the bill: NURAKAI and Sona. Preview the line-up and save it on soundcheck.
+Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE at Jupiter Disco on Wed 22 Jul, Newyorkcity. 3 acts on the bill: EVOLEYELOVE, NURAKAI and Sona. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE at Jupiter Disco on Wed 22 
 
 ## Line-up
 
+- EVOLEYELOVE
 - NURAKAI
 - Sona
 

@@ -2,7 +2,7 @@
 
 La Plaza Cultural is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SWEAT IN MOTION" on Tue, 14 Jul 2026.
 
-La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 674 East 9th Street, New York, NY 10009.
+La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Elle Dee and Hassan. Browse upcoming dates, start times and who's playing. 674 East 9th Street, New York, NY 10009.
 
 ## What's on
 
@@ -11,7 +11,7 @@ La Plaza Cultural is a music venue in Newyorkcity listed on soundcheck. 8 upcomi
 | Tue, 14 Jul 2026 | SWEAT IN MOTION |  |
 | Wed, 15 Jul 2026 | WEEKNIGHT SWEAT |  |
 | Thu, 16 Jul 2026 | WEEKNIGHT SWEAT |  |
-| Sat, 18 Jul 2026 | SWEAT #10: A Sauna & Sound Pop Up [Sat + Sun] |  |
+| Sat, 18 Jul 2026 | SWEAT #10: A Sauna & Sound Pop Up [Sat + Sun] | Elle Dee, Hassan |
 | Tue, 21 Jul 2026 | QUEER NIGHT @ CUL DE SAC |  |
 | Wed, 22 Jul 2026 | PACE + PRESENCE |  |
 | Thu, 23 Jul 2026 | WEEKNIGHT SWEAT |  |

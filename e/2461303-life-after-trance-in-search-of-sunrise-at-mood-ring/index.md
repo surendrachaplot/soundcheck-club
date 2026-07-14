@@ -1,6 +1,6 @@
 # LIFE AFTER TRANCE: IN SEARCH OF SUNRISE at Mood Ring
 
-LIFE AFTER TRANCE: IN SEARCH OF SUNRISE at Mood Ring on Sat 25 Jul, Newyorkcity. 4 acts on the bill: ASTER (DJ), CYNTHESZR, DJ Try (US) and Pirate Radio. Trance and Techno. Preview the line-up and save it on soundcheck.
+LIFE AFTER TRANCE: IN SEARCH OF SUNRISE at Mood Ring on Sat 25 Jul, Newyorkcity. 5 acts on the bill: ASTER (DJ), CYNTHESZR, DJ Try (US) and Pirate Radio and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ LIFE AFTER TRANCE: IN SEARCH OF SUNRISE at Mood Ring on Sat 25 Jul, Newyorkcity.
 - CYNTHESZR
 - DJ Try (US)
 - Pirate Radio
+- Samuelx
 
 *Source: [soundcheck](https://soundcheck.club/e/2461303-life-after-trance-in-search-of-sunrise-at-mood-ring/)*

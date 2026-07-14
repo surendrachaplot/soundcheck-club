@@ -1,8 +1,8 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Empire Stage, New York City on Sat, 18 Jul 2026.
+Syd (US) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Empire Stage, New York City on Sat, 18 Jul 2026.
 
-Syd (US) is a club and techno artist tracked on soundcheck, with 81 sets logged across Boston, Chicago, Detroit and Losangeles and 7 more. Often billed alongside NATALIA., Tromac and kabir.. Next up: Empire Stage, Newyorkcity on Sat 18 Jul.
+Syd (US) is a club and techno artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Detroit and Losangeles and 7 more. Often billed alongside NATALIA., Tromac and kabir.. Next up: Empire Stage, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Syd (US) is a club and techno artist tracked on soundcheck, with 81 sets logged 
 | Sat, 18 Jul 2026 | Empire Stage | New York City |
 | Sat, 18 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 25 Jul 2026 | Monarch | San Francisco/Oakland |
+| Tue, 11 Aug 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

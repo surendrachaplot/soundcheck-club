@@ -1,8 +1,8 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Kim Anh, Sissies of Mercy, Refrakt, Clubsásta - Dead Letter No.9" on Fri, 17 Jul 2026.
+Dead Letter No. 9 is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Kim Anh, Sissies of Mercy, Refrakt, Clubsásta - Dead Letter No.9" on Fri, 17 Jul 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alissa Brianna, BIGTER, Carozilla and CatLadyHi and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Alissa Brianna, Bea Trinidad, BIGTER and Blvck Truffle and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcom
 | Sat, 25 Jul 2026 | Victor Simonelli, CHRIS LEWIS, TEE EM DEE, D'Sean - Dead Letter No.9 | CHRIS LEWIS, D'Sean, TEE EM DEE, Victor Simonelli |
 | Sat, 25 Jul 2026 | Carozilla, Jinmoo, BIGTER (Kompakt Records), James Park - Dead Letter No.9 | BIGTER, Carozilla, James Park. |
 | Fri, 31 Jul 2026 | Ultra Violet, Sailor Goon, SMURFOUDIRTY - Dead Letter No.9 | DJ Ultra Violet, SMURFOUDIRTY |
-| Fri, 7 Aug 2026 | Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more | CatLadyHi, Eric Modz, Miss Hazard, Orson.NYC |
+| Sat, 1 Aug 2026 | The Disco Express: Blvck Truffle, Bea Trinidad, Bustin' Loose, Roland & Brother Rich | Bea Trinidad, Blvck Truffle, Bustin' Loose, Roland & Brother Rich |
 
 ## Address
 

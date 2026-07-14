@@ -13,7 +13,7 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 30 upcoming 
 | Fri, 17 Jul 2026 | Aya, AG [NYC], Omar Ludwig | AG (NYC), Omar Ludwig |
 | Sat, 18 Jul 2026 | Lauren Murada + Flirt Reynolds | Lauren Murada |
 | Sun, 19 Jul 2026 | ROOTWERQ: Ameera (Det), Niyah West, 'SHAUNIE' | Ameera, Niyah West, SHAUNIE |
-| Wed, 22 Jul 2026 | Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE | NURAKAI, Sona |
+| Wed, 22 Jul 2026 | Soundbites: NURAKAI, e_on, NAYSAY, Sona, EVOLEYELOVE | EVOLEYELOVE, NURAKAI, Sona |
 | Thu, 23 Jul 2026 | Sunni D + Arjun Shah |  |
 | Fri, 24 Jul 2026 | Pleasure Jams All Night Long | Pleasure Jams |
 | Sat, 25 Jul 2026 | Cecily + Heidy P | Heidy P |

@@ -1,13 +1,14 @@
 # KinAhau
 
-KinAhau is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+KinAhau is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
 
-KinAhau is a house and tech house artist based in Mexico, tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside Beltran, Danyelino and Ben Sterling. Next up: Union Park, Chicago on Fri 4 Sept.
+KinAhau is a house and tech house artist based in Mexico, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside Beltran, Danyelino and Ben Sterling. Next up: Elsewhere, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Elsewhere | New York City |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | Jolene Downtown Miami | Miami |
 

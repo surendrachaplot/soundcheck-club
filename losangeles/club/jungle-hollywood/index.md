@@ -10,7 +10,7 @@ Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 3 upcoming
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | Clinic x Native Boundaries |  |
 | Sat, 18 Jul 2026 | Deep House Brunch: World Cup Edition | JJ Flores, Scotty Boy |
-| Sun, 19 Jul 2026 | The Breakfast Club with Marques Wyatt, Colette, Patricio and J-Dub | DJ Colette, Danny B (LA), Derrick Wize, J-Dub, Mark London (Mark Lewis), Marques Wyatt |
+| Sun, 19 Jul 2026 | Marques Wyatt, Colette, Patricio, Mark Lewis, J-Dub, Derrick Wize & Danny B at Jungle | DJ Colette, Danny B (LA), Derrick Wize, J-Dub, Mark London (Mark Lewis), Marques Wyatt |
 
 ## Address
 

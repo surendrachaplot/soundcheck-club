@@ -1,14 +1,15 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cova Santa, Ibiza on Tue, 14 Jul 2026.
+RUZE is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cova Santa, Ibiza on Tue, 14 Jul 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Dennis Quin. Next up: Cova Santa, Ibiza on Tue 14 Jul.
+RUZE is a house and tech house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Dennis Quin. Next up: Cova Santa, Ibiza on Tue 14 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 14 Jul 2026 | Cova Santa | Ibiza |
+| Thu, 16 Jul 2026 | UNLOCKED | London |
 | Fri, 21 Aug 2026 | Elsewhere | New York City |
 | Sat, 22 Aug 2026 | Hornblower Spirit | San Francisco/Oakland |
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |

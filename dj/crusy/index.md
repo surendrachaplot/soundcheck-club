@@ -1,13 +1,14 @@
 # Crusy
 
-Crusy is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Night We Met, Nashville on Sat, 1 Aug 2026.
+Crusy is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Superior Ingredients, New York City on Sun, 19 Jul 2026.
 
-Crusy is a house and tech house artist based in Spain, tracked on soundcheck, with 30 sets logged across Boston, Chicago, Detroit and Ibiza and 11 more. Often billed alongside Tony Romera, AAfrAA and Claptone. Next up: Night We Met, Nashville on Sat 1 Aug.
+Crusy is a house and tech house artist based in Spain, tracked on soundcheck, with 31 sets logged across Boston, Chicago, Detroit and Ibiza and 11 more. Often billed alongside Tony Romera, AAfrAA and Claptone. Next up: Superior Ingredients, Newyorkcity on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | Superior Ingredients | New York City |
 | Sat, 1 Aug 2026 | Night We Met | Nashville |
 | Sun, 2 Aug 2026 | Coda | Toronto |
 | Thu, 20 Aug 2026 | Hï Ibiza | Ibiza |

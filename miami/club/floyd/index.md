@@ -11,7 +11,7 @@ Floyd is a music venue in Miami listed on soundcheck. 14 upcoming nights, with l
 | Fri, 17 Jul 2026 | Discip | Danyelino, Ms. Mada |
 | Sun, 19 Jul 2026 | Julya Karma + Whitesquare | Julya Karma, Whitesquare |
 | Fri, 24 Jul 2026 | William Kiss + Jordan Brando | Bakke, CHAOS!, Jordan Brando, William Kiss |
-| Sat, 25 Jul 2026 | TEED DJ-Kicks Tour | Cami di Marzo, Kabinett, TEED |
+| Sat, 25 Jul 2026 | TEED DJ-Kicks Tour | Cami di Marzo, Kabinett, SIEGEL (2), TEED |
 | Sun, 26 Jul 2026 | House Hats: Murphy's Law | MEGUSTA, Marte (US), Murphy's Law |
 | Fri, 31 Jul 2026 | Cécille Showcase | Andrew Azara, Lousy Lover, Ms. Mada, Nick Curly |
 | Sat, 1 Aug 2026 | Sistek | Nii Tei, SIEGEL (2), Sistek |

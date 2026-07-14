@@ -1,8 +1,8 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Olof Dreijer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 22 Aug 2026 | The Pitt Market | Edinburgh |
+| Sat, 26 Sept 2026 | Knockdown Center | New York City |
 
 ## Recently played
 
