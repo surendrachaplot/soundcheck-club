@@ -1,13 +1,14 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Salon Daomé, Montreal on Fri, 7 Aug 2026.
+DJ Perception is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gaffe, London on Sat, 18 Jul 2026.
 
-DJ Perception is a garage and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 12 more. Often billed alongside Lady Passion, Jeremy Sylvester and Dexta. Next up: Salon Daomé, Montreal on Fri 7 Aug.
+DJ Perception is a garage and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 12 more. Often billed alongside Lady Passion, Jeremy Sylvester and Dexta. Next up: Gaffe, London on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Gaffe | London |
 | Fri, 7 Aug 2026 | Salon Daomé | Montreal |
 | Fri, 14 Aug 2026 | TBA - DTLA | Los Angeles |
 | Sat, 15 Aug 2026 | Public Works | San Francisco/Oakland |

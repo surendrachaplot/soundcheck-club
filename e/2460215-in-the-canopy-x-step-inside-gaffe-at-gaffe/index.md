@@ -1,6 +1,6 @@
 # In The Canopy x Step Inside @ Gaffe at Gaffe
 
-In The Canopy x Step Inside @ Gaffe on Sat 18 Jul, London. 4 acts on the bill: Jelsen, Jeremy Sylvester, Lewis Carroll and MUNNI. House and Garage. Preview the line-up and save it on soundcheck.
+In The Canopy x Step Inside @ Gaffe on Sat 18 Jul, London. 5 acts on the bill: DJ Perception, Jelsen, Jeremy Sylvester and Lewis Carroll and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ In The Canopy x Step Inside @ Gaffe on Sat 18 Jul, London. 4 acts on the bill: J
 
 ## Line-up
 
+- DJ Perception
 - Jelsen
 - Jeremy Sylvester
 - Lewis Carroll

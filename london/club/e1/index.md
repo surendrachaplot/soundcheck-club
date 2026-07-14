@@ -10,7 +10,7 @@ E1 is a music venue in London listed on soundcheck. 38 upcoming nights, with lin
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | England vs Argentina World Cup Semi Final + After Party | Johnny Fiore |
 | Fri, 17 Jul 2026 | ALIVE: DJ GUESTLIST & Trancemaster Krause | Becky Stroke, DJ GUESTLIST, Trancemaster Krause |
-| Fri, 17 Jul 2026 | ELECTRONIC MISCHIEF | Charlotte Devaney, DJ Millz, Devious D, Holly Rouge, J Dragon, QUEEN JRK, TILLY (2), The Ragga Twins |
+| Fri, 17 Jul 2026 | ELECTRONIC MISCHIEF | Charlotte Devaney, DJ Millz, Devious D, Holly Rouge, J Dragon, QUEEN JRK, SEBADEE, TILLY (2), The Ragga Twins |
 | Sat, 18 Jul 2026 | Group Therapy London | Abiodun, Aniko, Ape Drums, DJ Kwamzy, Duo, JAYEL, OneThabs |
 | Wed, 22 Jul 2026 | England vs Argentina World Cup Semi Final + After Party | Johnny Fiore |
 | Fri, 24 Jul 2026 | Cultura & Friend's |  |

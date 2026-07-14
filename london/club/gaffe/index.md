@@ -8,7 +8,7 @@ Gaffe is a music venue in London listed on soundcheck. 15 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | In The Canopy x Step Inside @ Gaffe | Jelsen, Jeremy Sylvester, Lewis Carroll, MUNNI |
+| Sat, 18 Jul 2026 | In The Canopy x Step Inside @ Gaffe | DJ Perception, Jelsen, Jeremy Sylvester, Lewis Carroll, MUNNI |
 | Sun, 19 Jul 2026 | SlapFunk London (Open Air + Warehouse Party) | DJ Senc, Doudou MD, Isaac Carter, Laidlaw, Terry Francis, Yass & Mali |
 | Sat, 25 Jul 2026 | Semi Delicious - Day into Night: Demi Riquisimo, Eden Burns, Aldonna, Lulah Francs & more | Aldonna, B.Love, Demi Riquisimo, Eden Burns, Jhobei, Jive Talk, Lulah Francs, Michelle Manetti |
 | Sat, 1 Aug 2026 | Gaffe x Late Night Shopper present Vladimir Ivkovic, Kristana May (live), Allecto & Luca Gaffe | Allecto, Kristina May, Luca Gaffe, Vladimir Ivkovic |
