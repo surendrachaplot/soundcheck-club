@@ -10,7 +10,7 @@ Battersea Barge is a music venue in London listed on soundcheck. 3 upcoming nigh
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Yamatai x Heavy Sonics x Makino: Summer Session | Primitive Instinct, Sustance, Total Science |
 | Sat, 18 Jul 2026 | Yamatai X Heavy Sonics X Makino: Summer Session | Chamba, Dove (UK), Primitive Instinct, Sustance, Total Science |
-| Sun, 9 Aug 2026 | Necropolis Festival: Pirate Rave  | Arrosa, Claudia Kane, DungeonMaster, JON KRIEGER, Jane Darke, Leviminks |
+| Sun, 9 Aug 2026 | Necropolis Festival: Pirate Rave  | Arrosa, Claudia Kane, DungeonMaster, JON KRIEGER, Jane Darke, Leviminks, Ricardo Castro |
 
 ## Address
 

@@ -9,7 +9,7 @@ The Old Church is a music venue in London listed on soundcheck. 3 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Testing the Water presents: Tristan Arp & yingtuitive, Ecka Mordecai, Ru (12th isle) | Tristan Arp, yingtuitive |
-| Sat, 25 Jul 2026 | Necropolis Festival - Day Time Church Rave | Arrosa, Die Verletzt, LIZAZA, Leviminks |
+| Sat, 25 Jul 2026 | Necropolis Festival - Day Time Church Rave | Arrosa, Die Verletzt, LIZAZA, Leviminks, Ricardo Castro |
 | Fri, 31 Jul 2026 | Meditations on Ruins: Beatrice M. presents 'Everything reminds me of dubstep' and Sharnie | Beatrice M., Sharnie |
 
 ## Address

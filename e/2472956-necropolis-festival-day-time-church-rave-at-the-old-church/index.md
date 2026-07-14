@@ -1,6 +1,6 @@
 # Necropolis Festival - Day Time Church Rave at The Old Church
 
-Necropolis Festival - Day Time Church Rave at The Old Church on Sat 25 Jul, London. 4 acts on the bill: Arrosa, Die Verletzt, LIZAZA and Leviminks. Techno and EBM. Preview the line-up and save it on soundcheck.
+Necropolis Festival - Day Time Church Rave at The Old Church on Sat 25 Jul, London. 5 acts on the bill: Arrosa, Die Verletzt, LIZAZA and Leviminks and 1 more. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Necropolis Festival - Day Time Church Rave at The Old Church on Sat 25 Jul, Lond
 - Die Verletzt
 - LIZAZA
 - Leviminks
+- Ricardo Castro
 
 *Source: [soundcheck](https://soundcheck.club/e/2472956-necropolis-festival-day-time-church-rave-at-the-old-church/)*

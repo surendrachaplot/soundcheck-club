@@ -22,7 +22,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
   <link rel="stylesheet" href="/app.e12e85a33748.css">
-<meta name="sc-build" content="1783989170827">
+<meta name="sc-build" content="1783989807500">
 <meta name="description" content="Circle Presents at 45 London on Fri 28 Aug, London. 4 acts on the bill: Azire, Eni (3), Frenchhh and MXT (UK). House and Deep House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2487158-circle-presents-at-45-london/">
 <meta property="og:type" content="website">
@@ -30,10 +30,10 @@
 <meta property="og:title" content="Circle Presents at 45 London — line-up &amp; tickets | soundcheck">
 <meta property="og:description" content="Circle Presents at 45 London on Fri 28 Aug, London. 4 acts on the bill: Azire, Eni (3), Frenchhh and MXT (UK). House and Deep House. Preview the line-up and save it on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/e/2487158-circle-presents-at-45-london/">
-<meta property="og:image" content="https://soundcheck.club/og-default.png">
-<meta name="twitter:image" content="https://soundcheck.club/og-default.png">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F07b6b2b27351bb582e9fd93d55c3baf938bd84e7.jpg&amp;w=1000">
+<meta name="twitter:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F07b6b2b27351bb582e9fd93d55c3baf938bd84e7.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Circle Presents","url":"https://soundcheck.club/e/2487158-circle-presents-at-45-london/","description":"Circle Presents at 45 London on Fri 28 Aug, London. 4 acts on the bill: Azire, Eni (3), Frenchhh and MXT (UK). House and Deep House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-28","location":{"@type":"MusicVenue","name":"45 London"},"performer":[{"@type":"MusicGroup","name":"Azire"},{"@type":"MusicGroup","name":"Eni (3)"},{"@type":"MusicGroup","name":"Frenchhh"},{"@type":"MusicGroup","name":"MXT (UK)"}]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Circle Presents","url":"https://soundcheck.club/e/2487158-circle-presents-at-45-london/","description":"Circle Presents at 45 London on Fri 28 Aug, London. 4 acts on the bill: Azire, Eni (3), Frenchhh and MXT (UK). House and Deep House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-28","location":{"@type":"MusicVenue","name":"45 London"},"performer":[{"@type":"MusicGroup","name":"Azire"},{"@type":"MusicGroup","name":"Eni (3)"},{"@type":"MusicGroup","name":"Frenchhh"},{"@type":"MusicGroup","name":"MXT (UK)"}],"image":"https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F07b6b2b27351bb582e9fd93d55c3baf938bd84e7.jpg&w=1000"}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"London","item":"https://soundcheck.club/london/"},{"@type":"ListItem","position":3,"name":"Circle Presents"}]}</script>
 </head>
 <body>
@@ -204,6 +204,7 @@
       the sheet, .evc-play queues the line-up, .heart[data-pick-evt] saves). */
 (function(){
   try{ if(/Android/i.test(navigator.userAgent||'')) document.documentElement.style.zoom='0.9'; }catch(_){}
+  function init(){
   if(typeof cardHTML!=='function' || typeof paintCurrentGrid!=='function') return;
   var MQ=window.matchMedia('(max-width:640px)');
   var origCard=window.cardHTML, painting=false;
@@ -241,6 +242,12 @@
     var onchg=function(){ try{ window.paintCurrentGrid(); }catch(_){} };
     if(MQ.addEventListener) MQ.addEventListener('change',onchg); else if(MQ.addListener) MQ.addListener(onchg);
   }catch(_){}
+  }
+  /* On prod the app script is a DEFERRED bundle that runs after this inline
+     script parses — wait for DOMContentLoaded (fires after deferred scripts).
+     On full-inline shells (next) the app already exists, so init runs now. */
+  if(typeof cardHTML==='function') init();
+  else document.addEventListener('DOMContentLoaded', init);
 })();
 </script>
 </body>

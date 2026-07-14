@@ -1,6 +1,6 @@
 # CONCRETE FISH RAVE 2 + SCREENING at Dalston Den
 
-CONCRETE FISH RAVE 2 + SCREENING at Dalston Den on Fri 24 Jul, London. Techno and EBM. Preview the line-up and save it on soundcheck.
+CONCRETE FISH RAVE 2 + SCREENING at Dalston Den on Fri 24 Jul, London. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

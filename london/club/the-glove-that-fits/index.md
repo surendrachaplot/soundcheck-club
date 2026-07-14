@@ -14,7 +14,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 12 upcoming
 | Sat, 25 Jul 2026 | Circa Groove Invites: DJ Tjizza [Mood Waves / Tanzform] | DJ Tjizza, Jiminy Watts, Rupert Ellis, Will Mellor |
 | Fri, 31 Jul 2026 | Custard Soup: Vol 3 - with special guest Nissan Micro Pig (Pzyk Gürls) | Custard Soup |
 | Sat, 8 Aug 2026 | PINHOLE x KHAZAD RECORDS | Aero (1), Balrog, Lockhart, SIOBHAN., TILEBOI |
-| Sun, 9 Aug 2026 | Fossil Archive presents: Lineup Tbc | R.M.K |
+| Sun, 9 Aug 2026 | Fossil Archive presents: Mosai, OllyK, R.M.K | Mosai, OllyK, R.M.K |
 | Sat, 22 Aug 2026 | Dinamplatz with Rrose, Random Factor & Nik Colk Void | Datassette, Equinox (UK), Kid Drama, Monoak, Nik Colk Void, No data available, Random Factor, Rrose, Spatial, Strepsil, T-Flex, TVO |
 | Sun, 23 Aug 2026 | SPLDN#002 |  |
 | Fri, 28 Aug 2026 | 7005 |  |
