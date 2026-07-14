@@ -1,6 +1,6 @@
 # HEAT by UNDR - Kinky House & Techno Party at Insomnia
 
-HEAT by UNDR - Kinky House & Techno Party at Insomnia on Fri 21 Aug, Berlin. 4 acts on the bill: Bäggy, Mike La Funk, NDNA and Wiebe Roose. House and Tech House. Preview the line-up and save it on soundcheck.
+HEAT by UNDR - Kinky House & Techno Party at Insomnia on Fri 21 Aug, Berlin. 5 acts on the bill: Bäggy, Mike La Funk, NDNA and ROBSCH and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ HEAT by UNDR - Kinky House & Techno Party at Insomnia on Fri 21 Aug, Berlin. 4 a
 - Bäggy
 - Mike La Funk
 - NDNA
+- ROBSCH
 - Wiebe Roose
 
 *Source: [soundcheck](https://soundcheck.club/e/2379537-heat-by-undr-kinky-house-techno-party-at-insomnia/)*

@@ -2,7 +2,7 @@
 
 AUDIO DUNE is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Volks, Brighton on Sat, 1 Aug 2026.
 
-AUDIO DUNE is a garage and jungle artist tracked on soundcheck, with 45 sets logged across Brighton and London. Often billed alongside RACH!, JAY-MO and warmluke. Next up: Volks, Brighton on Sat 1 Aug.
+AUDIO DUNE is a garage and jungle artist tracked on soundcheck, with 45 sets logged across Brighton and London. Often billed alongside RACH!, warmluke and JAY-MO. Next up: Volks, Brighton on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ AUDIO DUNE is a garage and jungle artist tracked on soundcheck, with 45 sets log
 
 ## Shares bills with
 
-RACH!, JAY-MO, warmluke
+RACH!, warmluke, JAY-MO
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audiodune/)*

@@ -1,8 +1,8 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Else, Berlin on Sun, 19 Jul 2026.
+Fafi Abdel Nour is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Else, Berlin on Sun, 19 Jul 2026.
 
-Fafi Abdel Nour is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Jennifer Loveless, Shanti Celeste and Octo Octa. Next up: Else, Berlin on Sun 19 Jul.
+Fafi Abdel Nour is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Jennifer Loveless, Shanti Celeste and Octo Octa. Next up: Else, Berlin on Sun 19 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Fafi Abdel Nour is a house and techno artist tracked on soundcheck, with 200 set
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Trädgården | Stockholm |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 7 Aug 2026 | export | Rotterdam |
 | Sat, 8 Aug 2026 | Den Anden Side | Copenhagen |
 | Sat, 22 Aug 2026 | Buda BXL | Brussels |
 | Sun, 30 Aug 2026 | Ijburg | Amsterdam |

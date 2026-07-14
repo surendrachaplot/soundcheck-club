@@ -2,7 +2,7 @@
 
 sooyeon is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Last Arch, London on Fri, 17 Jul 2026.
 
-sooyeon is a bass and club artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bangkok, London and Seoul. Often billed alongside Akira (Buntai), Arexibo and Baobei. Next up: Last Arch, London on Fri 17 Jul.
+sooyeon is a bass and club artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bangkok, London and Seoul. Often billed alongside 7ip7o3, Akira (Buntai) and Arexibo. Next up: Last Arch, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ sooyeon is a bass and club artist based in United Kingdom, tracked on soundcheck
 
 ## Shares bills with
 
-Akira (Buntai), Arexibo, Baobei
+7ip7o3, Akira (Buntai), Arexibo
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sooyeon/)*

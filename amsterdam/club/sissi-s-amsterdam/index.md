@@ -8,7 +8,7 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian | Dam Swindle, Mixolydian |
+| Fri, 17 Jul 2026 | Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian | Dam Swindle, Eileen (NL), Mixolydian |
 | Sat, 18 Jul 2026 | Sissi's Saturday with Alec Dienaar, Lacatay, Mathijs Smit, Nathan Homan | Alec Dienaar, Mathijs Smit, Nathan Homan |
 | Fri, 24 Jul 2026 | Sissi's Friday with Pirate Radio, Leroy Rey, Emma Champagne Queen | CHEM:EX, Cromby, Emma Champagne Queen, Leroy Rey, mckelv |
 | Sat, 25 Jul 2026 | Het Syndicaat |  |

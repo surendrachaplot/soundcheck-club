@@ -11,7 +11,7 @@ The Bassement is a music venue in Madrid listed on soundcheck. 4 upcoming nights
 | Fri, 17 Jul 2026 | KELLER HARD CLUB 37: 6EJOU | 6EJOU, Nico Bondi, Sora Éke |
 | Sat, 18 Jul 2026 | Laster Club presents THE CLOSING with Ben Sims, Fireground Live & Varju | Ben Sims, Fireground, Varju |
 | Sat, 5 Sept 2026 | Laster Club presents THE OPENING with MARRØN, DJ TOOL & LISTZ | DJ TOOL, Liszt, MARRØN |
-| Sat, 26 Sept 2026 | Laster Club presents DVS1 invites NEW TALENT | DVS1 |
+| Sat, 26 Sept 2026 | Laster Club presents DVS1 invites  | DVS1, Lindsey Herbert, Metapattern |
 
 ## Address
 
