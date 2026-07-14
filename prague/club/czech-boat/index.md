@@ -10,8 +10,8 @@ Czech Boat is a music venue in Prague listed on soundcheck. 4 upcoming nights, w
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | SOTD x Mikro Boat 2026 ≋ | Lucas Hulan, Stessie Tfgn |
 | Sat, 1 Aug 2026 | Generate Boat | Hugorieri, Ondrej K, Zissou |
-| Sat, 22 Aug 2026 | Mikro Boat 2026 ≋ | Coco |
-| Sat, 12 Sept 2026 | Mikro Boat 2026 ≋ |  |
+| Sat, 22 Aug 2026 | Mikro Boat 2026 ≋ | Coco, Lucas Hulan |
+| Sat, 12 Sept 2026 | Mikro Boat 2026 ≋ | Schneider Lounge |
 
 ## Address
 

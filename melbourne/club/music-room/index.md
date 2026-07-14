@@ -9,7 +9,7 @@ Music Room is a music venue in Melbourne listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Make House Deep Again | Acid Safari, Anima Omada, Dylan Griffin, Yarra (2) |
-| Thu, 30 Jul 2026 | Inner Tribe presents: Music Room | Alex Vieira, Inkswel |
+| Thu, 30 Jul 2026 | Inner Tribe Records TakeOver: Music Room | Alex Vieira, Inkswel |
 
 ## Address
 

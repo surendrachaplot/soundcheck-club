@@ -341,17 +341,18 @@
     <section class="ds-sec" id="color">
       <div class="ds-eyebrow">Foundations</div>
       <h2>Color</h2>
-      <p class="ds-p">A near-black room with a single warm salmon spotlight. Salmon (<code>--accent</code>) is the <b>only</b> hue with meaning — it marks anything interactive, selected, or "yours". Everything else is greyscale so the accent never has to compete.</p>
+      <p class="ds-p">A dusk-purple room with two hues that mean something. The sunset gradient / orange (<code>--accent</code>) means <b>"press to play or act"</b> — it is reserved for the one primary action of a view and for play controls. Violet (<code>--sel</code>) means <b>"this is chosen / on"</b> — selected toggles, active dates, filters, tabs. Because the two jobs have two colours, a selected state can never clash with the page's CTA.</p>
 
       <div class="ds-swatches">
-        <div class="ds-sw"><div class="chip" style="background:#0f0f12"></div><div class="meta"><div class="nm">Background</div><div class="hex">#0f0f12 · --bg</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#1b1b20"></div><div class="meta"><div class="nm">Surface</div><div class="hex">#1b1b20 · --surface</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#28282f"></div><div class="meta"><div class="nm">Border</div><div class="hex">#28282f · --border</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#f3ece6"></div><div class="meta"><div class="nm">Foreground</div><div class="hex">#f3ece6 · --fg</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#9292a0"></div><div class="meta"><div class="nm">Muted</div><div class="hex">#9292a0 · --muted</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#ff7a6b"></div><div class="meta"><div class="nm">Accent (salmon)</div><div class="hex">#ff7a6b · --accent</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#1a0f0e"></div><div class="meta"><div class="nm">Ink on accent</div><div class="hex">#1a0f0e · --ink</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:#ff6b6b"></div><div class="meta"><div class="nm">Error</div><div class="hex">#ff6b6b</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#16102a"></div><div class="meta"><div class="nm">Background</div><div class="hex">#16102a · --bg</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#211840"></div><div class="meta"><div class="nm">Surface</div><div class="hex">#211840 · --surface</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#2a2050"></div><div class="meta"><div class="nm">Border</div><div class="hex">#2a2050 · --border</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#fdf3ec"></div><div class="meta"><div class="nm">Foreground</div><div class="hex">#fdf3ec · --fg</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#b8a8d0"></div><div class="meta"><div class="nm">Muted</div><div class="hex">#b8a8d0 · --muted</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:linear-gradient(135deg,#ff5e7e,#ff9a3d)"></div><div class="meta"><div class="nm">Primary gradient</div><div class="hex">#ff5e7e→#ff9a3d · --accent-grad</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#ff9a3d"></div><div class="meta"><div class="nm">Accent (sunset)</div><div class="hex">#ff9a3d · --accent</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#7c5cff"></div><div class="meta"><div class="nm">Selected (violet)</div><div class="hex">#7c5cff · --sel</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:#2a0d14"></div><div class="meta"><div class="nm">Ink on accent</div><div class="hex">#2a0d14 · --ink</div></div></div>
       </div>
 
       <h3 class="ds-h">Accent tints</h3>
@@ -369,8 +370,9 @@
         <tr><td><code>--border</code></td><td>1px hairlines, dividers, idle chip/button outlines</td></tr>
         <tr><td><code>--fg</code></td><td>Primary text, idle icons</td></tr>
         <tr><td><code>--muted</code></td><td>Secondary text, metadata, labels, idle controls</td></tr>
-        <tr><td><code>--accent</code></td><td>Interactive, selected, "mine", links, focus</td></tr>
-        <tr><td><code>--ink</code></td><td>Text/icons sitting <em>on</em> a salmon fill</td></tr>
+        <tr><td><code>--accent</code> / <code>--accent-grad</code></td><td>Play controls + the one primary CTA of a view; on-air / live states</td></tr>
+        <tr><td><code>--sel</code> / <code>--sel-weak</code></td><td>Selected toggles, active date tile, active filters/tabs/nav; hover hint on any toggleable control</td></tr>
+        <tr><td><code>--ink</code></td><td>Text/icons sitting <em>on</em> a gradient/accent fill (#2a0d14). Text on a violet fill is <code>--sel-ink</code> (#fff)</td></tr>
       </table>
       <div class="ds-note">Contrast rule: never put <code>--muted</code> text on <code>--surface</code> for anything essential — it's for de-emphasis only. Text on salmon is always <code>--ink</code> (#1a0f0e), never white.</div>
     </section>
@@ -510,7 +512,7 @@
     <section class="ds-sec" id="buttons">
       <div class="ds-eyebrow">Components</div>
       <h2>Buttons &amp; pills</h2>
-      <p class="ds-p">Almost everything is a <b>pill</b> (<code>border-radius:999px</code>). Three weights: solid salmon (primary), ghost outline (secondary), and bare text. Form/CTA buttons use a softer <code>10px</code> radius.</p>
+      <p class="ds-p">Button system v2 (2026-07-14). One grammar for every control, three questions decide the treatment: <b>does it play/act</b> (gradient), <b>is it a two-state toggle</b> (outline → violet fill), or <b>is it plumbing</b> (surface/ghost). All page-level play CTAs are labelled simply <b>&ldquo;Play&rdquo;</b> — never &ldquo;Tune in&rdquo; or &ldquo;Play next lineup&rdquo;.</p>
       <div class="ds-card ds-demo">
         <button class="follow-btn">Follow</button>
         <button class="follow-btn following">Following</button>
@@ -520,19 +522,21 @@
         <span class="sec-h" style="margin:0"><span class="more">All ›</span></span>
       </div>
       <table class="ds-tbl">
-        <tr><th>Variant</th><th>When</th></tr>
-        <tr><td>Solid salmon + ink text</td><td>The one primary action in a view (Follow, Share, Send link)</td></tr>
-        <tr><td>Ghost (border + fg)</td><td>Secondary action; hover turns salmon</td></tr>
-        <tr><td>Bare text (salmon)</td><td>Tertiary / "More ›" / inline links</td></tr>
+        <tr><th>Role</th><th>Unselected</th><th>Hover</th><th>Selected</th></tr>
+        <tr><td><b>Primary (Play)</b> — one per view</td><td>Gradient fill, dusk edge, ink text</td><td>brightness ↓ / saturate ↑</td><td>— (it acts, it doesn't select)</td></tr>
+        <tr><td><b>Toggle</b> — Follow, Interested, I'm going, Wanna see, I've been</td><td>Transparent, 1.5px <code>--line-2</code> border, fg text</td><td>Violet border + <code>--sel-weak</code> wash</td><td><code>--sel</code> fill, white text, ✓</td></tr>
+        <tr><td><b>Selection chip/tile</b> — dates, genres, filters, scopes, tabs</td><td>Surface-2, line border, muted text</td><td>Violet border, fg text</td><td><code>--sel</code> fill, white text</td></tr>
+        <tr><td><b>Utility</b> — Share, Tickets, Settings</td><td>Surface-2, line border</td><td>Surface-3 / violet hint</td><td>—</td></tr>
+        <tr><td><b>Icon toggle</b> — heart, bookmark, seen tick</td><td>Muted stroke</td><td>Violet</td><td>Violet fill</td></tr>
       </table>
-      <div class="ds-note">One solid salmon button per screen. If two CTAs sit together (e.g. Share / Copy), the secondary is always ghost.</div>
+      <div class="ds-note"><b>The rule:</b> gradient/orange = "press to play or act" (exactly one per view); violet = "this is chosen / on". Pressed = <code>scale(.96)</code> everywhere. Keyboard focus = violet ring on toggles/selection, sunset ring on primaries. Live/on-air states (radio pulse) stay orange — playing is an action-state, not a selection.</div>
     </section>
 
     <!-- ═══ TOGGLES ═══ -->
     <section class="ds-sec" id="toggles">
       <div class="ds-eyebrow">Components</div>
       <h2>Toggles &amp; switches</h2>
-      <p class="ds-p">Segmented switches and quick-chips share one selected state: <b>salmon fill, ink text</b>. Idle is bordered/muted.</p>
+      <p class="ds-p">Segmented switches, quick-chips, date tiles and the artist/profile <b>tab pills</b> share one selected state: <b>violet fill (<code>--sel</code>), white text</b>. Idle is bordered/muted; hover hints violet. Tab rows scroll horizontally with a right-edge fade (<code>.fp-tabs.fade-r</code>) whenever more pills sit offscreen — that fade is the discovery affordance.</p>
       <div class="ds-card" style="display:flex;flex-direction:column;gap:16px;align-items:flex-start">
         <div class="switch"><a class="on">6 Minutes</a><a>Soundcheck</a></div>
         <div class="ds-chip-row">
@@ -545,7 +549,7 @@
           <button class="qchip alt on"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5" fill="currentColor"/></svg>Under £15 <span style="opacity:.6">▾</span></button>
         </div>
       </div>
-      <div class="ds-note">Selected = salmon fill. Hover (idle) = salmon border + salmon text. The same grammar covers the nav site-switch, date quick-picks, calendar modes, and profile tabs.</div>
+      <div class="ds-note">Selected = violet fill. Hover (idle) = violet border. The same grammar covers the nav site-switch, date quick-picks, calendar modes, filters and the artist/profile tab pills — selection is always violet so it never competes with the page's Play CTA.</div>
       <div class="ds-note"><b>Filter chips</b> (<code>.qchip.alt</code> + leading icon + ▾) open a shared dropdown (<code>.genre-menu</code> / <code>.gm-item</code>) for one-of-many picks. Used by the home grid <b>Genre</b> and <b>Price</b> filters; the chip label reflects the active choice and the chip only appears when the filter is useful (≥2 genres / ≥3 priced events). Price tiers are currency-relative to the city in view.</div>
     </section>
 

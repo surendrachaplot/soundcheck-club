@@ -5,7 +5,7 @@ u/surendra (@surendra) has logged 30 club nights across 21 venues in 9 cities on
 - Nights logged: 30
 - Venues: 21
 - Cities: 9
-- Seen live: 111
+- Seen live: 113
 
 ## Most seen
 
