@@ -21,8 +21,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.97967992fb48.css">
-<meta name="sc-build" content="1783998254666">
+  <link rel="stylesheet" href="/app.d691f71fdfae.css">
+<meta name="sc-build" content="1784000174478">
 <meta name="description" content="RE/FORM presents Trip To Galaxy: Joris Voorn, LUIS MIRANDA, &amp; Materielle at TBA - Los Angeles on Sat 22 Aug, Losangeles. 3 acts on the bill: Joris Voorn, LUIS MIRANDA and Materielle. Techno. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2474930-re-form-presents-trip-to-galaxy-joris-voorn-luis-miranda-mat/">
 <meta property="og:type" content="website">
@@ -113,7 +113,6 @@
     <div class="panel">
       <div class="dock-grab" id="dock-grab" role="button" tabindex="0" aria-label="Expand or collapse player"><span></span></div>
       <div class="corner">
-        <button class="iconbtn" id="dock-full-btn" type="button" aria-label="Full-screen player"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg></button>
         <button class="iconbtn" id="dock-close" type="button" aria-label="Stop and close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button>
       </div>
       <div class="video-wrap" id="dock-media"></div>
@@ -196,7 +195,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.97967992fb48.js" defer></script>
+  <script src="/app.d691f71fdfae.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.
@@ -229,7 +228,7 @@
         +'</span>'
       +'</button>'
       +'<span class="lv-r">'
-        +(eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Save this event">'+BOOKMARK_SVG+'</button>':'')
+        +(eid?'<button class="heart evc-heart'+picked+'" type="button" data-pick-evt="'+esc(eid)+'" data-title="'+esc(ev.title||'')+'" data-venue="'+esc(ev.venue||'')+'" data-day="'+esc(ev._day||'')+'" aria-pressed="'+(picked?'true':'false')+'" aria-label="Interested">'+BOOKMARK_SVG+'</button>':'')
         +(eid&&arts.length?'<button class="evc-play" type="button" aria-label="Play the lineup"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>':'')
       +'</span></article>';
   }

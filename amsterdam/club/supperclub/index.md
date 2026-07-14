@@ -1,14 +1,15 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Source" on Thu, 16 Jul 2026.
+Supperclub is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Source" on Thu, 16 Jul 2026.
 
-Supperclub is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
+Supperclub is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Source |  |
+| Fri, 17 Jul 2026 | Truth: AfroHouse Edition |  |
 | Sat, 18 Jul 2026 | Favela Events |  |
 | Thu, 23 Jul 2026 | Source x Weekdays |  |
 | Sat, 25 Jul 2026 | Supper's House |  |
