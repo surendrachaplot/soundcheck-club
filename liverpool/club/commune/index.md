@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Make Your Move Chess at Commune" on Sun, 19 Jul 2026.
+Commune is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Make Your Move Chess at Commune" on Sun, 19 Jul 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, with line-ups including 4D (UK), Aly P, Fenn Piper and Kathryn and 2 more. Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -18,4 +18,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, w
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

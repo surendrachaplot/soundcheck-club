@@ -1,6 +1,6 @@
-# Rainbow Disco Club Nonstop: Isaac Carter, Kikiorix, Kilopatrah Jones, LADYMONIX + more at Nowadays
+# Rainbow Disco Club Nonstop: Isaac Carter, Kikiorix, Kilopatrah Jones, Rick Wilhite + more at Nowadays
 
-Rainbow Disco Club Nonstop: Isaac Carter, Kikiorix, Kilopatrah Jones, LADYMONIX + more at Nowadays on Sat 22 Aug, Newyorkcity. 6 acts on the bill: DJ Healthy, Isaac Carter, Kikiorix and Kilopatrah Jones and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Rainbow Disco Club Nonstop: Isaac Carter, Kikiorix, Kilopatrah Jones, Rick Wilhite + more at Nowadays on Sat 22 Aug, Newyorkcity. 6 acts on the bill: DJ Healthy, Isaac Carter, Kikiorix and Kilopatrah Jones and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

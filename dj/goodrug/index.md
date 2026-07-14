@@ -1,6 +1,6 @@
 # Goodrug
 
-Goodrug is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Blvck Water, Osaka on Wed, 15 Jul 2026.
+Goodrug is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Blvck Water, Osaka on Wed, 15 Jul 2026.
 
 Goodrug is a techno and acid artist based in Japan, tracked on soundcheck, with 73 sets logged across Brisbane and Osaka. Often billed alongside Rikuto, KCD(JP) and FENGX2. Next up: Blvck Water, Osaka on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Goodrug is a techno and acid artist based in Japan, tracked on soundcheck, with 
 
 Rikuto, KCD(JP), FENGX2
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goodrug/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goodrug/)*

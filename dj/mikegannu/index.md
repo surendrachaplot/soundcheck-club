@@ -1,6 +1,6 @@
 # Mike Gannu
 
-Mike Gannu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 14 Jul 2026.
+Mike Gannu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 14 Jul 2026.
 
 Mike Gannu is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Edu Imbernon, Oriol Calvo and Lehar. Next up: Playa Soleil Ibiza, Ibiza on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ Mike Gannu is a techno and house artist tracked on soundcheck, with 37 sets logg
 
 Edu Imbernon, Oriol Calvo, Lehar
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegannu/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegannu/)*

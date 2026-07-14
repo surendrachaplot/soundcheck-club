@@ -1,6 +1,6 @@
 # Yosef
 
-Yosef is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sala ART, Madrid on Thu, 16 Jul 2026.
+Yosef is a Baile Funk and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sala ART, Madrid on Thu, 16 Jul 2026.
 
 Yosef is a baile funk and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Bali, Barcelona and Ghent and 4 more. Often billed alongside Diego Armando, Maxvll and Sany Delitos. Next up: Sala ART, Madrid on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Yosef is a baile funk and electronica artist tracked on soundcheck, with 51 sets
 
 Diego Armando, Maxvll, Sany Delitos
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef/)*

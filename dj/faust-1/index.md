@@ -1,6 +1,6 @@
 # FAUST (1)
 
-FAUST (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+FAUST (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
 FAUST (1) is a techno and trance artist tracked on soundcheck, with 37 sets logged across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ FAUST (1) is a techno and trance artist tracked on soundcheck, with 37 sets logg
 
 Radox, Michael Ius, Thomas Rob
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faust-1/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/faust-1/)*

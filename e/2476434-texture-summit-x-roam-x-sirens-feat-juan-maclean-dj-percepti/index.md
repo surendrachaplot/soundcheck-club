@@ -1,6 +1,6 @@
 # Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception, at Public Works
 
-Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception, at Public Works on Sat 15 Aug, Sanfrancisco. 6 acts on the bill: DJ Perception, Dylan Schwartz, Jason Peters and Juan Maclean and 2 more. Preview the line-up and save it on soundcheck.
+Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception, at Public Works on Sat 15 Aug, Sanfrancisco. 7 acts on the bill: DJ Perception, Dylan Schwartz, Highkin' and Jason Peters and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Texture Summit x Roam x Sirens feat. Juan Maclean, DJ Perception, at Public Work
 
 - DJ Perception
 - Dylan Schwartz
+- Highkin'
 - Jason Peters
 - Juan Maclean
 - Louiv

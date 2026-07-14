@@ -1,6 +1,6 @@
 # sterni (DE)
 
-sterni (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 19 Jul 2026.
+sterni (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 19 Jul 2026.
 
 sterni (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Munich. Often billed alongside 20_5_3_8_14_15, m4tsch1 and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ sterni (DE) is a techno and trance artist based in Germany, tracked on soundchec
 
 20_5_3_8_14_15, m4tsch1, 4NOUK
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.sterni/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.sterni/)*

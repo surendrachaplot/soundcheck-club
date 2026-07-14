@@ -1,13 +1,14 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Night Tales, London on Sat, 1 Aug 2026.
+Olga Korol is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Audio Club, Geneva on Fri, 17 Jul 2026.
 
-Olga Korol is a house and minimal artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 34 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: Night Tales, London on Sat 1 Aug.
+Olga Korol is a house and minimal artist tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 34 more. Often billed alongside Per Hammar, Elnur and Rossko. Next up: Audio Club, Geneva on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Audio Club | Geneva |
 | Sat, 1 Aug 2026 | Night Tales | London |
 | Sat, 22 Aug 2026 | TBA | Liverpool |
 
@@ -26,4 +27,4 @@ Olga Korol is a house and minimal artist tracked on soundcheck, with 91 sets log
 
 Per Hammar, Elnur, Rossko
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

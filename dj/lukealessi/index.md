@@ -1,6 +1,6 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Coda, Toronto on Fri, 24 Jul 2026.
+Luke Alessi is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Coda, Toronto on Fri, 24 Jul 2026.
 
 Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 34 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Coda, Toronto on Fri 24 Jul.
 
@@ -33,4 +33,4 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

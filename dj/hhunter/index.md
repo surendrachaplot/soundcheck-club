@@ -1,14 +1,15 @@
 # hhunter
 
-hhunter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+hhunter is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
 
-hhunter is a techno and house artist tracked on soundcheck, with 71 sets logged across Chicago, Detroit, Losangeles and Miami and 6 more. Often billed alongside Kula, Elarm and Flores Negras. Next up: Radius, Chicago on Sun 19 Jul.
+hhunter is a techno and house artist tracked on soundcheck, with 72 sets logged across Austin, Chicago, Detroit and Losangeles and 7 more. Often billed alongside Kula, Elarm and Flores Negras. Next up: Radius, Chicago on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Radius | Chicago |
+| Fri, 28 Aug 2026 | The Concourse Project | Austin |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 6 Sept 2026 | Factory Town | Miami |
 
@@ -27,4 +28,4 @@ hhunter is a techno and house artist tracked on soundcheck, with 71 sets logged 
 
 Kula, Elarm, Flores Negras
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

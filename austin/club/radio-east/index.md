@@ -1,6 +1,6 @@
 # Radio/East
 
-Radio/East is a music venue in Austin with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Smerz" on Thu, 10 Sept 2026.
+Radio/East is a music venue in Austin with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Smerz" on Thu, 10 Sept 2026.
 
 Radio/East is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Smerz. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Radio/East is a music venue in Austin listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Smerz | Smerz |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/radio-east/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/radio-east/)*

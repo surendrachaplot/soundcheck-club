@@ -1,6 +1,6 @@
 # Islington Arts Club
 
-Islington Arts Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "KINETIC presents: Macarite & friends" on Fri, 17 Jul 2026.
+Islington Arts Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "KINETIC presents: Macarite & friends" on Fri, 17 Jul 2026.
 
 Islington Arts Club is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including AGLAÉ, Fallow, Jirani (2) and Live Laugh Layla and 2 more. Browse upcoming dates, start times and who's playing. 235 Upper St, London N1 1RU.
 
@@ -16,4 +16,4 @@ Islington Arts Club is a music venue in London listed on soundcheck. 3 upcoming 
 
 235 Upper St, London N1 1RU, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/islington-arts-club/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/islington-arts-club/)*

@@ -1,6 +1,6 @@
 # KAPP
 
-KAPP is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fitzroy, Berlin on Sun, 19 Jul 2026.
+KAPP is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fitzroy, Berlin on Sun, 19 Jul 2026.
 
 KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside Simoon Pedro, Juliana Branco and Leonardo Cruz DJ. Next up: Fitzroy, Berlin on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ KAPP is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Simoon Pedro, Juliana Branco, Leonardo Cruz DJ
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapp/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapp/)*

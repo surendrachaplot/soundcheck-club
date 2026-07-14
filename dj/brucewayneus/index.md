@@ -1,6 +1,6 @@
 # Bruce Wayne (US)
 
-Bruce Wayne (US) is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at SILO, New York City on Thu, 23 Jul 2026.
+Bruce Wayne (US) is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SILO, New York City on Thu, 23 Jul 2026.
 
 Bruce Wayne (US) is a house and afro house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside IgP (1), Valentin and KRAVE. Next up: SILO, Newyorkcity on Thu 23 Jul.
 
@@ -29,4 +29,4 @@ Bruce Wayne (US) is a house and afro house artist based in United States of Amer
 
 IgP (1), Valentin, KRAVE
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*

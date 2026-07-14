@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
+Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
 
 Seth Troxler is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: fabric, London on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 296 sets l
 
 DJ Tennis, Sossa, Prospa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

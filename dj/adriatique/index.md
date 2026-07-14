@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
+Adriatique is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
 
 Adriatique is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 18 Jul.
 
@@ -34,4 +34,4 @@ Adriatique is a techno and house artist tracked on soundcheck, with 148 sets log
 
 Mind Against, Colyn, DJ Tennis
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

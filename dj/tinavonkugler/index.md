@@ -1,6 +1,6 @@
 # Tina von Kugler
 
-Tina von Kugler is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at OST, Berlin on Thu, 16 Jul 2026.
+Tina von Kugler is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at OST, Berlin on Thu, 16 Jul 2026.
 
 Tina von Kugler is a techno and electro artist tracked on soundcheck, with 46 sets logged across Bangkok, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Gino Kampari, Black Mirror Park and Domovnika. Next up: OST, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Tina von Kugler is a techno and electro artist tracked on soundcheck, with 46 se
 
 Gino Kampari, Black Mirror Park, Domovnika
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*

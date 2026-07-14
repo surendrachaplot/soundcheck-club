@@ -1,6 +1,6 @@
 # Cassette
 
-Cassette is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Factory Theatre, Sydney on Sat, 18 Jul 2026.
+Cassette is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Factory Theatre, Sydney on Sat, 18 Jul 2026.
 
 Cassette is a house and deep house artist based in Australia, tracked on soundcheck, with 60 sets logged across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: Factory Theatre, Sydney on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Cassette is a house and deep house artist based in Australia, tracked on soundch
 
 Danni B, Ben Nott, Elijah Something
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cassette/)*

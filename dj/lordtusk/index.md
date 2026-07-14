@@ -1,6 +1,6 @@
 # Lord Tusk
 
-Lord Tusk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ormside Projects, London on Fri, 17 Jul 2026.
+Lord Tusk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ormside Projects, London on Fri, 17 Jul 2026.
 
 Lord Tusk is a house and techno artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside James Massiah, Christian AB and John T. Gast. Next up: Ormside Projects, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Lord Tusk is a house and techno artist based in United Kingdom, tracked on sound
 
 James Massiah, Christian AB, John T. Gast
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*

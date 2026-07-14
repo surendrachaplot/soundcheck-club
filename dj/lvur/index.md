@@ -1,6 +1,6 @@
 # LVUR
 
-LVUR is a Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Nether Club, Bucharest on Fri, 17 Jul 2026.
+LVUR is a Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nether Club, Bucharest on Fri, 17 Jul 2026.
 
 LVUR is a techno artist based in Romania, tracked on soundcheck, with 4 sets logged across Bucharest. Often billed alongside AMEDEUS, Amnesico and KATHERYNE. Next up: Nether Club, Bucharest on Fri 17 Jul.
 
@@ -20,4 +20,4 @@ LVUR is a techno artist based in Romania, tracked on soundcheck, with 4 sets log
 
 AMEDEUS, Amnesico, KATHERYNE
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lvur/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lvur/)*

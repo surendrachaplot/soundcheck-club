@@ -1,6 +1,6 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
+Raresh is a House and Minimal artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 1 Aug 2026.
 
 Raresh is a house and minimal artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 1 Aug.
 
@@ -33,4 +33,4 @@ Raresh is a house and minimal artist tracked on soundcheck, with 185 sets logged
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

@@ -1,6 +1,6 @@
 # TOXIMAMI
 
-TOXIMAMI is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+TOXIMAMI is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 TOXIMAMI is a techno and electro artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside DJ Cringey, Cara Elizabeth and Faster Horses. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
@@ -30,4 +30,4 @@ TOXIMAMI is a techno and electro artist tracked on soundcheck, with 55 sets logg
 
 DJ Cringey, Cara Elizabeth, Faster Horses
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toximami/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toximami/)*

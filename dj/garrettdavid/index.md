@@ -1,6 +1,6 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 17 Jul 2026.
+Garrett David is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 17 Jul 2026.
 
 Garrett David is a house and disco artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 31 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Shelter Amsterdam, Amsterdam on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Garrett David is a house and disco artist tracked on soundcheck, with 194 sets l
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

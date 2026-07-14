@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "WINE'N'B" on Fri, 17 Jul 2026.
+Grub Records is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "WINE'N'B" on Fri, 17 Jul 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nights, with line-ups including Joi La Frique, Porter Brook and Wow & Flutter. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -18,4 +18,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

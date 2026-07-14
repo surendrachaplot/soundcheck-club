@@ -1,6 +1,6 @@
 # Boris
 
-Boris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flux, Istanbul on Sat, 18 Jul 2026.
+Boris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Flux, Istanbul on Sat, 18 Jul 2026.
 
 Boris is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Flux, Istanbul on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Boris is a techno and house artist tracked on soundcheck, with 210 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

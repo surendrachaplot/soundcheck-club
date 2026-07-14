@@ -1,6 +1,6 @@
 # John Beltran
 
-John Beltran is a Ambient and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Rhythm, Toronto on Sat, 18 Jul 2026.
+John Beltran is a Ambient and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Rhythm, Toronto on Sat, 18 Jul 2026.
 
 John Beltran is an ambient and balearic artist tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Chicago and Detroit and 5 more. Often billed alongside David A-P, Peter Croce and Blair French. Next up: Rhythm, Toronto on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ John Beltran is an ambient and balearic artist tracked on soundcheck, with 29 se
 
 David A-P, Peter Croce, Blair French
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbeltran/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbeltran/)*

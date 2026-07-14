@@ -1,14 +1,13 @@
 # Oath
 
-Oath is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "OATH MONDAY" on Mon, 13 Jul 2026.
+Oath is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "OATH TUESDAY" on Tue, 14 Jul 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Chris MS, Connor, discopants and Gem Wallow and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Chris MS, Connor, discopants and Gem Wallow and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | OATH MONDAY |  |
 | Tue, 14 Jul 2026 | OATH TUESDAY |  |
 | Wed, 15 Jul 2026 | INFUSE_INTO | YOXIKI |
 | Thu, 16 Jul 2026 | FUNKTION | Ren Yokoi |
@@ -20,4 +19,4 @@ Oath is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with lin
 
 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*

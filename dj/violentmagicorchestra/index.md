@@ -1,14 +1,13 @@
 # Violent Magic Orchestra
 
-Violent Magic Orchestra is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club Lucia, Vienna on Mon, 13 Jul 2026.
+Violent Magic Orchestra is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at El Pumarejo Barcelona, Barcelona on Thu, 23 Jul 2026.
 
-Violent Magic Orchestra is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: Club Lucia, Vienna on Mon 13 Jul.
+Violent Magic Orchestra is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: El Pumarejo Barcelona, Barcelona on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | Club Lucia | Vienna |
 | Thu, 23 Jul 2026 | El Pumarejo Barcelona | Barcelona |
 | Sun, 26 Jul 2026 | Neue Zukunft | Berlin |
 | Wed, 29 Jul 2026 | Urban Spree | Berlin |
@@ -17,6 +16,7 @@ Violent Magic Orchestra is a techno and experimental artist tracked on soundchec
 
 ## Recently played
 
+- Club Lucia, Vienna — Mon, 13 Jul 2026
 - Ostrov Štvanice, Prague — Fri, 10 Jul 2026
 - HUNGR, Tallinn — Sun, 28 Jun 2026
 - Botanique, Brussels — Tue, 23 Jun 2026
@@ -24,10 +24,9 @@ Violent Magic Orchestra is a techno and experimental artist tracked on soundchec
 - essaim, Paris — Tue, 16 Jun 2026
 - IKLECTIK, London — Sun, 14 Jun 2026
 - Stereo, Glasgow — Sat, 13 Jun 2026
-- Cobalt Studios, Newcastle — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 VMO, hOLysHiT, Marie Davidson
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*

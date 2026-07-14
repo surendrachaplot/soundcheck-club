@@ -1,6 +1,6 @@
 # Home Bar
 
-Home Bar is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DANCECULT VOL.1" on Fri, 17 Jul 2026.
+Home Bar is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "DANCECULT VOL.1" on Fri, 17 Jul 2026.
 
 Home Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 69 Home Street, Edinburgh, EH39JP.
 
@@ -15,4 +15,4 @@ Home Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights. 
 
 69 Home Street, Edinburgh, EH39JP, Edinburgh
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/home-bar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/home-bar/)*

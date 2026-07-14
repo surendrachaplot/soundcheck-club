@@ -1,6 +1,6 @@
 # Andre Cascais
 
-Andre Cascais is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministerium Club, Lisbon on Fri, 24 Jul 2026.
+Andre Cascais is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ministerium Club, Lisbon on Fri, 24 Jul 2026.
 
 Andre Cascais is a techno and house artist tracked on soundcheck, with 66 sets logged across Lisbon, Madrid, Paris and Porto. Often billed alongside Amulador, Solid-Funk and Helio. Next up: Ministerium Club, Lisbon on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Andre Cascais is a techno and house artist tracked on soundcheck, with 66 sets l
 
 Amulador, Solid-Funk, Helio
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrecascais/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andrecascais/)*

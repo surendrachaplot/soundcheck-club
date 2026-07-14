@@ -1,6 +1,6 @@
 # saparilla
 
-saparilla is a Footwork and Kuduro artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Jamaica Yard, Edinburgh on Fri, 17 Jul 2026.
+saparilla is a Footwork and Kuduro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Jamaica Yard, Edinburgh on Fri, 17 Jul 2026.
 
 saparilla is a footwork and kuduro artist tracked on soundcheck, with 22 sets logged across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, makaya and spxo. Next up: Jamaica Yard, Edinburgh on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ saparilla is a footwork and kuduro artist tracked on soundcheck, with 22 sets lo
 
 Kinz Luiz, makaya, spxo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*

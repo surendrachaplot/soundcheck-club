@@ -1,6 +1,6 @@
 # KENZ
 
-KENZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
+KENZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Karoline 45, Hamburg on Sat, 8 Aug 2026.
 
 KENZ is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Glasgow and Hamburg. Often billed alongside SKKIN VELVET, MKHXR and Nina Hepburn. Next up: Karoline 45, Hamburg on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ KENZ is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 SKKIN VELVET, MKHXR, Nina Hepburn
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenz/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenz/)*

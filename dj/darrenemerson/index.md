@@ -1,6 +1,6 @@
 # Darren Emerson
 
-Darren Emerson is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Queens Wharf, Auckland on Fri, 17 Jul 2026.
+Darren Emerson is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Queens Wharf, Auckland on Fri, 17 Jul 2026.
 
 Darren Emerson is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Auckland, Berlin and Brighton and 18 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Queens Wharf, Auckland on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Darren Emerson is a house and techno artist tracked on soundcheck, with 29 sets 
 
 Brandon Block, Danny Tenaglia, John Course
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*

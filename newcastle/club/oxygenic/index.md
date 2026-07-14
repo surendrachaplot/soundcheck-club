@@ -1,6 +1,6 @@
 # Oxygenic
 
-Oxygenic is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Hathor Nights 02" on Sat, 18 Jul 2026.
+Oxygenic is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Hathor Nights 02" on Sat, 18 Jul 2026.
 
 Oxygenic is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with line-ups including Alousea and Socialness. Browse upcoming dates, start times and who's playing. 169/171 Whitley Road, Whitley Bay, NE25 4BJ. UK..
 
@@ -14,4 +14,4 @@ Oxygenic is a music venue in Newcastle listed on soundcheck. 1 upcoming night, w
 
 169/171 Whitley Road, Whitley Bay, NE25 4BJ. UK., Newcastle
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/oxygenic/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/oxygenic/)*

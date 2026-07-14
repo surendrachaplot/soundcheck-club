@@ -1,6 +1,6 @@
 # Cinco Pies
 
-Cinco Pies is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Session's" on Fri, 17 Jul 2026.
+Cinco Pies is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Session's" on Fri, 17 Jul 2026.
 
 Cinco Pies is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle Gral. Prim 14, Colonia Centro, Juárez, Cuauhtémoc, 06040 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Cinco Pies is a music venue in Mexicocity listed on soundcheck. 1 upcoming night
 
 Calle Gral. Prim 14, Colonia Centro, Juárez, Cuauhtémoc, 06040 Ciudad de México, CDMX, Mexico City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/cinco-pies/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/cinco-pies/)*

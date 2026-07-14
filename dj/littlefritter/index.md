@@ -1,6 +1,6 @@
 # Little Fritter
 
-Little Fritter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Cause, London on Sat, 18 Jul 2026.
+Little Fritter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Cause, London on Sat, 18 Jul 2026.
 
 Little Fritter is a house and tech house artist tracked on soundcheck, with 51 sets logged across Auckland, Bali, Brisbane and Dublin and 11 more. Often billed alongside FISHER, Vintage Culture and Andrea Oliva. Next up: The Cause, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Little Fritter is a house and tech house artist tracked on soundcheck, with 51 s
 
 FISHER, Vintage Culture, Andrea Oliva
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/littlefritter/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/littlefritter/)*

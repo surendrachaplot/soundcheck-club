@@ -1,6 +1,6 @@
 # Maassilo
 
-Maassilo is a music venue in Rotterdam with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Afterparty Rotterdam Rave Festival 2026" on Sat, 29 Aug 2026.
+Maassilo is a music venue in Rotterdam with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Afterparty Rotterdam Rave Festival 2026" on Sat, 29 Aug 2026.
 
 Maassilo is a music venue in Rotterdam listed on soundcheck. 3 upcoming nights, with line-ups including Alexander Koning, BLNK, BØĘRY and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Maassilo is a music venue in Rotterdam listed on soundcheck. 3 upcoming nights, 
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/maassilo/)*

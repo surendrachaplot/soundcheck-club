@@ -1,6 +1,6 @@
 # Barbossa
 
-Barbossa is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Maximum Enemi avec DJ Hidi & Lather Rinse Repeat" on Fri, 17 Jul 2026.
+Barbossa is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Maximum Enemi avec DJ Hidi & Lather Rinse Repeat" on Fri, 17 Jul 2026.
 
 Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including DJ Hidi, Evan C, Lather Rinse Repeat and Maximum Enemi and 1 more. Browse upcoming dates, start times and who's playing. 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada.
 
@@ -15,4 +15,4 @@ Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming nights, w
 
 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada, Montreal
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*

@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
+Trikk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
 
 Trikk is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Trikk is a house and techno artist tracked on soundcheck, with 150 sets logged a
 
 Âme, Jimi Jules, Dixon
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

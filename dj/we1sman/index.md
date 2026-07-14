@@ -1,8 +1,8 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Spkrbox, Detroit on Tue, 14 Jul 2026.
+we1sman is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Spkrbox, Detroit on Tue, 14 Jul 2026.
 
-we1sman is a techno and club artist tracked on soundcheck, with 124 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Spkrbox, Detroit on Tue 14 Jul.
+we1sman is a techno and club artist tracked on soundcheck, with 125 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Spkrbox, Detroit on Tue 14 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ we1sman is a techno and club artist tracked on soundcheck, with 124 sets logged 
 | Sat, 1 Aug 2026 | The Eagle of Detroit | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
+| Fri, 14 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ we1sman is a techno and club artist tracked on soundcheck, with 124 sets logged 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

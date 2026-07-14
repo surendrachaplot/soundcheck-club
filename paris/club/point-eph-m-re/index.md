@@ -1,14 +1,13 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "NOIZEY KIDS TAKE OVER" on Mon, 13 Jul 2026.
+Point Ephémère is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Délusion records presents: TAC Party" on Fri, 17 Jul 2026.
 
-Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including aerodynamisme, amil raja, Beirut Groove Collective and Calling Marian and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
+Point Ephémère is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including aerodynamisme, amil raja, Beirut Groove Collective and Calling Marian and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | NOIZEY KIDS TAKE OVER | Vitesse, k-jackpot |
 | Fri, 17 Jul 2026 | Délusion records presents: TAC Party | Muddyoush, aerodynamisme |
 | Sat, 18 Jul 2026 | Eternal Mana + buildup.xp | SALOME, The Twins (waitareyoutwins), amil raja |
 | Tue, 21 Jul 2026 | Flux Tendu x Radio Alhara | Glisten |
@@ -21,4 +20,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

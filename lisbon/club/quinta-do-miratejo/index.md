@@ -1,6 +1,6 @@
 # Quinta do Miratejo
 
-Quinta do Miratejo is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Boa Viagem: A 16-hour journey" on Sat, 18 Jul 2026.
+Quinta do Miratejo is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Boa Viagem: A 16-hour journey" on Sat, 18 Jul 2026.
 
 Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Aline Umber, Antal, Billi and Capablanca and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica, Portugal.
 
@@ -18,4 +18,4 @@ Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 5 upcoming n
 
 R. do Joinal 2825, Caparica, Portugal, Lisbon
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*

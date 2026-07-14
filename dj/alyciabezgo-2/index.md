@@ -1,6 +1,6 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 25 Jul 2026.
+Alycia Bezgo is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 25 Jul 2026.
 
 Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Basel and 21 more. Often billed alongside Helena Lauwaert, I Hate Models and BIIANCO. Next up: Tokonoma Club, Frankfurt on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundche
 
 Helena Lauwaert, I Hate Models, BIIANCO
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

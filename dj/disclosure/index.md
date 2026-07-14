@@ -1,6 +1,6 @@
 # Disclosure
 
-Disclosure is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at BCM, Mallorca on Fri, 24 Jul 2026.
+Disclosure is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BCM, Mallorca on Fri, 24 Jul 2026.
 
 Disclosure is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Sammy Virji, DJ Heartstring and Layton Giordani. Next up: BCM, Mallorca on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ Disclosure is a house and techno artist based in United Kingdom, tracked on soun
 
 Sammy Virji, DJ Heartstring, Layton Giordani
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*

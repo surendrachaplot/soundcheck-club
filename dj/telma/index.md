@@ -1,6 +1,6 @@
 # Telma
 
-Telma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Collect - Cais do Sodre, Lisbon on Tue, 14 Jul 2026.
+Telma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Collect - Cais do Sodre, Lisbon on Tue, 14 Jul 2026.
 
 Telma is a house and techno artist based in Portugal, tracked on soundcheck, with 64 sets logged across Lisbon, London and Porto. Often billed alongside Rui Vargas, DJ Caring and Luisa. Next up: Collect - Cais do Sodre, Lisbon on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ Telma is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Rui Vargas, DJ Caring, Luisa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/telma/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/telma/)*

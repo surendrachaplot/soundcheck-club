@@ -1,6 +1,6 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Doudou MD is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Doudou MD is a house and techno artist tracked on soundcheck, with 210 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Samuel Deep, DJ Senc and Cap. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -35,4 +35,4 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 210 sets logg
 
 Samuel Deep, DJ Senc, Cap
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

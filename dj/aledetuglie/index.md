@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 31 Jul 2026.
+Ale De Tuglie is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Ale De Tuglie is a tech house and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Bucharest and 19 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: Pacha Ibiza, Ibiza on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Ale De Tuglie is a tech house and house artist tracked on soundcheck, with 76 se
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

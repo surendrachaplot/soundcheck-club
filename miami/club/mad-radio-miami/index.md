@@ -1,6 +1,6 @@
 # Mad Radio Miami
 
-Mad Radio Miami is a music venue in Miami with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "WERK MUSIC: Kike Roldan / AUDIIOTOX / ØPI / VALENTIN MORENO" on Wed, 15 Jul 2026.
+Mad Radio Miami is a music venue in Miami with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "WERK MUSIC: Kike Roldan / AUDIIOTOX / ØPI / VALENTIN MORENO" on Wed, 15 Jul 2026.
 
 Mad Radio Miami is a music venue in Miami listed on soundcheck. 4 upcoming nights, with line-ups including ANABELEN, Barreto, Kike Roldan and Mai iachetti and 1 more. Browse upcoming dates, start times and who's playing. 7700 Biscayne Blvd, Miami, FL 33138.
 
@@ -17,4 +17,4 @@ Mad Radio Miami is a music venue in Miami listed on soundcheck. 4 upcoming night
 
 7700 Biscayne Blvd, Miami, FL 33138, Miami
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-radio-miami/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-radio-miami/)*

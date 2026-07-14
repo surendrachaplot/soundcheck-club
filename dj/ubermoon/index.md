@@ -1,6 +1,6 @@
 # UBERMOON
 
-UBERMOON is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Civic Underground, Sydney on Fri, 17 Jul 2026.
+UBERMOON is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Civic Underground, Sydney on Fri, 17 Jul 2026.
 
 UBERMOON is a drum & bass and dubstep artist tracked on soundcheck, with 50 sets logged across Sydney. Often billed alongside Karnotix, Gnomu and Mushu. Next up: Civic Underground, Sydney on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ UBERMOON is a drum & bass and dubstep artist tracked on soundcheck, with 50 sets
 
 Karnotix, Gnomu, Mushu
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ubermoon/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ubermoon/)*

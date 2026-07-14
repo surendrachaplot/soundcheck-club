@@ -1,6 +1,6 @@
 # Aero (1)
 
-Aero (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
+Aero (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
 
 Aero (1) is a techno and house artist tracked on soundcheck, with 47 sets logged across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside MEJMI, Offtrack and TAUREAN (2). Next up: M01, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Aero (1) is a techno and house artist tracked on soundcheck, with 47 sets logged
 
 MEJMI, Offtrack, TAUREAN (2)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*

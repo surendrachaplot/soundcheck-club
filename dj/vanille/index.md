@@ -1,6 +1,6 @@
 # Vanille
 
-Vanille is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Le Sucre, Lyon on Fri, 31 Jul 2026.
+Vanille is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le Sucre, Lyon on Fri, 31 Jul 2026.
 
 Vanille is a techno and electro artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: Le Sucre, Lyon on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Vanille is a techno and electro artist tracked on soundcheck, with 75 sets logge
 
 MCR-T, Yasmin Regisford, Behzad
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*

@@ -1,8 +1,8 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Marcellus Pittman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Marcellus Pittman is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Marcellus Pittman is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 144 s
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Thu, 23 Jul 2026 | 528 Ibiza | Ibiza |
+| Sat, 8 Aug 2026 | TBA - National Union Building | Washington DC |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 12 Sept 2026 | Sala Villanos | Madrid |
 | Sat, 26 Sept 2026 | People's Leisure Club | Edinburgh |
@@ -29,4 +30,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 144 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

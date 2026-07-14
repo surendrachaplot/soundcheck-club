@@ -1,6 +1,6 @@
 # Charlie Bones
 
-Charlie Bones is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Rum Shack, Glasgow on Sat, 18 Jul 2026.
+Charlie Bones is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Rum Shack, Glasgow on Sat, 18 Jul 2026.
 
 Charlie Bones is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Bristol, Dublin and Edinburgh and 6 more. Often billed alongside Hannah Holland, Tash LC and Alex Kassian. Next up: The Rum Shack, Glasgow on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Charlie Bones is a disco and funk / soul artist based in United Kingdom, tracked
 
 Hannah Holland, Tash LC, Alex Kassian
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebones-uk/)*

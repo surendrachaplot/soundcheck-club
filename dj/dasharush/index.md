@@ -1,6 +1,6 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -30,4 +30,4 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets log
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

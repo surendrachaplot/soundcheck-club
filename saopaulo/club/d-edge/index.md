@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MOVING D-EDGE SP pres.: P1: ARBEX. ACID CHOCHI B2B POPIS. CHISARI (LANÇAMENTO EP). Paula Chalup" on Thu, 16 Jul 2026.
+D-EDGE is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MOVING D-EDGE SP pres.: P1: ARBEX. ACID CHOCHI B2B POPIS. CHISARI (LANÇAMENTO EP). Paula Chalup" on Thu, 16 Jul 2026.
 
 D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, ANGELLO (BR) and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -22,4 +22,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

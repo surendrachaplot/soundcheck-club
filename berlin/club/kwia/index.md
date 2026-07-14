@@ -1,6 +1,6 @@
 # Kwia
 
-Kwia is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Digital Dreamscapes: OK EG, Blu:sh, Jeena, Notte Infinita, Ground Tactics" on Tue, 14 Jul 2026.
+Kwia is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Digital Dreamscapes: OK EG, Blu:sh, Jeena, Notte Infinita, Ground Tactics" on Tue, 14 Jul 2026.
 
 Kwia is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including a time traveller, babu (2), Blu:sh and CuCiCuCi and 2 more. Browse upcoming dates, start times and who's playing. Maybachufer 16, 12047, Berlin.
 
@@ -17,4 +17,4 @@ Kwia is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with li
 
 Maybachufer 16, 12047, Berlin, Berlin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kwia/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kwia/)*

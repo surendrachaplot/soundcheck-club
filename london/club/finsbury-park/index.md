@@ -1,6 +1,6 @@
 # Finsbury Park
 
-Finsbury Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "berlioz presents deep in it" on Sat, 1 Aug 2026.
+Finsbury Park is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "berlioz presents deep in it" on Sat, 1 Aug 2026.
 
 Finsbury Park is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including 1991 (UK), Adam Port, Aroop Roy and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. Finsbury Park, London, N4.
 
@@ -18,4 +18,4 @@ Finsbury Park is a music venue in London listed on soundcheck. 5 upcoming nights
 
 Finsbury Park, London, N4, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/finsbury-park/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/finsbury-park/)*

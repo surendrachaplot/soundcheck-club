@@ -1,6 +1,6 @@
 # Znzl
 
-Znzl is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fitzroy, Berlin on Fri, 17 Jul 2026.
+Znzl is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fitzroy, Berlin on Fri, 17 Jul 2026.
 
 Znzl is a techno and industrial artist based in Morocco, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Ey.rah, Öspiel and Henning Baer. Next up: Fitzroy, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Znzl is a techno and industrial artist based in Morocco, tracked on soundcheck, 
 
 Ey.rah, Öspiel, Henning Baer
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/znzl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/znzl/)*

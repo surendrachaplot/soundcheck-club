@@ -1,6 +1,6 @@
 # broad hall.
 
-broad hall. is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "SYNTHETIC - Goth Electro Industrial Dark Wave EBM Party" on Fri, 17 Jul 2026.
+broad hall. is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "SYNTHETIC - Goth Electro Industrial Dark Wave EBM Party" on Fri, 17 Jul 2026.
 
 broad hall. is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including Brad Scott and DJ Baby Berlin. Browse upcoming dates, start times and who's playing. 699 N. Broad Street, Philadelphia, PA 19123 USA.
 
@@ -14,4 +14,4 @@ broad hall. is a music venue in Philadelphia listed on soundcheck. 1 upcoming ni
 
 699 N. Broad Street, Philadelphia, PA 19123 USA, Philadelphia
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*

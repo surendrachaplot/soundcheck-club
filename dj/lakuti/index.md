@@ -1,6 +1,6 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Lakuti is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Lakuti is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Lakuti is a house and techno artist tracked on soundcheck, with 186 sets logged 
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

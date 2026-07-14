@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "UMO Friday July 17th" on Fri, 17 Jul 2026.
+High Tide is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "UMO Friday July 17th" on Fri, 17 Jul 2026.
 
 High Tide is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Balearic and Rich Medina. Browse upcoming dates, start times and who's playing. 605 E 4th St, Los Angeles, CA 90013.
 
@@ -17,4 +17,4 @@ High Tide is a music venue in Losangeles listed on soundcheck. 4 upcoming nights
 
 605 E 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*

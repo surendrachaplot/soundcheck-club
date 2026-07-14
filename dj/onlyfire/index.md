@@ -1,13 +1,14 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Only Fire is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Village Studios, Vancouver on Sun, 2 Aug 2026.
 
-Only Fire is a techno and club artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Auckland and Austin and 28 more. Often billed alongside River Moon, Memphy and Chippy Nonstop. Next up: Shunter, Rotterdam on Sat 22 Aug.
+Only Fire is a techno and club artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Austin and 29 more. Often billed alongside River Moon, Memphy and Chippy Nonstop. Next up: Village Studios, Vancouver on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 2 Aug 2026 | Village Studios | Vancouver |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 
@@ -26,4 +27,4 @@ Only Fire is a techno and club artist tracked on soundcheck, with 75 sets logged
 
 River Moon, Memphy, Chippy Nonstop
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

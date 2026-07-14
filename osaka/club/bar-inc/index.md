@@ -1,6 +1,6 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 23 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "WEEKDAY ORDERS" on Mon, 13 Jul 2026.
+BAR Inc is a music venue in Osaka with 23 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "WEEKDAY ORDERS" on Wed, 15 Jul 2026.
 
 BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming nights, with line-ups including CH.0, Chhabb, DJ Compufunk and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
@@ -8,7 +8,6 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | WEEKDAY ORDERS |  |
 | Wed, 15 Jul 2026 | WEEKDAY ORDERS | Chhabb, Naco (2), sintaro fujita (2) |
 | Thu, 16 Jul 2026 | WEEKDAY ORDERS |  |
 | Fri, 17 Jul 2026 | WEEKEND SELECTERS | DJ Compufunk, Steve Bug |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming nights, with
 | Wed, 22 Jul 2026 | WEEKDAY ORDERS |  |
 | Thu, 23 Jul 2026 | WEEKDAY ORDERS |  |
 | Fri, 24 Jul 2026 | WEEKEND SELECTERS |  |
+| Sat, 25 Jul 2026 | WEEKEND SELECTERS | DJ KAZUMA, Endurance, Vladimir Ivkovic |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

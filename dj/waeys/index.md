@@ -1,6 +1,6 @@
 # Waeys
 
-Waeys is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at LAB theCLUB, Madrid on Sat, 29 Aug 2026.
+Waeys is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at LAB theCLUB, Madrid on Sat, 29 Aug 2026.
 
 Waeys is a drum & bass and bass artist tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and Particle (1). Next up: LAB theCLUB, Madrid on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Waeys is a drum & bass and bass artist tracked on soundcheck, with 31 sets logge
 
 Kasra, Enei, Particle (1)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*

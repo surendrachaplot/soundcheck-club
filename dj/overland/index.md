@@ -1,6 +1,6 @@
 # Overland
 
-Overland is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Vancouver on Fri, 24 Jul 2026.
+Overland is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA, Vancouver on Fri, 24 Jul 2026.
 
 Overland is a techno and acid artist tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Bristol and Chicago and 11 more. Often billed alongside xtine, DR BPM and Dairy Free. Next up: TBA, Vancouver on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Overland is a techno and acid artist tracked on soundcheck, with 50 sets logged 
 
 xtine, DR BPM, Dairy Free
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*

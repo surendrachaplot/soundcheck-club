@@ -1,6 +1,6 @@
 # TBA - Rummelsburger Bucht
 
-TBA - Rummelsburger Bucht is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "LaDo 07/13" on Thu, 16 Jul 2026.
+TBA - Rummelsburger Bucht is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "LaDo 07/13" on Thu, 16 Jul 2026.
 
 TBA - Rummelsburger Bucht is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including TBA. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Rummelsburger Bucht is a music venue in Berlin listed on soundcheck. 7 upc
 | Thu, 20 Aug 2026 | LaDo | TBA |
 | Thu, 27 Aug 2026 | LaDo - 2026 Season Closing | TBA |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-rummelsburger-bucht/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-rummelsburger-bucht/)*

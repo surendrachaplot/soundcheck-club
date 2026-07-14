@@ -1,6 +1,6 @@
 # Imanu
 
-Imanu is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Yate, Bristol on Thu, 16 Jul 2026.
+Imanu is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Yate, Bristol on Thu, 16 Jul 2026.
 
 Imanu is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 80 sets logged across Amsterdam, Auckland, Bangkok and Berlin and 34 more. Often billed alongside Buunshin, The Caracal Project (FR) and Camo & Krooked. Next up: TBA - Yate, Bristol on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Imanu is a drum & bass and bass artist based in Netherlands, tracked on soundche
 
 Buunshin, The Caracal Project (FR), Camo & Krooked
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanu/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/imanu/)*

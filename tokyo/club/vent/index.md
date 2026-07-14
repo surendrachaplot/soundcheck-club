@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "FRANCOIS X" on Fri, 17 Jul 2026.
+VENT is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FRANCOIS X" on Fri, 17 Jul 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including Andre McLeod, Answer Code Request, avion__ and DJ Koco aka Shimokita and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with li
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

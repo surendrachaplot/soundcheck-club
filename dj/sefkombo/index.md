@@ -1,6 +1,6 @@
 # Sef Kombo
 
-Sef Kombo is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at KOKO, London on Fri, 17 Jul 2026.
+Sef Kombo is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KOKO, London on Fri, 17 Jul 2026.
 
 Sef Kombo is an afro house and house artist tracked on soundcheck, with 30 sets logged across London, Paris and Toronto. Often billed alongside Supa D, Tippa and Via Seri. Next up: KOKO, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Sef Kombo is an afro house and house artist tracked on soundcheck, with 30 sets 
 
 Supa D, Tippa, Via Seri
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sefkombo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sefkombo/)*

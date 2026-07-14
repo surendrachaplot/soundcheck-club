@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "24 Moons presents: Caucasian Opportunities b2b Stev Zar — All Night Long" on Fri, 17 Jul 2026.
+24 Moons is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "24 Moons presents: Caucasian Opportunities b2b Stev Zar — All Night Long" on Fri, 17 Jul 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Aidan Rudd, Kait Xri and mishLXY. Browse upcoming dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -15,4 +15,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

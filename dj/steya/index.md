@@ -1,6 +1,6 @@
 # STEYA
 
-STEYA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fvtvr, Paris on Fri, 17 Jul 2026.
+STEYA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fvtvr, Paris on Fri, 17 Jul 2026.
 
 STEYA is a techno and trance artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 22 more. Often billed alongside Marcel Fengler, OGUZ and Caniche. Next up: Fvtvr, Paris on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ STEYA is a techno and trance artist tracked on soundcheck, with 81 sets logged a
 
 Marcel Fengler, OGUZ, Caniche
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steya/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steya/)*

@@ -1,6 +1,6 @@
 # Hootananny
 
-Hootananny is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Brixton Bass: Bladerunner, Brockie, Frost, Uncle Dugs" on Fri, 24 Jul 2026.
+Hootananny is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Brixton Bass: Bladerunner, Brockie, Frost, Uncle Dugs" on Fri, 24 Jul 2026.
 
 Hootananny is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including 2Shy MC, Bladerunner, DJ Brockie and Funsta and 2 more. Browse upcoming dates, start times and who's playing. 93 Effra Rd; Brixton; London SW2 1DF; United Kingdom.
 
@@ -14,4 +14,4 @@ Hootananny is a music venue in London listed on soundcheck. 1 upcoming night, wi
 
 93 Effra Rd; Brixton; London SW2 1DF; United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny/)*

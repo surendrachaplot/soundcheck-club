@@ -1,6 +1,6 @@
 # Larizzle
 
-Larizzle is a Afrobeat and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
+Larizzle is a Afrobeat and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
 
 Larizzle is an afrobeat and amapiano artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside Juls, Papu Raf and Duo. Next up: The Jazz Cafe, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Larizzle is an afrobeat and amapiano artist tracked on soundcheck, with 28 sets 
 
 Juls, Papu Raf, Duo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larizzle/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larizzle/)*

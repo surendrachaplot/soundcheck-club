@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Interzone Darkwave Tuesdays w/DJs Byter, Raf and Hopelesss" on Tue, 14 Jul 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Interzone Darkwave Tuesdays w/DJs Byter, Raf and Hopelesss" on Tue, 14 Jul 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including 2dahlia, 8ULENTINA, ALMAS and Amatric and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

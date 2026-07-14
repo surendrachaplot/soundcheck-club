@@ -1,6 +1,6 @@
 # Mina Galán
 
-Mina Galán is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Mina Galán is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Mina Galán is a techno and electro artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Manuka Honey, TEDESCO and DIORA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Mina Galán is a techno and electro artist tracked on soundcheck, with 22 sets l
 
 Manuka Honey, TEDESCO, DIORA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*

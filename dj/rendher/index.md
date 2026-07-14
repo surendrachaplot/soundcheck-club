@@ -1,6 +1,6 @@
 # Rendher
 
-Rendher is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Rendher is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
 Rendher is a tech house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Rendher is a tech house and house artist tracked on soundcheck, with 65 sets log
 
 Paco Osuna, Bastian Bux, Chelina Manuhutu
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*

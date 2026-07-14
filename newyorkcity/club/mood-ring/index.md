@@ -1,15 +1,15 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "FOOTBALLERS" on Wed, 15 Jul 2026.
+Mood Ring is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FOOTBALLERS" on Wed, 15 Jul 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including ASTER (DJ), Boydell, ceviché and cybr.nova and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including ASTER (DJ), Boydell, ceviché and Cow Tools and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Pètal |
-| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Pètal |
+| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Petal |
+| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Petal |
 | Thu, 16 Jul 2026 | MENACE PRESENTS Spurge & MZ3 | Mz3 (1), Spurge |
 | Fri, 17 Jul 2026 | RINSE & REPEAT: Boydell, ceviché, LeCamille, nataliepops, x0trandon | Boydell, LeCamille, ceviché, nataliepops, x0trandon |
 | Fri, 17 Jul 2026 | Sonic Seduction | KIMKILLA, cybr.nova |
@@ -23,4 +23,4 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nigh
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

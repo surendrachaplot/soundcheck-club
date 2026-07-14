@@ -1,6 +1,6 @@
 # Matt Cowell
 
-Matt Cowell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ballroom at Palais, London on Fri, 17 Jul 2026.
+Matt Cowell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ballroom at Palais, London on Fri, 17 Jul 2026.
 
 Matt Cowell is a house and techno artist tracked on soundcheck, with 43 sets logged across Bangkok, Berlin, Bristol and Edinburgh and 8 more. Often billed alongside Ally Tropical, Tia Cousins and Rosie Ama. Next up: Ballroom at Palais, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Matt Cowell is a house and techno artist tracked on soundcheck, with 43 sets log
 
 Ally Tropical, Tia Cousins, Rosie Ama
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattcowell/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattcowell/)*

@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
+1tbsp is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 1tbsp is a house and electronica artist tracked on soundcheck, with 112 sets logged across Auckland, Barcelona, Belfast and Berlin and 31 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: The Great Northern, Sanfrancisco on Fri 24 Jul.
 
@@ -31,4 +31,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

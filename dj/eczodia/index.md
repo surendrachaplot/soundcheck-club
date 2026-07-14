@@ -1,6 +1,6 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mdlr, Singapore on Fri, 17 Jul 2026.
+ECZODIA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Mdlr, Singapore on Fri, 17 Jul 2026.
 
 ECZODIA is a techno and hardcore artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OMAKS, Jacidorex and LESSSS. Next up: Mdlr, Singapore on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ ECZODIA is a techno and hardcore artist tracked on soundcheck, with 80 sets logg
 
 OMAKS, Jacidorex, LESSSS
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*

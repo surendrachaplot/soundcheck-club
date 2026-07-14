@@ -1,6 +1,6 @@
 # Robin Hastings
 
-Robin Hastings is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at John Doe, Amsterdam on Sat, 25 Jul 2026.
+Robin Hastings is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at John Doe, Amsterdam on Sat, 25 Jul 2026.
 
 Robin Hastings is a techno and disco artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside NAD (NL), Paroxyzm and Mischa Duncan. Next up: John Doe, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Robin Hastings is a techno and disco artist tracked on soundcheck, with 60 sets 
 
 NAD (NL), Paroxyzm, Mischa Duncan
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinhastings/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinhastings/)*

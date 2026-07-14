@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 19 Jul 2026.
+Hugo Martinez is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc de la Trinitat, Barcelona on Sun, 19 Jul 2026.
 
 Hugo Martinez is a house and deep house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Parc de la Trinitat, Barcelona on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Hugo Martinez is a house and deep house artist tracked on soundcheck, with 75 se
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

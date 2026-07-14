@@ -1,6 +1,6 @@
 # suade (US)
 
-suade (US) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 17 Jul 2026.
+suade (US) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Public Works, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 suade (US) is a techno and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity, Sanfrancisco and Vancouver. Often billed alongside llloyd (US), Clearcast and likeholywine. Next up: Public Works, Sanfrancisco on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ suade (US) is a techno and bass artist based in United States of America, tracke
 
 llloyd (US), Clearcast, likeholywine
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suade-us/)*

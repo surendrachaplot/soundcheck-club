@@ -1,6 +1,6 @@
 # Concord Music Hall
 
-Concord Music Hall is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Yaeji (DJ Set)" on Sat, 18 Jul 2026.
+Concord Music Hall is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Yaeji (DJ Set)" on Sat, 18 Jul 2026.
 
 Concord Music Hall is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including Avalon Lurks, DJ Manny, Kirk (US) and River Moon and 1 more. Browse upcoming dates, start times and who's playing. 2047 N Milwaukee Ave,  Chicago, IL 60647.
 
@@ -21,4 +21,4 @@ Concord Music Hall is a music venue in Chicago listed on soundcheck. 8 upcoming 
 
 2047 N Milwaukee Ave,  Chicago, IL 60647, Chicago
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/concord-music-hall/)*

@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at KOKO, London on Sat, 18 Jul 2026.
+Rossi is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KOKO, London on Sat, 18 Jul 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: KOKO, London on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 224 sets logg
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

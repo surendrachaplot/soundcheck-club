@@ -1,6 +1,6 @@
 # Cailín
 
-Cailín is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
+Cailín is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
 
 Cailín is a techno and house artist based in Ireland, tracked on soundcheck, with 41 sets logged across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Aero (1), Ayolxi and Meda-Ava. Next up: M01, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Cailín is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Aero (1), Ayolxi, Meda-Ava
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cailin/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cailin/)*

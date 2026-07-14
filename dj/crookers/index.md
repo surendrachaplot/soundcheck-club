@@ -1,6 +1,6 @@
 # Crookers
 
-Crookers is a Electro and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
+Crookers is a Electro and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
 
 Crookers is an electro and hip-hop artist tracked on soundcheck, with 9 sets logged across Brisbane, Melbourne, Milan and Sydney and 1 more. Often billed alongside Booka Shade, Riva Starr and Sinden. Next up: Superordinary, Brisbane on Fri 17 Jul.
 
@@ -25,4 +25,4 @@ Crookers is an electro and hip-hop artist tracked on soundcheck, with 9 sets log
 
 Booka Shade, Riva Starr, Sinden
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crookers/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crookers/)*

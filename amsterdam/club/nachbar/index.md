@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Glimmer (live) & Crashing (live)" on Wed, 15 Jul 2026.
+nachbar is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Glimmer (live) & Crashing (live)" on Wed, 15 Jul 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Aldonna, Berkan V8, Dino (2) and DJ S (UK) and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, 
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

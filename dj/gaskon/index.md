@@ -1,6 +1,6 @@
 # Gaskón
 
-Gaskón is a Acid and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at EL SÓTANO, Madrid on Fri, 14 Aug 2026.
+Gaskón is a Acid and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at EL SÓTANO, Madrid on Fri, 14 Aug 2026.
 
 Gaskón is an acid and club artist based in Spain, tracked on soundcheck, with 86 sets logged across Madrid. Often billed alongside Nebari, Alvaro Cabana and Gameboyz. Next up: EL SÓTANO, Madrid on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Gaskón is an acid and club artist based in Spain, tracked on soundcheck, with 8
 
 Nebari, Alvaro Cabana, Gameboyz
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskon/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskon/)*

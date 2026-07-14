@@ -1,6 +1,6 @@
 # Total Science
 
-Total Science is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Battersea Barge, London on Sat, 18 Jul 2026.
+Total Science is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Battersea Barge, London on Sat, 18 Jul 2026.
 
 Total Science is a drum & bass and jungle artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 7 more. Often billed alongside Loxy, Break and Bryan Gee. Next up: Battersea Barge, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Total Science is a drum & bass and jungle artist tracked on soundcheck, with 28 
 
 Loxy, Break, Bryan Gee
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totalscience/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/totalscience/)*

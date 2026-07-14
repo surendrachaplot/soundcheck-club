@@ -1,6 +1,6 @@
 # Egna
 
-Egna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
+Egna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
 
 Egna is a techno and trance artist tracked on soundcheck, with 65 sets logged across Antwerp, Brussels, Cologne and Krakow and 4 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: STK 47 WAREHOUSE, Krakow on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Egna is a techno and trance artist tracked on soundcheck, with 65 sets logged ac
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

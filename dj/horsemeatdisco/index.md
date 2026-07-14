@@ -1,6 +1,6 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Crystal Ballroom, Portland on Fri, 17 Jul 2026.
+Horse Meat Disco is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Crystal Ballroom, Portland on Fri, 17 Jul 2026.
 
 Horse Meat Disco is a house and disco artist tracked on soundcheck, with 369 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Crystal Ballroom, Portland on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 369 set
 
 Luke Howard, James Hillard, Severino
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

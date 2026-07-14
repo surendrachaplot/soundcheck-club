@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
+Linska is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside Gorgon City, Adam Beyer and Riordan. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gorgon City, Adam Beyer, Riordan
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

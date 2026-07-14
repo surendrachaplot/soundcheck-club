@@ -1,6 +1,6 @@
 # JT Donaldson
 
-JT Donaldson is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Neon Grotto, Austin on Thu, 16 Jul 2026.
+JT Donaldson is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Neon Grotto, Austin on Thu, 16 Jul 2026.
 
 JT Donaldson is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Chicago, Losangeles and Miami and 5 more. Often billed alongside Dvize, Lumin and Brett Johnson. Next up: Neon Grotto, Austin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ JT Donaldson is a house and hip-hop artist based in United States of America, tr
 
 Dvize, Lumin, Brett Johnson
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jtdonaldson/)*

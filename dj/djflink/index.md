@@ -1,6 +1,6 @@
 # DJ Flink
 
-DJ Flink is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
+DJ Flink is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
 
 DJ Flink is a trance and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Hamburg. Often billed alongside Ivana Parti, YOVA and Amøn. Next up: Lokschuppen Berlin, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ DJ Flink is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Ivana Parti, YOVA, Amøn
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflink/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djflink/)*

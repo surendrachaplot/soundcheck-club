@@ -1,6 +1,6 @@
 # Lab11
 
-Lab11 is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "WYLD Summer Showcase: Joss Dean, Tommy Phillips, Ryan Resso, Boss Priester + more" on Sat, 8 Aug 2026.
+Lab11 is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "WYLD Summer Showcase: Joss Dean, Tommy Phillips, Ryan Resso, Boss Priester + more" on Sat, 8 Aug 2026.
 
 Lab11 is a music venue in Birmingham listed on soundcheck. 1 upcoming night, with line-ups including Boss Priester, Chopper (UK), Jamie Fielding and Joss Dean and 2 more. Browse upcoming dates, start times and who's playing. Trent St; Birmingham, B5 5NL, United Kingdom.
 
@@ -14,4 +14,4 @@ Lab11 is a music venue in Birmingham listed on soundcheck. 1 upcoming night, wit
 
 Trent St; Birmingham, B5 5NL, United Kingdom, Birmingham
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*

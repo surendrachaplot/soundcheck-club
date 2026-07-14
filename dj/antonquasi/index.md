@@ -1,6 +1,6 @@
 # Anton Quasi
 
-Anton Quasi is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Void Club, Berlin on Fri, 24 Jul 2026.
+Anton Quasi is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Void Club, Berlin on Fri, 24 Jul 2026.
 
 Anton Quasi is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 71 sets logged across Berlin and Manchester. Often billed alongside Upzet, Aynaet and Shaded Lines. Next up: Void Club, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Anton Quasi is a drum & bass and techno artist based in Germany, tracked on soun
 
 Upzet, Aynaet, Shaded Lines
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antonquasi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antonquasi/)*

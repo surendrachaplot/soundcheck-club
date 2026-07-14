@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "FLUID Nationale • MATRAKK, Asaya, YENKOV, Maudux, SEND HER" on Tue, 14 Jul 2026.
+La Cité Fertile is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FLUID Nationale • MATRAKK, Asaya, YENKOV, Maudux, SEND HER" on Tue, 14 Jul 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Abn - P2z, Asaya, Cody Currie and Cosmo (KR) and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -18,4 +18,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 5 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

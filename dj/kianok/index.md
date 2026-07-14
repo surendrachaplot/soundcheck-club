@@ -1,6 +1,6 @@
 # Kian OK
 
-Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 Kian OK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Ghent and London and 3 more. Often billed alongside Bowyer, Kyle Toole and Picasso. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kian OK is a house and techno artist based in United Kingdom, tracked on soundch
 
 Bowyer, Kyle Toole, Picasso
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*

@@ -1,6 +1,6 @@
 # Void Mykonos
 
-Void Mykonos is a music venue in Mykonos with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Void Mykonos" on Wed, 12 Aug 2026.
+Void Mykonos is a music venue in Mykonos with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Void Mykonos" on Wed, 12 Aug 2026.
 
 Void Mykonos is a music venue in Mykonos listed on soundcheck. 1 upcoming night, with line-ups including ARODES and Deco (BE). Browse upcoming dates, start times and who's playing. Lakka, Mikonos 846 00, Greece.
 
@@ -14,4 +14,4 @@ Void Mykonos is a music venue in Mykonos listed on soundcheck. 1 upcoming night,
 
 Lakka, Mikonos 846 00, Greece, Mykonos
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/void-mykonos/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/void-mykonos/)*

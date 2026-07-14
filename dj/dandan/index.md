@@ -1,6 +1,6 @@
 # DANDAN
 
-DANDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gare Porto, Porto on Fri, 24 Jul 2026.
+DANDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gare Porto, Porto on Fri, 24 Jul 2026.
 
 DANDAN is a techno and house artist based in Japan, tracked on soundcheck, with 80 sets logged across Berlin, Hongkong, Lisbon and Melbourne and 5 more. Often billed alongside DANA NADA, TEI TEI and Kojiro. Next up: Gare Porto, Porto on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ DANDAN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 DANA NADA, TEI TEI, Kojiro
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dandan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dandan/)*

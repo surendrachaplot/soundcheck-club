@@ -1,6 +1,6 @@
 # The Chippo Hotel
 
-The Chippo Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Low End Focus: The Deep End" on Sat, 18 Jul 2026.
+The Chippo Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Low End Focus: The Deep End" on Sat, 18 Jul 2026.
 
 The Chippo Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Ninyo (AU) and Spuk. Browse upcoming dates, start times and who's playing. 87-91 Abercrombie Street, Chippendale NSW 2008, Australia.
 
@@ -15,4 +15,4 @@ The Chippo Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nig
 
 87-91 Abercrombie Street, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-chippo-hotel/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-chippo-hotel/)*

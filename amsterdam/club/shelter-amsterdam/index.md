@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Garrett David - All Night " on Fri, 17 Jul 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Garrett David - All Night " on Fri, 17 Jul 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Amaliah, Ammé, ANNASNEL and Boss Priester and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 14 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,6 +1,6 @@
 # Inafekt
 
-Inafekt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Curveball, Dublin on Sat, 18 Jul 2026.
+Inafekt is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Curveball, Dublin on Sat, 18 Jul 2026.
 
 Inafekt is a techno and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 14 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: Curveball, Dublin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Inafekt is a techno and house artist based in United Kingdom, tracked on soundch
 
 Kyle Starkey, Entasia, DART
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inafekt/)*

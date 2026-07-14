@@ -1,6 +1,6 @@
 # Akua
 
-Akua is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at RADION, Amsterdam on Sat, 18 Jul 2026.
+Akua is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at RADION, Amsterdam on Sat, 18 Jul 2026.
 
 Akua is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: RADION, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Akua is a techno and house artist tracked on soundcheck, with 193 sets logged ac
 
 1morning, DJ Stingray 313, Dr. Rubinstein
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

@@ -1,8 +1,8 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 27 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Perel" on Fri, 17 Jul 2026.
+Club Vinyl is a music venue in Denver with 28 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Perel" on Fri, 17 Jul 2026.
 
-Club Vinyl is a music venue in Denver listed on soundcheck. 27 upcoming nights, with line-ups including BL3SS, DATSKO, EMBRZ (IE) and Harry Romero and 2 more. Browse upcoming dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
+Club Vinyl is a music venue in Denver listed on soundcheck. 28 upcoming nights, with line-ups including BL3SS, DATSKO, EMBRZ (IE) and Harry Romero and 2 more. Browse upcoming dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 27 upcoming nights, 
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

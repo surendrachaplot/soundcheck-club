@@ -1,6 +1,6 @@
 # Cashu
 
-Cashu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+Cashu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
 Cashu is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: OXI, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Cashu is a techno and house artist tracked on soundcheck, with 140 sets logged a
 
 BADSISTA, RHR, Alírio
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

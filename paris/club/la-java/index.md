@@ -1,18 +1,17 @@
 # La Java
 
-La Java is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "EOS SESSION: Jolt, Alcane, K-Nu b2b Aector, Mononoke" on Mon, 13 Jul 2026.
+La Java is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Born 2 Bounce: Giø, Vespera, Cac40 & More" on Fri, 17 Jul 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | EOS SESSION: Jolt, Alcane, K-Nu b2b Aector, Mononoke |  |
 | Fri, 17 Jul 2026 | Born 2 Bounce: Giø, Vespera, Cac40 & More |  |
 
 ## Address
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

@@ -1,6 +1,6 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cipriani 42nd St., New York City on Sat, 18 Jul 2026.
+Damian Lazarus is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cipriani 42nd St., New York City on Sat, 18 Jul 2026.
 
 Damian Lazarus is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Athens and Bali and 32 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Cipriani 42nd St., Newyorkcity on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 199 sets
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

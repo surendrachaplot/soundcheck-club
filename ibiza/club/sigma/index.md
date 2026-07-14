@@ -1,14 +1,13 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Hydra" on Mon, 13 Jul 2026.
+Sigma is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sexy Grooves" on Tue, 14 Jul 2026.
 
-Sigma is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with line-ups including Anabel Arroyo, Bailey (UK), Ben Westbeech and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
+Sigma is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with line-ups including Anabel Arroyo, Bailey (UK), Ben Westbeech and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | Hydra |  |
 | Tue, 14 Jul 2026 | Sexy Grooves |  |
 | Wed, 15 Jul 2026 | The Basement |  |
 | Fri, 17 Jul 2026 | Makino x INTABEATS with Bailey, Been Westbeech, Rosie Riot & Kieron [Drum & Bass] | Bailey (UK), Ben Westbeech, Rosie Riot |
@@ -21,4 +20,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with li
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

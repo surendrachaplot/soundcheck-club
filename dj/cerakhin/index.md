@@ -1,6 +1,6 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eden, Ibiza on Tue, 14 Jul 2026.
+Cera Khin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Eden, Ibiza on Tue, 14 Jul 2026.
 
 Cera Khin is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Shlømo, Charlie Sparks and I Hate Models. Next up: Eden, Ibiza on Tue 14 Jul.
 
@@ -32,4 +32,4 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 172 sets logg
 
 Shlømo, Charlie Sparks, I Hate Models
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

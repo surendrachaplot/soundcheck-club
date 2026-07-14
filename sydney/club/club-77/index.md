@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Club 77 Reopen for Everyone: Rydeen, sovblkpssy" on Thu, 30 Jul 2026.
+Club 77 is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Club 77 Reopen for Everyone: Rydeen, sovblkpssy" on Thu, 30 Jul 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, with line-ups including Attu, au4r33y, Cristal No.5 and DJ Sveta and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

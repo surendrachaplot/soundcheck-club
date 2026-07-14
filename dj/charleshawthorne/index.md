@@ -1,6 +1,6 @@
 # Charles Hawthorne
 
-Charles Hawthorne is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at White Horse Inn, San Francisco/Oakland on Sat, 18 Jul 2026.
+Charles Hawthorne is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at White Horse Inn, San Francisco/Oakland on Sat, 18 Jul 2026.
 
 Charles Hawthorne is a house and disco artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside nina sol, David Harness and Mark O'Brien. Next up: White Horse Inn, Sanfrancisco on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Charles Hawthorne is a house and disco artist based in United States of America,
 
 nina sol, David Harness, Mark O'Brien
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*

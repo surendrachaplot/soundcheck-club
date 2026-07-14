@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Danspas By Day" on Tue, 21 Jul 2026.
+Chinastraat is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Danspas By Day" on Tue, 21 Jul 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including 23Shayatin, Albiovix, Felix Porte and Jane Muss and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -15,4 +15,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 2 upcoming nights, w
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

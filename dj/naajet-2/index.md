@@ -1,6 +1,6 @@
 # Naajet (2)
 
-Naajet (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Naajet (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Naajet (2) is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Lyon and Nantes and 2 more. Often billed alongside LeLeon, Bande de Filles and Goldie B. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Naajet (2) is a house and techno artist tracked on soundcheck, with 30 sets logg
 
 LeLeon, Bande de Filles, Goldie B
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/naajet-2/)*

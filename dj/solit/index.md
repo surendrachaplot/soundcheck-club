@@ -1,14 +1,14 @@
 # SOLIT
 
-SOLIT is a Deep House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Amsterdam on Sat, 18 Jul 2026.
+SOLIT is a Deep House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
 
-SOLIT is a deep house and tech house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin and Nottingham. Often billed alongside Merel Helderman, Boris Coelman and Kyra Khaldi. Next up: TBA, Amsterdam on Sat 18 Jul.
+SOLIT is a deep house and tech house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin and Nottingham. Often billed alongside Merel Helderman, Boris Coelman and Kyra Khaldi. Next up: THE OTHER SIDE, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA | Amsterdam |
+| Sat, 18 Jul 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 24 Jul 2026 | Yellow House | Amsterdam |
 | Sat, 25 Jul 2026 | Binks Yard | Nottingham |
 
@@ -27,4 +27,4 @@ SOLIT is a deep house and tech house artist based in Netherlands, tracked on sou
 
 Merel Helderman, Boris Coelman, Kyra Khaldi
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solit/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solit/)*

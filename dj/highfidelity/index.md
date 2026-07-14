@@ -1,6 +1,6 @@
 # High Fidelity
 
-High Fidelity is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
+High Fidelity is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Electric Garden, Dublin on Sat, 8 Aug 2026.
 
 High Fidelity is an electro and techno artist based in Ireland, tracked on soundcheck, with 28 sets logged across Berlin, Dublin, Mexicocity and Prague. Often billed alongside Surka (1), DIEBYVEG and Derv. Next up: Electric Garden, Dublin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ High Fidelity is an electro and techno artist based in Ireland, tracked on sound
 
 Surka (1), DIEBYVEG, Derv
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*

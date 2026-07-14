@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Amelie Lens" on Fri, 24 Jul 2026.
+Kaufleuten is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Amelie Lens" on Fri, 24 Jul 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Amelie Lens, :DARREN, Jacom (Adroit) and Lilya Mandre. Browse upcoming dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -15,4 +15,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming nights, w
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

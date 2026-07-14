@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+Alex Kassian is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
 Alex Kassian is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Alex Kassian is a house and techno artist tracked on soundcheck, with 167 sets l
 
 PARAMIDA, Job Jobse, Running Hot
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

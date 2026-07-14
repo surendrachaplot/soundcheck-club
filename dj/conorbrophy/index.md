@@ -1,6 +1,6 @@
 # Conor Brophy
 
-Conor Brophy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Macarena Club, Barcelona on Wed, 22 Jul 2026.
+Conor Brophy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Macarena Club, Barcelona on Wed, 22 Jul 2026.
 
 Conor Brophy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Marseille and Newyorkcity and 1 more. Often billed alongside Jorge Gamarra, Ika (GE) and Onoffon. Next up: Macarena Club, Barcelona on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Conor Brophy is a house and techno artist based in United Kingdom, tracked on so
 
 Jorge Gamarra, Ika (GE), Onoffon
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorbrophy/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorbrophy/)*

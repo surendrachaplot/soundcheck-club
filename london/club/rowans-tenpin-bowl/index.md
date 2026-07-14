@@ -1,6 +1,6 @@
 # Rowans Tenpin Bowl
 
-Rowans Tenpin Bowl is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Flowidus" on Sat, 18 Jul 2026.
+Rowans Tenpin Bowl is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Flowidus" on Sat, 18 Jul 2026.
 
 Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including DIEBYVEG, EMROSE, Grá (IRE) and Kule and 2 more. Browse upcoming dates, start times and who's playing. 10 Stroud Green Road, Finsbury Park, London N4 2DF.
 
@@ -15,4 +15,4 @@ Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 2 upcoming n
 
 10 Stroud Green Road, Finsbury Park, London N4 2DF, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/rowans-tenpin-bowl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/rowans-tenpin-bowl/)*

@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Magic Tuber Stringband / Neptune String Ensemble" on Tue, 21 Jul 2026.
+Moondog Cafe is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Magic Tuber Stringband / Neptune String Ensemble" on Tue, 21 Jul 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including Detroit Bureau of Sound. Browse upcoming dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -16,4 +16,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 3 upcoming nights
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

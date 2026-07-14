@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Elevate" on Thu, 16 Jul 2026.
+Factory Floor is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Elevate" on Thu, 16 Jul 2026.
 
 Factory Floor is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with line-ups including Bubbles (UK). Browse upcoming dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
@@ -15,4 +15,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 2 upcoming nig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

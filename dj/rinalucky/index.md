@@ -1,6 +1,6 @@
 # RINALUCKY
 
-RINALUCKY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Red Bar, Tokyo on Thu, 16 Jul 2026.
+RINALUCKY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Red Bar, Tokyo on Thu, 16 Jul 2026.
 
 RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, with 122 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RYOHEI, Drunken Kong and ERIMIYA. Next up: Red Bar, Tokyo on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 RYOHEI, Drunken Kong, ERIMIYA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rinalucky/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rinalucky/)*

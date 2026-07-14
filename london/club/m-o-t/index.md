@@ -1,14 +1,13 @@
 # M.O.T
 
-M.O.T is a music venue in London with 32 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Pindrop presents: Folk in the Round" on Mon, 13 Jul 2026.
+M.O.T is a music venue in London with 31 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "England vs. Argentina - Football (Free RSVP)" on Wed, 15 Jul 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including A.N.T, Abby Daze, Achiya and Akanbi and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including A.N.T, Abby Daze, Achiya and Akanbi and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | Pindrop presents: Folk in the Round |  |
 | Wed, 15 Jul 2026 | England vs. Argentina - Football (Free RSVP) |  |
 | Thu, 16 Jul 2026 | Factory Setting | Simon Mós, happyhappyface |
 | Fri, 17 Jul 2026 | Plástica Sonora x Venue MOT | sinny |
@@ -18,9 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 32 upcoming nights, with 
 | Sat, 18 Jul 2026 | LSB at Venue MOT | LSB |
 | Sat, 18 Jul 2026 | After Hours presents: Mantra & DJ Flight | A.N.T, Abby Daze, DJ Flight, Highlander, Mantra, Marky V, TILDA (2), Tallboy |
 | Thu, 23 Jul 2026 | Sexy Girls Luv Jungle X BLITZ |  |
+| Fri, 24 Jul 2026 | Mums Against Donk X Church of Donkology X Donkline | DJ Bax |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

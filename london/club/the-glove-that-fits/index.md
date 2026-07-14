@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 12 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala" on Fri, 17 Jul 2026.
+The Glove That Fits is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Far From Alone presents Antipodean Dreams with Guy Contact & Loa Szala" on Fri, 17 Jul 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Aero (1), Balrog, Custard Soup and Datassette and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 12 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

@@ -1,8 +1,8 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Lydia Lunch & Marc Hurtado plays Suicide" on Tue, 14 Jul 2026.
+Quarry is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Lydia Lunch & Marc Hurtado plays Suicide" on Tue, 14 Jul 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including djcd, Hardcore Babes, Insurrect and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including djcd, Hardcore Babes, Insurrect and Karman and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, wi
 | Fri, 7 Aug 2026 | Sound Of Solidarity | Insurrect, Karman, MYOHMY, Shauna, djcd |
 | Sat, 8 Aug 2026 | Events471 PRESENTS: Direct Input Vol 6: Sisters, Luno, Plus More TBA |  |
 | Thu, 10 Sept 2026 | Sword II at Quarry |  |
+| Thu, 17 Sept 2026 | TRUTHPASTE W/ SPECIAL GUESTS |  |
 
 ## Address
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

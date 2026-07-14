@@ -1,6 +1,6 @@
 # Collé
 
-Collé is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Pier of Scheveningen, The Hague on Sat, 18 Jul 2026.
+Collé is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Pier of Scheveningen, The Hague on Sat, 18 Jul 2026.
 
 Collé is a techno and house artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Bali, Barcelona and Brussels and 10 more. Often billed alongside Hedda Stenberg, Mees Salomé and CamelPhat. Next up: The Pier of Scheveningen, Thehague on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Collé is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Hedda Stenberg, Mees Salomé, CamelPhat
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colle/)*

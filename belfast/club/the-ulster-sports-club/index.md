@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Deep North launch party" on Fri, 17 Jul 2026.
+The Ulster Sports Club is a music venue in Belfast with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Deep North launch party" on Fri, 17 Jul 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcoming nights, with line-ups including Arveene, ByPhil, Conor Schmtz and Daniel Wang and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -22,4 +22,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 9 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

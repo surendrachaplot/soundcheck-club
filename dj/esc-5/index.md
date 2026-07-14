@@ -1,6 +1,6 @@
 # ESC (5)
 
-ESC (5) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eden, Ibiza on Wed, 22 Jul 2026.
+ESC (5) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Eden, Ibiza on Wed, 22 Jul 2026.
 
 ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Antwerp, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Dr Dubplate, Prozak (IRL) and Silva Bumpa. Next up: Eden, Ibiza on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Dr Dubplate, Prozak (IRL), Silva Bumpa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*

@@ -1,6 +1,6 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Luna Sunset Club no Edifício Martinelli! | 18.07" on Sat, 18 Jul 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Luna Sunset Club no Edifício Martinelli! | 18.07" on Sat, 18 Jul 2026.
 
 Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 5 upcoming nights, with line-ups including From House to Disco, Tessuto and Renato Cohen. Browse upcoming dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
@@ -18,4 +18,4 @@ Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 5 upcomi
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

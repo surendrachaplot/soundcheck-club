@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "OG Records" on Fri, 17 Jul 2026.
+Skatecafe is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "OG Records" on Fri, 17 Jul 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Alec Dienaar, Aniko, Bibtiana and Dan Dusty and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

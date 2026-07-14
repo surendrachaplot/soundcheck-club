@@ -1,6 +1,6 @@
 # Litoshka
 
-Litoshka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Virage, Paris on Fri, 17 Jul 2026.
+Litoshka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Virage, Paris on Fri, 17 Jul 2026.
 
 Litoshka is a techno and house artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 5 more. Often billed alongside Equus Belli, H.I.A and Roulita. Next up: Virage, Paris on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Litoshka is a techno and house artist tracked on soundcheck, with 46 sets logged
 
 Equus Belli, H.I.A, Roulita
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/litoshka-2/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/litoshka-2/)*

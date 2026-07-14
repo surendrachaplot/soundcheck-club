@@ -1,6 +1,6 @@
 # RP Boo
 
-RP Boo is a Footwork and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Nowadays, New York City on Thu, 16 Jul 2026.
+RP Boo is a Footwork and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nowadays, New York City on Thu, 16 Jul 2026.
 
 RP Boo is a footwork and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside DJ Spinn, Crystallmess and Introspekt. Next up: Nowadays, Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ RP Boo is a footwork and techno artist based in United States of America, tracke
 
 DJ Spinn, Crystallmess, Introspekt
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

@@ -1,6 +1,6 @@
 # Jezebel
 
-Jezebel is a EBM and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 17 Jul 2026.
+Jezebel is a EBM and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Yamamori Tengu, Dublin on Fri, 17 Jul 2026.
 
 Jezebel is an ebm and dubstep artist tracked on soundcheck, with 27 sets logged across Berlin, Brussels, Detroit and Dublin and 2 more. Often billed alongside Surferboy, deejaytrainwreck and JWY (1). Next up: Yamamori Tengu, Dublin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jezebel is an ebm and dubstep artist tracked on soundcheck, with 27 sets logged 
 
 Surferboy, deejaytrainwreck, JWY (1)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*

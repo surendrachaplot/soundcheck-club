@@ -1,6 +1,6 @@
 # Niilas
 
-Niilas is a Experimental and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
+Niilas is a Experimental and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Blå, Oslo on Sat, 8 Aug 2026.
 
 Niilas is an experimental and bass artist based in Norway, tracked on soundcheck, with 16 sets logged across Barcelona and Oslo. Often billed alongside Posner, Espen Cook and AEREA. Next up: Blå, Oslo on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Niilas is an experimental and bass artist based in Norway, tracked on soundcheck
 
 Posner, Espen Cook, AEREA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niilas/)*

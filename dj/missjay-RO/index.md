@@ -1,6 +1,6 @@
 # Miss Jay (RO)
 
-Miss Jay (RO) is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
+Miss Jay (RO) is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TILLATEC, Amsterdam on Fri, 31 Jul 2026.
 
 Miss Jay (RO) is a bass and club artist based in Romania, tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Sukubratz, Mareeo and BRAVA. Next up: TILLATEC, Amsterdam on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Miss Jay (RO) is a bass and club artist based in Romania, tracked on soundcheck,
 
 Sukubratz, Mareeo, BRAVA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missjay-RO/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missjay-RO/)*

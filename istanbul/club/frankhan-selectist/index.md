@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Laura De Greef + Baroć" on Sat, 18 Jul 2026.
+Frankhan Selectist is a music venue in Istanbul with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Laura De Greef + Baroć" on Sat, 18 Jul 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 4 upcoming nights, with line-ups including Baroć, Laura De Greef and Tomoki Tamura. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -17,4 +17,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 4 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

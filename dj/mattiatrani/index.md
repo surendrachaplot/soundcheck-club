@@ -1,6 +1,6 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eden, Ibiza on Tue, 14 Jul 2026.
+Mattia Trani is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Eden, Ibiza on Tue, 14 Jul 2026.
 
 Mattia Trani is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Ibiza and London and 9 more. Often billed alongside Gianni Di Bernardo, ANKKH and V111. Next up: Eden, Ibiza on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ Mattia Trani is a techno and industrial artist tracked on soundcheck, with 31 se
 
 Gianni Di Bernardo, ANKKH, V111
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*

@@ -1,6 +1,6 @@
 # Pirata
 
-Pirata is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "ECLECTIK" on Mon, 20 Jul 2026.
+Pirata is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "ECLECTIK" on Mon, 20 Jul 2026.
 
 Pirata is a music venue in Thehague listed on soundcheck. 1 upcoming night, with line-ups including Mimmo Errico. Browse upcoming dates, start times and who's playing. Den Haag.
 
@@ -14,4 +14,4 @@ Pirata is a music venue in Thehague listed on soundcheck. 1 upcoming night, with
 
 Den Haag, The Hague
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pirata/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pirata/)*

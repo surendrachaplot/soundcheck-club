@@ -1,8 +1,8 @@
 # Brasi
 
-Brasi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sameheads, Berlin on Sat, 18 Jul 2026.
+Brasi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sameheads, Berlin on Sat, 18 Jul 2026.
 
-Brasi is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Niff, Jane Fitz and sohrab.. Next up: Sameheads, Berlin on Sat 18 Jul.
+Brasi is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 31 more. Often billed alongside Niff, Alexia Glensy and Jane Fitz. Next up: Sameheads, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Brasi is a techno and house artist tracked on soundcheck, with 125 sets logged a
 | Sat, 18 Jul 2026 | Sameheads | Berlin |
 | Sun, 19 Jul 2026 | Urban Spree | Berlin |
 | Sun, 26 Jul 2026 | Sunseabar Beach Club | Barcelona |
+| Sat, 12 Sept 2026 | Bunker | Turin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Brasi is a techno and house artist tracked on soundcheck, with 125 sets logged a
 
 ## Shares bills with
 
-Niff, Jane Fitz, sohrab.
+Niff, Alexia Glensy, Jane Fitz
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brasi/)*

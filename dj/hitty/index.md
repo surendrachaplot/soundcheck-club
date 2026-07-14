@@ -1,6 +1,6 @@
 # hitty
 
-hitty is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 77, London on Sat, 18 Jul 2026.
+hitty is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 77, London on Sat, 18 Jul 2026.
 
 hitty is a tech house and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Sammy Porter, Shenin Amara and Meeshy. Next up: 77, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ hitty is a tech house and house artist tracked on soundcheck, with 74 sets logge
 
 Sammy Porter, Shenin Amara, Meeshy
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*

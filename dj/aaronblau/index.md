@@ -1,6 +1,6 @@
 # Aaron Blau
 
-Aaron Blau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Aaron Blau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Aaron Blau is a house and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Copenhagen, Leipzig and Milan and 2 more. Often billed alongside puppy, Kingsizebed and DJ AYA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Aaron Blau is a house and techno artist based in Germany, tracked on soundcheck,
 
 puppy, Kingsizebed, DJ AYA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronblau/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronblau/)*

@@ -1,6 +1,6 @@
 # Marasi
 
-Marasi is a Afro House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Desa Kitsune, Bali on Fri, 17 Jul 2026.
+Marasi is a Afro House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Desa Kitsune, Bali on Fri, 17 Jul 2026.
 
 Marasi is an afro house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside Pablo Fierro, AERES (1) and ANTO ZAGU. Next up: Desa Kitsune, Bali on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Marasi is an afro house and tech house artist tracked on soundcheck, with 41 set
 
 Pablo Fierro, AERES (1), ANTO ZAGU
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*

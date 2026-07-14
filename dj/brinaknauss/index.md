@@ -1,6 +1,6 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 29 Jul 2026.
+Brina Knauss is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Ushuaïa Ibiza, Ibiza on Wed 29 Jul.
 
@@ -32,4 +32,4 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 
 Fideles, Mathame, Henri Bergmann
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

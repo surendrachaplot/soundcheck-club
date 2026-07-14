@@ -1,6 +1,6 @@
 # Terraza Atenas
 
-Terraza Atenas is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Tardeo Electronico by Promised Wax & World Cup Final" on Sun, 19 Jul 2026.
+Terraza Atenas is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Tardeo Electronico by Promised Wax & World Cup Final" on Sun, 19 Jul 2026.
 
 Terraza Atenas is a music venue in Madrid listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle Segovia, S/N, 28005 Madrid, España.
 
@@ -14,4 +14,4 @@ Terraza Atenas is a music venue in Madrid listed on soundcheck. 1 upcoming night
 
 Calle Segovia, S/N, 28005 Madrid, España, Madrid
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/terraza-atenas/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/terraza-atenas/)*

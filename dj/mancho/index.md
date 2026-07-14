@@ -1,6 +1,6 @@
 # Mancho
 
-Mancho is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bassiani, Tbilisi on Fri, 17 Jul 2026.
+Mancho is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bassiani, Tbilisi on Fri, 17 Jul 2026.
 
 Mancho is a techno and house artist tracked on soundcheck, with 65 sets logged across Tbilisi. Often billed alongside Bekuchi, Seqta and Boyá. Next up: Bassiani, Tbilisi on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mancho is a techno and house artist tracked on soundcheck, with 65 sets logged a
 
 Bekuchi, Seqta, Boyá
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mancho/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mancho/)*

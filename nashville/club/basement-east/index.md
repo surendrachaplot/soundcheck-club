@@ -1,6 +1,6 @@
 # Basement East
 
-Basement East is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Smerz" on Sun, 13 Sept 2026.
+Basement East is a music venue in Nashville with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Smerz" on Sun, 13 Sept 2026.
 
 Basement East is a music venue in Nashville listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 917 Woodland St, Nashville, TN 37206.
 
@@ -14,4 +14,4 @@ Basement East is a music venue in Nashville listed on soundcheck. 1 upcoming nig
 
 917 Woodland St, Nashville, TN 37206, Nashville
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/basement-east/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/basement-east/)*

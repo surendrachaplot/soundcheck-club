@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "HOUSE HAVENS" on Fri, 17 Jul 2026.
+Yellow House is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HOUSE HAVENS" on Fri, 17 Jul 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Benoît, DJ Crystal Bitch, Heritage Listed and Holopine and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -18,4 +18,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 5 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

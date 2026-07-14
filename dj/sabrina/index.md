@@ -1,6 +1,6 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
+Sabrina is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Colour Factory, London on Sat, 1 Aug 2026.
 
 Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 30 sets logged across Bali, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Iñigo Vontier, Monrroe and Pola & Bryson. Next up: Colour Factory, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Sabrina is a drum & bass and electronica artist tracked on soundcheck, with 30 s
 
 Iñigo Vontier, Monrroe, Pola & Bryson
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*

@@ -1,6 +1,6 @@
 # Kwartz
 
-Kwartz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Kwartz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
 
 Kwartz is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kaiser (K S R), BLANKA and Beste Hira. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kwartz is a techno and house artist tracked on soundcheck, with 89 sets logged a
 
 Kaiser (K S R), BLANKA, Beste Hira
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*

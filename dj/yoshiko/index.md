@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Hardcore and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Le Kilowatt, Paris on Sat, 25 Jul 2026.
+Yoshiko is a Hardcore and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le Kilowatt, Paris on Sat, 25 Jul 2026.
 
 Yoshiko is a hardcore and techno artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Dimitri K, Winson and A.N.I.. Next up: Le Kilowatt, Paris on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Yoshiko is a hardcore and techno artist tracked on soundcheck, with 27 sets logg
 
 Dimitri K, Winson, A.N.I.
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

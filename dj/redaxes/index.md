@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bolivar Beach Bar, Athens on Thu, 23 Jul 2026.
+Red Axes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bolivar Beach Bar, Athens on Thu, 23 Jul 2026.
 
 Red Axes is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Tennis, Luke Alessi and Sossa. Next up: Bolivar Beach Bar, Athens on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Red Axes is a techno and house artist tracked on soundcheck, with 72 sets logged
 
 DJ Tennis, Luke Alessi, Sossa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

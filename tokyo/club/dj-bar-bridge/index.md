@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 42 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DJ MINOYAMA, DAH-ISHI & ISABELLE" on Mon, 13 Jul 2026.
+DJ Bar Bridge is a music venue in Tokyo with 41 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "RYOSUKE, EDDY, JITSUMITSU & QUESTA" on Tue, 14 Jul 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 42 upcoming nights, with line-ups including ALEXANDER M, DJ Emma, DJ Nori and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 41 upcoming nights, with line-ups including ALEXANDER M, DJ Emma, DJ Nori and DNG (1) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | DJ MINOYAMA, DAH-ISHI & ISABELLE |  |
 | Tue, 14 Jul 2026 | RYOSUKE, EDDY, JITSUMITSU & QUESTA |  |
 | Wed, 15 Jul 2026 | HIROSHI KAWANABE & FELINE | FELINE (JP) |
 | Thu, 16 Jul 2026 | HOUSE-TEX | DJ Emma |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 42 upcoming nights
 | Mon, 20 Jul 2026 | KANGO, Ohishi & DJ KAZ | Ohishi |
 | Tue, 21 Jul 2026 | ZUKIE, Ryo Futojima & DJ HARUKI |  |
 | Wed, 22 Jul 2026 | KUBOTA,TAKESHI & YAMA aka sahib | KUBOTA |
+| Thu, 23 Jul 2026 | HOUSE-TEX ALOHA NIGHT | DJ Emma, KATIMI AI |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

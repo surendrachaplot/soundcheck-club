@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "BLUR" on Fri, 17 Jul 2026.
+PRST is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "BLUR" on Fri, 17 Jul 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including BAUGRUPPE90, C.Love (2), CHERCHES and Chris Freud and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -21,4 +21,4 @@ PRST is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "RUND mit Sahra Bass" on Fri, 17 Jul 2026.
+Hive Club is a music venue in Zurich with 10 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "RUND mit Sahra Bass" on Fri, 17 Jul 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming nights, with line-ups including ACID FLORA, And Hazel, Animal Trainer and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 10 upcoming nights, w
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

@@ -1,6 +1,6 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Kwia, Berlin on Wed, 15 Jul 2026.
+Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kwia, Berlin on Wed, 15 Jul 2026.
 
 Miss Parker is a techno and house artist tracked on soundcheck, with 120 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, DJ Thank You and Princess Peggie. Next up: Kwia, Berlin on Wed 15 Jul.
 
@@ -28,4 +28,4 @@ Miss Parker is a techno and house artist tracked on soundcheck, with 120 sets lo
 
 Devoye, DJ Thank You, Princess Peggie
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

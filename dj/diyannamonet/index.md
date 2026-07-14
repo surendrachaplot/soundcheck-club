@@ -1,6 +1,6 @@
 # Diyanna Monet
 
-Diyanna Monet is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mess Hall, Washington DC on Sun, 19 Jul 2026.
+Diyanna Monet is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Mess Hall, Washington DC on Sun, 19 Jul 2026.
 
 Diyanna Monet is a house and club artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity and Washingtondc. Often billed alongside B_X_R_N_X_R_D, KayLaSoul and Baronhawk Poitier. Next up: Mess Hall, Washingtondc on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Diyanna Monet is a house and club artist based in United States of America, trac
 
 B_X_R_N_X_R_D, KayLaSoul, Baronhawk Poitier
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diyannamonet/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diyannamonet/)*

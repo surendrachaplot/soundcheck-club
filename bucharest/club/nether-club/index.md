@@ -1,8 +1,8 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "M.I.L.K - Summer Edition" on Fri, 17 Jul 2026.
+Nether Club is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "M.I.L.K - Summer Edition" on Fri, 17 Jul 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including AMEDEUS, Amnesico, KATHERYNE and LVUR and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and KATHERYNE and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming night
 | Sat, 8 Aug 2026 | THE DEVIL IS BACK |  |
 | Fri, 14 Aug 2026 | M.I.L.K | AMEDEUS, Amnesico, KATHERYNE, LVUR, Stefan Hernandez |
 | Sat, 22 Aug 2026 | THE DEVIL IS BACK |  |
+| Sat, 5 Sept 2026 | Zenyth III | BUTCHER BABY |
 | Sat, 12 Sept 2026 | some.techno@ Nether Club : blackout |  |
 | Fri, 18 Sept 2026 | M.I.L.K | AMEDEUS, Amnesico, KATHERYNE, LVUR, Stefan Hernandez |
 
@@ -20,4 +21,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming night
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

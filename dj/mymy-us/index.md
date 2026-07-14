@@ -1,6 +1,6 @@
 # mymy
 
-mymy is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
+mymy is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 mymy is a club and baile funk artist based in United States of America, tracked on soundcheck, with 28 sets logged across Mexicocity and Sanfrancisco. Often billed alongside QUEENIE (US), Sánlo and Zan (1). Next up: F8 1192 Folsom, Sanfrancisco on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ mymy is a club and baile funk artist based in United States of America, tracked 
 
 QUEENIE (US), Sánlo, Zan (1)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mymy-us/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mymy-us/)*

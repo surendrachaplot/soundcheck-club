@@ -1,6 +1,6 @@
 # 2K88
 
-2K88 is a Experimental and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at John Curtin Band Room, Melbourne on Fri, 17 Jul 2026.
+2K88 is a Experimental and IDM artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at John Curtin Band Room, Melbourne on Fri, 17 Jul 2026.
 
 2K88 is an experimental and idm artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Krakow and 10 more. Often billed alongside Rainy Miller, ojoo and Lauren Duffus. Next up: John Curtin Band Room, Melbourne on Fri 17 Jul.
 
@@ -26,4 +26,4 @@
 
 Rainy Miller, ojoo, Lauren Duffus
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*

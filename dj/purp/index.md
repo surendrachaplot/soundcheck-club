@@ -1,6 +1,6 @@
 # purp
 
-purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sinners and Saints, Washington DC on Sat, 18 Jul 2026.
+purp is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sinners and Saints, Washington DC on Sat, 18 Jul 2026.
 
 purp is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Brussels, Losangeles and Miami and 4 more. Often billed alongside Bodegaparty, jo_sway and JuanDeOne. Next up: Sinners and Saints, Washingtondc on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ purp is a club and ghetto tech artist based in United States of America, tracked
 
 Bodegaparty, jo_sway, JuanDeOne
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/purp/)*

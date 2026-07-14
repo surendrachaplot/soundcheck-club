@@ -1,6 +1,6 @@
 # Vajdahunyad Castle
 
-Vajdahunyad Castle is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Shimza by City Takeover" on Fri, 7 Aug 2026.
+Vajdahunyad Castle is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Shimza by City Takeover" on Fri, 7 Aug 2026.
 
 Vajdahunyad Castle is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including Clarkent and Shimza. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad stny., 1146.
 
@@ -15,4 +15,4 @@ Vajdahunyad Castle is a music venue in Budapest listed on soundcheck. 2 upcoming
 
 Budapest, Vajdahunyad stny., 1146, Budapest
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vajdahunyad-castle/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vajdahunyad-castle/)*

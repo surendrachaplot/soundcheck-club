@@ -1,6 +1,6 @@
 # Cuartero
 
-Cuartero is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
+Cuartero is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
 
 Cuartero is a tech house and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 12 more. Often billed alongside East End Dubs, Manda Moor and Prunk. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Cuartero is a tech house and house artist tracked on soundcheck, with 97 sets lo
 
 East End Dubs, Manda Moor, Prunk
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*

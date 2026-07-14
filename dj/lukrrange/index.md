@@ -1,6 +1,6 @@
 # Lukr Range
 
-Lukr Range is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Melkweg, Amsterdam on Tue, 14 Jul 2026.
+Lukr Range is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Melkweg, Amsterdam on Tue, 14 Jul 2026.
 
 Lukr Range is a techno and trance artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Brussels and Budapest and 7 more. Often billed alongside VNVK, EMIRA and Inverse Element. Next up: Melkweg, Amsterdam on Tue 14 Jul.
 
@@ -28,4 +28,4 @@ Lukr Range is a techno and trance artist based in Germany, tracked on soundcheck
 
 VNVK, EMIRA, Inverse Element
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*

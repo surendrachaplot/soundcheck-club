@@ -1,6 +1,6 @@
 # James Holroyd
 
-James Holroyd is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Space, Leeds on Sat, 18 Jul 2026.
+James Holroyd is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Space, Leeds on Sat, 18 Jul 2026.
 
 James Holroyd is a house and acid artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Birmingham, Ibiza, Leeds and Liverpool and 3 more. Often billed alongside Jon Dasilva, Justin Robertson and Neil Diablo. Next up: Space, Leeds on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ James Holroyd is a house and acid artist based in United Kingdom, tracked on sou
 
 Jon Dasilva, Justin Robertson, Neil Diablo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholroyd/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesholroyd/)*

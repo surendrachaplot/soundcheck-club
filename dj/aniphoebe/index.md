@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sameheads, Berlin on Fri, 17 Jul 2026.
+Ani Phoebe is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sameheads, Berlin on Fri, 17 Jul 2026.
 
 Ani Phoebe is a house and balearic artist tracked on soundcheck, with 65 sets logged across Bangkok, Berlin, Hongkong and Lisbon and 14 more. Often billed alongside Seelie, Heels & Souls and Issasha. Next up: Sameheads, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Ani Phoebe is a house and balearic artist tracked on soundcheck, with 65 sets lo
 
 Seelie, Heels & Souls, Issasha
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

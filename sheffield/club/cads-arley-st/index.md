@@ -1,6 +1,6 @@
 # Cads Arley St
 
-Cads Arley St is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Reel Steel & Interworld: Sculpture, Rhizocorp at CADS" on Fri, 31 Jul 2026.
+Cads Arley St is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Reel Steel & Interworld: Sculpture, Rhizocorp at CADS" on Fri, 31 Jul 2026.
 
 Cads Arley St is a music venue in Sheffield listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. CADS Arley Street, Sheffield, S2 4QP.
 
@@ -14,4 +14,4 @@ Cads Arley St is a music venue in Sheffield listed on soundcheck. 1 upcoming nig
 
 CADS Arley Street, Sheffield, S2 4QP, Sheffield
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/cads-arley-st/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/cads-arley-st/)*

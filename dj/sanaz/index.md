@@ -1,6 +1,6 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Sanaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, London and Madrid and 1 more. Often billed alongside Immy, Jessica Nightlife and AAMIROO. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Immy, Jessica Nightlife, AAMIROO
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

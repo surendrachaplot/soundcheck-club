@@ -1,6 +1,6 @@
 # Ložionica
 
-Ložionica is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "AUTECHRE IN BELGRADE" on Thu, 1 Oct 2026.
+Ložionica is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "AUTECHRE IN BELGRADE" on Thu, 1 Oct 2026.
 
 Ložionica is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including Autechre. Browse upcoming dates, start times and who's playing. Ulica Ideja 2.
 
@@ -14,4 +14,4 @@ Ložionica is a music venue in Belgrade listed on soundcheck. 1 upcoming night, 
 
 Ulica Ideja 2, Belgrade
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lo-ionica/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lo-ionica/)*

@@ -1,6 +1,6 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at BCM, Mallorca on Tue, 14 Jul 2026.
+FISHER is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BCM, Mallorca on Tue, 14 Jul 2026.
 
 FISHER is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: BCM, Mallorca on Tue 14 Jul.
 
@@ -35,4 +35,4 @@ FISHER is a house and tech house artist tracked on soundcheck, with 154 sets log
 
 Vintage Culture, Jason Bye, Little Fritter
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*

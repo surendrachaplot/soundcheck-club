@@ -1,6 +1,6 @@
 # Whitehart Bar
 
-Whitehart Bar is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Classics" on Sat, 18 Jul 2026.
+Whitehart Bar is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Classics" on Sat, 18 Jul 2026.
 
 Whitehart Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Chris NG. Browse upcoming dates, start times and who's playing. 22 Whitehart Lane, Melbourne VIC 3000.
 
@@ -14,4 +14,4 @@ Whitehart Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming nig
 
 22 Whitehart Lane, Melbourne VIC 3000, Melbourne
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/whitehart-bar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/whitehart-bar/)*

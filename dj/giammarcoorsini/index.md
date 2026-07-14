@@ -1,8 +1,8 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 宀 Club, Hong Kong on Fri, 17 Jul 2026.
+Giammarco Orsini is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 宀 Club, Hong Kong on Fri, 17 Jul 2026.
 
-Giammarco Orsini is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: 宀 Club, Hongkong on Fri 17 Jul.
+Giammarco Orsini is a house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: 宀 Club, Hongkong on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 160 se
 | Fri, 17 Jul 2026 | 宀 Club | Hong Kong |
 | Sat, 8 Aug 2026 | Boomerang Beach | The Hague |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 12 Sept 2026 | Bunker | Turin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 160 se
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

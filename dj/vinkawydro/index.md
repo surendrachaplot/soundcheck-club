@@ -1,6 +1,6 @@
 # Vinka Wydro
 
-Vinka Wydro is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Rex Club, Paris on Thu, 16 Jul 2026.
+Vinka Wydro is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Rex Club, Paris on Thu, 16 Jul 2026.
 
 Vinka Wydro is a techno and industrial artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Angel Karel, DEBBIE (IT) and LiXaa. Next up: Rex Club, Paris on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Vinka Wydro is a techno and industrial artist based in France, tracked on soundc
 
 Angel Karel, DEBBIE (IT), LiXaa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*

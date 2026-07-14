@@ -1,6 +1,6 @@
 # Agoria
 
-Agoria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Clairière, Paris on Fri, 24 Jul 2026.
+Agoria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Clairière, Paris on Fri, 24 Jul 2026.
 
 Agoria is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Geneva and 15 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: La Clairière, Paris on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Agoria is a house and techno artist tracked on soundcheck, with 55 sets logged a
 
 Mooglie, Amour Propre, Armin van Buuren
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agoria/)*

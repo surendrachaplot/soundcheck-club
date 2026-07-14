@@ -1,6 +1,6 @@
 # KAZIA
 
-KAZIA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at renae, Manchester on Fri, 7 Aug 2026.
+KAZIA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at renae, Manchester on Fri, 7 Aug 2026.
 
 KAZIA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Ibiza, London and Manchester. Often billed alongside Geo DJ, Reece Batch and iN:YANG. Next up: renae, Manchester on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ KAZIA is a house and tech house artist based in United Kingdom, tracked on sound
 
 Geo DJ, Reece Batch, iN:YANG
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazia/)*

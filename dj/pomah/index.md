@@ -1,6 +1,6 @@
 # Pomah
 
-Pomah is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at MODULE, Copenhagen on Fri, 17 Jul 2026.
+Pomah is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MODULE, Copenhagen on Fri, 17 Jul 2026.
 
 Pomah is a techno and industrial artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Budapest, Copenhagen and Frankfurt and 6 more. Often billed alongside Axciid, Karashò and Nothing Left. Next up: MODULE, Copenhagen on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Pomah is a techno and industrial artist based in Germany, tracked on soundcheck,
 
 Axciid, Karashò, Nothing Left
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pomah/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pomah/)*

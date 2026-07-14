@@ -1,6 +1,6 @@
 # Dario Milkovic
 
-Dario Milkovic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Die Rakete, Nürnberg on Sat, 18 Jul 2026.
+Dario Milkovic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Die Rakete, Nürnberg on Sat, 18 Jul 2026.
 
 Dario Milkovic is a techno and tech house artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Frankfurt, Munich and Nurnberg. Often billed alongside Claudius (DE), Matchy and BAHAA AL DEEN. Next up: Die Rakete, Nurnberg on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Dario Milkovic is a techno and tech house artist based in Germany, tracked on so
 
 Claudius (DE), Matchy, BAHAA AL DEEN
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariomilkovic/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dariomilkovic/)*

@@ -1,14 +1,13 @@
 # Suns Shimokitazawa
 
-Suns Shimokitazawa is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "イケダミノリpresents "つぎの春へ 2"" on Mon, 13 Jul 2026.
+Suns Shimokitazawa is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Shimokitazawa Suns OPEN BOOTH" on Tue, 14 Jul 2026.
 
-Suns Shimokitazawa is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Ground (1), Kengo Yuasa and YUKI (JP). Browse upcoming dates, start times and who's playing. 2-18-5 Kitazawa ,Setagayaku , Tokyo 150-0031 , Japan.
+Suns Shimokitazawa is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Ground (1), Kengo Yuasa and YUKI (JP). Browse upcoming dates, start times and who's playing. 2-18-5 Kitazawa ,Setagayaku , Tokyo 150-0031 , Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | イケダミノリpresents "つぎの春へ 2" |  |
 | Tue, 14 Jul 2026 | Shimokitazawa Suns OPEN BOOTH |  |
 | Wed, 15 Jul 2026 | Mora |  |
 | Thu, 23 Jul 2026 | Shimokitazawa Suns Open Booth |  |
@@ -19,4 +18,4 @@ Suns Shimokitazawa is a music venue in Tokyo listed on soundcheck. 6 upcoming ni
 
 2-18-5 Kitazawa ,Setagayaku , Tokyo 150-0031 , Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/suns-shimokitazawa/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/suns-shimokitazawa/)*

@@ -1,6 +1,6 @@
 # Micky Finn
 
-Micky Finn is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Basing House, London on Sat, 8 Aug 2026.
+Micky Finn is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Basing House, London on Sat, 8 Aug 2026.
 
 Micky Finn is a jungle and drum & bass artist tracked on soundcheck, with 31 sets logged across Amsterdam, Birmingham, Brighton and London and 2 more. Often billed alongside Nicky Blackmarket, Kenny Ken and Fabio. Next up: Basing House, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Micky Finn is a jungle and drum & bass artist tracked on soundcheck, with 31 set
 
 Nicky Blackmarket, Kenny Ken, Fabio
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyfinn-uk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyfinn-uk/)*

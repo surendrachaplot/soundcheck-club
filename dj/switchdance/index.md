@@ -1,6 +1,6 @@
 # Switchdance
 
-Switchdance is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lux Fragil, Lisbon on Fri, 17 Jul 2026.
+Switchdance is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lux Fragil, Lisbon on Fri, 17 Jul 2026.
 
 Switchdance is an electro and electronica artist based in Portugal, tracked on soundcheck, with 30 sets logged across Budapest, Lisbon, Lyon and Oslo and 1 more. Often billed alongside XCI, Khalil Suleman and Afonso Peixoto. Next up: Lux Fragil, Lisbon on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Switchdance is an electro and electronica artist based in Portugal, tracked on s
 
 XCI, Khalil Suleman, Afonso Peixoto
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/switchdance/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/switchdance/)*

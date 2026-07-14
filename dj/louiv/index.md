@@ -1,13 +1,14 @@
 # Louiv
 
-Louiv is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - DTLA, Los Angeles on Fri, 14 Aug 2026.
+Louiv is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Arcana, San Francisco/Oakland on Fri, 31 Jul 2026.
 
-Louiv is a house and techno artist tracked on soundcheck, with 68 sets logged across Austin, Boston, Chicago and Losangeles and 3 more. Often billed alongside Combover, Philco and zacky. Next up: TBA - DTLA, Losangeles on Fri 14 Aug.
+Louiv is a house and tech house artist tracked on soundcheck, with 69 sets logged across Austin, Boston, Chicago and Losangeles and 3 more. Often billed alongside Combover, Philco and zacky. Next up: Arcana, Sanfrancisco on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | Arcana | San Francisco/Oakland |
 | Fri, 14 Aug 2026 | TBA - DTLA | Los Angeles |
 | Sat, 15 Aug 2026 | Public Works | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ Louiv is a house and techno artist tracked on soundcheck, with 68 sets logged ac
 
 Combover, Philco, zacky
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louiv/)*

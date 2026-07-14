@@ -1,6 +1,6 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 18 Jul 2026.
+Alec Dienaar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 18 Jul 2026.
 
 Alec Dienaar is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Dublin and Hamburg and 7 more. Often billed alongside Genex, STIPP and Vromo. Next up: SISSI'S Amsterdam, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Alec Dienaar is a techno and house artist tracked on soundcheck, with 39 sets lo
 
 Genex, STIPP, Vromo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*

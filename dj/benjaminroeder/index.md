@@ -1,6 +1,6 @@
 # Benjamin Roeder
 
-Benjamin Roeder is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Stuck Kantine, Munich on Thu, 30 Jul 2026.
+Benjamin Roeder is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Stuck Kantine, Munich on Thu, 30 Jul 2026.
 
 Benjamin Roeder is a house and disco artist based in Germany, tracked on soundcheck, with 65 sets logged across Athens, Austin, Berlin and Bucharest and 8 more. Often billed alongside Manuel Kim, beewack and Bogus Trumper. Next up: Stuck Kantine, Munich on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Benjamin Roeder is a house and disco artist based in Germany, tracked on soundch
 
 Manuel Kim, beewack, Bogus Trumper
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminroeder/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminroeder/)*

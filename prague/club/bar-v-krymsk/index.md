@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "AMAR DURGA" on Thu, 16 Jul 2026.
+Bar v Krymský is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "AMAR DURGA" on Thu, 16 Jul 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including AMAR DURGA, Cuba, Daniel Neighbour and Lillou and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
@@ -21,4 +21,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 8 upcoming night
 
 Krymská 21, Praha, Prague
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

@@ -1,6 +1,6 @@
 # Lady Harley
 
-Lady Harley is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Le Bain, New York City on Thu, 23 Jul 2026.
+Lady Harley is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le Bain, New York City on Thu, 23 Jul 2026.
 
 Lady Harley is an electro and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity and Washingtondc. Often billed alongside Laila Amira, Mui Mui and EREZ.JPG. Next up: Le Bain, Newyorkcity on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Lady Harley is an electro and house artist based in United States of America, tr
 
 Laila Amira, Mui Mui, EREZ.JPG
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyharley/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyharley/)*

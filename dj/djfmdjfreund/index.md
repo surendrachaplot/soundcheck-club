@@ -1,6 +1,6 @@
 # DJ FM & DJ FREUND
 
-DJ FM & DJ FREUND is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Corleone, Munich on Fri, 24 Jul 2026.
+DJ FM & DJ FREUND is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Corleone, Munich on Fri, 24 Jul 2026.
 
 DJ FM & DJ FREUND are a techno and house duo based in Germany, tracked on soundcheck, with 71 sets logged across Munich. Often billed alongside Safahs, Die Tektonische Plattenverschiebung and Kim_Twiddle. Next up: Corleone, Munich on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ DJ FM & DJ FREUND are a techno and house duo based in Germany, tracked on soundc
 
 Safahs, Die Tektonische Plattenverschiebung, Kim_Twiddle
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfmdjfreund/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfmdjfreund/)*

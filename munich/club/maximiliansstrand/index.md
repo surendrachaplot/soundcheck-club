@@ -1,6 +1,6 @@
 # Maximiliansstrand
 
-Maximiliansstrand is a music venue in Munich with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Free Open Air: Lelantus x Ritu at Maximillianplatz" on Sat, 18 Jul 2026.
+Maximiliansstrand is a music venue in Munich with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Free Open Air: Lelantus x Ritu at Maximillianplatz" on Sat, 18 Jul 2026.
 
 Maximiliansstrand is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Black Box and Unseen.. Browse upcoming dates, start times and who's playing. Maximiliansplatz 1, 803333 München.
 
@@ -14,4 +14,4 @@ Maximiliansstrand is a music venue in Munich listed on soundcheck. 1 upcoming ni
 
 Maximiliansplatz 1, 803333 München, Munich
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/maximiliansstrand/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/maximiliansstrand/)*

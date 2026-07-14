@@ -1,6 +1,6 @@
 # Didi Han
 
-Didi Han is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Didi Han is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 Didi Han is a house and club artist based in South Korea, tracked on soundcheck, with 52 sets logged across Amsterdam, Bali, Bangkok and Hongkong and 13 more. Often billed alongside Cezaire, Darius (FR) and Angie (FR). Next up: The Cause, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Didi Han is a house and club artist based in South Korea, tracked on soundcheck,
 
 Cezaire, Darius (FR), Angie (FR)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*

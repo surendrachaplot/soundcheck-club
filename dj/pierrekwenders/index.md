@@ -1,6 +1,6 @@
 # Pierre Kwenders
 
-Pierre Kwenders is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 25 Jul 2026.
+Pierre Kwenders is a Club and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at YuYu Cine Club, Mexico City on Sat, 25 Jul 2026.
 
 Pierre Kwenders is a club and afro house artist based in Canada, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Barcelona and Brussels and 12 more. Often billed alongside San Farafina, Moonshine and NegoO. Next up: YuYu Cine Club, Mexicocity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Pierre Kwenders is a club and afro house artist based in Canada, tracked on soun
 
 San Farafina, Moonshine, NegoO
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekwenders/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekwenders/)*

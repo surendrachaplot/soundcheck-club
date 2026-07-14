@@ -1,6 +1,6 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sounds Good x All Dayer - Summer Sessions" on Sun, 19 Jul 2026.
+Byhaven is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sounds Good x All Dayer - Summer Sessions" on Sun, 19 Jul 2026.
 
 Byhaven is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including B From E, Braver, Niko Nuevo and Samuel Rees. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
@@ -19,4 +19,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

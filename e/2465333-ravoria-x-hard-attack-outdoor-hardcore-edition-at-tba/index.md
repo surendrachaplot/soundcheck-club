@@ -1,6 +1,6 @@
 # RAVORIA x HARD ATTACK/ OUTDOOR HARDCORE EDITION at TBA
 
-RAVORIA x HARD ATTACK/ OUTDOOR HARDCORE EDITION at TBA on Sat 18 Jul, Belgrade. 3 acts on the bill: Akemiö Grey, Gysèle and Jane Acid. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+RAVORIA x HARD ATTACK/ OUTDOOR HARDCORE EDITION at TBA on Sat 18 Jul, Belgrade. 3 acts on the bill: Akemiö Grey, Gysèle and Jane Acid. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

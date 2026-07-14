@@ -1,6 +1,6 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ozmozis, Toronto on Fri, 17 Jul 2026.
+Patrice Bäumel is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ozmozis, Toronto on Fri, 17 Jul 2026.
 
 Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Hernan Cattaneo and Sasha. Next up: Ozmozis, Toronto on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Patrice Bäumel is a techno and house artist tracked on soundcheck, with 144 set
 
 Patrice, Hernan Cattaneo, Sasha
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

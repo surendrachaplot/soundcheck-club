@@ -1,6 +1,6 @@
 # Zya (1)
 
-Zya (1) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 15 Jul 2026.
+Zya (1) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Zya (1) is a minimal and house artist tracked on soundcheck, with 16 sets logged across Bucharest, Ibiza, London and Zurich. Often billed alongside Harry McCanna, Andrei Ciubuc and Cap. Next up: Playa Soleil Ibiza, Ibiza on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Zya (1) is a minimal and house artist tracked on soundcheck, with 16 sets logged
 
 Harry McCanna, Andrei Ciubuc, Cap
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zya-1/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zya-1/)*

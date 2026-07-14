@@ -1,6 +1,6 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+KimberlaID is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 KimberlaID is a techno and hardcore artist tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Geneva and Ibiza and 9 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ KimberlaID is a techno and hardcore artist tracked on soundcheck, with 45 sets l
 
 Karlfroye, Lolalita, Claude Murder
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberlaid/)*

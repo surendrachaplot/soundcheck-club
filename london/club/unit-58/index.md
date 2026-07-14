@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "UNSTABLE HOTTIES: SUMMER LOVIN @ Unit 58" on Sat, 18 Jul 2026.
+Unit 58 is a music venue in London with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "UNSTABLE HOTTIES: SUMMER LOVIN @ Unit 58" on Sat, 18 Jul 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Fayli, Hovsep, JEVAN and Lagoon Femshayma and 2 more. Browse upcoming dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -17,4 +17,4 @@ Unit 58 is a music venue in London listed on soundcheck. 4 upcoming nights, with
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

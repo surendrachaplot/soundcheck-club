@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 18 Jul 2026.
+Ash Lauryn is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat, 18 Jul 2026.
 
 Ash Lauryn is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 122 sets log
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

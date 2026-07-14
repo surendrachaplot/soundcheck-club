@@ -1,6 +1,6 @@
 # dirtydms
 
-dirtydms is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+dirtydms is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 dirtydms is a techno and breakbeat artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Brussels and Mexicocity and 4 more. Often billed alongside Helmond Lang, Kessler and Vox supreme. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ dirtydms is a techno and breakbeat artist tracked on soundcheck, with 57 sets lo
 
 Helmond Lang, Kessler, Vox supreme
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydms/)*

@@ -1,6 +1,6 @@
 # Teaser DJ
 
-Teaser DJ is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
+Teaser DJ is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ministry Of Sound, London on Sat, 15 Aug 2026.
 
 Teaser DJ is a house and afro house artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside Supa D, Tippa and DJ Majesty. Next up: Ministry Of Sound, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Teaser DJ is a house and afro house artist tracked on soundcheck, with 28 sets l
 
 Supa D, Tippa, DJ Majesty
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teaserdj/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teaserdj/)*

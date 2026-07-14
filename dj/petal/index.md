@@ -1,8 +1,8 @@
-# Pètal
+# Petal
 
-Pètal is a Club and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mood Ring, New York City on Wed, 15 Jul 2026.
+Petal is a Club and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Mood Ring, New York City on Wed, 15 Jul 2026.
 
-Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 85 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: Mood Ring, Newyorkcity on Wed 15 Jul.
+Petal is a club and techno artist based in United States of America, tracked on soundcheck, with 86 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: Mood Ring, Newyorkcity on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Pètal is a club and techno artist based in United States of America, tracked on
 | Thu, 23 Jul 2026 | TBA | New York City |
 | Thu, 23 Jul 2026 | H0L0 | New York City |
 | Sat, 1 Aug 2026 | SMUT Athens | Athens |
+| Wed, 5 Aug 2026 | Jupiter Disco | New York City |
 | Thu, 6 Aug 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -32,4 +33,4 @@ Pètal is a club and techno artist based in United States of America, tracked on
 
 CMD+JAZMINE, BEYBLADE SHAWTY, EEVEE (3)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*

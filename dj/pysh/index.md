@@ -1,6 +1,6 @@
 # Pysh
 
-Pysh is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Izba Przyjęć, Warsaw on Fri, 17 Jul 2026.
+Pysh is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Izba Przyjęć, Warsaw on Fri, 17 Jul 2026.
 
 Pysh is a techno and tech house artist tracked on soundcheck, with 30 sets logged across Berlin, Krakow, Prague and Stuttgart and 1 more. Often billed alongside Kuvau, Angelo Mike and AFTEROSSI. Next up: Izba Przyjęć, Warsaw on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Pysh is a techno and tech house artist tracked on soundcheck, with 30 sets logge
 
 Kuvau, Angelo Mike, AFTEROSSI
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*

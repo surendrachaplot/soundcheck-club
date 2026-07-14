@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Hop on The Top LISBOA Open Air - Hip Hop / R&B / Funk / Soul" on Fri, 17 Jul 2026.
+Carmo Rooftop is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Hop on The Top LISBOA Open Air - Hip Hop / R&B / Funk / Soul" on Fri, 17 Jul 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -15,4 +15,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming nights
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

@@ -1,6 +1,6 @@
 # Zur Insel
 
-Zur Insel is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MIND Open Air (by night)" on Sat, 18 Jul 2026.
+Zur Insel is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MIND Open Air (by night)" on Sat, 18 Jul 2026.
 
 Zur Insel is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Johannes Albert, Lennart, Lennart (NL) and Max Buchalik and 1 more. Browse upcoming dates, start times and who's playing. Schmickstraße 16, 60314, Frankfurt am Main, Deutschland.
 
@@ -15,4 +15,4 @@ Zur Insel is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights,
 
 Schmickstraße 16, 60314, Frankfurt am Main, Deutschland, Frankfurt
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zur-insel/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zur-insel/)*

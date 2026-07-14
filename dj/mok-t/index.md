@@ -1,6 +1,6 @@
 # Mok-T
 
-Mok-T is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Salon Badin, Montreal on Thu, 16 Jul 2026.
+Mok-T is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Salon Badin, Montreal on Thu, 16 Jul 2026.
 
 Mok-T is a house and techno artist tracked on soundcheck, with 53 sets logged across Lyon, Marseille, Mexicocity and Montreal. Often billed alongside somebody3lse, Dj Hermano and D.B.Y.. Next up: Salon Badin, Montreal on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Mok-T is a house and techno artist tracked on soundcheck, with 53 sets logged ac
 
 somebody3lse, Dj Hermano, D.B.Y.
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mok-t/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mok-t/)*

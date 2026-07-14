@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+ARMANA KHAN is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 23 more. Often billed alongside ARCHANGEL (US), Manuka Honey and SAMIA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ ARMANA KHAN is a club and techno artist based in United States of America, track
 
 ARCHANGEL (US), Manuka Honey, SAMIA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

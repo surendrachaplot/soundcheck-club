@@ -1,6 +1,6 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Bus Hexperience" on Fri, 17 Jul 2026.
+BUS Hexperience is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Bus Hexperience" on Fri, 17 Jul 2026.
 
 BUS Hexperience is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Victor Hugo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -19,4 +19,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 6 upcoming n
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

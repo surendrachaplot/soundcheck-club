@@ -1,6 +1,6 @@
 # ZAG ERLAT
 
-ZAG ERLAT is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Equal Parts, Hackney, E2 8NA, London on Wed, 15 Jul 2026.
+ZAG ERLAT is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Equal Parts, Hackney, E2 8NA, London on Wed, 15 Jul 2026.
 
 ZAG ERLAT is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Antwerp, Berlin, Bristol and Brussels and 6 more. Often billed alongside DTM Funk, Batukizer and Cami Layé Okún. Next up: TBA - Equal Parts, Hackney, E2 8NA, London on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ ZAG ERLAT is a funk / soul and disco artist based in United Kingdom, tracked on 
 
 DTM Funk, Batukizer, Cami Layé Okún
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zagerlat/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zagerlat/)*

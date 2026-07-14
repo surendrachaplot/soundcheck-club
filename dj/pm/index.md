@@ -1,6 +1,6 @@
 # PM
 
-PM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bangkok Island, Bangkok on Fri, 17 Jul 2026.
+PM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bangkok Island, Bangkok on Fri, 17 Jul 2026.
 
 PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside AM (8), 18+ and ZIGGY ZAYA. Next up: Bangkok Island, Bangkok on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ PM is a techno and house artist based in Cyprus, tracked on soundcheck, with 41 
 
 AM (8), 18+, ZIGGY ZAYA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*

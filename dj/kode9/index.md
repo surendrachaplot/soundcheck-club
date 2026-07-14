@@ -1,6 +1,6 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Kode9 is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Kode9 is a bass and experimental artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside Tim Reaper, Skee Mask and Mala. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Kode9 is a bass and experimental artist tracked on soundcheck, with 118 sets log
 
 Tim Reaper, Skee Mask, Mala
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

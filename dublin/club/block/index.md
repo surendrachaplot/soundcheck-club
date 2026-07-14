@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Block x Encore. Bart Skils" on Fri, 31 Jul 2026.
+block. is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Block x Encore. Bart Skils" on Fri, 31 Jul 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Bart Skils, Connect, Danny P and ANNA and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -18,4 +18,4 @@ block. is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with 
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

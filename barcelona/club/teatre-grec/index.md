@@ -1,6 +1,6 @@
 # Teatre Grec
 
-Teatre Grec is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "GREC Festival: Ghazal (Love Poem) with Walid Ben Selim, Raül Refree and Vincent Moon" on Tue, 21 Jul 2026.
+Teatre Grec is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "GREC Festival: Ghazal (Love Poem) with Walid Ben Selim, Raül Refree and Vincent Moon" on Tue, 21 Jul 2026.
 
 Teatre Grec is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Passatge Martras, 29, 08038 Barcelona, España.
 
@@ -15,4 +15,4 @@ Teatre Grec is a music venue in Barcelona listed on soundcheck. 2 upcoming night
 
 Passatge Martras, 29, 08038 Barcelona, España, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/teatre-grec/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/teatre-grec/)*

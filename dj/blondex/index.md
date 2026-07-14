@@ -1,6 +1,6 @@
 # BLONDEX
 
-BLONDEX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 17 Jul 2026.
+BLONDEX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 17 Jul 2026.
 
 BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Doug Bass, Nuria Ghia and FL!M. Next up: Studio Club Malaga, Malaga on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ BLONDEX is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Doug Bass, Nuria Ghia, FL!M
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blondex/)*

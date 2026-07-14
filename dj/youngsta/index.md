@@ -1,6 +1,6 @@
 # Youngsta
 
-Youngsta is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Stereo, Glasgow on Fri, 17 Jul 2026.
+Youngsta is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Stereo, Glasgow on Fri, 17 Jul 2026.
 
 Youngsta is a dubstep and bass artist tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Chicago and Denver and 14 more. Often billed alongside SGT Pokes, Coki and Introspekt. Next up: Stereo, Glasgow on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Youngsta is a dubstep and bass artist tracked on soundcheck, with 33 sets logged
 
 SGT Pokes, Coki, Introspekt
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsta/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsta/)*

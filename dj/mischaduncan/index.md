@@ -1,6 +1,6 @@
 # Mischa Duncan
 
-Mischa Duncan is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at John Doe, Amsterdam on Wed, 29 Jul 2026.
+Mischa Duncan is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at John Doe, Amsterdam on Wed, 29 Jul 2026.
 
 Mischa Duncan is a techno and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam. Often billed alongside Paroxyzm, RUL3 and Robin Hastings. Next up: John Doe, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Mischa Duncan is a techno and tech house artist tracked on soundcheck, with 28 s
 
 Paroxyzm, RUL3, Robin Hastings
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mischaduncan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mischaduncan/)*

@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "NIGHTSHIFT - Luis Afonso + Frederico" on Thu, 16 Jul 2026.
+Plano B is a music venue in Porto with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "NIGHTSHIFT - Luis Afonso + Frederico" on Thu, 16 Jul 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 8 upcoming nights, with line-ups including Alfonsvs, Alive, Cloze Encounter and Cuba (PT) and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -21,4 +21,4 @@ Plano B is a music venue in Porto listed on soundcheck. 8 upcoming nights, with 
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

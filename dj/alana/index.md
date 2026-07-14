@@ -1,6 +1,6 @@
 # A lana
 
-A lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Moondog Hifi, New York City on Thu, 16 Jul 2026.
+A lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Moondog Hifi, New York City on Thu, 16 Jul 2026.
 
 A lana is a house and techno artist based in United States of America, tracked on soundcheck, with 44 sets logged across Boston and Newyorkcity. Often billed alongside DJ Christmas, Interpretive Sound and Klipdagga. Next up: Moondog Hifi, Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ A lana is a house and techno artist based in United States of America, tracked o
 
 DJ Christmas, Interpretive Sound, Klipdagga
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*

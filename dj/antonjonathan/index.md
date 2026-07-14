@@ -1,6 +1,6 @@
 # Anton Jonathan
 
-Anton Jonathan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
+Anton Jonathan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Else, Berlin on Fri, 31 Jul 2026.
 
 Anton Jonathan is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ Babyblade and DJ SOURCE. Next up: Else, Berlin on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ Anton Jonathan is a house and techno artist based in Germany, tracked on soundch
 
 EliaHaze, DJ Babyblade, DJ SOURCE
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*

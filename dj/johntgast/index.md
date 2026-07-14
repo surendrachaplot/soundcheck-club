@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+John T. Gast is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 John T. Gast is an experimental and dub artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Devon Rexi, i-sha and Lord Tusk. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 61 se
 
 Devon Rexi, i-sha, Lord Tusk
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

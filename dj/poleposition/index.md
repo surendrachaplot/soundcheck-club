@@ -1,6 +1,6 @@
 # Pole Position
 
-Pole Position is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 25 Jul 2026.
+Pole Position is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 25 Jul 2026.
 
 Pole Position is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 6 more. Often billed alongside Isa Rojas, Adriatique and Carl Cox. Next up: Seaseaclub Barcelona, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Pole Position is a house and techno artist tracked on soundcheck, with 56 sets l
 
 Isa Rojas, Adriatique, Carl Cox
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*

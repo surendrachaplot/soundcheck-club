@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 17 Jul 2026.
+Richy Ahmed is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 17 Jul 2026.
 
 Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Richy Ahmed is a tech house and house artist tracked on soundcheck, with 138 set
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

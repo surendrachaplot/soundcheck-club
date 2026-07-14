@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Juan Evangelista + Unreal" on Fri, 17 Jul 2026.
+LAUT is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Juan Evangelista + Unreal" on Fri, 17 Jul 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including ANFS, Ángel Molina, Axis Mundi and Dafunkas and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -18,4 +18,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

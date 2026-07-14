@@ -1,6 +1,6 @@
 # Nova Jazz Cava
 
-Nova Jazz Cava is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Festival Mutacions 2026" on Sat, 26 Sept 2026.
+Nova Jazz Cava is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Festival Mutacions 2026" on Sat, 26 Sept 2026.
 
 Nova Jazz Cava is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including ABSIS, Cyklos, Psyk and Sinert and 2 more. Browse upcoming dates, start times and who's playing. Passatge Tete Montoliu, 24, Terrassa.
 
@@ -14,4 +14,4 @@ Nova Jazz Cava is a music venue in Barcelona listed on soundcheck. 1 upcoming ni
 
 Passatge Tete Montoliu, 24, Terrassa, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nova-jazz-cava/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nova-jazz-cava/)*

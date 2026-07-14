@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "HAKKE360 OUTDOOR" on Sat, 18 Jul 2026.
+Bootshaus is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HAKKE360 OUTDOOR" on Sat, 18 Jul 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 11 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

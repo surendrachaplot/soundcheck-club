@@ -1,6 +1,6 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
+Space 92 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
 
 Space 92 is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bangkok and 44 more. Often billed alongside Popof, Lilly Palmer and Joyhauser. Next up: Westhafen, Leipzig on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Space 92 is a techno and house artist tracked on soundcheck, with 117 sets logge
 
 Popof, Lilly Palmer, Joyhauser
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

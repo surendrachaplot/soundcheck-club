@@ -1,6 +1,6 @@
 # Hedspin
 
-Hedspin is a electronic artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Lobby at Ace Hotel Toronto, Toronto on Thu, 16 Jul 2026.
+Hedspin is a electronic artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Lobby at Ace Hotel Toronto, Toronto on Thu, 16 Jul 2026.
 
 Hedspin is an electronic artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Next up: The Lobby at Ace Hotel Toronto, Toronto on Thu 16 Jul.
 
@@ -16,4 +16,4 @@ Hedspin is an electronic artist based in Canada, tracked on soundcheck, with 4 s
 
 - The Lobby at Ace Hotel Toronto, Toronto — Thu, 9 Jul 2026
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hedspin/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hedspin/)*

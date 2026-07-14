@@ -1,6 +1,6 @@
 # Tonno Disko
 
-Tonno Disko is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flux, Istanbul on Fri, 17 Jul 2026.
+Tonno Disko is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Flux, Istanbul on Fri, 17 Jul 2026.
 
 Tonno Disko is a house and disco artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 14 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Flux, Istanbul on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Tonno Disko is a house and disco artist tracked on soundcheck, with 93 sets logg
 
 Leroy Rey, Kirollus, Laura Meester
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*

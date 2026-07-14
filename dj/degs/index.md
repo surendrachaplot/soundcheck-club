@@ -1,8 +1,8 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
+Degs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hackney Wick Multiple Venues, London on Sat, 1 Aug 2026.
 
-Degs is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Berlin and Boston and 24 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
+Degs is a drum & bass and jungle artist tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Berlin and Boston and 24 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Hackney Wick Multiple Venues, London on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Degs is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logg
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
 | Fri, 4 Sept 2026 | Ground Floor | Philadelphia |
+| Sun, 11 Oct 2026 | Holocene | Portland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Degs is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logg
 
 Whiney, Unglued, Metrik
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*

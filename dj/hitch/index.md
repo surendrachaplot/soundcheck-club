@@ -1,6 +1,6 @@
 # Hitch
 
-Hitch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 25 Jul 2026.
+Hitch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 25 Jul 2026.
 
 Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 3 more. Often billed alongside Alex (ES), Sampol and Javier Carballo. Next up: Sunseabar Beach Club, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 9
 
 Alex (ES), Sampol, Javier Carballo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*

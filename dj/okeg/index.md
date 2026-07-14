@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Kwia, Berlin on Tue, 14 Jul 2026.
+OK EG is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kwia, Berlin on Tue, 14 Jul 2026.
 
 OK EG is a techno and electronica artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: Kwia, Berlin on Tue 14 Jul.
 
@@ -28,4 +28,4 @@ OK EG is a techno and electronica artist tracked on soundcheck, with 44 sets log
 
 Kia (AU), Bambi (FR), Priori
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

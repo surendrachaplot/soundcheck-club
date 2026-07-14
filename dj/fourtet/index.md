@@ -1,6 +1,6 @@
 # Four Tet
 
-Four Tet is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
+Four Tet is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Finsbury Park, London on Sat, 8 Aug 2026.
 
 Four Tet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Skrillex, Ben UFO and Blawan. Next up: Finsbury Park, London on Sat 8 Aug.
 
@@ -28,4 +28,4 @@ Four Tet is a house and techno artist based in United Kingdom, tracked on soundc
 
 Skrillex, Ben UFO, Blawan
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*

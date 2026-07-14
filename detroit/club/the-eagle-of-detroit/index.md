@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "FRUITY - TOP2BTTM " on Sat, 18 Jul 2026.
+The Eagle of Detroit is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FRUITY - TOP2BTTM " on Sat, 18 Jul 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Amino, autogyro, Duck Trash and Garrison XR and 2 more. Browse upcoming dates, start times and who's playing. 950 West McNichols.
 
@@ -15,4 +15,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

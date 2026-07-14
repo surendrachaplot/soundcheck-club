@@ -1,6 +1,6 @@
 # The Bath House
 
-The Bath House is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "INSOLAR with SOFRITO & MC KWASI CAMI LAYE OKUN" on Fri, 24 Jul 2026.
+The Bath House is a music venue in London with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "INSOLAR with SOFRITO & MC KWASI CAMI LAYE OKUN" on Fri, 24 Jul 2026.
 
 The Bath House is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Cami Layé Okún, Coco Maria, Donna Leake and Hugo Mendez. Browse upcoming dates, start times and who's playing. The Bath House, Hackney Wick, 80 Eastway, London, E9 5JH.
 
@@ -17,4 +17,4 @@ The Bath House is a music venue in London listed on soundcheck. 4 upcoming night
 
 The Bath House, Hackney Wick, 80 Eastway, London, E9 5JH, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bath-house/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bath-house/)*

@@ -1,6 +1,6 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bukanyr Boat, Prague on Fri, 17 Jul 2026.
+Misha Jaru is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bukanyr Boat, Prague on Fri, 17 Jul 2026.
 
 Misha Jaru is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Fembot. Next up: Bukanyr Boat, Prague on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Misha Jaru is a techno and house artist tracked on soundcheck, with 60 sets logg
 
 S.Tian, Feenicks, Fembot
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

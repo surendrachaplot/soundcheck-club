@@ -1,6 +1,6 @@
 # Tup Tup Palace
 
-Tup Tup Palace is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "BEAT Dept. Fridays" on Fri, 17 Jul 2026.
+Tup Tup Palace is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "BEAT Dept. Fridays" on Fri, 17 Jul 2026.
 
 Tup Tup Palace is a music venue in Newcastle listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 7 St Nicholas Street; Newcastle upon Tyne; United Kingdom; NE1 3BB; United Kingdom.
 
@@ -16,4 +16,4 @@ Tup Tup Palace is a music venue in Newcastle listed on soundcheck. 3 upcoming ni
 
 7 St Nicholas Street; Newcastle upon Tyne; United Kingdom; NE1 3BB; United Kingdom, Newcastle
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/tup-tup-palace/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/tup-tup-palace/)*

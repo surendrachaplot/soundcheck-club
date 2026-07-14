@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Forte Antenne, Rome on Fri, 17 Jul 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Forte Antenne, Rome on Fri, 17 Jul 2026.
 
 Ellen Allien is a techno and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Forte Antenne, Rome on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 239 sets l
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

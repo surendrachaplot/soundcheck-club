@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Open Decks & Tischtennis" on Tue, 14 Jul 2026.
+Humboldthain Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Open Decks & Tischtennis" on Tue, 14 Jul 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including AMRTUM, B.A.O., B.R.K.Ø. and Brennero and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

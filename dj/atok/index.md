@@ -1,6 +1,6 @@
 # a:tok
 
-a:tok is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+a:tok is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 a:tok is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Kwaint, Barbara Hofmann and Hang Aoki. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ a:tok is a house and techno artist tracked on soundcheck, with 30 sets logged ac
 
 Kwaint, Barbara Hofmann, Hang Aoki
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atok/)*

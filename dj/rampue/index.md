@@ -1,6 +1,6 @@
 # Rampue
 
-Rampue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sky Lounge 360, Prague on Sat, 1 Aug 2026.
+Rampue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sky Lounge 360, Prague on Sat, 1 Aug 2026.
 
 Rampue is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Chris Schwarzwälder, Mimi Love and Britta Arnold. Next up: Sky Lounge 360, Prague on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Rampue is a house and techno artist tracked on soundcheck, with 76 sets logged a
 
 Chris Schwarzwälder, Mimi Love, Britta Arnold
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*

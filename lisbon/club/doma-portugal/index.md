@@ -1,6 +1,6 @@
 # Doma Portugal
 
-Doma Portugal is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Elidium Festival" on Fri, 24 Jul 2026.
+Doma Portugal is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Elidium Festival" on Fri, 24 Jul 2026.
 
 Doma Portugal is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Andros, Antaares, Britta Arnold and Chris Schwarzwälder and 2 more. Browse upcoming dates, start times and who's playing. E.N. 8, 2665-006 Mafra, Portugal.
 
@@ -14,4 +14,4 @@ Doma Portugal is a music venue in Lisbon listed on soundcheck. 1 upcoming night,
 
 E.N. 8, 2665-006 Mafra, Portugal, Lisbon
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/doma-portugal/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/doma-portugal/)*

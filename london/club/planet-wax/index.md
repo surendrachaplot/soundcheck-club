@@ -1,6 +1,6 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "OPEN DECKS" on Wed, 15 Jul 2026.
+Planet Wax is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "OPEN DECKS" on Wed, 15 Jul 2026.
 
 Planet Wax is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Bear Winder, Bianca Blaze, Booker T and Carlos Biendia and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 16 upcoming nights, 
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

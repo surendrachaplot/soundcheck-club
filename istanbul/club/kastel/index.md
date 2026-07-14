@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Kastel X KOMÜN" on Sat, 18 Jul 2026.
+Kastel is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Kastel X KOMÜN" on Sat, 18 Jul 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -14,4 +14,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 1 upcoming night. Brow
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

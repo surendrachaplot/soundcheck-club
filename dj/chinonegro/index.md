@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - BOAT PARTY, Marseille on Tue, 14 Jul 2026.
+Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - BOAT PARTY, Marseille on Tue, 14 Jul 2026.
 
 Chinonegro is a tech house and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 7 more. Often billed alongside Luuk van Dijk, BLOND:ISH and Gaskin. Next up: TBA - BOAT PARTY, Marseille on Tue 14 Jul.
 
@@ -30,4 +30,4 @@ Chinonegro is a tech house and house artist tracked on soundcheck, with 23 sets 
 
 Luuk van Dijk, BLOND:ISH, Gaskin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

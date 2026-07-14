@@ -1,6 +1,6 @@
 # LeCamille
 
-LeCamille is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 16 Jul 2026.
+LeCamille is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 16 Jul 2026.
 
 LeCamille is a club and bass artist based in United States of America, tracked on soundcheck, with 58 sets logged across Miami and Newyorkcity. Often billed alongside BEYBLADE SHAWTY, 444 (1) and Baby Wolf. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ LeCamille is a club and bass artist based in United States of America, tracked o
 
 BEYBLADE SHAWTY, 444 (1), Baby Wolf
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lecamille/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lecamille/)*

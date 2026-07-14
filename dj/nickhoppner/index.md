@@ -1,6 +1,6 @@
 # Nick Höppner
 
-Nick Höppner is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Nick Höppner is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
 
 Nick Höppner is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, London and Madrid and 5 more. Often billed alongside Steffi, Soundstream and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Nick Höppner is a house and techno artist based in Germany, tracked on soundche
 
 Steffi, Soundstream, JakoJako
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhoppner/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhoppner/)*

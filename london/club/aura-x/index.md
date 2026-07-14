@@ -1,6 +1,6 @@
 # Aura X
 
-Aura X is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "RNB VS Hip Hop Shoreditch Party - Everyone Free Before 12AM" on Fri, 17 Jul 2026.
+Aura X is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "RNB VS Hip Hop Shoreditch Party - Everyone Free Before 12AM" on Fri, 17 Jul 2026.
 
 Aura X is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Aura X is a music venue in London listed on soundcheck. 1 upcoming night. Browse
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | RNB VS Hip Hop Shoreditch Party - Everyone Free Before 12AM |  |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/aura-x/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/aura-x/)*

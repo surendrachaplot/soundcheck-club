@@ -1,6 +1,6 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ballroom at Palais, London on Sat, 18 Jul 2026.
+Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ballroom at Palais, London on Sat, 18 Jul 2026.
 
 Jon K is a techno and bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: Ballroom at Palais, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Jon K is a techno and bass artist tracked on soundcheck, with 79 sets logged acr
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

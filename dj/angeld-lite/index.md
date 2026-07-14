@@ -1,6 +1,6 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at M.O.T, London on Sat, 18 Jul 2026.
+Angel D'lite is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at M.O.T, London on Sat, 18 Jul 2026.
 
 Angel D'lite is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: M.O.T, London on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Angel D'lite is a house and techno artist tracked on soundcheck, with 227 sets l
 
 dj sweet6teen, THC, FAFF
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

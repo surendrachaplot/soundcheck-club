@@ -1,6 +1,6 @@
 # Battersea Barge
 
-Battersea Barge is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Yamatai x Heavy Sonics x Makino: Summer Session" on Sat, 18 Jul 2026.
+Battersea Barge is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Yamatai x Heavy Sonics x Makino: Summer Session" on Sat, 18 Jul 2026.
 
 Battersea Barge is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Arrosa, Chamba, Claudia Kane and Dove (UK) and 2 more. Browse upcoming dates, start times and who's playing. Nine Elms Lane; South Lambeth; London SW8 5BP; United Kingdom.
 
@@ -16,4 +16,4 @@ Battersea Barge is a music venue in London listed on soundcheck. 3 upcoming nigh
 
 Nine Elms Lane; South Lambeth; London SW8 5BP; United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/battersea-barge/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/battersea-barge/)*

@@ -1,6 +1,6 @@
 # Magic Stick
 
-Magic Stick is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Mona Black // Day Party on the Alley Deck" on Sat, 25 Jul 2026.
+Magic Stick is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Mona Black // Day Party on the Alley Deck" on Sat, 25 Jul 2026.
 
 Magic Stick is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Fred V, Mac Diesel, Mona Black and RAEDY LEX. Browse upcoming dates, start times and who's playing. 4120-4140 Woodward Avenue; Detroit, MI 48201; United States.
 
@@ -15,4 +15,4 @@ Magic Stick is a music venue in Detroit listed on soundcheck. 2 upcoming nights,
 
 4120-4140 Woodward Avenue; Detroit, MI 48201; United States, Detroit
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/magic-stick/)*

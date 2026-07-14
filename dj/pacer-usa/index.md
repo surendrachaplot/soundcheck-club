@@ -1,6 +1,6 @@
 # Pacer
 
-Pacer is a House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 31 Jul 2026.
+Pacer is a House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 31 Jul 2026.
 
 Pacer is a house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles, Portland and Seattle. Often billed alongside Shi Shi, C Powers and Princess Dimebag. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 31 Jul.
 
@@ -17,4 +17,4 @@ Pacer is a house artist based in United States of America, tracked on soundcheck
 
 Shi Shi, C Powers, Princess Dimebag
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pacer-usa/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pacer-usa/)*

@@ -1,6 +1,6 @@
 # Apollo Studio w/ Igor Vicente, Holmar, Kevin Osha & DAVIDI at Apollo Studio
 
-Apollo Studio w/ Igor Vicente, Holmar, Kevin Osha & DAVIDI on Fri 17 Jul, Newyorkcity. 4 acts on the bill: DAVIDI, Holmar, Igor Vicente and Kevin Osha. Preview the line-up and save it on soundcheck.
+Apollo Studio w/ Igor Vicente, Holmar, Kevin Osha & DAVIDI on Fri 17 Jul, Newyorkcity. 5 acts on the bill: Connie, DAVIDI, Holmar and Igor Vicente and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Apollo Studio w/ Igor Vicente, Holmar, Kevin Osha & DAVIDI on Fri 17 Jul, Newyor
 
 ## Line-up
 
+- Connie
 - DAVIDI
 - Holmar
 - Igor Vicente

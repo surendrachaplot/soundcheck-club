@@ -1,6 +1,6 @@
 # Kleu
 
-Kleu is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Volks, Brighton on Fri, 17 Jul 2026.
+Kleu is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Volks, Brighton on Fri, 17 Jul 2026.
 
 Kleu is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 3 more. Often billed alongside MYNX, Beano and Deefa. Next up: Volks, Brighton on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kleu is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 MYNX, Beano, Deefa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleu/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kleu/)*

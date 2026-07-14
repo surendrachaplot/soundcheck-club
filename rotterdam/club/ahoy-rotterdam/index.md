@@ -1,6 +1,6 @@
 # Ahoy Rotterdam
 
-Ahoy Rotterdam is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Rotterdam Rave Festival 2026" on Sat, 29 Aug 2026.
+Ahoy Rotterdam is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Rotterdam Rave Festival 2026" on Sat, 29 Aug 2026.
 
 Ahoy Rotterdam is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Anetha, Bella Claxton, BØĘRY and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. Ahoyweg 10, 3084 BA, Rotterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Ahoy Rotterdam is a music venue in Rotterdam listed on soundcheck. 1 upcoming ni
 
 Ahoyweg 10, 3084 BA, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/ahoy-rotterdam/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/ahoy-rotterdam/)*

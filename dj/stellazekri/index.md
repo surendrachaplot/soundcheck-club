@@ -1,6 +1,6 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Minimüzikhol, Istanbul on Fri, 17 Jul 2026.
+Stella Zekri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Minimüzikhol, Istanbul on Fri, 17 Jul 2026.
 
 Stella Zekri is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Camilla Rae, 131bpm and BASHKKA. Next up: Minimüzikhol, Istanbul on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Stella Zekri is a house and techno artist tracked on soundcheck, with 177 sets l
 
 Camilla Rae, 131bpm, BASHKKA
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*

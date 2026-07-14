@@ -1,6 +1,6 @@
 # Walpole Park
 
-Walpole Park is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "As One in the Park 2026" on Sat, 18 Jul 2026.
+Walpole Park is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "As One in the Park 2026" on Sat, 18 Jul 2026.
 
 Walpole Park is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Fattony. Browse upcoming dates, start times and who's playing. Ealing, London, W5 5HS, United Kingdom.
 
@@ -15,4 +15,4 @@ Walpole Park is a music venue in London listed on soundcheck. 2 upcoming nights,
 
 Ealing, London, W5 5HS, United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/walpole-park/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/walpole-park/)*

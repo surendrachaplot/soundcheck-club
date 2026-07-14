@@ -1,6 +1,6 @@
 # Asat
 
-Asat is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Upstairs at the 700, Philadelphia on Sat, 18 Jul 2026.
+Asat is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Upstairs at the 700, Philadelphia on Sat, 18 Jul 2026.
 
 Asat is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Philadelphia. Often billed alongside gozu, Feral Sound and Art Cuebik. Next up: Upstairs at the 700, Philadelphia on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Asat is a jungle and drum & bass artist based in United States of America, track
 
 gozu, Feral Sound, Art Cuebik
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asat/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/asat/)*

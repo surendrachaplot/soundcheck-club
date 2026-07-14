@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hive Club, Zurich on Fri, 24 Jul 2026.
+Stef Mendesidis is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hive Club, Zurich on Fri, 24 Jul 2026.
 
 Stef Mendesidis is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 41 more. Often billed alongside DAX J, Nastia and SHDW. Next up: Hive Club, Zurich on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Stef Mendesidis is a techno and house artist tracked on soundcheck, with 136 set
 
 DAX J, Nastia, SHDW
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

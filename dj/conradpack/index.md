@@ -1,6 +1,6 @@
 # Conrad Pack
 
-Conrad Pack is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at radial, London on Fri, 17 Jul 2026.
+Conrad Pack is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at radial, London on Fri, 17 Jul 2026.
 
 Conrad Pack is a techno and dub artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside DJ Gonz, Elle Andrews and Jon K. Next up: radial, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Conrad Pack is a techno and dub artist tracked on soundcheck, with 47 sets logge
 
 DJ Gonz, Elle Andrews, Jon K
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conradpack/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conradpack/)*

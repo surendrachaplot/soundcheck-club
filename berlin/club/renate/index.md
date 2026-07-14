@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Renate Klubnacht with Queer Vinyl Night x Dazed State" on Thu, 16 Jul 2026.
+Renate is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Renate Klubnacht with Queer Vinyl Night x Dazed State" on Thu, 16 Jul 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including 131bpm, Aaron Blau, Aceedo and ADAMN and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

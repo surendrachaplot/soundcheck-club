@@ -1,6 +1,6 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club der Visionaere, Berlin on Wed, 15 Jul 2026.
+Bruno Schmidt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club der Visionaere, Berlin on Wed, 15 Jul 2026.
 
 Bruno Schmidt is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Andrew James Gustav, P-Man and Aline Umber. Next up: Club der Visionaere, Berlin on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ Bruno Schmidt is a house and techno artist tracked on soundcheck, with 141 sets 
 
 Andrew James Gustav, P-Man, Aline Umber
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

@@ -1,6 +1,6 @@
 # Salma Rosa
 
-Salma Rosa is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Le Trabendo, Paris on Sat, 18 Jul 2026.
+Salma Rosa is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le Trabendo, Paris on Sat, 18 Jul 2026.
 
 Salma Rosa is a techno and baile funk artist tracked on soundcheck, with 35 sets logged across Antwerp, Berlin, Lyon and Milan and 2 more. Often billed alongside Jonnnah, Lisa More and Neida. Next up: Le Trabendo, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Salma Rosa is a techno and baile funk artist tracked on soundcheck, with 35 sets
 
 Jonnnah, Lisa More, Neida
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salmarosa/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salmarosa/)*

@@ -1,6 +1,6 @@
 # Antaares
 
-Antaares is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
+Antaares is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Doma Portugal, Lisbon on Fri, 24 Jul 2026.
 
 Antaares is a downtempo and techno artist based in Mexico, tracked on soundcheck, with 28 sets logged across Auckland, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside bawab, Alacrán del Amor and Cedro. Next up: Doma Portugal, Lisbon on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Antaares is a downtempo and techno artist based in Mexico, tracked on soundcheck
 
 bawab, Alacrán del Amor, Cedro
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*

@@ -1,6 +1,6 @@
 # Dillon Francis
 
-Dillon Francis is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Beach House San Diego, San Diego on Sat, 25 Jul 2026.
+Dillon Francis is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Beach House San Diego, San Diego on Sat, 25 Jul 2026.
 
 Dillon Francis is a house and bass artist tracked on soundcheck, with 35 sets logged across Amsterdam, Austin, Boston and Chicago and 12 more. Often billed alongside Flosstradamus, Hamdi and Alignment. Next up: Beach House San Diego, Sandiego on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Dillon Francis is a house and bass artist tracked on soundcheck, with 35 sets lo
 
 Flosstradamus, Hamdi, Alignment
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*

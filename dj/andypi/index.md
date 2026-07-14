@@ -1,6 +1,6 @@
 # Andy Pi
 
-Andy Pi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Unité.22, Marseille on Sat, 18 Jul 2026.
+Andy Pi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Unité.22, Marseille on Sat, 18 Jul 2026.
 
 Andy Pi is a techno and trance artist based in France, tracked on soundcheck, with 30 sets logged across Berlin, Marseille and Paris. Often billed alongside Apocalypse Nao, Aérienne and Esteban Desigual. Next up: Unité.22, Marseille on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Andy Pi is a techno and trance artist based in France, tracked on soundcheck, wi
 
 Apocalypse Nao, Aérienne, Esteban Desigual
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andypi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andypi/)*

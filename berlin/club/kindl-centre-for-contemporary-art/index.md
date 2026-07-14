@@ -1,6 +1,6 @@
 # KINDL Centre for Contemporary Art
 
-KINDL Centre for Contemporary Art is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Kiezsalon with Suzan Peeters, Yaz Lancaster and Mattias Hållsten" on Fri, 21 Aug 2026.
+KINDL Centre for Contemporary Art is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Kiezsalon with Suzan Peeters, Yaz Lancaster and Mattias Hållsten" on Fri, 21 Aug 2026.
 
 KINDL Centre for Contemporary Art is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Yaz Lancaster. Browse upcoming dates, start times and who's playing. Sudhaus 3 12053 Berlin.
 
@@ -15,4 +15,4 @@ KINDL Centre for Contemporary Art is a music venue in Berlin listed on soundchec
 
 Sudhaus 3 12053 Berlin, Berlin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kindl-centre-for-contemporary-art/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kindl-centre-for-contemporary-art/)*

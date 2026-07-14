@@ -1,6 +1,6 @@
 # PONTA
 
-PONTA is a Trance and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Z Maruyama, Tokyo on Sun, 19 Jul 2026.
+PONTA is a Trance and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Z Maruyama, Tokyo on Sun, 19 Jul 2026.
 
 PONTA is a trance and psytrance artist based in Japan, tracked on soundcheck, with 29 sets logged across Osaka and Tokyo. Often billed alongside WATARU, HK. (1) and ayaka. Next up: Z Maruyama, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ PONTA is a trance and psytrance artist based in Japan, tracked on soundcheck, wi
 
 WATARU, HK. (1), ayaka
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ponta/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ponta/)*

@@ -1,6 +1,6 @@
 # YUXI
 
-YUXI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 18 Jul 2026.
+YUXI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 18 Jul 2026.
 
 YUXI is a techno and house artist tracked on soundcheck, with 67 sets logged across Osaka and Tokyo. Often billed alongside DALJAE, ALEXANDER M and Drunken Kong. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ YUXI is a techno and house artist tracked on soundcheck, with 67 sets logged acr
 
 DALJAE, ALEXANDER M, Drunken Kong
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*

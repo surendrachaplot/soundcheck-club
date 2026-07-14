@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Open Decks with STEEN and Oppo-Normalè" on Tue, 14 Jul 2026.
+SILO is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Open Decks with STEEN and Oppo-Normalè" on Tue, 14 Jul 2026.
 
 SILO is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including 2melo, Adam Hadari, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

@@ -1,6 +1,6 @@
 # Lowsteppa
 
-Lowsteppa is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 6 Aug 2026.
+Lowsteppa is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 6 Aug 2026.
 
 Lowsteppa is a house and tech house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: Chinois Ibiza, Ibiza on Thu 6 Aug.
 
@@ -29,4 +29,4 @@ Lowsteppa is a house and tech house artist tracked on soundcheck, with 52 sets l
 
 Sam Divine, Hannah Wants, Arielle Free
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa/)*

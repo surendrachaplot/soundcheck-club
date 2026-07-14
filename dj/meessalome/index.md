@@ -1,6 +1,6 @@
 # Mees Salomé
 
-Mees Salomé is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Standard Time, Toronto on Thu, 23 Jul 2026.
+Mees Salomé is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Standard Time, Toronto on Thu, 23 Jul 2026.
 
 Mees Salomé is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brussels and Ibiza and 8 more. Often billed alongside Benny Rodrigues, Miss Melera and Rose Ringed. Next up: Standard Time, Toronto on Thu 23 Jul.
 
@@ -29,4 +29,4 @@ Mees Salomé is a techno and house artist tracked on soundcheck, with 64 sets lo
 
 Benny Rodrigues, Miss Melera, Rose Ringed
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*

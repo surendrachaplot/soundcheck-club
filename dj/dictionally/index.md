@@ -1,6 +1,6 @@
 # Dictionally
 
-Dictionally is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 27 Jul 2026.
+Dictionally is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 27 Jul 2026.
 
 Dictionally is a house and garage artist based in Japan, tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside Kyohei Tanaka, Genick and Hiroaki Iida. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 27 Jul.
 
@@ -26,4 +26,4 @@ Dictionally is a house and garage artist based in Japan, tracked on soundcheck, 
 
 Kyohei Tanaka, Genick, Hiroaki Iida
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dictionally/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dictionally/)*

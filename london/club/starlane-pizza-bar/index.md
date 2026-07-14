@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Third Nature @Starlane" on Fri, 17 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Third Nature @Starlane" on Fri, 17 Jul 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including TommyGDJ, Aniaef, Arnaud Le Texier and Brands and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

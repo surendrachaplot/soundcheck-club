@@ -1,6 +1,6 @@
 # BizZa
 
-BizZa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
+BizZa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
 
 BizZa is a tech house and house artist based in Spain, tracked on soundcheck, with 51 sets logged across Barcelona, Buenosaires, Chicago and Ibiza and 7 more. Often billed alongside Pau Guilera, Abdon and De La Swing. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ BizZa is a tech house and house artist based in Spain, tracked on soundcheck, wi
 
 Pau Guilera, Abdon, De La Swing
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bizza/)*

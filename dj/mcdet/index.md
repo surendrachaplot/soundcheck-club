@@ -1,6 +1,6 @@
 # MC Det
 
-MC Det is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eutopia Warehouse, London on Sat, 18 Jul 2026.
+MC Det is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Eutopia Warehouse, London on Sat, 18 Jul 2026.
 
 MC Det is a drum & bass and jungle artist tracked on soundcheck, with 46 sets logged across Birmingham, Brighton, Bristol and Hamburg and 2 more. Often billed alongside DJ Brockie, The Ragga Twins and Funsta. Next up: Eutopia Warehouse, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ MC Det is a drum & bass and jungle artist tracked on soundcheck, with 46 sets lo
 
 DJ Brockie, The Ragga Twins, Funsta
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdet/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdet/)*

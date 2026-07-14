@@ -1,6 +1,6 @@
 # Liv K
 
-Liv K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 18 Jul 2026.
+Liv K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Société des arts technologiques, Montreal on Sat, 18 Jul 2026.
 
 Liv K is a techno and house artist tracked on soundcheck, with 32 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Field Note, Lis Dalton and Dijipoune. Next up: Société des arts technologiques, Montreal on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Liv K is a techno and house artist tracked on soundcheck, with 32 sets logged ac
 
 Field Note, Lis Dalton, Dijipoune
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livk/)*

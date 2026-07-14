@@ -1,6 +1,6 @@
 # Stardust Garage
 
-Stardust Garage is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Here & Now" on Sat, 18 Jul 2026.
+Stardust Garage is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Here & Now" on Sat, 18 Jul 2026.
 
 Stardust Garage is a music venue in Austin listed on soundcheck. 3 upcoming nights, with line-ups including 2Tall, Addison Lynch, Binh and Hank Harrison and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Stardust Garage is a music venue in Austin listed on soundcheck. 3 upcoming nigh
 | Sat, 25 Jul 2026 | Waypoint by ubiyu with Titino - 2Tall - Carpinelli | 2Tall, Tito Mazzetta |
 | Fri, 18 Sept 2026 | ubiyu x Mr. Untz with Binh | Binh, Robert Roman |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/stardust-garage/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/stardust-garage/)*

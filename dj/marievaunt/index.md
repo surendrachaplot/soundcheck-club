@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Eden, Ibiza on Tue, 18 Aug 2026.
+Marie Vaunt is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Eden, Ibiza on Tue, 18 Aug 2026.
 
 Marie Vaunt is a techno and acid artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Auckland and Austin and 34 more. Often billed alongside Space 92, DALJAE and Joyhauser. Next up: Eden, Ibiza on Tue 18 Aug.
 
@@ -28,4 +28,4 @@ Marie Vaunt is a techno and acid artist tracked on soundcheck, with 69 sets logg
 
 Space 92, DALJAE, Joyhauser
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

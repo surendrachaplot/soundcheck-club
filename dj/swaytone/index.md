@@ -1,6 +1,6 @@
 # Swaytone
 
-Swaytone is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Der Weiße Hase, Berlin on Tue, 28 Jul 2026.
+Swaytone is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Der Weiße Hase, Berlin on Tue, 28 Jul 2026.
 
 Swaytone is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Corios, Eloïß and Maria Theresia von Eberg. Next up: Der Weiße Hase, Berlin on Tue 28 Jul.
 
@@ -25,4 +25,4 @@ Swaytone is a techno and trance artist tracked on soundcheck, with 9 sets logged
 
 Corios, Eloïß, Maria Theresia von Eberg
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swaytone/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/swaytone/)*

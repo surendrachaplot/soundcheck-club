@@ -1,14 +1,15 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Valley Dolly is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Valley Dolly is a house and techno artist tracked on soundcheck, with 59 sets logged across Berlin, Brussels, Lisbon and Munich and 3 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Valley Dolly is a house and techno artist tracked on soundcheck, with 60 sets logged across Berlin, Brussels, Lisbon and Munich and 3 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
+| Thu, 16 Jul 2026 | Romantica | Stuttgart |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 15 Aug 2026 | Bassiani | Tbilisi |
 | Sat, 22 Aug 2026 | Buda BXL | Brussels |
@@ -28,4 +29,4 @@ Valley Dolly is a house and techno artist tracked on soundcheck, with 59 sets lo
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

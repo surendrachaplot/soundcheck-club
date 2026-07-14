@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Body Lab II [Austral, LuiCestFaycal, Offmax, YUME]" on Fri, 17 Jul 2026.
+Karmen Camina is a music venue in Strasbourg with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Body Lab II [Austral, LuiCestFaycal, Offmax, YUME]" on Fri, 17 Jul 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming nights, with line-ups including 33Soleil, Azo, Camion Bazar and Chippy Nonstop and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -23,4 +23,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 11 upcoming n
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

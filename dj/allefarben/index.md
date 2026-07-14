@@ -1,6 +1,6 @@
 # Alle Farben
 
-Alle Farben is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
+Alle Farben is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Electrisize, Düsseldorf on Fri, 7 Aug 2026.
 
 Alle Farben is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Basel and Berlin and 8 more. Often billed alongside LOVRA, Noel Holler and DJ Jordan. Next up: Electrisize, Dusseldorf on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Alle Farben is a techno and house artist based in Germany, tracked on soundcheck
 
 LOVRA, Noel Holler, DJ Jordan
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allefarben/)*

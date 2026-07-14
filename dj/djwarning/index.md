@@ -1,13 +1,14 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Dj Warning is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Podlasie Club, Chicago on Fri, 24 Jul 2026.
 
-Dj Warning is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
+Dj Warning is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Podlasie Club, Chicago on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | Podlasie Club | Chicago |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 8 Aug 2026 | KREUZWERK | Berlin |
 
@@ -26,4 +27,4 @@ Dj Warning is a techno and house artist tracked on soundcheck, with 76 sets logg
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

@@ -1,6 +1,6 @@
 # EscaFlowne
 
-EscaFlowne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Honey's, New York City on Sat, 18 Jul 2026.
+EscaFlowne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Honey's, New York City on Sat, 18 Jul 2026.
 
 EscaFlowne is a techno and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Denver, Losangeles, Mexicocity and Newyorkcity and 2 more. Often billed alongside fleet.dreams, Nick Boyd and Ben Zo. Next up: Honey's, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ EscaFlowne is a techno and house artist based in United States of America, track
 
 fleet.dreams, Nick Boyd, Ben Zo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escaflowne/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escaflowne/)*

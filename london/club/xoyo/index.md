@@ -1,14 +1,13 @@
 # XOYO
 
-XOYO is a music venue in London with 37 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MOTION Every Monday" on Mon, 13 Jul 2026.
+XOYO is a music venue in London with 36 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "PARADOX" on Wed, 15 Jul 2026.
 
-XOYO is a music venue in London listed on soundcheck. 37 upcoming nights, with line-ups including Kepler, A.N.T, Adam Romo and Aidyscape and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including Kepler, A.N.T, Adam Romo and Aidyscape and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | MOTION Every Monday |  |
 | Wed, 15 Jul 2026 | PARADOX | Adam Romo, Olly Brady, STEZ |
 | Thu, 16 Jul 2026 | Insomnia London: A.N.T, Benteki, Loose E | A.N.T, Benteki, Loose E |
 | Sat, 18 Jul 2026 | Jasper James, Dunmore Brothers, Rob Drake & Another George | Dunmore Brothers, Jasper James |
@@ -18,9 +17,10 @@ XOYO is a music venue in London listed on soundcheck. 37 upcoming nights, with l
 | Sat, 25 Jul 2026 | FASTER DnB - XOYO | DKN (1), Gui (PT), Jumping Jack Frost, Leks, MYNX, Madcap, Mantmast, Moose, Peas (2), Promo ZO, Silloh, Vektah |
 | Sat, 25 Jul 2026 | Cure presents: Kidoo, Goosey, Mojo | Goosey, Kidoo |
 | Mon, 27 Jul 2026 | MOTION Every Monday |  |
+| Wed, 29 Jul 2026 | PARADOX |  |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

@@ -1,6 +1,6 @@
 # Silverlake Stadium
 
-Silverlake Stadium is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Club Classics Orchestra" on Fri, 31 Jul 2026.
+Silverlake Stadium is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Club Classics Orchestra" on Fri, 31 Jul 2026.
 
 Silverlake Stadium is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Silverlake Stadium is a music venue in London listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Club Classics Orchestra |  |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/silverlake-stadium/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/silverlake-stadium/)*

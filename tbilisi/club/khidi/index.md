@@ -1,0 +1,17 @@
+# KHIDI
+
+KHIDI is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "G2: Downwell, Hecate Legacy, Mova, Nero" on Fri, 17 Jul 2026.
+
+KHIDI is a music venue in Tbilisi listed on soundcheck. 1 upcoming night, with line-ups including Downwell, Hecate Legacy and Mova. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 17 Jul 2026 | G2: Downwell, Hecate Legacy, Mova, Nero | Downwell, Hecate Legacy, Mova |
+
+## Address
+
+Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
+
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

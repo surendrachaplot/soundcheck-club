@@ -1,6 +1,6 @@
 # DEBBIE (IT)
 
-DEBBIE (IT) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
+DEBBIE (IT) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
 
 DEBBIE (IT) is a techno and industrial artist based in Italy, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside MARCO GINELLI, Vinka Wydro and Dstm. Next up: Flava Beach, Naples on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DEBBIE (IT) is a techno and industrial artist based in Italy, tracked on soundch
 
 MARCO GINELLI, Vinka Wydro, Dstm
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debbieit/)*

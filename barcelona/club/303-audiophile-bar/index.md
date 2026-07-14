@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "La Reiv at 303" on Thu, 16 Jul 2026.
+303 Audiophile Bar is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "La Reiv at 303" on Thu, 16 Jul 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alen Aladin, Aleski, bOIX and Celafet and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -21,4 +21,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

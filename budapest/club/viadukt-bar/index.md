@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Just Progressive" on Mon, 13 Jul 2026.
+Viadukt Bar is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Spicy Dinner, Emma" on Tue, 14 Jul 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Chris.SU, NoNameLeft and Woody. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Chris.SU, NoNameLeft and Woody. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | Just Progressive |  |
 | Tue, 14 Jul 2026 | Spicy Dinner, Emma |  |
 | Wed, 15 Jul 2026 | Science Fiction Radio at Viadukt |  |
 | Thu, 16 Jul 2026 | Tilos & bass with Chris.SU | Chris.SU |
@@ -19,4 +18,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 6 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

@@ -1,6 +1,6 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Concourse Project, Austin on Thu, 23 Jul 2026.
+AC Slater is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Concourse Project, Austin on Thu, 23 Jul 2026.
 
 AC Slater is a house and bass artist tracked on soundcheck, with 40 sets logged across Austin, Boston, Chicago and Cologne and 11 more. Often billed alongside Tchami, Hotfire and Cassian. Next up: The Concourse Project, Austin on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ AC Slater is a house and bass artist tracked on soundcheck, with 40 sets logged 
 
 Tchami, Hotfire, Cassian
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*

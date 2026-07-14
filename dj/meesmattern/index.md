@@ -1,6 +1,6 @@
 # Mees Mattern
 
-Mees Mattern is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 24 Jul 2026.
+Mees Mattern is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 24 Jul 2026.
 
 Mees Mattern is a house and tech house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Leeds and Utrecht. Often billed alongside Khun, Luis Ripa and Julien Simmons. Next up: Het Sieraad, Amsterdam on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Mees Mattern is a house and tech house artist tracked on soundcheck, with 31 set
 
 Khun, Luis Ripa, Julien Simmons
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meesmattern/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meesmattern/)*

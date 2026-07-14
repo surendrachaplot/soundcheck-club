@@ -1,6 +1,6 @@
 # John Simmons
 
-John Simmons is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The California Clipper, Chicago on Sun, 19 Jul 2026.
+John Simmons is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The California Clipper, Chicago on Sun, 19 Jul 2026.
 
 John Simmons is a house and deep house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago, Mexicocity, Newyorkcity and Sandiego. Often billed alongside Gant-Man, Czboogie and Duke Shin. Next up: The California Clipper, Chicago on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ John Simmons is a house and deep house artist based in United States of America,
 
 Gant-Man, Czboogie, Duke Shin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsimmons/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsimmons/)*

@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fortune Sound Club, Vancouver on Fri, 31 Jul 2026.
+DJ Seinfeld is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fortune Sound Club, Vancouver on Fri, 31 Jul 2026.
 
 DJ Seinfeld is a house and techno artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside Sossa, Dom Dolla and Chris Stussy. Next up: Fortune Sound Club, Vancouver on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 181 sets lo
 
 Sossa, Dom Dolla, Chris Stussy
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

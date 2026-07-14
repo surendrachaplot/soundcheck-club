@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Conditioner: Balam Acab (live), Bby Eco (live), duendita (DJ), RP Boo (DJ), Special Guest" on Thu, 16 Jul 2026.
+Nowadays is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Conditioner: Balam Acab (live), duendita (DJ), RP Boo (DJ), Woesum, Special Guest" on Thu, 16 Jul 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including Aaron J, aka-Sol, Akanbi and Ali Coleman and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -8,7 +8,7 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Conditioner: Balam Acab (live), Bby Eco (live), duendita (DJ), RP Boo (DJ), Special Guest | Balam Acab, Bby Eco, RP Boo |
+| Thu, 16 Jul 2026 | Conditioner: Balam Acab (live), duendita (DJ), RP Boo (DJ), Woesum, Special Guest | Balam Acab, Bby Eco, RP Boo, Woesum |
 | Fri, 17 Jul 2026 | Focus: Jungle with Dillinja, FAUZIA, Honey Bun & HOMESICKFORANOTHERPLANET | Dillinja, FAUZIA, Honey Bun |
 | Sat, 18 Jul 2026 | Dripping Nonstop: Baby Leo, Cry, DJ Plead, Doula, Foodman, Isabella Koen, Mark Ernestus + more | Baby Leo, DJ Plead, Doula, Foodman, Isabella Koen, Kilbourne, Mark Ernestus, Nema Hän, Primo, Relaxer, aka-Sol |
 | Sat, 18 Jul 2026 | SanDia x Caribe Funk: Bendito, Jeremy Giros, Malcolm Bravo, Mickey Pérez, Radio Sofrito | Bendito, Jeremy Giros, Mickey Perez, Radio Sofrito |
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

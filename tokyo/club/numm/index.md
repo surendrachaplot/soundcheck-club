@@ -1,14 +1,13 @@
 # Numm
 
-Numm is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "UTURANO" on Mon, 13 Jul 2026.
+Numm is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "CPCD" on Wed, 15 Jul 2026.
 
-Numm is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including 135 (1), 3rill, Camacho and cotton and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
+Numm is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including 135 (1), 3rill, Camacho and cotton and 2 more. Browse upcoming dates, start times and who's playing. B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | UTURANO |  |
 | Wed, 15 Jul 2026 | CPCD | NOONI NOBU |
 | Thu, 16 Jul 2026 | Area Deep '13th anniversary party' |  |
 | Fri, 17 Jul 2026 | REWIND |  |
@@ -18,9 +17,10 @@ Numm is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with li
 | Mon, 20 Jul 2026 | CRITERIA | KUNPEI |
 | Wed, 22 Jul 2026 | Viniruli | 135 (1), Tomoya Furukawa |
 | Thu, 23 Jul 2026 | DOOPORA | cotton |
+| Fri, 24 Jul 2026 | ATELIER＋ |  |
 
 ## Address
 
 B1F AiiA ANEX bld 2-9-13 Shibuya, Shibuya-ku, Tokyo-to 150-0002 Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/numm/)*

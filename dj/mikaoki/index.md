@@ -1,6 +1,6 @@
 # Mika Oki
 
-Mika Oki is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Mika Oki is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Mika Oki is a bass and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Sara Persico, ojoo and NVST. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Mika Oki is a bass and techno artist tracked on soundcheck, with 64 sets logged 
 
 Sara Persico, ojoo, NVST
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*

@@ -1,8 +1,8 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Foley Square Park, New York City on Fri, 17 Jul 2026.
+Mickey Perez is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Foley Square Park, New York City on Fri, 17 Jul 2026.
 
-Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 99 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Foley Square Park, Newyorkcity on Fri 17 Jul.
+Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 100 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Foley Square Park, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mickey Perez is a house and disco artist based in United States of America, trac
 | Fri, 17 Jul 2026 | Foley Square Park | New York City |
 | Sat, 18 Jul 2026 | Nowadays | New York City |
 | Sun, 19 Jul 2026 | Liberty Point | Philadelphia |
+| Sat, 22 Aug 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mickey Perez is a house and disco artist based in United States of America, trac
 
 Toribio, Deon Jamar, Guthrie
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*

@@ -1,6 +1,6 @@
 # TBA - Montagne Verte
 
-TBA - Montagne Verte is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "MÉLANINE" on Sun, 19 Jul 2026.
+TBA - Montagne Verte is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "MÉLANINE" on Sun, 19 Jul 2026.
 
 TBA - Montagne Verte is a music venue in Strasbourg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Montagne Verte is a music venue in Strasbourg listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | MÉLANINE |  |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/tba-montagne-verte/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/tba-montagne-verte/)*

@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "DORA TANZT ZUM CSD" on Sat, 18 Jul 2026.
+Tanzhaus West is a music venue in Frankfurt with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "DORA TANZT ZUM CSD" on Sat, 18 Jul 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 9 upcoming nights, with line-ups including AKA AKA, Alina Viktoria, Andrale and Andy Düx and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -22,4 +22,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 9 upcoming nig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

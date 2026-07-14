@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 19 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Answer Code Request (DE) — Revolver Fridays & Deep Cargo" on Fri, 17 Jul 2026.
+Revolver Upstairs is a music venue in Melbourne with 19 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Answer Code Request (DE) — Revolver Fridays & Deep Cargo" on Fri, 17 Jul 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming nights, with line-ups including Acid Safari, Alex Wann, Answer Code Request and ARTISAH and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

@@ -1,6 +1,6 @@
 # DMC.
 
-DMC. is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club der Visionaere, Berlin on Wed, 15 Jul 2026.
+DMC. is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club der Visionaere, Berlin on Wed, 15 Jul 2026.
 
 DMC. is a house and electro artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: Club der Visionaere, Berlin on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ DMC. is a house and electro artist tracked on soundcheck, with 76 sets logged ac
 
 Louie G, Colin Chiddle, Carl H
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*

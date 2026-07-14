@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
+Yamour is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
 
 Yamour is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Auckland and Bali and 30 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Yamour is a house and techno artist tracked on soundcheck, with 153 sets logged 
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

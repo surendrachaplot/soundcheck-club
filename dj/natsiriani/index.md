@@ -1,6 +1,6 @@
 # Nat Siriani
 
-Nat Siriani is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fooq's Miami, Miami on Sat, 18 Jul 2026.
+Nat Siriani is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fooq's Miami, Miami on Sat, 18 Jul 2026.
 
 Nat Siriani is a house and tech house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Miami, Newyorkcity and Sandiego. Often billed alongside Cami di Marzo, Kamcoco and La BB. Next up: Fooq's Miami, Miami on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Nat Siriani is a house and tech house artist based in United States of America, 
 
 Cami di Marzo, Kamcoco, La BB
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsiriani/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsiriani/)*

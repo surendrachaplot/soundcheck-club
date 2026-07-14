@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY-" on Wed, 15 Jul 2026.
+Joule is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MIDWEEK GROOVE -TECHNO NIGHT EVERY WEDNESDAY-" on Wed, 15 Jul 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including ALESSA(JP), Astro aka Akihisa Takahashi, Ezequiel Arias and Goodrug and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -20,4 +20,4 @@ Joule is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with li
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

@@ -1,6 +1,6 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Pyg presents Rocco & Johnny Holmes" on Fri, 17 Jul 2026.
+Pygmalion is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Pyg presents Rocco & Johnny Holmes" on Fri, 17 Jul 2026.
 
 Pygmalion is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
@@ -15,4 +15,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Br
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

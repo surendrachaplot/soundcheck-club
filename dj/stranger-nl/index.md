@@ -1,6 +1,6 @@
 # stranger (NL)
 
-stranger (NL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+stranger (NL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 stranger (NL) is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Chlär, DAX J and Beste Hira. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ stranger (NL) is a techno and house artist tracked on soundcheck, with 87 sets l
 
 Chlär, DAX J, Beste Hira
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*

@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Prosumer is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -33,4 +33,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 163 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

@@ -1,6 +1,6 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at BLITZ, Munich on Sat, 25 Jul 2026.
+VIL (PT) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BLITZ, Munich on Sat, 25 Jul 2026.
 
 VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: BLITZ, Munich on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 CRAVO, Temudo, Nørbak
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

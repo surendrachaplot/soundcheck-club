@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Sat, 25 Jul 2026.
+Rivo is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Sat, 25 Jul 2026.
 
 Rivo is a house and afro house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Budai Vár - Oroszlános Udvar, Budapest on Sat 25 Jul.
 
@@ -32,4 +32,4 @@ Rivo is a house and afro house artist tracked on soundcheck, with 55 sets logged
 
 Eric Prydz, Bender, Argy
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

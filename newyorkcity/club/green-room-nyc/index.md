@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Golden Record NYC x Hudd Traxx present Chez Damier, Huerta & Eddie Leader" on Fri, 17 Jul 2026.
+Green Room NYC is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Golden Record NYC x Hudd Traxx present Chez Damier, Huerta & Eddie Leader" on Fri, 17 Jul 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including MORENXXX, Amor Satyr, Anthorp and Atilla Ural and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 4 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

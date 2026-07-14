@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Gewölbe, Cologne on Sat, 8 Aug 2026.
+Elli Acula is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gewölbe, Cologne on Sat, 8 Aug 2026.
 
 Elli Acula is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Gewölbe, Cologne on Sat 8 Aug.
 
@@ -32,4 +32,4 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 208 sets log
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

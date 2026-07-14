@@ -1,6 +1,6 @@
 # ID
 
-ID is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Blvd, Manchester on Sat, 18 Jul 2026.
+ID is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Blvd, Manchester on Sat, 18 Jul 2026.
 
 ID is a drum & bass and bass artist tracked on soundcheck, with 28 sets logged across Birmingham, Bristol, London and Manchester and 5 more. Often billed alongside Sweets, Sub Focus and Tracksuits. Next up: Blvd, Manchester on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ ID is a drum & bass and bass artist tracked on soundcheck, with 28 sets logged a
 
 Sweets, Sub Focus, Tracksuits
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/id/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/id/)*

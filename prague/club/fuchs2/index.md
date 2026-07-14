@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "SEKTOR EVOLUTION SHOWCASE: Toni Dextor ☆ Mit B. ☆ Marianne ☆ Brad Pitch ☆ Malena" on Fri, 17 Jul 2026.
+Fuchs2 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SEKTOR EVOLUTION SHOWCASE: Toni Dextor ☆ Mit B. ☆ Marianne ☆ Brad Pitch ☆ Malena" on Fri, 17 Jul 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including 3ever, Adamatron, aláya and Axis Alpha and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

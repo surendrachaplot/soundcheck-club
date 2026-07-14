@@ -1,6 +1,6 @@
 # Saint Lukez
 
-Saint Lukez is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Port of Leith Distillery, Edinburgh on Sat, 18 Jul 2026.
+Saint Lukez is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Port of Leith Distillery, Edinburgh on Sat, 18 Jul 2026.
 
 Saint Lukez is a disco and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Edinburgh, Liverpool and London and 4 more. Often billed alongside Jade Edwards, Chris Wheatley and Davide Del Vecchio. Next up: Port of Leith Distillery, Edinburgh on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Saint Lukez is a disco and house artist based in United Kingdom, tracked on soun
 
 Jade Edwards, Chris Wheatley, Davide Del Vecchio
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintlukez/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintlukez/)*

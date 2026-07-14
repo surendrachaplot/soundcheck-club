@@ -1,6 +1,6 @@
 # Aly P
 
-Aly P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Commune, Liverpool on Sat, 25 Jul 2026.
+Aly P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Commune, Liverpool on Sat, 25 Jul 2026.
 
 Aly P is a house and techno artist tracked on soundcheck, with 30 sets logged across Edinburgh, Liverpool and Manchester. Often billed alongside Kathryn, Elleinad and 4D (UK). Next up: Commune, Liverpool on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Aly P is a house and techno artist tracked on soundcheck, with 30 sets logged ac
 
 Kathryn, Elleinad, 4D (UK)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*

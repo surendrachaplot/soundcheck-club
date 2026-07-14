@@ -1,6 +1,6 @@
 # Marian Ariss
 
-Marian Ariss is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Marian Ariss is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
 Marian Ariss is a tech house and house artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Isa Rojas, Kevin de Vries and Massano. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Marian Ariss is a tech house and house artist tracked on soundcheck, with 34 set
 
 Isa Rojas, Kevin de Vries, Massano
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marianariss/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marianariss/)*

@@ -1,6 +1,6 @@
 # Brasserie de la Senne
 
-Brasserie de la Senne is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Evasion Party" on Sat, 18 Jul 2026.
+Brasserie de la Senne is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Evasion Party" on Sat, 18 Jul 2026.
 
 Brasserie de la Senne is a music venue in Brussels listed on soundcheck. 3 upcoming nights, with line-ups including Kitoko. Browse upcoming dates, start times and who's playing. Anna Bochdreef 19/21, 1000 Bruxelles.
 
@@ -16,4 +16,4 @@ Brasserie de la Senne is a music venue in Brussels listed on soundcheck. 3 upcom
 
 Anna Bochdreef 19/21, 1000 Bruxelles, Brussels
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-senne/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-senne/)*

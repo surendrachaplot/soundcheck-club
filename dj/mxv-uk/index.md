@@ -1,6 +1,6 @@
 # MXV (UK)
 
-MXV (UK) is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
+MXV (UK) is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 8 Aug 2026.
 
 MXV (UK) is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, London, Nottingham and Prague. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: Nico's Bar at Hackney Bridge, London on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ MXV (UK) is a deep house and progressive house artist based in United Kingdom, t
 
 Nour (UK), Tris (UK), ALLKNIGHT
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*

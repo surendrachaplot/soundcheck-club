@@ -1,6 +1,6 @@
 # Club Wintercircus
 
-Club Wintercircus is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Gentse Feesten Rooftop Open Air" on Sat, 18 Jul 2026.
+Club Wintercircus is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Gentse Feesten Rooftop Open Air" on Sat, 18 Jul 2026.
 
 Club Wintercircus is a music venue in Ghent listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
 
@@ -15,4 +15,4 @@ Club Wintercircus is a music venue in Ghent listed on soundcheck. 2 upcoming nig
 
 Miriam Makebaplein 2, 9000 Gent, Ghent
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*

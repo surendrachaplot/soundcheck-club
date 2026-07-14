@@ -1,6 +1,6 @@
 # Seventeenth Church
 
-Seventeenth Church is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Ambient Church Chicago: Laraaji 'Day of Radiance'" on Sat, 18 Jul 2026.
+Seventeenth Church is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Ambient Church Chicago: Laraaji 'Day of Radiance'" on Sat, 18 Jul 2026.
 
 Seventeenth Church is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Seventeenth Church is a music venue in Chicago listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Ambient Church Chicago: Laraaji 'Day of Radiance' |  |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/seventeenth-church/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/seventeenth-church/)*

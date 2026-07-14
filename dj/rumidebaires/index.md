@@ -1,6 +1,6 @@
 # Rumi de Baires
 
-Rumi de Baires is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Rumi de Baires is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Rumi de Baires is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Athens and Berlin and 11 more. Often billed alongside Jorkes, JP Bechamel and Altroy. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Rumi de Baires is a house and techno artist tracked on soundcheck, with 94 sets 
 
 Jorkes, JP Bechamel, Altroy
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rumidebaires/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rumidebaires/)*

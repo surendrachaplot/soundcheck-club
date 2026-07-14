@@ -1,6 +1,6 @@
 # ANNARA
 
-ANNARA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at OXI, Berlin on Tue, 14 Jul 2026.
+ANNARA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at OXI, Berlin on Tue, 14 Jul 2026.
 
 ANNARA is a techno and house artist based in Brazil, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside KLEA, ADHDaddy and ALI3N. Next up: OXI, Berlin on Tue 14 Jul.
 
@@ -27,4 +27,4 @@ ANNARA is a techno and house artist based in Brazil, tracked on soundcheck, with
 
 KLEA, ADHDaddy, ALI3N
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*

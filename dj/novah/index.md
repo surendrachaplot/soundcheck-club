@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+NOVAH is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 NOVAH is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Cloudy, Nico Moreno and Onlynumbers. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 160 sets logged 
 
 Cloudy, Nico Moreno, Onlynumbers
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

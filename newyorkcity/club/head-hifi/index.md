@@ -1,6 +1,6 @@
 # Head Hifi
 
-Head Hifi is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Head Hifi Listening Series presents Kelela Take Me Apart" on Thu, 23 Jul 2026.
+Head Hifi is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Head Hifi Listening Series presents Kelela Take Me Apart" on Thu, 23 Jul 2026.
 
 Head Hifi is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Ella Hussle. Browse upcoming dates, start times and who's playing. 146 Flushing Ave. Brooklyn,NY 11205.
 
@@ -14,4 +14,4 @@ Head Hifi is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night
 
 146 Flushing Ave. Brooklyn,NY 11205, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/head-hifi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/head-hifi/)*

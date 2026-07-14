@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Awake All Hours presents: Conrad Pack (Live), Caroune, St. Amp, szoryn" on Fri, 17 Jul 2026.
+radial is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Awake All Hours presents: Conrad Pack (Live), Caroune, St. Amp, szoryn" on Fri, 17 Jul 2026.
 
 radial is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Brother of Set, Caroune, Claudia Kane and Coinín Beag and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -20,4 +20,4 @@ radial is a music venue in London listed on soundcheck. 7 upcoming nights, with 
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

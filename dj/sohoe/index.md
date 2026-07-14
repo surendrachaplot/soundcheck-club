@@ -1,6 +1,6 @@
 # SOHOE
 
-SOHOE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+SOHOE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 SOHOE is a techno and trance artist tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Losangeles and Vienna. Often billed alongside Stinny Stone, futurristic and Salzbauer. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ SOHOE is a techno and trance artist tracked on soundcheck, with 44 sets logged a
 
 Stinny Stone, futurristic, Salzbauer
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohoe/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sohoe/)*

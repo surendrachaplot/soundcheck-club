@@ -1,6 +1,6 @@
 # PROLETAR
 
-PROLETAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club M2 Miami, Miami on Sat, 18 Jul 2026.
+PROLETAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club M2 Miami, Miami on Sat, 18 Jul 2026.
 
 PROLETAR is a techno and trance artist based in Romania, tracked on soundcheck, with 29 sets logged across Miami. Often billed alongside Dadrev, DomnRob and Mr. Proper. Next up: Club M2 Miami, Miami on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ PROLETAR is a techno and trance artist based in Romania, tracked on soundcheck, 
 
 Dadrev, DomnRob, Mr. Proper
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/proletar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/proletar/)*

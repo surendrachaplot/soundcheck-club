@@ -1,6 +1,6 @@
 # DJ Marfox
 
-DJ Marfox is a Kuduro and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Mira Rio, Caparica, Lisbon on Sun, 19 Jul 2026.
+DJ Marfox is a Kuduro and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Mira Rio, Caparica, Lisbon on Sun, 19 Jul 2026.
 
 DJ Marfox is a kuduro and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Nídia, DJ Lycox and DJ Nigga Fox. Next up: TBA - Mira Rio, Caparica, Lisbon on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ DJ Marfox is a kuduro and techno artist tracked on soundcheck, with 64 sets logg
 
 Nídia, DJ Lycox, DJ Nigga Fox
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*

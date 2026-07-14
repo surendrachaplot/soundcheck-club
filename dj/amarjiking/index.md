@@ -1,14 +1,15 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 23 Jul 2026.
+Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bossa Nova Civic Club, New York City on Thu, 23 Jul 2026.
 
-Amarji King is a club and techno artist tracked on soundcheck, with 40 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 23 Jul.
+Amarji King is a club and techno artist tracked on soundcheck, with 41 sets logged across Austin, Chicago, Detroit and Houston and 6 more. Often billed alongside HYPERFEMME, BLAIZE and IDKRYAN. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 25 Jul 2026 | TBA - Brooklyn | New York City |
 | Fri, 7 Aug 2026 | Meow Wolf Houston | Houston |
 
 ## Recently played
@@ -26,4 +27,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 40 sets logg
 
 HYPERFEMME, BLAIZE, IDKRYAN
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

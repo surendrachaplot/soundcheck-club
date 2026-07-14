@@ -1,6 +1,6 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "AWOS presenta Luisa Almaguer + Lorea + JASSS" on Thu, 16 Jul 2026.
+Casa Montjuïc is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "AWOS presenta Luisa Almaguer + Lorea + JASSS" on Thu, 16 Jul 2026.
 
 Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including JASSS. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
@@ -17,4 +17,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 4 upcoming ni
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

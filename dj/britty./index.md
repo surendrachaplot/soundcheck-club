@@ -1,8 +1,8 @@
 # britty.
 
-britty. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Signal, New York City on Fri, 7 Aug 2026.
+britty. is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Signal, New York City on Fri, 7 Aug 2026.
 
-britty. is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside JMT (2), Shaun Reeves and sillygirlcarmen. Next up: Signal, Newyorkcity on Fri 7 Aug.
+britty. is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside sillygirlcarmen, JMT (2) and Shaun Reeves. Next up: Signal, Newyorkcity on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ britty. is a house and techno artist based in United States of America, tracked 
 | Fri, 7 Aug 2026 | Signal | New York City |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
+| Fri, 14 Aug 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ britty. is a house and techno artist based in United States of America, tracked 
 
 ## Shares bills with
 
-JMT (2), Shaun Reeves, sillygirlcarmen
+sillygirlcarmen, JMT (2), Shaun Reeves
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/britty./)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/britty./)*

@@ -1,6 +1,6 @@
 # DDK (1)
 
-DDK (1) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Altenburg 1964, Prague on Fri, 17 Jul 2026.
+DDK (1) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Altenburg 1964, Prague on Fri, 17 Jul 2026.
 
 DDK (1) is a techno and tech house artist tracked on soundcheck, with 52 sets logged across Berlin, Prague and Stuttgart. Often billed alongside zazitech, RADYK and jardabpm. Next up: Altenburg 1964, Prague on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DDK (1) is a techno and tech house artist tracked on soundcheck, with 52 sets lo
 
 zazitech, RADYK, jardabpm
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*

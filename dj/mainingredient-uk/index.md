@@ -1,6 +1,6 @@
 # Main Ingredient
 
-Main Ingredient is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Mash House, Edinburgh on Sat, 18 Jul 2026.
+Main Ingredient is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Mash House, Edinburgh on Sat, 18 Jul 2026.
 
 Main Ingredient is a house and acid artist tracked on soundcheck, with 30 sets logged across Edinburgh and Glasgow. Often billed alongside Marti-Time!, DJ Shannon and Hand-made. Next up: The Mash House, Edinburgh on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Main Ingredient is a house and acid artist tracked on soundcheck, with 30 sets l
 
 Marti-Time!, DJ Shannon, Hand-made
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mainingredient-uk/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mainingredient-uk/)*

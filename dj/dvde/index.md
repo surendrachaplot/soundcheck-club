@@ -1,6 +1,6 @@
 # DVDE
 
-DVDE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lux Fragil, Lisbon on Thu, 16 Jul 2026.
+DVDE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lux Fragil, Lisbon on Thu, 16 Jul 2026.
 
 DVDE is a house and techno artist based in France, tracked on soundcheck, with 103 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Maison Blanche, Cinthie and DMX Krew. Next up: Lux Fragil, Lisbon on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ DVDE is a house and techno artist based in France, tracked on soundcheck, with 1
 
 Maison Blanche, Cinthie, DMX Krew
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*

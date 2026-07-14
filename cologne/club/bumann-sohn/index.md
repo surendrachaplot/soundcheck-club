@@ -1,6 +1,6 @@
 # Bumann & Sohn
 
-Bumann & Sohn is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "HEAT.WAV2000 & FRIENDS" on Sat, 18 Jul 2026.
+Bumann & Sohn is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HEAT.WAV2000 & FRIENDS" on Sat, 18 Jul 2026.
 
 Bumann & Sohn is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including JUCI VISION and Redfocks. Browse upcoming dates, start times and who's playing. Bartholomäus-Schink-Str. 2, 50825 Cologne.
 
@@ -15,4 +15,4 @@ Bumann & Sohn is a music venue in Cologne listed on soundcheck. 2 upcoming night
 
 Bartholomäus-Schink-Str. 2, 50825 Cologne, Cologne
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bumann-sohn/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bumann-sohn/)*

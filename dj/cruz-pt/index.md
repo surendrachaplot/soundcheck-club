@@ -1,6 +1,6 @@
 # Cruz (PT)
 
-Cruz (PT) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministerium Club, Lisbon on Fri, 17 Jul 2026.
+Cruz (PT) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ministerium Club, Lisbon on Fri, 17 Jul 2026.
 
 Cruz (PT) is a house and techno artist based in Portugal, tracked on soundcheck, with 77 sets logged across Barcelona, Dublin, Lisbon and London and 2 more. Often billed alongside Kaesar, Ze Salvador and Anah. Next up: Ministerium Club, Lisbon on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Cruz (PT) is a house and techno artist based in Portugal, tracked on soundcheck,
 
 Kaesar, Ze Salvador, Anah
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cruz-pt/)*

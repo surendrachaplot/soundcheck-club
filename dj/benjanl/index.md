@@ -1,6 +1,6 @@
 # Benja (NL)
 
-Benja (NL) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
+Benja (NL) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Flevopark, Amsterdam on Sat, 25 Jul 2026.
 
 Benja (NL) is an afro house and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Basel and Brussels and 10 more. Often billed alongside Franc Fala, Cincity and Philou Louzolo. Next up: Flevopark, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Benja (NL) is an afro house and house artist tracked on soundcheck, with 35 sets
 
 Franc Fala, Cincity, Philou Louzolo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjanl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benjanl/)*

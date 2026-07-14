@@ -1,6 +1,6 @@
 # Taiga (LV)
 
-Taiga (LV) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Teritorija, Riga on Fri, 17 Jul 2026.
+Taiga (LV) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Teritorija, Riga on Fri, 17 Jul 2026.
 
 Taiga (LV) is a techno and acid artist tracked on soundcheck, with 37 sets logged across Riga. Often billed alongside SIRDSAPES, Ikss and Kelvin. Next up: Teritorija, Riga on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Taiga (LV) is a techno and acid artist tracked on soundcheck, with 37 sets logge
 
 SIRDSAPES, Ikss, Kelvin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taigalv/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taigalv/)*

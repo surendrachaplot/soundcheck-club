@@ -1,6 +1,6 @@
 # MIASALAV
 
-MIASALAV is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 14 Aug 2026.
+MIASALAV is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Société des arts technologiques, Montreal on Fri, 14 Aug 2026.
 
 MIASALAV is a techno and bass artist tracked on soundcheck, with 65 sets logged across Mexicocity, Montreal, Newyorkcity and Toronto. Often billed alongside Venus in Foil, Runa and Asha (4). Next up: Société des arts technologiques, Montreal on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ MIASALAV is a techno and bass artist tracked on soundcheck, with 65 sets logged 
 
 Venus in Foil, Runa, Asha (4)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miasalav/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miasalav/)*

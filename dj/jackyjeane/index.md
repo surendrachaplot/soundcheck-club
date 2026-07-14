@@ -1,6 +1,6 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Prairie du Canal, Paris on Tue, 14 Jul 2026.
+Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Prairie du Canal, Paris on Tue, 14 Jul 2026.
 
 Jacky Jeane is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: La Prairie du Canal, Paris on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ Jacky Jeane is a techno and house artist tracked on soundcheck, with 65 sets log
 
 Sarcus Soundsystem, Ubik (Fr), OLGA B.
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*

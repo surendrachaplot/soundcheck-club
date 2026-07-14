@@ -1,6 +1,6 @@
 # FXCKBOUT
 
-FXCKBOUT is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
+FXCKBOUT is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
 
 FXCKBOUT is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Manchester. Often billed alongside BUTCHABOI, KABOCANA and Macy Lancaster. Next up: Cupra City Garage Manchester, Manchester on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ FXCKBOUT is a bass and garage artist based in United Kingdom, tracked on soundch
 
 BUTCHABOI, KABOCANA, Macy Lancaster
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fxckbout/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fxckbout/)*

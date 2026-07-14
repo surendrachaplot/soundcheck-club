@@ -1,6 +1,6 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Hiroko Yamamura is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 151 set
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

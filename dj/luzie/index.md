@@ -1,6 +1,6 @@
 # Luzie
 
-Luzie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 18 Jul 2026.
+Luzie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 18 Jul 2026.
 
 Luzie is a house and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 4 more. Often billed alongside Frau Laura, nd_baumecker and Laurine Philippe. Next up: Tanzhaus West, Frankfurt on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Luzie is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Frau Laura, nd_baumecker, Laurine Philippe
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luzie/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luzie/)*

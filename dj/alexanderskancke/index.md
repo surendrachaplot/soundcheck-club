@@ -1,6 +1,6 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Jaeger, Oslo on Sat, 15 Aug 2026.
+Alexander Skancke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Jaeger, Oslo on Sat, 15 Aug 2026.
 
 Alexander Skancke is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Jaeger, Oslo on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Alexander Skancke is a house and techno artist tracked on soundcheck, with 85 se
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

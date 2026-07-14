@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
+PARAMIDA is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
 
 PARAMIDA is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Those Who Dance, Lisbon on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 238 sets logge
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

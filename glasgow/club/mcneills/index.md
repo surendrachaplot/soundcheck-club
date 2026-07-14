@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "OH! (Open Hoose)" on Fri, 31 Jul 2026.
+McNeills is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "OH! (Open Hoose)" on Fri, 31 Jul 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -14,4 +14,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Bro
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

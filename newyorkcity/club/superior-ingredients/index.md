@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "FUNKBOX 18 Yrs: Day-Into-Night Marathon w/ Tony Touch, Eli Escobar, Moodymann" on Fri, 17 Jul 2026.
+Superior Ingredients is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FUNKBOX 18 Yrs: Day-Into-Night Marathon w/ Tony Touch, Eli Escobar, Moodymann" on Fri, 17 Jul 2026.
 
 Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including Aazure, AC Slater, ALT8 and Andrew Azara and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -23,4 +23,4 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 17 up
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

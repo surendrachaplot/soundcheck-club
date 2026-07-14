@@ -1,6 +1,6 @@
 # Luigi Di Venere
 
-Luigi Di Venere is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Oven Club, Valencia on Fri, 17 Jul 2026.
+Luigi Di Venere is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Oven Club, Valencia on Fri, 17 Jul 2026.
 
 Luigi Di Venere is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Stathis (GR), Massimiliano Pagliara and Chris Cruse. Next up: Oven Club, Valencia on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Luigi Di Venere is a house and techno artist tracked on soundcheck, with 103 set
 
 Stathis (GR), Massimiliano Pagliara, Chris Cruse
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*

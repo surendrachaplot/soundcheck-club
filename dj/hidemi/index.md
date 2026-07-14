@@ -1,6 +1,6 @@
 # hidemi
 
-hidemi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at BRAND SHIBUYA, Tokyo on Tue, 14 Jul 2026.
+hidemi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BRAND SHIBUYA, Tokyo on Tue, 14 Jul 2026.
 
 hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 140 sets logged across Osaka and Tokyo. Often billed alongside Takami, cosmolady and AHREUM. Next up: BRAND SHIBUYA, Tokyo on Tue 14 Jul.
 
@@ -28,4 +28,4 @@ hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Takami, cosmolady, AHREUM
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*

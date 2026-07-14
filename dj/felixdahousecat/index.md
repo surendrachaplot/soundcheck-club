@@ -1,6 +1,6 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TRAUM, Antwerp on Mon, 20 Jul 2026.
+Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TRAUM, Antwerp on Mon, 20 Jul 2026.
 
 Felix Da Housecat is a house and techno artist tracked on soundcheck, with 66 sets logged across Antwerp, Auckland, Berlin and Bristol and 19 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: TRAUM, Antwerp on Mon 20 Jul.
 
@@ -27,4 +27,4 @@ Felix Da Housecat is a house and techno artist tracked on soundcheck, with 66 se
 
 Roger Sanchez, DJ Paulette, Derrick Carter
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*

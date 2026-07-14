@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 17 Jul 2026.
+B.Love is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 17 Jul 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 12 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

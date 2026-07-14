@@ -1,6 +1,6 @@
 # AVANTIME
 
-AVANTIME is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Munster Munch, London on Sat, 25 Jul 2026.
+AVANTIME is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Munster Munch, London on Sat, 25 Jul 2026.
 
 AVANTIME is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across London and Munich. Often billed alongside Gus Emmett, Marksman and Altayef. Next up: Munster Munch, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ AVANTIME is a progressive house and house artist based in United Kingdom, tracke
 
 Gus Emmett, Marksman, Altayef
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avantime/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avantime/)*

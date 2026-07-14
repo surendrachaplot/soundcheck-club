@@ -1,6 +1,6 @@
 # fbi (1)
 
-fbi (1) is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bike Jesus, Prague on Sat, 18 Jul 2026.
+fbi (1) is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bike Jesus, Prague on Sat, 18 Jul 2026.
 
 fbi (1) is a house and funk / soul artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Leipzig and Prague. Often billed alongside KVLR, DJ SOURCE and yamagucci42. Next up: Bike Jesus, Prague on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ fbi (1) is a house and funk / soul artist based in Germany, tracked on soundchec
 
 KVLR, DJ SOURCE, yamagucci42
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*

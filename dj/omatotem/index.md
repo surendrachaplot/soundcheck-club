@@ -1,6 +1,6 @@
 # oma totem
 
-oma totem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
+oma totem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lofi, Amsterdam on Sat, 15 Aug 2026.
 
 oma totem is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 13 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: Lofi, Amsterdam on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ oma totem is a techno and house artist tracked on soundcheck, with 59 sets logge
 
 mad miran, Lena Willikens, Phran
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*

@@ -1,6 +1,6 @@
 # Pure Immanence
 
-Pure Immanence is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 26 Jul 2026.
+Pure Immanence is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bossa Nova Civic Club, New York City on Sun, 26 Jul 2026.
 
 Pure Immanence is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Leipzig, Miami and Newyorkcity. Often billed alongside Shyboi, MORENXXX and Ne/Re/A. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Pure Immanence is a techno and house artist based in United States of America, t
 
 Shyboi, MORENXXX, Ne/Re/A
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pureimmanence/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pureimmanence/)*

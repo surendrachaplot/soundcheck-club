@@ -1,6 +1,6 @@
 # COEO
 
-COEO is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cabaret  Aléatoire, Marseille on Sat, 18 Jul 2026.
+COEO is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cabaret  Aléatoire, Marseille on Sat, 18 Jul 2026.
 
 COEO is a house and disco artist tracked on soundcheck, with 103 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Kapote, Athlete Whippet and Gee Lane. Next up: Cabaret  Aléatoire, Marseille on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ COEO is a house and disco artist tracked on soundcheck, with 103 sets logged acr
 
 Kapote, Athlete Whippet, Gee Lane
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*

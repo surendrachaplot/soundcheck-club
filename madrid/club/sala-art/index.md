@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Antidoto Club: Olivia Babe" on Thu, 16 Jul 2026.
+Sala ART is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Antidoto Club: Olivia Babe" on Thu, 16 Jul 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Costa (2), Diego Armando, JAIROSKUN and Maxvll and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -20,4 +20,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 7 upcoming nights, wit
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

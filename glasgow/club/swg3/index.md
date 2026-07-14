@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "STREETrave Summer All Dayer 2026" on Sat, 18 Jul 2026.
+SWG3 is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "STREETrave Summer All Dayer 2026" on Sat, 18 Jul 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, with line-ups including An Dannsa Dub, Auntie Flo, Benwal and Chris Stussy and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, with 
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+Samuel Moriero (2) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Samuel Moriero (2) is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Antwerp, Berlin, Brussels and Cologne and 5 more. Often billed alongside 999999999, Daisy-it and Gianni Di Bernardo. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Samuel Moriero (2) is a techno and industrial artist tracked on soundcheck, with
 
 999999999, Daisy-it, Gianni Di Bernardo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

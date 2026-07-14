@@ -1,6 +1,6 @@
 # Lucyd
 
-Lucyd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
+Lucyd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
 
 Lucyd is a techno and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside Mislaw, Hekato and Rethe. Next up: Lark, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Lucyd is a techno and house artist tracked on soundcheck, with 30 sets logged ac
 
 Mislaw, Hekato, Rethe
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyd/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyd/)*

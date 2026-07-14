@@ -1,6 +1,6 @@
 # Varela
 
-Varela is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lux Fragil, Lisbon on Thu, 16 Jul 2026.
+Varela is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lux Fragil, Lisbon on Thu, 16 Jul 2026.
 
 Varela is a house and deep house artist based in Portugal, tracked on soundcheck, with 102 sets logged across Austin, Barcelona and Lisbon. Often billed alongside Rui Vargas, Inês Duarte and Dexter Lux. Next up: Lux Fragil, Lisbon on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Varela is a house and deep house artist based in Portugal, tracked on soundcheck
 
 Rui Vargas, Inês Duarte, Dexter Lux
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/varela/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/varela/)*

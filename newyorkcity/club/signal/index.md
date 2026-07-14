@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Night & Day x Vyvn: Francesca Lombardo, Lauren Lane, Anchovies, Julian Lindsey, Mykola" on Fri, 17 Jul 2026.
+Signal is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Night & Day x Vyvn: Francesca Lombardo, Lauren Lane, Anchovies, Julian Lindsey, Mykola" on Fri, 17 Jul 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 1morning, Abby Echiverri, Akua and alexander:louis and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

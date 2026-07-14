@@ -1,6 +1,6 @@
 # LE Marlin
 
-LE Marlin is a music venue in Marseille with 14 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "LE MARLIN PRESENTS NICO BELIC" on Tue, 14 Jul 2026.
+LE Marlin is a music venue in Marseille with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "LE MARLIN PRESENTS NICO BELIC" on Tue, 14 Jul 2026.
 
 LE Marlin is a music venue in Marseille listed on soundcheck. 14 upcoming nights, with line-ups including Phred. Browse upcoming dates, start times and who's playing. 7 place aux Huiles, 13001 Marseille.
 
@@ -23,4 +23,4 @@ LE Marlin is a music venue in Marseille listed on soundcheck. 14 upcoming nights
 
 7 place aux Huiles, 13001 Marseille, Marseille
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-marlin/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-marlin/)*

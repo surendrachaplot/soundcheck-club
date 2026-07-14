@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 12 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Bedroom • The Sixteenth Birthday Rave" on Thu, 16 Jul 2026.
+A38 is a music venue in Budapest with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Bedroom • The Sixteenth Birthday Rave" on Thu, 16 Jul 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 12 upcoming nights, with line-ups including Alix Perez, Dual DeStress, Electric Boutique and Gemcamp and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -23,4 +23,4 @@ A38 is a music venue in Budapest listed on soundcheck. 12 upcoming nights, with 
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

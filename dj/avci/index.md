@@ -1,6 +1,6 @@
 # AVCI
 
-AVCI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
+AVCI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at E1, London on Fri, 31 Jul 2026.
 
 AVCI is a techno and industrial artist tracked on soundcheck, with 24 sets logged across Istanbul, London, Madrid and Turin. Often billed alongside MATT., undrtow and B-DRIVE. Next up: E1, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ AVCI is a techno and industrial artist tracked on soundcheck, with 24 sets logge
 
 MATT., undrtow, B-DRIVE
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avci/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avci/)*

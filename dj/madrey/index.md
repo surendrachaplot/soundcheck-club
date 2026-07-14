@@ -1,6 +1,6 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Cabaret Sauvage, Paris on Sat, 18 Jul 2026.
+Mad Rey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cabaret Sauvage, Paris on Sat, 18 Jul 2026.
 
 Mad Rey is a house and electro artist tracked on soundcheck, with 54 sets logged across Berlin, Geneva, Lisbon and London and 3 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: Cabaret Sauvage, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mad Rey is a house and electro artist tracked on soundcheck, with 54 sets logged
 
 Mézigue, GGGG, Flabaire
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

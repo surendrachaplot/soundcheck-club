@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Dark Harp Events: HYPNØTIK" on Thu, 16 Jul 2026.
+The Sound House is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Dark Harp Events: HYPNØTIK" on Thu, 16 Jul 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including ALPER SKR, Cody Wong, Jacob Matthews and SAMUX and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -23,4 +23,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nig
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

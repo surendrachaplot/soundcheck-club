@@ -1,6 +1,6 @@
 # Rio Tashan
 
-Rio Tashan is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hidden, Manchester on Fri, 17 Jul 2026.
+Rio Tashan is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hidden, Manchester on Fri, 17 Jul 2026.
 
 Rio Tashan is a house and disco artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 6 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: Hidden, Manchester on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Rio Tashan is a house and disco artist tracked on soundcheck, with 63 sets logge
 
 Sam Divine, Eats Everything, Low Steppa
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*

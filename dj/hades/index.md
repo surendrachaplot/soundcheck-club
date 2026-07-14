@@ -1,6 +1,6 @@
 # Hades
 
-Hades is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Arzenal, Budapest on Fri, 17 Jul 2026.
+Hades is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Arzenal, Budapest on Fri, 17 Jul 2026.
 
 Hades is a techno and hardcore artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside KARAH, CARV and JAZZY (2). Next up: Arzenal, Budapest on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Hades is a techno and hardcore artist tracked on soundcheck, with 63 sets logged
 
 KARAH, CARV, JAZZY (2)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hades/)*

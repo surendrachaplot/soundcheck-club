@@ -1,6 +1,6 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "FRENCH DAY" on Tue, 14 Jul 2026.
+Bangkok Island is a music venue in Bangkok with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FRENCH DAY" on Tue, 14 Jul 2026.
 
 Bangkok Island is a music venue in Bangkok listed on soundcheck. 9 upcoming nights, with line-ups including Jack the Jackal, PM and Puffer P. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
@@ -22,4 +22,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 9 upcoming nigh
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

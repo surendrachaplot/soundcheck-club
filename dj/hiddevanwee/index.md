@@ -1,6 +1,6 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Mint Warehouse, Leeds on Sat, 18 Jul 2026.
+Hidde van Wee is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Mint Warehouse, Leeds on Sat, 18 Jul 2026.
 
 Hidde van Wee is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 11 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Mint Warehouse, Leeds on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 60 se
 
 Boss Priester, Sidney Charles, Benny Rodrigues
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

@@ -1,6 +1,6 @@
 # The William Vale
 
-The William Vale is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "The Big Pregame with Pablo Fierro *Open Air*" on Sat, 18 Jul 2026.
+The William Vale is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The Big Pregame with Pablo Fierro *Open Air*" on Sat, 18 Jul 2026.
 
 The William Vale is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Azzecca, Calussa, Luna Mar and Moontalk and 2 more. Browse upcoming dates, start times and who's playing. 111 North 12th Street.
 
@@ -22,4 +22,4 @@ The William Vale is a music venue in Newyorkcity listed on soundcheck. 9 upcomin
 
 111 North 12th Street, New York City
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-william-vale/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-william-vale/)*

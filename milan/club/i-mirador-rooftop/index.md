@@ -1,6 +1,6 @@
 # I Mirador Rooftop
 
-I Mirador Rooftop is a music venue in Milan with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "Sabotage Rooftop Service" on Thu, 16 Jul 2026.
+I Mirador Rooftop is a music venue in Milan with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sabotage Rooftop Service" on Thu, 16 Jul 2026.
 
 I Mirador Rooftop is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Lvca and Valerio Vaudano. Browse upcoming dates, start times and who's playing. Via Privata Fratelli Angelo e Mario Bettinelli, 3, 20136 Milano MI.
 
@@ -14,4 +14,4 @@ I Mirador Rooftop is a music venue in Milan listed on soundcheck. 1 upcoming nig
 
 Via Privata Fratelli Angelo e Mario Bettinelli, 3, 20136 Milano MI, Milan
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/i-mirador-rooftop/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/i-mirador-rooftop/)*

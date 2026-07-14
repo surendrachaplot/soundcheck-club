@@ -1,8 +1,8 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 22 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "lovers teiji furuhashi 2026 – a homage to Nino Rota –" on Thu, 16 Jul 2026.
+Club Metro is a music venue in Kyoto with 23 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "lovers teiji furuhashi 2026 – a homage to Nino Rota –" on Thu, 16 Jul 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 22 upcoming nights, with line-ups including Doltz, HINOTO, imus and Ken'ichi Itoi and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 23 upcoming nights, with line-ups including Doltz, HINOTO, imus and Ken'ichi Itoi and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 22 upcoming nights, w
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

@@ -1,6 +1,6 @@
 # Conor Schmtz
 
-Conor Schmtz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
+Conor Schmtz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
 
 Conor Schmtz is a house and techno artist tracked on soundcheck, with 30 sets logged across Belfast, Berlin, Dublin and London. Often billed alongside Marion Hawkes, ByPhil and Matcha. Next up: Kater, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Conor Schmtz is a house and techno artist tracked on soundcheck, with 30 sets lo
 
 Marion Hawkes, ByPhil, Matcha
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*

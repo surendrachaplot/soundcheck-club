@@ -1,6 +1,6 @@
 # DJ Noir
 
-DJ Noir is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Airliner, Los Angeles on Sat, 18 Jul 2026.
+DJ Noir is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Airliner, Los Angeles on Sat, 18 Jul 2026.
 
 DJ Noir is a club and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Losangeles, Newyorkcity, Sandiego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: The Airliner, Losangeles on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DJ Noir is a club and house artist based in United States of America, tracked on
 
 JAE JBW, Alleygorgon, TR-666
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoir/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoir/)*

@@ -1,14 +1,13 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Dark Monday" on Mon, 13 Jul 2026.
+Dunckerclub is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "'DANCING TIME AGAIN' by DJ WhamPee" on Fri, 17 Jul 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Neue K. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Neue K. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | Dark Monday |  |
 | Fri, 17 Jul 2026 | 'DANCING TIME AGAIN' by DJ WhamPee |  |
 | Sat, 18 Jul 2026 | Independent Tanzmusik |  |
 | Mon, 20 Jul 2026 | Dark Monday |  |
@@ -22,4 +21,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming nights, 
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

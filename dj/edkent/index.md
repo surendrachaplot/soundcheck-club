@@ -1,6 +1,6 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 17 Jul 2026.
+Ed Kent is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Collingwood Basement, Melbourne on Fri, 17 Jul 2026.
 
 Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, with 68 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Séarlait, Hannah D and Miki (3). Next up: Collingwood Basement, Melbourne on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Séarlait, Hannah D, Miki (3)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

@@ -1,6 +1,6 @@
 # Superchief Gallery
 
-Superchief Gallery is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 13 Jul 2026; the next is "S3XBALL" on Sat, 25 Jul 2026.
+Superchief Gallery is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "S3XBALL" on Sat, 25 Jul 2026.
 
 Superchief Gallery is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 739 Kohler St, Los Angeles, CA 90021.
 
@@ -14,4 +14,4 @@ Superchief Gallery is a music venue in Losangeles listed on soundcheck. 1 upcomi
 
 739 Kohler St, Los Angeles, CA 90021, Los Angeles
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/superchief-gallery/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/superchief-gallery/)*

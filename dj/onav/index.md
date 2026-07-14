@@ -1,6 +1,6 @@
 # ona:v
 
-ona:v is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Liquid Room Warehouse, Edinburgh on Fri, 7 Aug 2026.
+ona:v is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Liquid Room Warehouse, Edinburgh on Fri, 7 Aug 2026.
 
 ona:v is a techno and electro artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 5 more. Often billed alongside ENAEN, Kairogen and Iona.Violet. Next up: The Liquid Room Warehouse, Edinburgh on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ ona:v is a techno and electro artist tracked on soundcheck, with 97 sets logged 
 
 ENAEN, Kairogen, Iona.Violet
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*

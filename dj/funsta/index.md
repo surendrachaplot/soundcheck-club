@@ -1,6 +1,6 @@
 # Funsta
 
-Funsta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Hootananny, London on Fri, 24 Jul 2026.
+Funsta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hootananny, London on Fri, 24 Jul 2026.
 
 Funsta is a drum & bass and jungle artist tracked on soundcheck, with 44 sets logged across Liverpool, London and Seoul. Often billed alongside Jumping Jack Frost, Moose and DJ Brockie. Next up: Hootananny, London on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Funsta is a drum & bass and jungle artist tracked on soundcheck, with 44 sets lo
 
 Jumping Jack Frost, Moose, DJ Brockie
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funsta/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funsta/)*

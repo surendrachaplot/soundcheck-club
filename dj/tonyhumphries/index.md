@@ -1,6 +1,6 @@
 # Tony Humphries
 
-Tony Humphries is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Refuge, New York City on Sun, 19 Jul 2026.
+Tony Humphries is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Refuge, New York City on Sun, 19 Jul 2026.
 
 Tony Humphries is a house and disco artist based in United States of America, tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and Liverpool and 12 more. Often billed alongside DJ Heather, G-HA and Olanskii. Next up: Refuge, Newyorkcity on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Tony Humphries is a house and disco artist based in United States of America, tr
 
 DJ Heather, G-HA, Olanskii
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*

@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Jayda G is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Jayda G is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Belfast and 45 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and Eliza Rose. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -34,4 +34,4 @@ Jayda G is a house and techno artist tracked on soundcheck, with 123 sets logged
 
 Melvo Baptiste, Barry Can't Swim, Eliza Rose
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

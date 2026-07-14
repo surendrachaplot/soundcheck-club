@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "OVERTONE + VILLAGE UNDERGROUND presents Josi Devil + Roaming Data [5 YEARS LOCKED IN PARTY]" on Fri, 14 Aug 2026.
+Village Underground Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "OVERTONE + VILLAGE UNDERGROUND presents Josi Devil + Roaming Data [5 YEARS LOCKED IN PARTY]" on Fri, 14 Aug 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Josi Devil, K A I and Roaming Data. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -15,4 +15,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

@@ -1,6 +1,6 @@
 # EYCEE
 
-EYCEE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
+EYCEE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
 
 EYCEE is a house and garage artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Brussels, Manchester and Rotterdam and 2 more. Often billed alongside Identified Patient, TINS and Doppelgang. Next up: Lofi, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ EYCEE is a house and garage artist based in Netherlands, tracked on soundcheck, 
 
 Identified Patient, TINS, Doppelgang
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eycee/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eycee/)*

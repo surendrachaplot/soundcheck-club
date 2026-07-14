@@ -1,6 +1,6 @@
 # Claireyy
 
-Claireyy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
+Claireyy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
 
 Claireyy is a techno and trance artist tracked on soundcheck, with 39 sets logged across Montreal. Often billed alongside Outback, Wasie and nastygloss. Next up: Bain Mathieu, Montreal on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Claireyy is a techno and trance artist tracked on soundcheck, with 39 sets logge
 
 Outback, Wasie, nastygloss
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claireyy/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claireyy/)*

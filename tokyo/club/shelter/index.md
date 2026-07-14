@@ -1,6 +1,6 @@
 # SHeLTeR
 
-SHeLTeR is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "ALBUM" on Tue, 14 Jul 2026.
+SHeLTeR is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ALBUM" on Tue, 14 Jul 2026.
 
 SHeLTeR is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including BILLY, DORA, Ginji and Terra and 1 more. Browse upcoming dates, start times and who's playing. 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan.
 
@@ -23,4 +23,4 @@ SHeLTeR is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with
 
 1-1 B1F NK bldg; Yokamachi Hachioji; Tokyo; Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shelter/)*

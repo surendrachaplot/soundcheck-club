@@ -1,6 +1,6 @@
 # Notte Infinita
 
-Notte Infinita is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Kwia, Berlin on Tue, 14 Jul 2026.
+Notte Infinita is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kwia, Berlin on Tue, 14 Jul 2026.
 
 Notte Infinita is a techno and bass artist tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Konduku, Marylou and Albino Sound. Next up: Kwia, Berlin on Tue 14 Jul.
 
@@ -26,4 +26,4 @@ Notte Infinita is a techno and bass artist tracked on soundcheck, with 44 sets l
 
 Konduku, Marylou, Albino Sound
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notteinfinita/)*

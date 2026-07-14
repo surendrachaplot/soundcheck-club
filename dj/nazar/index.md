@@ -1,6 +1,6 @@
 # Nazar
 
-Nazar is a Experimental and Kuduro artist with 5 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Nazar is a Experimental and Kuduro artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Nazar is an experimental and kuduro artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Ikonika, The Bug and gyrofield. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Nazar is an experimental and kuduro artist based in United Kingdom, tracked on s
 
 Ikonika, The Bug, gyrofield
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nazar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nazar/)*

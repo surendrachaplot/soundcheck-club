@@ -1,6 +1,6 @@
 # Scotty Cal
 
-Scotty Cal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Klymax Discotheque, Bali on Sat, 25 Jul 2026.
+Scotty Cal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Klymax Discotheque, Bali on Sat, 25 Jul 2026.
 
 Scotty Cal is a house and disco artist based in Australia, tracked on soundcheck, with 32 sets logged across Bali and Sydney. Often billed alongside Kaiser Waldon, Jimmy Galvin and PAPU. Next up: Klymax Discotheque, Bali on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Scotty Cal is a house and disco artist based in Australia, tracked on soundcheck
 
 Kaiser Waldon, Jimmy Galvin, PAPU
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*

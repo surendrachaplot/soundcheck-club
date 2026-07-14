@@ -1,6 +1,6 @@
 # Toraigh
 
-Toraigh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at EartH, London on Fri, 24 Jul 2026.
+Toraigh is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at EartH, London on Fri, 24 Jul 2026.
 
 Toraigh is a techno and house artist tracked on soundcheck, with 19 sets logged across Belfast, Brighton and London. Often billed alongside DJ-CK, HOLY C and Ross Harper. Next up: EartH, London on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Toraigh is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 DJ-CK, HOLY C, Ross Harper
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*

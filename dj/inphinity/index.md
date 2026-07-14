@@ -1,6 +1,6 @@
 # INPHINITY
 
-INPHINITY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - N. Wells St + W. Superior St, Chicago on Fri, 17 Jul 2026.
+INPHINITY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - N. Wells St + W. Superior St, Chicago on Fri, 17 Jul 2026.
 
 INPHINITY is a house and tech house artist tracked on soundcheck, with 53 sets logged across Chicago, Miami, Nashville and Toronto. Often billed alongside Dustin Sheridan, Amy Unland and Gene Farris. Next up: TBA - N. Wells St + W. Superior St, Chicago on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ INPHINITY is a house and tech house artist tracked on soundcheck, with 53 sets l
 
 Dustin Sheridan, Amy Unland, Gene Farris
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inphinity/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inphinity/)*

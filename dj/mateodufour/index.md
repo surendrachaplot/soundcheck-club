@@ -1,6 +1,6 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 19 Jul 2026.
+Mateo Dufour is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 19 Jul 2026.
 
 Mateo Dufour is a house and tech house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 12 more. Often billed alongside ANOTR, Sven Vath and Toman. Next up: Amnesia Ibiza, Ibiza on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Mateo Dufour is a house and tech house artist tracked on soundcheck, with 73 set
 
 ANOTR, Sven Vath, Toman
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

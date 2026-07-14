@@ -1,6 +1,6 @@
 # HIJCKD
 
-HIJCKD is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
+HIJCKD is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Superordinary, Brisbane on Fri, 18 Sept 2026.
 
 HIJCKD is a techno and tech house artist based in Australia, tracked on soundcheck, with 45 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside mara (AU), Maison Ware and STAFFY. Next up: Superordinary, Brisbane on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ HIJCKD is a techno and tech house artist based in Australia, tracked on soundche
 
 mara (AU), Maison Ware, STAFFY
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hijckd/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hijckd/)*

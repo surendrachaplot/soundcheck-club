@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Zeescouts Aan De Stroom, Antwerp on Sat, 25 Jul 2026.
+Soul Mass Transit System is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Zeescouts Aan De Stroom, Antwerp on Sat, 25 Jul 2026.
 
 Soul Mass Transit System is a garage and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Auckland and Bali and 37 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Zeescouts Aan De Stroom, Antwerp on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Soul Mass Transit System is a garage and house artist tracked on soundcheck, wit
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

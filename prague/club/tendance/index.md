@@ -1,6 +1,6 @@
 # Tendance
 
-Tendance is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "ᴡᴇᴅɴᴇsᴅᴀʏs ғᴏʀ ғᴜᴛᴜʀᴇ with Eva Porating & Mike.H & Not_Me" on Wed, 15 Jul 2026.
+Tendance is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ᴡᴇᴅɴᴇsᴅᴀʏs ғᴏʀ ғᴜᴛᴜʀᴇ with Eva Porating & Mike.H & Not_Me" on Wed, 15 Jul 2026.
 
 Tendance is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including Diome, duboisi, Eva Porating and Maneki Neko and 2 more. Browse upcoming dates, start times and who's playing. basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia.
 
@@ -21,4 +21,4 @@ Tendance is a music venue in Prague listed on soundcheck. 8 upcoming nights, wit
 
 basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia, Prague
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tendance/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tendance/)*

@@ -1,6 +1,6 @@
 # Deeper Purpose
 
-Deeper Purpose is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Spybar, Chicago on Fri, 24 Jul 2026.
+Deeper Purpose is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Spybar, Chicago on Fri, 24 Jul 2026.
 
 Deeper Purpose is a tech house and house artist tracked on soundcheck, with 46 sets logged across Austin, Chicago, Denver and Detroit and 12 more. Often billed alongside Lee Foss, Joshwa and Max Styler. Next up: Spybar, Chicago on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Deeper Purpose is a tech house and house artist tracked on soundcheck, with 46 s
 
 Lee Foss, Joshwa, Max Styler
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperpurpose/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deeperpurpose/)*

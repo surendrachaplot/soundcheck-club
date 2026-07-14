@@ -1,6 +1,6 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministry Of Sound, London on Fri, 17 Jul 2026.
+Giorgia Angiuli is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ministry Of Sound, London on Fri, 17 Jul 2026.
 
 Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Indira Paganotto, Cambric and Infected Mushroom. Next up: Ministry Of Sound, London on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 64
 
 Indira Paganotto, Cambric, Infected Mushroom
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

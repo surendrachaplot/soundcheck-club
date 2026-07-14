@@ -1,6 +1,6 @@
 # LINDS (NL)
 
-LINDS (NL) is a electronic artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Tresor / Globus, Berlin on Wed, 15 Jul 2026.
+LINDS (NL) is a electronic artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tresor / Globus, Berlin on Wed, 15 Jul 2026.
 
 LINDS (NL) is an electronic artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam, Antwerp and Berlin. Often billed alongside Linds, Ansome and CHUKWU. Next up: Tresor / Globus, Berlin on Wed 15 Jul.
 
@@ -16,4 +16,4 @@ LINDS (NL) is an electronic artist based in Netherlands, tracked on soundcheck, 
 
 Linds, Ansome, CHUKWU
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lindsnl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lindsnl/)*

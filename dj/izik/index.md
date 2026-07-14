@@ -1,6 +1,6 @@
 # IZIK
 
-IZIK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
+IZIK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 IZIK is a techno and house artist tracked on soundcheck, with 39 sets logged across Miami and Sanfrancisco. Often billed alongside Emanate, Vann Essa and SAGMO. Next up: 1015 Folsom, Sanfrancisco on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ IZIK is a techno and house artist tracked on soundcheck, with 39 sets logged acr
 
 Emanate, Vann Essa, SAGMO
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*

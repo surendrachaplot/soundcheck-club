@@ -1,6 +1,6 @@
 # MILLE
 
-MILLE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA, Paris on Fri, 24 Jul 2026.
+MILLE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA, Paris on Fri, 24 Jul 2026.
 
 MILLE is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Hamburg, London and Paris. Often billed alongside DJ MILLE, Mille (DE) and Alec Dienaar. Next up: TBA, Paris on Fri 24 Jul.
 
@@ -21,4 +21,4 @@ MILLE is a house and techno artist based in Germany, tracked on soundcheck, with
 
 DJ MILLE, Mille (DE), Alec Dienaar
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mille-de/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mille-de/)*

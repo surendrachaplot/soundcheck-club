@@ -1,6 +1,6 @@
 # Sy Sez
 
-Sy Sez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Sy Sez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Sy Sez is a house and deep house artist tracked on soundcheck, with 57 sets logged across Birmingham, Leeds, Lisbon and Liverpool and 5 more. Often billed alongside Neil Pierce, Jeremy Sylvester and Boon (UK). Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Sy Sez is a house and deep house artist tracked on soundcheck, with 57 sets logg
 
 Neil Pierce, Jeremy Sylvester, Boon (UK)
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sysez/)*

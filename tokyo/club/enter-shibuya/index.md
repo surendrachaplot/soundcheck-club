@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "THE GUEST HOUSE presents WEEKDAY COMMON ROOM" on Mon, 13 Jul 2026.
+Enter Shibuya is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "PASS" on Tue, 14 Jul 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including AllA, AMANE, AMIDAdrive and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AllA, AMANE, AMIDAdrive and CYBERHACKSYSTEM and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | THE GUEST HOUSE presents WEEKDAY COMMON ROOM | Da Yama, Kenji Okano, uruhara |
 | Tue, 14 Jul 2026 | PASS | MileZ, SAMO (JP), eejebee |
 | Wed, 15 Jul 2026 | HEADS | RYOOKY, TooCee |
 | Thu, 16 Jul 2026 | PROJECT |  |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 18 upcoming nights
 | Tue, 21 Jul 2026 | CONNECT THE DOTS | AMIDAdrive, KUNPEI, TEI TEI |
 | Thu, 23 Jul 2026 | submergence | S.H.V, roomquake |
 | Fri, 24 Jul 2026 | ENTER THA BLUE HERB | Eichi Abe, JUN INAGAWA, OKAMOTO REIJI, Shoma fr,dambosound, ecec |
+| Mon, 27 Jul 2026 | Vermilion | kengotaki |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

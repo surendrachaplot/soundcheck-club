@@ -1,6 +1,6 @@
 # Holly Why
 
-Holly Why is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Amber's, Manchester on Sat, 1 Aug 2026.
+Holly Why is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amber's, Manchester on Sat, 1 Aug 2026.
 
 Holly Why is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, Birmingham, Leeds and Liverpool and 3 more. Often billed alongside Damian Nova, Josh Demello and Kearun. Next up: Amber's, Manchester on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Holly Why is a minimal and house artist based in United Kingdom, tracked on soun
 
 Damian Nova, Josh Demello, Kearun
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywhy/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hollywhy/)*

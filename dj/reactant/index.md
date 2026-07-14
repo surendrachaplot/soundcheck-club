@@ -1,6 +1,6 @@
 # Reactant
 
-Reactant is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 25 Jul 2026.
+Reactant is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 25 Jul 2026.
 
 Reactant is a techno and trance artist tracked on soundcheck, with 48 sets logged across Berlin, Malta and Paris. Often billed alongside INVERTED (MT), Echofaze and SLIZER. Next up: Club Phoenix - Gianpula Village, Malta on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Reactant is a techno and trance artist tracked on soundcheck, with 48 sets logge
 
 INVERTED (MT), Echofaze, SLIZER
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reactant/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reactant/)*

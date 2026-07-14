@@ -1,6 +1,6 @@
 # Ape Drums
 
-Ape Drums is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at E1, London on Sat, 18 Jul 2026.
+Ape Drums is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at E1, London on Sat, 18 Jul 2026.
 
 Ape Drums is an afro house and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside Andrea Oliva, Diplo and Francis Mercier. Next up: E1, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Ape Drums is an afro house and house artist tracked on soundcheck, with 36 sets 
 
 Andrea Oliva, Diplo, Francis Mercier
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*

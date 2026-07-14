@@ -1,8 +1,8 @@
 # Mike Momburg
 
-Mike Momburg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
+Mike Momburg is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
 
-Mike Momburg is a house and techno artist based in Germany, tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Odonien, Cologne on Fri 31 Jul.
+Mike Momburg is a house and techno artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Odonien, Cologne on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mike Momburg is a house and techno artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Odonien | Cologne |
 | Sat, 1 Aug 2026 | Mondo | Madrid |
+| Sat, 8 Aug 2026 | Schrotty | Cologne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mike Momburg is a house and techno artist based in Germany, tracked on soundchec
 
 Domenik Deckert, DAVINA, Carl Bergé
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*

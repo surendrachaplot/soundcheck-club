@@ -1,6 +1,6 @@
 # BILLY
 
-BILLY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at SHeLTeR, Tokyo on Thu, 16 Jul 2026.
+BILLY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SHeLTeR, Tokyo on Thu, 16 Jul 2026.
 
 BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 19 sets logged across Antwerp, Barcelona, Brussels and Ghent and 3 more. Often billed alongside Skeletor Yogi, Mario Ignacio and Martin Nait. Next up: SHeLTeR, Tokyo on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ BILLY is a techno and trance artist based in Peru, tracked on soundcheck, with 1
 
 Skeletor Yogi, Mario Ignacio, Martin Nait
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billy/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billy/)*

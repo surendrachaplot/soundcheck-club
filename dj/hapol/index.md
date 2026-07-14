@@ -1,6 +1,6 @@
 # HAPOL
 
-HAPOL is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Sneaky Pete's, Edinburgh on Tue, 11 Aug 2026.
+HAPOL is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sneaky Pete's, Edinburgh on Tue, 11 Aug 2026.
 
 HAPOL is a house and garage artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh and Glasgow. Often billed alongside Robbie, Jamie Gunn and McCart. Next up: Sneaky Pete's, Edinburgh on Tue 11 Aug.
 
@@ -26,4 +26,4 @@ HAPOL is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Robbie, Jamie Gunn, McCart
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hapol/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hapol/)*

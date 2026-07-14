@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Subculture with Lil Louis + AIKO INOUE" on Sat, 18 Jul 2026.
+Sub Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Subculture with Lil Louis + AIKO INOUE" on Sat, 18 Jul 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Acido Cielo, Aiko Inoue, Dean Turnley and DJ Seinfeld and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

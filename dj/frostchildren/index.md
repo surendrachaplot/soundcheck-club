@@ -1,6 +1,6 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at FLUCC, Vienna on Wed, 15 Jul 2026.
+Frost Children is a Pop and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at FLUCC, Vienna on Wed, 15 Jul 2026.
 
 Frost Children is a pop and electronica artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: FLUCC, Vienna on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Frost Children is a pop and electronica artist tracked on soundcheck, with 50 se
 
 10cust, Ali RQ, DJ Trick
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

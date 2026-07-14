@@ -1,6 +1,6 @@
 # TBA - The Front Bar
 
-TBA - The Front Bar is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "The Front Invites Mister Teaser" on Thu, 16 Jul 2026.
+TBA - The Front Bar is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The Front Invites Mister Teaser" on Thu, 16 Jul 2026.
 
 TBA - The Front Bar is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including Godi Osegueda, Mário Valente, Mayan (PT) and Moses. Browse upcoming dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ TBA - The Front Bar is a music venue in Lisbon listed on soundcheck. 9 upcoming 
 | Fri, 31 Jul 2026 | TFB Local Heroes with Boca Roxa |  |
 | Sat, 1 Aug 2026 | TFB Local Heroes with Mário Valente | Mário Valente |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-the-front-bar/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tba-the-front-bar/)*

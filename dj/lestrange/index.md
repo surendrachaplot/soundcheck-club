@@ -1,6 +1,6 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Secret Location Barcelona Centre, Barcelona on Fri, 31 Jul 2026.
+LeStrange is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location Barcelona Centre, Barcelona on Fri, 31 Jul 2026.
 
 LeStrange is a techno and industrial artist tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 14 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: TBA - Secret Location Barcelona Centre, Barcelona on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ LeStrange is a techno and industrial artist tracked on soundcheck, with 77 sets 
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

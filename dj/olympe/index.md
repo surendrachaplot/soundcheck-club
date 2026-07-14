@@ -1,6 +1,6 @@
 # Olympe
 
-Olympe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
+Olympe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
 
 Olympe is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Massano, Colyn and Kevin de Vries. Next up: La Clairière, Paris on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Olympe is a techno and house artist tracked on soundcheck, with 110 sets logged 
 
 Massano, Colyn, Kevin de Vries
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*

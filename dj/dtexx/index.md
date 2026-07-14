@@ -1,6 +1,6 @@
 # DTEXX
 
-DTEXX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Ministerium Club, Lisbon on Thu, 16 Jul 2026.
+DTEXX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ministerium Club, Lisbon on Thu, 16 Jul 2026.
 
 DTEXX is a techno and trance artist tracked on soundcheck, with 60 sets logged across Berlin, Leipzig, Lisbon and Milan and 3 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: Ministerium Club, Lisbon on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ DTEXX is a techno and trance artist tracked on soundcheck, with 60 sets logged a
 
 SIKXTO, Filialleiter, Trancestrudel
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dtexx/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dtexx/)*

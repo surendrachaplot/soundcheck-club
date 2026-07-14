@@ -1,8 +1,8 @@
-# TBA -  Secret Location
+# TBA - SECRET LOCATION
 
-TBA -  Secret Location is a music venue in London with 43 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Abantu & Chila Nathi pres: Dinner with Zola Marcelle" on Tue, 14 Jul 2026.
+TBA - SECRET LOCATION is a music venue in London with 46 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Abantu & Chila Nathi pres: Dinner with Zola Marcelle" on Tue, 14 Jul 2026.
 
-TBA -  Secret Location is a music venue in London listed on soundcheck. 43 upcoming nights, with line-ups including 550am, _MARCBA, AARON GEHRIG and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including 550am, _MARCBA, AARON GEHRIG and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA -  Secret Location is a music venue in London listed on soundcheck. 43 upcom
 | Fri, 17 Jul 2026 | BASS ON THE COAST - ISLAND FESTIVAL 2026 |  |
 | Sat, 18 Jul 2026 | Mura Masa // Curve | Mura Masa |
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

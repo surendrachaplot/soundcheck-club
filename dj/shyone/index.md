@@ -1,6 +1,6 @@
 # Shy One
 
-Shy One is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at Quinta do Miratejo, Lisbon on Sat, 18 Jul 2026.
+Shy One is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Quinta do Miratejo, Lisbon on Sat, 18 Jul 2026.
 
 Shy One is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Ruby Savage, NIKS and Errol. Next up: Quinta do Miratejo, Lisbon on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Shy One is a house and techno artist tracked on soundcheck, with 119 sets logged
 
 Ruby Savage, NIKS, Errol
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

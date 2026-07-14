@@ -1,6 +1,6 @@
 # Hagan
 
-Hagan is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
+Hagan is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Jazz Cafe, London on Fri, 7 Aug 2026.
 
 Hagan is an afro house and amapiano artist tracked on soundcheck, with 43 sets logged across Amsterdam, Birmingham, Brisbane and Bristol and 8 more. Often billed alongside Karen Nyame KG, DJ Polo and Jordss. Next up: The Jazz Cafe, London on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Hagan is an afro house and amapiano artist tracked on soundcheck, with 43 sets l
 
 Karen Nyame KG, DJ Polo, Jordss
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hagan/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hagan/)*

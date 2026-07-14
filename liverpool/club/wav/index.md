@@ -1,8 +1,8 @@
 # WaV
 
-WaV is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Ride On Time - 90's & 00's Club Culture" on Sat, 18 Jul 2026.
+WaV is a music venue in Liverpool with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Ride On Time - 90's & 00's Club Culture" on Sat, 18 Jul 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including Blasha & Allatt, Coop (2), DJ Rush and DJ Vibes and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 12 upcoming nights, with line-ups including Blasha & Allatt, Coop (2), DJ Rush and DJ Vibes and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
@@ -23,4 +23,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "KHAOS: Stephanie Sykes, Takaaki Itoh, Eastel, Max Durante, Oxygeno" on Mon, 13 Jul 2026.
+Kilomètre25 is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Orka: MHA.IRI, ENVEAK, SKØLLARIS & PAULINE D7" on Thu, 16 Jul 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including ADB (FR), Airod, Antonym and ARGOT and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including ADB (FR), Airod, Antonym and ARGOT and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 13 Jul 2026 | KHAOS: Stephanie Sykes, Takaaki Itoh, Eastel, Max Durante, Oxygeno | Eastel, MAX DURANTE, Oxygeno, Panzer, Stephanie Sykes, Takaaki Itoh |
 | Thu, 16 Jul 2026 | Orka: MHA.IRI, ENVEAK, SKØLLARIS & PAULINE D7 | Mha iri |
 | Fri, 17 Jul 2026 | CLUB NOWADAYS: ZERO, SCOLCAB, FUNDAMENTALS, DON YAYA | Audem, Camporeale (FR), Zero, oOgo |
 | Sat, 18 Jul 2026 | UNFACED x TAPE: FORMAT XXL 00h-12h | DJ Cringey, Jacidorex, Riana Holley |
@@ -18,9 +17,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights,
 | Thu, 30 Jul 2026 | TAKE HIT: Rian Wood, Zaphy, KD/MS, Mon.To | Mon.To, Rian Wood, Zaphy |
 | Fri, 31 Jul 2026 | ARCHANGEL: GIGI FM, Mama Snake B2B NENE H, kheli | GiGi FM, Mama Snake, Nene H, kheli |
 | Sat, 1 Aug 2026 | ORKA: T78, A*S*Y*S et Hortense de Beauharnais & MORE | A*S*Y*S (2), Hortense de Beauharnais, T78 |
+| Thu, 6 Aug 2026 | 2222 /// UBERKIKZ, DJ ANGEL B2B Ketarina, PÔNKY | DJ ANGEL (fr), Ketarina, Pōnky, ÜBERKIKZ |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

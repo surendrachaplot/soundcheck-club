@@ -1,6 +1,6 @@
 # Yrag L
 
-Yrag L is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 13 Jul 2026, next at TBA - Yaga Bar, Kuala Lumpur on Fri, 17 Jul 2026.
+Yrag L is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Yaga Bar, Kuala Lumpur on Fri, 17 Jul 2026.
 
 Yrag L is a techno and industrial artist based in Malaysia, tracked on soundcheck, with 29 sets logged across Kualalumpur. Often billed alongside Roobs, Ozeryeha and 96000hz. Next up: TBA - Yaga Bar, Kualalumpur on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Yrag L is a techno and industrial artist based in Malaysia, tracked on soundchec
 
 Roobs, Ozeryeha, 96000hz
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yragl/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yragl/)*

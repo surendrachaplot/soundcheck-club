@@ -1,6 +1,6 @@
 # Hamburger Bahnhof - Museum für Gegenwart
 
-Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 13 Jul 2026; the next is "Berlin Beats: GiGi FM" on Thu, 16 Jul 2026.
+Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Berlin Beats: GiGi FM" on Thu, 16 Jul 2026.
 
 Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including BASHKKA, Ben Klock, GiGi FM and MARRØN and 2 more. Browse upcoming dates, start times and who's playing. Invalidenstraße 50-51, 10557 Berlin.
 
@@ -20,4 +20,4 @@ Hamburger Bahnhof - Museum für Gegenwart is a music venue in Berlin listed on s
 
 Invalidenstraße 50-51, 10557 Berlin, Berlin
 
-*Updated Mon, 13 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*
+*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hamburger-bahnhof-museum-f-r-gegenwart/)*
