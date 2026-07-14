@@ -1,8 +1,8 @@
 # Powder
 
-Powder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Powder is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
-Powder is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bangkok, Berlin and Boston and 19 more. Often billed alongside 5ive, KOOLMFL and Helena Hauff. Next up: TBA - Secret Location, London on Fri 17 Jul.
+Powder is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Bangkok, Berlin and Boston and 20 more. Often billed alongside 5ive, KOOLMFL and Helena Hauff. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Powder is a house and techno artist tracked on soundcheck, with 56 sets logged a
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | TBA - Secret Location | London |
 | Sat, 25 Jul 2026 | Palais | London |
+| Fri, 31 Jul 2026 | Myra | Lisbon |
 | Sat, 15 Aug 2026 | The Cause | London |
 
 ## Recently played

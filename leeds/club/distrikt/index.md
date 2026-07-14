@@ -1,8 +1,8 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "No Boundaries x Minimalize" on Fri, 17 Jul 2026.
+Distrikt is a music venue in Leeds with 13 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "No Boundaries x Minimalize" on Fri, 17 Jul 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 12 upcoming nights, with line-ups including FLETCH, Adam Lance, Body Clinic and Cap and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming nights, with line-ups including FLETCH, Adam Lance, Body Clinic and Cap and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Distrikt is a music venue in Leeds listed on soundcheck. 12 upcoming nights, wit
 | Sat, 1 Aug 2026 | FunkyBeatsOnly presents: Alec Falconer, Georgia & Keefy G |  |
 | Fri, 7 Aug 2026 | SurfBeatzUK & Aurora presents FLETCH | FLETCH |
 | Sat, 8 Aug 2026 | 3PM Records present: Mad.Again & Mees Mattern | Fentonffp, Mad.Again (2), Mees Mattern, Partridge |
+| Fri, 14 Aug 2026 | Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) + Special Guest TBA | Harry McCanna, Sam Bangura |
 | Sat, 15 Aug 2026 | Special Delivery presents: Lucas Alexander & Wodda | Adam Lance, Lucas Alexander, Wakka, Wodda |
-| Fri, 21 Aug 2026 | Distrikt presents Captain Wallop B2B Truly Madly, Nate S.U & Elijah Something, Lydian | Captain Wallop, Elijah Something, Nate S.U, Truly Madly |
 
 ## Address
 

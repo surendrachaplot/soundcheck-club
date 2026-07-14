@@ -14,7 +14,7 @@ City Hall is a music venue in Barcelona listed on soundcheck. 13 upcoming nights
 | Sat, 18 Jul 2026 | Regia l PRIDE WEEK |  |
 | Sat, 18 Jul 2026 | Regia Pride Edition | INEXXSTABLE, Paula Carisso, VØLNA, WIERGO |
 | Wed, 22 Jul 2026 | City Hall pres. SENSATIONS II Guest List II Free Pass until 1:00 A.M |  |
-| Thu, 23 Jul 2026 | City Hall pres Almost Human I Free Pass until 1:00 AM | ALMOST HUMAN, Lobo Miro (ES) |
+| Thu, 23 Jul 2026 | City Hall pres ALMOST HUMAN x UNFOLD Session 1 I Free Pass until 1:00 AM | ALMOST HUMAN, Lobo Miro (ES) |
 | Thu, 30 Jul 2026 | TECHNOZULO pres. DAYANA // Hard Techno & Hardcore  | santyyyyyya |
 | Fri, 31 Jul 2026 | City Hall pres. Reborn & HARDCORE MANIAKS | CUTIE, Revenja, SuttleK |
 | Sat, 1 Aug 2026 | LEXLAY IS BACK! HAPPY TECHNO at City Hall |  |

@@ -1,13 +1,14 @@
 # The Beaumont Studios
 
-The Beaumont Studios is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Soul Hop & JK Gaultier present: LADYMONIX (3 hour set)" on Sat, 19 Sept 2026.
+The Beaumont Studios is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The Ryze presents Synesthesia #30" on Thu, 30 Jul 2026.
 
-The Beaumont Studios is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including Jesse Walker, Kon Radd and LADYMONIX. Browse upcoming dates, start times and who's playing. 316 W 5th Ave, Vancouver, BC.
+The Beaumont Studios is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Jesse Walker, Kon Radd, LADYMONIX and The Ryze. Browse upcoming dates, start times and who's playing. 316 W 5th Ave, Vancouver, BC.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | The Ryze presents Synesthesia #30 | The Ryze |
 | Sat, 19 Sept 2026 | Soul Hop & JK Gaultier present: LADYMONIX (3 hour set) | Jesse Walker, Kon Radd, LADYMONIX |
 
 ## Address

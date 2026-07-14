@@ -1,14 +1,15 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
+Sam Bangura is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Fox and Firkin, London on Sat, 1 Aug 2026.
 
-Sam Bangura is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: The Fox and Firkin, London on Sat 1 Aug.
+Sam Bangura is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: The Fox and Firkin, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | The Fox and Firkin | London |
+| Fri, 14 Aug 2026 | Distrikt | Leeds |
 | Sat, 15 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |

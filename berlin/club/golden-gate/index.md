@@ -1,8 +1,8 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Hidden Variables" on Thu, 16 Jul 2026.
+Golden Gate is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Hidden Variables" on Thu, 16 Jul 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Berunth, Edgar Peng, Elli.on and Jeremy Reinhard and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Nadine Hennig, Berunth, Edgar Peng and Elli.on and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
@@ -13,7 +13,8 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 8 upcoming nights, 
 | Sat, 18 Jul 2026 | Klubnacht | Pei, Stevo, The Pedagogist |
 | Thu, 23 Jul 2026 | Breakfast Club | Jmcee, Nils Twachtmann |
 | Fri, 24 Jul 2026 | Klubnacht | Edgar Peng, Lucia Scholtus |
-| Thu, 30 Jul 2026 | Donnerdogge | Jeremy Reinhard, Nils Ohrmann, Yannick Robyns |
+| Sat, 25 Jul 2026 | Highly Addictive | Nadine Hennig, Ruede Hagelstein, Slurm McKenzie, Tomislav |
+| Thu, 30 Jul 2026 | Donnerdogge | Jeremy Reinhard, Neco, Nils Ohrmann, Yannick Robyns |
 | Fri, 31 Jul 2026 | Klubnacht | Berunth, Kisling, Koljah, Nyna Curtis, Sean Dixon |
 | Sat, 1 Aug 2026 | Klubnacht | Robert Drewek, SaPu, Scoopsi |
 

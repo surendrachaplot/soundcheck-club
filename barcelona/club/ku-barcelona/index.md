@@ -1,13 +1,14 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "KU pres. Levi, Saldivar, Luca, CVALM" on Sun, 19 Jul 2026.
+Ku Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Avalon: EzeK, Jansøund, Lacqua y Alejoh" on Wed, 15 Jul 2026.
 
-Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alex Now, BizZa, Caste and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
+Ku Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Alex Now, BizZa, Caste and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 15 Jul 2026 | Avalon: EzeK, Jansøund, Lacqua y Alejoh | Eze k |
 | Sun, 19 Jul 2026 | KU pres. Levi, Saldivar, Luca, CVALM | Caste, Luca (4), Saldivar |
 | Sun, 19 Jul 2026 | Ku presents LEVI | Levi (AU) |
 | Sun, 26 Jul 2026 | SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste | BizZa, Caste, Fatzo, Jan, KOKO (IT), Oden, Tommy Phillips |

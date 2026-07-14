@@ -10,7 +10,7 @@ Sigma is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with li
 | --- | --- | --- |
 | Tue, 14 Jul 2026 | Sexy Grooves |  |
 | Wed, 15 Jul 2026 | The Basement |  |
-| Fri, 17 Jul 2026 | Makino x INTABEATS with Bailey, Been Westbeech, Rosie Riot & Kieron [Drum & Bass] | Bailey (UK), Ben Westbeech, Rosie Riot |
+| Fri, 17 Jul 2026 | Makino x INTABEATS with Bailey, Ben Westbeech, Rosie Riot & Kieron [Drum & Bass] | Bailey (UK), Ben Westbeech, Rosie Riot |
 | Thu, 23 Jul 2026 | LINES & DOTS | Luigi Rossi |
 | Fri, 31 Jul 2026 | The Circle Episode 3 IBIZA | Anabel Arroyo, Marcelo Demarco, Santa Cruz |
 | Fri, 28 Aug 2026 | Makino Ibiza [Drum & Bass, Jungle, 140] |  |

@@ -1,14 +1,15 @@
 # Brieela
 
-Brieela is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 19 Jul 2026.
+Brieela is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 19 Jul 2026.
 
-Brieela is a house and tech house artist tracked on soundcheck, with 102 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 2 more. Often billed alongside LM, ONA (SP) and HANIE. Next up: Sunseabar Beach Club, Barcelona on Sun 19 Jul.
+Brieela is a house and tech house artist tracked on soundcheck, with 103 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 2 more. Often billed alongside LM, ONA (SP) and HANIE. Next up: Sunseabar Beach Club, Barcelona on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Sunseabar Beach Club | Barcelona |
+| Fri, 24 Jul 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 25 Jul 2026 | Razzmatazz | Barcelona |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 

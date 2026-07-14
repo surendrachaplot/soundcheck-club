@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 19 Jul, Berlin. 2 acts on the bill: Danilo Filipe and La Rod's. Preview the line-up and save it on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 19 Jul, Berlin. 2 acts on the bill: Danilo Filipe and La Rod's. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

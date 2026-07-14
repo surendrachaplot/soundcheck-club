@@ -1,14 +1,16 @@
 # Miami Wars
 
-Miami Wars is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Closer to NATUR" on Sat, 18 Jul 2026.
+Miami Wars is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Nie dotykaj moich płyt x dj Huj" on Wed, 15 Jul 2026.
 
-Miami Wars is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Ilya Semashkevich, Plastik (1), Puha and Samogulov and 2 more. Browse upcoming dates, start times and who's playing. Solec 8, 00-439 Warszawa.
+Miami Wars is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Ilya Semashkevich, Plastik (1), Puha and Samogulov and 2 more. Browse upcoming dates, start times and who's playing. Solec 8, 00-439 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 15 Jul 2026 | Nie dotykaj moich płyt x dj Huj |  |
 | Sat, 18 Jul 2026 | Closer to NATUR | Ilya Semashkevich, Plastik (1), Puha, Samogulov, Shjva, Timur Basha, Yone-Ko |
+| Fri, 7 Aug 2026 | Synergy Cult x Luminescence |  |
 
 ## Address
 

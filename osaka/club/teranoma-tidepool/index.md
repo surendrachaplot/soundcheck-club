@@ -1,8 +1,8 @@
 # Teranoma Tidepool
 
-Teranoma Tidepool is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MINT" on Sat, 18 Jul 2026.
+Teranoma Tidepool is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MINT" on Sat, 18 Jul 2026.
 
-Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including CHISE, DJ SPOT, Koji Nakamura and Mercy. and 2 more. Browse upcoming dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
+Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including CHISE, DJ SPOT, H'de and Koji Nakamura and 2 more. Browse upcoming dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 6 upcoming nig
 | Fri, 31 Jul 2026 | OSCILLATE | CHISE, SCUM PRIEST, TERU |
 | Sat, 1 Aug 2026 | South Side Hotel vol.44 | Mercy., Motel Paraiso, WÖNDER GIRL, sumi’ |
 | Sat, 22 Aug 2026 | カミノ・ザ・ファンク 1st Album『Off Shore』リリースパーティー　prod.ブギーゴッド |  |
+| Sun, 23 Aug 2026 | -Ku'damm 「FEVER EP」 Release Party in Osaka- | H'de, Ku'damm, Mori Ra, Roy Comanchero, T.B., ushiro |
 
 ## Address
 

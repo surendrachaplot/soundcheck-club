@@ -1,13 +1,14 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Pompstation" on Fri, 24 Jul 2026.
+De Fik Garden is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HYPERWAVES invites Flux Collective" on Sat, 18 Jul 2026.
 
-De Fik Garden is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including BENZA, BIANKA, Chami and Cindy (CH) and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
+De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Anémi, BENZA, BIANKA and Chami and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | HYPERWAVES invites Flux Collective | Anémi, Eastern Distributor, Gan D, Guild Navigator, HyperLili, Liso (1) |
 | Fri, 24 Jul 2026 | Pompstation |  |
 | Sat, 25 Jul 2026 | Vault Sessions x In.di.go x Symbole WKNDR / DAY / De Fik Garden | BENZA, BIANKA, Gordon Flash, Maria Cue, Varuna Agosti, Vilchezz, Yeiks |
 | Fri, 31 Jul 2026 | RPU presents Lustrum | Cindy (CH), Pjenné, Random Spirit, Tangela, geri (NL) |

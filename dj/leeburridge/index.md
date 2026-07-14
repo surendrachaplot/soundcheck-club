@@ -1,8 +1,8 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Q Nightclub, Seattle on Fri, 17 Jul 2026.
+Lee Burridge is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Q Nightclub, Seattle on Fri, 17 Jul 2026.
 
-Lee Burridge is a deep house and house artist tracked on soundcheck, with 132 sets logged across Austin, Bali, Barcelona and Belgrade and 29 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Q Nightclub, Seattle on Fri 17 Jul.
+Lee Burridge is a deep house and house artist tracked on soundcheck, with 133 sets logged across Austin, Bali, Barcelona and Belgrade and 29 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: Q Nightclub, Seattle on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Lee Burridge is a deep house and house artist tracked on soundcheck, with 132 se
 | Sat, 18 Jul 2026 | Shoreline Aquatic Park | Los Angeles |
 | Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Pershing Square | Los Angeles |
+| Mon, 12 Oct 2026 | Parc Jean-Drapeau | Montreal |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Renaissance Barcelona Hotel is a music venue in Barcelona listed on soundcheck. 
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Goja Rooftop: THE AFTERWORK with Kelly Laice (3h house set) | Kelly Laice |
 | Sun, 19 Jul 2026 | SOUND HUB: ROOFTOP JAM with Sonia Heis (4h disco set) | Sonia Heis |
-| Thu, 23 Jul 2026 | Goja Rooftop: THE AFTERWORK with Sonia Heis (3h disco set) | Sonia Heis |
+| Thu, 23 Jul 2026 | Goja Rooftop: THE AFTERWORK with Kelly Laice | Kelly Laice, Sonia Heis |
 | Sun, 26 Jul 2026 | SOUND HUB: ROOFTOP JAM with Sonia Heis (4h disco set) | Sonia Heis |
 | Thu, 30 Jul 2026 | Goja Rooftop: THE AFTERWORK with Sonia Heis (3h disco set) | Sonia Heis |
 
