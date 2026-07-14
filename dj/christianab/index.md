@@ -1,8 +1,8 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Christian AB is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 7 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Christian AB is a house and techno artist based in United Kingdom, tracked on so
 | Sat, 1 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 21 Aug 2026 | Trädgården | Stockholm |
 | Thu, 3 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Hidden | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |

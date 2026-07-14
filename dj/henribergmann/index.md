@@ -1,8 +1,8 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 5 Aug 2026.
+Henri Bergmann is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 5 Aug 2026.
 
-Henri Bergmann is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Basel and 28 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Hï Ibiza, Ibiza on Wed 5 Aug.
+Henri Bergmann is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Hï Ibiza, Ibiza on Wed 5 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Henri Bergmann is a techno and house artist tracked on soundcheck, with 89 sets 
 | Wed, 5 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 18 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 26 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 29 Aug 2026 | Mediapark Köln | Cologne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 3 Oct 2026 | Pasaje America | Mexico City |
 

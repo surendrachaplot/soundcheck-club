@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Gerd Janson is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 286 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 287 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 286 sets lo
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
@@ -19,7 +20,6 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 286 sets lo
 | Sun, 23 Aug 2026 | public records | New York City |
 | Fri, 28 Aug 2026 | Jaeger | Oslo |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
-| Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 
 ## Recently played
 

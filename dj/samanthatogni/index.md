@@ -1,8 +1,8 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 17 Jul 2026.
+Samantha Togni is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Circus Tokyo, Tokyo on Fri, 17 Jul 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Circus Tokyo, Tokyo on Fri 17 Jul.
+Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Circus Tokyo, Tokyo on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 | Sat, 1 Aug 2026 | TBA - Various Venues | Brighton |
 | Sat, 1 Aug 2026 | Tide Nightclub | Brighton |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
+| Sat, 15 Aug 2026 | Pumpehuset | Copenhagen |
 | Thu, 27 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 

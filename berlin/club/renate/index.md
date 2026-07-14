@@ -12,7 +12,7 @@ Renate is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with
 | Fri, 17 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with Trips & Domestic Affairs | ADO (DE), Ado, DJ Detective, Desirée Falessi, Faso, MLE (UK), No Plastic, Philipp Drube, Reka Zalan, Tactile |
 | Sat, 18 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with LAYERS, Serial Sound, Nexus & Blurry Vision | Amy Dabbs, CSILLA, Cailín, DATA RYDER, FRÆNZ:, Felix Fleer, Jonas Landwehr, Meda-Ava, Otal, SELESSA T., Softi, Viénce, androosh |
 | Sun, 19 Jul 2026 | Renate Open Air (Free Entry) x Antinas Spookhouse & Garden | Testbild |
-| Thu, 23 Jul 2026 | Renate x Smugsie | Ifeoluwa, Nadia Wise |
+| Thu, 23 Jul 2026 | Renate x Smugsie & Brewing Minds | Ifeoluwa, Nadia Wise |
 | Fri, 24 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vision | DJ Trade Trainer, Daniel Wang, GLIA, Jana Falcon, Lucinee, Morgan, Organza, Robin Flux, The Brvtalist, Thomasito, elliephunk, moe. |
 | Sat, 25 Jul 2026 | FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) | 131bpm, ALP (DE), Aaron Blau, Anna Almani, Cheriii, Dgeral, Dj handbag, Electrosexual, Flemish.Fetish, James Lotion, Mashyno, Posture, Sherø, Sub Sahara, ZANNT, angelboy, puppy |
 | Thu, 30 Jul 2026 | Renate x Dollhaus | Ayolxi, Gabrielle (DE), KLEA, Taurean |

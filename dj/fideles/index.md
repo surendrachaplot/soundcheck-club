@@ -1,14 +1,15 @@
 # Fideles
 
-Fideles is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 15 Jul 2026.
+Fideles is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-Fideles is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Brina Knauss, Miss Monique and Mind Against. Next up: Chinois Ibiza, Ibiza on Wed 15 Jul.
+Fideles is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside Brina Knauss, Miss Monique and Mathame. Next up: Chinois Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | Chinois Ibiza | Ibiza |
+| Sat, 29 Aug 2026 | Mediapark Köln | Cologne |
 | Mon, 7 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | KOKO | London |
 
@@ -25,6 +26,6 @@ Fideles is a techno and house artist tracked on soundcheck, with 118 sets logged
 
 ## Shares bills with
 
-Brina Knauss, Miss Monique, Mind Against
+Brina Knauss, Miss Monique, Mathame
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

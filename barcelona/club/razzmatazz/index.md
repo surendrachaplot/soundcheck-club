@@ -1,8 +1,8 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "RAZZCLUBS: Mainline Club: PPJ + Casa Pepa x Gallery: Secret Guest " on Fri, 17 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "RAZZCLUBS: Mainline Club: PPJ + Casa Pepa x Gallery: Secret Guest " on Fri, 17 Jul 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Aemilius, Aleman Beatz, Alírio and Anita B Queen and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including Aemilius, Aleman Beatz, Alírio and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 9 upcoming nights
 | Sat, 25 Jul 2026 | BMT: Club Angel / Dr. Rubinstein / Bloody Mary / Brieela / PNC Radio / more | Bloody Mary, Brieela, Club Angel, Dirti Larita, Dr. Rubinstein, La Kosh, RUXI, Roto |
 | Fri, 31 Jul 2026 | RAZZCLUBS: Antidoto Club: Zengxrl + Unsho + Curated by ENGALANAN: Makadsi  | Alírio, Diego Armando, ENGALANAN, Makadsi, Unsho, Yosef (ES), Zengxrl, flirty800 |
 | Sat, 1 Aug 2026 | RAZZCLUBS:  Kitty Ca$h + Drea + Nene H + Hyperaktivist + olesia  | Carolina, DJ KETAFLUSH, Doppelganger, Drea, Hyperaktivist, Kaidara, Nene H, Speare, Toner, olesia |
-| Sat, 19 Sept 2026 | Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more | Drew McDowall, Pedro Maia, Shakti, The Hacker, Years of Denial |
-| Sat, 26 Sept 2026 | Fat Freddy's Drop - Barcelona | Fat Freddys Drop |
-| Sun, 27 Sept 2026 | Fat Freddy's Drop - Barcelona (2) | Fat Freddys Drop |
+| Fri, 7 Aug 2026 | RAZZCLUBS: Ross From Friends + La Cangri: West Dubai + Suicide Club: EVE & more | John Heaven, Nile Fee, Ross From Friends |
+| Sat, 8 Aug 2026 | RAZZCLUBS: Bao G + DJ Stingray 313 + Bound by Endogamy Live | C.ru.z, DJ Stingray 313, Nila, Spacer |
+| Sat, 15 Aug 2026 | RAZZCLUBS: Bmt: Fold + BAHN·: Blazej Malinowski & MORE | Cyklos, Fold |
+| Fri, 21 Aug 2026 | RAZZCLUBS: Amaliah + Nahoomie + Verushka | Amaliah, Nahoomie, Verushka |
 
 ## Address
 

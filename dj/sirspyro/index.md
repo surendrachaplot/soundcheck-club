@@ -1,8 +1,8 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Sir Spyro is a Grime and Dubstep artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Footsie, Kahn and Joker. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Footsie, Kahn and Joker. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 67 sets logg
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Garage Noord | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
+| Thu, 24 Sept 2026 | Hidden | Manchester |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
 

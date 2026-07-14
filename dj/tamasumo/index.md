@@ -1,8 +1,8 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Tama Sumo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Tama Sumo is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Lakuti, Roi Perez and BASHKKA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Tama Sumo is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Lakuti, Roi Perez and BASHKKA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tama Sumo is a house and techno artist tracked on soundcheck, with 182 sets logg
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Thu, 30 Jul 2026 | Doka | Amsterdam |
+| Sat, 1 Aug 2026 | Doka | Amsterdam |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
 

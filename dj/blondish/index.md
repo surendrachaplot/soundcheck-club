@@ -1,8 +1,8 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Pacha Ibiza, Ibiza on Wed, 15 Jul 2026.
+BLOND:ISH is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Pacha Ibiza, Ibiza on Wed, 15 Jul 2026.
 
-BLOND:ISH is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Boston and 26 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Pacha Ibiza, Ibiza on Wed 15 Jul.
+BLOND:ISH is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Boston and 27 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Pacha Ibiza, Ibiza on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ BLOND:ISH is a house and techno artist tracked on soundcheck, with 130 sets logg
 | Tue, 4 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 8 Aug 2026 | Zürichsee | Zurich |
+| Sat, 22 Aug 2026 | Vajdahunyad Castle | Budapest |
 | Sun, 30 Aug 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Pacha New York | New York City |
 

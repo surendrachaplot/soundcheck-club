@@ -1,14 +1,15 @@
 # Sampol
 
-Sampol is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Macarena Club, Barcelona on Fri, 17 Jul 2026.
+Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Macarena Club, Barcelona on Fri, 17 Jul 2026.
 
-Sampol is an electro and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Alex (ES), Hitch and DJ Gamba. Next up: Macarena Club, Barcelona on Fri 17 Jul.
+Sampol is an electro and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Alex (ES), Hitch and DJ Gamba. Next up: Macarena Club, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Macarena Club | Barcelona |
+| Sun, 26 Jul 2026 | Sunseabar Beach Club | Barcelona |
 | Fri, 11 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played

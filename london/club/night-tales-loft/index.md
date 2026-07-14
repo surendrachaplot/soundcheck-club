@@ -1,8 +1,8 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 19 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Plus Three: S!RENE, Miamor, Katana, Selecta J" on Fri, 17 Jul 2026.
+Night Tales Loft is a music venue in London with 20 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Plus Three: S!RENE, Miamor, Katana, Selecta J" on Fri, 17 Jul 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Ash Lauryn, Ayanna Heaven, Dean Bryce and Delilah and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Ash Lauryn, Ayanna Heaven, Dean Bryce and Delilah and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 

@@ -12,7 +12,7 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 | Sat, 18 Jul 2026 | PROMPT OPEN AIR | Fynn Eicke, Hanebüchener, Oliver Raumklang, Stella Stellar |
 | Thu, 23 Jul 2026 | Afterwork Sessions with Felix Raphael LiVE | Danilo Kupfernagel, Felix Raphael, LEENI, justUS |
 | Wed, 12 Aug 2026 | missed call · open air · edition 02 |  |
-| Sat, 5 Sept 2026 | OPEN AIR DIREKT AM WASSER - FREE | Mad Shivers, Nostro Ritmo, Philippe Autuori, Robert Owens, Æ Problæm |
+| Sat, 5 Sept 2026 | OPEN AIR DIREKT AM WASSER - FREE | Josiane, Mad Shivers, Nostro Ritmo, Philippe Autuori, Robert Owens, Æ Problæm |
 | Fri, 18 Sept 2026 | THE UNKNOWN x 925  🄾🄿🄴🄽 🄰🄸🅁  (donation-based) | Aimé You, MagDita, Monsai, Nikklaas, The Brahma, oulcan |
 
 ## Address

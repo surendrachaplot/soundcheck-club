@@ -1,8 +1,8 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TV Lounge, Detroit on Sat, 18 Jul 2026.
+Kevin Saunderson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TV Lounge, Detroit on Sat, 18 Jul 2026.
 
-Kevin Saunderson is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 29 more. Often billed alongside The Saunderson Brothers, Carl Craig and Speedy J. Next up: TV Lounge, Detroit on Sat 18 Jul.
+Kevin Saunderson is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 29 more. Often billed alongside The Saunderson Brothers, Carl Craig and Speedy J. Next up: TV Lounge, Detroit on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kevin Saunderson is a techno and house artist tracked on soundcheck, with 106 se
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TV Lounge | Detroit |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
+| Fri, 14 Aug 2026 | Else | Berlin |
 | Sat, 15 Aug 2026 | Paragon | New York City |
 | Fri, 21 Aug 2026 | The Den | Portland |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |

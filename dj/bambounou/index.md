@@ -1,8 +1,8 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Bambounou is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
-Bambounou is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Garchinger See, Munich on Sat 18 Jul.
+Bambounou is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 46 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Garchinger See, Munich on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bambounou is a techno and house artist tracked on soundcheck, with 158 sets logg
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Garchinger See | Munich |
 | Fri, 31 Jul 2026 | Virage | Paris |
+| Fri, 14 Aug 2026 | Else | Berlin |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 
 ## Recently played

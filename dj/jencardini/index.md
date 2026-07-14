@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Jen Cardini is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Athens and Auckland and 55 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Auckland and 55 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 240 sets lo
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sun, 16 Aug 2026 | Signal | New York City |
+| Wed, 19 Aug 2026 | Nocturna | Ibiza |
 | Sat, 5 Sept 2026 | Escala25 | Lisbon |
 
 ## Recently played

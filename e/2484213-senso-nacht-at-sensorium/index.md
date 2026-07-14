@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 8 Aug, Berlin. 2 acts on the bill: Blck-Swan and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
+SENSO NACHT at Sensorium on Sat 8 Aug, Berlin. 3 acts on the bill: Blck-Swan, Monalisa Michaelis and Viktor Kampf. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SENSO NACHT at Sensorium on Sat 8 Aug, Berlin. 2 acts on the bill: Blck-Swan and
 ## Line-up
 
 - Blck-Swan
+- Monalisa Michaelis
 - Viktor Kampf
 
 *Source: [soundcheck](https://soundcheck.club/e/2484213-senso-nacht-at-sensorium/)*

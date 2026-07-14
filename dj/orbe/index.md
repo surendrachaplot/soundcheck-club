@@ -1,8 +1,8 @@
 # ORBE
 
-ORBE is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
+ORBE is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at RADION, Amsterdam on Sat, 25 Jul 2026.
 
-ORBE is a techno and hardcore artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Psyk, Dexter Lux and Donato Dozzy. Next up: RADION, Amsterdam on Sat 25 Jul.
+ORBE is a techno and hardcore artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Psyk, Dexter Lux and Donato Dozzy. Next up: RADION, Amsterdam on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ORBE is a techno and hardcore artist tracked on soundcheck, with 72 sets logged 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | RADION | Amsterdam |
 | Fri, 31 Jul 2026 | Studio Club Malaga | Malaga |
+| Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

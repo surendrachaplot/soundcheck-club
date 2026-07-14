@@ -1,14 +1,15 @@
 # Mimi Love
 
-Mimi Love is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Mimi Love is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Mimi Love is a house and deep house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 16 more. Often billed alongside Franca, Britta Arnold and Mira. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Mimi Love is a house and deep house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 16 more. Often billed alongside Franca, Britta Arnold and Mira. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
+| Sat, 18 Jul 2026 | Klunkerkranich | Berlin |
 | Fri, 11 Sept 2026 | Kater | Berlin |
 
 ## Recently played

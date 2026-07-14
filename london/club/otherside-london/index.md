@@ -10,7 +10,7 @@ Otherside London is a music venue in London listed on soundcheck. 6 upcoming nig
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Aspect - Takeover at Otherside hosted by Idris Miles + Zeph Miles | Murder He Wrote |
 | Fri, 21 Aug 2026 | Reggae Roast - Takeover at Otherside |  |
-| Fri, 28 Aug 2026 | Voltage & Friends - CARNIVAL SPECIAL Live DJ set at Otherside | Voltage |
+| Sat, 29 Aug 2026 | Voltage & Friends - CARNIVAL SPECIAL Live DJ set at Otherside | Voltage |
 | Fri, 18 Sept 2026 | Horsepower Productions - Release Party at Otherside | Horsepower Productions |
 | Fri, 25 Sept 2026 | Speaker Louis - Release Party at Otherside |  |
 | Fri, 2 Oct 2026 | Jososick - Live set at Otherside |  |

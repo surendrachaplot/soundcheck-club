@@ -1,8 +1,8 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Kim Ann Foxman is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Auckland, Bali and Bangkok and 32 more. Often billed alongside Cora (CN), DJ TOOL and Shaun J. Wright. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Auckland, Bali and Bangkok and 32 more. Often billed alongside Cora (CN), DJ TOOL and Shaun J. Wright. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kim Ann Foxman is a house and techno artist tracked on soundcheck, with 129 sets
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Fri, 17 Jul 2026 | Karmakoma | Belgrade |
+| Sat, 25 Jul 2026 | The Cause | London |
 | Fri, 31 Jul 2026 | La Terrrazza | Barcelona |
 | Sat, 1 Aug 2026 | Kvarteret | Stockholm |
 | Fri, 14 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |

@@ -1,6 +1,6 @@
 # Binary Shift at H0L0
 
-Binary Shift at H0L0 on Thu 23 Jul, Newyorkcity. 5 acts on the bill: AG (1), BEYBLADE SHAWTY, Kapmar and Petal and 1 more. Preview the line-up and save it on soundcheck.
+Binary Shift at H0L0 on Thu 23 Jul, Newyorkcity. 5 acts on the bill: AG (1), BEYBLADE SHAWTY, Kapmar and Pètal and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Binary Shift at H0L0 on Thu 23 Jul, Newyorkcity. 5 acts on the bill: AG (1), BEY
 - AG (1)
 - BEYBLADE SHAWTY
 - Kapmar
-- Petal
+- Pètal
 - sweetewth
 
 *Source: [soundcheck](https://soundcheck.club/e/2485231-binary-shift-at-h0l0/)*

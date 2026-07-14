@@ -1,8 +1,8 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gare Porto, Porto on Sat, 18 Jul 2026.
+Rene Wise is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gare Porto, Porto on Sat, 18 Jul 2026.
 
-Rene Wise is a techno and house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Barcelona and 67 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Gare Porto, Porto on Sat 18 Jul.
+Rene Wise is a techno and house artist tracked on soundcheck, with 232 sets logged across Amsterdam, Athens, Austin and Barcelona and 67 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Gare Porto, Porto on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 231 sets logg
 | Sat, 18 Jul 2026 | Gare Porto | Porto |
 | Fri, 24 Jul 2026 | TBA - @ Zefīrs by day, @ SPĒLĒT by night | Riga |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 31 Jul 2026 | RADION | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
@@ -19,7 +20,6 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 231 sets logg
 | Fri, 4 Sept 2026 | FOLD | London |
 | Sat, 19 Sept 2026 | SMUT Athens | Athens |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
-| Fri, 2 Oct 2026 | TBA | Boston |
 
 ## Recently played
 

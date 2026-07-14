@@ -1,6 +1,6 @@
 # Outside Looking In #007 at Honey Street Studio
 
-Outside Looking In #007 at Honey Street Studio on Sat 12 Sept, Manchester. 3 acts on the bill: Deventi, Girlfriend and Max Ctrl. House and Electro. Preview the line-up and save it on soundcheck.
+Outside Looking In #007 at Honey Street Studio on Sat 12 Sept, Manchester. 4 acts on the bill: Deventi, Girlfriend, Max Ctrl and skywalka. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Outside Looking In #007 at Honey Street Studio on Sat 12 Sept, Manchester. 3 act
 - Deventi
 - Girlfriend
 - Max Ctrl
+- skywalka
 
 *Source: [soundcheck](https://soundcheck.club/e/2467719-outside-looking-in-007-at-honey-street-studio/)*

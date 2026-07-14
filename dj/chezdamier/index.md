@@ -1,8 +1,8 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
+Chez Damier is a House and Deep House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
 
-Chez Damier is a house and deep house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, Dennis Ferrer and Garrett David. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
+Chez Damier is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 143 set
 | Sat, 18 Jul 2026 | Flash | Washington DC |
 | Fri, 24 Jul 2026 | Salon Daomé | Montreal |
 | Thu, 30 Jul 2026 | Punch Bowl Social 360-Bar | Chicago |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Tue, 4 Aug 2026 | Cova Santa | Ibiza |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 29 Aug 2026 | Container Brewing | Vancouver |
@@ -33,6 +34,6 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 143 set
 
 ## Shares bills with
 
-Eddie Leader, Dennis Ferrer, Garrett David
+Eddie Leader, DJ Deep, Dennis Ferrer
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

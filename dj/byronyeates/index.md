@@ -1,8 +1,8 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Byron Yeates is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Byron Yeates is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Byron Yeates is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 181 sets l
 | Sat, 18 Jul 2026 | Yamamori Tengu | Dublin |
 | Fri, 24 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | Shelter Amsterdam | Amsterdam |
+| Wed, 29 Jul 2026 | Nocturna | Ibiza |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
 | Sat, 29 Aug 2026 | Gut Level | Sheffield |

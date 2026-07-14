@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Lehar & FRIENDS (UNDERWATER & BUMM)" on Tue, 14 Jul 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Lehar & Friends at Playa Soleil Ibiza" on Tue, 14 Jul 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming nights, with line-ups including Antares, Dunmore Brothers, EVGHENIIA and Lehar and 2 more. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -8,7 +8,7 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | Lehar & FRIENDS (UNDERWATER & BUMM) | Antares, Lehar, Masy (IT), Mike Gannu |
+| Tue, 14 Jul 2026 | Lehar & Friends at Playa Soleil Ibiza | Antares, Lehar, Masy (IT), Mike Gannu |
 | Wed, 15 Jul 2026 | SW ♡ IBIZA 15 JULY | Dunmore Brothers, Leon, Sonja Moonear, Suciu, Zya (1) |
 | Wed, 22 Jul 2026 | SW ♡ IBIZA 22 JULY |  |
 | Wed, 29 Jul 2026 | SW ♡ IBIZA 29 JULY |  |

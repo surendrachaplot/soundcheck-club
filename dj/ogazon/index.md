@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Ogazón is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Ogazón is a techno and house artist tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Ryan Elliott, Marcel Dettmann and Christian AB. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Ogazón is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ogazón is a techno and house artist tracked on soundcheck, with 259 sets logged
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | TBA - Deventer Outdoor / Molbergsweg 3c  | Amsterdam |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
@@ -19,7 +20,6 @@ Ogazón is a techno and house artist tracked on soundcheck, with 259 sets logged
 | Fri, 28 Aug 2026 | Hive Club | Zurich |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
-| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Ogazón is a techno and house artist tracked on soundcheck, with 259 sets logged
 
 ## Shares bills with
 
-Ryan Elliott, Marcel Dettmann, Christian AB
+Ryan Elliott, Marcel Dettmann, BASHKKA
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

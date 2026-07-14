@@ -10,7 +10,7 @@ Recondite is a techno and house artist tracked on soundcheck, with 101 sets logg
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Elsewhere | New York City |
 | Sat, 25 Jul 2026 | StereoBar | Montreal |
-| Thu, 30 Jul 2026 | TBA - Berlin | Berlin |
+| Thu, 30 Jul 2026 | ://about blank | Berlin |
 | Fri, 14 Aug 2026 | Phonox | London |
 | Tue, 25 Aug 2026 | [UNVRS] | Ibiza |
 

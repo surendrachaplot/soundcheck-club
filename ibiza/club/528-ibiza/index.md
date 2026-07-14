@@ -13,7 +13,7 @@
 | Tue, 21 Jul 2026 | PIKES PRESENTS X BACK TO MINE | CENTRL, Erol Alkan, Sasha & John Digweed |
 | Thu, 23 Jul 2026 | La Discothèque x 528 Ibiza | Antal, Colleen 'Cosmo' Murphy, Ella Knight, Guy Williams, James Glover, Joe Roche, Kirollus, Luke Una, Marcellus Pittman, Sharples |
 | Sat, 25 Jul 2026 | ANDY MANUMISSION PRESENTS SATURDAYS | Clara Da Costa, Jason Bye, Timo Maas, Yousef |
-| Sun, 26 Jul 2026 | Gaskin's Bass Jamz Ibiza | Cam Stockman, Ellam, Ellia Jaya, Gaskin, Watchers, bullet tooth |
+| Sun, 26 Jul 2026 | Gaskin's Bass Jamz Ibiza | Cam Stockman, Ellam, Ellia Jaya, Gaskin, Sandrop, Watchers, bullet tooth |
 | Tue, 28 Jul 2026 | PIKES PRESENTS AT 528 WITH S.A.S.S. (IBIZA EXCLUSIVE) | E.LINA, Moxie, Peach, Saoirse, Shanti Celeste, tINI |
 | Thu, 30 Jul 2026 | FAC51 The Haçienda x 528 Ibiza | DJ Paulette, Derrick Carter, Felix Da Housecat, Graeme Park, Krysko, Peter Hook, Ultra Naté |
 | Fri, 31 Jul 2026 | BBC RADIO 1 DANCE | Arielle Free, Danny Howard, Disclosure, Gorgon City, Pete Tong, Sarah Story |

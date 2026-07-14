@@ -14,7 +14,7 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with
 | Thu, 23 Jul 2026 | Hüft & Beinbruch | LASC11, Phil Phaze, cun_t |
 | Fri, 24 Jul 2026 | Paper-Cuts present mad miran, Mike Midnight (Live), Miscmeg, Paper-Cuts, Pridi - Fitzroy Berlin | Mike Midnight, Miscmeg, Paper-Cuts, Pridi, mad miran |
 | Sat, 25 Jul 2026 | UNORDNUNGSAMT - CSD AFTERPARTY | Bouch, Flor Coto, Guile, Javier Anxiety, Jogo, Juan Neira, Lenut, Mara Vilu, Szew |
-| Sun, 13 Sept 2026 | Simbiosis at Fitzroy [daytime party] | Gustavo Ibañez, Juan Diego Drouet, Nico Noir, Sean Gonzalez, kairavi |
+| Sun, 13 Sept 2026 | Simbiosis at Fitzroy [daytime party] | Dorian Fecht, Gustavo Ibañez, Juan Diego Drouet, Nico Noir, Sean Gonzalez, kairavi |
 | Fri, 25 Sept 2026 | Walk The Night (returns!) - Save The Date | Liad Krispin |
 | Sat, 10 Oct 2026 | Threesome - Day & Night |  |
 

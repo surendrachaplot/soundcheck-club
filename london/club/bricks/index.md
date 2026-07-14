@@ -1,8 +1,8 @@
 # Bricks
 
-Bricks is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ElixSystem" on Fri, 17 Jul 2026.
+Bricks is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ElixSystem" on Fri, 17 Jul 2026.
 
-Bricks is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AHARDS, Alfaz, BIDOIS and Brennan and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
+Bricks is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AHARDS, Alfaz, BIDOIS and Brennan and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
 ## What's on
 

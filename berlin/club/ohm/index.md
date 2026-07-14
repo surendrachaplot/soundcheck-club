@@ -10,7 +10,7 @@ OHM is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with li
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Endzeit: Mike Parker // Convextion (Live) // Lily Ackerman | Convextion, Kudeki, Lily Ackerman, Mike Parker, RMNA, Torsion |
 | Fri, 17 Jul 2026 | Konstantin (All Night Long) | Konstantin |
-| Sat, 18 Jul 2026 | Asian Queers Reunited (AQR) by Jiā La | Evaluvfrog, HAMZA, Jeena, Jiun, PINKBOIALWAYSCRY, Temple Rat, Wu Zhuoling, marum |
+| Sat, 18 Jul 2026 | Asian Queers Reunited (AQR) by Jiā La | Evaluvfrog, HAMZA, Hamza K Shah, Jeena, Jiun, PINKBOIALWAYSCRY, Temple Rat, Wu Zhuoling, marum |
 | Thu, 23 Jul 2026 | TETAS LOCAS | Hanaby, Hyperaktivist, JASSS, Juliana Huxtable, LIL RISK, Mama Snake, source:link |
 | Fri, 24 Jul 2026 | 2CPERREA at CSD BERLIN |  |
 | Fri, 31 Jul 2026 | Ouch x FemmeDecks | Godsfave, IDLIBRA, Kontronatura, Rafush, missteikk |

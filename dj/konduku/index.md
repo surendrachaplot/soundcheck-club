@@ -9,7 +9,7 @@ Konduku is a techno and house artist tracked on soundcheck, with 161 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
-| Fri, 31 Jul 2026 | TBA | Manchester |
+| Fri, 31 Jul 2026 | Concept Haus | Manchester |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |

@@ -15,7 +15,7 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 9 upcoming night
 | Sat, 8 Aug 2026 | Tengu presents: Efa O'Neill All Night Long | Efa O'Neill |
 | Fri, 14 Aug 2026 | Equinox presents: Pancratio | Pancratio, Síofra |
 | Fri, 21 Aug 2026 | Research x Hidden Love: ANNĒ | ANNĒ, Posterboy |
-| Sat, 29 Aug 2026 | Tengu x Supper presents: Magda | Magda, Royce Larøca |
+| Sat, 29 Aug 2026 | Tengu x Supper presents: Magda | Magda, Mercorn, Nev Jio, Royce Larøca |
 | Fri, 18 Sept 2026 | Melodic 15: Jeremy Olander (3 hour set) | Gavin Rochford, Jeremy Olander |
 
 ## Address

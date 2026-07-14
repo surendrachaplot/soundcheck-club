@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HAKKE360 OUTDOOR" on Sat, 18 Jul 2026.
+Bootshaus is a music venue in Cologne with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HAKKE360 OUTDOOR" on Sat, 18 Jul 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 12 upcoming nights, with line-ups including Acid Asian, Afem Syko, Alba Franch and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
@@ -12,12 +12,12 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 11 upcoming nights, 
 | Fri, 24 Jul 2026 | HÖR ON TOUR - Cologne | Acid Asian, Amber Broos, Charleen Herzig, Danilo Filipe, Deborah De Luca, Juno (NY), Katy Rough, Limoncello, The Rocketman |
 | Sat, 25 Jul 2026 | WILL SPARKS pres. by Bootshaus | DVBBS |
 | Fri, 7 Aug 2026 | R3hab pres. by Bootshaus | R3hab |
+| Fri, 7 Aug 2026 | LEVI presented by NIGHTS WITH US, Cologne | Levi (AU) |
 | Fri, 21 Aug 2026 | LOONYLAND pres. LUCA DANTE SPADAFORA & 2 ENGEL & Charlie | Charlie |
 | Thu, 27 Aug 2026 | ANIME SOUNDS by CrispyRob - The Last Chapter |  |
 | Fri, 11 Sept 2026 | Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk | Dr Donk, Lekkerfaces, Yoshiko |
 | Fri, 18 Sept 2026 | Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more | Alba Franch, Cleopard2000, Elotrance, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi, t e s t p r e s s |
 | Sun, 20 Sept 2026 | VERTILE pres. EVERYTHING CHANGES -LIVE- |  |
-| Fri, 25 Sept 2026 | UNREAL WEEKENDER NIGHT I | Afem Syko, BIIANCO, Johannes Schuster, Mad Dog, Nikolina, Pixie Dust |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The White Hotel, Manchester on Sat, 18 Jul 2026.
+Introspekt is a Garage and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The White Hotel, Manchester on Sat, 18 Jul 2026.
 
-Introspekt is a garage and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Barcelona and Belfast and 41 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: The White Hotel, Manchester on Sat 18 Jul.
+Introspekt is a garage and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Austin, Barcelona and Belfast and 41 more. Often billed alongside Octo Octa, CCL and Bored Lord. Next up: The White Hotel, Manchester on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 174 sets lo
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
 | Sat, 29 Aug 2026 | Phonox | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 2 Oct 2026 | Palais | London |
 
 ## Recently played
 

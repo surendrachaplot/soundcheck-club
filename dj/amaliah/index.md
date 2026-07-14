@@ -1,8 +1,8 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Amaliah is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
-Amaliah is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside NIKS, Danielle and Call Super. Next up: TBA - Secret Location, London on Fri 17 Jul.
+Amaliah is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside NIKS, Danielle and Call Super. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Amaliah is a house and techno artist tracked on soundcheck, with 166 sets logged
 | Fri, 24 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 8 Aug 2026 | Trädgården | Stockholm |
+| Fri, 21 Aug 2026 | Razzmatazz | Barcelona |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 19 Sept 2026 | Cadavra | Madrid |
 

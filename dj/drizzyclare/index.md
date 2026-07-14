@@ -1,8 +1,8 @@
 # Drizzyclare
 
-Drizzyclare is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
+Drizzyclare is a Techno and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
 
-Drizzyclare is a techno and ghetto tech artist based in Spain, tracked on soundcheck, with 33 sets logged across Barcelona, Lisbon, Madrid and Valencia. Often billed alongside DJ2D2, Dirti Larita and PethbUri. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
+Drizzyclare is a techno and ghetto tech artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona, Lisbon, Madrid and Valencia. Often billed alongside DJ2D2, Dirti Larita and PethbUri. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Drizzyclare is a techno and ghetto tech artist based in Spain, tracked on soundc
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Razzmatazz | Barcelona |
 | Fri, 24 Jul 2026 | Razzmatazz | Barcelona |
+| Fri, 28 Aug 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

@@ -1,14 +1,14 @@
 # Lucy Headburn
 
-Lucy Headburn is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - under a bridge , Copenhagen on Sat, 1 Aug 2026.
+Lucy Headburn is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Christians Brygge 31, Copenhagen on Sat, 1 Aug 2026.
 
-Lucy Headburn is a trance and techno artist based in Denmark, tracked on soundcheck, with 39 sets logged across Amsterdam, Copenhagen and Nantes. Often billed alongside Matriark, Sham (DK) and Filen. Next up: TBA - under a bridge , Copenhagen on Sat 1 Aug.
+Lucy Headburn is a trance and techno artist based in Denmark, tracked on soundcheck, with 39 sets logged across Amsterdam, Copenhagen and Nantes. Often billed alongside Matriark, Sham (DK) and Filen. Next up: Christians Brygge 31, Copenhagen on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | TBA - under a bridge  | Copenhagen |
+| Sat, 1 Aug 2026 | Christians Brygge 31 | Copenhagen |
 | Sat, 8 Aug 2026 | Christians Brygge 31 | Copenhagen |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) w/ Flight Mode, CURA x MUSTER at Renate
 
-Renate Klubnacht + Open Air (Free Entry) w/ Flight Mode, CURA x MUSTER on Sat 8 Aug, Berlin. 11 acts on the bill: Aceedo, Adis Is OK, Bon Public and Dan Harris and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) w/ Flight Mode, CURA x MUSTER on Sat 8 Aug, Berlin. 12 acts on the bill: Aceedo, Adis Is OK, Bon Public and Dan Harris and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Renate Klubnacht + Open Air (Free Entry) w/ Flight Mode, CURA x MUSTER on Sat 8 
 - Iris Leidenschaft
 - Kat Davids
 - MASCHA
+- Manta
 - UMBRA
 - Ursula Prawn
 - Vio PRG

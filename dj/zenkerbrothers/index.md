@@ -1,8 +1,8 @@
 # Zenker Brothers
 
-Zenker Brothers is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Zenker Brothers is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Zenker Brothers is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Skee Mask, Stenny and Fireground. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Zenker Brothers is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Stenny, Skee Mask and Fireground. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zenker Brothers is a techno and house artist tracked on soundcheck, with 139 set
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sat, 25 Jul 2026 | Fort Vechten | Utrecht |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 14 Aug 2026 | Bassiani | Tbilisi |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 
@@ -26,6 +27,6 @@ Zenker Brothers is a techno and house artist tracked on soundcheck, with 139 set
 
 ## Shares bills with
 
-Skee Mask, Stenny, Fireground
+Stenny, Skee Mask, Fireground
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zenkerbrothers/)*

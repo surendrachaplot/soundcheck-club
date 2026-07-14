@@ -9,7 +9,7 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 15 upc
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Pub Dub |  |
-| Fri, 17 Jul 2026 | Special Guests | Zuri |
+| Fri, 17 Jul 2026 | Special Guests | Nothing Special, Zuri |
 | Sat, 18 Jul 2026 | Hearts & Minds Launch | Al Bradley, Damo B |
 | Thu, 23 Jul 2026 | The Plastic Loft |  |
 | Fri, 24 Jul 2026 | Dig My Box 2nd Birthday Part 2 | Allius, Cersy, Garbo (2) |

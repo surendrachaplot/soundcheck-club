@@ -1,6 +1,6 @@
 # HOT LEMON VOL. 5 at TBA - Batch Baby
 
-HOT LEMON VOL. 5 at TBA - Batch Baby on Sat 18 Jul, London. 3 acts on the bill: Dimi Darko, Marla Kether and val fritz. Funk / Soul and Afro House. Preview the line-up and save it on soundcheck.
+HOT LEMON VOL. 5 at TBA - Batch Baby on Sat 18 Jul, London. 3 acts on the bill: Dimi Darko, Marla Kether and val fritz. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

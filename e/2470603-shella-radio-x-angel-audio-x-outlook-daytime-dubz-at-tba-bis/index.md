@@ -1,6 +1,6 @@
 # Shella Radio x Angel Audio x Outlook: DAYTIME DUBZ at TBA - Bistro KuBar
 
-Shella Radio x Angel Audio x Outlook: DAYTIME DUBZ at TBA - Bistro KuBar on Sat 18 Jul, Prague. 4 acts on the bill: Formella, Freddie Hudson, Genoe and Surrealita. Bass and Dub. Preview the line-up and save it on soundcheck.
+Shella Radio x Angel Audio x Outlook: DAYTIME DUBZ at TBA - Bistro KuBar on Sat 18 Jul, Prague. 8 acts on the bill: AXT, Comf, Formella and Freddie Hudson and 4 more. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,13 @@ Shella Radio x Angel Audio x Outlook: DAYTIME DUBZ at TBA - Bistro KuBar on Sat 
 
 ## Line-up
 
+- AXT
+- Comf
 - Formella
 - Freddie Hudson
 - Genoe
+- Nevinnost
 - Surrealita
+- anna andersrum
 
 *Source: [soundcheck](https://soundcheck.club/e/2470603-shella-radio-x-angel-audio-x-outlook-daytime-dubz-at-tba-bis/)*

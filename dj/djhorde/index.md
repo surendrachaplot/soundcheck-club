@@ -1,14 +1,15 @@
 # DJ HÖRDE
 
-DJ HÖRDE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 1 Aug 2026.
+DJ HÖRDE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 1 Aug 2026.
 
-DJ HÖRDE is a techno and trance artist based in Germany, tracked on soundcheck, with 49 sets logged across Antwerp, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside DJ Henk, Justin Tinderdate and Blame the Booker. Next up: Lokschuppen Berlin, Berlin on Sat 1 Aug.
+DJ HÖRDE is a techno and trance artist based in Germany, tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside DJ Henk, Justin Tinderdate and Blame the Booker. Next up: Lokschuppen Berlin, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 14 Aug 2026 | Helios37 | Cologne |
 | Sat, 5 Sept 2026 | BASIS | Utrecht |
 
 ## Recently played

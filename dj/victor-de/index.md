@@ -1,8 +1,8 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Victor (DE) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Fadi Mohem, Yamour and Marie Montexier. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Sat, 18 Jul 2026 | MS Artville | Hamburg |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 1 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
 
@@ -26,6 +27,6 @@ Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Fadi Mohem, Yamour, Marie Montexier
+Fadi Mohem, Yamour, Ogazón
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

@@ -2,7 +2,7 @@
 
 Giri is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Giri x Nada Sori" on Thu, 16 Jul 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alys, Bloomfeld, cheng nwsh and dainshi and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Alys, Bloomfeld, cheng nwsh and Cleo (AU) and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Giri is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with l
 | Thu, 30 Jul 2026 | Giri x Smile Session |  |
 | Fri, 31 Jul 2026 | Giri x Inherently Serene | Rafa Paella, cheng nwsh |
 | Thu, 6 Aug 2026 | Giri x Ulf Herold x by iiuoiim (Album releases) |  |
-| Fri, 7 Aug 2026 | Giri x Geven en Nemen |  |
+| Fri, 7 Aug 2026 | Giri x Geven en Nemen | Cleo (AU), Guava, SOCIAL VLAD |
 | Fri, 21 Aug 2026 | Giri x Infinite Drift |  |
 | Fri, 11 Sept 2026 | Giri x Wormhole Studies |  |
 

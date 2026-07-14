@@ -1,8 +1,8 @@
 # Stenny
 
-Stenny is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Stenny is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Stenny is a techno and bass artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside Zenker Brothers, Skee Mask and Tasha. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Stenny is a techno and bass artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Stenny is a techno and bass artist tracked on soundcheck, with 118 sets logged a
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sat, 18 Jul 2026 | Garchinger See | Munich |
 | Sat, 18 Jul 2026 | Legal | Munich |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Stenny is a techno and bass artist tracked on soundcheck, with 118 sets logged a
 
 ## Shares bills with
 
-Zenker Brothers, Skee Mask, Tasha
+Zenker Brothers, Tasha, Skee Mask
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

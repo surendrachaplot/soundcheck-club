@@ -1,8 +1,8 @@
 # Timo Maas
 
-Timo Maas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 25 Jul 2026.
+Timo Maas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 25 Jul 2026.
 
-Timo Maas is a techno and house artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Brighton and Bucharest and 21 more. Often billed alongside Costax, Francesco Mami and Frankie Flowerz. Next up: 528 Ibiza, Ibiza on Sat 25 Jul.
+Timo Maas is a techno and house artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Brighton and Bucharest and 22 more. Often billed alongside Costax, Francesco Mami and Frankie Flowerz. Next up: 528 Ibiza, Ibiza on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Timo Maas is a techno and house artist tracked on soundcheck, with 48 sets logge
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | 528 Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | TBA - Straße des 17. Juni & Großer Stern | Berlin |
+| Sat, 22 Aug 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 

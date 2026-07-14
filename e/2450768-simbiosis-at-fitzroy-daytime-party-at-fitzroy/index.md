@@ -1,6 +1,6 @@
 # Simbiosis at Fitzroy [daytime party] at Fitzroy
 
-Simbiosis at Fitzroy [daytime party] on Sun 13 Sept, Berlin. 5 acts on the bill: Gustavo Ibañez, Juan Diego Drouet, Nico Noir and Sean Gonzalez and 1 more. Acid and Dub Techno. Preview the line-up and save it on soundcheck.
+Simbiosis at Fitzroy [daytime party] on Sun 13 Sept, Berlin. 6 acts on the bill: Dorian Fecht, Gustavo Ibañez, Juan Diego Drouet and Nico Noir and 2 more. Acid and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Simbiosis at Fitzroy [daytime party] on Sun 13 Sept, Berlin. 5 acts on the bill:
 
 ## Line-up
 
+- Dorian Fecht
 - Gustavo Ibañez
 - Juan Diego Drouet
 - Nico Noir

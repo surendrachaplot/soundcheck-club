@@ -1,6 +1,6 @@
 # GEGEN GEAR at KitKatClub
 
-GEGEN GEAR at KitKatClub on Fri 11 Sept, Berlin. 15 acts on the bill: Alma Negrot, Ana Lilia, BOYCA and Buday and 11 more. Preview the line-up and save it on soundcheck.
+GEGEN GEAR at KitKatClub on Fri 11 Sept, Berlin. 16 acts on the bill: Alma Negrot, Ana Lilia, Aron Amor and BOYCA and 12 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ GEGEN GEAR at KitKatClub on Fri 11 Sept, Berlin. 15 acts on the bill: Alma Negro
 
 - Alma Negrot
 - Ana Lilia
+- Aron Amor
 - BOYCA
 - Buday
 - Daniel Wang

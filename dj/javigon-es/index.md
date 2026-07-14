@@ -1,8 +1,8 @@
 # Javi gOn
 
-Javi gOn is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Moog Club, Barcelona on Sat, 18 Jul 2026.
+Javi gOn is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Moog Club, Barcelona on Sat, 18 Jul 2026.
 
-Javi gOn is a techno and trance artist based in Spain, tracked on soundcheck, with 112 sets logged across Barcelona. Often billed alongside MOTA, uroz and BACO. Next up: Moog Club, Barcelona on Sat 18 Jul.
+Javi gOn is a techno and trance artist based in Spain, tracked on soundcheck, with 117 sets logged across Barcelona. Often billed alongside MOTA, uroz and BACO. Next up: Moog Club, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,11 @@ Javi gOn is a techno and trance artist based in Spain, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Moog Club | Barcelona |
 | Sat, 25 Jul 2026 | Moog Club | Barcelona |
+| Sat, 1 Aug 2026 | Moog Club | Barcelona |
+| Sat, 8 Aug 2026 | Moog Club | Barcelona |
+| Sat, 15 Aug 2026 | Moog Club | Barcelona |
+| Sat, 22 Aug 2026 | Moog Club | Barcelona |
+| Sat, 29 Aug 2026 | Moog Club | Barcelona |
 
 ## Recently played
 

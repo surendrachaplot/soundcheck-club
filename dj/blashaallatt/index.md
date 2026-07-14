@@ -1,8 +1,8 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le Hasard Ludique, Paris on Tue, 14 Jul 2026.
+Blasha & Allatt is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le Hasard Ludique, Paris on Tue, 14 Jul 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 266 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Le Hasard Ludique, Paris on Tue 14 Jul.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 267 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Le Hasard Ludique, Paris on Tue 14 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 266 sets 
 | Sat, 18 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | The Yard | Manchester |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | RADION | Amsterdam |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
@@ -19,7 +20,6 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 266 sets 
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
-| Sat, 19 Sept 2026 | WaV | Liverpool |
 
 ## Recently played
 

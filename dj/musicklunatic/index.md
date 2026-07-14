@@ -1,8 +1,8 @@
 # MUSICKLUNATIC
 
-MUSICKLUNATIC is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Firepit Art Gallery and Studios CIC, London on Fri, 24 Jul 2026.
+MUSICKLUNATIC is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Firepit Art Gallery and Studios CIC, London on Fri, 24 Jul 2026.
 
-MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside AMAR (UK), DungeonMaster and Helios Manoeuvres. Next up: Firepit Art Gallery and Studios CIC, London on Fri 24 Jul.
+MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 24 sets logged across London. Often billed alongside DungeonMaster, AMAR (UK) and Helios Manoeuvres. Next up: Firepit Art Gallery and Studios CIC, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 23 sets l
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Firepit Art Gallery and Studios CIC | London |
 | Fri, 31 Jul 2026 | Aaja Basement | London |
+| Fri, 7 Aug 2026 | Aaja Basement | London |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 
 ## Recently played
@@ -25,6 +26,6 @@ MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 23 sets l
 
 ## Shares bills with
 
-AMAR (UK), DungeonMaster, Helios Manoeuvres
+DungeonMaster, AMAR (UK), Helios Manoeuvres
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*

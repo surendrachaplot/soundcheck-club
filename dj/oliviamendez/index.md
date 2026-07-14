@@ -1,8 +1,8 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Olivia Mendez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Freddy K and Blasha & Allatt. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Freddy K and Blasha & Allatt. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 25 Jul 2026 | Fuse | Brussels |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
+| Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
 | Sun, 30 Aug 2026 | De Fik Garden | Amsterdam |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 

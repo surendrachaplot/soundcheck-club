@@ -1,6 +1,6 @@
 # Gaskin's Bass Jamz Ibiza at 528 Ibiza
 
-Gaskin's Bass Jamz Ibiza at 528 Ibiza on Sun 26 Jul, Ibiza. 6 acts on the bill: Cam Stockman, Ellam, Ellia Jaya and Gaskin and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Gaskin's Bass Jamz Ibiza at 528 Ibiza on Sun 26 Jul, Ibiza. 7 acts on the bill: Cam Stockman, Ellam, Ellia Jaya and Gaskin and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Gaskin's Bass Jamz Ibiza at 528 Ibiza on Sun 26 Jul, Ibiza. 6 acts on the bill: 
 - Ellam
 - Ellia Jaya
 - Gaskin
+- Sandrop
 - Watchers
 - bullet tooth
 

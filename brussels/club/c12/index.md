@@ -11,7 +11,7 @@ C12 is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with l
 | Sat, 25 Jul 2026 | C12 Nite with FENIM0RE & Ponky, Rare Mamba, LEVS | FENIM0RE, LEVS |
 | Sat, 1 Aug 2026 | C12 with RHR, NVST, Donia |  |
 | Sat, 8 Aug 2026 | C12 x H12 with Lolalita, TØXYBLUE, Insolence | Insolence, Lolalita, TØXYBLUE |
-| Fri, 11 Sept 2026 | Pop&Disco Cheap&Chic | Afonso Peixoto, The Stress |
+| Fri, 11 Sept 2026 | Los Ninos: Pop&Disco Cheap&Chic | Afonso Peixoto, The Stress |
 
 ## Address
 

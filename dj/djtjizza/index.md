@@ -1,13 +1,14 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Distrikt, Leeds on Fri, 24 Jul 2026.
+DJ Tjizza is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
 
-DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Distrikt, Leeds on Fri 24 Jul.
+DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Club der Visionaere, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Club der Visionaere | Berlin |
 | Fri, 24 Jul 2026 | Distrikt | Leeds |
 | Sat, 25 Jul 2026 | The Glove That Fits | London |
 | Sat, 8 Aug 2026 | Boomerang Beach | The Hague |

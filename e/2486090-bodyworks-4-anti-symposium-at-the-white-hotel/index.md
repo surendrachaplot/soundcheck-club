@@ -1,6 +1,6 @@
 # Bodyworks 4: Anti-Symposium at The White Hotel
 
-Bodyworks 4: Anti-Symposium at The White Hotel on Fri 7 Aug, Manchester. 3 acts on the bill: Kop-Z, Syntax (2) and TOOT. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Bodyworks 4: Anti-Symposium at The White Hotel on Fri 7 Aug, Manchester. 4 acts on the bill: GINA (UK), Kop-Z, Syntax (2) and TOOT. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Bodyworks 4: Anti-Symposium at The White Hotel on Fri 7 Aug, Manchester. 3 acts 
 
 ## Line-up
 
+- GINA (UK)
 - Kop-Z
 - Syntax (2)
 - TOOT

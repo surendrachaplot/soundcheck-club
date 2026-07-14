@@ -1,6 +1,6 @@
 # XTRUDE with Kangding Ray, Tarkno, Nastia, 1morning and Erna at RSO.BERLIN
 
-XTRUDE with Kangding Ray, Tarkno, Nastia, 1morning and Erna at RSO.BERLIN on Sat 18 Jul, Berlin. 13 acts on the bill: 1morning, DJ NORTHERN, DJ Spit and Darwin and 9 more. Techno and Broken Beat. Preview the line-up and save it on soundcheck.
+XTRUDE with Kangding Ray, Tarkno, Nastia, 1morning and Erna at RSO.BERLIN on Sat 18 Jul, Berlin. 14 acts on the bill: 1morning, Arthur Baron, DJ NORTHERN and DJ Spit and 10 more. Techno and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ XTRUDE with Kangding Ray, Tarkno, Nastia, 1morning and Erna at RSO.BERLIN on Sat
 ## Line-up
 
 - 1morning
+- Arthur Baron
 - DJ NORTHERN
 - DJ Spit
 - Darwin

@@ -1,8 +1,8 @@
 # zikade
 
-zikade is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
+zikade is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
 
-zikade is a techno and electro artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Madrid and Prague and 1 more. Often billed alongside DJ BONEY S, CHRISPY and ilbroccolovolante. Next up: Renate, Berlin on Thu 16 Jul.
+zikade is a techno and electro artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Madrid and Prague and 1 more. Often billed alongside DJ BONEY S, CHRISPY and ilbroccolovolante. Next up: Renate, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ zikade is a techno and electro artist tracked on soundcheck, with 48 sets logged
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Renate | Berlin |
 | Sat, 25 Jul 2026 | Beate Uwe | Berlin |
+| Thu, 20 Aug 2026 | Renate | Berlin |
 | Fri, 21 Aug 2026 | Seedcamp, Kautzen | Vienna |
 
 ## Recently played

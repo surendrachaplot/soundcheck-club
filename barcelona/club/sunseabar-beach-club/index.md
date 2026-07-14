@@ -14,7 +14,7 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upco
 | Thu, 23 Jul 2026 | FREE OPEN BEACH PARTY - ANK | Djoan, Elwei, GONGULL, Hanzo Tono, Miguel Silva, Popsky |
 | Fri, 24 Jul 2026 | FREE OPEN AIR BEACH PARTY Reecords x Lost pres Reelow | ATMEN, Brieela, Cesar Martino, Reelow, Sadkiel |
 | Sat, 25 Jul 2026 | [FREE OPEN AIR beach party] INPUT meets RADICI on the beach | Cristian Sarde, Hitch, Keras |
-| Sun, 26 Jul 2026 | FREE OPEN AIR BEACH PARTY Les Enfants pres. Brasi, Tunik & Stella Fiore | Alex (ES), Brasi, Stella Fiore, Tunik |
+| Sun, 26 Jul 2026 | FREE Open Air Beach Party w Les Enfants x ■ Checkpoint x Troopers | Alex (ES), Brasi, MARYO, Sampol, Stella Fiore, Tunik |
 | Fri, 31 Jul 2026 | Dias de Campo Records X 24Seven Records (FREE OPEN-AIR BEACH PARTY) | Boranimals, Diesco, Nate S.U, PAULA GM, Vince Void, nativo |
 | Sun, 2 Aug 2026 | Subwax Takeover - FREE OPEN AIR BEACH PARTY | Baldo, Brennan, Ferg, James Andrew, inner quiet |
 | Fri, 7 Aug 2026 | FREE OPEN AIR BEACH PARTY: Lost invites Calypso at Platja Del Forum | Iñigo Vontier |

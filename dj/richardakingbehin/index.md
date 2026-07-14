@@ -1,14 +1,15 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Dub Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Richard Akingbehin is a Dub Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
-Richard Akingbehin is a dub techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and Gabrielle Kwarteng. Next up: Garchinger See, Munich on Sat 18 Jul.
+Richard Akingbehin is a dub techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and Gabrielle Kwarteng. Next up: Garchinger See, Munich on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Garchinger See | Munich |
+| Fri, 24 Jul 2026 | BLITZ | Munich |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |

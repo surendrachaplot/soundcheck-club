@@ -1,14 +1,15 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Sofiia Zoloto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
-Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 37 sets logged across Berlin, Munich, Nurnberg and Vienna. Often billed alongside 9LALEY, Miran N and ALBA (3). Next up: Garchinger See, Munich on Sat 18 Jul.
+Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Munich, Nurnberg and Vienna. Often billed alongside 9LALEY, Miran N and Muallem. Next up: Garchinger See, Munich on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Garchinger See | Munich |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
 
 ## Recently played
@@ -24,6 +25,6 @@ Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 37 sets l
 
 ## Shares bills with
 
-9LALEY, Miran N, ALBA (3)
+9LALEY, Miran N, Muallem
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

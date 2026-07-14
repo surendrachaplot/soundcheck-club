@@ -1,8 +1,8 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BLITZ, Munich on Fri, 17 Jul 2026.
+Polygonia is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BLITZ, Munich on Fri, 17 Jul 2026.
 
-Polygonia is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside GiGi FM, BASHKKA and Aurora Halal. Next up: BLITZ, Munich on Fri 17 Jul.
+Polygonia is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Athens, Bali and Barcelona and 57 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: BLITZ, Munich on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Polygonia is a techno and house artist tracked on soundcheck, with 217 sets logg
 | Sat, 25 Jul 2026 | Boston Manor Park | London |
 | Sat, 25 Jul 2026 | fabric | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Virage | Paris |
@@ -32,6 +33,6 @@ Polygonia is a techno and house artist tracked on soundcheck, with 217 sets logg
 
 ## Shares bills with
 
-GiGi FM, BASHKKA, Aurora Halal
+GiGi FM, BASHKKA, Efdemin
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

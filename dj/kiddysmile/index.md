@@ -1,13 +1,14 @@
 # Kiddy Smile
 
-Kiddy Smile is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+Kiddy Smile is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nocturna, Ibiza on Wed, 22 Jul 2026.
 
-Kiddy Smile is a house and electro artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Melvo Baptiste, Bora Uzer and Curses. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
+Kiddy Smile is a house and electro artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Melvo Baptiste, Bora Uzer and Curses. Next up: Nocturna, Ibiza on Wed 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 22 Jul 2026 | Nocturna | Ibiza |
 | Sat, 25 Jul 2026 | Komplex Berlin | Berlin |
 | Sun, 2 Aug 2026 | Uber Eats Music Hall | Berlin |
 

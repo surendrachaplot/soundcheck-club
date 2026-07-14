@@ -15,7 +15,7 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 8 upcom
 | Fri, 14 Aug 2026 | Llou's x This Guy | LIZ-ZIE (2), Ossou Erratic, Qoqnut, This Guy, Zoe Azad |
 | Sat, 15 Aug 2026 | House Rules x Proud Time | DJ Scissher, Hello From Ben, Lenny Ye$, RYLO (UK) |
 | Sat, 29 Aug 2026 | MSM AUDIO // BANK HOLIDAY SUMMER SPECIAL |  |
-| Sat, 12 Sept 2026 | Outside Looking In #007 | Deventi, Girlfriend, Max Ctrl |
+| Sat, 12 Sept 2026 | Outside Looking In #007 | Deventi, Girlfriend, Max Ctrl, skywalka |
 
 ## Address
 

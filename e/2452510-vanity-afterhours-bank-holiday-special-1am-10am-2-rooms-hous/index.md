@@ -1,6 +1,6 @@
 # VANITY afterhours bank holiday special: 1am - 10am ( 2 rooms, House + techno) at Union Club, Vauxhall
 
-VANITY afterhours bank holiday special: 1am - 10am ( 2 rooms, House + techno) at Union Club, Vauxhall on Sat 29 Aug, London. 8 acts on the bill: Enrico Chirchiello, Francesco Poggi, Koolfunk and LIZAZA and 4 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+VANITY afterhours bank holiday special: 1am - 10am ( 2 rooms, House + techno) at Union Club, Vauxhall on Sat 29 Aug, London. 9 acts on the bill: Enrico Chirchiello, Francesco Poggi, Hardy Heller and Koolfunk and 5 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ VANITY afterhours bank holiday special: 1am - 10am ( 2 rooms, House + techno) at
 
 - Enrico Chirchiello
 - Francesco Poggi
+- Hardy Heller
 - Koolfunk
 - LIZAZA
 - Naira Bullon

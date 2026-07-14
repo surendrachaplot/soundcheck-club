@@ -1,8 +1,8 @@
 # HAMY
 
-HAMY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+HAMY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
-HAMY is a techno and house artist tracked on soundcheck, with 46 sets logged across Bangkok, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
+HAMY is a techno and house artist tracked on soundcheck, with 47 sets logged across Bangkok, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HAMY is a techno and house artist tracked on soundcheck, with 46 sets logged acr
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | ÆDEN x MARMORBAR: Fields & Spaces | Berlin |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
+| Sat, 19 Sept 2026 | Chausseestrasse 131 | Berlin |
 
 ## Recently played
 

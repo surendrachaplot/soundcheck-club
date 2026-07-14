@@ -1,8 +1,8 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+LOVEFOXY is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-LOVEFOXY is a house and techno artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Ferropolis, Leipzig on Fri 17 Jul.
+LOVEFOXY is a house and techno artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ LOVEFOXY is a house and techno artist tracked on soundcheck, with 155 sets logge
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 8 Aug 2026 | Paragon | New York City |
+| Fri, 14 Aug 2026 | Else | Berlin |
+| Wed, 26 Aug 2026 | Nocturna | Ibiza |
 
 ## Recently played
 

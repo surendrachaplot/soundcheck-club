@@ -11,7 +11,7 @@ Sugar Free is a house and techno artist tracked on soundcheck, with 188 sets log
 | Sat, 18 Jul 2026 | Le point fort d'Aubervilliers | Paris |
 | Sat, 18 Jul 2026 | The Lion and Lamb | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
-| Fri, 31 Jul 2026 | TBA | Manchester |
+| Fri, 31 Jul 2026 | Concept Haus | Manchester |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | ISOamsterdam | Amsterdam |
 | Sat, 15 Aug 2026 | Backsteinboot | Berlin |

@@ -1,6 +1,6 @@
 # Asian Queers Reunited (AQR) by Jiā La at OHM
 
-Asian Queers Reunited (AQR) by Jiā La at OHM on Sat 18 Jul, Berlin. 8 acts on the bill: Evaluvfrog, HAMZA, Jeena and Jiun and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Asian Queers Reunited (AQR) by Jiā La at OHM on Sat 18 Jul, Berlin. 9 acts on the bill: Evaluvfrog, HAMZA, Hamza K Shah and Jeena and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Asian Queers Reunited (AQR) by Jiā La at OHM on Sat 18 Jul, Berlin. 8 acts on t
 
 - Evaluvfrog
 - HAMZA
+- Hamza K Shah
 - Jeena
 - Jiun
 - PINKBOIALWAYSCRY

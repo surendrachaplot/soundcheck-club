@@ -1,8 +1,8 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
+Katia Curie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
 
-Katia Curie is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: La Terrrazza, Barcelona on Fri 17 Jul.
+Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: La Terrrazza, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 108 sets lo
 | Sat, 18 Jul 2026 | Parkcafe | Cologne |
 | Sat, 18 Jul 2026 | Lehmann Club | Stuttgart |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Sat, 22 Aug 2026 | TBA - North London | London |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 26 Sept 2026 | Cadavra | Madrid |

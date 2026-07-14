@@ -9,7 +9,7 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 6 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Boris pres Lost - FREE TICKETS | ATMEN, Christallo, Mathiox444, Tympanic |
-| Sat, 18 Jul 2026 | Boris Saturday | HeAndMe |
+| Sat, 18 Jul 2026 | Boris Saturday - FREE TICKETS | HeAndMe |
 | Fri, 24 Jul 2026 | Boris pre SUPERFEKTA Fur Coat, Momoda, Igor Marijuan - FREE TICKETS | Fur Coat, Igor Marijuan, Momoda |
 | Sat, 25 Jul 2026 | Boris pres Argia - FREE TICKETS | Argia, Paul Larrozea, SOFIA PINEDA |
 | Sat, 1 Aug 2026 | Boris pres Dorf |  |

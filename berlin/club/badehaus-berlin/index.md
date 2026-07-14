@@ -10,7 +10,7 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nigh
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Fania Brava Party | Azulado, Calamidades Lola, Maque, Mari Corolla, lionza |
 | Sat, 25 Jul 2026 | Sahra Party حفلة سهرة: PRIDE EDITION | Alias Shay, Miss T Delight, MzRizk, Nanoos |
-| Fri, 28 Aug 2026 | 7-Synth-Party | Electric Visionary |
+| Fri, 28 Aug 2026 | 7 Synths Party | Electric Visionary |
 
 ## Address
 

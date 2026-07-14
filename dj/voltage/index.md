@@ -10,7 +10,7 @@ Voltage is a drum & bass and jungle artist tracked on soundcheck, with 60 sets l
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Boston Manor Park | London |
 | Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
-| Fri, 28 Aug 2026 | Otherside London | London |
+| Sat, 29 Aug 2026 | Otherside London | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played

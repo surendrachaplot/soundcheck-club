@@ -1,13 +1,14 @@
 # Organza
 
-Organza is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Wagenburg Lohmühle Berlin, Berlin on Sat, 18 Jul 2026.
+Organza is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Maaya, Berlin on Thu, 16 Jul 2026.
 
-Organza is a house and techno artist tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside elliephunk, materia hache and Kidcat. Next up: Wagenburg Lohmühle Berlin, Berlin on Sat 18 Jul.
+Organza is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside elliephunk, materia hache and Kidcat. Next up: Maaya, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 16 Jul 2026 | Maaya | Berlin |
 | Sat, 18 Jul 2026 | Wagenburg Lohmühle Berlin | Berlin |
 | Fri, 24 Jul 2026 | Renate | Berlin |
 

@@ -1,8 +1,8 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 16 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SMLN LIVE #11 RAMZI VIBE$ - MR DANGER - VIVØ" on Tue, 14 Jul 2026.
+Smolna is a music venue in Warsaw with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SMLN LIVE #11 RAMZI VIBE$ - MR DANGER - VIVØ" on Tue, 14 Jul 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 16 upcoming nights, with line-ups including Abrew, Anela, bolo and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 17 upcoming nights, with line-ups including Abrew, Anela, bolo and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 

@@ -1,14 +1,14 @@
 # Noizar
 
-Noizar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA, Manchester on Fri, 31 Jul 2026.
+Noizar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
 
-Noizar is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: TBA, Manchester on Fri 31 Jul.
+Noizar is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Shakolin, Karine and Marie K (1). Next up: Concept Haus, Manchester on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | TBA | Manchester |
+| Fri, 31 Jul 2026 | Concept Haus | Manchester |
 | Sat, 8 Aug 2026 | Platforma Wolff | Bucharest |
 
 ## Recently played

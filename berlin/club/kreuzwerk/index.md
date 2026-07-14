@@ -12,7 +12,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 | Fri, 24 Jul 2026 | HERRENSAUNA PRIDEFEST | Dj Saliva, JASSS, MCMLXXXV, Makadsi, RHR |
 | Sun, 2 Aug 2026 | Miss Dreamz: Paradise Sessions | Aunty Nora, Butchqueen.fm, Carly Zeng, DJ Petite, Ojos de miel, Sub Sahara |
 | Sat, 8 Aug 2026 | Power Dance Club 24hours Anniversary | Alex Kassian, CEM, Dj Warning, Hyperaktivist, Khloe, Luigi Di Venere, MCMLXXXV, Matisa, Neu Verboten, Partok, Stathis (GR), Tommy Hart |
-| Sun, 16 Aug 2026 | Oecus x Estro |  |
+| Sun, 16 Aug 2026 | ESTRO x OECUS Open Air  |  |
 | Sat, 19 Sept 2026 | tracey |  |
 | Fri, 25 Sept 2026 | OVERLOAD #4 |  |
 

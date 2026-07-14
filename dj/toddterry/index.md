@@ -1,8 +1,8 @@
 # Todd Terry
 
-Todd Terry is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
+Todd Terry is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
 
-Todd Terry is a house and tech house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Barcelona and Bristol and 27 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: O Beach, Ibiza on Thu 23 Jul.
+Todd Terry is a house and tech house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Bali, Barcelona and Bristol and 28 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: O Beach, Ibiza on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Todd Terry is a house and tech house artist tracked on soundcheck, with 140 sets
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | O Beach | Ibiza |
 | Fri, 31 Jul 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 31 Jul 2026 | BLITZ | Munich |
 | Fri, 21 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Paragon | New York City |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |

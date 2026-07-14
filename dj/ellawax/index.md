@@ -9,7 +9,7 @@ ELLA WAX is a techno artist based in Germany, tracked on soundcheck, with 5 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | ://about blank | Berlin |
-| Thu, 30 Jul 2026 | TBA - Berlin | Berlin |
+| Thu, 30 Jul 2026 | ://about blank | Berlin |
 | Thu, 27 Aug 2026 | ://about blank | Berlin |
 
 ## Recently played
