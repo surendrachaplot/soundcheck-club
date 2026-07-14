@@ -16,7 +16,7 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 18 upcoming ni
 | Sun, 19 Jul 2026 | Move Your Body | EMilio (2), Mila Morr |
 | Mon, 20 Jul 2026 | Memento Xs | PILAR MOLINERO |
 | Tue, 21 Jul 2026 | Plastic Night | Kanedo, Lenuam, Michael Sutton |
-| Wed, 22 Jul 2026 | Diskotek x Post Panic | Conor Brophy, Sohrab, joven |
+| Wed, 22 Jul 2026 | Diskotek x B.O.F | Conor Brophy, Sohrab, joven |
 | Thu, 23 Jul 2026 | Mad Radio Night |  |
 
 ## Address

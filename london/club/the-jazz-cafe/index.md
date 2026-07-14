@@ -13,7 +13,7 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 55 upcoming night
 | Wed, 15 Jul 2026 | Jon B. (Late Show) |  |
 | Thu, 16 Jul 2026 | Afriquoi (Full Live Band) |  |
 | Fri, 17 Jul 2026 | History of UK Pirate Radio: Heartless Crew & Friends (UK Garage Special) |  |
-| Sat, 18 Jul 2026 | Soul City: House Every Saturday Night |  |
+| Sat, 18 Jul 2026 | Soul City: House Music Every Saturday Night |  |
 | Sat, 18 Jul 2026 | HOMOELECTRIC at Jazz Cafe |  |
 | Tue, 21 Jul 2026 | Lalalar | Lalalar |
 | Thu, 23 Jul 2026 | Bushman |  |

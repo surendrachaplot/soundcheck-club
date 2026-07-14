@@ -11,7 +11,7 @@ Unit 58 is a music venue in London listed on soundcheck. 4 upcoming nights, with
 | Sat, 18 Jul 2026 | UNSTABLE HOTTIES: SUMMER LOVIN @ Unit 58 | JEVAN, Lagoon Femshayma, MOYA_ |
 | Sat, 1 Aug 2026 | PURE SERO.TONIN VOLUME II: TMSKDJ, Rabz & Rian Peters & Fayli | Fayli |
 | Fri, 14 Aug 2026 | EMPORIUM NRG - LIVE WRESTLING + RAVE |  |
-| Fri, 9 Oct 2026 | Arise festival: London edition | Hovsep, Hovsep (AM), Mori Mori, Salena, Ushko |
+| Fri, 9 Oct 2026 | Arise festival: London edition | Hovsep, Hovsep (AM), Moa Pillar, Mori Mori, Salena, Ushko |
 
 ## Address
 

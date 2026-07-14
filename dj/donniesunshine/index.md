@@ -1,8 +1,8 @@
 # Donnie Sunshine
 
-Donnie Sunshine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Donnie Sunshine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
-Donnie Sunshine is a house and techno artist tracked on soundcheck, with 68 sets logged across London, Manchester and Paris. Often billed alongside Mark-Ashley Dupé, THEMPRESS and AyChibs. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
+Donnie Sunshine is a house and techno artist tracked on soundcheck, with 69 sets logged across London, Manchester and Paris. Often billed alongside Mark-Ashley Dupé, AyChibs and THEMPRESS. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Donnie Sunshine is a house and techno artist tracked on soundcheck, with 68 sets
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Queen Elizabeth Olympic Park | London |
 | Sat, 22 Aug 2026 | Queen Elizabeth Olympic Park | London |
+| Fri, 18 Sept 2026 | Electrowerkz | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Donnie Sunshine is a house and techno artist tracked on soundcheck, with 68 sets
 
 ## Shares bills with
 
-Mark-Ashley Dupé, THEMPRESS, AyChibs
+Mark-Ashley Dupé, AyChibs, THEMPRESS
 
 *Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*

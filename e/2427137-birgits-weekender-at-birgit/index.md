@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 17 Jul, Berlin. 9 acts on the bill: Bordeaux (2), Danito, Leon Licht and Manel Cluny and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 17 Jul, Berlin. 11 acts on the bill: AWSM, Bordeaux (2), Danito and Leon Licht and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Birgits WEEKENDER on Fri 17 Jul, Berlin. 9 acts on the bill: Bordeaux (2), Danit
 
 ## Line-up
 
+- AWSM
 - Bordeaux (2)
 - Danito
 - Leon Licht
@@ -19,5 +20,6 @@ Birgits WEEKENDER on Fri 17 Jul, Berlin. 9 acts on the bill: Bordeaux (2), Danit
 - Taberia
 - Vemativ
 - bordeaux
+- derderwandert
 
 *Source: [soundcheck](https://soundcheck.club/e/2427137-birgits-weekender-at-birgit/)*

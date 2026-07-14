@@ -10,7 +10,7 @@ The Greyhound is a music venue in London listed on soundcheck. 15 upcoming night
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | That Yolk! | delirious.blanc |
 | Fri, 17 Jul 2026 | Matter - Massi NPL b2b Hostmigrate | Massi NPL |
-| Fri, 17 Jul 2026 | Club Ecology // Simon Deschamps // quasistate // with whosmeg? & arcitexture |  |
+| Fri, 17 Jul 2026 | Club Ecology // Simon Deschamps // quasistate // with arcitexture & whoismeg |  |
 | Sat, 18 Jul 2026 | RADAR 004: Sedex, Dylan James b2b turn_t | Sedex, dylan.james, turn_t |
 | Sun, 19 Jul 2026 | FREEINCARNATION - 再生 - | YUNA阿尘, twoeight |
 | Sat, 25 Jul 2026 | Galaata @The Greyhound | HashR, Hoodwink, Lewis Knights, Ohmfield, STAHS, jungli (2) |
