@@ -1,8 +1,8 @@
 # Gaffe
 
-Gaffe is a music venue in London with 15 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "In The Canopy x Step Inside @ Gaffe" on Sat, 18 Jul 2026.
+Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "In The Canopy x Step Inside @ Gaffe" on Sat, 18 Jul 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Justine Perry and Mattia Koväl and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 

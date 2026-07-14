@@ -1,8 +1,8 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+2ManyDJs is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-2ManyDJs is a house and techno artist tracked on soundcheck, with 61 sets logged across Athens, Auckland, Barcelona and Belfast and 26 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+2ManyDJs is a house and techno artist tracked on soundcheck, with 62 sets logged across Athens, Auckland, Barcelona and Belfast and 26 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sun, 30 Aug 2026 | Quarters | Brighton |
 | Thu, 3 Sept 2026 | Pacha Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

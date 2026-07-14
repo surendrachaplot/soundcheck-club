@@ -1,8 +1,8 @@
 # Dave Clarke
 
-Dave Clarke is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at District Cardiff, Cardiff on Fri, 24 Jul 2026.
+Dave Clarke is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at District Cardiff, Cardiff on Fri, 24 Jul 2026.
 
-Dave Clarke is a techno and electro artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside Sama' Abdulhadi, Bloody Mary and CESAR ALMENA. Next up: District Cardiff, Cardiff on Fri 24 Jul.
+Dave Clarke is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 33 more. Often billed alongside Sama' Abdulhadi, Bloody Mary and CESAR ALMENA. Next up: District Cardiff, Cardiff on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dave Clarke is a techno and electro artist tracked on soundcheck, with 95 sets l
 | Fri, 24 Jul 2026 | District Cardiff | Cardiff |
 | Sat, 25 Jul 2026 | Moon Club | Bristol |
 | Sun, 26 Jul 2026 | Sneaky Pete's | Edinburgh |
+| Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

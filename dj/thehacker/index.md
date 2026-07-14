@@ -1,8 +1,8 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 22 Aug 2026.
+The Hacker is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 22 Aug 2026.
 
-The Hacker is a techno and electro artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Sparta Schwimmclub, Frankfurt on Sat 22 Aug.
+The Hacker is a techno and electro artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Sparta Schwimmclub, Frankfurt on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ The Hacker is a techno and electro artist tracked on soundcheck, with 107 sets l
 | Sat, 22 Aug 2026 | Sparta Schwimmclub | Frankfurt |
 | Sun, 30 Aug 2026 | Le Sucre | Lyon |
 | Sat, 19 Sept 2026 | Razzmatazz | Barcelona |
+| Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
