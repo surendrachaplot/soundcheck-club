@@ -1,13 +1,14 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fortune Sound Club, Vancouver on Mon, 3 Aug 2026.
+Taylah Elaine is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Night Tales, London on Thu, 23 Jul 2026.
 
-Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Donnie Sunshine, Eliza Rose and Joy Orbison. Next up: Fortune Sound Club, Vancouver on Mon 3 Aug.
+Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Donnie Sunshine, Eliza Rose and Joy Orbison. Next up: Night Tales, London on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 23 Jul 2026 | Night Tales | London |
 | Mon, 3 Aug 2026 | Fortune Sound Club | Vancouver |
 | Sat, 8 Aug 2026 | Burgess Park | London |
 

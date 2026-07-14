@@ -1,8 +1,8 @@
 # Night Tales
 
-Night Tales is a music venue in London with 27 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Origins x FDTN: ADR, AZAAD, Marlie, Nu Zau, PACH & Tino  " on Fri, 17 Jul 2026.
+Night Tales is a music venue in London with 29 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Origins x FDTN: ADR, AZAAD, Marlie, Nu Zau, PACH & Tino  " on Fri, 17 Jul 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including KT, ADMNTi, ADR (UK) and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including KT, ADMNTi, ADR (UK) and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
@@ -11,13 +11,13 @@ Night Tales is a music venue in London listed on soundcheck. 27 upcoming nights,
 | Fri, 17 Jul 2026 | Origins x FDTN: ADR, AZAAD, Marlie, Nu Zau, PACH & Tino   | ADR (UK), AZAAD, Marlie, Nu Zau, PACH, Tino |
 | Fri, 17 Jul 2026 | Night Tales: FREE Tech House Party |  |
 | Sat, 18 Jul 2026 | Paraiso Disco: House, Disco, Classics |  |
+| Thu, 23 Jul 2026 | Rinse Summer Series ft. Taylah Elaine, Anastazja, Braga Circuit + more | Anastazja, Braga Circuit, LILI, Nora (UK), Taylah Elaine |
 | Fri, 24 Jul 2026 | Origins: LB aka LABAT & STÜM (All Night Long) | LB aka LABAT, STÜM |
 | Sat, 25 Jul 2026 | Ian Pooley [Extended Set] & SUCHI  | Ian Pooley, SUCHI |
 | Fri, 31 Jul 2026 | Origins: Junki Inoue, Raphael Carrau & More TBA | Junki Inoue, Raphael Carrau |
 | Fri, 31 Jul 2026 | Night Tales: FREE Party |  |
 | Sat, 1 Aug 2026 | Night Tales: Olga Korol, Per Hammar, ADMNTi | ADMNTi, Olga Korol, Per Hammar |
 | Sat, 1 Aug 2026 | Gass Club Reunion - A One Night Stand |  |
-| Sun, 2 Aug 2026 | Journeyss with Jordss - Day Party | Jordss |
 
 ## Address
 
