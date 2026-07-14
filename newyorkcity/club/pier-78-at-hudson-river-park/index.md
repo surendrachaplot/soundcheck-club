@@ -1,8 +1,8 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 67 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Colombian Independence Day Boat Party Cruise Festival" on Fri, 17 Jul 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 76 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Colombian Independence Day Boat Party Cruise Festival" on Fri, 17 Jul 2026.
 
-Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 67 upcoming nights, with line-ups including DRITTO, Jewels and Lush Tempora. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
+Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 76 upcoming nights, with line-ups including DRITTO, Jewels and Lush Tempora. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
 ## What's on
 

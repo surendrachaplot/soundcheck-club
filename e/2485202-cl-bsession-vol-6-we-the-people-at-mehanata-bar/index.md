@@ -1,6 +1,6 @@
 # CLÜBSESSION VOL.6 WE THE PEOPLE at Mehanata Bar
 
-CLÜBSESSION VOL.6 WE THE PEOPLE at Mehanata Bar on Thu 16 Jul, Newyorkcity. 6 acts on the bill: DJ Sauci Soni, FTZGRLD, MAXWELL HöUSE and MISS VEE and 2 more. Dub Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+CLÜBSESSION VOL.6 WE THE PEOPLE at Mehanata Bar on Thu 16 Jul, Newyorkcity. 7 acts on the bill: DJ Sauci Soni, FTZGRLD, HEYFAYBAE and MAXWELL HöUSE and 3 more. Dub Techno and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ CLÜBSESSION VOL.6 WE THE PEOPLE at Mehanata Bar on Thu 16 Jul, Newyorkcity. 6 a
 
 - DJ Sauci Soni
 - FTZGRLD
+- HEYFAYBAE
 - MAXWELL HöUSE
 - MISS VEE
 - ROBOTRON

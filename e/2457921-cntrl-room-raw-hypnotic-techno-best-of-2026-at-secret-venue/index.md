@@ -1,6 +1,6 @@
 # CNTRL ROOM: RAW & HYPNOTIC TECHNO • Best of 2026 at Secret Venue in Minatoku-Nishiazabu
 
-CNTRL ROOM: RAW & HYPNOTIC TECHNO • Best of 2026 at Secret Venue in Minatoku-Nishiazabu on Sat 1 Aug, Tokyo. 3 acts on the bill: Anapol, Bruce Mennel and YU-S-KE. Techno and Acid. Preview the line-up and save it on soundcheck.
+CNTRL ROOM: RAW & HYPNOTIC TECHNO • Best of 2026 at Secret Venue in Minatoku-Nishiazabu on Sat 1 Aug, Tokyo. 3 acts on the bill: Anapol, Bruce Mennel and YU-S-KE. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

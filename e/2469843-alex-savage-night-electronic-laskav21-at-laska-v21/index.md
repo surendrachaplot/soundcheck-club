@@ -1,6 +1,6 @@
 # ALEX SAVAGE / Night Electronic @LaskaV21 at Laska V21
 
-ALEX SAVAGE / Night Electronic @LaskaV21 at Laska V21 on Fri 24 Jul, Riga. 3 acts on the bill: Alex Savage, Laiva Maikule and Manav/draugu. Electro and Acid. Preview the line-up and save it on soundcheck.
+ALEX SAVAGE / Night Electronic @LaskaV21 at Laska V21 on Fri 24 Jul, Riga. 3 acts on the bill: Alex Savage, Laiva Maikule and Manav/draugu. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

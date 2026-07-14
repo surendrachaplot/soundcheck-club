@@ -1,8 +1,8 @@
 # Dj Nico
 
-Dj Nico is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 31 Jul 2026.
+Dj Nico is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 31 Jul 2026.
 
-Dj Nico is a club and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Qemist, Cquestt and Daniro. Next up: Jolene Sound Room Brooklyn, Newyorkcity on Fri 31 Jul.
+Dj Nico is a club and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Chicago, Detroit, Houston and London and 10 more. Often billed alongside Qemist, Cquestt and Daniro. Next up: Jolene Sound Room Brooklyn, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dj Nico is a club and house artist based in United States of America, tracked on
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Jolene Sound Room Brooklyn | New York City |
 | Fri, 7 Aug 2026 | The Jazz Cafe | London |
+| Sat, 8 Aug 2026 | Subterrannean | Chicago |
 | Fri, 21 Aug 2026 | The Jazz Cafe | London |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
+Joshwa is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
 
-Joshwa is a tech house and house artist tracked on soundcheck, with 76 sets logged across Boston, Chicago, Copenhagen and Denver and 24 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: [UNVRS], Ibiza on Sat 18 Jul.
+Joshwa is a tech house and house artist tracked on soundcheck, with 77 sets logged across Boston, Chicago, Copenhagen and Denver and 24 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: [UNVRS], Ibiza on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 76 sets logg
 | Sat, 15 Aug 2026 | Prysm Nightclub | Chicago |
 | Sat, 22 Aug 2026 | The Barbary | Philadelphia |
 | Fri, 28 Aug 2026 | SWG3 | Glasgow |
+| Sun, 6 Sept 2026 | Club Vinyl | Denver |
 
 ## Recently played
 
