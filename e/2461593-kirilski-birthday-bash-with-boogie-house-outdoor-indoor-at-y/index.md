@@ -1,6 +1,6 @@
 # Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR at Yellow House
 
-Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR at Yellow House on Sat 18 Jul, Amsterdam. 8 acts on the bill: DJ Crystal Bitch, Heritage Listed, Holopine and Kirilski and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR at Yellow House on Sat 18 Jul, Amsterdam. 9 acts on the bill: Becking, DJ Crystal Bitch, Heritage Listed and Holopine and 5 more. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR at Yellow House on Sa
 
 ## Line-up
 
+- Becking
 - DJ Crystal Bitch
 - Heritage Listed
 - Holopine

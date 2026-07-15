@@ -16,7 +16,7 @@ Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with l
 | Sun, 26 Jul 2026 | Love & Devotion 5 | Eric D. Clark, Haider |
 | Sun, 2 Aug 2026 | WUB, Amour Africain & Delírio present: |  |
 | Sun, 23 Aug 2026 | PRNCPTL POOL PARTY - 13 Years Anniversary |  |
-| Sat, 29 Aug 2026 | AFTER FORTUNA x Maaya |  |
+| Sat, 29 Aug 2026 | AFTER FORTUNA x Maaya | Lady Goccia, Maddest, NOVZE, Ragliaz |
 
 ## Address
 

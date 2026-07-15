@@ -1,14 +1,15 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Schwesta P is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
-Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: MS Artville, Hamburg on Sat 18 Jul.
+Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | MS Artville | Hamburg |
+| Sat, 25 Jul 2026 | Thuishaven | Amsterdam |
 | Sun, 26 Jul 2026 | Thuishaven | Amsterdam |
 | Sun, 16 Aug 2026 | BRET | Amsterdam |
 | Sun, 16 Aug 2026 | BRET | Amsterdam |
