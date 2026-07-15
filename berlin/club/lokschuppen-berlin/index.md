@@ -15,7 +15,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 52 upcoming 
 | Sat, 18 Jul 2026 | LAPSUS MATINEE |  |
 | Sun, 19 Jul 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | Danilo Filipe, La Rod's |
 | Sun, 19 Jul 2026 | Vivid V1 - daytime rave, sugar free (sober) | DJ Lolo, Krash Cora, Niklas Delhey, Wagner, XIMA, e.leptic, sterni (DE) |
-| Tue, 21 Jul 2026 | PHASE:ONE |  |
+| Tue, 21 Jul 2026 | PHASE:ONE | FRÆNCIS, LUZIA |
 | Wed, 22 Jul 2026 | SIGNALS - 5€ Tickets - with Turbotrekker3000 LIVE, 9LALEY & Turbotimos | 9LALEY |
 | Thu, 23 Jul 2026 | Chantal's House of Shame |  |
 

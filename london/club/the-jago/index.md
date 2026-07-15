@@ -12,7 +12,7 @@ The Jago is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 | Fri, 24 Jul 2026 | this is a club moto party 003 | PHIZ, Paydro, chrs apula, nomie |
 | Fri, 7 Aug 2026 | Full Clip Magazine Issue #40: Hoochinoo Live & UKHHdotcom |  |
 | Sat, 8 Aug 2026 | Novo Tempo |  |
-| Sat, 15 Aug 2026 | Miles Away with Richard Sen | Dom Ore, Richard Sen |
+| Sat, 15 Aug 2026 | Miles Away with Richard Sen, Dom Ore & Roberta Cutolo | Dom Ore, Richard Sen |
 
 ## Address
 

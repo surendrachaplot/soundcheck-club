@@ -8,7 +8,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | All My Friends - HITZEFREI | ABIBA, VV$ (DE), angelcentral, rauch |
+| Fri, 17 Jul 2026 | All My Friends - HITZEFREI | ABIBA, Levi Nix, VV$ (DE), angelcentral, rauch |
 | Sat, 18 Jul 2026 | Beate Invites /// HORN [4 Year Anniversary] | Alfalfa (2), Bruder Jakob, Cretch, Gorgeous George, HORN-E, JÄMO |
 | Fri, 24 Jul 2026 | FlowMotion Bass&Bars |  |
 | Sat, 25 Jul 2026 | Beatific: CSD | BrthrMidnyt, Bézier, DJ BONEY S, Hypnotist, Nicki Black, SXCL, zikade |

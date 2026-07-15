@@ -1,8 +1,8 @@
 # Last Arch
 
-Last Arch is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "[CANCELLED] Grounded London W/ Transparent Sound (Live)" on Fri, 17 Jul 2026.
+Last Arch is a music venue in London with 14 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "[CANCELLED] Grounded London W/ Transparent Sound (Live)" on Fri, 17 Jul 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Aaron Burr (2), Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Aaron Burr (2), Alythia Kwan, Archie Holmes and Arts of the Unknown and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 

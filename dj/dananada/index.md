@@ -1,13 +1,14 @@
 # DANA NADA
 
-DANA NADA is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gare Porto, Porto on Fri, 24 Jul 2026.
+DANA NADA is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at ÆDEN, Berlin on Wed, 15 Jul 2026.
 
-DANA NADA is a techno and psytrance artist tracked on soundcheck, with 72 sets logged across Berlin, Lisbon, Melbourne and Osaka and 4 more. Often billed alongside DANDAN, Dani Savant and Kojiro. Next up: Gare Porto, Porto on Fri 24 Jul.
+DANA NADA is a techno and psytrance artist tracked on soundcheck, with 73 sets logged across Berlin, Lisbon, Melbourne and Osaka and 4 more. Often billed alongside DANDAN, Dani Savant and Kojiro. Next up: ÆDEN, Berlin on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 15 Jul 2026 | ÆDEN | Berlin |
 | Fri, 24 Jul 2026 | Gare Porto | Porto |
 | Sat, 25 Jul 2026 | 5A | Lisbon |
 

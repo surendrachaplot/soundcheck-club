@@ -1,14 +1,15 @@
 # YËDM
 
-YËDM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 17 Jul 2026.
+YËDM is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 17 Jul 2026.
 
-YËDM is a techno and trance artist tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside Amøn, Cobb Douglas and Shemm. Next up: Lokschuppen Berlin, Berlin on Fri 17 Jul.
+YËDM is a techno and trance artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside Amøn, Cobb Douglas and Shemm. Next up: Lokschuppen Berlin, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 17 Jul 2026 | TBA - Ostkreuz | Berlin |
 | Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

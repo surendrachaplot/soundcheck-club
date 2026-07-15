@@ -1,8 +1,8 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Carpet Shop, London on Fri, 31 Jul 2026.
+Bobby. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Carpet Shop, London on Fri, 31 Jul 2026.
 
-Bobby. is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 29 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: The Carpet Shop, London on Fri 31 Jul.
+Bobby. is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 29 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: The Carpet Shop, London on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bobby. is a techno and house artist tracked on soundcheck, with 134 sets logged 
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | The Carpet Shop | London |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 3 Oct 2026 | Club Cheek | London |
 
 ## Recently played
 

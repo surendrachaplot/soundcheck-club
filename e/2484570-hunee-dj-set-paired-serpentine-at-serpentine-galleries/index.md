@@ -1,6 +1,6 @@
-# Hunee - DJ Set - {PAIRED} Serpentine at Serpentine Galleries
+# HUNEE - DJ Set - {PAIRED} Serpentine at Serpentine Galleries
 
-Hunee - DJ Set - {PAIRED} Serpentine at Serpentine Galleries on Sat 15 Aug, London. 1 act on the bill: Hunee. Preview the line-up and save it on soundcheck.
+HUNEE - DJ Set - {PAIRED} Serpentine at Serpentine Galleries on Sat 15 Aug, London. 1 act on the bill: Hunee. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Fliss Mayo
 
-Fliss Mayo is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Secret Location, London on Fri, 31 Jul 2026.
+Fliss Mayo is a Garage and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Glove That Fits, London on Fri, 24 Jul 2026.
 
-Fliss Mayo is a garage and techno artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 11 more. Often billed alongside Dr Dubplate, Bakey and Soul Mass Transit System. Next up: Secret Location, London on Fri 31 Jul.
+Fliss Mayo is a garage and techno artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 11 more. Often billed alongside Dr Dubplate, Bakey and Soul Mass Transit System. Next up: The Glove That Fits, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | The Glove That Fits | London |
 | Fri, 31 Jul 2026 | Secret Location | London |
 | Sat, 12 Sept 2026 | The Cause | London |
 

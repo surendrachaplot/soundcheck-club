@@ -1,13 +1,14 @@
 # Reelow
 
-Reelow is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 24 Jul 2026.
+Reelow is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gallery, London on Thu, 23 Jul 2026.
 
-Reelow is a tech house and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: Sunseabar Beach Club, Barcelona on Fri 24 Jul.
+Reelow is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: Gallery, London on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 23 Jul 2026 | Gallery | London |
 | Fri, 24 Jul 2026 | Sunseabar Beach Club | Barcelona |
 | Thu, 6 Aug 2026 | La Terrrazza | Barcelona |
 | Thu, 3 Sept 2026 | 528 Ibiza | Ibiza |

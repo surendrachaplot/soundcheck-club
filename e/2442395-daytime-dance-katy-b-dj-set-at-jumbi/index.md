@@ -1,6 +1,6 @@
 # Daytime Dance: Katy B (DJ Set) at Jumbi
 
-Daytime Dance: Katy B (DJ Set) at Jumbi on Sat 1 Aug, London. 1 act on the bill: Katy B. Preview the line-up and save it on soundcheck.
+Daytime Dance: Katy B (DJ Set) at Jumbi on Sat 1 Aug, London. 4 acts on the bill: Jumping Jack Frost, Katy B, Lady Passion and Lily London. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Daytime Dance: Katy B (DJ Set) at Jumbi on Sat 1 Aug, London. 1 act on the bill:
 
 ## Line-up
 
+- Jumping Jack Frost
 - Katy B
+- Lady Passion
+- Lily London
 
 *Source: [soundcheck](https://soundcheck.club/e/2442395-daytime-dance-katy-b-dj-set-at-jumbi/)*

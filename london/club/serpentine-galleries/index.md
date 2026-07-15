@@ -9,7 +9,7 @@ Serpentine Galleries is a music venue in London listed on soundcheck. 2 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Richie Hawtin - DJ Set - {PAIRED} Serpentine | Richie Hawtin |
-| Sat, 15 Aug 2026 | Hunee - DJ Set - {PAIRED} Serpentine | Hunee |
+| Sat, 15 Aug 2026 | HUNEE - DJ Set - {PAIRED} Serpentine | Hunee |
 
 ## Address
 

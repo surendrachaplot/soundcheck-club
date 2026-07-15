@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Night Service: Day Edition w/ Ryan Elliott, Ty Naug & 2 boots (FOLD, Steam Room)" on Sat, 18 Jul 2026.
+FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Night Service: Day Edition w/ Ryan Elliott (4 hour set), Ty Naug & 2 boots (FOLD, Steam Room)" on Sat, 18 Jul 2026.
 
 FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 2 boots, Alarico, Alba Heidari and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -8,7 +8,7 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Night Service: Day Edition w/ Ryan Elliott, Ty Naug & 2 boots (FOLD, Steam Room) | 2 boots, Paige (Night Service), Ryan Elliott, Ty Naug |
+| Sat, 18 Jul 2026 | Night Service: Day Edition w/ Ryan Elliott (4 hour set), Ty Naug & 2 boots (FOLD, Steam Room) | 2 boots, Paige (Night Service), Ryan Elliott, Ty Naug |
 | Sat, 18 Jul 2026 | FJAAK - FOLD | FJAAK, S Ruston |
 | Sun, 19 Jul 2026 | UNFOLD CXXVII |  |
 | Sat, 25 Jul 2026 | Origins: MARRØN, Prance & Gloria Rose | Gloria Rose, MARRØN, Prance |

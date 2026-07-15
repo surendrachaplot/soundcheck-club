@@ -2,7 +2,7 @@
 
 Ritter Butzke is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "KOLLEGIAL pres. by BSTHP - free entry until 9PM" on Fri, 17 Jul 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaron Suiss, Alma Negrot, BEC and Blossmbae and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaron Suiss, Alma Negrot, BEC and Ben Mono and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming night
 | Fri, 17 Jul 2026 | KOLLEGIAL pres. by BSTHP - free entry until 9PM | Bombata, Cyrus, David Bucka, LIZZN, Pardis, Peet Flower, justUS |
 | Sat, 18 Jul 2026 | Format:B (Open Air) - free entry until 7pm | C'mon, Dydaa Forne, Format B, MINJA |
 | Sat, 18 Jul 2026 | Enamour | Calypsis, Enamour |
-| Sun, 19 Jul 2026 | Alison Wonderland (Daytime Event) |  |
+| Sun, 19 Jul 2026 | Alison Wonderland (Daytime Event) | Ben Mono |
 | Fri, 24 Jul 2026 | SMUDGE Berlin - Flinta* Pride Opening | CHIEF QUEEF, DJ Eivissa, FRZNTE, Nissa Carrington, Slimgirl fat, yung_womb |
 | Sat, 25 Jul 2026 | House of Pride - Official Berlin Pride Main Party | Alma Negrot, BEC, Butchqueen.fm, DJ SEXSTASY, Darwin Stapel, EMI (6), Francis, GIO THELLO, KRISHAWN, Katy Bähm, LOVRA, Litney, Lixi, Nikita, Prismode, SCHAARUP, Solvane, VRTL, futurristic, hi.gay, mandhla |
 | Sat, 1 Aug 2026 | Super Flu (Open Air) - free entry until 7pm | Aaron Suiss, MUKKIMIAU, Max Joni, Super Flu |
