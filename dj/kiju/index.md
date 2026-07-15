@@ -1,14 +1,14 @@
 # Kiju
 
-Kiju is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Montreal on Sat, 18 Jul 2026.
+Kiju is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Récré, Montreal on Sat, 18 Jul 2026.
 
-Kiju is a techno and house artist tracked on soundcheck, with 56 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Evita, coldchainlogistics and esme (US). Next up: TBA, Montreal on Sat 18 Jul.
+Kiju is a techno and house artist tracked on soundcheck, with 56 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Evita, coldchainlogistics and esme (US). Next up: La Récré, Montreal on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA | Montreal |
+| Sat, 18 Jul 2026 | La Récré | Montreal |
 | Sat, 8 Aug 2026 | Société des arts technologiques | Montreal |
 | Sat, 5 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 

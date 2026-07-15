@@ -1,13 +1,15 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "EPiKA DJ Workshop - Sara Delirio - Absolute Beginners (Femme)" on Tue, 4 Aug 2026.
+Paradise Palms is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "discjocelyne" on Fri, 17 Jul 2026.
 
-Paradise Palms is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Sara Delirio. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
+Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including David Elders, discjocelyne and Sara Delirio. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | discjocelyne | discjocelyne |
+| Sat, 18 Jul 2026 | We Come To Dance | David Elders |
 | Tue, 4 Aug 2026 | EPiKA DJ Workshop - Sara Delirio - Absolute Beginners (Femme) | Sara Delirio |
 
 ## Address

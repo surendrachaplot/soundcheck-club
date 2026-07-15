@@ -1,13 +1,14 @@
 # Moopie
 
-Moopie is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Else, Berlin on Sun, 2 Aug 2026.
+Moopie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Coil, Melbourne on Sat, 18 Jul 2026.
 
-Moopie is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Lena Willikens. Next up: Else, Berlin on Sun 2 Aug.
+Moopie is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Lena Willikens. Next up: Coil, Melbourne on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Coil | Melbourne |
 | Sun, 2 Aug 2026 | Else | Berlin |
 | Fri, 7 Aug 2026 | The Love Inn | Bristol |
 | Fri, 21 Aug 2026 | Bassiani | Tbilisi |

@@ -1,14 +1,15 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Ivan Smagghe is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: TBA - Secret Location, London on Fri 17 Jul.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | TBA - Secret Location | London |
+| Fri, 31 Jul 2026 | Silencio | Paris |
 | Sat, 1 Aug 2026 | Islington Assembly Hall | London |
 | Fri, 14 Aug 2026 | Signal | New York City |
 | Sat, 12 Sept 2026 | The Cause | London |

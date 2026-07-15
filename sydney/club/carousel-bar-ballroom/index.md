@@ -12,8 +12,8 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcom
 | Sat, 25 Jul 2026 | ★ S.A.S.H Sydney x Refuge 12th Bday ★ Saturday 25th July ★ | CA LOU, Oscar de Lima, Said Dami |
 | Sat, 1 Aug 2026 | ★ S.A.S.H Sydney ★ Kerry Wallace ★ Saturday 1st August ★ | Kerry Wallace, Pistaccio |
 | Sat, 8 Aug 2026 | ★ S.A.S.H Sydney x Marley Sherman ★ Saturday 8th August ★ |  |
-| Sat, 15 Aug 2026 | ★ S.A.S.H Sydney ★ Saturday 15th August ★ |  |
-| Sat, 22 Aug 2026 | ★ S.A.S.H Sydney ★ Saturday 22nd August ★ |  |
+| Sat, 15 Aug 2026 | ★ S.A.S.H Sydney x Eat The Beat ★ Lili Joy ★ Saturday 15th August ★ |  |
+| Sat, 22 Aug 2026 | ★ S.A.S.H Sydney x By Your Side ★ D'Julz ★ Saturday 22nd August ★ |  |
 | Sat, 29 Aug 2026 | ★ S.A.S.H Sydney ★ Saturday 29th August ★ |  |
 
 ## Address

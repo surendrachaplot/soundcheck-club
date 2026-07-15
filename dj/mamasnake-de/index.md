@@ -1,8 +1,8 @@
 # Mama Snake
 
-Mama Snake is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at fi, Cologne on Sat, 18 Jul 2026.
+Mama Snake is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at fi, Cologne on Sat, 18 Jul 2026.
 
-Mama Snake is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: fi, Cologne on Sat 18 Jul.
+Mama Snake is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: fi, Cologne on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mama Snake is a techno and house artist tracked on soundcheck, with 189 sets log
 | Sat, 18 Jul 2026 | fi | Cologne |
 | Thu, 23 Jul 2026 | OHM | Berlin |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
+| Fri, 24 Jul 2026 | Funke | Ghent |
 | Fri, 31 Jul 2026 | Kilomètre25 | Paris |
 | Fri, 21 Aug 2026 | Den Anden Side | Copenhagen |
 

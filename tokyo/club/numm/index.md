@@ -11,7 +11,7 @@ Numm is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with li
 | Wed, 15 Jul 2026 | CPCD | NOONI NOBU |
 | Thu, 16 Jul 2026 | Area Deep '13th anniversary party' |  |
 | Fri, 17 Jul 2026 | REWIND |  |
-| Fri, 17 Jul 2026 | minimal dancing |  |
+| Fri, 17 Jul 2026 | THE HOUSE SEESION | Teruu |
 | Sat, 18 Jul 2026 | Parallel | 3rill |
 | Sun, 19 Jul 2026 | SUNDAY DISCO SESSION 日曜日が待ち遠しい！ |  |
 | Mon, 20 Jul 2026 | CRITERIA | KUNPEI |

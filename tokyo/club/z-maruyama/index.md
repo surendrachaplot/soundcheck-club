@@ -1,8 +1,8 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sensualism" on Fri, 17 Jul 2026.
+Z Maruyama is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sensualism" on Fri, 17 Jul 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including ASSIGN, CATRONICA, Funky Gong and JUNKO ONAGI and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including ASSIGN, ATAMI, CATRONICA and Funky Gong and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
@@ -12,11 +12,12 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, wi
 | Sat, 18 Jul 2026 | Rezonance | ASSIGN, Maozon, Velocity, kens:k |
 | Sat, 18 Jul 2026 | SYNTH | JUNKO ONAGI, Rickey Shannon, YOSHI KANOU |
 | Sun, 19 Jul 2026 | OMERTÀ SUPPORTED BY ADS | PONTA, WATARU |
+| Thu, 23 Jul 2026 | INFUSE_INTO | YOXIKI |
 | Fri, 24 Jul 2026 | The Odyssey -the house music experience- | Toshiyuki Goto |
 | Sat, 25 Jul 2026 | NEXUS PRESENTS PALMERA |  |
 | Sun, 26 Jul 2026 | MAX MOTION Fusion of Techno & Trance | CATRONICA, Funky Gong |
+| Thu, 30 Jul 2026 | INTERMIX | ATAMI, NIKI (JP), YOXIKI |
 | Sat, 1 Aug 2026 | Ken Ishii - BRIDGE vol.3 supported by CLUB PORT | Ken Ishii, Kijta, MOOTOE, WAKA XINXI, uuu7 |
-| Sat, 1 Aug 2026 | HOUSE SESSION | Yamariki |
 
 ## Address
 

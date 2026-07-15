@@ -1,8 +1,8 @@
 # CHISE
 
-CHISE is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Area_osaka, Osaka on Wed, 15 Jul 2026.
+CHISE is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Area_osaka, Osaka on Wed, 15 Jul 2026.
 
-CHISE is a techno and bass artist tracked on soundcheck, with 69 sets logged across Osaka and Tokyo. Often billed alongside TERU, yu-more and Will A. Next up: Area_osaka, Osaka on Wed 15 Jul.
+CHISE is a techno and bass artist tracked on soundcheck, with 70 sets logged across Osaka and Tokyo. Often billed alongside TERU, yu-more and Will A. Next up: Area_osaka, Osaka on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ CHISE is a techno and bass artist tracked on soundcheck, with 69 sets logged acr
 | Wed, 15 Jul 2026 | Area_osaka | Osaka |
 | Fri, 24 Jul 2026 | Area_osaka | Osaka |
 | Fri, 31 Jul 2026 | Teranoma Tidepool | Osaka |
+| Sat, 8 Aug 2026 | flo Soakin | Osaka |
 
 ## Recently played
 

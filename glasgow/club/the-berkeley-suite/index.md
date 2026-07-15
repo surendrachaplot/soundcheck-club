@@ -10,7 +10,7 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 22 upcoming
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Rendezvous |  |
 | Sat, 18 Jul 2026 | Shoot Your Shot - PRIDE // Melanie Havens (5AM LICENSE) | Bonzai Bonner, Katiee.eem, Melanie Havens |
-| Sun, 19 Jul 2026 | Shoot Your Shot - PRIDE // Josh Caffé | Josh Caffé, LEZZER QUEST |
+| Sun, 19 Jul 2026 | Shoot Your Shot - PRIDE // SECRET GUEST | Josh Caffé, LEZZER QUEST |
 | Fri, 24 Jul 2026 | STRANGE NIGHTS 002 |  |
 | Sat, 25 Jul 2026 | A NIGHT OF ITALO DISCO | Bonzai Bonner |
 | Fri, 31 Jul 2026 | Céleste W/ ALWAYS 8:15 | ALWAYS 8:15, Céleste |

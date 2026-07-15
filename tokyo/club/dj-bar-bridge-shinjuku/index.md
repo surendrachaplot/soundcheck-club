@@ -16,7 +16,7 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 33 upcomi
 | Mon, 20 Jul 2026 | PRIMAL DUB, Diceman & GIE | Diceman |
 | Tue, 21 Jul 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
 | Wed, 22 Jul 2026 | OG Militant B -ALL NIGHT LONG- (7hours) | OG Militant B |
-| Thu, 23 Jul 2026 | DJ KIYOSHI & T.B.Brothers |  |
+| Thu, 23 Jul 2026 | KIYOSHI & T.B.Brothers |  |
 | Fri, 24 Jul 2026 | dj yumi-cco, DaBook & Chii☆ | dj yumi-cco |
 
 ## Address

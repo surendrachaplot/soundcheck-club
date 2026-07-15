@@ -1,6 +1,6 @@
 # Alien Disko x CandyFlip: Sin & Brook (Extended Set) at The Mash House
 
-Alien Disko x CandyFlip: Sin & Brook (Extended Set) at The Mash House on Fri 31 Jul, Edinburgh. 4 acts on the bill: FOLIE (UK), Lara Sinclair, Rodent and SOLECTA. Bass and Garage. Preview the line-up and save it on soundcheck.
+Alien Disko x CandyFlip: Sin & Brook (Extended Set) at The Mash House on Fri 31 Jul, Edinburgh. 5 acts on the bill: FOLIE (UK), ITEM9, Lara Sinclair and Rodent and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Alien Disko x CandyFlip: Sin & Brook (Extended Set) at The Mash House on Fri 31 
 ## Line-up
 
 - FOLIE (UK)
+- ITEM9
 - Lara Sinclair
 - Rodent
 - SOLECTA

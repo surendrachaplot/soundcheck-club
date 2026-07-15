@@ -1,14 +1,15 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
+Dosem is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Old Royal Naval College, London on Sun, 9 Aug 2026.
 
-Dosem is a progressive house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Old Royal Naval College, London on Sun 9 Aug.
+Dosem is a progressive house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Old Royal Naval College, London on Sun 9 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 9 Aug 2026 | Old Royal Naval College | London |
+| Sat, 22 Aug 2026 | Guíxols Arena | Barcelona |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played

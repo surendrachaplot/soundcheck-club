@@ -1,8 +1,8 @@
 # suki
 
-suki is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 17 Jul 2026.
+suki is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 17 Jul 2026.
 
-suki is a techno and progressive house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: Angel Music Bar, Melbourne on Fri 17 Jul.
+suki is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Copenhagen and Hobart and 14 more. Often billed alongside Mabel, Hannah D and Lex. Next up: Angel Music Bar, Melbourne on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ suki is a techno and progressive house artist tracked on soundcheck, with 62 set
 | Fri, 17 Jul 2026 | Angel Music Bar | Melbourne |
 | Sat, 18 Jul 2026 | Z-Bau | Nürnberg |
 | Fri, 24 Jul 2026 | Bevs | Hobart |
+| Sat, 25 Jul 2026 | TBA | Sydney |
 
 ## Recently played
 

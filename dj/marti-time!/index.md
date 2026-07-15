@@ -1,8 +1,8 @@
 # Marti-Time!
 
-Marti-Time! is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Mash House, Edinburgh on Sat, 18 Jul 2026.
+Marti-Time! is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Mash House, Edinburgh on Sat, 18 Jul 2026.
 
-Marti-Time! is a house and acid artist tracked on soundcheck, with 23 sets logged across Edinburgh. Often billed alongside Main Ingredient, Chris Astrojazz and DJ Shannon. Next up: The Mash House, Edinburgh on Sat 18 Jul.
+Marti-Time! is a house and acid artist tracked on soundcheck, with 24 sets logged across Edinburgh. Often billed alongside Main Ingredient, Chris Astrojazz and DJ Shannon. Next up: The Mash House, Edinburgh on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Marti-Time! is a house and acid artist tracked on soundcheck, with 23 sets logge
 | Sat, 18 Jul 2026 | The Mash House | Edinburgh |
 | Sat, 25 Jul 2026 | People's Leisure Club | Edinburgh |
 | Sat, 1 Aug 2026 | People's Leisure Club | Edinburgh |
+| Sat, 22 Aug 2026 | Uplands Roast | Edinburgh |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 33 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Borley Room: Jordan George" on Wed, 15 Jul 2026.
+Sneaky Pete's is a music venue in Edinburgh with 40 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Borley Room: Jordan George" on Wed, 15 Jul 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming nights, with line-ups including Alexis Taylor, al gu, ANNX and Auramatic and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 40 upcoming nights, with line-ups including Alexis Taylor, al gu, amhailt.xox and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

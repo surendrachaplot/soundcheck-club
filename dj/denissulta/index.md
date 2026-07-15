@@ -1,13 +1,14 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Savaya Bali, Bali on Sun, 2 Aug 2026.
+Denis Sulta is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at RASA, Singapore on Sat, 1 Aug 2026.
 
-Denis Sulta is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 48 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stussy. Next up: Savaya Bali, Bali on Sun 2 Aug.
+Denis Sulta is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stussy. Next up: RASA, Singapore on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 1 Aug 2026 | RASA | Singapore |
 | Sun, 2 Aug 2026 | Savaya Bali | Bali |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 14 Aug 2026 | Custom House Square | Belfast |

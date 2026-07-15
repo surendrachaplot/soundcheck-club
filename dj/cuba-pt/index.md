@@ -1,8 +1,8 @@
 # Cuba (PT)
 
-Cuba (PT) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - RIVAGE ALGÉS, Lisbon on Fri, 17 Jul 2026.
+Cuba (PT) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - RIVAGE ALGÉS, Lisbon on Fri, 17 Jul 2026.
 
-Cuba (PT) is a house and techno artist tracked on soundcheck, with 50 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: TBA - RIVAGE ALGÉS, Lisbon on Fri 17 Jul.
+Cuba (PT) is a house and techno artist tracked on soundcheck, with 51 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: TBA - RIVAGE ALGÉS, Lisbon on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cuba (PT) is a house and techno artist tracked on soundcheck, with 50 sets logge
 | Fri, 17 Jul 2026 | TBA - RIVAGE ALGÉS | Lisbon |
 | Fri, 24 Jul 2026 | Plano B | Porto |
 | Sat, 15 Aug 2026 | Tapada da Ajuda | Lisbon |
+| Sat, 29 Aug 2026 | Quinta do Miratejo | Lisbon |
 | Sat, 5 Sept 2026 | Escala25 | Lisbon |
 
 ## Recently played

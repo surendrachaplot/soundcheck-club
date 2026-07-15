@@ -1,8 +1,8 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 11 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
+Alix Perez is a Drum & Bass and Bass artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Freight Island, Manchester on Sun, 2 Aug 2026.
 
-Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 55 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Freight Island, Manchester on Sun 2 Aug.
+Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Freight Island, Manchester on Sun 2 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 55 sets 
 | Wed, 19 Aug 2026 | A38 | Budapest |
 | Wed, 19 Aug 2026 | A38 | Budapest |
 | Fri, 21 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 28 Aug 2026 | Club Colette | Birmingham |
 | Sat, 29 Aug 2026 | Nordstern | Basel |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 4 Sept 2026 | HERE | London |

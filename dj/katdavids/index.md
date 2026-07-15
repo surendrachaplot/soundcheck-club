@@ -1,14 +1,15 @@
 # Kat Davids
 
-Kat Davids is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at gART.n, Berlin on Sat, 18 Jul 2026.
+Kat Davids is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at gART.n, Berlin on Sat, 18 Jul 2026.
 
-Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: gART.n, Berlin on Sat 18 Jul.
+Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: gART.n, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | gART.n | Berlin |
+| Thu, 6 Aug 2026 | OYE Kreuzkoelln | Berlin |
 | Sat, 8 Aug 2026 | Renate | Berlin |
 
 ## Recently played

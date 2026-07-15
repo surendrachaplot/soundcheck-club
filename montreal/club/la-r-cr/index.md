@@ -1,13 +1,14 @@
 # La Récré
 
-La Récré is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Eklek Sound • 2 Years Anniversary" on Sat, 25 Jul 2026.
+La Récré is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "U-TURN x moodswings" on Sat, 18 Jul 2026.
 
-La Récré is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including DEEPY, Headroom (2), IIITHRIII and Miette and 2 more. Browse upcoming dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
+La Récré is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including CMD, DEEPY, Emil Paquin and esme (US) and 2 more. Browse upcoming dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | U-TURN x moodswings | CMD, Emil Paquin, Kiju, Raef (US), esme (US), somebody3lse |
 | Sat, 25 Jul 2026 | Eklek Sound • 2 Years Anniversary | DEEPY, Headroom (2), Miette, Orion, Shango, Shango., Sloppy, Urubu (1), Yunam |
 | Fri, 7 Aug 2026 | Montreal UK Garage Takeover | IIITHRIII |
 

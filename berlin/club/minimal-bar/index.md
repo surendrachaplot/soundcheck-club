@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 46 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "U10247: electric sunshine acid (feat maniac&me and Roy Mansur) !FREE ENTRY" on Wed, 15 Jul 2026.
+Minimal Bar is a music venue in Berlin with 52 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "U10247: electric sunshine acid (feat maniac&me and Roy Mansur) !FREE ENTRY" on Wed, 15 Jul 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 46 upcoming nights, with line-ups including Beta Basti, CEEE, Chroma and Clarence and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 52 upcoming nights, with line-ups including Beta Basti, CEEE, Chroma and Clarence and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

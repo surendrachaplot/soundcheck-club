@@ -1,6 +1,6 @@
 # Altern 8 b2b Slipmatt [Prodigy & Carl Cox Afterparty] at Wigwam
 
-Altern 8 b2b Slipmatt [Prodigy & Carl Cox Afterparty] at Wigwam on Thu 20 Aug, Dublin. 2 acts on the bill: Altern-8 and Slipmatt. Hardcore and Acid. Preview the line-up and save it on soundcheck.
+Altern 8 b2b Slipmatt [Prodigy & Carl Cox Afterparty] at Wigwam on Thu 20 Aug, Dublin. 2 acts on the bill: Altern-8 and Slipmatt. Acid and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

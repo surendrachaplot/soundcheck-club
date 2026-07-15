@@ -1,8 +1,8 @@
-# TBA - Sliema Ferries- Faith Boat
+# TBA -  Sliema Ferries - Faith Boat
 
-TBA - Sliema Ferries- Faith Boat is a music venue in Malta with 46 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Boat Party in Malta - Summerlove" on Wed, 15 Jul 2026.
+TBA -  Sliema Ferries - Faith Boat is a music venue in Malta with 46 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Boat Party in Malta - Summerlove" on Wed, 15 Jul 2026.
 
-TBA - Sliema Ferries- Faith Boat is a music venue in Malta listed on soundcheck. 46 upcoming nights. Browse upcoming dates, start times and who's playing.
+TBA -  Sliema Ferries - Faith Boat is a music venue in Malta listed on soundcheck. 46 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

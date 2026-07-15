@@ -1,14 +1,15 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "The Nexus (Melbourne)" on Fri, 31 Jul 2026.
+Sub Club Melbourne is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "The Nexus (Melbourne)" on Fri, 31 Jul 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Ekko and Flowidus. Browse upcoming dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Ekko, Flowidus and Tarkno. Browse upcoming dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | The Nexus (Melbourne) | Ekko, Flowidus |
+| Sat, 8 Aug 2026 | Charades presents Tarkno [3 Hour Set] | Tarkno |
 
 ## Address
 

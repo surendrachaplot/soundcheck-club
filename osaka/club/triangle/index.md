@@ -1,8 +1,8 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "TUFF SOUND" on Fri, 17 Jul 2026.
+Triangle is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "TUFF SOUND" on Fri, 17 Jul 2026.
 
-Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including _goodbyeforever_, FUJI TRILL, kakepon and matres and 2 more. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
+Triangle is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including _goodbyeforever_, FUJI TRILL, into and kakepon and 2 more. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with
 | Sun, 19 Jul 2026 | Far = Reaching |  |
 | Wed, 29 Jul 2026 | Rising Dragon Gate vol.2 | ya!ya? |
 | Wed, 5 Aug 2026 | BOX |  |
+| Wed, 12 Aug 2026 | RUN DA BASS | into, kakepon |
 
 ## Address
 

@@ -9,7 +9,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 7 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Disorder: Bongo Closing Party [JUNGLE & DRUM & BASS] | Harry Jackson, Pollyanna, Rodent, billybawbags |
-| Sat, 18 Jul 2026 | Bongo Closing Party: Hammer (Remmah / Italo Hits) ⥊ Lobos ⥊ Leonidas & Hobbes ⥊ Club_Nacht | Hammer, Hobbes, Leonidas, Lobos, Plastic GRN |
+| Sat, 18 Jul 2026 | Bongo Closing Party: Hammer ⥊ Lobos ⥊ Leonidas & Hobbes ⥊ Club_Nacht ⥊ HM [4am Confirmed] | Hammer, Hobbes, Leonidas, Lobos, Plastic GRN |
 | Fri, 4 Sept 2026 | ☻ Bongo Reopening Rave ☻ ᴏᴠᴇʀɢʀᴏᴜɴᴅ ☻ |  |
 | Sat, 5 Sept 2026 | Pulse: Surgeon | Darrell Pulse, Sean Laird, Surgeon |
 | Tue, 15 Sept 2026 | REDEMPTION // Freshers Takeover at Bongo Club |  |

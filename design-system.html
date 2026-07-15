@@ -13,13 +13,17 @@
      ════════════════════════════════════════════════════════════════ */
   *,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
   :root {
-    --bg:#0f0f12; --surface:#1b1b20; --fg:#f3ece6; --muted:#9292a0;
-    --accent:#ff7a6b; --border:#28282f;
-    --ink:#1a0f0e; --accent-ink:#1a0f0e;          /* text on salmon */
-    --head:"Bricolage Grotesque",sans-serif; --body:"Bricolage Grotesque",sans-serif;  /* one family — Bricolage everywhere */
-    --line:#28282f;  /* alias of --border, used by app component CSS */
+    /* verbatim from the product :root — SUNSET·CRT (DS v2) */
+    --bg:#16102a; --surface:#211840; --surface-2:#241a48; --surface-3:#2a2050;
+    --fg:#fdf3ec; --muted:#b8a8d0; --faint:#8d7fa8;
+    --accent:#ff9a3d; --accent-weak:rgba(255,154,61,0.15); --border:#2a2050; --line:#2a2050; --line-2:#3a2f66; --ink:#2a0d14; --accent-ink:#2a0d14;
+    --accent-grad:linear-gradient(135deg, #ff5e7e 0%, #ff9a3d 100%);   /* sunset — pink into orange */
+    --sel:#7c5cff; --sel-weak:rgba(124,92,255,0.16); --sel-ink:#fff; --sel-text:#a78bfa;   /* selected = violet */
+    --radius-2xs:2px; --radius-xs:3px; --radius-sm:3px; --radius:4px; --radius-md:5px; --radius-lg:6px; --radius-xl:8px; --radius-pill:999px;
+    --head:"Bricolage Grotesque",sans-serif; --body:"Inter","Bricolage Grotesque",sans-serif; --font-mono:ui-monospace,"SFMono-Regular",Menlo,monospace;
     --fs-xs:0.72rem; --fs-sm:0.8rem; --fs-base:0.9rem; --fs-md:1.05rem; --fs-lg:1.4rem; --fs-xl:1.7rem; --fs-2xl:2rem;
     --icon-xs:12px; --icon-sm:16px; --icon-md:20px; --icon-lg:24px;
+    --sp-1:4px; --sp-2:8px; --sp-3:12px; --sp-4:16px; --sp-5:20px; --sp-6:24px; --sp-8:32px; --sp-10:40px;
   }
   html { color-scheme:dark; scroll-behavior:smooth; }
   body { background:var(--bg); color:var(--fg); font-family:var(--body); font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
@@ -99,7 +103,7 @@
   .play { width:48px; height:23px; padding:0; border-radius:999px; display:inline-flex; align-items:center; justify-content:center; gap:6px; font-size:8px; border:1px solid; cursor:pointer; background:transparent; }
   .play .brand { width:13px; height:13px; display:block; }
   .play .state { font-size:9px; line-height:1; }
-  .play.sc { color:#ff7a6b; border-color:var(--muted); }
+  .play.sc { color:#ff9a3d; border-color:var(--muted); }
   .play.yt { color:var(--fg); border-color:var(--muted); }
   .play.playing.sc { background:var(--accent); color:var(--accent-ink); }
   .play.playing.yt { background:var(--fg); color:var(--bg); }
@@ -116,7 +120,7 @@
   /* event card */
   .gcard { display:flex; flex-direction:column; min-width:0; width:230px; }
   .poster { position:relative; width:100%; aspect-ratio:3/4; border-radius:10px; overflow:hidden; background:var(--surface); margin-bottom:13px; }
-  .poster .gen { position:absolute; inset:0; display:flex; align-items:flex-end; padding:12px; background:linear-gradient(var(--ang,150deg), var(--g1,#ff7a6b), var(--g2,#1b1b20)); }
+  .poster .gen { position:absolute; inset:0; display:flex; align-items:flex-end; padding:12px; background:linear-gradient(var(--ang,150deg), var(--g1,#ff9a3d), var(--g2,#1b1b20)); }
   .poster .gen .gt { font-family:var(--head); font-weight:800; font-size:0.92rem; line-height:1.05; letter-spacing:-0.01em; color:#fff; text-shadow:0 1px 10px rgba(0,0,0,0.4); }
   .poster .tint { position:absolute; inset:0; background:var(--accent); mix-blend-mode:screen; opacity:0.1; pointer-events:none; }
   .gcard h3 { font-family:var(--head); font-size:1.05rem; font-weight:700; letter-spacing:-0.015em; line-height:1.15; }
@@ -136,7 +140,7 @@
   .ptile .nm { font-family:var(--head); font-weight:700; font-size:0.72rem; line-height:1.05; color:#fff; text-shadow:0 1px 8px rgba(0,0,0,0.55); position:relative; z-index:2; text-align:left; }
   .ptile .sd { position:absolute; top:6px; right:6px; width:17px; height:17px; border-radius:999px; background:var(--accent); color:var(--ink); display:flex; align-items:center; justify-content:center; font-size:9px; z-index:3; }
 
-  /* rails — horizontal image strips (artist / event / venue); a salmon play pill on each */
+  /* rails — horizontal image strips (artist / event / venue); a sunset play pill on each */
   .srail { display:flex; gap:14px; overflow-x:auto; padding:2px 2px 12px; }
   .srail-wrap { flex-wrap:wrap; }
   .srail-art { flex:none; width:98px; }
@@ -266,7 +270,7 @@
   <!-- ── side nav ── -->
   <aside class="ds-nav">
     <div class="ds-brand">SOUND<span class="ac">CHECK</span></div>
-    <div class="ds-sub">Design System v1</div>
+    <div class="ds-sub">Design System v2</div>
     <div class="ds-grp">Foundations</div>
     <a href="#brand">Brand &amp; voice</a>
     <a href="#color">Color</a>
@@ -302,29 +306,29 @@
   <main class="ds-main">
     <div class="ds-hero">
       <h1>Sound<span class="ac">check</span> design system</h1>
-      <p>The visual language of soundcheck — London's nightlife discovery + diary, on the way to a Goodreads/Letterboxd for clubbing. Every token and component below is drawn from the live product, not invented. One rule above all: <b>dark room, one salmon spotlight.</b></p>
+      <p>The visual language of soundcheck — London's nightlife discovery + diary, on the way to a Goodreads/Letterboxd for clubbing. Every token and component below is drawn from the live product, not invented. One rule above all: <b>dark room, one sunset spotlight.</b></p>
     </div>
 
     <!-- ═══ BRAND ═══ -->
     <section class="ds-sec" id="brand">
       <div class="ds-eyebrow">Foundations</div>
       <h2>Brand &amp; voice</h2>
-      <p class="ds-p">soundcheck lives under <b>6 Minutes</b> — a community-owned London club. The product helps people find the night's best line-ups, preview a DJ's full set in one tap, and keep a diary of who they've seen and want to see.</p>
+      <p class="ds-p">soundcheck maps club nights and DJ line-ups across <b>104 cities in 40 countries</b>. The product helps people find the night's best line-ups, preview a DJ's full set in one tap, and keep a diary of who they've seen and want to see.</p>
 
       <h3 class="ds-h">Logo</h3>
-      <p class="ds-p">A <b>cassette</b> mark + the two-tone wordmark <b>sound</b><span style="color:var(--accent)">check</span> — lowercase, normal tracking, no gap, only the colour splits the two words. The cassette is salmon (line form in the nav) or solid-on-dark for the app icon / favicon. Wordmark may run on its own; the icon never carries colour other than salmon.</p>
+      <p class="ds-p">A <b>cassette</b> mark + the two-tone wordmark <b>sound</b><span style="color:var(--accent)">check</span> — lowercase, normal tracking, no gap, only the colour splits the two words. The cassette is sunset (line form in the nav) or solid-on-dark for the app icon / favicon. Wordmark may run on its own; the icon never carries colour other than sunset.</p>
       <div class="ds-card ds-demo" style="gap:28px;align-items:center">
         <span style="display:inline-flex;align-items:center;gap:9px">
           <svg width="26" height="26" viewBox="0 0 32 32" fill="none" stroke="var(--accent)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="var(--accent)" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="var(--accent)" stroke="none"/></svg>
           <span style="font-family:var(--head);font-weight:800;font-size:1.3rem;letter-spacing:-0.01em">sound<span style="color:var(--accent)">check</span></span>
         </span>
         <span style="width:56px;height:56px;border-radius:14px;background:#0f0f12;display:inline-flex;align-items:center;justify-content:center">
-          <svg width="40" height="40" viewBox="0 0 32 32" fill="none" stroke="#ff7a6b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="#ff7a6b" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="#ff7a6b" stroke="none"/></svg>
+          <svg width="40" height="40" viewBox="0 0 32 32" fill="none" stroke="#ff9a3d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="#ff9a3d" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="#ff9a3d" stroke="none"/></svg>
         </span>
       </div>
 
       <h3 class="ds-h">Personality</h3>
-      <p class="ds-p">Underground, knowledgeable, warm — a clued-in friend, never a corporate listings site. Confident and low-ego. The "6 Minutes" wink (YouTube sets start at <code>6:00</code>) is the kind of detail that signals care without shouting.</p>
+      <p class="ds-p">Underground, knowledgeable, warm — a clued-in friend, never a corporate listings site. Confident and low-ego. Small, well-judged details (a set that previews from its best drop, a diary that remembers who you've seen) signal care without shouting.</p>
 
       <h3 class="ds-h">Voice</h3>
       <table class="ds-tbl">
@@ -358,9 +362,9 @@
       <h3 class="ds-h">Accent tints</h3>
       <p class="ds-p">Salmon at low opacity creates "soft selected" fills and washes — used for hovered calendar cells, picked rows, the wanna-see fill, and CTA panels.</p>
       <div class="ds-swatches">
-        <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.18); border-bottom:1px solid var(--border)"></div><div class="meta"><div class="nm">Wash strong</div><div class="hex">salmon @ 18%</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.14)"></div><div class="meta"><div class="nm">Selected fill</div><div class="hex">salmon @ 14–16%</div></div></div>
-        <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.08)"></div><div class="meta"><div class="nm">CTA panel</div><div class="hex">salmon @ 8%</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.18); border-bottom:1px solid var(--border)"></div><div class="meta"><div class="nm">Wash strong</div><div class="hex">sunset @ 18%</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.14)"></div><div class="meta"><div class="nm">Selected fill</div><div class="hex">sunset @ 14–16%</div></div></div>
+        <div class="ds-sw"><div class="chip" style="background:rgba(255,122,107,0.08)"></div><div class="meta"><div class="nm">CTA panel</div><div class="hex">sunset @ 8%</div></div></div>
       </div>
 
       <table class="ds-tbl">
@@ -374,14 +378,14 @@
         <tr><td><code>--sel</code> / <code>--sel-weak</code></td><td>Selected toggles, active date tile, active filters/tabs/nav; hover hint on any toggleable control</td></tr>
         <tr><td><code>--ink</code></td><td>Text/icons sitting <em>on</em> a gradient/accent fill (#2a0d14). Text on a violet fill is <code>--sel-ink</code> (#fff)</td></tr>
       </table>
-      <div class="ds-note">Contrast rule: never put <code>--muted</code> text on <code>--surface</code> for anything essential — it's for de-emphasis only. Text on salmon is always <code>--ink</code> (#1a0f0e), never white.</div>
+      <div class="ds-note">Contrast rule: never put <code>--muted</code> text on <code>--surface</code> for anything essential — it's for de-emphasis only. Text on sunset is always <code>--ink</code> (#2a0d14), never white.</div>
     </section>
 
     <!-- ═══ TYPE ═══ -->
     <section class="ds-sec" id="type">
       <div class="ds-eyebrow">Foundations</div>
       <h2>Typography</h2>
-      <p class="ds-p"><b>One family — Bricolage Grotesque, everywhere.</b> 800/700 for display + anything branded (tight, characterful, negative tracking); 500/400 for body, metadata and UI. There is no secondary font: <code>--head</code> and <code>--body</code> both resolve to Bricolage, so the page reads as one voice. The signature move: tiny <b>UPPERCASE labels</b> with wide letter-spacing as connective tissue. <code>font-display:block</code> guarantees Bricolage always renders (never a fallback face).</p>
+      <p class="ds-p"><b>Two families with clear jobs.</b> <code>--head</code> = <b>Bricolage Grotesque</b> — display and anything branded: headings, the wordmark, nav, DJ/venue/event names, tabs and pill labels (800/700, tight negative tracking). <code>--body</code> = <b>Inter</b> — dense body copy, metadata rows, counts and UI labels (500/400), where it stays even and legible at small sizes. The signature move: tiny <b>UPPERCASE labels</b> with wide letter-spacing as connective tissue. Both use <code>font-display:block</code> so text never flashes a fallback face.</p>
 
       <div class="ds-card">
         <div class="ds-spec"><span class="ds-lbl">h1 · Bricolage 800</span><h1 class="p" style="font-size:3rem">London <span class="ac">Tonight</span>.</h1></div>
@@ -395,7 +399,7 @@
       </div>
 
       <h3 class="ds-h">Size scale</h3>
-      <p class="ds-p">Every <code>font-size</code> comes from a <b>6-token ramp</b> — never an ad-hoc value. Body &amp; UI text live in just the bottom four (<code>xs → md</code>); <code>lg</code>/<code>xl</code> are headings; the hero is the one hand-tuned <b>display</b> exception (a <code>clamp()</code>, kept separate).</p>
+      <p class="ds-p">Every <code>font-size</code> comes from a <b>7-token ramp</b> — never an ad-hoc value. Body &amp; UI text live in just the bottom four (<code>xs → md</code>); <code>lg</code>/<code>xl</code>/<code>2xl</code> are headings; the hero is the one hand-tuned <b>display</b> exception (a <code>clamp()</code>, kept separate).</p>
       <table class="ds-tbl">
         <tr><th>Token</th><th>Size</th><th>Typical role</th></tr>
         <tr><td><code>--fs-xs</code></td><td>0.72rem</td><td>eyebrows, metadata, badges, UI labels</td></tr>
@@ -440,9 +444,9 @@
       <div class="ds-demo">
         <div class="ds-elev">flat · border only</div>
         <div class="ds-elev" style="box-shadow:0 12px 30px rgba(0,0,0,0.45)">menu / dropdown</div>
-        <div class="ds-elev" style="box-shadow:0 -14px 44px rgba(0,0,0,0.5); border-top:2px solid var(--accent)">dock (salmon top edge)</div>
+        <div class="ds-elev" style="box-shadow:0 -14px 44px rgba(0,0,0,0.5); border-top:2px solid var(--accent)">dock (sunset top edge)</div>
       </div>
-      <div class="ds-note">Overlays dim the room with <code>rgba(0,0,0,.6)</code> + <code>backdrop-filter:blur(3px)</code>. The player dock is the one element with a 2px salmon top border — it's the "now playing" signature.</div>
+      <div class="ds-note">Overlays dim the room with <code>rgba(0,0,0,.6)</code> + <code>backdrop-filter:blur(3px)</code>. The player dock is the one element with a 2px sunset top border — it's the "now playing" signature.</div>
     </section>
 
     <!-- ═══ MOTION ═══ -->
@@ -479,17 +483,17 @@
         <span title="share"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg></span>
         <span title="seen (check)" style="color:var(--accent)"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span>
         <span title="expand"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="m21 3-7 7"/><path d="m3 21 7-7"/><path d="M9 21H3v-6"/></svg></span>
-        <span title="SoundCloud"><svg width="26" height="26" viewBox="0 0 24 24"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373Z"/></svg></span>
+        <span title="SoundCloud"><svg width="26" height="26" viewBox="0 0 24 24"><path fill="#ff9a3d" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373Z"/></svg></span>
         <span title="YouTube"><svg width="26" height="26" viewBox="0 0 24 24"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg></span>
       </div>
-      <div class="ds-note">Line icons inherit text color via <code>currentColor</code>, so a heart turns salmon simply by being inside an <code>.on</code> control. Brand glyphs keep their platform colors and are never recolored.</div>
+      <div class="ds-note">Line icons inherit text color via <code>currentColor</code>, so a heart turns sunset simply by being inside an <code>.on</code> control. Brand glyphs keep their platform colors and are never recolored.</div>
     </section>
 
     <!-- ═══ GRADIENTS ═══ -->
     <section class="ds-sec" id="gradients">
       <div class="ds-eyebrow">Foundations</div>
       <h2>Generative imagery</h2>
-      <p class="ds-p">When a real poster or artist photo is missing, soundcheck never shows a grey box — it generates a deterministic gradient from the name's hash. Same name → same gradient, every time. Hues stay in the <b>salmon → magenta</b> family so fallbacks feel native, never random.</p>
+      <p class="ds-p">When a real poster or artist photo is missing, soundcheck never shows a grey box — it generates a deterministic gradient from the name's hash. Same name → same gradient, every time. Hues stay in the <b>sunset → magenta</b> family so fallbacks feel native, never random.</p>
 
       <h3 class="ds-h">Event posters (3:4)</h3>
       <div class="ds-demo">
@@ -497,7 +501,7 @@
         <div class="poster" style="width:150px;margin:0"><div class="gen" style="--ang:140deg;--g1:hsl(330 68% 54%);--g2:hsl(348 45% 11%)"><span class="gt">Phonox Saturdays</span></div><span class="tint"></span></div>
         <div class="poster" style="width:150px;margin:0"><div class="gen" style="--ang:160deg;--g1:hsl(355 68% 54%);--g2:hsl(13 45% 11%)"><span class="gt">M.O.T presents…</span></div><span class="tint"></span></div>
       </div>
-      <p class="ds-p"><span class="ds-mono">genPoster:</span> <code>hue = hash(title) → linear-gradient(ang, hsl(hue 68% 54%), hsl(hue+18 45% 11%))</code>, with a 10% salmon <code>screen</code> tint over everything (real photos included) for tonal unity.</p>
+      <p class="ds-p"><span class="ds-mono">genPoster:</span> <code>hue = hash(title) → linear-gradient(ang, hsl(hue 68% 54%), hsl(hue+18 45% 11%))</code>, with a 10% sunset <code>screen</code> tint over everything (real photos included) for tonal unity.</p>
 
       <h3 class="ds-h">Artist tiles (1:1)</h3>
       <div class="ds-demo">
@@ -505,7 +509,7 @@
         <div class="ptile" style="width:84px;background:linear-gradient(150deg,hsl(355 62% 50%),hsl(17 42% 14%))"><span class="nm">Helena Hauff</span><span class="sd">✓</span></div>
         <div class="ptile" style="width:84px;background:linear-gradient(150deg,hsl(330 62% 50%),hsl(352 42% 14%))"><span class="nm">Batu</span></div>
       </div>
-      <p class="ds-p"><span class="ds-mono">artGrad:</span> hue constrained to <code>330–400°</code> (pink/salmon). Real artwork (SoundCloud avatar → RA image) layers on top when available, with a bottom-up black scrim so the name stays legible.</p>
+      <p class="ds-p"><span class="ds-mono">artGrad:</span> hue constrained to <code>330–400°</code> (pink/sunset). Real artwork (SoundCloud avatar → RA image) layers on top when available, with a bottom-up black scrim so the name stays legible.</p>
     </section>
 
     <!-- ═══ BUTTONS ═══ -->
@@ -538,7 +542,7 @@
       <h2>Toggles &amp; switches</h2>
       <p class="ds-p">Segmented switches, quick-chips, date tiles and the artist/profile <b>tab pills</b> share one selected state: <b>violet fill (<code>--sel</code>), white text</b>. Idle is bordered/muted; hover hints violet. Tab rows scroll horizontally with a right-edge fade (<code>.fp-tabs.fade-r</code>) whenever more pills sit offscreen — that fade is the discovery affordance.</p>
       <div class="ds-card" style="display:flex;flex-direction:column;gap:16px;align-items:flex-start">
-        <div class="switch"><a class="on">6 Minutes</a><a>Soundcheck</a></div>
+        <div class="switch"><a class="on">Wanna see</a><a>Seen live</a></div>
         <div class="ds-chip-row">
           <button class="qchip on">Weekend</button>
           <button class="qchip">Tonight</button>
@@ -557,14 +561,14 @@
     <section class="ds-sec" id="badges">
       <div class="ds-eyebrow">Components</div>
       <h2>Badges</h2>
-      <p class="ds-p">Tiny uppercase tags in a salmon outline. <b>Pick</b> marks a venue soundcheck rates; <b>Trending</b> marks the most-saved event on a day.</p>
+      <p class="ds-p">Tiny uppercase tags in a sunset outline. <b>Pick</b> marks a venue soundcheck rates; <b>Trending</b> marks the most-saved event on a day.</p>
       <div class="ds-card ds-demo">
         <span class="pick">Pick</span>
         <span class="trend-tag">🔥 Trending</span>
         <span class="lg-chip">Objekt <button>×</button></span>
       </div>
       <h3 style="margin:26px 0 6px;font-size:1rem">Price tag</h3>
-      <p class="ds-p">A rounded chip on the event page showing the scraped ticket price. A stated range reads <b>£5–25</b>; a single price reads <b>from £12</b>; <b>Free</b> fills salmon. Currency follows the city. Best-effort from RA's free-text cost (we can't see live per-tier availability) — shown for orientation only, <b>never</b> a ticketing link, and omitted when no price is known.</p>
+      <p class="ds-p">A rounded chip on the event page showing the scraped ticket price. A stated range reads <b>£5–25</b>; a single price reads <b>from £12</b>; <b>Free</b> fills sunset. Currency follows the city. Best-effort from RA's free-text cost (we can't see live per-tier availability) — shown for orientation only, <b>never</b> a ticketing link, and omitted when no price is known.</p>
       <div class="ds-card ds-demo">
         <span class="price-tag">£5–25</span>
         <span class="price-tag">from £12</span>
@@ -578,11 +582,11 @@
     <section class="ds-sec" id="play">
       <div class="ds-eyebrow">Components</div>
       <h2>Play pills</h2>
-      <p class="ds-p">A compact 48×23 pill carrying a brand glyph + a tiny state char. Idle is outlined; <b>playing</b> fills (salmon for SoundCloud, foreground-white for YouTube — matching the now-playing source).</p>
+      <p class="ds-p">A compact 48×23 pill carrying a brand glyph + a tiny state char. Idle is outlined; <b>playing</b> fills (sunset for SoundCloud, foreground-white for YouTube — matching the now-playing source).</p>
       <div class="ds-card ds-demo">
         <button class="play yt"><svg class="brand" viewBox="0 0 24 24"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg><span class="state">▶</span></button>
         <button class="play yt playing"><svg class="brand" viewBox="0 0 24 24"><path fill="#ff0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/><polygon fill="#fff" points="9.545,15.568 9.545,8.432 15.818,12"/></svg><span class="state">■</span></button>
-        <button class="play sc"><svg class="brand" viewBox="0 0 24 24"><path fill="#ff7a6b" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373Z"/></svg><span class="state">▶</span></button>
+        <button class="play sc"><svg class="brand" viewBox="0 0 24 24"><path fill="#ff9a3d" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373Z"/></svg><span class="state">▶</span></button>
       </div>
     </section>
 
@@ -590,7 +594,7 @@
     <section class="ds-sec" id="actions">
       <div class="ds-eyebrow">Components</div>
       <h2>Heart · Share · Seen</h2>
-      <p class="ds-p">Round 26–38px icon buttons (sized to context). Idle = muted outline. <b>On</b> = salmon stroke + soft salmon fill. These three carry the entire picks/diary interaction model.</p>
+      <p class="ds-p">Round 26–38px icon buttons (sized to context). Idle = muted outline. <b>On</b> = sunset stroke + soft sunset fill. These three carry the entire picks/diary interaction model.</p>
       <div class="ds-card ds-demo">
         <button class="heart"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
         <button class="heart on"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg></button>
@@ -629,7 +633,7 @@
     <section class="ds-sec" id="tiles">
       <div class="ds-eyebrow">Components</div>
       <h2>Artist tiles</h2>
-      <p class="ds-p">1:1 gradient (or real artwork) with the name bottom-left and an optional salmon ✓ for "seen". Used on profile shelves — Wanna-see and Seen-live.</p>
+      <p class="ds-p">1:1 gradient (or real artwork) with the name bottom-left and an optional sunset ✓ for "seen". Used on profile shelves — Wanna-see and Seen-live.</p>
       <div class="ds-card">
         <div class="ptiles">
           <div class="ptile" style="background:linear-gradient(150deg,hsl(342 62% 50%),hsl(4 42% 14%))"><span class="nm">Objekt</span></div>
@@ -644,7 +648,7 @@
     <section class="ds-sec" id="rails">
       <div class="ds-eyebrow">Components</div>
       <h2>Rails</h2>
-      <p class="ds-p">Horizontal, image-led strips — the backbone of Discover and every city scene guide. Three variants share one frame (<code>.srail</code>): <b>artist</b> (round photo + name, optional venue subtitle), <b>event</b> (3:4 poster + optional match&nbsp;% &amp; hidden-gem badge) and <b>venue</b> (landscape image card). Every tile carries a salmon <b>play pill</b> that queues YouTube — the artist rail plays the whole strip, the event rail plays the line-up, the venue rail plays the next night.</p>
+      <p class="ds-p">Horizontal, image-led strips — the backbone of Discover and every city scene guide. Three variants share one frame (<code>.srail</code>): <b>artist</b> (round photo + name, optional venue subtitle), <b>event</b> (3:4 poster + optional match&nbsp;% &amp; hidden-gem badge) and <b>venue</b> (landscape image card). Every tile carries a sunset <b>play pill</b> that queues YouTube — the artist rail plays the whole strip, the event rail plays the line-up, the venue rail plays the next night.</p>
       <div class="ds-note">Built once, reused everywhere: <code>mountArtistRail()</code>, <code>mountEventRail()</code>, <code>mountVenueRail()</code> in the SPA render and wire each rail — edit the builder and every rail changes. On desktop the artist rail can wrap to rows (<code>.srail-wrap</code>); on mobile all three stay one-swipe horizontal scrolls.</p>
 
       <h3 class="ds-h">Artist rail <span style="color:var(--muted);font-weight:500">· round photo, name, optional venue</span></h3>
@@ -736,9 +740,9 @@
     <section class="ds-sec" id="banners">
       <div class="ds-eyebrow">Components</div>
       <h2>Banners</h2>
-      <p class="ds-p">Full-width salmon-bordered callouts that sit above page content. <b>Signup banner</b> (<code>.signup-banner</code>) — the weekly-email capture. <b>Shared-with-you banner</b> (<code>.shared-banner</code>) — attribution when a link came from a known sender. Same frame, different copy + actions.</p>
+      <p class="ds-p">Full-width sunset-bordered callouts that sit above page content. <b>Signup banner</b> (<code>.signup-banner</code>) — the weekly-email capture. <b>Shared-with-you banner</b> (<code>.shared-banner</code>) — attribution when a link came from a known sender. Same frame, different copy + actions.</p>
       <div class="ds-card">
-        <div class="signup-banner"><span class="b-h">6 Minutes</span><span class="b-t">One email a week — <strong>the nights worth leaving the house for</strong>.</span><span class="b-actions"><button>Sign up</button><button>Not now</button></span></div>
+        <div class="signup-banner"><span class="b-h">Weekly</span><span class="b-t">One email a week — <strong>the nights worth leaving the house for</strong>.</span><span class="b-actions"><button>Sign up</button><button>Not now</button></span></div>
         <div class="shared-banner show" style="margin:0"><span class="b-h">From Alex</span><span class="b-t">Alex thought you&rsquo;d want to see this one.</span></div>
       </div>
     </section>
@@ -747,7 +751,7 @@
     <section class="ds-sec" id="stats">
       <div class="ds-eyebrow">Components</div>
       <h2>Stats &amp; aggregates</h2>
-      <p class="ds-p">Big salmon Bricolage numbers over tiny uppercase labels — the Letterboxd-y "this many people" texture. Inline panel-stats use bold foreground numbers in a muted sentence.</p>
+      <p class="ds-p">Big sunset Bricolage numbers over tiny uppercase labels — the Letterboxd-y "this many people" texture. Inline panel-stats use bold foreground numbers in a muted sentence.</p>
       <div class="ds-card" style="display:flex;flex-direction:column;gap:20px;align-items:flex-start">
         <div class="agg-big"><span class="num">4.6</span><span class="of">avg from 5 logged gigs</span></div>
         <div class="panel-stat"><span><b>12</b> have seen them live</span><span><b>30</b> wanna see</span><span><b>2</b> friends seen</span></div>
@@ -780,7 +784,7 @@
     <section class="ds-sec" id="forms">
       <div class="ds-eyebrow">Components</div>
       <h2>Forms &amp; autosuggest</h2>
-      <p class="ds-p">Inputs sit on <code>--bg</code> (darker than the surface around them), 10px radius, salmon border on focus. Labels are tiny uppercase. Star ratings and removable artist chips power the log-a-gig flow.</p>
+      <p class="ds-p">Inputs sit on <code>--bg</code> (darker than the surface around them), 10px radius, sunset border on focus. Labels are tiny uppercase. Star ratings and removable artist chips power the log-a-gig flow.</p>
       <div class="ds-card" style="display:flex;flex-direction:column;gap:18px;align-items:flex-start">
         <div class="lg-field" style="width:100%;max-width:340px"><label>Venue</label><input value="FOLD" /></div>
         <div><label style="display:block;font-size:0.6rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted);margin-bottom:7px">Rating</label><div class="stars"><button class="on">★</button><button class="on">★</button><button class="on">★</button><button class="on">★</button><button>★</button></div></div>
@@ -799,7 +803,7 @@
         <tr><td>Calendar / picks tray</td><td>Bottom sheet with blurred scrim</td></tr>
         <tr><td>Auth / email gate</td><td>Centered modal, 14–18px radius</td></tr>
         <tr><td>Account menu</td><td>Anchored dropdown, heavy shadow</td></tr>
-        <tr><td>Player dock</td><td>Fixed bottom bar, salmon top edge, slides up; collapses to a slim strip</td></tr>
+        <tr><td>Player dock</td><td>Fixed bottom bar, sunset top edge, slides up; collapses to a slim strip</td></tr>
       </table>
     </section>
 
@@ -813,7 +817,7 @@
         <span class="coach"><b>Tap ▶</b> to preview a full set</span>
         <div class="proof on" style="display:flex;gap:10px;font-size:0.7rem;color:var(--muted);font-weight:600"><span class="pf-save">♥ 14</span><span style="color:var(--accent)">2 friends going</span></div>
       </div>
-      <div class="ds-note">Toasts auto-dismiss (~2.8s). The shared-with-you banner and social-proof line use salmon to spotlight the social signal inside an otherwise muted row.</div>
+      <div class="ds-note">Toasts auto-dismiss (~2.8s). The shared-with-you banner and social-proof line use sunset to spotlight the social signal inside an otherwise muted row.</div>
     </section>
 
     <!-- ═══ PATTERNS ═══ -->
@@ -821,7 +825,7 @@
       <div class="ds-eyebrow">System</div>
       <h2>Patterns &amp; principles</h2>
       <p class="ds-p"><b>One spotlight.</b> Salmon is reserved for interactive / selected / "yours". If everything is accented, nothing is.</p>
-      <p class="ds-p"><b>Never an empty box.</b> Missing poster or photo → a deterministic name-hashed gradient in the salmon family. The product always looks intentional, even with zero imagery.</p>
+      <p class="ds-p"><b>Never an empty box.</b> Missing poster or photo → a deterministic name-hashed gradient in the sunset family. The product always looks intentional, even with zero imagery.</p>
       <p class="ds-p"><b>Pages vs peeks.</b> Destinations are real pages with back-history; quick actions are slide-up sheets. Don't nest a destination inside an overlay.</p>
       <p class="ds-p"><b>Mobile-first, thumb-first.</b> Sheets rise from the bottom; the picks chip and dock sit in thumb reach; tap targets ≥26px with <code>touch-action:manipulation</code>.</p>
       <p class="ds-p"><b>Fast over fancy.</b> Posters are downscaled + WebP through the image proxy; player SDKs load only on first play; surfaces use 1px borders instead of shadow stacks.</p>
@@ -833,16 +837,16 @@
       <div class="ds-eyebrow">System</div>
       <h2>Accessibility</h2>
       <ul style="color:var(--muted);max-width:620px;line-height:1.9;padding-left:18px">
-        <li>Focus uses a 2px salmon outline (<code>outline:2px solid var(--accent)</code>) — never removed without a replacement.</li>
+        <li>Focus uses a 2px sunset outline (<code>outline:2px solid var(--accent)</code>) — never removed without a replacement.</li>
         <li>Icon-only controls carry <code>aria-label</code> and toggles expose <code>aria-pressed</code>.</li>
-        <li>Text on salmon is always <code>--ink</code> (#1a0f0e) for AA contrast; muted text is for non-essential copy only.</li>
+        <li>Text on sunset is always <code>--ink</code> (#2a0d14) for AA contrast; muted text is for non-essential copy only.</li>
         <li>Gradient tiles/posters always carry the name as real text on top — the image is decorative, never the only label.</li>
         <li>Body locks scroll behind sheets/overlays (iOS-safe, reference-counted) and restores position on close.</li>
         <li><code>color-scheme:dark</code> is declared so form controls and scrollbars render dark.</li>
       </ul>
     </section>
 
-    <p style="color:var(--muted);font-size:0.78rem;margin-top:40px">Soundcheck Design System v1 — generated from the live product. Tokens &amp; component CSS mirror <code>ra-london-sc/index.html</code>; update both together.</p>
+    <p style="color:var(--muted);font-size:0.78rem;margin-top:40px">Soundcheck Design System v2 — generated from the live product. Tokens &amp; component CSS mirror <code>ra-london-sc/index.html</code>; update both together.</p>
   </main>
 </div>
 </body>
