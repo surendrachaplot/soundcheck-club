@@ -1,6 +1,6 @@
 # NEO CLUB ROMA
 
-NEO CLUB ROMA is a music venue in Rome with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "OUR FRIDAY" on Fri, 17 Jul 2026.
+NEO CLUB ROMA is a music venue in Rome with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "OUR FRIDAY" on Fri, 17 Jul 2026.
 
 NEO CLUB ROMA is a music venue in Rome listed on soundcheck. 7 upcoming nights, with line-ups including Achille Lombardi, Flavio Rago, Marco Rea and Max Beat. Browse upcoming dates, start times and who's playing. Via degli Argonauti 18, 00154 Roma (RM), Italy.
 
@@ -20,4 +20,4 @@ NEO CLUB ROMA is a music venue in Rome listed on soundcheck. 7 upcoming nights, 
 
 Via degli Argonauti 18, 00154 Roma (RM), Italy, Rome
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/neo-club-roma/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/neo-club-roma/)*

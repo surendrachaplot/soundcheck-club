@@ -1,6 +1,6 @@
 # Ijmeer
 
-Ijmeer is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "CLUB.RECORD x Shelter: Boat Series" on Sat, 18 Jul 2026.
+Ijmeer is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "CLUB.RECORD x Shelter: Boat Series" on Sat, 18 Jul 2026.
 
 Ijmeer is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including D Stone, Kamma, Kléo and Masalo. Browse upcoming dates, start times and who's playing. Bert Haarnstrakade 1072, 1087 HJ Amsterdam.
 
@@ -14,4 +14,4 @@ Ijmeer is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, wit
 
 Bert Haarnstrakade 1072, 1087 HJ Amsterdam, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijmeer/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijmeer/)*

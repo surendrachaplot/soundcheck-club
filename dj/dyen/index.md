@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
+DYEN is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
 
 DYEN is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Flava Beach, Naples on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ DYEN is a techno and house artist tracked on soundcheck, with 192 sets logged ac
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

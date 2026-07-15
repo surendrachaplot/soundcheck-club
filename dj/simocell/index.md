@@ -1,6 +1,6 @@
 # Simo Cell
 
-Simo Cell is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+Simo Cell is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside CCL, DjRUM and Ehua. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -29,4 +29,4 @@ Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logge
 
 CCL, DjRUM, Ehua
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

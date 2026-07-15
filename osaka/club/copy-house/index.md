@@ -1,6 +1,6 @@
 # Copy House
 
-Copy House is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "タムタム to コピハ Vol.2 -Day2-" on Sun, 19 Jul 2026.
+Copy House is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "タムタム to コピハ Vol.2 -Day2-" on Sun, 19 Jul 2026.
 
 Copy House is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Copy House is a music venue in Osaka listed on soundcheck. 1 upcoming night. Bro
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | タムタム to コピハ Vol.2 -Day2- |  |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/copy-house/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/copy-house/)*

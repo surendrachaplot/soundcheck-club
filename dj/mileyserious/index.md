@@ -1,6 +1,6 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Paragon, New York City on Fri, 24 Jul 2026.
+Miley Serious is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Paragon, New York City on Fri, 24 Jul 2026.
 
 Miley Serious is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Paragon, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 159 sets 
 
 Lu2k, Dr Dubplate, Shampain
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*

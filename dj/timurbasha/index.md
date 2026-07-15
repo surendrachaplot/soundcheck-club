@@ -1,6 +1,6 @@
 # Timur Basha
 
-Timur Basha is a Minimal and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Miami Wars, Warsaw on Sat, 18 Jul 2026.
+Timur Basha is a Minimal and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Miami Wars, Warsaw on Sat, 18 Jul 2026.
 
 Timur Basha is a minimal and techno artist based in Ukraine, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 6 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: Miami Wars, Warsaw on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Timur Basha is a minimal and techno artist based in Ukraine, tracked on soundche
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

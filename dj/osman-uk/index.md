@@ -1,6 +1,6 @@
 # OS:MAN
 
-OS:MAN is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Buster Mantis, London on Fri, 17 Jul 2026.
+OS:MAN is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Buster Mantis, London on Fri, 17 Jul 2026.
 
 OS:MAN is a jungle and garage artist tracked on soundcheck, with 69 sets logged across Brighton, Hamburg, Leeds and London and 1 more. Often billed alongside INSECT CRUSHA, FENDI-K and Tim Reaper. Next up: Buster Mantis, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ OS:MAN is a jungle and garage artist tracked on soundcheck, with 69 sets logged 
 
 INSECT CRUSHA, FENDI-K, Tim Reaper
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*

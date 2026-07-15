@@ -1,6 +1,6 @@
 # Rosati
 
-Rosati is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Rosati is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Rosati is a techno and dub techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and Blasha & Allatt. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Rosati is a techno and dub techno artist tracked on soundcheck, with 77 sets log
 
 Steffi, Comrade Winston, Blasha & Allatt
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rosati/)*

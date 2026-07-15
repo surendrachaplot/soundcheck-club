@@ -1,6 +1,6 @@
 # DNA. CLUB - urban Space
 
-DNA. CLUB - urban Space is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR" on Thu, 16 Jul 2026.
+DNA. CLUB - urban Space is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR" on Thu, 16 Jul 2026.
 
 DNA. CLUB - urban Space is a music venue in Berlin listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -22,4 +22,4 @@ DNA. CLUB - urban Space is a music venue in Berlin listed on soundcheck. 9 upcom
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club-urban-space/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club-urban-space/)*

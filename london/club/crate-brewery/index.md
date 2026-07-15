@@ -1,6 +1,6 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "day to night with XOXA & The Blocks: DJ Shannon (NYC), Panooc, fTronic & DJ-CK" on Fri, 17 Jul 2026.
+Crate Brewery is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "day to night with XOXA & The Blocks: DJ Shannon (NYC), Panooc, fTronic & DJ-CK" on Fri, 17 Jul 2026.
 
 Crate Brewery is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alex Kassian, BÁHDO, BK86 and Cromby and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
@@ -20,4 +20,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 7 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

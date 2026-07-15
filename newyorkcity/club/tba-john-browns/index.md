@@ -1,6 +1,6 @@
 # TBA - John Browns 
 
-TBA - John Browns  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Complex Messiah Live" on Fri, 17 Jul 2026.
+TBA - John Browns  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Complex Messiah Live" on Fri, 17 Jul 2026.
 
 TBA - John Browns  is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - John Browns  is a music venue in Newyorkcity listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Complex Messiah Live |  |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-john-browns/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-john-browns/)*

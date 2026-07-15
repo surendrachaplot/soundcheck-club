@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Toolboxxx PRESENTS" on Fri, 17 Jul 2026.
+Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Toolboxxx PRESENTS" on Fri, 17 Jul 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Justine Perry, alleira, Altinbas and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -21,4 +21,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

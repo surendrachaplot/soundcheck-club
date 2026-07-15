@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
+Somewhen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
 
 Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logg
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

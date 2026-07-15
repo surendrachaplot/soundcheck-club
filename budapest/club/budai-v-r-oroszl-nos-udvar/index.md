@@ -1,6 +1,6 @@
 # Budai Vár - Oroszlános Udvar
 
-Budai Vár - Oroszlános Udvar is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Historical Tales with Rivo" on Sat, 25 Jul 2026.
+Budai Vár - Oroszlános Udvar is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Historical Tales with Rivo" on Sat, 25 Jul 2026.
 
 Budai Vár - Oroszlános Udvar is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including Budai House Clique, Denes Toth, Kolsch and Rivo. Browse upcoming dates, start times and who's playing. Budapest, Szent György tér 2, 1014 Hungary.
 
@@ -15,4 +15,4 @@ Budai Vár - Oroszlános Udvar is a music venue in Budapest listed on soundcheck
 
 Budapest, Szent György tér 2, 1014 Hungary, Budapest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budai-v-r-oroszl-nos-udvar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budai-v-r-oroszl-nos-udvar/)*

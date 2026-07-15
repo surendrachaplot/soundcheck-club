@@ -1,6 +1,6 @@
 # Cafe 1001
 
-Cafe 1001 is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MYSTERY SHOPPER Day Party" on Sun, 26 Jul 2026.
+Cafe 1001 is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "MYSTERY SHOPPER Day Party" on Sun, 26 Jul 2026.
 
 Cafe 1001 is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Emanuel Pavlova, Gaby D'Annunzio, Hannah Lamb and Lawrence Hart and 2 more. Browse upcoming dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
 
@@ -15,4 +15,4 @@ Cafe 1001 is a music venue in London listed on soundcheck. 2 upcoming nights, wi
 
 91 Brick Lane, London E1 6QL, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-1001/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-1001/)*

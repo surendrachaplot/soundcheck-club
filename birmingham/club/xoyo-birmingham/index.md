@@ -1,6 +1,6 @@
 # XOYO Birmingham
 
-XOYO Birmingham is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The A Level Results Rave" on Thu, 13 Aug 2026.
+XOYO Birmingham is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "The A Level Results Rave" on Thu, 13 Aug 2026.
 
 XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. B9 4AG.
 
@@ -15,4 +15,4 @@ XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 2 upcoming 
 
 B9 4AG, Birmingham
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*

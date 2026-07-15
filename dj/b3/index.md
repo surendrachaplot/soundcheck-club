@@ -1,6 +1,6 @@
 # B3
 
-B3 is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
+B3 is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
 
 B3 is a deep house and tech house artist tracked on soundcheck, with 36 sets logged across Birmingham and London. Often billed alongside Mark Radford, Lance Morgan and Dominique Danielle. Next up: XOYO, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ B3 is a deep house and tech house artist tracked on soundcheck, with 36 sets log
 
 Mark Radford, Lance Morgan, Dominique Danielle
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b3/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b3/)*

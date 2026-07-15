@@ -1,6 +1,6 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 16 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Mayans with Nick Warren I Thu July 16" on Thu, 16 Jul 2026.
+Bolivar Beach Bar is a music venue in Athens with 16 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Mayans with Nick Warren I Thu July 16" on Thu, 16 Jul 2026.
 
 Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 16 upcoming nights, with line-ups including Adam Beyer, Âme, Anfisa Letyago and Brina Knauss and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
@@ -23,4 +23,4 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 16 upcoming n
 
 Posidonos Avenue, Alimos, Athens, Athens
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*

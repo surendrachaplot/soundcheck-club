@@ -1,6 +1,6 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "DEL OLMO - PBJ - Gina Demarchi" on Fri, 17 Jul 2026.
+Under Club is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "DEL OLMO - PBJ - Gina Demarchi" on Fri, 17 Jul 2026.
 
 Under Club is a music venue in Buenosaires listed on soundcheck. 4 upcoming nights, with line-ups including ANNĒ, Ben Klock, Bondarük and Gina Demarchi and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
@@ -17,4 +17,4 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 4 upcoming nigh
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

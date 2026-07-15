@@ -1,6 +1,6 @@
 # Jay Tripwire
 
-Jay Tripwire is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Solace, Melbourne on Fri, 17 Jul 2026.
+Jay Tripwire is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Solace, Melbourne on Fri, 17 Jul 2026.
 
 Jay Tripwire is a house and minimal artist based in Canada, tracked on soundcheck, with 82 sets logged across Amsterdam, Auckland, Austin and Barcelona and 29 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: Solace, Melbourne on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Jay Tripwire is a house and minimal artist based in Canada, tracked on soundchec
 
 Tyler Stadius, Maher Daniel, Danyelino
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*

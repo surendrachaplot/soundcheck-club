@@ -1,6 +1,6 @@
 # Jamvvis
 
-Jamvvis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Jamvvis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Jamvvis is a house and techno artist tracked on soundcheck, with 38 sets logged across Montreal and Newyorkcity. Often billed alongside Outback, James Benjamin and Baby Bimbo. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Jamvvis is a house and techno artist tracked on soundcheck, with 38 sets logged 
 
 Outback, James Benjamin, Baby Bimbo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamvvis/)*

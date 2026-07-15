@@ -1,6 +1,6 @@
 # Christie
 
-Christie is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Virage, Paris on Wed, 29 Jul 2026.
+Christie is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Virage, Paris on Wed, 29 Jul 2026.
 
 Christie is a techno and electro artist tracked on soundcheck, with 34 sets logged across Marseille, Nantes and Paris. Often billed alongside In-Tan, Cattoni and Bours?. Next up: Virage, Paris on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Christie is a techno and electro artist tracked on soundcheck, with 34 sets logg
 
 In-Tan, Cattoni, Bours?
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christie/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christie/)*

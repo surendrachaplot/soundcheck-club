@@ -1,6 +1,6 @@
 # Rival Consoles
 
-Rival Consoles is a Electronica and Experimental artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+Rival Consoles is a Electronica and Experimental artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
 
 Rival Consoles is an electronica and experimental artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Auckland and 25 more. Often billed alongside Marcel Dettmann, Mia Koden and Clark. Next up: 1015 Folsom, Sanfrancisco on Thu 20 Aug.
 
@@ -29,4 +29,4 @@ Rival Consoles is an electronica and experimental artist tracked on soundcheck, 
 
 Marcel Dettmann, Mia Koden, Clark
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*

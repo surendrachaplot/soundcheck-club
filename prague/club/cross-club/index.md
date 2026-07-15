@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HOUSE TECHNO" on Tue, 14 Jul 2026.
+Cross Club is a music venue in Prague with 21 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "TECHNO STAGE" on Wed, 15 Jul 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including AMAR DURGA, Ejdm, fleika and Furious Freaks and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 21 upcoming nights, with line-ups including AMAR DURGA, Ejdm, fleika and Furious Freaks and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | HOUSE TECHNO |  |
 | Wed, 15 Jul 2026 | TECHNO STAGE |  |
 | Wed, 15 Jul 2026 | TRIO MANDILI |  |
 | Thu, 16 Jul 2026 | CROSS SQUARE with PLASTIC PEOPLE OF THE UNIVERSE & ROLLING DEEPER | Markee Ledge |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, 
 | Sun, 19 Jul 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 20 Jul 2026 | LOS TEKKENOS |  |
 | Tue, 21 Jul 2026 | NIGHTSHIFT | Ejdm |
+| Wed, 22 Jul 2026 | Melospheric TECHNO WEDNESDAY W/ Zwooky & Spider | AMAR DURGA, Zwooky |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

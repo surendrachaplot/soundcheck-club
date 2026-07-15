@@ -1,6 +1,6 @@
 # Monte Há Mar
 
-Monte Há Mar is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "INDIGO VISION FESTIVAL - PORTO COVO" on Fri, 24 Jul 2026.
+Monte Há Mar is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "INDIGO VISION FESTIVAL - PORTO COVO" on Fri, 24 Jul 2026.
 
 Monte Há Mar is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Alex Doering and Danilo Stellet. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Monte Há Mar is a music venue in Lisbon listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | INDIGO VISION FESTIVAL - PORTO COVO | Alex Doering, Danilo Stellet |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/monte-h-mar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/monte-h-mar/)*

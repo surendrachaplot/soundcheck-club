@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Refuge Thursday with Paolo Ferrara, Bounc3r and Apolø" on Thu, 16 Jul 2026.
+Refuge is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Refuge Thursday with Paolo Ferrara, Bounc3r and Apolø" on Thu, 16 Jul 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Kepler, Paolo Ferrara, Centrific and David Morales and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

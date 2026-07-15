@@ -1,6 +1,6 @@
 # Gerrit X
 
-Gerrit X is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at M-BIA, Berlin on Sat, 18 Jul 2026.
+Gerrit X is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at M-BIA, Berlin on Sat, 18 Jul 2026.
 
 Gerrit X is a techno and minimal artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin and Cologne. Often billed alongside DJ Jordan, Daora and monervo. Next up: M-BIA, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Gerrit X is a techno and minimal artist based in Germany, tracked on soundcheck,
 
 DJ Jordan, Daora, monervo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerritx/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerritx/)*

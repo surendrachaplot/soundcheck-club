@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Golden Hour + IMANOL IGOA" on Fri, 17 Jul 2026.
+M.N.Roy is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Golden Hour + IMANOL IGOA" on Fri, 17 Jul 2026.
 
 M.N.Roy is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, with line-ups including Alejandro Veneno and Golden Hour. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -15,4 +15,4 @@ M.N.Roy is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, 
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

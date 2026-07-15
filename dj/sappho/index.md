@@ -1,6 +1,6 @@
 # Sappho
 
-Sappho is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Holocene, Portland on Thu, 16 Jul 2026.
+Sappho is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Holocene, Portland on Thu, 16 Jul 2026.
 
 Sappho is a house and disco artist tracked on soundcheck, with 35 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco and 2 more. Often billed alongside Stacy Christine, Bears In Space and Bro Hoe. Next up: Holocene, Portland on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Sappho is a house and disco artist tracked on soundcheck, with 35 sets logged ac
 
 Stacy Christine, Bears In Space, Bro Hoe
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho/)*

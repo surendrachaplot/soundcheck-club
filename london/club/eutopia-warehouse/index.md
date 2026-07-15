@@ -1,6 +1,6 @@
 # Eutopia Warehouse
 
-Eutopia Warehouse is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "House On The Docks: Wiley + 50 Artists (Afterparty at Egg LDN)" on Sat, 18 Jul 2026.
+Eutopia Warehouse is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "House On The Docks: Wiley + 50 Artists (Afterparty at Egg LDN)" on Sat, 18 Jul 2026.
 
 Eutopia Warehouse is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Beezo, DJ Ace, DJ Brockie and DJ Decimal and 2 more. Browse upcoming dates, start times and who's playing. 42 River Rd, Barking, IG11 0DW.
 
@@ -14,4 +14,4 @@ Eutopia Warehouse is a music venue in London listed on soundcheck. 1 upcoming ni
 
 42 River Rd, Barking, IG11 0DW, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/eutopia-warehouse/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/eutopia-warehouse/)*

@@ -1,6 +1,6 @@
 # Abdon
 
-Abdon is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at LAB theCLUB, Madrid on Sat, 18 Jul 2026.
+Abdon is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LAB theCLUB, Madrid on Sat, 18 Jul 2026.
 
 Abdon is a tech house and techno artist tracked on soundcheck, with 63 sets logged across Barcelona, Ibiza, Madrid and Mallorca and 1 more. Often billed alongside Pau Guilera, De La Swing and Vidaloca. Next up: LAB theCLUB, Madrid on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Abdon is a tech house and techno artist tracked on soundcheck, with 63 sets logg
 
 Pau Guilera, De La Swing, Vidaloca
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/abdon/)*

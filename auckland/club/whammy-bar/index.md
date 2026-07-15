@@ -1,6 +1,6 @@
 # Whammy Bar
 
-Whammy Bar is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Paradox Princess, Takatapunani, Grecco Romank And Kate Butch" on Thu, 30 Jul 2026.
+Whammy Bar is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Paradox Princess, Takatapunani, Grecco Romank And Kate Butch" on Thu, 30 Jul 2026.
 
 Whammy Bar is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Kate Butch and You Should Be Dancing. Browse upcoming dates, start times and who's playing. 183 Karangahape Rd, Auckland, 1010, New Zealand.
 
@@ -15,4 +15,4 @@ Whammy Bar is a music venue in Auckland listed on soundcheck. 2 upcoming nights,
 
 183 Karangahape Rd, Auckland, 1010, New Zealand, Auckland
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*

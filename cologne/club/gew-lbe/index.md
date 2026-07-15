@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Im Fokus with Mariami & pik, Reklang, Ricardo E" on Sat, 18 Jul 2026.
+Gewölbe is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Im Fokus with Mariami & pik, Reklang, Ricardo E" on Sat, 18 Jul 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with line-ups including Arpy Brown, Delfonic, Elli Acula and Etane and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -18,4 +18,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 5 upcoming nights, wi
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

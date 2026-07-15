@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Libertine Sunday Open Air" on Sun, 19 Jul 2026.
+Urban Spree is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Libertine Sunday Open Air" on Sun, 19 Jul 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Adriano, Yoshi (DE), Brasi and Carlos GrabStein and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 5 upcoming nights, 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

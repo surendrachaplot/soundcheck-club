@@ -1,6 +1,6 @@
 # ARTISAH
 
-ARTISAH is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Flinders, Sydney on Fri, 24 Jul 2026.
+ARTISAH is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Flinders, Sydney on Fri, 24 Jul 2026.
 
 ARTISAH is a techno and industrial artist based in Australia, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Melbourne and Sydney. Often billed alongside I-SO, pretzelz and Pandemonium. Next up: The Flinders, Sydney on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ ARTISAH is a techno and industrial artist based in Australia, tracked on soundch
 
 I-SO, pretzelz, Pandemonium
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artisah/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/artisah/)*

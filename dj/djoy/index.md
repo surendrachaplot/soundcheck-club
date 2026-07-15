@@ -1,6 +1,6 @@
 # DJoy
 
-DJoy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Stuck Kantine, Munich on Thu, 16 Jul 2026.
+DJoy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Stuck Kantine, Munich on Thu, 16 Jul 2026.
 
 DJoy is a house and techno artist tracked on soundcheck, with 56 sets logged across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Stuck Kantine, Munich on Thu 16 Jul.
 
@@ -29,4 +29,4 @@ DJoy is a house and techno artist tracked on soundcheck, with 56 sets logged acr
 
 Bogus Trumper, VOE, sianza
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*

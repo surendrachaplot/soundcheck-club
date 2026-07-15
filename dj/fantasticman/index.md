@@ -1,6 +1,6 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club der Visionaere, Berlin on Tue, 21 Jul 2026.
+Fantastic Man is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club der Visionaere, Berlin on Tue, 21 Jul 2026.
 
 Fantastic Man is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 40 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: Club der Visionaere, Berlin on Tue 21 Jul.
 
@@ -28,4 +28,4 @@ Fantastic Man is a house and techno artist tracked on soundcheck, with 123 sets 
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

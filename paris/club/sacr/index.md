@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sacré présente: Anita B Queen & Blossom UP" on Fri, 17 Jul 2026.
+Sacré is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sacré présente: Anita B Queen & Blossom UP" on Fri, 17 Jul 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Ams (FR), Anita B Queen, Autograf and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with 
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

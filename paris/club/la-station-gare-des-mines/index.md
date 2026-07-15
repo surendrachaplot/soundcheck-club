@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Daddy Issues" on Fri, 17 Jul 2026.
+La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Daddy Issues" on Fri, 17 Jul 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Albane, Amina, Andy4000 and Aria Seashell and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

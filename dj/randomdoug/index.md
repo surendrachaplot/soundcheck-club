@@ -1,6 +1,6 @@
 # Randomdoug
 
-Randomdoug is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Vertigo, Toronto on Fri, 17 Jul 2026.
+Randomdoug is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Vertigo, Toronto on Fri, 17 Jul 2026.
 
 Randomdoug is a tech house and house artist tracked on soundcheck, with 48 sets logged across Toronto. Often billed alongside Tyler Hill, Manzone & Strong and TAKiN. Next up: Vertigo, Toronto on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Randomdoug is a tech house and house artist tracked on soundcheck, with 48 sets 
 
 Tyler Hill, Manzone & Strong, TAKiN
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomdoug/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomdoug/)*

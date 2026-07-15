@@ -1,6 +1,6 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 17 Jul 2026.
+Idriss D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 17 Jul 2026.
 
 Idriss D is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: Pacha Ibiza, Ibiza on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Idriss D is a house and techno artist tracked on soundcheck, with 94 sets logged
 
 Carl Craig, Jo-Sie, Omar-S
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

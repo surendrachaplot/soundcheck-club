@@ -1,8 +1,8 @@
 # Flash
 
-Flash is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Essential Bass: A Road to SEASON 5" on Thu, 16 Jul 2026.
+Flash is a music venue in Washington DC with 24 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Essential Bass: A Road to SEASON 5" on Thu, 16 Jul 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including Andrew Azara, Andrey Pushkarev, Andy Grant and Ariel me Llamo and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights, with line-ups including Andrew Azara, Andrey Pushkarev, Andy Grant and Ariel me Llamo and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights,
 | Sun, 19 Jul 2026 | Sunday Love: DJ Sneak - Andy Grant - Katrina Mir | Andy Grant, DJ Sneak, Katrina Mir |
 | Fri, 24 Jul 2026 | Patrice Bäumel [open-to-close] | BE EZY, Cassia, E-QUE, Patrice Bäumel |
 | Sat, 25 Jul 2026 | Satoshi Tomiie | Ariel me Llamo, DJ Soul (US), DJ TMF, G.E.N.E., Martino Boga, Satoshi Tomiie |
-| Sun, 26 Jul 2026 | Sunday Love: Galen - Chris Nitti | Chris Nitti, Galen |
+| Sun, 26 Jul 2026 | Sunday Love: Galen - Chris Nitti - unbound | Chris Nitti, Galen, unbound |
 | Fri, 31 Jul 2026 | Barac | Barac |
 | Sat, 1 Aug 2026 | Cecille Records: Nick Curly - Andrew Azara [open-to-close] | Andrew Azara, Eric Yaz, Nick Curly, Stagira |
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights,
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

@@ -1,6 +1,6 @@
 # Continental Club
 
-Continental Club is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "PSFYTECH IMMERSION" on Sat, 1 Aug 2026.
+Continental Club is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "PSFYTECH IMMERSION" on Sat, 1 Aug 2026.
 
 Continental Club is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Vanish. Browse upcoming dates, start times and who's playing. 1658 12th St, Oakland, CA 9460.
 
@@ -14,4 +14,4 @@ Continental Club is a music venue in Sanfrancisco listed on soundcheck. 1 upcomi
 
 1658 12th St, Oakland, CA 9460, San Francisco/Oakland
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/continental-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/continental-club/)*

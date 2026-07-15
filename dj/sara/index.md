@@ -1,6 +1,6 @@
 # SARA
 
-SARA is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+SARA is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Frankfurt and Istanbul and 3 more. Often billed alongside MAO, PUNK N MATRIX and Roy (PT). Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, wit
 
 MAO, PUNK N MATRIX, Roy (PT)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*

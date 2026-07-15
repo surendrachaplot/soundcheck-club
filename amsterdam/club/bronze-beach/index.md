@@ -1,6 +1,6 @@
 # Bronze Beach
 
-Bronze Beach is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Joy at the Beach" on Sun, 26 Jul 2026.
+Bronze Beach is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Joy at the Beach" on Sun, 26 Jul 2026.
 
 Bronze Beach is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Benny Rodrigues, Riordan and Robbie Doherty. Browse upcoming dates, start times and who's playing. Zeeweg 86b, 2051 EC Overveen.
 
@@ -16,4 +16,4 @@ Bronze Beach is a music venue in Amsterdam listed on soundcheck. 3 upcoming nigh
 
 Zeeweg 86b, 2051 EC Overveen, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bronze-beach/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bronze-beach/)*

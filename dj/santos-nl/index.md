@@ -1,6 +1,6 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Essigfabrik, Cologne on Sat, 18 Jul 2026.
+SANTØS is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Essigfabrik, Cologne on Sat, 18 Jul 2026.
 
 SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: Essigfabrik, Cologne on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ SANTØS is a techno and industrial artist based in Netherlands, tracked on sound
 
 KLOFAMA, KARAH, 6EJOU
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

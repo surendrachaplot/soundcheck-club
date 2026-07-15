@@ -1,6 +1,6 @@
 # Nat Wendell
 
-Nat Wendell is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
+Nat Wendell is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
 
 Nat Wendell is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Marie Lung. Next up: BASEMENT, Newyorkcity on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Nat Wendell is a house and techno artist tracked on soundcheck, with 76 sets log
 
 Luca Olivotto, Eva Crystaltips, Marie Lung
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*

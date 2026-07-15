@@ -1,6 +1,6 @@
 # 620 Jones
 
-620 Jones is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "LAVERN at 620 Jones Terrace" on Sat, 18 Jul 2026.
+620 Jones is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "LAVERN at 620 Jones Terrace" on Sat, 18 Jul 2026.
 
 620 Jones is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Chris Luno, LAVERN and Nitefreak. Browse upcoming dates, start times and who's playing. 620 Jones Street, San Francisco, CA 94102, USA.
 
@@ -16,4 +16,4 @@
 
 620 Jones Street, San Francisco, CA 94102, USA, San Francisco/Oakland
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/620-jones/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/620-jones/)*

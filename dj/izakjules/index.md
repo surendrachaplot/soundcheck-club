@@ -1,6 +1,6 @@
 # Izak Jules
 
-Izak Jules is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
+Izak Jules is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
 
 Izak Jules is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Leeds, Rotterdam and Turin. Often billed alongside Daniele Temperilli, Julien Fuentes and LORI (NL). Next up: THE OTHER SIDE, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Izak Jules is a house and tech house artist tracked on soundcheck, with 34 sets 
 
 Daniele Temperilli, Julien Fuentes, LORI (NL)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izakjules/)*

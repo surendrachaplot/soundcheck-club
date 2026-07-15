@@ -1,6 +1,6 @@
 # Noon + Cafe
 
-Noon + Cafe is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "NU-LABO" on Thu, 16 Jul 2026.
+Noon + Cafe is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "NU-LABO" on Thu, 16 Jul 2026.
 
 Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including KA4U, Kyoto Jazz Massive, Lemi and Limited Toss and 2 more. Browse upcoming dates, start times and who's playing. 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan.
 
@@ -17,4 +17,4 @@ Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming nights, w
 
 3-3-8 Nakazakinishi, Kita-ku, Osaka-shi, Osaka, 530-0015 Japan, Osaka
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/noon-cafe/)*

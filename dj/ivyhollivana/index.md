@@ -1,6 +1,6 @@
 # Ivy Hollivana
 
-Ivy Hollivana is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Baby G, Toronto on Fri, 14 Aug 2026.
+Ivy Hollivana is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Baby G, Toronto on Fri, 14 Aug 2026.
 
 Ivy Hollivana is an experimental and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Montreal, Seattle and Toronto and 1 more. Often billed alongside Matt Tecson, EtOH and Xiumei. Next up: The Baby G, Toronto on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Ivy Hollivana is an experimental and club artist based in United States of Ameri
 
 Matt Tecson, EtOH, Xiumei
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyhollivana/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyhollivana/)*

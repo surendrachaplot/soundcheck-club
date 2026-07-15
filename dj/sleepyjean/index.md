@@ -1,6 +1,6 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
+Sleepy Jean is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Secret Location, London on Sat, 1 Aug 2026.
 
 Sleepy Jean is a house and club artist tracked on soundcheck, with 33 sets logged across Berlin, Brighton, Leeds and London and 1 more. Often billed alongside TSUNIMAN, A For Alpha and Ariane V. Next up: Secret Location, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Sleepy Jean is a house and club artist tracked on soundcheck, with 33 sets logge
 
 TSUNIMAN, A For Alpha, Ariane V
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

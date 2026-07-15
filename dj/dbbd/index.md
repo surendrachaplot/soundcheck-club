@@ -1,6 +1,6 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
+DBBD is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 28 Aug 2026.
 
 DBBD is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Lokschuppen Berlin, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DBBD is a techno and trance artist tracked on soundcheck, with 82 sets logged ac
 
 Miss Bashful, Miss Bashful x DBBD, MCR-T
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*

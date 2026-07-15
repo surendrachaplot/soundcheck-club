@@ -1,6 +1,6 @@
 # Manda Moor
 
-Manda Moor is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
+Manda Moor is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
 
 Manda Moor is a tech house and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Sirus Hood, Jamie Jones and Loco Dice. Next up: [UNVRS], Ibiza on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Manda Moor is a tech house and house artist tracked on soundcheck, with 168 sets
 
 Sirus Hood, Jamie Jones, Loco Dice
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*

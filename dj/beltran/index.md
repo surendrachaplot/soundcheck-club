@@ -1,6 +1,6 @@
 # Beltran
 
-Beltran is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Badewiese Naglikon, Zurich on Sat, 18 Jul 2026.
+Beltran is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Badewiese Naglikon, Zurich on Sat, 18 Jul 2026.
 
 Beltran is a tech house and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, Prospa and ChaseWest. Next up: Badewiese Naglikon, Zurich on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Beltran is a tech house and house artist based in United States of America, trac
 
 Ben Sterling, Prospa, ChaseWest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

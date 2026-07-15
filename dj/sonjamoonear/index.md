@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 15 Jul 2026.
+Sonja Moonear is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Playa Soleil Ibiza, Ibiza on Wed 15 Jul.
 
@@ -36,4 +36,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 186 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Nastia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Nastia is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Austin and Barcelona and 55 more. Often billed alongside Stef Mendesidis, DJ Bone and The Advent. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Nastia is a techno and house artist tracked on soundcheck, with 155 sets logged 
 
 Stef Mendesidis, DJ Bone, The Advent
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

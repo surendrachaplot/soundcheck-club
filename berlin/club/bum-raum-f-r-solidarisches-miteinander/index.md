@@ -1,6 +1,6 @@
 # bUm - Raum für Solidarisches Miteinander
 
-bUm - Raum für Solidarisches Miteinander is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Soli-Céilí by the Irish Bloc Berlin" on Fri, 17 Jul 2026.
+bUm - Raum für Solidarisches Miteinander is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Soli-Céilí by the Irish Bloc Berlin" on Fri, 17 Jul 2026.
 
 bUm - Raum für Solidarisches Miteinander is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Paul-Lincke-Ufer 21, 10999 Berlin.
 
@@ -14,4 +14,4 @@ bUm - Raum für Solidarisches Miteinander is a music venue in Berlin listed on s
 
 Paul-Lincke-Ufer 21, 10999 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bum-raum-f-r-solidarisches-miteinander/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bum-raum-f-r-solidarisches-miteinander/)*

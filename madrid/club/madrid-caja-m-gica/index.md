@@ -1,6 +1,6 @@
 # Madrid Caja Mágica
 
-Madrid Caja Mágica is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Brunch Electronik Madrid 05.09 - Metamorfosi" on Sat, 5 Sept 2026.
+Madrid Caja Mágica is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Brunch Electronik Madrid 05.09 - Metamorfosi" on Sat, 5 Sept 2026.
 
 Madrid Caja Mágica is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Job Jobse, MALUGI, Mamba Nera and Maya Jane Coles and 2 more. Browse upcoming dates, start times and who's playing. C/ Camino de Perales, s/n -  28041 Madrid (España).
 
@@ -16,4 +16,4 @@ Madrid Caja Mágica is a music venue in Madrid listed on soundcheck. 3 upcoming 
 
 C/ Camino de Perales, s/n -  28041 Madrid (España), Madrid
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/madrid-caja-m-gica/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/madrid-caja-m-gica/)*

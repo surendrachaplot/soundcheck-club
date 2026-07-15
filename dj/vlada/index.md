@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Made In Cloister, Naples on Thu, 16 Jul 2026.
+Vlada is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Made In Cloister, Naples on Thu, 16 Jul 2026.
 
 Vlada is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Kia (AU). Next up: Made In Cloister, Naples on Thu 16 Jul.
 
@@ -36,4 +36,4 @@ Vlada is a techno and house artist tracked on soundcheck, with 189 sets logged a
 
 Vaahzer, Konduku, Kia (AU)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

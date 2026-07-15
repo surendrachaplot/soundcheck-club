@@ -1,6 +1,6 @@
 # ojoo
 
-ojoo is a Experimental and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Bari Various Venues , Naples on Wed, 15 Jul 2026.
+ojoo is a Experimental and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Bari Various Venues , Naples on Wed, 15 Jul 2026.
 
 ojoo is an experimental and breakbeat artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside ojoo, Ossia and NVST. Next up: TBA - Bari Various Venues , Naples on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ ojoo is an experimental and breakbeat artist tracked on soundcheck, with 97 sets
 
 ojoo, Ossia, NVST
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

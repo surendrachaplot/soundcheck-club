@@ -1,6 +1,6 @@
 # Riobamba
 
-Riobamba is a Reggaeton and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amant, New York City on Fri, 14 Aug 2026.
+Riobamba is a Reggaeton and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amant, New York City on Fri, 14 Aug 2026.
 
 Riobamba is a reggaeton and techno artist tracked on soundcheck, with 43 sets logged across Austin, Boston, Newyorkcity and Portland and 1 more. Often billed alongside Ushka, Oscar Nñ and SKYWALKER (US). Next up: Amant, Newyorkcity on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Riobamba is a reggaeton and techno artist tracked on soundcheck, with 43 sets lo
 
 Ushka, Oscar Nñ, SKYWALKER (US)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riobamba/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riobamba/)*

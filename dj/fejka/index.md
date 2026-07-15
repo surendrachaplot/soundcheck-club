@@ -1,6 +1,6 @@
 # Fejká
 
-Fejká is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
+Fejká is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
 
 Fejká is a house and techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Budapest and Cologne and 21 more. Often billed alongside Estiva, Kalipo and ALLKNIGHT. Next up: Open Aera, Toronto on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Fejká is a house and techno artist tracked on soundcheck, with 55 sets logged a
 
 Estiva, Kalipo, ALLKNIGHT
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fejka/)*

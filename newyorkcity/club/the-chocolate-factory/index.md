@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Estúdio Junto x BATEKOO:  AO VIVO 009" on Fri, 17 Jul 2026.
+The Chocolate Factory is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Estúdio Junto x BATEKOO:  AO VIVO 009" on Fri, 17 Jul 2026.
 
 The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Daniro, FRESHPRINCEDABAHIA, Katie Rex and MGSP and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 4 up
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

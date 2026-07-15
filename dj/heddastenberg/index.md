@@ -1,6 +1,6 @@
 # Hedda Stenberg
 
-Hedda Stenberg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 31 Jul 2026.
+Hedda Stenberg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Hedda Stenberg is a house and techno artist based in Sweden, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Mees Salomé, VNTM and CamelPhat. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Hedda Stenberg is a house and techno artist based in Sweden, tracked on soundche
 
 Mees Salomé, VNTM, CamelPhat
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*

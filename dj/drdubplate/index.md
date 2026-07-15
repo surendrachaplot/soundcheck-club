@@ -1,6 +1,6 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Skatecafe, Amsterdam on Fri, 17 Jul 2026.
+Dr Dubplate is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Skatecafe, Amsterdam on Fri, 17 Jul 2026.
 
 Dr Dubplate is a garage and bass artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Soul Mass Transit System. Next up: Skatecafe, Amsterdam on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Dr Dubplate is a garage and bass artist tracked on soundcheck, with 142 sets log
 
 Bakey, Yemz, Soul Mass Transit System
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

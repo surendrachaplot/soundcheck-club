@@ -1,6 +1,6 @@
 # 200 Seaport Boulevard
 
-200 Seaport Boulevard is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "The 2016 Viral Vibes Cruise feat. DJ Artie V 07/17" on Fri, 17 Jul 2026.
+200 Seaport Boulevard is a music venue in Boston with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "The 2016 Viral Vibes Cruise feat. DJ Artie V 07/17" on Fri, 17 Jul 2026.
 
 200 Seaport Boulevard is a music venue in Boston listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 200 Seaport BlvdBoston, MA 02210, USA.
 
@@ -19,4 +19,4 @@
 
 200 Seaport BlvdBoston, MA 02210, USA, Boston
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/200-seaport-boulevard/)*

@@ -1,6 +1,6 @@
 # The Broken Shaker Los Angeles
 
-The Broken Shaker Los Angeles is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Higher Grooves Rooftop Pary" on Sat, 18 Jul 2026.
+The Broken Shaker Los Angeles is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Higher Grooves Rooftop Pary" on Sat, 18 Jul 2026.
 
 The Broken Shaker Los Angeles is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including agraybé and Akumen. Browse upcoming dates, start times and who's playing. 416 W 8th St., Los Angeles, CA 90014, USA.
 
@@ -15,4 +15,4 @@ The Broken Shaker Los Angeles is a music venue in Losangeles listed on soundchec
 
 416 W 8th St., Los Angeles, CA 90014, USA, Los Angeles
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*

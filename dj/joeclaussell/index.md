@@ -1,6 +1,6 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+Joe Claussell is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
 Joe Claussell is a house and deep house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 81 se
 
 Danny Krivit, Francois K, DJ Tennis
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

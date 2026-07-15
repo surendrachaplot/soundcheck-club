@@ -1,6 +1,6 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Coda, Toronto on Fri, 17 Jul 2026.
+ChaseWest is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Coda, Toronto on Fri, 17 Jul 2026.
 
 ChaseWest is a house and tech house artist tracked on soundcheck, with 44 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: Coda, Toronto on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ ChaseWest is a house and tech house artist tracked on soundcheck, with 44 sets l
 
 Beltran, KinAhau, Max Dean
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

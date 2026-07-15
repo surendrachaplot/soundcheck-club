@@ -1,6 +1,6 @@
 # Nari (2)
 
-Nari (2) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
+Nari (2) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
 
 Nari (2) is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Kyoto, Newyorkcity and Osaka and 2 more. Often billed alongside KOTSU, DNG (1) and V_R_A_P. Next up: Oath, Tokyo on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Nari (2) is a house and techno artist tracked on soundcheck, with 110 sets logge
 
 KOTSU, DNG (1), V_R_A_P
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nari-2/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nari-2/)*

@@ -1,6 +1,6 @@
 # The Social
 
-The Social is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "LOCALISM: Anna Prior (Metronomy)" on Fri, 17 Jul 2026.
+The Social is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "LOCALISM: Anna Prior (Metronomy)" on Fri, 17 Jul 2026.
 
 The Social is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Jenny Twenty, Kate Hutchinson and Toshiki Ohta. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
@@ -21,4 +21,4 @@ The Social is a music venue in London listed on soundcheck. 8 upcoming nights, w
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

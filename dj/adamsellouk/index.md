@@ -1,6 +1,6 @@
 # Adam Sellouk
 
-Adam Sellouk is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
+Adam Sellouk is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
 
 Adam Sellouk is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: Brooklyn Army Terminal, Newyorkcity on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Adam Sellouk is a techno and house artist tracked on soundcheck, with 60 sets lo
 
 Zamna Soundsystem, 19:26, Kasia (OFC)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsellouk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsellouk/)*

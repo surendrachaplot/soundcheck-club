@@ -1,6 +1,6 @@
 # Supernature Disco
 
-Supernature Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Jazz Cafe, London on Sat, 18 Jul 2026.
+Supernature Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Jazz Cafe, London on Sat, 18 Jul 2026.
 
 Supernature Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across London, Manchester and Newcastle. Often billed alongside James Greenwood, Chris Massey and Jamie Bull. Next up: The Jazz Cafe, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Supernature Disco is a house and disco artist based in United Kingdom, tracked o
 
 James Greenwood, Chris Massey, Jamie Bull
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supernaturedisco/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supernaturedisco/)*

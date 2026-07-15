@@ -1,6 +1,6 @@
 # Music Room
 
-Music Room is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Make House Deep Again" on Sat, 18 Jul 2026.
+Music Room is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Make House Deep Again" on Sat, 18 Jul 2026.
 
 Music Room is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Acid Safari, Alex Vieira, Anima Omada and Dylan Griffin and 2 more. Browse upcoming dates, start times and who's playing. Level 1/270 Lonsdale St, Melbourne VIC 3000.
 
@@ -15,4 +15,4 @@ Music Room is a music venue in Melbourne listed on soundcheck. 2 upcoming nights
 
 Level 1/270 Lonsdale St, Melbourne VIC 3000, Melbourne
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/music-room/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/music-room/)*

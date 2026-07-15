@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "DISKOMAT presents: Tonno Disko" on Fri, 17 Jul 2026.
+Flux is a music venue in Istanbul with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "DISKOMAT presents: Tonno Disko" on Fri, 17 Jul 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with line-ups including 4-i, Adriana Lopez, BLONDE STATEMENT and Boris and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -21,4 +21,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with 
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

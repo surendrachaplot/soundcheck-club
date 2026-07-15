@@ -1,14 +1,13 @@
 # STEEN
 
-STEEN is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SILO, New York City on Tue, 14 Jul 2026.
+STEEN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at SILO, New York City on Wed, 15 Jul 2026.
 
-STEEN is a techno and house artist tracked on soundcheck, with 279 sets logged across Houston and Newyorkcity. Often billed alongside Ben Zo, ceviché and Adam Hadari. Next up: SILO, Newyorkcity on Tue 14 Jul.
+STEEN is a techno and house artist tracked on soundcheck, with 279 sets logged across Houston and Newyorkcity. Often billed alongside Ben Zo, ceviché and Adam Hadari. Next up: SILO, Newyorkcity on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | SILO | New York City |
 | Wed, 15 Jul 2026 | SILO | New York City |
 | Thu, 16 Jul 2026 | TBA - XTC BUSHWICK (1277 Flushing Ave)  | New York City |
 | Tue, 21 Jul 2026 | SILO | New York City |
@@ -22,6 +21,7 @@ STEEN is a techno and house artist tracked on soundcheck, with 279 sets logged a
 
 ## Recently played
 
+- SILO, New York City — Tue, 14 Jul 2026
 - SILO, New York City — Wed, 8 Jul 2026
 - SILO, New York City — Tue, 7 Jul 2026
 - SILO, New York City — Wed, 1 Jul 2026
@@ -29,10 +29,9 @@ STEEN is a techno and house artist tracked on soundcheck, with 279 sets logged a
 - SILO, New York City — Wed, 24 Jun 2026
 - SILO, New York City — Tue, 23 Jun 2026
 - La Noxe Trinity, New York City — Fri, 19 Jun 2026
-- SILO, New York City — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Ben Zo, ceviché, Adam Hadari
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steen/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steen/)*

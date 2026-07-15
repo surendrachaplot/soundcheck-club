@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Refuge, New York City on Thu, 16 Jul 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Refuge, New York City on Thu, 16 Jul 2026.
 
 Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: Refuge, Newyorkcity on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 80 set
 
 Lorenzo Raganzini, Alignment, BIIA
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

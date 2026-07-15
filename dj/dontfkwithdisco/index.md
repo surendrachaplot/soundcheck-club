@@ -1,6 +1,6 @@
 # Don't F**k with Disco
 
-Don't F**k with Disco is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Cause, London on Sat, 1 Aug 2026.
+Don't F**k with Disco is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Cause, London on Sat, 1 Aug 2026.
 
 Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 16 sets logged across Bristol, Ibiza, Liverpool and London and 1 more. Often billed alongside Cj Cooper, Daisybelle and M'Lover. Next up: The Cause, London on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 16
 
 Cj Cooper, Daisybelle, M'Lover
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*

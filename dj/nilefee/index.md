@@ -1,6 +1,6 @@
 # Nile Fee
 
-Nile Fee is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Razzmatazz, Barcelona on Fri, 17 Jul 2026.
+Nile Fee is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Razzmatazz, Barcelona on Fri, 17 Jul 2026.
 
 Nile Fee is an electronica and house artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin and Madrid. Often billed alongside John Heaven, Daniel 2000 and Juguete. Next up: Razzmatazz, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Nile Fee is an electronica and house artist tracked on soundcheck, with 46 sets 
 
 John Heaven, Daniel 2000, Juguete
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nilefee/)*

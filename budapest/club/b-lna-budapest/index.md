@@ -1,6 +1,6 @@
 # Bálna Budapest
 
-Bálna Budapest is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sunflowerz invites Sansz (free till 9pm) at Danube Open-Air" on Fri, 17 Jul 2026.
+Bálna Budapest is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sunflowerz invites Sansz (free till 9pm) at Danube Open-Air" on Fri, 17 Jul 2026.
 
 Bálna Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Blatti. Browse upcoming dates, start times and who's playing. 11-12 Fővám tér, Budapest, H-1093, Hungary.
 
@@ -14,4 +14,4 @@ Bálna Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming ni
 
 11-12 Fővám tér, Budapest, H-1093, Hungary, Budapest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/b-lna-budapest/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/b-lna-budapest/)*

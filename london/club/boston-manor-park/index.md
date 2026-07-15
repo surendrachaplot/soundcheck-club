@@ -1,6 +1,6 @@
 # Boston Manor Park
 
-Boston Manor Park is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Hedex presents: My Home Is The Rave Festival" on Fri, 24 Jul 2026.
+Boston Manor Park is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Hedex presents: My Home Is The Rave Festival" on Fri, 24 Jul 2026.
 
 Boston Manor Park is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Howling, Aaron Hibell, Adam Beyer and Âme and 2 more. Browse upcoming dates, start times and who's playing. Boston Manor Park, Brentford, TW8 9JX, London.
 
@@ -19,4 +19,4 @@ Boston Manor Park is a music venue in London listed on soundcheck. 6 upcoming ni
 
 Boston Manor Park, Brentford, TW8 9JX, London, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/boston-manor-park/)*

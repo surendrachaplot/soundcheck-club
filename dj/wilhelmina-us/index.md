@@ -1,6 +1,6 @@
 # WILHELMINA
 
-WILHELMINA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
+WILHELMINA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 WILHELMINA is a club and techno artist based in Philippines, tracked on soundcheck, with 34 sets logged across Chicago, Houston, Melbourne and Newyorkcity and 4 more. Often billed alongside Castillonaire, EMZ! and rogue.wav. Next up: F8 1192 Folsom, Sanfrancisco on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ WILHELMINA is a club and techno artist based in Philippines, tracked on soundche
 
 Castillonaire, EMZ!, rogue.wav
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*

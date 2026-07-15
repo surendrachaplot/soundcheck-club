@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Edge, New York City on Thu, 16 Jul 2026.
+bradeazy is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Edge, New York City on Thu, 16 Jul 2026.
 
 bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Barcelona, Boston and Chicago and 13 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Edge, Newyorkcity on Thu 16 Jul.
 
@@ -34,4 +34,4 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

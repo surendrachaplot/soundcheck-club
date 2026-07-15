@@ -1,6 +1,6 @@
 # Vinicius Honorio
 
-Vinicius Honorio is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
+Vinicius Honorio is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
 
 Vinicius Honorio is a techno and dub techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside R.M.K, DJ Bone and Steven Shade. Next up: Loone, Berlin on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Vinicius Honorio is a techno and dub techno artist tracked on soundcheck, with 4
 
 R.M.K, DJ Bone, Steven Shade
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viniciushonorio/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viniciushonorio/)*

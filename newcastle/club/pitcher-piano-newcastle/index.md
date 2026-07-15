@@ -1,6 +1,6 @@
 # Pitcher & Piano Newcastle
 
-Pitcher & Piano Newcastle is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Platform47" on Sat, 15 Aug 2026.
+Pitcher & Piano Newcastle is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Platform47" on Sat, 15 Aug 2026.
 
 Pitcher & Piano Newcastle is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 108, The Quayside, Newcastle upon Tyne NE1 3DX.
 
@@ -14,4 +14,4 @@ Pitcher & Piano Newcastle is a music venue in Newcastle listed on soundcheck. 1 
 
 108, The Quayside, Newcastle upon Tyne NE1 3DX, Newcastle
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pitcher-piano-newcastle/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pitcher-piano-newcastle/)*

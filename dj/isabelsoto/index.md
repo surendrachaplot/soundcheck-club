@@ -1,6 +1,6 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Isabel Soto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
 Isabel Soto is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 88 sets log
 
 Claudio PRC, Mike Larry, Fadi Mohem
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

@@ -1,6 +1,6 @@
 # Chris Imler
 
-Chris Imler is a Experimental and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Chris Imler is a Experimental and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
 Chris Imler is an experimental and post-punk artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Brussels and Copenhagen and 9 more. Often billed alongside Naomie Klaus, Menqui and Pako Vega. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Chris Imler is an experimental and post-punk artist based in Germany, tracked on
 
 Naomie Klaus, Menqui, Pako Vega
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*

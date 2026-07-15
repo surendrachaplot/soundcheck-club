@@ -1,6 +1,6 @@
 # Der Eggert
 
-Der Eggert is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Void Club, Berlin on Fri, 24 Jul 2026.
+Der Eggert is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Void Club, Berlin on Fri, 24 Jul 2026.
 
 Der Eggert is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin. Often billed alongside Upzet, Modulatos and Orpheuz. Next up: Void Club, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Der Eggert is a techno and drum & bass artist based in Germany, tracked on sound
 
 Upzet, Modulatos, Orpheuz
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dereggert/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dereggert/)*

@@ -1,6 +1,6 @@
 # vom Feisten
 
-vom Feisten is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fundbureau, Hamburg on Sat, 18 Jul 2026.
+vom Feisten is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fundbureau, Hamburg on Sat, 18 Jul 2026.
 
 vom Feisten is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Daniel Neuland, Dydaa Forne and Martin Ka. Next up: Fundbureau, Hamburg on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ vom Feisten is a techno and house artist tracked on soundcheck, with 80 sets log
 
 Daniel Neuland, Dydaa Forne, Martin Ka
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vomfeisten/)*

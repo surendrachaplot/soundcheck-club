@@ -1,6 +1,6 @@
 # The Sugar Club
 
-The Sugar Club is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "DJ Krush" on Sat, 3 Oct 2026.
+The Sugar Club is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "DJ Krush" on Sat, 3 Oct 2026.
 
 The Sugar Club is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including DJ Krush. Browse upcoming dates, start times and who's playing. 8 Lower Leeson Street; Dublin 2; Ireland.
 
@@ -15,4 +15,4 @@ The Sugar Club is a music venue in Dublin listed on soundcheck. 2 upcoming night
 
 8 Lower Leeson Street; Dublin 2; Ireland, Dublin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sugar-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sugar-club/)*

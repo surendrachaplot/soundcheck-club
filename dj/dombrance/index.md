@@ -1,6 +1,6 @@
 # Dombrance
 
-Dombrance is a Disco and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Praia Irmão, Lisbon on Fri, 17 Jul 2026.
+Dombrance is a Disco and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Praia Irmão, Lisbon on Fri, 17 Jul 2026.
 
 Dombrance is a disco and electronica artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Brighton and Bucharest and 10 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: Praia Irmão, Lisbon on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Dombrance is a disco and electronica artist tracked on soundcheck, with 37 sets 
 
 Discolypso Crew, Isaac Ferry, Freudenthal
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*

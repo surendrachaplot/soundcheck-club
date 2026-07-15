@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Seehaus Hamburg, Hamburg on Wed, 15 Jul 2026.
+Mind Against is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Seehaus Hamburg, Hamburg on Wed, 15 Jul 2026.
 
 Mind Against is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Adriatique, Tale Of Us and sideral. Next up: Seehaus Hamburg, Hamburg on Wed 15 Jul.
 
@@ -29,4 +29,4 @@ Mind Against is a techno and house artist tracked on soundcheck, with 150 sets l
 
 Adriatique, Tale Of Us, sideral
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

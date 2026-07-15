@@ -1,6 +1,6 @@
 # Holy Home
 
-Holy Home is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Holy Home w/ Gringonikus & Benke" on Fri, 17 Jul 2026.
+Holy Home is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Holy Home w/ Gringonikus & Benke" on Fri, 17 Jul 2026.
 
 Holy Home is a music venue in Munich listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Reichenbachstr. 21, 80469 Munich.
 
@@ -16,4 +16,4 @@ Holy Home is a music venue in Munich listed on soundcheck. 3 upcoming nights. Br
 
 Reichenbachstr. 21, 80469 Munich, Munich
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/holy-home/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/holy-home/)*

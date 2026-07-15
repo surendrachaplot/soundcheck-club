@@ -1,6 +1,6 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Le 211, Paris on Fri, 24 Jul 2026.
+Mathys Lenne is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Le 211, Paris on Fri, 24 Jul 2026.
 
 Mathys Lenne is a techno and electro artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Maris Shilton, Mara Menace and Olivia Mendez. Next up: Le 211, Paris on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Mathys Lenne is a techno and electro artist tracked on soundcheck, with 89 sets 
 
 Maris Shilton, Mara Menace, Olivia Mendez
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mathyslenne/)*

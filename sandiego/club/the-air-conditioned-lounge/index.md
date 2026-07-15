@@ -1,6 +1,6 @@
 # The Air Conditioned Lounge
 
-The Air Conditioned Lounge is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "House Music Fridays: Pride Party: Trev One + Matthew Brian" on Fri, 17 Jul 2026.
+The Air Conditioned Lounge is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "House Music Fridays: Pride Party: Trev One + Matthew Brian" on Fri, 17 Jul 2026.
 
 The Air Conditioned Lounge is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, with line-ups including Bruno Browning, DJ Dazy, Eric Leonardis and Matthew Brian. Browse upcoming dates, start times and who's playing. 4673 30th St, San Diego, CA 92116.
 
@@ -17,4 +17,4 @@ The Air Conditioned Lounge is a music venue in Sandiego listed on soundcheck. 4 
 
 4673 30th St, San Diego, CA 92116, San Diego
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/the-air-conditioned-lounge/)*

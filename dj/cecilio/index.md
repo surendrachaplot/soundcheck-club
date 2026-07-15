@@ -1,6 +1,6 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Club, Marseille on Fri, 17 Jul 2026.
+Cecilio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Club, Marseille on Fri, 17 Jul 2026.
 
 Cecilio is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 24 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: MS Club, Marseille on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Cecilio is a house and techno artist tracked on soundcheck, with 104 sets logged
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

@@ -1,6 +1,6 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Purobeach Barcelona, Barcelona on Sat, 25 Jul 2026.
+Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Purobeach Barcelona, Barcelona on Sat, 25 Jul 2026.
 
 Seamus Haji is a house and disco artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 10 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: Purobeach Barcelona, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Seamus Haji is a house and disco artist tracked on soundcheck, with 44 sets logg
 
 Melvo Baptiste, Horse Meat Disco, Roger Sanchez
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*

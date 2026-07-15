@@ -1,6 +1,6 @@
 # Danger Danger
 
-Danger Danger is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Loops & Lovers with special guest Malachi (Motel Club, nyc)" on Fri, 17 Jul 2026.
+Danger Danger is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Loops & Lovers with special guest Malachi (Motel Club, nyc)" on Fri, 17 Jul 2026.
 
 Danger Danger is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Dorian Flagrant, LeBRON, LEONG and lovetempo and 2 more. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
 
@@ -15,4 +15,4 @@ Danger Danger is a music venue in Newyorkcity listed on soundcheck. 2 upcoming n
 
 232 Knickerbocker Ave, New York, 11237, New York City
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/danger-danger/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/danger-danger/)*

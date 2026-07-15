@@ -1,6 +1,6 @@
 # ALP (DE)
 
-ALP (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tresor / Globus, Berlin on Wed, 22 Jul 2026.
+ALP (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tresor / Globus, Berlin on Wed, 22 Jul 2026.
 
 ALP (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Hamburg. Often billed alongside Khloe, Mama Yha Yha and Dirty Daddy Don. Next up: Tresor / Globus, Berlin on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ ALP (DE) is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Khloe, Mama Yha Yha, Dirty Daddy Don
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alp_de/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alp_de/)*

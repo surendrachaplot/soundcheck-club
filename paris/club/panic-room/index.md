@@ -1,6 +1,6 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "AÉROMIX" on Thu, 16 Jul 2026.
+Panic Room is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "AÉROMIX" on Thu, 16 Jul 2026.
 
 Panic Room is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Magic Number. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
@@ -19,4 +19,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 6 upcoming nights, wi
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

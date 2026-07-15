@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+Paula Tape is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
 Paula Tape is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 151 sets log
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

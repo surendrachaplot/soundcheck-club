@@ -1,6 +1,6 @@
 # Afriqua
 
-Afriqua is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Bridge, Los Angeles on Sat, 22 Aug 2026.
+Afriqua is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Bridge, Los Angeles on Sat, 22 Aug 2026.
 
 Afriqua is a house and techno artist tracked on soundcheck, with 50 sets logged across Antwerp, Austin, Berlin and Brussels and 21 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: The Bridge, Losangeles on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Afriqua is a house and techno artist tracked on soundcheck, with 50 sets logged 
 
 Lubelski, Ardalan, Club Tularosa
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*

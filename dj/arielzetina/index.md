@@ -1,6 +1,6 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at smartbar, Chicago on Sat, 18 Jul 2026.
+Ariel Zetina is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at smartbar, Chicago on Sat, 18 Jul 2026.
 
 Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: smartbar, Chicago on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 182 sets l
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

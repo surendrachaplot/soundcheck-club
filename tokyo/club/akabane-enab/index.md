@@ -1,6 +1,6 @@
 # Akabane Enab
 
-Akabane Enab is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "North Tokyo Night - House & Disco Music Night -" on Fri, 17 Jul 2026.
+Akabane Enab is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "North Tokyo Night - House & Disco Music Night -" on Fri, 17 Jul 2026.
 
 Akabane Enab is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including MagRena and Neri. Browse upcoming dates, start times and who's playing. 103101 Akabane, Kita-ku, Tokyo, 115-0045 Japan.
 
@@ -14,4 +14,4 @@ Akabane Enab is a music venue in Tokyo listed on soundcheck. 1 upcoming night, w
 
 103101 Akabane, Kita-ku, Tokyo, 115-0045 Japan, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/akabane-enab/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/akabane-enab/)*

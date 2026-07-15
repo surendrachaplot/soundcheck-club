@@ -1,14 +1,13 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 14 Jul 2026.
+Marsolo is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Pacha Ibiza, Ibiza on Wed, 29 Jul 2026.
 
-Marsolo is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Tue 14 Jul.
+Marsolo is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 34 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Pacha Ibiza, Ibiza on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 29 Jul 2026 | Pacha Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Colorado Charlie | The Hague |
 | Sun, 9 Aug 2026 | Burgess Park | London |
@@ -23,6 +22,7 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 143 sets lo
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - FORGE, Sheffield — Sat, 11 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 28 Jun 2026
@@ -30,10 +30,9 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 143 sets lo
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Parc del Fòrum, Barcelona — Sat, 20 Jun 2026
 - La Terrrazza, Barcelona — Fri, 19 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Jamback, Josh Baker, L.P. Rhythm
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

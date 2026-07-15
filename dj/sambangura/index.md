@@ -1,6 +1,6 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
+Sam Bangura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
 
 Sam Bangura is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 19 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: Club der Visionaere, Berlin on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Sam Bangura is a house and techno artist tracked on soundcheck, with 113 sets lo
 
 Harry McCanna, Dale Mussington, NorthSouth
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*

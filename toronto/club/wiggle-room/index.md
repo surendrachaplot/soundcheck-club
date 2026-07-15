@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Birthday Trio: Tyler Hill - FLIPSIDE - Randomdoug" on Sat, 18 Jul 2026.
+Wiggle Room is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Birthday Trio: Tyler Hill - FLIPSIDE - Randomdoug" on Sat, 18 Jul 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Dick Diamonds, Juan Gmoney Jaramillo, Junior Lopez and Kenny Glasgow and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -18,4 +18,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 5 upcoming nights,
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

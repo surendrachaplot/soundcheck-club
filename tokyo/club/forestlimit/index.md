@@ -1,14 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 27 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "【MITOHO SESSIONS】" on Tue, 14 Jul 2026.
+Forestlimit is a music venue in Tokyo with 26 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "【鼻炎ドラゴン M/A/S/S/A/C/R/E】" on Wed, 15 Jul 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 27 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Daichi Wago and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 26 upcoming nights, with line-ups including ANiIIIIiiiKii, Ascalypso, Can (8) and Daichi Wago and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | 【MITOHO SESSIONS】 |  |
 | Wed, 15 Jul 2026 | 【鼻炎ドラゴン M/A/S/S/A/C/R/E】 | シンゲリかけ太郎 |
 | Thu, 16 Jul 2026 | 『TDK』 |  |
 | Fri, 17 Jul 2026 | SplitScreen Birthday | KYLE MIKASA, Mikasa |
@@ -18,9 +17,10 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 27 upcoming nights, 
 | Thu, 23 Jul 2026 | 'METAL' | suppa micro panchop |
 | Fri, 24 Jul 2026 | 'Rumble#48' |  |
 | Sat, 25 Jul 2026 | ''''''''INITIAL IMPULSE'''''''' |  |
+| Sun, 26 Jul 2026 | anxiousrei 1st Album【ST INDULGENCE】Release Party |  |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

@@ -1,6 +1,6 @@
 # Leonor Baesler
 
-Leonor Baesler is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Leonor Baesler is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Leonor Baesler is a techno and trance artist based in Chile, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 1 more. Often billed alongside Daniela Fuzz, NSPERGER and Katalina Schwarz. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -22,4 +22,4 @@ Leonor Baesler is a techno and trance artist based in Chile, tracked on soundche
 
 Daniela Fuzz, NSPERGER, Katalina Schwarz
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonorbaesler/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leonorbaesler/)*

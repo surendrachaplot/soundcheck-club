@@ -1,6 +1,6 @@
 # Spaarnwoude (Deelplan Houtrak)
 
-Spaarnwoude (Deelplan Houtrak) is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Wooferland festival 2026" on Sat, 29 Aug 2026.
+Spaarnwoude (Deelplan Houtrak) is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Wooferland festival 2026" on Sat, 29 Aug 2026.
 
 Spaarnwoude (Deelplan Houtrak) is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including FAUSTO, Alexander Koning, An Gelo and Benny Rodrigues and 2 more. Browse upcoming dates, start times and who's playing. Spaarnwoude, 2064 Spaarndam; Netherlands.
 
@@ -14,4 +14,4 @@ Spaarnwoude (Deelplan Houtrak) is a music venue in Amsterdam listed on soundchec
 
 Spaarnwoude, 2064 Spaarndam; Netherlands, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/spaarnwoude-deelplan-houtrak/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/spaarnwoude-deelplan-houtrak/)*

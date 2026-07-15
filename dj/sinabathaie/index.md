@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Meetfactory, Prague on Wed, 15 Jul 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Meetfactory, Prague on Wed, 15 Jul 2026.
 
 Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Meetfactory, Prague on Wed 15 Jul.
 
@@ -33,4 +33,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

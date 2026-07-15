@@ -1,8 +1,8 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
+Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: Cova Santa, Ibiza on Tue 21 Jul.
+Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: Cova Santa, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 | Sun, 26 Jul 2026 | 528 Ibiza | Ibiza |
 | Sun, 2 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 22 Aug 2026 | 93 Feet East | London |
+| Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
@@ -31,4 +32,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

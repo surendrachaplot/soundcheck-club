@@ -1,6 +1,6 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
+AKA AKA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
 
 AKA AKA is a techno and tech house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 3 more. Often billed alongside Moonbootica, Format B and Alignment. Next up: Tanzhaus West, Frankfurt on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ AKA AKA is a techno and tech house artist based in Germany, tracked on soundchec
 
 Moonbootica, Format B, Alignment
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

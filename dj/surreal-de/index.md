@@ -1,6 +1,6 @@
 # Surreal (DE)
 
-Surreal (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Surreal (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Surreal (DE) is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Hamburg, Munich and Newyorkcity and 1 more. Often billed alongside Antoine Baiser, Marco Baskind and ESSHAR. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Surreal (DE) is a techno and house artist tracked on soundcheck, with 69 sets lo
 
 Antoine Baiser, Marco Baskind, ESSHAR
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*

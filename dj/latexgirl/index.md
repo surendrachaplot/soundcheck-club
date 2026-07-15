@@ -1,6 +1,6 @@
 # LATEX GIRL
 
-LATEX GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at House of Yes, New York City on Sat, 18 Jul 2026.
+LATEX GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at House of Yes, New York City on Sat, 18 Jul 2026.
 
 LATEX GIRL is a techno and electro artist based in United States of America, tracked on soundcheck, with 171 sets logged across Amsterdam, Boston, Chicago and Detroit and 1 more. Often billed alongside Wax Assassin, Garrison XR and we1sman. Next up: House of Yes, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ LATEX GIRL is a techno and electro artist based in United States of America, tra
 
 Wax Assassin, Garrison XR, we1sman
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*

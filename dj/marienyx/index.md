@@ -1,6 +1,6 @@
 # Marie Nyx
 
-Marie Nyx is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 3oz Dive Club, San Diego on Sun, 19 Jul 2026.
+Marie Nyx is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 3oz Dive Club, San Diego on Sun, 19 Jul 2026.
 
 Marie Nyx is a techno and electro artist based in United States of America, tracked on soundcheck, with 33 sets logged across Losangeles and Sandiego. Often billed alongside BB Shaine, Etari and Materielle. Next up: 3oz Dive Club, Sandiego on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Marie Nyx is a techno and electro artist based in United States of America, trac
 
 BB Shaine, Etari, Materielle
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marienyx/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marienyx/)*

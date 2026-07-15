@@ -1,6 +1,6 @@
 # RIKHTER
 
-RIKHTER is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
+RIKHTER is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
 
 RIKHTER is a techno and industrial artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Beton-T, Utrecht on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ RIKHTER is a techno and industrial artist tracked on soundcheck, with 144 sets l
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

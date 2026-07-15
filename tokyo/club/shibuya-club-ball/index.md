@@ -1,6 +1,6 @@
 # Shibuya Club Ball
 
-Shibuya Club Ball is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "shynker" on Thu, 23 Jul 2026.
+Shibuya Club Ball is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "shynker" on Thu, 23 Jul 2026.
 
 Shibuya Club Ball is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Hironobu Jyounai, Kenta Tominaga and vinylDJ Eiji Takehana. Browse upcoming dates, start times and who's playing. 4F, Kuretake Bldg., Utagawa-cho 4-9, Shibuya, Tokyo 150-0042.
 
@@ -15,4 +15,4 @@ Shibuya Club Ball is a music venue in Tokyo listed on soundcheck. 2 upcoming nig
 
 4F, Kuretake Bldg., Utagawa-cho 4-9, Shibuya, Tokyo 150-0042, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-club-ball/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-club-ball/)*

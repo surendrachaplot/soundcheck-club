@@ -1,6 +1,6 @@
 # Bina
 
-Bina is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "formforum Label Night" on Wed, 15 Jul 2026.
+Bina is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "formforum Label Night" on Wed, 15 Jul 2026.
 
 Bina is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including emre girginkaya. Browse upcoming dates, start times and who's playing. Caferaga mah. Kadife sok. 26 Kadıköy Istanbul, Turkey.
 
@@ -14,4 +14,4 @@ Bina is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with l
 
 Caferaga mah. Kadife sok. 26 Kadıköy Istanbul, Turkey, Istanbul
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/bina/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/bina/)*

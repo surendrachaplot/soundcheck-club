@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SYNERGY RAVE x Trance + Hard Techno" on Fri, 17 Jul 2026.
+Das Werk is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SYNERGY RAVE x Trance + Hard Techno" on Fri, 17 Jul 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Albin Brezlan, AliA, Arman Shadow and Bangerfabrique and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -22,4 +22,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 9 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

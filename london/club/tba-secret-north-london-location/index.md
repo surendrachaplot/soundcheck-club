@@ -1,6 +1,6 @@
 # TBA - Secret North London Location
 
-TBA - Secret North London Location is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "OFF YOUR TITS // MOTORBOAT" on Fri, 24 Jul 2026.
+TBA - Secret North London Location is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "OFF YOUR TITS // MOTORBOAT" on Fri, 24 Jul 2026.
 
 TBA - Secret North London Location is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret North London Location is a music venue in London listed on soundche
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | OFF YOUR TITS // MOTORBOAT |  |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-north-london-location/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-north-london-location/)*

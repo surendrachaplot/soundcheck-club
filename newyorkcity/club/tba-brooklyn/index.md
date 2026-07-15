@@ -1,6 +1,6 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MERGE x FUTURE TERROR" on Fri, 17 Jul 2026.
+TBA - Brooklyn is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "MERGE x FUTURE TERROR" on Fri, 17 Jul 2026.
 
 TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Akanbi, Amarji King, Auspex and Cristobal Pesce and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 6 upcoming 
 | Sat, 8 Aug 2026 | Book Club Radio Meeting #38 Dracula's Castle | Andi, Jojo Lorenzo, Tinzo |
 | Fri, 9 Oct 2026 | Techno Brooklyn presents Cristobal Pesce | Cristobal Pesce |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*

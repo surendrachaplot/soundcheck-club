@@ -1,6 +1,6 @@
 # renae
 
-renae is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Scrambled Network presents: DJ Steaw" on Fri, 17 Jul 2026.
+renae is a music venue in Manchester with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Scrambled Network presents: DJ Steaw" on Fri, 17 Jul 2026.
 
 renae is a music venue in Manchester listed on soundcheck. 8 upcoming nights, with line-ups including DJ Steaw, EKATA, Faux Naif and KAZIA and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
@@ -21,4 +21,4 @@ renae is a music venue in Manchester listed on soundcheck. 8 upcoming nights, wi
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

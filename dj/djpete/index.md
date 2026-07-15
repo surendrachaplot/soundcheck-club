@@ -1,6 +1,6 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Signal, New York City on Fri, 24 Jul 2026.
+DJ Pete is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Signal, New York City on Fri, 24 Jul 2026.
 
 DJ Pete is a techno and electro artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: Signal, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ DJ Pete is a techno and electro artist tracked on soundcheck, with 128 sets logg
 
 Finn Johannsen, Substance, BLACK ANTHEM RESTORE
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*

@@ -1,15 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 115 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Rüfüs Du Sol [DJ SET]" on Tue, 14 Jul 2026.
+Pacha Ibiza is a music venue in Ibiza with 113 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "BLOND:ISH - ABRACADABRA — SEASON II" on Wed, 15 Jul 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 115 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adam Ten and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 113 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adam Ten and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | Rüfüs Du Sol [DJ SET] | ANOTR, Rüfüs Du Sol |
-| Tue, 14 Jul 2026 | RÜFÜS DU SOL [DJ SET] |  |
 | Wed, 15 Jul 2026 | BLOND:ISH - ABRACADABRA — SEASON II | BLOND:ISH, Monolink, Peace Control, Samm |
 | Thu, 16 Jul 2026 | Purple Disco Machine - PURE PACHA | Deer Jade, Purple Disco Machine, david bay |
 | Thu, 16 Jul 2026 | PURPLE DISCO MACHINE / PURE PACHA |  |
@@ -18,9 +16,11 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 115 upcoming nights,
 | Sat, 18 Jul 2026 | Roger Sanchez - FLOWER POWER | Roger Sanchez |
 | Sat, 18 Jul 2026 | ROGER SANCHEZ / FLOWER POWER |  |
 | Sun, 19 Jul 2026 | Solomun+1 | Peggy Gou, Solomun |
+| Sun, 19 Jul 2026 | SOLOMUN+1 |  |
+| Mon, 20 Jul 2026 | Sonny Fodera | Danny Howard, Dombresky, Sonny Fodera |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

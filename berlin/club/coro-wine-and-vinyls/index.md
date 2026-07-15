@@ -1,6 +1,6 @@
 # Coro Wine and Vinyls
 
-Coro Wine and Vinyls is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Midweek Service" on Wed, 15 Jul 2026.
+Coro Wine and Vinyls is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Midweek Service" on Wed, 15 Jul 2026.
 
 Coro Wine and Vinyls is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Nikita T. Browse upcoming dates, start times and who's playing. Reichenberger strasse 61, 10999 Berlin.
 
@@ -16,4 +16,4 @@ Coro Wine and Vinyls is a music venue in Berlin listed on soundcheck. 3 upcoming
 
 Reichenberger strasse 61, 10999 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coro-wine-and-vinyls/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coro-wine-and-vinyls/)*

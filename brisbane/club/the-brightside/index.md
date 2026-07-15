@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MASSIVE: TRIPLE HEADER FT. TSUKI, CAPTAIN BASS, DIAGNOSTIX" on Sat, 18 Jul 2026.
+The Brightside is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "MASSIVE: TRIPLE HEADER FT. TSUKI, CAPTAIN BASS, DIAGNOSTIX" on Sat, 18 Jul 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -15,4 +15,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming nig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

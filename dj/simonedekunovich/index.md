@@ -1,6 +1,6 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
+Simone de Kunovich is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
 
 Simone de Kunovich is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside PARAMIDA, Pascal Moscheni and Dante (H501). Next up: Those Who Dance, Lisbon on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Simone de Kunovich is a house and techno artist tracked on soundcheck, with 142 
 
 PARAMIDA, Pascal Moscheni, Dante (H501)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*

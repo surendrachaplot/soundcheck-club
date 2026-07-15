@@ -1,6 +1,6 @@
 # Julien Simmons
 
-Julien Simmons is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 24 Jul 2026.
+Julien Simmons is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 24 Jul 2026.
 
 Julien Simmons is a house and minimal artist tracked on soundcheck, with 88 sets logged across Amsterdam and Rotterdam. Often billed alongside Mino Abadier, Michel de Hey and De Sluwe Vos. Next up: Het Sieraad, Amsterdam on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Julien Simmons is a house and minimal artist tracked on soundcheck, with 88 sets
 
 Mino Abadier, Michel de Hey, De Sluwe Vos
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliensimmons/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juliensimmons/)*

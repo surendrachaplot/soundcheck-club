@@ -1,14 +1,15 @@
 # Formella
 
-Formella is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Bistro KuBar, Prague on Sat, 18 Jul 2026.
+Formella is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Bistro KuBar, Prague on Sat, 18 Jul 2026.
 
-Formella is a bass and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Bristol and Cologne and 8 more. Often billed alongside Dangermami, Sabine Hoffmann and yungfya. Next up: TBA - Bistro KuBar, Prague on Sat 18 Jul.
+Formella is a bass and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Bristol and Cologne and 8 more. Often billed alongside Dangermami, Sabine Hoffmann and yungfya. Next up: TBA - Bistro KuBar, Prague on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TBA - Bistro KuBar | Prague |
+| Sat, 8 Aug 2026 | THF Tower | Berlin |
 | Sat, 12 Sept 2026 | TBA - Secret Location, Berlin | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Formella is a bass and techno artist tracked on soundcheck, with 49 sets logged 
 
 Dangermami, Sabine Hoffmann, yungfya
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*

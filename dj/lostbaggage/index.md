@@ -1,6 +1,6 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at WALL & WALL, Tokyo on Wed, 15 Jul 2026.
+lostbaggage is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at WALL & WALL, Tokyo on Wed, 15 Jul 2026.
 
 lostbaggage is a house and techno artist tracked on soundcheck, with 146 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: WALL & WALL, Tokyo on Wed 15 Jul.
 
@@ -28,4 +28,4 @@ lostbaggage is a house and techno artist tracked on soundcheck, with 146 sets lo
 
 YELLOWUHURU, arow, AKIRAM EN
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*

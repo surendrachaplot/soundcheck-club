@@ -1,6 +1,6 @@
 # Boat Cruise Summer Series
 
-Boat Cruise Summer Series is a music venue in Boston with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Jake Shore: Hard Body Fitness Boat Cruise" on Sat, 18 Jul 2026.
+Boat Cruise Summer Series is a music venue in Boston with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Jake Shore: Hard Body Fitness Boat Cruise" on Sat, 18 Jul 2026.
 
 Boat Cruise Summer Series is a music venue in Boston listed on soundcheck. 7 upcoming nights, with line-ups including Goldfish, Gravagerz, Levi (AU) and Linska. Browse upcoming dates, start times and who's playing. 200 Seaport Blvd Boston, MA 02210 USA.
 
@@ -20,4 +20,4 @@ Boat Cruise Summer Series is a music venue in Boston listed on soundcheck. 7 upc
 
 200 Seaport Blvd Boston, MA 02210 USA, Boston
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/boat-cruise-summer-series/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/boat-cruise-summer-series/)*

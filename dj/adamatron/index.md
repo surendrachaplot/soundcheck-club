@@ -1,6 +1,6 @@
 # Adamatron
 
-Adamatron is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Holešovice, Prague on Sat, 1 Aug 2026.
+Adamatron is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Holešovice, Prague on Sat, 1 Aug 2026.
 
 Adamatron is a techno and house artist based in Czech Republic, tracked on soundcheck, with 39 sets logged across Prague. Often billed alongside Pink Concrete, aláya and Nastya Muravyova. Next up: TBA - Holešovice, Prague on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Adamatron is a techno and house artist based in Czech Republic, tracked on sound
 
 Pink Concrete, aláya, Nastya Muravyova
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamatron/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamatron/)*

@@ -1,6 +1,6 @@
 # bielak
 
-bielak is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Plażówka Saska, Warsaw on Fri, 17 Jul 2026.
+bielak is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Plażówka Saska, Warsaw on Fri, 17 Jul 2026.
 
 bielak is a techno and bass artist based in Poland, tracked on soundcheck, with 34 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, bart ender and Taan. Next up: Plażówka Saska, Warsaw on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ bielak is a techno and bass artist based in Poland, tracked on soundcheck, with 
 
 Schmeltzer, bart ender, Taan
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bielak/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bielak/)*

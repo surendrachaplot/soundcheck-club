@@ -1,6 +1,6 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Planet Wax, London on Thu, 16 Jul 2026.
+Peder Mannerfelt is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Planet Wax, London on Thu, 16 Jul 2026.
 
 Peder Mannerfelt is a techno and breakbeat artist based in Sweden, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flore, mad miran and CCL. Next up: Planet Wax, London on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Peder Mannerfelt is a techno and breakbeat artist based in Sweden, tracked on so
 
 Flore, mad miran, CCL
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

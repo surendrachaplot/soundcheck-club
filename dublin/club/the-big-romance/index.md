@@ -1,6 +1,6 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Paula Lahiff" on Wed, 15 Jul 2026.
+The Big Romance is a music venue in Dublin with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Paula Lahiff" on Wed, 15 Jul 2026.
 
 The Big Romance is a music venue in Dublin listed on soundcheck. 12 upcoming nights, with line-ups including Kenny Hanlon and Ricky Chong. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
@@ -23,4 +23,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 12 upcoming nig
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

@@ -1,6 +1,6 @@
 # INVERNO
 
-INVERNO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Future Intel, The Hague on Thu, 16 Jul 2026.
+INVERNO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Future Intel, The Hague on Thu, 16 Jul 2026.
 
 INVERNO is a techno and house artist tracked on soundcheck, with 71 sets logged across Berlin, Brussels, Hamburg and Krakow and 10 more. Often billed alongside Ká (DE), Triqi and hripsime. Next up: TBA - Future Intel, Thehague on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ INVERNO is a techno and house artist tracked on soundcheck, with 71 sets logged 
 
 Ká (DE), Triqi, hripsime
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverno-de/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverno-de/)*

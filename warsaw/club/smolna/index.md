@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SMLN LIVE #11 RAMZI VIBE$ - MR DANGER - VIVØ" on Tue, 14 Jul 2026.
+Smolna is a music venue in Warsaw with 16 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "HIDEOUT SOCIAL CLUB #14 || ZANIEWICZ x CZAR.NOCKI" on Wed, 15 Jul 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 17 upcoming nights, with line-ups including Abrew, Anela, bolo and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 16 upcoming nights, with line-ups including Abrew, Anela, bolo and Claude Degas and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | SMLN LIVE #11 RAMZI VIBE$ - MR DANGER - VIVØ | RĀMZĪ, VIVØ |
 | Wed, 15 Jul 2026 | HIDEOUT SOCIAL CLUB #14 // ZANIEWICZ x CZAR.NOCKI |  |
 | Fri, 17 Jul 2026 | Sugar Mama invites | Kasia DVD, PNST, Zaza |
 | Sat, 18 Jul 2026 | KYSH Records Showcase: CRANZ b2b Mislaw all night long | CRANZ, Claude Degas, Mislaw |
@@ -18,9 +17,10 @@ Smolna is a music venue in Warsaw listed on soundcheck. 17 upcoming nights, with
 | Sat, 1 Aug 2026 | Smolna x Impakt: Pysh | Pysh |
 | Fri, 7 Aug 2026 | International Day Off: Kuba Sojka - Praecox - Gary Holldman - Vertical Spectrum | Gary Holldman, Jurek Przezdziecki, Kamilescu, Kuba Sojka, Piotr Bejnar |
 | Sat, 8 Aug 2026 | Smolna x Orbicrackd | Abrew, DJ Loose, PayoYayo, TYMEGG, bolo |
+| Fri, 14 Aug 2026 | Smolna x mésalliance: Internal Explorer | PNST, Saint Peter |
 
 ## Address
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

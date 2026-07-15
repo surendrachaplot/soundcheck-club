@@ -1,6 +1,6 @@
 # Cici Daze
 
-Cici Daze is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Toffler, Rotterdam on Sat, 1 Aug 2026.
+Cici Daze is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Toffler, Rotterdam on Sat, 1 Aug 2026.
 
 Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, AAT (NL) and Ammé. Next up: Toffler, Rotterdam on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Cici Daze is a house and tech house artist based in Netherlands, tracked on soun
 
 Benny Rodrigues, AAT (NL), Ammé
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*

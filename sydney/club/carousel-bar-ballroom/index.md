@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "★ S.A.S.H Sydney x Subsonic After Party x Conspiracy ★ Lamache ★ Saturday 18th July ★" on Sat, 25 Jul 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "★ S.A.S.H Sydney x Subsonic After Party x Conspiracy ★ Lamache ★ Saturday 18th July ★" on Sat, 25 Jul 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcoming nights, with line-ups including CA LOU, Kerry Wallace, Lamache and Oscar de Lima and 2 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -20,4 +20,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcom
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

@@ -1,6 +1,6 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Nyege Summer Jam" on Sat, 18 Jul 2026.
+Illegaal is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Nyege Summer Jam" on Sat, 18 Jul 2026.
 
 Illegaal is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Aexhy, ARPL, Cisco FM and droomwolkje and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
@@ -17,4 +17,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 4 upcoming nights, w
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

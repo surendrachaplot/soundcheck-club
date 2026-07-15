@@ -1,6 +1,6 @@
 # mishLXY
 
-mishLXY is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Industrique, Melbourne on Fri, 17 Jul 2026.
+mishLXY is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Industrique, Melbourne on Fri, 17 Jul 2026.
 
 mishLXY is a techno and electronica artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Aaliyah Salem, Aidan Rudd and Alex Albrecht. Next up: The Industrique, Melbourne on Fri 17 Jul.
 
@@ -25,4 +25,4 @@ mishLXY is a techno and electronica artist based in Australia, tracked on soundc
 
 Aaliyah Salem, Aidan Rudd, Alex Albrecht
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mishlxy/)*

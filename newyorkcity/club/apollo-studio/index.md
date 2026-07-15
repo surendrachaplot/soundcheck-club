@@ -1,8 +1,8 @@
 # Apollo Studio
 
-Apollo Studio is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Apollo Studio w/ Igor Vicente, Holmar, Kevin Osha & DAVIDI" on Fri, 17 Jul 2026.
+Apollo Studio is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Apollo Studio w/ Igor Vicente, Holmar, Kevin Osha & DAVIDI" on Fri, 17 Jul 2026.
 
-Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights, with line-ups including Armii1n, Asha, Asha Jasz and Brian Kage and 2 more. Browse upcoming dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
+Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including Armii1n, Asha, Asha Jasz and Bella Mutino and 2 more. Browse upcoming dates, start times and who's playing. 72 Apollo St Brooklyn, NY 11222.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Apollo Studio is a music venue in Newyorkcity listed on soundcheck. 26 upcoming 
 
 72 Apollo St Brooklyn, NY 11222, New York City
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/apollo-studio/)*

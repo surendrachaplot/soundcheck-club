@@ -1,6 +1,6 @@
 # Libertine Records at Sameheads
 
-Libertine Records at Sameheads on Sat 18 Jul, Berlin. 5 acts on the bill: Brasi, Luke Eargoggle, Niff and Saverio Celestri and 1 more. Electro and New Wave. Preview the line-up and save it on soundcheck.
+Libertine Records at Sameheads on Sat 18 Jul, Berlin. 6 acts on the bill: Brasi, Luke Eargoggle, Niff and PRZ and 2 more. Electro and New Wave. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Libertine Records at Sameheads on Sat 18 Jul, Berlin. 5 acts on the bill: Brasi,
 - Brasi
 - Luke Eargoggle
 - Niff
+- PRZ
 - Saverio Celestri
 - Yoshi (DE)
 

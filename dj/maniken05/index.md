@@ -1,13 +1,14 @@
 # maniken05
 
-maniken05 is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Teritorija, Riga on Fri, 31 Jul 2026.
+maniken05 is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Teritorija, Riga on Sat, 25 Jul 2026.
 
-maniken05 is a hardcore and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Ghent and London and 6 more. Often billed alongside hitomori, porfod and MVKO. Next up: Teritorija, Riga on Fri 31 Jul.
+maniken05 is a hardcore and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Ghent and London and 6 more. Often billed alongside hitomori, porfod and MVKO. Next up: Teritorija, Riga on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | Teritorija | Riga |
 | Fri, 31 Jul 2026 | Teritorija | Riga |
 | Fri, 14 Aug 2026 | Teritorija | Riga |
 
@@ -26,4 +27,4 @@ maniken05 is a hardcore and techno artist tracked on soundcheck, with 79 sets lo
 
 hitomori, porfod, MVKO
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maniken05/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maniken05/)*

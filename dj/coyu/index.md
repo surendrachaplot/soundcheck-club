@@ -1,6 +1,6 @@
 # Coyu
 
-Coyu is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Liquid Club, Malta on Fri, 17 Jul 2026.
+Coyu is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Liquid Club, Malta on Fri, 17 Jul 2026.
 
 Coyu is a techno and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Austin and Barcelona and 25 more. Often billed alongside Flug, Nuke and Parsa Jafari. Next up: Liquid Club, Malta on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Coyu is a techno and tech house artist based in Spain, tracked on soundcheck, wi
 
 Flug, Nuke, Parsa Jafari
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coyu/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coyu/)*

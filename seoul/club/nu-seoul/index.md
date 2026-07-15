@@ -1,6 +1,6 @@
 # Nué Seoul
 
-Nué Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "GAIA Teaser Party in Seoul at NUE 'Happy Hippy Vibe presents'" on Sat, 25 Jul 2026.
+Nué Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "GAIA Teaser Party in Seoul at NUE 'Happy Hippy Vibe presents'" on Sat, 25 Jul 2026.
 
 Nué Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including DJ SIN, GaGi, Gamma Knife and Joon Kwak and 1 more. Browse upcoming dates, start times and who's playing. 2F, 3F 45 Itaewon-ro 27ga-gil, Yongsan-gu, Seoul.
 
@@ -14,4 +14,4 @@ Nué Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, wit
 
 2F, 3F 45 Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nu-seoul/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nu-seoul/)*

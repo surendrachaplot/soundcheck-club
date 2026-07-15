@@ -1,6 +1,6 @@
 # Fasme
 
-Fasme is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Cité Fertile, Paris on Sat, 18 Jul 2026.
+Fasme is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Cité Fertile, Paris on Sat, 18 Jul 2026.
 
 Fasme is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Glasgow and Hamburg and 8 more. Often billed alongside Binary Digit, Mézigue and Airod. Next up: La Cité Fertile, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Fasme is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 Binary Digit, Mézigue, Airod
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*

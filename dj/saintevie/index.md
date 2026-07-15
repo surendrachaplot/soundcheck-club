@@ -1,6 +1,6 @@
 # Sainte Vie
 
-Sainte Vie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Spin, San Diego on Sat, 19 Sept 2026.
+Sainte Vie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Spin, San Diego on Sat, 19 Sept 2026.
 
 Sainte Vie is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Basel and Berlin and 24 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Spin, Sandiego on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sainte Vie is a techno and house artist tracked on soundcheck, with 84 sets logg
 
 Eli (US), Mateo (US), MANTi
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintevie/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saintevie/)*

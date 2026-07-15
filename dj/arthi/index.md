@@ -1,6 +1,6 @@
 # Arthi
 
-Arthi is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Quarters, Brighton on Fri, 24 Jul 2026.
+Arthi is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Quarters, Brighton on Fri, 24 Jul 2026.
 
 Arthi is a garage and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Bakey, Katy B and Skeptic. Next up: Quarters, Brighton on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Arthi is a garage and house artist tracked on soundcheck, with 99 sets logged ac
 
 Bakey, Katy B, Skeptic
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*

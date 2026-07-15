@@ -1,6 +1,6 @@
 # elliephunk
 
-elliephunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Maaya, Berlin on Thu, 16 Jul 2026.
+elliephunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Maaya, Berlin on Thu, 16 Jul 2026.
 
 elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, with 78 sets logged across Berlin, Frankfurt and Newyorkcity. Often billed alongside B.A.O., Organza and justcallmesergio. Next up: Maaya, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, 
 
 B.A.O., Organza, justcallmesergio
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*

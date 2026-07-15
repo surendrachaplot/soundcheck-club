@@ -1,6 +1,6 @@
 # Uabos
 
-Uabos is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Anfiteatro Monte Stella, Milan on Sat, 18 Jul 2026.
+Uabos is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Anfiteatro Monte Stella, Milan on Sat, 18 Jul 2026.
 
 Uabos is a house and electronica artist based in Italy, tracked on soundcheck, with 46 sets logged across London, Milan, Rome and Seoul and 2 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: Anfiteatro Monte Stella, Milan on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Uabos is a house and electronica artist based in Italy, tracked on soundcheck, w
 
 Giamma Soren, Vannelli Bros, San Pedro
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/uabos/)*

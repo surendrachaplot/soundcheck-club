@@ -1,6 +1,6 @@
 # Geordie
 
-Geordie is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sneaky Pete's, Edinburgh on Tue, 4 Aug 2026.
+Geordie is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sneaky Pete's, Edinburgh on Tue, 4 Aug 2026.
 
 Geordie is a house and garage artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Edinburgh, London and Riga. Often billed alongside Gabriel Griffith, HAPOL and Mixfits (2). Next up: Sneaky Pete's, Edinburgh on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ Geordie is a house and garage artist based in United Kingdom, tracked on soundch
 
 Gabriel Griffith, HAPOL, Mixfits (2)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geordie/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/geordie/)*

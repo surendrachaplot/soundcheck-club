@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ULTRANOVA x 10Y MOLEKÜL" on Fri, 17 Jul 2026.
+RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "ULTRANOVA x 10Y MOLEKÜL" on Fri, 17 Jul 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 1morning, 2HOT2PLAY, NYRA (DE) and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, 
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

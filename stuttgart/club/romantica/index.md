@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "MÄRCHENSTUNDE am DIENSTAG mit Hjalte & RAOSHNA" on Tue, 14 Jul 2026.
+Romantica is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "KATZENGOLD meets NIGHTFLIGHT mit Valley Dolly (Bassiani/Georgia) uvm" on Thu, 16 Jul 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights, with line-ups including Alexander Maier, Citizens Union, Dominik Krammer and Hannes Schuchardt and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Alexander Maier, Citizens Union, Dominik Krammer and Hannes Schuchardt and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | MÄRCHENSTUNDE am DIENSTAG mit Hjalte & RAOSHNA | Hjalte |
 | Thu, 16 Jul 2026 | KATZENGOLD meets NIGHTFLIGHT mit Valley Dolly (Bassiani/Georgia) uvm | Valley Dolly |
 | Fri, 17 Jul 2026 | WEVIEW: Hannes Abschiedsparty und Jubiläumsbums | Dominik Krammer, Hannes Schuchardt, Hansn |
 | Sat, 18 Jul 2026 | Maier's Lab with Philipp Werner & Alexander Maier | Alexander Maier, Philipp Werner |
@@ -20,4 +19,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

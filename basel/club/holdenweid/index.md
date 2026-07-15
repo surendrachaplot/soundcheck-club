@@ -1,6 +1,6 @@
 # Holdenweid
 
-Holdenweid is a music venue in Basel with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Between Mountains 2026" on Fri, 4 Sept 2026.
+Holdenweid is a music venue in Basel with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Between Mountains 2026" on Fri, 4 Sept 2026.
 
 Holdenweid is a music venue in Basel listed on soundcheck. 1 upcoming night, with line-ups including Earth Trax, Robot Koch and Stimming. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Holdenweid is a music venue in Basel listed on soundcheck. 1 upcoming night, wit
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Between Mountains 2026 | Earth Trax, Robot Koch, Stimming |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/holdenweid/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/basel/club/holdenweid/)*

@@ -1,6 +1,6 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Rowans Tenpin Bowl, London on Sat, 25 Jul 2026.
+DIEBYVEG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rowans Tenpin Bowl, London on Sat, 25 Jul 2026.
 
 DIEBYVEG is a house and techno artist tracked on soundcheck, with 40 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and High Fidelity. Next up: Rowans Tenpin Bowl, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DIEBYVEG is a house and techno artist tracked on soundcheck, with 40 sets logged
 
 Puzzy Wrangler, Surferboy, High Fidelity
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

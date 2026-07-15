@@ -1,6 +1,6 @@
 # Biesmans
 
-Biesmans is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 25 Jul 2026.
+Biesmans is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Studio Club Malaga, Malaga on Sat, 25 Jul 2026.
 
 Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside Johannes Albert, Ede and André Galluzzi. Next up: Studio Club Malaga, Malaga on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Biesmans is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 Johannes Albert, Ede, André Galluzzi
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisbiesmans/)*

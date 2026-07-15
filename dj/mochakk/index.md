@@ -1,8 +1,8 @@
 # Mochakk
 
-Mochakk is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 18 Jul 2026.
+Mochakk is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 18 Jul 2026.
 
-Mochakk is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Sportpark Riekerhaven, Amsterdam on Sat 18 Jul.
+Mochakk is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Sportpark Riekerhaven, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mochakk is a house and techno artist tracked on soundcheck, with 150 sets logged
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Sat, 29 Aug 2026 | Under the K Bridge | New York City |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Fri, 4 Sept 2026 | BERHTA | Washington DC |
 | Thu, 24 Sept 2026 | Gallagher Square | San Diego |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
@@ -34,4 +35,4 @@ Mochakk is a house and techno artist tracked on soundcheck, with 150 sets logged
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

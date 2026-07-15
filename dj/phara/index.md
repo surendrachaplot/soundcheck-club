@@ -1,6 +1,6 @@
 # Phara
 
-Phara is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA, Denver on Fri, 17 Jul 2026.
+Phara is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Denver on Fri, 17 Jul 2026.
 
 Phara is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: TBA, Denver on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Phara is a techno and house artist tracked on soundcheck, with 168 sets logged a
 
 Altinbas, Marie-Julie, Kr!z
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*

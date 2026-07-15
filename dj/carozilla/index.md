@@ -1,6 +1,6 @@
 # Carozilla
 
-Carozilla is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Good Room, New York City on Sat, 18 Jul 2026.
+Carozilla is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Good Room, New York City on Sat, 18 Jul 2026.
 
 Carozilla is a disco and house artist based in United States of America, tracked on soundcheck, with 114 sets logged across Limerick, Losangeles, Miami and Milan and 5 more. Often billed alongside DJ Ray (2), Jinks and Romulo Del Castillo. Next up: Good Room, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Carozilla is a disco and house artist based in United States of America, tracked
 
 DJ Ray (2), Jinks, Romulo Del Castillo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*

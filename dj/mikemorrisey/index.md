@@ -1,6 +1,6 @@
 # Mike Morrisey
 
-Mike Morrisey is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Madam, Amsterdam on Sat, 18 Jul 2026.
+Mike Morrisey is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Madam, Amsterdam on Sat, 18 Jul 2026.
 
 Mike Morrisey is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 8 more. Often billed alongside Luke Welsh, Dan Costello and MPhilly. Next up: Madam, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mike Morrisey is a tech house and minimal artist based in United Kingdom, tracke
 
 Luke Welsh, Dan Costello, MPhilly
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemorrisey/)*

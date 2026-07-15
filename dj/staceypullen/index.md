@@ -1,6 +1,6 @@
 # Stacey Pullen
 
-Stacey Pullen is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - N. Wells St + W. Superior St, Chicago on Fri, 17 Jul 2026.
+Stacey Pullen is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - N. Wells St + W. Superior St, Chicago on Fri, 17 Jul 2026.
 
 Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Boston and 26 more. Often billed alongside Carl Craig, Soul Clap and DJ Minx. Next up: TBA - N. Wells St + W. Superior St, Chicago on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Stacey Pullen is a techno and house artist tracked on soundcheck, with 114 sets 
 
 Carl Craig, Soul Clap, DJ Minx
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceypullen/)*

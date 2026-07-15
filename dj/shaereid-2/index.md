@@ -1,6 +1,6 @@
 # SHAE REID (2)
 
-SHAE REID (2) is a Tech House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 16 Jul 2026.
+SHAE REID (2) is a Tech House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 16 Jul 2026.
 
 SHAE REID (2) is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Ibiza, London and Malaga. Often billed alongside Djammin, Black Coffee and Carl Craig. Next up: Chinois Ibiza, Ibiza on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ SHAE REID (2) is a tech house and afro house artist based in United Kingdom, tra
 
 Djammin, Black Coffee, Carl Craig
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaereid-2/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shaereid-2/)*

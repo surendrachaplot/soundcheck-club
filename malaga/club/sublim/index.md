@@ -1,6 +1,6 @@
 # Sublim
 
-Sublim is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Craig David presents TS5" on Sun, 9 Aug 2026.
+Sublim is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Craig David presents TS5" on Sun, 9 Aug 2026.
 
 Sublim is a music venue in Malaga listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Playa Padron, Carr. de Cádiz, Km 159, 29680 Estepona, Málaga.
 
@@ -14,4 +14,4 @@ Sublim is a music venue in Malaga listed on soundcheck. 1 upcoming night. Browse
 
 Playa Padron, Carr. de Cádiz, Km 159, 29680 Estepona, Málaga, Malaga
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sublim/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sublim/)*

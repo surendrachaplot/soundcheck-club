@@ -1,6 +1,6 @@
 # THYORA
 
-THYORA is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
+THYORA is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
 
 THYORA is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Basel. Often billed alongside Michel Sacher, Read the News and NTO. Next up: TBA - Theater Augusta Raurica, Basel on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ THYORA is a techno and electronica artist tracked on soundcheck, with 20 sets lo
 
 Michel Sacher, Read the News, NTO
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*

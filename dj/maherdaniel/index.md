@@ -1,6 +1,6 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Refuge, New York City on Sat, 18 Jul 2026.
+Maher Daniel is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Refuge, New York City on Sat, 18 Jul 2026.
 
 Maher Daniel is a house and minimal artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 23 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Refuge, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Maher Daniel is a house and minimal artist tracked on soundcheck, with 99 sets l
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

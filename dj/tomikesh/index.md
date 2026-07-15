@@ -1,14 +1,14 @@
 # Tomi & Kesh
 
-Tomi & Kesh is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Urban Wild, Boston on Sun, 19 Jul 2026.
+Tomi & Kesh is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Lord Hobo Seaport, Boston on Sun, 19 Jul 2026.
 
-Tomi & Kesh are a tech house and house duo tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Basel and Boston and 17 more. Often billed alongside Kesh (1), Paco Osuna and Melanie Ribbe. Next up: Urban Wild, Boston on Sun 19 Jul.
+Tomi & Kesh are a tech house and house duo tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Basel and Boston and 17 more. Often billed alongside Kesh (1), Paco Osuna and Melanie Ribbe. Next up: TBA - Lord Hobo Seaport, Boston on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 19 Jul 2026 | Urban Wild | Boston |
+| Sun, 19 Jul 2026 | TBA - Lord Hobo Seaport | Boston |
 | Tue, 21 Jul 2026 | Hï Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Pracht | Frankfurt |
 
@@ -27,4 +27,4 @@ Tomi & Kesh are a tech house and house duo tracked on soundcheck, with 49 sets l
 
 Kesh (1), Paco Osuna, Melanie Ribbe
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomikesh/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomikesh/)*

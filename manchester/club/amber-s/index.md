@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Amber's presents Pioneers: Detroit Techno" on Sat, 1 Aug 2026.
+Amber's is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Amber's presents Pioneers: Detroit Techno" on Sat, 1 Aug 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including Arkane, Bobby Thorpe, Dig This and Harry Wills and 2 more. Browse upcoming dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -18,4 +18,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 5 upcoming nights, 
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

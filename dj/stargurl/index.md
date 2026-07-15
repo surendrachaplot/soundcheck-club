@@ -1,6 +1,6 @@
 # stargurl
 
-stargurl is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at John Doe, Amsterdam on Wed, 15 Jul 2026.
+stargurl is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at John Doe, Amsterdam on Wed, 15 Jul 2026.
 
 stargurl is a techno and trance artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside vizionn, DJ Angel (1) and Krl Mx. Next up: John Doe, Amsterdam on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ stargurl is a techno and trance artist tracked on soundcheck, with 26 sets logge
 
 vizionn, DJ Angel (1), Krl Mx
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*

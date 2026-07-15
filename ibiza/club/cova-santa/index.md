@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 44 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "PIV IBIZA TUESDAYS - July 14" on Tue, 14 Jul 2026.
+Cova Santa is a music venue in Ibiza with 43 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Rumors" on Wed, 15 Jul 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 44 upcoming nights, with line-ups including Kepler, AAT (NL), ALISHA and André Hommen and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 43 upcoming nights, with line-ups including Kepler, AAT (NL), ALISHA and André Hommen and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | PIV IBIZA TUESDAYS - July 14 | Di Chiara Brothers, Kirollus, MiNNA, RUZE, Stacie Fields |
 | Wed, 15 Jul 2026 | Rumors |  |
 | Fri, 17 Jul 2026 | WooMooN | Argia, BOHEM, Julia Sandstorm, Omer Tayar, RY X |
 | Sun, 19 Jul 2026 | Levi - Ibiza Residency | Levi (AU) |
@@ -18,9 +17,10 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 44 upcoming nights, w
 | Sun, 26 Jul 2026 | Pantheøn | Kerri Chandler |
 | Tue, 28 Jul 2026 | PIV IBIZA TUESDAYS - July 28 | Candidate, George Smeddles, Klaudie, Michel de Hey, Olive F, Prunk |
 | Wed, 29 Jul 2026 | Rumors |  |
+| Fri, 31 Jul 2026 | WooMooN | Isadora, Landikhan, Laolu, RY X, meera |
 
 ## Address
 
 Ctra. San Jose, km 7, 07817 Ibiza, Spain, Ibiza
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/cova-santa/)*

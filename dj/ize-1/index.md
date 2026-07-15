@@ -1,6 +1,6 @@
 # Ize (1)
 
-Ize (1) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bricks, London on Fri, 31 Jul 2026.
+Ize (1) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bricks, London on Fri, 31 Jul 2026.
 
 Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged across Brighton and London. Often billed alongside Alfaz, Tenzin and ARLYSS. Next up: Bricks, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Ize (1) is a house and garage artist tracked on soundcheck, with 26 sets logged 
 
 Alfaz, Tenzin, ARLYSS
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ize-1/)*

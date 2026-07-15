@@ -1,6 +1,6 @@
 # Garage Girls
 
-Garage Girls is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Garage Girls is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 Garage Girls is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, London and Manchester. Often billed alongside DJ NORTHERN, T-RAIL and Budg. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Garage Girls is a house and techno artist based in Germany, tracked on soundchec
 
 DJ NORTHERN, T-RAIL, Budg
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garagegirls/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garagegirls/)*

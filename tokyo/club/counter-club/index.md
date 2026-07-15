@@ -1,6 +1,6 @@
 # COUNTER CLUB
 
-COUNTER CLUB is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is ""EVERY WEDNESDAY" "90s R&B"" on Wed, 15 Jul 2026.
+COUNTER CLUB is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is ""EVERY WEDNESDAY" "90s R&B"" on Wed, 15 Jul 2026.
 
 COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Akko, Alice (3), cotton and DEE (6) and 2 more. Browse upcoming dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
 
@@ -23,4 +23,4 @@ COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 11 upcoming nights,
 
 SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*

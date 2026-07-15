@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Concourse Project, Austin on Sat, 25 Jul 2026.
+Deep Dish is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Concourse Project, Austin on Sat, 25 Jul 2026.
 
 Deep Dish is a house and progressive house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Austin and Barcelona and 25 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: The Concourse Project, Austin on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 61
 
 Dubfire, Sharam, Eynka
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

@@ -1,6 +1,6 @@
 # Paul Woolford
 
-Paul Woolford is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
+Paul Woolford is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
 
 Paul Woolford is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Cardiff, Chicago, Dublin and Edinburgh and 12 more. Often billed alongside Claptone, Hannah Wants and Patrick Topping. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Paul Woolford is a house and tech house artist based in United Kingdom, tracked 
 
 Claptone, Hannah Wants, Patrick Topping
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwoolford/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwoolford/)*

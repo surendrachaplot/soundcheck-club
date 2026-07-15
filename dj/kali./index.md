@@ -1,6 +1,6 @@
 # KALI.
 
-KALI. is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
+KALI. is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
 
 KALI. is a baile funk and bass artist tracked on soundcheck, with 37 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside sin serif, dj latinchat and auto_timer. Next up: Loone, Berlin on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ KALI. is a baile funk and bass artist tracked on soundcheck, with 37 sets logged
 
 sin serif, dj latinchat, auto_timer
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*

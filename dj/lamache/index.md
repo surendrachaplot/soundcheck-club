@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bakery Lane, Brisbane on Sun, 19 Jul 2026.
+Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bakery Lane, Brisbane on Sun, 19 Jul 2026.
 
 Lamache is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Bakery Lane, Brisbane on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ Lamache is a house and techno artist tracked on soundcheck, with 104 sets logged
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

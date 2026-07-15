@@ -1,8 +1,8 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Binks Yard, Nottingham on Sat, 25 Jul 2026.
+Joe Rolét is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Binks Yard, Nottingham on Sat, 25 Jul 2026.
 
-Joe Rolét is a tech house and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 6 more. Often billed alongside Fleur Shore, ALISHA and Elliot Schooling. Next up: Binks Yard, Nottingham on Sat 25 Jul.
+Joe Rolét is a tech house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 6 more. Often billed alongside Fleur Shore, ALISHA and Cam Stockman. Next up: Binks Yard, Nottingham on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joe Rolét is a tech house and house artist tracked on soundcheck, with 20 sets 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Binks Yard | Nottingham |
 | Wed, 5 Aug 2026 | [UNVRS] | Ibiza |
+| Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 
 ## Recently played
@@ -25,6 +26,6 @@ Joe Rolét is a tech house and house artist tracked on soundcheck, with 20 sets 
 
 ## Shares bills with
 
-Fleur Shore, ALISHA, Elliot Schooling
+Fleur Shore, ALISHA, Cam Stockman
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

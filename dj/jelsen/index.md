@@ -1,6 +1,6 @@
 # Jelsen
 
-Jelsen is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gaffe, London on Sat, 18 Jul 2026.
+Jelsen is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gaffe, London on Sat, 18 Jul 2026.
 
 Jelsen is a garage and house artist tracked on soundcheck, with 32 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside simmo, Josh Baker and L.P. Rhythm. Next up: Gaffe, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Jelsen is a garage and house artist tracked on soundcheck, with 32 sets logged a
 
 simmo, Josh Baker, L.P. Rhythm
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*

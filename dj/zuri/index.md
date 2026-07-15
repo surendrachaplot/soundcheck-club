@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Eastern Bloc Records, Manchester on Fri, 17 Jul 2026.
+Zuri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Eastern Bloc Records, Manchester on Fri, 17 Jul 2026.
 
 Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 67 sets logged across Amsterdam, Hongkong, London and Manchester and 2 more. Often billed alongside Aletha, Korzi and Atiké. Next up: Eastern Bloc Records, Manchester on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 67
 
 Aletha, Korzi, Atiké
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

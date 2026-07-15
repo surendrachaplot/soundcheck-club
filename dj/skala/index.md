@@ -1,6 +1,6 @@
 # SKALA
 
-SKALA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Santa Monica Pier, Los Angeles on Sat, 18 Jul 2026.
+SKALA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Santa Monica Pier, Los Angeles on Sat, 18 Jul 2026.
 
 SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Theologos, ELIF and Mila Stern. Next up: Santa Monica Pier, Losangeles on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ SKALA is a techno and house artist tracked on soundcheck, with 85 sets logged ac
 
 Theologos, ELIF, Mila Stern
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skala/)*

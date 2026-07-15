@@ -1,6 +1,6 @@
 # Urbi
 
-Urbi is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hidden, Manchester on Fri, 17 Jul 2026.
+Urbi is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hidden, Manchester on Fri, 17 Jul 2026.
 
 Urbi is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Budapest, Glasgow and Leeds and 3 more. Often billed alongside Hayley Zalassi, SAVANNAHH and Levi Love. Next up: Hidden, Manchester on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Urbi is a house and deep house artist based in United Kingdom, tracked on soundc
 
 Hayley Zalassi, SAVANNAHH, Levi Love
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/urbi/)*

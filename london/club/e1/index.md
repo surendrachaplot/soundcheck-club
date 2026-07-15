@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 38 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "England vs Argentina World Cup Semi Final + After Party" on Wed, 15 Jul 2026.
+E1 is a music venue in London with 38 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "England vs Argentina World Cup Semi Final + After Party" on Wed, 15 Jul 2026.
 
 E1 is a music venue in London listed on soundcheck. 38 upcoming nights, with line-ups including Abiodun, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 38 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

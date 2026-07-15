@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "'EXODUS' 5th Anniversary｜vol.241" on Wed, 15 Jul 2026.
+clubasia is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "'EXODUS' 5th Anniversary｜vol.241" on Wed, 15 Jul 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Acrocanthosaurus, Aki Dolanikov, Andrew (TREKKIE TRAX) and anolis and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -19,4 +19,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

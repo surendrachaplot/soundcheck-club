@@ -1,8 +1,8 @@
 # gabby cocco
 
-gabby cocco is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Roberta's, New York City on Sat, 25 Jul 2026.
+gabby cocco is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Roberta's, New York City on Sat, 25 Jul 2026.
 
-gabby cocco is a house and electro artist based in United States of America, tracked on soundcheck, with 67 sets logged across Mexicocity and Newyorkcity. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Roberta's, Newyorkcity on Sat 25 Jul.
+gabby cocco is a house and electro artist based in United States of America, tracked on soundcheck, with 68 sets logged across Mexicocity and Newyorkcity. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Roberta's, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ gabby cocco is a house and electro artist based in United States of America, tra
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Roberta's | New York City |
 | Sat, 25 Jul 2026 | Honey's | New York City |
+| Fri, 31 Jul 2026 | Elsewhere | New York City |
 | Sat, 8 Aug 2026 | public records | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ gabby cocco is a house and electro artist based in United States of America, tra
 
 Chloe Battelle, James Juke, Rachel Opert
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*

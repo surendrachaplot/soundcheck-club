@@ -1,6 +1,6 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
+Estiva is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
 
 Estiva is a progressive house and trance artist tracked on soundcheck, with 33 sets logged across Amsterdam, Chicago, Cologne and London and 10 more. Often billed alongside mölly, Farius and ALLKNIGHT. Next up: Open Aera, Toronto on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 33 s
 
 mölly, Farius, ALLKNIGHT
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

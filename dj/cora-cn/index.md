@@ -1,6 +1,6 @@
 # Cora (CN)
 
-Cora (CN) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Cora (CN) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Cora (CN) is a techno and house artist based in China, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Kim Ann Foxman, HAO (CN) and Carly Zeng. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Cora (CN) is a techno and house artist based in China, tracked on soundcheck, wi
 
 Kim Ann Foxman, HAO (CN), Carly Zeng
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cora-cn/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cora-cn/)*

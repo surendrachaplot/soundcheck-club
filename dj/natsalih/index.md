@@ -1,6 +1,6 @@
 # Nat Salih
 
-Nat Salih is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Solace, Melbourne on Fri, 17 Jul 2026.
+Nat Salih is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Solace, Melbourne on Fri, 17 Jul 2026.
 
 Nat Salih is a tech house and techno artist based in Australia, tracked on soundcheck, with 45 sets logged across Melbourne and Sydney. Often billed alongside Miscmeg, Kia (AU) and Moopie. Next up: Solace, Melbourne on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Nat Salih is a tech house and techno artist based in Australia, tracked on sound
 
 Miscmeg, Kia (AU), Moopie
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsalih/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natsalih/)*

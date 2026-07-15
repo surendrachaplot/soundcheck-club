@@ -1,6 +1,6 @@
 # TBA - Shuffleboard Club Berlin
 
-TBA - Shuffleboard Club Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Dynsty Nights Vol. 1 at Shuffleboard Berlin" on Sat, 18 Jul 2026.
+TBA - Shuffleboard Club Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Dynsty Nights Vol. 1 at Shuffleboard Berlin" on Sat, 18 Jul 2026.
 
 TBA - Shuffleboard Club Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Shuffleboard Club Berlin is a music venue in Berlin listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Dynsty Nights Vol. 1 at Shuffleboard Berlin |  |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-shuffleboard-club-berlin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-shuffleboard-club-berlin/)*

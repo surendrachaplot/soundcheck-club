@@ -1,6 +1,6 @@
 # Ne/Re/A
 
-Ne/Re/A is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
+Ne/Re/A is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
 
 Ne/Re/A is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Boston and 6 more. Often billed alongside Clarisa Kimskii, Juana and Auspex. Next up: TBA - Brooklyn, Newyorkcity on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Ne/Re/A is a techno and house artist tracked on soundcheck, with 89 sets logged 
 
 Clarisa Kimskii, Juana, Auspex
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*

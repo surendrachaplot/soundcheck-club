@@ -1,6 +1,6 @@
 # LORA S
 
-LORA S is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ballroom at Palais, London on Thu, 16 Jul 2026.
+LORA S is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ballroom at Palais, London on Thu, 16 Jul 2026.
 
 LORA S is a house and club artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across London. Often billed alongside Mr. Redley, Donut and joey manzi. Next up: Ballroom at Palais, London on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ LORA S is a house and club artist based in United Kingdom, tracked on soundcheck
 
 Mr. Redley, Donut, joey manzi
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loras/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loras/)*

@@ -1,6 +1,6 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
+DJ Tjizza is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
 
 DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Club der Visionaere, Berlin on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck,
 
 Helly, SHAQUE, Velasco
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*

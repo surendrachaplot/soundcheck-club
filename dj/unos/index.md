@@ -1,6 +1,6 @@
 # UNOS
 
-UNOS is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Quai D'été - Zomerkaai, Brussels on Sat, 18 Jul 2026.
+UNOS is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Quai D'été - Zomerkaai, Brussels on Sat, 18 Jul 2026.
 
 UNOS is a house and disco artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside Fais Le Beau, Zouzibabe and Azo. Next up: Quai D'été - Zomerkaai, Brussels on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ UNOS is a house and disco artist tracked on soundcheck, with 56 sets logged acro
 
 Fais Le Beau, Zouzibabe, Azo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unos/)*

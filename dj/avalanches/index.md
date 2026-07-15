@@ -1,6 +1,6 @@
 # The Avalanches
 
-The Avalanches is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Silencio, Paris on Sat, 8 Aug 2026.
+The Avalanches is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Silencio, Paris on Sat, 8 Aug 2026.
 
 The Avalanches is a house and electronica artist based in Australia, tracked on soundcheck, with 5 sets logged across London, Melbourne, Paris and Tokyo. Often billed alongside 2ManyDJs, Alan Braxe and Alexis Taylor. Next up: Silencio, Paris on Sat 8 Aug.
 
@@ -21,4 +21,4 @@ The Avalanches is a house and electronica artist based in Australia, tracked on 
 
 2ManyDJs, Alan Braxe, Alexis Taylor
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

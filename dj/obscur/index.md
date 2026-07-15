@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
+Obscur is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Garage Noord, Amsterdam on Sun, 9 Aug 2026.
 
 Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, with 7 sets logged across Amsterdam, Athens, Belgrade and Berlin and 2 more. Often billed alongside 04061, 314A and Aos. Next up: Garage Noord, Amsterdam on Sun 9 Aug.
 
@@ -23,4 +23,4 @@ Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, 
 
 04061, 314A, Aos
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

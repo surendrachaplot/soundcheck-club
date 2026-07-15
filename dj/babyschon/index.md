@@ -1,6 +1,6 @@
 # babyschön
 
-babyschön is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KOKO, London on Sat, 25 Jul 2026.
+babyschön is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at KOKO, London on Sat, 25 Jul 2026.
 
 babyschön is a house and acid artist tracked on soundcheck, with 84 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 12 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: KOKO, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ babyschön is a house and acid artist tracked on soundcheck, with 84 sets logged
 
 Tia Cousins, DJ Subaru, Harry James
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*

@@ -1,6 +1,6 @@
 # KLING&KLANG
 
-KLING&KLANG is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kilomètre25, Paris on Fri, 24 Jul 2026.
+KLING&KLANG is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kilomètre25, Paris on Fri, 24 Jul 2026.
 
 KLING&KLANG is a techno and trance artist tracked on soundcheck, with 155 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Amøn, DJ Henk and Kø:lab. Next up: Kilomètre25, Paris on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ KLING&KLANG is a techno and trance artist tracked on soundcheck, with 155 sets l
 
 Amøn, DJ Henk, Kø:lab
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*

@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Bleach Berlin" on Fri, 17 Jul 2026.
+Marmorbar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bleach Berlin" on Fri, 17 Jul 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Deer park, DJ flintapiss, DJ titka and Elena Midori and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -19,4 +19,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wi
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

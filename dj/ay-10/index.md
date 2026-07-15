@@ -1,6 +1,6 @@
 # AY (10)
 
-AY (10) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Shibuya Oiran, Tokyo on Thu, 16 Jul 2026.
+AY (10) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Shibuya Oiran, Tokyo on Thu, 16 Jul 2026.
 
 AY (10) is a techno and house artist based in Japan, tracked on soundcheck, with 50 sets logged across Kyoto, Paris and Tokyo. Often billed alongside TAKUTO (2), DADO and O.Goo. Next up: Shibuya Oiran, Tokyo on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ AY (10) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 TAKUTO (2), DADO, O.Goo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ay-10/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ay-10/)*

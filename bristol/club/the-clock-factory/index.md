@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 27 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "WORLD CUP SEMI-FINALS 2026 – ENGLAND VS ARGENTINA at CLOCK FACTORY BRISTOL [FREE ENTRY]" on Wed, 15 Jul 2026.
+The Clock Factory is a music venue in Bristol with 27 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "WORLD CUP SEMI-FINALS 2026 – ENGLAND VS ARGENTINA at CLOCK FACTORY BRISTOL [FREE ENTRY]" on Wed, 15 Jul 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 27 upcoming nights, with line-ups including Bladerunner, Burt Cope, Congo Natty and Deselecta and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 27 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

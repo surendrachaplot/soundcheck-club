@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Goldsmiths MFA Degree Show AFTERPARTY" on Thu, 16 Jul 2026.
+Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Goldsmiths MFA Degree Show AFTERPARTY" on Thu, 16 Jul 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Annabel Fraser, A-Sides, Chinese Daughter and Chloe Lula and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming ni
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

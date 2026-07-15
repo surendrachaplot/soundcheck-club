@@ -1,6 +1,6 @@
 # Yellow Claw
 
-Yellow Claw is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at World Kyoto, Kyoto on Fri, 17 Jul 2026.
+Yellow Claw is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at World Kyoto, Kyoto on Fri, 17 Jul 2026.
 
 Yellow Claw is a bass and house artist tracked on soundcheck, with 16 sets logged across Berlin, Boston, Chicago and Kyoto and 6 more. Often billed alongside Luude, NATSUMI and REXY DEXY. Next up: World Kyoto, Kyoto on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Yellow Claw is a bass and house artist tracked on soundcheck, with 16 sets logge
 
 Luude, NATSUMI, REXY DEXY
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowclaw/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowclaw/)*

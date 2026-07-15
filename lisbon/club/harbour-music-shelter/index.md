@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "AirFunk after-hours at Harbour" on Sat, 18 Jul 2026.
+Harbour Music Shelter is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "AirFunk after-hours at Harbour" on Sat, 18 Jul 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Alex Vinent, David Triana, DJ Ferro and Gear and 2 more. Browse upcoming dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 3 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

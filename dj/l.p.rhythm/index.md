@@ -1,6 +1,6 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 30 Jul 2026.
+L.P. Rhythm is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 29 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Amnesia Ibiza, Ibiza on Thu 30 Jul.
 
@@ -33,4 +33,4 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 170 set
 
 Gaskin, Luuk van Dijk, Josh Baker
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

@@ -1,6 +1,6 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Aaron Hibell is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Aaron Hibell is a techno and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Adam Beyer, Kotiēr and Alesso. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Aaron Hibell is a techno and trance artist tracked on soundcheck, with 38 sets l
 
 Adam Beyer, Kotiēr, Alesso
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

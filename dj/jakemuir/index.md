@@ -1,6 +1,6 @@
 # Jake Muir
 
-Jake Muir is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Glob, Denver on Fri, 17 Jul 2026.
+Jake Muir is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Glob, Denver on Fri, 17 Jul 2026.
 
 Jake Muir is an ambient and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Berlin, Brussels and Chicago and 12 more. Often billed alongside Kiernan Laveaux, 1morning and Baby Vulture. Next up: Glob, Denver on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jake Muir is an ambient and techno artist based in United States of America, tra
 
 Kiernan Laveaux, 1morning, Baby Vulture
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemuir/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemuir/)*

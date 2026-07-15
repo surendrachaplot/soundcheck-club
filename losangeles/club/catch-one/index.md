@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "REGGAETON Y 2000s (Perreo Classics + Y2K All Night!)" on Sat, 18 Jul 2026.
+Catch One is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "REGGAETON Y 2000s (Perreo Classics + Y2K All Night!)" on Sat, 18 Jul 2026.
 
 Catch One is a music venue in Losangeles listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -17,4 +17,4 @@ Catch One is a music venue in Losangeles listed on soundcheck. 4 upcoming nights
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

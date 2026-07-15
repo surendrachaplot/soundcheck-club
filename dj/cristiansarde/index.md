@@ -1,6 +1,6 @@
 # Cristian Sarde
 
-Cristian Sarde is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 25 Jul 2026.
+Cristian Sarde is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 25 Jul 2026.
 
 Cristian Sarde is a house and techno artist based in Italy, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Alex Dima, Lorenzo Aribone and Munir Nadir. Next up: Sunseabar Beach Club, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Cristian Sarde is a house and techno artist based in Italy, tracked on soundchec
 
 Alex Dima, Lorenzo Aribone, Munir Nadir
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansarde/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansarde/)*

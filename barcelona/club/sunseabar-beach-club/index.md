@@ -1,6 +1,6 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Heels & Souls On The Beach: DJ Pipe, Malika, Professor Roth, Heather" on Fri, 17 Jul 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Heels & Souls On The Beach: DJ Pipe, Malika, Professor Roth, Heather" on Fri, 17 Jul 2026.
 
 Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including acidheaven, Alex Dima, Alex (ES) and Arista and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
@@ -23,4 +23,4 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 17 upco
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

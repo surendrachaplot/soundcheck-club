@@ -1,6 +1,6 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 18 Jul 2026.
+Paula Koski is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 18 Jul 2026.
 
 Paula Koski is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Justine Perry, Steffi and Virginia. Next up: Den Anden Side, Copenhagen on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Paula Koski is a techno and house artist tracked on soundcheck, with 93 sets log
 
 Justine Perry, Steffi, Virginia
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

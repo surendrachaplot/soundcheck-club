@@ -1,6 +1,6 @@
 # TITIA
 
-TITIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
+TITIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
 
 TITIA is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Berlin and Buenosaires and 6 more. Often billed alongside Carlos Valdes, Vuur and Afra. Next up: CLUB RAUM, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ TITIA is a techno and house artist tracked on soundcheck, with 62 sets logged ac
 
 Carlos Valdes, Vuur, Afra
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/titia/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/titia/)*

@@ -1,6 +1,6 @@
 # Yasmin
 
-Yasmin is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
+Yasmin is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 17 Jul 2026.
 
 Yasmin is a house and disco artist tracked on soundcheck, with 67 sets logged across Barcelona, Brisbane, Denver and Glasgow and 13 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Carl Craig. Next up: Amnesia Ibiza, Ibiza on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Yasmin is a house and disco artist tracked on soundcheck, with 67 sets logged ac
 
 Horse Meat Disco, Melvo Baptiste, Carl Craig
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*

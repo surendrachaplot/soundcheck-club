@@ -1,6 +1,6 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+ØTTA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 ØTTA is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -30,4 +30,4 @@
 
 Nico Moreno, 999999999, Alignment
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

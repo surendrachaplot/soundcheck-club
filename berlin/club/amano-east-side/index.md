@@ -1,6 +1,6 @@
 # Amano East-Side
 
-Amano East-Side is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sunset Session 5 " on Fri, 24 Jul 2026.
+Amano East-Side is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sunset Session 5 " on Fri, 24 Jul 2026.
 
 Amano East-Side is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Denno Matini, NAIR (IN), Ukãi Ndame and Walter Griot. Browse upcoming dates, start times and who's playing. Stralauer Pl. 30-31, 10243 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Amano East-Side is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Stralauer Pl. 30-31, 10243 Berlin, Germany, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amano-east-side/)*

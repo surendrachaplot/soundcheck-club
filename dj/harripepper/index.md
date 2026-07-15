@@ -1,6 +1,6 @@
 # Harri Pepper
 
-Harri Pepper is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Grow, London on Sat, 22 Aug 2026.
+Harri Pepper is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Grow, London on Sat, 22 Aug 2026.
 
 Harri Pepper is a house and disco artist tracked on soundcheck, with 63 sets logged across Berlin, Bristol, Istanbul and London and 3 more. Often billed alongside Lukas Wigflex, Rosie Ama and A For Alpha. Next up: Grow, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Harri Pepper is a house and disco artist tracked on soundcheck, with 63 sets log
 
 Lukas Wigflex, Rosie Ama, A For Alpha
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*

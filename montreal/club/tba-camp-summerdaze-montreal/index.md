@@ -1,6 +1,6 @@
 # TBA - Camp Summerdaze Montreal
 
-TBA - Camp Summerdaze Montreal is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Camp Summerdaze" on Thu, 30 Jul 2026.
+TBA - Camp Summerdaze Montreal is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Camp Summerdaze" on Thu, 30 Jul 2026.
 
 TBA - Camp Summerdaze Montreal is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including Barac, Joplyn, Nico Stojan and Oliver Koletzki and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Camp Summerdaze Montreal is a music venue in Montreal listed on soundcheck
 | --- | --- | --- |
 | Thu, 30 Jul 2026 | Camp Summerdaze | Barac, Joplyn, Nico Stojan, Oliver Koletzki, Rodrigo Gallardo, Traumer |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-camp-summerdaze-montreal/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-camp-summerdaze-montreal/)*

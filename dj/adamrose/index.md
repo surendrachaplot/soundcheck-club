@@ -1,6 +1,6 @@
 # Adam Rose
 
-Adam Rose is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Outer Heaven, New York City on Sat, 18 Jul 2026.
+Adam Rose is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Outer Heaven, New York City on Sat, 18 Jul 2026.
 
 Adam Rose is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Dublin, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Krane, MR GREEEG and Miro ( Stereokitchen ). Next up: Outer Heaven, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Adam Rose is a house and techno artist based in United States of America, tracke
 
 Krane, MR GREEEG, Miro ( Stereokitchen )
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrose/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrose/)*

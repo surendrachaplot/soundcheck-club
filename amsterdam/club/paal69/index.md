@@ -1,6 +1,6 @@
 # Paal69
 
-Paal69 is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SOMETHINGNU" on Sat, 18 Jul 2026.
+Paal69 is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SOMETHINGNU" on Sat, 18 Jul 2026.
 
 Paal69 is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Cosmic Gate, Cris-H, Cyantist and Enzo Elia and 2 more. Browse upcoming dates, start times and who's playing. South Beach, Zandvoort, Netherlands.
 
@@ -19,4 +19,4 @@ Paal69 is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, wi
 
 South Beach, Zandvoort, Netherlands, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*

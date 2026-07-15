@@ -1,6 +1,6 @@
 # Seehaus Hamburg
 
-Seehaus Hamburg is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Sundowner w/ Mind Against" on Wed, 15 Jul 2026.
+Seehaus Hamburg is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sundowner w/ Mind Against" on Wed, 15 Jul 2026.
 
 Seehaus Hamburg is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Andhim, DJ Tennis and Mind Against. Browse upcoming dates, start times and who's playing. An der Alster 10a, 20099 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Seehaus Hamburg is a music venue in Hamburg listed on soundcheck. 3 upcoming nig
 
 An der Alster 10a, 20099 Hamburg, Germany, Hamburg
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/seehaus-hamburg/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/seehaus-hamburg/)*

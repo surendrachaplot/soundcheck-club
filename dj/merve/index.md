@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
+Merve is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
 
 Merve is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Fastlove, Sansibar and Fais Le Beau. Next up: TILLATEC, Amsterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Merve is a house and techno artist tracked on soundcheck, with 81 sets logged ac
 
 Fastlove, Sansibar, Fais Le Beau
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

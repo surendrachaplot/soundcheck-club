@@ -1,6 +1,6 @@
 # Whitesquare
 
-Whitesquare is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fooq's Miami, Miami on Sat, 18 Jul 2026.
+Whitesquare is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fooq's Miami, Miami on Sat, 18 Jul 2026.
 
 Whitesquare is a house and techno artist based in Italy, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Cologne and Ibiza and 14 more. Often billed alongside Mr. Tron, SATURNSARii and Souls Departed. Next up: Fooq's Miami, Miami on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Whitesquare is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Mr. Tron, SATURNSARii, Souls Departed
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whitesquare/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/whitesquare/)*

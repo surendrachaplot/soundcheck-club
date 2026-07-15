@@ -1,6 +1,6 @@
 # Citizens Union
 
-Citizens Union is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Citizens Union is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Citizens Union is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Leipzig, Stuttgart and Tbilisi. Often billed alongside Natuta, Knaughty and VINVAR. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Citizens Union is a house and techno artist tracked on soundcheck, with 38 sets 
 
 Natuta, Knaughty, VINVAR
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*

@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 15 Jul 2026.
+Francis Mercier is a Afro House and House artist with 19 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 15 Jul 2026.
 
 Francis Mercier is an afro house and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Santanna Mykonos, Mykonos on Wed 15 Jul.
 
@@ -36,4 +36,4 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

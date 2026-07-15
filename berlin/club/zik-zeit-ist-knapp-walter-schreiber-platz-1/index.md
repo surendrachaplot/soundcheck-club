@@ -1,6 +1,6 @@
 # ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1)
 
-ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1) is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "LOVEDANCIN' Roller Jam" on Sun, 9 Aug 2026.
+ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1) is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "LOVEDANCIN' Roller Jam" on Sun, 9 Aug 2026.
 
 ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1) is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Flo Real, Moodymann, Tom Kutsche and Willy Soul. Browse upcoming dates, start times and who's playing. Walter-Schreiber-Platz 1.
 
@@ -14,4 +14,4 @@ ZIK Zeit IST Knapp (Walter-Schreiber-Platz 1) is a music venue in Berlin listed 
 
 Walter-Schreiber-Platz 1, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zik-zeit-ist-knapp-walter-schreiber-platz-1/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zik-zeit-ist-knapp-walter-schreiber-platz-1/)*

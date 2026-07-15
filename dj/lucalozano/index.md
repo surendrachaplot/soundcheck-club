@@ -1,6 +1,6 @@
 # Luca Lozano
 
-Luca Lozano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Patterns, Brighton on Fri, 17 Jul 2026.
+Luca Lozano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Patterns, Brighton on Fri, 17 Jul 2026.
 
 Luca Lozano is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Patterns, Brighton on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Luca Lozano is a house and techno artist tracked on soundcheck, with 100 sets lo
 
 Mr. Ho, Mogwaa, Omega III
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*

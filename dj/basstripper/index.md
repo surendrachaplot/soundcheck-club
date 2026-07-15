@@ -1,6 +1,6 @@
 # Basstripper
 
-Basstripper is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
+Basstripper is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Document, Bristol on Sat, 18 Jul 2026.
 
 Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside Camo & Krooked, Hedex and Turno. Next up: Document, Bristol on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundc
 
 Camo & Krooked, Hedex, Turno
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*

@@ -1,6 +1,6 @@
 # 91 Brick Lane
 
-91 Brick Lane is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Jazz on the Lane" on Sat, 18 Jul 2026.
+91 Brick Lane is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Jazz on the Lane" on Sat, 18 Jul 2026.
 
 91 Brick Lane is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
 
@@ -15,4 +15,4 @@
 
 91 Brick Lane, London E1 6QL, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/91-brick-lane/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/91-brick-lane/)*

@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
+Sepp is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
 
 Sepp is a minimal and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nu Zau, Alci and Gescu. Next up: THE OTHER SIDE, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Sepp is a minimal and house artist tracked on soundcheck, with 102 sets logged a
 
 Nu Zau, Alci, Gescu
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

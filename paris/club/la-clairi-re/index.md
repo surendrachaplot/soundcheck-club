@@ -1,6 +1,6 @@
 # La Clairière
 
-La Clairière is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "La Clairière: Mont Rouge, Franc Fala, Baron" on Fri, 17 Jul 2026.
+La Clairière is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "La Clairière: Mont Rouge, Franc Fala, Baron" on Fri, 17 Jul 2026.
 
 La Clairière is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Agoria, ARKADYAN, Baron and Calao and 2 more. Browse upcoming dates, start times and who's playing. 1, carrefour de Longchamp, 75116 Paris, France.
 
@@ -23,4 +23,4 @@ La Clairière is a music venue in Paris listed on soundcheck. 13 upcoming nights
 
 1, carrefour de Longchamp, 75116 Paris, France, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*

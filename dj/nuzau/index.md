@@ -1,6 +1,6 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
+Nu Zau is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
 
 Nu Zau is a minimal and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Night Tales, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Nu Zau is a minimal and house artist tracked on soundcheck, with 82 sets logged 
 
 Sepp, Arapu, Sublee
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

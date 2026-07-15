@@ -1,6 +1,6 @@
 # Acid Asian
 
-Acid Asian is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at OST, Berlin on Fri, 17 Jul 2026.
+Acid Asian is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OST, Berlin on Fri, 17 Jul 2026.
 
 Acid Asian is a techno and acid artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 2 more. Often billed alongside BETRIZA, BR:UNO and Amber Broos. Next up: OST, Berlin on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Acid Asian is a techno and acid artist tracked on soundcheck, with 25 sets logge
 
 BETRIZA, BR:UNO, Amber Broos
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidasian/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acidasian/)*

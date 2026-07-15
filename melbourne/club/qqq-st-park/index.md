@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "BEATDOWN PRESENTS SHIVERZ DA BUTCHER" on Fri, 17 Jul 2026.
+QQQ ST. Park is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "BEATDOWN PRESENTS SHIVERZ DA BUTCHER" on Fri, 17 Jul 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Cosy (2), hotbabe93, safire and Sistym and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -18,4 +18,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 5 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

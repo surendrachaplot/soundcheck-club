@@ -1,6 +1,6 @@
 # eijin
 
-eijin is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at HVEN, Tokyo on Sun, 19 Jul 2026.
+eijin is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at HVEN, Tokyo on Sun, 19 Jul 2026.
 
 eijin is a techno and bass artist based in Japan, tracked on soundcheck, with 46 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, ast midori and Whatman. Next up: HVEN, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ eijin is a techno and bass artist based in Japan, tracked on soundcheck, with 46
 
 E.O.U, ast midori, Whatman
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eijin/)*

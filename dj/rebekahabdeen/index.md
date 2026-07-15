@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Last Arch, London on Fri, 17 Jul 2026.
+Rebekah Abdeen is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Last Arch, London on Fri, 17 Jul 2026.
 
 Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 49 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: Last Arch, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Rebekah Abdeen is a techno and bass artist tracked on soundcheck, with 49 sets l
 
 Denham Audio, Trudy Knight, Triple Point
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

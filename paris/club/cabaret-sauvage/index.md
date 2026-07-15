@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "OHP: Mézigue & Mad Rey, Tatie Dee, OHP crew" on Sat, 18 Jul 2026.
+Cabaret Sauvage is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "OHP: Mézigue & Mad Rey, Tatie Dee, OHP crew" on Sat, 18 Jul 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Budino, Djé Djé from the block, Dj Koyla and Mad Rey and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -17,4 +17,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 4 upcoming night
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

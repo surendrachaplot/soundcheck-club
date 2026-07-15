@@ -1,6 +1,6 @@
 # BENZA
 
-BENZA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ministerium Club, Lisbon on Sat, 18 Jul 2026.
+BENZA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ministerium Club, Lisbon on Sat, 18 Jul 2026.
 
 BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belgrade, Berlin and Ghent and 12 more. Often billed alongside Vilchezz, JKS and NDSTPS. Next up: Ministerium Club, Lisbon on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ BENZA is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 Vilchezz, JKS, NDSTPS
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benza/)*

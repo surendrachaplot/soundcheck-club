@@ -1,6 +1,6 @@
 # Tamarack
 
-Tamarack is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "TE QUEREMOS VENEZUELA" on Sat, 18 Jul 2026.
+Tamarack is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "TE QUEREMOS VENEZUELA" on Sat, 18 Jul 2026.
 
 Tamarack is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Bored Lord, Drumset, Louie El Ser and mare.e.fresh and 2 more. Browse upcoming dates, start times and who's playing. 1501 Harrison Street Oakland CA 94612.
 
@@ -8,11 +8,11 @@ Tamarack is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TE QUEREMOS VENEZUELA | Louie El Ser, Profesito, mare.e.fresh |
+| Sat, 18 Jul 2026 | TE QUEREMOS VENEZUELA | Louie El Ser, Mediina, Profesito, mare.e.fresh |
 | Fri, 24 Jul 2026 | Those Who Know | Bored Lord, Drumset, Mina Mills, Server |
 
 ## Address
 
 1501 Harrison Street Oakland CA 94612, San Francisco/Oakland
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tamarack/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tamarack/)*

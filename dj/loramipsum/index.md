@@ -1,6 +1,6 @@
 # Lora Mipsum
 
-Lora Mipsum is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Lora Mipsum is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 Lora Mipsum is a progressive house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside ANNX, Richard Gregory and Inner Zone. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Lora Mipsum is a progressive house and house artist tracked on soundcheck, with 
 
 ANNX, Richard Gregory, Inner Zone
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*

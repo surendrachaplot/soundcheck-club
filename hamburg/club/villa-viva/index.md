@@ -1,6 +1,6 @@
 # Villa Viva
 
-Villa Viva is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Viva la Cumbia" on Sat, 18 Jul 2026.
+Villa Viva is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Viva la Cumbia" on Sat, 18 Jul 2026.
 
 Villa Viva is a music venue in Hamburg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Schultzweg 4, 20097 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Villa Viva is a music venue in Hamburg listed on soundcheck. 1 upcoming night. B
 
 Schultzweg 4, 20097 Hamburg, Germany, Hamburg
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/villa-viva/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/villa-viva/)*

@@ -1,6 +1,6 @@
 # Test venue (amsterdam)
 
-Test venue (amsterdam) is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "LMC test event" on Tue, 21 Jul 2026.
+Test venue (amsterdam) is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "LMC test event" on Tue, 21 Jul 2026.
 
 Test venue (amsterdam) is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including LMCUK. Browse upcoming dates, start times and who's playing. Test road.
 
@@ -15,4 +15,4 @@ Test venue (amsterdam) is a music venue in Amsterdam listed on soundcheck. 2 upc
 
 Test road, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/test-venue-amsterdam/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/test-venue-amsterdam/)*

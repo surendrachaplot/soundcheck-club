@@ -1,14 +1,15 @@
 # MUKKIMIAU
 
-MUKKIMIAU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+MUKKIMIAU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
-MUKKIMIAU is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 3 more. Often billed alongside Max Joni, LIZZN and ONNI. Next up: KitKatClub, Berlin on Fri 31 Jul.
+MUKKIMIAU is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 3 more. Often billed alongside Max Joni, LIZZN and ONNI. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | KitKatClub | Berlin |
+| Sat, 1 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 15 Aug 2026 | SAGE | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ MUKKIMIAU is a techno and house artist tracked on soundcheck, with 41 sets logge
 
 Max Joni, LIZZN, ONNI
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mukkimiau/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mukkimiau/)*

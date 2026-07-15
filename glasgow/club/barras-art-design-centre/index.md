@@ -1,6 +1,6 @@
 # Barras Art & Design Centre
 
-Barras Art & Design Centre is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Soul On Sunday Day Time Disco" on Sun, 26 Jul 2026.
+Barras Art & Design Centre is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Soul On Sunday Day Time Disco" on Sun, 26 Jul 2026.
 
 Barras Art & Design Centre is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Jamie Fielding. Browse upcoming dates, start times and who's playing. 54 Calton Entry, Glasgow, Scotland, United Kingdom G40 2SB.
 
@@ -17,4 +17,4 @@ Barras Art & Design Centre is a music venue in Glasgow listed on soundcheck. 4 u
 
 54 Calton Entry, Glasgow, Scotland, United Kingdom G40 2SB, Glasgow
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/barras-art-design-centre/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/barras-art-design-centre/)*

@@ -1,6 +1,6 @@
 # Marhu
 
-Marhu is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 19 Jul 2026.
+Marhu is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hï Ibiza, Ibiza on Sun, 19 Jul 2026.
 
 Marhu is a techno and trance artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 20 more. Often billed alongside Indira Paganotto, BIIA and Die Klar. Next up: Hï Ibiza, Ibiza on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Marhu is a techno and trance artist tracked on soundcheck, with 46 sets logged a
 
 Indira Paganotto, BIIA, Die Klar
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marhu/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marhu/)*

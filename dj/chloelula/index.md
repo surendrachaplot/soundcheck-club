@@ -1,6 +1,6 @@
 # Chloe Lula
 
-Chloe Lula is a Industrial and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
+Chloe Lula is a Industrial and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
 
 Chloe Lula is an industrial and techno artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin and London. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Chloe Lula is an industrial and techno artist tracked on soundcheck, with 10 set
 
 Ireen Amnes, Barbara Preisinger, Helena Hauff
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*

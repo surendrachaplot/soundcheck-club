@@ -1,8 +1,8 @@
 # Adi Dassler
 
-Adi Dassler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Climax-Institutes, Stuttgart on Thu, 16 Jul 2026.
+Adi Dassler is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Climax-Institutes, Stuttgart on Thu, 16 Jul 2026.
 
-Adi Dassler is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Cologne, Frankfurt, Rome and Stuttgart and 1 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Climax-Institutes, Stuttgart on Thu 16 Jul.
+Adi Dassler is a techno and tech house artist tracked on soundcheck, with 89 sets logged across Cologne, Frankfurt, Rome and Stuttgart and 1 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Climax-Institutes, Stuttgart on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Adi Dassler is a techno and tech house artist tracked on soundcheck, with 88 set
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Climax-Institutes | Stuttgart |
 | Thu, 30 Jul 2026 | Climax-Institutes | Stuttgart |
+| Sat, 1 Aug 2026 | Die Schneiderei | Zurich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Adi Dassler is a techno and tech house artist tracked on soundcheck, with 88 set
 
 Sid_Porwal, Tonino, Magia Mafia
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*

@@ -1,6 +1,6 @@
 # MS Artville
 
-MS Artville is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Habitat Festival 2026" on Sat, 18 Jul 2026.
+MS Artville is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Habitat Festival 2026" on Sat, 18 Jul 2026.
 
 MS Artville is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including 50PHIE, Alarico, Alba Franch and Antonym and 2 more. Browse upcoming dates, start times and who's playing. Alte Schleuse 23, Hamburg, Germany.
 
@@ -14,4 +14,4 @@ MS Artville is a music venue in Hamburg listed on soundcheck. 1 upcoming night, 
 
 Alte Schleuse 23, Hamburg, Germany, Hamburg
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-artville/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-artville/)*

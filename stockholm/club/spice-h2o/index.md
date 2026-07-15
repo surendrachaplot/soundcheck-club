@@ -1,6 +1,6 @@
 # Spice H2O
 
-Spice H2O is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "SYLVIE’S HEAD" on Wed, 15 Jul 2026.
+Spice H2O is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "SYLVIE’S HEAD" on Wed, 15 Jul 2026.
 
 Spice H2O is a music venue in Stockholm listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 17, 118 60. Södermalm.
 
@@ -14,4 +14,4 @@ Spice H2O is a music venue in Stockholm listed on soundcheck. 1 upcoming night. 
 
 Hammarby Slussväg 17, 118 60. Södermalm, Stockholm
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/spice-h2o/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/spice-h2o/)*

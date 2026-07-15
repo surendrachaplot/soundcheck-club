@@ -1,6 +1,6 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 16 Jul 2026.
+Mix-Stress is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 16 Jul 2026.
 
 Mix-Stress is a house and disco artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Armand Van Helden. Next up: 528 Ibiza, Ibiza on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Mix-Stress is a house and disco artist based in United Kingdom, tracked on sound
 
 Gina Breeze, Krysko, Armand Van Helden
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*

@@ -1,6 +1,6 @@
 # Krysko
 
-Krysko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
+Krysko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 Krysko is a house and techno artist tracked on soundcheck, with 37 sets logged across Antwerp, Ibiza, Leeds and Manchester and 3 more. Often billed alongside Joe Motion, Greg Lord and Rich Reason. Next up: 528 Ibiza, Ibiza on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Krysko is a house and techno artist tracked on soundcheck, with 37 sets logged a
 
 Joe Motion, Greg Lord, Rich Reason
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*

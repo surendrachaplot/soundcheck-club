@@ -1,6 +1,6 @@
 # Sixtroke
 
-Sixtroke is a House and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Wych, Toronto on Fri, 17 Jul 2026.
+Sixtroke is a House and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Wych, Toronto on Fri, 17 Jul 2026.
 
 Sixtroke is a house and hardcore artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside 666.pastel, A.J. Matos and Azalea the Witch. Next up: The Wych, Toronto on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Sixtroke is a house and hardcore artist based in Canada, tracked on soundcheck, 
 
 666.pastel, A.J. Matos, Azalea the Witch
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*

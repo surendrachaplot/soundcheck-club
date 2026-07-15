@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 15 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "That Yolk!" on Thu, 16 Jul 2026.
+The Greyhound is a music venue in London with 15 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "That Yolk!" on Thu, 16 Jul 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including ALNA, arawzi, BBBB (2) and Black Devil Disco Club and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 15 upcoming night
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

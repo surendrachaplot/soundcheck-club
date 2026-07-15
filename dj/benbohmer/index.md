@@ -1,6 +1,6 @@
 # Ben Böhmer
 
-Ben Böhmer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 26 Jul 2026.
+Ben Böhmer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 26 Jul 2026.
 
 Ben Böhmer is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Adriatique, Deer Jade and KI/KI. Next up: Křižíkova Fountain, Prague on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Ben Böhmer is a techno and house artist tracked on soundcheck, with 79 sets log
 
 Adriatique, Deer Jade, KI/KI
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*

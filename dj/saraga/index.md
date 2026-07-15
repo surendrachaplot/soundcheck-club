@@ -1,6 +1,6 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 15 Jul 2026.
+Saraga is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Blue Marlin Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Saraga is a house and tech house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 11 more. Often billed alongside Guy Gerber, AGELESS and Bedouin. Next up: Blue Marlin Ibiza, Ibiza on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Saraga is a house and tech house artist tracked on soundcheck, with 64 sets logg
 
 Guy Gerber, AGELESS, Bedouin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Wetness: Rosariodela Aurora, MENTA" on Wed, 15 Jul 2026.
+Switch Bar is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Wetness: Rosariodela Aurora, MENTA" on Wed, 15 Jul 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Alessa (ES), Arildo, Dada Disco and Edu C and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 12 upcoming night
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

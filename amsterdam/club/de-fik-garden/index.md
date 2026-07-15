@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "HYPERWAVES invites Flux Collective" on Sat, 18 Jul 2026.
+De Fik Garden is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "HYPERWAVES invites Flux Collective" on Sat, 18 Jul 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Anémi, BENZA, BIANKA and Chami and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -20,4 +20,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 7 upcoming nig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

@@ -1,6 +1,6 @@
 # Nusha
 
-Nusha is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 16 Jul 2026.
+Nusha is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 16 Jul 2026.
 
 Nusha is a techno and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Simina Grigoriu, Alfred Heinrichs and Anna Tur. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Nusha is a techno and tech house artist tracked on soundcheck, with 53 sets logg
 
 Simina Grigoriu, Alfred Heinrichs, Anna Tur
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nusha/)*

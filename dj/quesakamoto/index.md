@@ -1,6 +1,6 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
+Que Sakamoto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
 
 Que Sakamoto is a house and techno artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 18 more. Often billed alongside Annyrock, Cabanne and Cez (1). Next up: Circle Park, Brussels on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Que Sakamoto is a house and techno artist tracked on soundcheck, with 53 sets lo
 
 Annyrock, Cabanne, Cez (1)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

@@ -1,6 +1,6 @@
 # Kovvalsky
 
-Kovvalsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at B-SIDE, Warsaw on Fri, 17 Jul 2026.
+Kovvalsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at B-SIDE, Warsaw on Fri, 17 Jul 2026.
 
 Kovvalsky is a techno and house artist tracked on soundcheck, with 85 sets logged across Berlin, Krakow, Milan and Newyorkcity and 4 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: B-SIDE, Warsaw on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kovvalsky is a techno and house artist tracked on soundcheck, with 85 sets logge
 
 Pitti Schmitti, dd (PL), Olivia
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kovvalsky/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kovvalsky/)*

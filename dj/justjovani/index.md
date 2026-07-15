@@ -1,6 +1,6 @@
 # JustJovani
 
-JustJovani is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Great Northern, San Francisco/Oakland on Sat, 25 Jul 2026.
+JustJovani is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Great Northern, San Francisco/Oakland on Sat, 25 Jul 2026.
 
 JustJovani is a techno and acid artist tracked on soundcheck, with 56 sets logged across Sanfrancisco. Often billed alongside SNAQ, Sandra Mane and Hannah Monica. Next up: The Great Northern, Sanfrancisco on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ JustJovani is a techno and acid artist tracked on soundcheck, with 56 sets logge
 
 SNAQ, Sandra Mane, Hannah Monica
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justjovani/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justjovani/)*

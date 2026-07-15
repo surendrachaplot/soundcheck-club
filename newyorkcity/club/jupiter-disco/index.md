@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal, RZN8R, Kettle" on Wed, 15 Jul 2026.
+Jupiter Disco is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Village Hidden in Sound: Jazzy Woo, Shawna Solaris, Knostalgia, MISS VEE, Petal, RZN8R, Kettle" on Wed, 15 Jul 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 5LAPHOUSE, AG (NYC), Alcantara and Ameera and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 30 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

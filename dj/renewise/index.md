@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gare Porto, Porto on Sat, 18 Jul 2026.
+Rene Wise is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gare Porto, Porto on Sat, 18 Jul 2026.
 
 Rene Wise is a techno and house artist tracked on soundcheck, with 232 sets logged across Amsterdam, Athens, Austin and Barcelona and 67 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Gare Porto, Porto on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 232 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

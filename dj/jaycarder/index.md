@@ -1,6 +1,6 @@
 # Jay Carder
 
-Jay Carder is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at M.O.T, London on Sat, 22 Aug 2026.
+Jay Carder is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at M.O.T, London on Sat, 22 Aug 2026.
 
 Jay Carder is a bass and garage artist tracked on soundcheck, with 106 sets logged across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Lukas Wigflex and Bluetoof. Next up: M.O.T, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Jay Carder is a bass and garage artist tracked on soundcheck, with 106 sets logg
 
 Neffa-T, Lukas Wigflex, Bluetoof
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*

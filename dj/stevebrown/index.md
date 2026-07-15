@@ -1,6 +1,6 @@
 # Steve Brown
 
-Steve Brown is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Gallery, London on Thu, 16 Jul 2026.
+Steve Brown is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gallery, London on Thu, 16 Jul 2026.
 
 Steve Brown is a house and tech house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside BOA (1), DAMPY and Kat Bendis. Next up: Gallery, London on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Steve Brown is a house and tech house artist tracked on soundcheck, with 14 sets
 
 BOA (1), DAMPY, Kat Bendis
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebrown/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebrown/)*

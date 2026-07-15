@@ -1,6 +1,6 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at teller, Seoul on Thu, 16 Jul 2026.
+Raphael Carrau is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at teller, Seoul on Thu, 16 Jul 2026.
 
 Raphael Carrau is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 36 more. Often billed alongside Unai Trotti, Colin Chiddle and Vass. Next up: teller, Seoul on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Raphael Carrau is a house and techno artist tracked on soundcheck, with 130 sets
 
 Unai Trotti, Colin Chiddle, Vass
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-uk/)*

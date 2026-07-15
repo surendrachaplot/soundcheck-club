@@ -1,6 +1,6 @@
 # SOFI TUKKER
 
-SOFI TUKKER is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 23 Jul 2026.
+SOFI TUKKER is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 23 Jul 2026.
 
 SOFI TUKKER is a house and tech house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Buenosaires, Chicago and Ibiza and 12 more. Often billed alongside Anabel Englund, LP Giobbi and Eli Brown. Next up: Ushuaïa Ibiza, Ibiza on Thu 23 Jul.
 
@@ -28,4 +28,4 @@ SOFI TUKKER is a house and tech house artist based in United States of America, 
 
 Anabel Englund, LP Giobbi, Eli Brown
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofitukker/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sofitukker/)*

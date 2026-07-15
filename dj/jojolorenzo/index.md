@@ -1,6 +1,6 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Glass House, Los Angeles on Sat, 18 Jul 2026.
+Jojo Lorenzo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Glass House, Los Angeles on Sat, 18 Jul 2026.
 
 Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 108 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Tinzo, RaeCola and X & Ivy. Next up: The Glass House, Losangeles on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 108 sets lo
 
 Tinzo, RaeCola, X & Ivy
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

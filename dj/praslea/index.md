@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Starlane Pizza Bar, London on Sat, 25 Jul 2026.
+Praslea is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Starlane Pizza Bar, London on Sat, 25 Jul 2026.
 
 Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: Starlane Pizza Bar, London on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged
 
 Raresh, CEZAR, Traumer
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

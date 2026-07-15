@@ -1,6 +1,6 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Chloé Caillet is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside DJ Tennis, Seth Troxler and Mochakk. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -35,4 +35,4 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 227 sets
 
 DJ Tennis, Seth Troxler, Mochakk
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

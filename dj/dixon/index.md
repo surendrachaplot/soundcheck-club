@@ -1,6 +1,6 @@
 # Dixon
 
-Dixon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
+Dixon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
 
 Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Dixon is a house and techno artist tracked on soundcheck, with 182 sets logged a
 
 Jimi Jules, Âme, Trikk
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

@@ -1,6 +1,6 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at NAR, Utrecht on Fri, 17 Jul 2026.
+Tsepo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at NAR, Utrecht on Fri, 17 Jul 2026.
 
 Tsepo is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Tjade. Next up: NAR, Utrecht on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Tsepo is a house and techno artist tracked on soundcheck, with 115 sets logged a
 
 Lucky Done Gone, dj sweet6teen, Tjade
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*

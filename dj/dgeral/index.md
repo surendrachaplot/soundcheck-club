@@ -1,6 +1,6 @@
 # Dgeral
 
-Dgeral is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Dgeral is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Dgeral is a techno and house artist based in Venezuela, tracked on soundcheck, with 75 sets logged across Berlin, Copenhagen, Leipzig and Paris and 1 more. Often billed alongside Sparkly Pony, James Lotion and Queen E. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Dgeral is a techno and house artist based in Venezuela, tracked on soundcheck, w
 
 Sparkly Pony, James Lotion, Queen E
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*

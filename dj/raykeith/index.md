@@ -1,6 +1,6 @@
 # Ray Keith
 
-Ray Keith is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Flash, Washington DC on Thu, 16 Jul 2026.
+Ray Keith is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Flash, Washington DC on Thu, 16 Jul 2026.
 
 Ray Keith is a drum & bass and jungle artist tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Boston and Brighton and 17 more. Often billed alongside Nicky Blackmarket, Grooverider and Jumping Jack Frost. Next up: Flash, Washingtondc on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Ray Keith is a drum & bass and jungle artist tracked on soundcheck, with 97 sets
 
 Nicky Blackmarket, Grooverider, Jumping Jack Frost
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*

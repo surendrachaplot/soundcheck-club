@@ -1,6 +1,6 @@
 # Dream Bags Jaguar Shoes
 
-Dream Bags Jaguar Shoes is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Deep Horizon - European Series: Grand London Debut" on Fri, 17 Jul 2026.
+Dream Bags Jaguar Shoes is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Deep Horizon - European Series: Grand London Debut" on Fri, 17 Jul 2026.
 
 Dream Bags Jaguar Shoes is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including KT, Alien Izz, Cortese and Giulia Tess and 2 more. Browse upcoming dates, start times and who's playing. 32-36 Kingsland Road Shoreditch London E2 8DA.
 
@@ -15,4 +15,4 @@ Dream Bags Jaguar Shoes is a music venue in London listed on soundcheck. 2 upcom
 
 32-36 Kingsland Road Shoreditch London E2 8DA, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dream-bags-jaguar-shoes/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dream-bags-jaguar-shoes/)*

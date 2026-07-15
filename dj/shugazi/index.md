@@ -1,6 +1,6 @@
 # SHUGAZI
 
-SHUGAZI is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Dolphin, Philadelphia on Sat, 18 Jul 2026.
+SHUGAZI is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Dolphin, Philadelphia on Sat, 18 Jul 2026.
 
 SHUGAZI is a club and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Philadelphia. Often billed alongside JEWELSSEA, mel b and Eev Frances. Next up: The Dolphin, Philadelphia on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ SHUGAZI is a club and techno artist based in United States of America, tracked o
 
 JEWELSSEA, mel b, Eev Frances
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shugazi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shugazi/)*

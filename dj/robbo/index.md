@@ -1,6 +1,6 @@
 # Robbo
 
-Robbo is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Last Arch, London on Sat, 18 Jul 2026.
+Robbo is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Last Arch, London on Sat, 18 Jul 2026.
 
 Robbo is a house and garage artist tracked on soundcheck, with 37 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Jenson., Jenson and Josh Keit. Next up: Last Arch, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Robbo is a house and garage artist tracked on soundcheck, with 37 sets logged ac
 
 Jenson., Jenson, Josh Keit
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robbo/)*

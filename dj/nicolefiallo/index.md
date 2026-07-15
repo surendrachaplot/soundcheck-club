@@ -1,6 +1,6 @@
 # Nicole Fiallo
 
-Nicole Fiallo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 1-800-Lucky, Miami on Fri, 17 Jul 2026.
+Nicole Fiallo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 1-800-Lucky, Miami on Fri, 17 Jul 2026.
 
 Nicole Fiallo is a house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Ibiza, Madrid, Miami and Montreal and 3 more. Often billed alongside Lazaro Casanova, Oscar G and Doc Brown. Next up: 1-800-Lucky, Miami on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Nicole Fiallo is a house and tech house artist based in United States of America
 
 Lazaro Casanova, Oscar G, Doc Brown
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolefiallo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolefiallo/)*

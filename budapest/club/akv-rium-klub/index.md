@@ -1,6 +1,6 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Bogdan presents – Marcelo Vasami 4-HOUR SET at Akvárium Lokál" on Fri, 24 Jul 2026.
+Akvárium Klub is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bogdan presents – Marcelo Vasami 4-HOUR SET at Akvárium Lokál" on Fri, 24 Jul 2026.
 
 Akvárium Klub is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Eli Brown, Fritz Kalkbrenner, Jamie Woon and Joachim Pastor and 2 more. Browse upcoming dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
@@ -22,4 +22,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 9 upcoming nig
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

@@ -1,6 +1,6 @@
 # Folamour
 
-Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sawmills, Bristol on Sat, 18 Jul 2026.
+Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sawmills, Bristol on Sat, 18 Jul 2026.
 
 Folamour is a house and disco artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Sawmills, Bristol on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Folamour is a house and disco artist tracked on soundcheck, with 141 sets logged
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

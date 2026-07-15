@@ -1,6 +1,6 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Cloonee" on Sat, 18 Jul 2026.
+LIV Nightclub Miami is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Cloonee" on Sat, 18 Jul 2026.
 
 LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 16 upcoming nights, with line-ups including Cloonee, Galantis, Ian Asher and Korolova and 1 more. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
@@ -23,4 +23,4 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 16 upcoming 
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

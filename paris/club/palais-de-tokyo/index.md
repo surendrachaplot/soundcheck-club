@@ -1,6 +1,6 @@
 # Palais de Tokyo
 
-Palais de Tokyo is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "TOKYOWAVES" on Sat, 18 Jul 2026.
+Palais de Tokyo is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "TOKYOWAVES" on Sat, 18 Jul 2026.
 
 Palais de Tokyo is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including BASHKKA, Beatrice M., Erna (FR) and Jen Cardini and 2 more. Browse upcoming dates, start times and who's playing. 13 Avenue du Président Wilson, Paris 16.
 
@@ -17,4 +17,4 @@ Palais de Tokyo is a music venue in Paris listed on soundcheck. 4 upcoming night
 
 13 Avenue du Président Wilson, Paris 16, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/palais-de-tokyo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/palais-de-tokyo/)*

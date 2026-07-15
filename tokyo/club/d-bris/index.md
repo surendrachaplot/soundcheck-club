@@ -1,6 +1,6 @@
 # Débris
 
-Débris is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Ali 5HOUR SET @Debris Daikanyama" on Tue, 14 Jul 2026.
+Débris is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "OVER EASY" on Wed, 15 Jul 2026.
 
 Débris is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including AOI BLOOM, cirra, cosmolady and DJ Flexure and 2 more. Browse upcoming dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
@@ -8,7 +8,7 @@ Débris is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | Ali 5HOUR SET @Debris Daikanyama |  |
+| Wed, 15 Jul 2026 | OVER EASY | U (UK) |
 | Fri, 17 Jul 2026 | neutral | FUJIMON, Sai |
 | Sun, 19 Jul 2026 | simsim | AOI BLOOM, MagRena, cosmolady, hidemi |
 | Tue, 21 Jul 2026 | Jarrah Honey | Kenjinho |
@@ -19,4 +19,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with 
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

@@ -1,6 +1,6 @@
 # Lavandonia
 
-Lavandonia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+Lavandonia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 Lavandonia is a house and techno artist tracked on soundcheck, with 37 sets logged across Barcelona, Frankfurt, Munich and Naples and 1 more. Often billed alongside Alles Andere, Alessio Barletta and Muallem. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Lavandonia is a house and techno artist tracked on soundcheck, with 37 sets logg
 
 Alles Andere, Alessio Barletta, Muallem
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lavandonia/)*

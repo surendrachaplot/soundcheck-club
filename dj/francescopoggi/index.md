@@ -1,6 +1,6 @@
 # Francesco Poggi
 
-Francesco Poggi is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+Francesco Poggi is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
 
 Francesco Poggi is a tech house and house artist tracked on soundcheck, with 139 sets logged across Dublin, Lisbon, London and Madrid and 2 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Francesco Poggi is a tech house and house artist tracked on soundcheck, with 139
 
 Enrico Chirchiello, Bibiminor, Duwat?
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*

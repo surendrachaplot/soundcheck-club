@@ -1,6 +1,6 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Flowdan is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Flowdan is a bass and garage artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Flowdan is a bass and garage artist tracked on soundcheck, with 106 sets logged 
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

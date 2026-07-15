@@ -1,6 +1,6 @@
 # Vio PRG
 
-Vio PRG is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at ciao ciao Bar, Berlin on Sat, 18 Jul 2026.
+Vio PRG is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at ciao ciao Bar, Berlin on Sat, 18 Jul 2026.
 
 Vio PRG is a house and techno artist based in Romania, tracked on soundcheck, with 126 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Anacalypto, Ady Toledano and Frozilla. Next up: ciao ciao Bar, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Vio PRG is a house and techno artist based in Romania, tracked on soundcheck, wi
 
 Anacalypto, Ady Toledano, Frozilla
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vioprg/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vioprg/)*

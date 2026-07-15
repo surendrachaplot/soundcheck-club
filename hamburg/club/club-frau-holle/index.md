@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "RELAX or ROLEX" on Thu, 16 Jul 2026.
+Club Frau Holle is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "RELAX or ROLEX" on Thu, 16 Jul 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Frank Leder, Matt Blue and Oliver Eich. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -19,4 +19,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 6 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

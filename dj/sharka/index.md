@@ -1,6 +1,6 @@
 # SHARKA
 
-SHARKA is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
+SHARKA is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
 
 SHARKA is a techno and industrial artist based in Lithuania, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Labåzuy, Lezcano and Lau.tastic. Next up: LDN East, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ SHARKA is a techno and industrial artist based in Lithuania, tracked on soundche
 
 Labåzuy, Lezcano, Lau.tastic
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharka/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharka/)*

@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Aaja Basement, London on Fri, 17 Jul 2026.
+awhlkuhn is a Dancehall and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Aaja Basement, London on Fri, 17 Jul 2026.
 
 awhlkuhn is a dancehall and baile funk artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, London, Newyorkcity and Rotterdam. Often billed alongside Shinshan Salazar, Ferré and Jarreau Vandal. Next up: Aaja Basement, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ awhlkuhn is a dancehall and baile funk artist based in Netherlands, tracked on s
 
 Shinshan Salazar, Ferré, Jarreau Vandal
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

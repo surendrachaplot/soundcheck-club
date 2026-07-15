@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Batida Solta: BADJUDA, SAM.IITO, YUNG PAIN" on Thu, 16 Jul 2026.
+Bar Datcha is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Batida Solta: BADJUDA, SAM.IITO, YUNG PAIN" on Thu, 16 Jul 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including AṢKIM, Akpossoul, Andrea de Tour and AZARI and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -23,4 +23,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 17 upcoming nights
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

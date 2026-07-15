@@ -1,6 +1,6 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Birgit, Berlin on Fri, 24 Jul 2026.
+Ele Luz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Birgit, Berlin on Fri, 24 Jul 2026.
 
 Ele Luz is a techno and house artist tracked on soundcheck, with 116 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Horst Haller, TraumaMia and Kaufmann. Next up: Birgit, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Ele Luz is a techno and house artist tracked on soundcheck, with 116 sets logged
 
 Horst Haller, TraumaMia, Kaufmann
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

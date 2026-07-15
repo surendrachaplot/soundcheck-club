@@ -1,6 +1,6 @@
 # Andre McLeod
 
-Andre McLeod is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Aoyama Tunnel, Tokyo on Fri, 17 Jul 2026.
+Andre McLeod is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Aoyama Tunnel, Tokyo on Fri, 17 Jul 2026.
 
 Andre McLeod is a house and techno artist based in Japan, tracked on soundcheck, with 102 sets logged across Tokyo. Often billed alongside Aiko Inoue, Celter and Omar Santis. Next up: Aoyama Tunnel, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Andre McLeod is a house and techno artist based in Japan, tracked on soundcheck,
 
 Aiko Inoue, Celter, Omar Santis
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andremcleod/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andremcleod/)*

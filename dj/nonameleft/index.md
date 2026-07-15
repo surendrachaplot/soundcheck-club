@@ -1,6 +1,6 @@
 # NoNameLeft
 
-NoNameLeft is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Viadukt Bar, Budapest on Fri, 17 Jul 2026.
+NoNameLeft is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Viadukt Bar, Budapest on Fri, 17 Jul 2026.
 
 NoNameLeft is a techno and house artist tracked on soundcheck, with 40 sets logged across Berlin, Budapest, Copenhagen and Frankfurt and 10 more. Often billed alongside Dreadsun, Ele Luz and Aio. Next up: Viadukt Bar, Budapest on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ NoNameLeft is a techno and house artist tracked on soundcheck, with 40 sets logg
 
 Dreadsun, Ele Luz, Aio
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*

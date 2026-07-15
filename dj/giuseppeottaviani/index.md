@@ -1,6 +1,6 @@
 # Giuseppe Ottaviani
 
-Giuseppe Ottaviani is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sudatur, Istanbul on Sat, 18 Jul 2026.
+Giuseppe Ottaviani is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sudatur, Istanbul on Sat, 18 Jul 2026.
 
 Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 44 sets logged across Buenosaires, Glasgow, Houston and Ibiza and 22 more. Often billed alongside Billy Gillies, Amy Wiles and Ferry Corsten. Next up: Sudatur, Istanbul on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 44 
 
 Billy Gillies, Amy Wiles, Ferry Corsten
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*

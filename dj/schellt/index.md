@@ -1,6 +1,6 @@
 # SCHELLT
 
-SCHELLT is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
+SCHELLT is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
 
 SCHELLT is a techno and industrial artist tracked on soundcheck, with 49 sets logged across Berlin, Bucharest, Hamburg and Krakow and 3 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: STK 47 WAREHOUSE, Krakow on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ SCHELLT is a techno and industrial artist tracked on soundcheck, with 49 sets lo
 
 VRAXX, Józef Keuner, ERNST (UA)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*

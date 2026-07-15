@@ -1,6 +1,6 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 18 Jul 2026.
+David Löhlein is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 18 Jul 2026.
 
 David Löhlein is a techno and trance artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Lehmann Club, Stuttgart on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ David Löhlein is a techno and trance artist tracked on soundcheck, with 143 set
 
 Raphael Dincsoy, Rove Ranger, AHURA
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

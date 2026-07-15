@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
+Antal is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
 
 Antal is a house and disco artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: 528 Ibiza, Ibiza on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Antal is a house and disco artist tracked on soundcheck, with 138 sets logged ac
 
 Hunee, Kléo, Coco Maria
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

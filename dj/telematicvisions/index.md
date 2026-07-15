@@ -1,6 +1,6 @@
 # Telematic Visions
 
-Telematic Visions is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at clubasia, Tokyo on Fri, 17 Jul 2026.
+Telematic Visions is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at clubasia, Tokyo on Fri, 17 Jul 2026.
 
 Telematic Visions is a techno and house artist based in Japan, tracked on soundcheck, with 38 sets logged across Kyoto, Seoul and Tokyo. Often billed alongside illequal, NordOst and lilbesh ramko. Next up: clubasia, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Telematic Visions is a techno and house artist based in Japan, tracked on soundc
 
 illequal, NordOst, lilbesh ramko
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/telematicvisions/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/telematicvisions/)*

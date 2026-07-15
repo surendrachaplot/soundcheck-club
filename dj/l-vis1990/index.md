@@ -1,6 +1,6 @@
 # L-Vis 1990
 
-L-Vis 1990 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+L-Vis 1990 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside Meg Ward, Serenda and Cinnaman. Next up: The Cause, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soun
 
 Meg Ward, Serenda, Cinnaman
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*

@@ -1,6 +1,6 @@
 # Maron
 
-Maron is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Turbina, Budapest on Sat, 18 Jul 2026.
+Maron is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Turbina, Budapest on Sat, 18 Jul 2026.
 
 Maron is a house and deep house artist based in Hungary, tracked on soundcheck, with 89 sets logged across Berlin and Budapest. Often billed alongside Jaffa Surfa, Kiqo and isu. Next up: Turbina, Budapest on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Maron is a house and deep house artist based in Hungary, tracked on soundcheck, 
 
 Jaffa Surfa, Kiqo, isu
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maron/)*

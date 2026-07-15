@@ -1,13 +1,14 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Floyd, Miami on Fri, 14 Aug 2026.
+Natalia Roth is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 7 Aug 2026.
 
-Natalia Roth is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Boston and Chicago and 14 more. Often billed alongside Danyelino, Ms. Mada and Jamie Jones. Next up: Floyd, Miami on Fri 14 Aug.
+Natalia Roth is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Boston and Chicago and 14 more. Often billed alongside Ms. Mada, Danyelino and Jamie Jones. Next up: Jolene Downtown Miami, Miami on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 7 Aug 2026 | Jolene Downtown Miami | Miami |
 | Fri, 14 Aug 2026 | Floyd | Miami |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
@@ -26,6 +27,6 @@ Natalia Roth is a house and tech house artist tracked on soundcheck, with 133 se
 
 ## Shares bills with
 
-Danyelino, Ms. Mada, Jamie Jones
+Ms. Mada, Danyelino, Jamie Jones
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*

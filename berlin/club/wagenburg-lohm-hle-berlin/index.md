@@ -1,6 +1,6 @@
 # Wagenburg Lohmühle Berlin
 
-Wagenburg Lohmühle Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Buriti Sol" on Sat, 18 Jul 2026.
+Wagenburg Lohmühle Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Buriti Sol" on Sat, 18 Jul 2026.
 
 Wagenburg Lohmühle Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Ani Phoebe, An toi, Dangerous Dave and Encanto and 2 more. Browse upcoming dates, start times and who's playing. Lohmühlenstraße 17, 12435 Berlin-Bezirk Treptow-Köpenick.
 
@@ -14,4 +14,4 @@ Wagenburg Lohmühle Berlin is a music venue in Berlin listed on soundcheck. 1 up
 
 Lohmühlenstraße 17, 12435 Berlin-Bezirk Treptow-Köpenick, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wagenburg-lohm-hle-berlin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wagenburg-lohm-hle-berlin/)*

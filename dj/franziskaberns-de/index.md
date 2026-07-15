@@ -1,6 +1,6 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
+Franziska Berns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BRET, Amsterdam on Sat, 1 Aug 2026.
 
 Franziska Berns is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside dj sweet6teen and Ata. Next up: BRET, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Franziska Berns is a house and techno artist tracked on soundcheck, with 90 sets
 
 dj sweet6teen, , Ata
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*

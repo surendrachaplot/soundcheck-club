@@ -1,6 +1,6 @@
 # AMAR (UK)
 
-AMAR (UK) is a Deep House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tola, London on Fri, 17 Jul 2026.
+AMAR (UK) is a Deep House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tola, London on Fri, 17 Jul 2026.
 
 AMAR (UK) is a deep house and minimal artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Yazmin (UK), MUSICKLUNATIC and MAL33T. Next up: Tola, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ AMAR (UK) is a deep house and minimal artist based in United Kingdom, tracked on
 
 Yazmin (UK), MUSICKLUNATIC, MAL33T
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amaruk/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amaruk/)*

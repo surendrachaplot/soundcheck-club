@@ -1,6 +1,6 @@
 # Jimin
 
-Jimin is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Nyapi, Seoul on Thu, 16 Jul 2026.
+Jimin is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Nyapi, Seoul on Thu, 16 Jul 2026.
 
 Jimin is a house and club artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bangkok, Barcelona and Seoul and 1 more. Often billed alongside Jesse You, Acidwork and FOI (SK). Next up: Nyapi, Seoul on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Jimin is a house and club artist tracked on soundcheck, with 131 sets logged acr
 
 Jesse You, Acidwork, FOI (SK)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*

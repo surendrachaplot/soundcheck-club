@@ -1,6 +1,6 @@
 # El Pumarejo Barcelona
 
-El Pumarejo Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "VMO aka Violent Magic Orchestra LIVE AV + Beatrix Weapons LIVE + xyamm angel LIVE" on Thu, 23 Jul 2026.
+El Pumarejo Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "VMO aka Violent Magic Orchestra LIVE AV + Beatrix Weapons LIVE + xyamm angel LIVE" on Thu, 23 Jul 2026.
 
 El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Beatrix Weapons and Violent Magic Orchestra. Browse upcoming dates, start times and who's playing. Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona.
 
@@ -14,4 +14,4 @@ El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 1 upco
 
 Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*

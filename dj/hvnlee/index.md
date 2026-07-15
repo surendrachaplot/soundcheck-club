@@ -1,6 +1,6 @@
 # HVNLEE
 
-HVNLEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
+HVNLEE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
 
 HVNLEE is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside Luna Mar, Heidy P and Val Fleury. Next up: Pacha New York, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ HVNLEE is a house and techno artist based in United States of America, tracked o
 
 Luna Mar, Heidy P, Val Fleury
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hvnlee/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hvnlee/)*

@@ -1,6 +1,6 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 13 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "garry klein" on Wed, 15 Jul 2026.
+Rote Sonne is a music venue in Munich with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "garry klein" on Wed, 15 Jul 2026.
 
 Rote Sonne is a music venue in Munich listed on soundcheck. 13 upcoming nights, with line-ups including ÆNN, Alicea, Arkan and Artifex (DE) and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -23,4 +23,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 13 upcoming nights, 
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

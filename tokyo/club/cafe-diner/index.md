@@ -1,6 +1,6 @@
 # Cafe&diner ｽﾀｼﾞｵ
 
-Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "NEW WAVE LOUNGE" on Mon, 3 Aug 2026.
+Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "NEW WAVE LOUNGE" on Mon, 3 Aug 2026.
 
 Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Koji Nakamura. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | NEW WAVE LOUNGE | Koji Nakamura |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-diner/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-diner/)*

@@ -1,6 +1,6 @@
 # Bimini
 
-Bimini is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Lakota, Bristol on Sat, 18 Jul 2026.
+Bimini is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lakota, Bristol on Sat, 18 Jul 2026.
 
 Bimini is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 16 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: Lakota, Bristol on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Bimini is a techno and house artist tracked on soundcheck, with 43 sets logged a
 
 ABSOLUTE., Hannah Holland, Horse Meat Disco
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*

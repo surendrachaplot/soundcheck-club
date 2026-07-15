@@ -1,6 +1,6 @@
 # M01
 
-M01 is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "NEXUS 005 - The Finale" on Fri, 17 Jul 2026.
+M01 is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "NEXUS 005 - The Finale" on Fri, 17 Jul 2026.
 
 M01 is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Adrian Hex, Aero (1), Alex Sparrow and Ann Mysochka and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 1, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ M01 is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with lin
 
 Markgrafendamm 1, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m01/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m01/)*

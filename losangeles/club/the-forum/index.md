@@ -1,6 +1,6 @@
 # The Forum
 
-The Forum is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Factory 93 presents: OUTWORLD: KlangKuenstler All Night Long" on Sat, 3 Oct 2026.
+The Forum is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Factory 93 presents: OUTWORLD: KlangKuenstler All Night Long" on Sat, 3 Oct 2026.
 
 The Forum is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including KlangKuenstler. Browse upcoming dates, start times and who's playing. 3900 W Manchester Blvd, Inglewood, CA 90305.
 
@@ -14,4 +14,4 @@ The Forum is a music venue in Losangeles listed on soundcheck. 1 upcoming night,
 
 3900 W Manchester Blvd, Inglewood, CA 90305, Los Angeles
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-forum/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-forum/)*

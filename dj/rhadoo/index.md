@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at essaim, Paris on Sat, 18 Jul 2026.
+Rhadoo is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at essaim, Paris on Sat, 18 Jul 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: essaim, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 171 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

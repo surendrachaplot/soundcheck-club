@@ -1,6 +1,6 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Para Klub Beograd, Belgrade on Sun, 19 Jul 2026.
+Wata Igarashi is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Para Klub Beograd, Belgrade on Sun, 19 Jul 2026.
 
 Wata Igarashi is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Para Klub Beograd, Belgrade on Sun 19 Jul.
 
@@ -36,4 +36,4 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 197 sets 
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

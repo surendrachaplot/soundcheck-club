@@ -1,6 +1,6 @@
 # Merrick Brown
 
-Merrick Brown is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - West Town, Chicago on Fri, 17 Jul 2026.
+Merrick Brown is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - West Town, Chicago on Fri, 17 Jul 2026.
 
 Merrick Brown is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Austin, Chicago and Detroit. Often billed alongside Duke Shin, Sorrbet and Toyacoyah. Next up: TBA - West Town, Chicago on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Merrick Brown is a house and techno artist based in United States of America, tr
 
 Duke Shin, Sorrbet, Toyacoyah
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merrickbrown/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merrickbrown/)*

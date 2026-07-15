@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "BLUR x Adi present Dosis De Alquimina with Tati Pimont, Adi, Edouard Hauki" on Sat, 18 Jul 2026.
+UMI is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "BLUR x Adi present Dosis De Alquimina with Tati Pimont, Adi, Edouard Hauki" on Sat, 18 Jul 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Adi, Bapow, Dyed Soundorom and Edouard Hauki and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -17,4 +17,4 @@ UMI is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with l
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

@@ -1,6 +1,6 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+Palms Trax is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
 
 Palms Trax is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Francesco Del Garda and Peach. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 192 sets log
 
 Job Jobse, Francesco Del Garda, Peach
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

@@ -1,6 +1,6 @@
 # The Bunker
 
-The Bunker is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "VOID: Summer Assault II" on Sat, 18 Jul 2026.
+The Bunker is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "VOID: Summer Assault II" on Sat, 18 Jul 2026.
 
 The Bunker is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, with line-ups including Sinner and Tino. Browse upcoming dates, start times and who's playing. 13 Seel Street, Liverpool, L1 4AU.
 
@@ -18,4 +18,4 @@ The Bunker is a music venue in Liverpool listed on soundcheck. 5 upcoming nights
 
 13 Seel Street, Liverpool, L1 4AU, Liverpool
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bunker/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bunker/)*

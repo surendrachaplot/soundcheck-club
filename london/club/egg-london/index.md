@@ -1,14 +1,13 @@
 # Egg London
 
-Egg London is a music venue in London with 36 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "French Fanzone: France World Cup (Semi Final - Big Screen Open Air)" on Tue, 14 Jul 2026.
+Egg London is a music venue in London with 35 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 15 Jul 2026.
 
-Egg London is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including ABSOLUTE., ACID HARRY, b-line and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including ABSOLUTE., ACID HARRY, b-line and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | French Fanzone: France World Cup (Semi Final - Big Screen Open Air) |  |
 | Wed, 15 Jul 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Wed, 15 Jul 2026 | England Fanzone: England Semi Final - On the Big Screens |  |
 | Fri, 17 Jul 2026 | Egg LDN Pres: All About House |  |
@@ -18,9 +17,10 @@ Egg London is a music venue in London listed on soundcheck. 36 upcoming nights, 
 | Wed, 22 Jul 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Fri, 24 Jul 2026 | Egg LDN Pres: Afro House, Tribal & Afrobeats |  |
 | Fri, 24 Jul 2026 | YOLK: House & Tech-House Nights at EGG LDN | BOA (1), MIZNIK, MTRG, Olly Brady, SAM PHONIC, Samiro |
+| Sat, 25 Jul 2026 | Summer In London |  |
 
 ## Address
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

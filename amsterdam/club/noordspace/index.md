@@ -1,6 +1,6 @@
 # Noordspace
 
-Noordspace is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Flexy Hauss Ep. 146" on Fri, 17 Jul 2026.
+Noordspace is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Flexy Hauss Ep. 146" on Fri, 17 Jul 2026.
 
 Noordspace is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 98, Amsterdam, 1021KR.
 
@@ -14,4 +14,4 @@ Noordspace is a music venue in Amsterdam listed on soundcheck. 1 upcoming night.
 
 Gedempt Hamerkanaal 98, Amsterdam, 1021KR, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/noordspace/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/noordspace/)*

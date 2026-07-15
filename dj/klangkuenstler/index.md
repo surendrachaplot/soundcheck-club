@@ -1,6 +1,6 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
+KlangKuenstler is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
 KlangKuenstler is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: Union Park, Chicago on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ KlangKuenstler is a techno and house artist tracked on soundcheck, with 168 sets
 
 Daria Kolosova, Kobosil, I Hate Models
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkuenstler/)*

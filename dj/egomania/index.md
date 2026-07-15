@@ -1,6 +1,6 @@
 # egomania
 
-egomania is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at HVEN, Tokyo on Fri, 17 Jul 2026.
+egomania is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at HVEN, Tokyo on Fri, 17 Jul 2026.
 
 egomania is a hardcore and techno artist tracked on soundcheck, with 40 sets logged across Barcelona and Tokyo. Often billed alongside KAMIKAZE, KYLE MIKASA and Sonia Lagoon (2). Next up: HVEN, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ egomania is a hardcore and techno artist tracked on soundcheck, with 40 sets log
 
 KAMIKAZE, KYLE MIKASA, Sonia Lagoon (2)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*

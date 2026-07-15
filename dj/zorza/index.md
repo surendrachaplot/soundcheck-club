@@ -1,6 +1,6 @@
 # Zorza
 
-Zorza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+Zorza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
 
 Zorza is a techno and trance artist tracked on soundcheck, with 93 sets logged across Austin, Barcelona, Berlin and Brussels and 29 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
 
@@ -27,4 +27,4 @@ Zorza is a techno and trance artist tracked on soundcheck, with 93 sets logged a
 
 TDJ, Shlømo, SIKOTI
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*

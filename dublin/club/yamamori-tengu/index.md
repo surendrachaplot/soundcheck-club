@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Tengu presents: Lou Nour fka SICARIA with Chunky + Burnout & Jezebel + Rub A Dub HIFI" on Fri, 17 Jul 2026.
+Yamamori Tengu is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tengu presents: Lou Nour fka SICARIA with Chunky + Burnout & Jezebel + Rub A Dub HIFI" on Fri, 17 Jul 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ANNĒ, Byron Yeates, Chunky and darkmavis and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -22,4 +22,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 9 upcoming night
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

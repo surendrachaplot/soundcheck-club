@@ -1,6 +1,6 @@
 # Village au Pied-du-Courant
 
-Village au Pied-du-Courant is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Village au Pied-du-Courant - Groovy & Chill" on Thu, 16 Jul 2026.
+Village au Pied-du-Courant is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Village au Pied-du-Courant - Groovy & Chill" on Thu, 16 Jul 2026.
 
 Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including ADEOLA, ANIIKA, Cal C (Modern Art) and Canicule Tropicale and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
 
@@ -23,4 +23,4 @@ Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 10
 
 2100 rue Notre-Dame Est, Montréal H2K 4K3, Montreal
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*

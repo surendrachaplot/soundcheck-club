@@ -1,6 +1,6 @@
 # Spice 99
 
-Spice 99 is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SPICE(LAB) 15.07" on Wed, 15 Jul 2026.
+Spice 99 is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SPICE(LAB) 15.07" on Wed, 15 Jul 2026.
 
 Spice 99 is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, with line-ups including Adam Craft, headrush and Martin Kling. Browse upcoming dates, start times and who's playing. Götgatan 99, 116 62, Stockholm.
 
@@ -16,4 +16,4 @@ Spice 99 is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, 
 
 Götgatan 99, 116 62, Stockholm, Stockholm
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/spice-99/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/spice-99/)*

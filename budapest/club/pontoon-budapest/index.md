@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "baeker invites: Hyphen & PJ Statham (UK) ~ Pontoon" on Fri, 24 Jul 2026.
+Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "baeker invites: Hyphen & PJ Statham (UK) ~ Pontoon" on Fri, 24 Jul 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including baeker, Dubtist, Helena Lua and Hyphen and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -17,4 +17,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

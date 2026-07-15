@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Bassweight Cuts & NLDC: 'For The Youth' Fundraiser" on Fri, 17 Jul 2026.
+Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bassweight Cuts & NLDC: 'For The Youth' Fundraiser" on Fri, 17 Jul 2026.
 
 Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Blackdown, DJ Button Moon, Elijah and Skilliam and iasc and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -19,4 +19,4 @@ Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

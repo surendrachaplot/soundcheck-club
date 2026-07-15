@@ -1,13 +1,14 @@
 # Yaeji
 
-Yaeji is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Concord Music Hall, Chicago on Sat, 18 Jul 2026.
+Yaeji is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Midway, San Francisco/Oakland on Fri, 17 Jul 2026.
 
-Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, HiTech and Young Marco. Next up: Concord Music Hall, Chicago on Sat 18 Jul.
+Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, HiTech and Young Marco. Next up: The Midway, Sanfrancisco on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | The Midway | San Francisco/Oakland |
 | Sat, 18 Jul 2026 | Concord Music Hall | Chicago |
 | Fri, 24 Jul 2026 | 99 Scott Ave | New York City |
 | Thu, 30 Jul 2026 | Sønder Hoved | Copenhagen |
@@ -30,4 +31,4 @@ Yaeji is a house and techno artist based in United States of America, tracked on
 
 Bambii, HiTech, Young Marco
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*

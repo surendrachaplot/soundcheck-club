@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Born 2 Bounce: Giø, Vespera, Cac40 & More" on Fri, 17 Jul 2026.
+La Java is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Born 2 Bounce: Giø, Vespera, Cac40 & More" on Fri, 17 Jul 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -14,4 +14,4 @@ La Java is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

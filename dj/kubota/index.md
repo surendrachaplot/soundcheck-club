@@ -1,6 +1,6 @@
 # KUBOTA
 
-KUBOTA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at DJ Bar Bridge, Tokyo on Wed, 22 Jul 2026.
+KUBOTA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at DJ Bar Bridge, Tokyo on Wed, 22 Jul 2026.
 
 KUBOTA is a house and techno artist tracked on soundcheck, with 93 sets logged across Tokyo. Often billed alongside SIGNAL (JP), HARUTO and YASUHARU MOTOMIYA. Next up: DJ Bar Bridge, Tokyo on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ KUBOTA is a house and techno artist tracked on soundcheck, with 93 sets logged a
 
 SIGNAL (JP), HARUTO, YASUHARU MOTOMIYA
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*

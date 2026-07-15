@@ -1,6 +1,6 @@
 # Bloomfeld
 
-Bloomfeld is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Fitzroy, Berlin on Sat, 18 Jul 2026.
+Bloomfeld is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fitzroy, Berlin on Sat, 18 Jul 2026.
 
 Bloomfeld is a techno and experimental artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 7 more. Often billed alongside Alys, Assyouti and Rafush. Next up: Fitzroy, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Bloomfeld is a techno and experimental artist based in Germany, tracked on sound
 
 Alys, Assyouti, Rafush
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloomfeld/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bloomfeld/)*

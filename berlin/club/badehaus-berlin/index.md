@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Fania Brava Party" on Thu, 16 Jul 2026.
+Badehaus Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Fania Brava Party" on Thu, 16 Jul 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Alias Shay, Azulado, Calamidades Lola and Electric Visionary and 2 more. Browse upcoming dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nigh
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

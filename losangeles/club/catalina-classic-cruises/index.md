@@ -1,6 +1,6 @@
 # Catalina Classic Cruises
 
-Catalina Classic Cruises is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Mark Farina BOAT PARTY [Labor Day Sunday]" on Sun, 6 Sept 2026.
+Catalina Classic Cruises is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Mark Farina BOAT PARTY [Labor Day Sunday]" on Sun, 6 Sept 2026.
 
 Catalina Classic Cruises is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Mark Farina and Scotty Boy. Browse upcoming dates, start times and who's playing. 1825 W. Pier D. Street Long Beach, CA 90802.
 
@@ -14,4 +14,4 @@ Catalina Classic Cruises is a music venue in Losangeles listed on soundcheck. 1 
 
 1825 W. Pier D. Street Long Beach, CA 90802, Los Angeles
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catalina-classic-cruises/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catalina-classic-cruises/)*

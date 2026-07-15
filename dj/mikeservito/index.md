@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Green Room NYC, New York City on Sat, 18 Jul 2026.
+Mike Servito is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Green Room NYC, New York City on Sat, 18 Jul 2026.
 
 Mike Servito is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Austin, Berlin and Boston and 25 more. Often billed alongside Shaun J. Wright, Erika and Bryan Kasenic. Next up: Green Room NYC, Newyorkcity on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Mike Servito is a house and techno artist tracked on soundcheck, with 271 sets l
 
 Shaun J. Wright, Erika, Bryan Kasenic
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

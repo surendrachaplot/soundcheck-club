@@ -1,6 +1,6 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ Verraco is a techno and bass artist tracked on soundcheck, with 122 sets logged 
 
 Bitter Babe, CCL, Batu
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

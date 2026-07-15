@@ -1,6 +1,6 @@
 # Xana 101
 
-Xana 101 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Mood Ring, New York City on Thu, 23 Jul 2026.
+Xana 101 is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Mood Ring, New York City on Thu, 23 Jul 2026.
 
 Xana 101 is a techno and club artist based in United States of America, tracked on soundcheck, with 91 sets logged across Boston, Chicago, Miami and Newcastle and 2 more. Often billed alongside Cyb3r Bull, Soo Intoit and Vyper. Next up: Mood Ring, Newyorkcity on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Xana 101 is a techno and club artist based in United States of America, tracked 
 
 Cyb3r Bull, Soo Intoit, Vyper
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xana101/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xana101/)*

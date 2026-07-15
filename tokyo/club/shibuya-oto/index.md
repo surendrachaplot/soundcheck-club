@@ -1,6 +1,6 @@
 # Shibuya OTO
 
-Shibuya OTO is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "ALT-SHIFT #1 supported by Modular Wednesday" on Wed, 15 Jul 2026.
+Shibuya OTO is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "ALT-SHIFT #1 supported by Modular Wednesday" on Wed, 15 Jul 2026.
 
 Shibuya OTO is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Kenta Tominaga and vinylDJ Eiji Takehana. Browse upcoming dates, start times and who's playing. Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F.
 
@@ -15,4 +15,4 @@ Shibuya OTO is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, w
 
 Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−18−7 渋谷東一号館ビル５F, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-oto/)*

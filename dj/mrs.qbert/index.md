@@ -1,6 +1,6 @@
 # Mrs. Qbert
 
-Mrs. Qbert is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Sinners and Saints, Washington DC on Thu, 16 Jul 2026.
+Mrs. Qbert is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sinners and Saints, Washington DC on Thu, 16 Jul 2026.
 
 Mrs. Qbert is a techno and club artist based in United States of America, tracked on soundcheck, with 41 sets logged across Washingtondc. Often billed alongside Vivian Oblivion, CYB3R T0NIN and Solidare. Next up: Sinners and Saints, Washingtondc on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Mrs. Qbert is a techno and club artist based in United States of America, tracke
 
 Vivian Oblivion, CYB3R T0NIN, Solidare
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrs.qbert/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrs.qbert/)*

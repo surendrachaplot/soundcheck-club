@@ -1,6 +1,6 @@
 # Leo Mas
 
-Leo Mas is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ex Macello, Milan on Sat, 18 Jul 2026.
+Leo Mas is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ex Macello, Milan on Sat, 18 Jul 2026.
 
 Leo Mas is a house and balearic artist tracked on soundcheck, with 26 sets logged across Athens, Belgrade, Bristol and Ibiza and 6 more. Often billed alongside Cio (Spezialmaterial), Cristian Croce and Innuendo. Next up: Ex Macello, Milan on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Leo Mas is a house and balearic artist tracked on soundcheck, with 26 sets logge
 
 Cio (Spezialmaterial), Cristian Croce, Innuendo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*

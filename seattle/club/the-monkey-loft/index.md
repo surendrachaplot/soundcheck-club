@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Deckd Out #5 with Jason Peters (SF), Recess & Best Butt Camp" on Thu, 16 Jul 2026.
+The Monkey Loft is a music venue in Seattle with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Deckd Out #5 with Jason Peters (SF), Recess & Best Butt Camp" on Thu, 16 Jul 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 11 upcoming nights, with line-ups including Aivilo, Cami Jones, Copeland and Dane Garfield and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -23,4 +23,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 11 upcoming ni
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

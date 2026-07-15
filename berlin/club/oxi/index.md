@@ -1,14 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 14 Jul 2026.
+OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Art Bei Ton: Trip.n.Queers" on Thu, 16 Jul 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 14 Jul 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | ANNARA, KLEA, Stanislav Tolkachev, TBA, fr. JPLA |
 | Thu, 16 Jul 2026 | Art Bei Ton: Trip.n.Queers | Axis Alpha, Egregore, Gabrielle (DE), Hypnotic Black Magic, Mia Lund, ValaV |
 | Fri, 17 Jul 2026 | Dure Vie x Dekadance w/ Pureblast, Olympe4000, DJ Physical, Florian Picasso, Two Dots | Amo (IT), DJ ANGEL (fr), DJ Physical, Florian Picasso, Hanne B, Iguana (2), Olympe4000, Pureblast, Two Dots (FR) |
 | Sat, 18 Jul 2026 | Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) | Daniel Monaco, Max NRG Supply, Moretz, Pawel Blot, Trent |
@@ -18,9 +17,10 @@ OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with li
 | Sat, 25 Jul 2026 | CLASH CSD SPECIAL | ALAN JOE, Bill Sanders, Caleb ESC, Danny Roach, Rubberax, jardabpm |
 | Sun, 26 Jul 2026 | Hoe__mies PRIDE | Anita B Queen, Ase Manual, Asphodèle, BADSISTA, C.FRIM, Haus of Ralph, Kontronatura, Litney, MIRASIA, Nanoos, TEDESCO, Trigger T |
 | Tue, 28 Jul 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | BLACK ANTHEM RESTORE, Exos, KAMA, ZAKARE |
+| Thu, 30 Jul 2026 | [OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin | Chalita Claudine, Dave Mech, Jan Ritter, Jasmin Giovanazzi, Mattone, Sara Delirio, UniKhatu, s:mash |
 
 ## Address
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

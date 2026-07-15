@@ -1,6 +1,6 @@
 # TBA - Secret Underpass
 
-TBA - Secret Underpass is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "UNDRPASS.TWO" on Fri, 17 Jul 2026.
+TBA - Secret Underpass is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "UNDRPASS.TWO" on Fri, 17 Jul 2026.
 
 TBA - Secret Underpass is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Underpass is a music venue in Toronto listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | UNDRPASS.TWO |  |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-secret-underpass/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-secret-underpass/)*

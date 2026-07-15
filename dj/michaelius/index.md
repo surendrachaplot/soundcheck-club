@@ -1,6 +1,6 @@
 # Michael Ius
 
-Michael Ius is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA, Bucharest on Fri, 17 Jul 2026.
+Michael Ius is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Bucharest on Fri, 17 Jul 2026.
 
 Michael Ius is a techno and acid artist tracked on soundcheck, with 34 sets logged across Berlin, Bucharest and London. Often billed alongside CARMEN (RO), FAUST (1) and ALISTARM. Next up: TBA, Bucharest on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Michael Ius is a techno and acid artist tracked on soundcheck, with 34 sets logg
 
 CARMEN (RO), FAUST (1), ALISTARM
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelius/)*

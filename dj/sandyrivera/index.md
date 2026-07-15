@@ -1,6 +1,6 @@
 # Sandy Rivera
 
-Sandy Rivera is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at SWG3, Glasgow on Sat, 18 Jul 2026.
+Sandy Rivera is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at SWG3, Glasgow on Sat, 18 Jul 2026.
 
 Sandy Rivera is a house and deep house artist tracked on soundcheck, with 48 sets logged across Auckland, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Ella Knight, Chez Damier and Kellie Allen. Next up: SWG3, Glasgow on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Sandy Rivera is a house and deep house artist tracked on soundcheck, with 48 set
 
 Ella Knight, Chez Damier, Kellie Allen
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*

@@ -1,6 +1,6 @@
 # AH-N!CE
 
-AH-N!CE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at La Cova, Hamburg on Sat, 18 Jul 2026.
+AH-N!CE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Cova, Hamburg on Sat, 18 Jul 2026.
 
 AH-N!CE is a techno and industrial artist based in Germany, tracked on soundcheck, with 29 sets logged across Hamburg. Often billed alongside Frank Rayo, Eva Nyx and AKIIM. Next up: La Cova, Hamburg on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ AH-N!CE is a techno and industrial artist based in Germany, tracked on soundchec
 
 Frank Rayo, Eva Nyx, AKIIM
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*

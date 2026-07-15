@@ -1,6 +1,6 @@
 # Union Stage
 
-Union Stage is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "SATISFACTION (2010-2017 EDM bangers All Night Long!)" on Sat, 25 Jul 2026.
+Union Stage is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SATISFACTION (2010-2017 EDM bangers All Night Long!)" on Sat, 25 Jul 2026.
 
 Union Stage is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 740 Water St SW.
 
@@ -15,4 +15,4 @@ Union Stage is a music venue in Washingtondc listed on soundcheck. 2 upcoming ni
 
 740 Water St SW, Washington DC
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-stage/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-stage/)*

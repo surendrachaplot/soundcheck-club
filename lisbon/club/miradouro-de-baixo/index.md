@@ -1,6 +1,6 @@
 # Miradouro de Baixo
 
-Miradouro de Baixo is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Aliás #8: 3 anos de Aliás" on Sat, 18 Jul 2026.
+Miradouro de Baixo is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Aliás #8: 3 anos de Aliás" on Sat, 18 Jul 2026.
 
 Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Lysia, Micaia and Uncle_Rio. Browse upcoming dates, start times and who's playing. Rua de São Lázaro 72, 1150-330 Lisboa, Portugal.
 
@@ -14,4 +14,4 @@ Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming n
 
 Rua de São Lázaro 72, 1150-330 Lisboa, Portugal, Lisbon
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*

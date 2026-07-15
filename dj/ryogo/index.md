@@ -1,6 +1,6 @@
 # Ryogo
 
-Ryogo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at West Harlem, Kyoto on Wed, 15 Jul 2026.
+Ryogo is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at West Harlem, Kyoto on Wed, 15 Jul 2026.
 
 Ryogo is a techno and house artist tracked on soundcheck, with 146 sets logged across Hongkong, Kyoto, Osaka and Tokyo. Often billed alongside Vís (1), imazutsubasa and Naco (2). Next up: West Harlem, Kyoto on Wed 15 Jul.
 
@@ -28,4 +28,4 @@ Ryogo is a techno and house artist tracked on soundcheck, with 146 sets logged a
 
 Vís (1), imazutsubasa, Naco (2)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryogo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ryogo/)*

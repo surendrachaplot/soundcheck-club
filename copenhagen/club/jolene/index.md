@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Jolene x ROLL AS ONE #2" on Thu, 16 Jul 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Jolene x ROLL AS ONE #2" on Thu, 16 Jul 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including avoN, Crisco, djfix and Jek (US) and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -18,4 +18,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

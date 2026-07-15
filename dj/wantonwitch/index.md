@@ -1,6 +1,6 @@
 # Wanton Witch
 
-Wanton Witch is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
+Wanton Witch is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Loone, Berlin on Wed, 15 Jul 2026.
 
 Wanton Witch is a techno and experimental artist based in Malaysia, tracked on soundcheck, with 48 sets logged across Bangkok, Berlin, Brussels and Hongkong and 5 more. Often billed alongside shasti, griefeater and Soup snakeS. Next up: Loone, Berlin on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ Wanton Witch is a techno and experimental artist based in Malaysia, tracked on s
 
 shasti, griefeater, Soup snakeS
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wantonwitch/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wantonwitch/)*

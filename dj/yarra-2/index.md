@@ -1,6 +1,6 @@
 # Yarra (2)
 
-Yarra (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at OneSixOne, Melbourne on Thu, 16 Jul 2026.
+Yarra (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OneSixOne, Melbourne on Thu, 16 Jul 2026.
 
 Yarra (2) is a house and techno artist tracked on soundcheck, with 47 sets logged across Melbourne. Often billed alongside Adam Trace, Crozier and Amber Ferraro. Next up: OneSixOne, Melbourne on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Yarra (2) is a house and techno artist tracked on soundcheck, with 47 sets logge
 
 Adam Trace, Crozier, Amber Ferraro
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yarra-2/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yarra-2/)*

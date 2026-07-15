@@ -1,6 +1,6 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 30 Jul 2026.
+HoneyLuv is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Chinois Ibiza, Ibiza on Thu, 30 Jul 2026.
 
 HoneyLuv is a house and tech house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Barcelona and Basel and 37 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: Chinois Ibiza, Ibiza on Thu 30 Jul.
 
@@ -34,4 +34,4 @@ HoneyLuv is a house and tech house artist tracked on soundcheck, with 163 sets l
 
 Nic Fanciulli, Dennis Ferrer, Andrea Oliva
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

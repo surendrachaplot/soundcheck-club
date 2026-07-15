@@ -1,6 +1,6 @@
 # SESH pres. MCR-T invites at Else
 
-SESH pres. MCR-T invites at Else on Fri 17 Jul, Berlin. 8 acts on the bill: Alex Friday, DJ Cringey, GEN97 and Hello Sasy and 4 more. Preview the line-up and save it on soundcheck.
+SESH pres. MCR-T invites at Else on Fri 17 Jul, Berlin. 9 acts on the bill: Alex Friday, DJ Cringey, GEN97 and Hello Sasy and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ SESH pres. MCR-T invites at Else on Fri 17 Jul, Berlin. 8 acts on the bill: Alex
 - GEN97
 - Hello Sasy
 - MCR-T
+- Mila Black
 - Partiboi69
 - SATYS FYRE
 - alejandrø

@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "fruit salad x Epiphany Records" on Sun, 30 Aug 2026.
+murmur is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "fruit salad x Epiphany Records" on Sun, 30 Aug 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Ambu Bambu, Annebel, baby ganoush and Lena Rigel and 2 more. Browse upcoming dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -14,4 +14,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, wit
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

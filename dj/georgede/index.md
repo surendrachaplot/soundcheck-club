@@ -1,6 +1,6 @@
 # GEORGE aka DR.RADSPORT
 
-GEORGE aka DR.RADSPORT is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at OST, Berlin on Sat, 25 Jul 2026.
+GEORGE aka DR.RADSPORT is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OST, Berlin on Sat, 25 Jul 2026.
 
 GEORGE aka DR.RADSPORT is a trance and techno artist tracked on soundcheck, with 52 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 8 more. Often billed alongside DJ Achim Feuervogel, zwilling. and DICE. Next up: OST, Berlin on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ GEORGE aka DR.RADSPORT is a trance and techno artist tracked on soundcheck, with
 
 DJ Achim Feuervogel, zwilling., DICE
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgede/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgede/)*

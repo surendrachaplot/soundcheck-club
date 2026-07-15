@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 18 Jul 2026.
+nd_baumecker is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 18 Jul 2026.
 
 nd_baumecker is a house and techno artist tracked on soundcheck, with 112 sets logged across Athens, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Tanzhaus West, Frankfurt on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ nd_baumecker is a house and techno artist tracked on soundcheck, with 112 sets l
 
 Jorkes, Steffi, Efdemin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

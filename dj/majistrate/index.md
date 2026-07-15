@@ -1,6 +1,6 @@
 # Majistrate
 
-Majistrate is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Majistrate is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
 Majistrate is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Birmingham, Brighton, Bristol and Brussels and 2 more. Often billed alongside Logan D, Harry Shotta and Eksman. Next up: Boston Manor Park, London on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Majistrate is a drum & bass and jungle artist tracked on soundcheck, with 24 set
 
 Logan D, Harry Shotta, Eksman
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majistrate/)*

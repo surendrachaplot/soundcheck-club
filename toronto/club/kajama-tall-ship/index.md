@@ -1,6 +1,6 @@
 # Kajama Tall Ship
 
-Kajama Tall Ship is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "The Captain's 13th Annual Moonlight Cruise" on Fri, 7 Aug 2026.
+Kajama Tall Ship is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "The Captain's 13th Annual Moonlight Cruise" on Fri, 7 Aug 2026.
 
 Kajama Tall Ship is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including TAKiN and Tyler Hill. Browse upcoming dates, start times and who's playing. 235 Queen's Quay West, behind The Power Plant Contemporary Art Gallery.
 
@@ -14,4 +14,4 @@ Kajama Tall Ship is a music venue in Toronto listed on soundcheck. 1 upcoming ni
 
 235 Queen's Quay West, behind The Power Plant Contemporary Art Gallery, Toronto
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/kajama-tall-ship/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/kajama-tall-ship/)*

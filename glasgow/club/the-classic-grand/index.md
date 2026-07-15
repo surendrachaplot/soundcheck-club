@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "iNTRA; Ragetrain x Kirsty" on Fri, 17 Jul 2026.
+The Classic Grand is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "iNTRA; Ragetrain x Kirsty" on Fri, 17 Jul 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including Carbon Based Lifeforms, George Bowie, KIRSTY and Marc Smith and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -11,7 +11,7 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 | Fri, 17 Jul 2026 | iNTRA; Ragetrain x Kirsty | KIRSTY, Stalker |
 | Sat, 18 Jul 2026 | Kitchen Gaff Presents: JALO F2F DROS, CIRCO F2F CIRCO + MORE |  |
 | Fri, 24 Jul 2026 | PEAK X APEX Presents: DEEZL + NVNS |  |
-| Fri, 24 Jul 2026 | PEAK x APEX presents: DEEZL & NVNS |  |
+| Fri, 24 Jul 2026 | PEAK x APEX presents: DEEZL & NVNS (FREE TICKETS) |  |
 | Fri, 31 Jul 2026 | DISFUNCTION: Samuel Moriero | Samuel Moriero (2) |
 | Sat, 1 Aug 2026 | Thunder Rave - HARDCORE TO DA BONE 2 |  |
 | Fri, 7 Aug 2026 | INTRA: Miss K8 ALL NIGHT LONG |  |
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

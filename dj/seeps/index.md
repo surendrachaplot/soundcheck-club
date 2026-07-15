@@ -1,6 +1,6 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at public records, New York City on Sat, 8 Aug 2026.
+SEEPS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at public records, New York City on Sat, 8 Aug 2026.
 
 SEEPS is a house and deep house artist tracked on soundcheck, with 61 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: public records, Newyorkcity on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ SEEPS is a house and deep house artist tracked on soundcheck, with 61 sets logge
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

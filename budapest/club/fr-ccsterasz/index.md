@@ -1,6 +1,6 @@
 # Fröccsterasz
 
-Fröccsterasz is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "BADGIRLS X Limelight RAW /" on Fri, 17 Jul 2026.
+Fröccsterasz is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "BADGIRLS X Limelight RAW /" on Fri, 17 Jul 2026.
 
 Fröccsterasz is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Daniel Moritz, Daniel Santiago, Falcao and James Cole and 2 more. Browse upcoming dates, start times and who's playing. 1051 Budapest, Erzsébet tér 11–13..
 
@@ -17,4 +17,4 @@ Fröccsterasz is a music venue in Budapest listed on soundcheck. 4 upcoming nigh
 
 1051 Budapest, Erzsébet tér 11–13., Budapest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/fr-ccsterasz/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/fr-ccsterasz/)*

@@ -1,6 +1,6 @@
 # Miami Wars
 
-Miami Wars is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Nie dotykaj moich płyt x dj Huj" on Wed, 15 Jul 2026.
+Miami Wars is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Nie dotykaj moich płyt x dj Huj" on Wed, 15 Jul 2026.
 
 Miami Wars is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Ilya Semashkevich, Plastik (1), Puha and Samogulov and 2 more. Browse upcoming dates, start times and who's playing. Solec 8, 00-439 Warszawa.
 
@@ -16,4 +16,4 @@ Miami Wars is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, w
 
 Solec 8, 00-439 Warszawa, Warsaw
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/miami-wars/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/miami-wars/)*

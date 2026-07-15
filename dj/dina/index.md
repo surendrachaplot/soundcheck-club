@@ -1,6 +1,6 @@
 # DINA
 
-DINA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+DINA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 DINA is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 33 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ DINA is a techno and trance artist tracked on soundcheck, with 123 sets logged a
 
 Alpha Tracks, Philipp Drube, Jeans (NL)
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*

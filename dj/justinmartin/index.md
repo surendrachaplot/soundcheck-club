@@ -1,6 +1,6 @@
 # Justin Martin
 
-Justin Martin is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Justin Martin is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Justin Martin is a house and tech house artist tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Ardalan, MNTRA and Mikey Lion. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Justin Martin is a house and tech house artist tracked on soundcheck, with 81 se
 
 Ardalan, MNTRA, Mikey Lion
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*

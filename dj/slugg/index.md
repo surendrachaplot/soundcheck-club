@@ -1,6 +1,6 @@
 # slugg
 
-slugg is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at StereoBar, Montreal on Fri, 31 Jul 2026.
+slugg is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at StereoBar, Montreal on Fri, 31 Jul 2026.
 
 slugg is a tech house and house artist tracked on soundcheck, with 80 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: StereoBar, Montreal on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ slugg is a tech house and house artist tracked on soundcheck, with 80 sets logge
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

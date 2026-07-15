@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Club Night feat. Lovetrain Kollektiv (2 Floors // Bounce + Techno)" on Fri, 17 Jul 2026.
+M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Club Night feat. Lovetrain Kollektiv (2 Floors // Bounce + Techno)" on Fri, 17 Jul 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including A², Bass, Basstronauten and BrettHit and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

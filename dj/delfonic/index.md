@@ -1,6 +1,6 @@
 # Delfonic
 
-Delfonic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at LIVE EVIL, Munich on Fri, 17 Jul 2026.
+Delfonic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LIVE EVIL, Munich on Fri, 17 Jul 2026.
 
 Delfonic is a disco and house artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Cologne and Edinburgh and 7 more. Often billed alongside Kapote, Daniel Best and Andrea Dama. Next up: LIVE EVIL, Munich on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Delfonic is a disco and house artist tracked on soundcheck, with 58 sets logged 
 
 Kapote, Daniel Best, Andrea Dama
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*

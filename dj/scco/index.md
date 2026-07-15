@@ -1,6 +1,6 @@
 # SCCO
 
-SCCO is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 18 Jul 2026.
+SCCO is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 18 Jul 2026.
 
 SCCO is a house and tech house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Adam Chapman, Alfaz and Checketts. Next up: NUMBER 90 LONDON, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ SCCO is a house and tech house artist tracked on soundcheck, with 20 sets logged
 
 Adam Chapman, Alfaz, Checketts
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scco/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scco/)*

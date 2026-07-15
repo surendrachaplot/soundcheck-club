@@ -1,6 +1,6 @@
 # Scarlett O'Malley
 
-Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
+Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kater, Berlin on Fri, 24 Jul 2026.
 
 Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: Kater, Berlin on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 91 set
 
 Ella Knight, Lulah Francs, Michelle Manetti
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*

@@ -1,6 +1,6 @@
 # Tai Lokun
 
-Tai Lokun is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at nachbar, Amsterdam on Fri, 24 Jul 2026.
+Tai Lokun is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at nachbar, Amsterdam on Fri, 24 Jul 2026.
 
 Tai Lokun is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 11 more. Often billed alongside Amaliah, Heléna Star and Hunee. Next up: nachbar, Amsterdam on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Tai Lokun is a house and techno artist based in United Kingdom, tracked on sound
 
 Amaliah, Heléna Star, Hunee
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*

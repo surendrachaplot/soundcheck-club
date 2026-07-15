@@ -1,6 +1,6 @@
 # Nikkie
 
-Nikkie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Daikanyama ORD., Tokyo on Thu, 16 Jul 2026.
+Nikkie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Daikanyama ORD., Tokyo on Thu, 16 Jul 2026.
 
 Nikkie is a house and techno artist based in Italy, tracked on soundcheck, with 13 sets logged across Berlin, Milan, Naples and Rome and 2 more. Often billed alongside Alexia Glensy, Bakked and Munir Nadir. Next up: Daikanyama ORD., Tokyo on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Nikkie is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 Alexia Glensy, Bakked, Munir Nadir
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkie/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkie/)*

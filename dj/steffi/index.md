@@ -1,6 +1,6 @@
 # Steffi
 
-Steffi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Steffi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Steffi is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belfast and 23 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -31,4 +31,4 @@ Steffi is a techno and house artist tracked on soundcheck, with 139 sets logged 
 
 Virginia, Blasha & Allatt, Tasha
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/steffi/)*

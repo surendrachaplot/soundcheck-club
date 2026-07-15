@@ -1,6 +1,6 @@
 # Layout Soundbar
 
-Layout Soundbar is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "X-tra gaiden" on Sun, 2 Aug 2026.
+Layout Soundbar is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "X-tra gaiden" on Sun, 2 Aug 2026.
 
 Layout Soundbar is a music venue in Tokyo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 港区赤坂2-14-8.
 
@@ -15,4 +15,4 @@ Layout Soundbar is a music venue in Tokyo listed on soundcheck. 2 upcoming night
 
 港区赤坂2-14-8, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/layout-soundbar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/layout-soundbar/)*

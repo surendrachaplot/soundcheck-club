@@ -1,6 +1,6 @@
 # Ronya
 
-Ronya is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Jaeger, Oslo on Wed, 29 Jul 2026.
+Ronya is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Jaeger, Oslo on Wed, 29 Jul 2026.
 
 Ronya is a house and garage artist based in Norway, tracked on soundcheck, with 35 sets logged across Berlin, Birmingham, London and Oslo. Often billed alongside Tod Louie, Chris Solaris and Tonchius. Next up: Jaeger, Oslo on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ Ronya is a house and garage artist based in Norway, tracked on soundcheck, with 
 
 Tod Louie, Chris Solaris, Tonchius
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronya/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronya/)*

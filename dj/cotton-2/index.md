@@ -1,6 +1,6 @@
 # cotton
 
-cotton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Numm, Tokyo on Thu, 23 Jul 2026.
+cotton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Numm, Tokyo on Thu, 23 Jul 2026.
 
 cotton is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Athens, Chicago, Istanbul and Newyorkcity and 1 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Quelza. Next up: Numm, Tokyo on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ cotton is a techno and house artist based in United States of America, tracked o
 
 Juliana Huxtable, Kilopatrah Jones, Quelza
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

@@ -1,6 +1,6 @@
 # Ninety One
 
-Ninety One is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Ninety One presents: Scratchclart (UK Funky Special) + Residents" on Sat, 18 Jul 2026.
+Ninety One is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ninety One presents: Scratchclart (UK Funky Special) + Residents" on Sat, 18 Jul 2026.
 
 Ninety One is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Scratcha. Browse upcoming dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
@@ -14,4 +14,4 @@ Ninety One is a music venue in London listed on soundcheck. 1 upcoming night, wi
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

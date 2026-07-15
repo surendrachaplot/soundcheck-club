@@ -1,6 +1,6 @@
 # Romantso
 
-Romantso is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Last Call: Season Closing w/ BODY DOUBLE, SPANIA" on Fri, 17 Jul 2026.
+Romantso is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Last Call: Season Closing w/ BODY DOUBLE, SPANIA" on Fri, 17 Jul 2026.
 
 Romantso is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including Maaantz, POLYXENE, Saber Rider and VYSSKA. Browse upcoming dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
@@ -16,4 +16,4 @@ Romantso is a music venue in Athens listed on soundcheck. 3 upcoming nights, wit
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

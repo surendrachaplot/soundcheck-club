@@ -1,6 +1,6 @@
 # Fort Vechten
 
-Fort Vechten is a music venue in Utrecht with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Orbit Festival 2026" on Sat, 25 Jul 2026.
+Fort Vechten is a music venue in Utrecht with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Orbit Festival 2026" on Sat, 25 Jul 2026.
 
 Fort Vechten is a music venue in Utrecht listed on soundcheck. 2 upcoming nights, with line-ups including BASHKKA, Benwal, CARISTA and Carlos Valdes and 2 more. Browse upcoming dates, start times and who's playing. Marsdijk 2, Bunnik, 3981 HE.
 
@@ -15,4 +15,4 @@ Fort Vechten is a music venue in Utrecht listed on soundcheck. 2 upcoming nights
 
 Marsdijk 2, Bunnik, 3981 HE, Utrecht
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/fort-vechten/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/fort-vechten/)*

@@ -1,6 +1,6 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "RECOMBINATION" on Wed, 15 Jul 2026.
+WOMB is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "RECOMBINATION" on Wed, 15 Jul 2026.
 
 WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AHREUM, AIBA, Alex Bohemien and ANDY DEDE and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
@@ -23,4 +23,4 @@ WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with li
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

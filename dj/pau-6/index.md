@@ -1,6 +1,6 @@
 # PAU (6)
 
-PAU (6) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
+PAU (6) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MTW, Frankfurt on Fri, 17 Jul 2026.
 
 PAU (6) is a techno and trance artist tracked on soundcheck, with 33 sets logged across Berlin, Frankfurt, Munich and Paris and 1 more. Often billed alongside Polytoxic, DJ Cringey and MARIAD. Next up: MTW, Frankfurt on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ PAU (6) is a techno and trance artist tracked on soundcheck, with 33 sets logged
 
 Polytoxic, DJ Cringey, MARIAD
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pau-6/)*

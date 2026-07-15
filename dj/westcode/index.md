@@ -1,6 +1,6 @@
 # West Code
 
-West Code is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 17 Jul 2026.
+West Code is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 17 Jul 2026.
 
 West Code is a techno and electronica artist tracked on soundcheck, with 19 sets logged across Belfast, Berlin, Buenosaires and Madrid and 4 more. Often billed alongside cufaxx, JXXXO and Bondarük. Next up: RSO.BERLIN, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ West Code is a techno and electronica artist tracked on soundcheck, with 19 sets
 
 cufaxx, JXXXO, Bondarük
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westcode/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/westcode/)*

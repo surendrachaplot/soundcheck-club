@@ -1,6 +1,6 @@
 # Germano Ventura
 
-Germano Ventura is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Parco Caracalla, Rome on Sat, 18 Jul 2026.
+Germano Ventura is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Parco Caracalla, Rome on Sat, 18 Jul 2026.
 
 Germano Ventura is a house and tech house artist based in Italy, tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Ibiza and Naples and 3 more. Often billed alongside Ricardo Villalobos, SAWE and Alex Neri. Next up: Parco Caracalla, Rome on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Germano Ventura is a house and tech house artist based in Italy, tracked on soun
 
 Ricardo Villalobos, SAWE, Alex Neri
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/germanoventura/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/germanoventura/)*

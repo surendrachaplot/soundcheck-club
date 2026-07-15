@@ -1,6 +1,6 @@
 # BreakStyle
 
-BreakStyle is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 17 Jul 2026.
+BreakStyle is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at DETROIT CLUB, Barcelona on Fri, 17 Jul 2026.
 
 BreakStyle is a techno and electronica artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside Flores, ALTRAX and Adviro. Next up: DETROIT CLUB, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ BreakStyle is a techno and electronica artist based in Spain, tracked on soundch
 
 Flores, ALTRAX, Adviro
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breakstyle/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breakstyle/)*

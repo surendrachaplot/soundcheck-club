@@ -1,8 +1,8 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 25 Jul 2026.
+John Digweed is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 25 Jul 2026.
 
-John Digweed is a progressive house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Seaseaclub Barcelona, Barcelona on Sat 25 Jul.
+John Digweed is a progressive house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Seaseaclub Barcelona, Barcelona on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 | Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
 | Sat, 12 Sept 2026 | Malkin Bowl | Vancouver |
 | Sat, 19 Sept 2026 | TBA - Autodromo de Buenos Aires | Buenos Aires |
+| Sat, 26 Sept 2026 | BERHTA | Washington DC |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 
 Sasha, Nick Warren, Sasha & John Digweed
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*

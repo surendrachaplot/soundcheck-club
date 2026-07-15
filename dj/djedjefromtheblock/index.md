@@ -1,6 +1,6 @@
 # Djé Djé from the block
 
-Djé Djé from the block is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Virage, Paris on Wed, 22 Jul 2026.
+Djé Djé from the block is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Virage, Paris on Wed, 22 Jul 2026.
 
 Djé Djé from the block is a techno and trance artist based in France, tracked on soundcheck, with 36 sets logged across Berlin, Nantes and Paris. Often billed alongside Gabbor, MNBOO and AMAYO. Next up: Virage, Paris on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Djé Djé from the block is a techno and trance artist based in France, tracked 
 
 Gabbor, MNBOO, AMAYO
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjefromtheblock/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjefromtheblock/)*

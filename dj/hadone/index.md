@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 24 Jul 2026.
+Hadone is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 24 Jul 2026.
 
 Hadone is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: Smoke & Mirrors, Chicago on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Hadone is a techno and house artist tracked on soundcheck, with 160 sets logged 
 
 UFO95, Chlär, DC Salas
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

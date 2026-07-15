@@ -1,6 +1,6 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at GIMIC, Brussels on Sat, 18 Jul 2026.
+ilbroccolovolante is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at GIMIC, Brussels on Sat, 18 Jul 2026.
 
 ilbroccolovolante is a progressive house and house artist based in Italy, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: GIMIC, Brussels on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ ilbroccolovolante is a progressive house and house artist based in Italy, tracke
 
 Kidcat, zikade, materia hache
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbroccolovolante/)*

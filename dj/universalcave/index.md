@@ -1,6 +1,6 @@
 # Universal Cave
 
-Universal Cave is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
+Universal Cave is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
 
 Universal Cave is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Washingtondc. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: New York Avenue Beach, Philadelphia on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Universal Cave is a house and disco artist based in United States of America, tr
 
 Shawn Ryan, Zillas on Acid, JEWELSSEA
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*

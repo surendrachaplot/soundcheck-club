@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at [UNVRS], Ibiza on Thu, 16 Jul 2026.
+salute is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at [UNVRS], Ibiza on Thu, 16 Jul 2026.
 
 salute is a house and garage artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: [UNVRS], Ibiza on Thu 16 Jul.
 
@@ -30,4 +30,4 @@ salute is a house and garage artist tracked on soundcheck, with 177 sets logged 
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

@@ -1,6 +1,6 @@
 # The Ravensbury
 
-The Ravensbury is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "DENIM WEAR DAY & NIGHT PARTY" on Sun, 2 Aug 2026.
+The Ravensbury is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "DENIM WEAR DAY & NIGHT PARTY" on Sun, 2 Aug 2026.
 
 The Ravensbury is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Special Occasion. Browse upcoming dates, start times and who's playing. 260 Croydon Road, Mitcham, CR4 4JA.
 
@@ -14,4 +14,4 @@ The Ravensbury is a music venue in London listed on soundcheck. 1 upcoming night
 
 260 Croydon Road, Mitcham, CR4 4JA, London
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ravensbury/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ravensbury/)*

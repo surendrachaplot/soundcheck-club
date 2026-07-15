@@ -1,6 +1,6 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Palais, London on Sat, 18 Jul 2026.
+Peverelist is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Palais, London on Sat, 18 Jul 2026.
 
 Peverelist is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Hodge, Livity Sound and Al Wootton. Next up: Palais, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Peverelist is a techno and bass artist based in United Kingdom, tracked on sound
 
 Hodge, Livity Sound, Al Wootton
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

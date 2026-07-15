@@ -1,6 +1,6 @@
 # La Mala Noche
 
-La Mala Noche is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 18 Jul 2026.
+La Mala Noche is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 18 Jul 2026.
 
 La Mala Noche is a techno and house artist tracked on soundcheck, with 40 sets logged across Losangeles, Portland and Seattle. Often billed alongside Claudia LB, DJ Raine and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ La Mala Noche is a techno and house artist tracked on soundcheck, with 40 sets l
 
 Claudia LB, DJ Raine, Succubass
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalanoche/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lamalanoche/)*

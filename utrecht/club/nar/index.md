@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 11 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "CLUBNACHT / Tsepo (All Night)" on Fri, 17 Jul 2026.
+NAR is a music venue in Utrecht with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "CLUBNACHT / Tsepo (All Night)" on Fri, 17 Jul 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 11 upcoming nights, with line-ups including Ajuma, Benny Rodrigues, Cassy and CHEWCHEW and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 11 upcoming nights, with l
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

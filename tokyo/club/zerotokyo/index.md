@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "COINCIDENCE" on Thu, 16 Jul 2026.
+ZEROTOKYO is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "COINCIDENCE" on Thu, 16 Jul 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 6.do, AEMI, Aloetic and Andrew Moore and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, wi
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

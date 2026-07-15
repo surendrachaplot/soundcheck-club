@@ -1,6 +1,6 @@
 # Fling
 
-Fling is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "FLING 13 - Lidl - XMRXLLXH - 4-i" on Fri, 17 Jul 2026.
+Fling is a music venue in Istanbul with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "FLING 13 - Lidl - XMRXLLXH - 4-i" on Fri, 17 Jul 2026.
 
 Fling is a music venue in Istanbul listed on soundcheck. 5 upcoming nights, with line-ups including 4-i, AFTERTONIGH, jtamul and XMRXLLXH and 1 more. Browse upcoming dates, start times and who's playing. Beyoğlu, ISTANBUL.
 
@@ -18,4 +18,4 @@ Fling is a music venue in Istanbul listed on soundcheck. 5 upcoming nights, with
 
 Beyoğlu, ISTANBUL, Istanbul
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/fling/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/fling/)*

@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+Anna Wall is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
 Anna Wall is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Craig Richards, Bobby. and Harry McCanna. Next up: Boston Manor Park, London on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Anna Wall is a house and techno artist tracked on soundcheck, with 109 sets logg
 
 Craig Richards, Bobby., Harry McCanna
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

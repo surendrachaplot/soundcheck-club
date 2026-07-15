@@ -1,6 +1,6 @@
 # NAGINI
 
-NAGINI is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
+NAGINI is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 31 Jul 2026.
 
 NAGINI is a trance and techno artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Budapest, Leipzig and Munich and 1 more. Often billed alongside 9LALEY, Praun and Vaneska. Next up: Bahnwärter Thiel, Munich on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ NAGINI is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 9LALEY, Praun, Vaneska
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nagini/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nagini/)*

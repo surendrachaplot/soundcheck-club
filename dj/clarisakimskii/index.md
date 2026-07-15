@@ -1,6 +1,6 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Clarisa Kimskii is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Kiernan Laveaux. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 156 set
 
 Ne/Re/A, Mike Servito, Kiernan Laveaux
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

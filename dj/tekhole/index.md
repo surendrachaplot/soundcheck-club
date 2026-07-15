@@ -1,6 +1,6 @@
 # Tekhole
 
-Tekhole is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Stereo, Glasgow on Sat, 8 Aug 2026.
+Tekhole is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Stereo, Glasgow on Sat, 8 Aug 2026.
 
 Tekhole is a bass and house artist tracked on soundcheck, with 42 sets logged across Berlin, Edinburgh, Glasgow and London and 3 more. Often billed alongside Buckfast Barbie, Maveen and veryt. Next up: Stereo, Glasgow on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tekhole is a bass and house artist tracked on soundcheck, with 42 sets logged ac
 
 Buckfast Barbie, Maveen, veryt
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekhole/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekhole/)*

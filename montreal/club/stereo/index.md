@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Ossifer - Dylan Cherry - Deneb" on Fri, 17 Jul 2026.
+Stereo is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ossifer - Dylan Cherry - Deneb" on Fri, 17 Jul 2026.
 
 Stereo is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Abel Aguilera, Adiel, Avision and Chus & Ceballos and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Montreal listed on soundcheck. 14 upcoming nights, wi
 
 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada, Montreal
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereo/)*

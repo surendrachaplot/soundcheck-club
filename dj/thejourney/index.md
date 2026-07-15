@@ -1,6 +1,6 @@
 # The Journey
 
-The Journey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at ELECTRIC BAR, Melbourne on Fri, 17 Jul 2026.
+The Journey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at ELECTRIC BAR, Melbourne on Fri, 17 Jul 2026.
 
 The Journey is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Auckland, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Mike Callander, Rachel May and Rem Siman. Next up: ELECTRIC BAR, Melbourne on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ The Journey is a house and techno artist based in Australia, tracked on soundche
 
 Mike Callander, Rachel May, Rem Siman
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*

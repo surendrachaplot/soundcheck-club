@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "313 Connection (Touch the sky)" on Fri, 17 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "313 Connection (Touch the sky)" on Fri, 17 Jul 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Boss Priester, Bristol Luke, Co-Accused and Corran and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming ni
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

@@ -1,6 +1,6 @@
 # AMMARA
 
-AMMARA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
+AMMARA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Boston Manor Park, London on Sun, 2 Aug 2026.
 
 AMMARA is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Boston Manor Park, London on Sun 2 Aug.
 
@@ -29,4 +29,4 @@ AMMARA is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 Ben Hemsley, Danny Howard, Andhim
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*

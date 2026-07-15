@@ -1,6 +1,6 @@
 # DJ Shannon
 
-DJ Shannon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Crate Brewery, London on Fri, 17 Jul 2026.
+DJ Shannon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Crate Brewery, London on Fri, 17 Jul 2026.
 
 DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: Crate Brewery, London on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ DJ Shannon is a house and techno artist based in United States of America, track
 
 Niyah West, HONEY B, Kandylion
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*

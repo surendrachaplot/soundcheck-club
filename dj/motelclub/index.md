@@ -1,6 +1,6 @@
 # Motel Club
 
-Motel Club is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Danger Danger, New York City on Fri, 17 Jul 2026.
+Motel Club is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Danger Danger, New York City on Fri, 17 Jul 2026.
 
 Motel Club is a house and disco artist tracked on soundcheck, with 93 sets logged across Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Malachi, JKriv and Aaron Dae. Next up: Danger Danger, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Motel Club is a house and disco artist tracked on soundcheck, with 93 sets logge
 
 Malachi, JKriv, Aaron Dae
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motelclub/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/motelclub/)*

@@ -1,6 +1,6 @@
 # savezearth
 
-savezearth is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at WALL & WALL, Tokyo on Wed, 15 Jul 2026.
+savezearth is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at WALL & WALL, Tokyo on Wed, 15 Jul 2026.
 
 savezearth is a techno and house artist based in Japan, tracked on soundcheck, with 87 sets logged across Tokyo. Often billed alongside LØST, MUNEMASA and Rickshinmi. Next up: WALL & WALL, Tokyo on Wed 15 Jul.
 
@@ -26,4 +26,4 @@ savezearth is a techno and house artist based in Japan, tracked on soundcheck, w
 
 LØST, MUNEMASA, Rickshinmi
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/savezearth/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/savezearth/)*

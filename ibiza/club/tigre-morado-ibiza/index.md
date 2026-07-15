@@ -1,6 +1,6 @@
 # Tigre Morado Ibiza
 
-Tigre Morado Ibiza is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Oliver Keim at Tigre Morado" on Sat, 18 Jul 2026.
+Tigre Morado Ibiza is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Oliver Keim at Tigre Morado" on Sat, 18 Jul 2026.
 
 Tigre Morado Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tigre Morado Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Oliver Keim at Tigre Morado |  |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tigre-morado-ibiza/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tigre-morado-ibiza/)*

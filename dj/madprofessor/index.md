@@ -1,6 +1,6 @@
 # Mad Professor
 
-Mad Professor is a Dub and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Standard Time, Toronto on Fri, 17 Jul 2026.
+Mad Professor is a Dub and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Standard Time, Toronto on Fri, 17 Jul 2026.
 
 Mad Professor is a dub and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DjRUM, Beatrice M. and Dj Babatr. Next up: Standard Time, Toronto on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Mad Professor is a dub and house artist tracked on soundcheck, with 60 sets logg
 
 DjRUM, Beatrice M., Dj Babatr
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

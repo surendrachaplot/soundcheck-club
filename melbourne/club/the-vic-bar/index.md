@@ -1,6 +1,6 @@
 # The Vic Bar
 
-The Vic Bar is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "DJ SWELLA - All Night Long" on Fri, 17 Jul 2026.
+The Vic Bar is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "DJ SWELLA - All Night Long" on Fri, 17 Jul 2026.
 
 The Vic Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including DJ SWELLA. Browse upcoming dates, start times and who's playing. 281 Victoria Street, Abbotsford VIC 3067, Australia.
 
@@ -15,4 +15,4 @@ The Vic Bar is a music venue in Melbourne listed on soundcheck. 2 upcoming night
 
 281 Victoria Street, Abbotsford VIC 3067, Australia, Melbourne
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-vic-bar/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-vic-bar/)*

@@ -1,6 +1,6 @@
 # Fennesz
 
-Fennesz is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Fennesz is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Fennesz is an experimental and electronica artist based in Austria, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Brighton and Brussels and 5 more. Often billed alongside Ah! Kosmos, Eomac and Hainbach. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -27,4 +27,4 @@ Fennesz is an experimental and electronica artist based in Austria, tracked on s
 
 Ah! Kosmos, Eomac, Hainbach
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fennesz/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fennesz/)*

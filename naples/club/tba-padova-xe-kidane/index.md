@@ -1,6 +1,6 @@
 # TBA - Padova, Xe Kidane
 
-TBA - Padova, Xe Kidane is a music venue in Naples with 1 upcoming night listed on soundcheck as of Tue, 14 Jul 2026; the next is "Mosquito. Mussatty in the Park" on Fri, 17 Jul 2026.
+TBA - Padova, Xe Kidane is a music venue in Naples with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Mosquito. Mussatty in the Park" on Fri, 17 Jul 2026.
 
 TBA - Padova, Xe Kidane is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including Lucretio. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Padova, Xe Kidane is a music venue in Naples listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Mosquito. Mussatty in the Park | Lucretio |
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-padova-xe-kidane/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-padova-xe-kidane/)*

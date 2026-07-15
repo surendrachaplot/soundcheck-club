@@ -1,6 +1,6 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 20 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at Club Leidse, Amsterdam on Fri, 17 Jul 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 20 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club Leidse, Amsterdam on Fri, 17 Jul 2026.
 
 Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 47 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Adrian Reyes. Next up: Club Leidse, Amsterdam on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 47 sets log
 
 Rishi Romero, DJ LIGMA, Adrian Reyes
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*

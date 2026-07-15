@@ -1,6 +1,6 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Tue, 14 Jul 2026; the next is "Caru & Brandn Shiraz Presented By GoldTooth" on Fri, 17 Jul 2026.
+Goblin is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Caru & Brandn Shiraz Presented By GoldTooth" on Fri, 17 Jul 2026.
 
 Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including BBYFACEKILLA, Caru (NZ), Goldtooth and Kaiviti and 1 more. Browse upcoming dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
@@ -15,4 +15,4 @@ Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming nights, wit
 
 134 Ponsonby Road, Grey Lynn, Auckland 1011, Auckland
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*

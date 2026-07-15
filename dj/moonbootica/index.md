@@ -1,6 +1,6 @@
 # Moonbootica
 
-Moonbootica is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 14 Jul 2026, next at TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg, Hamburg on Sat, 1 Aug 2026.
+Moonbootica is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg, Hamburg on Sat, 1 Aug 2026.
 
 Moonbootica is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg, Hamburg on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Moonbootica is a techno and house artist tracked on soundcheck, with 35 sets log
 
 Format B, AKA AKA, Dominik Eulberg
 
-*Updated Tue, 14 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbootica/)*
+*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbootica/)*
