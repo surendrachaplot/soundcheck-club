@@ -1,6 +1,6 @@
 # MOAB | Day & Night Open Air @Laghi Carcana | 3 Stages from 3pm at Asd Laghi Carcana
 
-MOAB | Day & Night Open Air @Laghi Carcana | 3 Stages from 3pm at Asd Laghi Carcana on Sat 18 Jul, Milan. 11 acts on the bill: DANAE, Dario Lem, Enrico Vivaldi and Giorgio Di Majo and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+MOAB | Day & Night Open Air @Laghi Carcana | 3 Stages from 3pm at Asd Laghi Carcana on Sat 18 Jul, Milan. 14 acts on the bill: AMANDA LEAN, DANAE, Dario Lem and Enrico Vivaldi and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MOAB | Day & Night Open Air @Laghi Carcana | 3 Stages from 3pm at Asd Laghi Carc
 
 ## Line-up
 
+- AMANDA LEAN
 - DANAE
 - Dario Lem
 - Enrico Vivaldi
@@ -18,7 +19,9 @@ MOAB | Day & Night Open Air @Laghi Carcana | 3 Stages from 3pm at Asd Laghi Carc
 - Leena
 - Lorenzo Aribone
 - Mary Yuzovskaya
+- Mattia Dambrosio
 - Nicolas Lutz
+- Pabie
 - Tapefeed
 - The Robinson
 

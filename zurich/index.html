@@ -27,8 +27,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.f57b30c1b216.css">
-<meta name="sc-build" content="1784128863392">
+  <link rel="stylesheet" href="/app.c8c5ea9c5661.css">
+<meta name="sc-build" content="1784129828979">
 </head>
 <body>
   <main class="wrap">
@@ -47,6 +47,14 @@
     </nav>
 
     <div id="home">
+
+    <!-- Crawlable home content (first-byte H1 + intro; the bottom section's date links
+         are injected per-city by build-club). Lives inside #home so it only shows on the
+         home view (body.page-on hides #home). SPA keeps it; setCity updates .hs-city. -->
+    <section id="home-seo" class="home-seo">
+      <h1 class="home-seo-h1">Club nights &amp; DJ sets in <span class="hs-city">Zurich</span></h1>
+      <p class="home-seo-p">See who&rsquo;s playing tonight and this weekend across every venue in <span class="hs-city">Zurich</span>. Preview the sets, follow the artists you love, and save the nights you want &mdash; soundcheck maps club nights and DJ line-ups across 104 cities in 40 countries.</p>
+    </section>
 
     <div class="daterow">
       <div class="daystrip" id="daystrip"></div>
@@ -74,6 +82,9 @@
       </div>
     </div>
     <div class="grid" id="grid"></div>
+    <!-- Per-city "what's on this week" date links, injected by build-club (canonical
+         /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
+    <section id="home-seo-more" class="home-seo-more" data-city="zurich"><h2>What&rsquo;s on in Zurich this week</h2><ul class="home-seo-dates"><li><a href="/zurich/2026-07-17/">Fri 17 Jul <span class="c">4 events</span></a></li><li><a href="/zurich/2026-07-18/">Sat 18 Jul <span class="c">5 events</span></a></li><li><a href="/zurich/2026-07-24/">Fri 24 Jul <span class="c">5 events</span></a></li><li><a href="/zurich/2026-07-25/">Sat 25 Jul <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/zurich/this-weekend/">This weekend in Zurich</a> <a href="/zurich/scene/">Zurich scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     </div><!-- /#home -->
 
@@ -186,7 +197,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.f57b30c1b216.js" defer></script>
+  <script src="/app.c8c5ea9c5661.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

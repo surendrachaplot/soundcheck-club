@@ -1,6 +1,6 @@
 # Expeditions at ://about blank
 
-Expeditions at ://about blank on Fri 17 Jul, Berlin. 4 acts on the bill: Luka Jukic, SACID, Uma Scheffer and substitüt. Trance and Techno. Preview the line-up and save it on soundcheck.
+Expeditions at ://about blank on Fri 17 Jul, Berlin. 5 acts on the bill: Luka Jukic, P3PA, SACID and Uma Scheffer and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Expeditions at ://about blank on Fri 17 Jul, Berlin. 4 acts on the bill: Luka Ju
 ## Line-up
 
 - Luka Jukic
+- P3PA
 - SACID
 - Uma Scheffer
 - substitüt

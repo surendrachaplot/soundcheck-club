@@ -1,6 +1,6 @@
 # House of Rave with Maceo Plex, Pan-Pot, Nicole Moudaber, Klanglos, Mark Dekoda und viele mehr at Ritter Butzke
 
-House of Rave with Maceo Plex, Pan-Pot, Nicole Moudaber, Klanglos, Mark Dekoda und viele mehr at Ritter Butzke on Sat 15 Aug, Berlin. 17 acts on the bill: Blossmbae, Calypsis, Claudius and Ephy Pinkman and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+House of Rave with Maceo Plex, Pan-Pot, Nicole Moudaber, Klanglos, Mark Dekoda und viele mehr at Ritter Butzke on Sat 15 Aug, Berlin. 18 acts on the bill: Blossmbae, Calypsis, Claudius and Ephy Pinkman and 14 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ House of Rave with Maceo Plex, Pan-Pot, Nicole Moudaber, Klanglos, Mark Dekoda u
 - Claudius
 - Ephy Pinkman
 - Klanglos
+- Lexer
 - Maceo Plex
 - Malouna
 - Mark Dekoda

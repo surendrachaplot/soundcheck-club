@@ -11,7 +11,7 @@
 | Wed, 15 Jul 2026 | ://sektgarten x elements [free entry & open air] | THNTS |
 | Thu, 16 Jul 2026 | DIFFUSE REALITY pres. Fiedel [Ostgut Ton, Berghain] | FIASKA, Fiedel, Kelvin Belton, Luca Scarpa, Marina Semren, Squaric |
 | Thu, 16 Jul 2026 | ://sektgarten x elektrogarten [free entry & open air] | Doshy, Electric Visionary |
-| Fri, 17 Jul 2026 | Expeditions | Luka Jukic, SACID, Uma Scheffer, substitüt |
+| Fri, 17 Jul 2026 | Expeditions | Luka Jukic, P3PA, SACID, Uma Scheffer, substitüt |
 | Fri, 17 Jul 2026 | ://sektgarten x Rodmin [free entry & open air] | Rodmin |
 | Sat, 18 Jul 2026 | DUALISM with Stef de Haan, DJ Tallboy, CARGO | 5euroGoldi, Blossmbae, CARGO (DE), DJ Tallboy, Hang Aoki, Krash Cora, MSKD, Mareike Bautz, PASSA, Stef de Haan, alemiko, brvder jakob, jeanska, multivitaminmarie |
 | Sat, 18 Jul 2026 | ://sektgarten tanzt aus der reihe 2.0 by Insel der Jugend [free entry & open air] | Ric Piccolo, Unfunk |
