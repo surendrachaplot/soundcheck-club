@@ -1,14 +1,15 @@
 # Loren
 
-Loren is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Mansions, New York City on Sat, 18 Jul 2026.
+Loren is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Mansions, New York City on Sat, 18 Jul 2026.
 
-Loren is a techno and house artist tracked on soundcheck, with 205 sets logged across Berlin, Chicago, Detroit and Lisbon and 8 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Mansions, Newyorkcity on Sat 18 Jul.
+Loren is a techno and house artist tracked on soundcheck, with 206 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Mansions, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Mansions | New York City |
+| Fri, 24 Jul 2026 | Playa Soleil Ibiza | Ibiza |
 | Fri, 7 Aug 2026 | Signal | New York City |
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
