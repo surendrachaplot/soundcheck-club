@@ -1,8 +1,8 @@
 # Chris Schwarzwälder
 
-Chris Schwarzwälder is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bikini Beach, Cologne on Fri, 17 Jul 2026.
+Chris Schwarzwälder is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bikini Beach, Cologne on Fri, 17 Jul 2026.
 
-Chris Schwarzwälder is a house and techno artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: Bikini Beach, Cologne on Fri 17 Jul.
+Chris Schwarzwälder is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: Bikini Beach, Cologne on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chris Schwarzwälder is a house and techno artist based in Germany, tracked on s
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Bikini Beach | Cologne |
 | Fri, 24 Jul 2026 | Doma Portugal | Lisbon |
+| Fri, 21 Aug 2026 | Kater | Berlin |
 
 ## Recently played
 

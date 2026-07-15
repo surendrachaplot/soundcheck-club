@@ -2,7 +2,7 @@
 
 Bumpr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Thuishaven, Amsterdam on Sat, 18 Jul 2026.
 
-Bumpr is a house and techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Rotterdam. Often billed alongside Ammé, Jesse Maas and Michel de Hey. Next up: Thuishaven, Amsterdam on Sat 18 Jul.
+Bumpr is a house and techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Rotterdam. Often billed alongside Ammé, Fabio Santos and Jesse Maas. Next up: Thuishaven, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Bumpr is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 ## Shares bills with
 
-Ammé, Jesse Maas, Michel de Hey
+Ammé, Fabio Santos, Jesse Maas
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpr/)*

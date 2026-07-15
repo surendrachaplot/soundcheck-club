@@ -13,7 +13,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 | Fri, 24 Jul 2026 | la Culottée (Nord + Sud) | Amina, Fais Le Beau, Gay Haze, Rachel Noon, Sixsixsixties, Soyoon, UNOS, audio primitive, ttyfal |
 | Sat, 25 Jul 2026 | With us - The Final Cuntdown | Aria Seashell, Mars O10C, Shadysnack, Yaël Ohayon |
 | Sun, 26 Jul 2026 | Spectrum Waves |  |
-| Fri, 31 Jul 2026 | Skyblog Legacy <2 edition RPZ |  |
+| Fri, 31 Jul 2026 | Avant-Garce : Skyblog Legacy <2 edition RPZ |  |
 | Sat, 1 Aug 2026 | OUTREBLEU  | Kohra, SOLARYTHM, Softi |
 | Fri, 7 Aug 2026 | Herrensauna × FIST | CEM, DJ Clone, MCMLXXXV, PEPIITA, Word of Command |
 | Sat, 8 Aug 2026 | DJAOULI ENT x NYEGE NYEGE A PARIS | Andy4000, Hibotep |

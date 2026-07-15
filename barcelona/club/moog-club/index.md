@@ -1,8 +1,8 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 46 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Alexey Dunchyk + Serkin" on Wed, 15 Jul 2026.
+Moog Club is a music venue in Barcelona with 48 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Alexey Dunchyk + Serkin" on Wed, 15 Jul 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 46 upcoming nights, with line-ups including Alexey Dunchyk, BAMBI (BE), Bas Mooy and carlota. and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 48 upcoming nights, with line-ups including Alexey Dunchyk, BAMBI (BE), Bas Mooy and carlota. and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # NUUP
 
-NUUP is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Purobeach Barcelona, Barcelona on Sat, 18 Jul 2026.
+NUUP is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BUS Hexperience, Barcelona on Fri, 17 Jul 2026.
 
-NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: Purobeach Barcelona, Barcelona on Sat 18 Jul.
+NUUP is a house and techno artist based in Mexico, tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Valderrama, Thomas Hernandez and JE·ROME. Next up: BUS Hexperience, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | BUS Hexperience | Barcelona |
 | Sat, 18 Jul 2026 | Purobeach Barcelona | Barcelona |
 | Fri, 24 Jul 2026 | Birgit | Berlin |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |

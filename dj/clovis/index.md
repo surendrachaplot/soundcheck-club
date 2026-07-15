@@ -1,8 +1,8 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sonnenraum, Berlin on Sat, 18 Jul 2026.
+Clovis is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sonnenraum, Berlin on Sat, 18 Jul 2026.
 
-Clovis is a house and minimal artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Boston and 14 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Sonnenraum, Berlin on Sat 18 Jul.
+Clovis is a house and minimal artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Boston and 14 more. Often billed alongside Cesar Merveille, Topper and Inner. Next up: Sonnenraum, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Clovis is a house and minimal artist tracked on soundcheck, with 91 sets logged 
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Sonnenraum | Berlin |
 | Sun, 26 Jul 2026 | Club der Visionaere | Berlin |
+| Sat, 1 Aug 2026 | Renate | Berlin |
 
 ## Recently played
 

@@ -11,7 +11,7 @@ TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations is a mus
 | Sat, 18 Jul 2026 | FLORA Festival '26 [Session 5: Unrush 10 Years Anniversary] | Josef Gaard, Mareena |
 | Sun, 26 Jul 2026 | FLORA Festival '26 [Session 5: Technologia Organica Invites] | Jacky Jeane, Octo Åeterna, Romi, Toxido Mask |
 | Sun, 2 Aug 2026 | FLORA Festival '26 [Session 6] |  |
-| Sat, 8 Aug 2026 | FLORA Festival '26 [Session 7] | Alexa Strange, Bardo (1), Jeena, Ousia Sound, Phalcon, TheRipped |
+| Sat, 8 Aug 2026 | FLORA Festival '26 [Session 7] | Alexa Strange, Bardo (1), Jeena, Ousia Sound, Phalcon, Rodo Garcia, TheRipped |
 | Sat, 15 Aug 2026 | FLORA Festival '26 [Session 8] |  |
 | Sat, 22 Aug 2026 | FLORA Festival '26 [Session 9] | Jan Loup, Overnap, Raia, Udda |
 | Sat, 29 Aug 2026 | FLORA Festival '26 [Session 10] | colell |

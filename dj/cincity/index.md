@@ -1,8 +1,8 @@
 # Cincity
 
-Cincity is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 3 Aug 2026.
+Cincity is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 3 Aug 2026.
 
-Cincity is a house and afro house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bangkok, Basel and Berlin and 12 more. Often billed alongside Philou Louzolo, Benny Rodrigues and Karim Soliman. Next up: Hï Ibiza, Ibiza on Mon 3 Aug.
+Cincity is a house and afro house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Basel and Berlin and 12 more. Often billed alongside Philou Louzolo, Benny Rodrigues and Karim Soliman. Next up: Hï Ibiza, Ibiza on Mon 3 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cincity is a house and afro house artist tracked on soundcheck, with 104 sets lo
 | --- | --- | --- |
 | Mon, 3 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
 

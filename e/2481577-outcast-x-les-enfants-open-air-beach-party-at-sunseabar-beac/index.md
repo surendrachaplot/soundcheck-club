@@ -1,6 +1,6 @@
 # Outcast x Les Enfants - Open Air Beach Party at Sunseabar Beach Club
 
-Outcast x Les Enfants - Open Air Beach Party at Sunseabar Beach Club on Sun 9 Aug, Barcelona. 5 acts on the bill: Alex Dima, Donald (AU), Lorenzo Aribone and Paul Lution and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Outcast x Les Enfants - Open Air Beach Party at Sunseabar Beach Club on Sun 9 Aug, Barcelona. 6 acts on the bill: Alex Dima, DONALD - BIIG_DONNY, Donald (AU) and Lorenzo Aribone and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Outcast x Les Enfants - Open Air Beach Party at Sunseabar Beach Club on Sun 9 Au
 ## Line-up
 
 - Alex Dima
+- DONALD - BIIG_DONNY
 - Donald (AU)
 - Lorenzo Aribone
 - Paul Lution

@@ -1,6 +1,6 @@
 # Santería at PNC Radio
 
-Santería at PNC Radio on Fri 17 Jul, Barcelona. 2 acts on the bill: Roberta.Mikeila and Serafin Lichter. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+Santería at PNC Radio on Fri 17 Jul, Barcelona. 3 acts on the bill: Denso, Roberta.Mikeila and Serafin Lichter. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Santería at PNC Radio on Fri 17 Jul, Barcelona. 2 acts on the bill: Roberta.Mik
 
 ## Line-up
 
+- Denso
 - Roberta.Mikeila
 - Serafin Lichter
 

@@ -1,8 +1,8 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 26 Jul 2026.
+bullet tooth is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 26 Jul 2026.
 
-bullet tooth is a garage and house artist tracked on soundcheck, with 117 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: 528 Ibiza, Ibiza on Sun 26 Jul.
+bullet tooth is a garage and house artist tracked on soundcheck, with 118 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: 528 Ibiza, Ibiza on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 117 sets l
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | 528 Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Burgess Park | London |
+| Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Fri, 14 Aug 2026 | BRET | Amsterdam |
 | Sun, 30 Aug 2026 | The Nest | Nottingham |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
@@ -19,7 +20,6 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 117 sets l
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Document | Bristol |
 | Fri, 9 Oct 2026 | fabric | London |
-| Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

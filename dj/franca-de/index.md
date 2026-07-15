@@ -1,14 +1,15 @@
 # Franca
 
-Franca is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Franca is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Franca is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 18 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Franca is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 18 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
+| Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Kater | Berlin |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Marcel BS
 
-Marcel BS is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Opium Barcelona, Barcelona on Wed, 15 Jul 2026.
+Marcel BS is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Opium Barcelona, Barcelona on Wed, 15 Jul 2026.
 
-Marcel BS is a house and afro house artist tracked on soundcheck, with 76 sets logged across Barcelona, Brussels, Ibiza and London and 2 more. Often billed alongside MARTISTA, Edu Natored (2) and Denoir. Next up: Opium Barcelona, Barcelona on Wed 15 Jul.
+Marcel BS is a house and afro house artist tracked on soundcheck, with 77 sets logged across Barcelona, Brussels, Ibiza and London and 2 more. Often billed alongside MARTISTA, Edu Natored (2) and Denoir. Next up: Opium Barcelona, Barcelona on Wed 15 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | Opium Barcelona | Barcelona |
+| Sun, 16 Aug 2026 | Ku Barcelona | Barcelona |
 | Sun, 30 Aug 2026 | Ku Barcelona | Barcelona |
 
 ## Recently played

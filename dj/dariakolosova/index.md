@@ -1,8 +1,8 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Daria Kolosova is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-Daria Kolosova is a techno and house artist tracked on soundcheck, with 266 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+Daria Kolosova is a techno and house artist tracked on soundcheck, with 267 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 266 sets
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 21 Aug 2026 | Hangaren | Copenhagen |
+| Sat, 22 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | Boomerang Beach | The Hague |
-| Sat, 12 Sept 2026 | TBA | Washington DC |
 
 ## Recently played
 

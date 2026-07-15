@@ -1,15 +1,17 @@
 # karete bu
 
-karete bu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+karete bu is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-karete bu is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 5 more. Often billed alongside fr. JPLA, Jessamine and André Dancekowski. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+karete bu is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 5 more. Often billed alongside fr. JPLA, Jessamine and André Dancekowski. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
+| Fri, 24 Jul 2026 | ://about blank | Berlin |
 | Sat, 1 Aug 2026 | frachtkante | Berlin |
+| Fri, 21 Aug 2026 | Kater | Berlin |
 
 ## Recently played
 

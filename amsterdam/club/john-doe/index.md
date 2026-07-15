@@ -8,7 +8,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 37 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | RAVELAND x 20kHz: Hard Techno, Groove & Bounce | STVN, stargurl |
+| Wed, 15 Jul 2026 | RAVELAND x 20kHz: Hard Techno, Groove & Bounce | STVN, STVN (2), stargurl |
 | Thu, 16 Jul 2026 | Amsterdam Techno Sessions with 500MA aka Second Gate - MEX & Marco Ramos | 500MA, Marco Ramos, Second Gate |
 | Fri, 17 Jul 2026 | CODE 303 x UNDRGRND | DMS1N3RGY, Gaya Carmeli, LEX LEDU, Vero_ |
 | Sat, 18 Jul 2026 | Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX | Marco Ramos, Villaseñor |

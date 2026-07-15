@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 52 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SIGNALS - 5€ Tickets - with Bobaz Lobster, cravings320 & kichererbsenstampf" on Wed, 15 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 53 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SIGNALS - 5€ Tickets - with Bobaz Lobster, cravings320 & kichererbsenstampf" on Wed, 15 Jul 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 52 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 53 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 

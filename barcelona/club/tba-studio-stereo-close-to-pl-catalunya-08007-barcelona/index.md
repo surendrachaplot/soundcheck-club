@@ -14,7 +14,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Thu, 23 Jul 2026 | Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am) | IVAN POSEIDON, JOCHI, Lowkey Loud, Miceli, Narima Satori, Pier Mood, Radio Vega |
 | Fri, 24 Jul 2026 | Studio Stereo x Capricho pres. Ethel, Mikolai (until 4am) | .cosm, Bastard Love, Ethel, Mikolai |
 | Sat, 25 Jul 2026 | Studio Stereo pres. DJ Serviced Records showcase | DJ Service |
-| Thu, 30 Jul 2026 | Studio Stereo TBA (until 3am) |  |
+| Thu, 30 Jul 2026 | Studio Stereo pres. Liquid Palms x Human Behaviour | Breezy S, Mikaella, NOBODYISALICE, Nic David |
 | Fri, 31 Jul 2026 | Studio Stereo pres. Cupula Recordings x Hook showcase | Adria (ES), Pau Rosés, Quim Clausell, Torrent |
 | Sat, 1 Aug 2026 | tudio Stereo TBA (until 4am) |  |
 | Thu, 6 Aug 2026 | Studio Stereo TBA (until 3am) |  |

@@ -1,8 +1,8 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
+Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri, 24 Jul 2026.
 
-Lady Starlight is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Basel and Berlin and 30 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri 24 Jul.
+Lady Starlight is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Basel and Berlin and 30 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lady Starlight is a techno and house artist tracked on soundcheck, with 78 sets 
 | Sun, 2 Aug 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 7 Aug 2026 | Rote Fabrik | Zurich |
 | Thu, 10 Sept 2026 | Metropol | Berlin |
+| Tue, 13 Oct 2026 | Zeiss Grossplanetarium | Berlin |
 
 ## Recently played
 

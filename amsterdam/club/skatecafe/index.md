@@ -13,7 +13,7 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights
 | Tue, 21 Jul 2026 | Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS |  |
 | Fri, 24 Jul 2026 | PRIDE - LET'S STRUT |  |
 | Sat, 25 Jul 2026 | PRIDE - PLUG & PLAY | EVER, Ecstasya, Krai, SISSY MISFIT, kimmah |
-| Fri, 31 Jul 2026 | PRIDE - PRIDE IS A PROTEST |  |
+| Fri, 31 Jul 2026 | PRIDE - PRIDE IS A PROTEST | MMIV, Maan, NAAZ, Slimfit, UNAUNA KITT |
 | Sat, 1 Aug 2026 | PRIDE / DOPPELGANG PRESENTS HONEY HONEY |  |
 | Sat, 1 Aug 2026 | PRIDE / HONEY HONEY |  |
 | Sat, 8 Aug 2026 | DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD | Alec Dienaar, Zeldenrust |

@@ -1,6 +1,6 @@
 # 11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont at Void Club
 
-11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont at Void Club on Fri 24 Jul, Berlin. 15 acts on the bill: Anton Quasi, Aynaet, Boudi Boudin and Crashkitt and 11 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont at Void Club on Fri 24 Jul, Berlin. 17 acts on the bill: Anton Quasi, Aynaet, Boudi Boudin and CainDNB and 13 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - Anton Quasi
 - Aynaet
 - Boudi Boudin
+- CainDNB
 - Crashkitt
 - Der Eggert
 - Dirty Plates
@@ -21,6 +22,7 @@
 - Initia
 - LOUPING
 - Lay.Dee Strange
+- MixB
 - Modulatos
 - Mr.Lafont
 - Upzet

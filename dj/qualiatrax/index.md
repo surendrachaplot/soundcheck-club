@@ -1,8 +1,8 @@
 # Qualia Trax
 
-Qualia Trax is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
+Qualia Trax is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kater, Berlin on Sat, 25 Jul 2026.
 
-Qualia Trax is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Manta, Kosmovision and NoSpice. Next up: Kater, Berlin on Sat 25 Jul.
+Qualia Trax is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Manta, Kosmovision and NoSpice. Next up: Kater, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Qualia Trax is a house and techno artist tracked on soundcheck, with 46 sets log
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Kater | Berlin |
 | Wed, 12 Aug 2026 | Tresor / Globus | Berlin |
+| Fri, 21 Aug 2026 | Kater | Berlin |
 | Sat, 22 Aug 2026 | Avalon Cafe Bermondsey | London |
 
 ## Recently played

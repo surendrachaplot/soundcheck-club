@@ -1,6 +1,6 @@
 # RAW x Heattraxx invites Radio Slave (REKIDS) at Bridge 48
 
-RAW x Heattraxx invites Radio Slave (REKIDS) at Bridge 48 on Fri 24 Jul, Barcelona. 5 acts on the bill: Leo Janeiro, Mona Lee, Nesi and Radio Slave and 1 more. House. Preview the line-up and save it on soundcheck.
+RAW x Heattraxx invites Radio Slave (REKIDS) at Bridge 48 on Fri 24 Jul, Barcelona. 5 acts on the bill: Leo Janeiro, Mona Lee, Nesi and Radio Slave and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

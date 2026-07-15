@@ -10,7 +10,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Free Party with Ghost, Bæmbus, Andi Beat, Lukeez, Upzet, Ed Shepherd, DjFunky, Mononoke | Andi Beat, Bæmbus, Ed Shepherd, GHOST DE, Modulatos, Upzet |
 | Sat, 18 Jul 2026 | Drum and Bass with CÅARL (US) - GERMANY DEBUT - human_made 005 | Alex Pastore, Dark Anomaly (2), Krushak, RMW (DE), icanseesounds |
-| Fri, 24 Jul 2026 | 11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont | Anton Quasi, Aynaet, Boudi Boudin, Crashkitt, Der Eggert, Dirty Plates, Dirty Plates (2), Honschu Lee, Initia, LOUPING, Lay.Dee Strange, Modulatos, Mr.Lafont, Upzet, emaenu (2) |
+| Fri, 24 Jul 2026 | 11 Years VOID Anniversary with Senchai b2b Initia, Dirty Plates, Lay.Dee Strange b2b Mr. Lafont | Anton Quasi, Aynaet, Boudi Boudin, CainDNB, Crashkitt, Der Eggert, Dirty Plates, Dirty Plates (2), Honschu Lee, Initia, LOUPING, Lay.Dee Strange, MixB, Modulatos, Mr.Lafont, Upzet, emaenu (2) |
 | Sat, 25 Jul 2026 | Enter the Void #79 with Giana Brotherz, Deskai, Antiquis Anima, Soniq, Roots, LOUPING, Ametiska | Antiquis Anima, Deskai, Flow TNTS, Giana Brotherz, LOUPING, Roots., Soniq, Theo Slickers, kogo.berlin |
 | Fri, 31 Jul 2026 | KollektivKlang - KlangKnospe - Candyflip - Abgedreht - Eternity - R3M - Lerm  | Callado, Cobb Douglas, DJ Parabolspiegel, Dj Wifi (3), EZA (DE), Flohmarkt, MEKER, MILANCHOLIE, Obelisk, Ozzwald, Rheindaaa, STURM, Un.Frieden, e.leptic, subga |
 | Sat, 8 Aug 2026 | Stoic Music x Breakout DNB (NL) | Anton Quasi, Initia, phasebound |

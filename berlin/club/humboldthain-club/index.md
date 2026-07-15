@@ -12,7 +12,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming n
 | Sat, 18 Jul 2026 | GATE 69 - Golden Rush with ÅMRTÜM, Millie Forsberg uvm | AMRTUM, B.A.O., Brennero, DJ Adonis, DJ Business (2), Millie Forsberg, Shake Daddy, Wall Ra, elfie, futurristic |
 | Tue, 21 Jul 2026 | Open Decks & Tischtennis |  |
 | Fri, 24 Jul 2026 | Kunststaub FM Radiocast #86 | Marinelli |
-| Fri, 24 Jul 2026 | CSD PRE PARTY | Amorelie, Armaville, DJ Spaßgetränk, Paul Bauhaus |
+| Fri, 24 Jul 2026 | CSD PRE PARTY // DRAG SHOWS, FREE SHOTS, KARAOKE & FLINTA HEAVY LINEUP | Amorelie, Armaville, DJ Spaßgetränk, F O R E S I G H T, Paul Bauhaus |
 | Fri, 31 Jul 2026 | Triebwerk Community Party / Live Acts + Art Exhibition | KERT (DE), PHLOXO, PLUSPUNKT, Wieko, Winston Choppa, elvito |
 | Fri, 7 Aug 2026 | CHB Collective - SUMMERPARTY |  |
 | Fri, 21 Aug 2026 | WÜSTuWILD X NICE TRIES BERLIN |  |

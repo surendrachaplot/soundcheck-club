@@ -1,8 +1,8 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Domesticated presents: STAY HUMBLE" on Wed, 15 Jul 2026.
+Club der Visionaere is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Domesticated presents: STAY HUMBLE" on Wed, 15 Jul 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Akaj, Alessia Ceruti, Alex Picone and Aline Umber and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Akaj, Alessia Ceruti, Alex Picone and Aline Umber and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 

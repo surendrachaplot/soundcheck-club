@@ -1,6 +1,6 @@
 # CHB Collective - SUMMERPARTY at Humboldthain Club
 
-CHB Collective - SUMMERPARTY at Humboldthain Club on Fri 7 Aug, Berlin. Trance and Pop. Preview the line-up and save it on soundcheck.
+CHB Collective - SUMMERPARTY at Humboldthain Club on Fri 7 Aug, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

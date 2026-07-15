@@ -1,8 +1,8 @@
 # NORA (BR)
 
-NORA (BR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lark, Berlin on Fri, 17 Jul 2026.
+NORA (BR) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lark, Berlin on Fri, 17 Jul 2026.
 
-NORA (BR) is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Hamburg and London and 4 more. Often billed alongside IDLIBRA, BADSISTA and DJ Fuckoff. Next up: Lark, Berlin on Fri 17 Jul.
+NORA (BR) is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 5 more. Often billed alongside IDLIBRA, BADSISTA and DJ Fuckoff. Next up: Lark, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NORA (BR) is a house and techno artist tracked on soundcheck, with 29 sets logge
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Lark | Berlin |
 | Sat, 25 Jul 2026 | Else | Berlin |
+| Fri, 31 Jul 2026 | Waterkant | Amsterdam |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

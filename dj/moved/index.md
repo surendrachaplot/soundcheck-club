@@ -1,8 +1,8 @@
 # Move D
 
-Move D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sonnenraum, Berlin on Thu, 16 Jul 2026.
+Move D is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sonnenraum, Berlin on Thu, 16 Jul 2026.
 
-Move D is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Robert Drewek, Discrete Circuit and Prosumer. Next up: Sonnenraum, Berlin on Thu 16 Jul.
+Move D is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Robert Drewek, Discrete Circuit and Prosumer. Next up: Sonnenraum, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Move D is a house and techno artist tracked on soundcheck, with 143 sets logged 
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Sonnenraum | Berlin |
 | Fri, 17 Jul 2026 | Palais | London |
+| Mon, 20 Jul 2026 | La salle Wagram | Paris |
 | Sat, 15 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 26 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 

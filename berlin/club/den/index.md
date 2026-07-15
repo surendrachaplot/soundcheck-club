@@ -17,7 +17,7 @@
 | Thu, 23 Jul 2026 | Complice x Kluster — Prelude to CSD | Alfred Czital, Aurian, CLEO, EMIRA, Elvin, Equus Belli, Iris Leidenschaft, KEUT, Litoshka, Miro Von, The Camel |
 | Fri, 24 Jul 2026 | PUTI PRIDE 2026 | Clementaum, Isa GT, Lazy Rosario, MALAGÜERA |
 | Wed, 29 Jul 2026 | Lilith |  |
-| Thu, 30 Jul 2026 | OBXENE - CLOSING SESSION | Alex Pastore, Azkonar, D3VAN, F DRAXIS, La Rod's, OSKAR., UNT3N |
+| Thu, 30 Jul 2026 | OBXENE  | Alex Pastore, Azkonar, D3VAN, F DRAXIS, La Rod's, OSKAR., UNT3N |
 
 ## Address
 
