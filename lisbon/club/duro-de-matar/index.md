@@ -2,13 +2,13 @@
 
 Duro de Matar is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Pieces Chess Club - Lisbon" on Fri, 31 Jul 2026.
 
-Duro de Matar is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, 151.
+Duro de Matar is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including King Kami and UMAFRICANA. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, 151.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 31 Jul 2026 | Pieces Chess Club - Lisbon |  |
+| Fri, 31 Jul 2026 | Pieces Chess Club - Lisbon | King Kami, UMAFRICANA |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Afrodanz – Open Air Afro House Experience with SONA" on Fri, 17 Jul 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Afrodanz – Open Air Afro House Experience with SONA" on Fri, 17 Jul 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including CEZAR, Mariiin, Abdon and Agatha Pher and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including CEZAR, Mariiin, Abdon and Agatha Pher and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 

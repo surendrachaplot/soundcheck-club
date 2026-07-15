@@ -9,7 +9,7 @@ Saraga is a house and tech house artist tracked on soundcheck, with 64 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 15 Jul 2026 | Blue Marlin Ibiza | Ibiza |
-| Fri, 17 Jul 2026 | TBA - Lisboa | Lisbon |
+| Fri, 17 Jul 2026 | Hangar Meco | Lisbon |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played

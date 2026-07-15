@@ -1,8 +1,8 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 25 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "JUSTICE - ARTIE" on Wed, 15 Jul 2026.
+UNO MALTA is a music venue in Malta with 26 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "JUSTICE - ARTIE" on Wed, 15 Jul 2026.
 
-UNO MALTA is a music venue in Malta listed on soundcheck. 25 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
+UNO MALTA is a music venue in Malta listed on soundcheck. 26 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
 ## What's on
 
