@@ -1,8 +1,8 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "135+ mit Cycling Club Collective & Secret Trance Frequencies" on Thu, 16 Jul 2026.
+Bahnwärter Thiel is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "135+ mit Cycling Club Collective & Secret Trance Frequencies" on Thu, 16 Jul 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including 9LALEY, ACE, Alex Volta and ANASTASÍA and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including 9LALEY, ACE, ÆNN and Alex Volta and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming n
 | Sat, 25 Jul 2026 | Sound Salon Sommerfest mit Kotoe – Open Air & Club | Alex Volta, DEYST, Kotoe, Mawu, Moritz Butschek, NICI NICE, Tom Appl |
 | Fri, 31 Jul 2026 | Hypnotrance - Midsummer Open Air & Club - Bahnwärter Thiel | 9LALEY, DJ Yugo, Elleyza, Emby, JBox, Linz (Grell), Listenblondie, MBREKK, NAGINI, Praun, Saminski, Terzenbreaker, Vaneska, antyo, nox |
 | Sat, 1 Aug 2026 | Wannda Circus / Bahnwärter Edition | ANASTASÍA, F Red, NUAH |
-| Fri, 21 Aug 2026 | Toy Tonics Summer Jam - Open Air & Club |  |
-| Sun, 6 Sept 2026 | Bahnwärter Thiel Live & Open Air: Christian Löffler |  |
+| Fri, 7 Aug 2026 | Freitag mit Modul Kollektiv / Bahnwärter Thiel | Danca, Modul Kollektiv, Okarim, Quirin (DE) |
+| Sat, 8 Aug 2026 | Sommerfest - Moritz Butschek invites - Open Air & Club | Bertolt Frech, Kerry Gold, Moritz Butschek, Sabrina Hawk, ÆNN |
 
 ## Address
 

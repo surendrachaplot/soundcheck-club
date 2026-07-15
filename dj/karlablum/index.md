@@ -1,8 +1,8 @@
 # Karla Blum
 
-Karla Blum is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bergson Kunstkraftwerk, Munich on Sat, 25 Jul 2026.
+Karla Blum is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bergson Kunstkraftwerk, Munich on Sat, 25 Jul 2026.
 
-Karla Blum is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside Felix Kröcher, A.D.H.S. and ANDATA. Next up: Bergson Kunstkraftwerk, Munich on Sat 25 Jul.
+Karla Blum is a techno and house artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside Felix Kröcher, A.D.H.S. and ANDATA. Next up: Bergson Kunstkraftwerk, Munich on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Karla Blum is a techno and house artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Bergson Kunstkraftwerk | Munich |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 9 Oct 2026 | MÄX | Zurich |
 
 ## Recently played
 

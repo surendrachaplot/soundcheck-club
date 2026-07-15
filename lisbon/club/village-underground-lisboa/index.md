@@ -10,7 +10,7 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 5 up
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Reborn x Pulse | Cruzz, DLØW, Rausu |
 | Fri, 24 Jul 2026 | Niina's Love Club | Jaguar, Nicolle Velcro, Vallechi, niina |
-| Fri, 7 Aug 2026 | NOTMAINSTREAM Festival / Open-Air + Club / Curated by ELEVIN | Alberto Pizzarelli, Chris Veron, DJ Disconnected, ELEVIN, kazarov |
+| Fri, 7 Aug 2026 | NOTMAINSTREAM by ELEVIN / Open-Air + Club / Live Sets Filmed | Alberto Pizzarelli, Chris Veron, DJ Disconnected, ELEVIN, kazarov |
 | Fri, 7 Aug 2026 | NOTMAINSTREAM by ELEVIN | Alberto Pizzarelli, Chris Veron, DJ Disconnected, ELEVIN, kazarov |
 | Sat, 22 Aug 2026 | BATIDA ELETRÓNICA: PSY SESSIONS #009 |  |
 

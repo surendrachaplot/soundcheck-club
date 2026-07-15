@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "KAL: Enlightenment" on Thu, 16 Jul 2026.
+Stage and Radio is a music venue in Manchester with 24 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "KAL: Enlightenment" on Thu, 16 Jul 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including Ali Roche (2), Anop, ArceX and Baba Sketch and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 24 upcoming nights, with line-ups including Ali Roche (2), Anop, ArceX and Baba Sketch and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 

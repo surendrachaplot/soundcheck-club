@@ -1,14 +1,15 @@
 # VRAXX
 
-VRAXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
+VRAXX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
 
-VRAXX is a techno and trance artist tracked on soundcheck, with 52 sets logged across Krakow and Warsaw. Often billed alongside Józef Keuner, ERNST (UA) and SCHELLT. Next up: STK 47 WAREHOUSE, Krakow on Sat 18 Jul.
+VRAXX is a techno and trance artist tracked on soundcheck, with 53 sets logged across Krakow and Warsaw. Often billed alongside Józef Keuner, ERNST (UA) and SCHELLT. Next up: STK 47 WAREHOUSE, Krakow on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | STK 47 WAREHOUSE | Krakow |
+| Sat, 8 Aug 2026 | Przyjaźń | Warsaw |
 | Sat, 3 Oct 2026 | Klub Progresja | Warsaw |
 
 ## Recently played

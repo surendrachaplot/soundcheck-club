@@ -9,7 +9,7 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | 313 Connection (Touch the sky) |  |
-| Sat, 18 Jul 2026 | Through The Roof // Ellis Garner  |  |
+| Sat, 18 Jul 2026 | Through The Roof // Resident's Party   |  |
 | Sun, 19 Jul 2026 | KEEP ON with special guest Max Hammur | David Barbarossa, Max Hammur, OOFT |
 | Thu, 23 Jul 2026 | One Under presents: Dec Duffy | Dec Duffy |
 | Fri, 24 Jul 2026 | INTO SOLA launch night: DANCING WITH STANLEY & David Scott | DANCING WITH STANLEY, David Scott |

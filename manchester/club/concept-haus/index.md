@@ -9,7 +9,7 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 2 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Persona 4TH BIRTHDAY - PART TWO & AFTER PARTY | DPR (1), Ethan McNamara, Ethan., JAZZ (2), Konduku, Louie G, Noizar, Reptant, Ryan Ingleby, Sugar Free |
-| Sat, 15 Aug 2026 | BITRATE  | PHIA SKY, kaoti |
+| Sat, 15 Aug 2026 | BITRATE  | PHIA SKY, kaoti, lifeloose |
 
 ## Address
 

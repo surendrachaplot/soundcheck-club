@@ -9,8 +9,8 @@ Anémi is a techno and trance artist based in Norway, tracked on soundcheck, wit
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Revier Oslo | Oslo |
-| Sat, 18 Jul 2026 | De Fik Garden | Amsterdam |
 | Thu, 13 Aug 2026 | Hausmania | Oslo |
+| Fri, 21 Aug 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 

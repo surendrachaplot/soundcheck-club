@@ -21,8 +21,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.e17fcd08ecad.css">
-<meta name="sc-build" content="1784124368933">
+  <link rel="stylesheet" href="/app.725ca2fd33c5.css">
+<meta name="sc-build" content="1784134814832">
 <meta name="description" content="Move to Groove at Baalsaal on Sat 1 Aug, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2453440-move-to-groove-at-baalsaal/">
 <meta property="og:type" content="website">
@@ -30,8 +30,8 @@
 <meta property="og:title" content="Move to Groove at Baalsaal — line-up &amp; tickets | soundcheck">
 <meta property="og:description" content="Move to Groove at Baalsaal on Sat 1 Aug, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/e/2453440-move-to-groove-at-baalsaal/">
-<meta property="og:image" content="https://soundcheck.club/og-default.png">
-<meta name="twitter:image" content="https://soundcheck.club/og-default.png">
+<meta property="og:image" content="https://api.soundcheck.club/api/og?t=Move%20to%20Groove&amp;s=Move%20to%20Groove%20at%20Baalsaal%20on%20Sat%201%20Aug%2C%20Hamburg.">
+<meta name="twitter:image" content="https://api.soundcheck.club/api/og?t=Move%20to%20Groove&amp;s=Move%20to%20Groove%20at%20Baalsaal%20on%20Sat%201%20Aug%2C%20Hamburg.">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Move to Groove","url":"https://soundcheck.club/e/2453440-move-to-groove-at-baalsaal/","description":"Move to Groove at Baalsaal on Sat 1 Aug, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-01","location":{"@type":"MusicVenue","name":"Baalsaal"}}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Hamburg","item":"https://soundcheck.club/hamburg/"},{"@type":"ListItem","position":3,"name":"Move to Groove"}]}</script>
@@ -81,6 +81,17 @@
       </div>
     </div>
     <div class="grid" id="grid"></div>
+    <!-- Per-city "what's on this week" date links, injected by build-club (canonical
+         /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-15/">Wed 15 Jul <span class="c">19 events</span></a></li><li><a href="/london/2026-07-16/">Thu 16 Jul <span class="c">31 events</span></a></li><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">97 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">150 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">19 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">10 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+
+    <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
+         <h1> in the DOM so it's the page heading for SEO regardless of visual position.
+         Home-only (inside #home, which body.page-on hides); setCity keeps .hs-city in step. -->
+    <section id="home-seo" class="home-seo">
+      <h1 class="home-seo-h1">Club nights &amp; DJ sets in <span class="hs-city">London</span></h1>
+      <p class="home-seo-p">See who&rsquo;s playing tonight and this weekend across every venue in <span class="hs-city">London</span>. Preview the sets, follow the artists you love, and save the nights you want &mdash; soundcheck maps club nights and DJ line-ups across 104 cities in 40 countries.</p>
+    </section>
 
     </div><!-- /#home -->
 
@@ -89,10 +100,6 @@
          any open page) so it works on the log page + every overlay, not just home. -->
     <div class="cal-overlay" id="cal-overlay"><div class="cal" id="cal" role="dialog" aria-modal="true" aria-label="Pick a date"></div></div>
     <!-- persistent footer chrome — shows below whichever view is active (all pages) -->
-    <div class="teaser">
-      <span class="tt">Come help us build the first <b>community-owned club in London.</b></span>
-      <a href="https://6minutes.club">6 Minutes &rarr;</a>
-    </div>
     <footer class="site-foot">
       <div class="foot-row">
         <a class="logo foot-logo" id="foot-home" role="button" tabindex="0" aria-label="Soundcheck — home">
@@ -100,7 +107,6 @@
         <nav class="foot-links" aria-label="Footer">
           <a id="foot-discover" role="button" tabindex="0">Discover</a>
           <a id="foot-cities" role="button" tabindex="0">Cities</a>
-          <a href="https://6minutes.club">6 Minutes</a>
           <a href="#" id="foot-submit">Suggest an event</a>
         </nav>
       </div>
@@ -193,7 +199,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.e17fcd08ecad.js" defer></script>
+  <script src="/app.725ca2fd33c5.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

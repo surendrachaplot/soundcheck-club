@@ -1,8 +1,8 @@
 # ishka machina
 
-ishka machina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bukanyr Boat, Prague on Fri, 17 Jul 2026.
+ishka machina is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bukanyr Boat, Prague on Fri, 17 Jul 2026.
 
-ishka machina is a techno and house artist based in India, tracked on soundcheck, with 61 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Bukanyr Boat, Prague on Fri 17 Jul.
+ishka machina is a techno and house artist based in India, tracked on soundcheck, with 62 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Bukanyr Boat, Prague on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ishka machina is a techno and house artist based in India, tracked on soundcheck
 | Fri, 17 Jul 2026 | Bukanyr Boat | Prague |
 | Fri, 24 Jul 2026 | Bike Jesus | Prague |
 | Sat, 25 Jul 2026 | Fuchs2 | Prague |
+| Fri, 14 Aug 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 

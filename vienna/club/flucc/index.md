@@ -13,7 +13,7 @@ FLUCC is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with l
 | Sat, 18 Jul 2026 | Hot & Flirty |  |
 | Sat, 18 Jul 2026 | BOUNCYLICIOUS by GDN | Comrade Martin, Lila Gold (2), Nartig52, Tactical Delay |
 | Fri, 31 Jul 2026 | CIVIC: Body Control Pt. I (Anniversary) |  |
-| Fri, 31 Jul 2026 | deep cut & RAW Session pres. SO (JPN), Balint Revesz (HU), NUNO, PAUNA, Pezel | DJ SO, NUNO (DE), PAUNA, pezel |
+| Fri, 31 Jul 2026 | deep cut & RAW Session pres. SO, Balint Revesz, NUNØ, PAUNA, Pezel | DJ SO, NUNO (DE), PAUNA, pezel |
 | Sat, 1 Aug 2026 | GDN SOMMER KLUBNACHT |  |
 | Sun, 2 Aug 2026 | Klub Halal Salon | ADIRA, ARMANA KHAN, Hassandra, T4NIT |
 

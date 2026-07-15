@@ -11,7 +11,7 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nig
 | Sat, 18 Jul 2026 | HANGAR x HYPNØ w. Egna [Paris/FR] | Egna, Grymek |
 | Sat, 18 Jul 2026 | SCHISSMA: KRAKÓW (STK 47) – 31.07.2026 - KATT & SCHISSMA RESIDENTS | ERNST (UA), Józef Keuner, SCHELLT, VRAXX, xcessive |
 | Fri, 24 Jul 2026 | FREAKNIAWA pres. DJ HENK: KRAK_RAVE.EXE |  |
-| Fri, 14 Aug 2026 | TECHNO WIR x Citadel |  |
+| Fri, 14 Aug 2026 | TECHNO WIR × Citadel with Francesca, hannya, PRVR, Zhenya, Forest | Forest (PL), Francesca (PL), PRVR, hannya |
 | Fri, 21 Aug 2026 | Salty Pleasure 12: Carla Roca / Miss Pin / Dystorphia  | Carla Roca, Flakka (2), Kjar, Miss Pin, marshallkrk, Ŧoxygene |
 | Sat, 12 Sept 2026 | HARD NIGHT IN WAREHOUSE KRK DR.OBLITERANE |  |
 

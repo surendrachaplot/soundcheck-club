@@ -17,9 +17,9 @@ Hot Since 82 is a house and tech house artist tracked on soundcheck, with 199 se
 | Sat, 22 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Knockdown Center | New York City |
-| Sun, 13 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
+| Thu, 1 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played
 

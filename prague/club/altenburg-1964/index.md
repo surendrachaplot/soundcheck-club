@@ -1,8 +1,8 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SUN > ATG < SET: MaxB & Blen" on Thu, 16 Jul 2026.
+Altenburg 1964 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SUN > ATG < SET: MaxB & Blen" on Thu, 16 Jul 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Ansea, Axis Alpha, Big Lil and Blame The Mono and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including Adamatron, Ansea, Arton (CZ) and Axis Alpha and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nigh
 | Thu, 30 Jul 2026 | SUN > ATG < SET: FOOTCLAN (Tuco & N.D.N.M.) | DJ Tuco, Name Does Not Matter |
 | Fri, 31 Jul 2026 | RUSH HOUR: Blame The Mono, MIKLEI, SJ Yellow, Takē | Blame The Mono, MIKLEI, SJ Yellow, Takē |
 | Sat, 8 Aug 2026 | HEAT 9 / Pride Edition  | Ansea, Big Lil, Nakrasia, SENAIDA, Zuzana Hakl |
-| Sat, 12 Sept 2026 | DOCK RAVE — MADE IN GERMANY | Diva, Mike Stevens, carlo kalu |
+| Fri, 14 Aug 2026 | Grau Series: [Indoor/Outdoor] with Blue Hour (UK/DE), Adamatron b2b Fake Agent, Marie Pravda+more | Adamatron, Arton (CZ), Blue Hour, Etienn Grey, Fake Agent, Kirill Astra, Marie Pravda, ishka machina, too many Jesses |
 
 ## Address
 

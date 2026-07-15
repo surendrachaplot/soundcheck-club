@@ -1,8 +1,8 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at M.O.T, London on Fri, 24 Jul 2026.
+DJ Bax is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at M.O.T, London on Fri, 24 Jul 2026.
 
-DJ Bax is a techno and trance artist tracked on soundcheck, with 13 sets logged across Auckland, Brisbane, Edinburgh and London and 3 more. Often billed alongside Ageusic, Burna and Caru (NZ). Next up: M.O.T, London on Fri 24 Jul.
+DJ Bax is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Auckland, Brisbane, Edinburgh and Glasgow and 4 more. Often billed alongside Ageusic, Burna and Caru (NZ). Next up: M.O.T, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Bax is a techno and trance artist tracked on soundcheck, with 13 sets logged 
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | M.O.T | London |
 | Wed, 12 Aug 2026 | Virage | Paris |
+| Fri, 18 Sept 2026 | Audio | Glasgow |
 | Mon, 28 Sept 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ezra Feinberg" on Wed, 2 Sept 2026.
+Botanique is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ezra Feinberg" on Wed, 2 Sept 2026.
 
-Botanique is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including Lawrence English and Light Asylum. Browse upcoming dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
+Botanique is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with line-ups including Lawrence English and Light Asylum. Browse upcoming dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Botanique is a music venue in Brussels listed on soundcheck. 7 upcoming nights, 
 | Sat, 26 Sept 2026 | IVM Trio |  |
 | Wed, 30 Sept 2026 | Lawrence English + Margaret Hermant | Lawrence English |
 | Fri, 9 Oct 2026 | Kiss Facility |  |
+| Tue, 13 Oct 2026 | Starjunk 95 |  |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # BOVSKI
 
-BOVSKI is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
+BOVSKI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Waschhaus, Berlin on Fri, 7 Aug 2026.
 
-BOVSKI is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside A.N.I., Johannes Schuster and Paraçek. Next up: Waschhaus, Berlin on Fri 7 Aug.
+BOVSKI is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 5 more. Often billed alongside A.N.I., Johannes Schuster and Paraçek. Next up: Waschhaus, Berlin on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BOVSKI is a techno and trance artist based in Germany, tracked on soundcheck, wi
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 9 Oct 2026 | MÄX | Zurich |
 
 ## Recently played
 

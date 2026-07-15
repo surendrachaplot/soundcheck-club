@@ -9,7 +9,7 @@ Bad Bobs (Rooftop Terrace), Temple Bar is a music venue in Dublin listed on soun
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Soulstice & Delay: 10H Day to Night Rooftop | Nicole Spagnol, SOUZAC, ShaunaDee |
-| Sun, 19 Jul 2026 | ULTYMATUM EP007 (Rooftop Series) | Monnay, Ulty |
+| Sun, 19 Jul 2026 | [POSTPONED] ULTYMATUM EP007 (Rooftop Series) | Monnay, Ulty |
 
 ## Address
 

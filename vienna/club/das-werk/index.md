@@ -8,7 +8,7 @@ Das Werk is a music venue in Vienna listed on soundcheck. 9 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | SYNERGY RAVE x Trance + Hard Techno |  |
+| Fri, 17 Jul 2026 | SYNERGY RAVE x Trance + Hard Techno | DJ Böhm, DJ Wolle, Dimitrios (2), MONOTON (2), presso |
 | Sat, 18 Jul 2026 | Stay Acid presents 54Hz w/JOKESONYOU | Arman Shadow, DJ Wolle, JOKESONYOU, Qaoz, SUITSIDE, Soda, ZEQ (1) |
 | Fri, 24 Jul 2026 | MACH 1 with Dxpe | AliA, Arman Shadow, Dxpe, LEANNE, Stendhal Syndrome, Suave |
 | Sat, 25 Jul 2026 | PSYTRANCE UNIVERSE Extended - Open Air & Indoor | Hannah mit Hut, VIBECHEN |

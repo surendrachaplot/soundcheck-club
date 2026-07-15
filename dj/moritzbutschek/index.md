@@ -1,8 +1,8 @@
 # Moritz Butschek
 
-Moritz Butschek is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 25 Jul 2026.
+Moritz Butschek is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bahnwärter Thiel, Munich on Sat, 25 Jul 2026.
 
-Moritz Butschek is a house and techno artist tracked on soundcheck, with 73 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 5 more. Often billed alongside Wanda Wild, SILSAN and F.I.E.L.D.Y. Next up: Bahnwärter Thiel, Munich on Sat 25 Jul.
+Moritz Butschek is a house and techno artist tracked on soundcheck, with 74 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 5 more. Often billed alongside Wanda Wild, SILSAN and F.I.E.L.D.Y. Next up: Bahnwärter Thiel, Munich on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Moritz Butschek is a house and techno artist tracked on soundcheck, with 73 sets
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Bahnwärter Thiel | Munich |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
+| Sat, 8 Aug 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 

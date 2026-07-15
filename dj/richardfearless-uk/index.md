@@ -1,8 +1,8 @@
 # Richard Fearless
 
-Richard Fearless is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The White Hotel, Manchester on Sat, 15 Aug 2026.
+Richard Fearless is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The White Hotel, Manchester on Sat, 15 Aug 2026.
 
-Richard Fearless is a techno and experimental artist tracked on soundcheck, with 40 sets logged across Belfast, Belgrade, Edinburgh and Glasgow and 6 more. Often billed alongside Daniel Avery, Tom Dubwise and Death in Vegas. Next up: The White Hotel, Manchester on Sat 15 Aug.
+Richard Fearless is a techno and experimental artist tracked on soundcheck, with 41 sets logged across Belfast, Belgrade, Bristol and Edinburgh and 7 more. Often billed alongside Daniel Avery, Tom Dubwise and Death in Vegas. Next up: The White Hotel, Manchester on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Richard Fearless is a techno and experimental artist tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | The White Hotel | Manchester |
 | Sun, 16 Aug 2026 | Vespers Club | London |
+| Fri, 28 Aug 2026 | Strange Brew | Bristol |
 
 ## Recently played
 

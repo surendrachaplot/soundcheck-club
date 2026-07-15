@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "MIA MAO presents: Alba Franch, KØZLØV, Noro$t & Nyco" on Fri, 17 Jul 2026.
+Mia Mao is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "MIA MAO presents: Alba Franch, KØZLØV, Noro$t & Nyco" on Fri, 17 Jul 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Alba Franch, BabaBass3000 and Blaame and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Adam Beyer, Alba Franch, BabaBass3000 and Blaame and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with 
 | Sat, 25 Jul 2026 | Adam Beyer, Voltaire, Tina Tornade · MIA MAO, Paris | Adam Beyer, Tina Tornade, Voltaire |
 | Fri, 31 Jul 2026 | THUNDER: IMHAPPY, Blaame, SLVL, HEARTREAVER & MORE | Blaame, Hortense de Beauharnais, SLVL |
 | Fri, 7 Aug 2026 | VICE CITY: Junkie Kid, Luciid, Julian Wild, La Louve, RAVN | Junkie Kid, La Louve, Luciid, RAVN (2) |
+| Sat, 8 Aug 2026 | Konstantin Sibold invites: TBA | Konstantin Sibold |
 | Fri, 21 Aug 2026 | Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE | Nightowl |
 | Sat, 29 Aug 2026 | Roar By Pisica: Jayron, Stan Christ, Rebekah & More | Radar (RU), Rebekah, Stan Christ |
 | Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |

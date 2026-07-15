@@ -1,8 +1,8 @@
 # Wilkinson
 
-Wilkinson is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Wilkinson is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Austin and Bali and 31 more. Often billed alongside Kanine, Mozey and Shy FX. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Austin and Bali and 31 more. Often billed alongside Kanine, Mozey and Shy FX. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 75 sets l
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 12 Sept 2026 | MÄX | Zurich |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OHM, Berlin on Sat, 1 Aug 2026.
+Kia (AU) is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OHM, Berlin on Sat, 1 Aug 2026.
 
-Kia (AU) is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 46 more. Often billed alongside Reptant, DjRUM and livwutang. Next up: OHM, Berlin on Sat 1 Aug.
+Kia (AU) is a techno and house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 46 more. Often billed alongside Reptant, DjRUM and livwutang. Next up: OHM, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kia (AU) is a techno and house artist tracked on soundcheck, with 190 sets logge
 | Sat, 1 Aug 2026 | OHM | Berlin |
 | Sat, 15 Aug 2026 | Lofi | Amsterdam |
 | Sat, 15 Aug 2026 | Backsteinboot | Berlin |
+| Sat, 15 Aug 2026 | Lavallée | Brussels |
 | Sat, 29 Aug 2026 | TBA - Saint-Denis | Paris |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |

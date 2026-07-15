@@ -17,7 +17,7 @@ Hidden is a music venue in Manchester listed on soundcheck. 10 upcoming nights, 
 | Fri, 11 Sept 2026 | Parallel: Christian AB & Touré | Christian AB, Touré |
 | Thu, 17 Sept 2026 | Freshers Warehouse Rave: Joe Hunt, Leah Davies, DJANGO  | DJANGO (NL), Reimond |
 | Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |
-| Thu, 24 Sept 2026 | DnB & Jungle Rave: Fixate b2b Fracture, VXRGO, Sir Spyro, Trends  | Fixate, Fracture, Hanz, Sir Spyro, Trends, VXRGO |
+| Thu, 24 Sept 2026 | Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Tailor Jae, Trends  | Fixate, Fracture, Hanz, Sir Spyro, Tailor Jae, Trends, VXRGO |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Orka: MHA.IRI, ENVEAK, SKØLLARIS & PAULINE D7" on Thu, 16 Jul 2026.
+Kilomètre25 is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Orka: MHA.IRI, ENVEAK, SKØLLARIS & PAULINE D7" on Thu, 16 Jul 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including ADB (FR), Airod, Antonym and ARGOT and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including ADB (FR), Airod, Antonym and ARGOT and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 

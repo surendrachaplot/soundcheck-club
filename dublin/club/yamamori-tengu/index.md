@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tengu presents: Lou Nour fka SICARIA with Chunky + Burnout & Jezebel + Rub A Dub HIFI" on Fri, 17 Jul 2026.
+Yamamori Tengu is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tengu presents: Lou Nour fka SICARIA with Chunky + Burnout & Jezebel + Rub A Dub HIFI" on Fri, 17 Jul 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ANNĒ, Byron Yeates, Chunky and darkmavis and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including ANNĒ, Byron Yeates, Chunky and darkmavis and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 9 upcoming night
 | Sat, 25 Jul 2026 | Tengu presents: Sonic Explorations with Bloop Groop | Greg Oleksevic |
 | Sat, 8 Aug 2026 | Tengu presents: Efa O'Neill All Night Long | Efa O'Neill |
 | Fri, 14 Aug 2026 | Equinox presents: Pancratio | Pancratio, Síofra |
+| Sat, 15 Aug 2026 | Giovanni Grooves | DJ Get Luc(y) |
 | Fri, 21 Aug 2026 | Research x Hidden Love: ANNĒ | ANNĒ, Posterboy |
+| Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Rub A Dub HiFi |
 | Sat, 29 Aug 2026 | Tengu x Supper presents: Magda | Magda, Mercorn, Nev Jio, Royce Larøca |
-| Fri, 18 Sept 2026 | Melodic 15: Jeremy Olander (3 hour set) | Gavin Rochford, Jeremy Olander |
 
 ## Address
 
