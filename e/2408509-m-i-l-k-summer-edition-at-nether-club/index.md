@@ -1,6 +1,6 @@
-# M.I.L.K - Summer Edition at Nether Club
+# M.I.L.K - SUMMER EDITION at Nether Club
 
-M.I.L.K - Summer Edition at Nether Club on Fri 17 Jul, Bucharest. 6 acts on the bill: AMEDEUS, Amnesico, KATHERYNE and LVUR and 2 more. Techno. Preview the line-up and save it on soundcheck.
+M.I.L.K - SUMMER EDITION at Nether Club on Fri 17 Jul, Bucharest. 6 acts on the bill: AMEDEUS, Amnesico, KATHERYNE and LVUR and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -8,6 +8,6 @@ TBA - GLYFADA AREA is a music venue in Athens listed on soundcheck. 1 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Together.For.Alma.Libre | Alisa Murphy, Alma Libre, Imperium, MATEA, MVRU, Mariø, NAY LAA, Pètal, Saniter, Xoginoss |
+| Sat, 18 Jul 2026 | Together.For.Alma.Libre | Alisa Murphy, Alma Libre, Imperium, MATEA, MVRU, Mariø, NAY LAA, Petal, Saniter, Xoginoss |
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-glyfada-area/)*

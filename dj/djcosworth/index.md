@@ -1,14 +1,15 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
+DJ Cosworth is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LDN East, London on Sat, 25 Jul 2026.
 
-DJ Cosworth is a garage and house artist tracked on soundcheck, with 73 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 19 more. Often billed alongside Dr Dubplate, Bakey and Interplanetary Criminal. Next up: LDN East, London on Sat 25 Jul.
+DJ Cosworth is a garage and house artist tracked on soundcheck, with 74 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 20 more. Often billed alongside Dr Dubplate, Bakey and Interplanetary Criminal. Next up: LDN East, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | LDN East | London |
+| Fri, 11 Sept 2026 | BASIS | Utrecht |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

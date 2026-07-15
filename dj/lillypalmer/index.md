@@ -1,8 +1,8 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Royale, Boston on Sat, 18 Jul 2026.
+Lilly Palmer is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Royale, Boston on Sat, 18 Jul 2026.
 
-Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Royale, Boston on Sat 18 Jul.
+Lilly Palmer is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bangkok and 53 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Royale, Boston on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 145 sets l
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Fri, 4 Sept 2026 | The Concourse Project | Austin |
+| Sun, 6 Sept 2026 | Night We Met | Nashville |
 | Fri, 25 Sept 2026 | Roxy | Prague |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Silencio
 
-Silencio is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Foster The People presents FTP (DJ Set)" on Sat, 18 Jul 2026.
+Silencio is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Foster The People presents FTP (DJ Set)" on Sat, 18 Jul 2026.
 
-Silencio is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Ali RQ, Antal, The Avalanches and Foster The People and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
+Silencio is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Ali RQ, Antal, The Avalanches and Foster The People and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
 ## What's on
 

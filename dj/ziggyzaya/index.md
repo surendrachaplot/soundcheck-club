@@ -1,8 +1,8 @@
 # ZIGGY ZAYA
 
-ZIGGY ZAYA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
+ZIGGY ZAYA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - 3rd & Ontario, Vancouver on Sat, 1 Aug 2026.
 
-ZIGGY ZAYA is a house and techno artist tracked on soundcheck, with 24 sets logged across Portland and Vancouver. Often billed alongside Fisher Bryce, AVRY and PM. Next up: TBA - 3rd & Ontario, Vancouver on Sat 1 Aug.
+ZIGGY ZAYA is a house and techno artist tracked on soundcheck, with 25 sets logged across Portland and Vancouver. Often billed alongside Fisher Bryce, AVRY and PM. Next up: TBA - 3rd & Ontario, Vancouver on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ZIGGY ZAYA is a house and techno artist tracked on soundcheck, with 24 sets logg
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - 3rd & Ontario | Vancouver |
 | Sat, 1 Aug 2026 | Village Studios | Vancouver |
+| Sat, 1 Aug 2026 | Platform9 | Vancouver |
 | Sun, 2 Aug 2026 | TBA | Vancouver |
 
 ## Recently played

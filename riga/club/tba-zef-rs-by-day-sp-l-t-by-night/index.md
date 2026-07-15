@@ -8,6 +8,6 @@ TBA - @ Zefīrs by day, @ SPĒLĒT by night is a music venue in Riga listed on s
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 24 Jul 2026 | UNDER Festival 2026 | Berlin Bunny, Dmitry Puffin, Dorrada, Esoniq, Giuseppe Amodeo, Igors Vorobjovs, Javel, Keeva G, Ksenia Kamikaza, Lady Starlight, MDNS, Marcus L, Max Mancho, Rene Wise, UZAY, Waxid, Ze Ivarzz |
+| Fri, 24 Jul 2026 | UNDER Festival 2026 | Berlin Bunny, Dmitry Puffin, Dorrada, Esoniq, Eyesdice, Giuseppe Amodeo, Igors Vorobjovs, Javel, Keeva G, Ksenia Kamikaza, Lady Starlight, MDNS, Marcus L, Max Mancho, Michael Myth, Paul Hnikin, Rene Wise, UZAY, Waxid, Ze Ivarzz |
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-zef-rs-by-day-sp-l-t-by-night/)*

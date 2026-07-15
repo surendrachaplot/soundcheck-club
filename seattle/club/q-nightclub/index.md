@@ -1,8 +1,8 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 21 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Lee Burridge" on Fri, 17 Jul 2026.
+Q Nightclub is a music venue in Seattle with 22 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Lee Burridge" on Fri, 17 Jul 2026.
 
-Q Nightclub is a music venue in Seattle listed on soundcheck. 21 upcoming nights, with line-ups including Arlo, BL3SS, camoufly and Classmatic and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
+Q Nightclub is a music venue in Seattle listed on soundcheck. 22 upcoming nights, with line-ups including Arlo, Biscits, BL3SS and camoufly and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Open Decks with STEEN and Timeless Nexus" on Wed, 15 Jul 2026.
+SILO is a music venue in New York City with 31 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Open Decks with STEEN and Timeless Nexus" on Wed, 15 Jul 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including 2melo, Adam Hadari, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 31 upcoming nights, with line-ups including 2melo, Adam Hadari, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
@@ -16,8 +16,8 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, w
 | Wed, 22 Jul 2026 | Open Decks with STEEN and Crescent | STEEN |
 | Thu, 23 Jul 2026 | Techno Thursday (Main Room Event, Free with RSVP) | Bruce Wayne (US), IgP (1), JHANA, KRAVE, MEDINA |
 | Fri, 24 Jul 2026 | Sarah de Warren |  |
+| Sat, 25 Jul 2026 | Frost Fest Afters: Frost Children (DJ) | Angel Money, DJ Thank You, Frost Children, umru |
 | Tue, 28 Jul 2026 | Open Decks with STEEN and LIFE AFTER TRANCE | STEEN |
-| Wed, 29 Jul 2026 | Open Decks with STEEN and Kush Jones [Full Venue Edition] | Kush Jones, STEEN |
 
 ## Address
 

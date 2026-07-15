@@ -1,8 +1,8 @@
 # STÜM
 
-STÜM is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Night Tales, London on Fri, 24 Jul 2026.
+STÜM is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Night Tales, London on Fri, 24 Jul 2026.
 
-STÜM is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Belfast and Berlin and 15 more. Often billed alongside Sam Alfred, 6 SENSE and Ewan McVicar. Next up: Night Tales, London on Fri 24 Jul.
+STÜM is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Sam Alfred, 6 SENSE and Ewan McVicar. Next up: Night Tales, London on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ STÜM is a techno and house artist tracked on soundcheck, with 56 sets logged ac
 | Fri, 24 Jul 2026 | Night Tales | London |
 | Sun, 26 Jul 2026 | Le Sucre | Lyon |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Fri, 14 Aug 2026 | Macadam | Nantes |
 | Sat, 29 Aug 2026 | Mondo | Madrid |
 
 ## Recently played

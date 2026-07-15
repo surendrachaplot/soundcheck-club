@@ -1,8 +1,8 @@
 # MoMA Ready
 
-MoMA Ready is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Onyx Room at House of Yes, New York City on Fri, 17 Jul 2026.
+MoMA Ready is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Onyx Room at House of Yes, New York City on Fri, 17 Jul 2026.
 
-MoMA Ready is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Boston, Chicago, London and Losangeles and 10 more. Often billed alongside AceMo, Kush Jones and DJ SWISHA. Next up: The Onyx Room at House of Yes, Newyorkcity on Fri 17 Jul.
+MoMA Ready is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Boston, Chicago, London and Losangeles and 10 more. Often billed alongside AceMo, Kush Jones and DJ SWISHA. Next up: The Onyx Room at House of Yes, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MoMA Ready is a techno and house artist based in United States of America, track
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | The Onyx Room at House of Yes | New York City |
 | Fri, 24 Jul 2026 | Bossa Nova Civic Club | New York City |
+| Wed, 29 Jul 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

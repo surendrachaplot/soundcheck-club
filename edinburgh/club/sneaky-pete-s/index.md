@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 40 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Borley Room: Jordan George" on Wed, 15 Jul 2026.
+Sneaky Pete's is a music venue in Edinburgh with 41 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Borley Room: Jordan George" on Wed, 15 Jul 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 40 upcoming nights, with line-ups including Alexis Taylor, al gu, amhailt.xox and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 41 upcoming nights, with line-ups including Alexis Taylor, al gu, amhailt.xox and Andrea Montalto and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 40 upcoming ni
 | Wed, 22 Jul 2026 | ✦𝓒𝓛𝓤𝓑 𝓢𝓟𝓘𝓣✦ | Jodie Mooney, LinkCity, Mixfits (2) |
 | Thu, 23 Jul 2026 | Potpourri x Import presents: Nanoos | Buckfast Barbie, Nanoos, Sweet Philly |
 | Fri, 24 Jul 2026 | Lionoil: Buckfast Barbie, miira, Chrissy G & Percy Main | Buckfast Barbie, Chrissy G (2), Percy Main, miira |
-| Sun, 26 Jul 2026 | Dave Clarke: Free Time | Dave Clarke |
+| Sat, 25 Jul 2026 | Soul Jam: Andrea Montalto | Andrea Montalto, Percy Main, Tuesday Gonzalez |
 
 ## Address
 

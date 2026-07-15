@@ -1,8 +1,8 @@
 # Tibi Dabo
 
-Tibi Dabo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 18 Jul 2026.
+Tibi Dabo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 18 Jul 2026.
 
-Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Bass Playah and Chloé Caillet. Next up: TBA - Cirque Romanes Tzigane, Paris on Sat 18 Jul.
+Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Damian Lazarus, Bass Playah and Chloé Caillet. Next up: TBA - Cirque Romanes Tzigane, Paris on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tibi Dabo is a house and deep house artist based in Spain, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TBA - Cirque Romanes Tzigane | Paris |
 | Fri, 31 Jul 2026 | Playa Soleil Ibiza | Ibiza |
+| Sun, 16 Aug 2026 | Audiodise Park Montjuic | Barcelona |
 
 ## Recently played
 

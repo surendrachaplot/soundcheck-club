@@ -14,7 +14,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 35 upcoming nig
 | Sat, 18 Jul 2026 | [Last tickets] CLOSA SELECTS: Reznik (Keinemusik) at La Terrrazza | NIIXII, Reznik |
 | Sat, 18 Jul 2026 | Club Inferno | KE-YEN, X CLUB. |
 | Thu, 23 Jul 2026 | Soundset Sessions with AUTOFLOWER & THELMA | AUTOFLOWER, CLANDESTINE (2), Kaeru, THELMA |
-| Fri, 24 Jul 2026 | Playground meets RRR |  |
+| Fri, 24 Jul 2026 | PLAYGROUND with Eden Burns + DJ City | DJ City, Eden Burns, Martin Noise |
 | Sat, 25 Jul 2026 | Home Again Barcelona |  |
 | Sat, 25 Jul 2026 | Home Again meets RRR | Blame Anthony, Certain People, DJ Butterhands, Dan Ghenacia, Javi Redondo, Thabo |
 | Thu, 30 Jul 2026 | SUMMER HEROES meets OTHERSIDE: Open Air with LondonGround | Brizas, Cetratelli, LondonGround, MøønkiZa |

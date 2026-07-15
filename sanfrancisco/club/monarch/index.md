@@ -10,7 +10,7 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Texture Summit Pres. Satoshi Tomiie (Sushitech/ Japan) | LEDET, Philco, Satoshi Tomiie |
 | Sat, 18 Jul 2026 | YokoO / Greg Eversoul - SETH FINKIN - Mustache Disco  | Greg Eversoul, YokoO |
-| Sat, 18 Jul 2026 | Vinyl Por Vida- GSGEDM After Party | Ab.rham, Carla Lyn, Romii |
+| Sun, 19 Jul 2026 | Vinyl Por Vida- GSGEDM After Party | Ab.rham, Carla Lyn, Romii |
 | Fri, 24 Jul 2026 | Planet Synth 4th Anniversary feat. Facets | Amatric, Evbot, Facets |
 | Sat, 25 Jul 2026 | Mostly Cloudy: Leonce + Syd | Afakasi Papi, Casamiento, Leonce, QUEENIE (US), Syd (US), mymy |
 | Sat, 8 Aug 2026 | Mostly Cloudy: Dina + QUEENIE | DINABN, QUEENIE (US) |

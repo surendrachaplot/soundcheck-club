@@ -1,14 +1,15 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club Rawhide, New York City on Sat, 18 Jul 2026.
+Lauren Flax is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club Rawhide, New York City on Sat, 18 Jul 2026.
 
-Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 151 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Club Rawhide, Newyorkcity on Sat 18 Jul.
+Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 152 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: Club Rawhide, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Club Rawhide | New York City |
+| Fri, 24 Jul 2026 | Museum of Sex - NYC | New York City |
 | Sat, 1 Aug 2026 | Nowadays | New York City |
 | Sun, 9 Aug 2026 | Knockdown Center | New York City |
 | Fri, 14 Aug 2026 | Signal | New York City |

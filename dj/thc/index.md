@@ -1,8 +1,8 @@
 # THC
 
-THC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+THC is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-THC is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, Byron Yeates and S-candalo. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+THC is a house and techno artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, Byron Yeates and S-candalo. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ THC is a house and techno artist tracked on soundcheck, with 195 sets logged acr
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 8 Aug 2026 | Paradiso | Amsterdam |
+| Sat, 8 Aug 2026 | Hito Scheveningen | The Hague |
 
 ## Recently played
 

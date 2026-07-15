@@ -1,6 +1,6 @@
 # UNDER Festival 2026 at TBA - @ Zefīrs by day, @ SPĒLĒT by night
 
-UNDER Festival 2026 at TBA - @ Zefīrs by day, @ SPĒLĒT by night on Fri 24 Jul, Riga. 17 acts on the bill: Berlin Bunny, Dmitry Puffin, Dorrada and Esoniq and 13 more. Techno and House. Preview the line-up and save it on soundcheck.
+UNDER Festival 2026 at TBA - @ Zefīrs by day, @ SPĒLĒT by night on Fri 24 Jul, Riga. 20 acts on the bill: Berlin Bunny, Dmitry Puffin, Dorrada and Esoniq and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ UNDER Festival 2026 at TBA - @ Zefīrs by day, @ SPĒLĒT by night on Fri 24 Jul
 - Dmitry Puffin
 - Dorrada
 - Esoniq
+- Eyesdice
 - Giuseppe Amodeo
 - Igors Vorobjovs
 - Javel
@@ -23,6 +24,8 @@ UNDER Festival 2026 at TBA - @ Zefīrs by day, @ SPĒLĒT by night on Fri 24 Jul
 - MDNS
 - Marcus L
 - Max Mancho
+- Michael Myth
+- Paul Hnikin
 - Rene Wise
 - UZAY
 - Waxid

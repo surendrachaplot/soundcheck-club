@@ -1,8 +1,8 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "ROMANCE w Eli Escobar" on Thu, 16 Jul 2026.
+Gabriela is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "ROMANCE w Eli Escobar" on Thu, 16 Jul 2026.
 
-Gabriela is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Amber Valentine, Andi, Eli Escobar and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Amber Valentine, Andi, Eli Escobar and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
@@ -11,13 +11,13 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 10 upcoming night
 | Thu, 16 Jul 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 17 Jul 2026 | Amber Valentine // ALL NIGHT LONG | Amber Valentine |
 | Sat, 18 Jul 2026 | Planet B // ALL NIGHT LONG | Planet B |
+| Sun, 19 Jul 2026 | TIKI AFTERS w Kim Anh | Kim Anh |
 | Thu, 23 Jul 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 24 Jul 2026 | Jubilee // ALL NIGHT LONG | Jubilee |
 | Sat, 25 Jul 2026 | Lady Harley // ALL NIGHT LONG | Lady Harley |
 | Thu, 30 Jul 2026 | ROMANCE w Andi | Andi |
 | Fri, 31 Jul 2026 | Justin Strauss // ALL NIGHT LONG | Justin Strauss |
 | Sat, 1 Aug 2026 | Kabinett // ALL NIGHT LONG | Kabinett |
-| Sun, 2 Aug 2026 | TIKI AFTERS w Mike Simonetti | Mike Simonetti |
 
 ## Address
 

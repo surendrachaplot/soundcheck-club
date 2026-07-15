@@ -1,8 +1,8 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - West Town, Chicago on Fri, 17 Jul 2026.
+DJ Heather is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - West Town, Chicago on Fri, 17 Jul 2026.
 
-DJ Heather is a house and deep house artist tracked on soundcheck, with 122 sets logged across Austin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: TBA - West Town, Chicago on Fri 17 Jul.
+DJ Heather is a house and deep house artist tracked on soundcheck, with 123 sets logged across Austin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: TBA - West Town, Chicago on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Heather is a house and deep house artist tracked on soundcheck, with 122 sets
 | Fri, 17 Jul 2026 | TBA - West Town | Chicago |
 | Sat, 18 Jul 2026 | TBA - City Centre Artist Lodge | Vancouver |
 | Sat, 1 Aug 2026 | smartbar | Chicago |
+| Sat, 1 Aug 2026 | Masada | Chicago |
 | Sat, 15 Aug 2026 | Phoenix Hotel | San Francisco/Oakland |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 

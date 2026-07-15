@@ -11,8 +11,8 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming nights, 
 | Sat, 18 Jul 2026 | Motel ✰ Fadi Mohem | Fadi Mohem, Hendrik van Boetzelaer |
 | Sat, 25 Jul 2026 | ༄ Proxima x Motel Campo ༄ D.Dan, Agonis, Audrey Danza, Flowerz | Agonis, Audrey Danza, D.Dan |
 | Fri, 31 Jul 2026 | Motel ✰ Sampaio ✰ Habiboo ✰ Aziza |  |
-| Sat, 1 Aug 2026 | Motel ✰ Danny Daze | Danny Daze |
-| Sat, 8 Aug 2026 | Motel ✰ MARRØN | MARRØN |
+| Sat, 1 Aug 2026 | Motel ✰ Danny Daze | Danny Daze, Pornopolis |
+| Sat, 8 Aug 2026 | Motel ✰ MARRØN | MARRØN, Rødig |
 | Sat, 22 Aug 2026 | Motel ✰ Rosa Pistola | Rosa Pistola |
 | Sat, 5 Sept 2026 | ༄ Proxima x Motel Campo ༄ DJ Nobu + Audrey Danza | Audrey Danza, DJ Nobu |
 

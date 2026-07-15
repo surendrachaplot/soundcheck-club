@@ -1,8 +1,8 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
+Riva Starr is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
 
-Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Superordinary, Brisbane on Fri 17 Jul.
+Riva Starr is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Superordinary, Brisbane on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 74 sets 
 | Sat, 18 Jul 2026 | The Timber Yard | Melbourne |
 | Sat, 25 Jul 2026 | White Bay Power Station | Sydney |
 | Fri, 14 Aug 2026 | Amnesia Ibiza | Ibiza |
+| Thu, 20 Aug 2026 | Chalet Nonna Carmela | Naples |
 | Thu, 27 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | Amnesia Ibiza | Ibiza |
 

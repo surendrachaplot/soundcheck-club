@@ -9,7 +9,7 @@ Villaseñor is a techno and house artist based in Mexico, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | John Doe | Amsterdam |
-| Sat, 25 Jul 2026 | TBA - SECRET LOCATION | Mexico City |
+| Sat, 25 Jul 2026 | Versalles 64 | Mexico City |
 | Fri, 31 Jul 2026 | EQ San Diego | San Diego |
 
 ## Recently played

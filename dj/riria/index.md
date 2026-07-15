@@ -1,8 +1,8 @@
 # RIRIA
 
-RIRIA is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+RIRIA is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
-RIRIA is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 28 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Paléo Festival, Geneva on Tue 21 Jul.
+RIRIA is a techno and bass artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 29 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 81 sets logged acr
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
+| Fri, 25 Sept 2026 | Club Catwalk | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 
 ## Recently played

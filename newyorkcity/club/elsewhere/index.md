@@ -1,15 +1,15 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 49 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "EUROHEAD, Don-Ri" on Thu, 16 Jul 2026.
+Elsewhere is a music venue in New York City with 49 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "EUROHEAD, Don-Ri, m i m i" on Thu, 16 Jul 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nights, with line-ups including 2D0GS, 444 (1), Berrakka and acloudyskye and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nights, with line-ups including 2D0GS, 444 (1), Berrakka and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | EUROHEAD, Don-Ri | Don-Ri, Eurohead |
-| Fri, 17 Jul 2026 | ELSEWORLD RETURNS: Yung Singh, TSVI B2B Surusinghe, 2D0GS, Purelink | 2D0GS, Berrakka, GRRL, Jana Rush, Jubilee, Ovid, Purelink, Sonia Sol, Surusinghe, TSVI, Yung Singh |
+| Thu, 16 Jul 2026 | EUROHEAD, Don-Ri, m i m i | Don-Ri, Eurohead |
+| Fri, 17 Jul 2026 | ELSEWORLD RETURNS: Yung Singh, TSVI B2B Surusinghe, 2D0GS, Purelink | 2D0GS, AceMo, Berrakka, DJ DEADNAME, Eva Loveless, GRRL, Jana Rush, Jubilee, Ovid, Purelink, Sonia Sol, Surusinghe, Swami Sound, TSVI, Yung Singh |
 | Sat, 18 Jul 2026 | Noodles, Towfu, Jenno  | Jenno, Noodles |
 | Sat, 18 Jul 2026 | Young Franco, Slaycey, PHAT TRAX: Poolhaus, Miata Boys, Bella Mutino + more | Bella Mutino, Miata Boys, Poolhaus, Young Franco, acloudyskye, softsky |
 | Sun, 19 Jul 2026 | WC Afterparty with Omar ؏, Maddylane, J.Surena | Maddylane |

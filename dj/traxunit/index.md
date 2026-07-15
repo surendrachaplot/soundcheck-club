@@ -1,8 +1,8 @@
 # Trax Unit
 
-Trax Unit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 17 Jul 2026.
+Trax Unit is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 17 Jul 2026.
 
-Trax Unit is a house and techno artist based in United States of America, tracked on soundcheck, with 84 sets logged across Berlin, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside Dj Warning, 1morning and Corey Sizemore. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 17 Jul.
+Trax Unit is a house and techno artist based in United States of America, tracked on soundcheck, with 85 sets logged across Berlin, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside Dj Warning, 1morning and Corey Sizemore. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Trax Unit is a house and techno artist based in United States of America, tracke
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 8 Aug 2026 | Signal | New York City |
+| Fri, 4 Sept 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 
 ## Recently played
 

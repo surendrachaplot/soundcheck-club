@@ -1,13 +1,14 @@
 # AceMo
 
-AceMo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 18 Jul 2026.
+AceMo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
 
-AceMo is a house and techno artist based in United States of America, tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Berlin and Boston and 27 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 18 Jul.
+AceMo is a house and techno artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Berlin and Boston and 27 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: Elsewhere, Newyorkcity on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Elsewhere | New York City |
 | Sat, 18 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 25 Jul 2026 | 131 Mccormack St | Toronto |
 | Fri, 31 Jul 2026 | Société des arts technologiques | Montreal |

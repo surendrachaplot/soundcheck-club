@@ -9,7 +9,7 @@ Sir Hiss is a grime and dubstep artist based in United Kingdom, tracked on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | TBA - West Town | Chicago |
-| Sat, 18 Jul 2026 | TBA - Boston | Boston |
+| Sat, 18 Jul 2026 | The Lower Level | Boston |
 
 ## Recently played
 

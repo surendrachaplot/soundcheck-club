@@ -9,7 +9,7 @@ radial is a music venue in London listed on soundcheck. 8 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Awake All Hours presents: Conrad Pack (Live), Caroune, St. Amp, szoryn | Caroune, Conrad Pack, St. Amp, szoryn |
-| Fri, 31 Jul 2026 | MYRYRS Label Night - Jacklyn, Sub Basics, nohexcode, Witch Trials, s3rpien | Jacklyn, Sub Basics, Witch Trials, nohexcode, s3rpien |
+| Fri, 31 Jul 2026 | MYRYRS Label Night - Jacklyn, Sub Basics, SWARMM, nohexcode, Witch Trials, s3rpien | Jacklyn, SWARMM, Sub Basics, Witch Trials, nohexcode, s3rpien |
 | Fri, 7 Aug 2026 | ODYSSEY:CLUB X VO!D D!SCO | Brother of Set, Claudia Kane, JON KRIEGER, Jane Darke, Kutkh Jackdaw, Lais Pattak, METALLIC LOVER |
 | Sat, 8 Aug 2026 | Autonomy's Day into Night at radial  | Coinín Beag, DJ Love UK, Derv, EMMIE, Sean Nolan, notjack |
 | Fri, 14 Aug 2026 | theoracle with Theo Kottis (new venue) | Theo Kottis |

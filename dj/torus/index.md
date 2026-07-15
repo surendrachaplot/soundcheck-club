@@ -1,14 +1,15 @@
 # Torus
 
-Torus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at VENT, Tokyo on Sat, 18 Jul 2026.
+Torus is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at VENT, Tokyo on Sat, 18 Jul 2026.
 
-Torus is a house and techno artist based in Netherlands, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside SIGNAL (JP), Evian Christ and Cheshire Yums. Next up: VENT, Tokyo on Sat 18 Jul.
+Torus is a house and techno artist based in Netherlands, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside SIGNAL (JP), Evian Christ and Cheshire Yums. Next up: VENT, Tokyo on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | VENT | Tokyo |
+| Sat, 8 Aug 2026 | Hito Scheveningen | The Hague |
 | Fri, 4 Sept 2026 | TBA - Multiple Venues | Vienna |
 
 ## Recently played

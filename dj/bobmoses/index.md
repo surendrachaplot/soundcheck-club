@@ -1,13 +1,14 @@
 # Bob Moses
 
-Bob Moses is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat, 15 Aug 2026.
+Bob Moses is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Berkeley Greek Theatre, San Francisco/Oakland on Fri, 17 Jul 2026.
 
-Bob Moses is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Claptone, Justin Martin and Ben Böhmer. Next up: TBA - The Roof at The Ritz-Carlton, Istanbul, Istanbul on Sat 15 Aug.
+Bob Moses is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Claptone, Justin Martin and Ben Böhmer. Next up: Berkeley Greek Theatre, Sanfrancisco on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Berkeley Greek Theatre | San Francisco/Oakland |
 | Sat, 15 Aug 2026 | TBA - The Roof at The Ritz-Carlton, Istanbul | Istanbul |
 | Sun, 23 Aug 2026 | 528 Ibiza | Ibiza |
 

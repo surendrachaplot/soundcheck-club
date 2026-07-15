@@ -1,8 +1,8 @@
 # Pau Rosés
 
-Pau Rosés is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
+Pau Rosés is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
 
-Pau Rosés is a house and techno artist tracked on soundcheck, with 133 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: La Terrrazza, Barcelona on Fri 17 Jul.
+Pau Rosés is a house and techno artist tracked on soundcheck, with 134 sets logged across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Adria (ES), Swann and Vince Void. Next up: La Terrrazza, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pau Rosés is a house and techno artist tracked on soundcheck, with 133 sets log
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | La Terrrazza | Barcelona |
 | Fri, 31 Jul 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sun, 16 Aug 2026 | Audiodise Park Montjuic | Barcelona |
 
 ## Recently played
 

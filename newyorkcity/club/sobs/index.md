@@ -1,8 +1,8 @@
 # SOBs
 
-SOBs is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bohemios Amigos: Amaury Gutierrez, Pavel Nunez, Obrien Luna" on Wed, 15 Jul 2026.
+SOBs is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bohemios Amigos: Amaury Gutierrez, Pavel Nunez, Obrien Luna" on Wed, 15 Jul 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including BlackDanielWhite. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including BlackDanielWhite. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
@@ -16,6 +16,8 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, wi
 | Sat, 25 Jul 2026 | Lenexx |  |
 | Sun, 26 Jul 2026 | Lisha G: Live in NYC |  |
 | Fri, 31 Jul 2026 | M.E - NYC Debut |  |
+| Fri, 31 Jul 2026 | Sak Pasé: Haitian Fridays Debut |  |
+| Fri, 7 Aug 2026 | Salsa Groove: Dance Class & Happy Hour |  |
 
 ## Address
 

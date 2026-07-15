@@ -1,8 +1,8 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Coffintexts is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Coffintexts is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Jonny From Space. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Coffintexts is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Jonny From Space. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 124 sets lo
 | Fri, 7 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sun, 9 Aug 2026 | Floyd | Miami |
 | Sat, 22 Aug 2026 | Shunter | Rotterdam |
+| Fri, 4 Sept 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 
 ## Recently played
 

@@ -1,14 +1,14 @@
 # Niki Sadeki
 
-Niki Sadeki is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 11819 Sherman Way, North Hollywood, CA 91605, Los Angeles on Sat, 1 Aug 2026.
+Niki Sadeki is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Berlin, Los Angeles on Sat, 1 Aug 2026.
 
-Niki Sadeki is a deep house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 15 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: 11819 Sherman Way, North Hollywood, CA 91605, Losangeles on Sat 1 Aug.
+Niki Sadeki is a deep house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 15 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: Berlin, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 1 Aug 2026 | 11819 Sherman Way, North Hollywood, CA 91605 | Los Angeles |
+| Sat, 1 Aug 2026 | Berlin | Los Angeles |
 | Sat, 26 Sept 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played

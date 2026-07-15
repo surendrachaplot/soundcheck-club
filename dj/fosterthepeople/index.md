@@ -2,7 +2,7 @@
 
 Foster The People is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Luz De Gas, Barcelona on Sat, 18 Jul 2026.
 
-Foster The People is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Ale Hope, Mahmut Orhan and Peace Control. Next up: Luz De Gas, Barcelona on Sat 18 Jul.
+Foster The People is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Ale Hope, Flavio Folco and Mahmut Orhan. Next up: Luz De Gas, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Foster The People is a house and tech house artist based in United States of Ame
 
 ## Shares bills with
 
-Ale Hope, Mahmut Orhan, Peace Control
+Ale Hope, Flavio Folco, Mahmut Orhan
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fosterthepeople/)*

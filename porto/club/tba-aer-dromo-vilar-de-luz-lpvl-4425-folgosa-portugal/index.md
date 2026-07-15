@@ -8,6 +8,6 @@ TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal is a music venue in
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bloom Festival 2026 | Bedouin, Bora Uzer, Jimi Jules, Louie Vega, MAGA, NTO, Tripolism, Viot |
+| Fri, 18 Sept 2026 | Bloom Festival 2026 | Bedouin, Bora Uzer, Jimi Jules, Louie Vega, MAGA, NTO, Reznik, Salomé Le Chat, Tripolism, Viot |
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/tba-aer-dromo-vilar-de-luz-lpvl-4425-folgosa-portugal/)*

@@ -9,6 +9,6 @@ TBA - IYKYK  is a music venue in Amsterdam listed on soundcheck. 2 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | If You Know You Know with DJ Masda (CABARET Recordings) | Connor Mikami, DJ Masda |
-| Sun, 27 Sept 2026 | If You Know You Know - Sunday Service (Day 'N' Nite) |  |
+| Sun, 27 Sept 2026 | If You Know You Know - Sunday Service |  |
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*

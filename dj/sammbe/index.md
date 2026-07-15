@@ -1,13 +1,14 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
+Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
 
-Samm (BE) is a house and afro house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside ARODES, Alex Wann and Andrea Oliva. Next up: Old Royal Naval College, London on Sat 8 Aug.
+Samm (BE) is a house and afro house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside ARODES, Alex Wann and Andrea Oliva. Next up: Fridas Pier, Stuttgart on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | Fridas Pier | Stuttgart |
 | Sat, 8 Aug 2026 | Old Royal Naval College | London |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 

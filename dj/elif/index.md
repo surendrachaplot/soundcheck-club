@@ -9,7 +9,7 @@ ELIF is a house and techno artist tracked on soundcheck, with 133 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Napa Music Hall | San Francisco/Oakland |
-| Sat, 1 Aug 2026 | 11819 Sherman Way, North Hollywood, CA 91605 | Los Angeles |
+| Sat, 1 Aug 2026 | Berlin | Los Angeles |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |

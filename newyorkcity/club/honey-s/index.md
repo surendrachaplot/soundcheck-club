@@ -1,8 +1,8 @@
 # Honey's
 
-Honey's is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "kisuna at honeys rooftop" on Wed, 15 Jul 2026.
+Honey's is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "kisuna at honeys rooftop" on Wed, 15 Jul 2026.
 
-Honey's is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including 1ol1v1a, Adam Rose, amita and Bea Trinidad and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
+Honey's is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including 1ol1v1a, Adam Rose, amita and Bea Trinidad and 2 more. Browse upcoming dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
 ## What's on
 

@@ -8,6 +8,6 @@ Kabelfabriek is a music venue in Thehague listed on soundcheck. 1 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Cluster Festival | Acid Rebels, BORIS BOUNCE, Colin Benders, Esther Dune, Hashashin, JDMA, RUL3, slin |
+| Sat, 29 Aug 2026 | Cluster Festival | Acid Rebels, BORIS BOUNCE, Colin Benders, Esther Dune, Hashashin, JDMA, Paul Ray, RUL3, SURCO, slin |
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/kabelfabriek/)*

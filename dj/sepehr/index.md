@@ -1,8 +1,8 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Sepehr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Sepehr is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Sepehr is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sepehr is a techno and house artist tracked on soundcheck, with 120 sets logged 
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 30 Jul 2026 | Melkweg | Amsterdam |
 | Sat, 5 Sept 2026 | TBA | Philadelphia |
+| Sat, 12 Sept 2026 | Club Six | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | The Ground at Club Space | Miami |
 
 ## Recently played

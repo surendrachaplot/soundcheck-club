@@ -1,13 +1,14 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Life Park, Istanbul on Sat, 1 Aug 2026.
+Eli & Fur is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Barbary, Philadelphia on Sat, 25 Jul 2026.
 
-Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Austin and Barcelona and 30 more. Often billed alongside CRi, Marsh and Jody Wisternoff. Next up: Life Park, Istanbul on Sat 1 Aug.
+Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Barcelona and 31 more. Often billed alongside CRi, Marsh and Jody Wisternoff. Next up: The Barbary, Philadelphia on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 25 Jul 2026 | The Barbary | Philadelphia |
 | Sat, 1 Aug 2026 | Life Park | Istanbul |
 | Sat, 8 Aug 2026 | Ritter Butzke | Berlin |
 | Sun, 9 Aug 2026 | Old Royal Naval College | London |

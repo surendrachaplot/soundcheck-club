@@ -8,11 +8,11 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 6 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Golden Record NYC x Hudd Traxx present Chez Damier, Huerta & Eddie Leader | Auphoria, Chez Damier, Choukroun, Eddie Leader, Huerta, Jon Starks |
+| Fri, 17 Jul 2026 | Golden Record NYC x Hudd Traxx present Chez Damier, Huerta & Eddie Leader | Auphoria, Chez Damier, Choukroun, Eddie Leader, Huerta, Jon Starks, L3Ni |
 | Sat, 18 Jul 2026 | Golden Record NYC x Sights and Sounds present DJ Qu, LADYMONIX, Mike Servito | Atilla Ural, DJ Qu, Delano Smith, Kiyoshi, LADYMONIX, Mari Ella, Mike Servito, Norm Talley, Sanat, Simon Heyliger, VARSHA, renai |
 | Sat, 25 Jul 2026 | Golden Record NYC x TAMED present Jasper James, David Berrie, Miguel Gallardo & KANZE & More | David Berrie, Jasper James, Jeny Michelle, KANZE, Kiyoshi, Miguel Gallardo, Omer Mil, Raw Phonics |
 | Sat, 1 Aug 2026 | POSER | Arvin T, Griffin Maxwell Brooks, Saia, cry$cross, estro, sim0ne |
-| Fri, 7 Aug 2026 | Golden Record NYC present Oshana | DJ Primo, Emsho, Kiyoshi, Oshana |
+| Fri, 7 Aug 2026 | Golden Record NYC presents Oshana, Emsho, Kiyoshi B2B DJ Primo | DJ Primo, Emsho, Kiyoshi, Oshana |
 | Sat, 8 Aug 2026 | DIVERSION w Amor Satyr; Beatrice; RAEZA | Amor Satyr, Anthorp, Beatrice (DE), MORENXXX, RÆZA |
 
 ## Address

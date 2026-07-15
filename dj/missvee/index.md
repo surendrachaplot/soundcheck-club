@@ -1,8 +1,8 @@
 # MISS VEE
 
-MISS VEE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Jupiter Disco, New York City on Wed, 15 Jul 2026.
+MISS VEE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Jupiter Disco, New York City on Wed, 15 Jul 2026.
 
-MISS VEE is a house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity. Often billed alongside shirlz, DJ Sauci Soni and MAXWELL HöUSE. Next up: Jupiter Disco, Newyorkcity on Wed 15 Jul.
+MISS VEE is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside shirlz, DJ Sauci Soni and MAXWELL HöUSE. Next up: Jupiter Disco, Newyorkcity on Wed 15 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MISS VEE is a house and techno artist based in United States of America, tracked
 | Wed, 15 Jul 2026 | Jupiter Disco | New York City |
 | Thu, 16 Jul 2026 | Mehanata Bar | New York City |
 | Fri, 17 Jul 2026 | Studio 6 Gallery | New York City |
+| Fri, 24 Jul 2026 | Listen Brooklyn | New York City |
 
 ## Recently played
 

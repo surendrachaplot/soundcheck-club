@@ -1,13 +1,14 @@
 # Tylr
 
-Tylr is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Northern Lights Lounge, Detroit on Fri, 24 Jul 2026.
+Tylr is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Spkrbox, Detroit on Sat, 18 Jul 2026.
 
-Tylr is a house and techno artist tracked on soundcheck, with 316 sets logged across Detroit, London, Newyorkcity and Seattle and 1 more. Often billed alongside Loren, Kass (US) and Garrison XR. Next up: Northern Lights Lounge, Detroit on Fri 24 Jul.
+Tylr is a house and techno artist tracked on soundcheck, with 317 sets logged across Detroit, London, Newyorkcity and Seattle and 1 more. Often billed alongside Loren, Kass (US) and Garrison XR. Next up: Spkrbox, Detroit on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Spkrbox | Detroit |
 | Fri, 24 Jul 2026 | Northern Lights Lounge | Detroit |
 | Sat, 25 Jul 2026 | The Eagle of Detroit | Detroit |
 | Thu, 30 Jul 2026 | Spkrbox | Detroit |

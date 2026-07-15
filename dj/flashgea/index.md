@@ -1,14 +1,15 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 18 Jul 2026.
+Flash Gea is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 18 Jul 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 23 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 3 more. Often billed alongside Conrad Taylor, girl_irl and Adrian Mills. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 18 Jul.
+Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Miami, Newyorkcity and Philadelphia and 3 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Sun, 19 Jul 2026 | Ping Tom Memorial Park | Chicago |
 | Sat, 15 Aug 2026 | The Ground at Club Space | Miami |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 
@@ -25,6 +26,6 @@ Flash Gea is a techno and trance artist based in United States of America, track
 
 ## Shares bills with
 
-Conrad Taylor, girl_irl, Adrian Mills
+Conrad Taylor, girl_irl, AMAYAH
 
 *Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
