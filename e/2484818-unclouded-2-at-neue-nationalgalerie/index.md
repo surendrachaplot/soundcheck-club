@@ -1,6 +1,6 @@
 # UNCLOUDED #2 at Neue Nationalgalerie
 
-UNCLOUDED #2 at Neue Nationalgalerie on Thu 16 Jul, Berlin. 1 act on the bill: Sound Metaphors Djs. Disco and Balearic. Preview the line-up and save it on soundcheck.
+UNCLOUDED #2 at Neue Nationalgalerie on Thu 16 Jul, Berlin. 1 act on the bill: Sound Metaphors Djs. Balearic and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

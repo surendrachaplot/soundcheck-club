@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 32 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "England vs. Argentina - Football (Free RSVP)" on Wed, 15 Jul 2026.
+M.O.T is a music venue in London with 32 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "England vs. Argentina - Football (Free RSVP but first come first served)" on Wed, 15 Jul 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 32 upcoming nights, with line-ups including A.N.T, Abby Daze, Achiya and Akanbi and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -8,7 +8,7 @@ M.O.T is a music venue in London listed on soundcheck. 32 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | England vs. Argentina - Football (Free RSVP) |  |
+| Wed, 15 Jul 2026 | England vs. Argentina - Football (Free RSVP but first come first served) |  |
 | Thu, 16 Jul 2026 | Factory Setting | Simon Mós, happyhappyface |
 | Fri, 17 Jul 2026 | Plástica Sonora x Venue MOT | sinny |
 | Fri, 17 Jul 2026 | Fraise x Family Affair Summer Fundraiser Party | Free Zing, LILI, Sheriff Boo, Wilba |

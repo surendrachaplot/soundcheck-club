@@ -9,7 +9,7 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 4 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Kings Turntable: Handy Joe [18.07.2026] | NOYB |
-| Sun, 19 Jul 2026 | Vinyl Open Decks with NOYB Vol. 4 [19.07.2026] |  |
+| Sun, 19 Jul 2026 | Vinyl Open Decks with NOYB Vol. 4 + WORLD CUP FINAL [19.07.2026] |  |
 | Sat, 25 Jul 2026 | Kings Turntable: Shuvaluv [25.07.2026] | Shuvaluv |
 | Sun, 26 Jul 2026 | Kings Turntable |  |
 
