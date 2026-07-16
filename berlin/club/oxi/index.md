@@ -15,7 +15,7 @@ OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with li
 | Fri, 24 Jul 2026 | MARICAS CSD [23 HOURS - OPEN AIR + INDOOR]  | Alírio, Bella Sarris, Berenice, CCL, Cashu, D. Tiffany, ISAbella, Introspekt, Jennifer Loveless, Miss Parker, Roza Terenzi, Verushka, acidheaven, ābnamā |
 | Sat, 25 Jul 2026 | CLASH CSD SPECIAL | ALAN JOE, Bill Sanders, Caleb ESC, Danny Roach, Rubberax, jardabpm |
 | Sun, 26 Jul 2026 | Hoe__mies PRIDE | Anita B Queen, Ase Manual, Asphodèle, BADSISTA, C.FRIM, Haus of Ralph, Kontronatura, Litney, MIRASIA, Nanoos, TEDESCO, Trigger T |
-| Tue, 28 Jul 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | BLACK ANTHEM RESTORE, Exos, KAMA, ZAKARE |
+| Tue, 28 Jul 2026 | ✦ ✦encore.une.fois✦ ✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | BLACK ANTHEM RESTORE, Exos, KAMA, ZAKARE |
 | Thu, 30 Jul 2026 | [OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin | Chalita Claudine, Dave Mech, Jan Ritter, Jasmin Giovanazzi, Mattone, Sara Delirio, UniKhatu, s:mash |
 | Fri, 31 Jul 2026 | Down & Dirty - LESBERLIN Mud Wrestling Fundraiser | Trigger T |
 

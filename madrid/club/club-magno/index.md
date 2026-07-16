@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Hot.Link: Daddy Chulo + Xnia (Afrobeats, dancehall, amapiano, hiphop, trap)" on Fri, 17 Jul 2026.
+Club Magno is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "HotLink: Daddy Chulo + Xnia (Afrobeats, dancehall, amapiano, hiphop, trap)" on Fri, 17 Jul 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Daddy Chulo and Maxvll. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -8,7 +8,7 @@ Club Magno is a music venue in Madrid listed on soundcheck. 1 upcoming night, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Hot.Link: Daddy Chulo + Xnia (Afrobeats, dancehall, amapiano, hiphop, trap) | Daddy Chulo, Maxvll |
+| Fri, 17 Jul 2026 | HotLink: Daddy Chulo + Xnia (Afrobeats, dancehall, amapiano, hiphop, trap) | Daddy Chulo, Maxvll |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "club asia THURSDAY" on Thu, 16 Jul 2026.
+clubasia is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "club asia THURSDAY" on Thu, 16 Jul 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Acrocanthosaurus, Aki Dolanikov, Andrew (TREKKIE TRAX) and anolis and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including Acrocanthosaurus, Aki Dolanikov, Andrew (TREKKIE TRAX) and anolis and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
@@ -14,6 +14,7 @@ clubasia is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with
 | Fri, 24 Jul 2026 | KAN7WEST FES 2026 SUMMER | Gen Yamada, HIMAWARI, MK woop, Shoma fr,dambosound, YUUGOH, eijin, juli (8), miute |
 | Wed, 29 Jul 2026 | 'EXODUS' 5th Anniversary｜vol.243 | CYBERHACKSYSTEM, FUJI TRILL, Hirosson, kyuuu, misa nakamura |
 | Thu, 30 Jul 2026 | club asia THURSDAY | Andrew (TREKKIE TRAX), Shoma fr,dambosound, YELLOWUHURU, Yosuke |
+| Fri, 7 Aug 2026 | CHRØNOS | Eichi Abe, FENGX2, Sonia Lagoon (2), XINOVI, egomania |
 
 ## Address
 

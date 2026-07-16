@@ -9,7 +9,7 @@ Amano East-Side is a music venue in Berlin listed on soundcheck. 3 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Sunset Session 5  |  |
-| Sun, 26 Jul 2026 | AMANO ROOFTOP DAY PARTY - Usha Berlin X RISE BERLIN | Denno Matini, NAIR (IN), Ukãi Ndame, Walter Griot |
+| Sun, 26 Jul 2026 | AMANO ROOFTOP SUNSET PARTY - USHA X RISE BERLIN | Denno Matini, NAIR (IN), Ukãi Ndame, Walter Griot |
 | Sat, 8 Aug 2026 | Rooftop Tapes Berlin Summer Closing | CAMET, FR3ADY, Le TIZI |
 
 ## Address
