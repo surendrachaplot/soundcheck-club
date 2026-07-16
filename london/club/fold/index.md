@@ -12,7 +12,7 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with l
 | Sat, 18 Jul 2026 | FJAAK - FOLD | FJAAK, S Ruston |
 | Sun, 19 Jul 2026 | UNFOLD CXXVII |  |
 | Sat, 25 Jul 2026 | Origins: MARRØN, Prance & Gloria Rose | Gloria Rose, MARRØN, Prance |
-| Fri, 31 Jul 2026 | Somov: Ignez, STERAC, Wala & Desireè | Desiree', Ignez, STERAC, Wala |
+| Fri, 31 Jul 2026 | Origins: Ignez, STERAC, Wala & Desireè [Somov Showcase] | Desiree', Ignez, STERAC, Wala |
 | Sun, 2 Aug 2026 | UNFOLD CXXVIII |  |
 | Fri, 7 Aug 2026 | FOLD presents KEY VINYL (EXTENDED) | Alba Heidari, Beste Hira, Freddy K, Sons Of Hidden |
 | Sat, 8 Aug 2026 | Origins: Nicola Cruz [Extended Set] Willow & Pato | Nicola Cruz, Pato, Willow |

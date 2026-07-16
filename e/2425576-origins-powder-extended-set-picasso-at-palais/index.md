@@ -1,6 +1,6 @@
 # Origins: Powder (Extended Set) + Picasso at Palais
 
-Origins: Powder (Extended Set) + Picasso at Palais on Sat 25 Jul, London. 2 acts on the bill: Picasso and Powder. Preview the line-up and save it on soundcheck.
+Origins: Powder (Extended Set) + Picasso at Palais on Sat 25 Jul, London. 2 acts on the bill: Picasso and Powder. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
