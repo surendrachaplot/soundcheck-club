@@ -17,7 +17,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 | Fri, 14 Aug 2026 | Upzet's Bday Party with DE.fine, Crashkitt b2b Boudi Boudin, Iza b2b Dirty Plates, Unknown | Agem, Boudi Boudin, Crashkitt, DE.fine, Dirty Plates (2), Dub Isotope, IZA (2), Shaded Lines, Upzet, unknown.dnb |
 | Sat, 15 Aug 2026 | Kinder der Nacht - Parade After Party w/ T78 | ADOBE, Activator, Avex, DJ Jordan, Dave Demon, Ewelina Koll, GHOST DE, Jacopo Susini, Jens Schwan, Klipp&Klar, LEPIDO, Marc van Linden, Rob Robsen, Ronny Luft, SXF Thunderscream, Seimen Dexter, T78, YOZÉ |
 | Fri, 11 Sept 2026 | Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) | Brizze, DaSoMaZo |
-| Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul |  |
+| Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Mosher |
 
 ## Address
 

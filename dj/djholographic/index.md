@@ -1,13 +1,14 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+DJ Holographic is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Shipyards North Vancouver, Vancouver on Sat, 18 Jul 2026.
 
-DJ Holographic is a house and techno artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
+DJ Holographic is a house and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA - Shipyards North Vancouver, Vancouver on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | TBA - Shipyards North Vancouver | Vancouver |
 | Fri, 24 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 7 Aug 2026 | TBA - Bat Country | Portland |

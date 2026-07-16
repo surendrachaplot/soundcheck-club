@@ -1,8 +1,8 @@
 # skyra
 
-skyra is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+skyra is a House and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-skyra is a house and trance artist tracked on soundcheck, with 89 sets logged across Berlin, Tallinn and Tbilisi. Often billed alongside Boyá, HVL and Keto. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+skyra is a house and trance artist tracked on soundcheck, with 90 sets logged across Berlin, Tallinn and Tbilisi. Often billed alongside Boyá, HVL and Ndrx. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ skyra is a house and trance artist tracked on soundcheck, with 89 sets logged ac
 | Fri, 17 Jul 2026 | TBA - Private Location | Berlin |
 | Fri, 14 Aug 2026 | Bassiani | Tbilisi |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
+| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ skyra is a house and trance artist tracked on soundcheck, with 89 sets logged ac
 
 ## Shares bills with
 
-Boyá, HVL, Keto
+Boyá, HVL, Ndrx
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*

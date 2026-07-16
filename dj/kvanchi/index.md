@@ -1,8 +1,8 @@
 # Kvanchi
 
-Kvanchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bassiani, Tbilisi on Fri, 24 Jul 2026.
+Kvanchi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bassiani, Tbilisi on Fri, 24 Jul 2026.
 
-Kvanchi is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside HVL, Zitto and Ndrx. Next up: Bassiani, Tbilisi on Fri 24 Jul.
+Kvanchi is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside HVL, Zitto and Ndrx. Next up: Bassiani, Tbilisi on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kvanchi is a techno and house artist tracked on soundcheck, with 98 sets logged 
 | Fri, 24 Jul 2026 | Bassiani | Tbilisi |
 | Fri, 7 Aug 2026 | Bassiani | Tbilisi |
 | Fri, 21 Aug 2026 | Bassiani | Tbilisi |
+| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 

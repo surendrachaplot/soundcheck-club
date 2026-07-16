@@ -1,8 +1,8 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and TSHA. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 193 sets lo
 | Sun, 30 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

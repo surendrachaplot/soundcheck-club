@@ -9,7 +9,7 @@ Robin Ordell is a house and minimal artist based in France, tracked on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | 12 x 12 | Bangkok |
-| Fri, 24 Jul 2026 | teller | Seoul |
+| Sat, 25 Jul 2026 | teller | Seoul |
 | Sat, 15 Aug 2026 | Platforma Wolff | Bucharest |
 
 ## Recently played

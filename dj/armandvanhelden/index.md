@@ -1,13 +1,14 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Fri, 24 Jul 2026.
+Armand Van Helden is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 19 Jul 2026.
 
-Armand Van Helden is a house and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 24 Jul.
+Armand Van Helden is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 29 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Cavo Paradiso, Mykonos on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | Cavo Paradiso | Mykonos |
 | Fri, 24 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | BCM | Mallorca |
 | Sat, 1 Aug 2026 | Preston Park, Brighton | Berlin |

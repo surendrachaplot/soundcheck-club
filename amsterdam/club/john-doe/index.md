@@ -13,7 +13,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 36 upcoming nights,
 | Sat, 18 Jul 2026 | Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX | Marco Ramos, Villaseñor |
 | Sun, 19 Jul 2026 | No Sundays Without Techno | Alex Sharp |
 | Mon, 20 Jul 2026 | Hard Mondays Amsterdam - HARD TECHNO NIGHT | NO1ELSE |
-| Tue, 21 Jul 2026 | [PHANTOM GROUP] KLUBNACHT | BIØNIC BAMBI, JTN (1), SINTHER, SUKA |
+| Tue, 21 Jul 2026 | [PHANTOM GROUP] KLUBNACHT w BIØNIC BAMBI / SUPRA / SUKA / JTN / STVN / AKHU | BIØNIC BAMBI, JTN (1), SINTHER, STVN (2), SUKA |
 | Wed, 22 Jul 2026 | RAVELAND: Hard Techno & Hard Bounce w/ Darshan [AUS], Arabesque [AUS], Aztlan Zidonia [MEX] | Arabesque (AU), Aztlan Zidonia |
 | Thu, 23 Jul 2026 | Amsterdam Techno Sessions w/ LEGA (TRUNCATE- ILLEGAL ALIEN RECORDS) COLOMBIA | Marco Ramos, No Intellectual Property |
 | Fri, 24 Jul 2026 | TRUEFORM x UNDRGRND | Dunkel |

@@ -1,8 +1,8 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "LUEUR vol.4" on Thu, 16 Jul 2026.
+R Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "LUEUR vol.4" on Thu, 16 Jul 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, ceza and Chediak and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, ceza and Chediak and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
@@ -15,9 +15,9 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, wit
 | Thu, 23 Jul 2026 | on | AOI BLOOM |
 | Thu, 23 Jul 2026 | Resound | MOTOKA, SIGNAL (JP) |
 | Sat, 25 Jul 2026 | R Lounge 13TH ANNIVERSARY PRESENTS Ezequiel Arias | Ayana Pattra, Conures (DJ Tokunaga), DJ NECO, DJ endorphin, Ezequiel Arias, Monna Lisa, SHIGe, Shingo Nakamura, Shun Kurashima, uuu7 |
+| Sat, 25 Jul 2026 | AI FUSION FES |  |
 | Fri, 31 Jul 2026 | EP 'PRISM' Elena Berry × SKYTOPIA Release Party | MOOTOE, VECSILLE |
 | Fri, 7 Aug 2026 | Peeps | JUN INAGAWA, ecec |
-| Sat, 8 Aug 2026 | PsynOpticz Records - Label Party |  |
 
 ## Address
 

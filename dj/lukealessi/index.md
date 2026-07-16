@@ -16,7 +16,7 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 | Fri, 14 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 22 Aug 2026 | Fuse | Brussels |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
-| Sat, 26 Sept 2026 | TBA - Quinta Mira Rio | Lisbon |
+| Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 
 ## Recently played
 

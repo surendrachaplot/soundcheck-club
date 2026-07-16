@@ -1,6 +1,6 @@
 # Katernacht with Felix Dickinson, Toribio, Desirée Falessi, Bell Towers + more at Kater
 
-Katernacht with Felix Dickinson, Toribio, Desirée Falessi, Bell Towers + more on Sat 15 Aug, Berlin. 8 acts on the bill: Bambi-S, Bell Towers, Desirée Falessi and Felix Dickinson and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Katernacht with Felix Dickinson, Toribio, Desirée Falessi, Bell Towers + more on Sat 15 Aug, Berlin. 10 acts on the bill: Bambi-S, Bell Towers, Caleb Jackson and Desirée Falessi and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ Katernacht with Felix Dickinson, Toribio, Desirée Falessi, Bell Towers + more o
 
 - Bambi-S
 - Bell Towers
+- Caleb Jackson
 - Desirée Falessi
+- Dj Norma
 - Felix Dickinson
 - Femdelic
 - Philippa

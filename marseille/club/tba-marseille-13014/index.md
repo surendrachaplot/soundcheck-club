@@ -9,6 +9,6 @@ TBA - Marseille 13014 is a music venue in Marseille listed on soundcheck. 2 upco
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Kumquat 10 years • Round 1/3 • Le Château de Ma Mère | M. FELIX, One Tough Cookie |
-| Sun, 26 Jul 2026 | Kumquat 10 years • Round 3/3 (After) • Le Château de Ma Mère | One Tough Cookie |
+| Sun, 26 Jul 2026 | Kumquat 10 years • Round 3/3 (After) • Secret Place (Marseille 13014) | One Tough Cookie |
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-marseille-13014/)*

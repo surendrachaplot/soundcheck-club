@@ -1,8 +1,8 @@
 # Grow
 
-Grow is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sweetnighter Summer Party: Danger Boys (Whodamanny & Milord) & SweetNightJoe" on Fri, 17 Jul 2026.
+Grow is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sweetnighter Summer Party: Danger Boys (Whodamanny & Milord) & SweetNightJoe" on Fri, 17 Jul 2026.
 
-Grow is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alfie Panaiotis, Apiento, Aqwea and ARLYSS and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alfie Panaiotis, Apiento, Aqwea and ARLYSS and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Grow is a music venue in London listed on soundcheck. 13 upcoming nights, with l
 | Sat, 1 Aug 2026 | MUCHO SOUL // SOUL ON THE CANAL SIDE AUGUST // SOUL // FUNK // JAZZ // DEEP HOUSE |  |
 | Fri, 7 Aug 2026 | Discothèque Tropicale: ARLYSS // Atlas // SANOY // JOSH FB | ARLYSS, JOSH FB, SANOY |
 | Sat, 8 Aug 2026 | GIRLZ B LIKE: MARCIA DAVINYLMC - OPEN TO CLOSE | Marcia Carr |
+| Fri, 14 Aug 2026 | Beirut Groove Collective Summer Club: Natalie Shooter // Ernesto Chahoud // + Guests | Ernesto Chahoud, Natalie Shooter |
 | Sat, 22 Aug 2026 | DeepDig: Harri Pepper (4 Hours) // Sky Rivers | Harri Pepper, Sky Rivers |
-| Sat, 29 Aug 2026 | Cengiz presents 'End Of Summer Special' | Cengiz, Cosmo Sofi, Oliver Night |
 
 ## Address
 

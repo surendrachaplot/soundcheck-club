@@ -1,8 +1,8 @@
 # ALCATRAZ
 
-ALCATRAZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Trädgården, Stockholm on Thu, 23 Jul 2026.
+ALCATRAZ is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Trädgården, Stockholm on Thu, 23 Jul 2026.
 
-ALCATRAZ is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Trädgården, Stockholm on Thu 23 Jul.
+ALCATRAZ is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Trädgården, Stockholm on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ ALCATRAZ is a techno and house artist tracked on soundcheck, with 53 sets logged
 | Sat, 8 Aug 2026 | Burgess Park | London |
 | Wed, 19 Aug 2026 | Kesselhaus | Berlin |
 | Sun, 23 Aug 2026 | Else | Berlin |
+| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Farsight
 
-Farsight is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Tempelhof Area, Berlin on Sat, 18 Jul 2026.
+Farsight is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Tempelhof Area, Berlin on Sat, 18 Jul 2026.
 
-Farsight is a techno and bass artist based in United States of America, tracked on soundcheck, with 93 sets logged across Austin, Berlin, Chicago and Denver and 9 more. Often billed alongside RITCHRD, nonsuit and BAD JUUJU. Next up: TBA - Tempelhof Area, Berlin on Sat 18 Jul.
+Farsight is a techno and bass artist based in United States of America, tracked on soundcheck, with 94 sets logged across Austin, Berlin, Chicago and Denver and 9 more. Often billed alongside RITCHRD, nonsuit and BAD JUUJU. Next up: TBA - Tempelhof Area, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TBA - Tempelhof Area | Berlin |
+| Sat, 25 Jul 2026 | Panke | Berlin |
 | Sat, 15 Aug 2026 | OHM | Berlin |
 
 ## Recently played

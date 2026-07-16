@@ -17,7 +17,7 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 12 upc
 | Fri, 7 Aug 2026 | Folded Notions: Geneva, Zanelato & Hand-made | Geneva_, Hand-made, Zanelato |
 | Fri, 14 Aug 2026 | Mirrorsteria (TMD & Microsteria) | Ann Tweak, Raivo Sloan, Zoe from Finance |
 | Fri, 21 Aug 2026 | La Beat Soul Club |  |
-| Fri, 28 Aug 2026 | EPiKA SOFT: EPiKA's 5th Birthday | ENAEN, Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
+| Fri, 28 Aug 2026 | Fringe Closing Party - EPiKA SOFT (EPiKA's 5th Birthday) | ENAEN, Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
 
 ## Address
 

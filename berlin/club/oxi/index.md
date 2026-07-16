@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Art Bei Ton: Trip.n.Queers" on Thu, 16 Jul 2026.
+OXI is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Art Bei Ton: Trip.n.Queers" on Thu, 16 Jul 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including ābnamā, acidheaven, Alada and ALAN JOE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

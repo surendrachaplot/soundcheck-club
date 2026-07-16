@@ -1,8 +1,8 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
+Us Two is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Us Two is a tech house and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Ilario Alicante, Max Dean and Ryan Resso. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
+Us Two is a tech house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Ilario Alicante, Max Dean and Ryan Resso. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Us Two is a tech house and house artist tracked on soundcheck, with 57 sets logg
 | Fri, 7 Aug 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 22 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | [UNVRS] | Ibiza |
+| Thu, 17 Sept 2026 | The Loft | Manchester |
 | Fri, 25 Sept 2026 | Document | Bristol |
 
 ## Recently played

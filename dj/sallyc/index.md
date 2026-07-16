@@ -16,7 +16,7 @@ Sally C is a house and techno artist tracked on soundcheck, with 260 sets logged
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 26 Sept 2026 | TBA - Quinta Mira Rio | Lisbon |
+| Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

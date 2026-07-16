@@ -9,7 +9,7 @@ SLYM is a trance and techno artist tracked on soundcheck, with 89 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Turbina | Budapest |
-| Sat, 18 Jul 2026 | Atno | Budapest |
+| Fri, 24 Jul 2026 | Atno | Budapest |
 | Sat, 15 Aug 2026 | TBA - Nomád Bár | Budapest |
 
 ## Recently played

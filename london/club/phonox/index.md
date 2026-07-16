@@ -11,7 +11,7 @@ Phonox is a music venue in London listed on soundcheck. 28 upcoming nights, with
 | Fri, 17 Jul 2026 | LDN History Part 2: Rusko & P Money, Coki & Crazy D, Plastician, JAZ IMSKY | Coki, JAZ IMSKY, P Money, Plastician, Rusko |
 | Sat, 18 Jul 2026 | Swerve Deep Summer Daytime Session | Badly Drawn Banana, Grooverider, Tendai, Zero T |
 | Sat, 18 Jul 2026 | Phonox: Soichi Terada (Live) | Serenda, Soichi Terada |
-| Thu, 23 Jul 2026 | Wiley (In The Round) | Wiley |
+| Thu, 23 Jul 2026 | Wiley (In The Round) | Logan Sama, Wiley |
 | Fri, 24 Jul 2026 | Dimitri From Paris | Dimitri From Paris |
 | Sat, 25 Jul 2026 | Phonox: CIRCULATE with Egyptian Lover, FREAKENSTEIN  | Egyptian Lover, FREAKENSTEIN |
 | Fri, 7 Aug 2026 | DEADCORP PRESENTS: CASISDEAD, Sexy Lady Massive, Chinese Daughter | CASISDEAD, Chinese Daughter, Sexy Lady Massive |

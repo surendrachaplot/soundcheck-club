@@ -8,7 +8,7 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Azumaya -Thursday- | Kobashi Mitsuki, PIRANHA, Rio (QPLO) |
+| Thu, 16 Jul 2026 | Azumaya -Thursday- | Kobashi Mitsuki, PIRANHA, Rio (QPLO), kuniii |
 | Fri, 17 Jul 2026 | Azumaya -Friday- | Chrysis, Eldyoung |
 | Sat, 18 Jul 2026 | Azumaya -Saturday- | Frankie $, HALU(Tribal Connection), Licaxxx |
 | Sun, 19 Jul 2026 | ROOFTOP | EUREKA, Gonno, KOTSU, okadada |

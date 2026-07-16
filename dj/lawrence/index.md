@@ -1,8 +1,8 @@
 # Lawrence
 
-Lawrence is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ikii, Berlin on Thu, 16 Jul 2026.
+Lawrence is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ikii, Berlin on Thu, 16 Jul 2026.
 
-Lawrence is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Basel and Berlin and 16 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Ikii, Berlin on Thu 16 Jul.
+Lawrence is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Basel and Berlin and 16 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Ikii, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lawrence is a techno and house artist based in Germany, tracked on soundcheck, w
 | Thu, 16 Jul 2026 | Ikii | Berlin |
 | Mon, 27 Jul 2026 | DC-10 | Ibiza |
 | Sat, 19 Sept 2026 | La Cité Fertile | Paris |
+| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 

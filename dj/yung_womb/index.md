@@ -1,8 +1,8 @@
 # yung_womb
 
-yung_womb is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+yung_womb is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-yung_womb is a bass and house artist tracked on soundcheck, with 71 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside SLIC Unit, Nissa Carrington and Slimgirl fat. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+yung_womb is a house and bass artist tracked on soundcheck, with 72 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside SLIC Unit, Nissa Carrington and Slimgirl fat. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ yung_womb is a bass and house artist tracked on soundcheck, with 71 sets logged 
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Fri, 24 Jul 2026 | Ritter Butzke | Berlin |
+| Sat, 1 Aug 2026 | Südpol | Hamburg |
 
 ## Recently played
 

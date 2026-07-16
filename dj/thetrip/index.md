@@ -12,7 +12,7 @@ The Trip is a house and tech house artist tracked on soundcheck, with 81 sets lo
 | Sat, 22 Aug 2026 | Quarters | Brighton |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 12 Sept 2026 | The Cause | London |
-| Sat, 26 Sept 2026 | TBA - Quinta Mira Rio | Lisbon |
+| Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

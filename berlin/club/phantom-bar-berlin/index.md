@@ -10,7 +10,7 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming n
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Honest Work  | Immy, John Crosby |
 | Sat, 25 Jul 2026 | De Reünie x Hyper Dreams - CSD AFTERPARTY | Cryptofauna, Cybersex, DJ KILLING, DREAMINSLOW, Darius The Barbarian |
-| Thu, 30 Jul 2026 | Keyi Magazine Fundraiser with Chris Liebing, Alinka, CYRK (Live), Berlin Bunny, and More | A6IIR, Alinka, Berlin Bunny, CYRK, Chris Liebing, Eyesdice, HASLA, Paty Vapor, UN/SER, VOID (KR) |
+| Thu, 30 Jul 2026 | Keyi Magazine Fundraiser with Chris Liebing, Alinka, Berlin Bunny, and More | A6IIR, Alinka, Berlin Bunny, CYRK, Chris Liebing, Eyesdice, HASLA, Paty Vapor, Short Finger, UN/SER, VOID (KR) |
 | Sat, 8 Aug 2026 | Meta Rave with Cyberkills, IDLIBRA, Botox Fatal | DJ LOUI FROM JUPITER4, IDLIBRA, Nuevo Prohibido |
 | Sat, 12 Sept 2026 | Low Ends |  |
 

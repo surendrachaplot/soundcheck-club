@@ -1,8 +1,8 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "El Diablo's Social Club vs Talking Drums" on Fri, 17 Jul 2026.
+The Golden Lion is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "El Diablo's Social Club vs Talking Drums" on Fri, 17 Jul 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Alexander Nut, Benedict, Chunky and Fancy Shews and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Alexander Nut, Benedict, Chunky and Fancy Shews and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
@@ -15,6 +15,7 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 9 upcoming 
 | Sat, 25 Jul 2026 | Lana Loves | Fancy Shews, Kim Lana, Michael Upson, Tiffany Kidd, Wes Baggaley |
 | Sun, 26 Jul 2026 | After Pride party Nick The Record + James Holroyd | James Holroyd, Nick The Record |
 | Fri, 31 Jul 2026 | Sessions presents: Josh Wink | Josh Wink, Steve Parry |
+| Sat, 1 Aug 2026 | BLADED ARTICLE | Henzo, RenzNiro, Ship Sket |
 | Sun, 23 Aug 2026 |  Metalheadz presents Blue Note Sessions With Goldie | Goldie |
 | Fri, 9 Oct 2026 | SUBDUB - Iration Steppas Sound System, Simon Scott & guests  | Iration Steppas, Simon Scott |
 

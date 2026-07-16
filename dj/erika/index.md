@@ -1,8 +1,8 @@
 # Erika
 
-Erika is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
+Erika is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tresor / Globus, Berlin on Sat, 25 Jul 2026.
 
-Erika is a techno and acid artist tracked on soundcheck, with 105 sets logged across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
+Erika is a techno and acid artist tracked on soundcheck, with 106 sets logged across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Tresor / Globus, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Erika is a techno and acid artist tracked on soundcheck, with 105 sets logged ac
 | Sat, 25 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 1 Aug 2026 | Marble Bar | Detroit |
 | Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
+| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 

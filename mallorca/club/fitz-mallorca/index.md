@@ -1,8 +1,8 @@
 # Fitz Mallorca
 
-Fitz Mallorca is a music venue in Mallorca with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "OPENING PARTY - PAWSA, Nic Fanciulli & Miguelle & TONS" on Thu, 16 Jul 2026.
+Fitz Mallorca is a music venue in Mallorca with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "OPENING PARTY - PAWSA, Nic Fanciulli & Miguelle & TONS" on Thu, 16 Jul 2026.
 
-Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 2 upcoming nights, with line-ups including MËSTIZA, Miguelle, Nic Fanciulli and PAWSA and 1 more. Browse upcoming dates, start times and who's playing. Avinguda de Gabriel Roca, 32,  Palma, Illes Balears.
+Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 3 upcoming nights, with line-ups including Gordo, MËSTIZA, Miguelle and Nic Fanciulli and 2 more. Browse upcoming dates, start times and who's playing. Avinguda de Gabriel Roca, 32,  Palma, Illes Balears.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 2 upcoming nigh
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | OPENING PARTY - PAWSA, Nic Fanciulli & Miguelle & TONS | Miguelle, Nic Fanciulli, PAWSA, TONS |
 | Sun, 19 Jul 2026 | MËSTIZA | MËSTIZA |
+| Sat, 25 Jul 2026 | Gordo x FITZ | Gordo |
 
 ## Address
 

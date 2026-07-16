@@ -1,8 +1,8 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Marlon DuBois" on Fri, 17 Jul 2026.
+Club Cheek is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Marlon DuBois" on Fri, 17 Jul 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Anahita Shamsaei, Astrid Sonne, Bailey Ibbs and Bobby. and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Anahita Shamsaei, Astrid Sonne, Bailey Ibbs and Bobby. and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 

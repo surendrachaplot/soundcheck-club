@@ -1,8 +1,8 @@
 # DJ Paulette
 
-DJ Paulette is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 25 Jul 2026.
+DJ Paulette is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 25 Jul 2026.
 
-DJ Paulette is a house and disco artist tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 19 more. Often billed alongside Graeme Park, David Morales and Erol Alkan. Next up: Freight Island Newcastle, Newcastle on Sat 25 Jul.
+DJ Paulette is a house and disco artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 19 more. Often billed alongside Graeme Park, Erol Alkan and David Morales. Next up: Freight Island Newcastle, Newcastle on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Paulette is a house and disco artist tracked on soundcheck, with 76 sets logg
 | Thu, 30 Jul 2026 | 528 Ibiza | Ibiza |
 | Fri, 7 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ DJ Paulette is a house and disco artist tracked on soundcheck, with 76 sets logg
 
 ## Shares bills with
 
-Graeme Park, David Morales, Erol Alkan
+Graeme Park, Erol Alkan, David Morales
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulette/)*

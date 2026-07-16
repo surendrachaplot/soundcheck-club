@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "BUCKLE UP BABY" on Thu, 16 Jul 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "BUCKLE UP BABY" on Thu, 16 Jul 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including a.gar, AceMo, Aleska and Amarji King and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including a.gar, AceMo, Aleska and Amarji King and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 u
 | Sun, 19 Jul 2026 | lack - Happy Hour with Martini | Martini (2) |
 | Mon, 20 Jul 2026 | Playground of Joggers  | Izzy Holmes, Maddylane, NATALIA., Rhino Clark, beautidotcom |
 | Tue, 21 Jul 2026 | Shadow Work NYC: Open Decks + Club Takeover with Daniro, DJ Freedem, BABEITSPURR, NEU NEU, HBE | BABEITSPURR, DJ Freedem, Daniro |
-| Thu, 23 Jul 2026 | SKIN2SKIN | Amarji King, BLAIZE, SEXINCHURCH |
+| Wed, 22 Jul 2026 | TECHNO SESSION CRUD0 x BOSSANOVA |  |
 
 ## Address
 

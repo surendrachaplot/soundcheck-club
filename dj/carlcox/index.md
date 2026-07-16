@@ -19,7 +19,7 @@ Carl Cox is a techno and house artist tracked on soundcheck, with 128 sets logge
 | Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |
 | Sun, 30 Aug 2026 | [UNVRS] | Ibiza |
 | Sun, 30 Aug 2026 | Live From Wythenshawe Park | Manchester |
-| Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
+| Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
 

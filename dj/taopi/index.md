@@ -1,13 +1,14 @@
 # Taopi
 
-Taopi is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Azumaya, Tokyo on Wed, 22 Jul 2026.
+Taopi is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Aoyama Hachi, Tokyo on Thu, 16 Jul 2026.
 
-Taopi is a minimal and house artist based in Japan, tracked on soundcheck, with 58 sets logged across Tokyo. Often billed alongside Bi-Polar, Rimo and Air.. Next up: Azumaya, Tokyo on Wed 22 Jul.
+Taopi is a house and minimal artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Bi-Polar, Rimo and Air.. Next up: Aoyama Hachi, Tokyo on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 16 Jul 2026 | Aoyama Hachi | Tokyo |
 | Wed, 22 Jul 2026 | Azumaya | Tokyo |
 | Sat, 1 Aug 2026 | Monkeybar | Tokyo |
 

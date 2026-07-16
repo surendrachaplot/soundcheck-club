@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Glasgow on Fri, 24 Jul 2026.
+Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Glasgow on Fri, 24 Jul 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: TBA, Glasgow on Fri 24 Jul.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: TBA, Glasgow on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 204 sets
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
-| Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 

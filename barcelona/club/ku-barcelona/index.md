@@ -11,9 +11,9 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nigh
 | Sun, 19 Jul 2026 | KU pres. Levi, Saldivar, Luca, CVALM | Caste, Luca (4), Saldivar |
 | Sun, 19 Jul 2026 | Ku presents LEVI | Levi (AU) |
 | Sun, 26 Jul 2026 | SIGHT pres. Oden & Fatzo, KOKO B2B BizZa, Jan, Caste | BizZa, Caste, Fatzo, Jan, KOKO (IT), Oden, Tommy Phillips |
-| Sun, 2 Aug 2026 | SIGHT pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA | Claptone, MIGANOVA, VITE |
+| Sun, 2 Aug 2026 | SIGHT & Sinner pres. Claptone, Alexander Som, Luka Kuhnow, VITE b2b MIGANOVA | Claptone, MIGANOVA, VITE |
 | Sun, 9 Aug 2026 | SIGHT pres. James Hype, Alex Now, LA CINTIA, Pau Guilera | Alex Now, James Hype (UK), Pau Guilera |
-| Sun, 16 Aug 2026 | SIGHT & Vagalum pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo | Marcel BS, Sonny Fodera, Xandro, jose fajardo |
+| Sun, 16 Aug 2026 | SIGHT & Bonbonniere pres. Sonny Fodera, Xandro, Marcel BS, jose fajardo | Marcel BS, Sonny Fodera, Xandro, jose fajardo |
 | Sun, 23 Aug 2026 | SIGHT & Valhalla pres. Korolova, Prophecy, JP Candela, Rivellino | JP Candela, Korolova, Rivellino |
 | Sun, 30 Aug 2026 | SIGHT pres. THEMBA, PAUZA, Marcel BS, Marian Ariss | Marcel BS, Marian Ariss, PAUZA, THEMBA |
 

@@ -14,7 +14,7 @@ Loco Dice is a tech house and house artist tracked on soundcheck, with 199 sets 
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
 | Fri, 21 Aug 2026 | Pacha New York | New York City |
 | Sun, 30 Aug 2026 | Los Angeles State Historic Park | Los Angeles |
-| Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
+| Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Carroponte | Milan |

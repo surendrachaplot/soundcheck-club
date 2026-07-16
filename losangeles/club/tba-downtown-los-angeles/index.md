@@ -9,7 +9,7 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Certified Groovers: ARTUR & GILBERTO [all night long] | Artur (US), Gilbert0 |
-| Sat, 1 Aug 2026 | Certified Groovers with Demuir | Demuir |
+| Sat, 1 Aug 2026 | Certified Groovers with Demuir, Juliet Mendoza & More… | Demuir |
 | Fri, 7 Aug 2026 | Lights Down Low feat. dh2 Takeover | George Daniel, Nikki Nair |
 | Sat, 8 Aug 2026 | Midnight Lovers with Isaac Carter, Harrison BDP, Lubelski | Harrison BDP, Isaac Carter, Lubelski |
 | Fri, 25 Sept 2026 | Certified Groovers: Gene On Earth in LA | Gene On Earth |

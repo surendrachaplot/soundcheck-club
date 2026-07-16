@@ -9,7 +9,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 14 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Electroclash 3: Grimes, New Order, LCD Soundsystem + more |  |
-| Sat, 18 Jul 2026 | All Night Northern Soul with Nick Raine & Russell Fenby |  |
+| Sat, 18 Jul 2026 | All Night Northern Soul [w/ WC 3RD PLACE GAME IN ATRIUM] |  |
 | Sun, 19 Jul 2026 | WC: FINAL ARG VS SPAIN |  |
 | Fri, 24 Jul 2026 | Bran Rot & Friends |  |
 | Sat, 25 Jul 2026 | PRIDE: Notts C*nty |  |

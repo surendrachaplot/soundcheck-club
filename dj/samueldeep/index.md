@@ -1,8 +1,8 @@
 # Samuel Deep
 
-Samuel Deep is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club Colette, Birmingham on Sat, 18 Jul 2026.
+Samuel Deep is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club Colette, Birmingham on Sat, 18 Jul 2026.
 
-Samuel Deep is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Club Colette, Birmingham on Sat 18 Jul.
+Samuel Deep is a house and techno artist tracked on soundcheck, with 179 sets logged across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Club Colette, Birmingham on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Samuel Deep is a house and techno artist tracked on soundcheck, with 178 sets lo
 | Sat, 29 Aug 2026 | Lofi | Amsterdam |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Sat, 19 Sept 2026 | The Loft | Manchester |
 
 ## Recently played
 

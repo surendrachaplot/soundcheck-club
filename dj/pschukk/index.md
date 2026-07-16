@@ -1,14 +1,15 @@
 # Pschukk
 
-Pschukk is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Paloma, Berlin on Fri, 17 Jul 2026.
+Pschukk is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Paloma, Berlin on Fri, 17 Jul 2026.
 
-Pschukk is a house and progressive house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Munich. Often billed alongside sleeptwitch, ayu bi and Keex. Next up: Paloma, Berlin on Fri 17 Jul.
+Pschukk is a house and progressive house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside sleeptwitch, ayu bi and Keex. Next up: Paloma, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Paloma | Berlin |
+| Sat, 25 Jul 2026 | TBA | Leipzig |
 | Wed, 19 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 29 Aug 2026 | TBA - Berlin | Berlin |
 

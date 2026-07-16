@@ -16,7 +16,7 @@ RADION is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, w
 | Sat, 1 Aug 2026 | Dekmantel At Night - Saturday | AMORAL, Decoder, JASSS, Jasmín, Luke Slater, Ottagone, Sandrien, Steffi |
 | Sun, 2 Aug 2026 | Dekmantel At Night - Sunday | Aaron J, DJ MARIA., Fadi Mohem, GiGi FM, Hitam, Marco Shuttle, Oscar Mulero, Sarkawt Hamad, Woody92 |
 | Fri, 7 Aug 2026 | RADION invites Justine Perry | Justine Perry, Paula Koski, Virginia |
-| Sat, 8 Aug 2026 | RADION invites GEGEN | BOYCA, Boris, Mar/us, Mila Haj Kasem, Nymed, Shadysnack, Spikey Lee, Yigit |
+| Sat, 8 Aug 2026 | RADION invites GEGEN | BOYCA, Boris, Juan Del Chambo, Mar/us, Mila Haj Kasem, Nymed, Shadysnack, Spikey Lee, Yigit |
 | Sat, 8 Aug 2026 | RADION invites Justine Perry | Justine Perry, Paula Koski, Virginia |
 
 ## Address

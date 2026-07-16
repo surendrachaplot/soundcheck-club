@@ -1,8 +1,8 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Prosumer is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
 
-Prosumer is a house and techno artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Prosumer is a house and techno artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,9 +10,11 @@ Prosumer is a house and techno artist tracked on soundcheck, with 163 sets logge
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Fri, 17 Jul 2026 | Fidelity Studio | Dublin |
+| Sat, 18 Jul 2026 | TBA - Shipyards North Vancouver | Vancouver |
 | Fri, 31 Jul 2026 | Trädgården | Stockholm |
 | Sat, 15 Aug 2026 | The Cause | London |
 | Sat, 22 Aug 2026 | La Terrrazza | Barcelona |
+| Fri, 28 Aug 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 29 Aug 2026 | Lofi | Amsterdam |
 | Tue, 8 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |

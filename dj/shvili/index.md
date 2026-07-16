@@ -1,8 +1,8 @@
 # Shvili
 
-Shvili is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mtkvarze, Tbilisi on Fri, 17 Jul 2026.
+Shvili is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mtkvarze, Tbilisi on Fri, 17 Jul 2026.
 
-Shvili is a house and techno artist tracked on soundcheck, with 119 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: Mtkvarze, Tbilisi on Fri 17 Jul.
+Shvili is a house and techno artist tracked on soundcheck, with 120 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: Mtkvarze, Tbilisi on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Shvili is a house and techno artist tracked on soundcheck, with 119 sets logged 
 | Fri, 24 Jul 2026 | Bassiani | Tbilisi |
 | Fri, 28 Aug 2026 | Bassiani | Tbilisi |
 | Sat, 5 Sept 2026 | Under the K Bridge | New York City |
+| Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 

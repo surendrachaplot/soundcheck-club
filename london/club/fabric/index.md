@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 24 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "MTRNM: Emmanuel Jal, AJNA, Sam Karam, OSCAAR, Cris Cioata, Umaedo, Rahbani" on Fri, 17 Jul 2026.
+fabric is a music venue in London with 25 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "MTRNM: Emmanuel Jal, AJNA, Sam Karam, OSCAAR, Cris Cioata, Umaedo, Rahbani" on Fri, 17 Jul 2026.
 
-fabric is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Adriatique, A For Alpha, Agoria and A Hard Day's Dance and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including Adriatique, A For Alpha, Agoria and A Hard Day's Dance and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 

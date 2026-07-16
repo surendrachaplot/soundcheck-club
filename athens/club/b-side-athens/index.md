@@ -1,8 +1,8 @@
 # B side Athens
 
-B side Athens is a music venue in Athens with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Fragk" on Thu, 16 Jul 2026.
+B side Athens is a music venue in Athens with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Fragk" on Thu, 16 Jul 2026.
 
-B side Athens is a music venue in Athens listed on soundcheck. 3 upcoming nights, with line-ups including ClubKid, MOSHBEAT, Plagger and TYPEO (3). Browse upcoming dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
+B side Athens is a music venue in Athens listed on soundcheck. 5 upcoming nights, with line-ups including ClubKid, Deadly 8, MOSHBEAT and Nikos Thanos and 2 more. Browse upcoming dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
 
 ## What's on
 
@@ -10,6 +10,8 @@ B side Athens is a music venue in Athens listed on soundcheck. 3 upcoming nights
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Fragk |  |
 | Fri, 17 Jul 2026 | CkubKid *all night long* | ClubKid |
+| Sat, 18 Jul 2026 | Deadly 8 / VaYaV / Simos Ares | Deadly 8, Simos Ares, VaYaV |
+| Sun, 19 Jul 2026 | Nikos Thanos | Nikos Thanos |
 | Sat, 1 Aug 2026 | Techno Underdogs - Free Entrance | MOSHBEAT, Plagger, TYPEO (3) |
 
 ## Address

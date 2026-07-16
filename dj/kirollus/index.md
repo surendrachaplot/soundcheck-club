@@ -1,8 +1,8 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
+Kirollus is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 528 Ibiza, Ibiza on Thu, 23 Jul 2026.
 
-Kirollus is a house and disco artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: 528 Ibiza, Ibiza on Thu 23 Jul.
+Kirollus is a house and disco artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: 528 Ibiza, Ibiza on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Kirollus is a house and disco artist tracked on soundcheck, with 137 sets logged
 | Sat, 22 Aug 2026 | fabric | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | Concorde 2 | Brighton |
+| Sun, 6 Sept 2026 | Lofi | Amsterdam |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 

@@ -1,8 +1,8 @@
 # Disc Jockey George
 
-Disc Jockey George is a House and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Marble Bar, Detroit on Fri, 17 Jul 2026.
+Disc Jockey George is a House and Ghetto Tech artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Marble Bar, Detroit on Fri, 17 Jul 2026.
 
-Disc Jockey George is a house and ghetto tech artist tracked on soundcheck, with 66 sets logged across Denver and Detroit. Often billed alongside JMT (2), Duck Trash and AK (US). Next up: Marble Bar, Detroit on Fri 17 Jul.
+Disc Jockey George is a house and ghetto tech artist tracked on soundcheck, with 67 sets logged across Denver and Detroit. Often billed alongside JMT (2), Duck Trash and AK (US). Next up: Marble Bar, Detroit on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Disc Jockey George is a house and ghetto tech artist tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Marble Bar | Detroit |
 | Fri, 17 Jul 2026 | TBA - MJ’s North End Ice Cream | Detroit |
+| Thu, 23 Jul 2026 | Lincoln Factory | Detroit |
 | Thu, 13 Aug 2026 | TV Lounge | Detroit |
 | Thu, 13 Aug 2026 | Tangent Gallery | Detroit |
 

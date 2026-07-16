@@ -1,8 +1,8 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Blasha & Allatt is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 267 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 268 sets logged across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 267 sets 
 | Fri, 31 Jul 2026 | RADION | Amsterdam |
 | Thu, 6 Aug 2026 | Klangtherapie | Nürnberg |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
+| Sat, 29 Aug 2026 | Macadam | Nantes |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
-| Sat, 19 Sept 2026 | WaV | Liverpool |
 
 ## Recently played
 

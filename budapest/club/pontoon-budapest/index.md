@@ -1,8 +1,8 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bridge Social Club: Jaffa Surfa + Imperatrice - MöB + Stark - Lau" on Thu, 16 Jul 2026.
+Pontoon Budapest is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bridge Social Club: Jaffa Surfa + Imperatrice - MöB + Stark - Lau" on Thu, 16 Jul 2026.
 
-Pontoon Budapest is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including baeker, Blas, Daniel Moritz and DJ Crimson and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
+Pontoon Budapest is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including baeker, Blas, CT Kidobó and Daniel Moritz and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 8 upcoming n
 | Fri, 24 Jul 2026 | baeker invites: Hyphen & PJ Statham (UK) ~ Pontoon | Helena Lua, Hyphen, Maresz, PJ Statham, baeker |
 | Sat, 25 Jul 2026 | Ramazuri: Kirill & Kernel All Night Long ~ Pontoon | Dubtist, Kirill. |
 | Sun, 26 Jul 2026 | Sunday Sundown Hungarian GP After 26th July - Pontoon | Ratkay, StereoStrip, Viktor Bondar |
+| Thu, 6 Aug 2026 | DD10YRS Night: Hadron Lundgren live, CT Kidobó, Imre Kiss, S Olbricht, DDSS | CT Kidobó, Hadron Lundgren, Imre Kiss, Max Sinclair, S Olbricht |
 | Sat, 8 Aug 2026 | Mennefer V by Memphis ~ Pontoon | Kozma, Rovizz |
 
 ## Address

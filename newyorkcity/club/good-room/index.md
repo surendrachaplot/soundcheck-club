@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Analog Soul (all night), Gee Dee + Extra Andrew (all night)" on Fri, 17 Jul 2026.
+Good Room is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Analog Soul (all night), Gee Dee + Extra Andrew (all night)" on Fri, 17 Jul 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including 4AM NYC, Analog Soul, Anish Kumar and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including 4AM NYC, Analog Soul, Anish Kumar and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nigh
 | Sat, 1 Aug 2026 | Baltra, Cosmo, Gianna and Fabiola (all night) | Baltra, Cosmo (NY), Fabiola, Gianna G |
 | Fri, 7 Aug 2026 | FIXED with JDH & Dave P (all night), Tiago, Benjamin Roeder | Benjamin Roeder, JDH & Dave P, Tiago DJ |
 | Sat, 8 Aug 2026 | Shubostar, Irena Stanisic, Armii1n, Choukroun, Tim Lucent  | Armii1n, Choukroun, Irena Stanisic, Shubostar, Tim Lucent |
+| Fri, 14 Aug 2026 | Prove It All Night (Andrew VanWyngarden of MGMT), Arianna Danae b2b Sean Sato | Arianna Danae, Sean Sato |
 | Fri, 21 Aug 2026 | Anish Kumar, Extra Meesh, Alyssa Stowers, John Silas | Anish Kumar, Extra Meesh, John Silas |
-| Sat, 22 Aug 2026 | Darker Than Wax ft FFAN, Marco Weibel, Xica Soul, Ben Hixon | Ben Hixon, FFAN, Marco Weibel, Xica Soul |
 
 ## Address
 

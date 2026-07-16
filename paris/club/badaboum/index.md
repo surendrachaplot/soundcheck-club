@@ -16,7 +16,7 @@ Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming nights, wit
 | Sat, 25 Jul 2026 | Club — rythme brisé, Alice Yuki, holandês, Hyperlison, Yoko Ûno | Aliceyuki, Rythme Brisé, holandês |
 | Fri, 31 Jul 2026 | Club — Anastazja, Kx9000, Plage84, Sahar Bagherpour | Anastazja, Kx9000, Plage 84 |
 | Sat, 1 Aug 2026 | Club — De La Groove x System Sol | System Sol |
-| Fri, 7 Aug 2026 | Club — D.KO Records: Swooh, Hanzo Tono, Surprise Guest | Hanzo Tono, Swooh |
+| Fri, 7 Aug 2026 | Club — D.KO Records x QUERICO: Swooh, Hanzo Tono, Surprise Guest | Hanzo Tono, Swooh |
 | Sat, 8 Aug 2026 | Club — Kabylie Minogue (all night long) | Kabylie Minogue |
 
 ## Address

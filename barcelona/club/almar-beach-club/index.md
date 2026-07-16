@@ -11,7 +11,7 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 10 upcoming
 | Sat, 18 Jul 2026 | FREE BEACH PARTY: ¿Why So Serious? July 2026 Edition (Deep House, Melodic House) | HAY:LI, Pj Winterman |
 | Sun, 19 Jul 2026 | PEAK SYSTEM Open Air Beach | KRISTINA PI |
 | Fri, 24 Jul 2026 | Free Beach Party: EOK x ANK | Civaro, Djoan, Marco Aurelio, Miguel Silva, TO LE |
-| Sat, 25 Jul 2026 | NEST at the Beach |  |
+| Sat, 25 Jul 2026 | FREE BEACH PARTY: NEST Microfest at the beach |  |
 | Sun, 26 Jul 2026 | [FREE OPEN AIR beach party] INPUT Goes To The Beach with Carl Craig | Carl Craig |
 | Fri, 31 Jul 2026 | OPEN AIR BEACH PARTY by Kazanova Club [Free Tickets] | GEMMA (ES), Jo Kazan, Matthew Bell, SORIANO |
 | Sat, 1 Aug 2026 | Veridis Quo at The Beach! 2-Year Anniversary | Chadi, DJ Gamba, Ulla |

@@ -1,13 +1,15 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "COOPER SMITH" on Sat, 1 Aug 2026.
+Chinese Laundry is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Chinese Laundry - MONDE SONIQ + Deverence & FRIENDS TAKEOVER" on Fri, 17 Jul 2026.
 
-Chinese Laundry is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
+Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Deverence. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Chinese Laundry - MONDE SONIQ + Deverence & FRIENDS TAKEOVER | Deverence |
+| Sat, 18 Jul 2026 | Chinese Laundry - ENTITY FULL VENUE TAKEOVER |  |
 | Sat, 1 Aug 2026 | COOPER SMITH |  |
 
 ## Address

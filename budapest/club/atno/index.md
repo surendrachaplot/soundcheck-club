@@ -9,7 +9,7 @@ Atno is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | ◉ RIGHT TIME - TRIPPIN' ON SUNSHINE ◉ | Aikatherina, Benc, Mentalien |
-| Sat, 18 Jul 2026 | FREE SEQUENCE LABEL NIGHT #02 | Disandat, SLYM, Vava (1), ZEL.ζ, ZSÁGER BALÁZS, sabw.ay |
+| Fri, 24 Jul 2026 | FREE SEQUENCE LABEL NIGHT #02 | Disandat, SLYM, Vava (1), ZEL.ζ, ZSÁGER BALÁZS, sabw.ay |
 | Sat, 25 Jul 2026 | KÉZ- ÉS LÁBTÖRÉST + FAMILY FAST PRES. Breakforce One | Breakforce One |
 | Fri, 31 Jul 2026 | 4tune invites Slayphex Twins | 96zen, Helena Lua, Slayphex Twins |
 | Sat, 1 Aug 2026 | OÁZIS INVITES Vass (UK) | KINGA, Krics, ML91, Nermo, Vass, quasi quasi |

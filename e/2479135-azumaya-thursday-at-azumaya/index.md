@@ -1,6 +1,6 @@
 # Azumaya -Thursday- at Azumaya
 
-Azumaya -Thursday- on Thu 16 Jul, Tokyo. 3 acts on the bill: Kobashi Mitsuki, PIRANHA and Rio (QPLO). Techno and House. Preview the line-up and save it on soundcheck.
+Azumaya -Thursday- on Thu 16 Jul, Tokyo. 4 acts on the bill: Kobashi Mitsuki, PIRANHA, Rio (QPLO) and kuniii. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Azumaya -Thursday- on Thu 16 Jul, Tokyo. 3 acts on the bill: Kobashi Mitsuki, PI
 - Kobashi Mitsuki
 - PIRANHA
 - Rio (QPLO)
+- kuniii
 
 *Source: [soundcheck](https://soundcheck.club/e/2479135-azumaya-thursday-at-azumaya/)*

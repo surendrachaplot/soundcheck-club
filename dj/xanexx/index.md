@@ -9,7 +9,7 @@ Xanexx is a techno and house artist based in South Korea, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | vurt. | Seoul |
-| Sat, 25 Jul 2026 | teller | Seoul |
+| Fri, 24 Jul 2026 | teller | Seoul |
 
 ## Recently played
 

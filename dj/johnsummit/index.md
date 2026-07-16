@@ -1,13 +1,14 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at [UNVRS], Ibiza on Mon, 20 Jul 2026.
+John Summit is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cavo Paradiso, Mykonos on Fri, 17 Jul 2026.
 
-John Summit is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: [UNVRS], Ibiza on Mon 20 Jul.
+John Summit is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: Cavo Paradiso, Mykonos on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Cavo Paradiso | Mykonos |
 | Mon, 20 Jul 2026 | [UNVRS] | Ibiza |
 | Mon, 27 Jul 2026 | [UNVRS] | Ibiza |
 | Fri, 31 Jul 2026 | Grant Park | Chicago |

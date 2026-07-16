@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | 2 Years of BLEND with Pierre Johnson, Shamiso, Miči + more | Leeda, Miči, Pierre Johnson, Shamiso, The Almanac |
-| Sat, 18 Jul 2026 | Longevity Rave - DAY RAVE | D LAI, Kazuki Takahashi, TELT, Tina Technotic, Yukari |
+| Sat, 18 Jul 2026 | Longevity Rave - DAY RAVE + ENGLAND VS FRANCE WATCH PARTY | D LAI, Kazuki Takahashi, TELT, Tina Technotic, Yukari |
 | Sat, 22 Aug 2026 | OnAir x Southern Sounds - Summer Session at 45 & 7 London |  |
 | Fri, 28 Aug 2026 | Circle Presents | Azire, Eni (3), Frenchhh, MXT (UK) |
 

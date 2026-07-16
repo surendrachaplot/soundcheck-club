@@ -1,14 +1,15 @@
 # NIIXII
 
-NIIXII is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
+NIIXII is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
 
-NIIXII is an afro house and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Bucharest and Frankfurt and 2 more. Often billed alongside ERRANT, Jazz K and Isa Rojas. Next up: La Terrrazza, Barcelona on Sat 18 Jul.
+NIIXII is an afro house and house artist based in Spain, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Bucharest and Frankfurt and 2 more. Often billed alongside ERRANT, Jazz K and Isa Rojas. Next up: La Terrrazza, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | La Terrrazza | Barcelona |
+| Sun, 19 Jul 2026 | Azul Rooftop Barceloneta | Barcelona |
 | Sat, 15 Aug 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Fake Agent
 
-Fake Agent is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Holešovice, Prague on Sat, 1 Aug 2026.
+Fake Agent is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
 
-Fake Agent is a techno and tech house artist tracked on soundcheck, with 23 sets logged across Prague. Often billed alongside Adamatron, Pink Concrete and aláya. Next up: TBA - Holešovice, Prague on Sat 1 Aug.
+Fake Agent is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Adamatron, Pink Concrete and aláya. Next up: Bike Jesus, Prague on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 24 Jul 2026 | Bike Jesus | Prague |
 | Sat, 1 Aug 2026 | TBA - Holešovice | Prague |
 | Sat, 8 Aug 2026 | Ankali & Planeta Za | Prague |
 | Fri, 14 Aug 2026 | Altenburg 1964 | Prague |

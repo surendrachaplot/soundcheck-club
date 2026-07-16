@@ -1,8 +1,8 @@
 # SOBs
 
-SOBs is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "¡Baila Bachata! Dance Class & Happy Hour" on Fri, 17 Jul 2026.
+SOBs is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "¡Baila Bachata! Dance Class & Happy Hour" on Fri, 17 Jul 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including BlackDanielWhite. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including BlackDanielWhite. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
@@ -17,6 +17,7 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, wi
 | Fri, 31 Jul 2026 | M.E - NYC Debut |  |
 | Fri, 31 Jul 2026 | Sak Pasé: Haitian Fridays Debut |  |
 | Fri, 7 Aug 2026 | Salsa Groove: Dance Class & Happy Hour |  |
+| Fri, 14 Aug 2026 | Otis Kane |  |
 
 ## Address
 

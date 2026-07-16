@@ -11,7 +11,7 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 | Sat, 25 Jul 2026 | Seaseaclub Barcelona | Barcelona |
 | Thu, 30 Jul 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 21 Aug 2026 | Bolivar Beach Bar | Athens |
-| Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
+| Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Sat, 12 Sept 2026 | Malkin Bowl | Vancouver |
 | Sat, 19 Sept 2026 | TBA - Autodromo de Buenos Aires | Buenos Aires |
 | Sat, 26 Sept 2026 | BERHTA | Washington DC |

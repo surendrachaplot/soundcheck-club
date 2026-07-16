@@ -1,8 +1,8 @@
 # Lady Shaka
 
-Lady Shaka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Worm, Rotterdam on Sat, 25 Jul 2026.
+Lady Shaka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Worm, Rotterdam on Sat, 25 Jul 2026.
 
-Lady Shaka is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside nasthug, ryota dj and Arthi. Next up: Worm, Rotterdam on Sat 25 Jul.
+Lady Shaka is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside nasthug, ryota dj and Arthi. Next up: Worm, Rotterdam on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lady Shaka is a house and techno artist tracked on soundcheck, with 80 sets logg
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Worm | Rotterdam |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
+| Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

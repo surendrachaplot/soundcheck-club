@@ -11,10 +11,10 @@ ZeyZey is a music venue in Miami listed on soundcheck. 14 upcoming nights, with 
 | Fri, 17 Jul 2026 | Robert Owens (Free Entry before 11:00pm) | Austen van der Bleek, Jon Q, Robert Owens |
 | Fri, 17 Jul 2026 | Omni SoundSpace presents: Gum.mp3 |  |
 | Sat, 18 Jul 2026 | Omni Soundspace presents: gum.mp3 | gum.mp3 |
-| Sat, 18 Jul 2026 | presented by Palo Santo: Einmusik |  |
+| Sat, 18 Jul 2026 | presented by Palo Santo: Einmusik (FREE RSVP) |  |
 | Fri, 31 Jul 2026 | Simon Doty | Simon Doty |
 | Sat, 1 Aug 2026 | DR. GABBA |  |
-| Sat, 1 Aug 2026 | L'Eclair + Charlie Chimi |  |
+| Sat, 1 Aug 2026 | L'Eclair + Charlie Chimi (FREE RSVP) |  |
 | Sat, 8 Aug 2026 | shekdash | shekdash |
 | Fri, 14 Aug 2026 | Le Youth + Eric Luttrell | Le Youth, Luttrell |
 | Sat, 15 Aug 2026 | Sam Binga | Sam Binga |

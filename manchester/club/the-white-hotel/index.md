@@ -16,7 +16,7 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 30 upcoming
 | Sat, 25 Jul 2026 | Meat Free Summer Party Pt.2 | Comrade Winston, Lacchesi, Virginia |
 | Sun, 26 Jul 2026 | Sunday Club - Eris Drew & Octo Octa, Finn, Esqueezy & BFTT | BFTT, Eris Drew, Esqueezy, Finn, Octo Octa |
 | Fri, 31 Jul 2026 | Ordinary Friends presents Spray | Spray |
-| Sat, 1 Aug 2026 | NEW WORLD: X.P.404 [A NEW Day:W0RLD4PARTY] | CITYTRONIX, Chande, FURIOUS STYLES, M.I.C (The Master of Inane Conversation), SHERI (2) |
+| Sat, 1 Aug 2026 | NEW WORLD: X.P.404: Chande / CITYTRONIX / FURIOUS STYLES / M.I.C [MC/Live] / Myoozli / SHERI | CITYTRONIX, Chande, FURIOUS STYLES, M.I.C (The Master of Inane Conversation), SHERI (2) |
 | Sat, 1 Aug 2026 | Freak Queer Rave w/ TEDESCO, Michael Upson, Bekefi, Jus'T | Bekefi, Jus’T, Michael Upson, TEDESCO |
 
 ## Address

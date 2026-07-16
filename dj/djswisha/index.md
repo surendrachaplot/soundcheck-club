@@ -1,8 +1,8 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
+DJ SWISHA is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Razzmatazz, Barcelona on Sat, 18 Jul 2026.
 
-DJ SWISHA is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
+DJ SWISHA is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Razzmatazz, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 186 sets logg
 | Sat, 18 Jul 2026 | Razzmatazz | Barcelona |
 | Fri, 24 Jul 2026 | TBA | San Diego |
 | Thu, 30 Jul 2026 | TBA - Downtown | Los Angeles |
+| Sat, 1 Aug 2026 | Art Club | Houston |
 | Sat, 8 Aug 2026 | Paragon | New York City |
 | Sat, 15 Aug 2026 | Nowadays | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |

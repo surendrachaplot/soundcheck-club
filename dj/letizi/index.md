@@ -1,8 +1,8 @@
 # Le TIZI
 
-Le TIZI is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 25 Jul 2026.
+Le TIZI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Phoxxi Green Area, Hamburg on Sat, 25 Jul 2026.
 
-Le TIZI is a house and tech house artist tracked on soundcheck, with 9 sets logged across Berlin, Hamburg, Munich and Newyorkcity. Often billed alongside Ede, AKVA and ALADAG. Next up: Phoxxi Green Area, Hamburg on Sat 25 Jul.
+Le TIZI is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg, Munich and Newyorkcity. Often billed alongside Concentio, Confred and Ede. Next up: Phoxxi Green Area, Hamburg on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Le TIZI is a house and tech house artist tracked on soundcheck, with 9 sets logg
 | Sat, 25 Jul 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 8 Aug 2026 | Amano East-Side | Berlin |
 | Sat, 15 Aug 2026 | SAGE | Berlin |
+| Fri, 28 Aug 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Le TIZI is a house and tech house artist tracked on soundcheck, with 9 sets logg
 
 ## Shares bills with
 
-Ede, AKVA, ALADAG
+Concentio, Confred, Ede
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*

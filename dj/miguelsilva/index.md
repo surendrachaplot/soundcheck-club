@@ -1,8 +1,8 @@
 # Miguel Silva
 
-Miguel Silva is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 23 Jul 2026.
+Miguel Silva is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sunseabar Beach Club, Barcelona on Thu, 23 Jul 2026.
 
-Miguel Silva is a techno and house artist based in Chile, tracked on soundcheck, with 111 sets logged across Barcelona, Berlin, Bucharest and Newyorkcity and 3 more. Often billed alongside Elwei, Popsky and Djoan. Next up: Sunseabar Beach Club, Barcelona on Thu 23 Jul.
+Miguel Silva is a techno and house artist based in Chile, tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, Bucharest and Newyorkcity and 3 more. Often billed alongside Elwei, Popsky and Djoan. Next up: Sunseabar Beach Club, Barcelona on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Miguel Silva is a techno and house artist based in Chile, tracked on soundcheck,
 | Thu, 23 Jul 2026 | Sunseabar Beach Club | Barcelona |
 | Fri, 24 Jul 2026 | Imperial Private Club | Barcelona |
 | Fri, 24 Jul 2026 | Almar Beach Club | Barcelona |
+| Mon, 17 Aug 2026 | KitKatClub | Berlin |
 
 ## Recently played
 

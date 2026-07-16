@@ -17,7 +17,7 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 182 se
 | Mon, 24 Aug 2026 | Santanna Mykonos | Mykonos |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
+| Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Sat, 12 Sept 2026 | California Plaza | Los Angeles |
 | Sun, 13 Sept 2026 | Beach House San Diego | San Diego |
 

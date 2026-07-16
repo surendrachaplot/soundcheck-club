@@ -1,14 +1,16 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "GIMME GIMME DISCO FEST" on Sat, 18 Jul 2026.
+Lincoln Factory is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Gino, Botez, Nathan Maxwell" on Fri, 17 Jul 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including DJ Nobu. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Botez, britty., Disc Jockey George and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Gino, Botez, Nathan Maxwell | Botez, Gino, Nathan Maxwell |
 | Sat, 18 Jul 2026 | GIMME GIMME DISCO FEST |  |
+| Thu, 23 Jul 2026 | small talk with britty., Lo Dazz, and Disc Jockey George | Disc Jockey George, Lo Dazz, britty. |
 | Sat, 25 Jul 2026 | FIESTA HOUSE |  |
 | Fri, 7 Aug 2026 | EAZYBAKED x DISTINCT MOTIVE |  |
 | Sat, 22 Aug 2026 | DJ Nobu - Lincoln Factory | DJ Nobu |

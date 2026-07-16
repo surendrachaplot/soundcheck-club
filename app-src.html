@@ -2814,6 +2814,21 @@
     .fp-ev-follow.on{ background:var(--surface-2); color:var(--accent); border-color:var(--accent); } .fp-ev-follow:hover{ border-color:var(--accent); }
     .fp-ev-addr{ font:600 12px var(--font-mono); letter-spacing:.04em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
     .fp-ev-dir{ font:700 12px var(--body); letter-spacing:.05em; text-transform:uppercase; color:var(--accent); cursor:pointer; text-decoration:none; }
+    /* ── Mobile type trim (≤620px) — display headings ran desktop-scale on phones.
+       Placed after the base rules so these win when the query matches. Body sizes
+       (--fs-base/sm/xs) are left alone for legibility; only heading tokens + the big
+       display headings shrink. Event page trimmed a touch further (its own overrides). ── */
+    @media (max-width:620px){
+      :root{ --fs-lg:1.25rem; --fs-xl:1.45rem; --fs-2xl:1.72rem; }
+      .page-title{ font-size:30px; }
+      .fp-h1{ font-size:28px; }
+      .pfh-name{ font-size:1.45rem; }
+      .fp-ev-title{ font-size:21px; line-height:1.08; }
+      .fp-ev-venue{ font-size:18px; }
+      .fp-ev-blurb{ font-size:14px; line-height:1.55; }
+      .fp-ev-loc-v b{ font-size:17px; }
+      .fp-ev-meta{ font-size:11px; }
+    }
     /* isolation:isolate traps Leaflet's high internal z-indexes so the player dock (z 60) sits on top — same fix as .venue-map */
     .fp-ev-map{ min-height:200px; background:var(--surface-2); position:relative; z-index:0; isolation:isolate; }
     .fp-ev-map .leaflet-container{ height:100%; min-height:200px; }
@@ -2990,7 +3005,7 @@
     .evc-play:focus-visible, .fp-ab.go:focus-visible, .fp-pb.go:focus-visible, .play-main:focus-visible,
     .radio-fab:focus-visible, .auth-box .go:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(255,154,61,.45); }
 </style>
-<meta name="sc-build" content="1784203848820">
+<meta name="sc-build" content="1784211971458">
 </head>
 <body>
   <main class="wrap">
@@ -3038,7 +3053,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-16/">Thu 16 Jul <span class="c">31 events</span></a></li><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">98 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">152 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">10 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-16/">Thu 16 Jul <span class="c">31 events</span></a></li><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">98 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">153 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">21 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">10 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.

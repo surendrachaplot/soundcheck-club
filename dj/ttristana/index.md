@@ -1,14 +1,15 @@
 # TTristana
 
-TTristana is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Palais de Tokyo, Paris on Sat, 25 Jul 2026.
+TTristana is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Palais de Tokyo, Paris on Sat, 25 Jul 2026.
 
-TTristana is a techno and experimental artist based in France, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, vendredear and Alexi Shell. Next up: Palais de Tokyo, Paris on Sat 25 Jul.
+TTristana is a techno and experimental artist based in France, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, vendredear and Alexi Shell. Next up: Palais de Tokyo, Paris on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Palais de Tokyo | Paris |
+| Fri, 7 Aug 2026 | Unité.22 | Marseille |
 | Sat, 15 Aug 2026 | Le Sucre | Lyon |
 | Sat, 29 Aug 2026 | essaim | Paris |
 

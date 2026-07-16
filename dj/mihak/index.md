@@ -9,7 +9,7 @@ Mihak is a tech house and electro artist tracked on soundcheck, with 136 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Paper | Seoul |
-| Fri, 24 Jul 2026 | teller | Seoul |
+| Sat, 25 Jul 2026 | teller | Seoul |
 
 ## Recently played
 

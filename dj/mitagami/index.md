@@ -13,7 +13,7 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 134 sets logg
 | Sat, 1 Aug 2026 | TBA - YAANGA PARK | Los Angeles |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 8 Aug 2026 | Hï Ibiza | Ibiza |
-| Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
+| Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |

@@ -1,13 +1,14 @@
 # Avangart Tabldot
 
-Avangart Tabldot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Avangart Tabldot is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Scorpios, Mykonos on Sun, 19 Jul 2026.
 
-Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Boston Manor Park, London on Sun 26 Jul.
+Avangart Tabldot is a house and afro house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Mahmut Orhan, Henri Bergmann and Bedouin. Next up: Scorpios, Mykonos on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | Scorpios | Mykonos |
 | Sun, 26 Jul 2026 | Boston Manor Park | London |
 | Sun, 9 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | Cova Santa | Ibiza |

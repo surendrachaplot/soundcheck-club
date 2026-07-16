@@ -1,13 +1,14 @@
 # Robin Schulz
 
-Robin Schulz is a House and Electro artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Café del Mar Malta, Malta on Fri, 31 Jul 2026.
+Robin Schulz is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cavo Paradiso, Mykonos on Mon, 20 Jul 2026.
 
-Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 69 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, MistaJam and Nancie. Next up: Café del Mar Malta, Malta on Fri 31 Jul.
+Robin Schulz is a house and electro artist based in Germany, tracked on soundcheck, with 70 sets logged across Barcelona, Bucharest, Cologne and Denver and 14 more. Often billed alongside LOVRA, MistaJam and Nancie. Next up: Cavo Paradiso, Mykonos on Mon 20 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 20 Jul 2026 | Cavo Paradiso | Mykonos |
 | Fri, 31 Jul 2026 | Café del Mar Malta | Malta |
 | Wed, 12 Aug 2026 | Opium Barcelona | Barcelona |
 | Sat, 5 Sept 2026 | Pacha Ibiza | Ibiza |

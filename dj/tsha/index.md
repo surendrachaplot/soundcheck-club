@@ -13,7 +13,7 @@ TSHA is a house and techno artist tracked on soundcheck, with 180 sets logged ac
 | Wed, 12 Aug 2026 | Hï Ibiza | Ibiza |
 | Mon, 7 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
-| Sat, 26 Sept 2026 | TBA - Quinta Mira Rio | Lisbon |
+| Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played

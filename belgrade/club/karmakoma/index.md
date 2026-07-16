@@ -11,7 +11,7 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, 
 | Fri, 17 Jul 2026 | Kim Ann Foxman, Tijana T | Kim Ann Foxman, Tijana T |
 | Sat, 18 Jul 2026 | Eric Duncan, Nikola Vemić | Eric Duncan, Nikola Vemic |
 | Fri, 24 Jul 2026 | William Djoko | Dakman, Gard, William Djoko |
-| Sat, 25 Jul 2026 | Drugstore Garden with Connor Wall | Connor Wall |
+| Sat, 25 Jul 2026 | Drugstore Garden with Connor Wall | Connor Wall, Filip Xavi, Impedance |
 | Sat, 1 Aug 2026 | Hard Techno 'Pure Madness' | ACOR |
 | Thu, 3 Sept 2026 | Nadja (CA) — Drone Doom Legends in Belgrade |  |
 | Fri, 11 Sept 2026 | Apgrade Weekend September 2026 | Ciel, Feloneezy, Gerd Janson, Johana, Lipelis, Nikola Vemic, Objekt, Olgica |

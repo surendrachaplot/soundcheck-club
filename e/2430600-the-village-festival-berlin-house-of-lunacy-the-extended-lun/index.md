@@ -1,6 +1,6 @@
 # The Village Festival Berlin - House of Lunacy & The Extended Luniverse at CLUB OST & RENATE BERLIN
 
-The Village Festival Berlin - House of Lunacy & The Extended Luniverse at CLUB OST & RENATE BERLIN on Fri 21 Aug, Berlin. 17 acts on the bill: ADAM MUNNINGS, ANTYA, Alma Negrot and Better Together and 13 more. Preview the line-up and save it on soundcheck.
+The Village Festival Berlin - House of Lunacy & The Extended Luniverse at CLUB OST & RENATE BERLIN on Fri 21 Aug, Berlin. 20 acts on the bill: ADAM MUNNINGS, ANTYA, Ady Toledano and Alma Negrot and 16 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,13 @@ The Village Festival Berlin - House of Lunacy & The Extended Luniverse at CLUB O
 
 - ADAM MUNNINGS
 - ANTYA
+- Ady Toledano
 - Alma Negrot
 - Better Together
+- Bizzarro Universe
 - Bleach
 - Cook Strummer
+- Cyranotaurus Cortex
 - Dj handbag
 - Emma Keks
 - Franz Scala

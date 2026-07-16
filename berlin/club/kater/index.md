@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Kater x Calypso Cult" on Fri, 17 Jul 2026.
+Kater is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Kater x Calypso Cult" on Fri, 17 Jul 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Nadine Hennig, A.D.H.S., Adriana Ruas and Ahni and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, A.D.H.S. and Adriana Ruas and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 

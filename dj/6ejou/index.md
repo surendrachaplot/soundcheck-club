@@ -1,14 +1,15 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Bassement, Madrid on Fri, 17 Jul 2026.
+6EJOU is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Bassement, Madrid on Fri, 17 Jul 2026.
 
-6EJOU is a techno and industrial artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside KARAH, Raxeller and CARV. Next up: The Bassement, Madrid on Fri 17 Jul.
+6EJOU is a techno and industrial artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside KARAH, Raxeller and CARV. Next up: The Bassement, Madrid on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | The Bassement | Madrid |
+| Sat, 8 Aug 2026 | Hippodrome de Vincennes | Paris |
 | Tue, 11 Aug 2026 | Eden | Ibiza |
 
 ## Recently played

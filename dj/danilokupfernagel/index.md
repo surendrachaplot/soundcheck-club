@@ -1,8 +1,8 @@
 # Danilo Kupfernagel
 
-Danilo Kupfernagel is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Thu, 23 Jul 2026.
+Danilo Kupfernagel is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Thu, 23 Jul 2026.
 
-Danilo Kupfernagel is a techno and tech house artist tracked on soundcheck, with 61 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Thu 23 Jul.
+Danilo Kupfernagel is a techno and tech house artist tracked on soundcheck, with 62 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danilo Kupfernagel is a techno and tech house artist tracked on soundcheck, with
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Sat, 22 Aug 2026 | Distillery | Leipzig |
+| Sat, 19 Sept 2026 | Czech Boat | Prague |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Al Wootton
 
-Al Wootton is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Al Wootton is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Funke, Ghent on Wed, 22 Jul 2026.
 
-Al Wootton is a techno and dub artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 22 more. Often billed alongside Valentina Magaletti, Azu Tiwaline and upsammy. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
+Al Wootton is a techno and dub artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Valentina Magaletti, Azu Tiwaline and upsammy. Next up: Funke, Ghent on Wed 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 22 Jul 2026 | Funke | Ghent |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
 

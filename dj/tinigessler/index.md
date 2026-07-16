@@ -12,7 +12,7 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 126 se
 | Sat, 1 Aug 2026 | [UNVRS] | Ibiza |
 | Sun, 9 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 26 Aug 2026 | Hï Ibiza | Ibiza |
-| Sat, 5 Sept 2026 | TBA - Lisbon Open Air | Lisbon |
+| Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Sat, 12 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 14 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | [UNVRS] | Ibiza |

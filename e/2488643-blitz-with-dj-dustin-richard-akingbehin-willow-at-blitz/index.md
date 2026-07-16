@@ -1,6 +1,6 @@
 # BLITZ with DJ Dustin, Richard Akingbehin, Willow at BLITZ
 
-BLITZ with DJ Dustin, Richard Akingbehin, Willow on Fri 24 Jul, Munich. 3 acts on the bill: DJ Dustin, Richard Akingbehin and Willow. Preview the line-up and save it on soundcheck.
+BLITZ with DJ Dustin, Richard Akingbehin, Willow on Fri 24 Jul, Munich. 3 acts on the bill: DJ Dustin, Richard Akingbehin and Willow. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

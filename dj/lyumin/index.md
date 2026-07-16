@@ -11,7 +11,7 @@ Lyumin is a house and tech house artist based in South Korea, tracked on soundch
 | Thu, 16 Jul 2026 | Hertz | Seoul |
 | Sat, 18 Jul 2026 | teller | Seoul |
 | Sun, 19 Jul 2026 | Paper | Seoul |
-| Fri, 24 Jul 2026 | teller | Seoul |
+| Sat, 25 Jul 2026 | teller | Seoul |
 
 ## Recently played
 
