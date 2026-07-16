@@ -3018,7 +3018,7 @@
     .evc-play:focus-visible, .fp-ab.go:focus-visible, .fp-pb.go:focus-visible, .play-main:focus-visible,
     .radio-fab:focus-visible, .auth-box .go:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(255,154,61,.45); }
 </style>
-<meta name="sc-build" content="1784213320676">
+<meta name="sc-build" content="1784213574500">
 </head>
 <body>
   <main class="wrap">
@@ -6710,9 +6710,8 @@
             var cleanTk=function(s){ return String(s||'').replace(/^\s*\d{1,2}:\d{2}(?::\d{2})?\s*[-–—.)\]]?\s*/,'').replace(/\s{2,}/g,' ').trim(); };
             box.innerHTML='<ol class="tk-list">'+tr.map(function(t,i){
               var txt=cleanTk(t.text);
-              var badge=(t.count>1)?'<span class="tk-ct" title="in '+t.count+' of their sets">&times;'+t.count+'</span>':'';
-              return '<li class="tk-row"'+(t.videoId?' data-vid="'+esc(t.videoId)+'"':'')+' data-sec="'+(t.sec!=null?t.sec:'')+'" data-q="'+esc(txt)+'"><span class="tk-rank">'+(i+1)+'</span><span class="tk-tt">'+esc(txt)+'</span>'+badge+'<span class="tk-play">'+PLAY_SVG+'</span></li>';
-            }).join('')+'</ol>'+(j.nTracklists!=null?'<div class="tk-note">Ranked across '+j.nTracklists+' of '+j.nSets+' sets with a posted tracklist.</div>':'');
+              return '<li class="tk-row"'+(t.videoId?' data-vid="'+esc(t.videoId)+'"':'')+' data-sec="'+(t.sec!=null?t.sec:'')+'" data-q="'+esc(txt)+'"><span class="tk-rank">'+(i+1)+'</span><span class="tk-tt">'+esc(txt)+'</span><span class="tk-play">'+PLAY_SVG+'</span></li>';
+            }).join('')+'</ol>'+(j.nTracklists!=null?'<div class="tk-note">Ranked most-played first, across '+j.nTracklists+' of '+j.nSets+' sets with a posted tracklist.</div>':'');
             box.querySelectorAll('.tk-row').forEach(function(row){ row.addEventListener('click',function(){
               var vid=row.dataset.vid, sec=row.dataset.sec;
               if(vid){ var pb=row.querySelector('.tk-play'); pb.dataset.name=a.name||slug; pb.dataset.venue=row.querySelector('.tk-tt').textContent; playYt(pb, vid, sec?+sec:0); }
