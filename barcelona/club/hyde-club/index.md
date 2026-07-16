@@ -1,6 +1,6 @@
 # Hyde Club
 
-Hyde Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sinergia & Intimate pres. Antrim extended set  " on Fri, 17 Jul 2026.
+Hyde Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sinergia & Intimate pres. Antrim --- Extended Set" on Fri, 17 Jul 2026.
 
 Hyde Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Antrim, Iovino and KELO AR. Browse upcoming dates, start times and who's playing. Passatge de Domingo, 3, 08007 Barcelona.
 
@@ -8,7 +8,7 @@ Hyde Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Sinergia & Intimate pres. Antrim extended set   | Antrim, Iovino, KELO AR |
+| Fri, 17 Jul 2026 | Sinergia & Intimate pres. Antrim --- Extended Set | Antrim, Iovino, KELO AR |
 
 ## Address
 

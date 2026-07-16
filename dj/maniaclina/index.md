@@ -1,8 +1,8 @@
 # maniaclina
 
-maniaclina is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
+maniaclina is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at KitKatClub, Berlin on Fri, 31 Jul 2026.
 
-maniaclina is a techno and electro artist tracked on soundcheck, with 110 sets logged across Barcelona, Berlin, Cologne and Geneva and 9 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: KitKatClub, Berlin on Fri 31 Jul.
+maniaclina is a techno and electro artist tracked on soundcheck, with 111 sets logged across Barcelona, Berlin, Cologne and Geneva and 9 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: KitKatClub, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ maniaclina is a techno and electro artist tracked on soundcheck, with 110 sets l
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | KitKatClub | Berlin |
 | Sat, 1 Aug 2026 | Catonium | Hamburg |
+| Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 
 ## Recently played
 

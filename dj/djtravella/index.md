@@ -1,13 +1,14 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
+DJ Travella is a Singeli and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at DOCK B, Paris on Sat, 18 Jul 2026.
 
-DJ Travella is a singeli and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside Mia Koden, DJ Diaki and Aunty Rayzor. Next up: The Cause, London on Sun 26 Jul.
+DJ Travella is a singeli and club artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: DOCK B, Paris on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | DOCK B | Paris |
 | Sun, 26 Jul 2026 | The Cause | London |
 | Sat, 8 Aug 2026 | RSO.BERLIN | Berlin |
 
@@ -24,6 +25,6 @@ DJ Travella is a singeli and techno artist tracked on soundcheck, with 69 sets l
 
 ## Shares bills with
 
-Mia Koden, DJ Diaki, Aunty Rayzor
+DJ Diaki, Mia Koden, Aunty Rayzor
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

@@ -3018,7 +3018,7 @@
     .evc-play:focus-visible, .fp-ab.go:focus-visible, .fp-pb.go:focus-visible, .play-main:focus-visible,
     .radio-fab:focus-visible, .auth-box .go:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(255,154,61,.45); }
 </style>
-<meta name="sc-build" content="1784215489455">
+<meta name="sc-build" content="1784217090224">
 </head>
 <body>
   <main class="wrap">
@@ -3706,6 +3706,7 @@
       if(item.videoId) b.dataset.yt=item.videoId;   // pre-resolved (set playlists) → play directly, no /api/youtube resolve
       if(item.poster) b.dataset.poster=item.poster;
       if(item.venue) b.dataset.venue=item.venue;
+      if(item.sec!=null) b.dataset.sec=String(item.sec);   // Tracks queue: start each item at its drop
       return b; // detached on purpose — handleYtClick keeps the queue for off-DOM buttons
     }
     function playYtList(list, startIdx){
@@ -3778,7 +3779,7 @@
       if(!(await gateForPlay())) return;
       // No stopActive() here — playYt takes over the persistent player so the
       // load happens inside this tap (mobile autoplay).
-      if(btn.dataset.yt){ playYt(btn,btn.dataset.yt); return; }
+      if(btn.dataset.yt){ playYt(btn,btn.dataset.yt, btn.dataset.sec?(+btn.dataset.sec):undefined); return; }
       var p=prefetchYt(btn); // resolved already if pointerdown got a head start
       btn.disabled=true; btn.classList.add('spinning');
       try{
@@ -6717,11 +6718,16 @@
               var txt=cleanTk(t.text);
               return '<li class="tk-row"'+(t.videoId?' data-vid="'+esc(t.videoId)+'"':'')+' data-sec="'+(t.sec!=null?t.sec:'')+'" data-q="'+esc(txt)+'"><span class="tk-rank">'+(i+1)+'</span><span class="tk-tt">'+esc(txt)+'</span><span class="tk-play">'+PLAY_SVG+'</span></li>';
             }).join('')+'</ol>';
+            // Queue of the timestamped tracks so the dock next/prev walks track→track (each jumps to its drop).
+            var tkQ=tr.filter(function(t){ return t.videoId && t.sec!=null; }).map(function(t){ return { slug:slug, name:cleanTk(t.text), videoId:t.videoId, sec:t.sec, poster:a.image||'' }; });
             box.querySelectorAll('.tk-row').forEach(function(row){ row.addEventListener('click',function(){
               var vid=row.dataset.vid, sec=row.dataset.sec;
               // jump to the drop ONLY when we have a real timestamp; otherwise search (no timestamp
               // → playing the set would just land at the default 6:00 for every track).
-              if(vid && sec){ var pb=row.querySelector('.tk-play'); pb.dataset.name=a.name||slug; pb.dataset.venue=row.querySelector('.tk-tt').textContent; playYt(pb, vid, +sec); }
+              if(vid && sec){
+                var qi=tkQ.findIndex(function(t){ return t.videoId===vid && String(t.sec)===sec; });
+                playYtList(tkQ, qi<0?0:qi);
+              }
               else { window.open('https://www.youtube.com/results?search_query='+encodeURIComponent(row.dataset.q),'_blank','noopener'); }
             }); });
           }).catch(function(){ if(box) box.innerHTML='<div class="fp-sets-empty">Couldn’t load tracks.</div>'; });

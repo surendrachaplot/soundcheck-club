@@ -1,8 +1,8 @@
 # Virage
 
-Virage is a music venue in Paris with 20 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Disco Disco x Free Your Funk: Danilo Plessow aka MCDE, DJ Deep & more" on Thu, 16 Jul 2026.
+Virage is a music venue in Paris with 22 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Disco Disco x Free Your Funk: Danilo Plessow aka MCDE, DJ Deep & more" on Thu, 16 Jul 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 20 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and AMAYO and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 22 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and AMAYO and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 

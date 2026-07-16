@@ -1,6 +1,6 @@
-# Sinergia & Intimate pres. Antrim extended set at Hyde Club
+# Sinergia & Intimate pres. Antrim --- Extended Set at Hyde Club
 
-Sinergia & Intimate pres. Antrim extended set at Hyde Club on Fri 17 Jul, Barcelona. 3 acts on the bill: Antrim, Iovino and KELO AR. Preview the line-up and save it on soundcheck.
+Sinergia & Intimate pres. Antrim --- Extended Set at Hyde Club on Fri 17 Jul, Barcelona. 3 acts on the bill: Antrim, Iovino and KELO AR. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

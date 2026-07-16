@@ -1,8 +1,8 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Terrrazza, Barcelona on Fri, 24 Jul 2026.
+Eden Burns is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Terrrazza, Barcelona on Fri, 24 Jul 2026.
 
-Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 48 sets logged across Auckland, Bali, Bangkok and Barcelona and 21 more. Often billed alongside DJ City, Adriana (1) and Babycino. Next up: La Terrrazza, Barcelona on Fri 24 Jul.
+Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 49 sets logged across Auckland, Bali, Bangkok and Barcelona and 21 more. Often billed alongside DJ City, Adriana (1) and Babycino. Next up: La Terrrazza, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 | Fri, 24 Jul 2026 | La Terrrazza | Barcelona |
 | Sat, 25 Jul 2026 | Gaffe | London |
 | Fri, 7 Aug 2026 | Jaeger | Oslo |
+| Thu, 13 Aug 2026 | Virage | Paris |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 28 Aug 2026 | Palais | London |
 

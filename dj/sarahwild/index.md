@@ -1,8 +1,8 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Kaiser Friedrich Dampfer , Berlin on Fri, 17 Jul 2026.
+Sarah Wild is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Kaiser Friedrich Dampfer , Berlin on Fri, 17 Jul 2026.
 
-Sarah Wild is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: TBA - Kaiser Friedrich Dampfer , Berlin on Fri 17 Jul.
+Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: TBA - Kaiser Friedrich Dampfer , Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 99 sets logg
 | Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 22 Aug 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Sept 2026 | Südbrücke | Cologne |
+| Sat, 5 Sept 2026 | Houtrijk | Amsterdam |
 
 ## Recently played
 

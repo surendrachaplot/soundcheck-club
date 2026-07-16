@@ -1,10 +1,10 @@
 # Olivier Weiter All Night Long at Het Sieraad
 
-Olivier Weiter All Night Long at Het Sieraad on Fri 17 Jul, Amsterdam. 1 act on the bill: Olivier Weiter. Techno. Preview the line-up and save it on soundcheck.
+Olivier Weiter All Night Long at Het Sieraad on Sat 18 Jul, Amsterdam. 1 act on the bill: Olivier Weiter. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 17 Jul 2026 |
+| Date | Sat, 18 Jul 2026 |
 | Venue | Het Sieraad |
 | City | Amsterdam |
 

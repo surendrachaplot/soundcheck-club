@@ -8,7 +8,7 @@ CLUB OST & RENATE BERLIN is a music venue in Berlin listed on soundcheck. 1 upco
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | The Village Festival Berlin - House of Lunacy & The Extended Luniverse | ADAM MUNNINGS, ANTYA, Ady Toledano, Alma Negrot, Better Together, Bizzarro Universe, Bleach, Cook Strummer, Cyranotaurus Cortex, Dj handbag, Emma Keks, Franz Scala, Goldenaxe, Madmotormiquel, RAGE (3), SASKiA SASSE, Sagrivox, Sarah Wild, Stephan Licha, cliff |
+| Fri, 21 Aug 2026 | The Village Festival Berlin - House of Lunacy & The Extended Luniverse | ADAM MUNNINGS, ANTYA, Ady Toledano, Alma Negrot, Better Together, Bizzarro Universe, Bleach, Cook Strummer, CosmiKat, Cyranotaurus Cortex, Dj handbag, Emma Keks, Franz Scala, Goldenaxe, Madmotormiquel, RAGE (3), SASKiA SASSE, Sagrivox, Sarah Wild, Stephan Licha, cliff, maniaclina |
 
 ## Address
 
