@@ -1,6 +1,6 @@
 # p-rallel presents Nevermind - Summer Day Party at LDN East
 
-p-rallel presents Nevermind - Summer Day Party at LDN East on Sat 25 Jul, London. 4 acts on the bill: DJ Cosworth, Jarreau Vandal, Laelo Black and p-rallel. Preview the line-up and save it on soundcheck.
+p-rallel presents Nevermind - Summer Day Party at LDN East on Sat 25 Jul, London. 4 acts on the bill: DJ Cosworth, Jarreau Vandal, Laelo Black and p-rallel. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

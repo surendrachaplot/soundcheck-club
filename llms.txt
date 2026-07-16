@@ -169,8 +169,8 @@ Updated: 2026-07-16
 - [KitKatClub (Berlin)](https://soundcheck.club/berlin/club/kitkatclub/) — [markdown](https://soundcheck.club/berlin/club/kitkatclub/index.md)
 - [Apollo Studio (New York City)](https://soundcheck.club/newyorkcity/club/apollo-studio/) — [markdown](https://soundcheck.club/newyorkcity/club/apollo-studio/index.md)
 - [Culture Cafe (Bangkok)](https://soundcheck.club/bangkok/club/culture-cafe/) — [markdown](https://soundcheck.club/bangkok/club/culture-cafe/index.md)
-- [Starlane Pizza Bar (London)](https://soundcheck.club/london/club/starlane-pizza-bar/) — [markdown](https://soundcheck.club/london/club/starlane-pizza-bar/index.md)
 - [The Lighthouse (London)](https://soundcheck.club/london/club/the-lighthouse/) — [markdown](https://soundcheck.club/london/club/the-lighthouse/index.md)
+- [Starlane Pizza Bar (London)](https://soundcheck.club/london/club/starlane-pizza-bar/) — [markdown](https://soundcheck.club/london/club/starlane-pizza-bar/index.md)
 - [Knockdown Center (New York City)](https://soundcheck.club/newyorkcity/club/knockdown-center/) — [markdown](https://soundcheck.club/newyorkcity/club/knockdown-center/index.md)
 
 ## Machine access

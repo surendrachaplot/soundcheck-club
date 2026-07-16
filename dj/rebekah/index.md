@@ -10,7 +10,7 @@ Rebekah is a techno and hardcore artist tracked on soundcheck, with 154 sets log
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Flava Beach | Naples |
 | Sat, 25 Jul 2026 | Joshua Brooks | Manchester |
-| Fri, 7 Aug 2026 | E1 | London |
+| Sat, 8 Aug 2026 | E1 | London |
 | Sat, 29 Aug 2026 | Mia Mao | Paris |
 
 ## Recently played
