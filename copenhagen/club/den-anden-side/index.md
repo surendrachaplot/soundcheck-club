@@ -12,7 +12,7 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 | Sat, 18 Jul 2026 | GAGxDAS: XXXIII | Alexander Santana, DRAHO, Levant, Pamela Svart, Paula Koski, dj Joe |
 | Fri, 24 Jul 2026 | Order of Magnitude with Derango & Mussy Moody | Filen |
 | Sat, 25 Jul 2026 | UNIT ZERO #2 | Ctrls, Evvolita, Kallax, Milo Makua |
-| Fri, 31 Jul 2026 | FOMOdays | Butschi, DJ BENDER, DJ Dopamina, Entree, Erik Chamber, Yesca |
+| Fri, 31 Jul 2026 | FOMO days | Butschi, DJ BENDER, DJ Dopamina, Entree, Erik Chamber, Yesca |
 | Sat, 1 Aug 2026 | ESCAPISM presents: Rødhåd extended set | Anna Logic, Dico Nemus, Johannes Astrup, Nazira, Rødhåd, SORT SIND |
 | Fri, 7 Aug 2026 | Masculina & dj g2g presents: VOL 2  | Adexia, Britney Speed, ELLE FIERCE, Suzie The Cockroach, dj g2g |
 | Sat, 8 Aug 2026 | MIAW - Pride starts underground | Alegrando, Britney Speed, DJ John Key, Fafi Abdel Nour, Kali, Majdolen |

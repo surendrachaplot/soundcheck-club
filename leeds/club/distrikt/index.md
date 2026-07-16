@@ -17,7 +17,7 @@ Distrikt is a music venue in Leeds listed on soundcheck. 14 upcoming nights, wit
 | Sat, 1 Aug 2026 | FunkyBeatsOnly presents: Alec Falconer, Georgia & Keefy G |  |
 | Fri, 7 Aug 2026 | SurfBeatzUK & Aurora presents FLETCH | FLETCH |
 | Sat, 8 Aug 2026 | 3PM Records present: Mad.Again & Mees Mattern | Fentonffp, Mad.Again (2), Mees Mattern, Partridge |
-| Fri, 14 Aug 2026 | Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) + Special Guest TBA | Harry McCanna, Sam Bangura |
+| Fri, 14 Aug 2026 | Distrikt presents x S•A•S•H brainsurfers (Harry McCanna & Sam Bangura) & Mother Earth | Harry McCanna, Kerry Wallace, Mother Earth, Sam Bangura |
 
 ## Address
 

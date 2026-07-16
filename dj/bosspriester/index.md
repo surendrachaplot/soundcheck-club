@@ -1,8 +1,8 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at XOYO, London on Sat, 1 Aug 2026.
+Boss Priester is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at XOYO, London on Sat, 1 Aug 2026.
 
-Boss Priester is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Jesse Maas. Next up: XOYO, London on Sat 1 Aug.
+Boss Priester is a house and tech house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Jesse Maas. Next up: XOYO, London on Sat 1 Aug.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Thuishaven, Amsterdam on Sat, 18 Jul 2026.
+Michel de Hey is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Thuishaven, Amsterdam on Sat, 18 Jul 2026.
 
-Michel de Hey is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and Job de Jong. Next up: Thuishaven, Amsterdam on Sat 18 Jul.
+Michel de Hey is a house and tech house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and Job de Jong. Next up: Thuishaven, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 120 s
 | Tue, 28 Jul 2026 | Cova Santa | Ibiza |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
+| Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "IMF: Marcel Fengler, Phase Fatale, STEYA, Hebi Snake" on Fri, 17 Jul 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "IMF: Marcel Fengler, Phase Fatale, STEYA, Hebi Snake" on Fri, 17 Jul 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Adriana Lopez, Alhena_, A.M. Project and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adriana Lopez, Alhena_, A.M. Project and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming nights, with li
 | Fri, 31 Jul 2026 | LANNA SHOWCASE: Adriana Lopez, JAKO JAKO, Jheal BASHTA | Adriana Lopez, JakoJako, Jheal |
 | Fri, 7 Aug 2026 | Tommy Four Seven presents 2 0 at Fvtvr | Alhena_, Function, Tommy Four Seven |
 | Fri, 14 Aug 2026 | Fvtvr INVITES: Arthur Robert live, Nesa Azadikhah, Red Rooms | Arthur Robert, Nesa Azadikhah, Red Rooms |
+| Fri, 28 Aug 2026 | Fvtvr INVITES: Chris Liebing, Sept, TSIEG | Chris Liebing, Sept |
 | Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Sonja Moonear, Woddd, Zeina |
 
 ## Address

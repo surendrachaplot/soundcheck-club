@@ -1,8 +1,8 @@
 # Merel Helderman
 
-Merel Helderman is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
+Merel Helderman is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
 
-Merel Helderman is a house and tech house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: Lofi, Amsterdam on Fri 14 Aug.
+Merel Helderman is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Moody Mehran and Boris Coelman. Next up: Lofi, Amsterdam on Fri 14 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Merel Helderman is a house and tech house artist tracked on soundcheck, with 59 
 | Fri, 14 Aug 2026 | Lofi | Amsterdam |
 | Fri, 18 Sept 2026 | Colorado Charlie | The Hague |
 | Fri, 18 Sept 2026 | BRET | Amsterdam |
+| Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Merel Helderman is a house and tech house artist tracked on soundcheck, with 59 
 
 ## Shares bills with
 
-Moody Mehran, Benny Rodrigues, Boris Coelman
+Benny Rodrigues, Moody Mehran, Boris Coelman
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*

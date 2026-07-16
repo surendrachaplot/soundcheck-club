@@ -1,14 +1,15 @@
 # Craig Richards
 
-Craig Richards is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Craig Richards is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Craig Richards is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Craig Richards is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
+| Sun, 30 Aug 2026 | Gaffe | London |
 | Sat, 5 Sept 2026 | Under the K Bridge | New York City |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |

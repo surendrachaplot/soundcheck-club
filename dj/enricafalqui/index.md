@@ -1,8 +1,8 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Anfiteatro Monte Stella, Milan on Sat, 18 Jul 2026.
+Enrica Falqui is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Anfiteatro Monte Stella, Milan on Sat, 18 Jul 2026.
 
-Enrica Falqui is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: Anfiteatro Monte Stella, Milan on Sat 18 Jul.
+Enrica Falqui is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: Anfiteatro Monte Stella, Milan on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 108 sets 
 | Sat, 18 Jul 2026 | Parco Monte Stella | Milan |
 | Sat, 25 Jul 2026 | House of Q | Stockholm |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
+| Sun, 30 Aug 2026 | Gaffe | London |
 
 ## Recently played
 

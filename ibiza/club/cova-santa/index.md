@@ -13,7 +13,7 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 42 upcoming nights, w
 | Tue, 21 Jul 2026 | PIV IBIZA TUESDAYS - July 21 | Cam Stockman, Klaudie, M-High, Mad.Again (2), Robbie Doherty |
 | Wed, 22 Jul 2026 | Rumors |  |
 | Fri, 24 Jul 2026 | WooMooN | Chambord, Clint Lee, Deer Jade, ETNA |
-| Sun, 26 Jul 2026 | Pantheøn | Kerri Chandler |
+| Sun, 26 Jul 2026 | Pantheøn | Kerri Chandler, Yaya, nachoscoppa |
 | Tue, 28 Jul 2026 | PIV IBIZA TUESDAYS - July 28 | Candidate, George Smeddles, Klaudie, Michel de Hey, Olive F, Prunk |
 | Wed, 29 Jul 2026 | Rumors |  |
 | Fri, 31 Jul 2026 | WooMooN | Isadora, Landikhan, Laolu, RY X, meera |

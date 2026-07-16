@@ -1,14 +1,15 @@
 # Jorge Caiado
 
-Jorge Caiado is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hertz, Seoul on Fri, 17 Jul 2026.
+Jorge Caiado is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hertz, Seoul on Fri, 17 Jul 2026.
 
-Jorge Caiado is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Hertz, Seoul on Fri 17 Jul.
+Jorge Caiado is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Hertz, Seoul on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Hertz | Seoul |
+| Fri, 24 Jul 2026 | Myra Ostraria | Lisbon |
 | Sat, 1 Aug 2026 | AURA | Lisbon |
 | Sun, 9 Aug 2026 | Quinta do Miratejo | Lisbon |
 

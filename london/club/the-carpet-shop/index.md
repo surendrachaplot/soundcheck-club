@@ -14,7 +14,7 @@ The Carpet Shop is a music venue in London listed on soundcheck. 12 upcoming nig
 | Sat, 25 Jul 2026 | COSMIC SLOP - LONDON |  |
 | Thu, 30 Jul 2026 | Drop Pin |  |
 | Fri, 31 Jul 2026 | An evening with Bobby & Chez de Milo | Bobby., Chez de Milo |
-| Sat, 1 Aug 2026 | shortlist sound system: Donut (All Night Long) | Donut |
+| Sat, 1 Aug 2026 | shortlist sound system: Summer Dance | Donut |
 | Fri, 7 Aug 2026 | Soul Express London with ThanksMate + 1MOREPIZZAPLS | 1MOREPIZZAPLS, ThanksMate |
 | Sat, 8 Aug 2026 | Fergus Jones & Finn (House Music All Night Long) | Fergus Jones, Finn |
 | Fri, 14 Aug 2026 | Glint 004: Leo's Revenge with FAFF, Seb Odyssey, Shannen SP + Shivum Sharma b2b Lagoon | FAFF, Lagoon Femshayma, Seb Odyssey, Shannen SP, Shivum Sharma |

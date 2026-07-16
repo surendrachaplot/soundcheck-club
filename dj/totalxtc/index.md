@@ -1,14 +1,15 @@
 # Total XTC
 
-Total XTC is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Haggerston, London on Fri, 24 Jul 2026.
+Total XTC is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Haggerston, London on Fri, 24 Jul 2026.
 
-Total XTC is a club and techno artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Donis, Pauli Cakes and friedplatano. Next up: The Haggerston, London on Fri 24 Jul.
+Total XTC is a club and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Donis, Pauli Cakes and friedplatano. Next up: The Haggerston, London on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | The Haggerston | London |
+| Sat, 1 Aug 2026 | TBA | Berlin |
 | Fri, 21 Aug 2026 | Paragon | New York City |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bassiani, Tbilisi on Sat, 18 Jul 2026.
+.VRIL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bassiani, Tbilisi on Sat, 18 Jul 2026.
 
-.VRIL is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Bassiani, Tbilisi on Sat 18 Jul.
+.VRIL is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Konstantin and Edward. Next up: Bassiani, Tbilisi on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Bassiani | Tbilisi |
 | Fri, 24 Jul 2026 | Haus der Visionäre | Berlin |
+| Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 
 ## Recently played
 
