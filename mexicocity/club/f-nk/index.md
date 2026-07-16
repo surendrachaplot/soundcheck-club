@@ -1,8 +1,8 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Saundo Studio x Fünk" on Thu, 16 Jul 2026.
+Fünk is a music venue in Mexico City with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Saundo Studio x Fünk" on Thu, 16 Jul 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 11 upcoming nights, with line-ups including Alexis Yasky, Alfredo Ávila, Barbara Alvarez and Coast2c and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Alfredo Ávila and Barbara Alvarez and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
@@ -14,7 +14,7 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 11 upcoming nights, w
 | Thu, 23 Jul 2026 | Fiesta Exquisita x Fünk | DJ Detektiv, Itzvan, moog-lee |
 | Thu, 23 Jul 2026 | Mixtlán x Fünk | Alfredo Ávila, JEM (USA), Tomas Reid |
 | Fri, 24 Jul 2026 | Satoshi Tomiie + Bárbara Álvarez + elRojo | Barbara Alvarez, Satoshi Tomiie, elRojo |
-| Sat, 25 Jul 2026 | West Side Project x Anniversary | Mina, Ëlorian |
+| Sat, 25 Jul 2026 | West Side Project x Anniversary | MINÄ, Ëlorian |
 | Thu, 30 Jul 2026 | Concilio x Fünk | Alexis Yasky, Daniel Bukara, Harfush, Rubinskee |
 | Fri, 31 Jul 2026 | Dance Your Name x Fünk | Fig (DYN), Gog, Vanilla Storm, rodman |
 | Sat, 1 Aug 2026 | Egyptian Lover + TBA | Egyptian Lover |

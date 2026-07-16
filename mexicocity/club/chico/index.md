@@ -10,7 +10,7 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | RIESGO: CDMX [Emi Ángeles, FERRR, Lunna, SHINTA, Stephn, TASTE, Transsients, Ximena Soto] | FERRR, Lunna, Ximena Soto |
 | Fri, 24 Jul 2026 | TYPE B | Enya Botello, IRONBOARD |
-| Sat, 25 Jul 2026 | TECHNO MUSEUM & XAME RECORDS | Botelo, Deenia, Sabina Palma, Strooke |
+| Sat, 25 Jul 2026 | TECHNO MUSEUM & XAME RECORDS | Botelo, Deenia, Hot Hudson, Sabina Palma, Strooke |
 | Thu, 30 Jul 2026 | Selección Mejicana de Djismo |  |
 | Sat, 15 Aug 2026 | Deseo en CHICO CDMX ✮⋆˙ |  |
 | Fri, 21 Aug 2026 | Karate Audio Takeover |  |

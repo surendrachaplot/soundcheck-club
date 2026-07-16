@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 25 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Alarico is a Techno and House artist with 26 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 257 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: MS Artville, Hamburg on Sat 18 Jul.
+Alarico is a techno and house artist tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
 ## Upcoming shows
 

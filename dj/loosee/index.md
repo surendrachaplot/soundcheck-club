@@ -1,14 +1,15 @@
 # Loose E
 
-Loose E is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at XOYO, London on Thu, 16 Jul 2026.
+Loose E is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at XOYO, London on Thu, 16 Jul 2026.
 
-Loose E is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: XOYO, London on Thu 16 Jul.
+Loose E is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: XOYO, London on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | XOYO | London |
+| Sat, 18 Jul 2026 | Stereo | Glasgow |
 | Thu, 17 Sept 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Kunanon
 
-Kunanon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Siwilai Radical Club, Bangkok on Sat, 18 Jul 2026.
+Kunanon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Siwilai Radical Club, Bangkok on Sat, 18 Jul 2026.
 
-Kunanon is a house and techno artist based in Thailand, tracked on soundcheck, with 76 sets logged across Bangkok. Often billed alongside MOODYBOOM, Jayja and IYY (TH). Next up: Siwilai Radical Club, Bangkok on Sat 18 Jul.
+Kunanon is a house and techno artist based in Thailand, tracked on soundcheck, with 77 sets logged across Bangkok. Often billed alongside MOODYBOOM, Jayja and IYY (TH). Next up: Siwilai Radical Club, Bangkok on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Siwilai Radical Club | Bangkok |
+| Sat, 18 Jul 2026 | Elsewhere | Bangkok |
 | Fri, 31 Jul 2026 | Siwilai Radical Club | Bangkok |
 
 ## Recently played

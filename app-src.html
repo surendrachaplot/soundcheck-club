@@ -3036,13 +3036,13 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 </style>
-<meta name="sc-build" content="1784234034802">
+<meta name="sc-build" content="1784240773785">
 </head>
 <body>
   <main class="wrap">
     <nav>
       <a class="logo" href="." aria-label="Soundcheck — home">
-        <svg class="logo-ic" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="currentColor" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="currentColor" stroke="none"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
+        <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
       <button class="hdr-city" id="hdr-city" type="button" aria-label="Change city"><span id="hdr-city-name">London</span><svg class="cs-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="discover" type="button">Discover</button>
@@ -3104,7 +3104,7 @@
     <footer class="site-foot">
       <div class="foot-row">
         <a class="logo foot-logo" id="foot-home" role="button" tabindex="0" aria-label="Soundcheck — home">
-          <svg class="logo-ic" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="26" height="16" rx="3"/><circle cx="11.5" cy="16" r="2.7"/><circle cx="20.5" cy="16" r="2.7"/><circle cx="11.5" cy="16" r="0.7" fill="currentColor" stroke="none"/><circle cx="20.5" cy="16" r="0.7" fill="currentColor" stroke="none"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
+          <svg class="logo-ic" viewBox="0 0 32 32" fill="none" aria-hidden="true"><defs><linearGradient id="scg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5e7e"/><stop offset="1" stop-color="#ff9a3d"/></linearGradient></defs><rect x="2.5" y="7.5" width="27" height="17" rx="5" fill="none" stroke="url(#scg)" stroke-width="2.3"/><circle cx="11.5" cy="16" r="2.7" fill="url(#scg)"/><circle cx="20.5" cy="16" r="2.7" fill="url(#scg)"/><path d="M14.2 16h3.6" stroke="url(#scg)" stroke-width="2.3" stroke-linecap="round"/></svg><span class="logo-wm">sound<span class="ac">check</span></span></a>
         <nav class="foot-links" aria-label="Footer">
           <a id="foot-discover" role="button" tabindex="0">Discover</a>
           <a id="foot-cities" role="button" tabindex="0">Cities</a>
@@ -7061,7 +7061,11 @@
         var beenBtn=document.getElementById('vp-been');
         if(beenBtn) beenBtn.addEventListener('click',function(){ openLog({ venue:{ name:dispName, slug:v.slug, city:v.city } }); });
         var vrb=document.getElementById('vp-radio');
-        if(vrb && vNext) vrb.addEventListener('click',function(){ playEventLineupRadio({ id:vNext.id, venue:dispName, event_date:vNext.event_date, poster_url:vNext.poster_url, lineup:vNext.lineup }); });
+        // Normal dock queue over the next night's line-up — dock prev/next walk artist→artist.
+        if(vrb && vNext) vrb.addEventListener('click',function(){
+          var q=(vNext.lineup||[]).map(function(a){ return { slug:a.slug, name:a.name, poster:vNext.poster_url||'' }; }).filter(function(a){ return a.slug; });
+          if(q.length) playYtList(q, 0); else showToast('No line-up to play yet.');
+        });
         armSticky(dispName, (vrb&&vNext)?function(){ vrb.click(); }:null, vrb || document.querySelector('#page-body .fp-hero'));   // sticky title bar: venue name + Play next lineup (name-only if nothing upcoming)
         // Owner toolkit (audience + edit + broadcast) — the anti-RA wedge.
         wireEntityOwner('venue', v.slug, dispName, v);

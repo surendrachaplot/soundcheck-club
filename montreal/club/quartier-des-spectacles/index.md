@@ -8,7 +8,7 @@ Quartier Des Spectacles is a music venue in Montreal listed on soundcheck. 1 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Festival MUTEK Montréal 2026 | 16:9 ratio, A Guy Called Gerald, Ah! Kosmos, Alan Harman, ArtSaves, Barker, Ben UFO, CLEO LEIGH, CUERPOS, Con Secuencias, Dana Ruh, Dave Huismans, Debit, El Ángel Exterminador, Fennesz, Hainbach, Honeydrip, Istanbul Ghetto Club, JakoJako, James McVinnie, Jamvvis, Jeff Mills, Jordan Gardner, Jump Source, Kali Malone, Kara-Lis Coverdale, Kilbourne, Korea Town Acid, Lillevan, M Salaciak, Matthew Herbert, Mia Koden, Mika Oki, Monsieurmadam, Murthovic, NGL Flounce, NVST, Nazar, Pick a Piper, Poirier, Polygonia, Purelink, Relaxer, Rival Consoles, Sara Persico, Violent Magic Orchestra, Voices From The Lake, Zora Jones, dustBunny, gyrofield, wetdogg |
+| Tue, 25 Aug 2026 | Festival MUTEK Montréal 2026 | 16:9 ratio, A Guy Called Gerald, Ah! Kosmos, Alan Harman, ArtSaves, Barker, Ben UFO, CLEO LEIGH, CUERPOS, Con Secuencias, Dana Ruh, Dave Huismans, Debit, El Ángel Exterminador, Fennesz, France Jobin, Hainbach, Honeydrip, Istanbul Ghetto Club, JakoJako, James McVinnie, Jamvvis, Jeff Mills, Jordan Gardner, Jump Source, Kali Malone, Kara-Lis Coverdale, Kilbourne, Korea Town Acid, Lillevan, M Salaciak, Matthew Herbert, Measure, Mesocosm, Mia Koden, Mika Oki, Monsieurmadam, Murthovic, NGL Flounce, NVST, Nazar, Orange Moon, Pick a Piper, Poirier, Polygonia, Purelink, Relaxer, Rival Consoles, Sara Persico, Violent Magic Orchestra, Vivian Li, Voices From The Lake, Zora Jones, dustBunny, fongkikid, gyrofield, wetdogg |
 
 ## Address
 

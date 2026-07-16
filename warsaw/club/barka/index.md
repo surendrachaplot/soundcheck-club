@@ -9,7 +9,7 @@ BarKa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Oaza na Barce ~ after Lado w Mieście | Patsi Parisi, wrubel |
-| Wed, 29 Jul 2026 | POLONIA PARA VENEZUELA - SOLIDARITY EVENT | Adobo (PL), Alexis, DJ Kobieta, Fourth World Music, KarateKnur, Matka Boska Rejwowa, Some Guest, eylau, iffi, kertua, sponsa |
+| Wed, 29 Jul 2026 | POLONIA PARA VENEZUELA - SOLIDARITY EVENT | Adobo (PL), Alexis, DJ Kobieta, Fourth World Music, KarateKnur, Matka Boska Rejwowa, Pressure (2), Some Guest, eylau, iffi, kertua, sponsa |
 
 ## Address
 

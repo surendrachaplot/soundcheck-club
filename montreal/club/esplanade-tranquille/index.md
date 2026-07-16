@@ -11,9 +11,9 @@ Esplanade Tranquille is a music venue in Montreal listed on soundcheck. 6 upcomi
 | Tue, 25 Aug 2026 | Ida Toninato, Pick a Piper, SURPRISE DJ SET - MUTEK 27 | Ida Toninato, Pick a Piper |
 | Wed, 26 Aug 2026 | 16:9 ratio, dustBunny, Jamvvis + YFBOB, NGL Flounce, NVST, SURPRISE DJ SET - MUTEK 27 | 16:9 ratio, Jamvvis, NGL Flounce, NVST, dustBunny |
 | Thu, 27 Aug 2026 | Abulzooz, Istanbul Ghetto Club, Monsieurmadam, wetdogg, SURPRISE DJ SET - MUTEK 27 | Istanbul Ghetto Club, Monsieurmadam, wetdogg |
-| Fri, 28 Aug 2026 | aria, SURPRISE PERFORMANCE, ArtSaves, Matt & Mark Thibideau, SURPRISE DJ SET - MUTEK 27 | ArtSaves |
-| Sat, 29 Aug 2026 | chiquitamagic, Hot Sleepers, Marie Delprat, shn shn, SURPRISE DJ SET - MUTEK 27 |  |
-| Sun, 30 Aug 2026 | Jordan Gardner, Julian Sartorius, Sarah Rossy, SURPRISE DJ SET - MUTEK 27 | Jordan Gardner |
+| Fri, 28 Aug 2026 | aria, SURPRISE PERFORMANCE, ArtSaves, Matt & Mark Thibideau, SURPRISE DJ SET - MUTEK 27 | ArtSaves, Vivian Li |
+| Sat, 29 Aug 2026 | chiquitamagic, Hot Sleepers, Marie Delprat, shn shn, SURPRISE DJ SET - MUTEK 27 | Measure |
+| Sun, 30 Aug 2026 | Jordan Gardner, Julian Sartorius, Sarah Rossy, SURPRISE DJ SET - MUTEK 27 | Jordan Gardner, Orange Moon |
 
 ## Address
 

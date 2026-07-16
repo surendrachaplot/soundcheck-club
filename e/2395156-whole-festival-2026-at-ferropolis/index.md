@@ -1,6 +1,6 @@
 # WHOLE Festival 2026 at Ferropolis
 
-WHOLE Festival 2026 at Ferropolis on Fri 17 Jul, Leipzig. 127 acts on the bill: 2THEMAX, ADAM MUNNINGS, AMORAL and ARMANA KHAN and 123 more. Preview the line-up and save it on soundcheck.
+WHOLE Festival 2026 at Ferropolis on Fri 17 Jul, Leipzig. 128 acts on the bill: 2THEMAX, ADAM MUNNINGS, AMORAL and ARMANA KHAN and 124 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -46,6 +46,7 @@ WHOLE Festival 2026 at Ferropolis on Fri 17 Jul, Leipzig. 127 acts on the bill: 
 - Dgeral
 - Di Linh
 - Dirty Daddy Don
+- Disk Cartel
 - Duality
 - E.T. (2)
 - Freddy K

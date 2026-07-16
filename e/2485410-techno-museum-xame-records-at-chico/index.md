@@ -1,6 +1,6 @@
 # TECHNO MUSEUM & XAME RECORDS at CHICO
 
-TECHNO MUSEUM & XAME RECORDS at CHICO on Sat 25 Jul, Mexicocity. 4 acts on the bill: Botelo, Deenia, Sabina Palma and Strooke. Techno and Guaracha. Preview the line-up and save it on soundcheck.
+TECHNO MUSEUM & XAME RECORDS at CHICO on Sat 25 Jul, Mexicocity. 5 acts on the bill: Botelo, Deenia, Hot Hudson and Sabina Palma and 1 more. Techno and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ TECHNO MUSEUM & XAME RECORDS at CHICO on Sat 25 Jul, Mexicocity. 4 acts on the b
 
 - Botelo
 - Deenia
+- Hot Hudson
 - Sabina Palma
 - Strooke
 

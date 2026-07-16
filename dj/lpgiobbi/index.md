@@ -1,8 +1,8 @@
 # LP Giobbi
 
-LP Giobbi is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+LP Giobbi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
-LP Giobbi is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
+LP Giobbi is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Auckland and Austin and 42 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
 ## Upcoming shows
 

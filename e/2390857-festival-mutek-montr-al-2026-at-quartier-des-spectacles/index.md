@@ -1,6 +1,6 @@
 # Festival MUTEK Montréal 2026 at Quartier Des Spectacles
 
-Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal. 51 acts on the bill: 16:9 ratio, A Guy Called Gerald, Ah! Kosmos and Alan Harman and 47 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal. 57 acts on the bill: 16:9 ratio, A Guy Called Gerald, Ah! Kosmos and Alan Harman and 53 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,6 +25,7 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - Debit
 - El Ángel Exterminador
 - Fennesz
+- France Jobin
 - Hainbach
 - Honeydrip
 - Istanbul Ghetto Club
@@ -41,6 +42,8 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - Lillevan
 - M Salaciak
 - Matthew Herbert
+- Measure
+- Mesocosm
 - Mia Koden
 - Mika Oki
 - Monsieurmadam
@@ -48,6 +51,7 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - NGL Flounce
 - NVST
 - Nazar
+- Orange Moon
 - Pick a Piper
 - Poirier
 - Polygonia
@@ -56,9 +60,11 @@ Festival MUTEK Montréal 2026 at Quartier Des Spectacles on Tue 25 Aug, Montreal
 - Rival Consoles
 - Sara Persico
 - Violent Magic Orchestra
+- Vivian Li
 - Voices From The Lake
 - Zora Jones
 - dustBunny
+- fongkikid
 - gyrofield
 - wetdogg
 

@@ -1,8 +1,8 @@
 # Jump Source
 
-Jump Source is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Jump Source is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-Jump Source is a techno and tech house artist based in Canada, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Brussels and Chicago and 7 more. Often billed alongside Patrick Holland, Priori and 1morning. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Jump Source is a techno and house artist based in Canada, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Brussels and Chicago and 7 more. Often billed alongside Patrick Holland, Priori and 1morning. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
