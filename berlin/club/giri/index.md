@@ -12,7 +12,7 @@ Giri is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with l
 | Fri, 17 Jul 2026 | Giri x Ausländerbehörde | DJ Regret, JEDRANALINE, Maui (UK), Otto Vlotto, Partridge |
 | Thu, 23 Jul 2026 | Giri x Mashinka: Buttafuori EP Release Party | Alys, Bloomfeld, mashinka |
 | Fri, 24 Jul 2026 | Giri x Sampi's album celebration | Natalia Martinovna, Sampi, Sean H |
-| Thu, 30 Jul 2026 | Giri x Smile Session | A Strange Wedding, Carmen Electro, JKS, Pōnky |
+| Thu, 30 Jul 2026 | Giri x Smile Sessions | A Strange Wedding, Carmen Electro, JKS, Pōnky |
 | Fri, 31 Jul 2026 | Giri x Inherently Serene | Rafa Paella, cheng nwsh |
 | Thu, 6 Aug 2026 | Giri x Ulf Herold x by iiuoiim (Album releases) |  |
 | Fri, 7 Aug 2026 | Giri x Geven en Nemen | Cleo (AU), Guava, SOCIAL VLAD |
