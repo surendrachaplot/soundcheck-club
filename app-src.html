@@ -2990,7 +2990,7 @@
     .evc-play:focus-visible, .fp-ab.go:focus-visible, .fp-pb.go:focus-visible, .play-main:focus-visible,
     .radio-fab:focus-visible, .auth-box .go:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(255,154,61,.45); }
 </style>
-<meta name="sc-build" content="1784155908060">
+<meta name="sc-build" content="1784203848820">
 </head>
 <body>
   <main class="wrap">
@@ -3038,7 +3038,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-15/">Wed 15 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-16/">Thu 16 Jul <span class="c">31 events</span></a></li><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">98 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">152 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">19 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">10 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-16/">Thu 16 Jul <span class="c">31 events</span></a></li><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">98 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">152 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">20 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">10 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">22 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6148,11 +6148,15 @@
     // ---- artist + venue pages ----
     // Render canonical event rows (/api/artist · /api/venue · /api/search) as
     // home-style cards into `el`, each wired to open the event sheet.
-    function mountEventCards(el, rows){
+    // opts.showCity: append "· <City>" after the venue — for lists that span cities
+    // (artist gigs, promoter nights). OFF for city-scoped lists (home, venue, same-night).
+    function mountEventCards(el, rows, opts){
       if(!el) return;
+      var showCity=!!(opts&&opts.showCity);
       var evs=(rows||[]).map(function(g){
         return { id:g.id, title:g.title, venue:g.venue, genres:g.genres,
           _day:fmtDateLabel(String(g.event_date).slice(0,10)),
+          _city:(showCity&&g.city)?cityLabel(g.city):'',
           startTime:g.start_time, endTime:g.end_time, poster:g.poster_url,
           artists:(g.lineup||[]).map(function(x){ return {name:x.name, contentUrl:'/dj/'+x.slug}; }) };
       });
@@ -6607,8 +6611,8 @@
         document.getElementById('ap-wanna').addEventListener('click',function(){ toggleArtist(slug,{name:a.name}); });
         document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
         // Upcoming + Past events → the SAME homepage card/list template (poster on desktop, .lvr list on mobile) — consistent with every other event list
-        if(up.length){ var _auc=document.getElementById('ap-upcoming-cards'); if(_auc) mountEventCards(_auc, up); }
-        if((a.history||[]).length){ var _apc=document.getElementById('ap-past-cards'); if(_apc) mountEventCards(_apc, a.history); }
+        if(up.length){ var _auc=document.getElementById('ap-upcoming-cards'); if(_auc) mountEventCards(_auc, up, {showCity:true}); }
+        if((a.history||[]).length){ var _apc=document.getElementById('ap-past-cards'); if(_apc) mountEventCards(_apc, a.history, {showCity:true}); }
         if(currentUser){
           var _anm=a.name||slug;
           authedFetch('/api/artist/seen?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(sd){
@@ -6826,7 +6830,7 @@
         var up=(p.upcoming||[]), pu=document.getElementById('pp-upcoming');
         if(pu && up.length){
           pu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+up.length+'</span></div><div id="pp-cards"></div>';
-          mountEventCards(document.getElementById('pp-cards'), up);
+          mountEventCards(document.getElementById('pp-cards'), up, {showCity:true});
         }
         var pst=(p.past||[]), ppst=document.getElementById('pp-past');
         if(ppst && pst.length){
@@ -7688,7 +7692,7 @@
           +'<span class="lv-th">'+posterHTML(ev)+'</span>'
           +'<span class="lv-bd">'
             +'<span class="lv-tt">'+esc(ev.title)+'</span>'
-            +'<span class="lv-m">'+(when?when+' &middot; ':'')+esc(ev.venue||'TBA')+'</span>'
+            +'<span class="lv-m">'+(when?when+' &middot; ':'')+esc(ev.venue||'TBA')+(ev._city?' &middot; '+esc(ev._city):'')+'</span>'
             +(names?'<span class="lv-a">'+names+'</span>':'')
           +'</span>'
         +'</button>'
@@ -8458,10 +8462,8 @@
   window.cardHTML=function(ev){ return (painting && MQ.matches) ? listRow(ev) : origCard(ev); };
   var origPaint=window.paintCurrentGrid;
   window.paintCurrentGrid=function(){ painting=true; try{ origPaint(); } finally{ painting=false; } };
-  if(typeof mountEventCards==='function'){
-    var origMount=window.mountEventCards;
-    window.mountEventCards=function(el,rows){ painting=true; try{ origMount(el,rows); } finally{ painting=false; } };
-  }
+  // (No mountEventCards wrapper: the base fn now picks list/card via mqMobile() itself —
+  // wrapping it here would swallow the opts arg, e.g. {showCity:true}.)
   try{
     var onchg=function(){ try{ window.paintCurrentGrid(); }catch(_){} };
     if(MQ.addEventListener) MQ.addEventListener('change',onchg); else if(MQ.addListener) MQ.addListener(onchg);
