@@ -9,7 +9,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 19 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Brick Rhythm x Concrete — Day Party |  |
-| Fri, 17 Jul 2026 | Florenzo Hiäät & Mischiefs (1£ Tickets. Techno All Night Long) | Bertie UK, Fernweh (2), Florenzo Hiäät, Goddess II, Raden (UK), Ununu |
+| Fri, 17 Jul 2026 | Florenzo Hiäät & Mischiefs (5£ Tickets. Techno & Trance All Night Long) | Bertie UK, Fernweh (2), Florenzo Hiäät, Goddess II, Raden (UK), Ununu |
 | Sat, 18 Jul 2026 | Electric Desi Day Party |  |
 | Sat, 18 Jul 2026 | EXXPLANA BAILE FUNK - DJ VIANA London Debut |  |
 | Fri, 24 Jul 2026 | MINDTHEGAP | Eurohead, finlince! |

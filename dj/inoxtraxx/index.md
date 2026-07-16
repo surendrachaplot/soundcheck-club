@@ -1,13 +1,14 @@
 # Inox Traxx
 
-Inox Traxx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 8 Aug 2026.
+Inox Traxx is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Valley, Berlin on Sat, 18 Jul 2026.
 
-Inox Traxx is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ignez, Nastia Reigel and Amotik. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 8 Aug.
+Inox Traxx is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ignez, Nastia Reigel and Amotik. Next up: Valley, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Valley | Berlin |
 | Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 
