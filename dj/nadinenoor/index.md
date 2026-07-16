@@ -1,8 +1,8 @@
 # Nadine Noor
 
-Nadine Noor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
+Nadine Noor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cause, London on Sun, 26 Jul 2026.
 
-Nadine Noor is a techno and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Birmingham, Bristol, Brussels and Glasgow and 5 more. Often billed alongside J. Aria, Ryan Lovell and THEMPRESS. Next up: The Cause, London on Sun 26 Jul.
+Nadine Noor is a techno and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Birmingham, Bristol, Brussels and Glasgow and 5 more. Often billed alongside J. Aria, Ryan Lovell and THEMPRESS. Next up: The Cause, London on Sun 26 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nadine Noor is a techno and house artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sun, 26 Jul 2026 | The Cause | London |
 | Tue, 28 Jul 2026 | Trädgården | Stockholm |
+| Fri, 9 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
 

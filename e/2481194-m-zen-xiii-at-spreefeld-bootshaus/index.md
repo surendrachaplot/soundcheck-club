@@ -1,6 +1,6 @@
 # MÄZEN XIII° at Spreefeld Bootshaus
 
-MÄZEN XIII° at Spreefeld Bootshaus on Wed 29 Jul, Berlin. 14 acts on the bill: Amanda Mussi, Daraio, Function and Grosera and 10 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+MÄZEN XIII° at Spreefeld Bootshaus on Wed 29 Jul, Berlin. 15 acts on the bill: Amanda Mussi, Daraio, Function and Grosera and 11 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ MÄZEN XIII° at Spreefeld Bootshaus on Wed 29 Jul, Berlin. 14 acts on the bill:
 - Kris Baha
 - Leo Cologna
 - Ly Sas
+- Oreste Sangiovanni
 - Sanna Mun
 - Sarah Wreath
 - Shaven

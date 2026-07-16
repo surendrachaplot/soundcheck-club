@@ -8,7 +8,7 @@ Spreefeld Bootshaus is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 29 Jul 2026 | MÄZEN XIII° | Amanda Mussi, Daraio, Function, Grosera, Isabel Soto, Jensen Interceptor, Jess Nash, Kris Baha, Leo Cologna, Ly Sas, Sanna Mun, Sarah Wreath, Shaven, Stanislav Tolkachev |
+| Wed, 29 Jul 2026 | MÄZEN XIII° | Amanda Mussi, Daraio, Function, Grosera, Isabel Soto, Jensen Interceptor, Jess Nash, Kris Baha, Leo Cologna, Ly Sas, Oreste Sangiovanni, Sanna Mun, Sarah Wreath, Shaven, Stanislav Tolkachev |
 
 ## Address
 
