@@ -1,8 +1,8 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Warehouse, Nantes on Fri, 28 Aug 2026.
+NIKOLINA_ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Warehouse, Nantes on Fri, 28 Aug 2026.
 
-NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Budapest and Cologne and 18 more. Often billed alongside A.N.I., Azyr and DJ Sonnenbrand. Next up: Warehouse, Nantes on Fri 28 Aug.
+NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and Budapest and 19 more. Often billed alongside A.N.I., Azyr and DJ Sonnenbrand. Next up: Warehouse, Nantes on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Warehouse | Nantes |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
+| Fri, 4 Sept 2026 | Fuse | Brussels |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 
 ## Recently played

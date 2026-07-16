@@ -1,8 +1,8 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Under the K Bridge, New York City on Fri, 31 Jul 2026.
+ALT8 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Under the K Bridge, New York City on Fri, 31 Jul 2026.
 
-ALT8 is a techno and trance artist tracked on soundcheck, with 130 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: Under the K Bridge, Newyorkcity on Fri 31 Jul.
+ALT8 is a techno and trance artist tracked on soundcheck, with 131 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: Under the K Bridge, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ ALT8 is a techno and trance artist tracked on soundcheck, with 130 sets logged a
 | Fri, 31 Jul 2026 | Under the K Bridge | New York City |
 | Sat, 1 Aug 2026 | BERHTA | Washington DC |
 | Sat, 8 Aug 2026 | TBA - Toronto | Toronto |
+| Fri, 21 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 4 Sept 2026 | OST | Berlin |
 | Fri, 2 Oct 2026 | Superior Ingredients | New York City |
 

@@ -1,8 +1,8 @@
 # Volks
 
-Volks is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "On The Beach Official After Party: Sabotage" on Thu, 16 Jul 2026.
+Volks is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "On The Beach Official After Party: Sabotage" on Thu, 16 Jul 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Beano and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Beano and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 

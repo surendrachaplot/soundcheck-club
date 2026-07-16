@@ -1,8 +1,8 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fitz Mallorca, Mallorca on Thu, 16 Jul 2026.
+PAWSA is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fitz Mallorca, Mallorca on Thu, 16 Jul 2026.
 
-PAWSA is a house and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Dennis Cruz, ANOTR and Chris Stussy. Next up: Fitz Mallorca, Mallorca on Thu 16 Jul.
+PAWSA is a house and tech house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Austin and Barcelona and 40 more. Often billed alongside Dennis Cruz, ANOTR and Chris Stussy. Next up: Fitz Mallorca, Mallorca on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 137 sets logg
 | Thu, 16 Jul 2026 | Fitz Mallorca | Mallorca |
 | Sun, 19 Jul 2026 | Scorpios | Mykonos |
 | Fri, 24 Jul 2026 | Pacha Ibiza | Ibiza |
+| Sat, 29 Aug 2026 | Königsplatz München | Munich |
 | Sat, 5 Sept 2026 | Fulton Fish Market - Hunts Point | New York City |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |

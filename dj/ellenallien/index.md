@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Forte Antenne, Rome on Fri, 17 Jul 2026.
+Ellen Allien is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Forte Antenne, Rome on Fri, 17 Jul 2026.
 
-Ellen Allien is a techno and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Forte Antenne, Rome on Fri 17 Jul.
+Ellen Allien is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Forte Antenne, Rome on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 239 sets l
 | Sat, 25 Jul 2026 | Komplex Berlin | Berlin |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Sat, 1 Aug 2026 | Budapest Park | Budapest |
+| Sat, 1 Aug 2026 | Budapest Park | Budapest |
 | Tue, 4 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Mon, 10 Aug 2026 | La Pinilla Ski Resort | Madrid |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 22 Aug 2026 | Tempelhof Airport | Berlin |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
-| Sat, 19 Sept 2026 | Spook Club | Valencia |
-| Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
 

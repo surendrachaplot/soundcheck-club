@@ -1,13 +1,14 @@
 # Compulsive Leia
 
-Compulsive Leia is a Pop and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Arts Club, Liverpool on Fri, 17 Jul 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Arts Club, Liverpool on Fri, 17 Jul 2026.
 
-Compulsive Leia is a pop and trance artist tracked on soundcheck, with 20 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, it_dont_Matt.er and alterum. Next up: Arts Club, Liverpool on Fri 17 Jul.
+Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 21 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Arts Club, Liverpool on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Arts Club | Liverpool |
 | Fri, 17 Jul 2026 | Arts Club | Liverpool |
 | Fri, 31 Jul 2026 | Vauxhall Arches | London |
 | Fri, 14 Aug 2026 | The Waiting Room | London |
@@ -25,6 +26,6 @@ Compulsive Leia is a pop and trance artist tracked on soundcheck, with 20 sets l
 
 ## Shares bills with
 
-Takenbymarshall, it_dont_Matt.er, alterum
+Takenbymarshall, alterum, it_dont_Matt.er
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*

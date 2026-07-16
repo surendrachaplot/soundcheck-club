@@ -1,14 +1,15 @@
 # DTM Funk
 
-DTM Funk is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lavallée, Brussels on Fri, 17 Jul 2026.
+DTM Funk is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lavallée, Brussels on Fri, 17 Jul 2026.
 
-DTM Funk is a house and funk / soul artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Ben Kamal. Next up: Lavallée, Brussels on Fri 17 Jul.
+DTM Funk is a house and funk / soul artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Bali and Berlin and 11 more. Often billed alongside AliA, Errol and Ben Kamal. Next up: Lavallée, Brussels on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Lavallée | Brussels |
+| Fri, 31 Jul 2026 | Vanhaerents Art Collection | Brussels |
 | Sun, 2 Aug 2026 | Colour Factory | London |
 | Fri, 28 Aug 2026 | Tresor / Globus | Berlin |
 

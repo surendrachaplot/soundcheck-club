@@ -1,8 +1,8 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
+Sibil (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Seebruck - Chiemsee, Munich on Sat, 8 Aug 2026.
 
-Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Boston and 30 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
+Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Boston and 30 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: TBA - Seebruck - Chiemsee, Munich on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | TBA - Seebruck - Chiemsee | Munich |
 | Sat, 29 Aug 2026 | NUMBER 90 LONDON | London |
+| Fri, 11 Sept 2026 | The Loft | Manchester |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # GAIVEU
 
-GAIVEU is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ministerium Club, Lisbon on Thu, 16 Jul 2026.
+GAIVEU is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ministerium Club, Lisbon on Thu, 16 Jul 2026.
 
-GAIVEU is a techno and acid artist tracked on soundcheck, with 42 sets logged across Berlin, Lisbon and Porto. Often billed alongside Anastasiya Ty, Madson Carpenter and DIMENSION 9. Next up: Ministerium Club, Lisbon on Thu 16 Jul.
+GAIVEU is a techno and acid artist tracked on soundcheck, with 43 sets logged across Berlin, Brussels, Lisbon and Porto. Often billed alongside Anastasiya Ty, Madson Carpenter and Ornella. Next up: Ministerium Club, Lisbon on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ GAIVEU is a techno and acid artist tracked on soundcheck, with 42 sets logged ac
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | Ministerium Club | Lisbon |
 | Sat, 18 Jul 2026 | OST | Berlin |
+| Fri, 4 Sept 2026 | Fuse | Brussels |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ GAIVEU is a techno and acid artist tracked on soundcheck, with 42 sets logged ac
 
 ## Shares bills with
 
-Anastasiya Ty, Madson Carpenter, DIMENSION 9
+Anastasiya Ty, Madson Carpenter, Ornella
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*

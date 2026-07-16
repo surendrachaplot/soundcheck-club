@@ -1,8 +1,8 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 17 Jul 2026.
+Joseph Capriati is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 17 Jul 2026.
 
-Joseph Capriati is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Fri 17 Jul.
+Joseph Capriati is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Fri 17 Jul.
 
 ## Upcoming shows
 

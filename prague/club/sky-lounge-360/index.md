@@ -1,8 +1,8 @@
 # Sky Lounge 360
 
-Sky Lounge 360 is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Climax Rooftop" on Sat, 25 Jul 2026.
+Sky Lounge 360 is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Climax Rooftop" on Sat, 25 Jul 2026.
 
-Sky Lounge 360 is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including DJ Duar, DJ Lumiere, Eli Sha and JB & FLESH and 2 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
+Sky Lounge 360 is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including DJ Duar, DJ Lumiere, Eli Sha and Golpe and 2 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Sky Lounge 360 is a music venue in Prague listed on soundcheck. 5 upcoming night
 | Thu, 6 Aug 2026 | Pride in the Sky | DJ Lumiere |
 | Sat, 15 Aug 2026 | Code Rooftop | JB & FLESH, Nika77, Orkus |
 | Thu, 20 Aug 2026 | 𝐑𝐔𝐌𝐁𝐀 𝐇𝐎𝐔𝐒𝐄 - 𝐋𝐀𝐓𝐈𝐍 𝐒𝐔𝐍𝐒𝐄𝐓 𝐑𝐎𝐎𝐅𝐓𝐎𝐏 | DJ Duar |
+| Sat, 29 Aug 2026 | Rave Rooftop with Golpe | Golpe, Hugorieri, KOBOV, Paul Krist |
 
 ## Address
 

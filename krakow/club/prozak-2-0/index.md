@@ -1,8 +1,8 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "what a mess we made" on Thu, 16 Jul 2026.
+Prozak 2.0 is a music venue in Krakow with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "what a mess we made" on Thu, 16 Jul 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 7 upcoming nights, with line-ups including Hiago Pauli, Kara Okay, Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 9 upcoming nights, with line-ups including Hiago Pauli, Kara Okay, Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
@@ -11,8 +11,10 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 7 upcoming nights, w
 | Thu, 16 Jul 2026 | what a mess we made | outta_8 |
 | Fri, 17 Jul 2026 | ALL THE COOL KIDS LISTEN TO ELECTRO |  |
 | Sat, 18 Jul 2026 | From Australia with Love | Hiago Pauli, Meg (PL) |
+| Thu, 23 Jul 2026 | 90s RAVE |  |
 | Sat, 25 Jul 2026 | PROZAK ON THE ROOF: TWOFACED | Kuriozum, Meg (PL) |
 | Sat, 25 Jul 2026 | Prozak on the Roof: AFTER HOURS | Kuriozum, Meg (PL) |
+| Thu, 30 Jul 2026 | firestarter  |  |
 | Fri, 31 Jul 2026 | MADE IN BRITAIN: A LOVE LETTER TO UK BASS | Kuriozum |
 | Sat, 15 Aug 2026 | PROZAK ON THE ROOF: Kara Okay | Kara Okay, Kuriozum, Meg (PL) |
 

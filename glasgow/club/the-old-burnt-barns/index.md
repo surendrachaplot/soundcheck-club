@@ -9,7 +9,7 @@ The Old Burnt Barns is a music venue in Glasgow listed on soundcheck. 2 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Vela Records Opening Party |  |
-| Sat, 12 Sept 2026 | GOOD FOR YOU |  |
+| Sat, 12 Sept 2026 | 2 GOOD FOR YOU |  |
 
 ## Address
 

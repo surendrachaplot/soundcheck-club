@@ -8,7 +8,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 74 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | You&Me | Alexandria, Dr Banana, Enzo Siragusa, Josh Baker, Silva Bumpa |
+| Thu, 16 Jul 2026 | You&Me | ALISHA, Alex Culross, Alexandria, Dr Banana, Enzo Siragusa, Josh Baker, Sidney Charles, Silva Bumpa |
 | Fri, 17 Jul 2026 | Glitterbox | Alan Dixon, Anane, Heidi Lawden, Krystal Klear, Louie Vega, O'Flynn, The Shapeshifters, Yasmin |
 | Sun, 19 Jul 2026 | Cocoon Amnesia Ibiza | Dana Ruh, Len Faki, Mateo Dufour, Nina Kraviz, Richie Hawtin, Sven Vath |
 | Sun, 19 Jul 2026 | Cocoon at Amnesia 2026 | Dana Ruh, Len Faki, Mateo Dufour, Nina Kraviz, Richie Hawtin, Sven Vath |

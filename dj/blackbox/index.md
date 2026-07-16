@@ -9,7 +9,7 @@ Black Box is a house and techno artist tracked on soundcheck, with 46 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Maximiliansstrand | Munich |
-| Sun, 19 Jul 2026 | Lieberscholli | Munich |
+| Sun, 30 Aug 2026 | Lieberscholli | Munich |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Ly Sas
 
-Ly Sas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
+Ly Sas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Spreefeld Bootshaus, Berlin on Wed, 29 Jul 2026.
 
-Ly Sas is a techno and house artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Hamburg and Nurnberg and 2 more. Often billed alongside Generali Minerali, Irakli and Pink Concrete. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
+Ly Sas is a techno and house artist tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Hamburg and Nurnberg and 2 more. Often billed alongside Pink Concrete, Generali Minerali and Irakli. Next up: Spreefeld Bootshaus, Berlin on Wed 29 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ly Sas is a techno and house artist tracked on soundcheck, with 47 sets logged a
 | --- | --- | --- |
 | Wed, 29 Jul 2026 | Spreefeld Bootshaus | Berlin |
 | Fri, 31 Jul 2026 | Odonien | Cologne |
+| Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Ly Sas is a techno and house artist tracked on soundcheck, with 47 sets logged a
 
 ## Shares bills with
 
-Generali Minerali, Irakli, Pink Concrete
+Pink Concrete, Generali Minerali, Irakli
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lysas/)*

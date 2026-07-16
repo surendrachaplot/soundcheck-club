@@ -9,7 +9,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | SERNA, Yeiem, Safia at ANFANG | SERNA, Safia (2), Yeiem |
-| Fri, 17 Jul 2026 | CDVR invites Hollywood | Conio, DJ Sandwich, Luska, Margott |
+| Fri, 17 Jul 2026 | CDVR invites Hollywood | Conio, DJ Sandwich, Luska, Margott, TWO EX |
 | Sat, 18 Jul 2026 | CDVR invites MATE RECORDS | ANIMANUEL, Deenamic, Rafa Santos, Rony Finkel |
 | Thu, 23 Jul 2026 | Jakka & MÄEM at ANFANG | Jakka, MÄEM |
 | Fri, 24 Jul 2026 | Sigh.CLUB – Closing Party | Avo (ES), Borja S, Cesc (ES), DANIL0, Mark (ES), Nurias |
