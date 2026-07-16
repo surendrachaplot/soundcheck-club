@@ -1,6 +1,6 @@
 # The Hope and Ruin
 
-The Hope and Ruin is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "toy piano presents FLOCO" on Thu, 30 Jul 2026.
+The Hope and Ruin is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "toy piano presents FLOCO" on Thu, 30 Jul 2026.
 
 The Hope and Ruin is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including FLOCO. Browse upcoming dates, start times and who's playing. 11-12 Queens Road, Brighton.
 
@@ -14,4 +14,4 @@ The Hope and Ruin is a music venue in Brighton listed on soundcheck. 1 upcoming 
 
 11-12 Queens Road, Brighton, Brighton
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-hope-and-ruin/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-hope-and-ruin/)*

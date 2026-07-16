@@ -1,6 +1,6 @@
 # m.O.N.R.O.E.
 
-m.O.N.R.O.E. is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Marble Bar, Detroit on Sat, 25 Jul 2026.
+m.O.N.R.O.E. is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Marble Bar, Detroit on Sat, 25 Jul 2026.
 
 m.O.N.R.O.E. is a minimal and tech house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 6 more. Often billed alongside Jorissen, Andrea Ghita and Jason Rault. Next up: Marble Bar, Detroit on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ m.O.N.R.O.E. is a minimal and tech house artist based in United States of Americ
 
 Jorissen, Andrea Ghita, Jason Rault
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monroe/)*

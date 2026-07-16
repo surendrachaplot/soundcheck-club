@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
+Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
 
 Ranger Trucco is a house and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: BRET, Amsterdam on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 84 se
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 13 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "HyperLink" on Thu, 16 Jul 2026.
+Vespers Club is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "HyperLink" on Thu, 16 Jul 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including AAKAARA, Akiko Haruna, Artur M Puga and BABii and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 13 upcoming nights
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

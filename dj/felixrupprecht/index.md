@@ -1,6 +1,6 @@
 # Felix Rupprecht
 
-Felix Rupprecht is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Grelle Forelle, Vienna on Fri, 17 Jul 2026.
+Felix Rupprecht is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Grelle Forelle, Vienna on Fri, 17 Jul 2026.
 
 Felix Rupprecht is a techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Munich and Vienna. Often billed alongside vince, Katia Curie and Muallem. Next up: Grelle Forelle, Vienna on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Felix Rupprecht is a techno artist based in Germany, tracked on soundcheck, with
 
 vince, Katia Curie, Muallem
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*

@@ -1,6 +1,6 @@
 # RYLO (UK)
 
-RYLO (UK) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
+RYLO (UK) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
 
 RYLO (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside HSTN, imad:re and FXCKBOUT. Next up: Cupra City Garage Manchester, Manchester on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ RYLO (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 HSTN, imad:re, FXCKBOUT
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rylo-uk/)*

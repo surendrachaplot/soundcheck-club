@@ -1,6 +1,6 @@
 # The Arlington
 
-The Arlington is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "ANP at the Arly" on Sat, 15 Aug 2026.
+The Arlington is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "ANP at the Arly" on Sat, 15 Aug 2026.
 
 The Arlington is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including All Night Passion. Browse upcoming dates, start times and who's playing. 130 Woodlands Rd, Glasgow G3 6AB, Scotland, United Kingdom.
 
@@ -14,4 +14,4 @@ The Arlington is a music venue in Glasgow listed on soundcheck. 1 upcoming night
 
 130 Woodlands Rd, Glasgow G3 6AB, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-arlington/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-arlington/)*

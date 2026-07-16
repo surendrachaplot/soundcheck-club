@@ -1,6 +1,6 @@
 # Jek (US)
 
-Jek (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Jolene, Copenhagen on Sat, 25 Jul 2026.
+Jek (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jolene, Copenhagen on Sat, 25 Jul 2026.
 
 Jek (US) is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Buenosaires and Copenhagen and 12 more. Often billed alongside djfix, Matas and adobeprincess. Next up: Jolene, Copenhagen on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jek (US) is a techno and house artist tracked on soundcheck, with 63 sets logged
 
 djfix, Matas, adobeprincess
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*

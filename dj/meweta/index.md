@@ -1,6 +1,6 @@
 # meweta
 
-meweta is a Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at clubasia, Tokyo on Fri, 17 Jul 2026.
+meweta is a Bass and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at clubasia, Tokyo on Fri, 17 Jul 2026.
 
 meweta is a bass and electronica artist based in Japan, tracked on soundcheck, with 48 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, Xamd and moge!. Next up: clubasia, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ meweta is a bass and electronica artist based in Japan, tracked on soundcheck, w
 
 NordOst, Xamd, moge!
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meweta/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meweta/)*

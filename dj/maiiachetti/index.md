@@ -1,6 +1,6 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Mad Radio Miami, Miami on Fri, 17 Jul 2026.
+Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mad Radio Miami, Miami on Fri, 17 Jul 2026.
 
 Mai iachetti is a house and tech house artist tracked on soundcheck, with 122 sets logged across Boston, Chicago, Denver and Ibiza and 7 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Mad Radio Miami, Miami on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mai iachetti is a house and tech house artist tracked on soundcheck, with 122 se
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

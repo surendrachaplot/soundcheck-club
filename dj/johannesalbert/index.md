@@ -1,6 +1,6 @@
 # Johannes Albert
 
-Johannes Albert is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MONKEY LOVE, Warsaw on Fri, 17 Jul 2026.
+Johannes Albert is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MONKEY LOVE, Warsaw on Fri, 17 Jul 2026.
 
 Johannes Albert is a house and techno artist tracked on soundcheck, with 93 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 12 more. Often billed alongside Iron Curtis, Ady Toledano and Leon Licht. Next up: MONKEY LOVE, Warsaw on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Johannes Albert is a house and techno artist tracked on soundcheck, with 93 sets
 
 Iron Curtis, Ady Toledano, Leon Licht
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*

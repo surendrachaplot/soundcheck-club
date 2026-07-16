@@ -1,6 +1,6 @@
 # nimino
 
-nimino is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
+nimino is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
 
 nimino is a house and electronica artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Lane 8, Elderbrook and Honey Dijon. Next up: Finsbury Park, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ nimino is a house and electronica artist tracked on soundcheck, with 44 sets log
 
 Lane 8, Elderbrook, Honey Dijon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*

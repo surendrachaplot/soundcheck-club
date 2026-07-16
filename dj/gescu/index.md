@@ -1,6 +1,6 @@
 # Gescu
 
-Gescu is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
+Gescu is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Gescu is a minimal and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Brussels and 18 more. Often billed alongside CEZAR, Arapu and BILA. Next up: Playa Soleil Ibiza, Ibiza on Wed 22 Jul.
 
@@ -27,4 +27,4 @@ Gescu is a minimal and house artist tracked on soundcheck, with 67 sets logged a
 
 CEZAR, Arapu, BILA
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gescu/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gescu/)*

@@ -1,6 +1,6 @@
 # TBA - Future Intel
 
-TBA - Future Intel is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "INVERNO & Ká at Future Intel" on Thu, 16 Jul 2026.
+TBA - Future Intel is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "INVERNO & Ká at Future Intel" on Thu, 16 Jul 2026.
 
 TBA - Future Intel is a music venue in Thehague listed on soundcheck. 1 upcoming night, with line-ups including INVERNO and Ká (DE). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Future Intel is a music venue in Thehague listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Thu, 16 Jul 2026 | INVERNO & Ká at Future Intel | INVERNO, Ká (DE) |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/tba-future-intel/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/tba-future-intel/)*

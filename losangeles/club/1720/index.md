@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "System Error presents Lumasi" on Sat, 18 Jul 2026.
+1720 is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "System Error presents Lumasi" on Sat, 18 Jul 2026.
 
 1720 is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Bayymack and What So Not. Browse upcoming dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -16,4 +16,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

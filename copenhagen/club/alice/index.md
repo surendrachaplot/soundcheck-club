@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Opening Concert: Roda de Santo (PT) + Carla Schack (BR/DK)" on Fri, 28 Aug 2026.
+ALICE is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Opening Concert: Roda de Santo (PT) + Carla Schack (BR/DK)" on Fri, 28 Aug 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including Dengue Dengue Dengue, Mike Sheridan and Safety Trance. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -18,4 +18,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, wi
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

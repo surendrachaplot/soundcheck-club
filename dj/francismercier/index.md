@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 19 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Santanna Mykonos, Mykonos on Wed, 15 Jul 2026.
+Francis Mercier is a Afro House and House artist with 18 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 20 Jul 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Santanna Mykonos, Mykonos on Wed 15 Jul.
+Francis Mercier is an afro house and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 20 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Santanna Mykonos | Mykonos |
 | Mon, 20 Jul 2026 | Hï Ibiza | Ibiza |
 | Wed, 22 Jul 2026 | Santanna Mykonos | Mykonos |
 | Sat, 25 Jul 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
@@ -20,9 +19,11 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 | Mon, 17 Aug 2026 | Hï Ibiza | Ibiza |
 | Wed, 19 Aug 2026 | Santanna Mykonos | Mykonos |
 | Mon, 24 Aug 2026 | Hï Ibiza | Ibiza |
+| Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Wed, 15 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 13 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 6 Jul 2026
 - Santanna Mykonos, Mykonos — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 - Hï Ibiza, Ibiza — Mon, 29 Jun 2026
 - Hï Ibiza, Ibiza — Mon, 22 Jun 2026
 - Hï Ibiza, Ibiza — Mon, 15 Jun 2026
-- Industry City, New York City — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

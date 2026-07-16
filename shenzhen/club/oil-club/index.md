@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 25 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "The Mantis Project" on Thu, 16 Jul 2026.
+OIL Club is a music venue in Shenzhen with 25 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "The Mantis Project" on Thu, 16 Jul 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 25 upcoming nights, with line-ups including Alion, Andrew Moore, Answer Code Request and Beibeilon and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 25 upcoming nights, 
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

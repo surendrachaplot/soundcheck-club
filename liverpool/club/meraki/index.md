@@ -1,6 +1,6 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "PUSH THE SOUND" on Fri, 17 Jul 2026.
+Meraki is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "PUSH THE SOUND" on Fri, 17 Jul 2026.
 
 Meraki is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Bella Boo, Dav, DE-CON and DR.KRONOS and 2 more. Browse upcoming dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
@@ -19,4 +19,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, wi
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

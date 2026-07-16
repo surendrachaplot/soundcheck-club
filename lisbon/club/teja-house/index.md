@@ -1,6 +1,6 @@
 # Teja House
 
-Teja House is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "afterglow morning · run · coffee · rave · by the water" on Sat, 18 Jul 2026.
+Teja House is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "afterglow morning · run · coffee · rave · by the water" on Sat, 18 Jul 2026.
 
 Teja House is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Teja House is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | afterglow morning · run · coffee · rave · by the water |  |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*

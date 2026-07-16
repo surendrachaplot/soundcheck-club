@@ -1,6 +1,6 @@
 # IDEMI
 
-IDEMI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+IDEMI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 IDEMI is a house and techno artist tracked on soundcheck, with 16 sets logged across Aberdeen, Amsterdam, Brisbane and Chicago and 11 more. Often billed alongside Marsolo, DJ Gigola and A.N.I.. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ IDEMI is a house and techno artist tracked on soundcheck, with 16 sets logged ac
 
 Marsolo, DJ Gigola, A.N.I.
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

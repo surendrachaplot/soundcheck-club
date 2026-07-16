@@ -1,6 +1,6 @@
 # Alex Pastor
 
-Alex Pastor is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Boston on Fri, 17 Jul 2026.
+Alex Pastor is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Boston on Fri, 17 Jul 2026.
 
 Alex Pastor is a house and techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Boston, Chicago, Denver and Detroit and 7 more. Often billed alongside Kev Gee, John Patrick and Connor Mikami. Next up: TBA, Boston on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Alex Pastor is a house and techno artist based in United States of America, trac
 
 Kev Gee, John Patrick, Connor Mikami
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*

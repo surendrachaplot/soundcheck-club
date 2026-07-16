@@ -1,6 +1,6 @@
 # FOI (SK)
 
-FOI (SK) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Nyapi, Seoul on Thu, 16 Jul 2026.
+FOI (SK) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nyapi, Seoul on Thu, 16 Jul 2026.
 
 FOI (SK) is a house and minimal artist based in South Korea, tracked on soundcheck, with 53 sets logged across Seoul. Often billed alongside givogi, Jimin and Riskii (2). Next up: Nyapi, Seoul on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ FOI (SK) is a house and minimal artist based in South Korea, tracked on soundche
 
 givogi, Jimin, Riskii (2)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*

@@ -1,6 +1,6 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Altenburg 1964, Prague on Sat, 18 Jul 2026.
+Paralich is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Altenburg 1964, Prague on Sat, 18 Jul 2026.
 
 Paralich is a techno and trance artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Altenburg 1964, Prague on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 150 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

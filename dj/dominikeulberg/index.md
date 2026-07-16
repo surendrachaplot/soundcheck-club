@@ -1,6 +1,6 @@
 # Dominik Eulberg
 
-Dominik Eulberg is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Cologne on Sat, 25 Jul 2026.
+Dominik Eulberg is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Cologne on Sat, 25 Jul 2026.
 
 Dominik Eulberg is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Basel, Berlin and Cologne and 11 more. Often billed alongside Super Flu, Bebetta and Marius Lehnert. Next up: TBA, Cologne on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Dominik Eulberg is a techno and house artist tracked on soundcheck, with 78 sets
 
 Super Flu, Bebetta, Marius Lehnert
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*

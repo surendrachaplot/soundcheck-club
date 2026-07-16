@@ -1,6 +1,6 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 20 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "X CLUB, Juicy Romance, Valrik" on Thu, 16 Jul 2026.
+Trädgården is a music venue in Stockholm with 20 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "X CLUB, Juicy Romance, Valrik" on Thu, 16 Jul 2026.
 
 Trädgården is a music venue in Stockholm listed on soundcheck. 20 upcoming nights, with line-ups including ALCATRAZ, Amaliah, Anthony Linell and Art Alfie and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -23,4 +23,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 20 upcoming nig
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

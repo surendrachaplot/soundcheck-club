@@ -1,14 +1,13 @@
 # YSY
 
-YSY is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "YSY Wednesday Jazz" on Wed, 15 Jul 2026.
+YSY is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "YSY Wednesday Jazz Series" on Wed, 22 Jul 2026.
 
-YSY is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Frankfurter Allee 23.
+YSY is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Frankfurter Allee 23.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | YSY Wednesday Jazz |  |
 | Wed, 22 Jul 2026 | YSY Wednesday Jazz Series |  |
 | Wed, 29 Jul 2026 | YSY Wednesday Jazz Series |  |
 
@@ -16,4 +15,4 @@ YSY is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse u
 
 Frankfurter Allee 23, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*

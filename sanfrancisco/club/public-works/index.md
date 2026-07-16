@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Club Moniker: K Wata (live) + zi!" on Fri, 17 Jul 2026.
+Public Works is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Club Moniker: K Wata (live) + zi!" on Fri, 17 Jul 2026.
 
 Public Works is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including AGROPOL, Anderson Bourne, Asymmetry and Avision and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

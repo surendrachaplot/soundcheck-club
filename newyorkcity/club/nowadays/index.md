@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Conditioner: Balam Acab (live), Bby Eco (live), duendita (DJ), RP Boo (DJ), Woesum" on Thu, 16 Jul 2026.
+Nowadays is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Conditioner: Balam Acab (live), Bby Eco (live), duendita (DJ), RP Boo (DJ), Woesum" on Thu, 16 Jul 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including Aaron J, aka-Sol, Akanbi and Ali Coleman and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 28 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

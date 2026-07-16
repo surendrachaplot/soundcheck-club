@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "The Dub Techno Chess Club" on Thu, 16 Jul 2026.
+The Love Inn is a music venue in Bristol with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "The Dub Techno Chess Club" on Thu, 16 Jul 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 12 upcoming nights, with line-ups including AdomasLP, Axle, Charlie Dark and CHIDA and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -23,4 +23,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 12 upcoming night
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

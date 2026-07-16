@@ -1,6 +1,6 @@
 # Pollyanna
 
-Pollyanna is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Bongo Club, Edinburgh on Fri, 17 Jul 2026.
+Pollyanna is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Bongo Club, Edinburgh on Fri, 17 Jul 2026.
 
 Pollyanna is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Dundee, Edinburgh and Glasgow. Often billed alongside Harry Jackson, Rodent and Teknocrat. Next up: The Bongo Club, Edinburgh on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Pollyanna is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Harry Jackson, Rodent, Teknocrat
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pollyanna/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pollyanna/)*

@@ -1,6 +1,6 @@
 # John Raffaele
 
-John Raffaele is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Liberty Point, Philadelphia on Sun, 19 Jul 2026.
+John Raffaele is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Liberty Point, Philadelphia on Sun, 19 Jul 2026.
 
 John Raffaele is a house and techno artist tracked on soundcheck, with 72 sets logged across Austin, Barcelona, Boston and Brussels and 7 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: Liberty Point, Philadelphia on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ John Raffaele is a house and techno artist tracked on soundcheck, with 72 sets l
 
 Keen, Sweater, Rob Paine
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*

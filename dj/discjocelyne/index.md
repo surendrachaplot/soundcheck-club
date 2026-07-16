@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Paradise Palms, Edinburgh on Fri, 17 Jul 2026.
+discjocelyne is a Post-Punk and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Paradise Palms, Edinburgh on Fri, 17 Jul 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and otisworming. Next up: Paradise Palms, Edinburgh on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, tracked on
 
 Ravelston, Lara Sinclair, otisworming
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

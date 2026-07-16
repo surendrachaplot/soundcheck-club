@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian" on Fri, 17 Jul 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sissi's Friday with Eileen, Dam Swindle, Cameron Audio & Mixolydian" on Fri, 17 Jul 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Abiba Sokoto, Alec Dienaar, CHEM:EX and Cromby and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -20,4 +20,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

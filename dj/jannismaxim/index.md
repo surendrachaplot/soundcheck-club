@@ -1,6 +1,6 @@
 # Jannis Maxim
 
-Jannis Maxim is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 18 Jul 2026.
+Jannis Maxim is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lehmann Club, Stuttgart on Sat, 18 Jul 2026.
 
 Jannis Maxim is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Munich and Stuttgart. Often billed alongside AHURA, Nazz and SYMON. Next up: Lehmann Club, Stuttgart on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Jannis Maxim is a techno and house artist based in Germany, tracked on soundchec
 
 AHURA, Nazz, SYMON
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jannismaxim/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jannismaxim/)*

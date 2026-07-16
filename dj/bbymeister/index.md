@@ -1,6 +1,6 @@
 # bbymeister
 
-bbymeister is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Treptower Park, Berlin on Sat, 18 Jul 2026.
+bbymeister is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Treptower Park, Berlin on Sat, 18 Jul 2026.
 
 bbymeister is a techno and trance artist based in Germany, tracked on soundcheck, with 85 sets logged across Berlin, London and Paris. Often billed alongside August Kind, Deltapeak and jeanska. Next up: Treptower Park, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ bbymeister is a techno and trance artist based in Germany, tracked on soundcheck
 
 August Kind, Deltapeak, jeanska
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymeister/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bbymeister/)*

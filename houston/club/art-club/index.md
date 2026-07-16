@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "(c)rave pres. Eurohead, Woesum, S280F" on Fri, 17 Jul 2026.
+Art Club is a music venue in Houston with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "(c)rave pres. Eurohead, Woesum, S280F" on Fri, 17 Jul 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 8 upcoming nights, with line-ups including S280F, Eurohead, Omar+ and Oppidan and 2 more. Browse upcoming dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -21,4 +21,4 @@ Art Club is a music venue in Houston listed on soundcheck. 8 upcoming nights, wi
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

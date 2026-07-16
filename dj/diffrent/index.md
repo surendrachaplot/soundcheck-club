@@ -1,6 +1,6 @@
 # Diffrent
 
-Diffrent is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 18 Jul 2026.
+Diffrent is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 18 Jul 2026.
 
 Diffrent is a garage and house artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 38 more. Often billed alongside Kyle Starkey, SAIDAH and Faster Horses. Next up: Club Phoenix - Gianpula Village, Malta on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Diffrent is a garage and house artist tracked on soundcheck, with 121 sets logge
 
 Kyle Starkey, SAIDAH, Faster Horses
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

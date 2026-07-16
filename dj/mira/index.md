@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bikini Beach, Cologne on Fri, 17 Jul 2026.
+Mira is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bikini Beach, Cologne on Fri, 17 Jul 2026.
 
 Mira is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Austin and Bangkok and 37 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Bikini Beach, Cologne on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Mira is a house and techno artist tracked on soundcheck, with 183 sets logged ac
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

@@ -1,6 +1,6 @@
 # Intergalactic Gary
 
-Intergalactic Gary is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Doka, Amsterdam on Fri, 25 Sept 2026.
+Intergalactic Gary is a Disco and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Doka, Amsterdam on Fri, 25 Sept 2026.
 
 Intergalactic Gary is a disco and italo disco artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 15 more. Often billed alongside I-F, Marsman and David Vunk. Next up: Doka, Amsterdam on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Intergalactic Gary is a disco and italo disco artist tracked on soundcheck, with
 
 I-F, Marsman, David Vunk
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*

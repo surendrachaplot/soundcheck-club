@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "PALET Mini Festival" on Sat, 18 Jul 2026.
+Lofi is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "PALET Mini Festival" on Sat, 18 Jul 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including 1991 (UK), Yulia Niko, AC13 and Agonis and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, wit
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

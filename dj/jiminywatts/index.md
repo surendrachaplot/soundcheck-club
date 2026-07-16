@@ -1,6 +1,6 @@
 # Jiminy Watts
 
-Jiminy Watts is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Glove That Fits, London on Sat, 25 Jul 2026.
+Jiminy Watts is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Glove That Fits, London on Sat, 25 Jul 2026.
 
 Jiminy Watts is a house and techno artist tracked on soundcheck, with 43 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Jacob Trip, Rolo (2) and Elleinad. Next up: The Glove That Fits, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jiminy Watts is a house and techno artist tracked on soundcheck, with 43 sets lo
 
 Jacob Trip, Rolo (2), Elleinad
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*

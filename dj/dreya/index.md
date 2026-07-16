@@ -1,6 +1,6 @@
 # DREYA
 
-DREYA is a House and Afrobeat artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Grelle Forelle, Vienna on Fri, 17 Jul 2026.
+DREYA is a House and Afrobeat artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Grelle Forelle, Vienna on Fri, 17 Jul 2026.
 
 DREYA is a house and afrobeat artist based in Austria, tracked on soundcheck, with 30 sets logged across Berlin, Geneva, Ibiza and Miami and 5 more. Often billed alongside TEZIBEL, DJ Deadlift and Felix Rupprecht. Next up: Grelle Forelle, Vienna on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ DREYA is a house and afrobeat artist based in Austria, tracked on soundcheck, wi
 
 TEZIBEL, DJ Deadlift, Felix Rupprecht
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dreya/)*

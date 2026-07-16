@@ -1,6 +1,6 @@
 # Glasweise
 
-Glasweise is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "GOLDEN GROOVES" on Thu, 16 Jul 2026.
+Glasweise is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "GOLDEN GROOVES" on Thu, 16 Jul 2026.
 
 Glasweise is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Simon C.. Browse upcoming dates, start times and who's playing. Taubenstr. 20.
 
@@ -14,4 +14,4 @@ Glasweise is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Taubenstr. 20, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/glasweise/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/glasweise/)*

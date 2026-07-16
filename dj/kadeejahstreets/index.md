@@ -1,6 +1,6 @@
 # Kadeejah Streets
 
-Kadeejah Streets is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Monkey Loft, Seattle on Thu, 6 Aug 2026.
+Kadeejah Streets is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Monkey Loft, Seattle on Thu, 6 Aug 2026.
 
 Kadeejah Streets is a house and acid artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Osaka, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, DJ SH1-TR and Lord Phatrick. Next up: The Monkey Loft, Seattle on Thu 6 Aug.
 
@@ -28,4 +28,4 @@ Kadeejah Streets is a house and acid artist based in United States of America, t
 
 Sharlese, DJ SH1-TR, Lord Phatrick
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*

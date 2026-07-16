@@ -1,6 +1,6 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
+dj g2g is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bain Mathieu, Montreal on Fri, 24 Jul 2026.
 
 dj g2g is a techno and club artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Bain Mathieu, Montreal on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ dj g2g is a techno and club artist tracked on soundcheck, with 104 sets logged a
 
 Azyr, Miss Bashful x DBBD, Adrian Mills
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

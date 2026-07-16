@@ -1,6 +1,6 @@
 # PAUNA
 
-PAUNA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at FLUCC, Vienna on Fri, 31 Jul 2026.
+PAUNA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at FLUCC, Vienna on Fri, 31 Jul 2026.
 
 PAUNA is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: FLUCC, Vienna on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ PAUNA is a techno and trance artist tracked on soundcheck, with 36 sets logged a
 
 NUNØ, KRETA, Kay Barton
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*

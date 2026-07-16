@@ -1,6 +1,6 @@
 # TDJ
 
-TDJ is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
+TDJ is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nitsa Club, Barcelona on Fri, 31 Jul 2026.
 
 TDJ is a techno and trance artist tracked on soundcheck, with 129 sets logged across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: Nitsa Club, Barcelona on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ TDJ is a techno and trance artist tracked on soundcheck, with 129 sets logged ac
 
 Cult Member, Zorza, MCR-T
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*

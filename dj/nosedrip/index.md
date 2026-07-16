@@ -1,6 +1,6 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+Nosedrip is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 Nosedrip is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OKO DJ, CJ Bolland and Donato Dozzy. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -28,4 +28,4 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 121 sets logge
 
 OKO DJ, CJ Bolland, Donato Dozzy
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

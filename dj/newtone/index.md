@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 24 Jul 2026.
+NewTone is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 24 Jul 2026.
 
 NewTone is a house and progressive house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Bali and Cologne and 9 more. Often billed alongside Boris Coelman, TINS and Trippy Tins. Next up: Shelter Amsterdam, Amsterdam on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ NewTone is a house and progressive house artist tracked on soundcheck, with 95 s
 
 Boris Coelman, TINS, Trippy Tins
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

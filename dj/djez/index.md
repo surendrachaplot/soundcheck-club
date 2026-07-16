@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
+DJ EZ is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 27 more. Often billed alongside Danny Howard, Sonny Fodera and Moxie. Next up: OLT Rivierenhof, Antwerp on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ DJ EZ is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Danny Howard, Sonny Fodera, Moxie
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

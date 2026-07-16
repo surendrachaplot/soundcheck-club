@@ -1,6 +1,6 @@
 # Jaffa Surfa
 
-Jaffa Surfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Pontoon Budapest, Budapest on Thu, 16 Jul 2026.
+Jaffa Surfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Pontoon Budapest, Budapest on Thu, 16 Jul 2026.
 
 Jaffa Surfa is a house and techno artist based in Hungary, tracked on soundcheck, with 80 sets logged across Budapest, Lisbon and Valencia. Often billed alongside Maron, Adx and Captain Knuckles. Next up: Pontoon Budapest, Budapest on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Jaffa Surfa is a house and techno artist based in Hungary, tracked on soundcheck
 
 Maron, Adx, Captain Knuckles
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaffasurfa/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jaffasurfa/)*

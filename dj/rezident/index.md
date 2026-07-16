@@ -1,6 +1,6 @@
 # Rezident
 
-Rezident is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 26 Jul 2026.
+Rezident is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 26 Jul 2026.
 
 Rezident is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 19 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: Křižíkova Fountain, Prague on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Rezident is a house and techno artist tracked on soundcheck, with 40 sets logged
 
 Nicky Elisabeth, Braxton, Qrion
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*

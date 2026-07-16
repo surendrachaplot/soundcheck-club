@@ -1,6 +1,6 @@
 # Plastician
 
-Plastician is a Dubstep and Grime artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Phonox, London on Fri, 17 Jul 2026.
+Plastician is a Dubstep and Grime artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Phonox, London on Fri, 17 Jul 2026.
 
 Plastician is a dubstep and grime artist tracked on soundcheck, with 68 sets logged across Auckland, Birmingham, Bristol and Chicago and 13 more. Often billed alongside Just Jane, Skream and El-B. Next up: Phonox, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Plastician is a dubstep and grime artist tracked on soundcheck, with 68 sets log
 
 Just Jane, Skream, El-B
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

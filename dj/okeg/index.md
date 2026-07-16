@@ -1,6 +1,6 @@
 # OK EG
 
-OK EG is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Macadam, Nantes on Fri, 17 Jul 2026.
+OK EG is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Macadam, Nantes on Fri, 17 Jul 2026.
 
 OK EG is a techno and electronica artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: Macadam, Nantes on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ OK EG is a techno and electronica artist tracked on soundcheck, with 44 sets log
 
 Kia (AU), Bambi (FR), Priori
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

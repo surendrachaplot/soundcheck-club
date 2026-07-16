@@ -1,6 +1,6 @@
 # LARISHKA (UK)
 
-LARISHKA (UK) is a Garage and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Freight Brixton, London on Sat, 22 Aug 2026.
+LARISHKA (UK) is a Garage and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Freight Brixton, London on Sat, 22 Aug 2026.
 
 LARISHKA (UK) is a garage and disco artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Bristol, Leeds, London and Manchester. Often billed alongside Rich Reason, T-Man (UK) and Oppidan. Next up: Freight Brixton, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ LARISHKA (UK) is a garage and disco artist based in United Kingdom, tracked on s
 
 Rich Reason, T-Man (UK), Oppidan
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka-uk/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka-uk/)*

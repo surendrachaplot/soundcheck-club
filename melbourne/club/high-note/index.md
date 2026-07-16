@@ -1,6 +1,6 @@
 # High Note
 
-High Note is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Where We Speak (Vol. 2)" on Fri, 17 Jul 2026.
+High Note is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Where We Speak (Vol. 2)" on Fri, 17 Jul 2026.
 
 High Note is a music venue in Melbourne listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 220 High St, Northcote.
 
@@ -15,4 +15,4 @@ High Note is a music venue in Melbourne listed on soundcheck. 2 upcoming nights.
 
 220 High St, Northcote, Melbourne
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*

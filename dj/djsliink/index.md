@@ -1,6 +1,6 @@
 # Dj Sliink
 
-Dj Sliink is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Meow Wolf Houston, Houston on Fri, 7 Aug 2026.
+Dj Sliink is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Meow Wolf Houston, Houston on Fri, 7 Aug 2026.
 
 Dj Sliink is a club and house artist tracked on soundcheck, with 38 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: Meow Wolf Houston, Houston on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Dj Sliink is a club and house artist tracked on soundcheck, with 38 sets logged 
 
 AceMo, Sinistarr, Suzi Analogue
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*

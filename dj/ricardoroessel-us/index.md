@@ -1,6 +1,6 @@
 # Ricardo Roessel
 
-Ricardo Roessel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Culture Box, Copenhagen on Sat, 18 Jul 2026.
+Ricardo Roessel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Culture Box, Copenhagen on Sat, 18 Jul 2026.
 
 Ricardo Roessel is a house and techno artist tracked on soundcheck, with 65 sets logged across Berlin, Chicago, Copenhagen and Denver and 10 more. Often billed alongside Crisco, jayah and Gene Hunt. Next up: Culture Box, Copenhagen on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Ricardo Roessel is a house and techno artist tracked on soundcheck, with 65 sets
 
 Crisco, jayah, Gene Hunt
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*

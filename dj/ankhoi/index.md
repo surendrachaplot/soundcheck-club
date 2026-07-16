@@ -1,6 +1,6 @@
 # Ankhoï
 
-Ankhoï is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bazart, Montreal on Fri, 17 Jul 2026.
+Ankhoï is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bazart, Montreal on Fri, 17 Jul 2026.
 
 Ankhoï is an afro house and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Houston and Ibiza and 12 more. Often billed alongside Adam Ten, JAMIIE and Kitty Amor. Next up: Bazart, Montreal on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Ankhoï is an afro house and house artist tracked on soundcheck, with 34 sets lo
 
 Adam Ten, JAMIIE, Kitty Amor
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*

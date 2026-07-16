@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 7 Aug 2026.
+Ede is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 7 Aug 2026.
 
 Ede is a house and techno artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Ede is a house and techno artist based in Germany, tracked on soundcheck, with 8
 
 Skatman, julës jay, JAMIIE
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

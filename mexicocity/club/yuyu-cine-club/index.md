@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Yu Yu Cine Club: Milky Babe Records takeover with DJ Milka, Camila Valero, Celice" on Fri, 17 Jul 2026.
+YuYu Cine Club is a music venue in Mexico City with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Yu Yu Cine Club: Milky Babe Records takeover with DJ Milka, Camila Valero, Celice" on Fri, 17 Jul 2026.
 
 YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 7 upcoming nights, with line-ups including Buena Tarde, Byrell The Great, Camila Valero and Carmina and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -20,4 +20,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 7 upcoming n
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

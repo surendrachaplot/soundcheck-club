@@ -1,6 +1,6 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gray Area, San Francisco/Oakland on Thu, 16 Jul 2026.
+Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gray Area, San Francisco/Oakland on Thu, 16 Jul 2026.
 
 Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Gray Area, Sanfrancisco on Thu 16 Jul.
 
@@ -31,4 +31,4 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 se
 
 Actress, Logic1000, Or:la
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

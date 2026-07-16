@@ -1,6 +1,6 @@
 # Spacer Woman
 
-Spacer Woman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Le Transbordeur, Lyon on Sat, 18 Jul 2026.
+Spacer Woman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Le Transbordeur, Lyon on Sat, 18 Jul 2026.
 
 Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside MALUGI, Justin Tinderdate and Marlon Hoffstadt. Next up: Le Transbordeur, Lyon on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Spacer Woman is a techno and trance artist tracked on soundcheck, with 129 sets 
 
 MALUGI, Justin Tinderdate, Marlon Hoffstadt
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/spacerwoman/)*

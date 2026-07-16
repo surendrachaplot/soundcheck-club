@@ -1,6 +1,6 @@
 # Matthew Brian
 
-Matthew Brian is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Air Conditioned Lounge, San Diego on Fri, 17 Jul 2026.
+Matthew Brian is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Air Conditioned Lounge, San Diego on Fri, 17 Jul 2026.
 
 Matthew Brian is a house and deep house artist based in United States of America, tracked on soundcheck, with 62 sets logged across Chicago, Sandiego and Sanfrancisco. Often billed alongside Eric Leonardis, Jesse Austin and Boys Don't Disco. Next up: The Air Conditioned Lounge, Sandiego on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Matthew Brian is a house and deep house artist based in United States of America
 
 Eric Leonardis, Jesse Austin, Boys Don't Disco
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewbrian/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewbrian/)*

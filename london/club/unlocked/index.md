@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Chris Lorenzo [FREE POP-UP] W/Special Guests" on Thu, 16 Jul 2026.
+UNLOCKED is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Chris Lorenzo [FREE POP-UP] W/Special Guests" on Thu, 16 Jul 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Carina Lawrence, Chris Lorenzo, Eelke Kleijn and High Fade and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -18,4 +18,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

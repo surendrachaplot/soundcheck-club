@@ -1,6 +1,6 @@
 # KEEFE
 
-KEEFE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at SubT Lounge, Chicago on Sat, 18 Jul 2026.
+KEEFE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at SubT Lounge, Chicago on Sat, 18 Jul 2026.
 
 KEEFE is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Chicago and Sanfrancisco. Often billed alongside mike ext, Nathaniel Pavel and Adam Pecho. Next up: SubT Lounge, Chicago on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ KEEFE is a techno and house artist based in United States of America, tracked on
 
 mike ext, Nathaniel Pavel, Adam Pecho
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keefe/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keefe/)*

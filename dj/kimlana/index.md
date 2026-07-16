@@ -1,6 +1,6 @@
 # Kim Lana
 
-Kim Lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Golden Lion, Manchester on Sat, 25 Jul 2026.
+Kim Lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Golden Lion, Manchester on Sat, 25 Jul 2026.
 
 Kim Lana is a house and techno artist tracked on soundcheck, with 42 sets logged across Glasgow, Leeds, London and Manchester and 1 more. Often billed alongside Aiden Francis, DJ Bottom and Fastlove. Next up: The Golden Lion, Manchester on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kim Lana is a house and techno artist tracked on soundcheck, with 42 sets logged
 
 Aiden Francis, DJ Bottom, Fastlove
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlana/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlana/)*

@@ -1,6 +1,6 @@
 # History
 
-History is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Overmono - Pure Devotion World Tour" on Sat, 10 Oct 2026.
+History is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Overmono - Pure Devotion World Tour" on Sat, 10 Oct 2026.
 
 History is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Overmono. Browse upcoming dates, start times and who's playing. 1663 Queen St E, Toronto, ON M4L 1G5.
 
@@ -14,4 +14,4 @@ History is a music venue in Toronto listed on soundcheck. 1 upcoming night, with
 
 1663 Queen St E, Toronto, ON M4L 1G5, Toronto
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/history/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/history/)*

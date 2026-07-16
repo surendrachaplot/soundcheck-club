@@ -1,6 +1,6 @@
 # Lexer
 
-Lexer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 9 Aug 2026.
+Lexer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Křižíkova Fountain, Prague on Sun, 9 Aug 2026.
 
 Lexer is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Berlin and Brussels and 16 more. Often billed alongside Matchy, A.D.H.S. and Anahit Vardanyan. Next up: Křižíkova Fountain, Prague on Sun 9 Aug.
 
@@ -26,4 +26,4 @@ Lexer is a techno and house artist tracked on soundcheck, with 64 sets logged ac
 
 Matchy, A.D.H.S., Anahit Vardanyan
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*

@@ -1,6 +1,6 @@
 # P Money
 
-P Money is a Drum & Bass and Grime artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Phonox, London on Fri, 17 Jul 2026.
+P Money is a Drum & Bass and Grime artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Phonox, London on Fri, 17 Jul 2026.
 
 P Money is a drum & bass and grime artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 17 more. Often billed alongside Whiney, Flava D and Degs. Next up: Phonox, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ P Money is a drum & bass and grime artist tracked on soundcheck, with 67 sets lo
 
 Whiney, Flava D, Degs
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*

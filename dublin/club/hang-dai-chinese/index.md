@@ -1,6 +1,6 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Justin Strauss (NYC), Billy Scurry, Arveene in Hang Dai" on Fri, 17 Jul 2026.
+Hang Dai Chinese is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Justin Strauss (NYC), Billy Scurry, Arveene in Hang Dai" on Fri, 17 Jul 2026.
 
 Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Arveene, Billy Scurry, Eclair Fifi and Justin Strauss and 1 more. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
@@ -18,4 +18,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 5 upcoming nig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

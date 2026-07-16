@@ -1,6 +1,6 @@
 # Mas Fuego
 
-Mas Fuego is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - secret location in Peckham, London on Fri, 17 Jul 2026.
+Mas Fuego is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - secret location in Peckham, London on Fri, 17 Jul 2026.
 
 Mas Fuego is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Bristol, Ibiza and London and 1 more. Often billed alongside MiddleGround, Raldo and Laurenzo Fab. Next up: TBA - secret location in Peckham, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mas Fuego is a tech house and house artist based in United Kingdom, tracked on s
 
 MiddleGround, Raldo, Laurenzo Fab
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masfuego/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/masfuego/)*

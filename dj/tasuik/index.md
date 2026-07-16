@@ -1,6 +1,6 @@
 # Tasuik
 
-Tasuik is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Warschauer Straße, Berlin on Fri, 24 Jul 2026.
+Tasuik is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Warschauer Straße, Berlin on Fri, 24 Jul 2026.
 
 Tasuik is a trance and techno artist based in Spain, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside JRG, Møstroh and Bluntz. Next up: TBA - Warschauer Straße, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Tasuik is a trance and techno artist based in Spain, tracked on soundcheck, with
 
 JRG, Møstroh, Bluntz
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tasuik/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tasuik/)*

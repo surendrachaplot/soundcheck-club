@@ -1,6 +1,6 @@
 # Mary Yuzovskaya
 
-Mary Yuzovskaya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Asd Laghi Carcana, Milan on Sat, 18 Jul 2026.
+Mary Yuzovskaya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Asd Laghi Carcana, Milan on Sat, 18 Jul 2026.
 
 Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: Asd Laghi Carcana, Milan on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 92 sets
 
 Amotik, Delano Legito, Altinbas
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryyuzovskaya/)*

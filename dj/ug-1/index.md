@@ -1,6 +1,6 @@
 # UG (1)
 
-UG (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Volnost, Seoul on Sat, 25 Jul 2026.
+UG (1) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Volnost, Seoul on Sat, 25 Jul 2026.
 
 UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck, with 7 sets logged across Seoul and Tokyo. Often billed alongside Sakuma, age (1) and AI (10). Next up: Volnost, Seoul on Sat 25 Jul.
 
@@ -23,4 +23,4 @@ UG (1) is a techno and experimental artist based in Japan, tracked on soundcheck
 
 Sakuma, age (1), AI (10)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ug-1/)*

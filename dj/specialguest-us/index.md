@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
+Special Guest (US) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Renate, Berlin on Thu, 16 Jul 2026.
 
 Special Guest (US) is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Carasel, DJ S (UK) and Whiney. Next up: Renate, Berlin on Thu 16 Jul.
 
@@ -29,4 +29,4 @@ Special Guest (US) is a house and techno artist tracked on soundcheck, with 140 
 
 Carasel, DJ S (UK), Whiney
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

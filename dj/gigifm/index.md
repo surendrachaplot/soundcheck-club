@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 16 Jul 2026.
+GiGi FM is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 16 Jul 2026.
 
 GiGi FM is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 16 Jul.
 
@@ -36,4 +36,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 157 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

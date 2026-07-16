@@ -1,6 +1,6 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
+Mad.Again (2) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cova Santa, Ibiza on Tue, 21 Jul 2026.
 
 Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Cova Santa, Ibiza on Tue 21 Jul.
 
@@ -30,4 +30,4 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 61 se
 
 Locky, Liam Palmer, Elliot Schooling
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*

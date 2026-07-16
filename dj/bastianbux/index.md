@@ -1,6 +1,6 @@
 # Bastian Bux
 
-Bastian Bux is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at H0l0 Yard, New York City on Sat, 18 Jul 2026.
+Bastian Bux is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at H0l0 Yard, New York City on Sat, 18 Jul 2026.
 
 Bastian Bux is a tech house and house artist based in Spain, tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Boston and 19 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: H0l0 Yard, Newyorkcity on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ Bastian Bux is a tech house and house artist based in Spain, tracked on soundche
 
 Tini Gessler, Eats Everything, Ilario Alicante
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*

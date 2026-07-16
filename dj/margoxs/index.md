@@ -1,6 +1,6 @@
 # Margo XS
 
-Margo XS is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
+Margo XS is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Else, Berlin on Sat, 25 Jul 2026.
 
 Margo XS is a house and club artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, London and Losangeles and 3 more. Often billed alongside DJ Gigola, ALCATRAZ and Goddollars. Next up: Else, Berlin on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Margo XS is a house and club artist tracked on soundcheck, with 20 sets logged a
 
 DJ Gigola, ALCATRAZ, Goddollars
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margoxs/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/margoxs/)*

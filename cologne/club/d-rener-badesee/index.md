@@ -1,6 +1,6 @@
 # Dürener Badesee
 
-Dürener Badesee is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Unreal Stage @Nibirii Festival" on Fri, 28 Aug 2026.
+Dürener Badesee is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Unreal Stage @Nibirii Festival" on Fri, 28 Aug 2026.
 
 Dürener Badesee is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including 1991 (UK), 909 RACING TEAM, NYRA (DE) and Aaron Hibell and 2 more. Browse upcoming dates, start times and who's playing. Dürener Badesee 52349 Düren Germany.
 
@@ -16,4 +16,4 @@ Dürener Badesee is a music venue in Cologne listed on soundcheck. 3 upcoming ni
 
 Dürener Badesee 52349 Düren Germany, Cologne
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/d-rener-badesee/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/d-rener-badesee/)*

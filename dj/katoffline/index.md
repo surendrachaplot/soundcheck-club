@@ -1,6 +1,6 @@
 # Kat Offline
 
-Kat Offline is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Mansions, New York City on Thu, 16 Jul 2026.
+Kat Offline is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mansions, New York City on Thu, 16 Jul 2026.
 
 Kat Offline is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside Kfeelz, RAQX and moong!rl. Next up: Mansions, Newyorkcity on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Kat Offline is a house and techno artist based in United States of America, trac
 
 Kfeelz, RAQX, moong!rl
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katoffline/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katoffline/)*

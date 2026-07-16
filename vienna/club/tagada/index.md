@@ -1,6 +1,6 @@
 # Tagada
 
-Tagada is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "a groovy summer night by bk.west" on Fri, 17 Jul 2026.
+Tagada is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "a groovy summer night by bk.west" on Fri, 17 Jul 2026.
 
 Tagada is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including Darina (2), Evanora Unlimited and Thao. Browse upcoming dates, start times and who's playing. Brunnengasse 76, 1160 Wien, Austria.
 
@@ -15,4 +15,4 @@ Tagada is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with 
 
 Brunnengasse 76, 1160 Wien, Austria, Vienna
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/tagada/)*

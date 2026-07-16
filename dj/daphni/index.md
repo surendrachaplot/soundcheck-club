@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BLITZ, Munich on Sat, 18 Jul 2026.
+Daphni is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BLITZ, Munich on Sat, 18 Jul 2026.
 
 Daphni is a house and techno artist based in Canada, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Barcelona and Brighton and 21 more. Often billed alongside Ben UFO, Floating Points and Four Tet. Next up: BLITZ, Munich on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Daphni is a house and techno artist based in Canada, tracked on soundcheck, with
 
 Ben UFO, Floating Points, Four Tet
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

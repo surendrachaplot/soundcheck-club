@@ -1,6 +1,6 @@
 # Wax Motif
 
-Wax Motif is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Warehouse Live, Houston on Fri, 17 Jul 2026.
+Wax Motif is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Warehouse Live, Houston on Fri, 17 Jul 2026.
 
 Wax Motif is a house and tech house artist based in Australia, tracked on soundcheck, with 42 sets logged across Austin, Boston, Chicago and Houston and 11 more. Often billed alongside Chris Lake, Eli Brown and Kaskade. Next up: Warehouse Live, Houston on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Wax Motif is a house and tech house artist based in Australia, tracked on soundc
 
 Chris Lake, Eli Brown, Kaskade
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmotif/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmotif/)*

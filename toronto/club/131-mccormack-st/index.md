@@ -1,6 +1,6 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Community Wines presents DJ Python, Venus in Foil, Joga Bonito" on Sat, 18 Jul 2026.
+131 Mccormack St is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Community Wines presents DJ Python, Venus in Foil, Joga Bonito" on Sat, 18 Jul 2026.
 
 131 Mccormack St is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including 999ADJ, AADJA, AceMo and Ahadadream and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
@@ -22,4 +22,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

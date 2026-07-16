@@ -1,6 +1,6 @@
 # E. Alexander
 
-E. Alexander is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Starlane Pizza Bar, London on Sat, 18 Jul 2026.
+E. Alexander is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Starlane Pizza Bar, London on Sat, 18 Jul 2026.
 
 E. Alexander is a house and tech house artist tracked on soundcheck, with 52 sets logged across Brighton, Edinburgh, Hamburg and London. Often billed alongside Trixie (UK), Jake Hodgkinson and Katya. Next up: Starlane Pizza Bar, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ E. Alexander is a house and tech house artist tracked on soundcheck, with 52 set
 
 Trixie (UK), Jake Hodgkinson, Katya
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*

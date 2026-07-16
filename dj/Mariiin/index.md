@@ -1,6 +1,6 @@
 # Mariiin
 
-Mariiin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 24 Jul 2026.
+Mariiin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 24 Jul 2026.
 
 Mariiin is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Binh. Next up: Seaseaclub Barcelona, Barcelona on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Mariiin is a techno and house artist tracked on soundcheck, with 87 sets logged 
 
 Bobby., Jos, Binh
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

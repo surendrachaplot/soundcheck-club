@@ -1,6 +1,6 @@
 # Cem Ozden
 
-Cem Ozden is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - East London Location TBA, London on Sat, 18 Jul 2026.
+Cem Ozden is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - East London Location TBA, London on Sat, 18 Jul 2026.
 
 Cem Ozden is a house and minimal artist tracked on soundcheck, with 56 sets logged across Berlin, Bucharest, Chicago and Detroit and 5 more. Often billed alongside Cap, Choukroun and Dan Andrei. Next up: TBA - East London Location TBA, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Cem Ozden is a house and minimal artist tracked on soundcheck, with 56 sets logg
 
 Cap, Choukroun, Dan Andrei
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cemozden/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cemozden/)*

@@ -1,6 +1,6 @@
 # Harbor Lights Yacht
 
-Harbor Lights Yacht is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sunset Party Cruise Aboard the Harbor Lights Yacht" on Sat, 1 Aug 2026.
+Harbor Lights Yacht is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sunset Party Cruise Aboard the Harbor Lights Yacht" on Sat, 1 Aug 2026.
 
 Harbor Lights Yacht is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. East 23rd Street & FDR Drive, New York NY 10010.
 
@@ -17,4 +17,4 @@ Harbor Lights Yacht is a music venue in Newyorkcity listed on soundcheck. 4 upco
 
 East 23rd Street & FDR Drive, New York NY 10010, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/harbor-lights-yacht/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/harbor-lights-yacht/)*

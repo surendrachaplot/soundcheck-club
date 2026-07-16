@@ -1,6 +1,6 @@
 # DJ Lady D
 
-DJ Lady D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Process PDX, Portland on Thu, 16 Jul 2026.
+DJ Lady D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Process PDX, Portland on Thu, 16 Jul 2026.
 
 DJ Lady D is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Detroit, Miami and Nashville and 3 more. Often billed alongside DJ Heather, VITIGRRL and Carl Craig. Next up: Process PDX, Portland on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ DJ Lady D is a house and techno artist based in United States of America, tracke
 
 DJ Heather, VITIGRRL, Carl Craig
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*

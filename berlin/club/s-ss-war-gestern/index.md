@@ -1,14 +1,13 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Süss x Beatheim DJ Academy" on Wed, 15 Jul 2026.
+Süss War Gestern is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Süss am Donnerstag" on Thu, 16 Jul 2026.
 
-Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 7ommes, AWSM, Better Call Paul and Blake Strange and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
+Süss War Gestern is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 7ommes, AWSM, Better Call Paul and Blake Strange and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Süss x Beatheim DJ Academy |  |
 | Thu, 16 Jul 2026 | Süss am Donnerstag | Nik Andersson |
 | Fri, 17 Jul 2026 | Süss am Freitag | CosmiKat, Easy Latinos |
 | Sat, 18 Jul 2026 | Süss am Samstag | Flow State (Endstation Sehnsucht), Kite |
@@ -23,4 +22,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming n
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

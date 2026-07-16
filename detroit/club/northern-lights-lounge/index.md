@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "E L I X I R THURSDAY  John Ryan aka DR. Disko Dust & John Lundh" on Thu, 16 Jul 2026.
+Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "E L I X I R THURSDAY  John Ryan aka DR. Disko Dust & John Lundh" on Thu, 16 Jul 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including 88 MPH, Alton Miller, Austin Buck and Boo Williams and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -19,4 +19,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

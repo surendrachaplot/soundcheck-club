@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Afrotonic" on Wed, 15 Jul 2026.
+Golden Pudel Club is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "VERTIGO" on Thu, 16 Jul 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including AGILY, DJ Babyblade, DJ SOURCE and eshot (DE) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including AGILY, DJ Babyblade, DJ SOURCE and eshot (DE) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Afrotonic |  |
 | Thu, 16 Jul 2026 | VERTIGO | DJ SOURCE, Newinfluenzer, PSL, Roof (2), TTX (GER) |
 | Fri, 17 Jul 2026 | Gatto Musculoso | Marylou, Phuong Dan |
 | Wed, 22 Jul 2026 | Afrotonic |  |
@@ -21,4 +20,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

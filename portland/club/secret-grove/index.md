@@ -1,6 +1,6 @@
 # Secret Grove
 
-Secret Grove is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Silk & Sound with OHH KAY" on Thu, 16 Jul 2026.
+Secret Grove is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Silk & Sound with OHH KAY" on Thu, 16 Jul 2026.
 
 Secret Grove is a music venue in Portland listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 1425A NW Flanders St, Portland, OR 97209, USA.
 
@@ -18,4 +18,4 @@ Secret Grove is a music venue in Portland listed on soundcheck. 5 upcoming night
 
 1425A NW Flanders St, Portland, OR 97209, USA, Portland
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/secret-grove/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/secret-grove/)*

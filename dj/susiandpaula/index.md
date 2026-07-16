@@ -1,6 +1,6 @@
 # Susi&Paula
 
-Susi&Paula is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Susi&Paula is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Susi&Paula is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Susi&Paula is a techno and house artist tracked on soundcheck, with 21 sets logg
 
 JUSTICE (DE), Avocado, Baerbel
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*

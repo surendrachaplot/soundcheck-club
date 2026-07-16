@@ -1,6 +1,6 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Valley, Berlin on Sat, 18 Jul 2026.
+Charlotte de Witte is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Valley, Berlin on Sat, 18 Jul 2026.
 
 Charlotte de Witte is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Enrico Sangiuliano, Adiel and Joseph Capriati. Next up: Valley, Berlin on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ Charlotte de Witte is a techno and house artist tracked on soundcheck, with 133 
 
 Enrico Sangiuliano, Adiel, Joseph Capriati
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

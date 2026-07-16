@@ -1,14 +1,15 @@
 # KOTSU
 
-KOTSU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Azumaya, Tokyo on Sun, 19 Jul 2026.
+KOTSU is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Azumaya, Tokyo on Sun, 19 Jul 2026.
 
-KOTSU is a house and techno artist tracked on soundcheck, with 215 sets logged across Kyoto, London, Osaka and Seoul and 2 more. Often billed alongside Nari (2), kengotaki and Lomax. Next up: Azumaya, Tokyo on Sun 19 Jul.
+KOTSU is a house and techno artist tracked on soundcheck, with 216 sets logged across Kyoto, London, Osaka and Seoul and 2 more. Often billed alongside Nari (2), kengotaki and Lomax. Next up: Azumaya, Tokyo on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Azumaya | Tokyo |
+| Wed, 22 Jul 2026 | Mitsuki | Tokyo |
 | Fri, 24 Jul 2026 | West Harlem | Kyoto |
 | Mon, 10 Aug 2026 | Red Bar | Tokyo |
 
@@ -27,4 +28,4 @@ KOTSU is a house and techno artist tracked on soundcheck, with 215 sets logged a
 
 Nari (2), kengotaki, Lomax
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kotsu/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kotsu/)*

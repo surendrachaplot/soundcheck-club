@@ -1,6 +1,6 @@
 # Ilses Erika
 
-Ilses Erika is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Reconnect Summer Edition - Nightmarket & Club" on Fri, 31 Jul 2026.
+Ilses Erika is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Reconnect Summer Edition - Nightmarket & Club" on Fri, 31 Jul 2026.
 
 Ilses Erika is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, with line-ups including ALBA (3), Anton Gerden, DJ Luiser and DJ Würlpool and 2 more. Browse upcoming dates, start times and who's playing. Bernhard-Göringstr.127, 04277 Leipzig.
 
@@ -16,4 +16,4 @@ Ilses Erika is a music venue in Leipzig listed on soundcheck. 3 upcoming nights,
 
 Bernhard-Göringstr.127, 04277 Leipzig, Leipzig
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*

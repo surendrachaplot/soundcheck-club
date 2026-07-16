@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LIV Nightclub Miami, Miami on Sat, 18 Jul 2026.
+Cloonee is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at LIV Nightclub Miami, Miami on Sat, 18 Jul 2026.
 
 Cloonee is a house and tech house artist tracked on soundcheck, with 58 sets logged across Austin, Barcelona, Boston and Bristol and 26 more. Often billed alongside Jamie Jones, Prospa and Riordan. Next up: LIV Nightclub Miami, Miami on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 58 sets log
 
 Jamie Jones, Prospa, Riordan
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

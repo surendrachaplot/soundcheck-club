@@ -1,6 +1,6 @@
 # Le Lieu Unique / Nantes
 
-Le Lieu Unique / Nantes is a music venue in Nantes with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tina Tornade" on Sat, 10 Oct 2026.
+Le Lieu Unique / Nantes is a music venue in Nantes with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Tina Tornade" on Sat, 10 Oct 2026.
 
 Le Lieu Unique / Nantes is a music venue in Nantes listed on soundcheck. 1 upcoming night, with line-ups including Tina Tornade. Browse upcoming dates, start times and who's playing. 2 Quai Ferdinand Favre, Nantes.
 
@@ -14,4 +14,4 @@ Le Lieu Unique / Nantes is a music venue in Nantes listed on soundcheck. 1 upcom
 
 2 Quai Ferdinand Favre, Nantes, Nantes
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-lieu-unique-nantes/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-lieu-unique-nantes/)*

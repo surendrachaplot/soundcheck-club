@@ -1,6 +1,6 @@
 # NAP (MX)
 
-NAP (MX) is a House and Downtempo artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Le Trabendo, Paris on Sat, 18 Jul 2026.
+NAP (MX) is a House and Downtempo artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Le Trabendo, Paris on Sat, 18 Jul 2026.
 
 NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 12 more. Often billed alongside rodman, Ana Armada and Jimeno Arnaud. Next up: Le Trabendo, Paris on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ NAP (MX) is a house and downtempo artist based in United States of America, trac
 
 rodman, Ana Armada, Jimeno Arnaud
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

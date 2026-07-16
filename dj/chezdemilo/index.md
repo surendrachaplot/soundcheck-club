@@ -1,6 +1,6 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Carpet Shop, London on Fri, 31 Jul 2026.
+Chez de Milo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Carpet Shop, London on Fri, 31 Jul 2026.
 
 Chez de Milo is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: The Carpet Shop, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Chez de Milo is a house and techno artist tracked on soundcheck, with 123 sets l
 
 Ellie Stokes, Dave Harvey, Ivan Smagghe
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*

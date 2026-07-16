@@ -1,6 +1,6 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 1 Aug 2026.
+Hannah Holland is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 1 Aug 2026.
 
 Hannah Holland is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Josh Caffé, FAFF and GIDEÖN. Next up: CLUB RAUM, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Hannah Holland is a house and techno artist tracked on soundcheck, with 63 sets 
 
 Josh Caffé, FAFF, GIDEÖN
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*

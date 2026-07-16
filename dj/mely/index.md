@@ -1,6 +1,6 @@
 # Mely
 
-Mely is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Prairie du Canal, Paris on Sat, 18 Jul 2026.
+Mely is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Prairie du Canal, Paris on Sat, 18 Jul 2026.
 
 Mely is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Hugo LX, Antoine Calvino and Bande de Filles. Next up: La Prairie du Canal, Paris on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Mely is a house and techno artist tracked on soundcheck, with 20 sets logged acr
 
 Hugo LX, Antoine Calvino, Bande de Filles
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*

@@ -1,6 +1,6 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Union Park, Chicago on Fri, 17 Jul 2026.
+DESIREE (RSA) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Union Park, Chicago on Fri, 17 Jul 2026.
 
 DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Carlita and Âme. Next up: Union Park, Chicago on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 111 sets 
 
 Sossa, Carlita, Âme
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

@@ -1,6 +1,6 @@
 # TBA - Void Studios
 
-TBA - Void Studios is a music venue in Denver with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "EMIXX WEST" on Sat, 29 Aug 2026.
+TBA - Void Studios is a music venue in Denver with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "EMIXX WEST" on Sat, 29 Aug 2026.
 
 TBA - Void Studios is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including ALX-106 and Trovarsi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Void Studios is a music venue in Denver listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | EMIXX WEST | ALX-106, Trovarsi |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-void-studios/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-void-studios/)*

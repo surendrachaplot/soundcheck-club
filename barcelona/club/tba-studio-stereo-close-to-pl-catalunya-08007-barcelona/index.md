@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Studio Stereo x Microdots pres. Kuyateh (until 3am)" on Thu, 16 Jul 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Studio Stereo x Microdots pres. Kuyateh (until 3am)" on Thu, 16 Jul 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including .cosm, Adria (ES), Alexxx and arnald and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 1 Aug 2026 | tudio Stereo TBA (until 4am) |  |
 | Thu, 6 Aug 2026 | Studio Stereo TBA (until 3am) |  |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

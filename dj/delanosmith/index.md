@@ -1,6 +1,6 @@
 # Delano Smith
 
-Delano Smith is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Green Room NYC, New York City on Sat, 18 Jul 2026.
+Delano Smith is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Green Room NYC, New York City on Sat, 18 Jul 2026.
 
 Delano Smith is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Berlin, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Norm Talley, Mike Agent X Clark and Rick Wilhite. Next up: Green Room NYC, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Delano Smith is a house and techno artist based in United States of America, tra
 
 Norm Talley, Mike Agent X Clark, Rick Wilhite
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delanosmith/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/delanosmith/)*

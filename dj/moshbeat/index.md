@@ -1,6 +1,6 @@
 # MOSHBEAT
 
-MOSHBEAT is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 2ten, Athens on Sat, 18 Jul 2026.
+MOSHBEAT is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 2ten, Athens on Sat, 18 Jul 2026.
 
 MOSHBEAT is a techno and acid artist tracked on soundcheck, with 71 sets logged across Athens and Berlin. Often billed alongside Plagger, TYPEO (3) and Human Cruelty. Next up: 2ten, Athens on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ MOSHBEAT is a techno and acid artist tracked on soundcheck, with 71 sets logged 
 
 Plagger, TYPEO (3), Human Cruelty
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moshbeat/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moshbeat/)*

@@ -1,6 +1,6 @@
 # Black Loops
 
-Black Loops is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OXI, Berlin on Sat, 1 Aug 2026.
+Black Loops is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at OXI, Berlin on Sat, 1 Aug 2026.
 
 Black Loops is a house and deep house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Auckland, Bali and Bangkok and 41 more. Often billed alongside Harrison BDP, Carlo and Turkish. Next up: OXI, Berlin on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Black Loops is a house and deep house artist tracked on soundcheck, with 144 set
 
 Harrison BDP, Carlo, Turkish
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloops/)*

@@ -1,6 +1,6 @@
 # Cannons
 
-Cannons is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Set the Sun: Blair and Friends Saturday Sunset" on Sat, 18 Jul 2026.
+Cannons is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Set the Sun: Blair and Friends Saturday Sunset" on Sat, 18 Jul 2026.
 
 Cannons is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Blair French, DUANE (US), Human Robot and John Beltran and 2 more. Browse upcoming dates, start times and who's playing. 15421 Mack Ave.
 
@@ -17,4 +17,4 @@ Cannons is a music venue in Detroit listed on soundcheck. 4 upcoming nights, wit
 
 15421 Mack Ave, Detroit
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*

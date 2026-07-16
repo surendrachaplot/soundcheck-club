@@ -1,6 +1,6 @@
 # Sarkawt Hamad
 
-Sarkawt Hamad is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
+Sarkawt Hamad is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
 Sarkawt Hamad is a techno and house artist based in Netherlands, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Mary Lake, Woody92 and mad miran. Next up: Else, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Sarkawt Hamad is a techno and house artist based in Netherlands, tracked on soun
 
 Mary Lake, Woody92, mad miran
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarkawthamad/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarkawthamad/)*

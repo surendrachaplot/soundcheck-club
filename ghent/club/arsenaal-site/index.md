@@ -1,6 +1,6 @@
 # Arsenaal Site
 
-Arsenaal Site is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Thé Dansant Ghent Theft Auto" on Sun, 26 Jul 2026.
+Arsenaal Site is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Thé Dansant Ghent Theft Auto" on Sun, 26 Jul 2026.
 
 Arsenaal Site is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including Dominik Eulberg, Don Cabron, GALAGO (BE) and Jaxter. Browse upcoming dates, start times and who's playing. Brusselsesteenweg 602, 9050 Ghent.
 
@@ -14,4 +14,4 @@ Arsenaal Site is a music venue in Ghent listed on soundcheck. 1 upcoming night, 
 
 Brusselsesteenweg 602, 9050 Ghent, Ghent
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/arsenaal-site/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/arsenaal-site/)*

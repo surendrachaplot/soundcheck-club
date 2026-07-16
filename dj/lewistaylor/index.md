@@ -1,6 +1,6 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
+Lewis Taylor is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Binks Yard, Nottingham on Sat, 1 Aug 2026.
 
 Lewis Taylor is a house and tech house artist tracked on soundcheck, with 39 sets logged across Aberdeen, Amsterdam, Brighton and Bristol and 12 more. Often billed alongside Harry Robson, Anil Aras and Elliot Schooling. Next up: Binks Yard, Nottingham on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Lewis Taylor is a house and tech house artist tracked on soundcheck, with 39 set
 
 Harry Robson, Anil Aras, Elliot Schooling
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewistaylor/)*

@@ -1,6 +1,6 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ballroom at Palais, London on Fri, 17 Jul 2026.
+Jay Duncan is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ballroom at Palais, London on Fri, 17 Jul 2026.
 
 Jay Duncan is a techno and bass artist tracked on soundcheck, with 64 sets logged across Berlin, Bristol, Brussels and Copenhagen and 9 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: Ballroom at Palais, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Jay Duncan is a techno and bass artist tracked on soundcheck, with 64 sets logge
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

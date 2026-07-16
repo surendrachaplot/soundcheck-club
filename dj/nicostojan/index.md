@@ -1,6 +1,6 @@
 # Nico Stojan
 
-Nico Stojan is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gipsy Village, Tbilisi on Sat, 25 Jul 2026.
+Nico Stojan is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gipsy Village, Tbilisi on Sat, 25 Jul 2026.
 
 Nico Stojan is a house and deep house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Budapest, Ibiza and Lisbon and 14 more. Often billed alongside Atish, Barac and Joplyn. Next up: Gipsy Village, Tbilisi on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Nico Stojan is a house and deep house artist based in Germany, tracked on soundc
 
 Atish, Barac, Joplyn
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicostojan/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicostojan/)*

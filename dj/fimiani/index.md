@@ -1,6 +1,6 @@
 # FIMIANI
 
-FIMIANI is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Chalet Nonna Carmela, Naples on Thu, 20 Aug 2026.
+FIMIANI is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Chalet Nonna Carmela, Naples on Thu, 20 Aug 2026.
 
 FIMIANI is a house and italo disco artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Kapote, Sam Ruffillo and Stump Valley. Next up: Chalet Nonna Carmela, Naples on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ FIMIANI is a house and italo disco artist tracked on soundcheck, with 38 sets lo
 
 Kapote, Sam Ruffillo, Stump Valley
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*

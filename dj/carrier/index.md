@@ -1,8 +1,8 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+Carrier is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
-Carrier is a techno and experimental artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
+Carrier is a techno and experimental artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carrier is a techno and experimental artist tracked on soundcheck, with 69 sets 
 | Thu, 16 Jul 2026 | Tones Teatro Natura | Milan |
 | Sat, 1 Aug 2026 | Nowadays | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 26 Sept 2026 | Knockdown Center | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Carrier is a techno and experimental artist tracked on soundcheck, with 69 sets 
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

@@ -1,6 +1,6 @@
 # darkmavis
 
-darkmavis is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 18 Jul 2026.
+darkmavis is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 18 Jul 2026.
 
 darkmavis is a trance and techno artist based in Ireland, tracked on soundcheck, with 51 sets logged across Cork, Dublin, Edinburgh and London and 2 more. Often billed alongside JWY (1), Shannen Blessing and DJ-CK. Next up: Yamamori Tengu, Dublin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ darkmavis is a trance and techno artist based in Ireland, tracked on soundcheck,
 
 JWY (1), Shannen Blessing, DJ-CK
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmavis/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmavis/)*

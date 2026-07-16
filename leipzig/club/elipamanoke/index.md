@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "between x fem*vak" on Wed, 15 Jul 2026.
+elipamanoke is a music venue in Leipzig with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "CIRCUS CRUSH – CSD EDITION" on Sat, 18 Jul 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights, with line-ups including .koshka., Atimo, CAVVØ and clju_2k and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, with line-ups including .koshka., Atimo, CAVVØ and Cyan85 and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | between x fem*vak | UNTENLINKS, clju_2k |
 | Sat, 18 Jul 2026 | CIRCUS CRUSH – CSD EDITION | Atimo, KETA PERRY, MIMI404, Neptune, Nycky Estrella, Plateau Bitch, itsadisasta |
 | Wed, 22 Jul 2026 | between x Jurassic Heart | CAVVØ, Meyhartt, Raphus, SCHLAAKIII, VLUNA |
 | Fri, 24 Jul 2026 | SCORN | .koshka., Lutecia.h, SIGGI, Siggi Petrol, lutecia H |
@@ -23,4 +22,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

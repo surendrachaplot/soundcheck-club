@@ -1,6 +1,6 @@
 # Tina Colada
 
-Tina Colada is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Georgia Bar, Berlin on Fri, 17 Jul 2026.
+Tina Colada is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Georgia Bar, Berlin on Fri, 17 Jul 2026.
 
 Tina Colada is a house and tech house artist tracked on soundcheck, with 27 sets logged across Bali, Barcelona, Berlin and Dusseldorf and 1 more. Often billed alongside Francesco Castelli, Jamie Jones and Sergio Cucalon. Next up: Georgia Bar, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Tina Colada is a house and tech house artist tracked on soundcheck, with 27 sets
 
 Francesco Castelli, Jamie Jones, Sergio Cucalon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinacolada/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tinacolada/)*

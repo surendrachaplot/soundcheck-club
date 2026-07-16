@@ -1,6 +1,6 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - DTLA, Los Angeles on Sat, 18 Jul 2026.
+Beau Didier is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - DTLA, Los Angeles on Sat, 18 Jul 2026.
 
 Beau Didier is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Isaiah (NL), Flits and ANNĒ. Next up: TBA - DTLA, Losangeles on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Beau Didier is a techno and house artist tracked on soundcheck, with 146 sets lo
 
 Isaiah (NL), Flits, ANNĒ
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

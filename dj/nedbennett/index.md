@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club Vaag, Antwerp on Sat, 18 Jul 2026.
+Ned Bennett is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club Vaag, Antwerp on Sat, 18 Jul 2026.
 
 Ned Bennett is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Brisbane and 8 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: Club Vaag, Antwerp on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Ned Bennett is a techno and house artist tracked on soundcheck, with 58 sets log
 
 KSMBA, 6 SENSE, Prizefight
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

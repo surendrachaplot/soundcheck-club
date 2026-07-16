@@ -1,6 +1,6 @@
 # Alessandro Adriani
 
-Alessandro Adriani is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+Alessandro Adriani is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
 
 Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 91 set
 
 Tasha Safari, Franz Scala, The Hacker
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*

@@ -1,6 +1,6 @@
 # Zitto
 
-Zitto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
+Zitto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
 
 Zitto is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 8 more. Often billed alongside Kancheli, Kvanchi and Ndrx. Next up: CLUB RAUM, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Zitto is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 Kancheli, Kvanchi, Ndrx
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*

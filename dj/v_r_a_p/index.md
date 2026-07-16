@@ -1,6 +1,6 @@
 # V_R_A_P
 
-V_R_A_P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
+V_R_A_P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
 
 V_R_A_P is a house and disco artist based in France, tracked on soundcheck, with 43 sets logged across Tokyo. Often billed alongside Chris MS, Nari (2) and Ryu (2). Next up: Oath, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ V_R_A_P is a house and disco artist based in France, tracked on soundcheck, with
 
 Chris MS, Nari (2), Ryu (2)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/v_r_a_p/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/v_r_a_p/)*

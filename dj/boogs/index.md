@@ -1,6 +1,6 @@
 # Boogs
 
-Boogs is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 26 Jul 2026.
+Boogs is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 26 Jul 2026.
 
 Boogs is a house and techno artist tracked on soundcheck, with 137 sets logged across Denver, Melbourne, Miami and Sydney. Often billed alongside Spacey Space, Casey Leaver and Ben Silver (AUS). Next up: Revolver Upstairs, Melbourne on Sun 26 Jul.
 
@@ -33,4 +33,4 @@ Boogs is a house and techno artist tracked on soundcheck, with 137 sets logged a
 
 Spacey Space, Casey Leaver, Ben Silver (AUS)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boogs/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boogs/)*

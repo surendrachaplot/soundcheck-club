@@ -1,6 +1,6 @@
 # DJ D.Dee
 
-DJ D.Dee is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Lido, Vancouver on Thu, 16 Jul 2026.
+DJ D.Dee is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Lido, Vancouver on Thu, 16 Jul 2026.
 
 DJ D.Dee is a balearic and house artist tracked on soundcheck, with 109 sets logged across Austin, Berlin, Bucharest and Melbourne and 11 more. Often billed alongside Dane, DJ Express and Patrick Holland. Next up: The Lido, Vancouver on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ DJ D.Dee is a balearic and house artist tracked on soundcheck, with 109 sets log
 
 Dane, DJ Express, Patrick Holland
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*

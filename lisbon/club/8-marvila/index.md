@@ -1,6 +1,6 @@
 # 8 Marvila
 
-8 Marvila is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "LASTER at LISBON for the THIRD TIME" on Sat, 12 Sept 2026.
+8 Marvila is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "LASTER at LISBON for the THIRD TIME" on Sat, 12 Sept 2026.
 
 8 Marvila is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Alarico, Amulador, Freddy K and Laia and 2 more. Browse upcoming dates, start times and who's playing. Praça David Leandro da Silva 8, 1950-064 Lisboa, Portugal.
 
@@ -15,4 +15,4 @@
 
 Praça David Leandro da Silva 8, 1950-064 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/8-marvila/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/8-marvila/)*

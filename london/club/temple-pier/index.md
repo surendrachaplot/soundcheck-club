@@ -1,6 +1,6 @@
 # Temple Pier
 
-Temple Pier is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Techno Boat Party Weekend 30 August" on Sun, 30 Aug 2026.
+Temple Pier is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Techno Boat Party Weekend 30 August" on Sun, 30 Aug 2026.
 
 Temple Pier is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Temple Pier; Victoria Embankment; London WC2R 2PN; United Kingdom.
 
@@ -15,4 +15,4 @@ Temple Pier is a music venue in London listed on soundcheck. 2 upcoming nights. 
 
 Temple Pier; Victoria Embankment; London WC2R 2PN; United Kingdom, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/temple-pier/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/temple-pier/)*

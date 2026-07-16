@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "oomf feat. Blkvirgo, Rabzi, Zellers & OMG.BLOG" on Fri, 17 Jul 2026.
+Cafeteria is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "oomf feat. Blkvirgo, Rabzi, Zellers & OMG.BLOG" on Fri, 17 Jul 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including Ana Luisa, Blkvirgo, BOOTYCORNFED and Ciel and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -21,4 +21,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

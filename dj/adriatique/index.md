@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Union Park, Chicago on Fri, 17 Jul 2026.
+Adriatique is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Union Park, Chicago on Fri, 17 Jul 2026.
 
 Adriatique is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Union Park, Chicago on Fri 17 Jul.
 
@@ -35,4 +35,4 @@ Adriatique is a techno and house artist tracked on soundcheck, with 149 sets log
 
 Mind Against, Colyn, Âme
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

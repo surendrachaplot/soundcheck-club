@@ -1,6 +1,6 @@
 # TEEJAY
 
-TEEJAY is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Keeper Upstairs, Melbourne on Sat, 18 Jul 2026.
+TEEJAY is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Keeper Upstairs, Melbourne on Sat, 18 Jul 2026.
 
 TEEJAY is a techno and deep house artist based in Australia, tracked on soundcheck, with 13 sets logged across London and Melbourne. Often billed alongside Bby Cass, Charlotte Rooney and Kait Xri. Next up: Keeper Upstairs, Melbourne on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ TEEJAY is a techno and deep house artist based in Australia, tracked on soundche
 
 Bby Cass, Charlotte Rooney, Kait Xri
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teejay-au/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teejay-au/)*

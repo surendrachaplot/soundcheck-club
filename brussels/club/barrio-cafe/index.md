@@ -1,6 +1,6 @@
 # Barrio Cafe
 
-Barrio Cafe is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Oxtazz INVITES 2ND EDITION" on Fri, 24 Jul 2026.
+Barrio Cafe is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Oxtazz INVITES 2ND EDITION" on Fri, 24 Jul 2026.
 
 Barrio Cafe is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Basic Feelings (2), Billy Boy, Henry Keller and Oxtazz. Browse upcoming dates, start times and who's playing. Pl. de la Chapelle 6, 1000 Bruxelles, Belgium.
 
@@ -14,4 +14,4 @@ Barrio Cafe is a music venue in Brussels listed on soundcheck. 1 upcoming night,
 
 Pl. de la Chapelle 6, 1000 Bruxelles, Belgium, Brussels
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*

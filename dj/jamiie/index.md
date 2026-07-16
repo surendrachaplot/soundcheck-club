@@ -1,6 +1,6 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Nordstern, Basel on Sat, 18 Jul 2026.
+JAMIIE is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nordstern, Basel on Sat, 18 Jul 2026.
 
 JAMIIE is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Nordstern, Basel on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ JAMIIE is a house and techno artist tracked on soundcheck, with 95 sets logged a
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

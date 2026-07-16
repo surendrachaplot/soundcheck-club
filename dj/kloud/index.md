@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
+KLOUD is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
 
 KLOUD is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside A.N.I., DIØN and I Hate Models. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ KLOUD is a techno and house artist tracked on soundcheck, with 68 sets logged ac
 
 A.N.I., DIØN, I Hate Models
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

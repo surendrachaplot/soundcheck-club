@@ -1,6 +1,6 @@
 # Atrice
 
-Atrice is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Atrice is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Atrice is a bass and techno artist based in Switzerland, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Emilia Grima, Jan Swam and Stenny. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Atrice is a bass and techno artist based in Switzerland, tracked on soundcheck, 
 
 Emilia Grima, Jan Swam, Stenny
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrice/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrice/)*

@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+L.F.T. is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 L.F.T. is a techno and electro artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Festnacht, Alessandro Adriani and Alienata. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ L.F.T. is a techno and electro artist tracked on soundcheck, with 105 sets logge
 
 Festnacht, Alessandro Adriani, Alienata
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

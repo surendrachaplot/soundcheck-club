@@ -1,6 +1,6 @@
 # Lady Libertine
 
-Lady Libertine is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "MASH" on Fri, 17 Jul 2026.
+Lady Libertine is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "MASH" on Fri, 17 Jul 2026.
 
 Lady Libertine is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including The Nightlark. Browse upcoming dates, start times and who's playing. 25 W Register St, Edinburgh, EH2 2AA, United Kingdom.
 
@@ -15,4 +15,4 @@ Lady Libertine is a music venue in Edinburgh listed on soundcheck. 2 upcoming ni
 
 25 W Register St, Edinburgh, EH2 2AA, United Kingdom, Edinburgh
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/lady-libertine/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/lady-libertine/)*

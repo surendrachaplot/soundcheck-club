@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "NoctamBar x LA ZIZANYX & Foncé" on Thu, 16 Jul 2026.
+La Gravière is a music venue in Geneva with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "NoctamBar x LA ZIZANYX & Foncé" on Thu, 16 Jul 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 8 upcoming nights, with line-ups including Amal, Black Rave Culture, Braises de Velours and Carmen Electro and 2 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -21,4 +21,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 8 upcoming nights,
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

@@ -1,6 +1,6 @@
 # Zsiráf
 
-Zsiráf is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Why Not Ibiza? Open-Air House, Tech-House & Techno ~ 17th July, Friday Pest" on Fri, 17 Jul 2026.
+Zsiráf is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Why Not Ibiza? Open-Air House, Tech-House & Techno ~ 17th July, Friday Pest" on Fri, 17 Jul 2026.
 
 Zsiráf is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including ANESI, Ratkay and Viktor Bondar. Browse upcoming dates, start times and who's playing. Budapest, Teréz krt. 53, 1062 Hungary.
 
@@ -14,4 +14,4 @@ Zsiráf is a music venue in Budapest listed on soundcheck. 1 upcoming night, wit
 
 Budapest, Teréz krt. 53, 1062 Hungary, Budapest
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*

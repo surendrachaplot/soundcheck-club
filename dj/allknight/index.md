@@ -1,14 +1,14 @@
 # ALLKNIGHT
 
-ALLKNIGHT is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Open Aera, Toronto on Thu, 16 Jul 2026.
+ALLKNIGHT is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at NØMAD, Toronto on Thu, 16 Jul 2026.
 
-ALLKNIGHT is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London, Manchester and Newyorkcity and 1 more. Often billed alongside Estiva, MXV (UK) and Ocula. Next up: Open Aera, Toronto on Thu 16 Jul.
+ALLKNIGHT is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London, Manchester and Newyorkcity and 1 more. Often billed alongside Estiva, MXV (UK) and Ocula. Next up: NØMAD, Toronto on Thu 16 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Open Aera | Toronto |
+| Thu, 16 Jul 2026 | NØMAD | Toronto |
 | Fri, 17 Jul 2026 | Westlight Rooftop at The William Vale | New York City |
 | Sat, 10 Oct 2026 | E1 | London |
 
@@ -27,4 +27,4 @@ ALLKNIGHT is a progressive house and house artist based in United Kingdom, track
 
 Estiva, MXV (UK), Ocula
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/allknight/)*

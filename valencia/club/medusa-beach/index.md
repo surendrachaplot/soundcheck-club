@@ -1,6 +1,6 @@
 # Medusa Beach
 
-Medusa Beach is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Medusa Festival" on Thu, 13 Aug 2026.
+Medusa Beach is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Medusa Festival" on Thu, 13 Aug 2026.
 
 Medusa Beach is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including AARON SEVILLA, Adam Beyer, Adrian Mills and Alok and 2 more. Browse upcoming dates, start times and who's playing. 46400 Cullera, Valencia, Spain.
 
@@ -14,4 +14,4 @@ Medusa Beach is a music venue in Valencia listed on soundcheck. 1 upcoming night
 
 46400 Cullera, Valencia, Spain, Valencia
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/medusa-beach/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/medusa-beach/)*

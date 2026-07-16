@@ -1,6 +1,6 @@
 # Carlos Pulido
 
-Carlos Pulido is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ocean Drive Hotel, Ibiza on Fri, 24 Jul 2026.
+Carlos Pulido is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ocean Drive Hotel, Ibiza on Fri, 24 Jul 2026.
 
 Carlos Pulido is a tech house and house artist based in Spain, tracked on soundcheck, with 11 sets logged across Geneva, Ibiza, Lisbon and Madrid. Often billed alongside Hector Moreno, DJ Jetlag and Fernando De Matos. Next up: Ocean Drive Hotel, Ibiza on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Carlos Pulido is a tech house and house artist based in Spain, tracked on soundc
 
 Hector Moreno, DJ Jetlag, Fernando De Matos
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlospulido/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlospulido/)*

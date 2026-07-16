@@ -1,6 +1,6 @@
 # The Glasshouse International Centre for Music
 
-The Glasshouse International Centre for Music is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Gary Numan" on Sat, 18 Jul 2026.
+The Glasshouse International Centre for Music is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Gary Numan" on Sat, 18 Jul 2026.
 
 The Glasshouse International Centre for Music is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. St Mary's Square, Gateshead NE8 2JR.
 
@@ -14,4 +14,4 @@ The Glasshouse International Centre for Music is a music venue in Newcastle list
 
 St Mary's Square, Gateshead NE8 2JR, Newcastle
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-glasshouse-international-centre-for-music/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-glasshouse-international-centre-for-music/)*

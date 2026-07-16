@@ -1,6 +1,6 @@
 # Rui Vargas
 
-Rui Vargas is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Praia Irmão, Lisbon on Fri, 17 Jul 2026.
+Rui Vargas is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Praia Irmão, Lisbon on Fri, 17 Jul 2026.
 
 Rui Vargas is a house and disco artist based in Portugal, tracked on soundcheck, with 122 sets logged across Lisbon, Mexicocity, Porto and Stockholm. Often billed alongside Vargas, Varela and Yen Sung. Next up: Praia Irmão, Lisbon on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Rui Vargas is a house and disco artist based in Portugal, tracked on soundcheck,
 
 Vargas, Varela, Yen Sung
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruivargas/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruivargas/)*

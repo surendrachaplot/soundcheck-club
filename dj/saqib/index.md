@@ -1,6 +1,6 @@
 # Saqib
 
-Saqib is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Moss Venice, Los Angeles on Fri, 17 Jul 2026.
+Saqib is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Moss Venice, Los Angeles on Fri, 17 Jul 2026.
 
 Saqib is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: TBA - Moss Venice, Losangeles on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Saqib is a house and techno artist based in United States of America, tracked on
 
 Nhii, Francesca Lombardo, Matt Caines
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

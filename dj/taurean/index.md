@@ -1,6 +1,6 @@
 # Taurean
 
-Taurean is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
+Taurean is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at M01, Berlin on Fri, 17 Jul 2026.
 
 Taurean is a techno and house artist based in Canada, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Adrian Hex, Meda-Ava and Offtrack. Next up: M01, Berlin on Fri 17 Jul.
 
@@ -20,4 +20,4 @@ Taurean is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Adrian Hex, Meda-Ava, Offtrack
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taurean/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taurean/)*

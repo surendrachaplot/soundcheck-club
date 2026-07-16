@@ -1,6 +1,6 @@
 # Giamma Soren
 
-Giamma Soren is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Anfiteatro Monte Stella, Milan on Sat, 18 Jul 2026.
+Giamma Soren is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Anfiteatro Monte Stella, Milan on Sat, 18 Jul 2026.
 
 Giamma Soren is a house and disco artist based in Italy, tracked on soundcheck, with 51 sets logged across Belfast, Cork, London and Milan and 2 more. Often billed alongside Vannelli Bros, Uabos and Emi Lee. Next up: Anfiteatro Monte Stella, Milan on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Giamma Soren is a house and disco artist based in Italy, tracked on soundcheck, 
 
 Vannelli Bros, Uabos, Emi Lee
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giammasoren/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giammasoren/)*

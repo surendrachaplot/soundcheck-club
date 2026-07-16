@@ -1,6 +1,6 @@
 # Dig This
 
-Dig This is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 25 Jul 2026.
+Dig This is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 25 Jul 2026.
 
 Dig This is a house and electro artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 9 more. Often billed alongside Ben Pugh, Aerofunk and Tarde Loco. Next up: NUMBER 90 LONDON, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Dig This is a house and electro artist based in United Kingdom, tracked on sound
 
 Ben Pugh, Aerofunk, Tarde Loco
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/digthis/)*

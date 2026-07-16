@@ -1,6 +1,6 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Joule, Osaka on Fri, 24 Jul 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Joule, Osaka on Fri, 24 Jul 2026.
 
 Ezequiel Arias is a progressive house and deep house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 21 more. Often billed alongside Romain Garcia, Jody Wisternoff and Amadori. Next up: Joule, Osaka on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Ezequiel Arias is a progressive house and deep house artist tracked on soundchec
 
 Romain Garcia, Jody Wisternoff, Amadori
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

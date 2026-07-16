@@ -1,6 +1,6 @@
 # Kasper Marott
 
-Kasper Marott is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Kasper Marott is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
 Kasper Marott is a techno and trance artist based in Denmark, tracked on soundcheck, with 153 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Kasper Marott is a techno and trance artist based in Denmark, tracked on soundch
 
 Audrey Danza, Téa, Martin Gilleshøj
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*

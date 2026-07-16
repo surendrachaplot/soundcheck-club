@@ -1,6 +1,6 @@
 # Ben Zo
 
-Ben Zo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - XTC BUSHWICK (1277 Flushing Ave) , New York City on Thu, 16 Jul 2026.
+Ben Zo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - XTC BUSHWICK (1277 Flushing Ave) , New York City on Thu, 16 Jul 2026.
 
 Ben Zo is a techno and house artist based in Philippines, tracked on soundcheck, with 139 sets logged across Cologne, Dundee, Ghent and Leipzig and 3 more. Often billed alongside cruz ctrl, STEEN and David Lunch. Next up: TBA - XTC BUSHWICK (1277 Flushing Ave) , Newyorkcity on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Ben Zo is a techno and house artist based in Philippines, tracked on soundcheck,
 
 cruz ctrl, STEEN, David Lunch
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benzo/)*

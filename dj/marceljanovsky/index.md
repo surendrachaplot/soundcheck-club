@@ -1,6 +1,6 @@
 # Marcel Janovsky
 
-Marcel Janovsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
+Marcel Janovsky is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Odonien, Cologne on Fri, 31 Jul 2026.
 
 Marcel Janovsky is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Cologne. Often billed alongside Leolo Lozone, Eszter and Elisen. Next up: Odonien, Cologne on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Marcel Janovsky is a techno and house artist based in Germany, tracked on soundc
 
 Leolo Lozone, Eszter, Elisen
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceljanovsky/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marceljanovsky/)*

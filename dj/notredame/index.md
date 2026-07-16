@@ -1,6 +1,6 @@
 # Notre Dame
 
-Notre Dame is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Island Athens Riviera, Athens on Sun, 26 Jul 2026.
+Notre Dame is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Island Athens Riviera, Athens on Sun, 26 Jul 2026.
 
 Notre Dame is a house and afro house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Barcelona and 31 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Island Athens Riviera, Athens on Sun 26 Jul.
 
@@ -28,4 +28,4 @@ Notre Dame is a house and afro house artist tracked on soundcheck, with 117 sets
 
 Alex Wann, Artbat, Bedouin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*

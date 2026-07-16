@@ -1,6 +1,6 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at FORGE, Sheffield on Sun, 19 Jul 2026.
+Liam Palmer is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at FORGE, Sheffield on Sun, 19 Jul 2026.
 
 Liam Palmer is a house and tech house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: FORGE, Sheffield on Sun 19 Jul.
 
@@ -31,4 +31,4 @@ Liam Palmer is a house and tech house artist tracked on soundcheck, with 151 set
 
 Elliot Schooling, Locky, L.P. Rhythm
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liampalmer/)*

@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Sommerfest w. Victor Ruiz and many more" on Fri, 17 Jul 2026.
+Lieberscholli is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sommerfest w. Victor Ruiz and many more" on Fri, 17 Jul 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including Alex Volta, Apolonia, Black Box and DEYST and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -22,4 +22,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

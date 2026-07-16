@@ -1,6 +1,6 @@
 # NADA Lisbon
 
-NADA Lisbon is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "EHRENLOS UNDERGROUND: NEXT GENERATION" on Fri, 17 Jul 2026.
+NADA Lisbon is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "EHRENLOS UNDERGROUND: NEXT GENERATION" on Fri, 17 Jul 2026.
 
 NADA Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Brusca, Kate Vlasova, Magin Karica and Marco Ramos and 2 more. Browse upcoming dates, start times and who's playing. R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal.
 
@@ -16,4 +16,4 @@ NADA Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, 
 
 R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal, Lisbon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/nada-lisbon/)*

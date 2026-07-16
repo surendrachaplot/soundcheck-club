@@ -1,6 +1,6 @@
 # VIERNULVIER
 
-VIERNULVIER is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Star Warz: Final Edition" on Sat, 3 Oct 2026.
+VIERNULVIER is a music venue in Ghent with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Star Warz: Final Edition" on Sat, 3 Oct 2026.
 
 VIERNULVIER is a music venue in Ghent listed on soundcheck. 1 upcoming night, with line-ups including Bredren, Lavance and MC Tasty. Browse upcoming dates, start times and who's playing. Sint-Pietersnieuwstraat 23; Ghent 9000; Belgium.
 
@@ -14,4 +14,4 @@ VIERNULVIER is a music venue in Ghent listed on soundcheck. 1 upcoming night, wi
 
 Sint-Pietersnieuwstraat 23; Ghent 9000; Belgium, Ghent
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/viernulvier/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/viernulvier/)*

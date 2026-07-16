@@ -1,6 +1,6 @@
 # TBA - <3
 
-TBA - <3 is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "TRENCH X Agua de Rosas: DJ Kelvin El Sacamostro and Kelman Duran" on Sat, 18 Jul 2026.
+TBA - <3 is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "TRENCH X Agua de Rosas: DJ Kelvin El Sacamostro and Kelman Duran" on Sat, 18 Jul 2026.
 
 TBA - <3 is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Kelman Duran. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - <3 is a music venue in Chicago listed on soundcheck. 1 upcoming night, wit
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TRENCH X Agua de Rosas: DJ Kelvin El Sacamostro and Kelman Duran | Kelman Duran |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-3/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-3/)*

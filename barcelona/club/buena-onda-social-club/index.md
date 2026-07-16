@@ -1,6 +1,6 @@
 # Buena Onda Social Club
 
-Buena Onda Social Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "HALE-BOPP Vol.4" on Fri, 4 Sept 2026.
+Buena Onda Social Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "HALE-BOPP Vol.4" on Fri, 4 Sept 2026.
 
 Buena Onda Social Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Carrer del Canó, 4, Gràcia, 08012 Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Buena Onda Social Club is a music venue in Barcelona listed on soundcheck. 1 upc
 
 Carrer del Canó, 4, Gràcia, 08012 Barcelona, Spain, Barcelona
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/buena-onda-social-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/buena-onda-social-club/)*

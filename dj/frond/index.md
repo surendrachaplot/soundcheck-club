@@ -1,6 +1,6 @@
 # FROND
 
-FROND is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+FROND is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 FROND is a techno and trance artist tracked on soundcheck, with 53 sets logged across Bristol, Copenhagen, Leeds and London and 2 more. Often billed alongside Adam Pits, Yasmine (UK) and Lisene. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ FROND is a techno and trance artist tracked on soundcheck, with 53 sets logged a
 
 Adam Pits, Yasmine (UK), Lisene
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*

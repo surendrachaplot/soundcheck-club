@@ -1,6 +1,6 @@
 # Audio
 
-Audio is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tragik Presents: U47 & ORBENYX" on Sat, 18 Jul 2026.
+Audio is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Tragik Presents: U47 & ORBENYX" on Sat, 18 Jul 2026.
 
 Audio is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including DJ Bax, Noise Hz, providence144 and Tekhole and 2 more. Browse upcoming dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
@@ -17,4 +17,4 @@ Audio is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with 
 
 14 Midland Street, G1 4PP, Glasgow
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/audio/)*

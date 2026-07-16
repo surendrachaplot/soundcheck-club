@@ -1,6 +1,6 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "ON TOP by Susanne Bartsch" on Thu, 16 Jul 2026.
+Le Bain is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ON TOP by Susanne Bartsch" on Thu, 16 Jul 2026.
 
 Le Bain is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including 4AM NYC, Bea Trinidad, boyyyish and Dynoman and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
@@ -20,4 +20,4 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights,
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

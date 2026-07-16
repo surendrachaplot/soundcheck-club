@@ -1,6 +1,6 @@
 # Maara
 
-Maara is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Virage, Paris on Wed, 22 Jul 2026.
+Maara is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Virage, Paris on Wed, 22 Jul 2026.
 
 Maara is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Virage, Paris on Wed 22 Jul.
 
@@ -30,4 +30,4 @@ Maara is a techno and house artist tracked on soundcheck, with 149 sets logged a
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

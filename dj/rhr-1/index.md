@@ -1,8 +1,8 @@
 # RHR
 
-RHR is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+RHR is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-RHR is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+RHR is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ RHR is a techno and house artist tracked on soundcheck, with 107 sets logged acr
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Garage Noord | Amsterdam |
 | Thu, 20 Aug 2026 | Jolene Downtown Miami | Miami |
+| Fri, 21 Aug 2026 | MoMA PS1 | New York City |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival Site | Zurich |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -33,4 +34,4 @@ RHR is a techno and house artist tracked on soundcheck, with 107 sets logged acr
 
 Cashu, upsammy, BADSISTA
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

@@ -1,6 +1,6 @@
 # Eighteenth Street Lounge (ESL)
 
-Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Keepin' It Movin' - Mazlow, Neko Berg, SPCL.K" on Fri, 17 Jul 2026.
+Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Keepin' It Movin' - Mazlow, Neko Berg, SPCL.K" on Fri, 17 Jul 2026.
 
 Eighteenth Street Lounge (ESL) is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including MAXIMILIANO (US), Mazlow, Neko Berg and SPCL.K. Browse upcoming dates, start times and who's playing. 1230 9th Street Washington, DC.
 
@@ -15,4 +15,4 @@ Eighteenth Street Lounge (ESL) is a music venue in Washingtondc listed on soundc
 
 1230 9th Street Washington, DC, Washington DC
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge-esl/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge-esl/)*

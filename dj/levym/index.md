@@ -1,6 +1,6 @@
 # LevyM
 
-LevyM is a Afro Tech and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Crane Hotel Faralda, Amsterdam on Sat, 25 Jul 2026.
+LevyM is a Afro Tech and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Crane Hotel Faralda, Amsterdam on Sat, 25 Jul 2026.
 
 LevyM is an afro tech and afro house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Ibiza, London and Madrid and 1 more. Often billed alongside Philou Louzolo, Rancido and DJEFF. Next up: Crane Hotel Faralda, Amsterdam on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ LevyM is an afro tech and afro house artist tracked on soundcheck, with 39 sets 
 
 Philou Louzolo, Rancido, DJEFF
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levym/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/levym/)*

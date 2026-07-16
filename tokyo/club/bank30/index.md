@@ -1,6 +1,6 @@
 # Bank30
 
-Bank30 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "UP BEAT! 24th Anniversary - The Gathering -" on Sat, 8 Aug 2026.
+Bank30 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "UP BEAT! 24th Anniversary - The Gathering -" on Sat, 8 Aug 2026.
 
 Bank30 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Addiy, Kentaro Takizawa, PUNK N MATRIX and Yamariki. Browse upcoming dates, start times and who's playing. 1-10-45, Kaigann, Minato-ku, Tokyo, 105-0022, Japan.
 
@@ -14,4 +14,4 @@ Bank30 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with li
 
 1-10-45, Kaigann, Minato-ku, Tokyo, 105-0022, Japan, Tokyo
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bank30/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bank30/)*

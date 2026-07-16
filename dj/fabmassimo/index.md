@@ -1,6 +1,6 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kater, Berlin on Sat, 18 Jul 2026.
+Fab Massimo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Kater, Berlin on Sat, 18 Jul 2026.
 
 Fab Massimo is a techno and tech house artist based in Germany, tracked on soundcheck, with 82 sets logged across Barcelona, Berlin, Budapest and Buenosaires and 9 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Kater, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Fab Massimo is a techno and tech house artist based in Germany, tracked on sound
 
 Bombata, Techmo, Katzengold
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

@@ -1,6 +1,6 @@
 # Shed
 
-Shed is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BLITZ, Munich on Sat, 18 Jul 2026.
+Shed is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BLITZ, Munich on Sat, 18 Jul 2026.
 
 Shed is a techno and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Head High, Skee Mask and CCL. Next up: BLITZ, Munich on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Shed is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Head High, Skee Mask, CCL
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*

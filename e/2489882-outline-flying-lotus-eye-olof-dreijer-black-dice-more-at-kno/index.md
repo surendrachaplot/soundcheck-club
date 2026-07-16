@@ -1,6 +1,6 @@
 # OUTLINE: Flying Lotus, EYE, Olof Dreijer, Black Dice, + more at Knockdown Center
 
-OUTLINE: Flying Lotus, EYE, Olof Dreijer, Black Dice, + more at Knockdown Center on Sat 26 Sept, Newyorkcity. 6 acts on the bill: Black Dice, Carrier (Aus), Flying Lotus and Olof Dreijer and 2 more. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+OUTLINE: Flying Lotus, EYE, Olof Dreijer, Black Dice, + more at Knockdown Center on Sat 26 Sept, Newyorkcity. 7 acts on the bill: Black Dice, Carrier, Carrier (Aus) and Flying Lotus and 3 more. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ OUTLINE: Flying Lotus, EYE, Olof Dreijer, Black Dice, + more at Knockdown Center
 ## Line-up
 
 - Black Dice
+- Carrier
 - Carrier (Aus)
 - Flying Lotus
 - Olof Dreijer

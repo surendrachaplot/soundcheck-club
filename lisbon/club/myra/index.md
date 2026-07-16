@@ -1,6 +1,6 @@
 # Myra
 
-Myra is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "AirFunk (beach venue) " on Fri, 17 Jul 2026.
+Myra is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "AirFunk (beach venue) " on Fri, 17 Jul 2026.
 
 Myra is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Ali Love, Bernardo Vaz, David Triana and La Gugga and 2 more. Browse upcoming dates, start times and who's playing. R. da Praia, 2825-391 Costa da Caparica, Portugal.
 
@@ -16,4 +16,4 @@ Myra is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with li
 
 R. da Praia, 2825-391 Costa da Caparica, Portugal, Lisbon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra/)*

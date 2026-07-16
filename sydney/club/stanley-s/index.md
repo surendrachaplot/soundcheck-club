@@ -1,6 +1,6 @@
 # Stanley's
 
-Stanley's is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "No Rulz x Stanley's" on Sat, 18 Jul 2026.
+Stanley's is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "No Rulz x Stanley's" on Sat, 18 Jul 2026.
 
 Stanley's is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Chris Stevo, Jerk Boy, Miliard and Oscar de Lima and 2 more. Browse upcoming dates, start times and who's playing. 79 Stanley Street, Darlinghurst, NSW, 2010, Australia.
 
@@ -15,4 +15,4 @@ Stanley's is a music venue in Sydney listed on soundcheck. 2 upcoming nights, wi
 
 79 Stanley Street, Darlinghurst, NSW, 2010, Australia, Sydney
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/stanley-s/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/stanley-s/)*

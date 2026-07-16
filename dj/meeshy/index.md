@@ -1,6 +1,6 @@
 # Meeshy
 
-Meeshy is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
+Meeshy is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
 
 Meeshy is a tech house and afro house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Birmingham, Ibiza and London and 2 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: Hï Ibiza, Ibiza on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Meeshy is a tech house and afro house artist tracked on soundcheck, with 42 sets
 
 hitty, Djammin, Shenin Amara
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*

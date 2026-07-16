@@ -1,6 +1,6 @@
 # HOTBOI2300
 
-HOTBOI2300 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 17 Jul 2026.
+HOTBOI2300 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 17 Jul 2026.
 
 HOTBOI2300 is a techno and trance artist tracked on soundcheck, with 69 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 10 more. Often billed alongside Sabu!, The Jakob Sister and RaverPik. Next up: Bahnwärter Thiel, Munich on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ HOTBOI2300 is a techno and trance artist tracked on soundcheck, with 69 sets log
 
 Sabu!, The Jakob Sister, RaverPik
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*

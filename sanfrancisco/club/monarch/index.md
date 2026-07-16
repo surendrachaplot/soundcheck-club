@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Texture Summit Pres. Satoshi Tomiie (Sushitech/ Japan)" on Fri, 17 Jul 2026.
+Monarch is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Texture Summit Pres. Satoshi Tomiie (Sushitech/ Japan)" on Fri, 17 Jul 2026.
 
 Monarch is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including Ab.rham, Afakasi Papi, Amatric and Carla Lyn and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -19,4 +19,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

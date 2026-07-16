@@ -1,6 +1,6 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 24 Jul 2026.
+JNJS is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 24 Jul 2026.
 
 JNJS is a house and minimal artist tracked on soundcheck, with 71 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ JNJS is a house and minimal artist tracked on soundcheck, with 71 sets logged ac
 
 Tania Vulcano, Carlos Vila, Sossa
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*

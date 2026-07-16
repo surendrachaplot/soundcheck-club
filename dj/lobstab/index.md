@@ -1,6 +1,6 @@
 # Lobsta B
 
-Lobsta B is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
+Lobsta B is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
 
 Lobsta B is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brighton and Bristol and 19 more. Often billed alongside 3DMA, alterum and Peggy Viennetta. Next up: Colour Factory, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Lobsta B is a trance and techno artist based in United Kingdom, tracked on sound
 
 3DMA, alterum, Peggy Viennetta
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*

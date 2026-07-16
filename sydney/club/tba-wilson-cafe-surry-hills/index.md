@@ -1,6 +1,6 @@
 # TBA - Wilson Cafe, Surry Hills
 
-TBA - Wilson Cafe, Surry Hills is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Spaghetti Junction" on Sat, 1 Aug 2026.
+TBA - Wilson Cafe, Surry Hills is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Spaghetti Junction" on Sat, 1 Aug 2026.
 
 TBA - Wilson Cafe, Surry Hills is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Jim Young. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Wilson Cafe, Surry Hills is a music venue in Sydney listed on soundcheck. 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | Spaghetti Junction | Jim Young |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-wilson-cafe-surry-hills/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-wilson-cafe-surry-hills/)*

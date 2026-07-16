@@ -1,6 +1,6 @@
 # Magazine Open–Air
 
-Magazine Open–Air is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Our House W/ Meduza, James Hype, Nora En Pure & more" on Fri, 14 Aug 2026.
+Magazine Open–Air is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Our House W/ Meduza, James Hype, Nora En Pure & more" on Fri, 14 Aug 2026.
 
 Magazine Open–Air is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Amelie Lens, Brina Knauss, Cristoph and david bay and 2 more. Browse upcoming dates, start times and who's playing. 11 Ordnance Crescent, London, SE10 0JH.
 
@@ -19,4 +19,4 @@ Magazine Open–Air is a music venue in London listed on soundcheck. 6 upcoming 
 
 11 Ordnance Crescent, London, SE10 0JH, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-open-air/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-open-air/)*

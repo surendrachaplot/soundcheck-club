@@ -1,6 +1,6 @@
 # TONS
 
-TONS is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fitz Mallorca, Mallorca on Thu, 16 Jul 2026.
+TONS is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fitz Mallorca, Mallorca on Thu, 16 Jul 2026.
 
 TONS is a tech house and house artist based in Venezuela, tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Barcelona and Boston and 15 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: Fitz Mallorca, Mallorca on Thu 16 Jul.
 
@@ -30,4 +30,4 @@ TONS is a tech house and house artist based in Venezuela, tracked on soundcheck,
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

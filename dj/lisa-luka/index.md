@@ -1,6 +1,6 @@
 # lisa luka
 
-lisa luka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
+lisa luka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
 
 lisa luka is a house and techno artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Ciao 3lla, Carlo Bonanza and Horst Haller. Next up: Westhafen, Leipzig on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ lisa luka is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Ciao 3lla, Carlo Bonanza, Horst Haller
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*

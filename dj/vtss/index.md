@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
+VTSS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at New York Avenue Beach, Philadelphia on Sat, 25 Jul 2026.
 
 VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside I Hate Models, Boys Noize and Patrick Mason. Next up: New York Avenue Beach, Philadelphia on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ VTSS is a techno and house artist tracked on soundcheck, with 173 sets logged ac
 
 I Hate Models, Boys Noize, Patrick Mason
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

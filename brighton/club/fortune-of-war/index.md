@@ -1,6 +1,6 @@
 # Fortune of War
 
-Fortune of War is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "StandUP invites Doggy Project" on Sat, 25 Jul 2026.
+Fortune of War is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "StandUP invites Doggy Project" on Sat, 25 Jul 2026.
 
 Fortune of War is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including Oren (IT), Peter Grand, rubbio and Unreal Vibes and 1 more. Browse upcoming dates, start times and who's playing. 157 King's Rd, Brighton, East Sussex BN1 1NB.
 
@@ -14,4 +14,4 @@ Fortune of War is a music venue in Brighton listed on soundcheck. 1 upcoming nig
 
 157 King's Rd, Brighton, East Sussex BN1 1NB, Brighton
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/fortune-of-war/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/fortune-of-war/)*

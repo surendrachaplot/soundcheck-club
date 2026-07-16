@@ -1,6 +1,6 @@
 # Developer
 
-Developer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - warehouse location , Detroit on Fri, 17 Jul 2026.
+Developer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - warehouse location , Detroit on Fri, 17 Jul 2026.
 
 Developer is a techno and acid artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Belgrade and Berlin and 13 more. Often billed alongside Aztekan, Jeff Mills and MAEDON. Next up: TBA - warehouse location , Detroit on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Developer is a techno and acid artist based in United States of America, tracked
 
 Aztekan, Jeff Mills, MAEDON
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*

@@ -1,6 +1,6 @@
 # Cud nad Wisłą
 
-Cud nad Wisłą is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Wybierz swój beat na sobotę! | Silent Disco" on Sat, 18 Jul 2026.
+Cud nad Wisłą is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Wybierz swój beat na sobotę! | Silent Disco" on Sat, 18 Jul 2026.
 
 Cud nad Wisłą is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. bulwar Flotylli Wiślanej, 01-001 Warszawa.
 
@@ -14,4 +14,4 @@ Cud nad Wisłą is a music venue in Warsaw listed on soundcheck. 1 upcoming nigh
 
 bulwar Flotylli Wiślanej, 01-001 Warszawa, Warsaw
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/cud-nad-wis/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/cud-nad-wis/)*

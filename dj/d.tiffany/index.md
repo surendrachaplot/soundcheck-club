@@ -1,6 +1,6 @@
 # D. Tiffany
 
-D. Tiffany is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Los Angeles on Fri, 17 Jul 2026.
+D. Tiffany is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Los Angeles on Fri, 17 Jul 2026.
 
 D. Tiffany is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: TBA, Losangeles on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ D. Tiffany is a house and techno artist tracked on soundcheck, with 174 sets log
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

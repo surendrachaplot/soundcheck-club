@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SHOOK X Obnoxious Present: A Night of Drum and Bass" on Fri, 17 Jul 2026.
+Civic Underground is a music venue in Sydney with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SHOOK X Obnoxious Present: A Night of Drum and Bass" on Fri, 17 Jul 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 5 upcoming nights, with line-ups including Cece, Crimewave, Eddy Wells and Ekko and 2 more. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -18,4 +18,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 5 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

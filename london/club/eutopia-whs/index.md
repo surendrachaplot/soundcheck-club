@@ -1,6 +1,6 @@
 # Eutopia Whs
 
-Eutopia Whs is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Summer Underground - Breakin Science - Jungle Mania - D&B Classics" on Sat, 5 Sept 2026.
+Eutopia Whs is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Summer Underground - Breakin Science - Jungle Mania - D&B Classics" on Sat, 5 Sept 2026.
 
 Eutopia Whs is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including b-line, Benny L, Bladerunner and Deefa and 2 more. Browse upcoming dates, start times and who's playing. 42 River Road, Barking, England, IG11 0DW, United Kingdom.
 
@@ -14,4 +14,4 @@ Eutopia Whs is a music venue in London listed on soundcheck. 1 upcoming night, w
 
 42 River Road, Barking, England, IG11 0DW, United Kingdom, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/eutopia-whs/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/eutopia-whs/)*

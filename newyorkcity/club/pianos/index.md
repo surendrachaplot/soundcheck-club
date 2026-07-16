@@ -1,6 +1,6 @@
 # Pianos
 
-Pianos is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "NIGHT SHIFT: AJACENT / HARMONICA / NARI / KAYSHIMMY" on Thu, 16 Jul 2026.
+Pianos is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "NIGHT SHIFT: AJACENT / HARMONICA / NARI / KAYSHIMMY" on Thu, 16 Jul 2026.
 
 Pianos is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including AJACENT, Cal.x, Devin Hudson and Petal and 1 more. Browse upcoming dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
 
@@ -16,4 +16,4 @@ Pianos is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, 
 
 158 Ludlow Street; New York, NY 10002; United States, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*

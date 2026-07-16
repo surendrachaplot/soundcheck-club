@@ -1,6 +1,6 @@
 # Mizuyo
 
-Mizuyo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 12 x 12, Bangkok on Thu, 16 Jul 2026.
+Mizuyo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 12 x 12, Bangkok on Thu, 16 Jul 2026.
 
 Mizuyo is a house and techno artist tracked on soundcheck, with 41 sets logged across Bangkok and Tokyo. Often billed alongside KATIMI AI, GAOLAO and Wataru Wanlak. Next up: 12 x 12, Bangkok on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Mizuyo is a house and techno artist tracked on soundcheck, with 41 sets logged a
 
 KATIMI AI, GAOLAO, Wataru Wanlak
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuyo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuyo/)*

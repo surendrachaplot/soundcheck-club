@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "DTW 15 Anniversary Space with Arga Seoul" on Fri, 17 Jul 2026.
+RASA is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "DTW 15 Anniversary Space with Arga Seoul" on Fri, 17 Jul 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with line-ups including Bongomann, Cityboy from Seoul, Dean Chew and Denis Sulta and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ RASA is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with
 | Fri, 24 Jul 2026 | RASA x EN (縁) presents JakoJako | JakoJako, Suffyan |
 | Sat, 1 Aug 2026 | Monkey Shoulder x RASA presents Denis Sulta (UK) | Denis Sulta |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

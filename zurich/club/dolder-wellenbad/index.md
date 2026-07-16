@@ -1,6 +1,6 @@
 # Dolder Wellenbad
 
-Dolder Wellenbad is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "THE POOL w/Adriatique" on Sat, 5 Sept 2026.
+Dolder Wellenbad is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "THE POOL w/Adriatique" on Sat, 5 Sept 2026.
 
 Dolder Wellenbad is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Adriatique. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Dolder Wellenbad is a music venue in Zurich listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | THE POOL w/Adriatique | Adriatique |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/dolder-wellenbad/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/dolder-wellenbad/)*

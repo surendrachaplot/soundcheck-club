@@ -1,6 +1,6 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Virage, Paris on Thu, 16 Jul 2026.
+DJ Deep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Virage, Paris on Thu, 16 Jul 2026.
 
 DJ Deep is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Virage, Paris on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ DJ Deep is a house and techno artist tracked on soundcheck, with 80 sets logged 
 
 Kerri Chandler, Chez Damier, DJ Reas
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*

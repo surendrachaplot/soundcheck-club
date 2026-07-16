@@ -1,6 +1,6 @@
 # Cafe La Palma
 
-Cafe La Palma is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tabletop sessions: Annette" on Thu, 16 Jul 2026.
+Cafe La Palma is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Tabletop sessions: Annette" on Thu, 16 Jul 2026.
 
 Cafe La Palma is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Jose Vera, Lucien (3), Misla and Posada. Browse upcoming dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
 
@@ -19,4 +19,4 @@ Cafe La Palma is a music venue in Madrid listed on soundcheck. 6 upcoming nights
 
 Calle de la Palma, 62; 28015 Madrid; Spain, Madrid
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*

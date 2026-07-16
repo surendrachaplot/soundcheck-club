@@ -1,6 +1,6 @@
 # Stefano Noferini
 
-Stefano Noferini is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - SEEN CLUB, Bucharest on Sat, 25 Jul 2026.
+Stefano Noferini is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - SEEN CLUB, Bucharest on Sat, 25 Jul 2026.
 
 Stefano Noferini is a tech house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Basel and 21 more. Often billed alongside Dimmish, Joe Vanditti and Late Replies. Next up: TBA - SEEN CLUB, Bucharest on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Stefano Noferini is a tech house and techno artist tracked on soundcheck, with 7
 
 Dimmish, Joe Vanditti, Late Replies
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*

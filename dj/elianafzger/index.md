@@ -1,6 +1,6 @@
 # Elia Nafzger
 
-Elia Nafzger is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Club der Visionaere, Berlin on Thu, 16 Jul 2026.
+Elia Nafzger is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club der Visionaere, Berlin on Thu, 16 Jul 2026.
 
 Elia Nafzger is a techno and minimal artist tracked on soundcheck, with 48 sets logged across Berlin, Brussels, Bucharest and Detroit and 7 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Club der Visionaere, Berlin on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ Elia Nafzger is a techno and minimal artist tracked on soundcheck, with 48 sets 
 
 Desuba, Andrei Ciubuc, Zach G
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elianafzger/)*

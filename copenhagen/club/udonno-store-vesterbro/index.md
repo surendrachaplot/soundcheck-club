@@ -1,6 +1,6 @@
 # Udonno Store Vesterbro
 
-Udonno Store Vesterbro is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Udonno Sound Relaunch" on Sat, 18 Jul 2026.
+Udonno Store Vesterbro is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Udonno Sound Relaunch" on Sat, 18 Jul 2026.
 
 Udonno Store Vesterbro is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Istedgade 46, 1650 KBH V.
 
@@ -14,4 +14,4 @@ Udonno Store Vesterbro is a music venue in Copenhagen listed on soundcheck. 1 up
 
 Istedgade 46, 1650 KBH V, Copenhagen
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/udonno-store-vesterbro/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/udonno-store-vesterbro/)*

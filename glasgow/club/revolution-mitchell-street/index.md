@@ -1,6 +1,6 @@
 # Revolution Mitchell Street
 
-Revolution Mitchell Street is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "BLNK R&B and Slow Jams Night" on Sat, 25 Jul 2026.
+Revolution Mitchell Street is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "BLNK R&B and Slow Jams Night" on Sat, 25 Jul 2026.
 
 Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 84 Mitchell St, Glasgow G1 3NA.
 
@@ -17,4 +17,4 @@ Revolution Mitchell Street is a music venue in Glasgow listed on soundcheck. 4 u
 
 84 Mitchell St, Glasgow G1 3NA, Glasgow
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/revolution-mitchell-street/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/revolution-mitchell-street/)*

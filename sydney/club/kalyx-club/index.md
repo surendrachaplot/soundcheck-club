@@ -1,6 +1,6 @@
 # Kalyx Club
 
-Kalyx Club is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Trancemonium pres: Cohesion" on Sat, 1 Aug 2026.
+Kalyx Club is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Trancemonium pres: Cohesion" on Sat, 1 Aug 2026.
 
 Kalyx Club is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 123 Avoca St, Randwick NSW 2031, Sydney, Australia.
 
@@ -14,4 +14,4 @@ Kalyx Club is a music venue in Sydney listed on soundcheck. 1 upcoming night. Br
 
 123 Avoca St, Randwick NSW 2031, Sydney, Australia, Sydney
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/kalyx-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/kalyx-club/)*

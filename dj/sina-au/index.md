@@ -1,6 +1,6 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Made In Cloister, Naples on Thu, 16 Jul 2026.
+Sina (AU) is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Made In Cloister, Naples on Thu, 16 Jul 2026.
 
 Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Kavil, Vlada and Tangerine. Next up: Made In Cloister, Naples on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 37 s
 
 Kavil, Vlada, Tangerine
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*

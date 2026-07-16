@@ -1,14 +1,13 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Meetfactory, Prague on Wed, 15 Jul 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at A38, Budapest on Sat, 18 Jul 2026.
 
-Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Meetfactory, Prague on Wed 15 Jul.
+Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: A38, Budapest on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Meetfactory | Prague |
 | Sat, 18 Jul 2026 | A38 | Budapest |
 | Thu, 23 Jul 2026 | KC Grad | Belgrade |
 | Fri, 4 Sept 2026 | LAV - Lisboa ao Vivo | Lisbon |
@@ -20,6 +19,7 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88
 
 ## Recently played
 
+- Meetfactory, Prague — Wed, 15 Jul 2026
 - NIEBO, Warsaw — Sun, 12 Jul 2026
 - Södra Teatern, Kägelbanan, Stockholm — Fri, 10 Jul 2026
 - Sentralen, Oslo — Wed, 8 Jul 2026
@@ -27,10 +27,9 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 88
 - Heimathafen Neukoelln Im Saalbau, Berlin — Tue, 30 Jun 2026
 - Band on the Wall, Manchester — Sun, 28 Jun 2026
 - Battersea Arts Centre, London — Wed, 24 Jun 2026
-- Le Café De La Danse, Paris — Mon, 22 Jun 2026
 
 ## Shares bills with
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

@@ -1,6 +1,6 @@
 # Diz Jockey
 
-Diz Jockey is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gingerino's Pizza, Newcastle on Sat, 25 Jul 2026.
+Diz Jockey is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gingerino's Pizza, Newcastle on Sat, 25 Jul 2026.
 
 Diz Jockey is a disco and house artist tracked on soundcheck, with 54 sets logged across Newcastle. Often billed alongside Vinny Vins, Bill Brewster and Santa Leticia. Next up: Gingerino's Pizza, Newcastle on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Diz Jockey is a disco and house artist tracked on soundcheck, with 54 sets logge
 
 Vinny Vins, Bill Brewster, Santa Leticia
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dizjockey/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dizjockey/)*

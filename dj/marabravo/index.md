@@ -1,6 +1,6 @@
 # MARA BRAVO
 
-MARA BRAVO is a Progressive House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 17 Jul 2026.
+MARA BRAVO is a Progressive House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 17 Jul 2026.
 
 MARA BRAVO is a progressive house and afro house artist based in Spain, tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 2 more. Often billed alongside Lupe Republic, Cucut and ERRANT. Next up: Seaseaclub Barcelona, Barcelona on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ MARA BRAVO is a progressive house and afro house artist based in Spain, tracked 
 
 Lupe Republic, Cucut, ERRANT
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*

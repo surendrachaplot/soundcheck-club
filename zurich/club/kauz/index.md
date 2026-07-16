@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "sommernacht × crew love" on Fri, 17 Jul 2026.
+Kauz is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "sommernacht × crew love" on Fri, 17 Jul 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Audino, Liad Krispin, NX46 and ONX (CH) and 1 more. Browse upcoming dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -15,4 +15,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with li
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

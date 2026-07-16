@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Dave Clarke" on Sat, 25 Jul 2026.
+Moon Club is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Dave Clarke" on Sat, 25 Jul 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Appleblim, Ben Pest, Dave Clarke and Radioactive Man and 1 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -16,4 +16,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 3 upcoming nights, w
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

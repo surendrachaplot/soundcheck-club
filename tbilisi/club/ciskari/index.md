@@ -1,6 +1,6 @@
 # Ciskari
 
-Ciskari is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "VELTAX x KHAZI: MCMLXXXV / Laure Croft / Seqta / Iraklion / Clinical Hates" on Fri, 17 Jul 2026.
+Ciskari is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "VELTAX x KHAZI: MCMLXXXV / Laure Croft / Seqta / Iraklion / Clinical Hates" on Fri, 17 Jul 2026.
 
 Ciskari is a music venue in Tbilisi listed on soundcheck. 1 upcoming night, with line-ups including Clinical Hates, Iraklion, Laure Croft and MCMLXXXV and 1 more. Browse upcoming dates, start times and who's playing. Tsiskari, Kus Tba Steet, Tbilisi, Georgia.
 
@@ -14,4 +14,4 @@ Ciskari is a music venue in Tbilisi listed on soundcheck. 1 upcoming night, with
 
 Tsiskari, Kus Tba Steet, Tbilisi, Georgia, Tbilisi
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/ciskari/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/ciskari/)*

@@ -1,6 +1,6 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lieberscholli, Munich on Fri, 17 Jul 2026.
+Rad.Lez is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lieberscholli, Munich on Fri, 17 Jul 2026.
 
 Rad.Lez is a techno and electro artist based in Venezuela, tracked on soundcheck, with 99 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Lieberscholli, Munich on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Rad.Lez is a techno and electro artist based in Venezuela, tracked on soundcheck
 
 Lazykid, Shabiki, HNGT
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

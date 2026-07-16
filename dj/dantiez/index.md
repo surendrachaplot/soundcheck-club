@@ -1,6 +1,6 @@
 # Dantiez
 
-Dantiez is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Paragon, New York City on Sat, 18 Jul 2026.
+Dantiez is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Paragon, New York City on Sat, 18 Jul 2026.
 
 Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Detroit, Losangeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, Kevin Saunderson and The Saunderson Brothers. Next up: Paragon, Newyorkcity on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Dantiez is a house and techno artist based in United States of America, tracked 
 
 Damarii Saunderson, Kevin Saunderson, The Saunderson Brothers
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dantiez/)*

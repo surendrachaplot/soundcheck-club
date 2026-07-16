@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Pardee Bass presents: Nanoos at Soup MCR" on Fri, 17 Jul 2026.
+Soup is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Pardee Bass presents: Nanoos at Soup MCR" on Fri, 17 Jul 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including aminabonthebeat, A.Morgan, Big Dope P and DJ Spinn and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 12 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

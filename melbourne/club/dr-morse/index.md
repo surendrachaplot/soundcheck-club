@@ -1,6 +1,6 @@
 # Dr Morse
 
-Dr Morse is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Strawberry Kisses" on Fri, 17 Jul 2026.
+Dr Morse is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Strawberry Kisses" on Fri, 17 Jul 2026.
 
 Dr Morse is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including DJ Ransom, Hysteric, Julius Myles and Luigi. Browse upcoming dates, start times and who's playing. 274 Johnston St; Abbotsford VIC 3067.
 
@@ -17,4 +17,4 @@ Dr Morse is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, 
 
 274 Johnston St; Abbotsford VIC 3067, Melbourne
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/dr-morse/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/dr-morse/)*

@@ -1,6 +1,6 @@
 # DRS
 
-DRS is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Black Box, Denver on Sat, 25 Jul 2026.
+DRS is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Black Box, Denver on Sat, 25 Jul 2026.
 
 DRS is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside LSB, dogger and LSB (UK). Next up: The Black Box, Denver on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DRS is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 LSB, dogger, LSB (UK)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*

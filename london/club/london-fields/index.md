@@ -1,6 +1,6 @@
 # London Fields
 
-London Fields is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Pieces Chess Club presents - Pieces In The Park" on Fri, 24 Jul 2026.
+London Fields is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Pieces Chess Club presents - Pieces In The Park" on Fri, 24 Jul 2026.
 
 London Fields is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 137 Mare Street; Hackney; London E8 3RH; United Kingdom.
 
@@ -14,4 +14,4 @@ London Fields is a music venue in London listed on soundcheck. 1 upcoming night.
 
 137 Mare Street; Hackney; London E8 3RH; United Kingdom, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/london-fields/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/london-fields/)*

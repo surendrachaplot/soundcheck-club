@@ -1,6 +1,6 @@
 # Tuin van Heden
 
-Tuin van Heden is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ojoo - Gentse Feesten" on Sat, 18 Jul 2026.
+Tuin van Heden is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Ojoo - Gentse Feesten" on Sat, 18 Jul 2026.
 
 Tuin van Heden is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Berthold (1), Karawane, Kim Kenis and LaMaz. Browse upcoming dates, start times and who's playing. Meierij 178, 9000 Ghent.
 
@@ -15,4 +15,4 @@ Tuin van Heden is a music venue in Ghent listed on soundcheck. 2 upcoming nights
 
 Meierij 178, 9000 Ghent, Ghent
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tuin-van-heden/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tuin-van-heden/)*

@@ -1,6 +1,6 @@
 # Philou
 
-Philou is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kater, Berlin on Fri, 17 Jul 2026.
+Philou is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Kater, Berlin on Fri, 17 Jul 2026.
 
 Philou is a house and techno artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside Chambord, Daniel Weil and Victoire. Next up: Kater, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Philou is a house and techno artist based in France, tracked on soundcheck, with
 
 Chambord, Daniel Weil, Victoire
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*

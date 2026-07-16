@@ -1,6 +1,6 @@
 # TBA - The Northern 
 
-TBA - The Northern  is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Oostil by DEEPDOWN" on Fri, 25 Sept 2026.
+TBA - The Northern  is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Oostil by DEEPDOWN" on Fri, 25 Sept 2026.
 
 TBA - The Northern  is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Northern  is a music venue in Sydney listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Oostil by DEEPDOWN |  |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-the-northern/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-the-northern/)*

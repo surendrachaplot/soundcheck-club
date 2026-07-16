@@ -1,6 +1,6 @@
 # Atelier ZEVEN
 
-Atelier ZEVEN is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Atelier ZEVEN x Gentse Feesten" on Sat, 18 Jul 2026.
+Atelier ZEVEN is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Atelier ZEVEN x Gentse Feesten" on Sat, 18 Jul 2026.
 
 Atelier ZEVEN is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Bolt Ruin, Mathlovsky and Tijn Driessen. Browse upcoming dates, start times and who's playing. Gouvernementstraat 7, Ghent, Belgium.
 
@@ -15,4 +15,4 @@ Atelier ZEVEN is a music venue in Ghent listed on soundcheck. 2 upcoming nights,
 
 Gouvernementstraat 7, Ghent, Belgium, Ghent
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/atelier-zeven/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/atelier-zeven/)*

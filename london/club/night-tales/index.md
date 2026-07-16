@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 29 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Origins x FDTN: ADR, AZAAD, Marlie, Nu Zau, PACH & Tino  " on Fri, 17 Jul 2026.
+Night Tales is a music venue in London with 29 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Origins x FDTN: ADR, AZAAD, Marlie, Nu Zau, PACH & Tino  " on Fri, 17 Jul 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including KT, ADMNTi, ADR (UK) and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 29 upcoming nights,
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

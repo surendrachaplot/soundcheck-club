@@ -1,6 +1,6 @@
 # District
 
-District is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Under One Roof Liverpool" on Thu, 16 Jul 2026.
+District is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Under One Roof Liverpool" on Thu, 16 Jul 2026.
 
 District is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including bite, Die Verletzt and Jezebel. Browse upcoming dates, start times and who's playing. 61 Jordan St, Liverpool, L1 0BW.
 
@@ -19,4 +19,4 @@ District is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, 
 
 61 Jordan St, Liverpool, L1 0BW, Liverpool
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*

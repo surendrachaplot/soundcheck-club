@@ -1,6 +1,6 @@
 # Oscar de Lima
 
-Oscar de Lima is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at OneSixOne, Melbourne on Mon, 20 Jul 2026.
+Oscar de Lima is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at OneSixOne, Melbourne on Mon, 20 Jul 2026.
 
 Oscar de Lima is a house and deep house artist based in Australia, tracked on soundcheck, with 68 sets logged across Amsterdam, Brisbane, Madrid and Melbourne and 2 more. Often billed alongside Joey Coco, CA LOU and Said Dami. Next up: OneSixOne, Melbourne on Mon 20 Jul.
 
@@ -28,4 +28,4 @@ Oscar de Lima is a house and deep house artist based in Australia, tracked on so
 
 Joey Coco, CA LOU, Said Dami
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardelima/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscardelima/)*

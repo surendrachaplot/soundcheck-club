@@ -1,6 +1,6 @@
 # Kaoll
 
-Kaoll is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at rake?raka?, Osaka on Fri, 17 Jul 2026.
+Kaoll is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at rake?raka?, Osaka on Fri, 17 Jul 2026.
 
 Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 3 sets logged across Osaka. Often billed alongside ALTF4, CHIKA and FENGX2. Next up: rake?raka?, Osaka on Fri 17 Jul.
 
@@ -16,4 +16,4 @@ Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 3
 
 ALTF4, CHIKA, FENGX2
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*

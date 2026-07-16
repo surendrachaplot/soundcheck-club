@@ -1,6 +1,6 @@
 # ATMEN
 
-ATMEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BORIS CLUB, Barcelona on Thu, 16 Jul 2026.
+ATMEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BORIS CLUB, Barcelona on Thu, 16 Jul 2026.
 
 ATMEN is a techno and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Cesar Martino, ALUSH and Elwei. Next up: BORIS CLUB, Barcelona on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ ATMEN is a techno and house artist tracked on soundcheck, with 94 sets logged ac
 
 Cesar Martino, ALUSH, Elwei
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atmen/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atmen/)*

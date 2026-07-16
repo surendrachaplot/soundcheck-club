@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Hidden presents Rio Tashan, Hayley Zalassi & Urbi" on Fri, 17 Jul 2026.
+Hidden is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Hidden presents Rio Tashan, Hayley Zalassi & Urbi" on Fri, 17 Jul 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Aiden Francis, Chimpo, Christian AB and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 10 upcoming nights, 
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

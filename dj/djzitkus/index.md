@@ -1,14 +1,15 @@
 # DJ Zitkus
 
-DJ Zitkus is a Trance and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Seventy Three Glasgow, Glasgow on Sat, 18 Jul 2026.
+DJ Zitkus is a Trance and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Seventy Three Glasgow, Glasgow on Sat, 18 Jul 2026.
 
-DJ Zitkus is a trance and hardcore artist tracked on soundcheck, with 37 sets logged across Edinburgh and Glasgow. Often billed alongside Joe Deacon, Ultrabeat and Ian Van Dahl. Next up: Seventy Three Glasgow, Glasgow on Sat 18 Jul.
+DJ Zitkus is a trance and hardcore artist tracked on soundcheck, with 38 sets logged across Edinburgh and Glasgow. Often billed alongside Joe Deacon, Ultrabeat and Ian Van Dahl. Next up: Seventy Three Glasgow, Glasgow on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Seventy Three Glasgow | Glasgow |
+| Fri, 7 Aug 2026 | Seventy Three Glasgow | Glasgow |
 | Sat, 12 Sept 2026 | Saint Judes | Glasgow |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Zitkus is a trance and hardcore artist tracked on soundcheck, with 37 sets lo
 
 Joe Deacon, Ultrabeat, Ian Van Dahl
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djzitkus/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djzitkus/)*

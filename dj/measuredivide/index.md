@@ -1,6 +1,6 @@
 # Measure Divide
 
-Measure Divide is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cherry Beach, Toronto on Mon, 3 Aug 2026.
+Measure Divide is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cherry Beach, Toronto on Mon, 3 Aug 2026.
 
 Measure Divide is a techno and acid artist tracked on soundcheck, with 82 sets logged across Berlin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: Cherry Beach, Toronto on Mon 3 Aug.
 
@@ -27,4 +27,4 @@ Measure Divide is a techno and acid artist tracked on soundcheck, with 82 sets l
 
 AADJA, Circumscums, Vadim Khan
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*

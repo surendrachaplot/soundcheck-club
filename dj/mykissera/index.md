@@ -1,6 +1,6 @@
 # mykissera
 
-mykissera is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Skylight Warehouse, Vancouver on Sat, 18 Jul 2026.
+mykissera is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Skylight Warehouse, Vancouver on Sat, 18 Jul 2026.
 
 mykissera is a club and hardcore artist based in Canada, tracked on soundcheck, with 15 sets logged across Mexicocity and Vancouver. Often billed alongside EtOH, SUBDIDI and TR4CK ID?. Next up: Skylight Warehouse, Vancouver on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ mykissera is a club and hardcore artist based in Canada, tracked on soundcheck, 
 
 EtOH, SUBDIDI, TR4CK ID?
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mykissera/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mykissera/)*

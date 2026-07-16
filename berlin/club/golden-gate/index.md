@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Hidden Variables" on Thu, 16 Jul 2026.
+Golden Gate is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Hidden Variables" on Thu, 16 Jul 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Nadine Hennig, Berunth, Edgar Peng and Elli.on and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming nights, 
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

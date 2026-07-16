@@ -1,6 +1,6 @@
 # Simple Underground Stage
 
-Simple Underground Stage is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "The Underground Throwback" on Thu, 16 Jul 2026.
+Simple Underground Stage is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "The Underground Throwback (CANCELED!)" on Thu, 16 Jul 2026.
 
 Simple Underground Stage is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including DJ TMF. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Simple Underground Stage is a music venue in Washingtondc listed on soundcheck. 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | The Underground Throwback | DJ TMF |
+| Thu, 16 Jul 2026 | The Underground Throwback (CANCELED!) | DJ TMF |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/simple-underground-stage/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/simple-underground-stage/)*

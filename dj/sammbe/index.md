@@ -1,6 +1,6 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
+Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
 
 Samm (BE) is a house and afro house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside ARODES, Alex Wann and Andrea Oliva. Next up: Fridas Pier, Stuttgart on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 54 sets l
 
 ARODES, Alex Wann, Andrea Oliva
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

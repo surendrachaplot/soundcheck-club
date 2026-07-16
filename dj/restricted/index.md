@@ -1,14 +1,13 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 15 Jul 2026.
+Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
-Restricted is a techno and hardcore artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Amnesia Ibiza, Ibiza on Wed 15 Jul.
+Restricted is a techno and hardcore artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Downsview Park | Toronto |
 | Sat, 1 Aug 2026 | Bowlers Exhibition Centre | Manchester |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
@@ -20,6 +19,7 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 64 sets l
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
 - Flanders Expo Centre, Ghent — Sat, 4 Jul 2026
@@ -27,10 +27,9 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 64 sets l
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Index, Dublin — Fri, 5 Jun 2026
 - Eden, Ibiza — Tue, 26 May 2026
-- UNO MALTA, Malta — Thu, 21 May 2026
 
 ## Shares bills with
 
 Azyr, JAZZY (2), Vieze Asbak
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

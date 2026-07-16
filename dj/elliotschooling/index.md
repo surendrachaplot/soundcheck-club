@@ -1,6 +1,6 @@
 # Elliot Schooling
 
-Elliot Schooling is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at FORGE, Sheffield on Sun, 19 Jul 2026.
+Elliot Schooling is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at FORGE, Sheffield on Sun, 19 Jul 2026.
 
 Elliot Schooling is a house and tech house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Liam Palmer, Locky and L.P. Rhythm. Next up: FORGE, Sheffield on Sun 19 Jul.
 
@@ -31,4 +31,4 @@ Elliot Schooling is a house and tech house artist tracked on soundcheck, with 15
 
 Liam Palmer, Locky, L.P. Rhythm
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotschooling/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotschooling/)*

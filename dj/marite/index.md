@@ -1,6 +1,6 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
+Mari.te is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
 
 Mari.te is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope (2). Next up: fabric, London on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Mari.te is a house and techno artist tracked on soundcheck, with 152 sets logged
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

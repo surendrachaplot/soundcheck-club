@@ -1,6 +1,6 @@
 # Reinier Zonneveld
 
-Reinier Zonneveld is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 17 Jul 2026.
+Reinier Zonneveld is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 17 Jul 2026.
 
 Reinier Zonneveld is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Studio Club Malaga, Malaga on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Reinier Zonneveld is a techno and house artist tracked on soundcheck, with 117 s
 
 999999999, Adam Beyer, I Hate Models
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reinierzonneveld/)*

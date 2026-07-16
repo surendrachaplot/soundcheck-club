@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Złom with excel dj, new flesh, Wash Electra, london community laptop orchestra" on Sat, 18 Jul 2026.
+Spanners is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Złom with excel dj, new flesh, Wash Electra, london community laptop orchestra" on Sat, 18 Jul 2026.
 
 Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Angel D'lite, Bethan, BJ Holy and excel dj and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -22,4 +22,4 @@ Spanners is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

@@ -1,6 +1,6 @@
 # DJ Lumiere
 
-DJ Lumiere is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sky Lounge 360, Prague on Thu, 6 Aug 2026.
+DJ Lumiere is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sky Lounge 360, Prague on Thu, 6 Aug 2026.
 
 DJ Lumiere is a house and techno artist tracked on soundcheck, with 57 sets logged across Prague. Often billed alongside Ondrej K, Hugorieri and STAYSKY. Next up: Sky Lounge 360, Prague on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ DJ Lumiere is a house and techno artist tracked on soundcheck, with 57 sets logg
 
 Ondrej K, Hugorieri, STAYSKY
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumiere/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlumiere/)*

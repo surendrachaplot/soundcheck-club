@@ -1,6 +1,6 @@
 # Glob
 
-Glob is a music venue in Denver with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Jake Muir / Malefoetus / I.Lind (Ambient / Experimental / Sound Collage)" on Fri, 17 Jul 2026.
+Glob is a music venue in Denver with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Jake Muir / Malefoetus / I.Lind (Ambient / Experimental / Sound Collage)" on Fri, 17 Jul 2026.
 
 Glob is a music venue in Denver listed on soundcheck. 2 upcoming nights, with line-ups including Jake Muir and Tom of England. Browse upcoming dates, start times and who's playing. 3551 Brighton Blvd, Denver, CO 80216, United States.
 
@@ -15,4 +15,4 @@ Glob is a music venue in Denver listed on soundcheck. 2 upcoming nights, with li
 
 3551 Brighton Blvd, Denver, CO 80216, United States, Denver
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*

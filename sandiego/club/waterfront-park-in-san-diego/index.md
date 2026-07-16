@@ -1,6 +1,6 @@
 # Waterfront Park in San Diego
 
-Waterfront Park in San Diego is a music venue in San Diego with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "FNGRS CRSSD x Lane 8 present Cross Pollination" on Sun, 9 Aug 2026.
+Waterfront Park in San Diego is a music venue in San Diego with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "FNGRS CRSSD x Lane 8 present Cross Pollination" on Sun, 9 Aug 2026.
 
 Waterfront Park in San Diego is a music venue in Sandiego listed on soundcheck. 2 upcoming nights, with line-ups including 999999999, ARODES, Ashibah and Ben UFO and 2 more. Browse upcoming dates, start times and who's playing. 1600 Pacific Hwy, San Diego, CA 92101.
 
@@ -15,4 +15,4 @@ Waterfront Park in San Diego is a music venue in Sandiego listed on soundcheck. 
 
 1600 Pacific Hwy, San Diego, CA 92101, San Diego
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/waterfront-park-in-san-diego/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/waterfront-park-in-san-diego/)*

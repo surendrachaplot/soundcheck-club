@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 26 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SERNA, Yeiem, Safia at ANFANG" on Thu, 16 Jul 2026.
+Cadavra is a music venue in Madrid with 26 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SERNA, Yeiem, Safia at ANFANG" on Thu, 16 Jul 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, with line-ups including Aedis, Alvaro Cabana, Amaliah and ANIMANUEL and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 26 upcoming nights, wit
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

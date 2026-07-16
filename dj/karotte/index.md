@@ -1,6 +1,6 @@
 # Karotte
 
-Karotte is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Fri, 7 Aug 2026.
+Karotte is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Fri, 7 Aug 2026.
 
 Karotte is a techno and tech house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Basel, Berlin and Cologne and 8 more. Often billed alongside Gregor Tresher, Lilly Palmer and Anja Schneider. Next up: Sparta Schwimmclub, Frankfurt on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Karotte is a techno and tech house artist tracked on soundcheck, with 68 sets lo
 
 Gregor Tresher, Lilly Palmer, Anja Schneider
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*

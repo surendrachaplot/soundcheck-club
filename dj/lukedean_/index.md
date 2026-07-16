@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 21 Jul 2026.
+Luke Dean_ is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Chinois Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 25 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Chinois Ibiza, Ibiza on Tue 21 Jul.
 
@@ -33,4 +33,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 100 sets
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

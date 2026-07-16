@@ -1,8 +1,8 @@
 # BAE BAE
 
-BAE BAE is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Airliner, Los Angeles on Sat, 18 Jul 2026.
+BAE BAE is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Airliner, Los Angeles on Sat, 18 Jul 2026.
 
-BAE BAE is a club and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 14 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: The Airliner, Losangeles on Sat 18 Jul.
+BAE BAE is a club and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 14 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: The Airliner, Losangeles on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BAE BAE is a club and techno artist tracked on soundcheck, with 106 sets logged 
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | The Airliner | Los Angeles |
 | Sat, 25 Jul 2026 | The Melrose House | Los Angeles |
+| Fri, 31 Jul 2026 | MoMA PS1 | New York City |
 | Thu, 6 Aug 2026 | public records | New York City |
 | Sat, 8 Aug 2026 | public records | New York City |
 
@@ -28,4 +29,4 @@ BAE BAE is a club and techno artist tracked on soundcheck, with 106 sets logged 
 
 DJ Kita, Colored Craig, Cquestt
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*

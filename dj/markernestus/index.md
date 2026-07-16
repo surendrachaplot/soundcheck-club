@@ -1,6 +1,6 @@
 # Mark Ernestus
 
-Mark Ernestus is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Nowadays, New York City on Sat, 18 Jul 2026.
+Mark Ernestus is a Techno and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nowadays, New York City on Sat, 18 Jul 2026.
 
 Mark Ernestus is a techno and dub artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Basel and Berlin and 16 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: Nowadays, Newyorkcity on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Mark Ernestus is a techno and dub artist based in Germany, tracked on soundcheck
 
 CCL, Objekt, Arthur (DE)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*

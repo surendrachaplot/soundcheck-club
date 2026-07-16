@@ -1,6 +1,6 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Tornado Wallace is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
 Tornado Wallace is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: Garchinger See, Munich on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ Tornado Wallace is a house and techno artist tracked on soundcheck, with 127 set
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

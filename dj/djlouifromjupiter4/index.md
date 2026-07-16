@@ -1,6 +1,6 @@
 # DJ LOUI FROM JUPITER4
 
-DJ LOUI FROM JUPITER4 is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+DJ LOUI FROM JUPITER4 is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 DJ LOUI FROM JUPITER4 is a latin bass and techno artist based in Argentina, tracked on soundcheck, with 46 sets logged across Barcelona, Basel, Berlin and Budapest and 9 more. Often billed alongside Gadutra, Maque and Nuevo Prohibido. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DJ LOUI FROM JUPITER4 is a latin bass and techno artist based in Argentina, trac
 
 Gadutra, Maque, Nuevo Prohibido
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlouifromjupiter4/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djlouifromjupiter4/)*

@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Spook Club, Valencia on Sat, 18 Jul 2026.
+KLOFAMA is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Spook Club, Valencia on Sat, 18 Jul 2026.
 
 KLOFAMA is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: Spook Club, Valencia on Sat 18 Jul.
 
@@ -34,4 +34,4 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 93 sets lo
 
 KARAH, SLVL, SANTØS
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

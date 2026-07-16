@@ -1,6 +1,6 @@
 # Dalston Superstore
 
-Dalston Superstore is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Femmme Fraiche #060 with Cáit, Michelle Manetti, Ms.G, Ivicore, Bad Pal Lili + more" on Fri, 24 Jul 2026.
+Dalston Superstore is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Femmme Fraiche #060 with Cáit, Michelle Manetti, Ms.G, Ivicore, Bad Pal Lili + more" on Fri, 24 Jul 2026.
 
 Dalston Superstore is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including bad pal lili, Cáit, Ivicore and Jaguar and 2 more. Browse upcoming dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
 
@@ -15,4 +15,4 @@ Dalston Superstore is a music venue in London listed on soundcheck. 2 upcoming n
 
 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*

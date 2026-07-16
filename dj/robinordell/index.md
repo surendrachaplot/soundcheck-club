@@ -1,6 +1,6 @@
 # Robin Ordell
 
-Robin Ordell is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 12 x 12, Bangkok on Sat, 18 Jul 2026.
+Robin Ordell is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 12 x 12, Bangkok on Sat, 18 Jul 2026.
 
 Robin Ordell is a house and minimal artist based in France, tracked on soundcheck, with 42 sets logged across Bangkok, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: 12 x 12, Bangkok on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Robin Ordell is a house and minimal artist based in France, tracked on soundchec
 
 Olita (UK), Sam Bangura, Greg Brockmann
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*

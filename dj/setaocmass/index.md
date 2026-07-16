@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Spook Club, Valencia on Sat, 1 Aug 2026.
+Setaoc Mass is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Spook Club, Valencia on Sat, 1 Aug 2026.
 
 Setaoc Mass is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Philippa Pacho, Altinbas and Rene Wise. Next up: Spook Club, Valencia on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Setaoc Mass is a techno and house artist tracked on soundcheck, with 171 sets lo
 
 Philippa Pacho, Altinbas, Rene Wise
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

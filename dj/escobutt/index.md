@@ -1,6 +1,6 @@
 # ESCOBUTT
 
-ESCOBUTT is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Querencia Studio, Toronto on Sat, 18 Jul 2026.
+ESCOBUTT is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Querencia Studio, Toronto on Sat, 18 Jul 2026.
 
 ESCOBUTT is a club and bass artist tracked on soundcheck, with 41 sets logged across Marseille, Montreal, Toronto and Vancouver. Often billed alongside Juanit0, GUSSYEE and Kaspr. Next up: Querencia Studio, Toronto on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ ESCOBUTT is a club and bass artist tracked on soundcheck, with 41 sets logged ac
 
 Juanit0, GUSSYEE, Kaspr
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escobutt/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/escobutt/)*

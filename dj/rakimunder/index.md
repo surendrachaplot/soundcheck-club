@@ -1,6 +1,6 @@
 # Rakim Under
 
-Rakim Under is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LA-YAM Rooftop, London on Sat, 18 Jul 2026.
+Rakim Under is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at LA-YAM Rooftop, London on Sat, 18 Jul 2026.
 
 Rakim Under is a house and techno artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside David Triana, Der and Kenia. Next up: LA-YAM Rooftop, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Rakim Under is a house and techno artist based in United Kingdom, tracked on sou
 
 David Triana, Der, Kenia
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rakimunder/)*

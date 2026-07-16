@@ -1,6 +1,6 @@
 # 1luu
 
-1luu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 17 Jul 2026.
+1luu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 17 Jul 2026.
 
 1luu is a techno and trance artist based in Switzerland, tracked on soundcheck, with 100 sets logged across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Aexhy, DJ Henk and DJ Traytex. Next up: Lokschuppen Berlin, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@
 
 Aexhy, DJ Henk, DJ Traytex
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*

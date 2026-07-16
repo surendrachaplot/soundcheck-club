@@ -1,6 +1,6 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Myra, Lisbon on Fri, 17 Jul 2026.
+Maxime dB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Myra, Lisbon on Fri, 17 Jul 2026.
 
 Maxime dB is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Myra, Lisbon on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Maxime dB is a house and techno artist tracked on soundcheck, with 116 sets logg
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

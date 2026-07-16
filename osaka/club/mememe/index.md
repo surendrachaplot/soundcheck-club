@@ -1,14 +1,13 @@
 # Mememe
 
-Mememe is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "ふく兵の水曜アゲ↑曲酒場" on Wed, 15 Jul 2026.
+Mememe is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "3NINKAI" on Thu, 16 Jul 2026.
 
-Mememe is a music venue in Osaka listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+Mememe is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | ふく兵の水曜アゲ↑曲酒場 |  |
 | Thu, 16 Jul 2026 | 3NINKAI |  |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/mememe/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/mememe/)*

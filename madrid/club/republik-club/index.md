@@ -1,6 +1,6 @@
 # Republik Club
 
-Republik Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "MINITEL 𖢥" on Fri, 17 Jul 2026.
+Republik Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "MINITEL 𖢥" on Fri, 17 Jul 2026.
 
 Republik Club is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including DJ2OYCE, Mateus Medeiros and VELZ (2). Browse upcoming dates, start times and who's playing. Calle Puebla 6, 28004, Madrid.
 
@@ -14,4 +14,4 @@ Republik Club is a music venue in Madrid listed on soundcheck. 1 upcoming night,
 
 Calle Puebla 6, 28004, Madrid, Madrid
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/republik-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/republik-club/)*

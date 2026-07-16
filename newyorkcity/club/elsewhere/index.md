@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 49 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "EUROHEAD, Don-Ri, m i m i" on Thu, 16 Jul 2026.
+Elsewhere is a music venue in New York City with 49 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "EUROHEAD, Don-Ri, m i m i" on Thu, 16 Jul 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nights, with line-ups including 2D0GS, 444 (1), Berrakka and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 49 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

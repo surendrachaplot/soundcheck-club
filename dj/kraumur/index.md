@@ -1,6 +1,6 @@
 # Kraumur
 
-Kraumur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Left Bank, Tbilisi on Sat, 25 Jul 2026.
+Kraumur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Left Bank, Tbilisi on Sat, 25 Jul 2026.
 
 Kraumur is a techno and house artist tracked on soundcheck, with 103 sets logged across Hamburg, Munich and Tbilisi. Often billed alongside Ash Scholem, Memotech and Gio Shengelia. Next up: Left Bank, Tbilisi on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Kraumur is a techno and house artist tracked on soundcheck, with 103 sets logged
 
 Ash Scholem, Memotech, Gio Shengelia
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kraumur/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kraumur/)*

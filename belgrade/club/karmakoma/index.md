@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Kim Ann Foxman, Tijana T" on Fri, 17 Jul 2026.
+Karmakoma is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Kim Ann Foxman, Tijana T" on Fri, 17 Jul 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, with line-ups including ACOR, Ciel, Connor Wall and Dakman and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -21,4 +21,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

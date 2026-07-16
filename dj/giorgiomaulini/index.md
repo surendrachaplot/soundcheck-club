@@ -1,6 +1,6 @@
 # Giorgio Maulini
 
-Giorgio Maulini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 24 Jul 2026.
+Giorgio Maulini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 303 Audiophile Bar, Barcelona on Fri, 24 Jul 2026.
 
 Giorgio Maulini is a house and techno artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Nicolas Duvoisin, Sonja Moonear and Apollonia. Next up: 303 Audiophile Bar, Barcelona on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Giorgio Maulini is a house and techno artist tracked on soundcheck, with 26 sets
 
 Nicolas Duvoisin, Sonja Moonear, Apollonia
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiomaulini/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiomaulini/)*

@@ -1,6 +1,6 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 26 Aug 2026.
+Storm Mollison is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hï Ibiza, Ibiza on Wed, 26 Aug 2026.
 
 Storm Mollison is a house and disco artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: Hï Ibiza, Ibiza on Wed 26 Aug.
 
@@ -30,4 +30,4 @@ Storm Mollison is a house and disco artist tracked on soundcheck, with 65 sets l
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

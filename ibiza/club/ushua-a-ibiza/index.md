@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 75 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 15 Jul 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 74 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Martin Garrix" on Thu, 16 Jul 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 75 upcoming nights, with line-ups including Afrojack, Airwolf Paradise, Alesso and Alok and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 74 upcoming nights, with line-ups including Afrojack, Airwolf Paradise, Alesso and Alok and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Dimitri Vegas & Like Mike, Robin Schulz |
 | Thu, 16 Jul 2026 | Martin Garrix | Alesso, Martin Garrix |
 | Fri, 17 Jul 2026 | Calvin Harris & MK | Arielle Free, Calvin Harris, Marc Kinchen |
 | Sat, 18 Jul 2026 | ANTS | Gaskin, Melanie Ribbe, Prunk, Raul Rodriguez, The Martinez Brothers |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 75 upcoming night
 | Wed, 22 Jul 2026 | elrow |  |
 | Thu, 23 Jul 2026 | Martin Garrix | Martin Garrix, Matt Sassari, SOFI TUKKER |
 | Fri, 24 Jul 2026 | Calvin Harris & MK | Airwolf Paradise, Calvin Harris, Marc Kinchen |
+| Sat, 25 Jul 2026 | ANTS | Andrea Oliva, Archie Hamilton, Nic Fanciulli, Raul Rodriguez |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

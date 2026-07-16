@@ -1,6 +1,6 @@
 # Voigtmann
 
-Voigtmann is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 17 Jul 2026.
+Voigtmann is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 17 Jul 2026.
 
 Voigtmann is a house and minimal artist tracked on soundcheck, with 181 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Enzo Siragusa and Julian Anthony. Next up: NUMBER 90 LONDON, London on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Voigtmann is a house and minimal artist tracked on soundcheck, with 181 sets log
 
 Laidlaw, Enzo Siragusa, Julian Anthony
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

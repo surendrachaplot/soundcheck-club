@@ -1,6 +1,6 @@
 # Ëlorian
 
-Ëlorian is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Pracht, Frankfurt on Fri, 17 Jul 2026.
+Ëlorian is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Pracht, Frankfurt on Fri, 17 Jul 2026.
 
 Ëlorian is a house and progressive house artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt, Mexicocity and Munich. Often billed alongside Esther Silex, MINÄ and Soulfunk. Next up: Pracht, Frankfurt on Fri 17 Jul.
 
@@ -26,4 +26,4 @@
 
 Esther Silex, MINÄ, Soulfunk
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elorian/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elorian/)*

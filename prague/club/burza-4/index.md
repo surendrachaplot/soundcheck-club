@@ -1,6 +1,6 @@
 # Burza #4
 
-Burza #4 is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "WHEEE! with Big Lil, Technadze, VISNEACS & PRDELANZA" on Fri, 17 Jul 2026.
+Burza #4 is a music venue in Prague with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "WHEEE! with Big Lil, Technadze, VISNEACS & PRDELANZA" on Fri, 17 Jul 2026.
 
 Burza #4 is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Big Lil, PRDELANZA, Technadze and VISNEACS. Browse upcoming dates, start times and who's playing. Bubenské nábřeží 306/13, 17000 Prague, Czech Republic.
 
@@ -14,4 +14,4 @@ Burza #4 is a music venue in Prague listed on soundcheck. 1 upcoming night, with
 
 Bubenské nábřeží 306/13, 17000 Prague, Czech Republic, Prague
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/burza-4/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/burza-4/)*

@@ -1,6 +1,6 @@
 # John Curtin Band Room
 
-John Curtin Band Room is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Inter.Sonix 15: Kilat, 2K88, YL Hooi" on Fri, 17 Jul 2026.
+John Curtin Band Room is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Inter.Sonix 15: Kilat, 2K88, YL Hooi" on Fri, 17 Jul 2026.
 
 John Curtin Band Room is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including 2K88. Browse upcoming dates, start times and who's playing. 29 Lygon St, Carlton VIC 3053, Australia.
 
@@ -14,4 +14,4 @@ John Curtin Band Room is a music venue in Melbourne listed on soundcheck. 1 upco
 
 29 Lygon St, Carlton VIC 3053, Australia, Melbourne
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/john-curtin-band-room/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/john-curtin-band-room/)*

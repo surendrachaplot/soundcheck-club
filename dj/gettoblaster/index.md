@@ -1,6 +1,6 @@
 # Gettoblaster
 
-Gettoblaster is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Monkey Loft, Seattle on Sat, 25 Jul 2026.
+Gettoblaster is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Monkey Loft, Seattle on Sat, 25 Jul 2026.
 
 Gettoblaster is a house and tech house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, Chicago, Detroit and Houston and 9 more. Often billed alongside J.Phlip, Junior Sanchez and DJ Sneak. Next up: The Monkey Loft, Seattle on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Gettoblaster is a house and tech house artist based in United States of America,
 
 J.Phlip, Junior Sanchez, DJ Sneak
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gettoblaster/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gettoblaster/)*

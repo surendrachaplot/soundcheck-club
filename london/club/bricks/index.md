@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Jumpin' Jack Frost - BIG BAD AND HEAVY Afterparty " on Thu, 16 Jul 2026.
+Bricks is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Jumpin' Jack Frost - BIG BAD AND HEAVY Afterparty " on Thu, 16 Jul 2026.
 
 Bricks is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AHARDS, Alfaz, BIDOIS and Brennan and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 12 upcoming nights, with
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

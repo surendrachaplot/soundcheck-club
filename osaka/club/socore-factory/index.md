@@ -1,6 +1,6 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 17 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "andromeda" on Fri, 17 Jul 2026.
+Socore Factory is a music venue in Osaka with 17 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "andromeda" on Fri, 17 Jul 2026.
 
 Socore Factory is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with line-ups including Akira Saotome, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
@@ -23,4 +23,4 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 17 upcoming night
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

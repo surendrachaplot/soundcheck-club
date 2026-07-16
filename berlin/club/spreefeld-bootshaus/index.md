@@ -1,6 +1,6 @@
 # Spreefeld Bootshaus
 
-Spreefeld Bootshaus is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "MÄZEN XIII°" on Wed, 29 Jul 2026.
+Spreefeld Bootshaus is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "MÄZEN XIII°" on Wed, 29 Jul 2026.
 
 Spreefeld Bootshaus is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Amanda Mussi, Daraio, Function and Grosera and 2 more. Browse upcoming dates, start times and who's playing. Wilhelmine-Gemberg-Weg 10/12/14, 10179 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Spreefeld Bootshaus is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 Wilhelmine-Gemberg-Weg 10/12/14, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spreefeld-bootshaus/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spreefeld-bootshaus/)*

@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bloom 3 - with SLAPPED Records" on Fri, 17 Jul 2026.
+NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bloom 3 - with SLAPPED Records" on Fri, 17 Jul 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including Bianca Badita, Blake Walker MTL, Christø and Clochette and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -18,4 +18,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

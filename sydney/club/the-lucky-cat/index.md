@@ -1,6 +1,6 @@
 # The Lucky Cat
 
-The Lucky Cat is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "House TV X Maniac Love" on Sat, 18 Jul 2026.
+The Lucky Cat is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "House TV X Maniac Love" on Sat, 18 Jul 2026.
 
 The Lucky Cat is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Eddy Wells and PATRAO. Browse upcoming dates, start times and who's playing. Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales.
 
@@ -14,4 +14,4 @@ The Lucky Cat is a music venue in Sydney listed on soundcheck. 1 upcoming night,
 
 Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales, Sydney
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*

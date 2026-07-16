@@ -1,6 +1,6 @@
 # DARKSIDE
 
-DARKSIDE is a Electronica and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gent Jazz Festival, Ghent on Thu, 16 Jul 2026.
+DARKSIDE is a Electronica and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gent Jazz Festival, Ghent on Thu, 16 Jul 2026.
 
 DARKSIDE is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Chicago, Dublin and Edinburgh and 10 more. Often billed alongside Adam Ten, Beltran and Blawan. Next up: Gent Jazz Festival, Ghent on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ DARKSIDE is an electronica and experimental artist based in United States of Ame
 
 Adam Ten, Beltran, Blawan
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*

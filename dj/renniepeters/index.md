@@ -1,6 +1,6 @@
 # Rennie Peters
 
-Rennie Peters is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Egg London, London on Sat, 18 Jul 2026.
+Rennie Peters is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Egg London, London on Sat, 18 Jul 2026.
 
 Rennie Peters is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Brighton and Ibiza and 4 more. Often billed alongside Sammy Porter, George Mensah and Tilli Murphy. Next up: Egg London, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Rennie Peters is a house and tech house artist tracked on soundcheck, with 55 se
 
 Sammy Porter, George Mensah, Tilli Murphy
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renniepeters/)*

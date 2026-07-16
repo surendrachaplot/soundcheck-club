@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
+Tour-Maubourg is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Cité Fertile, Paris on Fri, 31 Jul 2026.
 
 Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: La Cité Fertile, Paris on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets lo
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

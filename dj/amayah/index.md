@@ -1,6 +1,6 @@
 # AMAYAH
 
-AMAYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ping Tom Memorial Park, Chicago on Sun, 19 Jul 2026.
+AMAYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ping Tom Memorial Park, Chicago on Sun, 19 Jul 2026.
 
 AMAYAH is a techno and house artist tracked on soundcheck, with 33 sets logged across Chicago, Detroit and Losangeles. Often billed alongside Microdot, PIP3DR3AM and hhunter. Next up: Ping Tom Memorial Park, Chicago on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ AMAYAH is a techno and house artist tracked on soundcheck, with 33 sets logged a
 
 Microdot, PIP3DR3AM, hhunter
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*

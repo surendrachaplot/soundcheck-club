@@ -1,6 +1,6 @@
 # Sabrina Hawk
 
-Sabrina Hawk is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
+Sabrina Hawk is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fridas Pier, Stuttgart on Sat, 25 Jul 2026.
 
 Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside Louisianaha, LIZZN and Leon Haller. Next up: Fridas Pier, Stuttgart on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on sou
 
 Louisianaha, LIZZN, Leon Haller
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*

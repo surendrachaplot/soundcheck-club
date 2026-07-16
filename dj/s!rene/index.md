@@ -1,6 +1,6 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Night Tales Loft, London on Fri, 17 Jul 2026.
+S!RENE is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Night Tales Loft, London on Fri, 17 Jul 2026.
 
 S!RENE is a hip-hop and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 20 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: Night Tales Loft, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ S!RENE is a hip-hop and house artist tracked on soundcheck, with 59 sets logged 
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

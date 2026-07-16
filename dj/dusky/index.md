@@ -1,6 +1,6 @@
 # Dusky
 
-Dusky is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Landesmuseum, Zurich on Thu, 16 Jul 2026.
+Dusky is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Landesmuseum, Zurich on Thu, 16 Jul 2026.
 
 Dusky is a house and techno artist tracked on soundcheck, with 81 sets logged across Barcelona, Belfast, Berlin and Brighton and 29 more. Often billed alongside Junior Simba, Skream and Dan Shake. Next up: Landesmuseum, Zurich on Thu 16 Jul.
 
@@ -30,4 +30,4 @@ Dusky is a house and techno artist tracked on soundcheck, with 81 sets logged ac
 
 Junior Simba, Skream, Dan Shake
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

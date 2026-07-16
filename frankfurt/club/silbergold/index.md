@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "El Patio" on Fri, 17 Jul 2026.
+Silbergold is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "El Patio" on Fri, 17 Jul 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights, with line-ups including Beatris, KITI ARSA, Matthias Vogt and Robert Drewek and 1 more. Browse upcoming dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -16,4 +16,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

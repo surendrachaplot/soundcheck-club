@@ -1,6 +1,6 @@
 # Le Belgica
 
-Le Belgica is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Manuszko" on Sat, 25 Jul 2026.
+Le Belgica is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Manuszko" on Sat, 25 Jul 2026.
 
 Le Belgica is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rue du Marché au Charbon 32, 1000 Bruxelles, Belgium.
 
@@ -14,4 +14,4 @@ Le Belgica is a music venue in Brussels listed on soundcheck. 1 upcoming night. 
 
 Rue du Marché au Charbon 32, 1000 Bruxelles, Belgium, Brussels
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/le-belgica/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/le-belgica/)*

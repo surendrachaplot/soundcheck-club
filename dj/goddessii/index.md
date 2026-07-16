@@ -1,6 +1,6 @@
 # Goddess II
 
-Goddess II is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Brixton Jamm, London on Fri, 17 Jul 2026.
+Goddess II is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Brixton Jamm, London on Fri, 17 Jul 2026.
 
 Goddess II is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside DJ LIL-E, Eseccaro and 10:35. Next up: Brixton Jamm, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Goddess II is a techno and house artist based in United Kingdom, tracked on soun
 
 DJ LIL-E, Eseccaro, 10:35
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*

@@ -1,6 +1,6 @@
 # FRÆNZ:
 
-FRÆNZ: is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at AMT, Berlin on Fri, 17 Jul 2026.
+FRÆNZ: is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at AMT, Berlin on Fri, 17 Jul 2026.
 
 FRÆNZ: is a techno and house artist tracked on soundcheck, with 61 sets logged across Berlin, Hamburg, Leipzig and Malta and 3 more. Often billed alongside limbic sis, DJ Eivissa and 0megavybe. Next up: AMT, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ FRÆNZ: is a techno and house artist tracked on soundcheck, with 61 sets logged 
 
 limbic sis, DJ Eivissa, 0megavybe
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frænz/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frænz/)*

@@ -1,6 +1,6 @@
 # JASSS
 
-JASSS is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Casa Montjuïc, Barcelona on Thu, 16 Jul 2026.
+JASSS is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Casa Montjuïc, Barcelona on Thu, 16 Jul 2026.
 
 JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Casa Montjuïc, Barcelona on Thu 16 Jul.
 
@@ -33,4 +33,4 @@ JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 1
 
 CEM, MCMLXXXV, Dj Saliva
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*

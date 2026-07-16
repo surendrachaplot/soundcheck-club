@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SWAG PUSS SAN DIEGO" on Thu, 16 Jul 2026.
+3oz Dive Club is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SWAG PUSS SAN DIEGO" on Thu, 16 Jul 2026.
 
 3oz Dive Club is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including ALKMST, Funkhousir, Harrison BDP and J.Fur and 2 more. Browse upcoming dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -19,4 +19,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

@@ -1,6 +1,6 @@
 # sizing
 
-sizing is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at UNO MALTA, Malta on Fri, 17 Jul 2026.
+sizing is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at UNO MALTA, Malta on Fri, 17 Jul 2026.
 
 sizing is a techno and house artist tracked on soundcheck, with 81 sets logged across Ibiza, Malta, Milan and Turin. Often billed alongside Gandalf, Marbox and Mirko Motta. Next up: UNO MALTA, Malta on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ sizing is a techno and house artist tracked on soundcheck, with 81 sets logged a
 
 Gandalf, Marbox, Mirko Motta
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sizing/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sizing/)*

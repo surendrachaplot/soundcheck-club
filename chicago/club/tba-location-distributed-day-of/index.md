@@ -1,6 +1,6 @@
 # TBA - Location Distributed Day Of
 
-TBA - Location Distributed Day Of is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "HXC4LiFE: SUMM3R" on Sat, 25 Jul 2026.
+TBA - Location Distributed Day Of is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "HXC4LiFE: SUMM3R" on Sat, 25 Jul 2026.
 
 TBA - Location Distributed Day Of is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Swan Drama and uRaNg3L. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Location Distributed Day Of is a music venue in Chicago listed on soundche
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | HXC4LiFE: SUMM3R | Swan Drama, uRaNg3L |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-location-distributed-day-of/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-location-distributed-day-of/)*

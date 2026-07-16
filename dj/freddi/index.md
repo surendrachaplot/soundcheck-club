@@ -1,6 +1,6 @@
 # Freddi
 
-Freddi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Colorado Charlie, The Hague on Sat, 18 Jul 2026.
+Freddi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Colorado Charlie, The Hague on Sat, 18 Jul 2026.
 
 Freddi is a house and techno artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Madrid and Rotterdam and 2 more. Often billed alongside Gerardo Niva, OLIVIA LENSEN and Rozie. Next up: Colorado Charlie, Thehague on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Freddi is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Gerardo Niva, OLIVIA LENSEN, Rozie
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

@@ -1,6 +1,6 @@
 # Attu
 
-Attu is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 17 Jul 2026.
+Attu is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 17 Jul 2026.
 
 Attu is a bass and club artist based in Australia, tracked on soundcheck, with 16 sets logged across Melbourne and Sydney. Often billed alongside ATARANGI, Ciara and Cristal No.5. Next up: Abercrombie Hotel, Sydney on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Attu is a bass and club artist based in Australia, tracked on soundcheck, with 1
 
 ATARANGI, Ciara, Cristal No.5
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/attu/)*

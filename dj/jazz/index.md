@@ -1,6 +1,6 @@
 # Softi
 
-Softi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Renate, Berlin on Sat, 18 Jul 2026.
+Softi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Renate, Berlin on Sat, 18 Jul 2026.
 
 Softi is a techno and bass artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: Renate, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Softi is a techno and bass artist tracked on soundcheck, with 80 sets logged acr
 
 Alicia (UK), Dj wiggles, Sybil
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*

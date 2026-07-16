@@ -1,6 +1,6 @@
 # Le Pavillon Rouge
 
-Le Pavillon Rouge is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Open Air / CNL22 : 95steps, Sc-y-La, RTZ, Ziku, Mhott" on Sat, 18 Jul 2026.
+Le Pavillon Rouge is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Open Air / CNL22 : 95steps, Sc-y-La, RTZ, Ziku, Mhott" on Sat, 18 Jul 2026.
 
 Le Pavillon Rouge is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including 95 STEPS. Browse upcoming dates, start times and who's playing. Route de la Pyramide, 75012 Paris.
 
@@ -14,4 +14,4 @@ Le Pavillon Rouge is a music venue in Paris listed on soundcheck. 1 upcoming nig
 
 Route de la Pyramide, 75012 Paris, Paris
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-pavillon-rouge/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-pavillon-rouge/)*

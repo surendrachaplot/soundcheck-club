@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Coda, Toronto on Thu, 16 Jul 2026.
+Yung Singh is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Coda, Toronto on Thu, 16 Jul 2026.
 
 Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside Bakey, salute and Sally C. Next up: Coda, Toronto on Thu 16 Jul.
 
@@ -32,4 +32,4 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 167 sets log
 
 Bakey, salute, Sally C
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

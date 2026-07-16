@@ -1,6 +1,6 @@
 # Radar
 
-Radar is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Domicile, Miami on Fri, 31 Jul 2026.
+Radar is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Domicile, Miami on Fri, 31 Jul 2026.
 
 Radar is a techno and minimal artist based in United States of America, tracked on soundcheck, with 47 sets logged across Berlin, Boston, Lyon and Miami and 3 more. Often billed alongside Mr. Tron, Low Earth Orbit and SHYDA. Next up: Domicile, Miami on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Radar is a techno and minimal artist based in United States of America, tracked 
 
 Mr. Tron, Low Earth Orbit, SHYDA
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radar/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/radar/)*

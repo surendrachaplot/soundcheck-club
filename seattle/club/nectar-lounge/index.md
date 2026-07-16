@@ -1,6 +1,6 @@
 # Nectar Lounge
 
-Nectar Lounge is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Disclosure vs. Fred Again.. Tribute Dance Party" on Fri, 17 Jul 2026.
+Nectar Lounge is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Disclosure vs. Fred Again.. Tribute Dance Party" on Fri, 17 Jul 2026.
 
 Nectar Lounge is a music venue in Seattle listed on soundcheck. 3 upcoming nights, with line-ups including Satin Jackets. Browse upcoming dates, start times and who's playing. 412 N. 36th Street; Seattle, WA 98103; United States.
 
@@ -16,4 +16,4 @@ Nectar Lounge is a music venue in Seattle listed on soundcheck. 3 upcoming night
 
 412 N. 36th Street; Seattle, WA 98103; United States, Seattle
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*

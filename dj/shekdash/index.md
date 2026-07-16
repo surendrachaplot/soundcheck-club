@@ -1,6 +1,6 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Location With Ticket, Denver on Sat, 25 Jul 2026.
+shekdash is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Location With Ticket, Denver on Sat, 25 Jul 2026.
 
 shekdash is a techno and club artist based in United States of America, tracked on soundcheck, with 80 sets logged across Boston, Chicago, Denver and Detroit and 12 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: TBA - Location With Ticket, Denver on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ shekdash is a techno and club artist based in United States of America, tracked 
 
 Tromac, DJ SWISHA, Daniro
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

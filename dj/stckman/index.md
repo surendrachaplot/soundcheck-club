@@ -1,6 +1,6 @@
 # Stckman
 
-Stckman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Glove That Fits, London on Sat, 18 Jul 2026.
+Stckman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Glove That Fits, London on Sat, 18 Jul 2026.
 
 Stckman is a house and techno artist based in Portugal, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: The Glove That Fits, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Stckman is a house and techno artist based in Portugal, tracked on soundcheck, w
 
 Guigas, ozmin, Raphael Carrau
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stckman/)*

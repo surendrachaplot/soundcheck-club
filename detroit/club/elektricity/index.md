@@ -1,6 +1,6 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 14 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "STAR MONSTER: MAGICAL CRUNCHY TOUR" on Fri, 17 Jul 2026.
+Elektricity is a music venue in Detroit with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "STAR MONSTER: MAGICAL CRUNCHY TOUR" on Fri, 17 Jul 2026.
 
 Elektricity is a music venue in Detroit listed on soundcheck. 14 upcoming nights, with line-ups including Dantiez, Dombresky, Drop Catch and Gossamer and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 14 upcoming nights
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

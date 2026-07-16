@@ -1,6 +1,6 @@
 # AceMo
 
-AceMo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
+AceMo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
 
 AceMo is a house and techno artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Berlin and Boston and 27 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: Elsewhere, Newyorkcity on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ AceMo is a house and techno artist based in United States of America, tracked on
 
 DJ SWISHA, MoMA Ready, Kush Jones
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

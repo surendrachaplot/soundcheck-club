@@ -1,6 +1,6 @@
 # Tim Green
 
-Tim Green is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Refuge, New York City on Fri, 24 Jul 2026.
+Tim Green is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Refuge, New York City on Fri, 24 Jul 2026.
 
 Tim Green is a house and deep house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 28 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Refuge, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Tim Green is a house and deep house artist tracked on soundcheck, with 103 sets 
 
 Lee Burridge, Sebastien Leger, Roy Rosenfeld
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*

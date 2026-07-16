@@ -1,6 +1,6 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA, Copenhagen on Sat, 18 Jul 2026.
+Lola Haro is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Copenhagen on Sat, 18 Jul 2026.
 
 Lola Haro is a house and techno artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 41 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: TBA, Copenhagen on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Lola Haro is a house and techno artist tracked on soundcheck, with 150 sets logg
 
 Ben Kamal, r.omy, DJ Rino
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

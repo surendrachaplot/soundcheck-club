@@ -1,6 +1,6 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rumore Nightclub Capri, Naples on Fri, 31 Jul 2026.
+Breakbot is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Rumore Nightclub Capri, Naples on Fri, 31 Jul 2026.
 
 Breakbot is a house and disco artist based in France, tracked on soundcheck, with 72 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 25 more. Often billed alongside Irfane, Busy P and Myd. Next up: Rumore Nightclub Capri, Naples on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Breakbot is a house and disco artist based in France, tracked on soundcheck, wit
 
 Irfane, Busy P, Myd
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*

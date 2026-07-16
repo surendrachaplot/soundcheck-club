@@ -1,6 +1,6 @@
 # Glow & Zalz
 
-Glow & Zalz is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "E:ON: Speaker Honey — Techno × K-Pop Hybrid Night" on Fri, 17 Jul 2026.
+Glow & Zalz is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "E:ON: Speaker Honey — Techno × K-Pop Hybrid Night" on Fri, 17 Jul 2026.
 
 Glow & Zalz is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including ARGO and Speaker Honey. Browse upcoming dates, start times and who's playing. 3-4F, 174 Itaewon-Ro, Yongsan-Gu, Seoul.
 
@@ -14,4 +14,4 @@ Glow & Zalz is a music venue in Seoul listed on soundcheck. 1 upcoming night, wi
 
 3-4F, 174 Itaewon-Ro, Yongsan-Gu, Seoul, Seoul
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/glow-zalz/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/glow-zalz/)*

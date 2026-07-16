@@ -1,6 +1,6 @@
 # Konfusia
 
-Konfusia is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 24 Jul 2026.
+Konfusia is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bahnwärter Thiel, Munich on Fri, 24 Jul 2026.
 
 Konfusia is a techno and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, Maurice Mino and Sin:port. Next up: Bahnwärter Thiel, Munich on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Konfusia is a techno and tech house artist tracked on soundcheck, with 98 sets l
 
 Sabura, Maurice Mino, Sin:port
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "AIR.wav // Tola Terrace" on Fri, 17 Jul 2026.
+Tola is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "AIR.wav // Tola Terrace" on Fri, 17 Jul 2026.
 
 Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AMAR (UK), ARLYSS, CHICCA and Faye Frazer and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -21,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

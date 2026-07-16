@@ -1,6 +1,6 @@
 # Pistil
 
-Pistil is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "pìccolo, WE INVITES CREATIVE CRAZY GUY" on Sun, 16 Aug 2026.
+Pistil is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "pìccolo, WE INVITES CREATIVE CRAZY GUY" on Sun, 16 Aug 2026.
 
 Pistil is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including pìccolo. Browse upcoming dates, start times and who's playing. 130- 5 Itaewon-dong, Seoul, South Korea.
 
@@ -14,4 +14,4 @@ Pistil is a music venue in Seoul listed on soundcheck. 1 upcoming night, with li
 
 130- 5 Itaewon-dong, Seoul, South Korea, Seoul
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/pistil/)*

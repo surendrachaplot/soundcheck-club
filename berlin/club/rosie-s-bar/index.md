@@ -1,6 +1,6 @@
 # Rosie's Bar
 
-Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "PERSONA" on Fri, 24 Jul 2026.
+Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "PERSONA" on Fri, 24 Jul 2026.
 
 Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Aidan, katja. and Sciarada. Browse upcoming dates, start times and who's playing. Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin.
 
@@ -14,4 +14,4 @@ Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*

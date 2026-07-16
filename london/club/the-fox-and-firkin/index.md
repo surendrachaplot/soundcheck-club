@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Fast Soul Music" on Fri, 17 Jul 2026.
+The Fox and Firkin is a music venue in London with 18 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Fast Soul Music" on Fri, 17 Jul 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 18 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

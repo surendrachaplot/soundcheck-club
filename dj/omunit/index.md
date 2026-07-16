@@ -1,6 +1,6 @@
 # Om Unit
 
-Om Unit is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Om Unit is a Bass and Dub artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Om Unit is a bass and dub artist tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 39 more. Often billed alongside Ehua, DVS1 and Priori. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Om Unit is a bass and dub artist tracked on soundcheck, with 106 sets logged acr
 
 Ehua, DVS1, Priori
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*

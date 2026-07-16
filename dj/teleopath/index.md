@@ -1,6 +1,6 @@
 # teleopath
 
-teleopath is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rolling Stock, London on Sat, 18 Jul 2026.
+teleopath is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Rolling Stock, London on Sat, 18 Jul 2026.
 
 teleopath is a disco and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Berlin, London and Sheffield. Often billed alongside Tafkanik, S_STEELE and Liam Parsons. Next up: Rolling Stock, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ teleopath is a disco and techno artist based in United Kingdom, tracked on sound
 
 Tafkanik, S_STEELE, Liam Parsons
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*

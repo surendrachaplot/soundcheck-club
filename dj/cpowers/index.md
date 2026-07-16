@@ -1,6 +1,6 @@
 # C Powers
 
-C Powers is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Process PDX, Portland on Fri, 17 Jul 2026.
+C Powers is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Process PDX, Portland on Fri, 17 Jul 2026.
 
 C Powers is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity, Portland, Sanfrancisco and Washingtondc. Often billed alongside Nick Boyd, Pacer and Scotia. Next up: Process PDX, Portland on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ C Powers is a techno and house artist based in United States of America, tracked
 
 Nick Boyd, Pacer, Scotia
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cpowers/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cpowers/)*

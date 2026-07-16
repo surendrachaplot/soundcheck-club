@@ -1,6 +1,6 @@
 # Nick The Record
 
-Nick The Record is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Carlton Club, Manchester on Sat, 25 Jul 2026.
+Nick The Record is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Carlton Club, Manchester on Sat, 25 Jul 2026.
 
 Nick The Record is a house and disco artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 7 more. Often billed alongside John Gómez, Crazy P and Timothy Really Lab.. Next up: The Carlton Club, Manchester on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Nick The Record is a house and disco artist tracked on soundcheck, with 39 sets 
 
 John Gómez, Crazy P, Timothy Really Lab.
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktherecord/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktherecord/)*

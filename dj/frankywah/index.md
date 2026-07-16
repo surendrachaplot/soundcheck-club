@@ -1,6 +1,6 @@
 # Franky Wah
 
-Franky Wah is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
+Franky Wah is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Boston Manor Park, London on Sun, 26 Jul 2026.
 
 Franky Wah is a techno and house artist based in United Kingdom, tracked on soundcheck, with 128 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Sasha, Artche and Korolova. Next up: Boston Manor Park, London on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Franky Wah is a techno and house artist based in United Kingdom, tracked on soun
 
 Sasha, Artche, Korolova
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*

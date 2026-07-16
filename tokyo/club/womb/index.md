@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "RECOMBINATION" on Wed, 15 Jul 2026.
+WOMB is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "WTW" on Thu, 16 Jul 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AHREUM, AIBA, Alex Bohemien and ANDY DEDE and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AHREUM, AIBA, Alex Bohemien and ANDY DEDE and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | RECOMBINATION | CRAZYHYUGA, DJ AKi, Jackit, KEiTA, ReFuCafé, Relect, omeme_gangimari, ron3lyscript |
 | Thu, 16 Jul 2026 | WTW | ANDY DEDE, COCOLY |
 | Fri, 17 Jul 2026 | EMMA HOUSE 0 | AIBA, DJ Emma, DJ HNW_A, Kairi Komoda, Yamariki, na-na |
 | Sat, 18 Jul 2026 | Compass | Fushiming, Haruka Katagata, Leefia, Mamazu, Moodman, Nehan, Sunga, TAIHEI, Torei, YO.AN, ifax! |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with li
 | Sat, 25 Jul 2026 | WATERMELON | Alex Bohemien, DJ POIPOI, Daitto, Devin Koji, Kengo Groove, Koki Byrd, NAMIMI SENSEI, Sante Visioni, TooCee |
 | Fri, 31 Jul 2026 | FORCE EPISODE 049 | Herbalistek, Shinsuke Goto, YUKIMASA, ZUNDOKO DISCO, Zara, comm |
 | Sat, 1 Aug 2026 | GUIDANCE ~導き導かれる人生~ 21ST ANNIVERSARY PARTY SUMMER SPECIAL | YAMA(JP/OSK), YOSHIROTTEN, lostbaggage |
+| Fri, 7 Aug 2026 | WEAVES | AHREUM, Blackship, CLESENT, Drunken Kong, GOLDEN ROA, HIDEFUMI WATANABE, Kamekawa, Maya (Shonan Balearic), U:ICHI, monielu.h |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

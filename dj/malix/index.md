@@ -1,6 +1,6 @@
 # malix
 
-malix is a House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Colour Factory, London on Sat, 18 Jul 2026.
+malix is a House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Colour Factory, London on Sat, 18 Jul 2026.
 
 malix is a house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Ibiza, Lisbon and London and 1 more. Often billed alongside Kojay, Arthi and FS Green. Next up: Colour Factory, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ malix is a house artist based in United Kingdom, tracked on soundcheck, with 34 
 
 Kojay, Arthi, FS Green
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*

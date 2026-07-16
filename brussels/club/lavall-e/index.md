@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Artisjok x Microwave x Platine" on Fri, 17 Jul 2026.
+Lavallée is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Artisjok x Microwave x Platine" on Fri, 17 Jul 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including AliA, Ben Kamal, Caillou (DE) and DTM Funk and 2 more. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -20,4 +20,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 7 upcoming nights, 
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

@@ -1,6 +1,6 @@
 # Pacha New York
 
-Pacha New York is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "elrow: Dance with the Serpent by Nychos (2nd show added)" on Fri, 17 Jul 2026.
+Pacha New York is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "elrow: Dance with the Serpent by Nychos (2nd show added)" on Fri, 17 Jul 2026.
 
 Pacha New York is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including Artbat, Alok, Argy and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Pacha New York is a music venue in Newyorkcity listed on soundcheck. 20 upcoming
 
 140 Stewart Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*

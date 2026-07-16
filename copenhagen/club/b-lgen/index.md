@@ -1,6 +1,6 @@
 # Bølgen
 
-Bølgen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Bølgen" on Sat, 18 Jul 2026.
+Bølgen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bølgen" on Sat, 18 Jul 2026.
 
 Bølgen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Christian Nielsen and Jean von Baden. Browse upcoming dates, start times and who's playing. Kalvebod Brygge 1-3 Copenhagen.
 
@@ -14,4 +14,4 @@ Bølgen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, w
 
 Kalvebod Brygge 1-3 Copenhagen, Copenhagen
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/b-lgen/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/b-lgen/)*

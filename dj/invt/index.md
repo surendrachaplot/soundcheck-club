@@ -1,6 +1,6 @@
 # INVT
 
-INVT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Bridge, Los Angeles on Sat, 18 Jul 2026.
+INVT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Bridge, Los Angeles on Sat, 18 Jul 2026.
 
 INVT is a house and techno artist tracked on soundcheck, with 120 sets logged across Barcelona, Berlin, Birmingham and Bristol and 30 more. Often billed alongside Danny Daze, Jonny From Space and Jubilee. Next up: The Bridge, Losangeles on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ INVT is a house and techno artist tracked on soundcheck, with 120 sets logged ac
 
 Danny Daze, Jonny From Space, Jubilee
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

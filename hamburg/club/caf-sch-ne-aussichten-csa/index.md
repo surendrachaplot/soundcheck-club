@@ -1,6 +1,6 @@
 # Café Schöne Aussichten (CSA)
 
-Café Schöne Aussichten (CSA) is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Toy Tonics Open Air Jam" on Sat, 25 Jul 2026.
+Café Schöne Aussichten (CSA) is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Toy Tonics Open Air Jam" on Sat, 25 Jul 2026.
 
 Café Schöne Aussichten (CSA) is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Bruna N., COEO, L.A.tifa and PETERBLUE and 2 more. Browse upcoming dates, start times and who's playing. Gorch-Fock-Wall 4, 20354 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Café Schöne Aussichten (CSA) is a music venue in Hamburg listed on soundcheck.
 
 Gorch-Fock-Wall 4, 20354 Hamburg, Germany, Hamburg
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/caf-sch-ne-aussichten-csa/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/caf-sch-ne-aussichten-csa/)*

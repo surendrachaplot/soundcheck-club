@@ -1,6 +1,6 @@
 # agraybé
 
-agraybé is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sat, 18 Jul 2026.
+agraybé is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Broken Shaker Los Angeles, Los Angeles on Sat, 18 Jul 2026.
 
 agraybé is a house and deep house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Chicago, Detroit, Losangeles and Sandiego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: The Broken Shaker Los Angeles, Losangeles on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ agraybé is a house and deep house artist based in United States of America, tra
 
 Akumen, Andy Oro, No Pressure
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agraybe/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agraybe/)*

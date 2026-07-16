@@ -1,6 +1,6 @@
 # deep creep
 
-deep creep is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at public records, New York City on Sat, 29 Aug 2026.
+deep creep is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at public records, New York City on Sat, 29 Aug 2026.
 
 deep creep is a techno and house artist based in United States of America, tracked on soundcheck, with 98 sets logged across Auckland, Berlin, Brisbane and Brussels and 12 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Yumi. Next up: public records, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ deep creep is a techno and house artist based in United States of America, track
 
 DJ Fart in the Club, Amelia Holt, Yumi
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

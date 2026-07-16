@@ -1,6 +1,6 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at UNLOCKED, London on Thu, 16 Jul 2026.
+Chris Lorenzo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at UNLOCKED, London on Thu, 16 Jul 2026.
 
 Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Chris Lake, Eats Everything and Eli & Fur. Next up: UNLOCKED, London on Thu 16 Jul.
 
@@ -27,4 +27,4 @@ Chris Lorenzo is a house and tech house artist tracked on soundcheck, with 49 se
 
 Chris Lake, Eats Everything, Eli & Fur
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

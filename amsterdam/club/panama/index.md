@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Tram 10 - Hard Techno" on Fri, 17 Jul 2026.
+Panama is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Tram 10 - Hard Techno" on Fri, 17 Jul 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including inKKiss, KaneLevy, Kuzio and VOX (1) and 2 more. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, w
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

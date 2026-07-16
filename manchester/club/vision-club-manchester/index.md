@@ -1,6 +1,6 @@
 # Vision Club Manchester
 
-Vision Club Manchester is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Plush presents: meat computer + Yungster Jack EU Tour / Manchester Mon 20 Jul 2026" on Mon, 20 Jul 2026.
+Vision Club Manchester is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Plush presents: meat computer + Yungster Jack EU Tour / Manchester Mon 20 Jul 2026" on Mon, 20 Jul 2026.
 
 Vision Club Manchester is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including meat computer, Oatmilkandcodeine and Yungster Jack. Browse upcoming dates, start times and who's playing. 58 Whitworth St W, Manchester M1 5WW.
 
@@ -14,4 +14,4 @@ Vision Club Manchester is a music venue in Manchester listed on soundcheck. 1 up
 
 58 Whitworth St W, Manchester M1 5WW, Manchester
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/vision-club-manchester/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/vision-club-manchester/)*

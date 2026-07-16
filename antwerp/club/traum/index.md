@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 10 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Traum Summer Trip: Contrair Open Air (Afterparty)" on Sat, 18 Jul 2026.
+TRAUM is a music venue in Antwerp with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Traum Summer Trip: Contrair Open Air (Afterparty)" on Sat, 18 Jul 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 10 upcoming nights, with line-ups including Alix Perez, Ben Manson, Clarisa Kimskii and Coco Bryce and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 10 upcoming nights, with
 | Sat, 5 Sept 2026 | Traum Summer Trip: Oko Stellar & TORI ANN | Oko Stellar, TORI ANN |
 | Sat, 10 Oct 2026 | Jungle Alliance | Coco Bryce, Dwarde, Sully, Tim Reaper |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

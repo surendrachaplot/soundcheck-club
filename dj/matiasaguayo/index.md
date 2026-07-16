@@ -1,6 +1,6 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
+Matias Aguayo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
 
 Matias Aguayo is a house and techno artist tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Basel and Belgrade and 25 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: fabric, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Matias Aguayo is a house and techno artist tracked on soundcheck, with 75 sets l
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

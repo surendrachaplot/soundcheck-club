@@ -1,6 +1,6 @@
 # TBA - Lido Fantastico
 
-TBA - Lido Fantastico is a music venue in Naples with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Walking Wax" on Fri, 17 Jul 2026.
+TBA - Lido Fantastico is a music venue in Naples with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Walking Wax" on Fri, 17 Jul 2026.
 
 TBA - Lido Fantastico is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including Roberto Palazzo. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Lido Fantastico is a music venue in Naples listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Walking Wax | Roberto Palazzo |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-lido-fantastico/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-lido-fantastico/)*

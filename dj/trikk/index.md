@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Union Park, Chicago on Fri, 17 Jul 2026.
+Trikk is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Union Park, Chicago on Fri, 17 Jul 2026.
 
 Trikk is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Union Park, Chicago on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Trikk is a house and techno artist tracked on soundcheck, with 151 sets logged a
 
 Âme, Jimi Jules, Dixon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

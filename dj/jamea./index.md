@@ -1,6 +1,6 @@
 # jamea.
 
-jamea. is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The High Dive, Detroit on Sat, 18 Jul 2026.
+jamea. is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The High Dive, Detroit on Sat, 18 Jul 2026.
 
 jamea. is a techno and club artist tracked on soundcheck, with 40 sets logged across Chicago, Detroit, Nashville and Newyorkcity. Often billed alongside we1sman, Ember LaFiamma and Wax Assassin. Next up: The High Dive, Detroit on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ jamea. is a techno and club artist tracked on soundcheck, with 40 sets logged ac
 
 we1sman, Ember LaFiamma, Wax Assassin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamea./)*

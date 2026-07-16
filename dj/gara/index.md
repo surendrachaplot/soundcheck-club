@@ -1,6 +1,6 @@
 # Gara
 
-Gara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Room, Tokyo on Sun, 26 Jul 2026.
+Gara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Room, Tokyo on Sun, 26 Jul 2026.
 
 Gara is a house and techno artist based in Japan, tracked on soundcheck, with 46 sets logged across Tokyo. Often billed alongside Manami T.B, Saku NewMoon and Eitetsu Takamiya. Next up: The Room, Tokyo on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Gara is a house and techno artist based in Japan, tracked on soundcheck, with 46
 
 Manami T.B, Saku NewMoon, Eitetsu Takamiya
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gara/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gara/)*

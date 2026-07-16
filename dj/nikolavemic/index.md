@@ -1,6 +1,6 @@
 # Nikola Vemic
 
-Nikola Vemic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Karmakoma, Belgrade on Sat, 18 Jul 2026.
+Nikola Vemic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Karmakoma, Belgrade on Sat, 18 Jul 2026.
 
 Nikola Vemic is a house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Belgrade, Naples and Utrecht. Often billed alongside Ali Guney, Marko Milosavljevic and Budino. Next up: Karmakoma, Belgrade on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Nikola Vemic is a house and techno artist tracked on soundcheck, with 38 sets lo
 
 Ali Guney, Marko Milosavljevic, Budino
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolavemic/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolavemic/)*

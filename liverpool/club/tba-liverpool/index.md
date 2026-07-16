@@ -1,6 +1,6 @@
 # TBA - Liverpool
 
-TBA - Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "SOSA - Open Air - Liverpool" on Sat, 12 Sept 2026.
+TBA - Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "SOSA - Open Air - Liverpool" on Sat, 12 Sept 2026.
 
 TBA - Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Sosa. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | SOSA - Open Air - Liverpool | Sosa |
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/tba-liverpool/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/tba-liverpool/)*

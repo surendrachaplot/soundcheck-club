@@ -1,6 +1,6 @@
 # Quinta do Miratejo
 
-Quinta do Miratejo is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "RITMO E FORNO - Pizza Pool Party" on Fri, 17 Jul 2026.
+Quinta do Miratejo is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "RITMO E FORNO - Pizza Pool Party" on Fri, 17 Jul 2026.
 
 Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Aline Umber, Antal, Billi and C4STRO and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica, Portugal.
 
@@ -20,4 +20,4 @@ Quinta do Miratejo is a music venue in Lisbon listed on soundcheck. 7 upcoming n
 
 R. do Joinal 2825, Caparica, Portugal, Lisbon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-do-miratejo/)*

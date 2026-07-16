@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ed Kent & DJ Earl Grey (All Night Long)" on Fri, 17 Jul 2026.
+Collingwood Basement is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Ed Kent & DJ Earl Grey (All Night Long)" on Fri, 17 Jul 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including 3LOAR, AROHA, Billus and Common Tribe and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -19,4 +19,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 6 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

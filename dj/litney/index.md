@@ -1,6 +1,6 @@
 # Litney
 
-Litney is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+Litney is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 Litney is a club and baile funk artist tracked on soundcheck, with 83 sets logged across Berlin, Chicago, Houston and Losangeles and 4 more. Often billed alongside Ard1n, HVN (1) and myst milano.. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Litney is a club and baile funk artist tracked on soundcheck, with 83 sets logge
 
 Ard1n, HVN (1), myst milano.
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/litney/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/litney/)*

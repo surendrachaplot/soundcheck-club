@@ -1,6 +1,6 @@
 # Ocaña
 
-Ocaña is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Ritual Apotheke - Ancestrall & Mutul at Ocaña Barcelona" on Fri, 17 Jul 2026.
+Ocaña is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Ritual Apotheke - Ancestrall & Mutul at Ocaña Barcelona" on Fri, 17 Jul 2026.
 
 Ocaña is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Mutul. Browse upcoming dates, start times and who's playing. Plaza Reial 13, Barcelona 08002, Spain.
 
@@ -14,4 +14,4 @@ Ocaña is a music venue in Barcelona listed on soundcheck. 1 upcoming night, wit
 
 Plaza Reial 13, Barcelona 08002, Spain, Barcelona
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/oca-a/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/oca-a/)*

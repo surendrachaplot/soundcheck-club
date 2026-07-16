@@ -1,6 +1,6 @@
 # 4AM NYC
 
-4AM NYC is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Le Bain, New York City on Sat, 25 Jul 2026.
+4AM NYC is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Le Bain, New York City on Sat, 25 Jul 2026.
 
 4AM NYC is a house and disco artist based in United States of America, tracked on soundcheck, with 101 sets logged across Berlin, Chicago, Detroit and Montreal and 7 more. Often billed alongside Shigeto, Toribio and Planet B. Next up: Le Bain, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@
 
 Shigeto, Toribio, Planet B
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/4amnyc/)*

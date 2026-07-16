@@ -1,6 +1,6 @@
 # Fiona Kraft
 
-Fiona Kraft is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
+Fiona Kraft is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
 
 Fiona Kraft is a house and afro house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Black Coffee, Damian Lazarus and JAMIIE. Next up: Hï Ibiza, Ibiza on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Fiona Kraft is a house and afro house artist tracked on soundcheck, with 77 sets
 
 Black Coffee, Damian Lazarus, JAMIIE
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fionakraft/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fionakraft/)*

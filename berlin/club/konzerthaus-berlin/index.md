@@ -1,6 +1,6 @@
 # Konzerthaus Berlin
 
-Konzerthaus Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "AGGREGATE Festival Berlin - new music for pipe organs" on Wed, 30 Sept 2026.
+Konzerthaus Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "AGGREGATE Festival Berlin - new music for pipe organs" on Wed, 30 Sept 2026.
 
 Konzerthaus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Efdemin, Laurie Spiegel and Rrose. Browse upcoming dates, start times and who's playing. Gendarmenmarkt, 10117 Berlin.
 
@@ -14,4 +14,4 @@ Konzerthaus Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming n
 
 Gendarmenmarkt, 10117 Berlin, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/konzerthaus-berlin/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/konzerthaus-berlin/)*

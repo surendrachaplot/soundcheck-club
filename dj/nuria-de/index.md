@@ -1,6 +1,6 @@
 # NÚRIA (DE)
 
-NÚRIA (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+NÚRIA (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 NÚRIA (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 5 more. Often billed alongside Karim Alkhayat, KEN (DE) and Maurice Mino. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ NÚRIA (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Karim Alkhayat, KEN (DE), Maurice Mino
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuria-de/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nuria-de/)*

@@ -1,6 +1,6 @@
 # Rembrandtpark
 
-Rembrandtpark is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Rave in the Park" on Sun, 19 Jul 2026.
+Rembrandtpark is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Rave in the Park" on Sun, 19 Jul 2026.
 
 Rembrandtpark is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including DJ Crystal Bitch, MIESØ and Traffic Jam Mosquito. Browse upcoming dates, start times and who's playing. Orteliuskade 57 1057 AL AMSTERDAM.
 
@@ -14,4 +14,4 @@ Rembrandtpark is a music venue in Amsterdam listed on soundcheck. 1 upcoming nig
 
 Orteliuskade 57 1057 AL AMSTERDAM, Amsterdam
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/rembrandtpark/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/rembrandtpark/)*

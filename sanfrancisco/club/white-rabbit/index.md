@@ -1,6 +1,6 @@
 # White Rabbit
 
-White Rabbit is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Inner Circle feat. Jae Coca + AMVERITAS" on Thu, 16 Jul 2026.
+White Rabbit is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Inner Circle feat. Jae Coca + AMVERITAS" on Thu, 16 Jul 2026.
 
 White Rabbit is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Mackswell and Mr. V. Browse upcoming dates, start times and who's playing. 3138 Fillmore St, San Francisco, CA 94123, United States.
 
@@ -17,4 +17,4 @@ White Rabbit is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming n
 
 3138 Fillmore St, San Francisco, CA 94123, United States, San Francisco/Oakland
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-rabbit/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-rabbit/)*

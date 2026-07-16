@@ -1,6 +1,6 @@
 # The Castle & Falcon
 
-The Castle & Falcon is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Supersonic Festival presents a Celebration of Birmingham's Heavy Music Underground" on Sat, 18 Jul 2026.
+The Castle & Falcon is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Supersonic Festival presents a Celebration of Birmingham's Heavy Music Underground" on Sat, 18 Jul 2026.
 
 The Castle & Falcon is a music venue in Birmingham listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 402 Moseley Rd, Balsall Heath, Birmingham B12 9AT.
 
@@ -14,4 +14,4 @@ The Castle & Falcon is a music venue in Birmingham listed on soundcheck. 1 upcom
 
 402 Moseley Rd, Balsall Heath, Birmingham B12 9AT, Birmingham
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-castle-falcon/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/the-castle-falcon/)*

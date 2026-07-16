@@ -1,6 +1,6 @@
 # Departamento
 
-Departamento is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Session Victim EN Departamento" on Sat, 18 Jul 2026.
+Departamento is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Session Victim EN Departamento" on Sat, 18 Jul 2026.
 
 Departamento is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Session Victim. Browse upcoming dates, start times and who's playing. Alvaro Obregón 154 Col. Roma Mexico D.F. 406700.
 
@@ -14,4 +14,4 @@ Departamento is a music venue in Mexicocity listed on soundcheck. 1 upcoming nig
 
 Alvaro Obregón 154 Col. Roma Mexico D.F. 406700, Mexico City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/departamento/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/departamento/)*

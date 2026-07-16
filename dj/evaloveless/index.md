@@ -1,6 +1,6 @@
 # Eva Loveless
 
-Eva Loveless is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
+Eva Loveless is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Elsewhere, New York City on Fri, 17 Jul 2026.
 
 Eva Loveless is a bass and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Chicago, Montreal and Newyorkcity. Often billed alongside DJ DEADNAME, Sobolik and Eros (US). Next up: Elsewhere, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Eva Loveless is a bass and techno artist based in United States of America, trac
 
 DJ DEADNAME, Sobolik, Eros (US)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaloveless/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaloveless/)*

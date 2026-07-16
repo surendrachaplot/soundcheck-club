@@ -1,6 +1,6 @@
 # Antrim
 
-Antrim is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Hyde Club, Barcelona on Fri, 17 Jul 2026.
+Antrim is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hyde Club, Barcelona on Fri, 17 Jul 2026.
 
 Antrim is a progressive house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Buenosaires and Dublin and 7 more. Often billed alongside Nicolas Rada, Marcelo Vasami and Hernan Cattaneo. Next up: Hyde Club, Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Antrim is a progressive house and techno artist tracked on soundcheck, with 37 s
 
 Nicolas Rada, Marcelo Vasami, Hernan Cattaneo
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*

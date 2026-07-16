@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Enrico Sangiuliano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 100 
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

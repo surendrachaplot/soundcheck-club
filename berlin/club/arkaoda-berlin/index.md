@@ -1,6 +1,6 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Intursit (live), Poko Cox, Chikiss" on Thu, 16 Jul 2026.
+arkaoda Berlin is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Intursit (live), Poko Cox, Chikiss" on Thu, 16 Jul 2026.
 
 arkaoda Berlin is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including A.Wild, Amperia, Barmus and Batukizer and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
@@ -23,4 +23,4 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 14 upcoming nigh
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

@@ -1,6 +1,6 @@
 # Monkeybar
 
-Monkeybar is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "reunion" on Fri, 17 Jul 2026.
+Monkeybar is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "reunion" on Fri, 17 Jul 2026.
 
 Monkeybar is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including Crazy Neo and Taopi. Browse upcoming dates, start times and who's playing. Banana building 4f, 3-15-5, Taishido, Setagaya-ku, Tokyo, 154-0004, Japan.
 
@@ -15,4 +15,4 @@ Monkeybar is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, wit
 
 Banana building 4f, 3-15-5, Taishido, Setagaya-ku, Tokyo, 154-0004, Japan, Tokyo
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/monkeybar/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/monkeybar/)*

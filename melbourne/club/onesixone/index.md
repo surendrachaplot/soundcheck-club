@@ -1,6 +1,6 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Crozier + ThreeSixty - onesixone Thursday's" on Thu, 16 Jul 2026.
+OneSixOne is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Crozier + ThreeSixty - onesixone Thursday's" on Thu, 16 Jul 2026.
 
 OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Adam Trace, Agent 86, Amber Ferraro and au4r33y and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
@@ -20,4 +20,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming nights,
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

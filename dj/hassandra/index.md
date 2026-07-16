@@ -1,6 +1,6 @@
 # Hassandra
 
-Hassandra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Hassandra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Hassandra is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Hamburg and Leipzig and 2 more. Often billed alongside DumTak, ADIRA and Rakans. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Hassandra is a techno and house artist based in Germany, tracked on soundcheck, 
 
 DumTak, ADIRA, Rakans
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hassandra/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hassandra/)*

@@ -1,6 +1,6 @@
 # Jenny Cara
 
-Jenny Cara is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
+Jenny Cara is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
 Jenny Cara is a house and techno artist based in Switzerland, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Basel and Berlin and 14 more. Often billed alongside Alex Dallas, Luka (CH) and Bennet (DE). Next up: Milandia, Zurich on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Jenny Cara is a house and techno artist based in Switzerland, tracked on soundch
 
 Alex Dallas, Luka (CH), Bennet (DE)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*

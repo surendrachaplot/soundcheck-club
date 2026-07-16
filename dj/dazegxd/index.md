@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Empire Stage, New York City on Sat, 18 Jul 2026.
+Dazegxd is a Jungle and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Empire Stage, New York City on Sat, 18 Jul 2026.
 
 Dazegxd is a jungle and house artist tracked on soundcheck, with 94 sets logged across Austin, Boston, Bristol and Chicago and 14 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Empire Stage, Newyorkcity on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 94 sets logged 
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

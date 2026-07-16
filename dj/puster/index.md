@@ -1,6 +1,6 @@
 # PUSTER
 
-PUSTER is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Zouk Tokyo, Tokyo on Sun, 19 Jul 2026.
+PUSTER is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Zouk Tokyo, Tokyo on Sun, 19 Jul 2026.
 
 PUSTER is a techno and psytrance artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Kojiro, RYOOKY and AMG SAIMURA (TECHVANE). Next up: Zouk Tokyo, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ PUSTER is a techno and psytrance artist based in Japan, tracked on soundcheck, w
 
 Kojiro, RYOOKY, AMG SAIMURA (TECHVANE)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/puster/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/puster/)*

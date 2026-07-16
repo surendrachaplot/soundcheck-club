@@ -1,6 +1,6 @@
 # Hannah Wants
 
-Hannah Wants is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
+Hannah Wants is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Preston Park, Brighton, Berlin on Sat, 1 Aug 2026.
 
 Hannah Wants is a house and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Auckland, Austin and Bali and 31 more. Often billed alongside Arielle Free, Sam Divine and Claptone. Next up: Preston Park, Brighton, Berlin on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Hannah Wants is a house and tech house artist tracked on soundcheck, with 99 set
 
 Arielle Free, Sam Divine, Claptone
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*

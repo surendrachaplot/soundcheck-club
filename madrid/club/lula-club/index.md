@@ -1,6 +1,6 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Torrione & FRIENDS" on Thu, 16 Jul 2026.
+Lula Club is a music venue in Madrid with 24 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Torrione & FRIENDS" on Thu, 16 Jul 2026.
 
 Lula Club is a music venue in Madrid listed on soundcheck. 24 upcoming nights, with line-ups including AARON SEVILLA, AJNA, Body-O and CAMET and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
 
@@ -23,4 +23,4 @@ Lula Club is a music venue in Madrid listed on soundcheck. 24 upcoming nights, w
 
 Gran Via 54, Madrid
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*

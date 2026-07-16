@@ -1,6 +1,6 @@
 # DJANGO (NL)
 
-DJANGO (NL) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
+DJANGO (NL) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BRET, Amsterdam on Fri, 17 Jul 2026.
 
 DJANGO (NL) is a house and garage artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Manchester and Rotterdam and 1 more. Often billed alongside Ive Lovers, Michael Pieterse and Gabriel Muñoz. Next up: BRET, Amsterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ DJANGO (NL) is a house and garage artist based in Netherlands, tracked on soundc
 
 Ive Lovers, Michael Pieterse, Gabriel Muñoz
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/django-nl/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/django-nl/)*

@@ -1,6 +1,6 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Alexia (2) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 Alexia (2) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Paul Kine, Penelope (2) and Arno aka Einzelkind. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Alexia (2) is a house and deep house artist based in United Kingdom, tracked on 
 
 Paul Kine, Penelope (2), Arno aka Einzelkind
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

@@ -1,6 +1,6 @@
 # ISPA
 
-ISPA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Red Bar, Tokyo on Fri, 17 Jul 2026.
+ISPA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Red Bar, Tokyo on Fri, 17 Jul 2026.
 
 ISPA is a house and techno artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside Yuta Yamada, GooPer and Amps. Next up: Red Bar, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ ISPA is a house and techno artist based in Japan, tracked on soundcheck, with 60
 
 Yuta Yamada, GooPer, Amps
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ispa/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ispa/)*

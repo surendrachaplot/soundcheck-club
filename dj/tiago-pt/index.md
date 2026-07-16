@@ -1,6 +1,6 @@
 # Tíago
 
-Tíago is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Collect LX Factory, Lisbon on Sat, 18 Jul 2026.
+Tíago is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Collect LX Factory, Lisbon on Sat, 18 Jul 2026.
 
 Tíago is a house and techno artist based in Portugal, tracked on soundcheck, with 75 sets logged across Lisbon and Porto. Often billed alongside Helio, Manuel Cotta and Solid-Funk. Next up: Collect LX Factory, Lisbon on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Tíago is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 Helio, Manuel Cotta, Solid-Funk
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago-pt/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago-pt/)*

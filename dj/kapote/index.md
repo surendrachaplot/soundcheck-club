@@ -1,6 +1,6 @@
 # Kapote
 
-Kapote is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at LIVE EVIL, Munich on Fri, 17 Jul 2026.
+Kapote is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at LIVE EVIL, Munich on Fri, 17 Jul 2026.
 
 Kapote is a house and disco artist tracked on soundcheck, with 213 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Athlete Whippet. Next up: LIVE EVIL, Munich on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Kapote is a house and disco artist tracked on soundcheck, with 213 sets logged a
 
 Sam Ruffillo, Gee Lane, Athlete Whippet
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

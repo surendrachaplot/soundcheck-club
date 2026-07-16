@@ -1,6 +1,6 @@
 # Holocene
 
-Holocene is a music venue in Portland with 7 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "BANG: Queer Techno Transmission" on Thu, 16 Jul 2026.
+Holocene is a music venue in Portland with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "BANG: Queer Techno Transmission" on Thu, 16 Jul 2026.
 
 Holocene is a music venue in Portland listed on soundcheck. 7 upcoming nights, with line-ups including Ben Tactic, Bro Hoe, Degs and Black Daria and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
@@ -20,4 +20,4 @@ Holocene is a music venue in Portland listed on soundcheck. 7 upcoming nights, w
 
 1001 SE Morrison; Portland, OR 97214; United States, Portland
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/portland/club/holocene/)*

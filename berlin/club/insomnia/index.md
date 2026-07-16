@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Berlin Kink" on Thu, 16 Jul 2026.
+Insomnia is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Berlin Kink" on Thu, 16 Jul 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including Andrea Marino, Bäggy, Bi Män and CLAESSENS and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 27 upcoming nights, wi
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

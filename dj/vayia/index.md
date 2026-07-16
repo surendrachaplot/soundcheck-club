@@ -1,6 +1,6 @@
 # Vayia
 
-Vayia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at StereoBar, Montreal on Fri, 17 Jul 2026.
+Vayia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at StereoBar, Montreal on Fri, 17 Jul 2026.
 
 Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 23 sets logged across Montreal. Often billed alongside Andrea de Tour, DJ Cinéma Quartier Latin and Ledisko. Next up: StereoBar, Montreal on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Andrea de Tour, DJ Cinéma Quartier Latin, Ledisko
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vayia/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vayia/)*

@@ -1,6 +1,6 @@
 # Luca Donzelli
 
-Luca Donzelli is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 2 Aug 2026.
+Luca Donzelli is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 2 Aug 2026.
 
 Luca Donzelli is a techno and tech house artist tracked on soundcheck, with 52 sets logged across Barcelona, Belgrade, Buenosaires and Frankfurt and 7 more. Often billed alongside Mar-T, Marco Faraone and Deborah De Luca. Next up: Amnesia Ibiza, Ibiza on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Luca Donzelli is a techno and tech house artist tracked on soundcheck, with 52 s
 
 Mar-T, Marco Faraone, Deborah De Luca
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadonzelli/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadonzelli/)*

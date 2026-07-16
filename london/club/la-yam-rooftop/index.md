@@ -1,6 +1,6 @@
 # LA-YAM Rooftop
 
-LA-YAM Rooftop is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Phill de Janeiro at La Yam Rooftop" on Sat, 18 Jul 2026.
+LA-YAM Rooftop is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Phill de Janeiro at La Yam Rooftop" on Sat, 18 Jul 2026.
 
 LA-YAM Rooftop is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including AMÉMÉ, Coco & Breezy, David Triana and Liv Ravden and 2 more. Browse upcoming dates, start times and who's playing. Kingsbourne House, 229-231 High Holborn.
 
@@ -17,4 +17,4 @@ LA-YAM Rooftop is a music venue in London listed on soundcheck. 4 upcoming night
 
 Kingsbourne House, 229-231 High Holborn, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*

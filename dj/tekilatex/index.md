@@ -1,6 +1,6 @@
 # Teki Latex
 
-Teki Latex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
+Teki Latex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Karmen Camina, Strasbourg on Sat, 1 Aug 2026.
 
 Teki Latex is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Neffa-T, Koboyo and Surusinghe. Next up: Karmen Camina, Strasbourg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Teki Latex is a techno and house artist tracked on soundcheck, with 77 sets logg
 
 Neffa-T, Koboyo, Surusinghe
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*

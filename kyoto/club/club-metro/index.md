@@ -1,14 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 31 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "CLUB80's" on Wed, 15 Jul 2026.
+Club Metro is a music venue in Kyoto with 30 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "lovers teiji furuhashi 2026 – a homage to Nino Rota –" on Thu, 16 Jul 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming nights, with line-ups including DJ KAZUMA, DJ Kensei, Doltz and HINOTO and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 30 upcoming nights, with line-ups including DJ KAZUMA, DJ Kensei, Doltz and HINOTO and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | CLUB80's |  |
 | Thu, 16 Jul 2026 | lovers teiji furuhashi 2026 – a homage to Nino Rota – |  |
 | Fri, 17 Jul 2026 | LAST FRIDAY | Krikor |
 | Sat, 18 Jul 2026 | Redhair Rosy presents dip. 11 | HINOTO |
@@ -18,9 +17,10 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 31 upcoming nights, w
 | Thu, 23 Jul 2026 | SOUND BAR METRO |  |
 | Fri, 24 Jul 2026 | Sound Bath | DJ Kensei, Natsuki |
 | Sat, 25 Jul 2026 | Semaphore | Ken'ichi Itoi, Kensuke Fukushima, SOICHI |
+| Sun, 26 Jul 2026 | 'World Wide Waddle Sugarcoated' |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

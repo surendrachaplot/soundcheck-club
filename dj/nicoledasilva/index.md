@@ -1,6 +1,6 @@
 # Nicole da Silva
 
-Nicole da Silva is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Kiesgrube, Düsseldorf on Sat, 1 Aug 2026.
+Nicole da Silva is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Kiesgrube, Düsseldorf on Sat, 1 Aug 2026.
 
 Nicole da Silva is a house and afro house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Dusseldorf and Ibiza and 2 more. Often billed alongside Mcfly, BRIGITTE BELLING and Caiiro. Next up: Kiesgrube, Dusseldorf on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Nicole da Silva is a house and afro house artist based in Germany, tracked on so
 
 Mcfly, BRIGITTE BELLING, Caiiro
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoledasilva/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoledasilva/)*

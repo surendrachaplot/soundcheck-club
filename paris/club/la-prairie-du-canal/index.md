@@ -1,6 +1,6 @@
 # La Prairie du Canal
 
-La Prairie du Canal is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "OPEN AIR - LA MONA" on Sat, 18 Jul 2026.
+La Prairie du Canal is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "OPEN AIR - LA MONA" on Sat, 18 Jul 2026.
 
 La Prairie du Canal is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Domi (FR), Greg Gauthier, Jenny Cara and Louison and 2 more. Browse upcoming dates, start times and who's playing. 55 rue de Paris 93000 Bobigny, France.
 
@@ -17,4 +17,4 @@ La Prairie du Canal is a music venue in Paris listed on soundcheck. 4 upcoming n
 
 55 rue de Paris 93000 Bobigny, France, Paris
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-prairie-du-canal/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-prairie-du-canal/)*

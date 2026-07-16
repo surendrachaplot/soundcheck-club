@@ -1,6 +1,6 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Gaffe, London on Sat, 18 Jul 2026.
+Lewis Carroll is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gaffe, London on Sat, 18 Jul 2026.
 
 Lewis Carroll is a house and garage artist tracked on soundcheck, with 42 sets logged across Birmingham, Brighton, Edinburgh and Leeds and 3 more. Often billed alongside Dan Schofield, Tom Da Silva and Elliot Schooling. Next up: Gaffe, London on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Lewis Carroll is a house and garage artist tracked on soundcheck, with 42 sets l
 
 Dan Schofield, Tom Da Silva, Elliot Schooling
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

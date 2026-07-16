@@ -1,6 +1,6 @@
 # UNSW Roundhouse
 
-UNSW Roundhouse is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "KlangKuenstler" on Sat, 22 Aug 2026.
+UNSW Roundhouse is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "KlangKuenstler" on Sat, 22 Aug 2026.
 
 UNSW Roundhouse is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including KlangKuenstler, Lovefromsoph and Lucas Boston. Browse upcoming dates, start times and who's playing. Gate 9, High St; Kensington, NSW 2052; Australia.
 
@@ -15,4 +15,4 @@ UNSW Roundhouse is a music venue in Sydney listed on soundcheck. 2 upcoming nigh
 
 Gate 9, High St; Kensington, NSW 2052; Australia, Sydney
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/unsw-roundhouse/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/unsw-roundhouse/)*

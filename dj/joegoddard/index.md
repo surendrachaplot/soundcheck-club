@@ -1,6 +1,6 @@
 # Joe Goddard
 
-Joe Goddard is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Night Tales, London on Fri, 28 Aug 2026.
+Joe Goddard is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Night Tales, London on Fri, 28 Aug 2026.
 
 Joe Goddard is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside Colleen 'Cosmo' Murphy, Hot Chip and Alexis Taylor. Next up: Night Tales, London on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Joe Goddard is a house and disco artist tracked on soundcheck, with 57 sets logg
 
 Colleen 'Cosmo' Murphy, Hot Chip, Alexis Taylor
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joegoddard/)*

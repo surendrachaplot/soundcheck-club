@@ -1,6 +1,6 @@
 # Kamma
 
-Kamma is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 18 Jul 2026.
+Kamma is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 18 Jul 2026.
 
 Kamma is a house and disco artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside Masalo, Antal and CARISTA. Next up: Shelter Amsterdam, Amsterdam on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ Kamma is a house and disco artist tracked on soundcheck, with 131 sets logged ac
 
 Masalo, Antal, CARISTA
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*

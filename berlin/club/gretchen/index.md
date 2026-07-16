@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. PETER SOMUAH & Skyline Sun" on Thu, 16 Jul 2026.
+Gretchen is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. PETER SOMUAH & Skyline Sun" on Thu, 16 Jul 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Allynx, Dillinja, Dis Fig and DRS and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 21 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

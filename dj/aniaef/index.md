@@ -1,6 +1,6 @@
 # Aniaef
 
-Aniaef is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
+Aniaef is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
 
 Aniaef is a techno and electro artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Ylia (UK), GIZZI and H Grade. Next up: Starlane Pizza Bar, London on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Aniaef is a techno and electro artist tracked on soundcheck, with 13 sets logged
 
 Ylia (UK), GIZZI, H Grade
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aniaef/)*

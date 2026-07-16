@@ -1,6 +1,6 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Absturz, Leipzig on Fri, 17 Jul 2026.
+BENITO (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Absturz, Leipzig on Fri, 17 Jul 2026.
 
 BENITO (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Leipzig and Munich. Often billed alongside Limoncello, BRTLGR and EZA (DE). Next up: Absturz, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ BENITO (DE) is a trance and techno artist based in Germany, tracked on soundchec
 
 Limoncello, BRTLGR, EZA (DE)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*

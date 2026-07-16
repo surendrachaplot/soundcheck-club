@@ -1,15 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "FOOTBALLERS" on Wed, 15 Jul 2026.
+Mood Ring is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "MENACE PRESENTS Spurge & MZ3" on Thu, 16 Jul 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including ASTER (DJ), Boydell, ceviché and Cow Tools and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including ASTER (DJ), Boydell, ceviché and Cow Tools and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Petal |
-| Wed, 15 Jul 2026 | FOOTBALLERS | JEAN-PIERRE, Petal |
 | Thu, 16 Jul 2026 | MENACE PRESENTS Spurge & MZ3 | Mz3 (1), Spurge |
 | Fri, 17 Jul 2026 | RINSE & REPEAT: Boydell, ceviché, LeCamille, nataliepops, x0trandon | Boydell, LeCamille, ceviché, nataliepops, x0trandon |
 | Fri, 17 Jul 2026 | Sonic Seduction | KIMKILLA, cybr.nova |
@@ -18,9 +16,11 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nigh
 | Thu, 23 Jul 2026 | The Spiral | Draco Meteor, Selene, Soo Intoit, Xana 101 |
 | Fri, 24 Jul 2026 | Twelve Points Records presents: PEER PLEASURE with JAV/ |  |
 | Fri, 24 Jul 2026 | potluck | Sebs, dj 5spice, satandoll |
+| Sat, 25 Jul 2026 | LIFE AFTER TRANCE: IN SEARCH OF SUNRISE | ASTER (DJ), CYNTHESZR, DJ Try (US), Pirate Radio, Samuelx |
+| Wed, 29 Jul 2026 | House of FLINTA* | Cow Tools, KIMKILLA, Seo (US), niko the nuisance |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

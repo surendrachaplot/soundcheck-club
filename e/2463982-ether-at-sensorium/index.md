@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 17 Jul, Berlin. 6 acts on the bill: DaSoMaZo, Manrick Stapez, VOICEX and Vanya Velin and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 17 Jul, Berlin. 7 acts on the bill: DaSoMaZo, Mal.Da, Manrick Stapez and VOICEX and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ETHER at Sensorium on Fri 17 Jul, Berlin. 6 acts on the bill: DaSoMaZo, Manrick 
 ## Line-up
 
 - DaSoMaZo
+- Mal.Da
 - Manrick Stapez
 - VOICEX
 - Vanya Velin

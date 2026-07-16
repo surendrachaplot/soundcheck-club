@@ -1,6 +1,6 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Exiles Beach Sliema, Malta on Fri, 17 Jul 2026.
+DJ Ruby is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Exiles Beach Sliema, Malta on Fri, 17 Jul 2026.
 
 DJ Ruby is a progressive house and deep house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Limón. Next up: Exiles Beach Sliema, Malta on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ DJ Ruby is a progressive house and deep house artist tracked on soundcheck, with
 
 Daniel Blade, Abdy, Limón
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*

@@ -1,6 +1,6 @@
 # The Cut
 
-The Cut is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Early Doors Club 18" on Sat, 8 Aug 2026.
+The Cut is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Early Doors Club 18" on Sat, 8 Aug 2026.
 
 The Cut is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with line-ups including Danny Jarvis. Browse upcoming dates, start times and who's playing. St Nicolas Street; Newcastle upon tyne; NE1 3BB.
 
@@ -14,4 +14,4 @@ The Cut is a music venue in Newcastle listed on soundcheck. 1 upcoming night, wi
 
 St Nicolas Street; Newcastle upon tyne; NE1 3BB, Newcastle
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-cut/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-cut/)*

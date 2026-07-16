@@ -1,6 +1,6 @@
 # Poggio
 
-Poggio is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Cité Fertile, Paris on Sat, 25 Jul 2026.
+Poggio is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Cité Fertile, Paris on Sat, 25 Jul 2026.
 
 Poggio is a house and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Gabriel Belabbas, Automatic Writing and E.LINA. Next up: La Cité Fertile, Paris on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Poggio is a house and electro artist tracked on soundcheck, with 86 sets logged 
 
 Gabriel Belabbas, Automatic Writing, E.LINA
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*

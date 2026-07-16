@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "SOLID BOX vol.1" on Thu, 16 Jul 2026.
+Circus Osaka is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SOLID BOX vol.1" on Thu, 16 Jul 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 8 upcoming nights, with line-ups including AOKI takamasa, Fumiya Tanaka, Kohei and Lomax and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -21,4 +21,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 8 upcoming nights, 
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

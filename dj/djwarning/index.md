@@ -1,6 +1,6 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Podlasie Club, Chicago on Fri, 24 Jul 2026.
+Dj Warning is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Podlasie Club, Chicago on Fri, 24 Jul 2026.
 
 Dj Warning is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Podlasie Club, Chicago on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Dj Warning is a techno and house artist tracked on soundcheck, with 77 sets logg
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

@@ -1,6 +1,6 @@
 # Act of Rage
 
-Act of Rage is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 18 Jul 2026.
+Act of Rage is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 18 Jul 2026.
 
 Act of Rage is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brussels, Cologne, Frankfurt and Glasgow and 6 more. Often billed alongside Partyraiser, Adjuzt and Angerfist. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Act of Rage is a hardcore and techno artist based in United Kingdom, tracked on 
 
 Partyraiser, Adjuzt, Angerfist
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/actofrage/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/actofrage/)*

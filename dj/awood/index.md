@@ -1,6 +1,6 @@
 # AWood
 
-AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Platform9, Vancouver on Fri, 31 Jul 2026.
+AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Platform9, Vancouver on Fri, 31 Jul 2026.
 
 AWood is a techno and house artist tracked on soundcheck, with 41 sets logged across Toronto and Vancouver. Often billed alongside Lucci (CA), Fizch and emerencz. Next up: Platform9, Vancouver on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ AWood is a techno and house artist tracked on soundcheck, with 41 sets logged ac
 
 Lucci (CA), Fizch, emerencz
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*

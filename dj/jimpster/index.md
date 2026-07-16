@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 17 Jul 2026.
+Jimpster is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Do Not Sit On The Furniture, Miami on Fri, 17 Jul 2026.
 
 Jimpster is a house and deep house artist tracked on soundcheck, with 79 sets logged across Barcelona, Brighton, Budapest and Chicago and 29 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: Do Not Sit On The Furniture, Miami on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 79 sets lo
 
 Neil Pierce, Sy Sez, Anton Tumas
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

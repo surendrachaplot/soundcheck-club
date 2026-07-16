@@ -1,6 +1,6 @@
 # Aaja Basement
 
-Aaja Basement is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Patterns x AAJA: awhlkuhn, Dkay, SCARBA, Pxmp. Club Night + Production deep-dive with awhlkuhn" on Fri, 17 Jul 2026.
+Aaja Basement is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Patterns x AAJA: awhlkuhn, Dkay, SCARBA, Pxmp. Club Night + Production deep-dive with awhlkuhn" on Fri, 17 Jul 2026.
 
 Aaja Basement is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including awhlkuhn, Baytee Baytak, Choronzon and Cocktail Party Effect and 2 more. Browse upcoming dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
 
@@ -18,4 +18,4 @@ Aaja Basement is a music venue in London listed on soundcheck. 5 upcoming nights
 
 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP, London
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*

@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Inner Circle feat. LeMichael aka LM" on Thu, 16 Jul 2026.
+Círculo is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Inner Circle feat. LeMichael aka LM" on Thu, 16 Jul 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including LeMichael. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -16,4 +16,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, 
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

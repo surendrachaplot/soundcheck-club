@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at UNLOCKED, London on Thu, 16 Jul 2026.
+RUZE is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at UNLOCKED, London on Thu, 16 Jul 2026.
 
 RUZE is a house and tech house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Dennis Quin. Next up: UNLOCKED, London on Thu 16 Jul.
 
@@ -32,4 +32,4 @@ RUZE is a house and tech house artist tracked on soundcheck, with 112 sets logge
 
 Prunk, Kellie Allen, Dennis Quin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - The Vault 313, Detroit on Sat, 18 Jul 2026.
+BMG is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - The Vault 313, Detroit on Sat, 18 Jul 2026.
 
 BMG is a techno and electro artist based in United States of America, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Bristol and Chicago and 11 more. Often billed alongside Erika, Mike Servito and Patrick Russell. Next up: TBA - The Vault 313, Detroit on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ BMG is a techno and electro artist based in United States of America, tracked on
 
 Erika, Mike Servito, Patrick Russell
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

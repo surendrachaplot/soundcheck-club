@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
+Nizar Sarakbi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
 
 Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Katia Curie, KATIA and vince. Next up: La Terrrazza, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 70 sets l
 
 Katia Curie, KATIA, vince
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

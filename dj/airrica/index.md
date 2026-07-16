@@ -1,6 +1,6 @@
 # Airrica
 
-Airrica is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at [UNVRS], Ibiza on Mon, 20 Jul 2026.
+Airrica is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at [UNVRS], Ibiza on Mon, 20 Jul 2026.
 
 Airrica is a house and tech house artist tracked on soundcheck, with 92 sets logged across Barcelona, Brussels, Chicago and Copenhagen and 19 more. Often billed alongside Damian Lazarus, Black Coffee and Adam Beyer. Next up: [UNVRS], Ibiza on Mon 20 Jul.
 
@@ -27,4 +27,4 @@ Airrica is a house and tech house artist tracked on soundcheck, with 92 sets log
 
 Damian Lazarus, Black Coffee, Adam Beyer
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/airrica/)*

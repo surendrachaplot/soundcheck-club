@@ -1,6 +1,6 @@
 # Praia Irmão
 
-Praia Irmão is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Praia Irmão 6 YEAR BIRTHDAY CELEBRATION" on Fri, 17 Jul 2026.
+Praia Irmão is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Praia Irmão 6 YEAR BIRTHDAY CELEBRATION" on Fri, 17 Jul 2026.
 
 Praia Irmão is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Dombrance, Fatnotronic, Khalil Suleman and Rui Vargas. Browse upcoming dates, start times and who's playing. Estr. da Praia do Castelo, 2825-308 Costa da Caparica, Portugal.
 
@@ -14,4 +14,4 @@ Praia Irmão is a music venue in Lisbon listed on soundcheck. 1 upcoming night, 
 
 Estr. da Praia do Castelo, 2825-308 Costa da Caparica, Portugal, Lisbon
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/praia-irm-o/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/praia-irm-o/)*

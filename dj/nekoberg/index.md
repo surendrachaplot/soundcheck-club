@@ -1,6 +1,6 @@
 # Neko Berg
 
-Neko Berg is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 17 Jul 2026.
+Neko Berg is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 17 Jul 2026.
 
 Neko Berg is a house and deep house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Washingtondc. Often billed alongside SPCL.K, Rainier Rodriguez and Eric Yaz. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Neko Berg is a house and deep house artist based in United States of America, tr
 
 SPCL.K, Rainier Rodriguez, Eric Yaz
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nekoberg/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nekoberg/)*

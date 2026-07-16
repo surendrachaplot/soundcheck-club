@@ -1,14 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 76 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Namaste" on Wed, 15 Jul 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 75 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Hernan Cattaneo" on Thu, 16 Jul 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 76 upcoming nights, with line-ups including Aaron Suiss, Alay, Alfonso Ares and Alok and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 75 upcoming nights, with line-ups including Alay, Alfonso Ares, Alok and Amine K and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Namaste | Aaron Suiss |
 | Thu, 16 Jul 2026 | Hernan Cattaneo | Bodaishin, Dave Seaman, Hernan Cattaneo, Igor Marijuan |
 | Fri, 17 Jul 2026 | La Tipi | Marvin Jam, Words of Niō |
 | Sat, 18 Jul 2026 | SUPERNOVA x HIVE | Animal Trainer, Elisa Elisa, Gui Boratto, Momoda |
@@ -18,9 +17,10 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 7
 | Tue, 21 Jul 2026 | Drop It Like It's Hot |  |
 | Wed, 22 Jul 2026 | Namaste | Alok, Pomboklap |
 | Fri, 24 Jul 2026 | Why?Not | JNJS, Magda, Nesta |
+| Sat, 25 Jul 2026 | SUPERNOVA x Artlab | Barem, Landikhan, Solimano, theia |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

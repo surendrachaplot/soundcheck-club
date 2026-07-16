@@ -1,6 +1,6 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
+Masha Mar is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Bridge, Los Angeles on Sat, 8 Aug 2026.
 
 Masha Mar is a house and techno artist tracked on soundcheck, with 148 sets logged across Athens, Belgrade, Berlin and Denver and 13 more. Often billed alongside Masha, Heidi Lawden and Stacy Christine. Next up: The Bridge, Losangeles on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 148 sets logg
 
 Masha, Heidi Lawden, Stacy Christine
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

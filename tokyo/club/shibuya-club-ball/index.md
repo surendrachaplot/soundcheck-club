@@ -1,6 +1,6 @@
 # Shibuya Club Ball
 
-Shibuya Club Ball is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "B A L L / Shibuya Club Ball 30th Anniversary -Day 1-" on Thu, 16 Jul 2026.
+Shibuya Club Ball is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "B A L L / Shibuya Club Ball 30th Anniversary -Day 1-" on Thu, 16 Jul 2026.
 
 Shibuya Club Ball is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Allen (IT), Angel (GR), Azusa and Blowup and 2 more. Browse upcoming dates, start times and who's playing. 4F, Kuretake Bldg., Utagawa-cho 4-9, Shibuya, Tokyo 150-0042.
 
@@ -17,4 +17,4 @@ Shibuya Club Ball is a music venue in Tokyo listed on soundcheck. 4 upcoming nig
 
 4F, Kuretake Bldg., Utagawa-cho 4-9, Shibuya, Tokyo 150-0042, Tokyo
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-club-ball/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shibuya-club-ball/)*

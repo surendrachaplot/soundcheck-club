@@ -1,14 +1,13 @@
 # Volks
 
-Volks is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "Enigma Collective: VENEZUELA FOUNDRISER" on Wed, 15 Jul 2026.
+Volks is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "On The Beach Official After Party: Sabotage" on Thu, 16 Jul 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Beano and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Beano and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 15 Jul 2026 | Enigma Collective: VENEZUELA FOUNDRISER |  |
 | Thu, 16 Jul 2026 | On The Beach Official After Party: Sabotage |  |
 | Fri, 17 Jul 2026 | On The Beach Official After Party: Woody Cook & Kleu | Beano, Flakes, Kleu, MYNX |
 | Sat, 18 Jul 2026 | On The Beach Official After Party: Stanton Warriors & Calyx | Calyx, Deefa, Flakes, Stanton Warriors, nima (2) |
@@ -18,9 +17,10 @@ Volks is a music venue in Brighton listed on soundcheck. 12 upcoming nights, wit
 | Sat, 25 Jul 2026 | On The Beach Official After Party: Benny Page, Prince Fatty & Jungalice | Benny Page, Flakes, Prince Fatty |
 | Sun, 26 Jul 2026 | On The Beach Official After Party: Closing Party |  |
 | Sat, 1 Aug 2026 | HUGE PRIDE DAY RAVE | AUDIO DUNE, DJ Gaylord, Danny Activate, chlow333 |
+| Sun, 2 Aug 2026 | Pride Sunday w/ Molasses Puppy Playgrnd & X-Tapes  | Atoxyl, Cosmic Caz, NION, SBBS, Spinks, YOYO (UK), Yiota, arawzi |
 
 ## Address
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

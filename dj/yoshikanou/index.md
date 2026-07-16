@@ -1,6 +1,6 @@
 # YOSHI KANOU
 
-YOSHI KANOU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Z Maruyama, Tokyo on Sat, 18 Jul 2026.
+YOSHI KANOU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Z Maruyama, Tokyo on Sat, 18 Jul 2026.
 
 YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, with 206 sets logged across Amsterdam, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and Alex Ormond. Next up: Z Maruyama, Tokyo on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, 
 
 WAKA XINXI, AiMii, Alex Ormond
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*

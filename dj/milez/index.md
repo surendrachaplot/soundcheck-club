@@ -1,6 +1,6 @@
 # MileZ
 
-MileZ is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Circus Tokyo, Tokyo on Thu, 16 Jul 2026.
+MileZ is a Techno and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Circus Tokyo, Tokyo on Thu, 16 Jul 2026.
 
 MileZ is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside YUVIE, r1ku and SAMO (JP). Next up: Circus Tokyo, Tokyo on Thu 16 Jul.
 
@@ -26,4 +26,4 @@ MileZ is a techno and jungle artist based in United Kingdom, tracked on soundche
 
 YUVIE, r1ku, SAMO (JP)
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milez/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/milez/)*

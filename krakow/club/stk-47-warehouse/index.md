@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "HANGAR x HYPNØ w. Egna [Paris/FR]" on Sat, 18 Jul 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "HANGAR x HYPNØ w. Egna [Paris/FR]" on Sat, 18 Jul 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nights, with line-ups including Carla Roca, Egna, ERNST (UA) and Flakka (2) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -19,4 +19,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

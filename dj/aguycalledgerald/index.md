@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Refuge, New York City on Sun, 19 Jul 2026.
+A Guy Called Gerald is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Refuge, New York City on Sun, 19 Jul 2026.
 
 A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 33 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: Refuge, Newyorkcity on Sun 19 Jul.
 
@@ -31,4 +31,4 @@ A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 106
 
 Will B, gyrofield, Ben UFO
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

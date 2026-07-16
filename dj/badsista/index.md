@@ -1,8 +1,8 @@
 # BADSISTA
 
-BADSISTA is a House and Baile Funk artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+BADSISTA is a House and Baile Funk artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-BADSISTA is a house and baile funk artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+BADSISTA is a house and baile funk artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 37 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ BADSISTA is a house and baile funk artist tracked on soundcheck, with 113 sets l
 | Fri, 24 Jul 2026 | Strange Brew | Bristol |
 | Sat, 25 Jul 2026 | CLUB RAUM | Amsterdam |
 | Sun, 26 Jul 2026 | OXI | Berlin |
+| Fri, 7 Aug 2026 | MoMA PS1 | New York City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ BADSISTA is a house and baile funk artist tracked on soundcheck, with 113 sets l
 
 Cashu, Paulete Lindacelva, EVEHIVE
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

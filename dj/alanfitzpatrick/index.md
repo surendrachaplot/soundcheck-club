@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at TBA - Los Angeles, Los Angeles on Fri, 14 Aug 2026.
+Alan Fitzpatrick is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Los Angeles, Los Angeles on Fri, 14 Aug 2026.
 
 Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 30 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: TBA - Los Angeles, Losangeles on Fri 14 Aug.
 
@@ -33,4 +33,4 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 104 se
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

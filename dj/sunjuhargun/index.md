@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Garage Noord, Amsterdam on Fri, 17 Jul 2026.
+Sunju Hargun is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Garage Noord, Amsterdam on Fri, 17 Jul 2026.
 
 Sunju Hargun is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: Garage Noord, Amsterdam on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Sunju Hargun is a techno and house artist tracked on soundcheck, with 85 sets lo
 
 Kia (AU), Woody92, DJ MARIA.
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

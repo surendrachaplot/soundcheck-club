@@ -1,6 +1,6 @@
 # Iyesha
 
-Iyesha is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at The Haggerston, London on Fri, 24 Jul 2026.
+Iyesha is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Haggerston, London on Fri, 24 Jul 2026.
 
 Iyesha is a techno and club artist tracked on soundcheck, with 42 sets logged across Berlin, Brighton, Glasgow and Leeds and 4 more. Often billed alongside Kessie, Michelle Manetti and Ms.G. Next up: The Haggerston, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Iyesha is a techno and club artist tracked on soundcheck, with 42 sets logged ac
 
 Kessie, Michelle Manetti, Ms.G
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*

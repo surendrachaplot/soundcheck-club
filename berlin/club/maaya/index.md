@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "RIPPLES with CASADEPHUNK" on Thu, 16 Jul 2026.
+Maaya is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "RIPPLES with CASADEPHUNK" on Thu, 16 Jul 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 0dysseus, danger soundsystem, DJ LAG and elliephunk and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -22,4 +22,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with l
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

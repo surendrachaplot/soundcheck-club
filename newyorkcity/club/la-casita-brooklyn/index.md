@@ -1,6 +1,6 @@
 # LA Casita Brooklyn
 
-LA Casita Brooklyn is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Best Reggaeton Party NYC" on Fri, 17 Jul 2026.
+LA Casita Brooklyn is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Best Reggaeton Party NYC" on Fri, 17 Jul 2026.
 
 LA Casita Brooklyn is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 428 Johnson Avenue Brooklyn, NY 11237 United States.
 
@@ -14,4 +14,4 @@ LA Casita Brooklyn is a music venue in Newyorkcity listed on soundcheck. 1 upcom
 
 428 Johnson Avenue Brooklyn, NY 11237 United States, New York City
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/la-casita-brooklyn/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/la-casita-brooklyn/)*

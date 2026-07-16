@@ -1,6 +1,6 @@
 # David Triana
 
-David Triana is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Myra, Lisbon on Fri, 17 Jul 2026.
+David Triana is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Myra, Lisbon on Fri, 17 Jul 2026.
 
 David Triana is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Rakim Under, Kenia and Der. Next up: Myra, Lisbon on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ David Triana is a house and techno artist tracked on soundcheck, with 75 sets lo
 
 Rakim Under, Kenia, Der
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*

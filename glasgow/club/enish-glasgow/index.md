@@ -1,6 +1,6 @@
 # Enish Glasgow
 
-Enish Glasgow is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 15 Jul 2026; the next is "DALIWONGA Live In Glasgow" on Sat, 18 Jul 2026.
+Enish Glasgow is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "DALIWONGA Live In Glasgow" on Sat, 18 Jul 2026.
 
 Enish Glasgow is a music venue in Glasgow listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 186 Bath St, Glasgow G2 4HG.
 
@@ -17,4 +17,4 @@ Enish Glasgow is a music venue in Glasgow listed on soundcheck. 4 upcoming night
 
 186 Bath St, Glasgow G2 4HG, Glasgow
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/enish-glasgow/)*

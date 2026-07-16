@@ -1,6 +1,6 @@
 # Palmengarten
 
-Palmengarten is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Wed, 15 Jul 2026; the next is "Martin Kohlstedt" on Tue, 28 Jul 2026.
+Palmengarten is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Martin Kohlstedt" on Tue, 28 Jul 2026.
 
 Palmengarten is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Siesmayerstraße 63, 60323 Frankfurt am Main.
 
@@ -14,4 +14,4 @@ Palmengarten is a music venue in Frankfurt listed on soundcheck. 1 upcoming nigh
 
 Siesmayerstraße 63, 60323 Frankfurt am Main, Frankfurt
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/palmengarten/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/palmengarten/)*

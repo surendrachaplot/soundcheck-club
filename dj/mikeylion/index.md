@@ -1,6 +1,6 @@
 # Mikey Lion
 
-Mikey Lion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Mikey Lion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Mikey Lion is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside Lee Reynolds, Marbs and Porky. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Mikey Lion is a house and techno artist based in United States of America, track
 
 Lee Reynolds, Marbs, Porky
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeylion/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeylion/)*

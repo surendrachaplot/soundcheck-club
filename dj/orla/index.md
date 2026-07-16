@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
+Or:la is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Rote Fabrik, Zurich on Fri, 7 Aug 2026.
 
 Or:la is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Rote Fabrik, Zurich on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Or:la is a house and techno artist tracked on soundcheck, with 119 sets logged a
 
 Amaliah, Pariah, Objekt
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

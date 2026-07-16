@@ -1,6 +1,6 @@
 # MAURER
 
-MAURER is a Techno and Breakcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 15 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 17 Jul 2026.
+MAURER is a Techno and Breakcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 17 Jul 2026.
 
 MAURER is a techno and breakcore artist based in Spain, tracked on soundcheck, with 24 sets logged across Berlin, Buenosaires, Cologne and Hamburg and 2 more. Often billed alongside VOICEX, FILTRACK and PØVE. Next up: RSO.BERLIN, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ MAURER is a techno and breakcore artist based in Spain, tracked on soundcheck, w
 
 VOICEX, FILTRACK, PØVE
 
-*Updated Wed, 15 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
+*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
