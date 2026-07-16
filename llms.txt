@@ -127,7 +127,7 @@ Updated: 2026-07-16
 - [Lokschuppen Berlin (Berlin)](https://soundcheck.club/berlin/club/lokschuppen-berlin/) — [markdown](https://soundcheck.club/berlin/club/lokschuppen-berlin/index.md)
 - [Minimal Bar (Berlin)](https://soundcheck.club/berlin/club/minimal-bar/) — [markdown](https://soundcheck.club/berlin/club/minimal-bar/index.md)
 - [The Lighthouse Bar & Club (London)](https://soundcheck.club/london/club/the-lighthouse-bar-club/) — [markdown](https://soundcheck.club/london/club/the-lighthouse-bar-club/index.md)
-- [TBA - Secret Location (London)](https://soundcheck.club/london/club/tba-secret-location/) — [markdown](https://soundcheck.club/london/club/tba-secret-location/index.md)
+- [TBA - secret location (London)](https://soundcheck.club/london/club/tba-secret-location/) — [markdown](https://soundcheck.club/london/club/tba-secret-location/index.md)
 - [Elsewhere (New York City)](https://soundcheck.club/newyorkcity/club/elsewhere/) — [markdown](https://soundcheck.club/newyorkcity/club/elsewhere/index.md)
 - [Moog Club (Barcelona)](https://soundcheck.club/barcelona/club/moog-club/) — [markdown](https://soundcheck.club/barcelona/club/moog-club/index.md)
 - [TBA -  Sliema Ferries - Faith Boat (Malta)](https://soundcheck.club/malta/club/tba-sliema-ferries-faith-boat/) — [markdown](https://soundcheck.club/malta/club/tba-sliema-ferries-faith-boat/index.md)
