@@ -1,6 +1,6 @@
 # Strictly Vinyl free Thursdays DJ sessions at 26 Curtain Road
 
-Strictly Vinyl free Thursdays DJ sessions at 26 Curtain Road on Thu 16 Jul, London. 1 act on the bill: Neil Thornton. Downtempo and Balearic. Preview the line-up and save it on soundcheck.
+Strictly Vinyl free Thursdays DJ sessions at 26 Curtain Road on Thu 16 Jul, London. 1 act on the bill: Neil Thornton. Balearic and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Pato
 
-Pato is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Pato is a House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
-Pato is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Berlin, Edinburgh, London and Manchester. Often billed alongside Jugin, DJ Bz and Doogi. Next up: TBA - Secret Location, London on Fri 17 Jul.
+Pato is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Berlin, Edinburgh, London and Manchester. Often billed alongside Jugin, DJ Bz and Doogi. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | TBA - Secret Location | London |
+| Sun, 2 Aug 2026 | Crate Brewery | London |
 | Sat, 8 Aug 2026 | FOLD | London |
 
 ## Recently played

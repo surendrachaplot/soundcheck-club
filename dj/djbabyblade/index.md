@@ -1,8 +1,8 @@
 # DJ Babyblade
 
-DJ Babyblade is a Techno and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+DJ Babyblade is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
-DJ Babyblade is a techno and breakbeat artist tracked on soundcheck, with 110 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: MS Artville, Hamburg on Sat 18 Jul.
+DJ Babyblade is a techno and house artist tracked on soundcheck, with 111 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Babyblade is a techno and breakbeat artist tracked on soundcheck, with 110 se
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | MS Artville | Hamburg |
 | Thu, 23 Jul 2026 | Golden Pudel Club | Hamburg |
+| Fri, 31 Jul 2026 | Else | Berlin |
 | Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 
 ## Recently played

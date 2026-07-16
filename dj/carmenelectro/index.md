@@ -1,8 +1,8 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
+Carmen Electro is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
 
-Carmen Electro is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
+Carmen Electro is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carmen Electro is a techno and house artist tracked on soundcheck, with 149 sets
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Tresor / Globus | Berlin |
 | Tue, 21 Jul 2026 | It's a Bar | Berlin |
+| Thu, 30 Jul 2026 | Giri | Berlin |
 | Fri, 31 Jul 2026 | La Gravière | Geneva |
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |

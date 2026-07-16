@@ -2,7 +2,7 @@
 
 Stef de Haan is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at ://about blank, Berlin on Sat, 18 Jul 2026.
 
-Stef de Haan is a techno and house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Anton Jonathan, EliaHaze and Trancemaster Krause. Next up: ://about blank, Berlin on Sat 18 Jul.
+Stef de Haan is a techno and house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: ://about blank, Berlin on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Stef de Haan is a techno and house artist based in Netherlands, tracked on sound
 
 ## Shares bills with
 
-Anton Jonathan, EliaHaze, Trancemaster Krause
+Anton Jonathan, DJ Babyblade, EliaHaze
 
 *Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*

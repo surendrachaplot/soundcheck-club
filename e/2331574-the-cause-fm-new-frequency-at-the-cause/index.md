@@ -1,6 +1,6 @@
 # The Cause FM: New Frequency at The Cause
 
-The Cause FM: New Frequency on Sat 25 Jul, London. 21 acts on the bill: 7ip7o3, Cousin, Didi Han and Elijah and 17 more. Club. Preview the line-up and save it on soundcheck.
+The Cause FM: New Frequency on Sat 25 Jul, London. 25 acts on the bill: 7ip7o3, Big Hands, Cousin and Didi Han and 21 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,13 @@ The Cause FM: New Frequency on Sat 25 Jul, London. 21 acts on the bill: 7ip7o3, 
 ## Line-up
 
 - 7ip7o3
+- Big Hands
 - Cousin
 - Didi Han
 - Elijah
 - Fantastic Man
+- HOLY C
+- JAMESON JAMESON
 - Jonny Rock
 - Kim Ann Foxman
 - L-Vis 1990
@@ -25,6 +28,7 @@ The Cause FM: New Frequency on Sat 25 Jul, London. 21 acts on the bill: 7ip7o3, 
 - Sansibar
 - Sophie McAlister
 - Stella Zekri
+- Teki Latex
 - Tornado Wallace
 - Toumba
 - Yemz

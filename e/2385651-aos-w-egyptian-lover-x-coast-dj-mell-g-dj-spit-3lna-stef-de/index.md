@@ -1,6 +1,6 @@
 # AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MORE at Else
 
-AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MORE at Else on Fri 31 Jul, Berlin. 15 acts on the bill: 3LNA, Anton Jonathan, DJ MELL G and DJ SWISHERMAN and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MORE at Else on Fri 31 Jul, Berlin. 16 acts on the bill: 3LNA, Anton Jonathan, DJ Babyblade and DJ MELL G and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ AOS W/ Egyptian Lover, X-Coast, DJ MELL G, DJ Spit, 3LNA, Stef de Haan & MANY MO
 
 - 3LNA
 - Anton Jonathan
+- DJ Babyblade
 - DJ MELL G
 - DJ SWISHERMAN
 - DJ Spit

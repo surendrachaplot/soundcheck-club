@@ -1,8 +1,8 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Summer Pearl - Freight Brixton & Cross The Tracks presents: Soul of the South" on Thu, 16 Jul 2026.
+Freight Brixton is a music venue in London with 15 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Summer Pearl - Freight Brixton & Cross The Tracks presents: Soul of the South" on Thu, 16 Jul 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Brooksy, Chunky, Craig Charles and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Brooksy, Chunky, Craig Charles and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 

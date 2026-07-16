@@ -1,13 +1,14 @@
 # Pōnky
 
-Pōnky is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+Pōnky is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Giri, Berlin on Thu, 30 Jul 2026.
 
-Pōnky is a techno and industrial artist based in France, tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Leipzig and Lyon and 6 more. Often billed alongside FENIM0RE, MADMAN (2) and BAUGRUPPE90. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
+Pōnky is a techno and house artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Leipzig and Lyon and 6 more. Often billed alongside FENIM0RE, MADMAN (2) and BAUGRUPPE90. Next up: Giri, Berlin on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 30 Jul 2026 | Giri | Berlin |
 | Thu, 6 Aug 2026 | TBA - Near Berlin (Secret Forest) | Berlin |
 | Thu, 6 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 7 Aug 2026 | Else | Berlin |
