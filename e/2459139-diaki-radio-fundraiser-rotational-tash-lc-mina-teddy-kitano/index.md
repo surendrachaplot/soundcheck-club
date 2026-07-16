@@ -1,6 +1,6 @@
 # DIAKI RADIO FUNDRAISER: Rotational, Tash LC, Mina, Teddy Kitano, Sho Gabi, Joseph Wood at Aaja Basement
 
-DIAKI RADIO FUNDRAISER: Rotational, Tash LC, Mina, Teddy Kitano, Sho Gabi, Joseph Wood at Aaja Basement on Fri 24 Jul, London. 6 acts on the bill: Joseph Wood, MINÄ, Rotational and Sho Gabi and 2 more. Preview the line-up and save it on soundcheck.
+DIAKI RADIO FUNDRAISER: Rotational, Tash LC, Mina, Teddy Kitano, Sho Gabi, Joseph Wood at Aaja Basement on Fri 24 Jul, London. 6 acts on the bill: Joseph Wood, Mina, Rotational and Sho Gabi and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ DIAKI RADIO FUNDRAISER: Rotational, Tash LC, Mina, Teddy Kitano, Sho Gabi, Josep
 ## Line-up
 
 - Joseph Wood
-- MINÄ
+- Mina
 - Rotational
 - Sho Gabi
 - Tash LC

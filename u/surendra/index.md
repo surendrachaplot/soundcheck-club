@@ -1,0 +1,21 @@
+# u/surendra (@surendra)
+
+u/surendra (@surendra) has logged 30 club nights across 21 venues in 9 cities on soundcheck, based in London.
+
+- Nights logged: 30
+- Venues: 21
+- Cities: 9
+- Seen live: 112
+
+## Most seen
+
+- [Kalte Liebe](https://soundcheck.club/dj/kalteliebe/)
+- [Joy Orbison](https://soundcheck.club/dj/joyorbison/)
+- [KI/KI](https://soundcheck.club/dj/ki-ki/)
+- [Olympe4000](https://soundcheck.club/dj/olympe4000/)
+- [Pablo Bozzi](https://soundcheck.club/dj/pablobozzi/)
+- [¥ØU$UK€ ¥UK1MAT$U](https://soundcheck.club/dj/yosukeyukimatsu-jp/)
+- [Adapta](https://soundcheck.club/dj/adapta/)
+- [Amo (IT)](https://soundcheck.club/dj/amo-it/)
+
+*Source: [soundcheck](https://soundcheck.club/u/surendra/)*

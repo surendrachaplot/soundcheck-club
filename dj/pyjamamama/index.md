@@ -13,7 +13,7 @@ PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck,
 | Fri, 31 Jul 2026 | KitKatClub | Berlin |
 | Fri, 21 Aug 2026 | Golden Flamingo | Berlin |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
-| Sat, 5 Sept 2026 | OHM | Berlin |
+| Sat, 5 Sept 2026 | Œlgarten | Berlin |
 
 ## Recently played
 

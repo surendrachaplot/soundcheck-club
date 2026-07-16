@@ -9,7 +9,7 @@ Aaja Basement is a music venue in London listed on soundcheck. 6 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Patterns x AAJA: awhlkuhn, Dkay, SCARBA, Pxmp. Club Night + Production deep-dive with awhlkuhn | Pxmp, SCARBA, awhlkuhn |
-| Fri, 24 Jul 2026 | DIAKI RADIO FUNDRAISER: Rotational, Tash LC, Mina, Teddy Kitano, Sho Gabi, Joseph Wood | Joseph Wood, MINÄ, Rotational, Sho Gabi, Tash LC, Teddy Kitano |
+| Fri, 24 Jul 2026 | DIAKI RADIO FUNDRAISER: Rotational, Tash LC, Mina, Teddy Kitano, Sho Gabi, Joseph Wood | Joseph Wood, Mina, Rotational, Sho Gabi, Tash LC, Teddy Kitano |
 | Fri, 31 Jul 2026 | Parallel Play - MUSICKLUNATIC, ADHDJ b2b Hostmigrate, Kittani b2b Mikadose | Kittani, MUSICKLUNATIC |
 | Fri, 7 Aug 2026 | sWARM signals 08: Cross-Genre Club Night - 1 Year Anniversary Fundraiser | DungeonMaster, MUSICKLUNATIC, Mamula, NakedAggressionDJ, Polyop |
 | Fri, 14 Aug 2026 | Spin Am and Friends | ARKNGL, BBSHKALES, Jean Blaire, KSHA, SALD3E, Spin Am, XT1ANA |

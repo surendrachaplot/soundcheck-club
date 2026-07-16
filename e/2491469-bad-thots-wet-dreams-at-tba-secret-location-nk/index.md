@@ -1,6 +1,6 @@
-# Bad Thots - Wet Dreams at TBA - Secret Location NK
+# BAD THOTS - Wet Dreams at TBA - Secret Location NK
 
-Bad Thots - Wet Dreams at TBA - Secret Location NK on Sat 15 Aug, Berlin. 4 acts on the bill: ANNARA, Part-Time Lesbian, Pooja B and ZANNT. Techno. Preview the line-up and save it on soundcheck.
+BAD THOTS - Wet Dreams at TBA - Secret Location NK on Sat 15 Aug, Berlin. 4 acts on the bill: ANNARA, Part-Time Lesbian, Pooja B and ZANNT. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

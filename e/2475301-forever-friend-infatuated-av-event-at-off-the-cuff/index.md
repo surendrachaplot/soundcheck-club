@@ -1,6 +1,6 @@
 # Forever Friend Infatuated: AV Event at Off The Cuff
 
-Forever Friend Infatuated: AV Event at Off The Cuff on Fri 24 Jul, London. 1 act on the bill: 2CUTE2CUE. Experimental and Jungle. Preview the line-up and save it on soundcheck.
+Forever Friend Infatuated: AV Event at Off The Cuff on Fri 24 Jul, London. 2 acts on the bill: 2CUTE2CUE and hotmess. Experimental and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Forever Friend Infatuated: AV Event at Off The Cuff on Fri 24 Jul, London. 1 act
 ## Line-up
 
 - 2CUTE2CUE
+- hotmess
 
 *Source: [soundcheck](https://soundcheck.club/e/2475301-forever-friend-infatuated-av-event-at-off-the-cuff/)*

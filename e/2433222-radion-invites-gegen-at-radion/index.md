@@ -1,6 +1,6 @@
 # RADION invites GEGEN at RADION
 
-RADION invites GEGEN on Sat 8 Aug, Amsterdam. 9 acts on the bill: BOYCA, Boris, Juan Del Chambo and Mar/us and 5 more. Preview the line-up and save it on soundcheck.
+RADION invites GEGEN on Sat 8 Aug, Amsterdam. 11 acts on the bill: BOYCA, Boris, Juan Del Chambo and Mar/us and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,9 @@ RADION invites GEGEN on Sat 8 Aug, Amsterdam. 9 acts on the bill: BOYCA, Boris, 
 - Juan Del Chambo
 - Mar/us
 - Mila Haj Kasem
+- NSPERGER
 - Nymed
+- SARA
 - Shadysnack
 - Spikey Lee
 - Yigit

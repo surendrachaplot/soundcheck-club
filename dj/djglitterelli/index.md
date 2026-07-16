@@ -10,7 +10,7 @@ DJ Glitterelli is a house and techno artist based in Germany, tracked on soundch
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | ://about blank | Berlin |
 | Fri, 21 Aug 2026 | Golden Flamingo | Berlin |
-| Sat, 5 Sept 2026 | OHM | Berlin |
+| Sat, 5 Sept 2026 | Œlgarten | Berlin |
 
 ## Recently played
 
