@@ -1,6 +1,6 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bolivar Beach Bar, Athens on Sat, 18 Jul 2026.
+Maceo Plex is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bolivar Beach Bar, Athens on Sat, 18 Jul 2026.
 
 Maceo Plex is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Bolivar Beach Bar, Athens on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 178 sets log
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

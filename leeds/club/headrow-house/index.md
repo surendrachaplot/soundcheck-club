@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Elliot Holt b2b Ellis Weeks" on Fri, 17 Jul 2026.
+Headrow House is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Elliot Holt b2b Ellis Weeks" on Fri, 17 Jul 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including Cosmikuro, Elliot Holt, Ellis Weeks and John Paynter and 2 more. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -21,4 +21,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 8 upcoming nights,
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

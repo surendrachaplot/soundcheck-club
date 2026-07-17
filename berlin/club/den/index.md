@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "CHROMA XXL - HOT SUMMER EDITION" on Fri, 17 Jul 2026.
+ÆDEN is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "CHROMA XXL - HOT SUMMER EDITION" on Fri, 17 Jul 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including .JKM, 7CIRCLE, Alexa Fluor and Alex Pastore and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

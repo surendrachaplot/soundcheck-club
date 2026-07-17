@@ -1,6 +1,6 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "EAST Techno Collective" on Fri, 17 Jul 2026.
+Melkweg is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "EAST Techno Collective" on Fri, 17 Jul 2026.
 
 Melkweg is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including Alma Negrot, Alírio, Asphodèle and Bob Semp and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
@@ -23,4 +23,4 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, 
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

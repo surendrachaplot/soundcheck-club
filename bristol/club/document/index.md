@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "WAH Open Air with Sota, Camo & Krooked, Sigma - Bristol" on Sat, 18 Jul 2026.
+Document is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "WAH Open Air with Sota, Camo & Krooked, Sigma - Bristol" on Sat, 18 Jul 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including Kepler, Altern-8, Amy Wiles and Anil Aras and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -18,4 +18,4 @@ Document is a music venue in Bristol listed on soundcheck. 5 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

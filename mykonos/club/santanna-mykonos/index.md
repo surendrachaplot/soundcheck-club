@@ -1,6 +1,6 @@
 # Santanna Mykonos
 
-Santanna Mykonos is a music venue in Mykonos with 22 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Joseph Capriati & Nic Fanciulli at SantAnna" on Fri, 17 Jul 2026.
+Santanna Mykonos is a music venue in Mykonos with 22 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Joseph Capriati & Nic Fanciulli at SantAnna" on Fri, 17 Jul 2026.
 
 Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 22 upcoming nights, with line-ups including AVÖ (PT), Ben Sterling, Black Coffee and Bonobo and 2 more. Browse upcoming dates, start times and who's playing. Paraga Beach, Mykonos, Greece 84600.
 
@@ -23,4 +23,4 @@ Santanna Mykonos is a music venue in Mykonos listed on soundcheck. 22 upcoming n
 
 Paraga Beach, Mykonos, Greece 84600, Mykonos
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/santanna-mykonos/)*

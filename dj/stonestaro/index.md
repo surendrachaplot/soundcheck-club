@@ -1,6 +1,6 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Circus Osaka, Osaka on Fri, 17 Jul 2026.
+Stones Taro is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Circus Osaka, Osaka on Fri, 17 Jul 2026.
 
 Stones Taro is a house and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Lomax, KOTSU and Paperkraft. Next up: Circus Osaka, Osaka on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Stones Taro is a house and bass artist tracked on soundcheck, with 112 sets logg
 
 Lomax, KOTSU, Paperkraft
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

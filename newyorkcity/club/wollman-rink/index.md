@@ -1,6 +1,6 @@
 # Wollman Rink
 
-Wollman Rink is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "We Belong Here: Central Park" on Fri, 2 Oct 2026.
+Wollman Rink is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "We Belong Here: Central Park" on Fri, 2 Oct 2026.
 
 Wollman Rink is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Wollman Rink is a music venue in Newyorkcity listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | We Belong Here: Central Park |  |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/wollman-rink/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/wollman-rink/)*

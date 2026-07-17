@@ -1,14 +1,13 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at [UNVRS], Ibiza on Thu, 16 Jul 2026.
+MPH (1) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
 
-MPH (1) is a garage and bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 36 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: [UNVRS], Ibiza on Thu 16 Jul.
+MPH (1) is a garage and bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 36 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Colorado Charlie, Thehague on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | [UNVRS] | Ibiza |
 | Fri, 24 Jul 2026 | Colorado Charlie | The Hague |
 | Thu, 30 Jul 2026 | Smoke & Mirrors | Chicago |
 | Sun, 2 Aug 2026 | Old Royal Naval College | London |
@@ -20,6 +19,7 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 103 sets logged 
 
 ## Recently played
 
+- [UNVRS], Ibiza — Thu, 16 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -27,10 +27,9 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 103 sets logged 
 - Common Market, Belfast — Sat, 30 May 2026
 - Irish Museum of Modern Art, Dublin — Sat, 30 May 2026
 - Titanic Slipways, Belfast — Fri, 29 May 2026
-- Common Market, Belfast — Fri, 29 May 2026
 
 ## Shares bills with
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

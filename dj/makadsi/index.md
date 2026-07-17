@@ -1,6 +1,6 @@
 # Makadsi
 
-Makadsi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Makadsi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Brussels and Ibiza and 7 more. Often billed alongside Sterling Juan Diaz, Dangerous Rose and FASHION (US). Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Makadsi is a house and techno artist based in Lebanon, tracked on soundcheck, wi
 
 Sterling Juan Diaz, Dangerous Rose, FASHION (US)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/makadsi/)*

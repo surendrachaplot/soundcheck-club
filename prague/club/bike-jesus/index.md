@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "WELLWET w / Rigopolar (Live)" on Fri, 17 Jul 2026.
+Bike Jesus is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "WELLWET w / Rigopolar (Live)" on Fri, 17 Jul 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including ANĪC, Ark3r, AVHD and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -21,4 +21,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

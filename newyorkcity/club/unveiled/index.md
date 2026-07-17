@@ -1,6 +1,6 @@
 # Unveiled
 
-Unveiled is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "GOOD BOY" on Fri, 17 Jul 2026.
+Unveiled is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GOOD BOY" on Fri, 17 Jul 2026.
 
 Unveiled is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including LOFTUS, Pablo Fierro, Ryan Farr and T-Puse. Browse upcoming dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
 
@@ -17,4 +17,4 @@ Unveiled is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 94 n 13th st, brooklyn, NY 11249, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*

@@ -1,6 +1,6 @@
 # Cormac
 
-Cormac is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Cormac is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Cormac is a house and disco artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Cormac is a house and disco artist tracked on soundcheck, with 168 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cormac/)*

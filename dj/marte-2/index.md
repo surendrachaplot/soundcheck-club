@@ -1,6 +1,6 @@
 # Marte (US)
 
-Marte (US) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Corner, Miami on Fri, 17 Jul 2026.
+Marte (US) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Corner, Miami on Fri, 17 Jul 2026.
 
 Marte (US) is a house and tech house artist tracked on soundcheck, with 50 sets logged across Chicago, Losangeles and Miami. Often billed alongside SATURNSARii, 1-800-Lolita and XANA (US). Next up: The Corner, Miami on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Marte (US) is a house and tech house artist tracked on soundcheck, with 50 sets 
 
 SATURNSARii, 1-800-Lolita, XANA (US)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marte-2/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marte-2/)*

@@ -1,6 +1,6 @@
 # Reelow
 
-Reelow is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gallery, London on Thu, 23 Jul 2026.
+Reelow is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Gallery, London on Thu, 23 Jul 2026.
 
 Reelow is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: Gallery, London on Thu 23 Jul.
 
@@ -28,4 +28,4 @@ Reelow is a tech house and house artist tracked on soundcheck, with 72 sets logg
 
 ACA (YU), Sadkiel, Mene
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reelow/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reelow/)*

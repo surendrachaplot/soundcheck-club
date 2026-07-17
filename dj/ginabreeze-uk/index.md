@@ -1,6 +1,6 @@
 # Gina Breeze
 
-Gina Breeze is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 25 Jul 2026.
+Gina Breeze is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Freight Island Newcastle, Newcastle on Sat, 25 Jul 2026.
 
 Gina Breeze is a house and disco artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Bristol and Edinburgh and 6 more. Often billed alongside Jamie Bull, Horse Meat Disco and Erol Alkan. Next up: Freight Island Newcastle, Newcastle on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Gina Breeze is a house and disco artist based in United Kingdom, tracked on soun
 
 Jamie Bull, Horse Meat Disco, Erol Alkan
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ginabreeze-uk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ginabreeze-uk/)*

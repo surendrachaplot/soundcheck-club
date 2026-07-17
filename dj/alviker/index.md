@@ -1,6 +1,6 @@
 # Alviker
 
-Alviker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Ostkreuz, Berlin on Fri, 17 Jul 2026.
+Alviker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Ostkreuz, Berlin on Fri, 17 Jul 2026.
 
 Alviker is a techno and trance artist based in Spain, tracked on soundcheck, with 70 sets logged across Bangkok, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Reitze, ISA (ES) and Alputo. Next up: TBA - Ostkreuz, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Alviker is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Reitze, ISA (ES), Alputo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*

@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "GOODLIFE feat. Risa Taniguchi" on Sun, 19 Jul 2026.
+Joule is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GOODLIFE feat. Risa Taniguchi" on Sun, 19 Jul 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including ALESSA(JP), Astro aka Akihisa Takahashi, Ezequiel Arias and Goodrug and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -19,4 +19,4 @@ Joule is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with li
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

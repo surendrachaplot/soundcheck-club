@@ -1,6 +1,6 @@
 # Hafenbar Berlin
 
-Hafenbar Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Stimmen in Aspik - Die Schlager-Party" on Fri, 17 Jul 2026.
+Hafenbar Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Stimmen in Aspik - Die Schlager-Party" on Fri, 17 Jul 2026.
 
 Hafenbar Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 11, 10178 Berlin.
 
@@ -17,4 +17,4 @@ Hafenbar Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nigh
 
 Karl-Liebknecht-Str. 11, 10178 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hafenbar-berlin/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hafenbar-berlin/)*

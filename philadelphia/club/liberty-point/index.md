@@ -1,6 +1,6 @@
 # Liberty Point
 
-Liberty Point is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Best Sunday Ever w. Radio Fresca, Sundae, & Subsurface" on Sun, 19 Jul 2026.
+Liberty Point is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Best Sunday Ever w. Radio Fresca, Sundae, & Subsurface" on Sun, 19 Jul 2026.
 
 Liberty Point is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Ben Arsenal, Andi, Francisco Collazo and G I N A and 2 more. Browse upcoming dates, start times and who's playing. 211 S Christopher Columbus Blvd, Philadelphia, PA 19106.
 
@@ -16,4 +16,4 @@ Liberty Point is a music venue in Philadelphia listed on soundcheck. 3 upcoming 
 
 211 S Christopher Columbus Blvd, Philadelphia, PA 19106, Philadelphia
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/liberty-point/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/liberty-point/)*

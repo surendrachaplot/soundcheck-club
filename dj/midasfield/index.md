@@ -1,6 +1,6 @@
 # Midas Field
 
-Midas Field is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Wigwam, Dublin on Fri, 17 Jul 2026.
+Midas Field is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Wigwam, Dublin on Fri, 17 Jul 2026.
 
 Midas Field is a house and garage artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Dam Swindle, Kellie Allen and Merel Helderman. Next up: Wigwam, Dublin on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Midas Field is a house and garage artist based in Netherlands, tracked on soundc
 
 Dam Swindle, Kellie Allen, Merel Helderman
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midasfield/)*

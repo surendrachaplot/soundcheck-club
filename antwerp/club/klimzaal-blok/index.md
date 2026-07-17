@@ -1,6 +1,6 @@
 # Klimzaal Blok
 
-Klimzaal Blok is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Qedemawi in Session #1" on Sat, 18 Jul 2026.
+Klimzaal Blok is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Qedemawi in Session #1" on Sat, 18 Jul 2026.
 
 Klimzaal Blok is a music venue in Antwerp listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. IJskelderstraat 12/1, 2660 Antwerpen.
 
@@ -14,4 +14,4 @@ Klimzaal Blok is a music venue in Antwerp listed on soundcheck. 1 upcoming night
 
 IJskelderstraat 12/1, 2660 Antwerpen, Antwerp
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/klimzaal-blok/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/klimzaal-blok/)*

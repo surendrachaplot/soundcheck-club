@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "HoldTurbina with Bagocs, SLYM, szoliver, Gilbert Pomelo, Pizza Amore" on Fri, 17 Jul 2026.
+Turbina is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "HoldTurbina with Bagocs, SLYM, szoliver, Gilbert Pomelo, Pizza Amore" on Fri, 17 Jul 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including AGA2L, CRIME, Cvrdwell and Galactic Jackson and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -19,4 +19,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

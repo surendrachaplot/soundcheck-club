@@ -1,6 +1,6 @@
 # olesia
 
-olesia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
+olesia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Razzmatazz, Barcelona on Sat, 1 Aug 2026.
 
 olesia is a techno and trance artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Melati, THEMPRESS and Donnie Sunshine. Next up: Razzmatazz, Barcelona on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ olesia is a techno and trance artist tracked on soundcheck, with 51 sets logged 
 
 Melati, THEMPRESS, Donnie Sunshine
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*

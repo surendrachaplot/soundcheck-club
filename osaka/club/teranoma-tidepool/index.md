@@ -1,6 +1,6 @@
 # Teranoma Tidepool
 
-Teranoma Tidepool is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "MINT" on Sat, 18 Jul 2026.
+Teranoma Tidepool is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "MINT" on Sat, 18 Jul 2026.
 
 Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including CHISE, DJ SPOT, H'de and Koji Nakamura and 2 more. Browse upcoming dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
 
@@ -20,4 +20,4 @@ Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 7 upcoming nig
 
 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F, Osaka
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*

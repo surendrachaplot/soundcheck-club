@@ -1,14 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "HARD BOUNCE [Guirao & Nmb 2000]" on Thu, 16 Jul 2026.
+M7 Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ARAÑA CLUB [Santi Aranya, Acid Rats, Julia olf, Rowsi, Paulix, Gigi D'Amico]" on Fri, 17 Jul 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Adviro, Aleman Beatz, ArceX and Beto Delgado and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Adviro, Aleman Beatz, ArceX and Beto Delgado and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | HARD BOUNCE [Guirao & Nmb 2000] |  |
 | Fri, 17 Jul 2026 | ARAÑA CLUB [Santi Aranya, Acid Rats, Julia olf, Rowsi, Paulix, Gigi D'Amico] | Gigi D'Amico, Rowsi, Santi Aranya |
 | Sat, 18 Jul 2026 | HARD BOUNCE [ArceX, Laura SN & Marc FX] | ArceX |
 | Sun, 19 Jul 2026 | UNITY [Karel Blade & DIDIXX] | DIDIXX, KARELBLADE |
@@ -18,9 +17,10 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, 
 | Sun, 26 Jul 2026 | UNITY [Estrada & Sergi Bdv] |  |
 | Thu, 30 Jul 2026 | HARD BOUNCE [Lulo Obetko & Marc Fx] |  |
 | Fri, 31 Jul 2026 | M7 [Debbie, Neela & Claudixx] [Doppeltes Lottchen, Paulix & Laura SN] | DEBBIE (IT) |
+| Sat, 1 Aug 2026 | Psychotik, SuttleK, Darkcutz, Baph0999, Karel Blade & DIDIXX | DIDIXX, KARELBLADE, SuttleK |
 
 ## Address
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

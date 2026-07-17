@@ -1,6 +1,6 @@
 # Jubei
 
-Jubei is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
+Jubei is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Gretchen, Berlin on Sat, 8 Aug 2026.
 
 Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Basel, Berlin, Brighton and Bristol and 6 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Gretchen, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 SP:MC, DJ Flight, Breakage
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jubei/)*

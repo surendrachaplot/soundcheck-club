@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Scala with Caro - Ferro - Lori - Pascal Benjamin - Wodda (UK)" on Fri, 17 Jul 2026.
+Het Sieraad is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Scala with Caro - Ferro - Lori - Pascal Benjamin - Wodda (UK)" on Fri, 17 Jul 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Ammé, Corren Cavini, Deeparture and Ferro and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -20,4 +20,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 7 upcoming night
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

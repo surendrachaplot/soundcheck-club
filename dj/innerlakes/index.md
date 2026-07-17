@@ -1,6 +1,6 @@
 # Inner Lakes
 
-Inner Lakes is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Asd Laghi Carcana, Milan on Sat, 18 Jul 2026.
+Inner Lakes is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Asd Laghi Carcana, Milan on Sat, 18 Jul 2026.
 
 Inner Lakes is a techno and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Enrico Vivaldi, GNMR and Pabie. Next up: Asd Laghi Carcana, Milan on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Inner Lakes is a techno and electro artist tracked on soundcheck, with 86 sets l
 
 Enrico Vivaldi, GNMR, Pabie
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*

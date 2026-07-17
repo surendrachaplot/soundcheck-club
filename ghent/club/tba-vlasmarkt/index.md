@@ -1,6 +1,6 @@
 # TBA - Vlasmarkt
 
-TBA - Vlasmarkt is a music venue in Ghent with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Grote Ontsluitning - Openingsceremonie - Dag 1" on Fri, 17 Jul 2026.
+TBA - Vlasmarkt is a music venue in Ghent with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Grote Ontsluitning - Openingsceremonie - Dag 1" on Fri, 17 Jul 2026.
 
 TBA - Vlasmarkt is a music venue in Ghent listed on soundcheck. 6 upcoming nights, with line-ups including Dimitri Cooman, Dj Licious, DJLOU and Doreen Van Steen and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Vlasmarkt is a music venue in Ghent listed on soundcheck. 6 upcoming night
 | Fri, 24 Jul 2026 | Vrij-dag - dag 8 |  |
 | Sat, 25 Jul 2026 | Saturday Knights - dag 9 | Fonkituur, His dudeness, Kenny Montana, Thang |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-vlasmarkt/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-vlasmarkt/)*

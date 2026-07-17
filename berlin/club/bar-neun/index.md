@@ -1,6 +1,6 @@
 # Bar Neun
 
-Bar Neun is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "THE GET DOWN with Mandel Turner, Balthazar Martinez + Special Guests" on Fri, 24 Jul 2026.
+Bar Neun is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "THE GET DOWN with Mandel Turner, Balthazar Martinez + Special Guests" on Fri, 24 Jul 2026.
 
 Bar Neun is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including aemlx, Balthazar Martinez, Calamidades Lola and eNμ (1) and 2 more. Browse upcoming dates, start times and who's playing. Pücklerstraße 34, 10997 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Bar Neun is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wit
 
 Pücklerstraße 34, 10997 Berlin, Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*

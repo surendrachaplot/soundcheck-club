@@ -1,6 +1,6 @@
 # Unit 1
 
-Unit 1 is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Jumunjy: Benny L, Shimon & Leaf" on Sun, 23 Aug 2026.
+Unit 1 is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Jumunjy: Benny L, Shimon & Leaf" on Sun, 23 Aug 2026.
 
 Unit 1 is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Benny L, Shimon and Trimer. Browse upcoming dates, start times and who's playing. White Post Lane, LONDON, E9 5EN.
 
@@ -14,4 +14,4 @@ Unit 1 is a music venue in London listed on soundcheck. 1 upcoming night, with l
 
 White Post Lane, LONDON, E9 5EN, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-1/)*

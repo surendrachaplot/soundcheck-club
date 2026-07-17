@@ -1,6 +1,6 @@
 # Roxy
 
-Roxy is a music venue in Prague with 20 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "MAINSTAGE PARTY ∞ ROXY Prague" on Fri, 17 Jul 2026.
+Roxy is a music venue in Prague with 20 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "MAINSTAGE PARTY ∞ ROXY Prague" on Fri, 17 Jul 2026.
 
 Roxy is a music venue in Prague listed on soundcheck. 20 upcoming nights, with line-ups including Andy C, Arton (CZ), AVHD and Axis Alpha and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 20 upcoming nights, with l
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

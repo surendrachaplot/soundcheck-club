@@ -1,6 +1,6 @@
 # Dub Isotope
 
-Dub Isotope is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Drugstore im Rockhaus, Berlin on Sat, 25 Jul 2026.
+Dub Isotope is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Drugstore im Rockhaus, Berlin on Sat, 25 Jul 2026.
 
 Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 48 sets logged across Berlin. Often billed alongside Migz, Upzet and Dj Quien. Next up: Drugstore im Rockhaus, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Dub Isotope is a drum & bass and bass artist tracked on soundcheck, with 48 sets
 
 Migz, Upzet, Dj Quien
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*

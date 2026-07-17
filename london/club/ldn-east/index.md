@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Club Tales: Luke Una (All Day Long) presents É Soul Cultura" on Sat, 18 Jul 2026.
+LDN East is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Club Tales: Luke Una (All Day Long) presents É Soul Cultura" on Sat, 18 Jul 2026.
 
 LDN East is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Crazy P, Diana Bravo, DJ Cosworth and Jarreau Vandal and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -22,4 +22,4 @@ LDN East is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

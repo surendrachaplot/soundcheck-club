@@ -1,6 +1,6 @@
 # Marina Sur
 
-Marina Sur is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Adam Port - KEINEMUSIK" on Sun, 19 Jul 2026.
+Marina Sur is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Adam Port - KEINEMUSIK" on Sun, 19 Jul 2026.
 
 Marina Sur is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including Adam Port. Browse upcoming dates, start times and who's playing. Marina Sur, 46011 Valencia.
 
@@ -14,4 +14,4 @@ Marina Sur is a music venue in Valencia listed on soundcheck. 1 upcoming night, 
 
 Marina Sur, 46011 Valencia, Valencia
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/marina-sur/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/marina-sur/)*

@@ -1,6 +1,6 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Motel ✰ Fadi Mohem" on Sat, 18 Jul 2026.
+Motel Campo is a music venue in Geneva with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Motel ✰ Fadi Mohem" on Sat, 18 Jul 2026.
 
 Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming nights, with line-ups including Agonis, Audrey Danza, Danny Daze and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
@@ -20,4 +20,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming nights, 
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

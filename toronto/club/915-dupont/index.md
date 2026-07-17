@@ -1,6 +1,6 @@
 # 915 Dupont
 
-915 Dupont is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "GOTSOUL SESSIONS - 915 EDITION" on Fri, 17 Jul 2026.
+915 Dupont is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GOTSOUL SESSIONS - 915 EDITION" on Fri, 17 Jul 2026.
 
 915 Dupont is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Alister Johnson, Dinamo Azari, John Kong and Jojoflores and 2 more. Browse upcoming dates, start times and who's playing. 915 Dupont Street, Toronto, ON M6H 1Z1, Canada.
 
@@ -19,4 +19,4 @@
 
 915 Dupont Street, Toronto, ON M6H 1Z1, Canada, Toronto
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*

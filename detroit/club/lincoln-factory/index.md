@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Gino, Botez, Nathan Maxwell" on Fri, 17 Jul 2026.
+Lincoln Factory is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Gino, Botez, Nathan Maxwell" on Fri, 17 Jul 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Botez, britty., Disc Jockey George and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -19,4 +19,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 6 upcoming nig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

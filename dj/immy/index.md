@@ -1,14 +1,13 @@
 # Immy
 
-Immy is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Immy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Phantom Bar Berlin, Berlin on Thu, 23 Jul 2026.
 
-Immy is a house and techno artist tracked on soundcheck, with 93 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Immy is a house and techno artist tracked on soundcheck, with 93 sets logged across Berlin, Brussels, Cologne and Copenhagen and 3 more. Often billed alongside Triqi, DJ NORTHERN and Jana Falcon. Next up: Phantom Bar Berlin, Berlin on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Thu, 23 Jul 2026 | Phantom Bar Berlin | Berlin |
 | Sat, 25 Jul 2026 | ÆDEN x MARMORBAR: Fields & Spaces | Berlin |
 | Sat, 25 Jul 2026 | Kater | Berlin |
@@ -18,6 +17,7 @@ Immy is a house and techno artist tracked on soundcheck, with 93 sets logged acr
 
 ## Recently played
 
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Prince Charles, Berlin — Sat, 13 Jun 2026
 - ASIAT Park, Brussels — Thu, 14 May 2026
 - KitKatClub, Berlin — Fri, 8 May 2026
@@ -25,10 +25,9 @@ Immy is a house and techno artist tracked on soundcheck, with 93 sets logged acr
 - Else, Berlin — Fri, 1 May 2026
 - ., Berlin — Sat, 18 Apr 2026
 - Fitzroy, Berlin — Sun, 29 Mar 2026
-- Gewölbe, Cologne — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Triqi, DJ NORTHERN, Jana Falcon
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/immy/)*

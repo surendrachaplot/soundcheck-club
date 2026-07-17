@@ -1,6 +1,6 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at public records, New York City on Fri, 24 Jul 2026.
+Tauceti (FR) is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at public records, New York City on Fri, 24 Jul 2026.
 
 Tauceti (FR) is a techno and experimental artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Tommy Four Seven, Kangding Ray and Ben Klock. Next up: public records, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Tauceti (FR) is a techno and experimental artist tracked on soundcheck, with 66 
 
 Tommy Four Seven, Kangding Ray, Ben Klock
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

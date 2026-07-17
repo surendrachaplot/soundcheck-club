@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "All Styles All Smiles: Anya & DVDE" on Thu, 16 Jul 2026.
+Lux Fragil is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "VISCERAL: HNRQ invites Mano Le Tough, Kierastoboy, Afonso Peixoto" on Fri, 17 Jul 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including Afonso Peixoto, Alaya (PT), Analodjica and Anya (FR) and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including Afonso Peixoto, Alaya (PT), Analodjica and Armanda and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | All Styles All Smiles: Anya & DVDE | Anya (FR), DVDE, Varela |
 | Fri, 17 Jul 2026 | VISCERAL: HNRQ invites Mano Le Tough, Kierastoboy, Afonso Peixoto | Afonso Peixoto, HNRQ (2), Kierastoboy, Mano Le Tough, Switchdance |
 | Sat, 18 Jul 2026 | Carl Craig, Chima Isaaro, Soos, NVNO, Alaya Sunsets | Alaya (PT), Carl Craig, Chima Isaaro, Jo.Ke, Magupi, Soos |
 | Thu, 23 Jul 2026 | ILEKTRONIK SANGEET | Khalil Suleman, Kulas, XCI |
@@ -23,4 +22,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, 
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

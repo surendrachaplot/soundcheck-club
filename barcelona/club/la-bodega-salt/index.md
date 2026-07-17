@@ -1,6 +1,6 @@
 # La Bodega Saltó
 
-La Bodega Saltó is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "La Portenya y los Piratas in Concert at Fiesta Mayor del Poblesec" on Sat, 25 Jul 2026.
+La Bodega Saltó is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "La Portenya y los Piratas in Concert at Fiesta Mayor del Poblesec" on Sat, 25 Jul 2026.
 
 La Bodega Saltó is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ La Bodega Saltó is a music venue in Barcelona listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | La Portenya y los Piratas in Concert at Fiesta Mayor del Poblesec |  |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-bodega-salt/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-bodega-salt/)*

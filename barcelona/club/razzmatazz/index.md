@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "RAZZCLUBS: Mainline Club: PPJ + Casa Pepa x Gallery: Secret Guest " on Fri, 17 Jul 2026.
+Razzmatazz is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "RAZZCLUBS: Mainline Club: PPJ + Casa Pepa x Gallery: Secret Guest " on Fri, 17 Jul 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including Aemilius, Aleman Beatz, Alírio and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 16 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

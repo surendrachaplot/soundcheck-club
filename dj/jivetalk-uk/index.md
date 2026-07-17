@@ -1,6 +1,6 @@
 # Jive Talk
 
-Jive Talk is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
+Jive Talk is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
 
 Jive Talk is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Brighton, Bristol and Brussels and 7 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: Gaffe, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jive Talk is a house and tech house artist tracked on soundcheck, with 66 sets l
 
 Just Jam, Lulah Francs, Trixie (UK)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jivetalk-uk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jivetalk-uk/)*

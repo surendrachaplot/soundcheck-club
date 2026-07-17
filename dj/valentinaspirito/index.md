@@ -1,6 +1,6 @@
 # Valentina Spirito
 
-Valentina Spirito is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Valentina Spirito is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Valentina Spirito is a techno and electronica artist tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenosaires and Leipzig and 5 more. Often billed alongside Manu Calmet, Bermani and DJ LOUI FROM JUPITER4. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Valentina Spirito is a techno and electronica artist tracked on soundcheck, with
 
 Manu Calmet, Bermani, DJ LOUI FROM JUPITER4
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinaspirito/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinaspirito/)*

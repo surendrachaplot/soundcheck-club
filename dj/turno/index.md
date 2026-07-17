@@ -1,6 +1,6 @@
 # Turno
 
-Turno is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Turno is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
 Turno is a drum & bass and jungle artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Bangkok and Birmingham and 23 more. Often billed alongside Hedex, Bou (UK) and BassLayerz. Next up: Boston Manor Park, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Turno is a drum & bass and jungle artist tracked on soundcheck, with 67 sets log
 
 Hedex, Bou (UK), BassLayerz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/turno/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/turno/)*

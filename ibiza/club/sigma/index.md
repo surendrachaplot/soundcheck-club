@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Makino x INTABEATS with Bailey, Ben Westbeech, Rosie Riot & Kieron [Drum & Bass]" on Fri, 17 Jul 2026.
+Sigma is a music venue in Ibiza with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Makino x INTABEATS with Bailey, Ben Westbeech, Rosie Riot & Kieron [Drum & Bass]" on Fri, 17 Jul 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with line-ups including Anabel Arroyo, Bailey (UK), Ben Westbeech and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -18,4 +18,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 5 upcoming nights, with li
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

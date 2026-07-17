@@ -1,6 +1,6 @@
 # Parc Nou. El Prat de Llobregat
 
-Parc Nou. El Prat de Llobregat is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SOUNDIT Festival 17-18 July 2026" on Fri, 17 Jul 2026.
+Parc Nou. El Prat de Llobregat is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SOUNDIT Festival 17-18 July 2026" on Fri, 17 Jul 2026.
 
 Parc Nou. El Prat de Llobregat is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including 2ManyDJs, Atrice, B12 and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. Ronda Sud, 08820 El Prat de Llobregat, Barcelona.
 
@@ -15,4 +15,4 @@ Parc Nou. El Prat de Llobregat is a music venue in Barcelona listed on soundchec
 
 Ronda Sud, 08820 El Prat de Llobregat, Barcelona, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-nou-el-prat-de-llobregat/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-nou-el-prat-de-llobregat/)*

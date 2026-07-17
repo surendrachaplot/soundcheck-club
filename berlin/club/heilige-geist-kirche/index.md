@@ -1,6 +1,6 @@
 # Heilige-Geist-Kirche
 
-Heilige-Geist-Kirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Kiezsalon with Harry Gorski-Brown, Balladeste and Tristan Perich" on Fri, 11 Sept 2026.
+Heilige-Geist-Kirche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Kiezsalon with Harry Gorski-Brown, Balladeste and Tristan Perich" on Fri, 11 Sept 2026.
 
 Heilige-Geist-Kirche is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Perleberger Str. 36 in 10559 Berlin.
 
@@ -14,4 +14,4 @@ Heilige-Geist-Kirche is a music venue in Berlin listed on soundcheck. 1 upcoming
 
 Perleberger Str. 36 in 10559 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/heilige-geist-kirche/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/heilige-geist-kirche/)*

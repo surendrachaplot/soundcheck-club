@@ -1,6 +1,6 @@
 # Amelia Leigh
 
-Amelia Leigh is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Rose & Monkey, Manchester on Sat, 18 Jul 2026.
+Amelia Leigh is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Rose & Monkey, Manchester on Sat, 18 Jul 2026.
 
 Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 4 more. Often billed alongside NEENZY (UK), Sweetly and DJ BootyShake. Next up: The Rose & Monkey, Manchester on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Amelia Leigh is a jungle and garage artist based in United Kingdom, tracked on s
 
 NEENZY (UK), Sweetly, DJ BootyShake
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelialeigh/)*

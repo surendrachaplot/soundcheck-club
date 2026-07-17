@@ -1,6 +1,6 @@
 # Ge-ology
 
-Ge-ology is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Signal, New York City on Sun, 26 Jul 2026.
+Ge-ology is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Signal, New York City on Sun, 26 Jul 2026.
 
 Ge-ology is a house and disco artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Chicago and 20 more. Often billed alongside Cosmo (NY), Disgonuts and Aaron Dae. Next up: Signal, Newyorkcity on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Ge-ology is a house and disco artist tracked on soundcheck, with 80 sets logged 
 
 Cosmo (NY), Disgonuts, Aaron Dae
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ge-ology/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ge-ology/)*

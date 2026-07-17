@@ -1,6 +1,6 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nowadays, New York City on Fri, 17 Jul 2026.
+Dillinja is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Nowadays, New York City on Fri, 17 Jul 2026.
 
 Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Nowadays, Newyorkcity on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 107 sets
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

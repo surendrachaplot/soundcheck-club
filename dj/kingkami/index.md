@@ -1,6 +1,6 @@
 # King Kami
 
-King Kami is a House and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Outra Cena, Lisbon on Fri, 17 Jul 2026.
+King Kami is a House and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Outra Cena, Lisbon on Fri, 17 Jul 2026.
 
 King Kami is a house and hard drum artist based in Brazil, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Bristol and Brussels and 7 more. Often billed alongside Nick León, BANU (2) and NOIA. Next up: Outra Cena, Lisbon on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ King Kami is a house and hard drum artist based in Brazil, tracked on soundcheck
 
 Nick León, BANU (2), NOIA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkami/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kingkami/)*

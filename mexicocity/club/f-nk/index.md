@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Saundo Studio x Fünk" on Thu, 16 Jul 2026.
+Fünk is a music venue in Mexico City with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Z@p + Dj Proxy + Trashy Sounds" on Fri, 17 Jul 2026.
 
-Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Alfredo Ávila and Barbara Alvarez and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexicocity listed on soundcheck. 12 upcoming nights, with line-ups including Alena Vox, Alexis Yasky, Alfredo Ávila and Barbara Alvarez and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Saundo Studio x Fünk | Coast2c |
 | Fri, 17 Jul 2026 | Z@p + Dj Proxy + Trashy Sounds | Z@p |
 | Sat, 18 Jul 2026 | Yamagucci + Rafatel + Labibe | Rafatel, Yamagucci |
 | Thu, 23 Jul 2026 | Fiesta Exquisita x Fünk | DJ Detektiv, Itzvan, moog-lee |
@@ -18,9 +17,10 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, w
 | Thu, 30 Jul 2026 | Concilio x Fünk | Alexis Yasky, Daniel Bukara, Harfush, Rubinskee |
 | Fri, 31 Jul 2026 | Dance Your Name x Fünk | Fig (DYN), Gog, Vanilla Storm, rodman |
 | Sat, 1 Aug 2026 | Egyptian Lover + TBA | Egyptian Lover |
+| Thu, 6 Aug 2026 | Disco Dust x Fünk | Alena Vox, Duke Skylocker (Disco Dust), Miss Voltaghe, Nico Jean |
 
 ## Address
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

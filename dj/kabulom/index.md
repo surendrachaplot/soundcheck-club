@@ -1,6 +1,6 @@
 # Kabulom
 
-Kabulom is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Kabulom is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Kabulom is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin, Leipzig, Lisbon and Saopaulo. Often billed alongside OMOLOKO, Paulete Lindacelva and BADSISTA. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Kabulom is a house and techno artist tracked on soundcheck, with 19 sets logged 
 
 OMOLOKO, Paulete Lindacelva, BADSISTA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kabulom/)*

@@ -1,6 +1,6 @@
 # HSTN
 
-HSTN is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
+HSTN is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
 
 HSTN is a house and garage artist based in Australia, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside RYLO (UK), imad:re and D-LIA. Next up: Cupra City Garage Manchester, Manchester on Fri 17 Jul.
 
@@ -25,4 +25,4 @@ HSTN is a house and garage artist based in Australia, tracked on soundcheck, wit
 
 RYLO (UK), imad:re, D-LIA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*

@@ -1,6 +1,6 @@
 # MOODYBOOM
 
-MOODYBOOM is a Techno and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Siwilai Radical Club, Bangkok on Sat, 18 Jul 2026.
+MOODYBOOM is a Techno and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Siwilai Radical Club, Bangkok on Sat, 18 Jul 2026.
 
 MOODYBOOM is a techno and minimal artist tracked on soundcheck, with 116 sets logged across Bali and Bangkok. Often billed alongside Kunanon, IYY (TH) and Jayja. Next up: Siwilai Radical Club, Bangkok on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ MOODYBOOM is a techno and minimal artist tracked on soundcheck, with 116 sets lo
 
 Kunanon, IYY (TH), Jayja
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyboom/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyboom/)*

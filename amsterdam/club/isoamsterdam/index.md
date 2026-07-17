@@ -1,6 +1,6 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Zeedyke Sloterdyke Edition" on Sat, 25 Jul 2026.
+ISOamsterdam is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Zeedyke Sloterdyke Edition" on Sat, 25 Jul 2026.
 
 ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Comrade Winston, Dave Harvey, DJ Koolt and DJ Masda and 2 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
 
@@ -19,4 +19,4 @@ ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 6 upcoming nigh
 
 Isolatorweg 17, Amsterdam
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*

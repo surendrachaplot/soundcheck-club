@@ -1,14 +1,13 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Trädgården, Stockholm on Thu, 16 Jul 2026.
+X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
 
-X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: Trädgården, Stockholm on Thu 16 Jul.
+X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: La Terrrazza, Barcelona on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Trädgården | Stockholm |
 | Sat, 18 Jul 2026 | La Terrrazza | Barcelona |
 | Fri, 31 Jul 2026 | Brooklyn Army Terminal | New York City |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
@@ -23,6 +22,7 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged
 
 ## Recently played
 
+- Trädgården, Stockholm — Thu, 16 Jul 2026
 - Amnesia Ibiza, Ibiza — Mon, 13 Jul 2026
 - Holland Park, Vancouver — Fri, 3 Jul 2026
 - Mondo Open Air, Madrid — Sat, 27 Jun 2026
@@ -30,10 +30,9 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged
 - Kalle Rooftop Neukölln, Berlin — Sat, 20 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
 - Zuiderpark, The Hague — Sat, 6 Jun 2026
-- Russell Industrial Center, Detroit — Mon, 25 May 2026
 
 ## Shares bills with
 
 KETTAMA, VTSS, DJ Heartstring
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

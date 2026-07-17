@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Full House feat. panhandle slim, Lerma & INNEZZ" on Sat, 18 Jul 2026.
+Platform9 is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Full House feat. panhandle slim, Lerma & INNEZZ" on Sat, 18 Jul 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 5 upcoming nights, with line-ups including AVRY, AWood, Cenk Saraç and DJ dood and 2 more. Browse upcoming dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -18,4 +18,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 5 upcoming nights,
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

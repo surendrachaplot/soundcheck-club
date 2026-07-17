@@ -1,6 +1,6 @@
 # Nadim Maghzal
 
-Nadim Maghzal is a Electro and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ausgang Plaza, Montreal on Fri, 17 Jul 2026.
+Nadim Maghzal is a Electro and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ausgang Plaza, Montreal on Fri, 17 Jul 2026.
 
 Nadim Maghzal is an electro and pop artist tracked on soundcheck, with 43 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Saphe and Fatin. Next up: Ausgang Plaza, Montreal on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Nadim Maghzal is an electro and pop artist tracked on soundcheck, with 43 sets l
 
 MNSA, Saphe, Fatin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*

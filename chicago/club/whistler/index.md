@@ -1,6 +1,6 @@
 # Whistler
 
-Whistler is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Buen Viaje feat. J. Copes" on Fri, 17 Jul 2026.
+Whistler is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Buen Viaje feat. J. Copes" on Fri, 17 Jul 2026.
 
 Whistler is a music venue in Chicago listed on soundcheck. 4 upcoming nights, with line-ups including Buen Viaje, jamea., J. Copes and Please (1) and 2 more. Browse upcoming dates, start times and who's playing. 2421 N. Milwaukee Avenue, Chicago, IL  60647.
 
@@ -17,4 +17,4 @@ Whistler is a music venue in Chicago listed on soundcheck. 4 upcoming nights, wi
 
 2421 N. Milwaukee Avenue, Chicago, IL  60647, Chicago
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/whistler/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/whistler/)*

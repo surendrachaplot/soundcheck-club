@@ -1,6 +1,6 @@
 # Ko Kimura
 
-Ko Kimura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Deus Ex Machina Harajuku, Tokyo on Sat, 18 Jul 2026.
+Ko Kimura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Deus Ex Machina Harajuku, Tokyo on Sat, 18 Jul 2026.
 
 Ko Kimura is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Osaka and Tokyo. Often billed alongside KIMURA, AMG SAIMURA (TECHVANE) and DJ Emma. Next up: Deus Ex Machina Harajuku, Tokyo on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Ko Kimura is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 KIMURA, AMG SAIMURA (TECHVANE), DJ Emma
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*

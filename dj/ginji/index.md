@@ -1,6 +1,6 @@
 # Ginji
 
-Ginji is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at SHeLTeR, Tokyo on Fri, 24 Jul 2026.
+Ginji is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at SHeLTeR, Tokyo on Fri, 24 Jul 2026.
 
 Ginji is a bass and experimental artist based in Japan, tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside KIMURA, AKIRAM EN and SAKO. Next up: SHeLTeR, Tokyo on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Ginji is a bass and experimental artist based in Japan, tracked on soundcheck, w
 
 KIMURA, AKIRAM EN, SAKO
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ginji/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ginji/)*

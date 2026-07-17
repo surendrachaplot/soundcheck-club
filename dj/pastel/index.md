@@ -1,6 +1,6 @@
 # Pastel
 
-Pastel is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nido Marseille, Marseille on Fri, 17 Jul 2026.
+Pastel is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Nido Marseille, Marseille on Fri, 17 Jul 2026.
 
 Pastel is a house and electro artist based in France, tracked on soundcheck, with 26 sets logged across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Cess and Gabriel Belabbas. Next up: Nido Marseille, Marseille on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Pastel is a house and electro artist based in France, tracked on soundcheck, wit
 
 ABI (FR), Cess, Gabriel Belabbas
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*

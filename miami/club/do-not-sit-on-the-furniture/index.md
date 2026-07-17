@@ -1,14 +1,13 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 23 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Secret Thursdays" on Thu, 16 Jul 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 22 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Jimpster [Freerange Records]" on Fri, 17 Jul 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 23 upcoming nights, with line-ups including baez, DAVI, Eli Nissan and Gadi Mitrani and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 upcoming nights, with line-ups including baez, DAVI, Eli Nissan and Gadi Mitrani and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Secret Thursdays |  |
 | Fri, 17 Jul 2026 | Jimpster [Freerange Records] | Jimpster, baez |
 | Sat, 18 Jul 2026 | Lisandro [The Soundgarden / Hoomidaas] |  |
 | Thu, 23 Jul 2026 | Organic House Rules | Jessy Nimni, Sebastian Morxx |
@@ -18,9 +17,10 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 23 u
 | Fri, 31 Jul 2026 | Lumia | DAVI, Lumia |
 | Sat, 1 Aug 2026 | Musumeci  | Musumeci |
 | Fri, 7 Aug 2026 | Shan Nash | Shan Nash |
+| Sat, 8 Aug 2026 | Gadi Mitrani | Gadi Mitrani |
 
 ## Address
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

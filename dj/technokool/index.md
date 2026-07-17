@@ -1,6 +1,6 @@
 # Technokool
 
-Technokool is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Arzenal, Budapest on Fri, 17 Jul 2026.
+Technokool is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Arzenal, Budapest on Fri, 17 Jul 2026.
 
 Technokool is a techno and trance artist tracked on soundcheck, with 124 sets logged across Belgrade, Berlin, Brussels and Budapest and 12 more. Often billed alongside Akác, Kamafaka and CRIME. Next up: Arzenal, Budapest on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Technokool is a techno and trance artist tracked on soundcheck, with 124 sets lo
 
 Akác, Kamafaka, CRIME
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*

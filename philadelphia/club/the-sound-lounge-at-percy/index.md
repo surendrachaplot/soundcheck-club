@@ -1,14 +1,13 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Spatial Awareness - Shang" on Thu, 16 Jul 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FRONT STREET CLASH WITH DJ QUIKDISH" on Fri, 17 Jul 2026.
 
-The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 8 upcoming nights, with line-ups including ADAB, Furtive, Shang and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
+The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 7 upcoming nights, with line-ups including ADAB, Furtive and Skeme Richards. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Spatial Awareness - Shang | Shang |
 | Fri, 17 Jul 2026 | FRONT STREET CLASH WITH DJ QUIKDISH |  |
 | Sat, 18 Jul 2026 | Harlan Levine at The Sound Lounge |  |
 | Thu, 23 Jul 2026 | Spatial Awareness - BiLla |  |
@@ -21,4 +20,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

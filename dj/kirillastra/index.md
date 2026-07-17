@@ -1,6 +1,6 @@
 # Kirill Astra
 
-Kirill Astra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Groove Bar, Prague on Fri, 17 Jul 2026.
+Kirill Astra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Groove Bar, Prague on Fri, 17 Jul 2026.
 
 Kirill Astra is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Prague and Vienna. Often billed alongside Denny Krygr, Lucas Hulan and Alex Neivel. Next up: Groove Bar, Prague on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kirill Astra is a techno and house artist tracked on soundcheck, with 65 sets lo
 
 Denny Krygr, Lucas Hulan, Alex Neivel
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*

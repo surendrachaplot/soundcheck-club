@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Drumcell / Stephanie Sykes / threehz / The Carry Nation / x3butterfly / Matas" on Fri, 17 Jul 2026.
+BASEMENT is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Drumcell / Stephanie Sykes / threehz / The Carry Nation / x3butterfly / Matas" on Fri, 17 Jul 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Altinbas, Analog Soul, Annie Lew and Auspex and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 11 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

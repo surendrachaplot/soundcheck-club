@@ -1,6 +1,6 @@
 # Raketka
 
-Raketka is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Club 1847 1 Edward Anseeleplein 9000 Gent, Ghent on Tue, 21 Jul 2026.
+Raketka is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Club 1847 1 Edward Anseeleplein 9000 Gent, Ghent on Tue, 21 Jul 2026.
 
 Raketka is a techno and acid artist based in Poland, tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Ghent and Madrid and 2 more. Often billed alongside Salat, BUDZKO and Lady Vusumzi. Next up: TBA - Club 1847 1 Edward Anseeleplein 9000 Gent, Ghent on Tue 21 Jul.
 
@@ -27,4 +27,4 @@ Raketka is a techno and acid artist based in Poland, tracked on soundcheck, with
 
 Salat, BUDZKO, Lady Vusumzi
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raketka/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raketka/)*

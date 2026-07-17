@@ -1,6 +1,6 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Starlane Pizza Bar, London on Sun, 19 Jul 2026.
+CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Starlane Pizza Bar, London on Sun, 19 Jul 2026.
 
 CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, KAVARI and Klahrk. Next up: Starlane Pizza Bar, London on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 
 nohexcode, KAVARI, Klahrk
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

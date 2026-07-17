@@ -1,6 +1,6 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Conne Island, Leipzig on Sat, 18 Jul 2026.
+Bae Blade is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Conne Island, Leipzig on Sat, 18 Jul 2026.
 
 Bae Blade is a techno and trance artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Basel and Berlin and 20 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: Conne Island, Leipzig on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Bae Blade is a techno and trance artist tracked on soundcheck, with 99 sets logg
 
 Janis Zielinski, Cleopard2000, Juicy Romance
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*

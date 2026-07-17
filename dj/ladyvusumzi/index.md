@@ -1,6 +1,6 @@
 # Lady Vusumzi
 
-Lady Vusumzi is a Acid and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Frankfurt, Frankfurt on Sat, 18 Jul 2026.
+Lady Vusumzi is a Acid and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Frankfurt, Frankfurt on Sat, 18 Jul 2026.
 
 Lady Vusumzi is an acid and techno artist based in South Africa, tracked on soundcheck, with 13 sets logged across Bangkok, Cologne, Frankfurt and Ghent and 4 more. Often billed alongside Raketka, Bolster and Egebamyasi. Next up: TBA - Frankfurt, Frankfurt on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Lady Vusumzi is an acid and techno artist based in South Africa, tracked on soun
 
 Raketka, Bolster, Egebamyasi
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyvusumzi/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyvusumzi/)*

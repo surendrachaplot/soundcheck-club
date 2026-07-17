@@ -1,6 +1,6 @@
 # MAGA
 
-MAGA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+MAGA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
 MAGA is a house and techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ MAGA is a house and techno artist tracked on soundcheck, with 83 sets logged acr
 
 Sean Doron, Emanuel Satie, Tim Engelhardt
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*

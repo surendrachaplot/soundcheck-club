@@ -1,6 +1,6 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Virage, Paris on Sat, 8 Aug 2026.
+Frederic. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Virage, Paris on Sat, 8 Aug 2026.
 
 Frederic. is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 28 more. Often billed alongside CAIVA, Part Time Killer and Chlär. Next up: Virage, Paris on Sat 8 Aug.
 
@@ -29,4 +29,4 @@ Frederic. is a techno and trance artist tracked on soundcheck, with 168 sets log
 
 CAIVA, Part Time Killer, Chlär
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

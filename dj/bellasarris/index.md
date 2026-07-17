@@ -1,6 +1,6 @@
 # Bella Sarris
 
-Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
+Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at OXI, Berlin on Fri, 24 Jul 2026.
 
 Bella Sarris is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside ISAbella, Roza Terenzi and Angel D'lite. Next up: OXI, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Bella Sarris is a house and techno artist tracked on soundcheck, with 71 sets lo
 
 ISAbella, Roza Terenzi, Angel D'lite
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*

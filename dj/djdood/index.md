@@ -1,6 +1,6 @@
 # DJ dood
 
-DJ dood is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Platform9, Vancouver on Sat, 18 Jul 2026.
+DJ dood is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Platform9, Vancouver on Sat, 18 Jul 2026.
 
 DJ dood is a house and techno artist tracked on soundcheck, with 37 sets logged across Vancouver. Often billed alongside Max Ulis, Lerma and Fisher Bryce. Next up: Platform9, Vancouver on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ DJ dood is a house and techno artist tracked on soundcheck, with 37 sets logged 
 
 Max Ulis, Lerma, Fisher Bryce
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*

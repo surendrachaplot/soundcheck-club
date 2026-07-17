@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "NEON pres Ellen Allien" on Fri, 17 Jul 2026.
+Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "NEON pres Ellen Allien" on Fri, 17 Jul 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, with line-ups including Alessandro Adriani, Ellen Allien, fivequestionmarks and Freddy K and 1 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -17,4 +17,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

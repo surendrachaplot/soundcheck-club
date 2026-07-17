@@ -1,6 +1,6 @@
 # TBA - Mustache Bangkok - Silom Road
 
-TBA - Mustache Bangkok - Silom Road is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "NAKADIA IS BACK! [Extended Set]" on Sat, 15 Aug 2026.
+TBA - Mustache Bangkok - Silom Road is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "NAKADIA IS BACK! [Extended Set]" on Sat, 15 Aug 2026.
 
 TBA - Mustache Bangkok - Silom Road is a music venue in Bangkok listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Mustache Bangkok - Silom Road is a music venue in Bangkok listed on soundc
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | NAKADIA IS BACK! [Extended Set] |  |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-mustache-bangkok-silom-road/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-mustache-bangkok-silom-road/)*

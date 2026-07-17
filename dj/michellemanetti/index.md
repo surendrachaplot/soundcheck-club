@@ -1,6 +1,6 @@
 # Michelle Manetti
 
-Michelle Manetti is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Dalston Superstore, London on Fri, 24 Jul 2026.
+Michelle Manetti is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Dalston Superstore, London on Fri, 24 Jul 2026.
 
 Michelle Manetti is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside THEMPRESS, FAFF and Jaye Ward. Next up: Dalston Superstore, London on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Michelle Manetti is a house and techno artist tracked on soundcheck, with 138 se
 
 THEMPRESS, FAFF, Jaye Ward
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*

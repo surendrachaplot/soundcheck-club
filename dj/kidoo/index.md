@@ -1,6 +1,6 @@
 # Kidoo
 
-Kidoo is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
+Kidoo is a Tech House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Kidoo is a tech house and minimal artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Bucharest and 16 more. Often billed alongside Joseph Capriati, Marco Carola and Indira Paganotto. Next up: Playa Soleil Ibiza, Ibiza on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ Kidoo is a tech house and minimal artist tracked on soundcheck, with 51 sets log
 
 Joseph Capriati, Marco Carola, Indira Paganotto
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidoo/)*

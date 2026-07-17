@@ -1,6 +1,6 @@
 # DJ Gamba
 
-DJ Gamba is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 17 Jul 2026.
+DJ Gamba is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Les Enfants Brillants, Barcelona on Fri, 17 Jul 2026.
 
 DJ Gamba is a house and electro artist tracked on soundcheck, with 102 sets logged across Antwerp, Barcelona, Belfast and Copenhagen and 6 more. Often billed alongside mves, Sampol and DJ Houseum. Next up: Les Enfants Brillants, Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DJ Gamba is a house and electro artist tracked on soundcheck, with 102 sets logg
 
 mves, Sampol, DJ Houseum
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djgamba/)*

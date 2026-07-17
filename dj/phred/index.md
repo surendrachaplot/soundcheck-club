@@ -1,6 +1,6 @@
 # Phred
 
-Phred is a Electro and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at LE Marlin, Marseille on Fri, 17 Jul 2026.
+Phred is a Electro and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at LE Marlin, Marseille on Fri, 17 Jul 2026.
 
 Phred is an electro and club artist tracked on soundcheck, with 21 sets logged across Barcelona and Marseille. Often billed alongside Antho Nabet, Curses and Damon Jee. Next up: LE Marlin, Marseille on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Phred is an electro and club artist tracked on soundcheck, with 21 sets logged a
 
 Antho Nabet, Curses, Damon Jee
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phred/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/phred/)*

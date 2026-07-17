@@ -1,6 +1,6 @@
 # Nightwave
 
-Nightwave is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at SWG3, Glasgow on Sat, 25 Jul 2026.
+Nightwave is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at SWG3, Glasgow on Sat, 25 Jul 2026.
 
 Nightwave is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Birmingham, Edinburgh, Glasgow and London and 2 more. Often billed alongside Posthuman, Slam and Luke Vibert. Next up: SWG3, Glasgow on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Nightwave is a techno and acid artist based in United Kingdom, tracked on soundc
 
 Posthuman, Slam, Luke Vibert
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*

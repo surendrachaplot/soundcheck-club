@@ -1,6 +1,6 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Mike Starr is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mike Starr is a house and techno artist tracked on soundcheck, with 86 sets logg
 
 Natalie Robinson, Virginia, BASHKKA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*

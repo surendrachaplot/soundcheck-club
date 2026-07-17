@@ -1,6 +1,6 @@
 # Gareth Emery
 
-Gareth Emery is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Q Nightclub, Seattle on Sat, 18 Jul 2026.
+Gareth Emery is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Q Nightclub, Seattle on Sat, 18 Jul 2026.
 
 Gareth Emery is a trance and progressive house artist tracked on soundcheck, with 35 sets logged across Austin, Boston, Chicago and London and 11 more. Often billed alongside Ferry Corsten, Billy Gillies and Cosmic Gate. Next up: Q Nightclub, Seattle on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Gareth Emery is a trance and progressive house artist tracked on soundcheck, wit
 
 Ferry Corsten, Billy Gillies, Cosmic Gate
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*

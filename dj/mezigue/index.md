@@ -1,6 +1,6 @@
 # Mézigue
 
-Mézigue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cabaret Sauvage, Paris on Sat, 18 Jul 2026.
+Mézigue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cabaret Sauvage, Paris on Sat, 18 Jul 2026.
 
 Mézigue is a house and techno artist based in France, tracked on soundcheck, with 57 sets logged across Brussels, Dublin, Geneva and Ghent and 10 more. Often billed alongside Mad Rey, Belaria and GGGG. Next up: Cabaret Sauvage, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mézigue is a house and techno artist based in France, tracked on soundcheck, wi
 
 Mad Rey, Belaria, GGGG
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mezigue/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mezigue/)*

@@ -1,6 +1,6 @@
 # Tweeman
 
-Tweeman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
+Tweeman is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TILLATEC, Amsterdam on Sun, 2 Aug 2026.
 
 Tweeman is a techno and house artist based in Ukraine, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Vani Vachi, Nastya Muravyova and Ruslan Mays. Next up: TILLATEC, Amsterdam on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Tweeman is a techno and house artist based in Ukraine, tracked on soundcheck, wi
 
 Vani Vachi, Nastya Muravyova, Ruslan Mays
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tweeman/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tweeman/)*

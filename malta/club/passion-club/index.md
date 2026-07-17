@@ -1,6 +1,6 @@
 # Passion Club
 
-Passion Club is a music venue in Malta with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Vortech Techno Saturdays" on Sat, 18 Jul 2026.
+Passion Club is a music venue in Malta with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Vortech Techno Saturdays" on Sat, 18 Jul 2026.
 
 Passion Club is a music venue in Malta listed on soundcheck. 5 upcoming nights, with line-ups including Billy Hills, Idealist (2), INVERTED (MT) and Naomi Baldacchino and 2 more. Browse upcoming dates, start times and who's playing. St'George's Road Paceville, Saint Julian's, Malta.
 
@@ -18,4 +18,4 @@ Passion Club is a music venue in Malta listed on soundcheck. 5 upcoming nights, 
 
 St'George's Road Paceville, Saint Julian's, Malta, Malta
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/passion-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/passion-club/)*

@@ -1,6 +1,6 @@
 # Bours?
 
-Bours? is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
+Bours? is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at 131 Mccormack St, Toronto on Sat, 15 Aug 2026.
 
 Bours? is a techno and trance artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside The Chronics, ØTTA and Alex Nantaya. Next up: 131 Mccormack St, Toronto on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Bours? is a techno and trance artist tracked on soundcheck, with 106 sets logged
 
 The Chronics, ØTTA, Alex Nantaya
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*

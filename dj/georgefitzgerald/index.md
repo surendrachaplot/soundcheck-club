@@ -1,6 +1,6 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Secret Location, London on Thu, 23 Jul 2026.
+George FitzGerald is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Secret Location, London on Thu, 23 Jul 2026.
 
 George FitzGerald is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Lil Silva, Fold and Scuba. Next up: TBA - Secret Location, London on Thu 23 Jul.
 
@@ -29,4 +29,4 @@ George FitzGerald is a house and techno artist tracked on soundcheck, with 46 se
 
 Lil Silva, Fold, Scuba
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

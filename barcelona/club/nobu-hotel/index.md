@@ -1,6 +1,6 @@
 # Nobu Hotel
 
-Nobu Hotel is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Vertigo Sessions" on Sat, 18 Jul 2026.
+Nobu Hotel is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Vertigo Sessions" on Sat, 18 Jul 2026.
 
 Nobu Hotel is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Cucut and MARA BRAVO. Browse upcoming dates, start times and who's playing. Av. de Roma, 2, 4, Distrito de Sants-Montjuïc, 08014 Barcelona.
 
@@ -15,4 +15,4 @@ Nobu Hotel is a music venue in Barcelona listed on soundcheck. 2 upcoming nights
 
 Av. de Roma, 2, 4, Distrito de Sants-Montjuïc, 08014 Barcelona, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nobu-hotel/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nobu-hotel/)*

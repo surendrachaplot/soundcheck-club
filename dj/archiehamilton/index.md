@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 17 Jul 2026.
+Archie Hamilton is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at NUMBER 90 LONDON, London on Fri, 17 Jul 2026.
 
 Archie Hamilton is a tech house and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Jamie Jones, East End Dubs and Fleur Shore. Next up: NUMBER 90 LONDON, London on Fri 17 Jul.
 
@@ -35,4 +35,4 @@ Archie Hamilton is a tech house and house artist tracked on soundcheck, with 199
 
 Jamie Jones, East End Dubs, Fleur Shore
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

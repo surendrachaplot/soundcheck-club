@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Silent Green Open Lab #7: Shu and Frieda + GLTR Mauer" on Tue, 21 Jul 2026.
+Silent Green is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Silent Green Open Lab #7: Shu and Frieda + GLTR Mauer" on Tue, 21 Jul 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including AIEL, Edoardo Micheli, HTRK and JakoJako and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 8 upcoming nights,
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

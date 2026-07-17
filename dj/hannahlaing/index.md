@@ -1,6 +1,6 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Under the K Bridge, New York City on Fri, 31 Jul 2026.
+Hannah Laing is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Under the K Bridge, New York City on Fri, 31 Jul 2026.
 
 Hannah Laing is a techno and house artist tracked on soundcheck, with 164 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 48 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Under the K Bridge, Newyorkcity on Fri 31 Jul.
 
@@ -36,4 +36,4 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 164 sets l
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

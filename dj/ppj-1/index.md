@@ -1,6 +1,6 @@
 # PPJ (1)
 
-PPJ (1) is a Baile Funk and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Razzmatazz, Barcelona on Fri, 17 Jul 2026.
+PPJ (1) is a Baile Funk and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Razzmatazz, Barcelona on Fri, 17 Jul 2026.
 
 PPJ (1) is a baile funk and techno artist based in France, tracked on soundcheck, with 18 sets logged across Barcelona, Istanbul, London and Madrid and 2 more. Often billed alongside ALL MY COUSINS, Anyma and Ash. Next up: Razzmatazz, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ PPJ (1) is a baile funk and techno artist based in France, tracked on soundcheck
 
 ALL MY COUSINS, Anyma, Ash
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ppj-1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ppj-1/)*

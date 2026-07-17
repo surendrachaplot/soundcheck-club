@@ -1,6 +1,6 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
+Nikki Nair is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
 
 Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Auckland and Austin and 48 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

@@ -1,14 +1,13 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "TORSDAGS TECHNO" on Thu, 16 Jul 2026.
+MODULE is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "INFERNA X MODULE: Pomah (FR)" on Fri, 17 Jul 2026.
 
-MODULE is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Ada Dielman, Anastasia Terra, Bestrawa and BL:ND and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
+MODULE is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including Ada Dielman, Anastasia Terra, Bestrawa and BL:ND and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | TORSDAGS TECHNO |  |
 | Fri, 17 Jul 2026 | INFERNA X MODULE: Pomah (FR) | Anastasia Terra, BL:ND, Cakebutcher, Elliott Taguchi, LMN (1), Pomah |
 | Sat, 18 Jul 2026 | RITUALS X Lara Klart (USA) | Bestrawa, Business Risky, Lara Klart, Timo Tapani, UBER KNAST, dj bootymagic |
 | Fri, 24 Jul 2026 | PLANET CUTE | DJ Spice, KARNIK, Kawun, Tamara, Waqar |
@@ -20,4 +19,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, w
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

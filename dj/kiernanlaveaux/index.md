@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 129 set
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

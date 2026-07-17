@@ -1,6 +1,6 @@
 # Dustin Zahn
 
-Dustin Zahn is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Refuge, New York City on Fri, 17 Jul 2026.
+Dustin Zahn is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Refuge, New York City on Fri, 17 Jul 2026.
 
 Dustin Zahn is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Brussels and Chicago and 15 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: Refuge, Newyorkcity on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Dustin Zahn is a techno and dub techno artist based in United States of America,
 
 Centrific, Chami, Henry Chow
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*

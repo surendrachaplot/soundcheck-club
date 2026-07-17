@@ -1,6 +1,6 @@
 # Harvey Sutherland
 
-Harvey Sutherland is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Night Cat, Melbourne on Sat, 25 Jul 2026.
+Harvey Sutherland is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Night Cat, Melbourne on Sat, 25 Jul 2026.
 
 Harvey Sutherland is a house and funk / soul artist based in Australia, tracked on soundcheck, with 42 sets logged across Auckland, Berlin, Brisbane and Chicago and 10 more. Often billed alongside Chaos In The CBD, Kuzco and Adriana (1). Next up: The Night Cat, Melbourne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Harvey Sutherland is a house and funk / soul artist based in Australia, tracked 
 
 Chaos In The CBD, Kuzco, Adriana (1)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*

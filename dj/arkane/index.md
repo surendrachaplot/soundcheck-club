@@ -1,6 +1,6 @@
 # Arkane
 
-Arkane is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
+Arkane is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Honeystreet Studios, Manchester on Sat, 8 Aug 2026.
 
 Arkane is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Cardiff, Glasgow, Leeds and Liverpool and 4 more. Often billed alongside INLIMEN, Mold Boutique and Body Snatchers. Next up: Honeystreet Studios, Manchester on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Arkane is a techno and electro artist based in United Kingdom, tracked on soundc
 
 INLIMEN, Mold Boutique, Body Snatchers
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*

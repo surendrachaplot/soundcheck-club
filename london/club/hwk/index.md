@@ -1,6 +1,6 @@
 # HWK
 
-HWK is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Terrarium Vol. 1: Jungle & DnB" on Fri, 17 Jul 2026.
+HWK is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Terrarium Vol. 1: Jungle & DnB" on Fri, 17 Jul 2026.
 
 HWK is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Asch Pintura, CON (UK), Double You Tee and Gravy Bois and 2 more. Browse upcoming dates, start times and who's playing. 29 White Post Lane, E9 5EN.
 
@@ -18,4 +18,4 @@ HWK is a music venue in London listed on soundcheck. 5 upcoming nights, with lin
 
 29 White Post Lane, E9 5EN, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*

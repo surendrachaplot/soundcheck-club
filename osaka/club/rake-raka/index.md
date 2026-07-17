@@ -1,15 +1,13 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Psy tech Night" on Thu, 16 Jul 2026.
+rake?raka? is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "maxmalism VOL.10" on Fri, 17 Jul 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 8 upcoming nights, with line-ups including ALTF4, C!AO, DMITRI ABSINTHE and Don Son and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including ALTF4, C!AO, DMITRI ABSINTHE and Don Son and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Psy tech Night |  |
-| Thu, 16 Jul 2026 | π vol.09 | HSC (1), nima (2) |
 | Fri, 17 Jul 2026 | maxmalism VOL.10 | ALTF4, HSC (1), Kaoll |
 | Sat, 18 Jul 2026 | AfterLife |  |
 | Sun, 19 Jul 2026 | LONG FORM Vol.3 - 5H Underground Session | WOLT, YUKI.T |
@@ -21,4 +19,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 8 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

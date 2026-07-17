@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ROUTiN3" on Fri, 17 Jul 2026.
+Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ROUTiN3" on Fri, 17 Jul 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ALEX WANG, Alys, Andrea Ludovic and Antuum and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -23,4 +23,4 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with 
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

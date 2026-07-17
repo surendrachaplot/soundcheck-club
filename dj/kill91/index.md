@@ -1,6 +1,6 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Comfort Zone, Toronto on Fri, 17 Jul 2026.
+KILL 9 1 is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Comfort Zone, Toronto on Fri, 17 Jul 2026.
 
 KILL 9 1 is a techno and bass artist based in Canada, tracked on soundcheck, with 29 sets logged across Toronto. Often billed alongside R4TS, MVCHE and Mand0. Next up: The Comfort Zone, Toronto on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ KILL 9 1 is a techno and bass artist based in Canada, tracked on soundcheck, wit
 
 R4TS, MVCHE, Mand0
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kill91/)*

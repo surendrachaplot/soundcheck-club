@@ -1,6 +1,6 @@
 # Hazy
 
-Hazy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at 450 S Bixel St, Los Angeles, CA 90017, Los Angeles on Sun, 19 Jul 2026.
+Hazy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at 450 S Bixel St, Los Angeles, CA 90017, Los Angeles on Sun, 19 Jul 2026.
 
 Hazy is a house and deep house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Berlin, Bucharest, London and Losangeles and 4 more. Often billed alongside Capes, Chemtrail Johnny and H.U.D.L. Next up: 450 S Bixel St, Los Angeles, CA 90017, Losangeles on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Hazy is a house and deep house artist based in United States of America, tracked
 
 Capes, Chemtrail Johnny, H.U.D.L
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hazy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hazy/)*

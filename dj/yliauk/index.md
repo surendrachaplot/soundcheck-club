@@ -1,6 +1,6 @@
 # Ylia (UK)
 
-Ylia (UK) is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
+Ylia (UK) is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Starlane Pizza Bar, London on Sun, 2 Aug 2026.
 
 Ylia (UK) is a techno artist tracked on soundcheck, with 30 sets logged across Berlin, London and Milan. Often billed alongside H Grade, James Harbrecht and Deranged. Next up: Starlane Pizza Bar, London on Sun 2 Aug.
 
@@ -27,4 +27,4 @@ Ylia (UK) is a techno artist tracked on soundcheck, with 30 sets logged across B
 
 H Grade, James Harbrecht, Deranged
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yliauk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yliauk/)*

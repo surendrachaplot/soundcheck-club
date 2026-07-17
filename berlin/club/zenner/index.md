@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SIP! with Reggie Watts & Delwin (live), Justin Shaffer, Dragana" on Sun, 19 Jul 2026.
+ZENNER is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SIP! with Reggie Watts & Delwin (live), Justin Shaffer, Dragana" on Sun, 19 Jul 2026.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Barker, Coco Maria, Dragana and Haseeb Iqbal and 2 more. Browse upcoming dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -19,4 +19,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with 
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

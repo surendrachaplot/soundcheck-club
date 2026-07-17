@@ -1,6 +1,6 @@
 # Love Injection
 
-Love Injection is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Technique Records, Miami on Sat, 18 Jul 2026.
+Love Injection is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Technique Records, Miami on Sat, 18 Jul 2026.
 
 Love Injection is a house and disco artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: Technique Records, Miami on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Love Injection is a house and disco artist based in United States of America, tr
 
 Toribio, MUSCLECARS, Colleen 'Cosmo' Murphy
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loveinjection/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loveinjection/)*

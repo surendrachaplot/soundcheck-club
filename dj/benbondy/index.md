@@ -1,6 +1,6 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Process PDX, Portland on Sun, 19 Jul 2026.
+Ben Bondy is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Process PDX, Portland on Sun, 19 Jul 2026.
 
 Ben Bondy is an ambient and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Ayesha and Mia Koden. Next up: Process PDX, Portland on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Ben Bondy is an ambient and techno artist based in United States of America, tra
 
 Special Guest DJ, Ayesha, Mia Koden
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*

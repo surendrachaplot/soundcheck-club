@@ -1,6 +1,6 @@
 # Nitzer Ebb
 
-Nitzer Ebb is a Industrial and New Wave artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Metro, Chicago on Sat, 22 Aug 2026.
+Nitzer Ebb is a Industrial and New Wave artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Metro, Chicago on Sat, 22 Aug 2026.
 
 Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 16 sets logged across Austin, Berlin, Chicago and Detroit and 6 more. Often billed alongside Front 242, Depeche Mode and ECHO. Next up: Metro, Chicago on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 16 s
 
 Front 242, Depeche Mode, ECHO
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*

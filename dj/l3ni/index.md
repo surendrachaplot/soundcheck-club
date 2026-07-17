@@ -1,6 +1,6 @@
 # L3Ni
 
-L3Ni is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
+L3Ni is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Green Room NYC, New York City on Fri, 17 Jul 2026.
 
 L3Ni is a house and disco artist tracked on soundcheck, with 54 sets logged across Chicago, Denver, Detroit and Ibiza and 6 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: Green Room NYC, Newyorkcity on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ L3Ni is a house and disco artist tracked on soundcheck, with 54 sets logged acro
 
 Natasha Diggs, Donis, Melvo Baptiste
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

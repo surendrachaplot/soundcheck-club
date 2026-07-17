@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 23 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Rødhåd " on Fri, 17 Jul 2026.
+Wigwam is a music venue in Dublin with 23 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Rødhåd " on Fri, 17 Jul 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 23 upcoming nights, with line-ups including Aeron, Altern-8, Baron Von Trax and Bláthnaid and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 23 upcoming nights, with
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

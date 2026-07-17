@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Patterns, Brighton on Fri, 31 Jul 2026.
+Kylie Wears Berghaus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Patterns, Brighton on Fri, 31 Jul 2026.
 
 Kylie Wears Berghaus is a techno and house artist tracked on soundcheck, with 7 sets logged across Birmingham, Brighton, Edinburgh and London and 1 more. Often billed alongside BFTT, Natalia (2) and Nick from Sneaks. Next up: Patterns, Brighton on Fri 31 Jul.
 
@@ -23,4 +23,4 @@ Kylie Wears Berghaus is a techno and house artist tracked on soundcheck, with 7 
 
 BFTT, Natalia (2), Nick from Sneaks
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

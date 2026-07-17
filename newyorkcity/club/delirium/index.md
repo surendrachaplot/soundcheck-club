@@ -1,14 +1,13 @@
 # Delirium
 
-Delirium is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Support Women DJs Open Decks" on Thu, 16 Jul 2026.
+Delirium is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Delirium Open Decks" on Tue, 21 Jul 2026.
 
-Delirium is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including ASARO, DreamKiller and Rocco Russo. Browse upcoming dates, start times and who's playing. 286 Meserole, Brooklyn, NY 11206, United States.
+Delirium is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including ASARO, DreamKiller and Rocco Russo. Browse upcoming dates, start times and who's playing. 286 Meserole, Brooklyn, NY 11206, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Support Women DJs Open Decks |  |
 | Tue, 21 Jul 2026 | Delirium Open Decks |  |
 | Thu, 23 Jul 2026 | Support Women DJs Open Decks |  |
 | Fri, 24 Jul 2026 | Rocco Russo & Friends | ASARO, Rocco Russo |
@@ -20,4 +19,4 @@ Delirium is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights
 
 286 Meserole, Brooklyn, NY 11206, United States, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/delirium/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/delirium/)*

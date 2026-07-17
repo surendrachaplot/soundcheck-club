@@ -1,6 +1,6 @@
 # Pikes Ibiza
 
-Pikes Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sundays at Pikes" on Sun, 19 Jul 2026.
+Pikes Ibiza is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sundays at Pikes" on Sun, 19 Jul 2026.
 
 Pikes Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Antal, Arnau Obiols, David Morales and Medlar and 2 more. Browse upcoming dates, start times and who's playing. Camí Sa Vorera, S/N, 07820 Sant Antoni de Portmany, Illes Balears, España.
 
@@ -23,4 +23,4 @@ Pikes Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, 
 
 Camí Sa Vorera, S/N, 07820 Sant Antoni de Portmany, Illes Balears, España, Ibiza
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pikes-ibiza/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pikes-ibiza/)*

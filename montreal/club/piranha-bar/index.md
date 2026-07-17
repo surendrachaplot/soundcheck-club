@@ -1,6 +1,6 @@
 # Piranha Bar
 
-Piranha Bar is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "TRANCE FAMILY MTL PRESENTS SEQUENCE SIX (CANADA DEBUT)" on Fri, 24 Jul 2026.
+Piranha Bar is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "TRANCE FAMILY MTL PRESENTS SEQUENCE SIX (CANADA DEBUT)" on Fri, 24 Jul 2026.
 
 Piranha Bar is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including Sequence Six. Browse upcoming dates, start times and who's playing. 680 Saint-Catherine St W, Montreal, Quebec H3B 1C2.
 
@@ -14,4 +14,4 @@ Piranha Bar is a music venue in Montreal listed on soundcheck. 1 upcoming night,
 
 680 Saint-Catherine St W, Montreal, Quebec H3B 1C2, Montreal
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piranha-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piranha-bar/)*

@@ -1,6 +1,6 @@
 # Jamie Bull
 
-Jamie Bull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Jazz Cafe, London on Sat, 18 Jul 2026.
+Jamie Bull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Jazz Cafe, London on Sat, 18 Jul 2026.
 
 Jamie Bull is a house and disco artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Barcelona, Bristol, London and Manchester and 1 more. Often billed alongside Gina Breeze, Will TRAMP! and Erol Alkan. Next up: The Jazz Cafe, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Jamie Bull is a house and disco artist based in United Kingdom, tracked on sound
 
 Gina Breeze, Will TRAMP!, Erol Alkan
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebull/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebull/)*

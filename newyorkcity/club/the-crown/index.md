@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "The Ornate Project: Hector Romero, Stevie Guttman & Alessio Bevilacqua" on Sun, 19 Jul 2026.
+The Crown is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "The Ornate Project: Hector Romero, Stevie Guttman & Alessio Bevilacqua" on Sun, 19 Jul 2026.
 
 The Crown is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Hector Romero. Browse upcoming dates, start times and who's playing. 50 Bowery Street, Rooftop, New York, NY 10013, United States.
 
@@ -21,4 +21,4 @@ The Crown is a music venue in Newyorkcity listed on soundcheck. 8 upcoming night
 
 50 Bowery Street, Rooftop, New York, NY 10013, United States, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-crown/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-crown/)*

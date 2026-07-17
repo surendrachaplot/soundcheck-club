@@ -1,6 +1,6 @@
 # Moonpie
 
-Moonpie is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 1 Aug 2026.
+Moonpie is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Underground SF, San Francisco/Oakland on Sat, 1 Aug 2026.
 
 Moonpie is a techno and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across Sanfrancisco. Often billed alongside 40split, SOBA and Vertigo. Next up: Underground SF, Sanfrancisco on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Moonpie is a techno and club artist based in United States of America, tracked o
 
 40split, SOBA, Vertigo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonpie/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moonpie/)*

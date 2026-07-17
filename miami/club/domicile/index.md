@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sol Ortega" on Fri, 17 Jul 2026.
+Domicile is a music venue in Miami with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sol Ortega" on Fri, 17 Jul 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 7 upcoming nights, with line-ups including ANTICHRIS, Common Poetry, Dustin Zahn and Felizeta and 2 more. Browse upcoming dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -20,4 +20,4 @@ Domicile is a music venue in Miami listed on soundcheck. 7 upcoming nights, with
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

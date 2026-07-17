@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
+Luuk van Dijk is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
 
 Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Those Who Dance, Lisbon on Fri 17 Jul.
 
@@ -36,4 +36,4 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 223 s
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

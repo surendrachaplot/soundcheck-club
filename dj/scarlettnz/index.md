@@ -1,6 +1,6 @@
 # Scarlett (NZ)
 
-Scarlett (NZ) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Il Brutto Auckland, Auckland on Fri, 17 Jul 2026.
+Scarlett (NZ) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Il Brutto Auckland, Auckland on Fri, 17 Jul 2026.
 
 Scarlett (NZ) is a house and techno artist based in New Zealand, tracked on soundcheck, with 9 sets logged across Auckland. Often billed alongside Jack Masters, Andwahn and DJ Fuckoff. Next up: Il Brutto Auckland, Auckland on Fri 17 Jul.
 
@@ -25,4 +25,4 @@ Scarlett (NZ) is a house and techno artist based in New Zealand, tracked on soun
 
 Jack Masters, Andwahn, DJ Fuckoff
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettnz/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettnz/)*

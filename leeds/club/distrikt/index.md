@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 15 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "No Boundaries x Minimalize" on Fri, 17 Jul 2026.
+Distrikt is a music venue in Leeds with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "No Boundaries x Minimalize" on Fri, 17 Jul 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 15 upcoming nights, with line-ups including FLETCH, Adam Lance, Body Clinic and Cap and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -23,4 +23,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 15 upcoming nights, wit
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

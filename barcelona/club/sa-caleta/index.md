@@ -1,6 +1,6 @@
 # Sa Caleta
 
-Sa Caleta is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "ON·OFF Music Festival 2026" on Sat, 1 Aug 2026.
+Sa Caleta is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "ON·OFF Music Festival 2026" on Sat, 1 Aug 2026.
 
 Sa Caleta is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Sa Caleta is a music venue in Barcelona listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | ON·OFF Music Festival 2026 |  |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sa-caleta/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sa-caleta/)*

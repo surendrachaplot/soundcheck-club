@@ -1,6 +1,6 @@
 # Baldo
 
-Baldo is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Casas de Fez, nr 627, Porto on Sat, 18 Jul 2026.
+Baldo is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Casas de Fez, nr 627, Porto on Sat, 18 Jul 2026.
 
 Baldo is a house and acid artist tracked on soundcheck, with 77 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: TBA - Casas de Fez, nr 627, Porto on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Baldo is a house and acid artist tracked on soundcheck, with 77 sets logged acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

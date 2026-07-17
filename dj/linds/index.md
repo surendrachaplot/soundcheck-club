@@ -1,6 +1,6 @@
 # Linds
 
-Linds is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club Vaag, Antwerp on Fri, 17 Jul 2026.
+Linds is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club Vaag, Antwerp on Fri, 17 Jul 2026.
 
 Linds is a techno and trance artist based in Poland, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 10 more. Often billed alongside GI.O, Kichta and LINDS (NL). Next up: Club Vaag, Antwerp on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Linds is a techno and trance artist based in Poland, tracked on soundcheck, with
 
 GI.O, Kichta, LINDS (NL)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*

@@ -1,14 +1,13 @@
 # livwutang
 
-livwutang is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+livwutang is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
-livwutang is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Mia Koden. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+livwutang is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Mia Koden. Next up: Else, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Fri, 24 Jul 2026 | Else | Berlin |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -22,6 +21,7 @@ livwutang is a techno and house artist tracked on soundcheck, with 179 sets logg
 
 ## Recently played
 
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Nowadays, New York City — Sat, 30 May 2026
 - Floyd, Miami — Fri, 29 May 2026
 - Sonnenraum, Berlin — Sun, 24 May 2026
@@ -29,10 +29,9 @@ livwutang is a techno and house artist tracked on soundcheck, with 179 sets logg
 - Radio Radio, Amsterdam — Fri, 22 May 2026
 - KALT, Strasbourg — Sat, 16 May 2026
 - ASIAT Park, Brussels — Thu, 14 May 2026
-- Strange Brew, Bristol — Fri, 8 May 2026
 
 ## Shares bills with
 
 Kia (AU), Nick León, Mia Koden
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

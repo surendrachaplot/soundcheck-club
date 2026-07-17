@@ -1,6 +1,6 @@
 # Aqua-Höfe
 
-Aqua-Höfe is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "SMUDGE Berlin - Pride Opening Event & Party" on Fri, 24 Jul 2026.
+Aqua-Höfe is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "SMUDGE Berlin - Pride Opening Event & Party" on Fri, 24 Jul 2026.
 
 Aqua-Höfe is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including SLIC Unit. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin-Kreuzberg.
 
@@ -14,4 +14,4 @@ Aqua-Höfe is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 Lobeckstraße 30-35, 10969 Berlin-Kreuzberg, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/aqua-h-fe/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/aqua-h-fe/)*

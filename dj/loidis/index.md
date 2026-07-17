@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Skee Mask and Vlada. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged
 
 DJ Python, Skee Mask, Vlada
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

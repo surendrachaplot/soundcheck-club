@@ -1,6 +1,6 @@
 # Józef Keuner
 
-Józef Keuner is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
+Józef Keuner is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 18 Jul 2026.
 
 Józef Keuner is a techno and trance artist tracked on soundcheck, with 55 sets logged across Krakow and Warsaw. Often billed alongside VRAXX, ERNST (UA) and SCHELLT. Next up: STK 47 WAREHOUSE, Krakow on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Józef Keuner is a techno and trance artist tracked on soundcheck, with 55 sets 
 
 VRAXX, ERNST (UA), SCHELLT
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jozefkeuner/)*

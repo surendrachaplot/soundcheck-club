@@ -1,6 +1,6 @@
 # BRU ON
 
-BRU ON is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 17 Jul 2026.
+BRU ON is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 17 Jul 2026.
 
 BRU ON is a tech house and house artist tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Babo, KBTO and juliboe. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ BRU ON is a tech house and house artist tracked on soundcheck, with 26 sets logg
 
 Babo, KBTO, juliboe
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*

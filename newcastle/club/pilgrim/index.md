@@ -1,6 +1,6 @@
 # Pilgrim
 
-Pilgrim is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Soul Candy – Live" on Fri, 17 Jul 2026.
+Pilgrim is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Soul Candy – Live" on Fri, 17 Jul 2026.
 
 Pilgrim is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
 
@@ -14,4 +14,4 @@ Pilgrim is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Br
 
 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF, Newcastle
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/pilgrim/)*

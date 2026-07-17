@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bjørn Torske / SS: Finn (UK) & Ole HK" on Sat, 18 Jul 2026.
+The Villa is a music venue in Oslo with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Bjørn Torske / SS: Finn (UK) & Ole HK" on Sat, 18 Jul 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 12 upcoming nights, with line-ups including Bjørn Torske, Daichi Wada, DJ Fart in the Club and DJ Fett Burger and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -23,4 +23,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 12 upcoming nights, wit
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

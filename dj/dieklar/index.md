@@ -1,6 +1,6 @@
 # Die Klar
 
-Die Klar is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
+Die Klar is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Circle Park, Brussels on Sat, 1 Aug 2026.
 
 Die Klar is a trance and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside DJ Kwamē, DJ Caline and Dj Schnake. Next up: Circle Park, Brussels on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Die Klar is a trance and techno artist tracked on soundcheck, with 67 sets logge
 
 DJ Kwamē, DJ Caline, Dj Schnake
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*

@@ -1,6 +1,6 @@
 # Tino
 
-Tino is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
+Tino is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
 
 Tino is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Cardiff, Copenhagen, Dublin and Edinburgh and 9 more. Often billed alongside LILI, ADR (UK) and AZAAD. Next up: Night Tales, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Tino is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 LILI, ADR (UK), AZAAD
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*

@@ -1,6 +1,6 @@
 # Monolink
 
-Monolink is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Life Park, Istanbul on Sat, 25 Jul 2026.
+Monolink is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Life Park, Istanbul on Sat, 25 Jul 2026.
 
 Monolink is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Vintage Culture, Carlita and 999999999. Next up: Life Park, Istanbul on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Monolink is a techno and house artist tracked on soundcheck, with 80 sets logged
 
 Vintage Culture, Carlita, 999999999
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*

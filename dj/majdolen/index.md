@@ -1,6 +1,6 @@
 # Majdolen
 
-Majdolen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Majdolen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Majdolen is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Luigi Di Venere. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Majdolen is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Dirty Daddy Don, Khloe, Luigi Di Venere
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*

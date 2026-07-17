@@ -1,6 +1,6 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+David Penn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 David Penn is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Claptone, Sam Divine and Ferreck Dawn. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ David Penn is a house and tech house artist tracked on soundcheck, with 65 sets 
 
 Claptone, Sam Divine, Ferreck Dawn
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

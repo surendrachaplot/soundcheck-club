@@ -1,6 +1,6 @@
 # Audien
 
-Audien is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Grand Boston, Boston on Fri, 17 Jul 2026.
+Audien is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Grand Boston, Boston on Fri, 17 Jul 2026.
 
 Audien is a progressive house and house artist tracked on soundcheck, with 29 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Snake, Kaskade and Oliver Heldens. Next up: The Grand Boston, Boston on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Audien is a progressive house and house artist tracked on soundcheck, with 29 se
 
 DJ Snake, Kaskade, Oliver Heldens
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*

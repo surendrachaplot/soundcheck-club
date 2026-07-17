@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 18 Jul 2026.
+Rooléh is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sportpark Riekerhaven, Amsterdam on Sat, 18 Jul 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 14 more. Often billed alongside Easttown, Benny Rodrigues and Joëlla Jackson. Next up: Sportpark Riekerhaven, Amsterdam on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 78 sets log
 
 Easttown, Benny Rodrigues, Joëlla Jackson
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

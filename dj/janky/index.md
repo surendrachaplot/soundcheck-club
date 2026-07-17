@@ -1,6 +1,6 @@
 # Janky
 
-Janky is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
+Janky is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
 
 Janky is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Chicago, Istanbul and London and 6 more. Often billed alongside Towicz, Derrick Carter and Dominique Lamee. Next up: Z-Bau, Nurnberg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Janky is a house and techno artist tracked on soundcheck, with 35 sets logged ac
 
 Towicz, Derrick Carter, Dominique Lamee
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janky/)*

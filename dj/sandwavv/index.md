@@ -1,6 +1,6 @@
 # Sandwavv
 
-Sandwavv is a Afro Tech and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Querencia Studio, Toronto on Sat, 18 Jul 2026.
+Sandwavv is a Afro Tech and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Querencia Studio, Toronto on Sat, 18 Jul 2026.
 
 Sandwavv is an afro tech and afro house artist tracked on soundcheck, with 21 sets logged across Toronto and Vancouver. Often billed alongside MXK (LB), INCOGNITA and LIONESSA. Next up: Querencia Studio, Toronto on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Sandwavv is an afro tech and afro house artist tracked on soundcheck, with 21 se
 
 MXK (LB), INCOGNITA, LIONESSA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*

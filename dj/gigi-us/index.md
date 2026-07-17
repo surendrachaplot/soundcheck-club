@@ -1,6 +1,6 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Miscellania, Melbourne on Fri, 17 Jul 2026.
+Gi Gi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Miscellania, Melbourne on Fri, 17 Jul 2026.
 
 Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: Miscellania, Melbourne on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Gi Gi is a techno and house artist based in United States of America, tracked on
 
 PLO Man, Charles Moon, Conna Haraway
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*

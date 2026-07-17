@@ -1,6 +1,6 @@
 # Berlin
 
-Berlin is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "NAACH x Soundwave: Marginalia Showcase with ELIF, Niki Saddeki and Numen" on Sat, 1 Aug 2026.
+Berlin is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "NAACH x Soundwave: Marginalia Showcase with ELIF, Niki Saddeki and Numen" on Sat, 1 Aug 2026.
 
 Berlin is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including ELIF, Niki Sadeki and Numen (PA). Browse upcoming dates, start times and who's playing. 11819 Sherman Way. North Hollywood, CA 91605.
 
@@ -14,4 +14,4 @@ Berlin is a music venue in Losangeles listed on soundcheck. 1 upcoming night, wi
 
 11819 Sherman Way. North Hollywood, CA 91605, Los Angeles
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/berlin/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/berlin/)*

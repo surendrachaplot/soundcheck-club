@@ -1,6 +1,6 @@
 # C.FRIM
 
-C.FRIM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at OXI, Berlin on Sun, 26 Jul 2026.
+C.FRIM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at OXI, Berlin on Sun, 26 Jul 2026.
 
 C.FRIM is a techno and house artist based in Australia, tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Bali and Barcelona and 17 more. Often billed alongside MIRASIA, Sally C and BADSISTA. Next up: OXI, Berlin on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ C.FRIM is a techno and house artist based in Australia, tracked on soundcheck, w
 
 MIRASIA, Sally C, BADSISTA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*

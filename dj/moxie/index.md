@@ -1,6 +1,6 @@
 # Moxie
 
-Moxie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Moxie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 Moxie is a house and techno artist based in United Kingdom, tracked on soundcheck, with 182 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 50 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Moxie is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

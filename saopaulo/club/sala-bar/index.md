@@ -1,14 +1,13 @@
 # Sala Bar
 
-Sala Bar is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sala recebe Vinícius Pimenta" on Thu, 16 Jul 2026.
+Sala Bar is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sala recebe Desliza" on Fri, 17 Jul 2026.
 
-Sala Bar is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Fernão Dias, 767, Pinheiros, São Paulo, SP, 05427-011, Brazil.
+Sala Bar is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Fernão Dias, 767, Pinheiros, São Paulo, SP, 05427-011, Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Sala recebe Vinícius Pimenta |  |
 | Fri, 17 Jul 2026 | Sala recebe Desliza |  |
 | Sat, 18 Jul 2026 | Sala recebe DJ Chãnce da Silva |  |
 | Wed, 22 Jul 2026 | Sala recebe Dandy |  |
@@ -22,4 +21,4 @@ Sala Bar is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights. B
 
 Rua Fernão Dias, 767, Pinheiros, São Paulo, SP, 05427-011, Brazil, Sao Paulo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/sala-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/sala-bar/)*

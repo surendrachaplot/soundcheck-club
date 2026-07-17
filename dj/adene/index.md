@@ -1,6 +1,6 @@
 # ädene
 
-ädene is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Aether Club Budapest, Budapest on Fri, 17 Jul 2026.
+ädene is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Aether Club Budapest, Budapest on Fri, 17 Jul 2026.
 
 ädene is a techno and industrial artist based in Hungary, tracked on soundcheck, with 47 sets logged across Budapest. Often billed alongside Johanna Bozai, rav:n and Ben Dover. Next up: Aether Club Budapest, Budapest on Fri 17 Jul.
 
@@ -27,4 +27,4 @@
 
 Johanna Bozai, rav:n, Ben Dover
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adene/)*

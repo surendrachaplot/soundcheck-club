@@ -1,6 +1,6 @@
 # Halfpipe Records
 
-Halfpipe Records is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Badaboum, Paris on Fri, 17 Jul 2026.
+Halfpipe Records is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Badaboum, Paris on Fri, 17 Jul 2026.
 
 Halfpipe Records is a house and bass artist based in France, tracked on soundcheck, with 42 sets logged across Berlin, London, Lyon and Marseille and 4 more. Often billed alongside Unsho, Me & George and GOGO GREEN. Next up: Badaboum, Paris on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Halfpipe Records is a house and bass artist based in France, tracked on soundche
 
 Unsho, Me & George, GOGO GREEN
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpiperecords/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpiperecords/)*

@@ -1,6 +1,6 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
+future.666 is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
 future.666 is a techno and trance artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Union Park, Chicago on Sat 18 Jul.
 
@@ -34,4 +34,4 @@ future.666 is a techno and trance artist tracked on soundcheck, with 214 sets lo
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

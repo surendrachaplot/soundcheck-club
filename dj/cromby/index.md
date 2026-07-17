@@ -1,6 +1,6 @@
 # Cromby
 
-Cromby is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Crate Brewery, London on Sat, 18 Jul 2026.
+Cromby is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Crate Brewery, London on Sat, 18 Jul 2026.
 
 Cromby is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: Crate Brewery, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Cromby is a house and techno artist tracked on soundcheck, with 130 sets logged 
 
 Sally C, Spray, DJ Gigola
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*

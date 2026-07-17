@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Nachtwerk Pres. Hades I OUTRAGE I GO$PEL" on Fri, 17 Jul 2026.
+Arzenal is a music venue in Budapest with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Nachtwerk Pres. Hades I OUTRAGE I GO$PEL" on Fri, 17 Jul 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming nights, with line-ups including AEREA, Akác, Charry and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming nights, w
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

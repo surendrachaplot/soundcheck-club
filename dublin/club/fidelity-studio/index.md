@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Prosumer (All Night Long)" on Fri, 17 Jul 2026.
+Fidelity Studio is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Prosumer (All Night Long)" on Fri, 17 Jul 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including Alex Kassian, Collie (1), Lukey and Prosumer. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -17,4 +17,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 4 upcoming nigh
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

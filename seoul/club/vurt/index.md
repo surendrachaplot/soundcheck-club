@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Salix [Zørba Room EP Release Night]" on Fri, 17 Jul 2026.
+vurt. is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Salix [Zørba Room EP Release Night]" on Fri, 17 Jul 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including ANSOL, Djilogue, GOBI and Haruka and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -20,4 +20,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with li
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

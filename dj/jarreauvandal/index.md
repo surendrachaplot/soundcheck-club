@@ -1,6 +1,6 @@
 # Jarreau Vandal
 
-Jarreau Vandal is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Skatecafe, Amsterdam on Sat, 18 Jul 2026.
+Jarreau Vandal is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Skatecafe, Amsterdam on Sat, 18 Jul 2026.
 
 Jarreau Vandal is a hip-hop and house artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside LAMSI, Conducta and Franky Sticks. Next up: Skatecafe, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Jarreau Vandal is a hip-hop and house artist based in Netherlands, tracked on so
 
 LAMSI, Conducta, Franky Sticks
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*

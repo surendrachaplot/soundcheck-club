@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Délusion records presents: TAC Party" on Fri, 17 Jul 2026.
+Point Ephémère is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Délusion records presents: TAC Party" on Fri, 17 Jul 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including aerodynamisme, amil raja, Beirut Groove Collective and Calling Marian and 2 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -21,4 +21,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

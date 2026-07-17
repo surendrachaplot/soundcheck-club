@@ -1,6 +1,6 @@
 # Zurkin
 
-Zurkin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mtkvarze, Tbilisi on Fri, 17 Jul 2026.
+Zurkin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Mtkvarze, Tbilisi on Fri, 17 Jul 2026.
 
 Zurkin is a house and techno artist tracked on soundcheck, with 108 sets logged across Barcelona, Berlin, Melbourne and Nantes and 5 more. Often billed alongside Zitto, Gio Shengelia and Vakho. Next up: Mtkvarze, Tbilisi on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Zurkin is a house and techno artist tracked on soundcheck, with 108 sets logged 
 
 Zitto, Gio Shengelia, Vakho
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*

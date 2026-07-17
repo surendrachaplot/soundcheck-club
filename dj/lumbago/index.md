@@ -1,6 +1,6 @@
 # Lumbago
 
-Lumbago is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at StereoBar, Montreal on Sat, 18 Jul 2026.
+Lumbago is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at StereoBar, Montreal on Sat, 18 Jul 2026.
 
 Lumbago is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Boston and Brussels and 4 more. Often billed alongside Maelita, Master c-fu and Binary Digit. Next up: StereoBar, Montreal on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Lumbago is a techno and house artist tracked on soundcheck, with 51 sets logged 
 
 Maelita, Master c-fu, Binary Digit
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*

@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cadavra, Madrid on Fri, 18 Sept 2026.
+HearThug is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cadavra, Madrid on Fri, 18 Sept 2026.
 
 HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Occibel, Alyhas and IAMBP. Next up: Cadavra, Madrid on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 
 Occibel, Alyhas, IAMBP
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

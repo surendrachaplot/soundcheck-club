@@ -1,14 +1,13 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Major recebe Miss Playmobil" on Thu, 16 Jul 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Major recebe PARAISO PERDIDO" on Fri, 17 Jul 2026.
 
-Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Major recebe Miss Playmobil |  |
 | Fri, 17 Jul 2026 | Major recebe PARAISO PERDIDO |  |
 | Sat, 18 Jul 2026 | Major recebe Ana Convida Guga Roselli |  |
 | Wed, 22 Jul 2026 | Major recebe Caio Muratore |  |
@@ -23,4 +22,4 @@ Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 10 upcoming
 
 Rua Major Sertório, 347, Sao Paulo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

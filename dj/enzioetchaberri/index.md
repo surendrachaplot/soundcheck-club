@@ -1,6 +1,6 @@
 # Enzio Etchaberri
 
-Enzio Etchaberri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Izba Przyjęć, Warsaw on Fri, 17 Jul 2026.
+Enzio Etchaberri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Izba Przyjęć, Warsaw on Fri, 17 Jul 2026.
 
 Enzio Etchaberri is a house and techno artist tracked on soundcheck, with 52 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Izba Przyjęć, Warsaw on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Enzio Etchaberri is a house and techno artist tracked on soundcheck, with 52 set
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*

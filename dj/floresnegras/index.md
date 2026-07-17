@@ -1,6 +1,6 @@
 # Flores Negras
 
-Flores Negras is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 17 Jul 2026.
+Flores Negras is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Smoke & Mirrors, Chicago on Fri, 17 Jul 2026.
 
 Flores Negras is a techno and acid artist based in United States of America, tracked on soundcheck, with 107 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Miss Twink USA, Elock and Loqum. Next up: Smoke & Mirrors, Chicago on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Flores Negras is a techno and acid artist based in United States of America, tra
 
 Miss Twink USA, Elock, Loqum
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*

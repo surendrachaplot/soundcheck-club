@@ -1,6 +1,6 @@
 # Perel
 
-Perel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fooq's Miami, Miami on Sat, 18 Jul 2026.
+Perel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fooq's Miami, Miami on Sat, 18 Jul 2026.
 
 Perel is a house and techno artist based in Germany, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Erol Alkan, Tiga and VTSS. Next up: Fooq's Miami, Miami on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Perel is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Erol Alkan, Tiga, VTSS
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*

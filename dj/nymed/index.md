@@ -1,6 +1,6 @@
 # Nymed
 
-Nymed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Fvtvr, Paris on Sat, 25 Jul 2026.
+Nymed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fvtvr, Paris on Sat, 25 Jul 2026.
 
 Nymed is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside Boris, Mar/us and DMN DJ. Next up: Fvtvr, Paris on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Nymed is a techno and house artist tracked on soundcheck, with 68 sets logged ac
 
 Boris, Mar/us, DMN DJ
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nymed/)*

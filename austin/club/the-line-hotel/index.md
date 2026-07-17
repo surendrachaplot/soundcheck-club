@@ -1,6 +1,6 @@
 # The Line Hotel
 
-The Line Hotel is a music venue in Austin with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Swim Session No. 24 ★ DJ CASSANDRA" on Thu, 30 Jul 2026.
+The Line Hotel is a music venue in Austin with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Swim Session No. 24 ★ DJ CASSANDRA" on Thu, 30 Jul 2026.
 
 The Line Hotel is a music venue in Austin listed on soundcheck. 4 upcoming nights, with line-ups including DJ BAD APPLE and Riobamba. Browse upcoming dates, start times and who's playing. 111 e Cesar Chavez.
 
@@ -17,4 +17,4 @@ The Line Hotel is a music venue in Austin listed on soundcheck. 4 upcoming night
 
 111 e Cesar Chavez, Austin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-line-hotel/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-line-hotel/)*

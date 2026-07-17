@@ -1,6 +1,6 @@
 # OnlyWithYou
 
-OnlyWithYou is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 18 Jul 2026.
+OnlyWithYou is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 18 Jul 2026.
 
 OnlyWithYou is a techno and trance artist based in Australia, tracked on soundcheck, with 55 sets logged across Berlin, London, Madrid and Melbourne and 4 more. Often billed alongside Garfie, AKEYLAH and Cookies & Cream. Next up: Lokschuppen Berlin, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ OnlyWithYou is a techno and trance artist based in Australia, tracked on soundch
 
 Garfie, AKEYLAH, Cookies & Cream
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*

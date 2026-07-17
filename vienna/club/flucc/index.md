@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Beatgerecht presents - Arrived" on Fri, 17 Jul 2026.
+FLUCC is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Beatgerecht presents - Arrived" on Fri, 17 Jul 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including ADIRA, ARMANA KHAN, Comrade Martin and DJ SO and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -20,4 +20,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

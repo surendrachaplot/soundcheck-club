@@ -1,6 +1,6 @@
 # Nitefreak
 
-Nitefreak is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 17 Jul 2026.
+Nitefreak is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Chinois Ibiza, Ibiza on Fri, 17 Jul 2026.
 
 Nitefreak is an afro house and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Tiffy Vera. Next up: Chinois Ibiza, Ibiza on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Nitefreak is an afro house and house artist tracked on soundcheck, with 56 sets 
 
 Francis Mercier, MoBlack, Tiffy Vera
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*

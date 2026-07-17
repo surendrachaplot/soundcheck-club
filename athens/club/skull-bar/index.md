@@ -1,6 +1,6 @@
 # Skull Bar
 
-Skull Bar is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Afterhours with Stelios Vassiloudis & George Karmokolias" on Sat, 18 Jul 2026.
+Skull Bar is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Afterhours with Stelios Vassiloudis & George Karmokolias" on Sat, 18 Jul 2026.
 
 Skull Bar is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Kazteins, Stelios Vassiloudis, SUNEATER. and ThoughtKnot. Browse upcoming dates, start times and who's playing. 17, Lamprou Katsoni 13, Athina 114 71, Greece.
 
@@ -15,4 +15,4 @@ Skull Bar is a music venue in Athens listed on soundcheck. 2 upcoming nights, wi
 
 17, Lamprou Katsoni 13, Athina 114 71, Greece, Athens
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*

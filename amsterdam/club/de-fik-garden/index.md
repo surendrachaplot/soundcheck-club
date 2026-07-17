@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Pompstation" on Fri, 24 Jul 2026.
+De Fik Garden is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Pompstation" on Fri, 24 Jul 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Anémi, BENZA, BIANKA and Chami and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -20,4 +20,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 7 upcoming nig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

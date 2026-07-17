@@ -1,6 +1,6 @@
 # Karl Almaria
 
-Karl Almaria is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Navy Pier, Chicago on Sun, 19 Jul 2026.
+Karl Almaria is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Navy Pier, Chicago on Sun, 19 Jul 2026.
 
 Karl Almaria is a house and deep house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago. Often billed alongside Gene Hunt, Geto Mark and Adorio. Next up: Navy Pier, Chicago on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Karl Almaria is a house and deep house artist based in United States of America,
 
 Gene Hunt, Geto Mark, Adorio
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karlalmaria/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karlalmaria/)*

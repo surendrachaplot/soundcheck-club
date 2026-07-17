@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "CYNQ x SGO (Main Room Event, Free with RSVP)" on Thu, 16 Jul 2026.
+SILO is a music venue in New York City with 29 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Qrion [Anjunadeep, This Never Happened, Last Night On Earth]" on Fri, 17 Jul 2026.
 
-SILO is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 2melo, Adam Hadari, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in Newyorkcity listed on soundcheck. 29 upcoming nights, with line-ups including 2melo, Adam Hadari, A DJ Named SNE and Alex Hell-n and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | CYNQ x SGO (Main Room Event, Free with RSVP) | CokeKayn, Footwrk, Ms. Unicorn |
 | Fri, 17 Jul 2026 | Qrion [Anjunadeep, This Never Happened, Last Night On Earth] | Qrion, Zehv |
 | Sat, 18 Jul 2026 | Ginja feat. Ethan Tomas |  |
 | Tue, 21 Jul 2026 | Open Decks with STEEN and Adam Hadari | Adam Hadari, STEEN |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, w
 | Sat, 25 Jul 2026 | Frost Fest Afters: Frost Children (DJ) | Angel Money, DJ Thank You, Frost Children, umru |
 | Tue, 28 Jul 2026 | Open Decks with STEEN and LIFE AFTER TRANCE | STEEN |
 | Wed, 29 Jul 2026 | Open Decks with STEEN and Kush Jones [Full Venue Edition] | Kush Jones, STEEN |
+| Thu, 30 Jul 2026 | Continuum (Main Room Event, Free with RSVP) | Alex Hell-n, Choo Choo, R-DNA, Touch Base, nextdimensional |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

@@ -1,6 +1,6 @@
 # R25 Kulturschlachthof
 
-R25 Kulturschlachthof is a music venue in Düsseldorf with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Doppelschicht V1 (Rave)" on Fri, 17 Jul 2026.
+R25 Kulturschlachthof is a music venue in Düsseldorf with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Doppelschicht V1 (Rave)" on Fri, 17 Jul 2026.
 
 R25 Kulturschlachthof is a music venue in Dusseldorf listed on soundcheck. 4 upcoming nights, with line-ups including 4kux7, Demontime, Jester and KACHU2K and 1 more. Browse upcoming dates, start times and who's playing. Rather Strasse 25, 40476 Düsseldorf, Deutschland.
 
@@ -17,4 +17,4 @@ R25 Kulturschlachthof is a music venue in Dusseldorf listed on soundcheck. 4 upc
 
 Rather Strasse 25, 40476 Düsseldorf, Deutschland, Düsseldorf
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/r25-kulturschlachthof/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/r25-kulturschlachthof/)*

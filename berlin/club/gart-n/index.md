@@ -1,6 +1,6 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Chimaera X Transition: Softi, Kat Davids, DJ Balaton *live, Oruvo, Wilhelm Richard *live" on Sat, 18 Jul 2026.
+gART.n is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Chimaera X Transition: Softi, Kat Davids, DJ Balaton *live, Oruvo, Wilhelm Richard *live" on Sat, 18 Jul 2026.
 
 gART.n is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Alexia (2), ANNAWAFFEL, Die Ruhe and ELIZEN THE EMPEROR and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
@@ -22,4 +22,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with 
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

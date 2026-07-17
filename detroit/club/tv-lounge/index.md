@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ALL SILLY & Karizma • birthday edition" on Sat, 18 Jul 2026.
+TV Lounge is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ALL SILLY & Karizma • birthday edition" on Sat, 18 Jul 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including Ameera, britty., Bruce Bailey and Dantiez and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -23,4 +23,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 11 upcoming nights, 
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

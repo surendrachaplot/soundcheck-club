@@ -1,6 +1,6 @@
 # TBA - ROOTS - Carrer de Badajoz, 115 Sant Martí, 08018 Barcelona
 
-TBA - ROOTS - Carrer de Badajoz, 115 Sant Martí, 08018 Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bridge Offsite x IA  Climax" on Sat, 18 Jul 2026.
+TBA - ROOTS - Carrer de Badajoz, 115 Sant Martí, 08018 Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Bridge Offsite x IA  Climax" on Sat, 18 Jul 2026.
 
 TBA - ROOTS - Carrer de Badajoz, 115 Sant Martí, 08018 Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Mai Lawson (3), MEMBRILLA, Mita and mita-es. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - ROOTS - Carrer de Badajoz, 115 Sant Martí, 08018 Barcelona is a music ven
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Bridge Offsite x IA  Climax | MEMBRILLA, Mai Lawson (3), Mita, mita-es |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-roots-carrer-de-badajoz-115-sant-mart-08018-barcelona/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-roots-carrer-de-badajoz-115-sant-mart-08018-barcelona/)*

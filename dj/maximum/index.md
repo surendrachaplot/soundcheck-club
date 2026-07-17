@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
+MAXImum is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
 
 MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, with 11 sets logged across Athens, Dublin, Ibiza and Manchester and 1 more. Often billed alongside Black Coffee, Djammin and Meeshy. Next up: Hï Ibiza, Ibiza on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, wi
 
 Black Coffee, Djammin, Meeshy
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

@@ -1,6 +1,6 @@
 # Dune Park
 
-Dune Park is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Camila Isabel inv:ta Invertida" on Fri, 17 Jul 2026.
+Dune Park is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Camila Isabel inv:ta Invertida" on Fri, 17 Jul 2026.
 
 Dune Park is a music venue in Buenosaires listed on soundcheck. 3 upcoming nights, with line-ups including Bad Boy Orange, Camila Isabel, Inguerzon and Invertida and 2 more. Browse upcoming dates, start times and who's playing. Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina.
 
@@ -16,4 +16,4 @@ Dune Park is a music venue in Buenosaires listed on soundcheck. 3 upcoming night
 
 Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina, Buenos Aires
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*

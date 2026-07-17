@@ -1,19 +1,19 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Void Mykonos, Mykonos on Thu, 16 Jul 2026.
+Guy Gerber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Beachouse, Ibiza on Wed, 12 Aug 2026.
 
-Guy Gerber is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Void Mykonos, Mykonos on Thu 16 Jul.
+Guy Gerber is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Beachouse, Ibiza on Wed 12 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Void Mykonos | Mykonos |
 | Wed, 12 Aug 2026 | Beachouse | Ibiza |
 | Sat, 26 Sept 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
 
+- Void Mykonos, Mykonos — Thu, 16 Jul 2026
 - Chinois Ibiza, Ibiza — Sun, 28 Jun 2026
 - Cova Santa, Ibiza — Wed, 24 Jun 2026
 - Cova Santa, Ibiza — Wed, 17 Jun 2026
@@ -21,10 +21,9 @@ Guy Gerber is a house and techno artist tracked on soundcheck, with 120 sets log
 - Hï Ibiza, Ibiza — Sat, 23 May 2026
 - Gin Ling Way, Chinatown, Los Angeles — Sat, 16 May 2026
 - Savaya Bali, Bali — Sun, 26 Apr 2026
-- Volt Club Milano, Milan — Thu, 23 Apr 2026
 
 ## Shares bills with
 
 Noncitizens, Saraga, Annicka
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

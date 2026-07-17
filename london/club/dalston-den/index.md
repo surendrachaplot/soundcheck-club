@@ -1,6 +1,6 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Get Tiny 2: Shrinked In" on Sat, 18 Jul 2026.
+Dalston Den is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Get Tiny 2: Shrinked In" on Sat, 18 Jul 2026.
 
 Dalston Den is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including AMAR (UK), dj people's princess, nohexcode and SBBS and 1 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
@@ -19,4 +19,4 @@ Dalston Den is a music venue in London listed on soundcheck. 6 upcoming nights, 
 
 91-93 Kingsland High Street, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

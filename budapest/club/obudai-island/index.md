@@ -1,6 +1,6 @@
 # Obudai Island
 
-Obudai Island is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sziget Festival 2026" on Tue, 11 Aug 2026.
+Obudai Island is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sziget Festival 2026" on Tue, 11 Aug 2026.
 
 Obudai Island is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Antony Szmierek, BIIA, Cassia and Dijon and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Hungary.
 
@@ -14,4 +14,4 @@ Obudai Island is a music venue in Budapest listed on soundcheck. 1 upcoming nigh
 
 Budapest, Hungary, Budapest
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/obudai-island/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/obudai-island/)*

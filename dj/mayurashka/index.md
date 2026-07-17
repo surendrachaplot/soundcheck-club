@@ -1,6 +1,6 @@
 # MAYURASHKA
 
-MAYURASHKA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Strange Brew, Bristol on Fri, 14 Aug 2026.
+MAYURASHKA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Strange Brew, Bristol on Fri, 14 Aug 2026.
 
 MAYURASHKA is a house and techno artist based in Japan, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Hongkong and London and 6 more. Often billed alongside levolant, John Talabot and Samo. Next up: Strange Brew, Bristol on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ MAYURASHKA is a house and techno artist based in Japan, tracked on soundcheck, w
 
 levolant, John Talabot, Samo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayurashka/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mayurashka/)*

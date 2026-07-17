@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a Techno and Reggaeton artist with 11 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 16 Jul 2026.
+TBA is a Techno and Reggaeton artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Rummelsburger Bucht, Berlin on Thu, 23 Jul 2026.
 
-TBA is a techno and reggaeton artist tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 40 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA - Rummelsburger Bucht, Berlin on Thu 16 Jul.
+TBA is a techno and reggaeton artist tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 40 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA - Rummelsburger Bucht, Berlin on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | TBA - Rummelsburger Bucht | Berlin |
 | Thu, 23 Jul 2026 | TBA - Rummelsburger Bucht | Berlin |
 | Sat, 25 Jul 2026 | Haus73 | Hamburg |
 | Thu, 30 Jul 2026 | TBA - Rummelsburger Bucht | Berlin |
@@ -22,6 +21,7 @@ TBA is a techno and reggaeton artist tracked on soundcheck, with 230 sets logged
 
 ## Recently played
 
+- TBA - Rummelsburger Bucht, Berlin — Thu, 16 Jul 2026
 - OXI, Berlin — Tue, 14 Jul 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 9 Jul 2026
 - Odonien, Cologne — Wed, 8 Jul 2026
@@ -29,10 +29,9 @@ TBA is a techno and reggaeton artist tracked on soundcheck, with 230 sets logged
 - Brixton Radio, London — Fri, 3 Jul 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 2 Jul 2026
 - Terraza Dos Equis, Mexico City — Sun, 28 Jun 2026
-- TBA - Rummelsburger Bucht, Berlin — Thu, 25 Jun 2026
 
 ## Shares bills with
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

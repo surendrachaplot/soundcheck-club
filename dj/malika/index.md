@@ -1,6 +1,6 @@
 # Malika
 
-Malika is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 17 Jul 2026.
+Malika is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sunseabar Beach Club, Barcelona on Fri, 17 Jul 2026.
 
 Malika is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: Sunseabar Beach Club, Barcelona on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Malika is a house and techno artist tracked on soundcheck, with 44 sets logged a
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

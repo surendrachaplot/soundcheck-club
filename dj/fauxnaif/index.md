@@ -1,6 +1,6 @@
 # Faux Naif
 
-Faux Naif is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at renae, Manchester on Sat, 18 Jul 2026.
+Faux Naif is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at renae, Manchester on Sat, 18 Jul 2026.
 
 Faux Naif is an ebm and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Conor Thomas, Ireen Amnes and Tapefeed. Next up: renae, Manchester on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Faux Naif is an ebm and techno artist based in United Kingdom, tracked on soundc
 
 Conor Thomas, Ireen Amnes, Tapefeed
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxnaif/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxnaif/)*

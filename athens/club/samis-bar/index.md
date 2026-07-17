@@ -1,6 +1,6 @@
 # Samis Bar
 
-Samis Bar is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Zeppolia vol. II" on Sat, 18 Jul 2026.
+Samis Bar is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Zeppolia vol. II" on Sat, 18 Jul 2026.
 
 Samis Bar is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including kvadosh and Seraphrune. Browse upcoming dates, start times and who's playing. Filis 34, 10433, Athens, Greece.
 
@@ -15,4 +15,4 @@ Samis Bar is a music venue in Athens listed on soundcheck. 2 upcoming nights, wi
 
 Filis 34, 10433, Athens, Greece, Athens
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/samis-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/samis-bar/)*

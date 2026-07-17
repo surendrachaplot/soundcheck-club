@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "135+ mit Cycling Club Collective & Secret Trance Frequencies" on Thu, 16 Jul 2026.
+Bahnwärter Thiel is a music venue in Munich with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sachsentrance & Hot People pres. HOTBOI2300 ANL Tour - Bahnwärter Thiel" on Fri, 17 Jul 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including 9LALEY, ACE, ÆNN and Alex Volta and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 11 upcoming nights, with line-ups including 9LALEY, ACE, ÆNN and Alex Volta and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | 135+ mit Cycling Club Collective & Secret Trance Frequencies | SchokoZitrone, loumo |
 | Fri, 17 Jul 2026 | Sachsentrance & Hot People pres. HOTBOI2300 ANL Tour - Bahnwärter Thiel | HOTBOI2300, Mhan Solo, The Jakob Sister |
 | Sat, 18 Jul 2026 | CFU Open Air & Club / Bahnwärter Thiel | Dykstra, Marcel Dusk, SASHTY, SILSAN, Shishmish, Thea (BG) |
 | Thu, 23 Jul 2026 | 135+ mit Unikat & Collapse | ACE, Cottí Larje, Encountear, HIVEMIND |
@@ -18,9 +17,10 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming n
 | Sat, 1 Aug 2026 | Wannda Circus / Bahnwärter Edition | ANASTASÍA, F Red, NUAH |
 | Fri, 7 Aug 2026 | Freitag mit Modul Kollektiv / Bahnwärter Thiel | Danca, Modul Kollektiv, Okarim, Quirin (DE) |
 | Sat, 8 Aug 2026 | Sommerfest - Moritz Butschek invites - Open Air & Club | Bertolt Frech, Kerry Gold, Moritz Butschek, Sabrina Hawk, ÆNN |
+| Fri, 21 Aug 2026 | Toy Tonics Summer Jam - Open Air & Club |  |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

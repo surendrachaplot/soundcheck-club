@@ -1,6 +1,6 @@
 # Fastlove
 
-Fastlove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
+Fastlove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TILLATEC, Amsterdam on Fri, 17 Jul 2026.
 
 Fastlove is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Rhod Parry. Next up: TILLATEC, Amsterdam on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Fastlove is a house and techno artist tracked on soundcheck, with 75 sets logged
 
 Aiden Francis, Merve, Rhod Parry
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*

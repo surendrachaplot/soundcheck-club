@@ -1,6 +1,6 @@
 # Ampere
 
-Ampere is a music venue in Munich with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sahra PARTY presents: CHAMOS Debut in Munich" on Sat, 12 Sept 2026.
+Ampere is a music venue in Munich with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sahra PARTY presents: CHAMOS Debut in Munich" on Sat, 12 Sept 2026.
 
 Ampere is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including CHAMOS. Browse upcoming dates, start times and who's playing. Zellstrasse 4,  81667 Munich.
 
@@ -14,4 +14,4 @@ Ampere is a music venue in Munich listed on soundcheck. 1 upcoming night, with l
 
 Zellstrasse 4,  81667 Munich, Munich
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/ampere/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/ampere/)*

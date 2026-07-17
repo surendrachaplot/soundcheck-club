@@ -1,6 +1,6 @@
 # Opium Hum
 
-Opium Hum is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Panke, Berlin on Sat, 18 Jul 2026.
+Opium Hum is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Panke, Berlin on Sat, 18 Jul 2026.
 
 Opium Hum is a techno and bass artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Leipzig, Lisbon and London and 9 more. Often billed alongside Born in Flamez, Skrillex and AXT. Next up: Panke, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Opium Hum is a techno and bass artist based in Germany, tracked on soundcheck, w
 
 Born in Flamez, Skrillex, AXT
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/opiumhum/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/opiumhum/)*

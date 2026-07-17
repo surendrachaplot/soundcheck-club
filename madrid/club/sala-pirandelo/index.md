@@ -1,6 +1,6 @@
 # Sala Pirandelo
 
-Sala Pirandelo is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "ITACA SUMMER EDITION WITH TRESSHEX, KSAL, JUAN REGO ND GUIJXSV" on Sat, 18 Jul 2026.
+Sala Pirandelo is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "ITACA SUMMER EDITION WITH TRESSHEX, KSAL, JUAN REGO ND GUIJXSV" on Sat, 18 Jul 2026.
 
 Sala Pirandelo is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including KSAL. Browse upcoming dates, start times and who's playing. Calle de Martín de los Heros, 14; 28008 Madrid; Spain.
 
@@ -14,4 +14,4 @@ Sala Pirandelo is a music venue in Madrid listed on soundcheck. 1 upcoming night
 
 Calle de Martín de los Heros, 14; 28008 Madrid; Spain, Madrid
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*

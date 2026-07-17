@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Colliding Pins + Wax Assassin - ALL NIGHT" on Fri, 17 Jul 2026.
+The Eagle of Detroit is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Colliding Pins + Wax Assassin - ALL NIGHT" on Fri, 17 Jul 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Amino, autogyro, Colliding Pins and Duck Trash and 2 more. Browse upcoming dates, start times and who's playing. 950 West McNichols.
 
@@ -17,4 +17,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 4 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

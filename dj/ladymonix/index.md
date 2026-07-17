@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Green Room NYC, New York City on Sat, 18 Jul 2026.
+LADYMONIX is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Green Room NYC, New York City on Sat, 18 Jul 2026.
 
 LADYMONIX is a house and techno artist tracked on soundcheck, with 145 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: Green Room NYC, Newyorkcity on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 145 sets logg
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

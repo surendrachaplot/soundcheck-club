@@ -1,6 +1,6 @@
 # meat computer
 
-meat computer is a Experimental and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Colour Factory, London on Fri, 17 Jul 2026.
+meat computer is a Experimental and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colour Factory, London on Fri, 17 Jul 2026.
 
 meat computer is an experimental and hip-hop artist tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Dublin and Frankfurt and 9 more. Often billed alongside Oatmilkandcodeine, Yungster Jack and 3LNA. Next up: Colour Factory, London on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ meat computer is an experimental and hip-hop artist tracked on soundcheck, with 
 
 Oatmilkandcodeine, Yungster Jack, 3LNA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meatcomputer/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meatcomputer/)*

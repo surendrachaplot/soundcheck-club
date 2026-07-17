@@ -1,6 +1,6 @@
 # Chris MS
 
-Chris MS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
+Chris MS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
 
 Chris MS is a house and disco artist based in Japan, tracked on soundcheck, with 50 sets logged across Seoul and Tokyo. Often billed alongside V_R_A_P, Al Jones and Nari (2). Next up: Oath, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Chris MS is a house and disco artist based in Japan, tracked on soundcheck, with
 
 V_R_A_P, Al Jones, Nari (2)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisms/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisms/)*

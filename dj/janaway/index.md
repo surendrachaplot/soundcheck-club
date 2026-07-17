@@ -1,6 +1,6 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
+Janaway is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Cause, London on Sun, 2 Aug 2026.
 
 Janaway is a jungle and hardcore artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: The Cause, London on Sun 2 Aug.
 
@@ -28,4 +28,4 @@ Janaway is a jungle and hardcore artist tracked on soundcheck, with 77 sets logg
 
 The Bass Injector, Guido YZ, Mousai
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*

@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Interplanetary Criminal is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 246 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

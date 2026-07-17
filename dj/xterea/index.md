@@ -1,6 +1,6 @@
 # Xterea
 
-Xterea is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The White Hotel, Manchester on Fri, 17 Jul 2026.
+Xterea is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The White Hotel, Manchester on Fri, 17 Jul 2026.
 
 Xterea is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside Ben Vince, John T. Gast and Kamixlo. Next up: The White Hotel, Manchester on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Xterea is an experimental and club artist based in United Kingdom, tracked on so
 
 Ben Vince, John T. Gast, Kamixlo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*

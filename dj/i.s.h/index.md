@@ -1,6 +1,6 @@
 # I.S.H
 
-I.S.H is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cuff Complex, Seattle on Fri, 17 Jul 2026.
+I.S.H is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Cuff Complex, Seattle on Fri, 17 Jul 2026.
 
 I.S.H is a house and tech house artist tracked on soundcheck, with 19 sets logged across Sanfrancisco, Seattle and Vancouver. Often billed alongside Alec Fursman, Sammy Taylor and 858fantasy. Next up: The Cuff Complex, Seattle on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ I.S.H is a house and tech house artist tracked on soundcheck, with 19 sets logge
 
 Alec Fursman, Sammy Taylor, 858fantasy
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i.s.h/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i.s.h/)*

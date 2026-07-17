@@ -1,6 +1,6 @@
 # Ex Macello
 
-Ex Macello is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Ex Macello Open Air with Leo Mas, Rollover Djs, Vice Luna  " on Sat, 18 Jul 2026.
+Ex Macello is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Ex Macello Open Air with Leo Mas, Rollover Djs, Vice Luna  " on Sat, 18 Jul 2026.
 
 Ex Macello is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Charlotte de Witte, Leo Mas, Michael Bibi and Rollover Djs and 2 more. Browse upcoming dates, start times and who's playing. Viale Molise, 62, 20137 Milano MI.
 
@@ -17,4 +17,4 @@ Ex Macello is a music venue in Milan listed on soundcheck. 4 upcoming nights, wi
 
 Viale Molise, 62, 20137 Milano MI, Milan
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ex-macello/)*

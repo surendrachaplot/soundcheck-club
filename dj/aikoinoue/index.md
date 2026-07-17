@@ -1,6 +1,6 @@
 # Aiko Inoue
 
-Aiko Inoue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA, Glasgow on Sat, 18 Jul 2026.
+Aiko Inoue is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Glasgow on Sat, 18 Jul 2026.
 
 Aiko Inoue is a house and techno artist based in Japan, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 6 more. Often billed alongside Yuta Yamada, BANANA-CHAN and Andre McLeod. Next up: TBA, Glasgow on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Aiko Inoue is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Yuta Yamada, BANANA-CHAN, Andre McLeod
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aikoinoue/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aikoinoue/)*

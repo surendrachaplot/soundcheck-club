@@ -1,6 +1,6 @@
 # Hot Chip
 
-Hot Chip is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Patterns, Brighton on Sat, 19 Sept 2026.
+Hot Chip is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Patterns, Brighton on Sat, 19 Sept 2026.
 
 Hot Chip is a house and disco artist tracked on soundcheck, with 50 sets logged across Bali, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside DJ Paulette, FKJ and Joe Goddard. Next up: Patterns, Brighton on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Hot Chip is a house and disco artist tracked on soundcheck, with 50 sets logged 
 
 DJ Paulette, FKJ, Joe Goddard
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotchip/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hotchip/)*

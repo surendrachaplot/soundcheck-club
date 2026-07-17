@@ -1,6 +1,6 @@
 # Gem Wallow
 
-Gem Wallow is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
+Gem Wallow is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Oath, Tokyo on Fri, 17 Jul 2026.
 
 Gem Wallow is a house and techno artist based in Japan, tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Osaka and Tokyo. Often billed alongside Mustache X, Diego Montiel and Chris MS. Next up: Oath, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Gem Wallow is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Mustache X, Diego Montiel, Chris MS
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemwallow/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gemwallow/)*

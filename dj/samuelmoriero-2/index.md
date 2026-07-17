@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
+Samuel Moriero (2) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Schrotty, Cologne on Fri, 24 Jul 2026.
 
 Samuel Moriero (2) is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Antwerp, Berlin, Brussels and Cologne and 5 more. Often billed alongside 999999999, Daisy-it and Gianni Di Bernardo. Next up: Schrotty, Cologne on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Samuel Moriero (2) is a techno and industrial artist tracked on soundcheck, with
 
 999999999, Daisy-it, Gianni Di Bernardo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

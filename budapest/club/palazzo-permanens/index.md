@@ -1,6 +1,6 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Memphis: The Garden of The Reeds ~ Palazzo Kert" on Sat, 18 Jul 2026.
+Palazzo Permanens is a music venue in Budapest with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Memphis: The Garden of The Reeds ~ Palazzo Kert" on Sat, 18 Jul 2026.
 
 Palazzo Permanens is a music venue in Budapest listed on soundcheck. 2 upcoming nights, with line-ups including Arash Ete, CRB, DJ Syncbutton and Kiqo and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
@@ -15,4 +15,4 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 2 upcoming 
 
 Budapest, Kertész u. 36, 1072, Budapest
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*

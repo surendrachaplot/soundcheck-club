@@ -1,6 +1,6 @@
 # Nick Castle
 
-Nick Castle is a Deep House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Escala25, Lisbon on Sat, 18 Jul 2026.
+Nick Castle is a Deep House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Escala25, Lisbon on Sat, 18 Jul 2026.
 
 Nick Castle is a deep house and afro house artist tracked on soundcheck, with 54 sets logged across Birmingham, Brussels, Ibiza and Lisbon and 2 more. Often billed alongside Âme, Adriatique and Caiiro. Next up: Escala25, Lisbon on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Nick Castle is a deep house and afro house artist tracked on soundcheck, with 54
 
 Âme, Adriatique, Caiiro
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcastle/)*

@@ -1,6 +1,6 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Slopes of Mount Vesuvius, Naples on Sat, 18 Jul 2026.
+ThanksMate is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Slopes of Mount Vesuvius, Naples on Sat, 18 Jul 2026.
 
 ThanksMate is a house and disco artist tracked on soundcheck, with 52 sets logged across London, Milan, Naples and Newyorkcity and 1 more. Often billed alongside Obbi, Curcio and Mugman. Next up: TBA - Slopes of Mount Vesuvius, Naples on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ ThanksMate is a house and disco artist tracked on soundcheck, with 52 sets logge
 
 Obbi, Curcio, Mugman
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

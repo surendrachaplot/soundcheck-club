@@ -1,6 +1,6 @@
 # Miamor
 
-Miamor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Night Tales Loft, London on Fri, 17 Jul 2026.
+Miamor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Night Tales Loft, London on Fri, 17 Jul 2026.
 
 Miamor is a techno and trance artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Helena Lauwaert, MOKER and BAVR. Next up: Night Tales Loft, London on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Miamor is a techno and trance artist tracked on soundcheck, with 53 sets logged 
 
 Helena Lauwaert, MOKER, BAVR
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*

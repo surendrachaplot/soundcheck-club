@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Night Service: Day Edition w/ Ryan Elliott (4 hour set), Ty Naug & 2 boots (FOLD, Steam Room)" on Sat, 18 Jul 2026.
+FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Night Service: Day Edition w/ Ryan Elliott (4 hour set), Ty Naug & 2 boots (FOLD, Steam Room)" on Sat, 18 Jul 2026.
 
 FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 2 boots, Alarico, Alba Heidari and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -17,10 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with l
 | Fri, 7 Aug 2026 | FOLD presents KEY VINYL (EXTENDED) | Alba Heidari, Beste Hira, Freddy K, Sons Of Hidden |
 | Sat, 8 Aug 2026 | Origins: Nicola Cruz [Extended Set] Willow & Pato | Nicola Cruz, Pato, Willow |
 | Sat, 8 Aug 2026 | SLIVER • 004 | ANNX, Matriark, Mona Sage, Slinky Kinky, Tangela |
-| Fri, 14 Aug 2026 | Origins: Or:la, Pangaea & Pariah | Or:la, Pangaea, Pariah |
+| Fri, 14 Aug 2026 | Origins: Pangaea, Or:la & Pariah  | Or:la, Pangaea, Pariah |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

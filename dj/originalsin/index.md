@@ -1,6 +1,6 @@
 # Original Sin
 
-Original Sin is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Clock Factory, Bristol on Fri, 14 Aug 2026.
+Original Sin is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Clock Factory, Bristol on Fri, 14 Aug 2026.
 
 Original Sin is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton, Bristol, Geneva and Glasgow and 7 more. Often billed alongside IC3, Majistrate and BassLayerz. Next up: The Clock Factory, Bristol on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Original Sin is a drum & bass and jungle artist based in United Kingdom, tracked
 
 IC3, Majistrate, BassLayerz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/originalsin/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/originalsin/)*

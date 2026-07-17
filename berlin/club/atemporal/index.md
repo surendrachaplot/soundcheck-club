@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Peter Somuah — Walking Distance - Breakfast Listening Session & Live Trumpet Performance" on Fri, 17 Jul 2026.
+Atemporal is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Peter Somuah — Walking Distance - Breakfast Listening Session & Live Trumpet Performance" on Fri, 17 Jul 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Dimitra Zina and Zahra. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -21,4 +21,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 8 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

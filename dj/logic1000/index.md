@@ -1,6 +1,6 @@
 # Logic1000
 
-Logic1000 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
+Logic1000 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
 
 Logic1000 is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside DJ Seinfeld, Ross From Friends and DJ Holographic. Next up: fabric, London on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Logic1000 is a house and techno artist tracked on soundcheck, with 66 sets logge
 
 DJ Seinfeld, Ross From Friends, DJ Holographic
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*

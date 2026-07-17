@@ -1,6 +1,6 @@
 # Salomé Le Chat
 
-Salomé Le Chat is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
+Salomé Le Chat is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
 
 Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 21 more. Often billed alongside Ben Sterling, Jamie Jones and Marco Carola. Next up: La Clairière, Paris on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104
 
 Ben Sterling, Jamie Jones, Marco Carola
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*

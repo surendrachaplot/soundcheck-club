@@ -1,6 +1,6 @@
 # Soos
 
-Soos is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sameheads, Berlin on Fri, 17 Jul 2026.
+Soos is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sameheads, Berlin on Fri, 17 Jul 2026.
 
 Soos is a house and italo disco artist based in Mexico, tracked on soundcheck, with 92 sets logged across Barcelona, Berlin, Denver and Lisbon and 13 more. Often billed alongside Rafatel, papa jazz and Valeriana. Next up: Sameheads, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Soos is a house and italo disco artist based in Mexico, tracked on soundcheck, w
 
 Rafatel, papa jazz, Valeriana
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*

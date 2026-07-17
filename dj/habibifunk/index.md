@@ -1,6 +1,6 @@
 # Habibi Funk
 
-Habibi Funk is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Calatheabeachclub, Naples on Sat, 1 Aug 2026.
+Habibi Funk is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Calatheabeachclub, Naples on Sat, 1 Aug 2026.
 
 Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside Nabihah Iqbal, Hadj Sameer and Arp Frique. Next up: Calatheabeachclub, Naples on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Habibi Funk is a funk / soul and house artist tracked on soundcheck, with 57 set
 
 Nabihah Iqbal, Hadj Sameer, Arp Frique
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/habibifunk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/habibifunk/)*

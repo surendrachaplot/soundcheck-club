@@ -1,6 +1,6 @@
 # Wala
 
-Wala is a electronic artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Funke, Ghent on Fri, 17 Jul 2026.
+Wala is a electronic artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Funke, Ghent on Fri, 17 Jul 2026.
 
 Wala is an electronic artist based in Belgium, tracked on soundcheck, with 11 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: Funke, Ghent on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Wala is an electronic artist based in Belgium, tracked on soundcheck, with 11 se
 
 Ignez, Inox Traxx, Altinbas
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*

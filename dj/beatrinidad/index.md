@@ -1,6 +1,6 @@
 # Bea Trinidad
 
-Bea Trinidad is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Honey's, New York City on Sat, 25 Jul 2026.
+Bea Trinidad is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Honey's, New York City on Sat, 25 Jul 2026.
 
 Bea Trinidad is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Berlin, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside ANICHE, Bridge (NY) and Bustin' Loose. Next up: Honey's, Newyorkcity on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Bea Trinidad is a house and disco artist based in United States of America, trac
 
 ANICHE, Bridge (NY), Bustin' Loose
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrinidad/)*

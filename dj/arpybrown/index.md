@@ -1,6 +1,6 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Gewölbe, Cologne on Sat, 25 Jul 2026.
+Arpy Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Gewölbe, Cologne on Sat, 25 Jul 2026.
 
 Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 15 more. Often billed alongside Kapote, Gee Lane and A.tari. Next up: Gewölbe, Cologne on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Kapote, Gee Lane, A.tari
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*

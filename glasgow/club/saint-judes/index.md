@@ -1,6 +1,6 @@
 # Saint Judes
 
-Saint Judes is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "CASADURA presents: SAINT JUDE'S- CASA016" on Fri, 17 Jul 2026.
+Saint Judes is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "CASADURA presents: SAINT JUDE'S- CASA016" on Fri, 17 Jul 2026.
 
 Saint Judes is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including DJ Zitkus, Kyau & Albert, Stephen Adamson and Stephen Kirkwood and 1 more. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
 
@@ -17,4 +17,4 @@ Saint Judes is a music venue in Glasgow listed on soundcheck. 4 upcoming nights,
 
 190 Bath Street; Glasgow, G2 4HG; Scotland, Glasgow
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*

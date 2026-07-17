@@ -1,6 +1,6 @@
 # hitomori
 
-hitomori is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Teritorija, Riga on Sat, 25 Jul 2026.
+hitomori is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Teritorija, Riga on Sat, 25 Jul 2026.
 
 hitomori is a hardcore and techno artist tracked on soundcheck, with 71 sets logged across Riga and Tallinn. Often billed alongside maniken05, porfod and MVKO. Next up: Teritorija, Riga on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ hitomori is a hardcore and techno artist tracked on soundcheck, with 71 sets log
 
 maniken05, porfod, MVKO
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomori/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomori/)*

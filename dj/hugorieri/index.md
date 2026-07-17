@@ -1,6 +1,6 @@
 # Hugorieri
 
-Hugorieri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Altán Grébovka, Prague on Sat, 18 Jul 2026.
+Hugorieri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Altán Grébovka, Prague on Sat, 18 Jul 2026.
 
 Hugorieri is a house and techno artist based in Czech Republic, tracked on soundcheck, with 59 sets logged across Berlin and Prague. Often billed alongside Ondrej K, Blackloud and DJ Lumiere. Next up: Altán Grébovka, Prague on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Hugorieri is a house and techno artist based in Czech Republic, tracked on sound
 
 Ondrej K, Blackloud, DJ Lumiere
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorieri/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hugorieri/)*

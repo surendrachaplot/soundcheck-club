@@ -1,6 +1,6 @@
 # The Advent
 
-The Advent is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BLITZ, Munich on Fri, 17 Jul 2026.
+The Advent is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BLITZ, Munich on Fri, 17 Jul 2026.
 
 The Advent is a techno and electro artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside Nastia, Philippa Pacho and Stef Mendesidis. Next up: BLITZ, Munich on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ The Advent is a techno and electro artist tracked on soundcheck, with 89 sets lo
 
 Nastia, Philippa Pacho, Stef Mendesidis
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

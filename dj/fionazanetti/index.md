@@ -1,6 +1,6 @@
 # Fiona Zanetti
 
-Fiona Zanetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Fiona Zanetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Simone de Kunovich, Gerd Janson and Helena Lauwaert. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soun
 
 Simone de Kunovich, Gerd Janson, Helena Lauwaert
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*

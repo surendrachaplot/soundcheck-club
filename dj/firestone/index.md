@@ -1,6 +1,6 @@
 # Firestone
 
-Firestone is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 18 Jul 2026.
+Firestone is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 18 Jul 2026.
 
 Firestone is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Newyorkcity and Philadelphia. Often billed alongside hopifer, Riva + Bianca and Doll Redacted. Next up: Val’s Lesbian Bar, Philadelphia on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Firestone is a house and techno artist based in United States of America, tracke
 
 hopifer, Riva + Bianca, Doll Redacted
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/firestone/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/firestone/)*

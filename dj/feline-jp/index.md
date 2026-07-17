@@ -1,6 +1,6 @@
 # FELINE (JP)
 
-FELINE (JP) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Adrift, Tokyo on Fri, 17 Jul 2026.
+FELINE (JP) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Adrift, Tokyo on Fri, 17 Jul 2026.
 
 FELINE (JP) is a house and techno artist tracked on soundcheck, with 213 sets logged across Kyoto, Osaka, Sanfrancisco and Tokyo. Often billed alongside okadada, K8 (TYO GQOM) and Sekitova. Next up: Adrift, Tokyo on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ FELINE (JP) is a house and techno artist tracked on soundcheck, with 213 sets lo
 
 okadada, K8 (TYO GQOM), Sekitova
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*

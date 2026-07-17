@@ -1,6 +1,6 @@
 # Lixi
 
-Lixi is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
+Lixi is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ritter Butzke, Berlin on Sat, 25 Jul 2026.
 
 Lixi is a techno and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Prague. Often billed alongside VRTL, Aunty Nora and Sub Sahara. Next up: Ritter Butzke, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Lixi is a techno and tech house artist based in Germany, tracked on soundcheck, 
 
 VRTL, Aunty Nora, Sub Sahara
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lixi-de/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lixi-de/)*

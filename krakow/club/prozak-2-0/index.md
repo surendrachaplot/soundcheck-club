@@ -1,14 +1,13 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "what a mess we made" on Thu, 16 Jul 2026.
+Prozak 2.0 is a music venue in Krakow with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ALL THE COOL KIDS LISTEN TO ELECTRO" on Fri, 17 Jul 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 9 upcoming nights, with line-ups including Hiago Pauli, Kara Okay, Kuriozum and Meg (PL) and 1 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 8 upcoming nights, with line-ups including Hiago Pauli, Kara Okay, Kuriozum and Meg (PL). Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | what a mess we made | outta_8 |
 | Fri, 17 Jul 2026 | ALL THE COOL KIDS LISTEN TO ELECTRO |  |
 | Sat, 18 Jul 2026 | From Australia with Love | Hiago Pauli, Meg (PL) |
 | Thu, 23 Jul 2026 | 90s RAVE |  |
@@ -22,4 +21,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 9 upcoming nights, w
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

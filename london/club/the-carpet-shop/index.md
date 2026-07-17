@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Utopia presents Last Nubian, DREY, Oscillation and residents" on Fri, 17 Jul 2026.
+The Carpet Shop is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Utopia presents Last Nubian, DREY, Oscillation and residents" on Fri, 17 Jul 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including 1MOREPIZZAPLS, Amancai, Bobby. and Boofy and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 12 upcoming nig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

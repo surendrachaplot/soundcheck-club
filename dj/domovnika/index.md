@@ -1,6 +1,6 @@
 # Domovnika
 
-Domovnika is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 24 Jul 2026.
+Domovnika is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Der Weiße Hase, Berlin on Fri, 24 Jul 2026.
 
 Domovnika is a techno and trance artist tracked on soundcheck, with 29 sets logged across Berlin, Madrid and Prague. Often billed alongside Tina von Kugler, 10961 and Alyne. Next up: Der Weiße Hase, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Domovnika is a techno and trance artist tracked on soundcheck, with 29 sets logg
 
 Tina von Kugler, 10961, Alyne
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*

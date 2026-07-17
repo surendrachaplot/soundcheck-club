@@ -1,6 +1,6 @@
 # Industriepalast Hostel
 
-Industriepalast Hostel is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "FREE OPEN AIR - CHRMTCA" on Sat, 19 Sept 2026.
+Industriepalast Hostel is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "FREE OPEN AIR - CHRMTCA" on Sat, 19 Sept 2026.
 
 Industriepalast Hostel is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Warschauer Strasse 43 Berlin 10243.
 
@@ -14,4 +14,4 @@ Industriepalast Hostel is a music venue in Berlin listed on soundcheck. 1 upcomi
 
 Warschauer Strasse 43 Berlin 10243, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/industriepalast-hostel/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/industriepalast-hostel/)*

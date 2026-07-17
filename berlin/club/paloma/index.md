@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Paloma Invites" on Fri, 17 Jul 2026.
+Paloma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Paloma Invites" on Fri, 17 Jul 2026.
 
 Paloma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 11:68PM, bb:fm, Behrang Mohammadi and Ben Mono and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
@@ -23,4 +23,4 @@ Paloma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

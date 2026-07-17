@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 19 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Flowers of Romance feat. Annika Wolfe (LIVE) - Justin Aulis Long - Scotia" on Fri, 17 Jul 2026.
+smartbar is a music venue in Chicago with 19 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Flowers of Romance feat. Annika Wolfe (LIVE) - Justin Aulis Long - Scotia" on Fri, 17 Jul 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming nights, with line-ups including Annika Wolfe, Ariel Zetina, Blu9 and CCTV and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

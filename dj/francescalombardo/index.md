@@ -1,6 +1,6 @@
 # Francesca Lombardo
 
-Francesca Lombardo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Signal, New York City on Fri, 17 Jul 2026.
+Francesca Lombardo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Signal, New York City on Fri, 17 Jul 2026.
 
 Francesca Lombardo is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Boston and Bucharest and 18 more. Often billed alongside Anthony Middleton, Cassy and Esther Silex. Next up: Signal, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Francesca Lombardo is a house and deep house artist based in United Kingdom, tra
 
 Anthony Middleton, Cassy, Esther Silex
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*

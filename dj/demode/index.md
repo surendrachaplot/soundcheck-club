@@ -1,6 +1,6 @@
 # De Mode
 
-De Mode is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bike Jesus, Prague on Fri, 17 Jul 2026.
+De Mode is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bike Jesus, Prague on Fri, 17 Jul 2026.
 
 De Mode is a disco and techno artist tracked on soundcheck, with 133 sets logged across Berlin, Losangeles, Prague and Vienna. Often billed alongside Ark3r, kuju and Anton Kubikov. Next up: Bike Jesus, Prague on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ De Mode is a disco and techno artist tracked on soundcheck, with 133 sets logged
 
 Ark3r, kuju, Anton Kubikov
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/demode/)*

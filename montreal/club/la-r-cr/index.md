@@ -1,6 +1,6 @@
 # La Récré
 
-La Récré is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "U-TURN x moodswings" on Sat, 18 Jul 2026.
+La Récré is a music venue in Montreal with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "U-TURN x moodswings" on Sat, 18 Jul 2026.
 
 La Récré is a music venue in Montreal listed on soundcheck. 3 upcoming nights, with line-ups including CMD, DEEPY, Emil Paquin and esme (US) and 2 more. Browse upcoming dates, start times and who's playing. 5860 Av. De Lorimier, Montréal, QC H2G 2N9.
 
@@ -16,4 +16,4 @@ La Récré is a music venue in Montreal listed on soundcheck. 3 upcoming nights,
 
 5860 Av. De Lorimier, Montréal, QC H2G 2N9, Montreal
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-r-cr/)*

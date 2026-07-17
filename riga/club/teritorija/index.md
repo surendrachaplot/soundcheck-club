@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Let's Do Techno X Scotish Base vol. 2" on Fri, 17 Jul 2026.
+Teritorija is a music venue in Riga with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Let's Do Techno X Scotish Base vol. 2" on Fri, 17 Jul 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, with line-ups including angelic waves, A$PHYXXXÏA, ARRISHA and B2BBASS and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 11 upcoming nights, wi
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

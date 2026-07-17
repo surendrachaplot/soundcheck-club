@@ -1,6 +1,6 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
+DJ Colette is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
 
 DJ Colette is a house and deep house artist tracked on soundcheck, with 69 sets logged across Chicago, Detroit, Losangeles and Melbourne and 10 more. Often billed alongside DJ Heather, Pete Moss and Bear Who?. Next up: Shoreline Aquatic Park, Losangeles on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ DJ Colette is a house and deep house artist tracked on soundcheck, with 69 sets 
 
 DJ Heather, Pete Moss, Bear Who?
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

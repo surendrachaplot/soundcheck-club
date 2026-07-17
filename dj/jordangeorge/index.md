@@ -1,6 +1,6 @@
 # Jordan George
 
-Jordan George is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Baggen, Copenhagen on Sat, 18 Jul 2026.
+Jordan George is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Baggen, Copenhagen on Sat, 18 Jul 2026.
 
 Jordan George is a house and electro artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Copenhagen, Dublin, Edinburgh and Liverpool. Often billed alongside Adrian Salcedo, BORLEY and Harrison Heat. Next up: Baggen, Copenhagen on Sat 18 Jul.
 
@@ -20,4 +20,4 @@ Jordan George is a house and electro artist based in United Kingdom, tracked on 
 
 Adrian Salcedo, BORLEY, Harrison Heat
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*

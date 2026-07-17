@@ -1,6 +1,6 @@
 # Bonnie Spacey
 
-Bonnie Spacey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Petit CAB, Marseille on Sat, 25 Jul 2026.
+Bonnie Spacey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Petit CAB, Marseille on Sat, 25 Jul 2026.
 
 Bonnie Spacey is a house and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Brussels, Frankfurt and Leipzig and 7 more. Often billed alongside Franz Matthews, gizA djs and Barbur. Next up: Petit CAB, Marseille on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Bonnie Spacey is a house and techno artist tracked on soundcheck, with 55 sets l
 
 Franz Matthews, gizA djs, Barbur
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*

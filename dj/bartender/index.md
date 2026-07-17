@@ -1,6 +1,6 @@
 # bart ender
 
-bart ender is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Plażówka Saska, Warsaw on Fri, 17 Jul 2026.
+bart ender is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Plażówka Saska, Warsaw on Fri, 17 Jul 2026.
 
 bart ender is a techno and house artist based in Poland, tracked on soundcheck, with 43 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, bielak and Taan. Next up: Plażówka Saska, Warsaw on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ bart ender is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Schmeltzer, bielak, Taan
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bartender/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bartender/)*

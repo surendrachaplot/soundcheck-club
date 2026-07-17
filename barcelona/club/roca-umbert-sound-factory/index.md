@@ -1,6 +1,6 @@
 # Roca Umbert Sound Factory
 
-Roca Umbert Sound Factory is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "RUSF Series: RM Estali (live) + Obak" on Fri, 31 Jul 2026.
+Roca Umbert Sound Factory is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "RUSF Series: RM Estali (live) + Obak" on Fri, 31 Jul 2026.
 
 Roca Umbert Sound Factory is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including RM Estali. Browse upcoming dates, start times and who's playing. Carrer d'Enric Prat de la Riba, 77, 08401 Granollers, Barcelona.
 
@@ -14,4 +14,4 @@ Roca Umbert Sound Factory is a music venue in Barcelona listed on soundcheck. 1 
 
 Carrer d'Enric Prat de la Riba, 77, 08401 Granollers, Barcelona, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/roca-umbert-sound-factory/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/roca-umbert-sound-factory/)*

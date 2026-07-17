@@ -1,6 +1,6 @@
 # & Island
 
-& Island is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "dwarf" on Sun, 19 Jul 2026.
+& Island is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "dwarf" on Sun, 19 Jul 2026.
 
 & Island is a music venue in Osaka listed on soundcheck. 1 upcoming night, with line-ups including AOKI takamasa and MiTSUYAS. Browse upcoming dates, start times and who's playing. 2-1-23 Kitahama, Chuo-ku, Osaka-shi, Osaka, 541-0041 Japan.
 
@@ -14,4 +14,4 @@
 
 2-1-23 Kitahama, Chuo-ku, Osaka-shi, Osaka, 541-0041 Japan, Osaka
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/island/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/island/)*

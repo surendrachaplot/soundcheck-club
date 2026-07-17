@@ -1,6 +1,6 @@
 # Zinkbad Eventhalle
 
-Zinkbad Eventhalle is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "AFTER PARADE WHITE WOLF INFITY - Techno Acid Remember Trance in Zürich" on Sat, 8 Aug 2026.
+Zinkbad Eventhalle is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "AFTER PARADE WHITE WOLF INFITY - Techno Acid Remember Trance in Zürich" on Sat, 8 Aug 2026.
 
 Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Jerome, KNTRLVRLST, Luzy and Marco V and 2 more. Browse upcoming dates, start times and who's playing. Geerenweg 2, 8048 Zürich, Schweiz.
 
@@ -15,4 +15,4 @@ Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 2 upcoming n
 
 Geerenweg 2, 8048 Zürich, Schweiz, Zurich
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zinkbad-eventhalle/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zinkbad-eventhalle/)*

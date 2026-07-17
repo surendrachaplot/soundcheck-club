@@ -1,6 +1,6 @@
 # Zisko
 
-Zisko is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Zisko is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
 Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Zisko is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Blasha & Allatt, Marcal, Ogazón
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zisko/)*

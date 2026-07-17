@@ -1,6 +1,6 @@
 # Unromantic
 
-Unromantic is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Thomas Read Pub, Hamburg on Sat, 18 Jul 2026.
+Unromantic is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Thomas Read Pub, Hamburg on Sat, 18 Jul 2026.
 
 Unromantic is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside TWOFACEDKIMMY, AH-N!CE and Eva Nyx. Next up: Thomas Read Pub, Hamburg on Sat 18 Jul.
 
@@ -23,4 +23,4 @@ Unromantic is a techno and trance artist based in Germany, tracked on soundcheck
 
 TWOFACEDKIMMY, AH-N!CE, Eva Nyx
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unromantic/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unromantic/)*

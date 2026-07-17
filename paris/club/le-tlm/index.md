@@ -1,6 +1,6 @@
 # Le TLM
 
-Le TLM is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "decibelt sessions with AKiLDiTU" on Fri, 24 Jul 2026.
+Le TLM is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "decibelt sessions with AKiLDiTU" on Fri, 24 Jul 2026.
 
 Le TLM is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Le TLM is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse 
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | decibelt sessions with AKiLDiTU |  |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-tlm/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-tlm/)*

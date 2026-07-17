@@ -1,6 +1,6 @@
 # Paulete Lindacelva
 
-Paulete Lindacelva is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Paulete Lindacelva is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Paulete Lindacelva is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Buenosaires and Leipzig and 8 more. Often billed alongside Cashu, BADSISTA and Gezender. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Paulete Lindacelva is a house and disco artist tracked on soundcheck, with 88 se
 
 Cashu, BADSISTA, Gezender
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*

@@ -1,6 +1,6 @@
 # Eden NYC
 
-Eden NYC is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Fractals PRESENTS: DKOXY" on Fri, 24 Jul 2026.
+Eden NYC is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Fractals PRESENTS: DKOXY" on Fri, 24 Jul 2026.
 
 Eden NYC is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Djgothqueen (3), D|K|OXY, Nasser Baker and Nico Noir and 2 more. Browse upcoming dates, start times and who's playing. 20 w 36th St.
 
@@ -15,4 +15,4 @@ Eden NYC is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights
 
 20 w 36th St, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*

@@ -1,6 +1,6 @@
 # Rodent
 
-Rodent is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Bongo Club, Edinburgh on Fri, 17 Jul 2026.
+Rodent is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Bongo Club, Edinburgh on Fri, 17 Jul 2026.
 
 Rodent is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Buenosaires, Edinburgh, Glasgow and London and 1 more. Often billed alongside F:N (UK), Teknocrat and Pollyanna. Next up: The Bongo Club, Edinburgh on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Rodent is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 F:N (UK), Teknocrat, Pollyanna
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodent/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodent/)*

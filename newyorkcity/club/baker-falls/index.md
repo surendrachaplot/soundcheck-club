@@ -1,6 +1,6 @@
 # Baker Falls
 
-Baker Falls is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "TUNNELWERK: RIVETHEAD REVOLUTION - ft Flesh_Bot & XSB-R" on Thu, 30 Jul 2026.
+Baker Falls is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "TUNNELWERK: RIVETHEAD REVOLUTION - ft Flesh_Bot & XSB-R" on Thu, 30 Jul 2026.
 
 Baker Falls is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including DJ Flesh_Bot and XSB-R. Browse upcoming dates, start times and who's playing. 192 Allen Street, New York, NY 10002, USA.
 
@@ -14,4 +14,4 @@ Baker Falls is a music venue in Newyorkcity listed on soundcheck. 1 upcoming nig
 
 192 Allen Street, New York, NY 10002, USA, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/baker-falls/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/baker-falls/)*

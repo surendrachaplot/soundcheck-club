@@ -1,6 +1,6 @@
 # DZiK
 
-DZiK is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "DIVAS ♛ Fafik & Friends" on Fri, 17 Jul 2026.
+DZiK is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "DIVAS ♛ Fafik & Friends" on Fri, 17 Jul 2026.
 
 DZiK is a music venue in Warsaw listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Belwederska 44 A, 00-594 Warszawa.
 
@@ -15,4 +15,4 @@ DZiK is a music venue in Warsaw listed on soundcheck. 2 upcoming nights. Browse 
 
 Belwederska 44 A, 00-594 Warszawa, Warsaw
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/dzik/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/dzik/)*

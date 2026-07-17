@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 15 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "OFC AFTERSHOW PARTY OF INSZENE" on Fri, 17 Jul 2026.
+Fridas Pier is a music venue in Stuttgart with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "OFC AFTERSHOW PARTY OF INSZENE" on Fri, 17 Jul 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming nights, with line-ups including Acid Pauli, Alex Kassian, Annina and Bjørnson and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming nigh
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

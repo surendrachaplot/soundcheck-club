@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
 MALUGI is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Garchinger See, Munich on Sat 18 Jul.
 
@@ -33,4 +33,4 @@ MALUGI is a techno and house artist tracked on soundcheck, with 217 sets logged 
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

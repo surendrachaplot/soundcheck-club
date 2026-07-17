@@ -1,6 +1,6 @@
 # Syd Woz
 
-Syd Woz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 19 Jul 2026.
+Syd Woz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 19 Jul 2026.
 
 Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, with 36 sets logged across Berlin, Montreal, Newyorkcity and Portland and 1 more. Often billed alongside ZDBT, DJ dood and Frankie Teardrop. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Syd Woz is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 ZDBT, DJ dood, Frankie Teardrop
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*

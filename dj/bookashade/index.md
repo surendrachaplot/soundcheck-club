@@ -1,6 +1,6 @@
 # Booka Shade
 
-Booka Shade is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
+Booka Shade is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
 
 Booka Shade is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Agatha Pher, Asch Pintura and Crookers. Next up: Superordinary, Brisbane on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Booka Shade is a techno and house artist tracked on soundcheck, with 63 sets log
 
 Agatha Pher, Asch Pintura, Crookers
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bookashade/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bookashade/)*

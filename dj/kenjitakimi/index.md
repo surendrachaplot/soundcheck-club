@@ -1,6 +1,6 @@
 # Kenji Takimi
 
-Kenji Takimi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Klymax Discotheque, Bali on Sat, 18 Jul 2026.
+Kenji Takimi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klymax Discotheque, Bali on Sat, 18 Jul 2026.
 
 Kenji Takimi is a house and disco artist based in Japan, tracked on soundcheck, with 86 sets logged across Auckland, Bali, Melbourne and Osaka and 4 more. Often billed alongside YAMARCHY, Monkey Timers and Daichi. Next up: Klymax Discotheque, Bali on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Kenji Takimi is a house and disco artist based in Japan, tracked on soundcheck, 
 
 YAMARCHY, Monkey Timers, Daichi
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*

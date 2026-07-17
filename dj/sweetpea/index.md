@@ -1,6 +1,6 @@
 # Sweetpea
 
-Sweetpea is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Fox and Firkin, London on Fri, 14 Aug 2026.
+Sweetpea is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Fox and Firkin, London on Fri, 14 Aug 2026.
 
 Sweetpea is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Decibella, Dillinja and Minor Forms. Next up: The Fox and Firkin, London on Fri 14 Aug.
 
@@ -27,4 +27,4 @@ Sweetpea is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Decibella, Dillinja, Minor Forms
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetpea/)*

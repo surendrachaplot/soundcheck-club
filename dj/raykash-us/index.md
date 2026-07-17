@@ -1,6 +1,6 @@
 # Ray Kash
 
-Ray Kash is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
+Ray Kash is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Shoreline Aquatic Park, Los Angeles on Sat, 18 Jul 2026.
 
 Ray Kash is a house and deep house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Barcelona, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Enzo Muro, Artur (US) and Borak. Next up: Shoreline Aquatic Park, Losangeles on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Ray Kash is a house and deep house artist based in United States of America, tra
 
 Enzo Muro, Artur (US), Borak
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raykash-us/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/raykash-us/)*

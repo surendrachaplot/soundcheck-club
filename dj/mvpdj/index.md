@@ -1,6 +1,6 @@
 # MVPDJ
 
-MVPDJ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sala ART, Madrid on Fri, 17 Jul 2026.
+MVPDJ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sala ART, Madrid on Fri, 17 Jul 2026.
 
 MVPDJ is a techno and industrial artist based in Spain, tracked on soundcheck, with 41 sets logged across Madrid. Often billed alongside JAWS, Kuroi and Lexmax. Next up: Sala ART, Madrid on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ MVPDJ is a techno and industrial artist based in Spain, tracked on soundcheck, w
 
 JAWS, Kuroi, Lexmax
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mvpdj/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mvpdj/)*

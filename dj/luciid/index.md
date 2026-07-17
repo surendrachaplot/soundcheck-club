@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mia Mao, Paris on Fri, 7 Aug 2026.
+Luciid is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Mia Mao, Paris on Fri, 7 Aug 2026.
 
 Luciid is a techno and industrial artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Skryption, Vendex and Dexphase. Next up: Mia Mao, Paris on Fri 7 Aug.
 
@@ -28,4 +28,4 @@ Luciid is a techno and industrial artist tracked on soundcheck, with 107 sets lo
 
 Skryption, Vendex, Dexphase
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

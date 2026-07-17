@@ -1,6 +1,6 @@
 # WALL & WALL
 
-WALL & WALL is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "dadaviva! Vol.3" on Thu, 6 Aug 2026.
+WALL & WALL is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "dadaviva! Vol.3" on Thu, 6 Aug 2026.
 
 WALL & WALL is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -14,4 +14,4 @@ WALL & WALL is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Br
 
 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*

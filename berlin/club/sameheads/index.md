@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Bad Times Disco (Berlin)" on Fri, 17 Jul 2026.
+Sameheads is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Bad Times Disco (Berlin)" on Fri, 17 Jul 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Yoshi (DE), Ani Phoebe, Brasi and DOLL.fin and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 3 upcoming nights, wi
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

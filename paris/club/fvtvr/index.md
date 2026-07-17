@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "IMF: Marcel Fengler, Phase Fatale, STEYA, Hebi Snake" on Fri, 17 Jul 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "IMF: Marcel Fengler, Phase Fatale, STEYA, Hebi Snake" on Fri, 17 Jul 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adriana Lopez, Alhena_, A.M. Project and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -22,4 +22,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

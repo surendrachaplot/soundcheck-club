@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Heavy House Society: Summer Terrace Party | Leeds" on Sat, 18 Jul 2026.
+Mint Warehouse is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Heavy House Society: Summer Terrace Party | Leeds" on Sat, 18 Jul 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including Alec Falconer, Arty (UK), Boss Priester and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -19,4 +19,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 6 upcoming nights
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

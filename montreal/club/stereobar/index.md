@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Queenie Jr b2b Vayia" on Fri, 17 Jul 2026.
+StereoBar is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Queenie Jr b2b Vayia" on Fri, 17 Jul 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Lumbago, Mihai Popoviciu, Moaad BKR and Monitors and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -20,4 +20,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 7 upcoming nights, 
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

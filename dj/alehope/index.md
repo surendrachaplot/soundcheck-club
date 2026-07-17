@@ -1,6 +1,6 @@
 # Ale Hope
 
-Ale Hope is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Luz De Gas, Barcelona on Sat, 18 Jul 2026.
+Ale Hope is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Luz De Gas, Barcelona on Sat, 18 Jul 2026.
 
 Ale Hope is a house and techno artist based in Italy, tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Madrid and Milan and 2 more. Often billed alongside ONA (SP), Marta Mer and MA RA. Next up: Luz De Gas, Barcelona on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Ale Hope is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 ONA (SP), Marta Mer, MA RA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alehope/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alehope/)*

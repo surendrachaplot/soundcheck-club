@@ -1,14 +1,13 @@
 # Simo Cell
 
-Simo Cell is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tones Teatro Natura, Milan on Thu, 16 Jul 2026.
+Simo Cell is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris on Wed, 29 Jul 2026.
 
-Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside CCL, DjRUM and Ehua. Next up: Tones Teatro Natura, Milan on Thu 16 Jul.
+Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside CCL, DjRUM and Ehua. Next up: TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Tones Teatro Natura | Milan |
 | Wed, 29 Jul 2026 | TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris | Paris |
 | Wed, 29 Jul 2026 | TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris | Paris |
 | Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -16,6 +15,7 @@ Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logge
 
 ## Recently played
 
+- Tones Teatro Natura, Milan — Thu, 16 Jul 2026
 - TILLATEC, Amsterdam — Sat, 30 May 2026
 - Karmakoma, Belgrade — Sat, 16 May 2026
 - M.O.T, London — Sat, 2 May 2026
@@ -23,10 +23,9 @@ Simo Cell is a techno and bass artist tracked on soundcheck, with 108 sets logge
 - Badaboum, Paris — Sat, 4 Apr 2026
 - Le Lieu Unique / Nantes, Nantes — Sat, 4 Apr 2026
 - OIL Club, Shenzhen — Fri, 13 Mar 2026
-- WWWβ, Tokyo — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 CCL, DjRUM, Ehua
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

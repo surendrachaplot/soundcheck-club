@@ -1,6 +1,6 @@
 # Import Export
 
-Import Export is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Aylin’s Soulgarden + Container „Open Project Band“ + DJ Süperfly" on Fri, 17 Jul 2026.
+Import Export is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Aylin’s Soulgarden + Container „Open Project Band“ + DJ Süperfly" on Fri, 17 Jul 2026.
 
 Import Export is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including CONTAGIOUS. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
@@ -17,4 +17,4 @@ Import Export is a music venue in Munich listed on soundcheck. 4 upcoming nights
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

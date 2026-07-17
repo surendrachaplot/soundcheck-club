@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Kaufmann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Kaufmann is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Kaufmann is a techno and house artist tracked on soundcheck, with 135 sets logge
 
 Leon Licht, Memo., ADAMN
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

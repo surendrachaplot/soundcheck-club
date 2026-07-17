@@ -1,6 +1,6 @@
 # 35DH-1
 
-35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Dogenzaka Church, Tokyo on Sat, 18 Jul 2026.
+35DH-1 is a Amapiano and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Dogenzaka Church, Tokyo on Sat, 18 Jul 2026.
 
 35DH-1 is an amapiano and techno artist based in Japan, tracked on soundcheck, with 157 sets logged across Tokyo. Often billed alongside Echigo, Arao and SN_Yeah. Next up: Dogenzaka Church, Tokyo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@
 
 Echigo, Arao, SN_Yeah
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/35dh-1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/35dh-1/)*

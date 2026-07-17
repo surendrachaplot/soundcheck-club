@@ -1,6 +1,6 @@
 # A-TØN
 
-A-TØN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Vibes Glasgow, Glasgow on Sat, 18 Jul 2026.
+A-TØN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Vibes Glasgow, Glasgow on Sat, 18 Jul 2026.
 
 A-TØN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Amizl, CRØØK.T.D and Corran. Next up: Vibes Glasgow, Glasgow on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ A-TØN is a techno and house artist based in United Kingdom, tracked on soundche
 
 Amizl, CRØØK.T.D, Corran
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*

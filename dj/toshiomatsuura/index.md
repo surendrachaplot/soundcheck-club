@@ -1,6 +1,6 @@
 # Toshio Matsuura
 
-Toshio Matsuura is a Jazz and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 17 Jul 2026.
+Toshio Matsuura is a Jazz and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 17 Jul 2026.
 
 Toshio Matsuura is a jazz and house artist tracked on soundcheck, with 63 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside Dazzle Drums, Toshiyuki Goto and Gilles Peterson. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Toshio Matsuura is a jazz and house artist tracked on soundcheck, with 63 sets l
 
 Dazzle Drums, Toshiyuki Goto, Gilles Peterson
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiomatsuura/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiomatsuura/)*

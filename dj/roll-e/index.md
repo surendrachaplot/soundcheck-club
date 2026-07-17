@@ -1,6 +1,6 @@
 # Roll-e
 
-Roll-e is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Corner, Miami on Fri, 17 Jul 2026.
+Roll-e is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Corner, Miami on Fri, 17 Jul 2026.
 
 Roll-e is a bass and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Miami. Often billed alongside SATURNSARii, Ale Acosta and CHAOS!. Next up: The Corner, Miami on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Roll-e is a bass and house artist based in United States of America, tracked on 
 
 SATURNSARii, Ale Acosta, CHAOS!
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*

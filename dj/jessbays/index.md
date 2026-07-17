@@ -1,6 +1,6 @@
 # Jess Bays
 
-Jess Bays is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 25 Jul 2026.
+Jess Bays is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at NUMBER 90 LONDON, London on Sat, 25 Jul 2026.
 
 Jess Bays is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Belfast, Birmingham and Brighton and 14 more. Often billed alongside Danny Howard, Steven Cee and Boon (UK). Next up: NUMBER 90 LONDON, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Jess Bays is a house and tech house artist based in United Kingdom, tracked on s
 
 Danny Howard, Steven Cee, Boon (UK)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*

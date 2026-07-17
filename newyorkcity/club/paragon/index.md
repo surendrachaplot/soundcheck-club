@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Club Stars: u.r.trax, WTCHCRFT, Ultrathem + OOMFCON" on Fri, 17 Jul 2026.
+Paragon is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Club Stars: u.r.trax, WTCHCRFT, Ultrathem + OOMFCON" on Fri, 17 Jul 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including 550am, MORENXXX, Adred and AG (NYC) and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

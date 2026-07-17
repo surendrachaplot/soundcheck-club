@@ -1,6 +1,6 @@
 # Annina
 
-Annina is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Tausend, Berlin on Fri, 17 Jul 2026.
+Annina is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tausend, Berlin on Fri, 17 Jul 2026.
 
 Annina is a house and techno artist based in Germany, tracked on soundcheck, with 105 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Scoopsi, Papa K and Jonaku (DE). Next up: Tausend, Berlin on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Annina is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Scoopsi, Papa K, Jonaku (DE)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*

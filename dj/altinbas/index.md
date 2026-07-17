@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Artheater, Cologne on Fri, 17 Jul 2026.
+Altinbas is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Artheater, Cologne on Fri, 17 Jul 2026.
 
 Altinbas is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Phara, GiGi FM and Marie-Julie. Next up: Artheater, Cologne on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Altinbas is a techno and house artist tracked on soundcheck, with 163 sets logge
 
 Phara, GiGi FM, Marie-Julie
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

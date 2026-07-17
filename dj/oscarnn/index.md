@@ -1,6 +1,6 @@
 # Oscar Nñ
 
-Oscar Nñ is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Kwia, Berlin on Fri, 17 Jul 2026.
+Oscar Nñ is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Kwia, Berlin on Fri, 17 Jul 2026.
 
 Oscar Nñ is a club and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Berlin, Leipzig, Losangeles and Mexicocity and 3 more. Often billed alongside Adam R, Riobamba and Sterling Juan Diaz. Next up: Kwia, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Oscar Nñ is a club and techno artist based in United States of America, tracked
 
 Adam R, Riobamba, Sterling Juan Diaz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarnn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarnn/)*

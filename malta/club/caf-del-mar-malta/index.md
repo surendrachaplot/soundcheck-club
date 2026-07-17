@@ -1,6 +1,6 @@
 # Café del Mar Malta
 
-Café del Mar Malta is a music venue in Malta with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "G7 presents MËSTIZA at Café del Mar" on Sat, 18 Jul 2026.
+Café del Mar Malta is a music venue in Malta with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "G7 presents MËSTIZA at Café del Mar" on Sat, 18 Jul 2026.
 
 Café del Mar Malta is a music venue in Malta listed on soundcheck. 9 upcoming nights, with line-ups including Artbat, Argy, Bob Sinclar and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Malta Nation Aquarium, Triq it-Trunciera, Qawra, San Pawl il-Bahar.
 
@@ -22,4 +22,4 @@ Café del Mar Malta is a music venue in Malta listed on soundcheck. 9 upcoming n
 
 Malta Nation Aquarium, Triq it-Trunciera, Qawra, San Pawl il-Bahar, Malta
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/caf-del-mar-malta/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/caf-del-mar-malta/)*

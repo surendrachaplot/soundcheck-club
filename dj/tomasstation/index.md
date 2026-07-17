@@ -1,6 +1,6 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 18 Jul 2026.
+Tomas Station is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Rumore Nightclub Capri, Naples on Sat, 18 Jul 2026.
 
 Tomas Station is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 30 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: Rumore Nightclub Capri, Naples on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Tomas Station is a house and techno artist tracked on soundcheck, with 201 sets 
 
 O.BEE, Ricardo Villalobos, Sonja Moonear
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

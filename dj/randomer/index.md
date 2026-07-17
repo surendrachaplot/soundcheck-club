@@ -1,6 +1,6 @@
 # Randomer
 
-Randomer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
+Randomer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
 Randomer is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Basel and 36 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Union Park, Chicago on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Randomer is a techno and house artist tracked on soundcheck, with 77 sets logged
 
 AADJA, Anetha, Clouds
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

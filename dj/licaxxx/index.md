@@ -1,6 +1,6 @@
 # Licaxxx
 
-Licaxxx is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Azumaya, Tokyo on Sat, 18 Jul 2026.
+Licaxxx is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Azumaya, Tokyo on Sat, 18 Jul 2026.
 
 Licaxxx is a house and techno artist based in Japan, tracked on soundcheck, with 87 sets logged across Hongkong, Kyoto, Lyon and Melbourne and 4 more. Often billed alongside JUN INAGAWA, FELINE (JP) and Yohji Igarashi. Next up: Azumaya, Tokyo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Licaxxx is a house and techno artist based in Japan, tracked on soundcheck, with
 
 JUN INAGAWA, FELINE (JP), Yohji Igarashi
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*

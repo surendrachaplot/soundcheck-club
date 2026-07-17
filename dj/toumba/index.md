@@ -1,6 +1,6 @@
 # Toumba
 
-Toumba is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Toumba is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 Toumba is a bass and club artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 19 more. Often billed alongside ojoo, DJ Plead and Tash LC. Next up: The Cause, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Toumba is a bass and club artist tracked on soundcheck, with 47 sets logged acro
 
 ojoo, DJ Plead, Tash LC
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toumba/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toumba/)*

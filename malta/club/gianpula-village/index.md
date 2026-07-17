@@ -1,6 +1,6 @@
 # Gianpula Village
 
-Gianpula Village is a music venue in Malta with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Sinan Arsan & Azi Jay @ Groove Gardens" on Sat, 18 Jul 2026.
+Gianpula Village is a music venue in Malta with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sinan Arsan & Azi Jay @ Groove Gardens" on Sat, 18 Jul 2026.
 
 Gianpula Village is a music venue in Malta listed on soundcheck. 4 upcoming nights, with line-ups including Abdy, Adel dj, Adrian Mills and Alarico and 2 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -17,4 +17,4 @@ Gianpula Village is a music venue in Malta listed on soundcheck. 4 upcoming nigh
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village/)*

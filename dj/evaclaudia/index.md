@@ -1,6 +1,6 @@
 # Eva Claudia
 
-Eva Claudia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Banegaarden, Copenhagen on Fri, 24 Jul 2026.
+Eva Claudia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Banegaarden, Copenhagen on Fri, 24 Jul 2026.
 
 Eva Claudia is a techno and house artist based in Denmark, tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Bestrawa, Biesmans and Cakebutcher. Next up: Banegaarden, Copenhagen on Fri 24 Jul.
 
@@ -16,4 +16,4 @@ Eva Claudia is a techno and house artist based in Denmark, tracked on soundcheck
 
 Bestrawa, Biesmans, Cakebutcher
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaclaudia/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evaclaudia/)*

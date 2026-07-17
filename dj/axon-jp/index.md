@@ -1,6 +1,6 @@
 # AXÖN
 
-AXÖN is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Frame Seoul, Seoul on Fri, 17 Jul 2026.
+AXÖN is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Frame Seoul, Seoul on Fri, 17 Jul 2026.
 
 AXÖN is a house and tech house artist based in Japan, tracked on soundcheck, with 9 sets logged across Losangeles, Seattle, Seoul and Tokyo. Often billed alongside Kijta, Onacity and James Gatz. Next up: Frame Seoul, Seoul on Fri 17 Jul.
 
@@ -25,4 +25,4 @@ AXÖN is a house and tech house artist based in Japan, tracked on soundcheck, wi
 
 Kijta, Onacity, James Gatz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axon-jp/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/axon-jp/)*

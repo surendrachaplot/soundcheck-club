@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+Penelope (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
 Penelope (2) is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Walrus, DJ Rino and Mari.te. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Penelope (2) is a house and techno artist tracked on soundcheck, with 123 sets l
 
 Walrus, DJ Rino, Mari.te
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-2/)*

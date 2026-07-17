@@ -1,6 +1,6 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "TESTPILOT (Vancouver)" on Fri, 17 Jul 2026.
+Village Studios is a music venue in Vancouver with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "TESTPILOT (Vancouver)" on Fri, 17 Jul 2026.
 
 Village Studios is a music venue in Vancouver listed on soundcheck. 11 upcoming nights, with line-ups including Anthony Attalla, ATRIP, BINKY and Brendocha and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
@@ -23,4 +23,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 11 upcoming 
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

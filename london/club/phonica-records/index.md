@@ -1,18 +1,17 @@
 # Phonica Records
 
-Phonica Records is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Suckerpunch: PAPADHD Vol. II Launch Party" on Thu, 16 Jul 2026.
+Phonica Records is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Aftershock: The Seismic Impact of Dubstep Book Launch with Kode 9 & Lauren Martin" on Thu, 30 Jul 2026.
 
-Phonica Records is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including DJ ADHD, Jorg Kuning, Kode9 and Papa Nugs. Browse upcoming dates, start times and who's playing. 51 Poland Street; Soho; London W1F 7RJ; United Kingdom.
+Phonica Records is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Kode9. Browse upcoming dates, start times and who's playing. 51 Poland Street; Soho; London W1F 7RJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Suckerpunch: PAPADHD Vol. II Launch Party | DJ ADHD, Jorg Kuning, Papa Nugs |
 | Thu, 30 Jul 2026 | Aftershock: The Seismic Impact of Dubstep Book Launch with Kode 9 & Lauren Martin | Kode9 |
 
 ## Address
 
 51 Poland Street; Soho; London W1F 7RJ; United Kingdom, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonica-records/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonica-records/)*

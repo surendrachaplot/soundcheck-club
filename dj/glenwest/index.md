@@ -1,6 +1,6 @@
 # Glen West
 
-Glen West is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Funke, Ghent on Thu, 23 Jul 2026.
+Glen West is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Funke, Ghent on Thu, 23 Jul 2026.
 
 Glen West is a trance and techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Ghent. Often billed alongside 3LEEZA, Amøn and FEROTONINO. Next up: Funke, Ghent on Thu 23 Jul.
 
@@ -19,4 +19,4 @@ Glen West is a trance and techno artist based in Australia, tracked on soundchec
 
 3LEEZA, Amøn, FEROTONINO
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glenwest/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/glenwest/)*

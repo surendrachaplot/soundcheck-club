@@ -1,6 +1,6 @@
 # inKKiss
 
-inKKiss is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Panama, Amsterdam on Fri, 17 Jul 2026.
+inKKiss is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Panama, Amsterdam on Fri, 17 Jul 2026.
 
 inKKiss is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam and Berlin. Often billed alongside AndrewsFox, SUKA and WITHIN (NL). Next up: Panama, Amsterdam on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ inKKiss is a techno and industrial artist based in Netherlands, tracked on sound
 
 AndrewsFox, SUKA, WITHIN (NL)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*

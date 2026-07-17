@@ -1,6 +1,6 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at [UNVRS], Ibiza on Tue, 21 Jul 2026.
+Layla Benitez is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at [UNVRS], Ibiza on Tue, 21 Jul 2026.
 
 Layla Benitez is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: [UNVRS], Ibiza on Tue 21 Jul.
 
@@ -29,4 +29,4 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 153 sets 
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

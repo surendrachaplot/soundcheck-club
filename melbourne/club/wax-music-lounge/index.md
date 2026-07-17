@@ -1,6 +1,6 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "DJ POSSUM + CORY CHAMPION (NZ)" on Fri, 17 Jul 2026.
+Wax Music Lounge is a music venue in Melbourne with 14 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "DJ POSSUM + CORY CHAMPION (NZ)" on Fri, 17 Jul 2026.
 
 Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 14 upcoming nights, with line-ups including DJ Possum, Mullen, Silentjay and Tanya George. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 14 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

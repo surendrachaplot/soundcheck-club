@@ -1,6 +1,6 @@
 # Daltons Brighton
 
-Daltons Brighton is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "X-Tapes // Daltons - August 23rd" on Sun, 23 Aug 2026.
+Daltons Brighton is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "X-Tapes // Daltons - August 23rd" on Sun, 23 Aug 2026.
 
 Daltons Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including Ana De Llor, Arrosa, skywalka and Yiota. Browse upcoming dates, start times and who's playing. Under Brighton Zip - Lower Promenade, Madeira Drive, Brighton, BN2 1TB.
 
@@ -14,4 +14,4 @@ Daltons Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming n
 
 Under Brighton Zip - Lower Promenade, Madeira Drive, Brighton, BN2 1TB, Brighton
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/daltons-brighton/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/daltons-brighton/)*

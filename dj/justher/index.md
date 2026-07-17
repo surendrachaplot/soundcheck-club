@@ -1,6 +1,6 @@
 # Just Her
 
-Just Her is a Deep House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Future Yard, Liverpool on Sat, 18 Jul 2026.
+Just Her is a Deep House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Future Yard, Liverpool on Sat, 18 Jul 2026.
 
 Just Her is a deep house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Braxton, Steve Parry and Dave Seaman. Next up: Future Yard, Liverpool on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Just Her is a deep house and techno artist tracked on soundcheck, with 47 sets l
 
 Braxton, Steve Parry, Dave Seaman
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justher/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justher/)*

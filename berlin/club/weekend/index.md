@@ -1,6 +1,6 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "WKND X DON'T TELL ANYONE" on Fri, 17 Jul 2026.
+Weekend is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "WKND X DON'T TELL ANYONE" on Fri, 17 Jul 2026.
 
 Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alex Gallus, BOHO, Dennis Beutler and Denno Matini and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
@@ -21,4 +21,4 @@ Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with
 
 Alexanderstrasse 7; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/weekend/)*

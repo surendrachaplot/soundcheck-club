@@ -1,14 +1,13 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "La Reiv at 303" on Thu, 16 Jul 2026.
+303 Audiophile Bar is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Grabe pres Nogue , Musta & Mr-Tugs" on Fri, 17 Jul 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alen Aladin, Aleski, bOIX and Celafet and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alen Aladin, bOIX, Celafet and Cocogorl and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | La Reiv at 303 | Aleski, Cetratelli, Mariano Cima |
 | Fri, 17 Jul 2026 | Grabe pres Nogue , Musta & Mr-Tugs | Lisandro Mustapic, Mr-Tugs, Nogue (ES), Nögue |
 | Sat, 18 Jul 2026 | Warping Time at 303 | Celafet, Cocogorl, Pacome, bOIX |
 | Thu, 23 Jul 2026 | 303 pres. Ladies on Decks. Galu Bla / PILAR MOLINERO / Liquid Sunshine | Galu Bla, Liquid Sunshine, PILAR MOLINERO |
@@ -21,4 +20,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

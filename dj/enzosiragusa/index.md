@@ -1,14 +1,13 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Thu, 16 Jul 2026.
+Enzo Siragusa is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Burgess Park, London on Fri, 31 Jul 2026.
 
-Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Josh Baker. Next up: Amnesia Ibiza, Ibiza on Thu 16 Jul.
+Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Josh Baker. Next up: Burgess Park, London on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Burgess Park | London |
 | Sun, 2 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
@@ -23,6 +22,7 @@ Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 190 s
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 16 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 5 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Parc d’Atraccions del Tibidabo, Barcelona — Thu, 18 Jun 2026
@@ -30,10 +30,9 @@ Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 190 s
 - Pacha Ibiza, Ibiza — Tue, 2 Jun 2026
 - Colorado Charlie, The Hague — Sun, 31 May 2026
 - High Lights - Barking Park, London — Sat, 30 May 2026
-- The Cause, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Laidlaw, Traumer, Josh Baker
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

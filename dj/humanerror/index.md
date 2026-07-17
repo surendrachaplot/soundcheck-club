@@ -1,6 +1,6 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
+HUMAN ERROR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
 
 HUMAN ERROR is a techno and trance artist tracked on soundcheck, with 42 sets logged across Barcelona, Basel, Berlin and Brussels and 14 more. Often billed alongside DVAID, WILDERÍCH and zwilling.. Next up: Z-Bau, Nurnberg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ HUMAN ERROR is a techno and trance artist tracked on soundcheck, with 42 sets lo
 
 DVAID, WILDERÍCH, zwilling.
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*

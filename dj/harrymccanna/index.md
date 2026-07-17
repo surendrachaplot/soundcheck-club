@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
+Harry McCanna is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
 
 Harry McCanna is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Club der Visionaere, Berlin on Fri 17 Jul.
 
@@ -33,4 +33,4 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 129 s
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

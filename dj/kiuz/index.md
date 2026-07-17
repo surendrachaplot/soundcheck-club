@@ -1,6 +1,6 @@
 # Kiuz
 
-Kiuz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Toldi Klub, Budapest on Sat, 18 Jul 2026.
+Kiuz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Toldi Klub, Budapest on Sat, 18 Jul 2026.
 
 Kiuz is a techno and house artist tracked on soundcheck, with 56 sets logged across Budapest, Paris and Tbilisi. Often billed alongside Arash Ete, CRB and Rovizz. Next up: Toldi Klub, Budapest on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Kiuz is a techno and house artist tracked on soundcheck, with 56 sets logged acr
 
 Arash Ete, CRB, Rovizz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiuz/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kiuz/)*

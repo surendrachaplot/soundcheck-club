@@ -1,6 +1,6 @@
 # Kulturcampus Frankfurt
 
-Kulturcampus Frankfurt is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Module Festival" on Thu, 13 Aug 2026.
+Kulturcampus Frankfurt is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Module Festival" on Thu, 13 Aug 2026.
 
 Kulturcampus Frankfurt is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including Bambi (FR), C.K, LUXE and Elvira and 2 more. Browse upcoming dates, start times and who's playing. Senckenberganlage 31, 60325 Frankfurt am Main.
 
@@ -14,4 +14,4 @@ Kulturcampus Frankfurt is a music venue in Frankfurt listed on soundcheck. 1 upc
 
 Senckenberganlage 31, 60325 Frankfurt am Main, Frankfurt
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kulturcampus-frankfurt/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/kulturcampus-frankfurt/)*

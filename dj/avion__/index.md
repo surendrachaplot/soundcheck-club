@@ -1,6 +1,6 @@
 # avion__
 
-avion__ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at VENT, Tokyo on Fri, 17 Jul 2026.
+avion__ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at VENT, Tokyo on Fri, 17 Jul 2026.
 
 avion__ is a techno and house artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Drunken Kong, Dani Savant and Shogo Ito. Next up: VENT, Tokyo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ avion__ is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Drunken Kong, Dani Savant, Shogo Ito
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avion__/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avion__/)*

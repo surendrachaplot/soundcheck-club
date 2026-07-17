@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "nana.ios & JFR Moon live" on Fri, 17 Jul 2026.
+Neue Zukunft is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "nana.ios & JFR Moon live" on Fri, 17 Jul 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Dis Fig, The Delay in the Universal Loop and Violent Magic Orchestra. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

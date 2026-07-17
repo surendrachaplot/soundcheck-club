@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Motel Campo, Geneva on Sat, 18 Jul 2026.
+Fadi Mohem is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Motel Campo, Geneva on Sat, 18 Jul 2026.
 
 Fadi Mohem is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Ben Klock, Ogazón and Philippa Pacho. Next up: Motel Campo, Geneva on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Fadi Mohem is a techno and house artist tracked on soundcheck, with 216 sets log
 
 Ben Klock, Ogazón, Philippa Pacho
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

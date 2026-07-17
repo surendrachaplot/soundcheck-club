@@ -1,6 +1,6 @@
 # Bongomann
 
-Bongomann is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at RASA, Singapore on Sat, 18 Jul 2026.
+Bongomann is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at RASA, Singapore on Sat, 18 Jul 2026.
 
 Bongomann is a house and techno artist based in Singapore, tracked on soundcheck, with 49 sets logged across Bali, Bangkok, Hongkong and Osaka and 2 more. Often billed alongside Toppings, MUTO (2) and Dexter Colt. Next up: RASA, Singapore on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Bongomann is a house and techno artist based in Singapore, tracked on soundcheck
 
 Toppings, MUTO (2), Dexter Colt
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bongomann/)*

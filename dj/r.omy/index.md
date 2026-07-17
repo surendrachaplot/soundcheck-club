@@ -1,6 +1,6 @@
 # r.omy
 
-r.omy is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TRAUM, Antwerp on Sat, 15 Aug 2026.
+r.omy is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TRAUM, Antwerp on Sat, 15 Aug 2026.
 
 r.omy is a house and minimal artist based in Belgium, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 4 more. Often billed alongside Lola Haro, Rozevelt and Rick Baguette. Next up: TRAUM, Antwerp on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ r.omy is a house and minimal artist based in Belgium, tracked on soundcheck, wit
 
 Lola Haro, Rozevelt, Rick Baguette
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r.omy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/r.omy/)*

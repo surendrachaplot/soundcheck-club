@@ -1,6 +1,6 @@
 # AG (NYC)
 
-AG (NYC) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jupiter Disco, New York City on Fri, 17 Jul 2026.
+AG (NYC) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Jupiter Disco, New York City on Fri, 17 Jul 2026.
 
 AG (NYC) is a house and disco artist based in United States of America, tracked on soundcheck, with 44 sets logged across Austin, Bangkok, Brussels and Newyorkcity and 2 more. Often billed alongside Alex Raouf, Tone Troy and Omar Ludwig. Next up: Jupiter Disco, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ AG (NYC) is a house and disco artist based in United States of America, tracked 
 
 Alex Raouf, Tone Troy, Omar Ludwig
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agnyc/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agnyc/)*

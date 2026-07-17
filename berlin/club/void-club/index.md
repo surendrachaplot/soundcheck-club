@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Free Party with Ghost, Bæmbus, Andi Beat, Lukeez, Upzet, Ed Shepherd, DjFunky, Mononoke" on Fri, 17 Jul 2026.
+Void Club is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Free Party with Ghost, Bæmbus, Andi Beat, Lukeez, Upzet, Ed Shepherd, DjFunky, Mononoke" on Fri, 17 Jul 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including ADOBE, Agem, Alex Pastore and Andi Beat and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

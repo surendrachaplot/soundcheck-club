@@ -1,6 +1,6 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at ÆDEN, Berlin on Sat, 18 Jul 2026.
+Only Fire is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at ÆDEN, Berlin on Sat, 18 Jul 2026.
 
 Only Fire is a techno and club artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Auckland and Austin and 29 more. Often billed alongside River Moon, Memphy and Chippy Nonstop. Next up: ÆDEN, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Only Fire is a techno and club artist tracked on soundcheck, with 77 sets logged
 
 River Moon, Memphy, Chippy Nonstop
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

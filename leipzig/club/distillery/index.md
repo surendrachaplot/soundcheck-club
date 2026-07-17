@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Dream Rotation" on Fri, 17 Jul 2026.
+Distillery is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Dream Rotation" on Fri, 17 Jul 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming nights, with line-ups including :MUMM, 0-Dimensional, Andreas Eckhardt and Bephål and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 10 upcoming nights,
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

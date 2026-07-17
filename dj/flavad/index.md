@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cause, London on Sat, 18 Jul 2026.
+Flava D is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Cause, London on Sat, 18 Jul 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Berlin and Boston and 32 more. Often billed alongside P Money, Whiney and Andy C. Next up: The Cause, London on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 
 P Money, Whiney, Andy C
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

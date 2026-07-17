@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Tilos & bass with Chris.SU" on Thu, 16 Jul 2026.
+Viadukt Bar is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "MadCity at Viadukt" on Fri, 17 Jul 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Alex Albrecht, Ben Dover, bxrnadetth and Chris.SU and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Alex Albrecht, Ben Dover, bxrnadetth and Krics and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Tilos & bass with Chris.SU | Chris.SU |
 | Fri, 17 Jul 2026 | MadCity at Viadukt | NoNameLeft, Woody |
 | Sat, 18 Jul 2026 | Chat Boutique at Viadukt |  |
 | Mon, 20 Jul 2026 | ECHO PUEBLO x HabooDubz's Birthday Bash |  |
@@ -21,4 +20,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 8 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

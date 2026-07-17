@@ -1,6 +1,6 @@
 # Pelanoir
 
-Pelanoir is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BRET, Amsterdam on Sun, 19 Jul 2026.
+Pelanoir is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BRET, Amsterdam on Sun, 19 Jul 2026.
 
 Pelanoir is a house and disco artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Rotterdam and Thehague and 1 more. Often billed alongside Kevin Lo, Boogie Mind and Lucas Benjamin. Next up: BRET, Amsterdam on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Pelanoir is a house and disco artist tracked on soundcheck, with 60 sets logged 
 
 Kevin Lo, Boogie Mind, Lucas Benjamin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pelanoir/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pelanoir/)*

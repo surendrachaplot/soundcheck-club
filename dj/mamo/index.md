@@ -1,6 +1,6 @@
 # MaMo
 
-MaMo is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at UNO MALTA, Malta on Fri, 17 Jul 2026.
+MaMo is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at UNO MALTA, Malta on Fri, 17 Jul 2026.
 
 MaMo is a techno and hardcore artist based in Italy, tracked on soundcheck, with 11 sets logged across Lisbon and Malta. Often billed alongside ANKKH, V111 and Fantasm. Next up: UNO MALTA, Malta on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ MaMo is a techno and hardcore artist based in Italy, tracked on soundcheck, with
 
 ANKKH, V111, Fantasm
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mamo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mamo/)*

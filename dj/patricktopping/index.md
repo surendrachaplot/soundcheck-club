@@ -1,6 +1,6 @@
 # Patrick Topping
 
-Patrick Topping is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
+Patrick Topping is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
 
 Patrick Topping is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Pacha New York, Newyorkcity on Fri 17 Jul.
 
@@ -32,4 +32,4 @@ Patrick Topping is a house and tech house artist based in United Kingdom, tracke
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

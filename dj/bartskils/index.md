@@ -1,6 +1,6 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Klein Phönix, Istanbul on Sat, 18 Jul 2026.
+Bart Skils is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klein Phönix, Istanbul on Sat, 18 Jul 2026.
 
 Bart Skils is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Bali and Bangkok and 39 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: Klein Phönix, Istanbul on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Bart Skils is a techno and house artist tracked on soundcheck, with 120 sets log
 
 Adam Beyer, Eli Brown, Victor Ruiz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

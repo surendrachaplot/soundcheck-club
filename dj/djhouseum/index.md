@@ -1,6 +1,6 @@
 # DJ Houseum
 
-DJ Houseum is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Klunkerkranich, Berlin on Thu, 23 Jul 2026.
+DJ Houseum is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klunkerkranich, Berlin on Thu, 23 Jul 2026.
 
 DJ Houseum is a house and electro artist based in France, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 15 more. Often billed alongside Ricky Razu, Marc Brauner and Balthazar Martinez. Next up: Klunkerkranich, Berlin on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ DJ Houseum is a house and electro artist based in France, tracked on soundcheck,
 
 Ricky Razu, Marc Brauner, Balthazar Martinez
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhouseum/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djhouseum/)*

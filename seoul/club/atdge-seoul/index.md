@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "GOOD AND BYE YOUKU" on Fri, 17 Jul 2026.
+Atdge Seoul is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GOOD AND BYE YOUKU" on Fri, 17 Jul 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including ccb, Haemi Park, Hogun and m.bience and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -18,4 +18,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 5 upcoming nights, w
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

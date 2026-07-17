@@ -1,6 +1,6 @@
 # Niklas Delhey
 
-Niklas Delhey is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 19 Jul 2026.
+Niklas Delhey is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lokschuppen Berlin, Berlin on Sun, 19 Jul 2026.
 
 Niklas Delhey is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Ancient Alien, Bélavie and CLEO. Next up: Lokschuppen Berlin, Berlin on Sun 19 Jul.
 
@@ -16,4 +16,4 @@ Niklas Delhey is a techno and house artist based in Germany, tracked on soundche
 
 Ancient Alien, Bélavie, CLEO
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasdelhey/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasdelhey/)*

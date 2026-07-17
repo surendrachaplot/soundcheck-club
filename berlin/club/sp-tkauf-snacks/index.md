@@ -1,6 +1,6 @@
 # Spätkauf Snacks
 
-Spätkauf Snacks is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Kiez & Späti" on Sat, 18 Jul 2026.
+Spätkauf Snacks is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Kiez & Späti" on Sat, 18 Jul 2026.
 
 Spätkauf Snacks is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including ANTYA, Morisia and Tornadotoni. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Spätkauf Snacks is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Kiez & Späti | ANTYA, Morisia, Tornadotoni |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sp-tkauf-snacks/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sp-tkauf-snacks/)*

@@ -1,6 +1,6 @@
 # Mercorn
 
-Mercorn is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Oh Yeah Centre, Belfast on Sat, 25 Jul 2026.
+Mercorn is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Oh Yeah Centre, Belfast on Sat, 25 Jul 2026.
 
 Mercorn is a trance and house artist based in Ireland, tracked on soundcheck, with 41 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Bull Horris, Cáit and Gary (3). Next up: The Oh Yeah Centre, Belfast on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mercorn is a trance and house artist based in Ireland, tracked on soundcheck, wi
 
 Bull Horris, Cáit, Gary (3)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mercorn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mercorn/)*

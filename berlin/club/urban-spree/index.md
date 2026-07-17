@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Queens Against Borders: Pride week kick-off Fundraiser" on Fri, 17 Jul 2026.
+Urban Spree is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Queens Against Borders: Pride week kick-off Fundraiser" on Fri, 17 Jul 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Adriano, Yoshi (DE), Blush Response and Brasi and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -20,4 +20,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 7 upcoming nights, 
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

@@ -1,6 +1,6 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 19 Jul 2026.
+Pizzicatto is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sun, 19 Jul 2026.
 
 Pizzicatto is a house and tech house artist tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Dj badtrip. Next up: Sunseabar Beach Club, Barcelona on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ Pizzicatto is a house and tech house artist tracked on soundcheck, with 56 sets 
 
 Varis, Pau Pérez, Dj badtrip
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*

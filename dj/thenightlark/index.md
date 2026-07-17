@@ -1,6 +1,6 @@
 # The Nightlark
 
-The Nightlark is a Disco and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Banshee Labyrinth, Edinburgh on Fri, 17 Jul 2026.
+The Nightlark is a Disco and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Banshee Labyrinth, Edinburgh on Fri, 17 Jul 2026.
 
 The Nightlark is a disco and post-punk artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Edinburgh and Glasgow. Often billed alongside Moth Girl, Sacred Keys and philomenah. Next up: The Banshee Labyrinth, Edinburgh on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ The Nightlark is a disco and post-punk artist based in United Kingdom, tracked o
 
 Moth Girl, Sacred Keys, philomenah
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thenightlark/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thenightlark/)*

@@ -1,6 +1,6 @@
 # Kugel
 
-Kugel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
+Kugel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
 
 Kugel is a techno and house artist tracked on soundcheck, with 158 sets logged across Hongkong, Jakarta, Newyorkcity and Osaka and 2 more. Often billed alongside RTRP, Sunday Lee and Gumi. Next up: TBA - Brooklyn, Newyorkcity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Kugel is a techno and house artist tracked on soundcheck, with 158 sets logged a
 
 RTRP, Sunday Lee, Gumi
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kugel/)*

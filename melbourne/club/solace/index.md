@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "CORIOLIS // FEATURING SHUGO NOSS, BLUHOL, AKALLA & LYRA" on Thu, 16 Jul 2026.
+Solace is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Deuce Presents Jay Tripwire" on Fri, 17 Jul 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including Andy Garvey, Ari (AU), Bby Cass and Ben Fester and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including Andy Garvey, Ari (AU), Bby Cass and Ben Fester and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | CORIOLIS // FEATURING SHUGO NOSS, BLUHOL, AKALLA & LYRA |  |
 | Fri, 17 Jul 2026 | Deuce Presents Jay Tripwire | Bex, JD (4), Jay Tripwire, Millú, Nat Salih, Rev Lon |
 | Sat, 18 Jul 2026 | MDC pres Ben Fester, DJ Possum, Myles Mac - b2b2b all night long | Ben Fester, DJ Possum, Myles Mac |
 | Wed, 22 Jul 2026 | Free. Live. Music // SOLILOQUY - LIVE DnB & JUNGLE DUO |  |
@@ -18,9 +17,10 @@ Solace is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, w
 | Wed, 29 Jul 2026 | Free. Live. Music // Jazz Upstairs |  |
 | Thu, 30 Jul 2026 | Solace Radio W/ DJ Common, Elle, BENZA [ES] | BENZA |
 | Fri, 31 Jul 2026 | Play x Solace W/ BENZA, Kait Xri and Ari | Ari (AU), BENZA, Bby Cass, Kait Xri, TEEJAY |
+| Sat, 1 Aug 2026 | Solace Invites Dubstep Edition W/ CHEAHDX, Rakhi, Ola, Kodi Lotto, & Kate Miller | CHEAHDX, Kate Miller, Kodi Lotto, Rakhi |
 
 ## Address
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

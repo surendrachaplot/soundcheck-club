@@ -1,6 +1,6 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+DJ Minx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 DJ Minx is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 173 sets logged
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Southern Fried Records presents: Big Beach Boutique Afterparty" on Fri, 17 Jul 2026.
+Patterns is a music venue in Brighton with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Southern Fried Records presents: Big Beach Boutique Afterparty" on Fri, 17 Jul 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 9 upcoming nights, with line-ups including Asa Tate, Benji Hedonator, CC:DISCO! and Discokid and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -22,4 +22,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 9 upcoming nights, w
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

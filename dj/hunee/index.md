@@ -1,6 +1,6 @@
 # Hunee
 
-Hunee is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Boomtown (Kouter), Ghent on Sat, 18 Jul 2026.
+Hunee is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Boomtown (Kouter), Ghent on Sat, 18 Jul 2026.
 
 Hunee is a house and disco artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: Boomtown (Kouter), Ghent on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Hunee is a house and disco artist tracked on soundcheck, with 139 sets logged ac
 
 Antal, Call Super, Job Jobse
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

@@ -1,6 +1,6 @@
 # INEXXSTABLE
 
-INEXXSTABLE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at City Hall, Barcelona on Sat, 18 Jul 2026.
+INEXXSTABLE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at City Hall, Barcelona on Sat, 18 Jul 2026.
 
 INEXXSTABLE is a house and techno artist tracked on soundcheck, with 116 sets logged across Barcelona and Belgrade. Often billed alongside CLANDESTINE (2), Cucut and Brieela. Next up: City Hall, Barcelona on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ INEXXSTABLE is a house and techno artist tracked on soundcheck, with 116 sets lo
 
 CLANDESTINE (2), Cucut, Brieela
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*

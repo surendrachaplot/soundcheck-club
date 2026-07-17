@@ -1,6 +1,6 @@
 # Mobilegirl
 
-Mobilegirl is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Strange Brew, Bristol on Fri, 31 Jul 2026.
+Mobilegirl is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Strange Brew, Bristol on Fri, 31 Jul 2026.
 
 Mobilegirl is a club and bass artist tracked on soundcheck, with 68 sets logged across Amsterdam, Basel, Berlin and Brisbane and 15 more. Often billed alongside Nico Adomako, Kanucia and Why Be. Next up: Strange Brew, Bristol on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Mobilegirl is a club and bass artist tracked on soundcheck, with 68 sets logged 
 
 Nico Adomako, Kanucia, Why Be
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mobilegirl/)*

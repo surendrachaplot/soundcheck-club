@@ -1,6 +1,6 @@
 # Yungster Jack
 
-Yungster Jack is a Hip-Hop and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Colour Factory, London on Fri, 17 Jul 2026.
+Yungster Jack is a Hip-Hop and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colour Factory, London on Fri, 17 Jul 2026.
 
 Yungster Jack is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Dublin, London, Manchester and Prague and 1 more. Often billed alongside Oatmilkandcodeine, meat computer and Nosgov. Next up: Colour Factory, London on Fri 17 Jul.
 
@@ -21,4 +21,4 @@ Yungster Jack is a hip-hop and experimental artist based in United Kingdom, trac
 
 Oatmilkandcodeine, meat computer, Nosgov
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsterjack/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsterjack/)*

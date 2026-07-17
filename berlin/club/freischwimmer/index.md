@@ -1,6 +1,6 @@
 # Freischwimmer
 
-Freischwimmer is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "GutGezogen pres. Housenahmezustand Vol.2" on Sat, 8 Aug 2026.
+Freischwimmer is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "GutGezogen pres. Housenahmezustand Vol.2" on Sat, 8 Aug 2026.
 
 Freischwimmer is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Chris Lustig, Sokool, Sven Swade and Toni Clara. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 2a, 10997 Berlin.
 
@@ -14,4 +14,4 @@ Freischwimmer is a music venue in Berlin listed on soundcheck. 1 upcoming night,
 
 Vor dem Schlesischen Tor 2a, 10997 Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/freischwimmer/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/freischwimmer/)*

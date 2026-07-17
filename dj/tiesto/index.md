@@ -1,6 +1,6 @@
 # Tiesto
 
-Tiesto is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Atomium, Brussels on Fri, 31 Jul 2026.
+Tiesto is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Atomium, Brussels on Fri, 31 Jul 2026.
 
 Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged across Austin, Brussels, Chicago and Ibiza and 11 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: Atomium, Brussels on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Tiesto is a house and techno artist tracked on soundcheck, with 57 sets logged a
 
 Chris Lake, Kaskade, Matroda
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*

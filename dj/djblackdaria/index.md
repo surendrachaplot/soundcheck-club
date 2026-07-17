@@ -1,6 +1,6 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Wonderlove PDX, Portland on Sat, 18 Jul 2026.
+Black Daria is a Hip-Hop and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Wonderlove PDX, Portland on Sat, 18 Jul 2026.
 
 Black Daria is a hip-hop and club artist tracked on soundcheck, with 91 sets logged across Austin, Chicago, Mexicocity and Montreal and 4 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: Wonderlove PDX, Portland on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Black Daria is a hip-hop and club artist tracked on soundcheck, with 91 sets log
 
 Katarra, Dj Dizam, SAMIA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

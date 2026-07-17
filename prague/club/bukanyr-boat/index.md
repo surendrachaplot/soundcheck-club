@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ishka machina, Takē, Jesse b2b Misha Jaru" on Fri, 17 Jul 2026.
+Bukanyr Boat is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ishka machina, Takē, Jesse b2b Misha Jaru" on Fri, 17 Jul 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including aros, Biodan, Bøgen and ishka machina and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -18,4 +18,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 5 upcoming nights,
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

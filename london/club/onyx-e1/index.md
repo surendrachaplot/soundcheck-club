@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Latin Candy - Reggaeton Party - Old Skool Edition" on Sat, 18 Jul 2026.
+Onyx (E1) is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Latin Candy - Reggaeton Party - Old Skool Edition" on Sat, 18 Jul 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Duat, Eva Banks, Jb.. and LOKI (2) and 2 more. Browse upcoming dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -18,4 +18,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 5 upcoming nights, wi
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

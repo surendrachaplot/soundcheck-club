@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 14 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SETLIFE presents MAK10 (Season 4 Finale)" on Sat, 18 Jul 2026.
+Setlist @ Somerset House is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SETLIFE presents MAK10 (Season 4 Finale)" on Sat, 18 Jul 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Crazy Cousinz, European 305, Jacinta and Jamesey and 2 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

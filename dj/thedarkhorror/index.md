@@ -1,6 +1,6 @@
 # The Dark Horror
 
-The Dark Horror is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 18 Jul 2026.
+The Dark Horror is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 18 Jul 2026.
 
 The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Barcelona, Brussels and Cologne and 5 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on sou
 
 Pinotello, Dimitri K, Lekkerfaces
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*

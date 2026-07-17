@@ -1,6 +1,6 @@
 # Adventure Coast, Southport
 
-Adventure Coast, Southport is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Save The Rave: Old Skool Outdoor Festival, Southport 2026" on Sat, 1 Aug 2026.
+Adventure Coast, Southport is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Save The Rave: Old Skool Outdoor Festival, Southport 2026" on Sat, 1 Aug 2026.
 
 Adventure Coast, Southport is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including Freya, Lee Butler, Paul Oh and Perry (US) and 2 more. Browse upcoming dates, start times and who's playing. Marine Dr, Southport PR8 1RX.
 
@@ -15,4 +15,4 @@ Adventure Coast, Southport is a music venue in Liverpool listed on soundcheck. 2
 
 Marine Dr, Southport PR8 1RX, Liverpool
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/adventure-coast-southport/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/adventure-coast-southport/)*

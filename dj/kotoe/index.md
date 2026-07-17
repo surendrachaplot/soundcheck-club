@@ -1,6 +1,6 @@
 # Kotoe
 
-Kotoe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at gART.n, Berlin on Sun, 19 Jul 2026.
+Kotoe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at gART.n, Berlin on Sun, 19 Jul 2026.
 
 Kotoe is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 12 more. Often billed alongside Madmotormiquel, Mira and Oliver Koletzki. Next up: gART.n, Berlin on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Kotoe is a house and techno artist tracked on soundcheck, with 86 sets logged ac
 
 Madmotormiquel, Mira, Oliver Koletzki
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kotoe/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kotoe/)*

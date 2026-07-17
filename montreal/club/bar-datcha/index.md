@@ -1,15 +1,13 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Batida Solta: BADJUDA, SAM.IITO, YUNG PAIN" on Thu, 16 Jul 2026.
+Bar Datcha is a music venue in Montreal with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BWI BWI & Laurence Matte" on Fri, 17 Jul 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including AṢKIM, Akpossoul, Andrea de Tour and AZARI and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 15 upcoming nights, with line-ups including AṢKIM, Akpossoul, Andrea de Tour and AZARI and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Batida Solta: BADJUDA, SAM.IITO, YUNG PAIN | BADJUDA, YUNG PAIN |
-| Thu, 16 Jul 2026 | Live Jazz & Tarot at Datcha |  |
 | Fri, 17 Jul 2026 | BWI BWI & Laurence Matte | Bwi-Bwi, Laurence Matte |
 | Sat, 18 Jul 2026 | Akpossoul & Don Barbarino | Akpossoul, Don Barbarino |
 | Thu, 23 Jul 2026 | Bolarinho & The Fitness | Bolarinho, The Fitness |
@@ -18,9 +16,11 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 17 upcoming nights
 | Thu, 30 Jul 2026 | Askim, Hibou, Nastygloss | AṢKIM, h1bou |
 | Fri, 31 Jul 2026 | CUERPOS, Venus in Foil, M Salaciak & Richard | CUERPOS, M Salaciak, Venus in Foil |
 | Sat, 1 Aug 2026 | Jordan Gardner, Minzi Roberta, Groceries | Groceries, Jordan Gardner |
+| Thu, 6 Aug 2026 | Super Soak: DJEITY, venus in bed, Too, Moon | Djeity, venus in bed |
+| Fri, 7 Aug 2026 | AZARI & Dapapa | AZARI, Dapapa |
 
 ## Address
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Candy Rain - BIGFATCRUSH, Flossdog & Claddy" on Thu, 16 Jul 2026.
+Angel Music Bar is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Thrill (fka suki) — All Night Long" on Fri, 17 Jul 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including Aaliyah Salem, BabyG, Brown Suga Princess and Claddy and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Aaliyah Salem, BabyG, Brown Suga Princess and DELLA and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Candy Rain - BIGFATCRUSH, Flossdog & Claddy | Claddy |
 | Fri, 17 Jul 2026 | Thrill (fka suki) — All Night Long | With Ess, suki |
 | Sat, 18 Jul 2026 | Angel presents DJ Ingrid, O Honey & Jazz | DJ Ingrid, Jazz (AU) |
 | Fri, 24 Jul 2026 | Jesse DM & Simonetti ● All Night Long | Jesse DM, Simonetti |
@@ -22,4 +21,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming n
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

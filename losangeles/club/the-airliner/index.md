@@ -1,6 +1,6 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "The One Hundred" on Fri, 17 Jul 2026.
+The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "The One Hundred" on Fri, 17 Jul 2026.
 
 The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Ava Blank, BAE BAE, Boo Lean and DJ Noir and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
@@ -19,4 +19,4 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nig
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

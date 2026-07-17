@@ -1,6 +1,6 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+Bambi (FR) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 Bambi (FR) is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Bambi (FR) is a techno and house artist tracked on soundcheck, with 76 sets logg
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

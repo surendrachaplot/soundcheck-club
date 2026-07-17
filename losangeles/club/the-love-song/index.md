@@ -1,6 +1,6 @@
 # The Love Song
 
-The Love Song is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "IRL Angel: DIZI, milliGraham, Baby Uniq, Infinity Edge" on Thu, 30 Jul 2026.
+The Love Song is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "IRL Angel: DIZI, milliGraham, Baby Uniq, Infinity Edge" on Thu, 30 Jul 2026.
 
 The Love Song is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Baby Uniq, DIZI and milliGraham. Browse upcoming dates, start times and who's playing. 450 S Main St, Los Angeles, CA 90013.
 
@@ -14,4 +14,4 @@ The Love Song is a music venue in Losangeles listed on soundcheck. 1 upcoming ni
 
 450 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-love-song/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-love-song/)*

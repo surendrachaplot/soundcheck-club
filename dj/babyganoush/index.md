@@ -1,6 +1,6 @@
 # baby ganoush
 
-baby ganoush is a Ambient and Gqom artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
+baby ganoush is a Ambient and Gqom artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
 
 baby ganoush is an ambient and gqom artist based in Sweden, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Montreal and Rotterdam and 2 more. Often billed alongside Isla Den, YoungWoman and ZOBAYDA. Next up: Shunter, Rotterdam on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ baby ganoush is an ambient and gqom artist based in Sweden, tracked on soundchec
 
 Isla Den, YoungWoman, ZOBAYDA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyganoush/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/babyganoush/)*

@@ -1,6 +1,6 @@
 # Oatmilkandcodeine
 
-Oatmilkandcodeine is a Experimental and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Colour Factory, London on Fri, 17 Jul 2026.
+Oatmilkandcodeine is a Experimental and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colour Factory, London on Fri, 17 Jul 2026.
 
 Oatmilkandcodeine is an experimental and hip-hop artist tracked on soundcheck, with 26 sets logged across Berlin, Denver, Dublin and Glasgow and 6 more. Often billed alongside Heartcoregirl, Gweilo Ghost and Harto Falión. Next up: Colour Factory, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Oatmilkandcodeine is an experimental and hip-hop artist tracked on soundcheck, w
 
 Heartcoregirl, Gweilo Ghost, Harto Falión
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilkandcodeine/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilkandcodeine/)*

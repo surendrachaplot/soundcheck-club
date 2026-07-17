@@ -1,6 +1,6 @@
 # Francesca (PL)
 
-Francesca (PL) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Samo Centrum, Warsaw on Sun, 19 Jul 2026.
+Francesca (PL) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Samo Centrum, Warsaw on Sun, 19 Jul 2026.
 
 Francesca (PL) is a techno and tech house artist based in Poland, tracked on soundcheck, with 24 sets logged across Krakow and Warsaw. Often billed alongside SYS.END, Butwho and GiGi (PL). Next up: Samo Centrum, Warsaw on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Francesca (PL) is a techno and tech house artist based in Poland, tracked on sou
 
 SYS.END, Butwho, GiGi (PL)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*

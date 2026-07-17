@@ -1,6 +1,6 @@
 # The Bridge
 
-The Bridge is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "House of EFUNK LA: Soul Clap, INVT, Secret Guest [Day to Night]" on Sat, 18 Jul 2026.
+The Bridge is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "House of EFUNK LA: Soul Clap, INVT, Secret Guest [Day to Night]" on Sat, 18 Jul 2026.
 
 The Bridge is a music venue in Losangeles listed on soundcheck. 9 upcoming nights, with line-ups including Afriqua, Axel Boman, Azzecca and Dick Ensalada and 2 more. Browse upcoming dates, start times and who's playing. 630 S Anderson St, Los Angeles, CA 90023.
 
@@ -22,4 +22,4 @@ The Bridge is a music venue in Losangeles listed on soundcheck. 9 upcoming night
 
 630 S Anderson St, Los Angeles, CA 90023, Los Angeles
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bridge/)*

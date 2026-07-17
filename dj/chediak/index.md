@@ -1,6 +1,6 @@
 # Chediak
 
-Chediak is a Baile Funk and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at R Lounge, Tokyo on Sat, 18 Jul 2026.
+Chediak is a Baile Funk and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at R Lounge, Tokyo on Sat, 18 Jul 2026.
 
 Chediak is a baile funk and breakbeat artist based in Brazil, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Crosstalk (BR), ANTCONSTANTINO and DJ PS2 DESBLOQUEADO. Next up: R Lounge, Tokyo on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Chediak is a baile funk and breakbeat artist based in Brazil, tracked on soundch
 
 Crosstalk (BR), ANTCONSTANTINO, DJ PS2 DESBLOQUEADO
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chediak/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chediak/)*

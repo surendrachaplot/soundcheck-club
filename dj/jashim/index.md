@@ -1,6 +1,6 @@
 # JASHIM
 
-JASHIM is a Latin Bass and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sat, 18 Jul 2026.
+JASHIM is a Latin Bass and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Village au Pied-du-Courant, Montreal on Sat, 18 Jul 2026.
 
 JASHIM is a latin bass and reggaeton artist tracked on soundcheck, with 47 sets logged across Montreal and Toronto. Often billed alongside Casa Kobrae, APRIL IS BLUE and mCherry. Next up: Village au Pied-du-Courant, Montreal on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ JASHIM is a latin bass and reggaeton artist tracked on soundcheck, with 47 sets 
 
 Casa Kobrae, APRIL IS BLUE, mCherry
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jashim/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jashim/)*

@@ -1,6 +1,6 @@
 # Desterro
 
-Desterro is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "datacentre" on Fri, 17 Jul 2026.
+Desterro is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "datacentre" on Fri, 17 Jul 2026.
 
 Desterro is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Arzan, Elless & Benn, João Melgueira and Paixão and 1 more. Browse upcoming dates, start times and who's playing. Calçada do Desterro nº7 1150-241 Lisbon, Portugal.
 
@@ -16,4 +16,4 @@ Desterro is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, wit
 
 Calçada do Desterro nº7 1150-241 Lisbon, Portugal, Lisbon
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/desterro/)*

@@ -1,6 +1,6 @@
 # BOA (1)
 
-BOA (1) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jungla London, London on Fri, 17 Jul 2026.
+BOA (1) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Jungla London, London on Fri, 17 Jul 2026.
 
 BOA (1) is a house and tech house artist tracked on soundcheck, with 12 sets logged across Ibiza, London and Manchester. Often billed alongside MTRG, Olly Brady and SAM PHONIC. Next up: Jungla London, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ BOA (1) is a house and tech house artist tracked on soundcheck, with 12 sets log
 
 MTRG, Olly Brady, SAM PHONIC
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

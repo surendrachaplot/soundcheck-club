@@ -1,6 +1,6 @@
 # Ema Leo
 
-Ema Leo is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 17 Jul 2026.
+Ema Leo is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 17 Jul 2026.
 
 Ema Leo is a techno and hardcore artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Frankfurt and Ghent and 10 more. Often billed alongside LØUS, FLUCC and Bollmann. Next up: Lokschuppen Berlin, Berlin on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Ema Leo is a techno and hardcore artist tracked on soundcheck, with 47 sets logg
 
 LØUS, FLUCC, Bollmann
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emaleo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emaleo/)*

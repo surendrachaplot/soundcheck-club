@@ -1,6 +1,6 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 17 Jul 2026.
+PLO Man is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Jolene Downtown Miami, Miami on Fri, 17 Jul 2026.
 
 PLO Man is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Jolene Downtown Miami, Miami on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ PLO Man is a techno and house artist tracked on soundcheck, with 148 sets logged
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

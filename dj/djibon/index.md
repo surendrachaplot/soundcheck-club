@@ -1,6 +1,6 @@
 # DJ IBON
 
-DJ IBON is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Blå, Oslo on Fri, 17 Jul 2026.
+DJ IBON is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Blå, Oslo on Fri, 17 Jul 2026.
 
 DJ IBON is a trance and techno artist based in Norway, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside ibon, Matriark and HORNS (1). Next up: Blå, Oslo on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DJ IBON is a trance and techno artist based in Norway, tracked on soundcheck, wi
 
 ibon, Matriark, HORNS (1)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djibon/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djibon/)*

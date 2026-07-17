@@ -1,6 +1,6 @@
 # Sparta Schwimmclub
 
-Sparta Schwimmclub is a music venue in Frankfurt with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "OURS OPEN AIR x LOVE FAMILY PARK Pre-Party with Anetha, Pan-Pot, Wigbert, Dave Simon" on Sat, 18 Jul 2026.
+Sparta Schwimmclub is a music venue in Frankfurt with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "OURS OPEN AIR x LOVE FAMILY PARK Pre-Party with Anetha, Pan-Pot, Wigbert, Dave Simon" on Sat, 18 Jul 2026.
 
 Sparta Schwimmclub is a music venue in Frankfurt listed on soundcheck. 5 upcoming nights, with line-ups including Alicia Hahn, Anetha, Dave Simon and Frau Laura and 2 more. Browse upcoming dates, start times and who's playing. Franziusstrasse 35 60314 Frankfurt.
 
@@ -18,4 +18,4 @@ Sparta Schwimmclub is a music venue in Frankfurt listed on soundcheck. 5 upcomin
 
 Franziusstrasse 35 60314 Frankfurt, Frankfurt
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/sparta-schwimmclub/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/sparta-schwimmclub/)*

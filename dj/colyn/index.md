@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at BERHTA, Washington DC on Fri, 17 Jul 2026.
+Colyn is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BERHTA, Washington DC on Fri, 17 Jul 2026.
 
 Colyn is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Innellea, Adriatique and CamelPhat. Next up: BERHTA, Washingtondc on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Colyn is a techno and house artist tracked on soundcheck, with 152 sets logged a
 
 Innellea, Adriatique, CamelPhat
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

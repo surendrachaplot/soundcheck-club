@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SEVENTH HEAVEN" on Thu, 16 Jul 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Le Besoin" on Fri, 17 Jul 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nights, with line-ups including Black Rave Culture, Blu9, Casket and D. Strange and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming nights, with line-ups including Black Rave Culture, Blu9, Casket and D. Strange and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | SEVENTH HEAVEN |  |
 | Fri, 17 Jul 2026 | Le Besoin | D. Strange, Drumset, Kanyon, Mina Mills |
 | Sat, 18 Jul 2026 | Black Rave Culture | Black Rave Culture, Icey Bby, Justindemus |
 | Thu, 23 Jul 2026 | [ synthetic ] | Blu9, Glamour Cadaver, JAXX. |
@@ -23,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming nigh
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

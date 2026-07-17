@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Motus x Abgedreht - Trance & Groove" on Fri, 17 Jul 2026.
+Humboldthain Club is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Motus x Abgedreht - Trance & Groove" on Fri, 17 Jul 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including AMRTUM, Amorelie, Armaville and B.A.O. and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 11 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

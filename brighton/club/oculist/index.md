@@ -1,6 +1,6 @@
 # Oculist
 
-Oculist is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "TRANS PRIDE: HEAVY BEATS 4 TRANS PEEPS" on Sat, 18 Jul 2026.
+Oculist is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "TRANS PRIDE: HEAVY BEATS 4 TRANS PEEPS" on Sat, 18 Jul 2026.
 
 Oculist is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including AUDIO DUNE, Charlie, Esperanza and Haze (1) and 2 more. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
 
@@ -18,4 +18,4 @@ Oculist is a music venue in Brighton listed on soundcheck. 5 upcoming nights, wi
 
 2 Boyce's St, Brighton BN1 1AN, Brighton
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*

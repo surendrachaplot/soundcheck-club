@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mondo, Madrid on Sat, 18 Jul 2026.
+SAIDAH is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Mondo, Madrid on Sat, 18 Jul 2026.
 
 SAIDAH is a house and garage artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 15 more. Often billed alongside Diffrent, Silva Bumpa and Benwal. Next up: Mondo, Madrid on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 107 sets logged 
 
 Diffrent, Silva Bumpa, Benwal
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

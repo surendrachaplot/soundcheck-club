@@ -1,6 +1,6 @@
 # NordOst
 
-NordOst is a Hardcore and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at clubasia, Tokyo on Fri, 17 Jul 2026.
+NordOst is a Hardcore and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at clubasia, Tokyo on Fri, 17 Jul 2026.
 
 NordOst is a hardcore and bass artist based in Japan, tracked on soundcheck, with 107 sets logged across Seoul and Tokyo. Often billed alongside illequal, migeru and arow. Next up: clubasia, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ NordOst is a hardcore and bass artist based in Japan, tracked on soundcheck, wit
 
 illequal, migeru, arow
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nordost/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nordost/)*

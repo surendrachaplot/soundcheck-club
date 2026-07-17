@@ -1,6 +1,6 @@
 # Obadius
 
-Obadius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 18 Jul 2026.
+Obadius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 18 Jul 2026.
 
 Obadius is a techno and house artist based in Iran, tracked on soundcheck, with 81 sets logged across Kualalumpur. Often billed alongside Meliha, OtherKind and Biscuit (MY). Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Obadius is a techno and house artist based in Iran, tracked on soundcheck, with 
 
 Meliha, OtherKind, Biscuit (MY)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obadius/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/obadius/)*

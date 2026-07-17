@@ -1,6 +1,6 @@
 # Chop Suey
 
-Chop Suey is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Debí BaiLAr MáS PerrEO (Bad Bunny - Dance Night)" on Sat, 25 Jul 2026.
+Chop Suey is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Debí BaiLAr MáS PerrEO (Bad Bunny - Dance Night)" on Sat, 25 Jul 2026.
 
 Chop Suey is a music venue in Seattle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1325 E. Madison; Seattle, WA 98122; United States.
 
@@ -14,4 +14,4 @@ Chop Suey is a music venue in Seattle listed on soundcheck. 1 upcoming night. Br
 
 1325 E. Madison; Seattle, WA 98122; United States, Seattle
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*

@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "LA PIRATECH & FURI présentent CARNAGE with Natte Visstick" on Fri, 17 Jul 2026.
+Warehouse is a music venue in Nantes with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "LA PIRATECH & FURI présentent CARNAGE with Natte Visstick" on Fri, 17 Jul 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 6 upcoming nights, with line-ups including 25EMEHEURE, Evil Grimace, EVN (2) and Lekkerfaces and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -19,4 +19,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 6 upcoming nights, wi
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

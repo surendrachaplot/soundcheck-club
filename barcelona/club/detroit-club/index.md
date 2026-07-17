@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "HARDNOISES" on Fri, 17 Jul 2026.
+DETROIT CLUB is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "HARDNOISES" on Fri, 17 Jul 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including BreakStyle, Etherwood, Flores and Koalaz and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -21,4 +21,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 8 upcoming nigh
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
+Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 141 sets logged across Amsterdam, Auckland, Barcelona and Basel and 39 more. Often billed alongside Baby Cocada, TEDESCO and Florentino. Next up: The Great Northern, Sanfrancisco on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 141 sets
 
 Baby Cocada, TEDESCO, Florentino
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

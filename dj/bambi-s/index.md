@@ -1,6 +1,6 @@
 # Bambi-S
 
-Bambi-S is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Bambi-S is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Bambi-S is a house and disco artist based in Germany, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Stipo, It's George! and Techno Ganoven. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Bambi-S is a house and disco artist based in Germany, tracked on soundcheck, wit
 
 Stipo, It's George!, Techno Ganoven
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

@@ -1,6 +1,6 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+gyrofield is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
 gyrofield is a drum & bass and bass artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside DjRUM, Mala and Mia Koden. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
@@ -31,4 +31,4 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 68 sets l
 
 DjRUM, Mala, Mia Koden
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

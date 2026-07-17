@@ -1,6 +1,6 @@
 # iffi
 
-iffi is a Latin Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jasna 1, Warsaw on Sat, 18 Jul 2026.
+iffi is a Latin Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Jasna 1, Warsaw on Sat, 18 Jul 2026.
 
 iffi is a latin bass and bass artist based in Poland, tracked on soundcheck, with 51 sets logged across Krakow, Mexicocity and Warsaw. Often billed alongside Some Guest, faron and Taan. Next up: Jasna 1, Warsaw on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ iffi is a latin bass and bass artist based in Poland, tracked on soundcheck, wit
 
 Some Guest, faron, Taan
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iffi/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iffi/)*

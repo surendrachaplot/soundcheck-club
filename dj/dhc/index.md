@@ -1,6 +1,6 @@
 # DHC
 
-DHC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+DHC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
 DHC is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ DHC is a house and techno artist tracked on soundcheck, with 112 sets logged acr
 
 THC, S-candalo, Byron Yeates
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dhc/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dhc/)*

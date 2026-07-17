@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "SEVEN – AWAKEN" on Fri, 17 Jul 2026.
+Esbirra Ibiza is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SEVEN – AWAKEN" on Fri, 17 Jul 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with line-ups including Chelu Garcia, E.LINA, Greick Jhøzsu and Hugo Martinez and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -17,4 +17,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming nights,
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

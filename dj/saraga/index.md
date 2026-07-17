@@ -1,6 +1,6 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Hangar Meco, Lisbon on Fri, 17 Jul 2026.
+Saraga is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hangar Meco, Lisbon on Fri, 17 Jul 2026.
 
 Saraga is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 11 more. Often billed alongside Guy Gerber, Bedouin and AGELESS. Next up: Hangar Meco, Lisbon on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Saraga is a house and tech house artist tracked on soundcheck, with 65 sets logg
 
 Guy Gerber, Bedouin, AGELESS
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

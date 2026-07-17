@@ -1,6 +1,6 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bogart House, New York City on Sat, 25 Jul 2026.
+SHARE (NL) is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bogart House, New York City on Sat, 25 Jul 2026.
 
 SHARE (NL) is a house and electronica artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Basel, Berlin and Ibiza and 8 more. Often billed alongside BOHEM, KAHMEYA and Mira. Next up: Bogart House, Newyorkcity on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ SHARE (NL) is a house and electronica artist based in Netherlands, tracked on so
 
 BOHEM, KAHMEYA, Mira
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*

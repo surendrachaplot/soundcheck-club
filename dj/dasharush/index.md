@@ -1,14 +1,13 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+Dasha Rush is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
 
-Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Port del Comte, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Fri, 24 Jul 2026 | Port del Comte | Barcelona |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
@@ -17,6 +16,7 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets log
 
 ## Recently played
 
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - not|or|ius Club, Turin — Sun, 5 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
@@ -24,10 +24,9 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 150 sets log
 - Studio Club Malaga, Malaga — Fri, 5 Jun 2026
 - Barraca, Valencia — Sat, 23 May 2026
 - Ministerium Club, Lisbon — Fri, 22 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

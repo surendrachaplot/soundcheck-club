@@ -1,6 +1,6 @@
 # Sai
 
-Sai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Débris, Tokyo on Fri, 17 Jul 2026.
+Sai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Débris, Tokyo on Fri, 17 Jul 2026.
 
 Sai is a techno and house artist based in Japan, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Ibiza and Losangeles and 5 more. Often billed alongside FUJIMON, Alex Friday and Alexander Paulski. Next up: Débris, Tokyo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Sai is a techno and house artist based in Japan, tracked on soundcheck, with 19 
 
 FUJIMON, Alex Friday, Alexander Paulski
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sai/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sai/)*

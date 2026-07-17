@@ -1,6 +1,6 @@
 # The Tempest Inn
 
-The Tempest Inn is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "4TOTHEFLOOR Tempest Terrace - SILAS (UK)" on Sat, 18 Jul 2026.
+The Tempest Inn is a music venue in Brighton with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "4TOTHEFLOOR Tempest Terrace - SILAS (UK)" on Sat, 18 Jul 2026.
 
 The Tempest Inn is a music venue in Brighton listed on soundcheck. 4 upcoming nights, with line-ups including Paul Hilditch and SILAS (UK). Browse upcoming dates, start times and who's playing. 159-161 Kings Road Arches, Brighton BN1 1NB.
 
@@ -17,4 +17,4 @@ The Tempest Inn is a music venue in Brighton listed on soundcheck. 4 upcoming ni
 
 159-161 Kings Road Arches, Brighton BN1 1NB, Brighton
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-tempest-inn/)*

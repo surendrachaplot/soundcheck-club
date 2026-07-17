@@ -1,6 +1,6 @@
 # MALENA
 
-MALENA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Virage, Paris on Fri, 17 Jul 2026.
+MALENA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Virage, Paris on Fri, 17 Jul 2026.
 
 MALENA is a house and techno artist based in Argentina, tracked on soundcheck, with 61 sets logged across Barcelona, Buenosaires, Hamburg and Ibiza and 6 more. Often billed alongside Acidnena, Berenice and Bruno (ES). Next up: Virage, Paris on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ MALENA is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Acidnena, Berenice, Bruno (ES)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malena/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/malena/)*

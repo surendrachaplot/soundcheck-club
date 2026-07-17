@@ -1,6 +1,6 @@
 # eskay
 
-eskay is a House and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 25 Jul 2026.
+eskay is a House and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Lord Gladstone, Sydney on Sat, 25 Jul 2026.
 
 eskay is a house and jungle artist based in Ireland, tracked on soundcheck, with 26 sets logged across Dublin, Newyorkcity and Sydney. Often billed alongside 2step.png, Jenn Hession and Decorum. Next up: The Lord Gladstone, Sydney on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ eskay is a house and jungle artist based in Ireland, tracked on soundcheck, with
 
 2step.png, Jenn Hession, Decorum
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskay/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eskay/)*

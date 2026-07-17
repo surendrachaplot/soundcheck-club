@@ -1,6 +1,6 @@
 # Apache
 
-Apache is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Jungle Island, Miami on Sat, 18 Jul 2026.
+Apache is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Jungle Island, Miami on Sat, 18 Jul 2026.
 
 Apache is an afro house and house artist based in France, tracked on soundcheck, with 46 sets logged across Austin, Bali, Basel and Buenosaires and 12 more. Often billed alongside Kamcoco, Malone and Vanjee. Next up: Jungle Island, Miami on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Apache is an afro house and house artist based in France, tracked on soundcheck,
 
 Kamcoco, Malone, Vanjee
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/apache/)*

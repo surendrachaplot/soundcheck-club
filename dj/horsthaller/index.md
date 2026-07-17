@@ -1,6 +1,6 @@
 # Horst Haller
 
-Horst Haller is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
+Horst Haller is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klangtherapie, Nürnberg on Thu, 6 Aug 2026.
 
 Horst Haller is a downtempo and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Frida Darko, Ele Luz and Temple Tears. Next up: Klangtherapie, Nurnberg on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Horst Haller is a downtempo and techno artist based in Germany, tracked on sound
 
 Frida Darko, Ele Luz, Temple Tears
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsthaller/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/horsthaller/)*

@@ -1,6 +1,6 @@
 # Jaz in the City
 
-Jaz in the City is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ROOFTOP SERIES 2026 at Mariatrink" on Fri, 17 Jul 2026.
+Jaz in the City is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ROOFTOP SERIES 2026 at Mariatrink" on Fri, 17 Jul 2026.
 
 Jaz in the City is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Fede Frostl. Browse upcoming dates, start times and who's playing. Windmühlgasse 28, 1060 Wien.
 
@@ -19,4 +19,4 @@ Jaz in the City is a music venue in Vienna listed on soundcheck. 6 upcoming nigh
 
 Windmühlgasse 28, 1060 Wien, Vienna
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/jaz-in-the-city/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/jaz-in-the-city/)*

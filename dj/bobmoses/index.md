@@ -1,6 +1,6 @@
 # Bob Moses
 
-Bob Moses is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Berkeley Greek Theatre, San Francisco/Oakland on Fri, 17 Jul 2026.
+Bob Moses is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berkeley Greek Theatre, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Bob Moses is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Budapest and 18 more. Often billed alongside Claptone, Justin Martin and Ben Böhmer. Next up: Berkeley Greek Theatre, Sanfrancisco on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Bob Moses is a house and techno artist tracked on soundcheck, with 45 sets logge
 
 Claptone, Justin Martin, Ben Böhmer
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

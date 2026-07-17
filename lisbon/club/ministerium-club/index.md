@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Riktus IV ANNIVERSARY - 4.3 (Day Three) with Alex TB b2b Buchecha, DTEXX" on Thu, 16 Jul 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Ministerium Club // DPR, Cruz, Hélio & Manuel Cotta" on Fri, 17 Jul 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including Alex TB, Amulador, Andre Cascais and ANÍBAL and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including Amulador, Andre Cascais, ANÍBAL and Archives Uniques and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Riktus IV ANNIVERSARY - 4.3 (Day Three) with Alex TB b2b Buchecha, DTEXX | Alex TB, Buchecha, DTEXX, Destt, GAIVEU, SIKXTO |
 | Fri, 17 Jul 2026 | Ministerium Club // DPR, Cruz, Hélio & Manuel Cotta | Cruz (PT), DPR (1), Helio, Manuel Cotta |
 | Sat, 18 Jul 2026 | ADRENA curated by Ketarina with JKS b2b BENZA, DJ ANGEL | Archives Uniques, BENZA, DJ ANGEL (fr), JKS, Ketarina |
 | Thu, 23 Jul 2026 | Riktus IV ANNIVERSARY - 4.4 (Day Four) with PETERBLUE, DJ SEXSTASY | ANÍBAL, DJ SEXSTASY, GAVI, PETERBLUE, kennino, pavvvvvvlo |
@@ -22,4 +21,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

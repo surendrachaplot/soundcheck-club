@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club der Visionaere, Berlin on Sun, 26 Jul 2026.
+CHKLTE is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club der Visionaere, Berlin on Sun, 26 Jul 2026.
 
 CHKLTE is a house and minimal artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Auckland and Austin and 27 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Club der Visionaere, Berlin on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 108 sets logged
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

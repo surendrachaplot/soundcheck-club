@@ -1,14 +1,13 @@
 # CCL
 
-CCL is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu, 16 Jul 2026.
+CCL is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
 
-CCL is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Auckland, Austin and Barcelona and 56 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin on Thu 16 Jul.
+CCL is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Auckland, Austin and Barcelona and 56 more. Often billed alongside Objekt, Eris Drew and Octo Octa. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Schönwalde-Glien, Grünefeld bei Berlin, Germany | Berlin |
 | Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Thu, 23 Jul 2026 | 90mil | Berlin |
 | Fri, 24 Jul 2026 | OXI | Berlin |
@@ -23,6 +22,7 @@ CCL is a techno and house artist tracked on soundcheck, with 198 sets logged acr
 
 ## Recently played
 
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Brutus, Rotterdam — Sat, 27 Jun 2026
 - RSO.BERLIN, Berlin — Sat, 27 Jun 2026
 - Centro Cultural Conde Duque, Madrid — Sat, 13 Jun 2026
@@ -30,10 +30,9 @@ CCL is a techno and house artist tracked on soundcheck, with 198 sets logged acr
 - C12, Brussels — Fri, 29 May 2026
 - Het Twiske, Amsterdam — Sat, 23 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
-- La Machine Du Moulin Rouge, Paris — Fri, 22 May 2026
 
 ## Shares bills with
 
 Objekt, Eris Drew, Octo Octa
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

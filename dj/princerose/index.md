@@ -1,6 +1,6 @@
 # Prince Rose
 
-Prince Rose is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at C'mon Everybody, New York City on Fri, 17 Jul 2026.
+Prince Rose is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at C'mon Everybody, New York City on Fri, 17 Jul 2026.
 
 Prince Rose is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity and Washingtondc. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: C'mon Everybody, Newyorkcity on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Prince Rose is a house and techno artist based in United States of America, trac
 
 Gail Force One, PWRPUFF, Joann Fabrixx
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/princerose/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/princerose/)*

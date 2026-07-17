@@ -1,6 +1,6 @@
 # Dave
 
-Dave is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Camp and Furnace, Liverpool on Thu, 30 Jul 2026.
+Dave is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Camp and Furnace, Liverpool on Thu, 30 Jul 2026.
 
 Dave is a techno and house artist tracked on soundcheck, with 27 sets logged across Berlin, Budapest, Kualalumpur and Leeds and 4 more. Often billed alongside Bisk, Emanuel Eisbrenner and Wiebe Roose. Next up: Camp and Furnace, Liverpool on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Dave is a techno and house artist tracked on soundcheck, with 27 sets logged acr
 
 Bisk, Emanuel Eisbrenner, Wiebe Roose
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dave/)*

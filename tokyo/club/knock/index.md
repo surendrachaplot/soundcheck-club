@@ -1,6 +1,6 @@
 # Knock
 
-Knock is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Gravel Path 2" on Fri, 31 Jul 2026.
+Knock is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Gravel Path 2" on Fri, 31 Jul 2026.
 
 Knock is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3-48-6 Koenjiminami, Suginami, Tokyo 166-0003, Japan.
 
@@ -14,4 +14,4 @@ Knock is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse u
 
 3-48-6 Koenjiminami, Suginami, Tokyo 166-0003, Japan, Tokyo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knock/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knock/)*

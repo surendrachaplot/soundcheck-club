@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ReSolute presents: B-Side (2nd Edition)" on Thu, 16 Jul 2026.
+H0L0 is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Roni Size / Agent 137 b2b Dave Shichman / NIGELTHREETIMES" on Fri, 17 Jul 2026.
 
-H0L0 is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Adam R, AG (1), Agent 137 and BABEITSPURR and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Adam R, AG (1), Agent 137 and BABEITSPURR and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | ReSolute presents: B-Side (2nd Edition) | CAMILLA, Connie, Elie, Monodos |
 | Fri, 17 Jul 2026 | Roni Size / Agent 137 b2b Dave Shichman / NIGELTHREETIMES | Agent 137, DNC (1), Dave Shichman, NIGELTHREETIMES, Roni Size, Scribble, logeybear, sights |
 | Sat, 18 Jul 2026 | Petit Comité New York with Bastian Bux | Bastian Bux |
 | Sat, 18 Jul 2026 | ABOV: FLINTA NYC | TYGAPAW, Volvox |
@@ -22,4 +21,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, wi
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

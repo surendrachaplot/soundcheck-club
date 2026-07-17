@@ -1,6 +1,6 @@
 # Mr Scruff
 
-Mr Scruff is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
+Mr Scruff is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Finsbury Park, London on Sat, 1 Aug 2026.
 
 Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: Finsbury Park, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 102 sets
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

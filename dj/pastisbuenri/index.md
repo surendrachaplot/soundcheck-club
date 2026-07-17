@@ -1,6 +1,6 @@
 # Pastis & Buenri
 
-Pastis & Buenri is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Nitsa Club, Barcelona on Sat, 22 Aug 2026.
+Pastis & Buenri is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Nitsa Club, Barcelona on Sat, 22 Aug 2026.
 
 Pastis & Buenri are a techno and hardcore duo tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Carnada, Ozzwald and Adrian Mills. Next up: Nitsa Club, Barcelona on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Pastis & Buenri are a techno and hardcore duo tracked on soundcheck, with 23 set
 
 Carnada, Ozzwald, Adrian Mills
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pastisbuenri/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pastisbuenri/)*

@@ -1,6 +1,6 @@
 # Monsieurmadam
 
-Monsieurmadam is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at ESC, Montreal on Fri, 17 Jul 2026.
+Monsieurmadam is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at ESC, Montreal on Fri, 17 Jul 2026.
 
 Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets logged across Montreal and Toronto. Often billed alongside Ekitwanda, CrisseMarqueur and nastygloss. Next up: ESC, Montreal on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets lo
 
 Ekitwanda, CrisseMarqueur, nastygloss
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmadam/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmadam/)*

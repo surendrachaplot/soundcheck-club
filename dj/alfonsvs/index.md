@@ -1,6 +1,6 @@
 # Alfonsvs
 
-Alfonsvs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Plano B, Porto on Sat, 18 Jul 2026.
+Alfonsvs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Plano B, Porto on Sat, 18 Jul 2026.
 
 Alfonsvs is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Adriana Ruas, Luís Afonso and Nuno Carneiro. Next up: Plano B, Porto on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Alfonsvs is a house and techno artist tracked on soundcheck, with 62 sets logged
 
 Adriana Ruas, Luís Afonso, Nuno Carneiro
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsvs/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsvs/)*

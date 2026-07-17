@@ -1,6 +1,6 @@
 # A.D.H.S.
 
-A.D.H.S. is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Kater, Berlin on Sat, 18 Jul 2026.
+A.D.H.S. is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Kater, Berlin on Sat, 18 Jul 2026.
 
 A.D.H.S. is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Maurice Mino, Thomas Schumacher and Sin:port. Next up: Kater, Berlin on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ A.D.H.S. is a techno and house artist tracked on soundcheck, with 57 sets logged
 
 Maurice Mino, Thomas Schumacher, Sin:port
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*

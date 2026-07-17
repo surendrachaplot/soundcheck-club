@@ -1,6 +1,6 @@
 # Gino
 
-Gino is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bajo Mundo, Mexico City on Fri, 17 Jul 2026.
+Gino is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bajo Mundo, Mexico City on Fri, 17 Jul 2026.
 
 Gino is a drum & bass and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Birmingham, Bristol and Chicago and 11 more. Often billed alongside Turno, Bryan Gee and Charlie Tee. Next up: Bajo Mundo, Mexicocity on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Gino is a drum & bass and house artist based in United States of America, tracke
 
 Turno, Bryan Gee, Charlie Tee
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*

@@ -1,6 +1,6 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
 
 Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 17 more. Often billed alongside Luca Agnelli, Mattia Trani and PISAPIA (IT). Next up: Flava Beach, Naples on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with
 
 Luca Agnelli, Mattia Trani, PISAPIA (IT)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*

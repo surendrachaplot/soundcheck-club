@@ -1,6 +1,6 @@
 # Church of Laeken
 
-Church of Laeken is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Andrei Irimia - Église Notre-Dame de Laeken - European Tour 2026" on Wed, 23 Sept 2026.
+Church of Laeken is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Andrei Irimia - Église Notre-Dame de Laeken - European Tour 2026" on Wed, 23 Sept 2026.
 
 Church of Laeken is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Parvis Notre Dame, 1020 Bruxelles, Belgio.
 
@@ -14,4 +14,4 @@ Church of Laeken is a music venue in Brussels listed on soundcheck. 1 upcoming n
 
 Parvis Notre Dame, 1020 Bruxelles, Belgio, Brussels
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/church-of-laeken/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/church-of-laeken/)*

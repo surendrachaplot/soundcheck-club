@@ -1,6 +1,6 @@
 # DJ Luiser
 
-DJ Luiser is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Marmorbar, Berlin on Fri, 31 Jul 2026.
+DJ Luiser is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Marmorbar, Berlin on Fri, 31 Jul 2026.
 
 DJ Luiser is a techno and bass artist tracked on soundcheck, with 29 sets logged across Berlin and Leipzig. Often billed alongside Bephål, ILOVDADDYZ and Josi Miller (2). Next up: Marmorbar, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ DJ Luiser is a techno and bass artist tracked on soundcheck, with 29 sets logged
 
 Bephål, ILOVDADDYZ, Josi Miller (2)
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djluiser/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djluiser/)*

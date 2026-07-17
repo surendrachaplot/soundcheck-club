@@ -1,14 +1,13 @@
 # Next Door Records Two
 
-Next Door Records Two is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Inès Cherifi, Ilena & Orbweaver" on Thu, 16 Jul 2026.
+Next Door Records Two is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Groovy Juice at Next Door Records 2" on Sat, 18 Jul 2026.
 
-Next Door Records Two is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including anti.Net, Debba, green digger and Ilena and 2 more. Browse upcoming dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
+Next Door Records Two is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including anti.Net, Debba, green digger and JoeJas and 2 more. Browse upcoming dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Inès Cherifi, Ilena & Orbweaver | Ilena, Inès Cherifi |
 | Sat, 18 Jul 2026 | Groovy Juice at Next Door Records 2 |  |
 | Sun, 26 Jul 2026 | Color One Tear Black x Soul Of Jamaica |  |
 | Thu, 30 Jul 2026 | JoeJas' Left Handed Bandit Tour | JoeJas, anti.Net, retropxssy |
@@ -19,4 +18,4 @@ Next Door Records Two is a music venue in London listed on soundcheck. 6 upcomin
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*

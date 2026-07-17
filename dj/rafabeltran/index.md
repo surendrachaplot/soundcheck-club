@@ -1,6 +1,6 @@
 # Rafa Beltran
 
-Rafa Beltran is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City on Sat, 18 Jul 2026.
+Rafa Beltran is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City on Sat, 18 Jul 2026.
 
 Rafa Beltran is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Dj Fucci and Lex Digital. Next up: TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexicocity on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Rafa Beltran is a techno and hardcore artist based in Mexico, tracked on soundch
 
 Magnolia Coronado, Dj Fucci, Lex Digital
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabeltran/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabeltran/)*

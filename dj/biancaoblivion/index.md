@@ -1,6 +1,6 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at The Cuff Complex, Seattle on Fri, 17 Jul 2026.
+Bianca Oblivion is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Cuff Complex, Seattle on Fri, 17 Jul 2026.
 
 Bianca Oblivion is a bass and club artist tracked on soundcheck, with 158 sets logged across Amsterdam, Auckland, Austin and Bangkok and 45 more. Often billed alongside Star Eyes, Sam Binga and Machinedrum. Next up: The Cuff Complex, Seattle on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Bianca Oblivion is a bass and club artist tracked on soundcheck, with 158 sets l
 
 Star Eyes, Sam Binga, Machinedrum
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*

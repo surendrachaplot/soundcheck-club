@@ -1,6 +1,6 @@
 # CosmiKat
 
-CosmiKat is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Süss War Gestern, Berlin on Fri, 17 Jul 2026.
+CosmiKat is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Süss War Gestern, Berlin on Fri, 17 Jul 2026.
 
 CosmiKat is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Hamburg. Often billed alongside Nat SuPrise, ZweiE and Bøgen. Next up: Süss War Gestern, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ CosmiKat is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Nat SuPrise, ZweiE, Bøgen
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*

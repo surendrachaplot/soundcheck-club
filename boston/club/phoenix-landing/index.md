@@ -1,18 +1,17 @@
 # Phoenix Landing
 
-Phoenix Landing is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "elements - Tom B. Ill (Church of Drum & Bass -NYC) & MC Josiah Scribes + Rubix" on Thu, 16 Jul 2026.
+Phoenix Landing is a music venue in Boston with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "elements - Justin Hawkes (UKF, Hospital, Drumcaste) - Boston debut" on Thu, 23 Jul 2026.
 
-Phoenix Landing is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Lenore. Browse upcoming dates, start times and who's playing. 512 Massachusetts Avenue; Cambridge, MA 02123; United States.
+Phoenix Landing is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Lenore. Browse upcoming dates, start times and who's playing. 512 Massachusetts Avenue; Cambridge, MA 02123; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | elements - Tom B. Ill (Church of Drum & Bass -NYC) & MC Josiah Scribes + Rubix |  |
 | Thu, 23 Jul 2026 | elements - Justin Hawkes (UKF, Hospital, Drumcaste) - Boston debut | Lenore |
 
 ## Address
 
 512 Massachusetts Avenue; Cambridge, MA 02123; United States, Boston
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/phoenix-landing/)*

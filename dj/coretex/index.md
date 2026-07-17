@@ -1,6 +1,6 @@
 # Coretex
 
-Coretex is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 18 Jul 2026.
+Coretex is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 18 Jul 2026.
 
 Coretex is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 42 sets logged across Frankfurt, Hongkong, Osaka and Tokyo. Often billed alongside MIDI War, KAMIKAZE and M-Project. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Coretex is a hardcore and gabber artist based in Japan, tracked on soundcheck, w
 
 MIDI War, KAMIKAZE, M-Project
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coretex/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coretex/)*

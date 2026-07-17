@@ -1,6 +1,6 @@
 # Mislaw
 
-Mislaw is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Smolna, Warsaw on Sat, 18 Jul 2026.
+Mislaw is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Smolna, Warsaw on Sat, 18 Jul 2026.
 
 Mislaw is a techno and minimal techno artist based in Poland, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bucharest and Hamburg and 4 more. Often billed alongside Lucyd, Hekato and Rethe. Next up: Smolna, Warsaw on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mislaw is a techno and minimal techno artist based in Poland, tracked on soundch
 
 Lucyd, Hekato, Rethe
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*

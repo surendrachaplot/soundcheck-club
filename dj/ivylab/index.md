@@ -1,6 +1,6 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cooks Valley Campground, San Francisco/Oakland on Fri, 17 Jul 2026.
 
 Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 74 sets logged across Antwerp, Auckland, Austin and Berlin and 27 more. Often billed alongside Kasra, Lake Hills and SP:MC. Next up: Cooks Valley Campground, Sanfrancisco on Fri 17 Jul.
 
@@ -28,4 +28,4 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 74 sets log
 
 Kasra, Lake Hills, SP:MC
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

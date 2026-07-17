@@ -1,6 +1,6 @@
 # NOS-talgia
 
-NOS-talgia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 18 Jul 2026.
+NOS-talgia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 18 Jul 2026.
 
 NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, with 15 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Allterverse, Areeb Abbasi and Burnii. Next up: Geary Avenue Warehouse Project, Toronto on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Allterverse, Areeb Abbasi, Burnii
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*

@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Black Box Records: Alessio Collina, Vito Fattore, DJ Delivery" on Thu, 16 Jul 2026.
+Bulbul Berlin is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "HAUSNACHT: Furz (live), Nikklaas, Loves_kills b2b Slow PSTL, Dirty Runners" on Fri, 17 Jul 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alessio Collina, Alma Negrot, Anestis and Baroma and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Alma Negrot, Anestis, Baroma and BECKSHAM and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | Black Box Records: Alessio Collina, Vito Fattore, DJ Delivery | Alessio Collina, DJ Delivery, Vito Fattore |
 | Fri, 17 Jul 2026 | HAUSNACHT: Furz (live), Nikklaas, Loves_kills b2b Slow PSTL, Dirty Runners | Dirty Runners, Furz, Loves_kills, Nikklaas, Slow PSTL |
 | Sat, 18 Jul 2026 | Simbiosis: Sean Gonzalez, DJ Trade Trainer, Baroma, Juan Diego Drouet | Baroma, DJ Trade Trainer, Juan Diego Drouet, Pandora (1), Sean Gonzalez, kairavi |
 | Thu, 23 Jul 2026 | House of Others (Vol.10) - CSD edition: Dgeral, Alma Negrot, materia hache | Alma Negrot, Dgeral, materia hache |
@@ -21,4 +20,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

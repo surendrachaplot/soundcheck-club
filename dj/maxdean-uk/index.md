@@ -1,6 +1,6 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
+Max Dean is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
 Max Dean is a house and tech house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Auckland, Austin and Bali and 37 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 222 sets l
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

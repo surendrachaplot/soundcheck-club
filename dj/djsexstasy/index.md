@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
+DJ SEXSTASY is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Z-Bau, Nürnberg on Sat, 18 Jul 2026.
 
 DJ SEXSTASY is a techno and trance artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 8 more. Often billed alongside PETERBLUE, Rishka and Towicz. Next up: Z-Bau, Nurnberg on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ DJ SEXSTASY is a techno and trance artist tracked on soundcheck, with 28 sets lo
 
 PETERBLUE, Rishka, Towicz
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

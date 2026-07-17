@@ -1,6 +1,6 @@
 # kairavi
 
-kairavi is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Bulbul Berlin, Berlin on Sat, 18 Jul 2026.
+kairavi is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bulbul Berlin, Berlin on Sat, 18 Jul 2026.
 
 kairavi is a house and club artist based in India, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Mati Amoretti, oulcan and Flor Coto. Next up: Bulbul Berlin, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ kairavi is a house and club artist based in India, tracked on soundcheck, with 1
 
 Mati Amoretti, oulcan, Flor Coto
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kairavi/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kairavi/)*

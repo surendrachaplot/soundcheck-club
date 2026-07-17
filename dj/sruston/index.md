@@ -1,6 +1,6 @@
 # S Ruston
 
-S Ruston is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at FOLD, London on Sat, 18 Jul 2026.
+S Ruston is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at FOLD, London on Sat, 18 Jul 2026.
 
 S Ruston is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Copenhagen, Hongkong and Krakow and 6 more. Often billed alongside Ady Toledano, Frozilla and Vio PRG. Next up: FOLD, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ S Ruston is a techno and house artist tracked on soundcheck, with 65 sets logged
 
 Ady Toledano, Frozilla, Vio PRG
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sruston/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sruston/)*

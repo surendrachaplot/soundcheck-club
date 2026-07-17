@@ -1,6 +1,6 @@
 # Botez
 
-Botez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Lincoln Factory, Detroit on Fri, 17 Jul 2026.
+Botez is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lincoln Factory, Detroit on Fri, 17 Jul 2026.
 
 Botez is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago and Detroit. Often billed alongside Michael Nigro, Dantiez and Nathan Maxwell. Next up: Lincoln Factory, Detroit on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Botez is a house and techno artist based in United States of America, tracked on
 
 Michael Nigro, Dantiez, Nathan Maxwell
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/botez/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/botez/)*

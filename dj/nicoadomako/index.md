@@ -1,6 +1,6 @@
 # Nico Adomako
 
-Nico Adomako is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Kwia, Berlin on Fri, 17 Jul 2026.
+Nico Adomako is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Kwia, Berlin on Fri, 17 Jul 2026.
 
 Nico Adomako is a bass and club artist tracked on soundcheck, with 74 sets logged across Amsterdam, Basel, Berlin and Bristol and 7 more. Often billed alongside Mobilegirl, Kanucia and ohjeelo. Next up: Kwia, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Nico Adomako is a bass and club artist tracked on soundcheck, with 74 sets logge
 
 Mobilegirl, Kanucia, ohjeelo
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoadomako/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoadomako/)*

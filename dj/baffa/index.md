@@ -1,6 +1,6 @@
 # Baffa
 
-Baffa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Seawolf Records / Avinguda Meridiana 23, Barcelona , Barcelona on Fri, 17 Jul 2026.
+Baffa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Seawolf Records / Avinguda Meridiana 23, Barcelona , Barcelona on Fri, 17 Jul 2026.
 
 Baffa is a house and techno artist based in Spain, tracked on soundcheck, with 65 sets logged across Barcelona. Often billed alongside Matteo Floris, Paolo Meloni and Inpulse. Next up: TBA - Seawolf Records / Avinguda Meridiana 23, Barcelona , Barcelona on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Baffa is a house and techno artist based in Spain, tracked on soundcheck, with 6
 
 Matteo Floris, Paolo Meloni, Inpulse
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baffa/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/baffa/)*

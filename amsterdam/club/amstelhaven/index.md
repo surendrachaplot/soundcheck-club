@@ -1,6 +1,6 @@
 # Amstelhaven
 
-Amstelhaven is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "FLEX werken Pride Special - Amstelhaven" on Sat, 1 Aug 2026.
+Amstelhaven is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "FLEX werken Pride Special - Amstelhaven" on Sat, 1 Aug 2026.
 
 Amstelhaven is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including LoPoll and Radiosus. Browse upcoming dates, start times and who's playing. Mauritskade 1, 1091 EW, Amsterdam.
 
@@ -14,4 +14,4 @@ Amstelhaven is a music venue in Amsterdam listed on soundcheck. 1 upcoming night
 
 Mauritskade 1, 1091 EW, Amsterdam, Amsterdam
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amstelhaven/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amstelhaven/)*

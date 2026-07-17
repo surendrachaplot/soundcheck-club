@@ -1,6 +1,6 @@
 # Rozaly
 
-Rozaly is a Techno and Afro Tech artist with 5 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
+Rozaly is a Techno and Afro Tech artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Shunter, Rotterdam on Fri, 17 Jul 2026.
 
 Rozaly is a techno and afro tech artist tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Geneva and Glasgow and 5 more. Often billed alongside Chinnamasta, Tash LC and Fafi Abdel Nour. Next up: Shunter, Rotterdam on Fri 17 Jul.
 
@@ -29,4 +29,4 @@ Rozaly is a techno and afro tech artist tracked on soundcheck, with 61 sets logg
 
 Chinnamasta, Tash LC, Fafi Abdel Nour
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaly/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaly/)*

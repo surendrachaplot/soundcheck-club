@@ -1,6 +1,6 @@
 # SDJ (1)
 
-SDJ (1) is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
+SDJ (1) is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cupra City Garage Manchester, Manchester on Fri, 17 Jul 2026.
 
 SDJ (1) is a trance and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside maevie, ANT1 (2) and AYDJ. Next up: Cupra City Garage Manchester, Manchester on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ SDJ (1) is a trance and house artist based in United Kingdom, tracked on soundch
 
 maevie, ANT1 (2), AYDJ
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*

@@ -1,6 +1,6 @@
 # TBA - VADA VADA Manchester 
 
-TBA - VADA VADA Manchester  is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 16 Jul 2026; the next is "Hello Darling x Vada Vada" on Fri, 17 Jul 2026.
+TBA - VADA VADA Manchester  is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Hello Darling x Vada Vada" on Fri, 17 Jul 2026.
 
 TBA - VADA VADA Manchester  is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including DJ Scissher and Treble Gemini. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - VADA VADA Manchester  is a music venue in Manchester listed on soundcheck.
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Hello Darling x Vada Vada | DJ Scissher, Treble Gemini |
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tba-vada-vada-manchester/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tba-vada-vada-manchester/)*

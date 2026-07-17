@@ -1,6 +1,6 @@
 # PACH
 
-PACH is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
+PACH is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Night Tales, London on Fri, 17 Jul 2026.
 
 PACH is a house and minimal artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: Night Tales, London on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ PACH is a house and minimal artist tracked on soundcheck, with 63 sets logged ac
 
 Marlie, ADMNTi, Rossi
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*

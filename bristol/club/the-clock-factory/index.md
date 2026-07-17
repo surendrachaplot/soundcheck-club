@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 26 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Free Rave Summer Series: Reaper, Formula & Flowidus" on Fri, 17 Jul 2026.
+The Clock Factory is a music venue in Bristol with 26 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Free Rave Summer Series: Reaper, Formula & Flowidus" on Fri, 17 Jul 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 26 upcoming nights, with line-ups including Bladerunner, Burt Cope, Congo Natty and Deselecta and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 26 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

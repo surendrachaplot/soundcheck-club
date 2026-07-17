@@ -1,6 +1,6 @@
 # Brooklyn Storehouse
 
-Brooklyn Storehouse is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Teksupport: Max Dean b2b Luke Dean (all night long)" on Fri, 24 Jul 2026.
+Brooklyn Storehouse is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Teksupport: Max Dean b2b Luke Dean (all night long)" on Fri, 24 Jul 2026.
 
 Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Four Tet, JSMN, KRUELTY and Luke Dean_ and 2 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
 
@@ -17,4 +17,4 @@ Brooklyn Storehouse is a music venue in Newyorkcity listed on soundcheck. 4 upco
 
 Brooklyn Navy Yard, New York City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-storehouse/)*

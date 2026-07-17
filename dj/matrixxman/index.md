@@ -1,6 +1,6 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Signal, New York City on Fri, 31 Jul 2026.
+Matrixxman is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Signal, New York City on Fri, 31 Jul 2026.
 
 Matrixxman is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: Signal, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Matrixxman is a techno and house artist tracked on soundcheck, with 163 sets log
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

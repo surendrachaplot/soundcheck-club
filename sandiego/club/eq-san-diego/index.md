@@ -1,14 +1,13 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 13 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "REVERB: Thursday San Diego Pride" on Thu, 16 Jul 2026.
+EQ San Diego is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Disco S!ut presents Never Dull: Saturday San Diego Pride" on Sat, 18 Jul 2026.
 
-EQ San Diego is a music venue in Sandiego listed on soundcheck. 13 upcoming nights, with line-ups including Boys Don't Disco, Codak, DEVZ and Flores Negras and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nights, with line-ups including Boys Don't Disco, Codak, DEVZ and Flores Negras and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | REVERB: Thursday San Diego Pride |  |
 | Sat, 18 Jul 2026 | Disco S!ut presents Never Dull: Saturday San Diego Pride | Boys Don't Disco, Never Dull |
 | Sat, 18 Jul 2026 | HEABNASTY and FRIENDS: Saturday San Diego Pride | Kasama |
 | Sun, 19 Jul 2026 | DAY GROOVES: Sunday San Diego Pride  | Michelle Be Real, Paul Najera |
@@ -18,9 +17,10 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 13 upcoming nigh
 | Thu, 6 Aug 2026 | The Techno Jungle |  |
 | Fri, 7 Aug 2026 | shekdash | DEVZ, shekdash |
 | Fri, 21 Aug 2026 | FNGRS CRSSD presents Mindchatter [DJ Set] |  |
+| Fri, 28 Aug 2026 | FNGRS CRSSD presents Ragie Ban |  |
 
 ## Address
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

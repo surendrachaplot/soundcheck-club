@@ -1,6 +1,6 @@
 # Kwia
 
-Kwia is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "Einhundert: Oscar Nñ, Kontronatura, hey arnold, Nico Adomako" on Fri, 17 Jul 2026.
+Kwia is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Einhundert: Oscar Nñ, Kontronatura, hey arnold, Nico Adomako" on Fri, 17 Jul 2026.
 
 Kwia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including a time traveller, CuCiCuCi, Joa Luna and Kontronatura and 2 more. Browse upcoming dates, start times and who's playing. Maybachufer 16, 12047, Berlin.
 
@@ -16,4 +16,4 @@ Kwia is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 
 Maybachufer 16, 12047, Berlin, Berlin
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kwia/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kwia/)*

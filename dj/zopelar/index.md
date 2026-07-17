@@ -1,6 +1,6 @@
 # Zopelar
 
-Zopelar is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Caracol Bar, Sao Paulo on Fri, 17 Jul 2026.
+Zopelar is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Caracol Bar, Sao Paulo on Fri, 17 Jul 2026.
 
 Zopelar is a house and disco artist based in Brazil, tracked on soundcheck, with 50 sets logged across Amsterdam, Lisbon, Lyon and Madrid and 2 more. Often billed alongside Vermelho, Akin/Non Exist and Alírio. Next up: Caracol Bar, Saopaulo on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Zopelar is a house and disco artist based in Brazil, tracked on soundcheck, with
 
 Vermelho, Akin/Non Exist, Alírio
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*

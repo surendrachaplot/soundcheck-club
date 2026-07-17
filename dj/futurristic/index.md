@@ -1,6 +1,6 @@
 # futurristic
 
-futurristic is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Humboldthain Club, Berlin on Sat, 18 Jul 2026.
+futurristic is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Humboldthain Club, Berlin on Sat, 18 Jul 2026.
 
 futurristic is a techno and trance artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Frankfurt, Hamburg and Sanfrancisco. Often billed alongside SOHOE, Stinny Stone and Salzbauer. Next up: Humboldthain Club, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ futurristic is a techno and trance artist based in Germany, tracked on soundchec
 
 SOHOE, Stinny Stone, Salzbauer
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/futurristic/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/futurristic/)*

@@ -1,6 +1,6 @@
 # BabaBass3000
 
-BabaBass3000 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Mia Mao, Paris on Fri, 24 Jul 2026.
+BabaBass3000 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Mia Mao, Paris on Fri, 24 Jul 2026.
 
 BabaBass3000 is a trance and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Hamburg and Paris and 2 more. Often billed alongside OSKAMAXX, Baumeister98 and HugoBass303. Next up: Mia Mao, Paris on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ BabaBass3000 is a trance and techno artist based in Germany, tracked on soundche
 
 OSKAMAXX, Baumeister98, HugoBass303
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bababass3000/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bababass3000/)*

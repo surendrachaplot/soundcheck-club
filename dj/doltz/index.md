@@ -1,6 +1,6 @@
 # Doltz
 
-Doltz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
+Doltz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Brooklyn, New York City on Fri, 17 Jul 2026.
 
 Doltz is a techno and house artist tracked on soundcheck, with 28 sets logged across Athens, Berlin, Bristol and Kyoto and 9 more. Often billed alongside DJ Nobu, OCCA and DANA NADA. Next up: TBA - Brooklyn, Newyorkcity on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Doltz is a techno and house artist tracked on soundcheck, with 28 sets logged ac
 
 DJ Nobu, OCCA, DANA NADA
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*

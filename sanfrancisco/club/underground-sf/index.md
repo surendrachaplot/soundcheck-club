@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "ShelterSF Drum & Bass" on Thu, 16 Jul 2026.
+Underground SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Fixed Gloss DORE" on Thu, 23 Jul 2026.
 
-Underground SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including 480P (US), ALICE STRIBLING, D-Program and Discnogirl and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including 480P (US), ALICE STRIBLING, Discnogirl and DJ Audit and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 16 Jul 2026 | ShelterSF Drum & Bass | D-Program |
 | Thu, 23 Jul 2026 | Fixed Gloss DORE | ALICE STRIBLING, Freaky Emo, Infinite Jess |
 | Fri, 24 Jul 2026 | FLUX w/ Panda Grass, Chroma Sea, ntrl curves, Héloïse, with visuals by 480P | 480P (US), Héloïse |
 | Fri, 31 Jul 2026 | As You Like It Unedited: All Night Rong with DJ Spun | DJ Spun |
@@ -21,4 +20,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

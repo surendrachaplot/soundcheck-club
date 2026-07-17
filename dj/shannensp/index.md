@@ -1,6 +1,6 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 17 Jul 2026.
+Shannen SP is a Amapiano and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Abercrombie Hotel, Sydney on Fri, 17 Jul 2026.
 
 Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Basel and Berlin and 15 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Abercrombie Hotel, Sydney on Fri 17 Jul.
 
@@ -26,4 +26,4 @@ Shannen SP is an amapiano and club artist based in United Kingdom, tracked on so
 
 Bok Bok, Ikonika, Nico Adomako
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

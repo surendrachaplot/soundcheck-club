@@ -1,6 +1,6 @@
 # Part-Time Lesbian
 
-Part-Time Lesbian is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at TBA - See Telegram, Berlin on Fri, 17 Jul 2026.
+Part-Time Lesbian is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - See Telegram, Berlin on Fri, 17 Jul 2026.
 
 Part-Time Lesbian is a techno and house artist based in Canada, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Eira, saHHar and Kidcat. Next up: TBA - See Telegram, Berlin on Fri 17 Jul.
 
@@ -27,4 +27,4 @@ Part-Time Lesbian is a techno and house artist based in Canada, tracked on sound
 
 Eira, saHHar, Kidcat
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/part-timelesbian/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/part-timelesbian/)*

@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Thu, 16 Jul 2026; the next is "RIESGO: CDMX [Emi Ángeles, FERRR, Lunna, SHINTA, Stephn, TASTE, Transsients, Ximena Soto]" on Fri, 17 Jul 2026.
+CHICO is a music venue in Mexico City with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "RIESGO: CDMX [Emi Ángeles, FERRR, Lunna, SHINTA, Stephn, TASTE, Transsients, Ximena Soto]" on Fri, 17 Jul 2026.
 
 CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, with line-ups including Botelo, Deenia, Enya Botello and FERRR and 2 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -19,4 +19,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming nights, wi
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

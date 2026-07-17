@@ -1,6 +1,6 @@
 # Paul Krist
 
-Paul Krist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 16 Jul 2026, next at Club Termix, Prague on Fri, 17 Jul 2026.
+Paul Krist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club Termix, Prague on Fri, 17 Jul 2026.
 
 Paul Krist is a techno and hardcore artist tracked on soundcheck, with 31 sets logged across Prague. Often billed alongside KOBOV, NONSENSE (CZ) and Xelaich. Next up: Club Termix, Prague on Fri 17 Jul.
 
@@ -30,4 +30,4 @@ Paul Krist is a techno and hardcore artist tracked on soundcheck, with 31 sets l
 
 KOBOV, NONSENSE (CZ), Xelaich
 
-*Updated Thu, 16 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkrist/)*
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkrist/)*
