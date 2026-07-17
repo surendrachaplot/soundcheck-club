@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Plush presents: meat computer Ostrichmilk London" on Fri, 17 Jul 2026.
+Colour Factory is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Plush presents: meat computer Ostrichmilk London" on Fri, 17 Jul 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 3DMA, Andrea Giudice, Arabesque and Baba T and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 3DMA, Andrea Giudice, Arabesque and Baba T and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 

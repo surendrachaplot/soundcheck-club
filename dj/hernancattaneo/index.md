@@ -1,8 +1,8 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Poolen, Copenhagen on Sat, 18 Jul 2026.
+Hernan Cattaneo is a Progressive House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Poolen, Copenhagen on Sat, 18 Jul 2026.
 
-Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Poolen, Copenhagen on Sat 18 Jul.
+Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Poolen, Copenhagen on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 | Sun, 2 Aug 2026 | Motorworld, Palma de Mallorca | Mallorca |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 29 Aug 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Thu, 15 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 

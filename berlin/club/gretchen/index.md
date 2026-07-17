@@ -1,8 +1,8 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "The Bug presents: PRESSURE feat. Tikiman w/Scion, JK Flesh" on Fri, 17 Jul 2026.
+Gretchen is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "The Bug presents: PRESSURE feat. Tikiman w/Scion, JK Flesh" on Fri, 17 Jul 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Allynx, Dillinja, Dis Fig and DRS and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Acid Arab, Allynx, Dillinja and Dis Fig and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 

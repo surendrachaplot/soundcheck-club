@@ -1,8 +1,8 @@
 # TWO LANES
 
-TWO LANES is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Life Park, Istanbul on Sat, 25 Jul 2026.
+TWO LANES is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Life Park, Istanbul on Sat, 25 Jul 2026.
 
-TWO LANES is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: Life Park, Istanbul on Sat 25 Jul.
+TWO LANES is a techno and electronica artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: Life Park, Istanbul on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ TWO LANES is a techno and house artist tracked on soundcheck, with 27 sets logge
 | Sun, 23 Aug 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | Columbia Theater | Berlin |
 | Wed, 14 Oct 2026 | Razzmatazz 2 | Barcelona |
+| Thu, 15 Oct 2026 | Mon Live | Madrid |
 
 ## Recently played
 

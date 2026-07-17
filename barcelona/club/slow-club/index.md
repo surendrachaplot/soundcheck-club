@@ -1,8 +1,8 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Soulful City pres. Frankie G, Toni The Boss" on Fri, 17 Jul 2026.
+Slow Club is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Soulful City pres. Frankie G, Toni The Boss" on Fri, 17 Jul 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including Frankie G, Navider and Toni The Boss. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including Frankie G, Navider and Toni The Boss. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 

@@ -2693,13 +2693,14 @@
     .pr-row{ display:flex; align-items:flex-start; gap:12px; padding:13px 0; border-top:1px solid var(--line); text-decoration:none; color:var(--fg); -webkit-tap-highlight-color:transparent; }
     .pr-list li:first-child .pr-row{ border-top:0; }
     .pr-row:hover .pr-tt{ color:var(--accent); }
-    .pr-src{ flex:none; min-width:96px; font:600 11px var(--font-mono); letter-spacing:.06em; text-transform:uppercase; color:var(--accent); margin-top:2px; }
+    .pr-thumb{ position:relative; flex:none; width:44px; height:44px; border-radius:11px; background:rgba(255,255,255,.05); border:1px solid var(--line); overflow:hidden; }
+    .pr-thumb b{ position:absolute; inset:0; display:grid; place-items:center; font:700 16px var(--head); color:var(--muted); }
+    .pr-thumb img{ position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:24px; height:24px; object-fit:contain; }
     .pr-m{ flex:1 1 auto; min-width:0; display:flex; flex-direction:column; gap:3px; }
     .pr-tt{ font:700 var(--fs-base) var(--head); letter-spacing:-.01em; line-height:1.25; }
     .pr-sn{ font:400 13px/1.45 var(--body); color:var(--muted); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
     .pr-meta{ font:600 11px var(--font-mono); letter-spacing:.04em; text-transform:uppercase; color:var(--faint); margin-top:1px; }
     .pr-go{ flex:none; color:var(--muted); font-size:15px; margin-top:2px; }
-    @media(max-width:560px){ .pr-row{ flex-wrap:wrap; } .pr-src{ min-width:0; order:0; } .pr-go{ margin-left:auto; } .pr-m{ flex-basis:100%; } }
     .fp-skw{ min-width:0; }   /* grid item: cap auto-min so 1fr tracks stay equal (long titles/channels blew out one column) */
     .fp-sk{ display:flex; flex-direction:column; text-align:left; background:none; border:0; padding:0; cursor:pointer; color:var(--fg); min-width:0; }
     .fp-sk-th{ position:relative; aspect-ratio:16/9; border-radius:var(--radius-md); background-size:cover; background-position:center; background-color:var(--surface-3); overflow:hidden; }
@@ -3055,7 +3056,7 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 </style>
-<meta name="sc-build" content="1784246794591">
+<meta name="sc-build" content="1784253208762">
 </head>
 <body>
   <main class="wrap">
@@ -3103,7 +3104,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-16/">Thu 16 Jul <span class="c">31 events</span></a></li><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">99 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">153 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">21 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">11 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">99 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">153 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">21 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">11 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">23 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">75 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6848,7 +6849,10 @@
             if(!iv.length){ box.innerHTML='<div class="fp-sets-empty">No interviews found for '+esc(a.name||'this artist')+' on the major music press yet.</div>'; return; }
             box.innerHTML='<ul class="pr-list">'+iv.map(function(v){
               var meta=[v.source, v.date?fmtDateLabel(v.date):''].filter(Boolean).join(' · ');
-              return '<li><a class="pr-row" href="'+esc(v.url)+'" target="_blank" rel="noopener"><span class="pr-src">'+esc(v.source||'')+'</span><span class="pr-m"><span class="pr-tt">'+esc(v.title||'Interview')+'</span>'+(v.snippet?'<span class="pr-sn">'+esc(v.snippet)+'</span>':'')+(meta?'<span class="pr-meta">'+esc(meta)+'</span>':'')+'</span><span class="pr-go">↗</span></a></li>';
+              var host=''; try{ host=new URL(v.url).hostname.replace(/^www\./,''); }catch(e){}
+              var fav=host?('https://www.google.com/s2/favicons?sz=64&domain='+encodeURIComponent(host)):'';
+              var thumb='<span class="pr-thumb"><b>'+esc((v.source||host||'?').charAt(0).toUpperCase())+'</b>'+(fav?'<img src="'+esc(fav)+'" alt="" loading="lazy" onerror="this.remove()">':'')+'</span>';
+              return '<li><a class="pr-row" href="'+esc(v.url)+'" target="_blank" rel="noopener">'+thumb+'<span class="pr-m"><span class="pr-tt">'+esc(v.title||'Interview')+'</span>'+(v.snippet?'<span class="pr-sn">'+esc(v.snippet)+'</span>':'')+(meta?'<span class="pr-meta">'+esc(meta)+'</span>':'')+'</span><span class="pr-go">↗</span></a></li>';
             }).join('')+'</ul>';
           }).catch(function(){ if(box) box.innerHTML='<div class="fp-sets-empty">Couldn’t load interviews.</div>'; });
         }

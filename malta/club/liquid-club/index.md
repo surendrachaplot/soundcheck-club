@@ -1,8 +1,8 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 24 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Coyu [VINYL SET] – VORTEX" on Fri, 17 Jul 2026.
+Liquid Club is a music venue in Malta with 25 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Coyu [VINYL SET] – VORTEX" on Fri, 17 Jul 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 24 upcoming nights, with line-ups including FRQNCY, A.Paul, Abdy and ALMOST HUMAN and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 25 upcoming nights, with line-ups including FRQNCY, A.Paul, Abdy and ALMOST HUMAN and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 

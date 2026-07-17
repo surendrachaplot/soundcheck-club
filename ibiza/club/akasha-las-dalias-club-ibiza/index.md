@@ -1,8 +1,8 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 74 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "La Tipi" on Fri, 17 Jul 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 75 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "La Tipi" on Fri, 17 Jul 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 74 upcoming nights, with line-ups including Alay, Alfonso Ares, Alok and Amine K and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 75 upcoming nights, with line-ups including Alay, Alfonso Ares, Alok and Amine K and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
