@@ -13,7 +13,7 @@ MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights
 | Fri, 7 Aug 2026 | Warm Up: BADSISTA/ TOCCORORO/TOXE/ nguyendowsXP | BADSISTA, TOCCORORO, TOXE, nguyendowsXP |
 | Fri, 14 Aug 2026 | Warm Up: Marcellus Pittman/ DJ Anderson do Paraiso/ Mabe Fratti/ Lary 7 | Mabe Fratti, Marcellus Pittman |
 | Fri, 21 Aug 2026 | Warm Up: Dopplereffekt / RHR /Purelink / Eev Frances | Dopplereffekt, Eev Frances, Purelink, RHR |
-| Fri, 28 Aug 2026 | Warm Up: SPECIAL GUEST/ De Schuurman/keiyaA/ DJ WORKING CLASS | De Schuurman, keiyaA |
+| Fri, 28 Aug 2026 | Warm Up: TDJ/ De Schuurman/keiyaA/ DJ WORKING CLASS | De Schuurman, TDJ, keiyaA |
 
 ## Address
 

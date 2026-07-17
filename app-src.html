@@ -3116,7 +3116,7 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 </style>
-<meta name="sc-build" content="1784305374689">
+<meta name="sc-build" content="1784326163461">
 </head>
 <body>
   <main class="wrap">
@@ -7015,8 +7015,22 @@
           fetch(API_BASE+'/api/artist/tracks?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)).then(function(r){ return r.ok?r.json():null; }).then(function(j){
             var tr=(j&&j.tracks)||[];
             if(!tr.length){ box.innerHTML='<div class="fp-sets-empty">No posted tracklists found in '+esc(a.name||'their')+'&rsquo;s sets yet — we can only rank what artists or fans have written up.</div>'; return; }
-            // strip a stray leading timestamp some numbered tracklists leave in the text
-            var cleanTk=function(s){ return String(s||'').replace(/^\s*\d{1,2}:\d{2}(?::\d{2})?\s*[-–—.)\]]?\s*/,'').replace(/\s{2,}/g,' ').trim(); };
+            // scrub tracklist junk: leading index/timestamp/bullets, [labels], stray colons, extra spaces
+            var cleanTk=function(raw){ var s=String(raw||'').trim(), prev;
+              do{ prev=s;
+                s=s.replace(/^[•▶►→>·*+\-–—.\s]+/,'');
+                s=s.replace(/^\d{1,3}[.)]\s*/,'');
+                s=s.replace(/^\d{1,3}\s+(?=[\[(]?\d{1,2}:\d{2})/,'');
+                s=s.replace(/^\d{1,3}\s{2,}/,'');
+                s=s.replace(/^\[?\(?\d{1,2}:\d{2}(?::\d{2})?\)?\]?\s*/,'');
+                s=s.replace(/^w\/\s*/i,'');
+              }while(s!==prev);
+              s=s.replace(/\s*\d{1,2}:\d{2}(?::\d{2})?\s*$/,'');
+              s=s.replace(/\[[^\]]*\]/g,' ');
+              s=s.replace(/[:|]+/g,' ');
+              s=s.replace(/\s{2,}/g,' ').trim();
+              return s.replace(/^[\s\-–—.]+|[\s\-–—.]+$/g,'').trim();
+            };
             box.innerHTML='<ol class="tk-list">'+tr.map(function(t,i){
               var txt=cleanTk(t.text);
               return '<li class="tk-row"'+(t.videoId?' data-vid="'+esc(t.videoId)+'"':'')+' data-sec="'+(t.sec!=null?t.sec:'')+'" data-q="'+esc(txt)+'"><span class="tk-rank">'+(i+1)+'</span><span class="tk-tt">'+esc(txt)+'</span><button class="tk-add" type="button" data-add="'+i+'" aria-label="Add to playlist">＋</button><span class="tk-play">'+PLAY_SVG+'</span></li>';

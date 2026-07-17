@@ -10,7 +10,7 @@ M.O.T is a music venue in London listed on soundcheck. 31 upcoming nights, with 
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Plástica Sonora x Venue MOT | sinny |
 | Fri, 17 Jul 2026 | Fraise x Family Affair Summer Fundraiser Party | Free Zing, LILI, Sheriff Boo, Wilba |
-| Fri, 17 Jul 2026 | M.O.T ❈ Eris Drew ❈ Kiernan Laveaux ❈ Daisy Moon | Daisy Moon, Eris Drew, Kiernan Laveaux |
+| Fri, 17 Jul 2026 | (25 tix OTD) M.O.T ❈ Eris Drew ❈ Kiernan Laveaux ❈ Daisy Moon | Daisy Moon, Eris Drew, Kiernan Laveaux |
 | Sat, 18 Jul 2026 | M.O.T Day Party: CIRCULATE with Angel D'lite, Josh Caffé + Phonox afterparty | Angel D'lite, Josh Caffé, Serenda, Soichi Terada |
 | Sat, 18 Jul 2026 | LSB at Venue MOT | LSB |
 | Sat, 18 Jul 2026 | After Hours presents: Mantra & DJ Flight | A.N.T, Abby Daze, DJ Flight, Highlander, Mantra, Marky V, TILDA (2), Tallboy |

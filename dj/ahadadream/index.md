@@ -1,13 +1,14 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
+Ahadadream is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sub Club, Glasgow on Fri, 17 Jul 2026.
 
-Ahadadream is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Virage, Paris on Sat 1 Aug.
+Ahadadream is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Sub Club, Glasgow on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 17 Jul 2026 | Sub Club | Glasgow |
 | Sat, 1 Aug 2026 | Virage | Paris |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 

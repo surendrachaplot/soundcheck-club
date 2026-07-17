@@ -1,6 +1,6 @@
 # A Night For The Late Utopians at 220 Bogart
 
-A Night For The Late Utopians at 220 Bogart on Fri 24 Jul, Newyorkcity. Preview the line-up and save it on soundcheck.
+A Night For The Late Utopians at 220 Bogart on Fri 24 Jul, Newyorkcity. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Reggaeton Tributes (18+)" on Sat, 18 Jul 2026.
+The Meadows is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Reggaeton Tributes (18+)" on Sat, 18 Jul 2026.
 
-The Meadows is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Arielle Lana, Baru, Cryostatik and Flowdan and 2 more. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
+The Meadows is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Arielle Lana, Baru, Cato Anaya and Cryostatik and 2 more. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
 ## What's on
 
@@ -10,6 +10,7 @@ The Meadows is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nig
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Reggaeton Tributes (18+) |  |
 | Sat, 18 Jul 2026 | AFTER MOOD New York | JUAN JIMENEZ |
+| Sun, 19 Jul 2026 | AFTER MOOD New York (Colombian Edition) | Cato Anaya, Mata |
 | Sat, 1 Aug 2026 | NYC'S BIGGEST DRUM AND BASS & DUBSTEP DAY PARTY! BAD VOID X SKELLYTN  | Arielle Lana, Baru, Cryostatik, Flowdan, Sammy Virji, Sundown |
 | Sat, 1 Aug 2026 | Super Future |  |
 | Sat, 8 Aug 2026 | Reggaeton Throwbacks (21+) |  |

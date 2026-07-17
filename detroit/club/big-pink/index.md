@@ -1,8 +1,8 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "HIPHOP NIGHT: QUEENS OF RAP (CELEX THE DJ & DJ SELFIE)" on Fri, 17 Jul 2026.
+Big Pink is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "HIPHOP NIGHT: QUEENS OF RAP (CELEX THE DJ & DJ SELFIE)" on Fri, 17 Jul 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Botez. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including Botez. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Big Pink is a music venue in Detroit listed on soundcheck. 6 upcoming nights, wi
 | Thu, 23 Jul 2026 | BIG STRETCH: YOGA WITH A LIVE DJ | Botez |
 | Fri, 24 Jul 2026 | BLING: 2000s HIPHOP NIGHT (THROWBACKS) |  |
 | Sat, 25 Jul 2026 | MUNCH'S BIRTHDAY PARTY (HIPHOP NIGHT) + SPECIAL GUESTS |  |
+| Fri, 31 Jul 2026 | HIPHOP NIGHT: DRAKE VS. THE WEEKND (DJ MIA + CELEX THE DJ) |  |
 
 ## Address
 

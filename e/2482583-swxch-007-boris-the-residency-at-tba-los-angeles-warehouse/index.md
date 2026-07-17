@@ -1,6 +1,6 @@
 # SWXCH 007: Boris, The Residency at TBA - Los Angeles (Warehouse)
 
-SWXCH 007: Boris, The Residency at TBA - Los Angeles (Warehouse) on Sat 22 Aug, Losangeles. 1 act on the bill: Boris. Techno and House. Preview the line-up and save it on soundcheck.
+SWXCH 007: Boris, The Residency at TBA - Los Angeles (Warehouse) on Sat 22 Aug, Losangeles. 3 acts on the bill: Boris, John Bryars and Kittamami. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ SWXCH 007: Boris, The Residency at TBA - Los Angeles (Warehouse) on Sat 22 Aug, 
 ## Line-up
 
 - Boris
+- John Bryars
+- Kittamami
 
 *Source: [soundcheck](https://soundcheck.club/e/2482583-swxch-007-boris-the-residency-at-tba-los-angeles-warehouse/)*

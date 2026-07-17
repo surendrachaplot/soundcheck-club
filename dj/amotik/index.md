@@ -1,14 +1,15 @@
 # Amotik
 
-Amotik is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fuse, Brussels on Sat, 25 Jul 2026.
+Amotik is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fuse, Brussels on Sat, 25 Jul 2026.
 
-Amotik is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 37 more. Often billed alongside Lea Occhi, Answer Code Request and Mary Yuzovskaya. Next up: Fuse, Brussels on Sat 25 Jul.
+Amotik is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 37 more. Often billed alongside Lea Occhi, Olivia Mendez and Answer Code Request. Next up: Fuse, Brussels on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Fuse | Brussels |
+| Sat, 8 Aug 2026 | Fvtvr | Paris |
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ Amotik is a techno and house artist tracked on soundcheck, with 116 sets logged 
 
 ## Shares bills with
 
-Lea Occhi, Answer Code Request, Mary Yuzovskaya
+Lea Occhi, Olivia Mendez, Answer Code Request
 
 *Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

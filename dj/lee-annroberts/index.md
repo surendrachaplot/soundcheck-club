@@ -1,14 +1,14 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Winston On The Water, Philadelphia on Sat, 18 Jul 2026.
+Lee Ann Roberts is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ground Floor, Philadelphia on Sat, 18 Jul 2026.
 
-Lee Ann Roberts is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Winston On The Water, Philadelphia on Sat 18 Jul.
+Lee Ann Roberts is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Ground Floor, Philadelphia on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Winston On The Water | Philadelphia |
+| Sat, 18 Jul 2026 | Ground Floor | Philadelphia |
 | Fri, 24 Jul 2026 | Superior Ingredients | New York City |
 | Fri, 31 Jul 2026 | ZEROTOKYO | Tokyo |
 | Sat, 1 Aug 2026 | Joule | Osaka |

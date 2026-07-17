@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 39 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ALIVE: DJ GUESTLIST & Trancemaster Krause" on Fri, 17 Jul 2026.
+E1 is a music venue in London with 39 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Alive presents NO HOLDS BARRED: DJ Guestlist vs Transmaster Krause" on Fri, 17 Jul 2026.
 
 E1 is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including Abiodun, ACA (YU), Ade Smilez and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -8,7 +8,7 @@ E1 is a music venue in London listed on soundcheck. 39 upcoming nights, with lin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | ALIVE: DJ GUESTLIST & Trancemaster Krause | Becky Stroke, DJ GUESTLIST, Trancemaster Krause |
+| Fri, 17 Jul 2026 | Alive presents NO HOLDS BARRED: DJ Guestlist vs Transmaster Krause | Becky Stroke, DJ GUESTLIST, Trancemaster Krause |
 | Fri, 17 Jul 2026 | ELECTRONIC MISCHIEF | Charlotte Devaney, DJ Millz, Devious D, Holly Rouge, J Dragon, QUEEN JRK, SEBADEE, TILLY (2), The Ragga Twins |
 | Sat, 18 Jul 2026 | Group Therapy London | Abiodun, Aniko, Ape Drums, DJ Kwamzy, Duo, JAYEL, Mr Jayel, OneThabs |
 | Sun, 19 Jul 2026 | Argentina VS Spain World Cup Final + After Party | Johnny Fiore |

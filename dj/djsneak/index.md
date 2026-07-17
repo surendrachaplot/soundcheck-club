@@ -1,8 +1,8 @@
 # DJ Sneak
 
-DJ Sneak is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - West Town, Chicago on Fri, 17 Jul 2026.
+DJ Sneak is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - West Town, Chicago on Fri, 17 Jul 2026.
 
-DJ Sneak is a house and deep house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Dan and DJ Heather. Next up: TBA - West Town, Chicago on Fri 17 Jul.
+DJ Sneak is a house and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Chicago, Detroit and London and 11 more. Often billed alongside Doc Martin, DJ Dan and DJ Heather. Next up: TBA - West Town, Chicago on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Sneak is a house and deep house artist tracked on soundcheck, with 72 sets lo
 | Sun, 19 Jul 2026 | Flash | Washington DC |
 | Sun, 2 Aug 2026 | Quartyard | San Diego |
 | Sat, 15 Aug 2026 | Phoenix Hotel | San Francisco/Oakland |
+| Sat, 5 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 

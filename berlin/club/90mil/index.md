@@ -12,7 +12,7 @@
 | Thu, 23 Jul 2026 | subglow x isla (LIVE edition) | CCL, Kiernan Laveaux, NAP (MX) |
 | Fri, 24 Jul 2026 | Reverse Engineering: BUS ROT compilation release party | Cleo AD, Shannon (DE), digital selves, safejas |
 | Sat, 25 Jul 2026 | Salon of Coincidence: Vol 03 |  |
-| Sun, 9 Aug 2026 | Dub&Dal meets DayTimers | O.M.Theorem, Sinhwave, yungfya |
+| Sun, 9 Aug 2026 | Dub&Dal meets DAYTIMERS | O.M.Theorem, Sinhwave, yungfya |
 
 ## Address
 

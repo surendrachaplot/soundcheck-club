@@ -1,8 +1,8 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BASEMENT, New York City on Fri, 31 Jul 2026.
+Lindsey Herbert is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BASEMENT, New York City on Fri, 31 Jul 2026.
 
-Lindsey Herbert is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: BASEMENT, Newyorkcity on Fri 31 Jul.
+Lindsey Herbert is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: BASEMENT, Newyorkcity on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lindsey Herbert is a techno and house artist tracked on soundcheck, with 102 set
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | BASEMENT | New York City |
 | Sat, 22 Aug 2026 | TBA | Austin |
+| Fri, 28 Aug 2026 | Domicile | Miami |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 26 Sept 2026 | The Bassement | Madrid |
 

@@ -1,8 +1,8 @@
 # Venus in Foil
 
-Venus in Foil is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bambi's, Toronto on Fri, 17 Jul 2026.
+Venus in Foil is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bambi's, Toronto on Fri, 17 Jul 2026.
 
-Venus in Foil is a techno and house artist tracked on soundcheck, with 101 sets logged across Montreal and Toronto. Often billed alongside City Dance Corporation, Milch (1) and MIASALAV. Next up: Bambi's, Toronto on Fri 17 Jul.
+Venus in Foil is a techno and house artist tracked on soundcheck, with 102 sets logged across Montreal and Toronto. Often billed alongside City Dance Corporation, Milch (1) and MIASALAV. Next up: Bambi's, Toronto on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Venus in Foil is a techno and house artist tracked on soundcheck, with 101 sets 
 | Sat, 18 Jul 2026 | 131 Mccormack St | Toronto |
 | Sat, 25 Jul 2026 | Soleil | Toronto |
 | Fri, 31 Jul 2026 | Bar Datcha | Montreal |
+| Sat, 8 Aug 2026 | The Jama | Toronto |
 
 ## Recently played
 

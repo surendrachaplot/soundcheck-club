@@ -1,8 +1,8 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Karol G vs. Feid Tribute Night" on Fri, 17 Jul 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Karol G vs. Feid Tribute Night" on Fri, 17 Jul 2026.
 
-The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including 1tbsp, DNEB, Emanate and Jack Willard and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
+The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including 1tbsp, ANDYLAND, BADSISTA and BAE BAE and 2 more. Browse upcoming dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 6 upco
 | Sat, 25 Jul 2026 | Mioli Music: Kausmic | DNEB, Emanate, JustJovani, Syd Gris |
 | Fri, 31 Jul 2026 | Colorize: San Francisco - PRAANA - Mees Salomé - Jack Willard | Jack Willard, Mees Salomé, PRAANA |
 | Sat, 1 Aug 2026 | Frolic |  |
+| Sat, 15 Aug 2026 | Mostly Cloudy x Keep Hush: BADSISTA, BAE BAE + more | ANDYLAND, BADSISTA, BAE BAE, Femme Jatale, Profesito, QUEENIE (US), felipe d |
 | Sat, 22 Aug 2026 | Dancing Queen ABBA Glitter Disco |  |
 
 ## Address

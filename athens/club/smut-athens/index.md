@@ -11,7 +11,7 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming nights,
 | Sat, 18 Jul 2026 | SMUT x ANAMORPH x Mike Konstantinidis x ONUR | ANAMORPH_, Alpha Tracks, Mike Konstantinidis |
 | Fri, 24 Jul 2026 | Purple Night x SMUT | Daddy Squad, The Dreamer, WrappeD In PlastiC |
 | Sat, 25 Jul 2026 | KHIDI x SMUT with Boyd Schidt,NEUX,Vulkanski | Boyd Schidt, NEUX, Vulkanski |
-| Sat, 1 Aug 2026 | SMUT x ClubKid x Dora Mask x Pètal | ClubKid, Dora Mask, Pètal |
+| Sat, 1 Aug 2026 | SMUT x ClubKid x Dora Mask x Pètal | ClubKid, Dora Mask, Petal |
 | Sat, 8 Aug 2026 | SEXTOU LONDON x SMUT Athens | Alírio, Cherry Distress, ENGALANAN, TEDESCO, Twang |
 | Sat, 22 Aug 2026 | AgainstMe x SMUT x ALL NIGHT LONG | AgainstMe |
 | Sat, 29 Aug 2026 | SMUT x Hyperaktivist x Nene H x IVRA  | Hyperaktivist, IVRA, Nene H |

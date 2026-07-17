@@ -1,6 +1,6 @@
 # RAPRAVE presents INCUBATOR at Underground SF
 
-RAPRAVE presents INCUBATOR at Underground SF on Sat 8 Aug, Sanfrancisco. 5 acts on the bill: DJ Audit, Discnogirl, Lonald J. Bandz and erika (SF) and 1 more. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+RAPRAVE presents INCUBATOR at Underground SF on Sat 8 Aug, Sanfrancisco. 6 acts on the bill: DJ Audit, Discnogirl, Lonald J. Bandz and erika (SF) and 2 more. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ RAPRAVE presents INCUBATOR at Underground SF on Sat 8 Aug, Sanfrancisco. 5 acts 
 - Lonald J. Bandz
 - erika (SF)
 - jmo corleone
+- lil laozi
 
 *Source: [soundcheck](https://soundcheck.club/e/2488388-raprave-presents-incubator-at-underground-sf/)*

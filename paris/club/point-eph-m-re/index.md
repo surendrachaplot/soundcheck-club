@@ -14,7 +14,7 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 8 upcoming nigh
 | Fri, 24 Jul 2026 | Beirut Groove Collective: Live In Paris | Beirut Groove Collective, Ernesto Chahoud |
 | Fri, 24 Jul 2026 | The Beirut Groove Collective Club-night in Paris | Ernesto Chahoud, Natalie Shooter |
 | Fri, 31 Jul 2026 | After Party La Mulette & Co (Paris L'Été) | Calling Marian |
-| Sat, 29 Aug 2026 | Louise Chen's EXTENDED PLAY |  |
+| Sat, 29 Aug 2026 | Louise Chen's EXTENDED PLAY | Louise Chen |
 | Fri, 4 Sept 2026 | 10 ans Divergences |  |
 
 ## Address

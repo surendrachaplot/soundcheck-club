@@ -1,6 +1,6 @@
 # FOREST CONNECTION : Signature 4º Anniversary at TBA - Secret Location (Madrid)
 
-FOREST CONNECTION : Signature 4º Anniversary at TBA - Secret Location (Madrid) on Sat 12 Sept, Madrid. 6 acts on the bill: Avo (ES), Laurine, Linja and Moaad BKR and 2 more. Electronica. Preview the line-up and save it on soundcheck.
+FOREST CONNECTION : Signature 4º Anniversary at TBA - Secret Location (Madrid) on Sat 12 Sept, Madrid. 7 acts on the bill: Avo (ES), DANIL0, Laurine and Linja and 3 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FOREST CONNECTION : Signature 4º Anniversary at TBA - Secret Location (Madrid) 
 ## Line-up
 
 - Avo (ES)
+- DANIL0
 - Laurine
 - Linja
 - Moaad BKR

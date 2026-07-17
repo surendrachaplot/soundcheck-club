@@ -1,6 +1,6 @@
 # RAMBA SAMBA #1 at Absturz
 
-RAMBA SAMBA #1 at Absturz on Fri 17 Jul, Leipzig. 5 acts on the bill: Alisa Stovik, BENITO (DE), Meyhartt and SAMBA7 and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+RAMBA SAMBA #1 at Absturz on Fri 17 Jul, Leipzig. 6 acts on the bill: Alisa Stovik, BENITO (DE), CAVVØ and Meyhartt and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ RAMBA SAMBA #1 at Absturz on Fri 17 Jul, Leipzig. 5 acts on the bill: Alisa Stov
 
 - Alisa Stovik
 - BENITO (DE)
+- CAVVØ
 - Meyhartt
 - SAMBA7
 - VLUNA

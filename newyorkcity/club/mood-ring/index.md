@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "RINSE & REPEAT: Boydell, ceviché, LeCamille, nataliepops, x0trandon" on Fri, 17 Jul 2026.
+Mood Ring is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "RINSE & REPEAT: Boydell, ceviché, LeCamille, nataliepops, x0trandon" on Fri, 17 Jul 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including ASTER (DJ), Boydell, ceviché and Cow Tools and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including ASTER (DJ), Bodegaparty, Boydell and ceviché and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

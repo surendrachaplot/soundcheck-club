@@ -1,14 +1,15 @@
 # Viktor Bondar
 
-Viktor Bondar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Zsiráf, Budapest on Fri, 17 Jul 2026.
+Viktor Bondar is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Zsiráf, Budapest on Fri, 17 Jul 2026.
 
-Viktor Bondar is a house and techno artist tracked on soundcheck, with 79 sets logged across Budapest. Often billed alongside Ratkay, StereoStrip and ANESI. Next up: Zsiráf, Budapest on Fri 17 Jul.
+Viktor Bondar is a house and techno artist tracked on soundcheck, with 80 sets logged across Budapest. Often billed alongside Ratkay, StereoStrip and ANESI. Next up: Zsiráf, Budapest on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Zsiráf | Budapest |
+| Sun, 26 Jul 2026 | Pontoon Budapest | Budapest |
 | Sun, 26 Jul 2026 | Pontoon Budapest | Budapest |
 
 ## Recently played

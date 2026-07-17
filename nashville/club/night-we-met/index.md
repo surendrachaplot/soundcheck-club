@@ -14,7 +14,7 @@ Night We Met is a music venue in Nashville listed on soundcheck. 21 upcoming nig
 | Thu, 23 Jul 2026 | Midnight Velvet |  |
 | Fri, 24 Jul 2026 | bolo | bolo |
 | Sat, 25 Jul 2026 | Dan Molinari | Arht, Cheeko |
-| Thu, 30 Jul 2026 | Com Truise | Com Truise |
+| Thu, 30 Jul 2026 | Com Truise | Arht, Com Truise |
 | Fri, 31 Jul 2026 | Will Clarke | Will Clarke |
 | Sat, 1 Aug 2026 | Crusy | Crusy |
 | Fri, 7 Aug 2026 | DJ Seinfeld | DJ Seinfeld |
