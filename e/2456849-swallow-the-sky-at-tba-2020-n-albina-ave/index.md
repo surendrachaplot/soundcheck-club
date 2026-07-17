@@ -1,6 +1,6 @@
 # Swallow the Sky at TBA - 2020 N Albina ave
 
-Swallow the Sky at TBA - 2020 N Albina ave on Sat 25 Jul, Portland. 2 acts on the bill: Baby Jane and Flapjack. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Swallow the Sky at TBA - 2020 N Albina ave on Sat 25 Jul, Portland. 2 acts on the bill: Baby Jane and Flapjack. Trance and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

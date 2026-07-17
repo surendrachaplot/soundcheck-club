@@ -1,6 +1,6 @@
 # What The House x Charcon Beach at El Charcon Beach
 
-What The House x Charcon Beach at El Charcon Beach on Sat 22 Aug, Malaga. 2 acts on the bill: Stuart Patterson and Tito Pulpo. House and Deep House. Preview the line-up and save it on soundcheck.
+What The House x Charcon Beach at El Charcon Beach on Sat 22 Aug, Malaga. 3 acts on the bill: Stuart Patterson, Sy Sez and Tito Pulpo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ What The House x Charcon Beach at El Charcon Beach on Sat 22 Aug, Malaga. 2 acts
 ## Line-up
 
 - Stuart Patterson
+- Sy Sez
 - Tito Pulpo
 
 *Source: [soundcheck](https://soundcheck.club/e/2485562-what-the-house-x-charcon-beach-at-el-charcon-beach/)*

@@ -1,6 +1,6 @@
 # MANGA x MYRA // BRISA //  Sunset Session at Myra Ostraria
 
-MANGA x MYRA // BRISA //  Sunset Session at Myra Ostraria on Fri 24 Jul, Lisbon. 3 acts on the bill: Jorge Caiado, Markov (cult) and Ricky Doël. House and Deep House. Preview the line-up and save it on soundcheck.
+MANGA x MYRA // BRISA //  Sunset Session at Myra Ostraria on Fri 24 Jul, Lisbon. 3 acts on the bill: Jorge Caiado, Markov (cult) and Ricky Doël. Minimal and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

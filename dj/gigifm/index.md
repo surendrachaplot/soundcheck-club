@@ -1,0 +1,38 @@
+# GiGi FM
+
+GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
+
+GiGi FM is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Boston Manor Park, London on Sat 25 Jul.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 25 Jul 2026 | Boston Manor Park | London |
+| Sat, 25 Jul 2026 | fabric | London |
+| Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
+| Fri, 31 Jul 2026 | Kilomètre25 | Paris |
+| Sat, 1 Aug 2026 | Amsterdamse Bos | Amsterdam |
+| Sun, 2 Aug 2026 | RADION | Amsterdam |
+| Sat, 8 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Sat, 15 Aug 2026 | Flux | Istanbul |
+| Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
+| Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+
+## Recently played
+
+- Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 16 Jul 2026
+- Else, Berlin — Sat, 4 Jul 2026
+- Brutus, Rotterdam — Sat, 27 Jun 2026
+- Ikii, Berlin — Wed, 3 Jun 2026
+- Friche Belle de Mai, Marseille — Fri, 22 May 2026
+- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
+- TILLATEC, Amsterdam — Sat, 9 May 2026
+- Plano B, Porto — Fri, 8 May 2026
+
+## Shares bills with
+
+Altinbas, Polygonia, DVS1
+
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

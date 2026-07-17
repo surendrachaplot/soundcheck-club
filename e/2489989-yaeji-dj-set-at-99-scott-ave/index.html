@@ -21,8 +21,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.92973c1cba53.css">
-<meta name="sc-build" content="1784254051149">
+  <link rel="stylesheet" href="/app.5fe9c3b5a59c.css">
+<meta name="sc-build" content="1784286032310">
 <meta name="description" content="Yaeji (DJ Set) at 99 Scott Ave on Fri 24 Jul, Newyorkcity. 5 acts on the bill: Baalti, Maya Margarita, Nino Brown (2) and Yaeji and 1 more. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2489989-yaeji-dj-set-at-99-scott-ave/">
 <meta property="og:type" content="website">
@@ -30,10 +30,10 @@
 <meta property="og:title" content="Yaeji (DJ Set) at 99 Scott Ave — line-up &amp; tickets | soundcheck">
 <meta property="og:description" content="Yaeji (DJ Set) at 99 Scott Ave on Fri 24 Jul, Newyorkcity. 5 acts on the bill: Baalti, Maya Margarita, Nino Brown (2) and Yaeji and 1 more. Preview the line-up and save it on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/e/2489989-yaeji-dj-set-at-99-scott-ave/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fda1e8feeb5c00029317a624aba58823ac62387b5.jpg&amp;w=1000">
-<meta name="twitter:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fda1e8feeb5c00029317a624aba58823ac62387b5.jpg&amp;w=1000">
+<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F54f05e8942860a31b09cbfd4897ed5cae3fa1ce3.jpg&amp;w=1000">
+<meta name="twitter:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F54f05e8942860a31b09cbfd4897ed5cae3fa1ce3.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Yaeji (DJ Set)","url":"https://soundcheck.club/e/2489989-yaeji-dj-set-at-99-scott-ave/","description":"Yaeji (DJ Set) at 99 Scott Ave on Fri 24 Jul, Newyorkcity. 5 acts on the bill: Baalti, Maya Margarita, Nino Brown (2) and Yaeji and 1 more. Preview the line-up and save it on soundcheck.","startDate":"2026-07-24","location":{"@type":"MusicVenue","name":"99 Scott Ave"},"performer":[{"@type":"MusicGroup","name":"Baalti"},{"@type":"MusicGroup","name":"Maya Margarita"},{"@type":"MusicGroup","name":"Nino Brown (2)"},{"@type":"MusicGroup","name":"Yaeji"},{"@type":"MusicGroup","name":"Young Teesh"}],"image":"https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fda1e8feeb5c00029317a624aba58823ac62387b5.jpg&w=1000"}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Yaeji (DJ Set)","url":"https://soundcheck.club/e/2489989-yaeji-dj-set-at-99-scott-ave/","description":"Yaeji (DJ Set) at 99 Scott Ave on Fri 24 Jul, Newyorkcity. 5 acts on the bill: Baalti, Maya Margarita, Nino Brown (2) and Yaeji and 1 more. Preview the line-up and save it on soundcheck.","startDate":"2026-07-24","location":{"@type":"MusicVenue","name":"99 Scott Ave"},"performer":[{"@type":"MusicGroup","name":"Baalti"},{"@type":"MusicGroup","name":"Maya Margarita"},{"@type":"MusicGroup","name":"Nino Brown (2)"},{"@type":"MusicGroup","name":"Yaeji"},{"@type":"MusicGroup","name":"Young Teesh"}],"image":"https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F54f05e8942860a31b09cbfd4897ed5cae3fa1ce3.jpg&w=1000"}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"New York City","item":"https://soundcheck.club/newyorkcity/"},{"@type":"ListItem","position":3,"name":"Yaeji (DJ Set)"}]}</script>
 </head>
 <body>
@@ -199,7 +199,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.92973c1cba53.js" defer></script>
+  <script src="/app.5fe9c3b5a59c.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.
@@ -230,6 +230,29 @@
      On full-inline shells (next) the app already exists, so init runs now. */
   if(typeof cardHTML==='function') init();
   else document.addEventListener('DOMContentLoaded', init);
+
+  /* Footer last. It's static chrome, so without this it paints with the shell under an
+     empty page and then jumps once the grid/page arrives. Reveal it on the first REAL
+     content — skeletons don't count (grid skeletons are .skel-card; the full-page
+     skeleton is the lone aria-hidden child of #page-body). The timer is a backstop so
+     empty states, errors and offline still end up with a footer. */
+  (function(){
+    var root=document.querySelector('main')||document.body, obs=null, timer=null;
+    function hasContent(){
+      return !!(document.querySelector('#grid .gcard:not(.skel-card)') ||
+                document.querySelector('#grid .empty') ||
+                document.querySelector('#page-body > *:not([aria-hidden="true"])'));
+    }
+    function reveal(){
+      if(document.body.classList.contains('foot-in')) return;
+      document.body.classList.add('foot-in');
+      if(obs) obs.disconnect(); if(timer) clearTimeout(timer);
+    }
+    if(hasContent()) return reveal();
+    obs=new MutationObserver(function(){ if(hasContent()) reveal(); });
+    obs.observe(root,{childList:true,subtree:true});
+    timer=setTimeout(reveal,6000);
+  })();
 })();
 </script>
 </body>

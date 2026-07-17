@@ -1,0 +1,14 @@
+# TBA - Tech Barcelona Rooftop - Pier 01 - Plaça Pau Vila 1
+
+TBA - Tech Barcelona Rooftop - Pier 01 - Plaça Pau Vila 1 is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Coffee Morning Dance - Open Air Rooftop" on Sat, 18 Jul 2026.
+
+TBA - Tech Barcelona Rooftop - Pier 01 - Plaça Pau Vila 1 is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including DaSousa. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 18 Jul 2026 | Coffee Morning Dance - Open Air Rooftop | DaSousa |
+| Sat, 18 Jul 2026 | TARDEO 90s&00s (hits en español) - Open Air Rooftop Barceloneta |  |
+
+*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-tech-barcelona-rooftop-pier-01-pla-a-pau-vila-1/)*

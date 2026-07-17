@@ -21,8 +21,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.92973c1cba53.css">
-<meta name="sc-build" content="1784254051149">
+  <link rel="stylesheet" href="/app.5fe9c3b5a59c.css">
+<meta name="sc-build" content="1784286032310">
 <meta name="description" content="Blockhead, ProleteR, Arms and Sleepers at Bitterzoet on Wed 23 Sept, Amsterdam. 1 act on the bill: Blockhead. Hip-Hop and Downtempo. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2404439-blockhead-proleter-arms-and-sleepers-at-bitterzoet/">
 <meta property="og:type" content="website">
@@ -199,7 +199,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.92973c1cba53.js" defer></script>
+  <script src="/app.5fe9c3b5a59c.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.
@@ -230,6 +230,29 @@
      On full-inline shells (next) the app already exists, so init runs now. */
   if(typeof cardHTML==='function') init();
   else document.addEventListener('DOMContentLoaded', init);
+
+  /* Footer last. It's static chrome, so without this it paints with the shell under an
+     empty page and then jumps once the grid/page arrives. Reveal it on the first REAL
+     content — skeletons don't count (grid skeletons are .skel-card; the full-page
+     skeleton is the lone aria-hidden child of #page-body). The timer is a backstop so
+     empty states, errors and offline still end up with a footer. */
+  (function(){
+    var root=document.querySelector('main')||document.body, obs=null, timer=null;
+    function hasContent(){
+      return !!(document.querySelector('#grid .gcard:not(.skel-card)') ||
+                document.querySelector('#grid .empty') ||
+                document.querySelector('#page-body > *:not([aria-hidden="true"])'));
+    }
+    function reveal(){
+      if(document.body.classList.contains('foot-in')) return;
+      document.body.classList.add('foot-in');
+      if(obs) obs.disconnect(); if(timer) clearTimeout(timer);
+    }
+    if(hasContent()) return reveal();
+    obs=new MutationObserver(function(){ if(hasContent()) reveal(); });
+    obs.observe(root,{childList:true,subtree:true});
+    timer=setTimeout(reveal,6000);
+  })();
 })();
 </script>
 </body>

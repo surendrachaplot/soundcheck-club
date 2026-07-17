@@ -1,6 +1,6 @@
 # MIDINACHT X LARK at Lark
 
-MIDINACHT X LARK at Lark on Sat 18 Jul, Berlin. 7 acts on the bill: Daniel Ö, Junkfile, Lucyd and Ramsey Neville and 3 more. Techno. Preview the line-up and save it on soundcheck.
+MIDINACHT X LARK at Lark on Sat 18 Jul, Berlin. 8 acts on the bill: Cryptofauna, Daniel Ö, Junkfile and Lucyd and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MIDINACHT X LARK at Lark on Sat 18 Jul, Berlin. 7 acts on the bill: Daniel Ö, J
 
 ## Line-up
 
+- Cryptofauna
 - Daniel Ö
 - Junkfile
 - Lucyd

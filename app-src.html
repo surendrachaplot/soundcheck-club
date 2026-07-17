@@ -1930,6 +1930,14 @@
 
     /* site footer */
     .site-foot { border-top:1px solid var(--border); margin-top:18px; padding:24px 0 calc(80px + env(safe-area-inset-bottom)); }
+    /* The footer is static chrome, so it paints with the shell — i.e. under an EMPTY
+       page, right below the filter bar — and then gets shoved thousands of px down
+       once the grid arrives. Hold it until the first real content lands (see foot-in
+       in the boot script). visibility (not display) keeps its space reserved, so the
+       reveal itself never shifts the layout. Visibility-only, no opacity fade: a fade
+       that failed to tick would strand the footer invisible forever. */
+    .site-foot { visibility:hidden; }
+    body.foot-in .site-foot { visibility:visible; }
     .foot-row { display:flex; align-items:center; justify-content:space-between; gap:14px 24px; flex-wrap:wrap; }
     .foot-logo { cursor:pointer; }  /* identity = the shared .logo component (cassette + two-tone wordmark) */
     .foot-links { display:flex; flex-wrap:wrap; gap:10px 18px; }
@@ -3053,7 +3061,7 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 </style>
-<meta name="sc-build" content="1784254051149">
+<meta name="sc-build" content="1784286032310">
 </head>
 <body>
   <main class="wrap">
@@ -8675,6 +8683,29 @@
      On full-inline shells (next) the app already exists, so init runs now. */
   if(typeof cardHTML==='function') init();
   else document.addEventListener('DOMContentLoaded', init);
+
+  /* Footer last. It's static chrome, so without this it paints with the shell under an
+     empty page and then jumps once the grid/page arrives. Reveal it on the first REAL
+     content — skeletons don't count (grid skeletons are .skel-card; the full-page
+     skeleton is the lone aria-hidden child of #page-body). The timer is a backstop so
+     empty states, errors and offline still end up with a footer. */
+  (function(){
+    var root=document.querySelector('main')||document.body, obs=null, timer=null;
+    function hasContent(){
+      return !!(document.querySelector('#grid .gcard:not(.skel-card)') ||
+                document.querySelector('#grid .empty') ||
+                document.querySelector('#page-body > *:not([aria-hidden="true"])'));
+    }
+    function reveal(){
+      if(document.body.classList.contains('foot-in')) return;
+      document.body.classList.add('foot-in');
+      if(obs) obs.disconnect(); if(timer) clearTimeout(timer);
+    }
+    if(hasContent()) return reveal();
+    obs=new MutationObserver(function(){ if(hasContent()) reveal(); });
+    obs.observe(root,{childList:true,subtree:true});
+    timer=setTimeout(reveal,6000);
+  })();
 })();
 </script>
 </body>
