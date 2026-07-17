@@ -1,8 +1,8 @@
 # Love Letters
 
-Love Letters is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Standard Time, Toronto on Fri, 24 Jul 2026.
+Love Letters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Standard Time, Toronto on Fri, 24 Jul 2026.
 
-Love Letters is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Mike Servito, Lauren Flax and JADALAREIGN. Next up: Standard Time, Toronto on Fri 24 Jul.
+Love Letters is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Mike Servito, Lauren Flax and JADALAREIGN. Next up: Standard Time, Toronto on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Love Letters is a techno and house artist based in United States of America, tra
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Standard Time | Toronto |
 | Fri, 24 Jul 2026 | Standard Time | Toronto |
+| Sat, 25 Jul 2026 | Sans Soleil | Montreal |
 | Sat, 8 Aug 2026 | Nowadays | New York City |
 
 ## Recently played

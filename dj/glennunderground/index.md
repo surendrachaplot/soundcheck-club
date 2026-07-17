@@ -1,8 +1,8 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Wax Vinyl Bar and Ramen Shop, Chicago on Sat, 18 Jul 2026.
+Glenn Underground is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Wax Vinyl Bar and Ramen Shop, Chicago on Sat, 18 Jul 2026.
 
-Glenn Underground is a house and deep house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Chicago, Detroit and London and 4 more. Often billed alongside Aaron Dae, Disgonuts and JKriv. Next up: Wax Vinyl Bar and Ramen Shop, Chicago on Sat 18 Jul.
+Glenn Underground is a house and deep house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Bristol, Chicago and Detroit and 5 more. Often billed alongside Aaron Dae, Disgonuts and JKriv. Next up: Wax Vinyl Bar and Ramen Shop, Chicago on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Wax Vinyl Bar and Ramen Shop | Chicago |
 | Sat, 15 Aug 2026 | Podlasie Club | Chicago |
+| Fri, 21 Aug 2026 | Strange Brew | Bristol |
 
 ## Recently played
 

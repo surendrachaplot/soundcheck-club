@@ -1,6 +1,6 @@
 # ://sektgarten x diffuse reality [free entry & open air] at ://about blank
 
-://sektgarten x diffuse reality [free entry & open air] at ://about blank on Thu 30 Jul, Berlin. 2 acts on the bill: Mosh Project and Squaric. Techno and Electro. Preview the line-up and save it on soundcheck.
+://sektgarten x diffuse reality [free entry & open air] at ://about blank on Thu 30 Jul, Berlin. 4 acts on the bill: Josefina Tapia, Ludwig Mausberg, Mosh Project and Squaric. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- Josefina Tapia
+- Ludwig Mausberg
 - Mosh Project
 - Squaric
 

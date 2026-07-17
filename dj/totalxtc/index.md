@@ -9,7 +9,7 @@ Total XTC is a club and techno artist based in United States of America, tracked
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | The Haggerston | London |
-| Sat, 1 Aug 2026 | TBA | Berlin |
+| Sat, 1 Aug 2026 | TBA - WARSCHAUER PL 18 12045 BERLIN | Berlin |
 | Fri, 21 Aug 2026 | Paragon | New York City |
 
 ## Recently played

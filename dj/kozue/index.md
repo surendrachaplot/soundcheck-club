@@ -1,8 +1,8 @@
 # Kozue
 
-Kozue is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Vancouver on Fri, 17 Jul 2026.
+Kozue is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Vancouver on Fri, 17 Jul 2026.
 
-Kozue is a house and techno artist tracked on soundcheck, with 45 sets logged across Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: TBA, Vancouver on Fri 17 Jul.
+Kozue is a house and techno artist tracked on soundcheck, with 46 sets logged across Montreal, Tokyo and Vancouver. Often billed alongside Dane, Beiti and Body Double. Next up: TBA, Vancouver on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kozue is a house and techno artist tracked on soundcheck, with 45 sets logged ac
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | TBA | Vancouver |
 | Sat, 18 Jul 2026 | TBA - Shipyards North Vancouver | Vancouver |
+| Fri, 31 Jul 2026 | Sans Soleil | Montreal |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
 
 ## Recently played

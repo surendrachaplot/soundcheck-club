@@ -1,8 +1,8 @@
 # fetva
 
-fetva is a Electro and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 17 Jul 2026.
+fetva is a Electro and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Station - Gare des Mines, Paris on Fri, 17 Jul 2026.
 
-fetva is an electro and experimental artist based in France, tracked on soundcheck, with 37 sets logged across Athens, Berlin, London and Marseille and 2 more. Often billed alongside Golce, DJ Music and Bamao Yendé. Next up: La Station - Gare des Mines, Paris on Fri 17 Jul.
+fetva is an electro and experimental artist based in France, tracked on soundcheck, with 38 sets logged across Athens, Berlin, London and Marseille and 2 more. Often billed alongside Golce, DJ Music and Bamao Yendé. Next up: La Station - Gare des Mines, Paris on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ fetva is an electro and experimental artist based in France, tracked on soundche
 | Fri, 17 Jul 2026 | La Station - Gare des Mines | Paris |
 | Wed, 29 Jul 2026 | TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris | Paris |
 | Wed, 29 Jul 2026 | TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris | Paris |
+| Fri, 7 Aug 2026 | TBA - Marseille | Marseille |
 
 ## Recently played
 

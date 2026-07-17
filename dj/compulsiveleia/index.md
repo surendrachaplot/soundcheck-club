@@ -1,8 +1,8 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Arts Club, Liverpool on Fri, 17 Jul 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Arts Club, Liverpool on Fri, 17 Jul 2026.
 
-Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 21 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Arts Club, Liverpool on Fri 17 Jul.
+Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 22 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Arts Club, Liverpool on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 21 
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Arts Club | Liverpool |
 | Fri, 17 Jul 2026 | Arts Club | Liverpool |
+| Fri, 24 Jul 2026 | M.O.T | London |
 | Fri, 31 Jul 2026 | Vauxhall Arches | London |
 | Fri, 14 Aug 2026 | The Waiting Room | London |
 

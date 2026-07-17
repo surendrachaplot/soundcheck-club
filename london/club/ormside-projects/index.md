@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ÜNDERGØDS 11" on Fri, 17 Jul 2026.
+Ormside Projects is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ÜNDERGØDS 11" on Fri, 17 Jul 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Annabel Fraser, A-Sides, Azu Tiwaline and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Ab.Diablo, Annabel Fraser, A-Sides and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming ni
 | Sat, 1 Aug 2026 | Zeobat X All Centre with re:ni, DEBONAIR, Zeobat, Ramos, DJ Pitch, Simkin & Coe | Coe (1), DEBONAIR, DJ Pitch, Simkin, re:ni |
 | Thu, 6 Aug 2026 | Richie presents: Delusia's Final Act Live |  |
 | Fri, 7 Aug 2026 | Influences | A-Sides, Decibella, RUNDR, Stretch AKO, Tim Reaper |
+| Sat, 8 Aug 2026 | Warmth presents: DJ Travella, Bushbby, Teddy Kitano, WAAW + more | Ab.Diablo, Bushbby, DJ Travella, Teddy Kitano, VIRI$$, WAAW |
 | Fri, 14 Aug 2026 | Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace | Jezebelle, Lovelace, RBI (Aus), ÇINTH |
-| Sat, 22 Aug 2026 | ORMSIDE presents: DJ Marcelle + Talk (TBA) | DJ Marcelle |
 
 ## Address
 

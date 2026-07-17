@@ -1,13 +1,14 @@
 # Ammé
 
-Ammé is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Het Sieraad, Amsterdam on Fri, 24 Jul 2026.
+Ammé is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Thuishaven, Amsterdam on Sun, 19 Jul 2026.
 
-Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 65 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Het Sieraad, Amsterdam on Fri 24 Jul.
+Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 66 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Thuishaven, Amsterdam on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 19 Jul 2026 | Thuishaven | Amsterdam |
 | Fri, 24 Jul 2026 | Het Sieraad | Amsterdam |
 | Fri, 24 Jul 2026 | Boomerang Beach | The Hague |
 | Sat, 25 Jul 2026 | Lofi | Amsterdam |

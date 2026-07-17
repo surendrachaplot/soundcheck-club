@@ -1,8 +1,8 @@
 # Kaminka Merel
 
-Kaminka Merel is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
+Kaminka Merel is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Berlin on Sat, 15 Aug 2026.
 
-Kaminka Merel is a techno and tech house artist tracked on soundcheck, with 83 sets logged across Berlin. Often billed alongside Felix Reichelt, Cat Vermillion and Marcus Meya. Next up: TBA, Berlin on Sat 15 Aug.
+Kaminka Merel is a techno and tech house artist tracked on soundcheck, with 84 sets logged across Berlin. Often billed alongside Felix Reichelt, Cat Vermillion and Marcus Meya. Next up: TBA, Berlin on Sat 15 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kaminka Merel is a techno and tech house artist tracked on soundcheck, with 83 s
 | Sat, 15 Aug 2026 | TBA | Berlin |
 | Sat, 29 Aug 2026 | TBA | Berlin |
 | Sat, 29 Aug 2026 | Der Weiße Hase | Berlin |
+| Fri, 4 Sept 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
 

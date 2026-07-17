@@ -1,14 +1,15 @@
 # Walla P
 
-Walla P is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Salon Badin, Montreal on Fri, 17 Jul 2026.
+Walla P is a Funk / Soul and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Salon Badin, Montreal on Fri, 17 Jul 2026.
 
-Walla P is a funk / soul and disco artist tracked on soundcheck, with 48 sets logged across Berlin, Lisbon, Montreal and Paris and 2 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: Salon Badin, Montreal on Fri 17 Jul.
+Walla P is a funk / soul and disco artist tracked on soundcheck, with 49 sets logged across Berlin, Lisbon, Montreal and Paris and 2 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: Salon Badin, Montreal on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Salon Badin | Montreal |
+| Mon, 20 Jul 2026 | Sans Soleil | Montreal |
 | Sat, 1 Aug 2026 | Le Balcon | Montreal |
 
 ## Recently played

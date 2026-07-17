@@ -1,13 +1,14 @@
 # Simmons Bar | Shoreditch
 
-Simmons Bar | Shoreditch is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "House & Melodic Techno Night" on Wed, 12 Aug 2026.
+Simmons Bar | Shoreditch is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "House & Melodic Techno Night" on Wed, 12 Aug 2026.
 
-Simmons Bar | Shoreditch is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 104-108 Curtain Road, London, England, EC2A 3AH, United Kingdom.
+Simmons Bar | Shoreditch is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 104-108 Curtain Road, London, England, EC2A 3AH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 12 Aug 2026 | House & Melodic Techno Night |  |
 | Wed, 12 Aug 2026 | House & Melodic Techno Night |  |
 
 ## Address

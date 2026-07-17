@@ -13,7 +13,7 @@ Maaya is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with l
 | Sat, 25 Jul 2026 | VvoovV: 2nd Birthday Open Air Day Party // DJs & Drag show | 0dysseus, JA JA, Mila (4), danger soundsystem |
 | Sun, 26 Jul 2026 | Paradiso Pool Party | Feel .MA, Jaycap |
 | Sun, 26 Jul 2026 | Love & Devotion 5 | Eric D. Clark, Haider |
-| Sun, 2 Aug 2026 | WUB, Amour Africain & Delírio present: |  |
+| Sun, 2 Aug 2026 | WUB, Amour Africain & Delírio present: | DJ STRAIGHT GIRL, JCow, SXCL, dj latinchat, sin serif |
 | Sun, 23 Aug 2026 | PRNCPTL POOL PARTY - 13 Years Anniversary |  |
 | Sat, 29 Aug 2026 | AFTER FORTUNA x Maaya | AMBRA, Lady Goccia, Maddest, NOVZE, Ragliaz |
 

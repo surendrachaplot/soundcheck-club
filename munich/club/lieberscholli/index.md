@@ -15,7 +15,7 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming night
 | Sat, 8 Aug 2026 | Kinky Karneval Festival Edition |  |
 | Sat, 15 Aug 2026 | Township Rebellion Invites Open Air | Nothing But Love, SKIY, Township Rebellion |
 | Sun, 23 Aug 2026 | Discovery Sessions: Open Air w. Justin Jay | Justin Jay |
-| Sun, 30 Aug 2026 | Lelantus - Music Meets Art | Black Box, MINÄ, Ëlorian |
+| Sun, 30 Aug 2026 | Lelantus - Music Meets Art | Black Box, Mina, Ëlorian |
 | Sun, 6 Sept 2026 | SECCO DAY CLUB - SUNDAY OPEN AIR (100 Free Tickets) | Alex Volta, Apolonia, DEYST, Schwofdrossel |
 | Sat, 10 Oct 2026 | Scholli SECCO DAY CLUB (Day&Night Special) |  |
 

@@ -1,14 +1,15 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Altenburg 1964, Prague on Fri, 31 Jul 2026.
+Blame The Mono is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Altenburg 1964, Prague on Fri, 31 Jul 2026.
 
-Blame The Mono is a techno and trance artist tracked on soundcheck, with 56 sets logged across Athens, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DLV, CAIVA and DJ Hyperdrive. Next up: Altenburg 1964, Prague on Fri 31 Jul.
+Blame The Mono is a techno and trance artist tracked on soundcheck, with 57 sets logged across Athens, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DLV, CAIVA and DJ Hyperdrive. Next up: Altenburg 1964, Prague on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Altenburg 1964 | Prague |
+| Fri, 7 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 8 Aug 2026 | BASIS | Utrecht |
 | Sat, 22 Aug 2026 | The DBA | Manchester |
 

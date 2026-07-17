@@ -9,7 +9,7 @@ Lucas Hulan is a techno and house artist tracked on soundcheck, with 94 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Czech Boat | Prague |
-| Sat, 25 Jul 2026 | Mystic Skatepark | Prague |
+| Sat, 25 Jul 2026 | TBA - Prague | Prague |
 | Sat, 22 Aug 2026 | Czech Boat | Prague |
 | Fri, 11 Sept 2026 | Hoppetosse | Berlin |
 

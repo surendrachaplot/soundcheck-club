@@ -16,7 +16,7 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming 
 | Fri, 7 Aug 2026 | Cxnt x Maldades x MOTHERSPELLS | Kaa Glo, Martyyna, Miss Univers, NEW MAGIC MEDIA, Tasya, Ultrabruma, domizako |
 | Sat, 8 Aug 2026 | ✮ EERIE X BRUXA ✮ Pride Edition : Lixi, KONZ, Nina Farrina, zazitech, Fake Agent | 3ever, Fake Agent, KONZ, Lixi, Marc000, Misha Jaru, Nina Farrina, RADYK, S.Tian, Sub Sahara, ZiZi, zazitech |
 | Sat, 29 Aug 2026 | FEMXCORE x R E J U V | MAXImum, Mother Menace, olesia |
-| Sat, 29 Aug 2026 | FEMXCORE x R E J U V | Big Lil, DARDANELLA, MAXImum, Mother Menace, olesia |
+| Sat, 29 Aug 2026 | FEMXCORE x R E J U V | Big Lil, DARDANELLA, MAXImum, Mother Menace, olesia, zey |
 
 ## Address
 

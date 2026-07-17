@@ -15,7 +15,7 @@ KOKO is a music venue in London listed on soundcheck. 22 upcoming nights, with l
 | Fri, 24 Jul 2026 | KOKO Electronic: Oliver Heldens | Oliver Heldens |
 | Sat, 25 Jul 2026 | Acid House Palace: Paranoid London (Live) | Ally Tropical, CHIDA, Franklin DJ, Logan Fisher, Matt Cowell, Moon Roq, Paranoid London, Rosie Ama, The Iron Glove, Tronik Youth, babyschön |
 | Fri, 31 Jul 2026 | 15 Years of Rhythm Section: Bradley Zero (All Night Long) | Bradley Zero |
-| Sat, 1 Aug 2026 | Good Fortune presents: Dom Dolla & Friends (London Afterparty)  |  |
+| Sat, 1 Aug 2026 | Good Fortune presents: Dom Dolla & Friends (London Afterparty)  | Dom Dolla |
 | Fri, 7 Aug 2026 | KOKO Electronic: Summer Party, Part 1 |  |
 | Sat, 8 Aug 2026 | KOKO Electronic: Summer Party, Part 2 |  |
 

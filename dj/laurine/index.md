@@ -1,8 +1,8 @@
 # Laurine
 
-Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Club, Marseille on Fri, 17 Jul 2026.
+Laurine is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Club, Marseille on Fri, 17 Jul 2026.
 
-Laurine is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: MS Club, Marseille on Fri 17 Jul.
+Laurine is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: MS Club, Marseille on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Laurine is a house and techno artist tracked on soundcheck, with 114 sets logged
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | MS Club | Marseille |
 | Fri, 21 Aug 2026 | Night Tales | London |
+| Sat, 12 Sept 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Fri, 25 Sept 2026 | Village Underground | London |
 
 ## Recently played

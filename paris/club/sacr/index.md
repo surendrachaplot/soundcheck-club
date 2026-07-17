@@ -17,7 +17,7 @@ Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with 
 | Fri, 7 Aug 2026 | Sacré présente: Black Rave Culture & Kokoprisci | Black Rave Culture, Kokoprisci |
 | Sat, 8 Aug 2026 | Sacré présente: Anna Lunoe & Monaco | Monaco |
 | Fri, 28 Aug 2026 | Sacré présente: Schak & Camporeale | Camporeale (FR), Schak |
-| Sat, 29 Aug 2026 | Sacré présente: Autograf | Autograf |
+| Sat, 29 Aug 2026 | Sacré présente: Autograf & Orisha | Autograf |
 
 ## Address
 

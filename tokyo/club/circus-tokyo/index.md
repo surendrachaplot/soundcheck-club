@@ -9,7 +9,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 12 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | OTO presents RAVE ALERT | EMILIO (3), FINYA, STRATAH, Samantha Togni, Uich, YURI VALEN, YuWa |
-| Sat, 18 Jul 2026 | Goth-Trad | Goth-Trad, Lowki, Nori |
+| Sat, 18 Jul 2026 | Goth-Trad | A to C, Goth-Trad, Lowki, M.I.O, Nori |
 | Sun, 19 Jul 2026 | Sound Sports Original Event 'Six.' |  |
 | Mon, 20 Jul 2026 | beastboi. Tokyo show by Beginning | Aura, R1pq, RED-S, SAKO, Tekkempop!!!, Watei |
 | Tue, 21 Jul 2026 | Onra LIVE IN TOKYO Supported by EPICK | Onra |

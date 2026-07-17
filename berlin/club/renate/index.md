@@ -12,7 +12,7 @@ Renate is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with
 | Sat, 18 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with LAYERS, Serial Sound, Nexus & Blurry Vision | Amy Dabbs, CSILLA, Cailín, DATA RYDER, FRÆNZ:, Felix Fleer, Jonas Landwehr, Meda-Ava, Otal, SELESSA T., Softi, Viénce, androosh |
 | Sun, 19 Jul 2026 | Renate Open Air (Free Entry) x Antinas Spookhouse & Garden | Testbild |
 | Thu, 23 Jul 2026 | Renate x Smugsie & Brewing Minds | Ifeoluwa, Nadia Wise |
-| Fri, 24 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vision | DJ Trade Trainer, Daniel Wang, GLIA, Jana Falcon, Lucinee, Morgan, Organza, Robin Flux, The Brvtalist, Thomasito, elliephunk, moe. |
+| Fri, 24 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vision | DJ Trade Trainer, Daniel Wang, GLIA, Jana Falcon, Kyra Khaldi, Lucinee, Merel Helderman, Morgan, Organza, Robin Flux, The Brvtalist, Thomasito, Tommy Chikara, elliephunk, moe. |
 | Sat, 25 Jul 2026 | FRIENDS WITH BENEFITS (CSD Renate takeover by 131BPM x Golosa x Homodrop) | 131bpm, ALP (DE), Aaron Blau, Anna Almani, Cheriii, Dgeral, Dj handbag, Electrosexual, Flemish.Fetish, James Lotion, Mashyno, Posture, Sherø, Sub Sahara, ZANNT, angelboy, puppy |
 | Thu, 30 Jul 2026 | Renate x Dollhaus | Ayolxi, Gabrielle (DE), KLEA, Taurean |
 | Fri, 31 Jul 2026 | Renate Klubnacht + Open Air (Free Entry) with Craigie Knowes & Phuong Dan | Craigie Knowes, DJ Life, Dream_E, Eliza (2), Nimb, Phuong Dan, The Burrell Connection, kairavi |

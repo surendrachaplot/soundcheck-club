@@ -1,8 +1,8 @@
 # Jojoflores
 
-Jojoflores is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at 915 Dupont, Toronto on Fri, 17 Jul 2026.
+Jojoflores is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at 915 Dupont, Toronto on Fri, 17 Jul 2026.
 
-Jojoflores is a house and deep house artist based in Canada, tracked on soundcheck, with 13 sets logged across Geneva, Newyorkcity, Tokyo and Toronto. Often billed alongside Yogi, Nick Holder and Akpossoul. Next up: 915 Dupont, Toronto on Fri 17 Jul.
+Jojoflores is a house and deep house artist based in Canada, tracked on soundcheck, with 14 sets logged across Geneva, Montreal, Newyorkcity and Tokyo and 1 more. Often billed alongside Yogi, Nick Holder and Akpossoul. Next up: 915 Dupont, Toronto on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jojoflores is a house and deep house artist based in Canada, tracked on soundche
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | 915 Dupont | Toronto |
 | Sat, 18 Jul 2026 | Copper Boot | Toronto |
+| Sat, 18 Jul 2026 | Subterra | Montreal |
 | Fri, 28 Aug 2026 | TBA | Toronto |
 | Sun, 30 Aug 2026 | Stella Borealis | Toronto |
 

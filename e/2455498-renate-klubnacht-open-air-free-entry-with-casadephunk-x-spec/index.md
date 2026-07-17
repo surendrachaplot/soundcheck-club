@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vision at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vision on Fri 24 Jul, Berlin. 12 acts on the bill: DJ Trade Trainer, Daniel Wang, GLIA and Jana Falcon and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vision on Fri 24 Jul, Berlin. 15 acts on the bill: DJ Trade Trainer, Daniel Wang, GLIA and Jana Falcon and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,12 +14,15 @@ Renate Klubnacht + Open Air (Free Entry) with casadephunk x SPECTRA & Brutal Vis
 - Daniel Wang
 - GLIA
 - Jana Falcon
+- Kyra Khaldi
 - Lucinee
+- Merel Helderman
 - Morgan
 - Organza
 - Robin Flux
 - The Brvtalist
 - Thomasito
+- Tommy Chikara
 - elliephunk
 - moe.
 

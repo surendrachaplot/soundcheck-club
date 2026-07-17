@@ -9,7 +9,7 @@ Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 67
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Eastern Bloc Records | Manchester |
-| Sat, 18 Jul 2026 | TBA | London |
+| Sat, 18 Jul 2026 | radial | London |
 
 ## Recently played
 

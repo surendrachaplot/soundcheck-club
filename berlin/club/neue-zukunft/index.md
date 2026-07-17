@@ -17,7 +17,7 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 10 upcoming nights
 | Tue, 8 Sept 2026 | An Electric Evening Of ANTIMATTER & SLEEPING PULSE |  |
 | Fri, 18 Sept 2026 | Black Market Karma (UK / Fuzz Club), Sacred Buzz, Miss Mellow |  |
 | Fri, 25 Sept 2026 | MILK ME presents: Frustration + Warm Exit |  |
-| Wed, 14 Oct 2026 | Dazzling Killmen (US) |  |
+| Wed, 14 Oct 2026 | Dazzling Killmen (US), Prophet & Flesh |  |
 
 ## Address
 

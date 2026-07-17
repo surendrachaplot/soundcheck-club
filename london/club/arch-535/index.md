@@ -13,7 +13,7 @@ Arch 535 is a music venue in London listed on soundcheck. 6 upcoming nights, wit
 | Fri, 31 Jul 2026 | prospect: (A-Z) Alex Burton, D'Cruz, Frame, Leo Robin, Zac Dyer |  |
 | Sat, 8 Aug 2026 | Buntu with Samantha Blackburn (Birthday), La Gosse, Kat Richmond & Mr Connect (Percussion) | Kat Richmond, La Gosse, Samantha Blackburn |
 | Sat, 22 Aug 2026 | The Friends We Make | Jacob Trip, Nephew from Neptune, Ni-am, Sleepy Jean |
-| Sat, 5 Sept 2026 | Down To Earth w Jade Seattle | Drew Karma, Jade Seatle, Junior Richards, Scott Braithwaite |
+| Sat, 5 Sept 2026 | Down To Earth w Jade Seatle | Drew Karma, Jade Seatle, Junior Richards, Scott Braithwaite |
 
 ## Address
 

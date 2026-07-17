@@ -1,14 +1,15 @@
 # Joëlla Jackson
 
-Joëlla Jackson is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
+Joëlla Jackson is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at fabric, London on Sat, 18 Jul 2026.
 
-Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Joey Daniel. Next up: fabric, London on Sat 18 Jul.
+Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Joey Daniel. Next up: fabric, London on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | fabric | London |
+| Sun, 19 Jul 2026 | Thuishaven | Amsterdam |
 | Tue, 21 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 15 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |

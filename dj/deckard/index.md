@@ -1,8 +1,8 @@
 # Deckard
 
-Deckard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Purobeach Barcelona, Barcelona on Fri, 17 Jul 2026.
+Deckard is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Purobeach Barcelona, Barcelona on Fri, 17 Jul 2026.
 
-Deckard is a house and techno artist based in Spain, tracked on soundcheck, with 160 sets logged across Barcelona, Lyon, Madrid and Mallorca and 2 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: Purobeach Barcelona, Barcelona on Fri 17 Jul.
+Deckard is a house and techno artist based in Spain, tracked on soundcheck, with 161 sets logged across Barcelona, Lyon, Madrid and Mallorca and 2 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: Purobeach Barcelona, Barcelona on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deckard is a house and techno artist based in Spain, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Purobeach Barcelona | Barcelona |
 | Fri, 31 Jul 2026 | Village Underground Barcelona | Barcelona |
+| Sat, 8 Aug 2026 | LAUT | Barcelona |
 
 ## Recently played
 

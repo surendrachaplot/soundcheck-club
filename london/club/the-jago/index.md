@@ -10,7 +10,7 @@ The Jago is a music venue in London listed on soundcheck. 6 upcoming nights, wit
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Persian Love presents BANDARI & DESERT DANCE | Milli |
 | Fri, 24 Jul 2026 | this is a club moto party 003 | PHIZ, Paydro, chrs apula, nomie |
-| Thu, 6 Aug 2026 | CARAVAN AUG 16 |  |
+| Thu, 6 Aug 2026 | CARAVAN SUMMER EDITION |  |
 | Fri, 7 Aug 2026 | Full Clip Magazine Issue #40: Hoochinoo Live & UKHHdotcom |  |
 | Sat, 8 Aug 2026 | Novo Tempo |  |
 | Sat, 15 Aug 2026 | Miles Away with Richard Sen, Dom Ore & Roberta Cutolo | Dom Ore, Richard Sen |

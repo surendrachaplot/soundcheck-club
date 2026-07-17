@@ -1,8 +1,8 @@
 # Manzone & Strong
 
-Manzone & Strong is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Vertigo, Toronto on Fri, 17 Jul 2026.
+Manzone & Strong is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Vertigo, Toronto on Fri, 17 Jul 2026.
 
-Manzone & Strong are a tech house and house duo tracked on soundcheck, with 177 sets logged across Toronto. Often billed alongside Tyler Hill, Barroness and Miz Megs. Next up: Vertigo, Toronto on Fri 17 Jul.
+Manzone & Strong are a tech house and house duo tracked on soundcheck, with 178 sets logged across Toronto. Often billed alongside Tyler Hill, Barroness and Miz Megs. Next up: Vertigo, Toronto on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Manzone & Strong are a tech house and house duo tracked on soundcheck, with 177 
 | Sun, 19 Jul 2026 | Wiggle Room | Toronto |
 | Sun, 26 Jul 2026 | Wiggle Room | Toronto |
 | Sun, 2 Aug 2026 | Wiggle Room | Toronto |
+| Sun, 16 Aug 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 

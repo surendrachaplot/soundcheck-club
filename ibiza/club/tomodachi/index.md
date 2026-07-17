@@ -9,7 +9,7 @@ Tomodachi is a music venue in Ibiza listed on soundcheck. 38 upcoming nights. Br
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Tomodachi w/ Enrica Falqui |  |
-| Sat, 18 Jul 2026 | Tomodachi w/ Miller • All Night Long • |  |
+| Sat, 18 Jul 2026 | Tomodachi w/ Nicolau • All Night Long • |  |
 | Tue, 21 Jul 2026 | Real Gang w/ Shaun Reeves  |  |
 | Fri, 24 Jul 2026 | Tomodachi |  |
 | Sat, 25 Jul 2026 | Tomodachi |  |

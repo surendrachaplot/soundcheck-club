@@ -1,14 +1,15 @@
 # Serge
 
-Serge is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at NAR, Utrecht on Sat, 25 Jul 2026.
+Serge is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at NAR, Utrecht on Sat, 25 Jul 2026.
 
-Serge is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Afra, Alberta Balsam and Detroit In Effect. Next up: NAR, Utrecht on Sat 25 Jul.
+Serge is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Afra, Alberta Balsam and jannah. Next up: NAR, Utrecht on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | NAR | Utrecht |
+| Fri, 28 Aug 2026 | export | Rotterdam |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ Serge is a techno and house artist tracked on soundcheck, with 62 sets logged ac
 
 ## Shares bills with
 
-Afra, Alberta Balsam, Detroit In Effect
+Afra, Alberta Balsam, jannah
 
 *Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*

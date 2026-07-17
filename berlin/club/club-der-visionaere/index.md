@@ -8,7 +8,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Half Baked | DJ Senc, DJ Tjizza, Harry McCanna, Harry Wills, Sam Bangura |
+| Fri, 17 Jul 2026 | Half Baked | DJ Senc, DJ Tjizza, Dada Disco, Harry McCanna, Harry Wills, Juli Gago, Sam Bangura |
 | Sat, 18 Jul 2026 | Easymix | Ausilio Jó, Buzé, Gathaspar, Stefanos Skifos, Tobi Neumann |
 | Sun, 19 Jul 2026 | Noisy Glance Sunday / Visionquest Afterparty | Aline Umber, Daniele Papini, Topper, Triptease |
 | Mon, 20 Jul 2026 | Traveling Without Moving | Kenji Tazaki, Lilin, Spacetravel, Yoshitaca |
@@ -16,7 +16,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 18 upcoming
 | Wed, 22 Jul 2026 | Meltdown | Annina, DJ W!ld, David Delgado, Q'uwa |
 | Thu, 23 Jul 2026 | Melcure | E.LINA, Felipe Valenzuela, Mayell |
 | Fri, 24 Jul 2026 | Zel X CDV | Aton, Basse Frequenze Soundsystem, Conor Brophy, DJ TEETH, Francesco Salvadori, Gwenan, Johnson (2), Joohin |
-| Sun, 26 Jul 2026 | Sundays:: | Alys, Anna Leevia, Baby Vulture, CHKLTE, Clovis, Matt Foley, Wareika |
+| Sun, 26 Jul 2026 | Sundays:: | Alys, Anna Leevia, Baby Vulture, CHKLTE, Clovis, Justin Shaffer, Matt Foley, Wareika |
 | Tue, 28 Jul 2026 | Chez Doc | Akaj, Dana Kuehr, Keras, VIKk |
 
 ## Address

@@ -18,7 +18,7 @@ Together.For.Alma.Libre at TBA - GLYFADA AREA on Sat 18 Jul, Athens. 13 acts on 
 - MVRU
 - Mariø
 - NAY LAA
-- Petal
+- Pètal
 - ROSHI
 - Saniter
 - Ther3min

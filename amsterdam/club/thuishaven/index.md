@@ -2,14 +2,14 @@
 
 Thuishaven is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "18 JUL - Thuishaven with Michel de Hey 10HRS" on Sat, 18 Jul 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including AAT (NL), Ale De Tuglie, Alexander Koning and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Maqossa, AAT (NL), Ale De Tuglie and Alexander Koning and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | 18 JUL - Thuishaven with Michel de Hey 10HRS | Bumpr, Danou P, Fabio Santos, Malin Genie, Michel de Hey |
-| Sun, 19 Jul 2026 | 19 JUL - Thuishaven with Philou Louzolo 10HRS | Philou Louzolo |
+| Sun, 19 Jul 2026 | 19 JUL - Thuishaven with Philou Louzolo 10HRS | Ammé, Joëlla Jackson, LYLO (NL), Lyrae, Maqossa, Philou Louzolo, TINS |
 | Sat, 25 Jul 2026 | 25 JUL - Thuishaven with Tjade 10HRS SOLD OUT | Tjade |
 | Sat, 25 Jul 2026 | 25 JUL - Nachtshow with Tjade & Friends | IN2POL, Schwesta P, Tjade, WOLTERS |
 | Sun, 26 Jul 2026 | 26 JUL - Thuishaven with Lisa Korver 5HRS SOLD OUT  | DJ AYA, GMOZ, Lisa Korver, Luke Hovey, Schwesta P, Vie Aimee |

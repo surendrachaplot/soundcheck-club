@@ -1,8 +1,8 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BUBBLEGUM - Ranger Trucco, Camille Doe, FONZO, DJANGO" on Fri, 17 Jul 2026.
+BRET is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BUBBLEGUM - Ranger Trucco, Camille Doe, FONZO, DJANGO" on Fri, 17 Jul 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Aldonna, Alma Negrot, Anton Jonathan and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Aldonna, Alma Negrot, Anton Jonathan and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 

@@ -9,7 +9,7 @@ Munster Munch is a music venue in London listed on soundcheck. 2 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Colours of Happiness | AVANTIME, Dimanté, FRESCO (UK), GYS (TT), Nour (UK) |
-| Sat, 1 Aug 2026 | Afterglow x Mix London Records - 140 Garage Dubstep DnB | Carien, Who Is TeeKay?, skruba |
+| Sat, 1 Aug 2026 | DUB LOFT: Afterglow x Mix London Records - 140 Garage Dubstep DnB | Carien, Who Is TeeKay?, skruba |
 
 ## Address
 

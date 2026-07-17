@@ -2691,6 +2691,61 @@
     .tk-play svg{ width:15px; height:15px; margin-left:1px; }
     .tk-row:hover .tk-play{ color:var(--accent-ink); background:var(--accent-grad); }
     .fp-tracks .fp-sets-load, .fp-tracks .fp-sets-empty{ padding-left:0; padding-right:0; }   /* align with the Tracks heading */
+    /* Playlists — cards in the My Playlist tab + the playlist page */
+    .pl-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:14px; padding:4px 0 2px; }
+    .pl-card{ display:block; text-decoration:none; color:inherit; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .pl-card:hover .pl-t{ color:var(--accent); }
+    .pl-mos{ display:grid; grid-template-columns:1fr 1fr; aspect-ratio:1.35; }
+    .pl-mos span{ display:block; background-size:cover; background-position:center; }
+    .pl-meta{ padding:10px 12px; }
+    .pl-t{ font:700 var(--fs-base) var(--head); letter-spacing:-.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .pl-n{ font:600 10px var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--accent); margin-top:4px; }
+    .pl-new{ display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; min-height:150px; border:1px dashed var(--border); border-radius:var(--radius-lg); background:transparent; color:var(--muted); font:600 13px var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .pl-new .plus{ width:34px; height:34px; border-radius:50%; background:var(--surface); display:flex; align-items:center; justify-content:center; font-size:22px; color:var(--accent); }
+    .pl-new:hover{ border-color:var(--accent); color:var(--accent); }
+    /* playlist page */
+    .plp-head{ padding:6px 18px 10px; }
+    .plp-sub{ font:600 11px var(--font-mono); letter-spacing:.1em; text-transform:uppercase; color:var(--faint); }
+    .plp-acts{ display:flex; gap:8px; padding:12px 18px; flex-wrap:wrap; }
+    .plt-list{ list-style:none; margin:0; padding:0; }
+    .plt-row{ display:flex; align-items:center; gap:12px; padding:11px 18px; border-top:1px solid var(--line); }
+    .plt-row:first-child{ border-top:0; }
+    .plt-th{ width:44px; height:44px; border-radius:8px; background:var(--surface-2); background-size:cover; background-position:center; flex:none; position:relative; cursor:pointer; }
+    .plt-th .pp{ position:absolute; inset:0; display:flex; align-items:center; justify-content:center; color:#fff; opacity:0; background:rgba(0,0,0,.34); border-radius:8px; }
+    .plt-th:hover .pp{ opacity:1; }
+    .plt-m{ flex:1 1 auto; min-width:0; }
+    .plt-t{ font:600 var(--fs-base) var(--body); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .plt-links{ display:flex; gap:6px; margin-top:5px; flex-wrap:wrap; }
+    .plt-lk{ font:600 10px var(--font-mono); letter-spacing:.05em; text-transform:uppercase; padding:3px 8px; border-radius:999px; border:1px solid var(--border); color:var(--muted); text-decoration:none; }
+    .plt-lk:hover{ border-color:var(--accent); color:var(--accent); }
+    .plt-lk.yt{ color:var(--accent); border-color:transparent; background:rgba(255,154,61,.12); }
+    .plt-x{ flex:none; background:transparent; border:none; color:var(--faint); font-size:18px; cursor:pointer; padding:4px; }
+    .plt-x:hover{ color:var(--accent); }
+    .tk-add{ flex:none; width:26px; height:26px; border-radius:50%; border:1px solid var(--border); background:transparent; color:var(--muted); font-size:15px; line-height:1; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .tk-add:hover{ border-color:var(--accent); color:var(--accent); }
+    /* add-to-playlist chooser + feedback sheet share one overlay look */
+    .sc-ov{ position:fixed; inset:0; z-index:120; background:rgba(6,4,14,.66); display:flex; align-items:flex-end; justify-content:center; }
+    @media(min-width:560px){ .sc-ov{ align-items:center; } }
+    .sc-sheet{ width:100%; max-width:440px; background:var(--surface); border:1px solid var(--border); border-radius:16px 16px 0 0; padding:18px; }
+    @media(min-width:560px){ .sc-sheet{ border-radius:16px; } }
+    .sc-sheet h4{ font:800 17px var(--head); letter-spacing:-.01em; margin:0 0 3px; }
+    .sc-sheet .hint{ font-size:13px; color:var(--muted); margin:0 0 13px; }
+    .sc-sheet textarea{ width:100%; min-height:96px; resize:vertical; background:var(--surface-2); border:1px solid var(--border); border-radius:10px; color:var(--fg); font:400 14px/1.5 var(--body); padding:11px 12px; }
+    .sc-sheet textarea:focus{ outline:none; border-color:var(--accent); }
+    .sc-row{ display:flex; gap:8px; justify-content:flex-end; margin-top:13px; }
+    .sc-pl-list{ display:grid; gap:6px; margin:2px 0 4px; max-height:240px; overflow:auto; }
+    .sc-pl-item{ display:flex; align-items:center; justify-content:space-between; gap:10px; padding:11px 13px; border:1px solid var(--border); border-radius:10px; background:var(--surface-2); cursor:pointer; font-size:14px; font-weight:600; }
+    .sc-pl-item:hover{ border-color:var(--accent); }
+    .sc-pl-item .n{ font:600 10px var(--font-mono); letter-spacing:.06em; text-transform:uppercase; color:var(--faint); }
+    /* "suggest a feature" box on the profile + "report" inline cue */
+    .pf-suggest{ margin:26px 0 6px; border:1px solid var(--line); border-radius:14px; padding:16px 16px 14px; background:var(--surface); }
+    .pf-suggest .h{ font:800 15px var(--head); letter-spacing:-.01em; }
+    .pf-suggest .s{ font-size:13px; color:var(--muted); margin:3px 0 11px; }
+    .pf-suggest textarea{ width:100%; min-height:70px; resize:vertical; background:var(--surface-2); border:1px solid var(--border); border-radius:10px; color:var(--fg); font:400 14px/1.5 var(--body); padding:10px 12px; }
+    .pf-suggest textarea:focus{ outline:none; border-color:var(--accent); }
+    .pf-suggest .sc-row{ margin-top:10px; }
+    .report-cue{ display:inline-flex; align-items:center; gap:5px; background:transparent; border:none; color:var(--faint); font:600 11px var(--font-mono); letter-spacing:.06em; text-transform:uppercase; cursor:pointer; padding:4px 0; -webkit-tap-highlight-color:transparent; }
+    .report-cue:hover{ color:var(--accent); }
     /* Interviews tab — outbound article links to the music press */
     .fp-press{ padding:6px 18px 12px; }
     .fp-press .fp-sets-load, .fp-press .fp-sets-empty{ padding-left:0; padding-right:0; }
@@ -3061,7 +3116,7 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 </style>
-<meta name="sc-build" content="1784286032310">
+<meta name="sc-build" content="1784305374689">
 </head>
 <body>
   <main class="wrap">
@@ -3109,7 +3164,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">99 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">153 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">21 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">11 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">23 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">75 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-07-17/">Fri 17 Jul <span class="c">100 events</span></a></li><li><a href="/london/2026-07-18/">Sat 18 Jul <span class="c">156 events</span></a></li><li><a href="/london/2026-07-19/">Sun 19 Jul <span class="c">22 events</span></a></li><li><a href="/london/2026-07-21/">Tue 21 Jul <span class="c">6 events</span></a></li><li><a href="/london/2026-07-22/">Wed 22 Jul <span class="c">11 events</span></a></li><li><a href="/london/2026-07-23/">Thu 23 Jul <span class="c">24 events</span></a></li><li><a href="/london/2026-07-24/">Fri 24 Jul <span class="c">77 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5910,16 +5965,21 @@
       if(isMe||seenN)  artSegs.push({sub:'seen', label:'Seen live', count:seenN, boxId:'pf-seen'});
       if(artSegs.length) T.push({k:'artists',l:'My Artists',c:(seenN+wannaN)||null,html:pfSegHTML(artSegs)});
       if(savedN) T.push({k:'saved',l:'Interested',c:savedN,html:'<div class="pf-box" id="pf-events"></div>'});
-      // My Playlist — Queue + Listened set-shelves merged behind an inner pill switcher.
+      // My Playlist — shared Playlists + Queue + Listened set-shelves behind an inner pill switcher.
       var setqN=(s.setQueue||[]).length, setlN=(s.setListened||[]).length;
       var plSegs=[];
+      if(isMe) plSegs.push({sub:'plists',label:'Playlists',count:null,boxId:'pf-plists'});   // filled async by fillPlaylists()
       if(setqN) plSegs.push({sub:'setq',label:'Queue',   count:setqN,boxId:'pf-setq'});
       if(setlN) plSegs.push({sub:'setl',label:'Listened',count:setlN,boxId:'pf-setl'});
       if(plSegs.length) T.push({k:'playlist',l:'My Playlist',c:(setqN+setlN)||null,html:pfSegHTML(plSegs)});
       var _pWant=(p&&p._deepTab)||''; var _pActive=T.some(function(t){ return t.k===_pWant; })?_pWant:(T[0]&&T[0].k);
       var tabsBar='<div class="fp-tabs pf-tabs" role="tablist">'+T.map(function(t){ var on=t.k===_pActive; return '<button class="fp-tab'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tab="'+t.k+'">'+esc(t.l)+(t.c!=null?'<span class="c">'+t.c+'</span>':'')+'</button>'; }).join('')+'</div>';
       var panels=T.map(function(t){ return '<div class="fp-tabpanel'+(t.k===_pActive?'':' hide')+'" data-panel="'+t.k+'">'+t.html+'</div>'; }).join('');
-      return '<div class="pf">'+hero+pbRotationHTML(p)+(isMe?'<div id="pb-lognudge"></div>':'')+tabsBar+panels+'</div>';
+      // Now Playing (rotation) removed for now — playlists live in the My Playlist tab instead.
+      var suggest=isMe?('<div class="pf-suggest"><div class="h">Suggest a feature</div><div class="s">Missing something? Tell us what would make soundcheck better.</div>'+
+        '<textarea id="pf-suggest-t" placeholder="I wish soundcheck could…"></textarea>'+
+        '<div class="sc-row"><button class="pf-btn primary" id="pf-suggest-send" type="button">Send</button></div></div>'):'';
+      return '<div class="pf">'+hero+(isMe?'<div id="pb-lognudge"></div>':'')+tabsBar+panels+suggest+'</div>';
     }
     // "You said you were going — how was it?" nudges: past events marked I'm-going
     // that were never logged. Log it → the log form (event pre-selected); Didn't go →
@@ -6042,7 +6102,8 @@
       }
       pfSetBox('pf-setq','Set queue', s.setQueue);
       pfSetBox('pf-setl','Listened', s.setListened);
-      // Inner pill switchers (My Artists: Wanna see/Seen live · My Playlist: Queue/Listened)
+      if(p.isMe){ fillPlaylists(); wireSuggest(); }
+      // Inner pill switchers (My Artists: Wanna see/Seen live · My Playlist: Playlists/Queue/Listened)
       document.querySelectorAll('.pf .pf-seg').forEach(function(seg){ seg.addEventListener('click',function(e){
         var b=e.target.closest('.pf-segb'); if(!b) return;
         seg.querySelectorAll('.pf-segb').forEach(function(x){ x.classList.toggle('on',x===b); });
@@ -6067,6 +6128,135 @@
         var profPlay = (s.seen && s.seen.length) ? function(){ startListRadio(s.seen, 'shelf:'+p.handle+':seen'); } : null;
         armSticky(p.displayName||('u/'+p.handle), profPlay, (panelBody&&panelBody.querySelector('.pf-id'))||document.getElementById('page-body'));
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that profile.</div>'); }
+    }
+
+    // ── Shared playlists ─────────────────────────────────────────────────────
+    function plTint(id){ var h=0; id=String(id||''); for(var i=0;i<id.length;i++) h=(h*31+id.charCodeAt(i))>>>0; var a=(h%60)+280, b=(a+40)%360; return 'linear-gradient(135deg,hsl('+a+' 45% 30%),hsl('+b+' 40% 18%))'; }
+    function plCardHTML(p){
+      var covers=(p.covers||[]).filter(Boolean);
+      var mos=[0,1,2,3].map(function(i){ return '<span style="'+(covers[i]?('background-image:url('+imgUrl(covers[i],200)+')'):('background:'+plTint(p.id+':'+i))) +'"></span>'; }).join('');
+      var n=p.n||0;
+      return '<a class="pl-card nav" href="'+esc(SC_BASE)+'#pl/'+esc(p.id)+'" data-pl="'+esc(p.id)+'"><div class="pl-mos">'+mos+'</div>'+
+        '<div class="pl-meta"><div class="pl-t">'+esc(p.title)+'</div><div class="pl-n">'+n+' track'+(n===1?'':'s')+'</div></div></a>';
+    }
+    async function fillPlaylists(){
+      var box=document.getElementById('pf-plists'); if(!box) return;
+      box.innerHTML='<div class="fp-sets-load">Loading…</div>';
+      try{
+        var r=await authedFetch('/api/playlists'); var j=await r.json(); var pls=(j&&j.playlists)||[];
+        box.innerHTML='<div class="pl-grid">'+pls.map(plCardHTML).join('')+
+          '<button class="pl-new" type="button" id="pl-new"><span class="plus">+</span>New playlist</button></div>';
+        box.querySelectorAll('.pl-card[data-pl]').forEach(function(c){ c.addEventListener('click',function(e){ e.preventDefault(); openPlaylist(c.dataset.pl); }); });
+        var nb=box.querySelector('#pl-new'); if(nb) nb.addEventListener('click', createPlaylistFlow);
+      }catch(_){ box.innerHTML='<div class="fp-sets-empty">Couldn&rsquo;t load your playlists.</div>'; }
+    }
+    async function createPlaylistFlow(){
+      if(!currentUser){ showToast('Sign in to make a playlist.'); return; }
+      var title=window.prompt('Name your playlist'); if(title==null) return; title=title.trim(); if(!title) return;
+      try{
+        var r=await authedFetch('/api/playlist',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({title:title})});
+        var j=await r.json(); if(j&&j.id) openPlaylist(j.id); else showToast('Couldn&rsquo;t create playlist.');
+      }catch(_){ showToast('Couldn&rsquo;t create playlist.'); }
+    }
+    async function openPlaylist(id){
+      setRoute('pl/'+id);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/playlist?id='+encodeURIComponent(id));
+        if(r.status===404){ openPanel('<div class="empty">That playlist doesn&rsquo;t exist.</div>'); return; }
+        var p=await r.json();
+        renderPlaylist(p);
+      }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that playlist.</div>'); }
+    }
+    function renderPlaylist(p){
+      var tracks=p.tracks||[];
+      var playable=tracks.filter(function(t){ return t.videoId; }).map(function(t){ return { slug:'', name:t.artist||t.display, title:t.display, videoId:t.videoId, sec:t.sec, poster:t.artwork||'' }; });
+      var byline=[p.owner&&(p.owner.name||('u/'+p.owner.handle)), tracks.length+' track'+(tracks.length===1?'':'s'), p.collaborative?'collaborative':''].filter(Boolean).join(' · ');
+      var head='<div class="plp-head"><div class="plp-sub">Playlist</div><h1 class="fp-h1" style="margin:4px 0 2px">'+esc(p.title)+'</h1><div style="color:var(--muted);font-size:13px">'+esc(byline)+'</div></div>'+
+        '<div class="plp-acts">'+
+          (playable.length?'<button class="pf-btn primary" id="plp-play" type="button">▶ Play all</button>':'')+
+          '<button class="pf-btn" id="plp-share" type="button">Share</button>'+
+          (p.canEdit?'':( (currentUser&&p.collaborative)?'<button class="pf-btn" id="plp-join" type="button">Join &amp; add</button>':''))+
+        '</div>';
+      var rows=tracks.map(function(t){
+        var L=t.links||{};
+        var chips=[
+          L.youtube?'<a class="plt-lk yt" href="'+esc(L.youtube)+'" target="_blank" rel="noopener">YouTube</a>':'',
+          '<a class="plt-lk" href="'+esc(L.spotify)+'" target="_blank" rel="noopener">Spotify</a>',
+          '<a class="plt-lk" href="'+esc(L.tidal)+'" target="_blank" rel="noopener">Tidal</a>',
+          L.deezer?'<a class="plt-lk" href="'+esc(L.deezer)+'" target="_blank" rel="noopener">Deezer</a>':'',
+          L.apple?'<a class="plt-lk" href="'+esc(L.apple)+'" target="_blank" rel="noopener">Apple</a>':''
+        ].join('');
+        var th=t.artwork?('background-image:url('+imgUrl(t.artwork,120)+')'):('background:'+plTint(t.key||t.display));
+        return '<li class="plt-row" data-tid="'+esc(String(t.id))+'"'+(t.videoId?' data-vid="'+esc(t.videoId)+'" data-sec="'+(t.sec!=null?t.sec:'')+'"':'')+'>'+
+          '<span class="plt-th" style="'+th+'">'+(t.videoId?'<span class="pp">'+PLAY_SVG+'</span>':'')+'</span>'+
+          '<span class="plt-m"><span class="plt-t">'+esc(t.display)+'</span><span class="plt-links">'+chips+'</span></span>'+
+          (p.canEdit?'<button class="plt-x" type="button" data-rm="'+esc(String(t.id))+'" aria-label="Remove">&times;</button>':'')+
+        '</li>';
+      }).join('');
+      openPanel(head+'<ul class="plt-list">'+(rows||'<div class="empty" style="padding:14px 18px">No tracks yet — add some from any artist&rsquo;s Tracks tab.</div>')+'</ul>');
+      armSticky(p.title, playable.length?function(){ playYtList(playable,0); }:null, document.getElementById('page-body'));
+      var pa=document.getElementById('plp-play'); if(pa) pa.addEventListener('click',function(){ playYtList(playable,0); });
+      var sh=document.getElementById('plp-share'); if(sh) sh.addEventListener('click',function(){ doShare({ title:p.title+' · soundcheck', text:'Check this playlist on soundcheck', url:location.origin+location.pathname+'#pl/'+p.id }); });
+      var jn=document.getElementById('plp-join'); if(jn) jn.addEventListener('click',async function(){ try{ await authedFetch('/api/playlist/join',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id})}); openPlaylist(p.id); }catch(_){} });
+      panelBody.querySelectorAll('.plt-row[data-vid]').forEach(function(row){ var th=row.querySelector('.plt-th'); if(th) th.addEventListener('click',function(){ var i=playable.findIndex(function(x){ return x.videoId===row.dataset.vid && String(x.sec)===row.dataset.sec; }); playYtList(playable, i<0?0:i); }); });
+      panelBody.querySelectorAll('[data-rm]').forEach(function(b){ b.addEventListener('click',async function(){ try{ await authedFetch('/api/playlist/remove',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id,trackId:+b.dataset.rm})}); openPlaylist(p.id); }catch(_){} }); });
+    }
+    // Add-to-playlist chooser — used by the "+" on artist Tracks-tab rows.
+    async function addToPlaylist(track){
+      if(!currentUser){ showToast('Sign in to save tracks.'); return; }
+      var ov=document.createElement('div'); ov.className='sc-ov';
+      ov.innerHTML='<div class="sc-sheet"><h4>Add to playlist</h4><p class="hint">'+esc(track.raw||'').slice(0,80)+'</p><div class="sc-pl-list" id="sc-pll"><div class="fp-sets-load">Loading…</div></div><button class="pl-new" id="sc-pl-newbtn" type="button" style="min-height:0;padding:12px;margin-top:6px"><span class="plus" style="width:26px;height:26px;font-size:18px">+</span>New playlist</button><div class="sc-row"><button class="pf-btn" id="sc-cancel" type="button">Close</button></div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      ov.querySelector('#sc-cancel').addEventListener('click',close);
+      async function add(id){
+        try{ await authedFetch('/api/playlist/tracks',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ id:id, raw:track.raw, videoId:track.videoId||null, sec:track.sec!=null?track.sec:null })});
+          close(); showToast('Added to playlist'); }catch(_){ showToast('Couldn&rsquo;t add.'); }
+      }
+      ov.querySelector('#sc-pl-newbtn').addEventListener('click',async function(){
+        var title=window.prompt('Name your playlist'); if(!title) return; title=title.trim(); if(!title) return;
+        try{ var r=await authedFetch('/api/playlist',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({title:title})}); var j=await r.json(); if(j&&j.id) add(j.id); }catch(_){}
+      });
+      try{
+        var r=await authedFetch('/api/playlists'); var j=await r.json(); var pls=(j&&j.playlists)||[];
+        var list=ov.querySelector('#sc-pll');
+        list.innerHTML=pls.length?pls.map(function(p){ return '<div class="sc-pl-item" data-pl="'+esc(p.id)+'"><span>'+esc(p.title)+'</span><span class="n">'+(p.n||0)+'</span></div>'; }).join(''):'<div class="empty" style="padding:8px 2px">No playlists yet — make one below.</div>';
+        list.querySelectorAll('.sc-pl-item[data-pl]').forEach(function(it){ it.addEventListener('click',function(){ add(it.dataset.pl); }); });
+      }catch(_){ ov.querySelector('#sc-pll').innerHTML='<div class="empty">Couldn&rsquo;t load.</div>'; }
+    }
+
+    // ── Feedback: wrong-info reports + feature suggestions ────────────────────
+    function submitFeedback(kind, message, context){
+      return authedFetch('/api/feedback',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ kind:kind, message:message, context:context||'', url:location.href })});
+    }
+    // Small sheet for a wrong-info report (entity pages). context e.g. "event:123".
+    function openFeedback(kind, context, title, hint){
+      var ov=document.createElement('div'); ov.className='sc-ov';
+      ov.innerHTML='<div class="sc-sheet"><h4>'+esc(title||'Something wrong?')+'</h4><p class="hint">'+esc(hint||'Tell us what&rsquo;s off and we&rsquo;ll fix it.')+'</p>'+
+        '<textarea id="fb-t" placeholder="'+esc(kind==='wrong_info'?'e.g. wrong date, missing DJ, dead link…':'Your idea…')+'"></textarea>'+
+        '<div class="sc-row"><button class="pf-btn" id="fb-cancel" type="button">Cancel</button><button class="pf-btn primary" id="fb-send" type="button">Send</button></div></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      ov.querySelector('#fb-cancel').addEventListener('click',close);
+      var ta=ov.querySelector('#fb-t'); setTimeout(function(){ try{ ta.focus(); }catch(_){} },30);
+      ov.querySelector('#fb-send').addEventListener('click',async function(){
+        var msg=ta.value.trim(); if(!msg){ ta.focus(); return; }
+        try{ await submitFeedback(kind, msg, context); }catch(_){}
+        close(); showToast('Thanks — got it.');
+      });
+    }
+    function reportCue(context){ return '<button class="report-cue" type="button" data-report="'+esc(context)+'">⚑ Report wrong info</button>'; }
+    function wireReportCues(scope){ (scope||document).querySelectorAll('[data-report]').forEach(function(b){ if(b._rw) return; b._rw=1; b.addEventListener('click',function(){ openFeedback('wrong_info', b.dataset.report, 'Report wrong info', 'Wrong date, missing act, dead link — what&rsquo;s off?'); }); }); }
+    function wireSuggest(){
+      var b=document.getElementById('pf-suggest-send'); if(!b) return;
+      b.addEventListener('click',async function(){
+        var ta=document.getElementById('pf-suggest-t'); var msg=(ta&&ta.value||'').trim(); if(!msg){ if(ta) ta.focus(); return; }
+        try{ await submitFeedback('feature', msg, 'profile'); }catch(_){}
+        if(ta) ta.value=''; showToast('Thanks — noted.');
+      });
     }
     // Full gig-diary page — every logged night as the timeline (spine + venue +
     // date + artist tiles + note), reached from the dashboard's "See all" pill.
@@ -6829,8 +7019,10 @@
             var cleanTk=function(s){ return String(s||'').replace(/^\s*\d{1,2}:\d{2}(?::\d{2})?\s*[-–—.)\]]?\s*/,'').replace(/\s{2,}/g,' ').trim(); };
             box.innerHTML='<ol class="tk-list">'+tr.map(function(t,i){
               var txt=cleanTk(t.text);
-              return '<li class="tk-row"'+(t.videoId?' data-vid="'+esc(t.videoId)+'"':'')+' data-sec="'+(t.sec!=null?t.sec:'')+'" data-q="'+esc(txt)+'"><span class="tk-rank">'+(i+1)+'</span><span class="tk-tt">'+esc(txt)+'</span><span class="tk-play">'+PLAY_SVG+'</span></li>';
-            }).join('')+'</ol>';
+              return '<li class="tk-row"'+(t.videoId?' data-vid="'+esc(t.videoId)+'"':'')+' data-sec="'+(t.sec!=null?t.sec:'')+'" data-q="'+esc(txt)+'"><span class="tk-rank">'+(i+1)+'</span><span class="tk-tt">'+esc(txt)+'</span><button class="tk-add" type="button" data-add="'+i+'" aria-label="Add to playlist">＋</button><span class="tk-play">'+PLAY_SVG+'</span></li>';
+            }).join('')+'</ol>'+'<div style="padding:12px 0 2px">'+reportCue('artist:'+slug+':tracks')+'</div>';
+            box.querySelectorAll('.tk-add[data-add]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); var t=tr[+b.dataset.add]; if(t) addToPlaylist({ raw:t.text, videoId:t.videoId, sec:t.sec }); }); });
+            wireReportCues(box);
             // Queue of the timestamped tracks so the dock next/prev walks track→track (each jumps to its drop).
             var tkQ=tr.filter(function(t){ return t.videoId && t.sec!=null; }).map(function(t){ return { slug:slug, name:(a.name||slug), videoId:t.videoId, sec:t.sec, poster:a.image||'' }; });   // dock shows the artist name; prev/next still jump to each track's drop
             box.querySelectorAll('.tk-row').forEach(function(row){ row.addEventListener('click',function(){
@@ -7278,8 +7470,10 @@
           h+='<div class="fp-sec"><div class="fp-sech">Also on that night <span>same city · same date</span></div><div id="fp-ev-alsoon"></div></div>';
         }
         if(ev.venue) h+='<a class="fp-morev venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' →</a>';
+        h+='<div style="padding:18px 18px 4px">'+reportCue('event:'+id)+'</div>';
         h+='</div>';
         openPanel(h);
+        wireReportCues(document.getElementById('page-body'));
         var _canon=location.origin+SC_BASE+eventPath(id,_who,ev.venue)+'/';
         var _edesc=ev.description||((ev.title||_who||'This night')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and tickets on soundcheck.');
         setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', _edesc, musicEventLD(ev), _canon);   // MusicEvent JSON-LD (restored after the bespoke port dropped it)
@@ -7798,6 +7992,7 @@
       else if(hash.indexOf('v/')===0) openVenue(hash.slice(2), pathCitySlug()); // legacy /v/
       else if(hash.indexOf('e/')===0) openEvent(hash.slice(2));
       else if(hash.indexOf('n/')===0) openNight(hash.slice(2));
+      else if(hash.indexOf('pl/')===0) openPlaylist(hash.slice(3));
     }
     // Push a real history entry per forward navigation (pushState doesn't fire
     // popstate, so no double-render). Back/forward fire popstate → handleRoute.

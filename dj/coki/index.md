@@ -2,7 +2,7 @@
 
 Coki is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Phonox, London on Fri, 17 Jul 2026.
 
-Coki is a dubstep and bass artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 17 more. Often billed alongside SGT Pokes, Mala and Joker. Next up: Phonox, London on Fri 17 Jul.
+Coki is a dubstep and bass artist tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 17 more. Often billed alongside SGT Pokes, Loefah and Mala. Next up: Phonox, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Coki is a dubstep and bass artist tracked on soundcheck, with 50 sets logged acr
 
 ## Shares bills with
 
-SGT Pokes, Mala, Joker
+SGT Pokes, Loefah, Mala
 
 *Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*

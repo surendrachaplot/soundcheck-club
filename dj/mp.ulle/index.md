@@ -1,14 +1,15 @@
 # mp.ulle
 
-mp.ulle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
+mp.ulle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Klingemühle, Berlin on Fri, 14 Aug 2026.
 
-mp.ulle is a house and techno artist tracked on soundcheck, with 48 sets logged across Bangkok, Berlin, Hamburg and Leipzig. Often billed alongside marengo (2), DJ G1NA R. and MIDNXGHT. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
+mp.ulle is a house and techno artist tracked on soundcheck, with 49 sets logged across Bangkok, Berlin, Hamburg and Leipzig. Often billed alongside marengo (2), DJ G1NA R. and MIDNXGHT. Next up: TBA - Klingemühle, Berlin on Fri 14 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | TBA - Klingemühle | Berlin |
+| Sat, 22 Aug 2026 | Conne Island | Leipzig |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played

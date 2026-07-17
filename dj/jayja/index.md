@@ -9,8 +9,8 @@ Jayja is a house and deep house artist based in Thailand, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Siwilai Radical Club | Bangkok |
+| Fri, 24 Jul 2026 | Siwilai Radical Club | Bangkok |
 | Sat, 25 Jul 2026 | 12 x 12 | Bangkok |
-| Sat, 25 Jul 2026 | Siwilai Radical Club | Bangkok |
 | Sat, 1 Aug 2026 | Dual | Bangkok |
 
 ## Recently played

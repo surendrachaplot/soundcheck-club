@@ -1,8 +1,8 @@
 # DMC.
 
-DMC. is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
+DMC. is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Secret Location, London on Fri, 17 Jul 2026.
 
-DMC. is a house and electro artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: TBA - Secret Location, London on Fri 17 Jul.
+DMC. is a house and electro artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: TBA - Secret Location, London on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DMC. is a house and electro artist tracked on soundcheck, with 76 sets logged ac
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | TBA - Secret Location | London |
 | Sat, 1 Aug 2026 | Invisible Wind Factory | Liverpool |
+| Fri, 2 Oct 2026 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 

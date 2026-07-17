@@ -1,14 +1,14 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Secret Location, Boston on Fri, 17 Jul 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - 288 GREEN ST CAMBRIDGE - MA 02139, Boston on Fri, 17 Jul 2026.
 
-Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: TBA - Secret Location, Boston on Fri 17 Jul.
+Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: TBA - 288 GREEN ST CAMBRIDGE - MA 02139, Boston on Fri 17 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | TBA - Secret Location | Boston |
+| Fri, 17 Jul 2026 | TBA - 288 GREEN ST CAMBRIDGE - MA 02139 | Boston |
 | Sun, 19 Jul 2026 | Radius | Chicago |
 | Fri, 31 Jul 2026 | Spot X | Budapest |
 

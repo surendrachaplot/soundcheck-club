@@ -10,7 +10,7 @@ XOYO is a music venue in London listed on soundcheck. 36 upcoming nights, with l
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Jasper James, Dunmore Brothers, Rob Drake & Another George | Dunmore Brothers, Jasper James |
 | Mon, 20 Jul 2026 | MOTION Every Monday |  |
-| Wed, 22 Jul 2026 | PARADOX |  |
+| Wed, 22 Jul 2026 | PARADOX | D1 x Samir (DVS) |
 | Thu, 23 Jul 2026 | Insomnia London: Mas Que Nada Brothers, Van Damn, Mulate b2b T.O | Mas Que Nada Brothers, Van Damn |
 | Sat, 25 Jul 2026 | FASTER DnB - XOYO | DKN (1), Gui (PT), Jumping Jack Frost, Leks, MYNX, Madcap, Mantmast, Moose, Peas (2), Promo ZO, Silloh, Vektah |
 | Sat, 25 Jul 2026 | Cure presents: Kidoo, Goosey, Mojo | Goosey, Kidoo |

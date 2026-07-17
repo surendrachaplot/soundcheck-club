@@ -1,8 +1,8 @@
 # SXCL
 
-SXCL is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+SXCL is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
 
-SXCL is a house and electro artist based in France, tracked on soundcheck, with 43 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Dirty Daddy Don, Cheriii and Dreimal T. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+SXCL is a house and electro artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Dirty Daddy Don, Cheriii and Dreimal T. Next up: Ferropolis, Leipzig on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SXCL is a house and electro artist based in France, tracked on soundcheck, with 
 | Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 25 Jul 2026 | Kater | Berlin |
 | Sat, 25 Jul 2026 | Beate Uwe | Berlin |
+| Sun, 2 Aug 2026 | Maaya | Berlin |
 
 ## Recently played
 

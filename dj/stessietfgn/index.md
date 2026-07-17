@@ -9,7 +9,7 @@ Stessie Tfgn is a tech house and minimal artist based in France, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Czech Boat | Prague |
-| Sat, 25 Jul 2026 | Mystic Skatepark | Prague |
+| Sat, 25 Jul 2026 | TBA - Prague | Prague |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club Vaag, Antwerp on Sat, 18 Jul 2026.
+Gabriel Muñoz is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club Vaag, Antwerp on Sat, 18 Jul 2026.
 
-Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Bali and Brisbane and 7 more. Often billed alongside Milion, Bella Claxton and De Sluwe Vos. Next up: Club Vaag, Antwerp on Sat 18 Jul.
+Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Bella Claxton and De Sluwe Vos. Next up: Club Vaag, Antwerp on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Gabriel Muñoz is a house and techno artist tracked on soundcheck, with 32 sets 
 | Sat, 25 Jul 2026 | Lofi | Amsterdam |
 | Sun, 9 Aug 2026 | Thuishaven | Amsterdam |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
+| Sat, 29 Aug 2026 | Renate | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 
 ## Recently played

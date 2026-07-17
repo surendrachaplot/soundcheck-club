@@ -9,7 +9,7 @@ Siwilai Radical Club is a music venue in Bangkok listed on soundcheck. 3 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | SIWILAI SOUNDSYSTEM 006 | Jayja, Kunanon, MOODYBOOM |
-| Sat, 25 Jul 2026 | MUMSFILIJayja - All Night Long | Jayja, Mumsfilibaba |
+| Fri, 24 Jul 2026 | MUMSFILIJayja - All Night Long | Jayja, Mumsfilibaba |
 | Fri, 31 Jul 2026 | CLUB REGIONAL WITH DJ Co.kr | DJ Co.kr, Kunanon |
 
 ## Address

@@ -1,8 +1,8 @@
 # LYLO (NL)
 
-LYLO (NL) is a House and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
+LYLO (NL) is a House and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
 
-LYLO (NL) is a house and bass artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Mo Wrights, jannah and 36framez. Next up: Lofi, Amsterdam on Sat 18 Jul.
+LYLO (NL) is a house and bass artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Mo Wrights, Philou Louzolo and TINS. Next up: Lofi, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LYLO (NL) is a house and bass artist based in Netherlands, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Lofi | Amsterdam |
 | Sat, 18 Jul 2026 | TILLATEC | Amsterdam |
+| Sun, 19 Jul 2026 | Thuishaven | Amsterdam |
 | Fri, 31 Jul 2026 | Waterkant | Amsterdam |
 | Thu, 6 Aug 2026 | NAR | Utrecht |
 | Sat, 8 Aug 2026 | Radio Radio | Amsterdam |
@@ -28,6 +29,6 @@ LYLO (NL) is a house and bass artist based in Netherlands, tracked on soundcheck
 
 ## Shares bills with
 
-Mo Wrights, jannah, 36framez
+Mo Wrights, Philou Louzolo, TINS
 
 *Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lylonl/)*

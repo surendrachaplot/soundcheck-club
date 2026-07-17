@@ -1,8 +1,8 @@
 # Vinicius Honorio
 
-Vinicius Honorio is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
+Vinicius Honorio is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
 
-Vinicius Honorio is a techno and dub techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside R.M.K, DJ Bone and Steven Shade. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
+Vinicius Honorio is a techno and dub techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside R.M.K, DJ Bone and Steven Shade. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vinicius Honorio is a techno and dub techno artist tracked on soundcheck, with 4
 | --- | --- | --- |
 | Fri, 17 Jul 2026 | Tresor / Globus | Berlin |
 | Fri, 24 Jul 2026 | NADA Lisbon | Lisbon |
+| Sat, 8 Aug 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

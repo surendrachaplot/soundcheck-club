@@ -1,8 +1,8 @@
 # Balthazar Martinez
 
-Balthazar Martinez is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klunkerkranich, Berlin on Thu, 23 Jul 2026.
+Balthazar Martinez is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klunkerkranich, Berlin on Thu, 23 Jul 2026.
 
-Balthazar Martinez is a house and disco artist based in France, tracked on soundcheck, with 100 sets logged across Barcelona, Berlin, Paris and Strasbourg. Often billed alongside Mandel Turner, Mat Fink and Ansonica. Next up: Klunkerkranich, Berlin on Thu 23 Jul.
+Balthazar Martinez is a house and disco artist based in France, tracked on soundcheck, with 101 sets logged across Barcelona, Berlin, Paris and Strasbourg. Often billed alongside Mandel Turner, Mat Fink and Ansonica. Next up: Klunkerkranich, Berlin on Thu 23 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Balthazar Martinez is a house and disco artist based in France, tracked on sound
 | Thu, 23 Jul 2026 | Klunkerkranich | Berlin |
 | Fri, 24 Jul 2026 | Bar Neun | Berlin |
 | Sat, 8 Aug 2026 | Bar Neun | Berlin |
+| Sat, 22 Aug 2026 | Paloma | Berlin |
 
 ## Recently played
 

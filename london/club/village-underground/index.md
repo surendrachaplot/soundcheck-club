@@ -1,6 +1,6 @@
 # Village Underground
 
-Village Underground is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Origins x VU Rave: House Techno Trance" on Sat, 18 Jul 2026.
+Village Underground is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Origins x VU Free Rave: House Techno Trance" on Sat, 18 Jul 2026.
 
 Village Underground is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and Bushbaby and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
@@ -8,7 +8,7 @@ Village Underground is a music venue in London listed on soundcheck. 15 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Origins x VU Rave: House Techno Trance |  |
+| Sat, 18 Jul 2026 | Origins x VU Free Rave: House Techno Trance |  |
 | Fri, 24 Jul 2026 | Murda Beatz No Phones Tour |  |
 | Fri, 31 Jul 2026 | Foster The People presents FTP (DJ Set)  | Foster The People |
 | Sat, 22 Aug 2026 | VU Summer Free Party: Special Guests TBA |  |

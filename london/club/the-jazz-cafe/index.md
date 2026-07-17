@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 54 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "History of UK Pirate Radio: Heartless Crew & Friends (UK Garage Special)" on Fri, 17 Jul 2026.
+The Jazz Cafe is a music venue in London with 55 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "History of UK Pirate Radio: Heartless Crew & Friends (UK Garage Special)" on Fri, 17 Jul 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 54 upcoming nights, with line-ups including Adam F, AMANDA SZE, AMARI and Ata Kak and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 55 upcoming nights, with line-ups including Adam F, AMANDA SZE, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 

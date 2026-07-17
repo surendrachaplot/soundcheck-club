@@ -1,8 +1,8 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GHETTOTECHTOPIA" on Fri, 17 Jul 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GHETTOTECHTOPIA" on Fri, 17 Jul 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including The AM/AMX, AK (US), ALEX PAN and Andrés and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including The AM/AMX, AK (US), ALEX PAN and Andrés and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming nights, 
 | Sat, 25 Jul 2026 | 12 Hour Ensemble Party | Jon Dixon, Jorissen, Kate Simko, Lee Curtiss, Room 131, m.O.N.R.O.E. |
 | Sat, 1 Aug 2026 | Alternative School presents: COMPUTER LAB | BMG, Detroit In Effect, Ectomorph, Erika, JMT (2), Keith Tucker, Shawescape Renegade |
 | Fri, 14 Aug 2026 | small talk x who's asking | ALEX PAN, britty., dust (Detroit) |
+| Thu, 8 Oct 2026 | The Occasional Thursday Party with London Elektricity | London Elektricity, Pat Osiris, Roque Ybarra, XVEVESX |
 
 ## Address
 

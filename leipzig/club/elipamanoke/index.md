@@ -11,7 +11,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 9 upcoming nights,
 | Sat, 18 Jul 2026 | CIRCUS CRUSH – CSD EDITION | Atimo, KETA PERRY, MIMI404, Neptune, Nycky Estrella, Plateau Bitch, itsadisasta |
 | Wed, 22 Jul 2026 | between x Jurassic Heart | CAVVØ, Meyhartt, Raphus, SCHLAAKIII, VLUNA |
 | Fri, 24 Jul 2026 | SCORN | .koshka., Lutecia.h, SIGGI, Siggi Petrol, lutecia H |
-| Sat, 25 Jul 2026 | & with ELOS und rekursiv | DUSTNER, Jaszaloth, Mascha Roth, Skurrben, s-ray |
+| Sat, 25 Jul 2026 | & with ELOS und rekursiv | DUSTNER, Jaszaloth, Mascha Roth, Skurrben, XIMA, s-ray |
 | Wed, 29 Jul 2026 | between x Bar |  |
 | Fri, 31 Jul 2026 | Datsche #31 [indoor & outdoor] |  |
 | Sat, 1 Aug 2026 | Raving Society |  |

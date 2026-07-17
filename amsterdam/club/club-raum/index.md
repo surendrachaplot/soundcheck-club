@@ -15,7 +15,7 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights
 | Sat, 1 Aug 2026 | 12HRS Adonis x SPIELRAUM | Grace Sands, Hannah Holland, Josh Caffé, Polly F, TWIENA, Yigit |
 | Sun, 2 Aug 2026 | DKMNTL at RAUM |  |
 | Fri, 7 Aug 2026 | BASHKKA present INVIGORATE A.M | 36framez, BASHKKA, Clarisa Kimskii, Eris Drew, Juliana Huxtable |
-| Sat, 8 Aug 2026 | RAUM invites ...IsBurning x Gay Haze |  |
+| Sat, 8 Aug 2026 | RAUM invites Gay Haze ...IsBurning |  |
 | Sat, 22 Aug 2026 | RAUM invites PAX-ROMANA 12HRS | Altinbas, BELLA (NL), Delano Legito, Lara Renner, Shinedoe, Tijana T, Tripeo, Voiski |
 | Fri, 11 Sept 2026 | SPIELRAUM Weekender: Nexus opening | Alienata, Audrey Danza, Ben Sims, Bitter Babe, Blasha & Allatt, DAVE the Drummer, DJ Pete, DJ Stingray 313, Jackie Ong, Jetti, Kwartz, Magda, Mary Lake, Moopie, Om Unit, Serge, TWIENA |
 

@@ -1,8 +1,8 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at StereoBar, Montreal on Sat, 18 Jul 2026.
+Unai Trotti is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at StereoBar, Montreal on Sat, 18 Jul 2026.
 
-Unai Trotti is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: StereoBar, Montreal on Sat 18 Jul.
+Unai Trotti is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: StereoBar, Montreal on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 154 sets lo
 | Fri, 14 Aug 2026 | Palais | London |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 2 Oct 2026 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 

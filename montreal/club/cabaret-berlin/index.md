@@ -1,8 +1,8 @@
 # Cabaret Berlin
 
-Cabaret Berlin is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Cirque De Boudoir SLEAZY SUMMER CIRCUS" on Sat, 18 Jul 2026.
+Cabaret Berlin is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Cirque De Boudoir SLEAZY SUMMER CIRCUS" on Sat, 18 Jul 2026.
 
-Cabaret Berlin is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including DJ Davidé and Plastik Patrik. Browse upcoming dates, start times and who's playing. 1982 Ste-Catherine East, H2K 2H7.
+Cabaret Berlin is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including DJ Davidé and Plastik Patrik. Browse upcoming dates, start times and who's playing. 1982 Ste-Catherine East, H2K 2H7.
 
 ## What's on
 
@@ -10,6 +10,8 @@ Cabaret Berlin is a music venue in Montreal listed on soundcheck. 2 upcoming nig
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Cirque De Boudoir SLEAZY SUMMER CIRCUS | DJ Davidé |
 | Sat, 25 Jul 2026 | Pants Off Mtl | Plastik Patrik |
+| Fri, 7 Aug 2026 | FRIDAY I'm In Love ♥ 7 Août |  |
+| Sat, 8 Aug 2026 | Retrouvailles - Bar Passeport |  |
 
 ## Address
 

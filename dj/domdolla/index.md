@@ -1,8 +1,8 @@
 # Dom Dolla
 
-Dom Dolla is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 17 Jul 2026.
+Dom Dolla is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hï Ibiza, Ibiza on Fri, 17 Jul 2026.
 
-Dom Dolla is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Belfast and 28 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Hï Ibiza, Ibiza on Fri 17 Jul.
+Dom Dolla is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Barcelona and Belfast and 28 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Hï Ibiza, Ibiza on Fri 17 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dom Dolla is a house and tech house artist tracked on soundcheck, with 108 sets 
 | Fri, 24 Jul 2026 | Hï Ibiza | Ibiza |
 | Fri, 31 Jul 2026 | Hï Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Old Royal Naval College | London |
+| Sat, 1 Aug 2026 | KOKO | London |
 | Fri, 7 Aug 2026 | Hï Ibiza | Ibiza |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
 | Fri, 14 Aug 2026 | Hï Ibiza | Ibiza |
