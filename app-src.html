@@ -1036,9 +1036,6 @@
     .diary-bc svg{width:16px;height:16px;}
     .prof-head .follow-btn { flex:none; }
     /* "See more" pill under a capped shelf (wanna see / seen live cap at 18) */
-    .shelf-more { margin:14px 0 2px; display:inline-flex; align-items:center; gap:6px; padding:9px 16px; border-radius:var(--radius-pill); border:1px solid var(--border); background:transparent; color:var(--muted); font:700 var(--fs-xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; transition:border-color .12s, color .12s; -webkit-tap-highlight-color:transparent; }
-    .shelf-more:hover { border-color:var(--accent); color:var(--accent); }
-    .shelf-more .sm-n { color:var(--accent); }
     /* account = profile + settings: editable avatar + quick-action chips */
     .prof-head .av-edit { position:relative; padding:0; border:none; background:none; cursor:pointer; flex:none; -webkit-tap-highlight-color:transparent; }
     .prof-head .av-edit .cam { position:absolute; right:-2px; bottom:-2px; width:22px; height:22px; border-radius:var(--radius-pill); background:var(--accent); color:var(--ink); border:2px solid var(--bg); display:flex; align-items:center; justify-content:center; }
@@ -2790,7 +2787,7 @@
     .fp-mk:hover i{ color:var(--accent); }
     .fp-mk .fp-mph{ position:relative; }
     .fp-mk-x{ position:absolute; top:6px; right:6px; font:800 10px var(--body); letter-spacing:.02em; color:var(--accent-ink); background:var(--accent); border-radius:var(--radius-pill); padding:2px 7px; }
-    .shelf-more{ padding:16px 0 4px; }   /* the profile panel already has side padding */
+    .pf-agrid{ padding:16px 0 4px; }   /* profile artist-shelf grid — panel already has side padding */
 
     
     /* EVENT (dark) */
@@ -3056,7 +3053,7 @@
     /* Real <a> entity links: keep the element's existing look (no underline / link-blue). */
     a.nav{ text-decoration:none; color:inherit; -webkit-tap-highlight-color:transparent; }
 </style>
-<meta name="sc-build" content="1784253208762">
+<meta name="sc-build" content="1784254051149">
 </head>
 <body>
   <main class="wrap">
@@ -5558,7 +5555,7 @@
           var xb=(seen&&a.count&&a.count>=2)?'<span class="fp-mk-x">&times;'+a.count+'</span>':'';
           return '<a class="fp-mk nav" href="'+esc(djHref(a.slug))+'" data-artist="'+esc(a.slug)+'"><div class="fp-mph" style="background:'+bg+';background-size:cover;background-position:center">'+xb+'</div><i>'+esc(a.name||a.slug)+'</i>'+(sub?'<s>'+esc(sub)+'</s>':'')+'</a>';
         }).join('');
-        return '<div class="fp-more shelf-more" id="shelf-grid-'+key+'">'+tiles+'</div>';
+        return '<div class="fp-more pf-agrid" id="shelf-grid-'+key+'">'+tiles+'</div>';
       }
       var x='<div class="sec-h">Wanna see<span class="ct">'+s.wannaSee.length+'</span>'+(s.wannaSee.length?radBtn('wanna'):'')+'</div>'+grid(s.wannaSee,false,'wanna');
       x+='<div class="sec-h" style="margin-top:26px">Seen live<span class="ct">'+s.seen.length+'</span>'+(s.seen.length?radBtn('seen'):'')+'</div>'+grid(s.seen,true,'seen');
@@ -5942,7 +5939,7 @@
         var xb=(seen&&a.count&&a.count>=2)?'<span class="fp-mk-x">&times;'+a.count+'</span>':'';
         return '<a class="fp-mk nav" href="'+esc(djHref(a.slug))+'" data-artist="'+esc(a.slug)+'"><div class="fp-mph" style="background:'+bg+';background-size:cover;background-position:center">'+xb+'</div><i>'+esc(a.name||a.slug)+'</i>'+(sub?'<s>'+esc(sub)+'</s>':'')+'</a>';
       }).join('');   // show ALL — no See-more cap
-      return '<div class="fp-more shelf-more" id="pf-grid-'+id+'">'+tiles+'</div>';   // no head — the pill labels this shelf
+      return '<div class="fp-more pf-agrid" id="pf-grid-'+id+'">'+tiles+'</div>';   // no head — the pill labels this shelf
     }
     // Web Push opt-in: "an artist you follow announced a night in your city".
     // Requires the PWA service worker + VAPID key from the API; alerts are sent
