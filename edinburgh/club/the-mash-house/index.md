@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "LIKE THIS #26 - DJ Shannon NYC" on Sat, 18 Jul 2026.
+The Mash House is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "LIKE THIS #26 - DJ Shannon NYC" on Sat, 18 Jul 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including Chris Astrojazz, DJ Shannon, FOLIE (UK) and ITEM9 and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming ni
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

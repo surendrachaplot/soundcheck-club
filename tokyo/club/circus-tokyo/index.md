@@ -1,14 +1,13 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "OTO presents RAVE ALERT" on Fri, 17 Jul 2026.
+Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Goth-Trad" on Sat, 18 Jul 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Acidclank, ACKERMAN, ACKERMAN (2) and AKARI and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | OTO presents RAVE ALERT | EMILIO (3), FINYA, STRATAH, Samantha Togni, Uich, YURI VALEN, YuWa |
 | Sat, 18 Jul 2026 | Goth-Trad | A to C, Goth-Trad, Lowki, M.I.O, Nori |
 | Sun, 19 Jul 2026 | Sound Sports Original Event 'Six.' |  |
 | Mon, 20 Jul 2026 | beastboi. Tokyo show by Beginning | Aura, R1pq, RED-S, SAKO, Tekkempop!!!, Watei |
@@ -18,9 +17,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 12 upcoming nights,
 | Sat, 1 Aug 2026 | HEAVEN'S GATE Vol.8 (Techno/Breaks/Electro) | ACKERMAN, ACKERMAN (2), Acidclank, In-Character, MOOTOE, NO WAY, SLEEPY HEVD |
 | Thu, 6 Aug 2026 | CULTURE SHIT RECORDS VOL.3 | AKARI, Lui (6), SAMO (JP), Sugar and Spice, TAKENOKO, YUVIE, Yukio Nohara, ecec, nasthug |
 | Sat, 8 Aug 2026 | THE DAY OF HARDCORE 2026 | Coretex, DJ Shimamura, Dynamax, KANON (1), KYLE MIKASA, Lance (JP), M-Project, MIDI War, Mikasa, RICKY, Sonia Lagoon (2), TAIYO (3), Vital Force, egomania, riichi / we_like_180bpm |
+| Sat, 8 Aug 2026 | Que DJ | Que DJ |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

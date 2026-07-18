@@ -1,6 +1,6 @@
 # Marco Ramos
 
-Marco Ramos is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at John Doe, Amsterdam on Sat, 18 Jul 2026.
+Marco Ramos is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at John Doe, Amsterdam on Sat, 18 Jul 2026.
 
 Marco Ramos is a techno and industrial artist tracked on soundcheck, with 271 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 4 more. Often billed alongside Yunhee, Industrialyzer and Dimi Angelis. Next up: John Doe, Amsterdam on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ Marco Ramos is a techno and industrial artist tracked on soundcheck, with 271 se
 
 Yunhee, Industrialyzer, Dimi Angelis
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoramos/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoramos/)*

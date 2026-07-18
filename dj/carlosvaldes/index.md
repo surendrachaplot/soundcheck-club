@@ -1,6 +1,6 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Carlos Valdes is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 Carlos Valdes is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside TITIA, Vuur and Muallem. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Carlos Valdes is a house and techno artist tracked on soundcheck, with 140 sets 
 
 TITIA, Vuur, Muallem
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

@@ -1,6 +1,6 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+Amanda Mussi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 Amanda Mussi is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Amanda Mussi is a techno and house artist tracked on soundcheck, with 107 sets l
 
 Sept, Nick Moody, Rachel Noon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

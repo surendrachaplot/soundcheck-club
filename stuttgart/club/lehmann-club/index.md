@@ -1,14 +1,13 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "WHNZMMR SESSION" on Fri, 17 Jul 2026.
+Lehmann Club is a music venue in Stuttgart with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Vision Ekstase (Special Edition)" on Sat, 18 Jul 2026.
 
-Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, with line-ups including 2HOT2PLAY, AHURA, Bastian Hill and Ben Hille and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
+Lehmann Club is a music venue in Stuttgart listed on soundcheck. 3 upcoming nights, with line-ups including 2HOT2PLAY, AHURA, Bastian Hill and Ben Hille and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | WHNZMMR SESSION | LS41 (2), OMAKS |
 | Sat, 18 Jul 2026 | Vision Ekstase (Special Edition) | AHURA, Bennet (DE), David Löhlein, Gisura, Jannis Maxim, Katia Curie, Nazz, SYMON |
 | Fri, 24 Jul 2026 | HALBWELT | 2HOT2PLAY, DJ GUESTLIST, NIKO THE K1D, Yasmin Regisford |
 | Sat, 25 Jul 2026 | PUMP Pride Edition | Bastian Hill, Ben Hille, Ben Manson, Nazz, umbraeq |
@@ -17,4 +16,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

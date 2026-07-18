@@ -1,6 +1,6 @@
 # TBA -  Les Bêtises
 
-TBA -  Les Bêtises is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "ONFETB x Les Bêtises" on Sat, 25 Jul 2026.
+TBA -  Les Bêtises is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "ONFETB x Les Bêtises" on Sat, 25 Jul 2026.
 
 TBA -  Les Bêtises is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA -  Les Bêtises is a music venue in Paris listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | ONFETB x Les Bêtises |  |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-les-b-tises/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-les-b-tises/)*

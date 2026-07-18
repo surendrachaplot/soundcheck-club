@@ -1,6 +1,6 @@
 # スナックroots
 
-スナックroots is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "にこにこぷりん" on Sat, 12 Sept 2026.
+スナックroots is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "にこにこぷりん" on Sat, 12 Sept 2026.
 
 スナックroots is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Kaw (1). Browse upcoming dates, start times and who's playing. 2-14-18-2F Dougenzaka, Shibuya-ku, Tokyo, 150-0043.
 
@@ -14,4 +14,4 @@
 
 2-14-18-2F Dougenzaka, Shibuya-ku, Tokyo, 150-0043, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/roots/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/roots/)*

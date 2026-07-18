@@ -1,6 +1,6 @@
 # Kidcat
 
-Kidcat is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Urban Spree, Berlin on Sun, 19 Jul 2026.
+Kidcat is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Urban Spree, Berlin on Sun, 19 Jul 2026.
 
 Kidcat is a house and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Urban Spree, Berlin on Sun 19 Jul.
 
@@ -29,4 +29,4 @@ Kidcat is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

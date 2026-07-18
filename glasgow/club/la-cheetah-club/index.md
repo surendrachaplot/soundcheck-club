@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "313 Connection (Touch the sky)" on Fri, 17 Jul 2026.
+La Cheetah Club is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Through The Roof // Resident's Party  " on Sat, 18 Jul 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Boss Priester, Bristol Luke, Co-Accused and Corran and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -8,7 +8,6 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | 313 Connection (Touch the sky) |  |
 | Sat, 18 Jul 2026 | Through The Roof // Resident's Party   |  |
 | Sun, 19 Jul 2026 | KEEP ON with special guest Max Hammur | David Barbarossa, Max Hammur, OOFT |
 | Thu, 23 Jul 2026 | One Under presents: Dec Duffy | Dec Duffy |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 15 upcoming ni
 | Thu, 30 Jul 2026 | SEQUENCE x Repetitions: Chapter One | Eubo, JHNSSN, Reece Pritchard |
 | Fri, 31 Jul 2026 | Animal Farm Records presents: STONK - E.DN - Quail | E.DN, Quail, STONK |
 | Sat, 1 Aug 2026 | Glasgow Techno Alliance [Afterparty] | Co-Accused, Fear-E, Gary Beck, Kairogen, Nightwave, Posthuman, Slam |
+| Thu, 6 Aug 2026 | Sidechain Vol. 4: DRUMA, Two Brothers, Morrison and Jos.heat | DRUMA, Jos.heat |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

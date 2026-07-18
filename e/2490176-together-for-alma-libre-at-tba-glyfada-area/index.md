@@ -1,6 +1,6 @@
 # Together.For.Alma.Libre at TBA - GLYFADA AREA
 
-Together.For.Alma.Libre at TBA - GLYFADA AREA on Sat 18 Jul, Athens. 16 acts on the bill: AQUILES., Alisa Murphy, Alma Libre and EMPERØR and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Together.For.Alma.Libre at TBA - GLYFADA AREA on Sat 18 Jul, Athens. 17 acts on the bill: AQUILES., Alisa Murphy, Alma Libre and EMPERØR and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,13 +15,14 @@ Together.For.Alma.Libre at TBA - GLYFADA AREA on Sat 18 Jul, Athens. 16 acts on 
 - Alma Libre
 - EMPERØR
 - Imperium
+- KLD (1)
 - LEFTYT
 - MATEA
 - MVRU
 - Mariø
 - NAY LAA
 - OBLIVION (2)
-- Petal
+- Pètal
 - ROSHI
 - Saniter
 - Ther3min

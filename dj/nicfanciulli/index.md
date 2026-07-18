@@ -1,14 +1,13 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Santanna Mykonos, Mykonos on Fri, 17 Jul 2026.
+Nic Fanciulli is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at [UNVRS], Ibiza on Sat, 18 Jul 2026.
 
-Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Santanna Mykonos, Mykonos on Fri 17 Jul.
+Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: [UNVRS], Ibiza on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Santanna Mykonos | Mykonos |
 | Sat, 18 Jul 2026 | [UNVRS] | Ibiza |
 | Sat, 25 Jul 2026 | Ushuaïa Ibiza | Ibiza |
 | Tue, 4 Aug 2026 | Ushuaïa Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 s
 | Sat, 26 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Sat, 3 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Fri, 17 Jul 2026
 - Fitz Mallorca, Mallorca — Thu, 16 Jul 2026
 - Tapada da Ajuda, Lisbon — Sun, 12 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
@@ -30,10 +31,9 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 195 s
 - Poble Espanyol, Barcelona — Sun, 21 Jun 2026
 - [UNVRS], Ibiza — Sat, 13 Jun 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 6 Jun 2026
-- Kiesgrube, Düsseldorf — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Andrea Oliva, Raul Rodriguez, Chelina Manuhutu
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicfanciulli/)*

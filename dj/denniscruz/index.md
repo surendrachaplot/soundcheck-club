@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Dennis Cruz is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
 Dennis Cruz is a tech house and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
@@ -33,4 +33,4 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 171 set
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

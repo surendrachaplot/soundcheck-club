@@ -1,6 +1,6 @@
 # Ed Warner
 
-Ed Warner is a Electro and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Urban Spree, Berlin on Sun, 19 Jul 2026.
+Ed Warner is a Electro and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Urban Spree, Berlin on Sun, 19 Jul 2026.
 
 Ed Warner is an electro and acid artist tracked on soundcheck, with 59 sets logged across Austin, Barcelona, Berlin and London and 3 more. Often billed alongside Kinetic (2), Oriana and Andi. Next up: Urban Spree, Berlin on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Ed Warner is an electro and acid artist tracked on soundcheck, with 59 sets logg
 
 Kinetic (2), Oriana, Andi
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/edwarner/)*

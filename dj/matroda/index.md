@@ -1,6 +1,6 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+Matroda is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 Matroda is a house and tech house artist tracked on soundcheck, with 77 sets logged across Austin, Basel, Berlin and Boston and 20 more. Often billed alongside J. Worra, Mary Droppinz and Max Styler. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Matroda is a house and tech house artist tracked on soundcheck, with 77 sets log
 
 J. Worra, Mary Droppinz, Max Styler
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

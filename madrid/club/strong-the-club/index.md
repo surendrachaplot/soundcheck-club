@@ -1,6 +1,6 @@
 # Strong the Club
 
-Strong the Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "KINYXX Madrid - Fet!sh Edition" on Fri, 7 Aug 2026.
+Strong the Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "KINYXX Madrid - Fet!sh Edition" on Fri, 7 Aug 2026.
 
 Strong the Club is a music venue in Madrid listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Calle de Trujillos, 7, 28013 Madrid, España.
 
@@ -14,4 +14,4 @@ Strong the Club is a music venue in Madrid listed on soundcheck. 1 upcoming nigh
 
 Calle de Trujillos, 7, 28013 Madrid, España, Madrid
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/strong-the-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/strong-the-club/)*

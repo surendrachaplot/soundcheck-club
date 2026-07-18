@@ -1,6 +1,6 @@
 # Damz
 
-Damz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 18 Jul 2026.
+Damz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 18 Jul 2026.
 
 Damz is a techno and house artist based in Malta, tracked on soundcheck, with 57 sets logged across Malta. Often billed alongside STK (MT), INVERTED (MT) and Georg MT. Next up: Club Phoenix - Gianpula Village, Malta on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Damz is a techno and house artist based in Malta, tracked on soundcheck, with 57
 
 STK (MT), INVERTED (MT), Georg MT
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/damz/)*

@@ -1,8 +1,8 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Grant Park, Chicago on Fri, 31 Jul 2026.
+bradeazy is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Grant Park, Chicago on Fri, 31 Jul 2026.
 
-bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Barcelona, Boston and Chicago and 13 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Grant Park, Chicago on Fri 31 Jul.
+bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Austin, Barcelona, Boston and Chicago and 14 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Grant Park, Chicago on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ bradeazy is a tech house and house artist based in United States of America, tra
 | Sat, 12 Sept 2026 | Bauhaus | Houston |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
+| Fri, 16 Oct 2026 | Night We Met | Nashville |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

@@ -1,6 +1,6 @@
 # DJ Pinky Promise
 
-DJ Pinky Promise is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Edelfettwerk, Hamburg on Sat, 1 Aug 2026.
+DJ Pinky Promise is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Edelfettwerk, Hamburg on Sat, 1 Aug 2026.
 
 DJ Pinky Promise is a techno and trance artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside Carluschka, Antonym and KLARYOKO. Next up: Edelfettwerk, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ DJ Pinky Promise is a techno and trance artist based in Germany, tracked on soun
 
 Carluschka, Antonym, KLARYOKO
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpinkypromise/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djpinkypromise/)*

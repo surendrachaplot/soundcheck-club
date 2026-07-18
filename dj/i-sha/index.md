@@ -1,6 +1,6 @@
 # i-sha
 
-i-sha is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Trinity Centre, Bristol on Sun, 19 Jul 2026.
+i-sha is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Trinity Centre, Bristol on Sun, 19 Jul 2026.
 
 i-sha is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside k means, Batu and John T. Gast. Next up: The Trinity Centre, Bristol on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ i-sha is an experimental and techno artist based in United Kingdom, tracked on s
 
 k means, Batu, John T. Gast
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*

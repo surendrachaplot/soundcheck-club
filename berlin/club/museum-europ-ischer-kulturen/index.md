@@ -1,6 +1,6 @@
 # Museum Europäischer Kulturen
 
-Museum Europäischer Kulturen is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Kiezsalon with Richard Youngs, C. Lavender and Jessica Moss" on Sat, 12 Sept 2026.
+Museum Europäischer Kulturen is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Kiezsalon with Richard Youngs, C. Lavender and Jessica Moss" on Sat, 12 Sept 2026.
 
 Museum Europäischer Kulturen is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Museum Europäischer Kulturen is a music venue in Berlin listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Kiezsalon with Richard Youngs, C. Lavender and Jessica Moss |  |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/museum-europ-ischer-kulturen/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/museum-europ-ischer-kulturen/)*

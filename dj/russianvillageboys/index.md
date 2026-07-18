@@ -1,6 +1,6 @@
 # Russian Village Boys
 
-Russian Village Boys is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Russian Village Boys is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Russian Village Boys is a techno and bass artist tracked on soundcheck, with 35 sets logged across Barcelona, Basel, Berlin and Brussels and 13 more. Often billed alongside Angerfist, Hades and OMAKS. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Russian Village Boys is a techno and bass artist tracked on soundcheck, with 35 
 
 Angerfist, Hades, OMAKS
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*

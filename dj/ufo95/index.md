@@ -1,6 +1,6 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Boston on Fri, 24 Jul 2026.
+UFO95 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Boston on Fri, 24 Jul 2026.
 
 UFO95 is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Barcelona and Berlin and 49 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: TBA, Boston on Fri 24 Jul.
 
@@ -30,4 +30,4 @@ UFO95 is a techno and house artist tracked on soundcheck, with 151 sets logged a
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

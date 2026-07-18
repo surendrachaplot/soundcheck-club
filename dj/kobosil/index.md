@@ -1,14 +1,13 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
+Kobosil is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-Kobosil is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
+Kobosil is a techno and house artist tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Sala Urbana | Mexico City |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
 | Fri, 21 Aug 2026 | Klein Phönix | Istanbul |
@@ -20,9 +19,11 @@ Kobosil is a techno and house artist tracked on soundcheck, with 222 sets logged
 | Sat, 12 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | 131 Mccormack St | Toronto |
+| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 
 ## Recently played
 
+- Sala Urbana, Mexico City — Fri, 17 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
@@ -30,10 +31,9 @@ Kobosil is a techno and house artist tracked on soundcheck, with 222 sets logged
 - 8 Marvila, Lisbon — Wed, 3 Jun 2026
 - Riverside, Glasgow — Sat, 30 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
-- Valley, Berlin — Sat, 9 May 2026
 
 ## Shares bills with
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

@@ -1,6 +1,6 @@
 # MONOM
 
-MONOM is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Braths live with the Arco Luna string ensemble" on Thu, 23 Jul 2026.
+MONOM is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Braths live with the Arco Luna string ensemble" on Thu, 23 Jul 2026.
 
 MONOM is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Nadia Struiwigh. Browse upcoming dates, start times and who's playing. Nalepastraße 18, 12459 Berlin.
 
@@ -15,4 +15,4 @@ MONOM is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with l
 
 Nalepastraße 18, 12459 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monom/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/monom/)*

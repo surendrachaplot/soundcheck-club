@@ -1,6 +1,6 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Phonox, London on Sat, 25 Jul 2026.
+Egyptian Lover is a Electro and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Phonox, London on Sat, 25 Jul 2026.
 
 Egyptian Lover is an electro and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside DJ Godfather, Binh and Francesco Del Garda. Next up: Phonox, London on Sat 25 Jul.
 
@@ -35,4 +35,4 @@ Egyptian Lover is an electro and house artist tracked on soundcheck, with 86 set
 
 DJ Godfather, Binh, Francesco Del Garda
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

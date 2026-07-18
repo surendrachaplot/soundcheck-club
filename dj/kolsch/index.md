@@ -1,6 +1,6 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
 Kolsch is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
@@ -30,4 +30,4 @@ Kolsch is a techno and house artist tracked on soundcheck, with 139 sets logged 
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

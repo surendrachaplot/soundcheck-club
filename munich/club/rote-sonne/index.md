@@ -1,14 +1,13 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SURGE" on Fri, 17 Jul 2026.
+Rote Sonne is a music venue in Munich with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Lucid Glow" on Sat, 18 Jul 2026.
 
-Rote Sonne is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including ÆNN, Alicea, Arkan and Artifex (DE) and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Rote Sonne is a music venue in Munich listed on soundcheck. 11 upcoming nights, with line-ups including ÆNN, Alicea, Arkan and BURY2K and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | SURGE | Artifex (DE), LUME, Shree (2), Townes, Veer |
 | Sat, 18 Jul 2026 | Lucid Glow | Alicea, Maryline K, Upper90 |
 | Wed, 22 Jul 2026 | garry klein |  |
 | Fri, 24 Jul 2026 | supergarry klein pres. Queen of the Night Contest |  |
@@ -18,9 +17,10 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 12 upcoming nights, 
 | Sat, 1 Aug 2026 | Lucid Glow | BURY2K, ÆNN |
 | Fri, 7 Aug 2026 | Rote Sonne pres. Schimmer Records | Egotot, Isabel Soto, Jannis Maxim, Pino Peña, Pøl (1), Valeria |
 | Fri, 21 Aug 2026 | RS:Community Night pres. by Hotstuff |  |
+| Sat, 22 Aug 2026 | slippy series invites Silikon | Alicea, ELOISA, Vivienna |
 
 ## Address
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

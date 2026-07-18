@@ -1,6 +1,6 @@
 # Jason Palma
 
-Jason Palma is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bsmt 254, Toronto on Sat, 18 Jul 2026.
+Jason Palma is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bsmt 254, Toronto on Sat, 18 Jul 2026.
 
 Jason Palma is a house and funk / soul artist based in Canada, tracked on soundcheck, with 77 sets logged across Miami and Toronto. Often billed alongside Iced Misto, Yogi and Jay NuFunk. Next up: Bsmt 254, Toronto on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Jason Palma is a house and funk / soul artist based in Canada, tracked on soundc
 
 Iced Misto, Yogi, Jay NuFunk
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpalma/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonpalma/)*

@@ -1,14 +1,13 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "UNWIND vol.35" on Fri, 17 Jul 2026.
+White Space Lab is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "色・色 COLORS" on Sun, 19 Jul 2026.
 
-White Space Lab is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including AOI BLOOM, Arao, Kanamemandala and Kaori Watt and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
+White Space Lab is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including Arao, Kanamemandala, Kaori Watt and Nono THING and 2 more. Browse upcoming dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | UNWIND vol.35 | AOI BLOOM, Naoki Iwata, Tatsuo Kitagawa |
 | Sun, 19 Jul 2026 | 色・色 COLORS | Kaori Watt, Nono THING, tech-nas |
 | Thu, 30 Jul 2026 | Polynasia | Arao, NullDaSensei |
 | Sat, 8 Aug 2026 | ishin | Kanamemandala, Shun Mizuki, yugo |
@@ -17,4 +16,4 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 4 upcoming night
 
 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*

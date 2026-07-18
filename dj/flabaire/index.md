@@ -1,6 +1,6 @@
 # Flabaire
 
-Flabaire is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - North London (Secret Location), London on Sat, 18 Jul 2026.
+Flabaire is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - North London (Secret Location), London on Sat, 18 Jul 2026.
 
 Flabaire is a house and electro artist based in France, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Brussels and Lisbon and 5 more. Often billed alongside GGGG, Larry Houl and Mad Rey. Next up: TBA - North London (Secret Location), London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Flabaire is a house and electro artist based in France, tracked on soundcheck, w
 
 GGGG, Larry Houl, Mad Rey
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flabaire/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/flabaire/)*

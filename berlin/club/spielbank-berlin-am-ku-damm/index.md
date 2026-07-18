@@ -1,6 +1,6 @@
 # Spielbank Berlin am Ku'damm
 
-Spielbank Berlin am Ku'damm is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Music Lounge mit Andrés Marino" on Tue, 21 Jul 2026.
+Spielbank Berlin am Ku'damm is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Music Lounge mit Andrés Marino" on Tue, 21 Jul 2026.
 
 Spielbank Berlin am Ku'damm is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Kurfürstendamm 31, 10719 Berlin, Deutschland.
 
@@ -15,4 +15,4 @@ Spielbank Berlin am Ku'damm is a music venue in Berlin listed on soundcheck. 2 u
 
 Kurfürstendamm 31, 10719 Berlin, Deutschland, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spielbank-berlin-am-ku-damm/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spielbank-berlin-am-ku-damm/)*

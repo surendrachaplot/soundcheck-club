@@ -1,6 +1,6 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City on Sat, 18 Jul 2026.
+Lars Huismann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City on Sat, 18 Jul 2026.
 
 Lars Huismann is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Austin and Belgrade and 40 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexicocity on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Lars Huismann is a techno and house artist tracked on soundcheck, with 93 sets l
 
 SHDW, Chontane, ANNĒ
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

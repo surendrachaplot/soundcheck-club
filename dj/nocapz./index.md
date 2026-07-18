@@ -1,6 +1,6 @@
 # nocapz.
 
-nocapz. is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
+nocapz. is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
 
 nocapz. is a house and tech house artist based in Brazil, tracked on soundcheck, with 8 sets logged across Malta, Saopaulo and Washingtondc. Often billed alongside Dennis Ferrer, HoneyLuv and Aline Rocha. Next up: BERHTA, Washingtondc on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ nocapz. is a house and tech house artist based in Brazil, tracked on soundcheck,
 
 Dennis Ferrer, HoneyLuv, Aline Rocha
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nocapz./)*

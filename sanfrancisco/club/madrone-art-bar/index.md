@@ -1,6 +1,6 @@
 # Madrone Art Bar
 
-Madrone Art Bar is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Motel Club presents LET'S GO DISCO with Elado" on Sat, 25 Jul 2026.
+Madrone Art Bar is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Motel Club presents LET'S GO DISCO with Elado" on Sat, 25 Jul 2026.
 
 Madrone Art Bar is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Elado, Malachi and Motel Club. Browse upcoming dates, start times and who's playing. 500 Divisadero St, San Francisco, CA, 94117, United States.
 
@@ -14,4 +14,4 @@ Madrone Art Bar is a music venue in Sanfrancisco listed on soundcheck. 1 upcomin
 
 500 Divisadero St, San Francisco, CA, 94117, United States, San Francisco/Oakland
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madrone-art-bar/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madrone-art-bar/)*

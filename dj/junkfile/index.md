@@ -1,6 +1,6 @@
 # Junkfile
 
-Junkfile is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
+Junkfile is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
 
 Junkfile is a techno and trance artist based in Colombia, tracked on soundcheck, with 53 sets logged across Berlin, Boston, Chicago and Denver and 6 more. Often billed alongside Ramsey Neville, STE-VÍ and Saint Velez. Next up: Lark, Berlin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Junkfile is a techno and trance artist based in Colombia, tracked on soundcheck,
 
 Ramsey Neville, STE-VÍ, Saint Velez
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junkfile/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/junkfile/)*

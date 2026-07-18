@@ -1,6 +1,6 @@
 # Wildish
 
-Wildish is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
+Wildish is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tiger Yard, Cardiff on Sat, 1 Aug 2026.
 
 Wildish is a house and tech house artist tracked on soundcheck, with 3 sets logged across Amsterdam, Cardiff and London. Often billed alongside Ellia Jaya, Gaskin and BTAY. Next up: Tiger Yard, Cardiff on Sat 1 Aug.
 
@@ -16,4 +16,4 @@ Wildish is a house and tech house artist tracked on soundcheck, with 3 sets logg
 
 Ellia Jaya, Gaskin, BTAY
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*

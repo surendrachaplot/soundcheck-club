@@ -1,6 +1,6 @@
 # Metropol
 
-Metropol is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Bodies & Baddies - Berlin Pride Party with Violet Chachki" on Sat, 25 Jul 2026.
+Metropol is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bodies & Baddies - Berlin Pride Party with Violet Chachki" on Sat, 25 Jul 2026.
 
 Metropol is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Arson Fire, Blue Rose Royalty, Caramel Mafia and Estée Louder and 2 more. Browse upcoming dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -15,4 +15,4 @@ Metropol is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wit
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/metropol/)*

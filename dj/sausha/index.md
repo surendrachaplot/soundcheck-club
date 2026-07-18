@@ -1,6 +1,6 @@
 # Sausha
 
-Sausha is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at OIL Club, Shenzhen on Sat, 18 Jul 2026.
+Sausha is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OIL Club, Shenzhen on Sat, 18 Jul 2026.
 
 Sausha is a techno and club artist based in Colombia, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside FASHION (US), Via App and LSDXOXO. Next up: OIL Club, Shenzhen on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Sausha is a techno and club artist based in Colombia, tracked on soundcheck, wit
 
 FASHION (US), Via App, LSDXOXO
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sausha/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sausha/)*

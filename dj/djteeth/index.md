@@ -1,6 +1,6 @@
 # DJ TEETH
 
-DJ TEETH is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club der Visionaere, Berlin on Fri, 24 Jul 2026.
+DJ TEETH is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Club der Visionaere, Berlin on Fri, 24 Jul 2026.
 
 DJ TEETH is a techno and trance artist tracked on soundcheck, with 44 sets logged across Berlin, Bristol, London and Madrid and 6 more. Often billed alongside TPR (DE), E-Talking and Carl H. Next up: Club der Visionaere, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ DJ TEETH is a techno and trance artist tracked on soundcheck, with 44 sets logge
 
 TPR (DE), E-Talking, Carl H
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*

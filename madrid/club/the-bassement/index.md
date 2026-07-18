@@ -1,14 +1,13 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "KELLER HARD CLUB 37: 6EJOU" on Fri, 17 Jul 2026.
+The Bassement is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Laster Club presents THE CLOSING with Ben Sims, Fireground Live & Varju" on Sat, 18 Jul 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including 6EJOU, Ben Sims, DJ TOOL and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Ben Sims, DJ TOOL, DVS1 and Fireground and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | KELLER HARD CLUB 37: 6EJOU | 6EJOU, Nico Bondi, Sora Éke |
 | Sat, 18 Jul 2026 | Laster Club presents THE CLOSING with Ben Sims, Fireground Live & Varju | Ben Sims, Fireground, Varju |
 | Sat, 5 Sept 2026 | Laster Club presents THE OPENING with MARRØN, DJ TOOL & LISTZ | DJ TOOL, Liszt, MARRØN |
 | Sat, 26 Sept 2026 | Laster Club presents DVS1 invites  | DVS1, Lindsey Herbert, Metapattern |
@@ -17,4 +16,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 4 upcoming nights
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

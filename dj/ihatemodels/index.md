@@ -1,6 +1,6 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Brixton Jamm, London on Sat, 18 Jul 2026.
+I Hate Models is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Brixton Jamm, London on Sat, 18 Jul 2026.
 
 I Hate Models is a techno and house artist tracked on soundcheck, with 265 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and DYEN. Next up: Brixton Jamm, London on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist tracked on soundcheck, with 265 sets 
 
 999999999, Nico Moreno, DYEN
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

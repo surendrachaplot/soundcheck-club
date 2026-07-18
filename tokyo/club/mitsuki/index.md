@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "AFTERLIFE with Ndrx" on Fri, 17 Jul 2026.
+Mitsuki is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Timothy Really presents 'TEST #5'" on Sat, 18 Jul 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including adak7, arow, Chhabb and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including adak7, arow, Chhabb and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | AFTERLIFE with Ndrx | Ndrx, Shinsuke Goto |
 | Sat, 18 Jul 2026 | Timothy Really presents 'TEST #5' | Fatik |
 | Tue, 21 Jul 2026 | Mill H/arow/hatchcatch/Shinsuke Goto | Shinsuke Goto, arow |
 | Wed, 22 Jul 2026 | KOTSU/r1ku | KOTSU, r1ku |
@@ -22,4 +21,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with 
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

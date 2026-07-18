@@ -1,6 +1,6 @@
 # DJEFF
 
-DJEFF is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
+DJEFF is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Village du Soir, Geneva on Fri, 31 Jul 2026.
 
 DJEFF is an afro house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Village du Soir, Geneva on Fri 31 Jul.
 
@@ -29,4 +29,4 @@ DJEFF is an afro house and house artist tracked on soundcheck, with 65 sets logg
 
 Black Coffee, CLEIDO, Cincity
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*

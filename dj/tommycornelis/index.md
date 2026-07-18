@@ -1,6 +1,6 @@
 # Tommy Cornelis
 
-Tommy Cornelis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Showtime Lounge, Washington DC on Sun, 19 Jul 2026.
+Tommy Cornelis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Showtime Lounge, Washington DC on Sun, 19 Jul 2026.
 
 Tommy Cornelis is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Denver, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Joyce Lim, Baronhawk Poitier and Dean Sullivan. Next up: Showtime Lounge, Washingtondc on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Tommy Cornelis is a house and techno artist based in United States of America, t
 
 Joyce Lim, Baronhawk Poitier, Dean Sullivan
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycornelis/)*

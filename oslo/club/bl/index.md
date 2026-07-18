@@ -1,14 +1,13 @@
 # Blå
 
-Blå is a music venue in Oslo with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "DJ Ibon & Suvatne" on Fri, 17 Jul 2026.
+Blå is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Fredfades (Tøyen Holding)" on Sat, 18 Jul 2026.
 
-Blå is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with line-ups including DJ IBON, DJ Sprinter, Egyptian Lover and Frantzvaag and 2 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
+Blå is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including DJ Sprinter, Egyptian Lover, Frantzvaag and Fredfades and 2 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | DJ Ibon & Suvatne | DJ IBON |
 | Sat, 18 Jul 2026 | Fredfades (Tøyen Holding) | Fredfades |
 | Fri, 24 Jul 2026 | Frantzvaag / BLÅ | Frantzvaag |
 | Fri, 31 Jul 2026 | Annette K (Purpurrpurple) |  |
@@ -22,4 +21,4 @@ Blå is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with line
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

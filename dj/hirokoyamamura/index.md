@@ -1,6 +1,6 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+Hiroko Yamamura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 151 set
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

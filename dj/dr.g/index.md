@@ -1,6 +1,6 @@
 # Dr. G
 
-Dr. G is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
+Dr. G is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
 
 Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Brussels and Ghent and 7 more. Often billed alongside Cleopard2000, EMILIJA and Fenrick. Next up: Fuse, Brussels on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, wit
 
 Cleopard2000, EMILIJA, Fenrick
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.g/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.g/)*

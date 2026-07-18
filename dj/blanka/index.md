@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 18 Jul 2026.
+BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tanzhaus West, Frankfurt on Sat, 18 Jul 2026.
 
 BLANKA is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Tanzhaus West, Frankfurt on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ BLANKA is a techno and house artist tracked on soundcheck, with 134 sets logged 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

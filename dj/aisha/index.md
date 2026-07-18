@@ -1,6 +1,6 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 24 Jul 2026.
+AISHA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 24 Jul 2026.
 
 AISHA is a techno and trance artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside franck, Azyr and Faster Horses. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ AISHA is a techno and trance artist tracked on soundcheck, with 142 sets logged 
 
 franck, Azyr, Faster Horses
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*

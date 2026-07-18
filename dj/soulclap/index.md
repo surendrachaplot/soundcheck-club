@@ -1,6 +1,6 @@
 # Soul Clap
 
-Soul Clap is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Bridge, Los Angeles on Sat, 18 Jul 2026.
+Soul Clap is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Bridge, Los Angeles on Sat, 18 Jul 2026.
 
 Soul Clap is a house and disco artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 27 more. Often billed alongside DJ Minx, Stacey Pullen and LADYMONIX. Next up: The Bridge, Losangeles on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Soul Clap is a house and disco artist tracked on soundcheck, with 155 sets logge
 
 DJ Minx, Stacey Pullen, LADYMONIX
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*

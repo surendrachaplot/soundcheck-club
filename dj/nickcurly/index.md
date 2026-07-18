@@ -1,14 +1,13 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 17 Jul 2026.
+Nick Curly is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Club Vinyl, Denver on Sat, 25 Jul 2026.
 
-Nick Curly is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 17 Jul.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Auckland and Bali and 37 more. Often billed alongside Andrew Azara, Easttown and Reboot. Next up: Club Vinyl, Denver on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Sat, 25 Jul 2026 | Club Vinyl | Denver |
 | Fri, 31 Jul 2026 | Floyd | Miami |
 | Sat, 1 Aug 2026 | Flash | Washington DC |
@@ -21,6 +20,7 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 105 sets
 
 ## Recently played
 
+- Playa Soleil & Bora Bora, Ibiza — Fri, 17 Jul 2026
 - Sacré, Paris — Fri, 10 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 9 Jul 2026
 - Manko Athens, Athens — Sun, 5 Jul 2026
@@ -28,10 +28,9 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 105 sets
 - Bosc Tancat / Diverbosc, Barcelona — Sat, 20 Jun 2026
 - Playa Soleil Ibiza, Ibiza — Fri, 19 Jun 2026
 - CDLC Barcelona, Barcelona — Thu, 18 Jun 2026
-- Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Andrew Azara, Easttown, Reboot
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

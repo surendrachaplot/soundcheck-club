@@ -1,14 +1,13 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Loidis is a Techno and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
-Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Skee Mask and Vlada. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Skee Mask and Vlada. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sat, 1 Aug 2026 | TBA - Secret Location | New York City |
 | Sat, 15 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -18,6 +17,7 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged
 
 ## Recently played
 
+- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Centro Cultural Conde Duque, Madrid — Fri, 12 Jun 2026
 - H0L0, New York City — Sat, 6 Jun 2026
 - Nowadays, New York City — Fri, 22 May 2026
@@ -25,10 +25,9 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged
 - Barn Radio, Portland — Sat, 18 Apr 2026
 - TBA, Vancouver — Fri, 17 Apr 2026
 - Floyd, Miami — Sat, 11 Apr 2026
-- Good Room, New York City — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 DJ Python, Skee Mask, Vlada
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

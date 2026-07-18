@@ -1,6 +1,6 @@
 # Animal Trainer
 
-Animal Trainer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 18 Jul 2026.
+Animal Trainer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 18 Jul 2026.
 
 Animal Trainer is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside ACID FLORA, Anthik and Dejan. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Animal Trainer is a house and techno artist tracked on soundcheck, with 68 sets 
 
 ACID FLORA, Anthik, Dejan
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*

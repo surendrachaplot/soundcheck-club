@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 51 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "MILLIAMPERE presents ' Makina's still kicking ' /w Xavi Metralla & Skudero, 1luu, LØUS and more" on Fri, 17 Jul 2026.
+Lokschuppen Berlin is a music venue in Berlin with 50 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase" on Sat, 18 Jul 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 51 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 9LALEY and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 50 upcoming nights, with line-ups including 3LEEZA, 4NOUK, 9LALEY and NYRA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | MILLIAMPERE presents ' Makina's still kicking ' /w Xavi Metralla & Skudero, 1luu, LØUS and more | 1luu, Athina, DJ Skudero, Ema Leo, FEROTONINO, Florelle, LØUS, Pixie Dust, QUINCE (2), Xavi Metralla, YËDM |
 | Sat, 18 Jul 2026 | Act Like Adults /w DJ SPORTSCHUH, MCYL & I Love Modus Showcase | Benleh, Bruno Brero, DJ Jetset, DJ SPORTSCHUH, GI.O, Lisek, MCYL, MILANCHOLIE, Maschérie, NSLZ, OnlyWithYou, Pleasant Michelle, Zukunftsfritze, djvonnebenan |
 | Sat, 18 Jul 2026 | LAPSUS MATINEE |  |
 | Sun, 19 Jul 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | Danilo Filipe, La Rod's |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 51 upcoming 
 | Thu, 23 Jul 2026 | Chantal's House of Shame |  |
 | Fri, 24 Jul 2026 | Trancecore Open Air with SZG, Riana Holley, Brent Honey, NORO$T, Glen West and many more | August Kind, Brent Honey, FEROTONINO, GMOZ, Glen West, Jesse Taylor, Pleasant Michelle, Riana Holley, SZG, nordcorreia.mp3 |
 | Sat, 25 Jul 2026 | GOAT BALL x Lokschuppen: CSD AFTERPARTY + TRUCK  | A.N.I., ALYOSHA, ANDATA, ANDHRAY, Cobb Douglas, Crystal O, Daniella da Silva, Hang The DJs, Joey (2), Johænsson, Maryline K, Nettta, STABILINDA, SaltySis, Shanixx, Stinny Stone, TERRA TWIINS, YOVA, two girls one mom |
+| Sat, 25 Jul 2026 | LAPSUS MATINEE |  |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

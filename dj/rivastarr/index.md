@@ -1,14 +1,13 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Superordinary, Brisbane on Fri, 17 Jul 2026.
+Riva Starr is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Timber Yard, Melbourne on Sat, 18 Jul 2026.
 
-Riva Starr is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Superordinary, Brisbane on Fri 17 Jul.
+Riva Starr is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: The Timber Yard, Melbourne on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Superordinary | Brisbane |
 | Sat, 18 Jul 2026 | The Timber Yard | Melbourne |
 | Sat, 25 Jul 2026 | White Bay Power Station | Sydney |
 | Fri, 14 Aug 2026 | Amnesia Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 75 sets 
 
 ## Recently played
 
+- Superordinary, Brisbane — Fri, 17 Jul 2026
 - Sunnyside Pavilion, Toronto — Sat, 11 Jul 2026
 - TBA - 1800 Ocean Front Walk, Venice , Los Angeles — Fri, 10 Jul 2026
 - Basement, Amsterdam — Sat, 13 Jun 2026
@@ -25,10 +25,9 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 75 sets 
 - 77, London — Fri, 24 Apr 2026
 - TBA - The Loading Dock 4200 W. Diversey, Chicago — Sat, 18 Apr 2026
 - Sunshine Grove, Miami — Thu, 19 Mar 2026
-- Rex Club, Paris — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Lowsteppa, Armand Van Helden, Paige Tomlinson
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

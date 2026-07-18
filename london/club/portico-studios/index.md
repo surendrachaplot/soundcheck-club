@@ -1,6 +1,6 @@
 # Portico Studios
 
-Portico Studios is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Wiggle Room's Day2Nite Party w/ Marcus Waxx & Izzy" on Sat, 18 Jul 2026.
+Portico Studios is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Wiggle Room's Day2Nite Party w/ Marcus Waxx & Izzy" on Sat, 18 Jul 2026.
 
 Portico Studios is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including becks (2), Easily Pleased, elshazly and Marcus Waxx and 1 more. Browse upcoming dates, start times and who's playing. 6 Beadman St, West Norwood, London, SE27 0DN, United Kingdom.
 
@@ -15,4 +15,4 @@ Portico Studios is a music venue in London listed on soundcheck. 2 upcoming nigh
 
 6 Beadman St, West Norwood, London, SE27 0DN, United Kingdom, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/portico-studios/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/portico-studios/)*

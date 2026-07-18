@@ -1,14 +1,13 @@
 # Homage Brewing
 
-Homage Brewing is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "He + She Music Factory" on Fri, 17 Jul 2026.
+Homage Brewing is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Slow Jamz Takeover" on Sat, 18 Jul 2026.
 
-Homage Brewing is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Avi Loud, Dance Maniacs, DJ LIGMA and Gay Felony and 2 more. Browse upcoming dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
+Homage Brewing is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Avi Loud, Dance Maniacs, DJ LIGMA and Hashman Deejay and 2 more. Browse upcoming dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | He + She Music Factory | Gay Felony, Pretty Gay Friendly |
 | Sat, 18 Jul 2026 | Slow Jamz Takeover |  |
 | Fri, 24 Jul 2026 | Groovers Ball: 3 YEAR ANNIVERSRY (ft. Dance Maniacs, DJ LIGMA, & Oscar Osorio) | Avi Loud, DJ LIGMA, Dance Maniacs, Liano, Oak City Slums, Oscar Osorio |
 | Sat, 25 Jul 2026 | Clink Takeover |  |
@@ -18,4 +17,4 @@ Homage Brewing is a music venue in Losangeles listed on soundcheck. 5 upcoming n
 
 1219 N Main St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*

@@ -1,14 +1,13 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "KOLLEGIAL pres. by BSTHP - free entry until 9PM" on Fri, 17 Jul 2026.
+Ritter Butzke is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Format:B (Open Air) - free entry until 7pm" on Sat, 18 Jul 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Aaron Suiss, Alma Negrot, BEC and Ben Mono and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Aaron Suiss, Alma Negrot, BEC and Ben Mono and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | KOLLEGIAL pres. by BSTHP - free entry until 9PM | Bombata, Cyrus, David Bucka, LIZZN, Pardis, Peet Flower, justUS |
 | Sat, 18 Jul 2026 | Format:B (Open Air) - free entry until 7pm | C'mon, Dydaa Forne, Format B, MINJA |
 | Sat, 18 Jul 2026 | Enamour | Calypsis, Enamour |
 | Sun, 19 Jul 2026 | Alison Wonderland (Daytime Event) | Ben Mono |
@@ -18,9 +17,10 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 25 upcoming night
 | Sat, 1 Aug 2026 | Foster The People presents FTP (DJ Set) - Ritter Butzke - 01.08.2026 | Foster The People |
 | Sat, 8 Aug 2026 | ZERB |  |
 | Sat, 8 Aug 2026 | Eli & Fur pres Dreams at Dusk (Open Air) | Eli & Fur |
+| Fri, 14 Aug 2026 | Keep My Letters | Hyunji-A, Max Hendricks, Rikken, Simon Vuarambon, Tantum |
 
 ## Address
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

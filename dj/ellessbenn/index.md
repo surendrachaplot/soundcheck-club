@@ -1,6 +1,6 @@
 # Elless & Benn
 
-Elless & Benn is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Desterro, Lisbon on Sat, 18 Jul 2026.
+Elless & Benn is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Desterro, Lisbon on Sat, 18 Jul 2026.
 
 Elless & Benn are a techno and electronica duo based in Portugal, tracked on soundcheck, with 48 sets logged across Lisbon and Stockholm. Often billed alongside Mary B (2), Guigas and Daniel Lien. Next up: Desterro, Lisbon on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Elless & Benn are a techno and electronica duo based in Portugal, tracked on sou
 
 Mary B (2), Guigas, Daniel Lien
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellessbenn/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ellessbenn/)*

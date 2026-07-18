@@ -1,14 +1,13 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GABA collective presents: AM [rio'99]" on Fri, 17 Jul 2026.
+Salon Daomé is a music venue in Montreal with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Nathan Burns / Guillaume Michaud" on Sat, 18 Jul 2026.
 
-Salon Daomé is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Akpossoul, Chez Damier, Damacadam and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
+Salon Daomé is a music venue in Montreal listed on soundcheck. 8 upcoming nights, with line-ups including Akpossoul, Chez Damier, DJ Perception and Don Barbarino and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | GABA collective presents: AM [rio'99] | Damacadam, Opposite Direktion, Pelo |
 | Sat, 18 Jul 2026 | Nathan Burns / Guillaume Michaud | Guillaume Michaud, Nathan Burns |
 | Thu, 23 Jul 2026 | Salon D'Illusion - Husa Sounds | Salomé (CA) |
 | Fri, 24 Jul 2026 | Chez Damier / Ohm Hourani | Chez Damier, Ohm Hourani |
@@ -22,4 +21,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 9 upcoming night
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

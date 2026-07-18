@@ -1,6 +1,6 @@
 # Tatyana Jane
 
-Tatyana Jane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Gravière, Geneva on Fri, 24 Jul 2026.
+Tatyana Jane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Gravière, Geneva on Fri, 24 Jul 2026.
 
 Tatyana Jane is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Busy P, Skrillex and Flowdan. Next up: La Gravière, Geneva on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Tatyana Jane is a techno and house artist tracked on soundcheck, with 74 sets lo
 
 Busy P, Skrillex, Flowdan
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tatyanajane/)*

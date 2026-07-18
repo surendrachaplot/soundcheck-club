@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ROUTiN3" on Fri, 17 Jul 2026.
+Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "VENEZUELA EARTHQUAKE FUNDRAISER" on Sat, 18 Jul 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ALEX WANG, Alys, Andrea Ludovic and Antuum and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -8,7 +8,6 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | ROUTiN3 | ESHAUSTED, Jotadelli, sin serif |
 | Sat, 18 Jul 2026 | VENEZUELA EARTHQUAKE FUNDRAISER | AVtØmaty, Andrea Ludovic, Cashu, DJ Strawberry, Dj Quien, LUNA LIAS, Opium Hum, Sofaloader |
 | Sun, 19 Jul 2026 | Fertig | Antuum, Arni Vector, Ay Lak, Lü (Luis Küffner) |
 | Fri, 24 Jul 2026 | FOOLHARD | Gadutra, kupalua |
@@ -18,9 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with 
 | Sat, 8 Aug 2026 | EEE | ALEX WANG, Assyouti, Kilo Vee, Ziúr, bela |
 | Sat, 8 Aug 2026 | CALENTURA VINYL ALL STARS Vol. 2 | PAULAH, Simón JaVa, eÑe (1) |
 | Sat, 22 Aug 2026 | NOFUTURE 6 YEARS ANNIVERSARY | Dj Hidrataccioni, PAULAH, Paulawar, Some Guest, entecaliente |
+| Wed, 9 Sept 2026 | CONTAGIOUS - BEING album release concert | CONTAGIOUS, Mieko Suzuki, Rabih Beaini |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

@@ -1,6 +1,6 @@
 # Alessandro Adriani
 
-Alessandro Adriani is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Forte Antenne, Rome on Sun, 19 Jul 2026.
+Alessandro Adriani is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Forte Antenne, Rome on Sun, 19 Jul 2026.
 
 Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: Forte Antenne, Rome on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 92 set
 
 Tasha Safari, Franz Scala, The Hacker
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*

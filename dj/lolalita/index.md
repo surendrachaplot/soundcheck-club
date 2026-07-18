@@ -1,6 +1,6 @@
 # Lolalita
 
-Lolalita is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Provitreff, Zurich on Sat, 18 Jul 2026.
+Lolalita is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Provitreff, Zurich on Sat, 18 Jul 2026.
 
 Lolalita is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside myu:sa, waltur and LØUS. Next up: Provitreff, Zurich on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Lolalita is a techno and hardcore artist based in Belgium, tracked on soundcheck
 
 myu:sa, waltur, LØUS
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolalita/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lolalita/)*

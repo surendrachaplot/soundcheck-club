@@ -1,6 +1,6 @@
 # Andy Baxter
 
-Andy Baxter is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 1 Aug 2026.
+Andy Baxter is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 528 Ibiza, Ibiza on Sat, 1 Aug 2026.
 
 Andy Baxter is a house and techno artist based in Spain, tracked on soundcheck, with 31 sets logged across Ibiza. Often billed alongside Jason Bye, Marshall Jefferson and Claptone. Next up: 528 Ibiza, Ibiza on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Andy Baxter is a house and techno artist based in Spain, tracked on soundcheck, 
 
 Jason Bye, Marshall Jefferson, Claptone
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andybaxter/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andybaxter/)*

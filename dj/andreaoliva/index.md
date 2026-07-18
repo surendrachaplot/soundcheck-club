@@ -1,6 +1,6 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 19 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at [UNVRS], Ibiza on Sun, 19 Jul 2026.
+Andrea Oliva is a Tech House and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at [UNVRS], Ibiza on Sun, 19 Jul 2026.
 
 Andrea Oliva is a tech house and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: [UNVRS], Ibiza on Sun 19 Jul.
 
@@ -36,4 +36,4 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 197 se
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

@@ -1,6 +1,6 @@
 # Ego Death at TBA - w00t
 
-Ego Death at TBA - w00t on Sat 22 Aug, Chicago. Bass and Acid. Preview the line-up and save it on soundcheck.
+Ego Death at TBA - w00t on Sat 22 Aug, Chicago. Acid and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

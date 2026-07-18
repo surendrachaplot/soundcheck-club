@@ -1,6 +1,6 @@
 # K1ng Arthur
 
-K1ng Arthur is a Garage and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ramona, Manchester on Sat, 25 Jul 2026.
+K1ng Arthur is a Garage and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Ramona, Manchester on Sat, 25 Jul 2026.
 
 K1ng Arthur is a garage and tech house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across London and Manchester. Often billed alongside Jacob Friday, Maddra dj and Celdred. Next up: Ramona, Manchester on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ K1ng Arthur is a garage and tech house artist based in United Kingdom, tracked o
 
 Jacob Friday, Maddra dj, Celdred
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ngarthur/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ngarthur/)*

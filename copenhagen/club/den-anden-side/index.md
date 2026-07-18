@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Pater Noster" on Fri, 17 Jul 2026.
+Den Anden Side is a music venue in Copenhagen with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "GAGxDAS: XXXIII" on Sat, 18 Jul 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Adexia, Alegrando, Alexander Santana and Ani Kvirkvelia and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming nights, with line-ups including Adexia, Alegrando, Alexander Santana and Ani Kvirkvelia and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Pater Noster | Britney Speed, Hugo, Kristian Andersen, Matriark, Peachlyfe |
 | Sat, 18 Jul 2026 | GAGxDAS: XXXIII | Alexander Santana, DRAHO, Levant, Pamela Svart, Paula Koski, dj Joe |
 | Fri, 24 Jul 2026 | Order of Magnitude with Derango & Mussy Moody | Filen |
 | Sat, 25 Jul 2026 | UNIT ZERO #2 | Ctrls, Evvolita, Kallax, Milo Makua |
@@ -23,4 +22,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

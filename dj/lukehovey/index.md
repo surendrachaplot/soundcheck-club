@@ -1,6 +1,6 @@
 # Luke Hovey
 
-Luke Hovey is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 19 Jul 2026.
+Luke Hovey is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Revolver Upstairs, Melbourne on Sun, 19 Jul 2026.
 
 Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Hobart and Melbourne and 2 more. Often billed alongside Black Dave, franck and Emma Moon. Next up: Revolver Upstairs, Melbourne on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets log
 
 Black Dave, franck, Emma Moon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*

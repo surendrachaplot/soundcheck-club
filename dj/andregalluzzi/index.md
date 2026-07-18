@@ -1,6 +1,6 @@
 # André Galluzzi
 
-André Galluzzi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Les Enfants Brillants, Barcelona on Sat, 18 Jul 2026.
+André Galluzzi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Les Enfants Brillants, Barcelona on Sat, 18 Jul 2026.
 
 André Galluzzi is a house and techno artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Les Enfants Brillants, Barcelona on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ André Galluzzi is a house and techno artist tracked on soundcheck, with 69 sets
 
 Sven Vath, Maurizio Schmitz, Dana Ruh
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*

@@ -1,6 +1,6 @@
 # Yela
 
-Yela is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at C12, Brussels on Sat, 18 Jul 2026.
+Yela is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at C12, Brussels on Sat, 18 Jul 2026.
 
 Yela is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Berlin and Boston and 8 more. Often billed alongside Hofmann (BE), Hofmann and Daan Donk. Next up: C12, Brussels on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Yela is a house and minimal artist based in United Kingdom, tracked on soundchec
 
 Hofmann (BE), Hofmann, Daan Donk
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yela-uk/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yela-uk/)*

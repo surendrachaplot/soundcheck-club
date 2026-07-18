@@ -1,6 +1,6 @@
 # DJ Frog
 
-DJ Frog is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Arch 535, London on Fri, 24 Jul 2026.
+DJ Frog is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Arch 535, London on Fri, 24 Jul 2026.
 
 DJ Frog is a techno and house artist based in Canada, tracked on soundcheck, with 42 sets logged across Brussels, London, Montreal and Newyorkcity and 3 more. Often billed alongside DJ Spence, PLO Man and Excalibur. Next up: Arch 535, London on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ DJ Frog is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 DJ Spence, PLO Man, Excalibur
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrog/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrog/)*

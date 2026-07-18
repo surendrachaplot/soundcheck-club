@@ -1,6 +1,6 @@
 # Kudeki
 
-Kudeki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fvtvr, Paris on Sat, 18 Jul 2026.
+Kudeki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fvtvr, Paris on Sat, 18 Jul 2026.
 
 Kudeki is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Berlin, Detroit, Leipzig and Losangeles and 5 more. Often billed alongside Torsion, Fawks and monosym. Next up: Fvtvr, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Kudeki is a techno and house artist based in United States of America, tracked o
 
 Torsion, Fawks, monosym
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kudeki/)*

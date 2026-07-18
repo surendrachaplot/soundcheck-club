@@ -1,6 +1,6 @@
 # dBridge
 
-dBridge is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Garage Noord, Amsterdam on Sat, 18 Jul 2026.
+dBridge is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Garage Noord, Amsterdam on Sat, 18 Jul 2026.
 
 dBridge is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Boston and Brighton and 29 more. Often billed alongside SP:MC, DjRUM and Kia (AU). Next up: Garage Noord, Amsterdam on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ dBridge is a drum & bass and techno artist based in United Kingdom, tracked on s
 
 SP:MC, DjRUM, Kia (AU)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*

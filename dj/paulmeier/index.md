@@ -1,6 +1,6 @@
 # Paul Meier
 
-Paul Meier is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 25 Jul 2026.
+Paul Meier is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 25 Jul 2026.
 
 Paul Meier is a trance and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Basel, Berlin, Cologne and Ghent and 4 more. Often billed alongside 3LEEZA, KLING&KLANG and Alex Friday. Next up: La Machine Du Moulin Rouge, Paris on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Paul Meier is a trance and techno artist based in Germany, tracked on soundcheck
 
 3LEEZA, KLING&KLANG, Alex Friday
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmeier/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmeier/)*

@@ -1,14 +1,13 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at E1, London on Fri, 17 Jul 2026.
+DJ GUESTLIST is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lehmann Club, Stuttgart on Fri, 24 Jul 2026.
 
-DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: E1, London on Fri 17 Jul.
+DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Lehmann Club, Stuttgart on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | E1 | London |
 | Fri, 24 Jul 2026 | Lehmann Club | Stuttgart |
 | Sat, 1 Aug 2026 | TBA - Peißnitzinsel Halle | Leipzig |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
@@ -20,6 +19,7 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets 
 
 ## Recently played
 
+- E1, London — Fri, 17 Jul 2026
 - Tanzhaus West, Frankfurt — Fri, 3 Jul 2026
 - Revierpark Wischlingen, Dortmund, Cologne — Sun, 24 May 2026
 - TBA - Tägi Wettingen, Zurich — Sat, 23 May 2026
@@ -27,10 +27,9 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 124 sets 
 - Le point fort d'Aubervilliers, Paris — Sat, 16 May 2026
 - Uebel & Gefährlich, Hamburg — Fri, 8 May 2026
 - Studio Citygate, Brussels — Fri, 27 Mar 2026
-- AUX Club, Athens — Tue, 24 Mar 2026
 
 ## Shares bills with
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

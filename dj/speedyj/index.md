@@ -1,6 +1,6 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Speedy J is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Speedy J is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -30,4 +30,4 @@ Speedy J is a techno and house artist tracked on soundcheck, with 129 sets logge
 
 SPEEDY, Chris Liebing, FJAAK
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*

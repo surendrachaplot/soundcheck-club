@@ -1,6 +1,6 @@
 # Alexander Paulski
 
-Alexander Paulski is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Neulich am Flughafen, Berlin on Sat, 1 Aug 2026.
+Alexander Paulski is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Neulich am Flughafen, Berlin on Sat, 1 Aug 2026.
 
 Alexander Paulski is a house and disco artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Rafa Paella, Eren (2) and ALKARLINE. Next up: Neulich am Flughafen, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Alexander Paulski is a house and disco artist based in Germany, tracked on sound
 
 Rafa Paella, Eren (2), ALKARLINE
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderpaulski/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderpaulski/)*

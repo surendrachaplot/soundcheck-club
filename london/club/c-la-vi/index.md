@@ -1,6 +1,6 @@
 # CÉ LA VI
 
-CÉ LA VI is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "FREQUENCIES by CÉ LA VI" on Sat, 25 Jul 2026.
+CÉ LA VI is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "FREQUENCIES by CÉ LA VI" on Sat, 25 Jul 2026.
 
 CÉ LA VI is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Dunmore Brothers and VARGO. Browse upcoming dates, start times and who's playing. 1 PADDINGTON SQUARE  17th & 18th Floor, London England, W2 1DL.
 
@@ -14,4 +14,4 @@ CÉ LA VI is a music venue in London listed on soundcheck. 1 upcoming night, wit
 
 1 PADDINGTON SQUARE  17th & 18th Floor, London England, W2 1DL, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/c-la-vi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/c-la-vi/)*

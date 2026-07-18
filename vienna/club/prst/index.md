@@ -1,14 +1,13 @@
 # PRST
 
-PRST is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BLUR" on Fri, 17 Jul 2026.
+PRST is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "PARK IT HERE SUMMER EDITION" on Sat, 18 Jul 2026.
 
-PRST is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including BAUGRUPPE90, C.Love (2), CHERCHES and Chris Freud and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
+PRST is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including BAUGRUPPE90, C.Love (2), CHERCHES and COBRA and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | BLUR | Chris Freud, David Radi, Manuel Petrik, Matthias Kaiser, Veronika Amie |
 | Sat, 18 Jul 2026 | PARK IT HERE SUMMER EDITION | CHERCHES, COBRA, KEEO.FM, Meg10 |
 | Fri, 24 Jul 2026 | Amore AG x REDIVIDER pres. D.TIFFANY | D. Tiffany, DJ Deadlift, DJ Sprudel, DREYA, Julia Goldfarb, Rayya |
 | Fri, 7 Aug 2026 | Cybertribe invites BAUGRUPPE90 [BLN] | BAUGRUPPE90, Eminelli, Spud Bencer, VOLTMARIE, Violetta (1), ninon. |
@@ -21,4 +20,4 @@ PRST is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

@@ -1,6 +1,6 @@
 # Solomun
 
-Solomun is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Pacha Ibiza, Ibiza on Sun, 19 Jul 2026.
+Solomun is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Pacha Ibiza, Ibiza on Sun, 19 Jul 2026.
 
 Solomun is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: Pacha Ibiza, Ibiza on Sun 19 Jul.
 
@@ -36,4 +36,4 @@ Solomun is a techno and house artist tracked on soundcheck, with 184 sets logged
 
 Chloé Caillet, DJ Tennis, Johannes Brecht
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

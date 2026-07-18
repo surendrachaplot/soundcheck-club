@@ -1,6 +1,6 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "DALI SF" on Fri, 24 Jul 2026.
+Halcyon is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "DALI SF" on Fri, 24 Jul 2026.
 
 Halcyon is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including IZIK and MONĪ. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
@@ -14,4 +14,4 @@ Halcyon is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night,
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

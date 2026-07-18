@@ -1,6 +1,6 @@
 # Café Cabron
 
-Café Cabron is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "13 YEARS OF CABRON" on Sun, 19 Jul 2026.
+Café Cabron is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "13 YEARS OF CABRON" on Sun, 19 Jul 2026.
 
 Café Cabron is a music venue in Antwerp listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Café Cabron is a music venue in Antwerp listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | 13 YEARS OF CABRON |  |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/caf-cabron/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/caf-cabron/)*

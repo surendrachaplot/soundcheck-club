@@ -1,6 +1,6 @@
 # Fairmount Theatre
 
-Fairmount Theatre is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Elder Island - Montréal" on Mon, 5 Oct 2026.
+Fairmount Theatre is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Elder Island - Montréal" on Mon, 5 Oct 2026.
 
 Fairmount Theatre is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including Elder Island. Browse upcoming dates, start times and who's playing. 5240 Park Ave, Montreal, Quebec H2V 4G7.
 
@@ -14,4 +14,4 @@ Fairmount Theatre is a music venue in Montreal listed on soundcheck. 1 upcoming 
 
 5240 Park Ave, Montreal, Quebec H2V 4G7, Montreal
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*

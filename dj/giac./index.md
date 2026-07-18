@@ -1,6 +1,6 @@
 # giac.
 
-giac. is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
+giac. is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed, 12 Aug 2026.
 
 giac. is a house and electro artist tracked on soundcheck, with 45 sets logged across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: TBA - Rasquera, Terres de l'Ebre, provincia de Tarragona, Barcelona on Wed 12 Aug.
 
@@ -26,4 +26,4 @@ giac. is a house and electro artist tracked on soundcheck, with 45 sets logged a
 
 Swann, Martini Raw, Pau Rosés
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*

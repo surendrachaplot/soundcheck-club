@@ -1,6 +1,6 @@
 # Luke Mele
 
-Luke Mele is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 18 Jul 2026.
+Luke Mele is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 18 Jul 2026.
 
 Luke Mele is an electronica and techno artist tracked on soundcheck, with 14 sets logged across Losangeles and Philadelphia. Often billed alongside Kaleb Marshall, Max Ellington and J.dB. Next up: TBA - Downtown LA, Losangeles on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Luke Mele is an electronica and techno artist tracked on soundcheck, with 14 set
 
 Kaleb Marshall, Max Ellington, J.dB
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*

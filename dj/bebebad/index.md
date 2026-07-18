@@ -1,6 +1,6 @@
 # bebe bad
 
-bebe bad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
+bebe bad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
 
 bebe bad is a house and techno artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside BELLA (NL), SAIDAH and TINS. Next up: Lofi, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ bebe bad is a house and techno artist based in Netherlands, tracked on soundchec
 
 BELLA (NL), SAIDAH, TINS
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bebebad/)*

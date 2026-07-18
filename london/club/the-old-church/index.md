@@ -1,6 +1,6 @@
 # The Old Church
 
-The Old Church is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Testing the Water presents: Tristan Arp & yingtuitive, Ecka Mordecai, Ru (12th isle)" on Fri, 24 Jul 2026.
+The Old Church is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Testing the Water presents: Tristan Arp & yingtuitive, Ecka Mordecai, Ru (12th isle)" on Fri, 24 Jul 2026.
 
 The Old Church is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Arrosa, Beatrice M., Die Verletzt and Leviminks and 2 more. Browse upcoming dates, start times and who's playing. Stoke Newington Church St, N16 9ES, London, UK.
 
@@ -16,4 +16,4 @@ The Old Church is a music venue in London listed on soundcheck. 3 upcoming night
 
 Stoke Newington Church St, N16 9ES, London, UK, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-church/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-church/)*

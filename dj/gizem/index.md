@@ -1,6 +1,6 @@
 # Gizem
 
-Gizem is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Doka, Amsterdam on Fri, 24 Jul 2026.
+Gizem is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Doka, Amsterdam on Fri, 24 Jul 2026.
 
 Gizem is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Istanbul and Lisbon. Often billed alongside Edward, Hafa and Hame (1). Next up: Doka, Amsterdam on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Gizem is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 Edward, Hafa, Hame (1)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gizem/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gizem/)*

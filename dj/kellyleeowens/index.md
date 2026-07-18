@@ -1,6 +1,6 @@
 # Kelly Lee Owens
 
-Kelly Lee Owens is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at UNDERCITY, Seoul on Fri, 24 Jul 2026.
+Kelly Lee Owens is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at UNDERCITY, Seoul on Fri, 24 Jul 2026.
 
 Kelly Lee Owens is a techno and electro artist tracked on soundcheck, with 50 sets logged across Barcelona, Brighton, Bristol and Budapest and 18 more. Often billed alongside George Daniel, Oscar Farrell and Leon Vynehall. Next up: UNDERCITY, Seoul on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Kelly Lee Owens is a techno and electro artist tracked on soundcheck, with 50 se
 
 George Daniel, Oscar Farrell, Leon Vynehall
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*

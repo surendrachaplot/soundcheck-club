@@ -1,6 +1,6 @@
 # The Jackhammer Chicago
 
-The Jackhammer Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "OBEY PROTOCOL" on Sat, 22 Aug 2026.
+The Jackhammer Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "OBEY PROTOCOL" on Sat, 22 Aug 2026.
 
 The Jackhammer Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 6406 N Clark St, Chicago, IL 60626.
 
@@ -14,4 +14,4 @@ The Jackhammer Chicago is a music venue in Chicago listed on soundcheck. 1 upcom
 
 6406 N Clark St, Chicago, IL 60626, Chicago
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-jackhammer-chicago/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-jackhammer-chicago/)*

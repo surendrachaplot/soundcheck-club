@@ -1,6 +1,6 @@
 # Boomerang Beach
 
-Boomerang Beach is a music venue in The Hague with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Rotterdam Rave Beach Sessions with davyboi" on Sun, 19 Jul 2026.
+Boomerang Beach is a music venue in The Hague with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Rotterdam Rave Beach Sessions with davyboi" on Sun, 19 Jul 2026.
 
 Boomerang Beach is a music venue in Thehague listed on soundcheck. 11 upcoming nights, with line-ups including Kepler, Maqossa, Ammé and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands.
 
@@ -23,4 +23,4 @@ Boomerang Beach is a music venue in Thehague listed on soundcheck. 11 upcoming n
 
 Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands, The Hague
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*

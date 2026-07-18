@@ -1,6 +1,6 @@
 # Krane
 
-Krane is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at LA Center Studios, Los Angeles on Sun, 19 Jul 2026.
+Krane is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at LA Center Studios, Los Angeles on Sun, 19 Jul 2026.
 
 Krane is a house and electronica artist tracked on soundcheck, with 141 sets logged across Austin, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Highkin', Arthur Onni and Miro ( Stereokitchen ). Next up: LA Center Studios, Losangeles on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Krane is a house and electronica artist tracked on soundcheck, with 141 sets log
 
 Highkin', Arthur Onni, Miro ( Stereokitchen )
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krane/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/krane/)*

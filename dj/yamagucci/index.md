@@ -1,6 +1,6 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fünk, Mexico City on Sat, 18 Jul 2026.
+Yamagucci is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fünk, Mexico City on Sat, 18 Jul 2026.
 
 Yamagucci is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Adam Ten, Mita Gami and Tom & Collins. Next up: Fünk, Mexicocity on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Yamagucci is a house and techno artist tracked on soundcheck, with 56 sets logge
 
 Adam Ten, Mita Gami, Tom & Collins
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

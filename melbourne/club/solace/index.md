@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Deuce Presents Jay Tripwire" on Fri, 17 Jul 2026.
+Solace is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "MDC pres Ben Fester, DJ Possum, Myles Mac - b2b2b all night long" on Sat, 18 Jul 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including Andy Garvey, Ari (AU), Bby Cass and Ben Fester and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including Andy Garvey, Ari (AU), Bby Cass and Ben Fester and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Deuce Presents Jay Tripwire | Bex, JD (4), Jay Tripwire, Millú, Nat Salih, Rev Lon |
 | Sat, 18 Jul 2026 | MDC pres Ben Fester, DJ Possum, Myles Mac - b2b2b all night long | Ben Fester, DJ Possum, Myles Mac |
 | Wed, 22 Jul 2026 | Free. Live. Music // SOLILOQUY - LIVE DnB & JUNGLE DUO |  |
 | Thu, 23 Jul 2026 | Solace Radio x Refuge W/ Jan Kost, Oscar de Lima, Joey Coco | Jan Kost, Joey Coco, Oscar de Lima |
@@ -23,4 +22,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, w
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

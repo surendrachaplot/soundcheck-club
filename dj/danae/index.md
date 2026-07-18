@@ -1,6 +1,6 @@
 # Arianna Danae
 
-Arianna Danae is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 18 Jul 2026.
+Arianna Danae is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 18 Jul 2026.
 
 Arianna Danae is a house and techno artist tracked on soundcheck, with 77 sets logged across Boston, Detroit, Edinburgh and London and 5 more. Often billed alongside MNSA, Fatin and Gian-Paul. Next up: Dead Letter No. 9, Newyorkcity on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Arianna Danae is a house and techno artist tracked on soundcheck, with 77 sets l
 
 MNSA, Fatin, Gian-Paul
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danae/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danae/)*

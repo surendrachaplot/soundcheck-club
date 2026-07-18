@@ -1,6 +1,6 @@
 # SAMO (JP)
 
-SAMO (JP) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
+SAMO (JP) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 SAMO (JP) is a house and techno artist tracked on soundcheck, with 169 sets logged across Kyoto, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: The Great Northern, Sanfrancisco on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ SAMO (JP) is a house and techno artist tracked on soundcheck, with 169 sets logg
 
 r1ku, kengotaki, YUVIE
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*

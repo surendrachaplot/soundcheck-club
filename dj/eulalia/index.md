@@ -1,6 +1,6 @@
 # Eulalia
 
-Eulalia is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
+Eulalia is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
 Eulalia is a techno and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago and Detroit. Often billed alongside Siann, xtelma and Juski. Next up: Union Park, Chicago on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Eulalia is a techno and electronica artist based in United States of America, tr
 
 Siann, xtelma, Juski
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eulalia/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eulalia/)*

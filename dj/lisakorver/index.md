@@ -1,6 +1,6 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Thuishaven, Amsterdam on Sun, 26 Jul 2026.
+Lisa Korver is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Thuishaven, Amsterdam on Sun, 26 Jul 2026.
 
 Lisa Korver is a techno and trance artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Ibiza and London and 5 more. Often billed alongside LAMMER, OLIVIA LENSEN and Bella Claxton. Next up: Thuishaven, Amsterdam on Sun 26 Jul.
 
@@ -35,4 +35,4 @@ Lisa Korver is a techno and trance artist tracked on soundcheck, with 61 sets lo
 
 LAMMER, OLIVIA LENSEN, Bella Claxton
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

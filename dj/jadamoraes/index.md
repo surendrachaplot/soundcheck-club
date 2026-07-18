@@ -1,6 +1,6 @@
 # JADA MORAES
 
-JADA MORAES is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fitzroy, Berlin on Sat, 18 Jul 2026.
+JADA MORAES is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fitzroy, Berlin on Sat, 18 Jul 2026.
 
 JADA MORAES is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Fitzroy, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ JADA MORAES is a house and techno artist tracked on soundcheck, with 184 sets lo
 
 DJ Soulscape, SKiiDA, ANDOW
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jadamoraes/)*

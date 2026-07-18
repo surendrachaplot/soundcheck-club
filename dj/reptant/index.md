@@ -1,6 +1,6 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
+Reptant is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Concept Haus, Manchester on Fri, 31 Jul 2026.
 
 Reptant is an electro and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 34 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Concept Haus, Manchester on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Reptant is an electro and techno artist tracked on soundcheck, with 126 sets log
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

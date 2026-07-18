@@ -1,14 +1,13 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Those Who Dance, Lisbon on Fri, 17 Jul 2026.
+Luuk van Dijk is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
-Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Those Who Dance, Lisbon on Fri 17 Jul.
+Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Those Who Dance | Lisbon |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Tue, 11 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Lofi | Amsterdam |
@@ -20,9 +19,11 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 223 s
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Tue, 15 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Fri, 18 Sept 2026 | Colorado Charlie | The Hague |
 
 ## Recently played
 
+- Those Who Dance, Lisbon — Fri, 17 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
@@ -30,10 +31,9 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 223 s
 - Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
 - La Terrrazza, Barcelona — Fri, 19 Jun 2026
 - Cova Santa, Ibiza — Tue, 16 Jun 2026
-- Thuishaven, Amsterdam — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

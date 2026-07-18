@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BUMPAH'S 2ND BDAY" on Fri, 31 Jul 2026.
+Secret Location is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "BUMPAH'S 2ND BDAY" on Fri, 31 Jul 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including CHEZA LUCINA, Croft (1), DJ Knowledge and Earth2Sam and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
@@ -17,4 +17,4 @@ Secret Location is a music venue in London listed on soundcheck. 4 upcoming nigh
 
 To Be Announced, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

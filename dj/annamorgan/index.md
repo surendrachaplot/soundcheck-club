@@ -1,6 +1,6 @@
 # Anna Morgan
 
-Anna Morgan is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Skylight Warehouse, Vancouver on Sun, 2 Aug 2026.
+Anna Morgan is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Skylight Warehouse, Vancouver on Sun, 2 Aug 2026.
 
 Anna Morgan is a jungle and bass artist tracked on soundcheck, with 64 sets logged across Austin, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Bianca Oblivion, Daddy Kev and DJ Nope. Next up: Skylight Warehouse, Vancouver on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Anna Morgan is a jungle and bass artist tracked on soundcheck, with 64 sets logg
 
 Bianca Oblivion, Daddy Kev, DJ Nope
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annamorgan/)*

@@ -1,6 +1,6 @@
 # Harrison Heat
 
-Harrison Heat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Baggen, Copenhagen on Sat, 18 Jul 2026.
+Harrison Heat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Baggen, Copenhagen on Sat, 18 Jul 2026.
 
 Harrison Heat is a house and techno artist tracked on soundcheck, with 71 sets logged across Copenhagen and Nantes. Often billed alongside Prom Night, Anna Logic and Lucky Lube. Next up: Baggen, Copenhagen on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Harrison Heat is a house and techno artist tracked on soundcheck, with 71 sets l
 
 Prom Night, Anna Logic, Lucky Lube
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonheat/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonheat/)*

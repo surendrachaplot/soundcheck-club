@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Back Yard" on Fri, 17 Jul 2026.
+DeTour is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Psychedelic DT" on Sat, 18 Jul 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including BEPPU, CATRONICA, edge and Jay Turio and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including BEPPU, CATRONICA, edge and Jay Turio and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Back Yard |  |
 | Sat, 18 Jul 2026 | Psychedelic DT | BEPPU, CATRONICA, Simon (Backdrop), kgee |
 | Sun, 19 Jul 2026 | Soothing music | BEPPU, edge |
 | Mon, 20 Jul 2026 | meaningful | BEPPU, Nanlaze |
@@ -21,4 +20,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with l
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

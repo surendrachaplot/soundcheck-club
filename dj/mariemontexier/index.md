@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Marie Montexier is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Marie Montexier is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Anetha, DJ Gigola and DVS1. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Marie Montexier is a techno and house artist tracked on soundcheck, with 207 set
 
 Anetha, DJ Gigola, DVS1
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

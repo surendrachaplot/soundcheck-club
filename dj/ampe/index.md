@@ -1,6 +1,6 @@
 # Ampe
 
-Ampe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Funke, Ghent on Fri, 24 Jul 2026.
+Ampe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Funke, Ghent on Fri, 24 Jul 2026.
 
 Ampe is a techno and trance artist tracked on soundcheck, with 67 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Keyser, Corvus Ex and EMILIJA. Next up: Funke, Ghent on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Ampe is a techno and trance artist tracked on soundcheck, with 67 sets logged ac
 
 Keyser, Corvus Ex, EMILIJA
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ampe/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ampe/)*

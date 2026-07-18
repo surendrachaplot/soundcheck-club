@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
+X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 61 more. Often billed alongside KETTAMA, VTSS and DJ Heartstring. Next up: La Terrrazza, Barcelona on Sat 18 Jul.
 
@@ -35,4 +35,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 212 sets logged
 
 KETTAMA, VTSS, DJ Heartstring
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

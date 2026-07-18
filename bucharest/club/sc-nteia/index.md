@@ -1,6 +1,6 @@
 # Scânteia +
 
-Scânteia + is a music venue in Bucharest with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "MAD Open Air: Quest, tINI, Mihnea Rog, DumitrEscu" on Fri, 21 Aug 2026.
+Scânteia + is a music venue in Bucharest with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "MAD Open Air: Quest, tINI, Mihnea Rog, DumitrEscu" on Fri, 21 Aug 2026.
 
 Scânteia + is a music venue in Bucharest listed on soundcheck. 1 upcoming night, with line-ups including DumitrEscu, Mihnea Rog, Quest (IT) and tINI. Browse upcoming dates, start times and who's playing. Piața Presei Libere 1, București, România.
 
@@ -14,4 +14,4 @@ Scânteia + is a music venue in Bucharest listed on soundcheck. 1 upcoming night
 
 Piața Presei Libere 1, București, România, Bucharest
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/sc-nteia/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/sc-nteia/)*

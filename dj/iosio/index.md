@@ -1,6 +1,6 @@
 # IOSIO
 
-IOSIO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
+IOSIO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
 IOSIO is a techno and trance artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Berlin and London and 5 more. Often billed alongside Cynthia Spiering, Hurts and davyboi. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ IOSIO is a techno and trance artist tracked on soundcheck, with 27 sets logged a
 
 Cynthia Spiering, Hurts, davyboi
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

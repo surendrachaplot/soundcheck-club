@@ -1,6 +1,6 @@
 # Kirkos
 
-Kirkos is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Cameron Knowler / Adeline Hotel" on Sat, 25 Jul 2026.
+Kirkos is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Cameron Knowler / Adeline Hotel" on Sat, 25 Jul 2026.
 
 Kirkos is a music venue in Dublin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Little Green Street, D07 K744.
 
@@ -14,4 +14,4 @@ Kirkos is a music venue in Dublin listed on soundcheck. 1 upcoming night. Browse
 
 Little Green Street, D07 K744, Dublin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/kirkos/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/kirkos/)*

@@ -1,6 +1,6 @@
 # Koji Nakamura
 
-Koji Nakamura is a Post-Punk and New Wave artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 18 Jul 2026.
+Koji Nakamura is a Post-Punk and New Wave artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Teranoma Tidepool, Osaka on Sat, 18 Jul 2026.
 
 Koji Nakamura is a post-punk and new wave artist based in Japan, tracked on soundcheck, with 5 sets logged across Osaka and Tokyo. Often billed alongside AOI BLOOM, DJ SPOT and RReona. Next up: Teranoma Tidepool, Osaka on Sat 18 Jul.
 
@@ -21,4 +21,4 @@ Koji Nakamura is a post-punk and new wave artist based in Japan, tracked on soun
 
 AOI BLOOM, DJ SPOT, RReona
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kojinakamura/)*

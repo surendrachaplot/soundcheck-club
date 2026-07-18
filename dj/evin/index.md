@@ -1,6 +1,6 @@
 # evin
 
-evin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at KHIDI, Tbilisi on Sat, 18 Jul 2026.
+evin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at KHIDI, Tbilisi on Sat, 18 Jul 2026.
 
 evin is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside ferrari rot, MALUGI and Marlon Hoffstadt. Next up: KHIDI, Tbilisi on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ evin is a techno and house artist tracked on soundcheck, with 71 sets logged acr
 
 ferrari rot, MALUGI, Marlon Hoffstadt
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*

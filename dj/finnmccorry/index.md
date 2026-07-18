@@ -1,6 +1,6 @@
 # Finn
 
-Finn is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The White Hotel, Manchester on Sun, 26 Jul 2026.
+Finn is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The White Hotel, Manchester on Sun, 26 Jul 2026.
 
 Finn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Edinburgh, Glasgow, Hamburg and Liverpool and 3 more. Often billed alongside Tom Boogizm, BFTT and Chunky. Next up: The White Hotel, Manchester on Sun 26 Jul.
 
@@ -27,4 +27,4 @@ Finn is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Tom Boogizm, BFTT, Chunky
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmccorry/)*

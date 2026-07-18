@@ -1,6 +1,6 @@
 # Mimi Love
 
-Mimi Love is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klunkerkranich, Berlin on Sat, 18 Jul 2026.
+Mimi Love is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Klunkerkranich, Berlin on Sat, 18 Jul 2026.
 
 Mimi Love is a house and deep house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 16 more. Often billed alongside Franca, Britta Arnold and Mira. Next up: Klunkerkranich, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Mimi Love is a house and deep house artist tracked on soundcheck, with 96 sets l
 
 Franca, Britta Arnold, Mira
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*

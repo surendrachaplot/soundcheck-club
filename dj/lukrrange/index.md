@@ -1,6 +1,6 @@
 # Lukr Range
 
-Lukr Range is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
+Lukr Range is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bike Jesus, Prague on Fri, 24 Jul 2026.
 
 Lukr Range is a techno and trance artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Brussels and Budapest and 7 more. Often billed alongside VNVK, EMIRA and Inverse Element. Next up: Bike Jesus, Prague on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Lukr Range is a techno and trance artist based in Germany, tracked on soundcheck
 
 VNVK, EMIRA, Inverse Element
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*

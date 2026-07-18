@@ -1,6 +1,6 @@
 # Robert Hood
 
-Robert Hood is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tresor / Globus, Berlin on Sat, 18 Jul 2026.
+Robert Hood is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tresor / Globus, Berlin on Sat, 18 Jul 2026.
 
 Robert Hood is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Chlär, Lyric Hood and Floorplan. Next up: Tresor / Globus, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Robert Hood is a techno and house artist tracked on soundcheck, with 74 sets log
 
 Chlär, Lyric Hood, Floorplan
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*

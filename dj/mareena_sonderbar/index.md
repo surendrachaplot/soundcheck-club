@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 18 Jul 2026.
+Mareena is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 18 Jul 2026.
 
 Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

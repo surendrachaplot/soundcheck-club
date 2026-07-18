@@ -1,6 +1,6 @@
 # Aël Solara
 
-Aël Solara is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Complexe Sky, Montreal on Fri, 24 Jul 2026.
+Aël Solara is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Complexe Sky, Montreal on Fri, 24 Jul 2026.
 
 Aël Solara is a progressive house and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Vicky Devika. Next up: Complexe Sky, Montreal on Fri 24 Jul.
 
@@ -24,4 +24,4 @@ Aël Solara is a progressive house and house artist based in Canada, tracked on 
 
 Vicky Devika
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aelsolara/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aelsolara/)*

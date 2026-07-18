@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Avalon Emerson is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside BASHKKA, Sedef Adasï and Roi Perez. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 170 sets
 
 BASHKKA, Sedef Adasï, Roi Perez
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

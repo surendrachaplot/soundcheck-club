@@ -1,6 +1,6 @@
 # Siwilai Radical Club
 
-Siwilai Radical Club is a music venue in Bangkok with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SIWILAI SOUNDSYSTEM 006" on Sat, 18 Jul 2026.
+Siwilai Radical Club is a music venue in Bangkok with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SIWILAI SOUNDSYSTEM 006" on Sat, 18 Jul 2026.
 
 Siwilai Radical Club is a music venue in Bangkok listed on soundcheck. 3 upcoming nights, with line-ups including DJ Co.kr, Jayja, Kunanon and MOODYBOOM and 1 more. Browse upcoming dates, start times and who's playing. 148 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110.
 
@@ -16,4 +16,4 @@ Siwilai Radical Club is a music venue in Bangkok listed on soundcheck. 3 upcomin
 
 148 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110, Bangkok
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/siwilai-radical-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/siwilai-radical-club/)*

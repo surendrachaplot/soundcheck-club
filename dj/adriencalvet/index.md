@@ -1,6 +1,6 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 18 Jul 2026.
+Adrien Calvet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Le point fort d'Aubervilliers, Paris on Sat, 18 Jul 2026.
 
 Adrien Calvet is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 16 more. Often billed alongside Emi Ömar, HearThug and Occibel. Next up: Le point fort d'Aubervilliers, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Adrien Calvet is a house and techno artist tracked on soundcheck, with 44 sets l
 
 Emi Ömar, HearThug, Occibel
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

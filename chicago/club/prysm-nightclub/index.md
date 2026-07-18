@@ -1,6 +1,6 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Serum: Joshwa" on Sat, 15 Aug 2026.
+Prysm Nightclub is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Serum: Joshwa" on Sat, 15 Aug 2026.
 
 Prysm Nightclub is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including ATRIP, DATSKO, DJ BORING and Joshwa. Browse upcoming dates, start times and who's playing. 1543 N Kingsbury St.
 
@@ -16,4 +16,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 3 upcoming nig
 
 1543 N Kingsbury St, Chicago
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

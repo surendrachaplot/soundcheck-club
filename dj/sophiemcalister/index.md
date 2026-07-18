@@ -1,6 +1,6 @@
 # Sophie McAlister
 
-Sophie McAlister is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Sophie McAlister is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
 Sophie McAlister is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Bali, Berlin and Brisbane and 5 more. Often billed alongside Bertie, Bradley Zero and Moopie. Next up: The Cause, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Sophie McAlister is a house and techno artist tracked on soundcheck, with 72 set
 
 Bertie, Bradley Zero, Moopie
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiemcalister/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiemcalister/)*

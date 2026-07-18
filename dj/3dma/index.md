@@ -1,6 +1,6 @@
 # 3DMA
 
-3DMA is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
+3DMA is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Colour Factory, London on Sat, 25 Jul 2026.
 
 3DMA is a hardcore and trance artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Brighton and Bristol and 18 more. Often billed alongside Holly Warcup, alterum and Peggy Viennetta. Next up: Colour Factory, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@
 
 Holly Warcup, alterum, Peggy Viennetta
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*

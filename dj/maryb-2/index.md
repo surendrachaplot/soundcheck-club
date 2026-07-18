@@ -1,6 +1,6 @@
 # Mary B (2)
 
-Mary B (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
+Mary B (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
 
 Mary B (2) is a house and techno artist tracked on soundcheck, with 42 sets logged across Lisbon, Lyon and Paris. Often billed alongside Solid-Funk, Ze Salvador and Cruz (PT). Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
 
@@ -26,4 +26,4 @@ Mary B (2) is a house and techno artist tracked on soundcheck, with 42 sets logg
 
 Solid-Funk, Ze Salvador, Cruz (PT)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryb-2/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maryb-2/)*

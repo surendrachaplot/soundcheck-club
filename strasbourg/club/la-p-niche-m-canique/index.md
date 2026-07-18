@@ -1,6 +1,6 @@
 # La Péniche Mécanique
 
-La Péniche Mécanique is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "ORIENTABEATS" on Tue, 4 Aug 2026.
+La Péniche Mécanique is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "ORIENTABEATS" on Tue, 4 Aug 2026.
 
 La Péniche Mécanique is a music venue in Strasbourg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Presqu'île André Malraux 67100 Strasbourg.
 
@@ -14,4 +14,4 @@ La Péniche Mécanique is a music venue in Strasbourg listed on soundcheck. 1 up
 
 Presqu'île André Malraux 67100 Strasbourg, Strasbourg
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-p-niche-m-canique/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-p-niche-m-canique/)*

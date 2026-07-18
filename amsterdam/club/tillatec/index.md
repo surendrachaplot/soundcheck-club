@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "TILLATEC Invites: High Hoops" on Fri, 17 Jul 2026.
+TILLATEC is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "PAMELA invites Dalson Superstore" on Sat, 18 Jul 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Fastlove, Aiden Francis, Amphia and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Amphia, angelboy, ANNĒ and ARCHANGEL (US) and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | TILLATEC Invites: High Hoops | Aiden Francis, Danny Daze, Fastlove, Merve |
 | Sat, 18 Jul 2026 | PAMELA invites Dalson Superstore | DJ Shahmaran, Ivy F, LYLO (NL), OG Karin |
 | Fri, 24 Jul 2026 | TILLAVISION: Aquatec |  |
 | Fri, 24 Jul 2026 | TILLAVISION: Aquatec | DIORA, Juja, TEKNA, sausy |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights,
 | Sun, 2 Aug 2026 | TILLATEC invites: KNIT + VESELKA | Bjarki, Cybersex, Djooke, ISAbella, Jaspol, Kilopatrah Jones, Marie Malarie, Moody Mehran, Pablo Bozzi, Tweeman |
 | Fri, 7 Aug 2026 | WorldPride: Horse Meat Disco |  |
 | Sat, 8 Aug 2026 | WorldPride TILLATEC Invites: Boudica, Howl & Pervert |  |
+| Sat, 15 Aug 2026 | Discos Movimiento x Pintai | ATEQ, Bluecommand, Gizem, Hafa, Hame (1), MNTY, Martinou, Move D, Telfort, Vera Logdanidi, nthng |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

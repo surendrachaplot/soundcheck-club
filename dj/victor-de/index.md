@@ -1,6 +1,6 @@
 # Victor (DE)
 
-Victor (DE) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Victor (DE) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
 
 Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Fadi Mohem, Yamour and Ogazón. Next up: MS Artville, Hamburg on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Victor (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Fadi Mohem, Yamour, Ogazón
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/victor-de/)*

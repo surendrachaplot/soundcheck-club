@@ -1,14 +1,13 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club der Visionaere, Berlin on Fri, 17 Jul 2026.
+Harry McCanna is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Club der Visionaere, Berlin on Fri 17 Jul.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Club der Visionaere | Berlin |
 | Sat, 25 Jul 2026 | Boston Manor Park | London |
 | Fri, 31 Jul 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 14 Aug 2026 | Distrikt | Leeds |
@@ -20,6 +19,7 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 129 s
 
 ## Recently played
 
+- Club der Visionaere, Berlin — Fri, 17 Jul 2026
 - fabric, London — Sat, 4 Jul 2026
 - TBA - Marseille 13014, Marseille — Sat, 27 Jun 2026
 - The Lion and Lamb, London — Thu, 25 Jun 2026
@@ -27,10 +27,9 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 129 s
 - High Lights - Barking Park, London — Sat, 30 May 2026
 - Basement, Amsterdam — Sat, 30 May 2026
 - Refuge, New York City — Sat, 23 May 2026
-- NUMBER 90 LONDON, London — Fri, 1 May 2026
 
 ## Shares bills with
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

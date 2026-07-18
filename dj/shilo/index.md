@@ -1,6 +1,6 @@
 # Shilo
 
-Shilo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Thomas Read Pub, Hamburg on Sat, 18 Jul 2026.
+Shilo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Thomas Read Pub, Hamburg on Sat, 18 Jul 2026.
 
 Shilo is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Hamburg. Often billed alongside Alexej, CHICHO and Pamadii. Next up: Thomas Read Pub, Hamburg on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Shilo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Alexej, CHICHO, Pamadii
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*

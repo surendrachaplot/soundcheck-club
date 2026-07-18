@@ -1,14 +1,13 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Pracht PRES. ETHERNAL SHOWCASE with Ëlorian, MINÄ, Claudius" on Fri, 17 Jul 2026.
+Pracht is a music venue in Frankfurt with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "PrachtNACHT with SACK, NØAH, Clavia" on Sat, 18 Jul 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 7 upcoming nights, with line-ups including Benja Asima, Biagio Sibilla, Claudius (DE) and Dario Milkovic and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 6 upcoming nights, with line-ups including Benja Asima, Biagio Sibilla, Dario Milkovic and Federico Guglielmi and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Pracht PRES. ETHERNAL SHOWCASE with Ëlorian, MINÄ, Claudius | Claudius (DE), Ëlorian |
 | Sat, 18 Jul 2026 | PrachtNACHT with SACK, NØAH, Clavia | SACK (AR) |
 | Thu, 23 Jul 2026 | KLUBNACHT x ON THE GROUND with Monsieur Vide & Shahab |  |
 | Fri, 24 Jul 2026 | Pracht PRES. with Foolik, GALGO, Dario Milkovic | Dario Milkovic, Foolik |
@@ -20,4 +19,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 7 upcoming nights, wi
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

@@ -1,14 +1,13 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FREAKY AFROPIANO FRIDAYS" on Fri, 17 Jul 2026.
+142b Lounge is a music venue in Glasgow with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "NOTHINGS HIT HARDER: DJ JOLA & DJ EVZ Live In Glasgow" on Sat, 18 Jul 2026.
 
-142b Lounge is a music venue in Glasgow listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
+142b Lounge is a music venue in Glasgow listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | FREAKY AFROPIANO FRIDAYS |  |
 | Sat, 18 Jul 2026 | NOTHINGS HIT HARDER: DJ JOLA & DJ EVZ Live In Glasgow |  |
 | Fri, 24 Jul 2026 | PCEE MUSICAL MANIA Live in Glasgow |  |
 | Sat, 25 Jul 2026 | NOTHING HITS HARDER |  |
@@ -21,4 +20,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

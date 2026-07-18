@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Chevry Warehouse #3" on Sat, 18 Jul 2026.
+La Cité Fertile is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Chevry Warehouse #3" on Sat, 18 Jul 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Abn - P2z, Cody Currie, Cosmo (KR) and Deep Tears On Clamart and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -17,4 +17,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 4 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

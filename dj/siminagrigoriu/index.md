@@ -1,6 +1,6 @@
 # Simina Grigoriu
 
-Simina Grigoriu is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
+Simina Grigoriu is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat, 15 Aug 2026.
 
 Simina Grigoriu is a techno and tech house artist based in Germany, tracked on soundcheck, with 36 sets logged across Barcelona, Basel, Berlin and Bucharest and 9 more. Often billed alongside ASK:ME, Anna Tur and Felix Kröcher. Next up: TBA - Straße des 17. Juni & Großer Stern, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ Simina Grigoriu is a techno and tech house artist based in Germany, tracked on s
 
 ASK:ME, Anna Tur, Felix Kröcher
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siminagrigoriu/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/siminagrigoriu/)*

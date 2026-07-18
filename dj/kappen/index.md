@@ -1,6 +1,6 @@
 # Kappen
 
-Kappen is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at C12, Brussels on Sat, 18 Jul 2026.
+Kappen is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at C12, Brussels on Sat, 18 Jul 2026.
 
 Kappen is a house and electro artist based in Belgium, tracked on soundcheck, with 44 sets logged across Barcelona and Brussels. Often billed alongside KAYU, Lucimille and Matho. Next up: C12, Brussels on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Kappen is a house and electro artist based in Belgium, tracked on soundcheck, wi
 
 KAYU, Lucimille, Matho
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kappen/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kappen/)*

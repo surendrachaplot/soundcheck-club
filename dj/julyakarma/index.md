@@ -1,6 +1,6 @@
 # Julya Karma
 
-Julya Karma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
+Julya Karma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
 
 Julya Karma is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Dixon and Jimi Jules. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Julya Karma is a techno and house artist tracked on soundcheck, with 88 sets log
 
 Âme, Dixon, Jimi Jules
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

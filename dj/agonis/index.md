@@ -1,6 +1,6 @@
 # Agonis
 
-Agonis is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Motel Campo, Geneva on Sat, 25 Jul 2026.
+Agonis is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Motel Campo, Geneva on Sat, 25 Jul 2026.
 
 Agonis is a techno and experimental artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Garçon, Timnah and Konduku. Next up: Motel Campo, Geneva on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Agonis is a techno and experimental artist tracked on soundcheck, with 69 sets l
 
 Garçon, Timnah, Konduku
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/agonis/)*

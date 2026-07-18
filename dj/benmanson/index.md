@@ -1,6 +1,6 @@
 # Ben Manson
 
-Ben Manson is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Wanderlust, Paris on Thu, 23 Jul 2026.
+Ben Manson is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Wanderlust, Paris on Thu, 23 Jul 2026.
 
 Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Berlin and Munich and 3 more. Often billed alongside Mr Cozzo, Hugo Prime and High Low. Next up: Wanderlust, Paris on Thu 23 Jul.
 
@@ -28,4 +28,4 @@ Ben Manson is a techno and house artist based in France, tracked on soundcheck, 
 
 Mr Cozzo, Hugo Prime, High Low
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/benmanson/)*

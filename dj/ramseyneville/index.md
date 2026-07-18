@@ -1,6 +1,6 @@
 # Ramsey Neville
 
-Ramsey Neville is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
+Ramsey Neville is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
 
 Ramsey Neville is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Boston and Chicago and 5 more. Often billed alongside Michelle Kay, Junkfile and Adrian Hex. Next up: Lark, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Ramsey Neville is a techno and minimal techno artist based in United States of A
 
 Michelle Kay, Junkfile, Adrian Hex
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyneville/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyneville/)*

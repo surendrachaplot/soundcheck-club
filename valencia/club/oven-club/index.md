@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Total with Luigi Di Venere + Ladrillovitz + Angelinanyuli / Bar: La Bamba DJ´s" on Fri, 17 Jul 2026.
+Oven Club is a music venue in Valencia with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Caballeri + Iko + Camiel Daamen / Bar: Miracle con Eleuvepunto & Antono" on Sat, 18 Jul 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 9 upcoming nights, with line-ups including Ariezzz, BAR (DE), Blanch and Caballeri and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 8 upcoming nights, with line-ups including Ariezzz, BAR (DE), Blanch and Caballeri and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Total with Luigi Di Venere + Ladrillovitz + Angelinanyuli / Bar: La Bamba DJ´s | Ladrillovitz, Luigi Di Venere |
 | Sat, 18 Jul 2026 | Caballeri + Iko + Camiel Daamen / Bar: Miracle con Eleuvepunto & Antono | BAR (DE), Caballeri, Camiel Daamen, Iko |
 | Wed, 22 Jul 2026 | Soumz + Special Guest |  |
 | Thu, 23 Jul 2026 | ERA: Camiel Daamen + Depanachi | Camiel Daamen |
@@ -22,4 +21,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 9 upcoming nights, 
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

@@ -1,6 +1,6 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Teatro Danscafé: Het Complot and Friends" on Sat, 18 Jul 2026.
+KABUL à GoGo is a music venue in Utrecht with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Teatro Danscafé: Het Complot and Friends" on Sat, 18 Jul 2026.
 
 KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 2 upcoming nights, with line-ups including AnnaM (NL), Be.a.son, Mission Architect and Nicola Piva. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
@@ -15,4 +15,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 2 upcoming night
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

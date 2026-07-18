@@ -1,6 +1,6 @@
 # Peter Van Hoesen
 
-Peter Van Hoesen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
+Peter Van Hoesen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tresor / Globus, Berlin on Sat, 8 Aug 2026.
 
 Peter Van Hoesen is a techno and house artist based in Belgium, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 19 more. Often billed alongside Atom™, Cobahn and DJ SO. Next up: Tresor / Globus, Berlin on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Peter Van Hoesen is a techno and house artist based in Belgium, tracked on sound
 
 Atom™, Cobahn, DJ SO
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*

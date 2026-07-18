@@ -1,6 +1,6 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
+Two Shell is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Great Northern, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 Two Shell is a techno and experimental artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: The Great Northern, Sanfrancisco on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Two Shell is a techno and experimental artist tracked on soundcheck, with 75 set
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

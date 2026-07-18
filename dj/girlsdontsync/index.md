@@ -1,6 +1,6 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
+Girls Don't Sync is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lofi, Amsterdam on Sat, 18 Jul 2026.
 
 Girls Don't Sync is a garage and house artist tracked on soundcheck, with 113 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 26 more. Often billed alongside Sophia Violet, Interplanetary Criminal and Rich Reason. Next up: Lofi, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Girls Don't Sync is a garage and house artist tracked on soundcheck, with 113 se
 
 Sophia Violet, Interplanetary Criminal, Rich Reason
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

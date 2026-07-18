@@ -1,6 +1,6 @@
 # Jamie Rodigan
 
-Jamie Rodigan is a Dancehall and Afrobeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lost Horizon, Bristol on Thu, 30 Jul 2026.
+Jamie Rodigan is a Dancehall and Afrobeat artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lost Horizon, Bristol on Thu, 30 Jul 2026.
 
 Jamie Rodigan is a dancehall and afrobeat artist tracked on soundcheck, with 29 sets logged across Amsterdam, Bristol, Liverpool and London. Often billed alongside YNG CPTN, CPTN and DJ Hype. Next up: Lost Horizon, Bristol on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Jamie Rodigan is a dancehall and afrobeat artist tracked on soundcheck, with 29 
 
 YNG CPTN, CPTN, DJ Hype
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamierodigan/)*

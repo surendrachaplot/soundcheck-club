@@ -1,6 +1,6 @@
 # HVL
 
-HVL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bassiani, Tbilisi on Sat, 18 Jul 2026.
+HVL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bassiani, Tbilisi on Sat, 18 Jul 2026.
 
 HVL is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Kvanchi, Ndrx and Kancheli. Next up: Bassiani, Tbilisi on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ HVL is a techno and house artist tracked on soundcheck, with 98 sets logged acro
 
 Kvanchi, Ndrx, Kancheli
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*

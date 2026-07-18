@@ -1,6 +1,6 @@
 # Şahika
 
-Şahika is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "HOT SELECTORS NIGHT #4 B2B CONFESSIONS" on Sat, 25 Jul 2026.
+Şahika is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "HOT SELECTORS NIGHT #4 B2B CONFESSIONS" on Sat, 25 Jul 2026.
 
 Şahika is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including 4-i, AFTERTONIGH, BasicDisarm and BLONDE STATEMENT and 2 more. Browse upcoming dates, start times and who's playing. Hüseyinağa mahallesi, Nevizade sokak, No: 5.
 
@@ -14,4 +14,4 @@
 
 Hüseyinağa mahallesi, Nevizade sokak, No: 5, Istanbul
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*

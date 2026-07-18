@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Dust Party Toronto with Hashman Deejay" on Sat, 18 Jul 2026.
+The Jama is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Dust Party Toronto with Hashman Deejay" on Sat, 18 Jul 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including anise, Critter, Destiny (CA) and Dj Hermano and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -17,4 +17,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

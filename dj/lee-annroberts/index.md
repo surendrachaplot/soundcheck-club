@@ -1,6 +1,6 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ground Floor, Philadelphia on Sat, 18 Jul 2026.
+Lee Ann Roberts is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Ground Floor, Philadelphia on Sat, 18 Jul 2026.
 
 Lee Ann Roberts is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Ground Floor, Philadelphia on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ Lee Ann Roberts is a techno and house artist tracked on soundcheck, with 151 set
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

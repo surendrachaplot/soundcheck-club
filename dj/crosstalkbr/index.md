@@ -1,6 +1,6 @@
 # Crosstalk (BR)
 
-Crosstalk (BR) is a Baile Funk and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at R Lounge, Tokyo on Sat, 18 Jul 2026.
+Crosstalk (BR) is a Baile Funk and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at R Lounge, Tokyo on Sat, 18 Jul 2026.
 
 Crosstalk (BR) is a baile funk and garage artist based in Brazil, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Chediak, ANTCONSTANTINO and DJ PS2 DESBLOQUEADO. Next up: R Lounge, Tokyo on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Crosstalk (BR) is a baile funk and garage artist based in Brazil, tracked on sou
 
 Chediak, ANTCONSTANTINO, DJ PS2 DESBLOQUEADO
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crosstalkbr/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crosstalkbr/)*

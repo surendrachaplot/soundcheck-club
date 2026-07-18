@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Barbary, Philadelphia on Sat, 25 Jul 2026.
+Eli & Fur is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Barbary, Philadelphia on Sat, 25 Jul 2026.
 
 Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Barcelona and 31 more. Often billed alongside CRi, Marsh and Jody Wisternoff. Next up: The Barbary, Philadelphia on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundch
 
 CRi, Marsh, Jody Wisternoff
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

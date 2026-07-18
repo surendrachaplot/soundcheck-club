@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Voyage Voyage ✷ invites Cafe Croissant Paris Closing-party ✷ Bunker" on Sat, 18 Jul 2026.
+Bunker is a music venue in Turin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Voyage Voyage ✷ invites Cafe Croissant Paris Closing-party ✷ Bunker" on Sat, 18 Jul 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 2 upcoming nights, with line-ups including Alex Dima, Alexia Glensy, Alyhas and Andrea Martello and 2 more. Browse upcoming dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -15,4 +15,4 @@ Bunker is a music venue in Turin listed on soundcheck. 2 upcoming nights, with l
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

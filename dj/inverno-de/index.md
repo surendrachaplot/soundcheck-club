@@ -1,6 +1,6 @@
 # INVERNO
 
-INVERNO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at GIMIC, Brussels on Sat, 18 Jul 2026.
+INVERNO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at GIMIC, Brussels on Sat, 18 Jul 2026.
 
 INVERNO is a techno and house artist tracked on soundcheck, with 71 sets logged across Berlin, Brussels, Hamburg and Krakow and 10 more. Often billed alongside Ká (DE), Triqi and hripsime. Next up: GIMIC, Brussels on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ INVERNO is a techno and house artist tracked on soundcheck, with 71 sets logged 
 
 Ká (DE), Triqi, hripsime
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverno-de/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/inverno-de/)*

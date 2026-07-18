@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 18 Jul 2026.
+Sedef Adasï is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 18 Jul 2026.
 
 Sedef Adasï is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Tokonoma Club, Frankfurt on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 264 sets l
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

@@ -1,6 +1,6 @@
 # Asakusa Stella
 
-Asakusa Stella is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SYNC816" on Sun, 9 Aug 2026.
+Asakusa Stella is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SYNC816" on Sun, 9 Aug 2026.
 
 Asakusa Stella is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including KASHIWAGI and M-Project. Browse upcoming dates, start times and who's playing. 2-26-1 Nishiasakusa, Taito-ku, Tokyo.
 
@@ -15,4 +15,4 @@ Asakusa Stella is a music venue in Tokyo listed on soundcheck. 2 upcoming nights
 
 2-26-1 Nishiasakusa, Taito-ku, Tokyo, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/asakusa-stella/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/asakusa-stella/)*

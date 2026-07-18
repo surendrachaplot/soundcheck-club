@@ -1,6 +1,6 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "LED Day Club with DILLSTRADAMUS (Dillon Francis b2b Flosstradamus)" on Sat, 25 Jul 2026.
+Beach House San Diego is a music venue in San Diego with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "LED Day Club with DILLSTRADAMUS (Dillon Francis b2b Flosstradamus)" on Sat, 25 Jul 2026.
 
 Beach House San Diego is a music venue in Sandiego listed on soundcheck. 10 upcoming nights, with line-ups including 999999999, Ben Sterling, Corren Cavini and CRi and 2 more. Browse upcoming dates, start times and who's playing. 3125 Ocean Front Walk.
 
@@ -23,4 +23,4 @@ Beach House San Diego is a music venue in Sandiego listed on soundcheck. 10 upco
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

@@ -1,6 +1,6 @@
 # WheelUP
 
-WheelUP is a Drum & Bass and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Jazz Cafe, London on Sat, 1 Aug 2026.
+WheelUP is a Drum & Bass and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Jazz Cafe, London on Sat, 1 Aug 2026.
 
 WheelUP is a drum & bass and broken beat artist tracked on soundcheck, with 20 sets logged across Brighton, Bristol, London and Paris and 1 more. Often billed alongside Robert Luis, Cengiz and Maria Hanlon. Next up: The Jazz Cafe, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ WheelUP is a drum & bass and broken beat artist tracked on soundcheck, with 20 s
 
 Robert Luis, Cengiz, Maria Hanlon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

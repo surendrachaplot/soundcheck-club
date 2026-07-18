@@ -1,6 +1,6 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cavo Paradiso, Mykonos on Sat, 18 Jul 2026.
+Benny Benassi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Cavo Paradiso, Mykonos on Sat, 18 Jul 2026.
 
 Benny Benassi is a house and electro artist tracked on soundcheck, with 40 sets logged across Boston, Chicago, Copenhagen and Ibiza and 13 more. Often billed alongside Terry, Black Tiger Sex Machine and David Guetta. Next up: Cavo Paradiso, Mykonos on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Benny Benassi is a house and electro artist tracked on soundcheck, with 40 sets 
 
 Terry, Black Tiger Sex Machine, David Guetta
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*

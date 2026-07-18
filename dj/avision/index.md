@@ -1,6 +1,6 @@
 # Avision
 
-Avision is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Public Works, San Francisco/Oakland on Sat, 25 Jul 2026.
+Avision is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Public Works, San Francisco/Oakland on Sat, 25 Jul 2026.
 
 Avision is a house and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Maceo Plex, Victor Calderone and Alan Fitzpatrick. Next up: Public Works, Sanfrancisco on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Avision is a house and techno artist based in United States of America, tracked 
 
 Maceo Plex, Victor Calderone, Alan Fitzpatrick
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avision/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/avision/)*

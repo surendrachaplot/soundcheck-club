@@ -1,6 +1,6 @@
 # My Aeon
 
-My Aeon is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FLASH RAVE" on Sat, 18 Jul 2026.
+My Aeon is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FLASH RAVE" on Sat, 18 Jul 2026.
 
 My Aeon is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Andrew Till, Chiara Kickdrum, cuznmatt and Dylan Smith and 2 more. Browse upcoming dates, start times and who's playing. 791 Sydney Rd; Brunswick VIC 3056; Australia.
 
@@ -17,4 +17,4 @@ My Aeon is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, w
 
 791 Sydney Rd; Brunswick VIC 3056; Australia, Melbourne
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*

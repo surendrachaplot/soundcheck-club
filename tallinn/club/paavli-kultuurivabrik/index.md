@@ -1,6 +1,6 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Selecta: Aphrodite (UK) at Tallinn" on Sat, 25 Jul 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Selecta: Aphrodite (UK) at Tallinn" on Sat, 25 Jul 2026.
 
 Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with line-ups including Aphrodite, Brenna Ryan and Brett Rästas. Browse upcoming dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
@@ -15,4 +15,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 2 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

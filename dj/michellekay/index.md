@@ -1,6 +1,6 @@
 # Michelle Kay
 
-Michelle Kay is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Michelle Kay is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Michelle Kay is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Boston and Chicago and 4 more. Often billed alongside Ramsey Neville, Adrian Hex and Junkfile. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Michelle Kay is a techno and minimal techno artist based in United States of Ame
 
 Ramsey Neville, Adrian Hex, Junkfile
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michellekay/)*

@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Solava Groovy Night x Under Bridge" on Sat, 18 Jul 2026.
+Under Bridge Madrid is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Solava Groovy Night x Under Bridge" on Sat, 18 Jul 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including alalwa, ESTRELLA OR, Javier de la Vega and Kamboya and 2 more. Browse upcoming dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -16,4 +16,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 3 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

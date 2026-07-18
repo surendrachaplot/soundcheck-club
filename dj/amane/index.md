@@ -1,6 +1,6 @@
 # AMANE
 
-AMANE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 18 Jul 2026.
+AMANE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Enter Shibuya, Tokyo on Sat, 18 Jul 2026.
 
 AMANE is a house and techno artist based in Japan, tracked on soundcheck, with 161 sets logged across London and Tokyo. Often billed alongside Sota Shimada, Hayato and r1ku. Next up: Enter Shibuya, Tokyo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ AMANE is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 Sota Shimada, Hayato, r1ku
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amane/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amane/)*

@@ -1,6 +1,6 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Apollo Studio, New York City on Sat, 18 Jul 2026.
+CAMILLA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Apollo Studio, New York City on Sat, 18 Jul 2026.
 
 CAMILLA is a house and techno artist tracked on soundcheck, with 132 sets logged across Berlin, Boston, Chicago and Lisbon and 5 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: Apollo Studio, Newyorkcity on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ CAMILLA is a house and techno artist tracked on soundcheck, with 132 sets logged
 
 Joiah, Black Pomade, Shvili
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/camilla/)*

@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 18 Jul 2026.
+1morning is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 18 Jul 2026.
 
 1morning is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: RSO.BERLIN, Berlin on Sat 18 Jul.
 
@@ -30,4 +30,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

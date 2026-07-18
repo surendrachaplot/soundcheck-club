@@ -1,6 +1,6 @@
 # Bella Boo
 
-Bella Boo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Trädgården, Stockholm on Sat, 18 Jul 2026.
+Bella Boo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Trädgården, Stockholm on Sat, 18 Jul 2026.
 
 Bella Boo is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Art Alfie, Axel Boman and Kornél Kovács. Next up: Trädgården, Stockholm on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Bella Boo is a house and techno artist tracked on soundcheck, with 41 sets logge
 
 Art Alfie, Axel Boman, Kornél Kovács
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaboo/)*

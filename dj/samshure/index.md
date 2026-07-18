@@ -1,6 +1,6 @@
 # Sam Shure
 
-Sam Shure is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 22 Jul 2026.
+Sam Shure is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 Sam Shure is a house and techno artist tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Oliver Koletzki, Baime and Bora Uzer. Next up: Chinois Ibiza, Ibiza on Wed 22 Jul.
 
@@ -26,4 +26,4 @@ Sam Shure is a house and techno artist tracked on soundcheck, with 66 sets logge
 
 Oliver Koletzki, Baime, Bora Uzer
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samshure/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samshure/)*

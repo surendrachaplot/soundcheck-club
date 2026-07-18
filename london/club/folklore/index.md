@@ -1,6 +1,6 @@
 # Folklore
 
-Folklore is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Earthly Measures 10th birthday with Cuervo Cuervo (Live London Debut) & Playroots (Live UK debut)" on Sat, 15 Aug 2026.
+Folklore is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Earthly Measures 10th birthday with Cuervo Cuervo (Live London Debut) & Playroots (Live UK debut)" on Sat, 15 Aug 2026.
 
 Folklore is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Earthly Measures. Browse upcoming dates, start times and who's playing. 186 Hackney Rd, London, E2 7QL.
 
@@ -14,4 +14,4 @@ Folklore is a music venue in London listed on soundcheck. 1 upcoming night, with
 
 186 Hackney Rd, London, E2 7QL, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/folklore/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/folklore/)*

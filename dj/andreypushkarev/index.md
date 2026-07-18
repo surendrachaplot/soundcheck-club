@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Downtown LA, Los Angeles on Sat, 15 Aug 2026.
 
 Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: TBA - Downtown LA, Losangeles on Sat 15 Aug.
 
@@ -28,4 +28,4 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 84 se
 
 Lola Palmer, Eli Verveine, Mihai Popoviciu
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

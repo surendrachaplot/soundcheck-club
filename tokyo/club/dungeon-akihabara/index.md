@@ -1,6 +1,6 @@
 # DUNGEON akihabara
 
-DUNGEON akihabara is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "EIFER" on Sat, 19 Sept 2026.
+DUNGEON akihabara is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "EIFER" on Sat, 19 Sept 2026.
 
 DUNGEON akihabara is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including AMARI, Fulusoma and REKI. Browse upcoming dates, start times and who's playing. B1F, Senju Building, 5-1-10 Sotokanda, Chiyoda-ku, Tokyo 101-0021, Japan.
 
@@ -14,4 +14,4 @@ DUNGEON akihabara is a music venue in Tokyo listed on soundcheck. 1 upcoming nig
 
 B1F, Senju Building, 5-1-10 Sotokanda, Chiyoda-ku, Tokyo 101-0021, Japan, Tokyo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dungeon-akihabara/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dungeon-akihabara/)*

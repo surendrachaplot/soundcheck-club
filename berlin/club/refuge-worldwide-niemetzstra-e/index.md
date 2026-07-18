@@ -1,6 +1,6 @@
 # Refuge Worldwide / Niemetzstraße
 
-Refuge Worldwide / Niemetzstraße is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "lilipad Summer Bash" on Thu, 30 Jul 2026.
+Refuge Worldwide / Niemetzstraße is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "lilipad Summer Bash" on Thu, 30 Jul 2026.
 
 Refuge Worldwide / Niemetzstraße is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Anele, batmanka, Daniel Wang and Herzel. Browse upcoming dates, start times and who's playing. Niemetzstraße 1, 12055 Berlin.
 
@@ -15,4 +15,4 @@ Refuge Worldwide / Niemetzstraße is a music venue in Berlin listed on soundchec
 
 Niemetzstraße 1, 12055 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/refuge-worldwide-niemetzstra-e/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/refuge-worldwide-niemetzstra-e/)*

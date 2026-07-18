@@ -1,6 +1,6 @@
 # Bhanc
 
-Bhanc is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "SOLID" on Sat, 8 Aug 2026.
+Bhanc is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "SOLID" on Sat, 8 Aug 2026.
 
 Bhanc is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1-11-13 Ishibashi, Ikeda-shi, Osaka, 563-0032 Japan.
 
@@ -14,4 +14,4 @@ Bhanc is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse u
 
 1-11-13 Ishibashi, Ikeda-shi, Osaka, 563-0032 Japan, Osaka
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bhanc/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bhanc/)*

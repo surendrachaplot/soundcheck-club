@@ -1,14 +1,13 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sommerfest w. Victor Ruiz and many more" on Fri, 17 Jul 2026.
+Lieberscholli is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SECCO DAY CLUB x Scholli Sommerfest (Open Air & Indoor) - powered by daenz" on Sat, 18 Jul 2026.
 
-Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including Alex Volta, Apolonia, Black Box and CDB (1) and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
+Lieberscholli is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including Alex Volta, Apolonia, Black Box and CDB (1) and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Sommerfest w. Victor Ruiz and many more | Human Rias, Rad.Lez, Tommahawk, Victor Ruiz |
 | Sat, 18 Jul 2026 | SECCO DAY CLUB x Scholli Sommerfest (Open Air & Indoor) - powered by daenz | HOVR, Liebe Nachbarn, Moe Bohème, lisa luka |
 | Sat, 25 Jul 2026 | RAGAZZI pres Kyle Starkey (OPEN AIR & INDOOR) curated by O/H/M | Kyle Starkey, O/H/M, Sarica |
 | Fri, 7 Aug 2026 | Groove Galore | CDB (1), Dari Dark, Sarica |
@@ -23,4 +22,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 10 upcoming night
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

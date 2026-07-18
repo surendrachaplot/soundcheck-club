@@ -1,6 +1,6 @@
 # Shitake
 
-Shitake is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
+Shitake is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Terrrazza, Barcelona on Sat, 1 Aug 2026.
 
 Shitake is a tech house and house artist tracked on soundcheck, with 62 sets logged across Barcelona and London. Often billed alongside Lexlay, Alvaro Smart and Javi Colina. Next up: La Terrrazza, Barcelona on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ Shitake is a tech house and house artist tracked on soundcheck, with 62 sets log
 
 Lexlay, Alvaro Smart, Javi Colina
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shitake/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shitake/)*

@@ -1,6 +1,6 @@
 # Harold mp1
 
-Harold mp1 is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Funke, Ghent on Sat, 18 Jul 2026.
+Harold mp1 is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Funke, Ghent on Sat, 18 Jul 2026.
 
 Harold mp1 is an electro and house artist tracked on soundcheck, with 18 sets logged across Brussels and Ghent. Often billed alongside Ava Eva, Bon Public and DC Salas. Next up: Funke, Ghent on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Harold mp1 is an electro and house artist tracked on soundcheck, with 18 sets lo
 
 Ava Eva, Bon Public, DC Salas
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*

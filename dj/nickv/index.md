@@ -1,6 +1,6 @@
 # Nick V
 
-Nick V is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Prairie du Canal, Paris on Sat, 18 Jul 2026.
+Nick V is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Prairie du Canal, Paris on Sat, 18 Jul 2026.
 
 Nick V is a house and disco artist tracked on soundcheck, with 77 sets logged across Berlin, Geneva, Liverpool and Lyon and 3 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: La Prairie du Canal, Paris on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Nick V is a house and disco artist tracked on soundcheck, with 77 sets logged ac
 
 DJ André, Odd Sweet, Crowd Control
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*

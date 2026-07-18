@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
+SUCHI is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
 
 SUCHI is a house and electronica artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: OLT Rivierenhof, Antwerp on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ SUCHI is a house and electronica artist tracked on soundcheck, with 61 sets logg
 
 Amaliah, Anz, Heléna Star
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

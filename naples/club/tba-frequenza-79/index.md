@@ -1,6 +1,6 @@
 # TBA - FREQUENZA 79
 
-TBA - FREQUENZA 79 is a music venue in Naples with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "ULTRASOUND 25.07.2026" on Sat, 25 Jul 2026.
+TBA - FREQUENZA 79 is a music venue in Naples with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "ULTRASOUND 25.07.2026" on Sat, 25 Jul 2026.
 
 TBA - FREQUENZA 79 is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including Manuel Di Martino, Benth. and Krashnoize. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - FREQUENZA 79 is a music venue in Naples listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | ULTRASOUND 25.07.2026 | Benth., Krashnoize, Manuel Di Martino |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-frequenza-79/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-frequenza-79/)*

@@ -1,6 +1,6 @@
 # T & Sugah
 
-T & Sugah is a Drum & Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+T & Sugah is a Drum & Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 T & Sugah are a drum & bass and breakbeat duo tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Delta Heavy, Mozey and Pola & Bryson. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ T & Sugah are a drum & bass and breakbeat duo tracked on soundcheck, with 47 set
 
 Delta Heavy, Mozey, Pola & Bryson
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*

@@ -1,6 +1,6 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
+Nastia Reigel is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 15 Aug 2026.
 
 Nastia Reigel is a techno and club artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Inox Traxx, Rene Wise and Barker. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Nastia Reigel is a techno and club artist tracked on soundcheck, with 54 sets lo
 
 Inox Traxx, Rene Wise, Barker
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

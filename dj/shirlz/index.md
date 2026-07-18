@@ -1,6 +1,6 @@
 # shirlz
 
-shirlz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - XTC BUSHWICK (1277 Flushing Ave) , New York City on Sat, 18 Jul 2026.
+shirlz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - XTC BUSHWICK (1277 Flushing Ave) , New York City on Sat, 18 Jul 2026.
 
 shirlz is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside MISS VEE, AJACENT and DJ Sauci Soni. Next up: TBA - XTC BUSHWICK (1277 Flushing Ave) , Newyorkcity on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ shirlz is a techno and house artist based in United States of America, tracked o
 
 MISS VEE, AJACENT, DJ Sauci Soni
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*

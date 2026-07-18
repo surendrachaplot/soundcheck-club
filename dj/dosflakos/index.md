@@ -1,6 +1,6 @@
 # Dos Flakos
 
-Dos Flakos is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA -  DTLA Warehouse, Los Angeles on Sat, 18 Jul 2026.
+Dos Flakos is a Reggaeton and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA -  DTLA Warehouse, Los Angeles on Sat, 18 Jul 2026.
 
 Dos Flakos is a reggaeton and house artist tracked on soundcheck, with 47 sets logged across Austin, Chicago, Losangeles and Madrid and 5 more. Often billed alongside Rosa Perreo, Cquestt and DJ Ultra Violet. Next up: TBA -  DTLA Warehouse, Losangeles on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Dos Flakos is a reggaeton and house artist tracked on soundcheck, with 47 sets l
 
 Rosa Perreo, Cquestt, DJ Ultra Violet
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*

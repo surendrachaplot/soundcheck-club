@@ -1,6 +1,6 @@
 # omeme_gangimari
 
-omeme_gangimari is a Drum & Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 18 Jul 2026.
+omeme_gangimari is a Drum & Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ZEROTOKYO, Tokyo on Sat, 18 Jul 2026.
 
 omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 75 sets logged across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Jackit. Next up: ZEROTOKYO, Tokyo on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on so
 
 SN_Yeah, ReFuCafé, Jackit
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*

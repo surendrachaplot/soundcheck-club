@@ -1,6 +1,6 @@
 # Supperclub Cruise
 
-Supperclub Cruise is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Love Floats" on Sat, 1 Aug 2026.
+Supperclub Cruise is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Love Floats" on Sat, 1 Aug 2026.
 
 Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Cris-H, Farius, Jesabel and KARINSMATIC and 2 more. Browse upcoming dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
 
@@ -14,4 +14,4 @@ Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 1 upcoming
 
 De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub-cruise/)*

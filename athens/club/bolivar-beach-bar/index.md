@@ -1,6 +1,6 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Maceo Plex I Marcel Dettmann I Sat July 18" on Sat, 18 Jul 2026.
+Bolivar Beach Bar is a music venue in Athens with 15 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Maceo Plex I Marcel Dettmann I Sat July 18" on Sat, 18 Jul 2026.
 
 Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 15 upcoming nights, with line-ups including Adam Beyer, Âme, Anfisa Letyago and Brina Knauss and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
@@ -23,4 +23,4 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 15 upcoming n
 
 Posidonos Avenue, Alimos, Athens, Athens
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*

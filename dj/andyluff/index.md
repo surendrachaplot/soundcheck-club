@@ -1,6 +1,6 @@
 # Andy Luff
 
-Andy Luff is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
+Andy Luff is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at THE OTHER SIDE, Amsterdam on Sat, 18 Jul 2026.
 
 Andy Luff is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Jos, Loa Szala and Tadeusz. Next up: THE OTHER SIDE, Amsterdam on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Andy Luff is a house and techno artist tracked on soundcheck, with 109 sets logg
 
 Jos, Loa Szala, Tadeusz
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andyluff/)*

@@ -1,6 +1,6 @@
 # TBA - IYKYK 
 
-TBA - IYKYK  is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "NO SQUARES" on Sat, 25 Jul 2026.
+TBA - IYKYK  is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "NO SQUARES" on Sat, 25 Jul 2026.
 
 TBA - IYKYK  is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Connor Mikami, DJ Masda and UNITYCHECK. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - IYKYK  is a music venue in Amsterdam listed on soundcheck. 3 upcoming nigh
 | Sat, 26 Sept 2026 | If You Know You Know with DJ Masda (CABARET Recordings) | Connor Mikami, DJ Masda |
 | Sun, 27 Sept 2026 | If You Know You Know - Sunday Service |  |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*

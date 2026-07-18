@@ -1,6 +1,6 @@
 # Solardo
 
-Solardo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
+Solardo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Cova Santa, Ibiza on Sun, 16 Aug 2026.
 
 Solardo is a house and tech house artist tracked on soundcheck, with 146 sets logged across Aberdeen, Amsterdam, Austin and Bali and 42 more. Often billed alongside Claptone, Andrea Oliva and Vintage Culture. Next up: Cova Santa, Ibiza on Sun 16 Aug.
 
@@ -28,4 +28,4 @@ Solardo is a house and tech house artist tracked on soundcheck, with 146 sets lo
 
 Claptone, Andrea Oliva, Vintage Culture
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solardo/)*

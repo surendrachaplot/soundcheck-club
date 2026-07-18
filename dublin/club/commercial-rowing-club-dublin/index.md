@@ -1,6 +1,6 @@
 # Commercial Rowing Club Dublin
 
-Commercial Rowing Club Dublin is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "[CANCELLED] Clash Del Comfort" on Sat, 18 Jul 2026.
+Commercial Rowing Club Dublin is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "[CANCELLED] Clash Del Comfort" on Sat, 18 Jul 2026.
 
 Commercial Rowing Club Dublin is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Selky and Roo Honeychild. Browse upcoming dates, start times and who's playing. Longmeadows, Islandbridge, Dublin 8, D08 E9W6.
 
@@ -14,4 +14,4 @@ Commercial Rowing Club Dublin is a music venue in Dublin listed on soundcheck. 1
 
 Longmeadows, Islandbridge, Dublin 8, D08 E9W6, Dublin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/commercial-rowing-club-dublin/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/commercial-rowing-club-dublin/)*

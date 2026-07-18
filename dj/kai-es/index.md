@@ -1,6 +1,6 @@
 # K A I
 
-K A I is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at VENT, Tokyo on Fri, 31 Jul 2026.
+K A I is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at VENT, Tokyo on Fri, 31 Jul 2026.
 
 K A I is a bass and house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Bali, Barcelona, Bucharest and Liverpool and 5 more. Often billed alongside caro.aki, Civic Grief and Louis Shannon. Next up: VENT, Tokyo on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ K A I is a bass and house artist based in United Kingdom, tracked on soundcheck,
 
 caro.aki, Civic Grief, Louis Shannon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-es/)*

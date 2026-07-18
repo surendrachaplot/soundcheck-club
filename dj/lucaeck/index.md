@@ -1,6 +1,6 @@
 # Luca Eck
 
-Luca Eck is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
+Luca Eck is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 8 Aug 2026.
 
 Luca Eck is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Chicago and Cologne and 18 more. Often billed alongside Miss Bashful, DJ Hyaluron and GIA. Next up: RSO.BERLIN, Berlin on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Luca Eck is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Miss Bashful, DJ Hyaluron, GIA
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*

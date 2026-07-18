@@ -1,6 +1,6 @@
 # HI-LO
 
-HI-LO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
+HI-LO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amnesia Ibiza, Ibiza on Wed, 22 Jul 2026.
 
 HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Eli Brown, Adam Beyer and Juliet Fox. Next up: Amnesia Ibiza, Ibiza on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ HI-LO is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Eli Brown, Adam Beyer, Juliet Fox
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*

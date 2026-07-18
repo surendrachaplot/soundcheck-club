@@ -1,6 +1,6 @@
 # DJ Voices
 
-DJ Voices is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bossa Nova Civic Club, New York City on Wed, 29 Jul 2026.
+DJ Voices is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bossa Nova Civic Club, New York City on Wed, 29 Jul 2026.
 
 DJ Voices is a techno and bass artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Parris, Akanbi and Andrew Devlin. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ DJ Voices is a techno and bass artist based in United States of America, tracked
 
 Parris, Akanbi, Andrew Devlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoices/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoices/)*

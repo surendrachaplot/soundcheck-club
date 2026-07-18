@@ -1,6 +1,6 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GAIA: Lilya Mandre" on Fri, 4 Sept 2026.
+Gate Milano is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "GAIA: Lilya Mandre" on Fri, 4 Sept 2026.
 
 Gate Milano is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Alarico, ANNĒ, BLANKA and Dstm and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
@@ -18,4 +18,4 @@ Gate Milano is a music venue in Milan listed on soundcheck. 5 upcoming nights, w
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

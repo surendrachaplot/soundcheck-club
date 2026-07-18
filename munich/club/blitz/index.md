@@ -1,15 +1,13 @@
 # BLITZ
 
-BLITZ is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BLITZ with CJ Bolland b2b The Advent, Philppa Pacho, Polygonia [Start 23:59]" on Fri, 17 Jul 2026.
+BLITZ is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "BLITZ with Daphni, Gernot von Modeselektor, mad miran, Shed LIVE" on Sat, 18 Jul 2026.
 
-BLITZ is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including 600-cell, Akua, Alessio Barletta and Alles Andere and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
+BLITZ is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including 600-cell, Akua, Alessio Barletta and Alles Andere and 2 more. Browse upcoming dates, start times and who's playing. Museumsinsel 1, 80538 München, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | BLITZ with CJ Bolland b2b The Advent, Philppa Pacho, Polygonia [Start 23:59] | CJ Bolland, Philippa Pacho, Polygonia, The Advent |
-| Fri, 17 Jul 2026 | JAZZFEST [19:30 - 23:30] with DIGILOGUE, Sabina Sciubba, Solaire |  |
 | Sat, 18 Jul 2026 | BLITZ with Daphni, Gernot von Modeselektor, mad miran, Shed LIVE | Daphni, Modeselektor, Shed, mad miran |
 | Tue, 21 Jul 2026 | Live : CoreChaos with Brnjsmin, Hyperfocus, Liturgy [19:30 - 23:00] |  |
 | Fri, 24 Jul 2026 | LIVE AT BLITZ with Lyder [Doors 21:00 / Start 22:00] | Lyder |
@@ -22,4 +20,4 @@ BLITZ is a music venue in Munich listed on soundcheck. 9 upcoming nights, with l
 
 Museumsinsel 1, 80538 München, Germany, Munich
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/blitz/)*

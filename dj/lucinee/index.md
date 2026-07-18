@@ -1,6 +1,6 @@
 # Lucinee
 
-Lucinee is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
+Lucinee is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Renate, Berlin on Fri, 24 Jul 2026.
 
 Lucinee is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Lifka, Sept and CLTX. Next up: Renate, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Lucinee is a techno and trance artist tracked on soundcheck, with 124 sets logge
 
 Lifka, Sept, CLTX
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*

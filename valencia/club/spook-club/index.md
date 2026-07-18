@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "KLOFAMA + Acidus + invitados" on Sat, 18 Jul 2026.
+Spook Club is a music venue in Valencia with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "KLOFAMA + Acidus + invitados" on Sat, 18 Jul 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming nights, with line-ups including Acidus, Adriana Lopez, Aida Arko and Arista and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming nights
 
 Pinedo Valencia, Valencia
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

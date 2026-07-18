@@ -1,6 +1,6 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Beachclub Indigo, The Hague on Sat, 18 Jul 2026.
+Young Marco is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Beachclub Indigo, The Hague on Sat, 18 Jul 2026.
 
 Young Marco is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 64 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Beachclub Indigo, Thehague on Sat 18 Jul.
 
@@ -31,4 +31,4 @@ Young Marco is a house and techno artist tracked on soundcheck, with 208 sets lo
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

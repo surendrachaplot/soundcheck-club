@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Rote Sonne, Munich on Sat, 18 Jul 2026.
+Upper90 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Rote Sonne, Munich on Sat, 18 Jul 2026.
 
 Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: Rote Sonne, Munich on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 121 sets logge
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

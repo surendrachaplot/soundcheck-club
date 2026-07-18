@@ -1,6 +1,6 @@
 # Infinity Room Inside Future
 
-Infinity Room Inside Future is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "THM & Friends: Volume 4" on Sat, 18 Jul 2026.
+Infinity Room Inside Future is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "THM & Friends: Volume 4" on Sat, 18 Jul 2026.
 
 Infinity Room Inside Future is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including BOTHEN, Non (TO) and The Jacob Brothers. Browse upcoming dates, start times and who's playing. 570 Queen St West - Lower Level, Toronto, ON M5V 2B5, Canada.
 
@@ -14,4 +14,4 @@ Infinity Room Inside Future is a music venue in Toronto listed on soundcheck. 1 
 
 570 Queen St West - Lower Level, Toronto, ON M5V 2B5, Canada, Toronto
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/infinity-room-inside-future/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/infinity-room-inside-future/)*

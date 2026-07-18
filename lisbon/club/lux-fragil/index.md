@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "VISCERAL: HNRQ invites Mano Le Tough, Kierastoboy, Afonso Peixoto" on Fri, 17 Jul 2026.
+Lux Fragil is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Carl Craig, Chima Isaaro, Soos, NVNO, Alaya Sunsets" on Sat, 18 Jul 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including Afonso Peixoto, Alaya (PT), Analodjica and Armanda and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including Alaya (PT), Analodjica, Armanda and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | VISCERAL: HNRQ invites Mano Le Tough, Kierastoboy, Afonso Peixoto | Afonso Peixoto, HNRQ (2), Kierastoboy, Mano Le Tough, Switchdance |
 | Sat, 18 Jul 2026 | Carl Craig, Chima Isaaro, Soos, NVNO, Alaya Sunsets | Alaya (PT), Carl Craig, Chima Isaaro, Jo.Ke, Magupi, Soos |
 | Thu, 23 Jul 2026 | ILEKTRONIK SANGEET | Khalil Suleman, Kulas, XCI |
 | Fri, 24 Jul 2026 | Luca Lozano b2b Mr. Ho, Rui Vargas, Nicolle Velcro, Sheri Vari | Luca Lozano, Mr. Ho, Nicolle Velcro, Rui Vargas, Sheri Vari, Tiago DJ |
@@ -22,4 +21,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, w
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

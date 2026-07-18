@@ -1,6 +1,6 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
+cry$cross is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Green Room NYC, New York City on Sat, 1 Aug 2026.
 
 cry$cross is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Losangeles, Newyorkcity and Philadelphia. Often billed alongside Swaya, BOJAQ and Daniro. Next up: Green Room NYC, Newyorkcity on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ cry$cross is a house and techno artist based in United States of America, tracke
 
 Swaya, BOJAQ, Daniro
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

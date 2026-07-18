@@ -1,6 +1,6 @@
 # dj unt.il
 
-dj unt.il is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 25 Jul 2026.
+dj unt.il is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TRANSMISSION DC, Washington DC on Sat, 25 Jul 2026.
 
 dj unt.il is a club and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity and Washingtondc. Often billed alongside Tromac, Izzy Holmes and lady lavender. Next up: TRANSMISSION DC, Washingtondc on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ dj unt.il is a club and house artist based in United States of America, tracked 
 
 Tromac, Izzy Holmes, lady lavender
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djunt-il/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djunt-il/)*

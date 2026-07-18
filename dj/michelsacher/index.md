@@ -1,6 +1,6 @@
 # Michel Sacher
 
-Michel Sacher is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
+Michel Sacher is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Theater Augusta Raurica, Basel on Fri, 24 Jul 2026.
 
 Michel Sacher is a techno and house artist tracked on soundcheck, with 38 sets logged across Basel, Ibiza and Zurich. Often billed alongside Kaleiko, Sebastian Konrad and Comzy. Next up: TBA - Theater Augusta Raurica, Basel on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Michel Sacher is a techno and house artist tracked on soundcheck, with 38 sets l
 
 Kaleiko, Sebastian Konrad, Comzy
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michelsacher/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michelsacher/)*

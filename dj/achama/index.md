@@ -1,6 +1,6 @@
 # ACHAMA
 
-ACHAMA is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Baba Yaga, Seattle on Sat, 18 Jul 2026.
+ACHAMA is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Baba Yaga, Seattle on Sat, 18 Jul 2026.
 
 ACHAMA is a club and techno artist tracked on soundcheck, with 17 sets logged across Portland, Seattle and Tokyo. Often billed alongside N SO, MUNÉO and Jason Code. Next up: Baba Yaga, Seattle on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ ACHAMA is a club and techno artist tracked on soundcheck, with 17 sets logged ac
 
 N SO, MUNÉO, Jason Code
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/achama/)*

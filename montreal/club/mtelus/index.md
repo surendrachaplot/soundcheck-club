@@ -1,6 +1,6 @@
 # MTELUS
 
-MTELUS is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Jeff Mills, Polygonia, JakoJako, CLEO LEIGH - MUTEK 27" on Fri, 28 Aug 2026.
+MTELUS is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Jeff Mills, Polygonia, JakoJako, CLEO LEIGH - MUTEK 27" on Fri, 28 Aug 2026.
 
 MTELUS is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Ben UFO, CLEO LEIGH, Facta and JakoJako and 2 more. Browse upcoming dates, start times and who's playing. 59 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada.
 
@@ -15,4 +15,4 @@ MTELUS is a music venue in Montreal listed on soundcheck. 2 upcoming nights, wit
 
 59 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada, Montreal
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mtelus/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mtelus/)*

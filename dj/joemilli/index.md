@@ -1,6 +1,6 @@
 # Joe Milli
 
-Joe Milli is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Palais, London on Sat, 18 Jul 2026.
+Joe Milli is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Palais, London on Sat, 18 Jul 2026.
 
 Joe Milli is a house and bass artist tracked on soundcheck, with 49 sets logged across Berlin, Bristol and London. Often billed alongside Kassian, Big Kani and Syz. Next up: Palais, London on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Joe Milli is a house and bass artist tracked on soundcheck, with 49 sets logged 
 
 Kassian, Big Kani, Syz
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joemilli/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joemilli/)*

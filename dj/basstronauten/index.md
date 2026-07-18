@@ -1,6 +1,6 @@
 # Basstronauten
 
-Basstronauten is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Basstronauten is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Basstronauten is a techno and psytrance artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics (2) and DAZA. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Basstronauten is a techno and psytrance artist based in Germany, tracked on soun
 
 Daniel Boon, LORD of Psychedelics (2), DAZA
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basstronauten/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basstronauten/)*

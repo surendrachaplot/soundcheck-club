@@ -1,6 +1,6 @@
 # Erika de Casier
 
-Erika de Casier is a Electronica and R&B artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Erika de Casier is a Electronica and R&B artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Erika de Casier is an electronica and r&b artist based in Denmark, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Jayda G, Nick León and Manuka Honey. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Erika de Casier is an electronica and r&b artist based in Denmark, tracked on so
 
 Jayda G, Nick León, Manuka Honey
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikadecasier/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/erikadecasier/)*

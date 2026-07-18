@@ -1,6 +1,6 @@
 # Playita Matamoros
 
-Playita Matamoros is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Playita Matamoros presenta Boom Merchant, iluna + mas" on Sun, 19 Jul 2026.
+Playita Matamoros is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Playita Matamoros presenta Boom Merchant, iluna + mas" on Sun, 19 Jul 2026.
 
 Playita Matamoros is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Boom Merchant and iluna. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Playita Matamoros is a music venue in Mexicocity listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sun, 19 Jul 2026 | Playita Matamoros presenta Boom Merchant, iluna + mas | Boom Merchant, iluna |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/playita-matamoros/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/playita-matamoros/)*

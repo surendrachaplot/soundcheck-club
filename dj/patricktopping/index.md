@@ -1,14 +1,13 @@
 # Patrick Topping
 
-Patrick Topping is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Pacha New York, New York City on Fri, 17 Jul 2026.
+Patrick Topping is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Patrick Topping is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Pacha New York, Newyorkcity on Fri 17 Jul.
+Patrick Topping is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Pacha New York | New York City |
 | Tue, 21 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 8 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Burgess Park | London |
@@ -19,6 +18,7 @@ Patrick Topping is a house and tech house artist based in United Kingdom, tracke
 
 ## Recently played
 
+- Pacha New York, New York City — Fri, 17 Jul 2026
 - Ku Barcelona, Barcelona — Sun, 12 Jul 2026
 - [UNVRS], Ibiza — Sat, 11 Jul 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
@@ -26,10 +26,9 @@ Patrick Topping is a house and tech house artist based in United Kingdom, tracke
 - Descent, Boston — Sat, 13 Jun 2026
 - Knockdown Center, New York City — Fri, 12 Jun 2026
 - Knockdown Center, New York City — Fri, 12 Jun 2026
-- Hï Ibiza, Ibiza — Tue, 9 Jun 2026
 
 ## Shares bills with
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

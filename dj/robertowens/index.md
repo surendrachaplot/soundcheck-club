@@ -1,14 +1,13 @@
 # Robert Owens
 
-Robert Owens is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at ZeyZey, Miami on Fri, 17 Jul 2026.
+Robert Owens is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Copper Boot, Toronto on Sat, 18 Jul 2026.
 
-Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: ZeyZey, Miami on Fri 17 Jul.
+Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: Copper Boot, Toronto on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | ZeyZey | Miami |
 | Sat, 18 Jul 2026 | Copper Boot | Toronto |
 | Sun, 19 Jul 2026 | Signal | New York City |
 | Sun, 16 Aug 2026 | Lokschuppen Berlin | Berlin |
@@ -18,6 +17,7 @@ Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets lo
 
 ## Recently played
 
+- ZeyZey, Miami — Fri, 17 Jul 2026
 - TBA, Barcelona — Sat, 11 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - PRST, Vienna — Sat, 13 Jun 2026
@@ -25,10 +25,9 @@ Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets lo
 - Tresor / Globus, Berlin — Fri, 29 May 2026
 - The Eagle, London — Sat, 9 May 2026
 - ://about blank, Berlin — Sun, 5 Apr 2026
-- Sensorium, Berlin — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Frankie Flowerz, Mad Shivers, Philippe Autuori
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/robertowens/)*

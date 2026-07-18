@@ -1,6 +1,6 @@
 # ADMNTi
 
-ADMNTi is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Night Tales, London on Sat, 1 Aug 2026.
+ADMNTi is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Night Tales, London on Sat, 1 Aug 2026.
 
 ADMNTi is a house and minimal artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 9 more. Often billed alongside Just Jam, Laidlaw and Julian Anthony. Next up: Night Tales, London on Sat 1 Aug.
 
@@ -28,4 +28,4 @@ ADMNTi is a house and minimal artist tracked on soundcheck, with 58 sets logged 
 
 Just Jam, Laidlaw, Julian Anthony
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*

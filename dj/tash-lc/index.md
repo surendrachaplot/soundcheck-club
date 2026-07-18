@@ -1,6 +1,6 @@
 # Tash LC
 
-Tash LC is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Aaja Basement, London on Fri, 24 Jul 2026.
+Tash LC is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Aaja Basement, London on Fri, 24 Jul 2026.
 
 Tash LC is a dancehall and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Aaja Basement, London on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Tash LC is a dancehall and house artist tracked on soundcheck, with 118 sets log
 
 Ahadadream, Jamz Supernova, Moxie
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

@@ -1,6 +1,6 @@
 # yung_womb
 
-yung_womb is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ritter Butzke, Berlin on Fri, 24 Jul 2026.
+yung_womb is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Ritter Butzke, Berlin on Fri, 24 Jul 2026.
 
 yung_womb is a house and bass artist tracked on soundcheck, with 72 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside SLIC Unit, Nissa Carrington and Slimgirl fat. Next up: Ritter Butzke, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ yung_womb is a house and bass artist tracked on soundcheck, with 72 sets logged 
 
 SLIC Unit, Nissa Carrington, Slimgirl fat
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*

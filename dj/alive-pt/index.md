@@ -1,6 +1,6 @@
 # Alive
 
-Alive is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Plano B, Porto on Thu, 30 Jul 2026.
+Alive is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Plano B, Porto on Thu, 30 Jul 2026.
 
 Alive is a drum & bass and techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Athens, Losangeles, Manchester and Porto. Often billed alongside Andy C, Pedro Tabuada and 10cust. Next up: Plano B, Porto on Thu 30 Jul.
 
@@ -22,4 +22,4 @@ Alive is a drum & bass and techno artist based in Portugal, tracked on soundchec
 
 Andy C, Pedro Tabuada, 10cust
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*

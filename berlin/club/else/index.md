@@ -1,14 +1,13 @@
 # Else
 
-Else is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SESH pres. MCR-T invites" on Fri, 17 Jul 2026.
+Else is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Hot Meal" on Sat, 18 Jul 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including 3LNA, AgainstMe, ain't Marco and ALCATRAZ and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | SESH pres. MCR-T invites | Alex Friday, DJ Cringey, GEN97, Hello Sasy, MCR-T, Mila Black, Partiboi69, SATYS FYRE, alejandrø |
 | Sat, 18 Jul 2026 | Hot Meal | Bad Boombox, Cufme, Gusted, Janis Zielinski, Jessie Dols, LAMMER, Mija, Montezuma (DE), lizaliza |
 | Sun, 19 Jul 2026 | Else x Chlär pres. Rustin Cohle | CRYME, Chlär, Fafi Abdel Nour, ISAbella, Jennifer Loveless, Viikatory |
 | Fri, 24 Jul 2026 | Else x DJ TOOL invites | Audrey Danza, DJ TOOL, Jan Loup, Kohra, Monophonik, Sarkawt Hamad, Woody92, livwutang |
@@ -18,9 +17,10 @@ Else is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with l
 | Sat, 1 Aug 2026 | Else x Freddy K pres. KEY Vinyl [12:00 starting time] | AYLIN IDAH, AgainstMe, Annie Lew, Fergus Sweetland, Freddy K, Kim She, Mara Menace, Philippa Pacho, Sons Of Hidden, Toobris, ain't Marco |
 | Sun, 2 Aug 2026 | Else x Nachti | Courtesy, DJ MILLE, Danielle, Elias Mazian, Jenny Cara, MILLE, Mille (DE), Moopie |
 | Fri, 7 Aug 2026 | Else: TRANSITION x Smile Sessions | Amphia, BENZA, Bailey Ibbs, Gloria Rose, JKS, Lobster (NL), Ponygirl, Pōnky, Vilchezz |
+| Sat, 8 Aug 2026 | Else 13th Birthday Weekender: 40 hours nonstop | ALI3N, Angel D'lite, Blue Hour, COZi, Carl Bergé, Cecilia Tosh, DJ SOURCE, DJ SUN (CH/DE), DJ Sun, DJ TOOL, Dee Diggs, KVLR, Kameliia, Len Faki, Matrixxman, Nightmares on Wax, Stella Zekri, Stephanie Sykes, Talia Dorr, Thabo, Vincent Neumann, Young Marco, jiyun kim, nthng |
 
 ## Address
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

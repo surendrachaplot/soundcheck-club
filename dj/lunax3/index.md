@@ -1,6 +1,6 @@
 # LUNAx3
 
-LUNAx3 is a Bass and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Billy Bootleggers, Nottingham on Sat, 18 Jul 2026.
+LUNAx3 is a Bass and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Billy Bootleggers, Nottingham on Sat, 18 Jul 2026.
 
 LUNAx3 is a bass and gabber artist tracked on soundcheck, with 13 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside beansclub, Purity Filter and dreamloader. Next up: Billy Bootleggers, Nottingham on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ LUNAx3 is a bass and gabber artist tracked on soundcheck, with 13 sets logged ac
 
 beansclub, Purity Filter, dreamloader
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

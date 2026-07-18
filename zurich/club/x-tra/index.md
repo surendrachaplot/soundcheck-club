@@ -1,6 +1,6 @@
 # X-Tra
 
-X-Tra is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Drumcode x Street Parade Afterparty" on Sat, 8 Aug 2026.
+X-Tra is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Drumcode x Street Parade Afterparty" on Sat, 8 Aug 2026.
 
 X-Tra is a music venue in Zurich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Limmatstrasse 118; 8031, Zürich; Switzerland.
 
@@ -14,4 +14,4 @@ X-Tra is a music venue in Zurich listed on soundcheck. 1 upcoming night. Browse 
 
 Limmatstrasse 118; 8031, Zürich; Switzerland, Zurich
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/x-tra/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/x-tra/)*

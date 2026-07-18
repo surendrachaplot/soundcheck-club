@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 31 Jul 2026.
+Supergloss is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Studio Club Malaga, Malaga on Fri, 31 Jul 2026.
 
 Supergloss is a techno and trance artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, MALUGI and Omon Breaker. Next up: Studio Club Malaga, Malaga on Fri 31 Jul.
 
@@ -31,4 +31,4 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 194 sets lo
 
 Funk Tribu, MALUGI, Omon Breaker
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

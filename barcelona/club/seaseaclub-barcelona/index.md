@@ -1,14 +1,13 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Afrodanz – Open Air Afro House Experience with SONA" on Fri, 17 Jul 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Output pres. Nicola Cruz + Binh" on Fri, 24 Jul 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming nights, with line-ups including CEZAR, Mariiin, Abdon and Agatha Pher and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upcoming nights, with line-ups including CEZAR, Mariiin, Abdon and Agatha Pher and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Afrodanz – Open Air Afro House Experience with SONA | MARA BRAVO, MARTISTA, SONA (2) |
 | Fri, 24 Jul 2026 | Output pres. Nicola Cruz + Binh | Binh, Javier Carballo, Mariiin, Nicola Cruz, Tamarindo |
 | Sat, 25 Jul 2026 | Ànims: John Digweed & Imbermind live  (open air + afterparty) | Darlow, Imbermind, John Digweed, Pole Position |
 | Sat, 1 Aug 2026 | LOAD pres. Kidoo + Abdon , Marian & Pau Guilera (the gallery) | AIIVIIK, Abdon, Jorgesyn, Kidoo, Marian BR, Pau Guilera, THINKPINK |
@@ -18,9 +17,10 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upco
 | Fri, 14 Aug 2026 | OMNIA & TSOA: Guy J + Henry Saiz(Open Air) | Agatha Pher, Guy J, Henry Saiz, Luciano Lozz |
 | Fri, 14 Aug 2026 | Kuma x ZET PRODUCCIONES pres. Across the Sea |  |
 | Sat, 15 Aug 2026 | Afrodanz – Open Air Afro House Experience with Major League Djz | Major League Djz, NIIXII, SOFIA PINEDA |
+| Sat, 15 Aug 2026 | El Bassline pres. CEZAR and Gescu | Bttologic, CEZAR, Galu Bla, Gescu, Silat Beksi |
 
 ## Address
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

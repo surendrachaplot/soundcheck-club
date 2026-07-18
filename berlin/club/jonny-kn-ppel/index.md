@@ -1,14 +1,13 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Midsommer Verglühen" on Fri, 17 Jul 2026.
+Jonny Knüppel is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "astral.lab x Curiosity Pill x Speedgasm x vehemence (indoor + outdoor)" on Sat, 18 Jul 2026.
 
-Jonny Knüppel is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including AAMIROO, Aber DJ, Ali Rajat and Allynx and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
+Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including AAMIROO, Aber DJ, Allynx and Ana Malo and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Midsommer Verglühen | Ali Rajat, Bouncing Mirrors, DJ Banba, Dino S, IRAD, Tschatsching, romp (DE), romp_about |
 | Sat, 18 Jul 2026 | astral.lab x Curiosity Pill x Speedgasm x vehemence (indoor + outdoor) | AWHM, Ana Malo, E.P.L.E., LUCKY4U, Mia Lund, SACID, Sioc, Surt, Tyrellativ, ch4r20tte, dawnbreaker, pnk pnthr, vSto, vp allowed |
 | Fri, 24 Jul 2026 | Knüppel Kollektiv-Sommernacht mit Disco Futurismo, Diskolusion und Schmeckt Auf Eis | Daniel Duese, Don Andres, Marc Machado, Martin Meyer, Moni von Pisani, Pointbliss, Zehlendorfer Disco Squad, hi beam, plattenpunani |
 | Sat, 25 Jul 2026 | JKs Höchstsommer |  |
@@ -20,4 +19,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 7 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

@@ -1,6 +1,6 @@
 # Joe Vanditti
 
-Joe Vanditti is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 31 Jul 2026.
+Joe Vanditti is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 31 Jul 2026.
 
 Joe Vanditti is a tech house and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Belgrade and Bucharest and 13 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Crobar - Buenos Aires, Buenosaires on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Joe Vanditti is a tech house and house artist tracked on soundcheck, with 47 set
 
 Stefano Noferini, Alev Tav, Alex Bohemien
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*

@@ -1,6 +1,6 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Bardo Speakeasy, Mexico City on Sat, 18 Jul 2026.
+Dj Dizam is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bardo Speakeasy, Mexico City on Sat, 18 Jul 2026.
 
 Dj Dizam is a hip-hop and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Mexicocity and Newyorkcity. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: Bardo Speakeasy, Mexicocity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Dj Dizam is a hip-hop and house artist based in United States of America, tracke
 
 Black Daria, LOVERGRL, Bastian Bell
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*

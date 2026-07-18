@@ -1,6 +1,6 @@
 # Sylvia (ES)
 
-Sylvia (ES) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
+Sylvia (ES) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
 
 Sylvia (ES) is a techno and electro artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside no.masc, Joey Stella and Acidnena. Next up: The White Hotel, Manchester on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Sylvia (ES) is a techno and electro artist tracked on soundcheck, with 71 sets l
 
 no.masc, Joey Stella, Acidnena
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*

@@ -1,6 +1,6 @@
 # Kaz James
 
-Kaz James is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 3 Aug 2026.
+Kaz James is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Hï Ibiza, Ibiza on Mon, 3 Aug 2026.
 
 Kaz James is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Athens, Ibiza, Istanbul and London and 9 more. Often billed alongside Black Coffee, Carlita and Guy Gerber. Next up: Hï Ibiza, Ibiza on Mon 3 Aug.
 
@@ -27,4 +27,4 @@ Kaz James is a house and afro house artist based in United Kingdom, tracked on s
 
 Black Coffee, Carlita, Guy Gerber
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*

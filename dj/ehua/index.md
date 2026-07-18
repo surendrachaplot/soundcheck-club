@@ -1,6 +1,6 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Ehua is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Ehua is a techno and bass artist tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Barcelona and Basel and 31 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Ehua is a techno and bass artist tracked on soundcheck, with 117 sets logged acr
 
 AliA, Bitter Babe, Flore
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

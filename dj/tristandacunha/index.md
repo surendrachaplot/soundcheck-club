@@ -1,6 +1,6 @@
 # Tristan da Cunha
 
-Tristan da Cunha is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
+Tristan da Cunha is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
 
 Tristan da Cunha is a house and garage artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Brawther, Dungeon Meat and Samuel Deep. Next up: TBA, Birmingham on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Tristan da Cunha is a house and garage artist tracked on soundcheck, with 102 se
 
 Brawther, Dungeon Meat, Samuel Deep
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*

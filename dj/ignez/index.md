@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at FOLD, London on Fri, 31 Jul 2026.
+Ignez is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at FOLD, London on Fri, 31 Jul 2026.
 
 Ignez is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: FOLD, London on Fri 31 Jul.
 
@@ -33,4 +33,4 @@ Ignez is a techno and house artist tracked on soundcheck, with 177 sets logged a
 
 Yanamaste, Inox Traxx, Beste Hira
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

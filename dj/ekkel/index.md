@@ -1,6 +1,6 @@
 # Ekkel
 
-Ekkel is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Gehør, Oslo on Sat, 18 Jul 2026.
+Ekkel is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Gehør, Oslo on Sat, 18 Jul 2026.
 
 Ekkel is a trance and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Marius Bø, Mikkel Rev and Kasper Marott. Next up: Gehør, Oslo on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Ekkel is a trance and techno artist tracked on soundcheck, with 52 sets logged a
 
 Marius Bø, Mikkel Rev, Kasper Marott
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ekkel/)*

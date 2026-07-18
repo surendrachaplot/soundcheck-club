@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "The Miracles Foundation presents: DETROIT BLOCK PARTY" on Sat, 18 Jul 2026.
+Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "The Miracles Foundation presents: DETROIT BLOCK PARTY" on Sat, 18 Jul 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including 88 MPH, Alton Miller, Austin Buck and Boo Williams and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -18,4 +18,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

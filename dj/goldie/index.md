@@ -1,14 +1,13 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at World Headquarters, Newcastle on Fri, 17 Jul 2026.
+Goldie is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Volks, Brighton on Sat, 8 Aug 2026.
 
-Goldie is a drum & bass and jungle artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: World Headquarters, Newcastle on Fri 17 Jul.
+Goldie is a drum & bass and jungle artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Volks, Brighton on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | World Headquarters | Newcastle |
 | Sat, 8 Aug 2026 | Volks | Brighton |
 | Thu, 13 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Parc des Etangs/Vijverspark | Brussels |
@@ -22,6 +21,7 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 154 sets l
 
 ## Recently played
 
+- World Headquarters, Newcastle — Fri, 17 Jul 2026
 - Moseley Park, Birmingham — Fri, 10 Jul 2026
 - Melkweg, Amsterdam — Sat, 4 Jul 2026
 - Distrikt, Prague — Sat, 27 Jun 2026
@@ -29,10 +29,9 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 154 sets l
 - The Cause, London — Sun, 14 Jun 2026
 - Het Twiske, Amsterdam — Sat, 23 May 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
-- fi, Cologne — Sat, 23 May 2026
 
 ## Shares bills with
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

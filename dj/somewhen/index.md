@@ -1,14 +1,13 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sala Urbana, Mexico City on Fri, 17 Jul 2026.
+Somewhen is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Union Park, Chicago on Sat, 18 Jul 2026.
 
-Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Sala Urbana, Mexicocity on Fri 17 Jul.
+Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Union Park, Chicago on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Sala Urbana | Mexico City |
 | Sat, 18 Jul 2026 | Union Park | Chicago |
 | Sat, 25 Jul 2026 | Rebstockpark | Frankfurt |
 | Sat, 1 Aug 2026 | Donauinsel | Vienna |
@@ -23,6 +22,7 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logg
 
 ## Recently played
 
+- Sala Urbana, Mexico City — Fri, 17 Jul 2026
 - Boomerang Beach, The Hague — Sun, 28 Jun 2026
 - Fabrik, Madrid — Sat, 27 Jun 2026
 - TBA - TANZ INSEL OPEN AIR, Nürnberg — Sat, 27 Jun 2026
@@ -30,10 +30,9 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 202 sets logg
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - Arzenal, Budapest — Sat, 16 May 2026
 - Index, Dublin — Fri, 8 May 2026
-- Spook Club, Valencia — Sat, 2 May 2026
 
 ## Shares bills with
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

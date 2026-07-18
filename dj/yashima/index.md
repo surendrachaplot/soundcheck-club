@@ -1,6 +1,6 @@
 # Yashima
 
-Yashima is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Area51 / 17map Minami, Osaka on Sat, 18 Jul 2026.
+Yashima is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Area51 / 17map Minami, Osaka on Sat, 18 Jul 2026.
 
 Yashima is a tech house and house artist based in Japan, tracked on soundcheck, with 44 sets logged across Osaka and Tokyo. Often billed alongside KONDO Mitsuo, MAX PELA and Cine. Next up: Area51 / 17map Minami, Osaka on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Yashima is a tech house and house artist based in Japan, tracked on soundcheck, 
 
 KONDO Mitsuo, MAX PELA, Cine
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yashima/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yashima/)*

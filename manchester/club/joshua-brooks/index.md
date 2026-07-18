@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Day Time Disco: Melon Bomb" on Sat, 18 Jul 2026.
+Joshua Brooks is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Day Time Disco: Melon Bomb" on Sat, 18 Jul 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Because of Art, Doc Scott, Goldie and James Greenwood and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -20,4 +20,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 7 upcoming ni
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

@@ -1,6 +1,6 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Palais de Tokyo, Paris on Sat, 25 Jul 2026.
+VEL (MA) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Palais de Tokyo, Paris on Sat, 25 Jul 2026.
 
 VEL (MA) is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Palais de Tokyo, Paris on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ VEL (MA) is a techno and trance artist tracked on soundcheck, with 138 sets logg
 
 Anetha, A Strange Wedding, Mac Declos
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*

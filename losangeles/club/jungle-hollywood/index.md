@@ -1,6 +1,6 @@
 # Jungle Hollywood
 
-Jungle Hollywood is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Deep House Brunch: World Cup Edition" on Sat, 18 Jul 2026.
+Jungle Hollywood is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Deep House Brunch: World Cup Edition" on Sat, 18 Jul 2026.
 
 Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Danny B (LA), Derrick Wize, DJ Colette and J-Dub and 2 more. Browse upcoming dates, start times and who's playing. 1640 N Cahuenga Blvd, Los Angeles, CA 90028.
 
@@ -16,4 +16,4 @@ Jungle Hollywood is a music venue in Losangeles listed on soundcheck. 3 upcoming
 
 1640 N Cahuenga Blvd, Los Angeles, CA 90028, Los Angeles
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/jungle-hollywood/)*

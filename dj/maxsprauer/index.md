@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Apollo Studio, New York City on Sat, 18 Jul 2026.
+Max Sprauer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Apollo Studio, New York City on Sat, 18 Jul 2026.
 
 Max Sprauer is a house and techno artist tracked on soundcheck, with 97 sets logged across Berlin, Boston, Brussels and Chicago and 8 more. Often billed alongside Shvili, Rama NYC and Rasho. Next up: Apollo Studio, Newyorkcity on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 97 sets log
 
 Shvili, Rama NYC, Rasho
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

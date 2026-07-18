@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Threshold x Fossils in Transit" on Sat, 18 Jul 2026.
+C12 is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Threshold x Fossils in Transit" on Sat, 18 Jul 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including Afonso Peixoto, Amalie, BORED BOUDDHA and Ennio Tyson and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -20,4 +20,4 @@ C12 is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with l
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

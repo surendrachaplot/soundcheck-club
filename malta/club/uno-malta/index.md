@@ -1,14 +1,13 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 25 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "COCORICÒ PRES GALACTICA MALTA" on Fri, 17 Jul 2026.
+UNO MALTA is a music venue in Malta with 24 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Ilario Alicante" on Sun, 19 Jul 2026.
 
-UNO MALTA is a music venue in Malta listed on soundcheck. 25 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
+UNO MALTA is a music venue in Malta listed on soundcheck. 24 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Ale De Tuglie and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | COCORICÒ PRES GALACTICA MALTA | Fatima Hajji, MaMo, sizing |
 | Sun, 19 Jul 2026 | Ilario Alicante | Ilario Alicante |
 | Wed, 22 Jul 2026 | JUSTICE - SHIVA |  |
 | Fri, 24 Jul 2026 | COCORICÒ PRES GALACTICA MALTA | Gianni Di Bernardo, KARAH |
@@ -18,9 +17,10 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 25 upcoming nights, wi
 | Fri, 7 Aug 2026 | COCORICÒ PRES GALACTICA MALTA | Fantasm, MaMo |
 | Sat, 8 Aug 2026 | Elrow Island Malta Takeover | Ale De Tuglie, Baum, Carl Bee, Cera Khin, Daniel Blade, David Löhlein, Dimmish, Eats Everything, Estella Boersma, Hector Couto, Luxi Villar, Marco Faraone, Melé, Mr. Belt & Wezol, Olive F, Pawlowski, Pocci, Rendher, Sante Sansone, Wade |
 | Wed, 12 Aug 2026 | Carl Cox | Carl Cox |
+| Thu, 13 Aug 2026 | COCORICÒ PRES GALACTICA MALTA | DAISY, Holy Priest |
 
 ## Address
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

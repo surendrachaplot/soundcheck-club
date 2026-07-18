@@ -1,6 +1,6 @@
 # Iron Curtis
 
-Iron Curtis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Iron Curtis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Iron Curtis is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Frankfurt, Hamburg and Istanbul and 4 more. Often billed alongside Johannes Albert, Robert Drewek and Jessamine. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Iron Curtis is a house and techno artist based in Germany, tracked on soundcheck
 
 Johannes Albert, Robert Drewek, Jessamine
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ironcurtis/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ironcurtis/)*

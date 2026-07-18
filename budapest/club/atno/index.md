@@ -1,6 +1,6 @@
 # Atno
 
-Atno is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "◉ RIGHT TIME - TRIPPIN' ON SUNSHINE ◉" on Sat, 18 Jul 2026.
+Atno is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "◉ RIGHT TIME - TRIPPIN' ON SUNSHINE ◉" on Sat, 18 Jul 2026.
 
 Atno is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including 96zen, Aikatherina, Benc and Breakforce One and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
 
@@ -18,4 +18,4 @@ Atno is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with 
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

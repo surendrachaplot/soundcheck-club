@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "vom Feisten // SevenDays" on Sat, 18 Jul 2026.
+Fundbureau is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "vom Feisten // SevenDays" on Sat, 18 Jul 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including Alexa Fluor, Marcus Meinhardt, SevenDays and SVE and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, 
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

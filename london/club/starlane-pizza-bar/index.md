@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 26 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Third Nature @Starlane" on Fri, 17 Jul 2026.
+Starlane Pizza Bar is a music venue in London with 25 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is " EXTENDED SUMMER SESSION 2" on Sat, 18 Jul 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including TommyGDJ, Andrea Giudice, Aniaef and Arnaud Le Texier and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including TommyGDJ, Andrea Giudice, Aniaef and Arnaud Le Texier and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Third Nature @Starlane |  |
 | Sat, 18 Jul 2026 |  EXTENDED SUMMER SESSION 2 | E. Alexander, Ivan Iacobucci, JUNTARO Y, Modebaku |
 | Sun, 19 Jul 2026 | Saints & Sinners with Arnaud Le Texier, Desireè, Greg Brockmann & nohexcode b2b CITYTRONIX | Arnaud Le Texier, CITYTRONIX, Desiree', Greg Brockmann, nohexcode |
 | Sun, 19 Jul 2026 | Bubbledee: Sunday Morning Afterparty at Star Lane (4am-2pm) | Andrea Giudice, Larry Cadge |
@@ -18,9 +17,10 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming 
 | Fri, 31 Jul 2026 | JFF invites StandUP - Just For Fun 4 | Monterosso, Oren (IT), Oren., Save P, Ughe, Vlad Ioachimescu, Yuma (UK) |
 | Sat, 1 Aug 2026 | Nitty Gritty presents: Moon Till Noon |  |
 | Sat, 1 Aug 2026 | Brady and Friends | Brands, Diego Gee, K.Wilson, Matt Arnold, Olly Brady, SMOKEYY |
+| Sun, 2 Aug 2026 | Saints & Sinners with Jeneva b2b Vesolo, Noah Tauber, S Ruston, Ylia b2b Aniaef | Aniaef, Jeneva, Noah Tauber, S Ruston, Vesolo, Ylia (UK) |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

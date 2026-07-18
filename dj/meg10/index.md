@@ -1,6 +1,6 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at PRST, Vienna on Sat, 18 Jul 2026.
+Meg10 is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at PRST, Vienna on Sat, 18 Jul 2026.
 
 Meg10 is a techno and club artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 29 more. Often billed alongside Hanaby, MCR-T and Yazzus. Next up: PRST, Vienna on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Meg10 is a techno and club artist tracked on soundcheck, with 136 sets logged ac
 
 Hanaby, MCR-T, Yazzus
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

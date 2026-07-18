@@ -1,6 +1,6 @@
 # John Bryars
 
-John Bryars is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, San Diego on Sat, 18 Jul 2026.
+John Bryars is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, San Diego on Sat, 18 Jul 2026.
 
 John Bryars is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Annika Wolfe, Corey Sizemore and Etari. Next up: TBA, Sandiego on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ John Bryars is a techno and house artist based in United States of America, trac
 
 Annika Wolfe, Corey Sizemore, Etari
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbryars/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbryars/)*

@@ -1,14 +1,13 @@
 # All My Friends
 
-All My Friends is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Jos - ALL NIGHT LONG" on Fri, 17 Jul 2026.
+All My Friends is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Illusive Rhythm Residents (FREE ACCESS)" on Thu, 30 Jul 2026.
 
-All My Friends is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including KT, Crumpler, Eddie Richards and Jos and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
+All My Friends is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including KT, Crumpler, Eddie Richards and Kyle Parsley and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Jos - ALL NIGHT LONG | Jos |
 | Thu, 30 Jul 2026 | Illusive Rhythm Residents (FREE ACCESS) | Samuel Richter, Sleazy_G |
 | Fri, 31 Jul 2026 | Fantasma 002 | Crumpler |
 | Fri, 21 Aug 2026 | Type One Community: Hackney Wick Residency - Free Entry | Kyle Parsley |
@@ -19,4 +18,4 @@ All My Friends is a music venue in London listed on soundcheck. 6 upcoming night
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

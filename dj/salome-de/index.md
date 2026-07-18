@@ -1,14 +1,13 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at ESC, Montreal on Fri, 17 Jul 2026.
+SALOME is a Techno and Electro artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Point Ephémère, Paris on Sat, 18 Jul 2026.
 
-SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: ESC, Montreal on Fri 17 Jul.
+SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Point Ephémère, Paris on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | ESC | Montreal |
 | Sat, 18 Jul 2026 | Point Ephémère | Paris |
 | Sat, 18 Jul 2026 | Union Park | Chicago |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
@@ -22,6 +21,7 @@ SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logge
 
 ## Recently played
 
+- ESC, Montreal — Fri, 17 Jul 2026
 - TRANSMISSION DC, Washington DC — Thu, 16 Jul 2026
 - Fvtvr, Paris — Fri, 10 Jul 2026
 - Lofi, Amsterdam — Sat, 4 Jul 2026
@@ -29,10 +29,9 @@ SALOME is a techno and electro artist tracked on soundcheck, with 202 sets logge
 - Fira Gran Via, Barcelona — Thu, 18 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Le Sucre, Lyon — Sat, 30 May 2026
-- CLUB RAUM, Amsterdam — Fri, 29 May 2026
 
 ## Shares bills with
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

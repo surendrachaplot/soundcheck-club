@@ -1,6 +1,6 @@
 # Black Tiger Sex Machine
 
-Black Tiger Sex Machine is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Black Tiger Sex Machine is a Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Black Tiger Sex Machine is a bass and dubstep artist tracked on soundcheck, with 18 sets logged across Austin, Boston, Buenosaires and Losangeles and 8 more. Often billed alongside Lilly Palmer, Benny Benassi and Boys Noize. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Black Tiger Sex Machine is a bass and dubstep artist tracked on soundcheck, with
 
 Lilly Palmer, Benny Benassi, Boys Noize
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktigersexmachine/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktigersexmachine/)*

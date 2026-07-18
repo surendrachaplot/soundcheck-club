@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Shed presents et al and usual suspects" on Fri, 17 Jul 2026.
+Nice N Sleazy is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "NICE N PROUD (10 HOUR PRIDE PARTY)" on Sat, 18 Jul 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including Aileron, EL PADRE, Et Al (1) and eurokels and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming nights, with line-ups including Aileron, EL PADRE, eurokels and Gabor Matty and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Shed presents et al and usual suspects | Et Al (1) |
 | Sat, 18 Jul 2026 | NICE N PROUD (10 HOUR PRIDE PARTY) | Gabor Matty, Suzie Mac, eurokels, saparilla |
 | Thu, 23 Jul 2026 | Imposter Showcase |  |
 | Fri, 24 Jul 2026 | STRANGE NEIGHBOURS |  |
@@ -22,4 +21,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming night
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

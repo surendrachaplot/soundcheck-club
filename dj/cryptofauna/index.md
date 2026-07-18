@@ -1,6 +1,6 @@
 # Cryptofauna
 
-Cryptofauna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
+Cryptofauna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lark, Berlin on Sat, 18 Jul 2026.
 
 Cryptofauna is a techno and trance artist tracked on soundcheck, with 130 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: Lark, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Cryptofauna is a techno and trance artist tracked on soundcheck, with 130 sets l
 
 Carly Zeng, Faerber, ENNIO
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*

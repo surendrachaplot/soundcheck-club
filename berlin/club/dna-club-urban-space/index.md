@@ -1,6 +1,6 @@
 # DNA. CLUB - urban Space
 
-DNA. CLUB - urban Space is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce" on Sat, 18 Jul 2026.
+DNA. CLUB - urban Space is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce" on Sat, 18 Jul 2026.
 
 DNA. CLUB - urban Space is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including bbymeister, bouncy cat, cell1 and DJ Paradox and 1 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -22,4 +22,4 @@ DNA. CLUB - urban Space is a music venue in Berlin listed on soundcheck. 9 upcom
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club-urban-space/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club-urban-space/)*

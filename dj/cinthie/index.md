@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Queen's Park Arena, Glasgow on Sat, 1 Aug 2026.
+Cinthie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Queen's Park Arena, Glasgow on Sat, 1 Aug 2026.
 
 Cinthie is a house and techno artist tracked on soundcheck, with 270 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Queen's Park Arena, Glasgow on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Cinthie is a house and techno artist tracked on soundcheck, with 270 sets logged
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

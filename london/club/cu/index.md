@@ -1,14 +1,13 @@
 # Cu
 
-Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Bassweight Cuts & NLDC: 'For The Youth' Fundraiser" on Fri, 17 Jul 2026.
+Cu is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Sub:Motion presents: Summer Sessions" on Sat, 18 Jul 2026.
 
-Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Blackdown, DJ Button Moon, Elijah and Skilliam and iasc and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Blackdown, DJ Button Moon, Elijah and Skilliam and iasc and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Bassweight Cuts & NLDC: 'For The Youth' Fundraiser |  |
 | Sat, 18 Jul 2026 | Sub:Motion presents: Summer Sessions |  |
 | Sat, 25 Jul 2026 | Danesfield Terrace | Peggs, Tyvion Valentine, iasc |
 | Sat, 1 Aug 2026 | Plastician All Dayer - Courtyard B-B-Cu |  |
@@ -19,4 +18,4 @@ Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

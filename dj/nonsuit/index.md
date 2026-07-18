@@ -1,6 +1,6 @@
 # nonsuit
 
-nonsuit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
+nonsuit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 7 Aug 2026.
 
 nonsuit is a techno and club artist tracked on soundcheck, with 93 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco and 1 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: F8 1192 Folsom, Sanfrancisco on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ nonsuit is a techno and club artist tracked on soundcheck, with 93 sets logged a
 
 likeholywine, Adam Kraft, Beverly Chills
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*

@@ -1,6 +1,6 @@
 # Ausland
 
-Ausland is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Frictive Frequencies: Munsha / DuChamp / Lun Ário" on Sat, 12 Sept 2026.
+Ausland is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Frictive Frequencies: Munsha / DuChamp / Lun Ário" on Sat, 12 Sept 2026.
 
 Ausland is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Munsha. Browse upcoming dates, start times and who's playing. Lychener Strasse 60; Prenzlauer Berg; 10437 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Ausland is a music venue in Berlin listed on soundcheck. 1 upcoming night, with 
 
 Lychener Strasse 60; Prenzlauer Berg; 10437 Berlin; Germany, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ausland/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ausland/)*

@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Schall im Schilf Afterparty x Goldener Reiter x Legal w./ Bogus, DJ Trompete, DJ Pee Bee & more" on Sat, 18 Jul 2026.
+Legal is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Schall im Schilf Afterparty x Goldener Reiter x Legal w./ Bogus, DJ Trompete, DJ Pee Bee & more" on Sat, 18 Jul 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including A-DEE, Bogus Trumper, CHIEF QUEEF and DJ Trompete and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -16,4 +16,4 @@ Legal is a music venue in Munich listed on soundcheck. 3 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

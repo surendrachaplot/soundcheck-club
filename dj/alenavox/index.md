@@ -1,6 +1,6 @@
 # Alena Vox
 
-Alena Vox is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Sunday Sunday, Mexico City on Sun, 19 Jul 2026.
+Alena Vox is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sunday Sunday, Mexico City on Sun, 19 Jul 2026.
 
 Alena Vox is a house and deep house artist based in Mexico, tracked on soundcheck, with 68 sets logged across Mexicocity, Portland and Sandiego. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Rubinskee. Next up: Sunday Sunday, Mexicocity on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Alena Vox is a house and deep house artist based in Mexico, tracked on soundchec
 
 Duke Skylocker (Disco Dust), Miss Voltaghe, Rubinskee
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alenavox/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alenavox/)*

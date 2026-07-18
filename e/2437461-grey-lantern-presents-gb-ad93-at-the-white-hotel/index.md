@@ -1,6 +1,6 @@
-# Grey Lantern presents: GB [AD93 at The White Hotel
+# Grey Lantern presents: GB [AD93] at The White Hotel
 
-Grey Lantern presents: GB [AD93 at The White Hotel on Fri 2 Oct, Manchester. Pop. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: GB [AD93] at The White Hotel on Fri 2 Oct, Manchester. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

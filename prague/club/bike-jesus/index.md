@@ -1,15 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "WELLWET w / Rigopolar (Live)" on Fri, 17 Jul 2026.
+Bike Jesus is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "KOSMICA" on Sat, 18 Jul 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including ANĪC, Ark3r, AVHD and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including ANĪC, AVHD, Axel Boman and Barbora and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | WELLWET w / Rigopolar (Live) | Ark3r, De Mode, Rigopolar, kuju |
-| Fri, 17 Jul 2026 | Disco(very) Gathering at REVO with WHYDIE? MARGI, Divnyutvar, DJ ROIBOSS |  |
 | Sat, 18 Jul 2026 | KOSMICA |  |
 | Sat, 18 Jul 2026 | SLAP | Dash (CZ), Ella Pavel, Jemazzz, KVLR, Marc000, Misha Jaru, fbi (1) |
 | Fri, 24 Jul 2026 | ✦ Kitchen Collective ✦ at Bike & REVO | AVHD, DJames (2), Fake Agent, JÄMO, Kaotic, Lukr Range, Takē, ishka machina |
@@ -21,4 +19,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

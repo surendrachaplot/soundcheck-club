@@ -1,6 +1,6 @@
 # Paty Vapor
 
-Paty Vapor is a EBM and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Urban Spree, Berlin on Sun, 19 Jul 2026.
+Paty Vapor is a EBM and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Urban Spree, Berlin on Sun, 19 Jul 2026.
 
 Paty Vapor is an ebm and italo disco artist based in Brazil, tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Buenosaires and Cologne and 8 more. Often billed alongside Paty, Franz Scala and Berlin Bunny. Next up: Urban Spree, Berlin on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Paty Vapor is an ebm and italo disco artist based in Brazil, tracked on soundche
 
 Paty, Franz Scala, Berlin Bunny
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patyvapor/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/patyvapor/)*

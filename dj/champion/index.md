@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Quarters, Brighton on Fri, 24 Jul 2026.
+Champion is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Quarters, Brighton on Fri, 24 Jul 2026.
 
 Champion is a garage and bass artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 15 more. Often billed alongside Oppidan, Bakey and MPH (1). Next up: Quarters, Brighton on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Champion is a garage and bass artist tracked on soundcheck, with 46 sets logged 
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

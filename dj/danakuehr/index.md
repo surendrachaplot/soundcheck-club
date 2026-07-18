@@ -1,6 +1,6 @@
 # Dana Kuehr
 
-Dana Kuehr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
+Dana Kuehr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Club der Visionaere, Berlin on Tue, 28 Jul 2026.
 
 Dana Kuehr is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 8 more. Often billed alongside Fais Le Beau, DJ Rino and Karla Böhm. Next up: Club der Visionaere, Berlin on Tue 28 Jul.
 
@@ -27,4 +27,4 @@ Dana Kuehr is a house and techno artist based in United States of America, track
 
 Fais Le Beau, DJ Rino, Karla Böhm
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danakuehr/)*

@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
+Funk Tribu is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri, 31 Jul 2026.
 
 Funk Tribu is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 164 sets lo
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

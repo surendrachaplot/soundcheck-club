@@ -1,14 +1,13 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "DARK FANTASY" on Fri, 17 Jul 2026.
+The Sound House is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "KRONIK005 - KEELY INVITES B2B ANL" on Sat, 18 Jul 2026.
 
-The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including ALPER SKR, Cody Wong, Girls of the Internet and Jacob Matthews and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
+The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ALPER SKR, Cody Wong, Girls of the Internet and Jacob Matthews and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | DARK FANTASY |  |
 | Sat, 18 Jul 2026 | KRONIK005 - KEELY INVITES B2B ANL |  |
 | Sat, 18 Jul 2026 | ISR PRESENTS DAY PARTY |  |
 | Fri, 24 Jul 2026 | MAZE X & IMPULSE - FACE2FACE | Trypdø |
@@ -23,4 +22,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 10 upcoming nig
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

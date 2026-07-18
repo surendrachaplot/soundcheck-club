@@ -1,14 +1,13 @@
 # Kockiri
 
-Kockiri is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "KOCKIRI" on Fri, 17 Jul 2026.
+Kockiri is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "KOCKIRI" on Sat, 18 Jul 2026.
 
-Kockiri is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Hyungmin, Jaezae, July (1) and MORAE and 2 more. Browse upcoming dates, start times and who's playing. 46, Usadan-ro, Yongsan-gu, Seoul, 04405, Republic of Korea.
+Kockiri is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including July (1), MORAE, Uni (3) and YAREE. Browse upcoming dates, start times and who's playing. 46, Usadan-ro, Yongsan-gu, Seoul, 04405, Republic of Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | KOCKIRI | Hyungmin, Jaezae, Sarayu |
 | Sat, 18 Jul 2026 | KOCKIRI | July (1), Uni (3), YAREE |
 | Sun, 19 Jul 2026 | KOCKIRI | MORAE |
 
@@ -16,4 +15,4 @@ Kockiri is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with 
 
 46, Usadan-ro, Yongsan-gu, Seoul, 04405, Republic of Korea, Seoul
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/kockiri/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/kockiri/)*

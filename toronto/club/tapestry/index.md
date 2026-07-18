@@ -1,6 +1,6 @@
 # Tapestry
 
-Tapestry is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "FourByFour presents: The Night Shift" on Sat, 18 Jul 2026.
+Tapestry is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "FourByFour presents: The Night Shift" on Sat, 18 Jul 2026.
 
 Tapestry is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 224 Augusta Ave..
 
@@ -14,4 +14,4 @@ Tapestry is a music venue in Toronto listed on soundcheck. 1 upcoming night. Bro
 
 224 Augusta Ave., Toronto
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tapestry/)*

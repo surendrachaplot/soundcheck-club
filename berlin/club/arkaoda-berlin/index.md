@@ -1,14 +1,13 @@
 # arkaoda Berlin
 
-arkaoda Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Osàre! Editions x arkaoda" on Fri, 17 Jul 2026.
+arkaoda Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Pace Yourself: DJ Fett Burger, Jank Inc., Vani-T (live), Der Opium Queen & Florence" on Sat, 18 Jul 2026.
 
-arkaoda Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including A.Wild, Amperia, Barmus and Batukizer and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
+arkaoda Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including A.Wild, Amperia, Barmus and Batukizer and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx Platz 16 12043 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Osàre! Editions x arkaoda | Buttechno, Elena Colombi, RRRKRTA |
 | Sat, 18 Jul 2026 | Pace Yourself: DJ Fett Burger, Jank Inc., Vani-T (live), Der Opium Queen & Florence | DJ Fett Burger, Jank Inc., Vani-T |
 | Wed, 22 Jul 2026 | Seedj presents: A Day Behind the Scenes II | Bloody Mary, Manrick Stapez, Toobris |
 | Thu, 23 Jul 2026 | Queer Vinyl Night Pre-CSD Party | Amperia, Barmus, Madalba, Marie Malarie, VIKI |
@@ -18,9 +17,10 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nigh
 | Fri, 31 Jul 2026 | MNJM | ELAYN, Kasja, Mahita, Milad Samara, Qow |
 | Sat, 1 Aug 2026 | Batukizer & Kabulom at arkaoda | Batukizer, Kabulom |
 | Sun, 2 Aug 2026 | Vinyl Market with Batukizer |  |
+| Sat, 8 Aug 2026 | Braygray — 1 Year　A.Wild , Diamin b2b Sean Gates , SONOKI | A.Wild, Diamin, SONOKI |
 
 ## Address
 
 Karl-Marx Platz 16 12043 Berlin, Germany, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/arkaoda-berlin/)*

@@ -1,14 +1,13 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Kim Anh, Sissies of Mercy, Refrakt, Clubsásta - Dead Letter No.9" on Fri, 17 Jul 2026.
+Dead Letter No. 9 is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Freshly Pressed presents: Alissa Brianna, Arianna Danae, Vivian Wang, YNDENT, SMURFOUDIRTY" on Sat, 18 Jul 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Alissa Brianna, Bea Trinidad, BIGTER and Blvck Truffle and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alissa Brianna, Bea Trinidad, BIGTER and Blvck Truffle and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Kim Anh, Sissies of Mercy, Refrakt, Clubsásta - Dead Letter No.9 | Kim Anh, Refrakt, Sissies of Mercy |
 | Sat, 18 Jul 2026 | Freshly Pressed presents: Alissa Brianna, Arianna Danae, Vivian Wang, YNDENT, SMURFOUDIRTY | Alissa Brianna, Arianna Danae, SMURFOUDIRTY, Vivian Wang |
 | Sat, 18 Jul 2026 | We Are Eclipse: Valencia, JLU, Sebastian Welch - Dead Letter No.9 | JLu (MX), Valencia |
 | Sun, 19 Jul 2026 | World Cup Final Watch Party + Soul Brunch: Rafael De La Cruz, Jake From State Pharm, Too Human | Jake From State Pharm, Rafael De La Cruz |
@@ -18,9 +17,10 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 11 upcom
 | Sat, 25 Jul 2026 | Carozilla, Jinmoo, BIGTER (Kompakt Records), James Park - Dead Letter No.9 | BIGTER, Carozilla, James Park. |
 | Fri, 31 Jul 2026 | Ultra Violet, Sailor Goon, SMURFOUDIRTY - Dead Letter No.9 | DJ Ultra Violet, SMURFOUDIRTY |
 | Sat, 1 Aug 2026 | The Disco Express: Blvck Truffle, Bea Trinidad, Bustin' Loose, Roland & Brother Rich | Bea Trinidad, Blvck Truffle, Bustin' Loose, Roland & Brother Rich |
+| Fri, 7 Aug 2026 | Orson, CatLadyHi, Bahng, Ramon, Eric Modz, Miss Hazard + more | CatLadyHi, Eric Modz, Miss Hazard, Orson.NYC |
 
 ## Address
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

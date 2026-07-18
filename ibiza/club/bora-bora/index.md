@@ -1,6 +1,6 @@
 # Bora Bora
 
-Bora Bora is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Bora Bora" on Sat, 25 Jul 2026.
+Bora Bora is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bora Bora" on Sat, 25 Jul 2026.
 
 Bora Bora is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Mimmo Errico. Browse upcoming dates, start times and who's playing. Carretera de Platja d'en Bossa, 07817 Eivissa, Ibiza.
 
@@ -14,4 +14,4 @@ Bora Bora is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with
 
 Carretera de Platja d'en Bossa, 07817 Eivissa, Ibiza, Ibiza
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/bora-bora/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/bora-bora/)*

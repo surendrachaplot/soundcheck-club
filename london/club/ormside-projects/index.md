@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 14 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ÜNDERGØDS 11" on Fri, 17 Jul 2026.
+Ormside Projects is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "re:lax with Suzi Analogue, Chinese Daughter, re:ni b2b Laksa" on Sat, 18 Jul 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Ab.Diablo, Annabel Fraser, A-Sides and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Ab.Diablo, A-Sides, Azu Tiwaline and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | ÜNDERGØDS 11 | Annabel Fraser, Lord Tusk |
 | Sat, 18 Jul 2026 | re:lax with Suzi Analogue, Chinese Daughter, re:ni b2b Laksa | Chinese Daughter, Laksa, Suzi Analogue, re:ni |
 | Fri, 24 Jul 2026 | JIJEI X ORMSIDE / MC ZKW / onoola-sama / Grandmixxer / DARKIO BLACKS  | Grandmixxer, onoola-sama |
 | Wed, 29 Jul 2026 | Knee Deep in Custard x Great Area |  |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming ni
 | Fri, 7 Aug 2026 | Influences | A-Sides, Decibella, RUNDR, Stretch AKO, Tim Reaper |
 | Sat, 8 Aug 2026 | Warmth presents: DJ Travella, Bushbby, Teddy Kitano, WAAW + more | Ab.Diablo, Bushbby, DJ Travella, Teddy Kitano, VIRI$$, WAAW |
 | Fri, 14 Aug 2026 | Collective Hysteria w/ RBI (live), ÇINTH, Jezebelle & Lovelace | Jezebelle, Lovelace, RBI (Aus), ÇINTH |
+| Sat, 15 Aug 2026 | ORMSIDE presents: Nkisi | Nkisi |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

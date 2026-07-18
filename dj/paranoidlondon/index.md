@@ -1,19 +1,19 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 17 Jul 2026.
+Paranoid London is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at KOKO, London on Sat, 25 Jul 2026.
 
-Paranoid London is a techno and acid artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 17 Jul.
+Paranoid London is a techno and acid artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: KOKO, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 25 Jul 2026 | KOKO | London |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
 - Mia Mao, Paris — Sat, 27 Jun 2026
 - The Golden Lion, Manchester — Sat, 13 Jun 2026
 - The Cause, London — Sat, 6 Jun 2026
@@ -21,10 +21,9 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 115 sets
 - Peckham Rye Park, London — Fri, 22 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 - PROGRESS, Manchester — Sat, 2 May 2026
-- 24 Kitchen Street, Liverpool — Fri, 1 May 2026
 
 ## Shares bills with
 
 Palms Trax, Elena Colombi, FJAAK
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

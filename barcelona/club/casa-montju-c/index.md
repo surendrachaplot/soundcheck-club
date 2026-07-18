@@ -1,6 +1,6 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Zero Castigo + Mark Allen Sou" on Sat, 18 Jul 2026.
+Casa Montjuïc is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Zero Castigo + Mark Allen Sou" on Sat, 18 Jul 2026.
 
 Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
@@ -16,4 +16,4 @@ Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 3 upcoming ni
 
 Vila i Vilà 65, 08004, Barcelona, Barcelona
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/casa-montju-c/)*

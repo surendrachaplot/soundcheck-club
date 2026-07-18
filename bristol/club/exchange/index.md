@@ -1,6 +1,6 @@
 # Exchange
 
-Exchange is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "GONE FISHIN' @ Exchange" on Fri, 31 Jul 2026.
+Exchange is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "GONE FISHIN' @ Exchange" on Fri, 31 Jul 2026.
 
 Exchange is a music venue in Bristol listed on soundcheck. 2 upcoming nights, with line-ups including JPEG (3). Browse upcoming dates, start times and who's playing. 72-73 Old Market; Bristol BS2 0EJ; United Kingdom.
 
@@ -15,4 +15,4 @@ Exchange is a music venue in Bristol listed on soundcheck. 2 upcoming nights, wi
 
 72-73 Old Market; Bristol BS2 0EJ; United Kingdom, Bristol
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*

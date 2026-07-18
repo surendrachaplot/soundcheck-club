@@ -1,6 +1,6 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at LA-YAM Rooftop, London on Sat, 18 Jul 2026.
+Phill de Janeiro is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at LA-YAM Rooftop, London on Sat, 18 Jul 2026.
 
 Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: LA-YAM Rooftop, London on Sat 18 Jul.
 
@@ -32,4 +32,4 @@ Phill de Janeiro is a house and tech house artist tracked on soundcheck, with 93
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

@@ -1,6 +1,6 @@
 # Lawrence
 
-Lawrence is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
+Lawrence is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at DC-10, Ibiza on Mon, 27 Jul 2026.
 
 Lawrence is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Basel and Berlin and 16 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: DC-10, Ibiza on Mon 27 Jul.
 
@@ -27,4 +27,4 @@ Lawrence is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*

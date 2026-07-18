@@ -1,6 +1,6 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colorado Charlie, The Hague on Sat, 18 Jul 2026.
+OLIVIA LENSEN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Colorado Charlie, The Hague on Sat, 18 Jul 2026.
 
 OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soundcheck, with 53 sets logged across Amsterdam, Cologne, Rotterdam and Thehague and 1 more. Often billed alongside Lisa Korver, DART and Moody Mehran. Next up: Colorado Charlie, Thehague on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soun
 
 Lisa Korver, DART, Moody Mehran
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

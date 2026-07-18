@@ -1,6 +1,6 @@
 # Skylight Warehouse
 
-Skylight Warehouse is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "CHARMAGEDDON" on Sat, 18 Jul 2026.
+Skylight Warehouse is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "CHARMAGEDDON" on Sat, 18 Jul 2026.
 
 Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, with line-ups including Anna Morgan, ladylucki, Love Higher and mykissera and 2 more. Browse upcoming dates, start times and who's playing. 1800 Main St Back Entrance.
 
@@ -16,4 +16,4 @@ Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 3 upcomin
 
 1800 Main St Back Entrance, Vancouver
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*

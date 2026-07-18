@@ -1,6 +1,6 @@
 # Matthew Dear
 
-Matthew Dear is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Club Vinyl, Denver on Sat, 18 Jul 2026.
+Matthew Dear is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Club Vinyl, Denver on Sat, 18 Jul 2026.
 
 Matthew Dear is a techno and house artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Boston and Chicago and 12 more. Often billed alongside Juan Maclean, Carl Craig and Trip Report. Next up: Club Vinyl, Denver on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Matthew Dear is a techno and house artist tracked on soundcheck, with 48 sets lo
 
 Juan Maclean, Carl Craig, Trip Report
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*

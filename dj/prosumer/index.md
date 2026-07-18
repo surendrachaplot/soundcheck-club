@@ -1,14 +1,13 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Fidelity Studio, Dublin on Fri, 17 Jul 2026.
+Prosumer is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Shipyards North Vancouver, Vancouver on Sat, 18 Jul 2026.
 
-Prosumer is a house and techno artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Fidelity Studio, Dublin on Fri 17 Jul.
+Prosumer is a house and techno artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: TBA - Shipyards North Vancouver, Vancouver on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Fidelity Studio | Dublin |
 | Sat, 18 Jul 2026 | TBA - Shipyards North Vancouver | Vancouver |
 | Fri, 31 Jul 2026 | Trädgården | Stockholm |
 | Sat, 15 Aug 2026 | The Cause | London |
@@ -21,6 +20,7 @@ Prosumer is a house and techno artist tracked on soundcheck, with 165 sets logge
 
 ## Recently played
 
+- Fidelity Studio, Dublin — Fri, 17 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Karmen Camina, Strasbourg — Fri, 3 Jul 2026
 - La Paloma, Barcelona — Sat, 27 Jun 2026
@@ -28,10 +28,9 @@ Prosumer is a house and techno artist tracked on soundcheck, with 165 sets logge
 - The Love Inn, Bristol — Sat, 13 Jun 2026
 - The Cause, London — Sat, 6 Jun 2026
 - essaim, Paris — Sat, 6 Jun 2026
-- Sneaky Pete's, Edinburgh — Fri, 29 May 2026
 
 ## Shares bills with
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

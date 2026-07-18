@@ -1,6 +1,6 @@
 # Ninajirachi
 
-Ninajirachi is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Kesselhaus, Berlin on Wed, 19 Aug 2026.
+Ninajirachi is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kesselhaus, Berlin on Wed, 19 Aug 2026.
 
 Ninajirachi is a pop and club artist tracked on soundcheck, with 55 sets logged across Auckland, Austin, Barcelona and Berlin and 23 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Kesselhaus, Berlin on Wed 19 Aug.
 
@@ -27,4 +27,4 @@ Ninajirachi is a pop and club artist tracked on soundcheck, with 55 sets logged 
 
 umru, Izzy Camina, KAVARI
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

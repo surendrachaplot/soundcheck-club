@@ -1,20 +1,20 @@
 # Olivier Weiter
 
-Olivier Weiter is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Odonien, Cologne on Fri, 17 Jul 2026.
+Olivier Weiter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Het Sieraad, Amsterdam on Sat, 18 Jul 2026.
 
-Olivier Weiter is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Miss Melera, Huminal and Mees Salomé. Next up: Odonien, Cologne on Fri 17 Jul.
+Olivier Weiter is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Miss Melera, Huminal and Mees Salomé. Next up: Het Sieraad, Amsterdam on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Odonien | Cologne |
 | Sat, 18 Jul 2026 | Het Sieraad | Amsterdam |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 12 Sept 2026 | Ijland | Amsterdam |
 
 ## Recently played
 
+- Odonien, Cologne — Fri, 17 Jul 2026
 - Paal69, Amsterdam — Fri, 12 Jun 2026
 - Tuinen van West, Amsterdam — Sat, 23 May 2026
 - Kaap Amsterdam, Amsterdam — Sun, 17 May 2026
@@ -22,10 +22,9 @@ Olivier Weiter is a techno and house artist tracked on soundcheck, with 64 sets 
 - BASIS, Utrecht — Sat, 25 Apr 2026
 - Ijland, Amsterdam — Sat, 28 Feb 2026
 - THE OTHER SIDE, Amsterdam — Fri, 6 Feb 2026
-- Kaap Amsterdam, Amsterdam — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Miss Melera, Huminal, Mees Salomé
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierweiter/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierweiter/)*

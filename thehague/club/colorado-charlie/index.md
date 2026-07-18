@@ -1,6 +1,6 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 20 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT" on Sat, 18 Jul 2026.
+Colorado Charlie is a music venue in The Hague with 20 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Happy Feelings - Colorado Charlie W/ Baron Von Trax, Olivia Lensen & Freddi - SOLD OUT" on Sat, 18 Jul 2026.
 
 Colorado Charlie is a music venue in Thehague listed on soundcheck. 20 upcoming nights, with line-ups including 22 Interns, AAT (NL), Baron Von Trax and Bart Skils and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
@@ -23,4 +23,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 20 upcoming 
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

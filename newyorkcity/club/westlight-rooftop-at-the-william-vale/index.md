@@ -1,14 +1,13 @@
 # Westlight Rooftop at The William Vale
 
-Westlight Rooftop at The William Vale is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Friends In High Places feat. Colorize" on Fri, 17 Jul 2026.
+Westlight Rooftop at The William Vale is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Friends In High Places feat. Bakermat" on Fri, 24 Jul 2026.
 
-Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including ALLKNIGHT, Bakermat, Chris Luno and Estiva and 2 more. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
+Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Bakermat, Chris Luno, LAVERN and Massane and 2 more. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Friends In High Places feat. Colorize | ALLKNIGHT, Estiva, Fejká, Ocula, mölly |
 | Fri, 24 Jul 2026 | Friends In High Places feat. Bakermat | Bakermat |
 | Fri, 31 Jul 2026 | Friends In High Places feat. Massane | Massane |
 | Fri, 7 Aug 2026 | Friends In High Places feat. Shallou | Shallou |
@@ -18,9 +17,10 @@ Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on 
 | Fri, 4 Sept 2026 | Friends In High Places feat. Chris Luno | Chris Luno |
 | Fri, 11 Sept 2026 | Friends In High Places feat. &friends |  |
 | Fri, 18 Sept 2026 | Friends In High Places feat. Nils Hoffmann | Nils Hoffmann |
+| Fri, 25 Sept 2026 | Friends In High Places feat. SPECIAL GUESTS |  |
 
 ## Address
 
 111 North 12th Street, Brooklyn, New York 11249, United States, New York City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*

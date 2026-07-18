@@ -1,6 +1,6 @@
 # Kimgundi
 
-Kimgundi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Paper, Seoul on Sat, 18 Jul 2026.
+Kimgundi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Paper, Seoul on Sat, 18 Jul 2026.
 
 Kimgundi is a house and techno artist based in South Korea, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Munich and Seoul and 1 more. Often billed alongside Haemin Kim, Gyusco and JNS. Next up: Paper, Seoul on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Kimgundi is a house and techno artist based in South Korea, tracked on soundchec
 
 Haemin Kim, Gyusco, JNS
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimgundi/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kimgundi/)*

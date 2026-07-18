@@ -1,6 +1,6 @@
 # Locust Grove
 
-Locust Grove is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Dope Jams Open-Air Festival" on Fri, 31 Jul 2026.
+Locust Grove is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Dope Jams Open-Air Festival" on Fri, 31 Jul 2026.
 
 Locust Grove is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Ali Berger, Danny Krivit, Francois K and Joe Claussell and 2 more. Browse upcoming dates, start times and who's playing. 318 CR-22, Oak Hill, NY 12460 USA.
 
@@ -15,4 +15,4 @@ Locust Grove is a music venue in Newyorkcity listed on soundcheck. 2 upcoming ni
 
 318 CR-22, Oak Hill, NY 12460 USA, New York City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/locust-grove/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/locust-grove/)*

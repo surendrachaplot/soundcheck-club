@@ -1,14 +1,13 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+LOVEFOXY is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
-LOVEFOXY is a house and techno artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Ferropolis, Leipzig on Fri 17 Jul.
+LOVEFOXY is a house and techno artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside DJ Heartstring, Elli Acula and BELLA (NL). Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 25 Jul 2026 | Komplex Berlin | Berlin |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
@@ -19,6 +18,7 @@ LOVEFOXY is a house and techno artist tracked on soundcheck, with 158 sets logge
 
 ## Recently played
 
+- Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Komplex Berlin, Berlin — Sat, 4 Jul 2026
 - Jumbi, London — Sat, 27 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
@@ -26,10 +26,9 @@ LOVEFOXY is a house and techno artist tracked on soundcheck, with 158 sets logge
 - Signal, New York City — Fri, 29 May 2026
 - TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
 - Jumbi, London — Sat, 16 May 2026
-- Else, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 DJ Heartstring, Elli Acula, BELLA (NL)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*

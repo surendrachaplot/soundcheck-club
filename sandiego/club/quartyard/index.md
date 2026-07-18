@@ -1,6 +1,6 @@
 # Quartyard
 
-Quartyard is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FNGRS CRSSD presents Tinzo + Jojo with Soul Clap" on Sun, 19 Jul 2026.
+Quartyard is a music venue in San Diego with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FNGRS CRSSD presents Tinzo + Jojo with Soul Clap" on Sun, 19 Jul 2026.
 
 Quartyard is a music venue in Sandiego listed on soundcheck. 8 upcoming nights, with line-ups including Brett Johnson, Chris Luno, DJ Sneak and Jojo Lorenzo and 2 more. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
@@ -21,4 +21,4 @@ Quartyard is a music venue in Sandiego listed on soundcheck. 8 upcoming nights, 
 
 1301 Market Street, San Diego, CA, San Diego
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*

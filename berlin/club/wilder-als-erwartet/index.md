@@ -1,6 +1,6 @@
 # Wilder als Erwartet
 
-Wilder als Erwartet is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "LAB NIGHTS" on Thu, 13 Aug 2026.
+Wilder als Erwartet is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "LAB NIGHTS" on Thu, 13 Aug 2026.
 
 Wilder als Erwartet is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Caroline-Michaelis-Str. 1, 10115 Berlin.
 
@@ -14,4 +14,4 @@ Wilder als Erwartet is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 Caroline-Michaelis-Str. 1, 10115 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wilder-als-erwartet/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wilder-als-erwartet/)*

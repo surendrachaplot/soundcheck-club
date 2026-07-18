@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Miguel Rendeiro + Gusta-vo" on Fri, 17 Jul 2026.
+Plano B is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Alfonsvs + Guta" on Sat, 18 Jul 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 7 upcoming nights, with line-ups including Alfonsvs, Alive, Cloze Encounter and Cuba (PT) and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 6 upcoming nights, with line-ups including Alfonsvs, Alive, Cloze Encounter and Cuba (PT) and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Miguel Rendeiro + Gusta-vo | Miguel Rendeiro |
 | Sat, 18 Jul 2026 | Alfonsvs + Guta | Alfonsvs |
 | Thu, 23 Jul 2026 | NIGHTSHIFT - Cloze Encounter + Nia | Cloze Encounter |
 | Fri, 24 Jul 2026 | Cuba + Rompante | Cuba (PT), Rompante |
@@ -20,4 +19,4 @@ Plano B is a music venue in Porto listed on soundcheck. 7 upcoming nights, with 
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

@@ -1,6 +1,6 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
+Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Terrrazza, Barcelona on Sat, 18 Jul 2026.
 
 Reznik is a house and afro house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside Bedouin, David Hopperman and Kalyma. Next up: La Terrrazza, Barcelona on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Reznik is a house and afro house artist tracked on soundcheck, with 43 sets logg
 
 Bedouin, David Hopperman, Kalyma
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

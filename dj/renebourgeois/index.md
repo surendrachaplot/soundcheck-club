@@ -1,6 +1,6 @@
 # Rene Bourgeois
 
-Rene Bourgeois is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
+Rene Bourgeois is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Straße des 17. Juni, Berlin on Sat, 15 Aug 2026.
 
 Rene Bourgeois is a techno and tech house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Haito, ASK:ME and Kopflos. Next up: Straße des 17. Juni, Berlin on Sat 15 Aug.
 
@@ -25,4 +25,4 @@ Rene Bourgeois is a techno and tech house artist based in Germany, tracked on so
 
 Haito, ASK:ME, Kopflos
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renebourgeois/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/renebourgeois/)*

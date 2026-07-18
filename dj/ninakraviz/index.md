@@ -1,14 +1,13 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Nina Kraviz is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 19 Jul 2026.
 
-Nina Kraviz is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Nina Kraviz is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Amnesia Ibiza, Ibiza on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sun, 19 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 25 Jul 2026 | Boston Manor Park | London |
@@ -23,6 +22,7 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 145 sets lo
 
 ## Recently played
 
+- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 5 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 28 Jun 2026
 - Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
@@ -30,10 +30,9 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 145 sets lo
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 - Los Angeles State Historic Park, Los Angeles — Sat, 2 May 2026
-- 888 Garage, San Francisco/Oakland — Sat, 2 May 2026
 
 ## Shares bills with
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

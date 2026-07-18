@@ -1,6 +1,6 @@
 # KARELBLADE
 
-KARELBLADE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at M7 Club, Barcelona on Sun, 19 Jul 2026.
+KARELBLADE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at M7 Club, Barcelona on Sun, 19 Jul 2026.
 
 KARELBLADE is a techno and house artist tracked on soundcheck, with 76 sets logged across Barcelona. Often billed alongside Beto Delgado, DIDIXX and Eybel. Next up: M7 Club, Barcelona on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ KARELBLADE is a techno and house artist tracked on soundcheck, with 76 sets logg
 
 Beto Delgado, DIDIXX, Eybel
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karelblade/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/karelblade/)*

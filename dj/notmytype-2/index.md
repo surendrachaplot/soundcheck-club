@@ -1,6 +1,6 @@
 # NOTMYTYPE (2)
 
-NOTMYTYPE (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+NOTMYTYPE (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 NOTMYTYPE (2) is a techno and trance artist tracked on soundcheck, with 48 sets logged across Amsterdam, Basel, Berlin and Brussels and 14 more. Often billed alongside IGDA, Nicolas Julian and A.N.I.. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ NOTMYTYPE (2) is a techno and trance artist tracked on soundcheck, with 48 sets 
 
 IGDA, Nicolas Julian, A.N.I.
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*

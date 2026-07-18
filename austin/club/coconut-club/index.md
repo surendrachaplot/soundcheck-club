@@ -1,6 +1,6 @@
 # Coconut Club
 
-Coconut Club is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Do Not Disturb" on Sat, 18 Jul 2026.
+Coconut Club is a music venue in Austin with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Do Not Disturb" on Sat, 18 Jul 2026.
 
 Coconut Club is a music venue in Austin listed on soundcheck. 3 upcoming nights, with line-ups including Juan40 and XOY. Browse upcoming dates, start times and who's playing. 310B Colorado St, Austin, TX 78701.
 
@@ -16,4 +16,4 @@ Coconut Club is a music venue in Austin listed on soundcheck. 3 upcoming nights,
 
 310B Colorado St, Austin, TX 78701, Austin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/coconut-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/austin/club/coconut-club/)*

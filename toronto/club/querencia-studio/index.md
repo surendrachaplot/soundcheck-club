@@ -1,6 +1,6 @@
 # Querencia Studio
 
-Querencia Studio is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "RITMO HABIBI: LATIN X ARAB FUSION" on Sat, 18 Jul 2026.
+Querencia Studio is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "RITMO HABIBI: LATIN X ARAB FUSION" on Sat, 18 Jul 2026.
 
 Querencia Studio is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including ESCOBUTT and Sandwavv. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Querencia Studio is a music venue in Toronto listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | RITMO HABIBI: LATIN X ARAB FUSION | ESCOBUTT, Sandwavv |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/querencia-studio/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/querencia-studio/)*

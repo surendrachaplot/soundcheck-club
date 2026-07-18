@@ -1,6 +1,6 @@
 # Martinou
 
-Martinou is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
+Martinou is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Postkantine, Basel on Sat, 25 Jul 2026.
 
 Martinou is a techno and deep house artist based in Sweden, tracked on soundcheck, with 31 sets logged across Amsterdam, Basel, Berlin and Brussels and 7 more. Often billed alongside Hame (1), Ben Kaczor and Hafa. Next up: Postkantine, Basel on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Martinou is a techno and deep house artist based in Sweden, tracked on soundchec
 
 Hame (1), Ben Kaczor, Hafa
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/martinou/)*

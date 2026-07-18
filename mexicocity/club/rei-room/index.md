@@ -1,6 +1,6 @@
 # Rei Room
 
-Rei Room is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FRIENDS AND FRIENDS" on Sat, 18 Jul 2026.
+Rei Room is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FRIENDS AND FRIENDS" on Sat, 18 Jul 2026.
 
 Rei Room is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including GEO LINN, M. Dagdug and Yourte Bugarach. Browse upcoming dates, start times and who's playing. Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700.
 
@@ -16,4 +16,4 @@ Rei Room is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights,
 
 Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700, Mexico City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*

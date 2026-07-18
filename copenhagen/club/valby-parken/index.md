@@ -1,6 +1,6 @@
 # Valby Parken
 
-Valby Parken is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "&ME and Adam Port (Keinemusik) – Copenhagen 2026" on Fri, 11 Sept 2026.
+Valby Parken is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "&ME and Adam Port (Keinemusik) – Copenhagen 2026" on Fri, 11 Sept 2026.
 
 Valby Parken is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Adam Port and &ME. Browse upcoming dates, start times and who's playing. Hammelstrupvej 100, 2450 København.
 
@@ -14,4 +14,4 @@ Valby Parken is a music venue in Copenhagen listed on soundcheck. 1 upcoming nig
 
 Hammelstrupvej 100, 2450 København, Copenhagen
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/valby-parken/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/valby-parken/)*

@@ -1,6 +1,6 @@
 # ABOVE
 
-ABOVE is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ALTO Ladies Day" on Sat, 25 Jul 2026.
+ABOVE is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ALTO Ladies Day" on Sat, 25 Jul 2026.
 
 ABOVE is a music venue in Newcastle listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Lower, Dean St, Newcastle upon Tyne NE1 3JE.
 
@@ -15,4 +15,4 @@ ABOVE is a music venue in Newcastle listed on soundcheck. 2 upcoming nights. Bro
 
 Lower, Dean St, Newcastle upon Tyne NE1 3JE, Newcastle
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/above/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/above/)*

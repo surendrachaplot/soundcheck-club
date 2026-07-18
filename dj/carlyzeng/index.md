@@ -1,6 +1,6 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
+Carly Zeng is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at RSO.BERLIN, Berlin on Fri, 24 Jul 2026.
 
 Carly Zeng is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: RSO.BERLIN, Berlin on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Carly Zeng is a techno and house artist tracked on soundcheck, with 130 sets log
 
 Cryptofauna, Ariel Zetina, marum
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*

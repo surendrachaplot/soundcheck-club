@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "FREAK CHIC D-EDGE SP pres.: P1: Miguel Bastida (ES). Classmatic. DEEFT" on Fri, 17 Jul 2026.
+D-EDGE is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "D-EDGE SP pres.: UNLIMITED. Adnan Sharif (BDAY). Anderson Noise (BDAY). JULA (BDAY) + + " on Sat, 18 Jul 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, ANGELLO (BR) and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, ANGELLO (BR) and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | FREAK CHIC D-EDGE SP pres.: P1: Miguel Bastida (ES). Classmatic. DEEFT | Classmatic, Miguel Bastida |
 | Sat, 18 Jul 2026 | D-EDGE SP pres.: UNLIMITED. Adnan Sharif (BDAY). Anderson Noise (BDAY). JULA (BDAY) + +  | Adnan Sharif, Anderson Noise, Bervon, Gabriel Brasil, Paola Vigorito, Villain Mode |
 | Thu, 23 Jul 2026 | MOVING D-EDGE SP pres.: P1: PRAISE. PEDRADA. RIGOONI | Pedräda |
 | Fri, 24 Jul 2026 | FREAK CHIC D-EDGE SP pres.: P1: ETTA. ROD BRITO. SONE X ZARO. SPECIAL GUEST |  |
@@ -21,4 +20,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

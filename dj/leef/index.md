@@ -1,6 +1,6 @@
 # Leef
 
-Leef is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
+Leef is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
 
 Leef is a house and electro artist tracked on soundcheck, with 39 sets logged across Brussels, Leipzig, Marseille and Montreal and 2 more. Often billed alongside Evita, JP Metis and Gamine. Next up: Circle Park, Brussels on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Leef is a house and electro artist tracked on soundcheck, with 39 sets logged ac
 
 Evita, JP Metis, Gamine
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leef/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/leef/)*

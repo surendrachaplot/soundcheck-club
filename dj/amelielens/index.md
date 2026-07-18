@@ -1,14 +1,15 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Kaufleuten, Zurich on Fri, 24 Jul 2026.
+Amelie Lens is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kaufleuten, Zurich on Fri, 24 Jul 2026.
 
-Amelie Lens is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and I Hate Models. Next up: Kaufleuten, Zurich on Fri 24 Jul.
+Amelie Lens is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and I Hate Models. Next up: Kaufleuten, Zurich on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Kaufleuten | Zurich |
+| Fri, 31 Jul 2026 | Parc Jean-Drapeau | Montreal |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
 | Fri, 21 Aug 2026 | Magazine Open–Air | London |
@@ -34,4 +35,4 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 139 sets lo
 
 Farrago, Milo Spykers, I Hate Models
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

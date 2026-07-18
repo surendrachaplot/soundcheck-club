@@ -1,14 +1,13 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 13 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+upsammy is a Techno and Experimental artist with 12 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: The Cause, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sat, 25 Jul 2026 | The Cause | London |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Thu, 30 Jul 2026 | Melkweg | Amsterdam |
@@ -20,9 +19,11 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | public records | New York City |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
+| Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 
 ## Recently played
 
+- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Garage Noord, Amsterdam — Fri, 3 Jul 2026
 - Botanique, Brussels — Sun, 31 May 2026
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
@@ -30,10 +31,9 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 179 sets
 - Garage Noord, Amsterdam — Fri, 29 May 2026
 - public records, New York City — Fri, 22 May 2026
 - Bar Laika, New York City — Wed, 20 May 2026
-- TBA - Multiple SF Venues, San Francisco/Oakland — Thu, 14 May 2026
 
 ## Shares bills with
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

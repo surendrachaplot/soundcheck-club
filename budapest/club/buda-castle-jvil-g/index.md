@@ -1,6 +1,6 @@
 # Buda Castle - Újvilág
 
-Buda Castle - Újvilág is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Gordo takes over Buda Castle" on Sat, 8 Aug 2026.
+Buda Castle - Újvilág is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Gordo takes over Buda Castle" on Sat, 8 Aug 2026.
 
 Buda Castle - Újvilág is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Dyzen and Gordo. Browse upcoming dates, start times and who's playing. Szent György tér 2, 1014m Budapest, Hungary.
 
@@ -14,4 +14,4 @@ Buda Castle - Újvilág is a music venue in Budapest listed on soundcheck. 1 upc
 
 Szent György tér 2, 1014m Budapest, Hungary, Budapest
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-castle-jvil-g/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/buda-castle-jvil-g/)*

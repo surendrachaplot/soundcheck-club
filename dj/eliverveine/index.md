@@ -1,6 +1,6 @@
 # Eli Verveine
 
-Eli Verveine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Eli Verveine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
 Eli Verveine is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 18 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Eli Verveine is a house and techno artist tracked on soundcheck, with 87 sets lo
 
 Gwenan, Vera, Mind Against
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*

@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "badtongUe X PHILTHTRAX PRESENT: Saligo at 3OZ" on Sat, 18 Jul 2026.
+3oz Dive Club is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "badtongUe X PHILTHTRAX PRESENT: Saligo at 3OZ" on Sat, 18 Jul 2026.
 
 3oz Dive Club is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including ALKMST, badtongUe, Funkhousir and Harrison BDP and 2 more. Browse upcoming dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -19,4 +19,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

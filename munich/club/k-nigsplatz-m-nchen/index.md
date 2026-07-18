@@ -1,6 +1,6 @@
 # Königsplatz München
 
-Königsplatz München is a music venue in Munich with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "PULSE" on Sat, 29 Aug 2026.
+Königsplatz München is a music venue in Munich with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "PULSE" on Sat, 29 Aug 2026.
 
 Königsplatz München is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including PAWSA. Browse upcoming dates, start times and who's playing. Königsplatz, 80333 München-Maxvorstadt.
 
@@ -14,4 +14,4 @@ Königsplatz München is a music venue in Munich listed on soundcheck. 1 upcomin
 
 Königsplatz, 80333 München-Maxvorstadt, Munich
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/k-nigsplatz-m-nchen/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/k-nigsplatz-m-nchen/)*

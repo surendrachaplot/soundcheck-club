@@ -1,6 +1,6 @@
 # Jason Kendig
 
-Jason Kendig is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BASEMENT, New York City on Sat, 18 Jul 2026.
+Jason Kendig is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at BASEMENT, New York City on Sat, 18 Jul 2026.
 
 Jason Kendig is a techno and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Bali, Berlin, Chicago and Detroit and 12 more. Often billed alongside Kilopatrah Jones, Auspex and Cosmo (NY). Next up: BASEMENT, Newyorkcity on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Jason Kendig is a techno and house artist based in United States of America, tra
 
 Kilopatrah Jones, Auspex, Cosmo (NY)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonkendig/)*

@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Boomtown (Kouter), Ghent on Sat, 18 Jul 2026.
+CC:DISCO! is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Boomtown (Kouter), Ghent on Sat, 18 Jul 2026.
 
 CC:DISCO! is a house and disco artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: Boomtown (Kouter), Ghent on Sat 18 Jul.
 
@@ -30,4 +30,4 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 139 sets logge
 
 Chima Isaaro, Erol Alkan, Jennifer Loveless
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

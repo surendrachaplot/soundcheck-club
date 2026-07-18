@@ -1,14 +1,13 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at La Terrrazza, Barcelona on Fri, 17 Jul 2026.
+Katia Curie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Parkcafe, Cologne on Sat, 18 Jul 2026.
 
-Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: La Terrrazza, Barcelona on Fri 17 Jul.
+Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Parkcafe, Cologne on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | La Terrrazza | Barcelona |
 | Sat, 18 Jul 2026 | Parkcafe | Cologne |
 | Sat, 18 Jul 2026 | Lehmann Club | Stuttgart |
 | Fri, 31 Jul 2026 | TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha | Vienna |
@@ -19,6 +18,7 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets lo
 
 ## Recently played
 
+- La Terrrazza, Barcelona — Fri, 17 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
 - The Rooftop at Gianpula Village, Malta — Fri, 3 Jul 2026
 - Fünk, Mexico City — Fri, 19 Jun 2026
@@ -26,10 +26,9 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 109 sets lo
 - The White Hotel, Manchester — Fri, 29 May 2026
 - Porto Pollo, Vienna — Sun, 24 May 2026
 - The Lion and Lamb, London — Fri, 8 May 2026
-- OST, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 Nizar Sarakbi, KATIA, Felix Rupprecht
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

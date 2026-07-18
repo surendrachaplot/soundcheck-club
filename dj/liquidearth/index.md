@@ -1,6 +1,6 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
+Liquid Earth is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Audiodise Park Montjuic, Barcelona on Sun, 16 Aug 2026.
 
 Liquid Earth is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Audiodise Park Montjuic, Barcelona on Sun 16 Aug.
 
@@ -27,4 +27,4 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 178 sets l
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

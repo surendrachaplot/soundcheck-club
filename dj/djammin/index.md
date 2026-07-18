@@ -1,6 +1,6 @@
 # Djammin
 
-Djammin is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
+Djammin is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Hï Ibiza, Ibiza on Sat, 18 Jul 2026.
 
 Djammin is an afro house and tech house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Bristol, Ibiza and London and 4 more. Often billed alongside Meeshy, Ossie and Skepta. Next up: Hï Ibiza, Ibiza on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Djammin is an afro house and tech house artist tracked on soundcheck, with 31 se
 
 Meeshy, Ossie, Skepta
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djammin/)*

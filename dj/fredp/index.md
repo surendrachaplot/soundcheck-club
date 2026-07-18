@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Shipyards North Vancouver, Vancouver on Sat, 18 Jul 2026.
+Fred P is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Shipyards North Vancouver, Vancouver on Sat, 18 Jul 2026.
 
 Fred P is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, Paquita Gordon and Quelza. Next up: TBA - Shipyards North Vancouver, Vancouver on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Fred P is a house and techno artist tracked on soundcheck, with 85 sets logged a
 
 DJ Nobu, Paquita Gordon, Quelza
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

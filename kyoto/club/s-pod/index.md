@@ -1,6 +1,6 @@
 # S-Pod
 
-S-Pod is a music venue in Kyoto with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "SLOW DANCE vol.3" on Mon, 20 Jul 2026.
+S-Pod is a music venue in Kyoto with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SLOW DANCE vol.3" on Mon, 20 Jul 2026.
 
 S-Pod is a music venue in Kyoto listed on soundcheck. 6 upcoming nights, with line-ups including NHK yx koyxen, DJ GEKI, LEiCA and Paul Leonard and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F.
 
@@ -19,4 +19,4 @@ S-Pod is a music venue in Kyoto listed on soundcheck. 6 upcoming nights, with li
 
 Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F, Kyoto
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*

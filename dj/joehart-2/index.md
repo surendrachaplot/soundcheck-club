@@ -1,6 +1,6 @@
 # Joe Hart (US)
 
-Joe Hart (US) is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Home Sweet Home, New York City on Sun, 26 Jul 2026.
+Joe Hart (US) is a EBM and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Home Sweet Home, New York City on Sun, 26 Jul 2026.
 
 Joe Hart (US) is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 46 sets logged across Newyorkcity and Philadelphia. Often billed alongside Mark Cage, Jamie K and DJ Baby Berlin. Next up: Home Sweet Home, Newyorkcity on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Joe Hart (US) is an ebm and industrial artist based in United States of America,
 
 Mark Cage, Jamie K, DJ Baby Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart-2/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart-2/)*

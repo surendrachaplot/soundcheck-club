@@ -1,6 +1,6 @@
 # CEZAR
 
-CEZAR is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
+CEZAR is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Supermarket, Zurich on Fri, 7 Aug 2026.
 
 CEZAR is a minimal and house artist tracked on soundcheck, with 59 sets logged across Athens, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside Praslea, Gescu and Mihigh. Next up: Supermarket, Zurich on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ CEZAR is a minimal and house artist tracked on soundcheck, with 59 sets logged a
 
 Praslea, Gescu, Mihigh
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/CEZAR/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/CEZAR/)*

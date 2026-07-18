@@ -1,6 +1,6 @@
 # HTRK
 
-HTRK is a Experimental and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
+HTRK is a Experimental and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at BLITZ, Munich on Fri, 31 Jul 2026.
 
 HTRK is an experimental and downtempo artist based in Australia, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 6 more. Often billed alongside CS + Kreme, 600-cell and ABADIR. Next up: BLITZ, Munich on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ HTRK is an experimental and downtempo artist based in Australia, tracked on soun
 
 CS + Kreme, 600-cell, ABADIR
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/htrk/)*

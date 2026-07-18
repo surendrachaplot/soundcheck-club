@@ -1,6 +1,6 @@
 # Rickey Shannon
 
-Rickey Shannon is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Z Maruyama, Tokyo on Sat, 18 Jul 2026.
+Rickey Shannon is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Z Maruyama, Tokyo on Sat, 18 Jul 2026.
 
 Rickey Shannon is a techno and tech house artist based in Japan, tracked on soundcheck, with 55 sets logged across Tokyo. Often billed alongside Louis Shannon, TARO TOKO and JUNKO ONAGI. Next up: Z Maruyama, Tokyo on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Rickey Shannon is a techno and tech house artist based in Japan, tracked on soun
 
 Louis Shannon, TARO TOKO, JUNKO ONAGI
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rickeyshannon/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rickeyshannon/)*

@@ -1,14 +1,13 @@
 # HAAi
 
-HAAi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+HAAi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Virage, Paris on Fri, 24 Jul 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Virage, Paris on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Fri, 24 Jul 2026 | Virage | Paris |
 | Sun, 26 Jul 2026 | Parc de la Trinitat | Barcelona |
 | Sat, 1 Aug 2026 | TILLATEC | Amsterdam |
@@ -20,6 +19,7 @@ HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 
 ## Recently played
 
+- Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Studio Club Malaga, Malaga — Sat, 4 Jul 2026
 - Sawmills, Bristol — Sat, 13 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
@@ -27,10 +27,9 @@ HAAi is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 - TBA, Los Angeles — Sun, 17 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 - public records, New York City — Sun, 10 May 2026
-- Culture, Washington DC — Sat, 9 May 2026
 
 ## Shares bills with
 
 DJ Tennis, Saoirse, Gabrielle Kwarteng
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

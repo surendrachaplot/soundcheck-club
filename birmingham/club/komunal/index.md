@@ -1,14 +1,13 @@
 # komunal
 
-komunal is a music venue in Birmingham with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Ning-Ning Li, Styler + meleag" on Fri, 17 Jul 2026.
+komunal is a music venue in Birmingham with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "DJ Kimura [kru] Gambol + AmaruJTS" on Sat, 18 Jul 2026.
 
-komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, with line-ups including Josh Gregg. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
+komunal is a music venue in Birmingham listed on soundcheck. 5 upcoming nights, with line-ups including Josh Gregg. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Ning-Ning Li, Styler + meleag |  |
 | Sat, 18 Jul 2026 | DJ Kimura [kru] Gambol + AmaruJTS |  |
 | Fri, 24 Jul 2026 | Dubøka with Mark Birch, Josh Birch, Cue Trax + Josh Gregg | Josh Gregg |
 | Sat, 25 Jul 2026 | Shaw's Passage presents: Volume 2 with Alfred [kru] Adam Mclean, Shella + Seb Rolley |  |
@@ -19,4 +18,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

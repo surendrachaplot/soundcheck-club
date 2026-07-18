@@ -1,14 +1,13 @@
 # Basing House
 
-Basing House is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Paradise Rhythm Comes To London" on Fri, 17 Jul 2026.
+Basing House is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bassface Sessions" on Sat, 18 Jul 2026.
 
-Basing House is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including AALEX, Adela, A Hard Day's Dance and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Paradise Rhythm Comes To London |  |
 | Sat, 18 Jul 2026 | Bassface Sessions |  |
 | Sat, 18 Jul 2026 | Non Stop - Pedro P Birthday | Gavin Wilson, Host (CA), Jon E Cash, Mark Radford |
 | Sat, 25 Jul 2026 | Studio 43 (FREE PARTY!) ( |  |
@@ -18,9 +17,10 @@ Basing House is a music venue in London listed on soundcheck. 19 upcoming nights
 | Sat, 8 Aug 2026 | INFORMAL . Jungle Promoters Night | DJ Ron, IC3, Marly Marl, Micky Finn, The Ragga Twins |
 | Sun, 9 Aug 2026 | Boom Loft | CRIPSY |
 | Fri, 21 Aug 2026 | 100% RAVING MEETS TRIBAL | Beezo |
+| Sat, 22 Aug 2026 | Garage Paradise - The London Sessions - Jeremy Sylvester, Bear Winder, Zak Miller | A Hard Day's Dance, Bear Winder, Jeremy Sylvester, Mikey DJ, Zak Miller |
 
 ## Address
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

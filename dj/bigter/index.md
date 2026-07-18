@@ -1,6 +1,6 @@
 # BIGTER
 
-BIGTER is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Rosso, Seoul on Sat, 18 Jul 2026.
+BIGTER is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Rosso, Seoul on Sat, 18 Jul 2026.
 
 BIGTER is a hip-hop and house artist based in South Korea, tracked on soundcheck, with 42 sets logged across Newyorkcity and Seoul. Often billed alongside KARAYAN, NAFIY and Guno. Next up: Rosso, Seoul on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ BIGTER is a hip-hop and house artist based in South Korea, tracked on soundcheck
 
 KARAYAN, NAFIY, Guno
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bigter/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bigter/)*

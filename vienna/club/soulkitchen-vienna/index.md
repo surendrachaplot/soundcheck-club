@@ -1,6 +1,6 @@
 # Soulkitchen Vienna
 
-Soulkitchen Vienna is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Raqsouna" on Sat, 1 Aug 2026.
+Soulkitchen Vienna is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Raqsouna" on Sat, 1 Aug 2026.
 
 Soulkitchen Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Abu Naima and Qamareen. Browse upcoming dates, start times and who's playing. Hintere Zollamtstraße 2b / im Hof.
 
@@ -14,4 +14,4 @@ Soulkitchen Vienna is a music venue in Vienna listed on soundcheck. 1 upcoming n
 
 Hintere Zollamtstraße 2b / im Hof, Vienna
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/soulkitchen-vienna/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/soulkitchen-vienna/)*

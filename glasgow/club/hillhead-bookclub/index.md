@@ -1,6 +1,6 @@
 # Hillhead Bookclub
 
-Hillhead Bookclub is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Gunk w A-TØN" on Fri, 31 Jul 2026.
+Hillhead Bookclub is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Gunk w A-TØN" on Fri, 31 Jul 2026.
 
 Hillhead Bookclub is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including A-TØN, Corran, Marky Marbles and Temple Sniper. Browse upcoming dates, start times and who's playing. 17 Vinicombe Street; Glasgow, G12 8BE; Scotland.
 
@@ -14,4 +14,4 @@ Hillhead Bookclub is a music venue in Glasgow listed on soundcheck. 1 upcoming n
 
 17 Vinicombe Street; Glasgow, G12 8BE; Scotland, Glasgow
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/hillhead-bookclub/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/hillhead-bookclub/)*

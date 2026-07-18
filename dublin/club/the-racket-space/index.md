@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "DUVV presents: Shannen Blessing B2B GJ504B" on Fri, 24 Jul 2026.
+The Racket Space is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "DUVV presents: Shannen Blessing B2B GJ504B" on Fri, 24 Jul 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including 1morning, camoufly, EMMIE and Fayeolo and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -23,4 +23,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 10 upcoming ni
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

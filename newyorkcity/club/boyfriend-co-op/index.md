@@ -1,6 +1,6 @@
 # Boyfriend co-op
 
-Boyfriend co-op is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Breaking Capacity presents: Dykes n' Bass (DNB)" on Thu, 6 Aug 2026.
+Boyfriend co-op is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Breaking Capacity presents: Dykes n' Bass (DNB)" on Thu, 6 Aug 2026.
 
 Boyfriend co-op is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including MF BUTCH, PlayPlay and XXHARDBIT3S. Browse upcoming dates, start times and who's playing. 1157 Myrtle Ave, Brooklyn, NY 11206.
 
@@ -14,4 +14,4 @@ Boyfriend co-op is a music venue in Newyorkcity listed on soundcheck. 1 upcoming
 
 1157 Myrtle Ave, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/boyfriend-co-op/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/boyfriend-co-op/)*

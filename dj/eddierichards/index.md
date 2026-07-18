@@ -1,6 +1,6 @@
 # Eddie Richards
 
-Eddie Richards is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hoppetosse, Berlin on Sat, 18 Jul 2026.
+Eddie Richards is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Hoppetosse, Berlin on Sat, 18 Jul 2026.
 
 Eddie Richards is a tech house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Auckland, Berlin and Brighton and 10 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: Hoppetosse, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Eddie Richards is a tech house and house artist tracked on soundcheck, with 28 s
 
 Terry Francis, 3 Minds, Silverlining
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*

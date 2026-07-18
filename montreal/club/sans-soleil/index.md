@@ -1,6 +1,6 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sans Soleil w/ Scott C" on Sat, 18 Jul 2026.
+Sans Soleil is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Sans Soleil w/ Scott C" on Sat, 18 Jul 2026.
 
 Sans Soleil is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including bell.pierre, DJ Hidi, Lis Dalton and Ferias and 2 more. Browse upcoming dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
@@ -23,4 +23,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 12 upcoming night
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

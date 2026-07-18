@@ -1,14 +1,13 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Bitter Babe is a Techno and Latin Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
-Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -19,6 +18,7 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 se
 
 ## Recently played
 
+- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Blå, Oslo — Sat, 11 Jul 2026
 - Trempo, Nantes — Fri, 10 Jul 2026
@@ -26,10 +26,9 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 162 se
 - Mia Mao, Paris — Thu, 25 Jun 2026
 - Else, Berlin — Sat, 20 Jun 2026
 - La Gravière, Geneva — Fri, 12 Jun 2026
-- Wolfgangshof, Nürnberg — Fri, 29 May 2026
 
 ## Shares bills with
 
 Nick León, Verraco, Kia (AU)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

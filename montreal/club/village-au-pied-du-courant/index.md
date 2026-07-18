@@ -1,14 +1,13 @@
 # Village au Pied-du-Courant
 
-Village au Pied-du-Courant is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Village au Pied-du-Courant - Artiste surprise, Canicule Tropicale & Tupi Collective" on Fri, 17 Jul 2026.
+Village au Pied-du-Courant is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Village au Pied-du-Courant - Discoño" on Sat, 18 Jul 2026.
 
-Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including ADEOLA, ANIIKA, Awwful and Cal C (Modern Art) and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
+Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including ADEOLA, ANIIKA, Awwful and Cal C (Modern Art) and 2 more. Browse upcoming dates, start times and who's playing. 2100 rue Notre-Dame Est, Montréal H2K 4K3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Village au Pied-du-Courant - Artiste surprise, Canicule Tropicale & Tupi Collective | Canicule Tropicale |
 | Sat, 18 Jul 2026 | Village au Pied-du-Courant - Discoño | ANIIKA, DJ Punani, JASHIM |
 | Thu, 23 Jul 2026 | Village au Pied-du-Courant - Queen & Queer | MLLE CEE, gurafiku |
 | Fri, 24 Jul 2026 | Village au Pied-du-Courant - SunDown | ADEOLA |
@@ -18,9 +17,10 @@ Village au Pied-du-Courant is a music venue in Montreal listed on soundcheck. 12
 | Fri, 31 Jul 2026 | Village au Pied-du-Courant - Lazy Days | DJ Hidi, Fred Everything |
 | Sat, 1 Aug 2026 | Village au Pied-du-Courant - AFROTONIK (10e anniversaire) |  |
 | Sun, 2 Aug 2026 | Piknic Électronik MTL x VPC: Virtualis | Awwful, Katamina, Paolo Askia, SISI SUPERSTAR, URA, hÿdra, leathersheets |
+| Sun, 9 Aug 2026 | Piknic Électronik MTL x VPC: Discoño X KVNT Detour | La Niña Kiwi, Syana |
 
 ## Address
 
 2100 rue Notre-Dame Est, Montréal H2K 4K3, Montreal
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/village-au-pied-du-courant/)*

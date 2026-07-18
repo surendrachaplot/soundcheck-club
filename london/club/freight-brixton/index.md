@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "For The Love Of Garage - Summer Terrace Party (RESCHEDULED)" on Sat, 18 Jul 2026.
+Freight Brixton is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "For The Love Of Garage - Summer Terrace Party (RESCHEDULED)" on Sat, 18 Jul 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Brooksy, Chunky, Craig Charles and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -23,4 +23,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 15 upcoming nig
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

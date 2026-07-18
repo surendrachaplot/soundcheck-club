@@ -1,6 +1,6 @@
 # Telephones
 
-Telephones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Wagenburg Lohmühle Berlin, Berlin on Sat, 18 Jul 2026.
+Telephones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Wagenburg Lohmühle Berlin, Berlin on Sat, 18 Jul 2026.
 
 Telephones is a house and techno artist based in Norway, tracked on soundcheck, with 63 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside Tornado Wallace, DJ Fett Burger and DJ Aficionado. Next up: Wagenburg Lohmühle Berlin, Berlin on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Telephones is a house and techno artist based in Norway, tracked on soundcheck, 
 
 Tornado Wallace, DJ Fett Burger, DJ Aficionado
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*

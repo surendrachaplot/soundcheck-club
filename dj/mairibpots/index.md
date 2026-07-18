@@ -1,6 +1,6 @@
 # Mairi 'b' Pots
 
-Mairi 'b' Pots is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Street, Edinburgh on Sat, 25 Jul 2026.
+Mairi 'b' Pots is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Street, Edinburgh on Sat, 25 Jul 2026.
 
 Mairi 'b' Pots is a disco and house artist tracked on soundcheck, with 65 sets logged across Edinburgh and Newcastle. Often billed alongside Trendy Wendy, Jordy Joans and Hobbes. Next up: The Street, Edinburgh on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mairi 'b' Pots is a disco and house artist tracked on soundcheck, with 65 sets l
 
 Trendy Wendy, Jordy Joans, Hobbes
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*

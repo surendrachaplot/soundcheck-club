@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Plans After Fest - Euro Summer" on Sat, 18 Jul 2026.
+The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Plans After Fest - Euro Summer" on Sat, 18 Jul 2026.
 
 The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 4am Kru, 7ip7o3, KT and Aba Shanti-I and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

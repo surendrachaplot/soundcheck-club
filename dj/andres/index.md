@@ -1,6 +1,6 @@
 # Andrés
 
-Andrés is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Marble Bar, Detroit on Fri, 24 Jul 2026.
+Andrés is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Marble Bar, Detroit on Fri, 24 Jul 2026.
 
 Andrés is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 124 sets logged across Cologne, Detroit, Losangeles and Munich and 8 more. Often billed alongside Jesse Cory, Vincent Patricola and Shigeto. Next up: Marble Bar, Detroit on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Andrés is a house and funk / soul artist based in United States of America, tra
 
 Jesse Cory, Vincent Patricola, Shigeto
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andres/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andres/)*

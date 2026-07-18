@@ -1,6 +1,6 @@
 # Francisco Collazo
 
-Francisco Collazo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Liberty Point, Philadelphia on Sun, 19 Jul 2026.
+Francisco Collazo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Liberty Point, Philadelphia on Sun, 19 Jul 2026.
 
 Francisco Collazo is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Miami, Philadelphia and Washingtondc. Often billed alongside Rob Paine, Bridget B and DJ Xtina. Next up: Liberty Point, Philadelphia on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Francisco Collazo is a house and techno artist based in United States of America
 
 Rob Paine, Bridget B, DJ Xtina
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscocollazo/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscocollazo/)*

@@ -1,8 +1,8 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
+Ben Sterling is a Tech House and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside Marco Carola, Dennis Cruz and Ms. Mada. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 18 Jul.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside Marco Carola, Dennis Cruz and Ms. Mada. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 182 se
 
 Marco Carola, Dennis Cruz, Ms. Mada
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Phonox, London on Sat, 15 Aug 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Phonox, London on Sat, 15 Aug 2026.
 
 DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: Phonox, London on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 160 se
 
 Fullbodydurag, Sheefy McFly, DJ AYA
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Amber Valentine // ALL NIGHT LONG" on Fri, 17 Jul 2026.
+Gabriela is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Planet B // ALL NIGHT LONG" on Sat, 18 Jul 2026.
 
-Gabriela is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Amber Valentine, Andi, Eli Escobar and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Andi, Eli Escobar, Jubilee and Justin Strauss and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Amber Valentine // ALL NIGHT LONG | Amber Valentine |
 | Sat, 18 Jul 2026 | Planet B // ALL NIGHT LONG | Planet B |
 | Sun, 19 Jul 2026 | TIKI AFTERS w Kim Anh | Kim Anh |
 | Thu, 23 Jul 2026 | ROMANCE w Eli Escobar | Eli Escobar |
@@ -23,4 +22,4 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 10 upcoming night
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

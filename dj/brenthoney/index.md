@@ -1,6 +1,6 @@
 # Brent Honey
 
-Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 24 Jul 2026.
+Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 24 Jul 2026.
 
 Brent Honey is a techno and trance artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 11 more. Often billed alongside AKEYLAH, KSMBA and Prizefight. Next up: Lokschuppen Berlin, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Brent Honey is a techno and trance artist tracked on soundcheck, with 69 sets lo
 
 AKEYLAH, KSMBA, Prizefight
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*

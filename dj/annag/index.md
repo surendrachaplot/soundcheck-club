@@ -1,6 +1,6 @@
 # anna G
 
-anna G is a House and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Klunkerkranich, Berlin on Sat, 18 Jul 2026.
+anna G is a House and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Klunkerkranich, Berlin on Sat, 18 Jul 2026.
 
 anna G is a house and drum & bass artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Lobo (DE), Monsai and Lola Brennt. Next up: Klunkerkranich, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ anna G is a house and drum & bass artist tracked on soundcheck, with 21 sets log
 
 Lobo (DE), Monsai, Lola Brennt
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*

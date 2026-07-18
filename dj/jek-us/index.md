@@ -1,6 +1,6 @@
 # Jek (US)
 
-Jek (US) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Hotel Butterfly, Rome on Thu, 23 Jul 2026.
+Jek (US) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Hotel Butterfly, Rome on Thu, 23 Jul 2026.
 
 Jek (US) is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Buenosaires and Copenhagen and 13 more. Often billed alongside djfix, Matas and adobeprincess. Next up: Hotel Butterfly, Rome on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Jek (US) is a techno and house artist tracked on soundcheck, with 64 sets logged
 
 djfix, Matas, adobeprincess
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*

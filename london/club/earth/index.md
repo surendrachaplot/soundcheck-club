@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "life is beautiful presents: libiversary festival" on Fri, 24 Jul 2026.
+EartH is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "life is beautiful presents: libiversary festival" on Fri, 24 Jul 2026.
 
 EartH is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Bianca Scout, BJ Holy, Coby Sey and Digitalism and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -18,4 +18,4 @@ EartH is a music venue in London listed on soundcheck. 5 upcoming nights, with l
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

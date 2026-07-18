@@ -1,6 +1,6 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Usus am Wasser, Vienna on Sat, 18 Jul 2026.
+Giu Nunez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Usus am Wasser, Vienna on Sat, 18 Jul 2026.
 
 Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Craig Ouar, Anacalypto and Gigios. Next up: Usus am Wasser, Vienna on Sat 18 Jul.
 
@@ -26,4 +26,4 @@ Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, wi
 
 Craig Ouar, Anacalypto, Gigios
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

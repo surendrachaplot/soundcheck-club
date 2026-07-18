@@ -1,6 +1,6 @@
 # Sara Delirio
 
-Sara Delirio is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at OXI, Berlin on Thu, 30 Jul 2026.
+Sara Delirio is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OXI, Berlin on Thu, 30 Jul 2026.
 
 Sara Delirio is a techno and electro artist based in Colombia, tracked on soundcheck, with 5 sets logged across Berlin, Buenosaires, Edinburgh and Hamburg. Often billed alongside Arieshandmodel, Chalita Claudine and Dave Mech. Next up: OXI, Berlin on Thu 30 Jul.
 
@@ -21,4 +21,4 @@ Sara Delirio is a techno and electro artist based in Colombia, tracked on soundc
 
 Arieshandmodel, Chalita Claudine, Dave Mech
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/saradelirio/)*

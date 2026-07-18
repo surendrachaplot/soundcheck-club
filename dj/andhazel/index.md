@@ -1,6 +1,6 @@
 # And Hazel
 
-And Hazel is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
+And Hazel is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Supermarket, Zurich on Sat, 1 Aug 2026.
 
 And Hazel is a tech house and house artist tracked on soundcheck, with 43 sets logged across Ibiza, London and Zurich. Often billed alongside De La Maso, Alessio da Silva and ARWIN AZIZ. Next up: Supermarket, Zurich on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ And Hazel is a tech house and house artist tracked on soundcheck, with 43 sets l
 
 De La Maso, Alessio da Silva, ARWIN AZIZ
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andhazel/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/andhazel/)*

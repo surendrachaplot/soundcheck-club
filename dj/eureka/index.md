@@ -1,6 +1,6 @@
 # EUREKA
 
-EUREKA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Azumaya, Tokyo on Sun, 19 Jul 2026.
+EUREKA is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Azumaya, Tokyo on Sun, 19 Jul 2026.
 
 EUREKA is a house and disco artist based in Japan, tracked on soundcheck, with 90 sets logged across Kyoto, Newyorkcity, Osaka and Tokyo. Often billed alongside SOTA, Kross Section and KOTSU. Next up: Azumaya, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ EUREKA is a house and disco artist based in Japan, tracked on soundcheck, with 9
 
 SOTA, Kross Section, KOTSU
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eureka/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/eureka/)*

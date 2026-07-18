@@ -1,6 +1,6 @@
 # Castaways
 
-Castaways is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "ARC At The Lake with Lee Foss" on Sat, 18 Jul 2026.
+Castaways is a music venue in Chicago with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ARC At The Lake with Lee Foss" on Sat, 18 Jul 2026.
 
 Castaways is a music venue in Chicago listed on soundcheck. 8 upcoming nights, with line-ups including BLOND:ISH, Chris Luno, INPHINITY and Lee Foss and 2 more. Browse upcoming dates, start times and who's playing. 1603 N Lake Shore Dr, Chicago, Illinois 60614.
 
@@ -21,4 +21,4 @@ Castaways is a music venue in Chicago listed on soundcheck. 8 upcoming nights, w
 
 1603 N Lake Shore Dr, Chicago, Illinois 60614, Chicago
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/castaways/)*

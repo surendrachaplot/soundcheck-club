@@ -1,14 +1,13 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "day to night with XOXA & The Blocks: DJ Shannon (NYC), Panooc, fTronic & DJ-CK" on Fri, 17 Jul 2026.
+Crate Brewery is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "breakthewire Day Party: Tomoki Tamura, Cromby, Spud Sounds & Amy Os" on Sat, 18 Jul 2026.
 
-Crate Brewery is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alex Kassian, BÁHDO, BK86 and Cromby and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
+Crate Brewery is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Alex Kassian, BÁHDO, BK86 and Cromby and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | day to night with XOXA & The Blocks: DJ Shannon (NYC), Panooc, fTronic & DJ-CK | DJ Shannon, DJ-CK, Panooc, fTronic |
 | Sat, 18 Jul 2026 | breakthewire Day Party: Tomoki Tamura, Cromby, Spud Sounds & Amy Os | Cromby, Tomoki Tamura |
 | Sat, 25 Jul 2026 | Alex Kassian - All Day Long - SOLD OUT | Alex Kassian |
 | Sat, 1 Aug 2026 | Brama Summer Fling: KRN & Toby, Serenda & Seb Odyssey, Sam PV | KRN, Sam PV, Seb Odyssey, Serenda, Toby (UK) |
@@ -22,4 +21,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 9 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

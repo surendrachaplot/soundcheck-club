@@ -1,14 +1,13 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Fox and Firkin, London on Fri, 17 Jul 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
-London Elektricity is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Auckland, Berlin, Boston and Bristol and 22 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: The Fox and Firkin, London on Fri 17 Jul.
+London Elektricity is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Auckland, Berlin, Boston and Bristol and 22 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | The Fox and Firkin | London |
 | Sat, 25 Jul 2026 | Bristol Amphitheatre & Waterfront Square | Bristol |
 | Sat, 1 Aug 2026 | Hackney Wick Multiple Venues | London |
 | Thu, 8 Oct 2026 | Marble Bar | Detroit |
@@ -16,6 +15,7 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, t
 
 ## Recently played
 
+- The Fox and Firkin, London — Fri, 17 Jul 2026
 - The Fox and Firkin, London — Sat, 2 May 2026
 - Maassilo, Rotterdam — Sat, 11 Apr 2026
 - Magazine London, London — Sat, 14 Mar 2026
@@ -23,10 +23,9 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, t
 - Circus Tokyo, Tokyo — Wed, 31 Dec 2025
 - Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Tue, 30 Dec 2025
 - Cakeshop, Seoul — Fri, 19 Dec 2025
-- Roxy, Prague — Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Makoto, Degs, Nu:Tone
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

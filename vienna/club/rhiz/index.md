@@ -1,14 +1,13 @@
 # Rhiz
 
-Rhiz is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "BADASS ELECTRONIC MUSIC" on Fri, 17 Jul 2026.
+Rhiz is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "POLYCHAOS DUBIUM" on Fri, 24 Jul 2026.
 
-Rhiz is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Altroy Jerome, DJ Lucy Bakanal and FIVESIXSEVENKATE. Browse upcoming dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
+Rhiz is a music venue in Vienna listed on soundcheck. 2 upcoming nights, with line-ups including DJ Lucy Bakanal. Browse upcoming dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | BADASS ELECTRONIC MUSIC | Altroy Jerome, FIVESIXSEVENKATE |
 | Fri, 24 Jul 2026 | POLYCHAOS DUBIUM | DJ Lucy Bakanal |
 | Fri, 24 Jul 2026 | Polychaos Dubium |  |
 
@@ -16,4 +15,4 @@ Rhiz is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with li
 
 U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080, Vienna
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*

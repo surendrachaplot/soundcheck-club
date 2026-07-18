@@ -1,14 +1,13 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Shakira Party ⏾ Nights of Budapest Park" on Fri, 17 Jul 2026.
+Budapest Park is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Dilinyó with Gatter Yankee Nights" on Sat, 18 Jul 2026.
 
-Budapest Park is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Acid Pauli, ädene, Ellen Allien and Kamafaka and 2 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
+Budapest Park is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Acid Pauli, ädene, Ellen Allien and Kamafaka and 2 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Shakira Party ⏾ Nights of Budapest Park |  |
 | Sat, 18 Jul 2026 | Dilinyó with Gatter Yankee Nights |  |
 | Sat, 18 Jul 2026 | FoamParty with DJ Thomas ⏾ Nights of Budapest Park |  |
 | Sat, 1 Aug 2026 | Moby - Budapest Park 2026 |  |
@@ -21,4 +20,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 8 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

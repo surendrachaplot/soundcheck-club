@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
+Captain Wallop is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
 
 Captain Wallop is a house and garage artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside RTK Tarantino, Alec Falconer and DAISY. Next up: TBA, Birmingham on Sat 18 Jul.
 
@@ -29,4 +29,4 @@ Captain Wallop is a house and garage artist tracked on soundcheck, with 39 sets 
 
 RTK Tarantino, Alec Falconer, DAISY
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

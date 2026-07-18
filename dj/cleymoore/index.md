@@ -1,6 +1,6 @@
 # Cleymoore
 
-Cleymoore is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at MaHalla, Berlin on Sun, 2 Aug 2026.
+Cleymoore is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MaHalla, Berlin on Sun, 2 Aug 2026.
 
 Cleymoore is a house and electro artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 6 more. Often billed alongside rubi*, Atree and ALINA (3). Next up: MaHalla, Berlin on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Cleymoore is a house and electro artist tracked on soundcheck, with 55 sets logg
 
 rubi*, Atree, ALINA (3)
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleymoore/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleymoore/)*

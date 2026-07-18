@@ -1,6 +1,6 @@
 # Dot Club
 
-Dot Club is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "SAIDEX & Friends X DOT Summer Party 2026" on Fri, 31 Jul 2026.
+Dot Club is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "SAIDEX & Friends X DOT Summer Party 2026" on Fri, 31 Jul 2026.
 
 Dot Club is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Desslauer and SAIDEX. Browse upcoming dates, start times and who's playing. Friedrichstraße 8, 20359 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Dot Club is a music venue in Hamburg listed on soundcheck. 1 upcoming night, wit
 
 Friedrichstraße 8, 20359 Hamburg, Germany, Hamburg
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/dot-club/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/dot-club/)*

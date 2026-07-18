@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+DJ Snake is a House and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 DJ Snake is a house and dubstep artist tracked on soundcheck, with 43 sets logged across Austin, Barcelona, Boston and Chicago and 16 more. Often billed alongside Henry Fong, Audien and Zedd. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ DJ Snake is a house and dubstep artist tracked on soundcheck, with 43 sets logge
 
 Henry Fong, Audien, Zedd
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

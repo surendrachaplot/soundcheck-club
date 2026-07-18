@@ -1,6 +1,6 @@
 # Sophie Phare
 
-Sophie Phare is a Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
+Sophie Phare is a Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at CLUB RAUM, Amsterdam on Sat, 18 Jul 2026.
 
 Sophie Phare is an electro artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Munich and Nurnberg and 7 more. Often billed alongside Ndrx, Kvanchi and Hamatsuki. Next up: CLUB RAUM, Amsterdam on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Sophie Phare is an electro artist tracked on soundcheck, with 79 sets logged acr
 
 Ndrx, Kvanchi, Hamatsuki
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiephare/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiephare/)*

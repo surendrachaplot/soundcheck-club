@@ -1,6 +1,6 @@
 # Utopia Events X AFFECT.US at Eden NYC
 
-Utopia Events X AFFECT.US at Eden NYC on Fri 7 Aug, Newyorkcity. 3 acts on the bill: Nasser Baker, Nico Noir and Ryan Maxwell. House and Tech House. Preview the line-up and save it on soundcheck.
+Utopia Events X AFFECT.US at Eden NYC on Fri 7 Aug, Newyorkcity. 4 acts on the bill: Jasper James, Nasser Baker, Nico Noir and Ryan Maxwell. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Utopia Events X AFFECT.US at Eden NYC on Fri 7 Aug, Newyorkcity. 3 acts on the b
 
 ## Line-up
 
+- Jasper James
 - Nasser Baker
 - Nico Noir
 - Ryan Maxwell

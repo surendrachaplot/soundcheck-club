@@ -1,6 +1,6 @@
 # OLT Rivierenhof
 
-OLT Rivierenhof is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Contrair Open Air 2026" on Sat, 18 Jul 2026.
+OLT Rivierenhof is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Contrair Open Air 2026" on Sat, 18 Jul 2026.
 
 OLT Rivierenhof is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including Danilo Plessow, DJ EZ, ECHT! and Eclectic Elektra and 2 more. Browse upcoming dates, start times and who's playing. Turnhoutsebaan 246, Antwerp.
 
@@ -14,4 +14,4 @@ OLT Rivierenhof is a music venue in Antwerp listed on soundcheck. 1 upcoming nig
 
 Turnhoutsebaan 246, Antwerp, Antwerp
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/olt-rivierenhof/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/olt-rivierenhof/)*

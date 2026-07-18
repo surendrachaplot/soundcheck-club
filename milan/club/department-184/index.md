@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "La Casetta x Stripped x Dub" on Sat, 18 Jul 2026.
+Department 184 is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "La Casetta x Stripped x Dub" on Sat, 18 Jul 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including David Bes, Dusk Poem, Enygma and Monika Ross and 2 more. Browse upcoming dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -16,4 +16,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 3 upcoming nights
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

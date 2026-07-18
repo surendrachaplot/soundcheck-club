@@ -1,14 +1,13 @@
 # fka.m4a
 
-fka.m4a is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Ferropolis, Leipzig on Fri, 17 Jul 2026.
+fka.m4a is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 18 Jul 2026.
 
-fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: Ferropolis, Leipzig on Fri 17 Jul.
+fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: Tokonoma Club, Frankfurt on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Ferropolis | Leipzig |
 | Sat, 18 Jul 2026 | Tokonoma Club | Frankfurt |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
 | Sat, 25 Jul 2026 | Studio Club Malaga | Malaga |
@@ -19,6 +18,7 @@ fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged
 
 ## Recently played
 
+- Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Outernet, London — Sat, 4 Jul 2026
 - Oven Club, Valencia — Fri, 26 Jun 2026
 - SMUT Athens, Athens — Sat, 13 Jun 2026
@@ -26,10 +26,9 @@ fka.m4a is a techno and house artist tracked on soundcheck, with 188 sets logged
 - Fridas Pier, Stuttgart — Fri, 5 Jun 2026
 - Else, Berlin — Fri, 5 Jun 2026
 - SASS Music Club, Vienna — Sat, 30 May 2026
-- Thuishaven, Amsterdam — Sun, 24 May 2026
 
 ## Shares bills with
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

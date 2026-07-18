@@ -1,6 +1,6 @@
 # Conne Island
 
-Conne Island is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "DanceNFriends' Tennis Edition" on Sat, 18 Jul 2026.
+Conne Island is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "DanceNFriends' Tennis Edition" on Sat, 18 Jul 2026.
 
 Conne Island is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, with line-ups including Aliska, Anna Malysz, Bae Blade and Emma Moon and 2 more. Browse upcoming dates, start times and who's playing. Koburger Strasse 3, 04277 Leipzig.
 
@@ -15,4 +15,4 @@ Conne Island is a music venue in Leipzig listed on soundcheck. 2 upcoming nights
 
 Koburger Strasse 3, 04277 Leipzig, Leipzig
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/conne-island/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/conne-island/)*

@@ -1,6 +1,6 @@
 # BassLayerz
 
-BassLayerz is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tank, Sheffield on Sun, 19 Jul 2026.
+BassLayerz is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tank, Sheffield on Sun, 19 Jul 2026.
 
 BassLayerz is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Antwerp, Auckland, Birmingham and Brighton and 11 more. Often billed alongside Hedex, K Motionz and Turno. Next up: Tank, Sheffield on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ BassLayerz is a drum & bass and bass artist based in United Kingdom, tracked on 
 
 Hedex, K Motionz, Turno
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*

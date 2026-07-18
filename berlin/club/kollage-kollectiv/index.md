@@ -1,6 +1,6 @@
 # Kollage Kollectiv
 
-Kollage Kollectiv is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "TADRAUßEN" on Sat, 1 Aug 2026.
+Kollage Kollectiv is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "TADRAUßEN" on Sat, 1 Aug 2026.
 
 Kollage Kollectiv is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 21, 10405 Berlin.
 
@@ -14,4 +14,4 @@ Kollage Kollectiv is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Lilli-Henoch-Straße 21, 10405 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kollage-kollectiv/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kollage-kollectiv/)*

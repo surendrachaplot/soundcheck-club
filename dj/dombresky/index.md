@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Pacha Ibiza, Ibiza on Mon, 20 Jul 2026.
+Dombresky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Pacha Ibiza, Ibiza on Mon, 20 Jul 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 138 sets logged across Austin, Bali, Barcelona and Boston and 29 more. Often billed alongside Jaded (UK), Cassian and Eli Brown. Next up: Pacha Ibiza, Ibiza on Mon 20 Jul.
 
@@ -32,4 +32,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 138 sets 
 
 Jaded (UK), Cassian, Eli Brown
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

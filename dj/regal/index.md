@@ -1,6 +1,6 @@
 # Regal
 
-Regal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Flux, Istanbul on Fri, 24 Jul 2026.
+Regal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Flux, Istanbul on Fri, 24 Jul 2026.
 
 Regal is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside Amelie Lens, Daria Kolosova and Nuke. Next up: Flux, Istanbul on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Regal is a techno and house artist tracked on soundcheck, with 125 sets logged a
 
 Amelie Lens, Daria Kolosova, Nuke
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/regal/)*

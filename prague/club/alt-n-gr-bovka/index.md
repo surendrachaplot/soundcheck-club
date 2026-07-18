@@ -1,6 +1,6 @@
 # Altán Grébovka
 
-Altán Grébovka is a music venue in Prague with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Generate Prague → Altán Grébovka" on Sat, 18 Jul 2026.
+Altán Grébovka is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Generate Prague → Altán Grébovka" on Sat, 18 Jul 2026.
 
 Altán Grébovka is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including Bøgen, Hugorieri, Ondrej K and Vlad Yaki. Browse upcoming dates, start times and who's playing. Havlíčkovy sady 1369, 120 00 Praha.
 
@@ -14,4 +14,4 @@ Altán Grébovka is a music venue in Prague listed on soundcheck. 1 upcoming nig
 
 Havlíčkovy sady 1369, 120 00 Praha, Prague
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/alt-n-gr-bovka/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/alt-n-gr-bovka/)*

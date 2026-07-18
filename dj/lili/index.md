@@ -1,14 +1,13 @@
 # LILI
 
-LILI is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at M.O.T, London on Fri, 17 Jul 2026.
+LILI is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Night Tales, London on Thu, 23 Jul 2026.
 
-LILI is a tech house and house artist tracked on soundcheck, with 24 sets logged across Ibiza, Leeds, London and Paris. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: M.O.T, London on Fri 17 Jul.
+LILI is a tech house and house artist tracked on soundcheck, with 24 sets logged across Ibiza, Leeds, London and Paris. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: Night Tales, London on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | M.O.T | London |
 | Thu, 23 Jul 2026 | Night Tales | London |
 | Sat, 22 Aug 2026 | 93 Feet East | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
@@ -17,6 +16,7 @@ LILI is a tech house and house artist tracked on soundcheck, with 24 sets logged
 
 ## Recently played
 
+- M.O.T, London — Fri, 17 Jul 2026
 - Phonox, London — Fri, 3 Jul 2026
 - Vittoria Wharf Studio, London — Thu, 25 Jun 2026
 - fabric, London — Sat, 6 Jun 2026
@@ -24,10 +24,9 @@ LILI is a tech house and house artist tracked on soundcheck, with 24 sets logged
 - Metropolis, London — Sat, 16 May 2026
 - Metropolis, London — Sat, 16 May 2026
 - The Timber Loft, London — Sun, 15 Mar 2026
-- NUMBER 90 LONDON, London — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Lewis Carroll, Tommy Gold, ADMNTi
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

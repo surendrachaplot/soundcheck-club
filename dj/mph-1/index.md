@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
+MPH (1) is a Garage and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Colorado Charlie, The Hague on Fri, 24 Jul 2026.
 
 MPH (1) is a garage and bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Belfast and 36 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Colorado Charlie, Thehague on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 103 sets logged 
 
 Oppidan, Flava D, Bushbaby
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

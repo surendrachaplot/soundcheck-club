@@ -1,6 +1,6 @@
 # Plantainchipps
 
-Plantainchipps is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at The Berkeley Suite, Glasgow on Fri, 14 Aug 2026.
+Plantainchipps is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Berkeley Suite, Glasgow on Fri, 14 Aug 2026.
 
 Plantainchipps is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Edinburgh, Glasgow, London and Sheffield. Often billed alongside Maveen, NAMÄN (UK) and ELANDA. Next up: The Berkeley Suite, Glasgow on Fri 14 Aug.
 
@@ -26,4 +26,4 @@ Plantainchipps is a techno and bass artist based in United Kingdom, tracked on s
 
 Maveen, NAMÄN (UK), ELANDA
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plantainchipps/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/plantainchipps/)*

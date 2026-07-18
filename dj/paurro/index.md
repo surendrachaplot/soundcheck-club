@@ -1,14 +1,13 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Tresor / Globus, Berlin on Fri, 17 Jul 2026.
+PAURRO is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at fabric, London on Sat, 1 Aug 2026.
 
-PAURRO is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Tresor / Globus, Berlin on Fri 17 Jul.
+PAURRO is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: fabric, London on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Tresor / Globus | Berlin |
 | Sat, 1 Aug 2026 | fabric | London |
 | Sat, 15 Aug 2026 | OHM | Berlin |
 | Fri, 21 Aug 2026 | smartbar | Chicago |
@@ -17,6 +16,7 @@ PAURRO is a house and techno artist tracked on soundcheck, with 173 sets logged 
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Fri, 17 Jul 2026
 - BASEMENT, New York City — Sat, 11 Jul 2026
 - Radio Radio, Amsterdam — Sat, 20 Jun 2026
 - La Bellevilloise, Paris — Fri, 19 Jun 2026
@@ -24,10 +24,9 @@ PAURRO is a house and techno artist tracked on soundcheck, with 173 sets logged 
 - Société des arts technologiques, Montreal — Fri, 5 Jun 2026
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 29 May 2026
 - Marble Bar, Detroit — Mon, 25 May 2026
-- public records, New York City — Sun, 24 May 2026
 
 ## Shares bills with
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

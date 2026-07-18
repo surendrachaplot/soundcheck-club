@@ -1,6 +1,6 @@
 # Tapefeed
 
-Tapefeed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Asd Laghi Carcana, Milan on Sat, 18 Jul 2026.
+Tapefeed is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Asd Laghi Carcana, Milan on Sat, 18 Jul 2026.
 
 Tapefeed is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Boston and Budapest and 9 more. Often billed alongside Rene Wise, Anna Wall and Craig Richards. Next up: Asd Laghi Carcana, Milan on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Tapefeed is a techno and house artist tracked on soundcheck, with 66 sets logged
 
 Rene Wise, Anna Wall, Craig Richards
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*

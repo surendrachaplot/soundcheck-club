@@ -1,6 +1,6 @@
 # Underground Lounge
 
-Underground Lounge is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Sanctuary" on Sat, 25 Jul 2026.
+Underground Lounge is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Sanctuary" on Sat, 25 Jul 2026.
 
 Underground Lounge is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 952 W Newport Ave, Chicago, IL 60657.
 
@@ -14,4 +14,4 @@ Underground Lounge is a music venue in Chicago listed on soundcheck. 1 upcoming 
 
 952 W Newport Ave, Chicago, IL 60657, Chicago
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/underground-lounge/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/underground-lounge/)*

@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Disco S!ut presents Never Dull: Saturday San Diego Pride" on Sat, 18 Jul 2026.
+EQ San Diego is a music venue in San Diego with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Disco S!ut presents Never Dull: Saturday San Diego Pride" on Sat, 18 Jul 2026.
 
 EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nights, with line-ups including Boys Don't Disco, Codak, DEVZ and Flores Negras and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -23,4 +23,4 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 12 upcoming nigh
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

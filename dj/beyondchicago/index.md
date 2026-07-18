@@ -1,6 +1,6 @@
 # Beyond Chicago
 
-Beyond Chicago is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
+Beyond Chicago is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at O Beach, Ibiza on Thu, 23 Jul 2026.
 
 Beyond Chicago is a tech house and house artist tracked on soundcheck, with 55 sets logged across Chicago, Edinburgh, Ibiza and London and 1 more. Often billed alongside Sammy Porter, Charlotte Van de Peer and George Mensah. Next up: O Beach, Ibiza on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Beyond Chicago is a tech house and house artist tracked on soundcheck, with 55 s
 
 Sammy Porter, Charlotte Van de Peer, George Mensah
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beyondchicago/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/beyondchicago/)*

@@ -1,6 +1,6 @@
 # SIKXTO
 
-SIKXTO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at OST, Berlin on Sat, 18 Jul 2026.
+SIKXTO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OST, Berlin on Sat, 18 Jul 2026.
 
 SIKXTO is a techno and trance artist tracked on soundcheck, with 55 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside DTEXX, Filialleiter and Trancestrudel. Next up: OST, Berlin on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ SIKXTO is a techno and trance artist tracked on soundcheck, with 55 sets logged 
 
 DTEXX, Filialleiter, Trancestrudel
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*

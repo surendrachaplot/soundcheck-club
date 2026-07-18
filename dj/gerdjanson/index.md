@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
+Gerd Janson is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 18 Jul 2026.
 
 Gerd Janson is a house and techno artist tracked on soundcheck, with 287 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 18 Jul.
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 287 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

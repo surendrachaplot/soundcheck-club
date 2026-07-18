@@ -1,6 +1,6 @@
 # OneThabs
 
-OneThabs is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at E1, London on Sat, 18 Jul 2026.
+OneThabs is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at E1, London on Sat, 18 Jul 2026.
 
 OneThabs is an afro house and afro tech artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside INTUIT, Duo and European 305. Next up: E1, London on Sat 18 Jul.
 
@@ -25,4 +25,4 @@ OneThabs is an afro house and afro tech artist tracked on soundcheck, with 9 set
 
 INTUIT, Duo, European 305
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onethabs/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/onethabs/)*

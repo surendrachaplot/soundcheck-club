@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "Paloma Invites" on Fri, 17 Jul 2026.
+Paloma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Lost Control presents Kennedy Smith, Prince of Hydro & Dj Heartbreak" on Sat, 18 Jul 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 11:68PM, Arnaud Denzler, Balthazar Martinez and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Paloma Invites | CHUKWU, Pschukk |
 | Sat, 18 Jul 2026 | Lost Control presents Kennedy Smith, Prince of Hydro & Dj Heartbreak | Dj Heartbreak, Kennedy Smith, Kofi the Unknown, Prince of Hydro |
 | Fri, 24 Jul 2026 | House Heaven | David Boening, LACATY, miszo |
 | Sat, 25 Jul 2026 | TTNoTDB X Tartelet | Behrang Mohammadi, Space Ghost, Wille, not even noticed |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with
 | Sat, 8 Aug 2026 | Operate UKG pres. PRESTi | Ben Mono, Dub Isotope, PRESTi, TMSN |
 | Fri, 14 Aug 2026 | LNS invites Curly Waters | LNS |
 | Sat, 15 Aug 2026 | Pacotek | Idit Frenkel, Soussana |
+| Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

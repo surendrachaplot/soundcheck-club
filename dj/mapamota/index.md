@@ -1,6 +1,6 @@
 # Mapamota
 
-Mapamota is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA -  DTLA Warehouse, Los Angeles on Sat, 18 Jul 2026.
+Mapamota is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA -  DTLA Warehouse, Los Angeles on Sat, 18 Jul 2026.
 
 Mapamota is a club and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Losangeles, Mexicocity, Newyorkcity and Sandiego and 3 more. Often billed alongside Daddy Kev, Gbenga and Stealth Angel. Next up: TBA -  DTLA Warehouse, Losangeles on Sat 18 Jul.
 
@@ -27,4 +27,4 @@ Mapamota is a club and techno artist based in United States of America, tracked 
 
 Daddy Kev, Gbenga, Stealth Angel
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mapamota/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mapamota/)*

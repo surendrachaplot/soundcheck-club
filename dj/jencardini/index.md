@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Palais de Tokyo, Paris on Sat, 18 Jul 2026.
+Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Palais de Tokyo, Paris on Sat, 18 Jul 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Auckland and 55 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Palais de Tokyo, Paris on Sat 18 Jul.
 
@@ -34,4 +34,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

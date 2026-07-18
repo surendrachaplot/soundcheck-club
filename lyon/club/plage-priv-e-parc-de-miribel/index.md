@@ -1,6 +1,6 @@
 # Plage Privée Parc de Miribel
 
-Plage Privée Parc de Miribel is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "23:59 - WEEKENDER 2026" on Sat, 10 Oct 2026.
+Plage Privée Parc de Miribel is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "23:59 - WEEKENDER 2026" on Sat, 10 Oct 2026.
 
 Plage Privée Parc de Miribel is a music venue in Lyon listed on soundcheck. 1 upcoming night, with line-ups including 2HOT2PLAY, AREA ØNE, Blasha & Allatt and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Allée du Morlet, 69120 Vaulx En Velin.
 
@@ -14,4 +14,4 @@ Plage Privée Parc de Miribel is a music venue in Lyon listed on soundcheck. 1 u
 
 Allée du Morlet, 69120 Vaulx En Velin, Lyon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/plage-priv-e-parc-de-miribel/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/plage-priv-e-parc-de-miribel/)*

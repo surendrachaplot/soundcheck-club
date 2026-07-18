@@ -1,6 +1,6 @@
 # Romii
 
-Romii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - 4 Star Theater, San Francisco/Oakland on Sun, 19 Jul 2026.
+Romii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - 4 Star Theater, San Francisco/Oakland on Sun, 19 Jul 2026.
 
 Romii is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Clarity (3), Guerrilla Pump and Miss Crafty. Next up: TBA - 4 Star Theater, Sanfrancisco on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Romii is a techno and house artist based in United States of America, tracked on
 
 Clarity (3), Guerrilla Pump, Miss Crafty
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romii/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romii/)*

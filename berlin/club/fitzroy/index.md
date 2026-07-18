@@ -1,14 +1,13 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "KVETCH IS BACK - SUMMER EDITION" on Fri, 17 Jul 2026.
+Fitzroy is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "TEMPA CLUB NIGHT" on Sat, 18 Jul 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Javier Anxiety, Asha (4), Asphodèle and Bloomfeld and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Javier Anxiety, Asha (4), Asphodèle and Bloomfeld and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | KVETCH IS BACK - SUMMER EDITION | Daniel Ö, Konapt, Linn Elisabet, NASTYA NVRSLP, NOHAR, SEBBO (2), Znzl, tragicdamon |
 | Sat, 18 Jul 2026 | TEMPA CLUB NIGHT | Asphodèle, Bloomfeld, Hanaby, Helina, JADA MORAES, Lukinu, Roof (2) |
 | Sun, 19 Jul 2026 | Royal Highness invites Halal Club (free entry / donation based) | Asha (4), EgorVasilev, KAPP, Katja Adrikova, Labrighli, Nikita T, SOCIAL VLAD, Stamina (DE), TIKOA, Zorz, travaspango |
 | Thu, 23 Jul 2026 | Hüft & Beinbruch | LASC11, Phil Phaze, cun_t |
@@ -23,4 +22,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming nights, wit
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

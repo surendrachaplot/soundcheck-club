@@ -1,6 +1,6 @@
 # Michael Gray
 
-Michael Gray is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at O Beach, Ibiza on Sat, 18 Jul 2026.
+Michael Gray is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at O Beach, Ibiza on Sat, 18 Jul 2026.
 
 Michael Gray is a house and disco artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Auckland, Barcelona and Brighton and 14 more. Often billed alongside Melvo Baptiste, Dave Lee and MiNNA. Next up: O Beach, Ibiza on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ Michael Gray is a house and disco artist based in United Kingdom, tracked on sou
 
 Melvo Baptiste, Dave Lee, MiNNA
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelgray/)*

@@ -1,6 +1,6 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 20 Jul 2026.
+Juicy Romance is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 20 Jul 2026.
 
 Juicy Romance is a techno and house artist based in Australia, tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 45 more. Often billed alongside Partiboi69, Mischluft and sim0ne. Next up: Amnesia Ibiza, Ibiza on Mon 20 Jul.
 
@@ -27,4 +27,4 @@ Juicy Romance is a techno and house artist based in Australia, tracked on soundc
 
 Partiboi69, Mischluft, sim0ne
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

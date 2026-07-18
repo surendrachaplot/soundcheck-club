@@ -1,6 +1,6 @@
 # Városligeti Műjégpálya
 
-Városligeti Műjégpálya is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Be Massive Horizon Day & Night Party - Városligeti csónakázótó" on Sat, 18 Jul 2026.
+Városligeti Műjégpálya is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Be Massive Horizon Day & Night Party - Városligeti csónakázótó" on Sat, 18 Jul 2026.
 
 Városligeti Műjégpálya is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Dubecticut, Joone and Somazed. Browse upcoming dates, start times and who's playing. Budapest, Olof Palme stny. 5, 1146.
 
@@ -14,4 +14,4 @@ Városligeti Műjégpálya is a music venue in Budapest listed on soundcheck. 1 
 
 Budapest, Olof Palme stny. 5, 1146, Budapest
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/v-rosligeti-m-j-gp-lya/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/v-rosligeti-m-j-gp-lya/)*

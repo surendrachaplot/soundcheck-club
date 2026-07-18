@@ -1,6 +1,6 @@
 # Simonetti
 
-Simonetti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 24 Jul 2026.
+Simonetti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Angel Music Bar, Melbourne on Fri, 24 Jul 2026.
 
 Simonetti is a house and techno artist tracked on soundcheck, with 54 sets logged across Losangeles, Madrid, Melbourne and Miami and 4 more. Often billed alongside Jesse DM, Mike Simonetti and Jo Christy. Next up: Angel Music Bar, Melbourne on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Simonetti is a house and techno artist tracked on soundcheck, with 54 sets logge
 
 Jesse DM, Mike Simonetti, Jo Christy
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*

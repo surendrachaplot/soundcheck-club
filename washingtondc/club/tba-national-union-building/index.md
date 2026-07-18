@@ -1,6 +1,6 @@
 # TBA - National Union Building
 
-TBA - National Union Building is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Extended Play Loft Party with Marcellus Pittman + Kai Alcé" on Sat, 8 Aug 2026.
+TBA - National Union Building is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Extended Play Loft Party with Marcellus Pittman + Kai Alcé" on Sat, 8 Aug 2026.
 
 TBA - National Union Building is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Kai Alce, Marcellus Pittman and Martín Miguel. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - National Union Building is a music venue in Washingtondc listed on soundch
 | --- | --- | --- |
 | Sat, 8 Aug 2026 | Extended Play Loft Party with Marcellus Pittman + Kai Alcé | Kai Alce, Marcellus Pittman, Martín Miguel |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-national-union-building/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tba-national-union-building/)*

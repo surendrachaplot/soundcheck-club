@@ -1,6 +1,6 @@
 # Gressholmen Kro
 
-Gressholmen Kro is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "Quackfestivalen 2026" on Sun, 26 Jul 2026.
+Gressholmen Kro is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Quackfestivalen 2026" on Sun, 26 Jul 2026.
 
 Gressholmen Kro is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Anton Klint, Pavlo Plastikk and Rune Lindbæk. Browse upcoming dates, start times and who's playing. Gressholmen 0150, Oslo.
 
@@ -14,4 +14,4 @@ Gressholmen Kro is a music venue in Oslo listed on soundcheck. 1 upcoming night,
 
 Gressholmen 0150, Oslo, Oslo
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/gressholmen-kro/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/gressholmen-kro/)*

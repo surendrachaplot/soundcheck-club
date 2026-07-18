@@ -1,14 +1,13 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "KSK Presents : SMR + NIJN" on Fri, 17 Jul 2026.
+Room 2 Glasgow is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "OBSCURA AGENCY NIGHT (free event)" on Sat, 18 Jul 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including LESSSS and NGL (NL). Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including LESSSS and NGL (NL). Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | KSK Presents : SMR + NIJN |  |
 | Sat, 18 Jul 2026 | OBSCURA AGENCY NIGHT (free event) |  |
 | Fri, 24 Jul 2026 | Obscura X Unbound presents: Incult, Ngl and N/E/O | NGL (NL) |
 | Fri, 31 Jul 2026 | Hardpoint Presents: Double Trouble - Noise of Aggression + more |  |
@@ -19,4 +18,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming nigh
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

@@ -1,6 +1,6 @@
 # De Kerktuin
 
-De Kerktuin is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Fri, 17 Jul 2026; the next is "BECKY MINI FEST" on Sat, 15 Aug 2026.
+De Kerktuin is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "BECKY MINI FEST" on Sat, 15 Aug 2026.
 
 De Kerktuin is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ De Kerktuin is a music venue in Rotterdam listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | BECKY MINI FEST |  |
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/de-kerktuin/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/de-kerktuin/)*

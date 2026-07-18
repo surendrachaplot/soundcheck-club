@@ -1,6 +1,6 @@
 # DJoy
 
-DJoy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+DJoy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
 
 DJoy is a house and techno artist tracked on soundcheck, with 56 sets logged across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Garchinger See, Munich on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ DJoy is a house and techno artist tracked on soundcheck, with 56 sets logged acr
 
 Bogus Trumper, VOE, sianza
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*

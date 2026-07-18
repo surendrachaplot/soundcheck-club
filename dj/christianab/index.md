@@ -1,14 +1,13 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Parc Nou. El Prat de Llobregat, Barcelona on Fri, 17 Jul 2026.
+Christian AB is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tokonoma Club, Frankfurt on Sat, 25 Jul 2026.
 
-Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Parc Nou. El Prat de Llobregat, Barcelona on Fri 17 Jul.
+Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Tokonoma Club, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | Parc Nou. El Prat de Llobregat | Barcelona |
 | Sat, 25 Jul 2026 | Tokonoma Club | Frankfurt |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 31 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -22,6 +21,7 @@ Christian AB is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - DC-10, Ibiza — Mon, 6 Jul 2026
 - Hotel Butterfly, Rome — Thu, 2 Jul 2026
 - Lux Fragil, Lisbon — Sat, 27 Jun 2026
@@ -29,10 +29,9 @@ Christian AB is a house and techno artist based in United Kingdom, tracked on so
 - Zt Hotel + Wolf Club, Barcelona — Sun, 21 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 19 Jun 2026
 - Fvtvr, Paris — Fri, 5 Jun 2026
-- UNO MALTA, Malta — Fri, 16 May 2025
 
 ## Shares bills with
 
 Christian AB, Francesco Del Garda, Call Super
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

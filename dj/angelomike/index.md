@@ -1,6 +1,6 @@
 # Angelo Mike
 
-Angelo Mike is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at TBA - 🌊, Krakow on Fri, 24 Jul 2026.
+Angelo Mike is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - 🌊, Krakow on Fri, 24 Jul 2026.
 
 Angelo Mike is a techno and house artist based in Poland, tracked on soundcheck, with 54 sets logged across Krakow and Warsaw. Often billed alongside Konca, Kuvau and NuCasa. Next up: TBA - 🌊, Krakow on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Angelo Mike is a techno and house artist based in Poland, tracked on soundcheck,
 
 Konca, Kuvau, NuCasa
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelomike/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/angelomike/)*

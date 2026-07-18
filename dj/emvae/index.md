@@ -1,6 +1,6 @@
 # Emvae
 
-Emvae is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Lofi, Amsterdam on Sat, 25 Jul 2026.
+Emvae is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lofi, Amsterdam on Sat, 25 Jul 2026.
 
 Emvae is a house and trance artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Lucky Done Gone. Next up: Lofi, Amsterdam on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Emvae is a house and trance artist tracked on soundcheck, with 66 sets logged ac
 
 Moxes, SAIDAH, Lucky Done Gone
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

@@ -1,14 +1,13 @@
 # Drom
 
-Drom is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 17 Jul 2026; the next is "LAST NITE [THE STROKES DANCE PARTY]" on Fri, 17 Jul 2026.
+Drom is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "[CANCELLED] DEADHEAD DISCO: JERRY'S BIRTHDAY CELEBRATION" on Sat, 1 Aug 2026.
 
-Drom is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 85 Avenue A, New York, NY 10009.
+Drom is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 85 Avenue A, New York, NY 10009.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 17 Jul 2026 | LAST NITE [THE STROKES DANCE PARTY] |  |
 | Sat, 1 Aug 2026 | [CANCELLED] DEADHEAD DISCO: JERRY'S BIRTHDAY CELEBRATION |  |
 | Sat, 1 Aug 2026 | THE HUSTLE (70's DISCO NIGHT) |  |
 | Fri, 11 Sept 2026 | SLEEPYHEADS [EARLY INDIE DANCE PARTY] |  |
@@ -17,4 +16,4 @@ Drom is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Br
 
 85 Avenue A, New York, NY 10009, New York City
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*

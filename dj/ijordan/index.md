@@ -1,6 +1,6 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 17 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 18 Jul 2026.
+I. JORDAN is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 18 Jul 2026.
 
 I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Yamamori Tengu, Dublin on Sat 18 Jul.
 
@@ -28,4 +28,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, tracked on sound
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Fri, 17 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
