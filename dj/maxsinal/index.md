@@ -9,7 +9,7 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 29 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 2 Aug 2026 | Setlist @ Somerset House | London |
-| Sun, 16 Aug 2026 | Filly Brook | London |
+| Sat, 15 Aug 2026 | Filly Brook | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 4 Sept 2026 | KOKO | London |
 

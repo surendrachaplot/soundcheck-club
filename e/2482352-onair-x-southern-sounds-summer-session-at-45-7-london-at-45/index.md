@@ -1,6 +1,6 @@
 # OnAir x Southern Sounds - Summer Session at 45 & 7 London at 45 London
 
-OnAir x Southern Sounds - Summer Session at 45 & 7 London at 45 London on Sat 22 Aug, London. 2 acts on the bill: Jude Lenihan and Oliver.r. Garage and Tech House. Preview the line-up and save it on soundcheck.
+OnAir x Southern Sounds - Summer Session at 45 & 7 London at 45 London on Sat 22 Aug, London. 3 acts on the bill: Jude Lenihan, Lucas Vansittart and Oliver.r. Garage and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ OnAir x Southern Sounds - Summer Session at 45 & 7 London at 45 London on Sat 22
 ## Line-up
 
 - Jude Lenihan
+- Lucas Vansittart
 - Oliver.r
 
 *Source: [soundcheck](https://soundcheck.club/e/2482352-onair-x-southern-sounds-summer-session-at-45-7-london-at-45/)*

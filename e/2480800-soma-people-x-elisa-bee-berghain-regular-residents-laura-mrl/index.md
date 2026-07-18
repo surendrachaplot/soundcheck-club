@@ -1,6 +1,6 @@
-# SOMA PEOPLE x Elisa Bee (Berghain Regular) & Residents Laura MRLS, NARA, V.40 at M.O.T
+# SOMA PEOPLE x Elisa Bee (Berghain Regular) & Residents Laura MRLS (Monument), NARA, V.40 at M.O.T
 
-SOMA PEOPLE x Elisa Bee (Berghain Regular) & Residents Laura MRLS, NARA, V.40 at M.O.T on Fri 28 Aug, London. 4 acts on the bill: Elisa Bee, Laura MRLS, NARA (UK) and V.40. Techno and Industrial. Preview the line-up and save it on soundcheck.
+SOMA PEOPLE x Elisa Bee (Berghain Regular) & Residents Laura MRLS (Monument), NARA, V.40 at M.O.T on Fri 28 Aug, London. 4 acts on the bill: Elisa Bee, Laura MRLS, NARA (UK) and V.40. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

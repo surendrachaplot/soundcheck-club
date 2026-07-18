@@ -13,8 +13,8 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 7 upcoming nights
 | Sat, 25 Jul 2026 | Kings Turntable: Shuvaluv [25.07.2026] | Shuvaluv |
 | Sun, 26 Jul 2026 | Kings Turntable: NOYB + LazyBoyEli [26.07.2026] | NOYB |
 | Sat, 1 Aug 2026 | Kings Turntable: TBC [01.08.2026] |  |
-| Sun, 2 Aug 2026 | Kings Turntable: TBC |  |
-| Sat, 8 Aug 2026 | Kings Turntable: TBC |  |
+| Sun, 2 Aug 2026 | Kings Turntable: TBC [02.08.2026] |  |
+| Sat, 8 Aug 2026 | Kings Turntable: TBC [08.08.2026] |  |
 
 ## Address
 

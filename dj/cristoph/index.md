@@ -1,13 +1,14 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Magazine Open–Air, London on Fri, 14 Aug 2026.
+Cristoph is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Descent, Boston on Sat, 18 Jul 2026.
 
-Cristoph is a techno and progressive house artist tracked on soundcheck, with 138 sets logged across Auckland, Austin, Bali and Berlin and 33 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Magazine Open–Air, London on Fri 14 Aug.
+Cristoph is a techno and progressive house artist tracked on soundcheck, with 139 sets logged across Auckland, Austin, Bali and Berlin and 34 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: Descent, Boston on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 18 Jul 2026 | Descent | Boston |
 | Fri, 14 Aug 2026 | Magazine Open–Air | London |
 | Fri, 14 Aug 2026 | fabric | London |
 | Sat, 22 Aug 2026 | Savaya Bali | Bali |

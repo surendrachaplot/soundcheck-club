@@ -1,8 +1,8 @@
-# TBA - Secret Location 
+# TBA - Secret Location
 
-TBA - Secret Location  is a music venue in London with 43 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mura Masa // Curve" on Sat, 18 Jul 2026.
+TBA - Secret Location is a music venue in London with 43 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mura Masa // Curve" on Sat, 18 Jul 2026.
 
-TBA - Secret Location  is a music venue in London listed on soundcheck. 43 upcoming nights, with line-ups including 550am, _MARCBA, AARON GEHRIG and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 43 upcoming nights, with line-ups including 550am, _MARCBA, AARON GEHRIG and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

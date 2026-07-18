@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "re:lax with Suzi Analogue, Chinese Daughter, re:ni b2b Laksa" on Sat, 18 Jul 2026.
+Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "re:lax with Suzi Analogue, Chinese Daughter, re:ni b2b Laksa" on Sat, 18 Jul 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Ab.Diablo, A-Sides, Azu Tiwaline and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Ab.Diablo, A-Sides, Azu Tiwaline and basic chanel and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 

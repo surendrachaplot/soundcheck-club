@@ -1,6 +1,6 @@
 # Egg London
 
-Egg London is a music venue in London with 33 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Neverleft Records - Summer Sessions (Vol 2)" on Sat, 18 Jul 2026.
+Egg London is a music venue in London with 33 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Neverleft Records - Summer Sessions (Vol 2) - LAST ENTRY 6PM" on Sat, 18 Jul 2026.
 
 Egg London is a music venue in London listed on soundcheck. 33 upcoming nights, with line-ups including ABSOLUTE., ACID HARRY, b-line and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
@@ -8,7 +8,7 @@ Egg London is a music venue in London listed on soundcheck. 33 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Neverleft Records - Summer Sessions (Vol 2) | Harry Bone, Rennie Peters |
+| Sat, 18 Jul 2026 | Neverleft Records - Summer Sessions (Vol 2) - LAST ENTRY 6PM | Harry Bone, Rennie Peters |
 | Sat, 18 Jul 2026 | House on the Docks Festival Afterparty: Supa D, European 305, Shenin Amara | Beezo, DJ Vibes, European 305, Poppy, Shenin Amara, Supa D |
 | Sat, 18 Jul 2026 | England v France Fanzone - World Cup 3rd Place Play-Off Live Outdoors |  |
 | Sun, 19 Jul 2026 | World Cup Final Fanzone - Spain v Argentina - Live on the big screens |  |
