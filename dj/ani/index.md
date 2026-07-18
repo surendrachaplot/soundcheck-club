@@ -1,8 +1,8 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 25 Jul 2026.
+A.N.I. is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Sat, 25 Jul 2026.
 
-A.N.I. is a techno and trance artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Lokschuppen Berlin, Berlin on Sat 25 Jul.
+A.N.I. is a techno and trance artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Lokschuppen Berlin, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ A.N.I. is a techno and trance artist tracked on soundcheck, with 179 sets logged
 | Fri, 7 Aug 2026 | Electrisize | Düsseldorf |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
+| Fri, 16 Oct 2026 | OST | Berlin |
 
 ## Recently played
 

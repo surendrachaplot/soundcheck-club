@@ -8,7 +8,7 @@ TBA - Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 13 Aug 2026 | DIFFUSE REALITY [14 Years Anniversary] |  |
+| Thu, 13 Aug 2026 | DIFFUSE REALITY [14 Years Anniversary] | CSL, Fac3less, Origami, Raw Image, Squaric |
 | Sat, 15 Aug 2026 | NACHTVORM Berlin |  |
 | Sat, 29 Aug 2026 | Freiland Sommerausklang 2026 | Andre Kronert, Bertha, Bonjour Ben, Daniel Czerner, Edgar Peng, Nadine Hennig, Pschukk, Reka Zalan, Rill, Vy Tran, Yamour, Yavin, charis |
 

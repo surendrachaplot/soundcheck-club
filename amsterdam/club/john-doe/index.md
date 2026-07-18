@@ -1,8 +1,8 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 34 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX" on Sat, 18 Jul 2026.
+John Doe is a music venue in Amsterdam with 35 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Amsterdam Techno Sessions with Villa Señor (PERVERT MX - ILLEGAL ALIEN RECORDS) MEX" on Sat, 18 Jul 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 34 upcoming nights, with line-ups including Arabesque (AU), Alex Sharp, Aztlan Zidonia and BEZMEZH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 35 upcoming nights, with line-ups including ANGEL-V, Arabesque (AU), Alex Sharp and Aztlan Zidonia and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 

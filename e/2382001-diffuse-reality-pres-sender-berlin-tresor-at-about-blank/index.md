@@ -1,6 +1,6 @@
 # DIFFUSE REALITY pres. Sender Berlin [Tresor] at ://about blank
 
-DIFFUSE REALITY pres. Sender Berlin [Tresor] at ://about blank on Thu 20 Aug, Berlin. 4 acts on the bill: Anri, SURCO, Sender Berlin and Squaric. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY pres. Sender Berlin [Tresor] at ://about blank on Thu 20 Aug, Berlin. 8 acts on the bill: Anri, Blosvenn, Ecilo and NYCTO and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,10 @@ DIFFUSE REALITY pres. Sender Berlin [Tresor] at ://about blank on Thu 20 Aug, Be
 ## Line-up
 
 - Anri
+- Blosvenn
+- Ecilo
+- NYCTO
+- Obscur
 - SURCO
 - Sender Berlin
 - Squaric

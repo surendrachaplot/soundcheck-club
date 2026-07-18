@@ -1,14 +1,14 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
+Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 11 Bromley Street, B9 4AN, Birmingham on Sat, 18 Jul 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: TBA, Birmingham on Sat 18 Jul.
+Kepler is a house and tech house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: 11 Bromley Street, B9 4AN, Birmingham on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA | Birmingham |
+| Sat, 18 Jul 2026 | 11 Bromley Street, B9 4AN | Birmingham |
 | Fri, 24 Jul 2026 | TBA - Warehouse | Denver |
 | Sun, 26 Jul 2026 | Refuge | New York City |
 | Sat, 8 Aug 2026 | Palmerstown House Estate | Dublin |

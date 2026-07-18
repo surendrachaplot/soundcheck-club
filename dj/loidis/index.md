@@ -1,8 +1,8 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
+Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
-Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Skee Mask and Vlada. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
+Loidis is a techno and minimal artist tracked on soundcheck, with 57 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Skee Mask and Vlada. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 56 sets logged
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 

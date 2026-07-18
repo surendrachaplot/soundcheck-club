@@ -1,8 +1,8 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat, 18 Jul 2026.
+Shakolin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat, 18 Jul 2026.
 
-Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, with 102 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat 18 Jul.
+Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: TBA - INTIMATE VENUE / LIMITED CAP, Lyon on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shakolin is a house and techno artist based in Ukraine, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TBA - INTIMATE VENUE / LIMITED CAP | Lyon |
 | Sat, 15 Aug 2026 | gART.n | Berlin |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 

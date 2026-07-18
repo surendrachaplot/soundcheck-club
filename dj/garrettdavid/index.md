@@ -1,14 +1,14 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Birmingham on Sat, 18 Jul 2026.
+Garrett David is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 11 Bromley Street, B9 4AN, Birmingham on Sat, 18 Jul 2026.
 
-Garrett David is a house and disco artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 31 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: TBA, Birmingham on Sat 18 Jul.
+Garrett David is a house and disco artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 31 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: 11 Bromley Street, B9 4AN, Birmingham on Sat 18 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA | Birmingham |
+| Sat, 18 Jul 2026 | 11 Bromley Street, B9 4AN | Birmingham |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Sat, 15 Aug 2026 | Night Tales | London |
 | Fri, 4 Sept 2026 | The Loft | Manchester |

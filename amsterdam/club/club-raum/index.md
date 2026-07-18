@@ -8,7 +8,7 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | RAUM invites Bassiani | Function, Sophie Phare, TITIA, Valody, Zitto |
+| Sat, 18 Jul 2026 | RAUM invites Bassiani | Dimi Angelis, Function, Sophie Phare, TITIA, Valody, Zitto |
 | Fri, 24 Jul 2026 | PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE | Afra, Animistic Beliefs, ELMER, KITT, Maara, Manu Miran, UNAUNA, bebe bad, lis (5), mayo (2), mayo (NL) |
 | Sat, 25 Jul 2026 | RAUM invites NightClubbing | BADSISTA, FAFF, Jen Cardini, Slimfit, smother |
 | Fri, 31 Jul 2026 | RAUM invites Mala Junta | BARROSKINI, D. Tiffany, DIORA, DJ TOOL, Hyperaktivist, Yazzus |

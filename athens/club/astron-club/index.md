@@ -8,7 +8,7 @@ Astron Club is a music venue in Athens listed on soundcheck. 4 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | ACN with Ayshel // FlökosH // Greta | Ayshel, FlökosH, Greta |
+| Sat, 18 Jul 2026 | ACN with Ayshel // FlökosH // Greta | Ayshel, FlökosH, GRETA (GR), Greta |
 | Sun, 19 Jul 2026 | Astron x Sunday with ClubKid / Fro / Piece of Kate | .Fro., ClubKid, Piece of Kate |
 | Fri, 24 Jul 2026 | ACN with 3.14 // Katra | 3.14, Katra |
 | Sat, 25 Jul 2026 | ACN with Mavridis // Re/Act | Mavridis, Re/Act |

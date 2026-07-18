@@ -1,6 +1,6 @@
 # ACN with Ayshel // FlökosH // Greta at Astron Club
 
-ACN with Ayshel // FlökosH // Greta at Astron Club on Sat 18 Jul, Athens. 3 acts on the bill: Ayshel, FlökosH and Greta. Preview the line-up and save it on soundcheck.
+ACN with Ayshel // FlökosH // Greta at Astron Club on Sat 18 Jul, Athens. 4 acts on the bill: Ayshel, FlökosH, GRETA (GR) and Greta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ ACN with Ayshel // FlökosH // Greta at Astron Club on Sat 18 Jul, Athens. 3 act
 
 - Ayshel
 - FlökosH
+- GRETA (GR)
 - Greta
 
 *Source: [soundcheck](https://soundcheck.club/e/2485788-acn-with-ayshel-fl-kosh-greta-at-astron-club/)*

@@ -15,7 +15,7 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming nights,
 | Fri, 31 Jul 2026 | Cut to the Feeling | Esqueezy |
 | Fri, 28 Aug 2026 | Dirty Funking Queers | HausKlown, Paniolo |
 | Fri, 28 Aug 2026 | Dirty Funking Queers | HausKlown, Paniolo, Sportsdyke |
-| Sat, 29 Aug 2026 | Gut Level presents: Byron Yeates & Malus | Byron Yeates |
+| Sat, 29 Aug 2026 | Gut Level presents: Byron Yeates (Adonis / Radiant Records) & Malus | Byron Yeates |
 
 ## Address
 

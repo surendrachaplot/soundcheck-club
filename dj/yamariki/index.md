@@ -1,8 +1,8 @@
 # Yamariki
 
-Yamariki is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Royal Lounge, Tokyo on Sun, 19 Jul 2026.
+Yamariki is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Royal Lounge, Tokyo on Sun, 19 Jul 2026.
 
-Yamariki is a house and tech house artist based in Japan, tracked on soundcheck, with 156 sets logged across Amsterdam, Osaka, Seoul and Sydney and 1 more. Often billed alongside PUNK N MATRIX, Chika Luna and DJ Emma. Next up: Royal Lounge, Tokyo on Sun 19 Jul.
+Yamariki is a house and tech house artist based in Japan, tracked on soundcheck, with 157 sets logged across Amsterdam, Osaka, Seoul and Sydney and 1 more. Often billed alongside PUNK N MATRIX, Chika Luna and DJ Emma. Next up: Royal Lounge, Tokyo on Sun 19 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Yamariki is a house and tech house artist based in Japan, tracked on soundcheck,
 | Sun, 26 Jul 2026 | TBA | Tokyo |
 | Sat, 1 Aug 2026 | Z Maruyama | Tokyo |
 | Sat, 8 Aug 2026 | Bank30 | Tokyo |
+| Sun, 27 Sept 2026 | or | Tokyo |
 
 ## Recently played
 

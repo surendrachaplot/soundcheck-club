@@ -1,14 +1,14 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 32 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "[Last 50 tickets] CLOSA SELECTS: Reznik (Keinemusik) at La Terrrazza" on Sat, 18 Jul 2026.
+La Terrrazza is a music venue in Barcelona with 33 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "[Last 5 tickets] CLOSA SELECTS: Reznik (Keinemusik) at La Terrrazza" on Sat, 18 Jul 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 32 upcoming nights, with line-ups including Acidnena, AUTOFLOWER, Belu Rodriguez and Bennet and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 33 upcoming nights, with line-ups including Acidnena, AUTOFLOWER, Belu Rodriguez and Bennet and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | [Last 50 tickets] CLOSA SELECTS: Reznik (Keinemusik) at La Terrrazza | NIIXII, Reznik |
+| Sat, 18 Jul 2026 | [Last 5 tickets] CLOSA SELECTS: Reznik (Keinemusik) at La Terrrazza | NIIXII, Reznik |
 | Sat, 18 Jul 2026 | Club Inferno | KE-YEN, X CLUB. |
 | Thu, 23 Jul 2026 | Soundset Sessions with AUTOFLOWER & THELMA | AUTOFLOWER, CLANDESTINE (2), Kaeru, THELMA |
 | Fri, 24 Jul 2026 | PLAYGROUND with Eden Burns + DJ City | DJ City, Eden Burns, Martin Noise |

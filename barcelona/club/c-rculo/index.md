@@ -1,14 +1,15 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Inner Circle feat. NIA" on Sat, 18 Jul 2026.
+Círculo is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Inner Circle feat. NIA" on Sat, 18 Jul 2026.
 
-Círculo is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
+Círculo is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Salitre. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | Inner Circle feat. NIA |  |
+| Sat, 25 Jul 2026 | Inner Circle feat. Salitre | Salitre |
 
 ## Address
 

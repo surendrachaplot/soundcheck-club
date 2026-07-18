@@ -1,8 +1,8 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 24 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "True Junglist FREE RAVE • Unglued & Toby Ross [WAH Open Air After Party]" on Sat, 18 Jul 2026.
+The Clock Factory is a music venue in Bristol with 25 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "True Junglist FREE RAVE • Unglued & Toby Ross [WAH Open Air After Party]" on Sat, 18 Jul 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 24 upcoming nights, with line-ups including Bladerunner, Burt Cope, Congo Natty and Deselecta and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 25 upcoming nights, with line-ups including Bladerunner, Burt Cope, Club Angel and Congo Natty and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 

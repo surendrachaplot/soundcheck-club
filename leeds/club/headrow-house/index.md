@@ -1,8 +1,8 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Paisley Dark Rooftop Takeover" on Fri, 24 Jul 2026.
+Headrow House is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Paisley Dark Rooftop Takeover" on Fri, 24 Jul 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including Cosmikuro, John Paynter, Ms Ray and Trevor Fung. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including Cosmikuro, John Paynter, Ms Ray and Trevor Fung. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Headrow House is a music venue in Leeds listed on soundcheck. 8 upcoming nights,
 | Sun, 4 Oct 2026 | DBA |  |
 | Tue, 13 Oct 2026 | 2charm |  |
 | Thu, 15 Oct 2026 | Tommy Barlow |  |
+| Fri, 16 Oct 2026 | GeeJay |  |
 
 ## Address
 

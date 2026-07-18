@@ -1,8 +1,8 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Mothership, Auckland on Fri, 9 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Mothership, Auckland on Fri, 9 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Auckland, Barcelona and Buenosaires and 20 more. Often billed alongside Guy J, MASANORI MORITA and Nico Moon. Next up: The Mothership, Auckland on Fri 9 Oct.
+Mariano Mellino is a progressive house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Barcelona and Buenosaires and 21 more. Often billed alongside Guy J, MASANORI MORITA and Nico Moon. Next up: The Mothership, Auckland on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Mariano Mellino is a progressive house and techno artist tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Mothership | Auckland |
 | Sat, 10 Oct 2026 | Howler | Melbourne |
+| Fri, 16 Oct 2026 | Archive | Leeds |
+| Fri, 16 Oct 2026 | TBA | Leeds |
 
 ## Recently played
 

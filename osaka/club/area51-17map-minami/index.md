@@ -8,7 +8,7 @@ Area51 / 17map Minami is a music venue in Osaka listed on soundcheck. 5 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Hush | SAYA, Yashima |
+| Sat, 18 Jul 2026 | Hush | SAYA, Tennan, Yashima |
 | Sat, 18 Jul 2026 | Hush | Tennan, Yashima |
 | Fri, 24 Jul 2026 | Session | Juni, Kaoll, Solaris |
 | Sat, 25 Jul 2026 | Back Door | Silverfox, Yoshihiko Tanaka |

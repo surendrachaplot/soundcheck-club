@@ -1,8 +1,8 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
+Kichta is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
 
-Kichta is a techno and trance artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Amøn, KLING&KLANG and Cobb Douglas. Next up: Fuse, Brussels on Sat 18 Jul.
+Kichta is a techno and trance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Amøn, KLING&KLANG and Cobb Douglas. Next up: Fuse, Brussels on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kichta is a techno and trance artist tracked on soundcheck, with 39 sets logged 
 | Sat, 18 Jul 2026 | Fuse | Brussels |
 | Fri, 7 Aug 2026 | Helios37 | Cologne |
 | Sat, 12 Sept 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 
 ## Recently played
 

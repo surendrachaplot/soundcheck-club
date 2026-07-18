@@ -10,7 +10,7 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 3 upcoming nights,
 | --- | --- | --- |
 | Sat, 18 Jul 2026 | TIMEmACHINE - Chelu Garcia & Nico Faletty | Chelu Garcia |
 | Fri, 24 Jul 2026 | MAGMA TECHNO KULTURE PRESENTS ¨MATERIA¨ | Greick Jhøzsu, Jesus Riaño, Marcelo Demarco, Marco Bailey |
-| Sat, 25 Jul 2026 | TIMEmACHINE - Hugo Martinez & E.LINA | E.LINA, Hugo Martinez |
+| Sat, 25 Jul 2026 | TIMEmACHINE - Hugo Martinez & Nesta | E.LINA, Hugo Martinez, Nesta |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Kyle Toole
 
-Kyle Toole is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
+Kyle Toole is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Circle Park, Brussels on Sat, 18 Jul 2026.
 
-Kyle Toole is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Kian OK, Tau Car and Adi (CO). Next up: Circle Park, Brussels on Sat 18 Jul.
+Kyle Toole is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Kian OK, DJ Dustin and Millie McKee. Next up: Circle Park, Brussels on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kyle Toole is a house and techno artist tracked on soundcheck, with 87 sets logg
 | Sat, 18 Jul 2026 | Circle Park | Brussels |
 | Sat, 18 Jul 2026 | La Fabriek | Brussels |
 | Sun, 23 Aug 2026 | ZENNER | Berlin |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Kyle Toole is a house and techno artist tracked on soundcheck, with 87 sets logg
 
 ## Shares bills with
 
-Kian OK, Tau Car, Adi (CO)
+Kian OK, DJ Dustin, Millie McKee
 
 *Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*

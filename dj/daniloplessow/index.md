@@ -1,8 +1,8 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
+Danilo Plessow is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
 
-Danilo Plessow is a house and disco artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: OLT Rivierenhof, Antwerp on Sat 18 Jul.
+Danilo Plessow is a house and disco artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: OLT Rivierenhof, Antwerp on Sat 18 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 156 sets 
 | Fri, 31 Jul 2026 | Platforma Wolff | Bucharest |
 | Sat, 5 Sept 2026 | fabric | London |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
+| Fri, 16 Oct 2026 | Sala Villanos | Madrid |
 
 ## Recently played
 

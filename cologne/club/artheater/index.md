@@ -8,7 +8,7 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 25 Jul 2026 | N8SCHICHT SUMMER SPECIAL |  |
+| Sat, 25 Jul 2026 | N8SCHICHT SUMMER SPECIAL | Bouncy Bitch, Lukas Neumann, NAKAMA, notears |
 | Fri, 7 Aug 2026 | Neon Dreams Cologne | 3LEEZA, Bruno Brero, DjRundfunk, Glen West, LSG, NIA (3), Noise Mafia, PEAKSOU, Saar (FR), nordcorreia.mp3 |
 | Sat, 8 Aug 2026 | Katana x shockwerk |  |
 | Fri, 14 Aug 2026 | SCHRANZ is BACK Köln with Felix Kröcher & Neon Graveyard | Felix Kröcher, Neon Graveyard |

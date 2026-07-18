@@ -1,8 +1,8 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
+Galcher Lustwerk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Secret Location, New York City on Sat, 1 Aug 2026.
 
-Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Devoye, Honey Bun and Sterling Juan Diaz. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
+Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Devoye, Honey Bun and Sterling Juan Diaz. Next up: TBA - Secret Location, Newyorkcity on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 51 set
 | --- | --- | --- |
 | Sat, 1 Aug 2026 | TBA - Secret Location | New York City |
 | Sat, 12 Sept 2026 | fabric | London |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 

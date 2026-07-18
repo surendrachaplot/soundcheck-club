@@ -1,8 +1,8 @@
 # OST
 
-OST is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "EUPHORIK pres Vorteks, Noise Not War, Death of Mars" on Sat, 18 Jul 2026.
+OST is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "EUPHORIK pres Vorteks, Noise Not War, Death of Mars" on Sat, 18 Jul 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), YOVA and Acid Asian and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 

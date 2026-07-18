@@ -1,8 +1,8 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
+Acid Arab is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Parc del Fòrum, Barcelona on Fri, 7 Aug 2026.
 
-Acid Arab is an electro and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
+Acid Arab is an electro and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Parc del Fòrum, Barcelona on Fri 7 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Acid Arab is an electro and techno artist tracked on soundcheck, with 88 sets lo
 | --- | --- | --- |
 | Fri, 7 Aug 2026 | Parc del Fòrum | Barcelona |
 | Thu, 15 Oct 2026 | Gretchen | Berlin |
+| Fri, 16 Oct 2026 | Gretchen | Berlin |
 
 ## Recently played
 

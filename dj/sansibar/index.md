@@ -1,8 +1,8 @@
 # Sansibar
 
-Sansibar is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
+Sansibar is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Cause, London on Sat, 25 Jul 2026.
 
-Sansibar is a techno and electro artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 43 more. Often billed alongside dj sweet6teen, Naone and Angel D'lite. Next up: The Cause, London on Sat 25 Jul.
+Sansibar is a techno and electro artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 43 more. Often billed alongside dj sweet6teen, Naone and Angel D'lite. Next up: The Cause, London on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sansibar is a techno and electro artist tracked on soundcheck, with 143 sets log
 | Sat, 25 Jul 2026 | The Cause | London |
 | Sun, 26 Jul 2026 | Macadam | Nantes |
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 

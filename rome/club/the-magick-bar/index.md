@@ -12,7 +12,7 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 12 upcoming nights
 | Fri, 24 Jul 2026 | Neel invites Endzeit | Neel |
 | Sat, 25 Jul 2026 | THE MAGICK BAR presents: Binh | Binh |
 | Tue, 4 Aug 2026 | Jungle at Magick bar | Mordak, Nadir____, Uabos |
-| Thu, 6 Aug 2026 | Singularity |  |
+| Thu, 6 Aug 2026 | Singularity | Manlio, marielou |
 | Fri, 7 Aug 2026 | Anarchy In The Club with DJ Red | DJ Red |
 | Tue, 18 Aug 2026 | Jungle at Magick bar | Matteo Canori, Petra (4) |
 | Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |

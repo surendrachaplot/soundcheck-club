@@ -1,8 +1,8 @@
 # Ciel
 
-Ciel is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Juice, Toronto on Fri, 24 Jul 2026.
+Ciel is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Juice, Toronto on Fri, 24 Jul 2026.
 
-Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 47 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: Juice, Toronto on Fri 24 Jul.
+Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 47 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: Juice, Toronto on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Sat, 5 Sept 2026 | Central 1926 | Sao Paulo |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
+| Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
+Club Angel is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Razzmatazz, Barcelona on Sat, 25 Jul 2026.
 
-Club Angel is a garage and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and Sammy Virji. Next up: Razzmatazz, Barcelona on Sat 25 Jul.
+Club Angel is a garage and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and Sammy Virji. Next up: Razzmatazz, Barcelona on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Club Angel is a garage and house artist tracked on soundcheck, with 89 sets logg
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Tivoli | Brisbane |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 16 Oct 2026 | The Clock Factory | Bristol |
 
 ## Recently played
 

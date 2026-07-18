@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Host with Jeremy Cheung (Typhoon 8, Hong Kong) [All Night Long]" on Sat, 18 Jul 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Host with Jeremy Cheung (Typhoon 8, Hong Kong) [All Night Long]" on Sat, 18 Jul 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 19 upcoming nights, with line-ups including 69DB, Albino Sound, A Strange Wedding and Charlieowo and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # RAUM invites Bassiani at CLUB RAUM
 
-RAUM invites Bassiani at CLUB RAUM on Sat 18 Jul, Amsterdam. 5 acts on the bill: Function, Sophie Phare, TITIA and Valody and 1 more. Preview the line-up and save it on soundcheck.
+RAUM invites Bassiani at CLUB RAUM on Sat 18 Jul, Amsterdam. 6 acts on the bill: Dimi Angelis, Function, Sophie Phare and TITIA and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RAUM invites Bassiani at CLUB RAUM on Sat 18 Jul, Amsterdam. 5 acts on the bill:
 
 ## Line-up
 
+- Dimi Angelis
 - Function
 - Sophie Phare
 - TITIA
