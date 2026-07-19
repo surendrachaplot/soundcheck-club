@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FĀLĀ - Vertical Spectrum, Nightfall, Salat, Vakkum" on Sat, 18 Jul 2026.
+Mastak is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SUNDAY" on Sun, 19 Jul 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with line-ups including Adrian Skiba, anke schön, Be.roo and Gaamer and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including Adrian Skiba, anke schön, Be.roo and Gaamer and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | FĀLĀ - Vertical Spectrum, Nightfall, Salat, Vakkum | Nightfall, Salat |
 | Sun, 19 Jul 2026 | SUNDAY | MARCUCCIO, VIKKI_ |
 | Fri, 24 Jul 2026 | addigted | Gaamer |
 | Sat, 25 Jul 2026 | Arya X NOKTURN | Adrian Skiba, Mateusz Grzybowski, Pean, sporra |
@@ -21,4 +20,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with 
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

@@ -1,14 +1,13 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ANFS + Angel Molina" on Sat, 18 Jul 2026.
+LAUT is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Christian + Fabrega + Onoffon" on Fri, 24 Jul 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including ABSIS, Alderaan, ANFS and Ángel Molina and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including ABSIS, Alderaan, Aura Nox and Axis Mundi and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | ANFS + Angel Molina | ANFS, Ángel Molina |
 | Fri, 24 Jul 2026 | Christian + Fabrega + Onoffon | Fabrega, Onoffon |
 | Sat, 25 Jul 2026 | Axis Mundi + Lucient | Axis Mundi, Lucient |
 | Fri, 31 Jul 2026 | Dafunkas B2B Subradeon | Dafunkas, Subradeon |
@@ -18,9 +17,10 @@ LAUT is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, wit
 | Fri, 14 Aug 2026 | Breezy S + Egyptian Greyhound | Breezy S, Egyptian Greyhound |
 | Sat, 15 Aug 2026 | DJ Split + Heather + Mr. Wakanda | DJ Split, Heather (ES) |
 | Fri, 21 Aug 2026 | Gazzi + Lucient | Gazzi, Lucient |
+| Sat, 22 Aug 2026 | Forest On Stasys B2B Alderaan | Alderaan, Forest On Stasys |
 
 ## Address
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

@@ -1,6 +1,6 @@
 # Rafa Paella
 
-Rafa Paella is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Giri, Berlin on Fri, 31 Jul 2026.
+Rafa Paella is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Giri, Berlin on Fri, 31 Jul 2026.
 
 Rafa Paella is a house and disco artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Eren (2), Alexander Paulski and Mischa (2). Next up: Giri, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Rafa Paella is a house and disco artist based in Germany, tracked on soundcheck,
 
 Eren (2), Alexander Paulski, Mischa (2)
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafapaella/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rafapaella/)*

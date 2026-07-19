@@ -1,8 +1,8 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at smartbar, Chicago on Sun, 19 Jul 2026.
+Jimpster is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at smartbar, Chicago on Sun, 19 Jul 2026.
 
-Jimpster is a house and deep house artist tracked on soundcheck, with 79 sets logged across Barcelona, Brighton, Budapest and Chicago and 29 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: smartbar, Chicago on Sun 19 Jul.
+Jimpster is a house and deep house artist tracked on soundcheck, with 80 sets logged across Barcelona, Brighton, Budapest and Chicago and 29 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: smartbar, Chicago on Sun 19 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 79 sets lo
 | Thu, 23 Jul 2026 | TBA - address sent to all ticket holders  | London |
 | Fri, 31 Jul 2026 | TBA - DC | Washington DC |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
+| Sat, 17 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 79 sets lo
 
 Neil Pierce, Sy Sez, Anton Tumas
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

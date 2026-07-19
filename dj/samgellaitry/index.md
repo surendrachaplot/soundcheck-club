@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Brooklyn Army Terminal, New York City on Fri, 31 Jul 2026.
+Sam Gellaitry is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Brooklyn Army Terminal, New York City on Fri, 31 Jul 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Glasgow and Houston and 17 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: Brooklyn Army Terminal, Newyorkcity on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

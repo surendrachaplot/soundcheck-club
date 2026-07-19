@@ -1,8 +1,8 @@
 # DJ Primitivo
 
-DJ Primitivo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
+DJ Primitivo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
 
-DJ Primitivo is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin, Ghent and Prague. Often billed alongside Stinny Stone, Cobb Douglas and Mareike Bautz. Next up: Lokschuppen Berlin, Berlin on Fri 31 Jul.
+DJ Primitivo is a techno and trance artist tracked on soundcheck, with 37 sets logged across Berlin, Ghent and Prague. Often billed alongside Stinny Stone, Cobb Douglas and Mareike Bautz. Next up: Lokschuppen Berlin, Berlin on Fri 31 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Primitivo is a techno and trance artist tracked on soundcheck, with 36 sets l
 | --- | --- | --- |
 | Fri, 31 Jul 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
+| Sat, 17 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Primitivo is a techno and trance artist tracked on soundcheck, with 36 sets l
 
 Stinny Stone, Cobb Douglas, Mareike Bautz
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimitivo/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimitivo/)*

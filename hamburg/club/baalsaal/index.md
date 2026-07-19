@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "NONCHALANT #2 | Sophisticated Techno & Groove with Secret Act (Berlin ) & SVPERCELL (Hamburg)" on Fri, 24 Jul 2026.
+Baalsaal is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "NONCHALANT #2 | Sophisticated Techno & Groove with Secret Act (Berlin ) & SVPERCELL (Hamburg)" on Fri, 24 Jul 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including Eva Nyx, ROOB, Steven Shade and SVPERCELL. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -22,4 +22,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, wi
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

@@ -1,6 +1,6 @@
 # Malkin Bowl
 
-Malkin Bowl is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Sasha & John Digweed (Vancouver Open Air)" on Sat, 12 Sept 2026.
+Malkin Bowl is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Sasha & John Digweed (Vancouver Open Air)" on Sat, 12 Sept 2026.
 
 Malkin Bowl is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including John Digweed, Kevin Shiu and Sasha. Browse upcoming dates, start times and who's playing. 610 Pipeline Rd; Vancouver, BC V6G 3E2; Canada.
 
@@ -14,4 +14,4 @@ Malkin Bowl is a music venue in Vancouver listed on soundcheck. 1 upcoming night
 
 610 Pipeline Rd; Vancouver, BC V6G 3E2; Canada, Vancouver
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/malkin-bowl/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/malkin-bowl/)*

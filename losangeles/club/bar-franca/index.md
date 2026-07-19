@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bar Franca This Week" on Thu, 23 Jul 2026.
+Bar Franca is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Bar Franca This Week" on Thu, 23 Jul 2026.
 
 Bar Franca is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Quarterdef. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -15,4 +15,4 @@ Bar Franca is a music venue in Losangeles listed on soundcheck. 2 upcoming night
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

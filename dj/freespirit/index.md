@@ -1,6 +1,6 @@
 # Freespirit
 
-Freespirit is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 19 Jul 2026.
+Freespirit is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 19 Jul 2026.
 
 Freespirit is an afro house and afro tech artist tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Frankfurt and Mykonos. Often billed alongside DJ Freespirit, Alex Wann and Claptone. Next up: Cavo Paradiso, Mykonos on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Freespirit is an afro house and afro tech artist tracked on soundcheck, with 32 
 
 DJ Freespirit, Alex Wann, Claptone
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freespirit/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/freespirit/)*

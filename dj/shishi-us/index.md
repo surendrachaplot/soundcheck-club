@@ -1,6 +1,6 @@
 # Shi Shi
 
-Shi Shi is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 31 Jul 2026.
+Shi Shi is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 31 Jul 2026.
 
 Shi Shi is a house and club artist based in United States of America, tracked on soundcheck, with 37 sets logged across Chicago, London, Losangeles and Newyorkcity and 2 more. Often billed alongside Pacer, AceMo and sqip. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 31 Jul.
 
@@ -28,4 +28,4 @@ Shi Shi is a house and club artist based in United States of America, tracked on
 
 Pacer, AceMo, sqip
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shishi-us/)*

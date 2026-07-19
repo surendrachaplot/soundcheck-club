@@ -1,6 +1,6 @@
 # Nick Reverse
 
-Nick Reverse is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
+Nick Reverse is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tanzhaus West, Frankfurt on Fri, 24 Jul 2026.
 
 Nick Reverse is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Bali and Barcelona and 7 more. Often billed alongside André Müller, Ben Nott and Joris Turenhout. Next up: Tanzhaus West, Frankfurt on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Nick Reverse is a techno and tech house artist tracked on soundcheck, with 88 se
 
 André Müller, Ben Nott, Joris Turenhout
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*

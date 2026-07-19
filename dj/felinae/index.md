@@ -1,6 +1,6 @@
 # Felinae
 
-Felinae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Summum, Ibiza on Fri, 7 Aug 2026.
+Felinae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Summum, Ibiza on Fri, 7 Aug 2026.
 
 Felinae is a techno and trance artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Budapest and Ibiza. Often billed alongside Ozzwald, Rowsi and Amøn. Next up: Summum, Ibiza on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Felinae is a techno and trance artist tracked on soundcheck, with 39 sets logged
 
 Ozzwald, Rowsi, Amøn
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*

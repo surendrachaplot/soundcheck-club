@@ -1,6 +1,6 @@
 # Stacey Hotwaxx Hale
 
-Stacey Hotwaxx Hale is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Stacey Hotwaxx Hale is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
 Stacey Hotwaxx Hale is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Rimarkable, Ashton Swinton and Darryl G. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Stacey Hotwaxx Hale is a house and techno artist tracked on soundcheck, with 137
 
 Rimarkable, Ashton Swinton, Darryl G
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*

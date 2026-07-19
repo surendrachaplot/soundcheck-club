@@ -1,6 +1,6 @@
 # Biesmans / Prom Night / Wille / Fluid Sound Collective at Culture Box
 
-Biesmans / Prom Night / Wille / Fluid Sound Collective at Culture Box on Fri 18 Sept, Copenhagen. 6 acts on the bill: Biesmans, KLENA, Kirakingkong and Prom Night and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Biesmans / Prom Night / Wille / Fluid Sound Collective at Culture Box on Fri 18 Sept, Copenhagen. 7 acts on the bill: Biesmans, Eva Claudia, KLENA and Kirakingkong and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Biesmans / Prom Night / Wille / Fluid Sound Collective at Culture Box on Fri 18 
 ## Line-up
 
 - Biesmans
+- Eva Claudia
 - KLENA
 - Kirakingkong
 - Prom Night

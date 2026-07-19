@@ -1,6 +1,6 @@
 # Kutchi
 
-Kutchi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
+Kutchi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Next Door Records Two, London on Sat, 1 Aug 2026.
 
 Kutchi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol and London. Often billed alongside Basement Maxx, Dusty Dan and NIIX. Next up: Next Door Records Two, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Kutchi is a house and techno artist based in United Kingdom, tracked on soundche
 
 Basement Maxx, Dusty Dan, NIIX
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kutchi/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kutchi/)*

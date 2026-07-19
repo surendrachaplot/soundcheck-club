@@ -1,6 +1,6 @@
 # Botanical Gin Garden
 
-Botanical Gin Garden is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Knock Twice Cabaret: Franz Genau, Mr Brake Down & Live Jazz Band" on Thu, 30 Jul 2026.
+Botanical Gin Garden is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Knock Twice Cabaret: Franz Genau, Mr Brake Down & Live Jazz Band" on Thu, 30 Jul 2026.
 
 Botanical Gin Garden is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including Finn, Olly151, Sakers and Shadeda. Browse upcoming dates, start times and who's playing. 49 New Bird Street, Liverpool, L1 0DN.
 
@@ -15,4 +15,4 @@ Botanical Gin Garden is a music venue in Liverpool listed on soundcheck. 2 upcom
 
 49 New Bird Street, Liverpool, L1 0DN, Liverpool
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/botanical-gin-garden/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/botanical-gin-garden/)*

@@ -1,8 +1,8 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 27 Jul 2026.
+Skin On Skin is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amnesia Ibiza, Ibiza on Mon, 27 Jul 2026.
 
-Skin On Skin is a techno and house artist tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Amnesia Ibiza, Ibiza on Mon 27 Jul.
+Skin On Skin is a techno and house artist tracked on soundcheck, with 125 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside KETTAMA, Mall Grab and CRUSH3d. Next up: Amnesia Ibiza, Ibiza on Mon 27 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 124 sets l
 
 KETTAMA, Mall Grab, CRUSH3d
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

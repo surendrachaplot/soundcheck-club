@@ -1,6 +1,6 @@
 # GMOZ
 
-GMOZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 24 Jul 2026.
+GMOZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 24 Jul 2026.
 
 GMOZ is a techno and trance artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Melbourne and Sydney. Often billed alongside Eva Charley, Lily FM and dameeeela. Next up: Lokschuppen Berlin, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ GMOZ is a techno and trance artist tracked on soundcheck, with 33 sets logged ac
 
 Eva Charley, Lily FM, dameeeela
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gmoz/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/gmoz/)*

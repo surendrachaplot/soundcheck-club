@@ -1,14 +1,13 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fuse, Brussels on Sat, 18 Jul 2026.
+L.zwo is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at RSO.BERLIN, Berlin on Sat, 1 Aug 2026.
 
-L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 87 sets logged across Antwerp, Barcelona, Basel and Berlin and 14 more. Often billed alongside OCIN, 2HOT2PLAY and Antonym. Next up: Fuse, Brussels on Sat 18 Jul.
+L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, with 87 sets logged across Antwerp, Barcelona, Basel and Berlin and 14 more. Often billed alongside OCIN, 2HOT2PLAY and Antonym. Next up: RSO.BERLIN, Berlin on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Fuse | Brussels |
 | Sat, 1 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 7 Aug 2026 | Waschhaus | Berlin |
 | Sat, 15 Aug 2026 | Aahhh Rooftop | Munich |
@@ -21,6 +20,7 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- Fuse, Brussels — Sat, 18 Jul 2026
 - BASIS, Utrecht — Fri, 26 Jun 2026
 - Le Petit Salon, Lyon — Fri, 12 Jun 2026
 - TBA - Lucky Star Munich, Munich — Sat, 6 Jun 2026
@@ -28,10 +28,9 @@ L.zwo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 - Quai de L'horloge, Montreal — Sat, 16 May 2026
 - Quai de L'horloge, Montreal — Sat, 16 May 2026
 - Mia Mao, Paris — Fri, 15 May 2026
-- DSTRKT Club Berlin, Berlin — Thu, 14 May 2026
 
 ## Shares bills with
 
 OCIN, 2HOT2PLAY, Antonym
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

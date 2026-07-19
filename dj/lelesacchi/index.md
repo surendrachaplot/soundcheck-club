@@ -1,6 +1,6 @@
 # Lele Sacchi
 
-Lele Sacchi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Circolo Magnolia, Milan on Fri, 24 Jul 2026.
+Lele Sacchi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Circolo Magnolia, Milan on Fri, 24 Jul 2026.
 
 Lele Sacchi is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside Futuro Tropicale, Larry Masmero and Keira Meier. Next up: Circolo Magnolia, Milan on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Lele Sacchi is a house and techno artist tracked on soundcheck, with 84 sets log
 
 Futuro Tropicale, Larry Masmero, Keira Meier
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*

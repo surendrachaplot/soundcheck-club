@@ -1,6 +1,6 @@
 # Ysanne
 
-Ysanne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Ysanne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Ysanne is a house and techno artist tracked on soundcheck, with 51 sets logged across Brighton, Glasgow, Liverpool and London and 1 more. Often billed alongside Michelle Manetti, Jaye Ward and Ellie Stokes. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Ysanne is a house and techno artist tracked on soundcheck, with 51 sets logged a
 
 Michelle Manetti, Jaye Ward, Ellie Stokes
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ysanne/)*

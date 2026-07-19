@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "PAMELA invites Dalson Superstore" on Sat, 18 Jul 2026.
+TILLATEC is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "TILLAVISION: Aquatec" on Fri, 24 Jul 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Amphia, angelboy, ANNĒ and ARCHANGEL (US) and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Amphia, angelboy, ANNĒ and ARCHANGEL (US) and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | PAMELA invites Dalson Superstore | DJ Shahmaran, Ivy F, LYLO (NL), OG Karin |
 | Fri, 24 Jul 2026 | TILLAVISION: Aquatec |  |
 | Fri, 24 Jul 2026 | TILLAVISION: Aquatec | DIORA, Juja, TEKNA, sausy |
 | Sat, 25 Jul 2026 | Orphic #21 Pride Takeover |  |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights,
 | Fri, 7 Aug 2026 | WorldPride: Horse Meat Disco |  |
 | Sat, 8 Aug 2026 | WorldPride TILLATEC Invites: Boudica, Howl & Pervert |  |
 | Sat, 15 Aug 2026 | Discos Movimiento x Pintai | ATEQ, Bluecommand, Gizem, Hafa, Hame (1), MNTY, Martinou, Move D, Telfort, Vera Logdanidi, nthng |
+| Fri, 21 Aug 2026 | Dissident | Carly Zeng, Cryptofauna, DIORA, angelboy, marum |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

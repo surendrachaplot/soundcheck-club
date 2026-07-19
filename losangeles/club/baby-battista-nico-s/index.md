@@ -1,6 +1,6 @@
 # Baby Battista @ Nico's
 
-Baby Battista @ Nico's is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "LINGER" on Sat, 15 Aug 2026.
+Baby Battista @ Nico's is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "LINGER" on Sat, 15 Aug 2026.
 
 Baby Battista @ Nico's is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including deesco. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Baby Battista @ Nico's is a music venue in Losangeles listed on soundcheck. 1 up
 | --- | --- | --- |
 | Sat, 15 Aug 2026 | LINGER | deesco |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/baby-battista-nico-s/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/baby-battista-nico-s/)*

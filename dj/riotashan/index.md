@@ -1,6 +1,6 @@
 # Rio Tashan
 
-Rio Tashan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
+Rio Tashan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Cova Santa, Ibiza on Tue, 4 Aug 2026.
 
 Rio Tashan is a house and disco artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 6 more. Often billed alongside Sam Divine, Eats Everything and Low Steppa. Next up: Cova Santa, Ibiza on Tue 4 Aug.
 
@@ -26,4 +26,4 @@ Rio Tashan is a house and disco artist tracked on soundcheck, with 63 sets logge
 
 Sam Divine, Eats Everything, Low Steppa
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riotashan/)*

@@ -1,6 +1,6 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 23 Jul 2026.
+Charlie Sparks is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 23 Jul 2026.
 
 Charlie Sparks is a techno and house artist tracked on soundcheck, with 252 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 62 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 23 Jul.
 
@@ -34,4 +34,4 @@ Charlie Sparks is a techno and house artist tracked on soundcheck, with 252 sets
 
 999999999, Parfait, I Hate Models
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

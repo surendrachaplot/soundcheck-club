@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Endzeit: Donato Dozzy extended set, Kudeki b2b Torsion" on Sat, 18 Jul 2026.
+Fvtvr is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Primal Instinct" on Fri, 24 Jul 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adriana Lopez, Alhena_, Amotik and A.M. Project and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Adriana Lopez, Alhena_, Amotik and A.M. Project and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Endzeit: Donato Dozzy extended set, Kudeki b2b Torsion | Donato Dozzy, Kudeki, Torsion |
 | Fri, 24 Jul 2026 | Primal Instinct | Chlär, Temudo |
 | Sat, 25 Jul 2026 | Toyz: Boris, Samantha Togni, Nymed | Boris, Nymed, Samantha Togni |
 | Fri, 31 Jul 2026 | LANNA SHOWCASE: Adriana Lopez, JAKO JAKO, Jheal BASHTA | Adriana Lopez, JakoJako, Jheal |
@@ -22,4 +21,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

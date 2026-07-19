@@ -1,6 +1,6 @@
 # Expo Lawn West
 
-Expo Lawn West is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Rossi" on Sat, 22 Aug 2026.
+Expo Lawn West is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Rossi" on Sat, 22 Aug 2026.
 
 Expo Lawn West is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Rossi. Browse upcoming dates, start times and who's playing. 800 Exposition Blvd, Los Angeles, CA 90037, United States.
 
@@ -14,4 +14,4 @@ Expo Lawn West is a music venue in Losangeles listed on soundcheck. 1 upcoming n
 
 800 Exposition Blvd, Los Angeles, CA 90037, United States, Los Angeles
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/expo-lawn-west/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/expo-lawn-west/)*

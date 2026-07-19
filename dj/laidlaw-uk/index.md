@@ -1,8 +1,8 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Gaffe, London on Sun, 19 Jul 2026.
+Laidlaw is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Gaffe, London on Sun, 19 Jul 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 186 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Gaffe, London on Sun 19 Jul.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 187 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Gaffe, London on Sun 19 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 186 sets lo
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

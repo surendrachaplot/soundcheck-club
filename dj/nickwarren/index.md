@@ -1,14 +1,13 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bridge Gardens, Glasgow on Sat, 18 Jul 2026.
+Nick Warren is a Progressive House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Fri, 24 Jul 2026.
 
-Nick Warren is a progressive house and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Bridge Gardens, Glasgow on Sat 18 Jul.
+Nick Warren is a progressive house and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Bali and Barcelona and 33 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Bridge Gardens | Glasgow |
 | Fri, 24 Jul 2026 | Bristol Amphitheatre & Waterfront Square | Bristol |
 | Sat, 8 Aug 2026 | Sloterpark | Amsterdam |
 | Sat, 5 Sept 2026 | UNLOCKED | London |
@@ -20,6 +19,7 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 
 ## Recently played
 
+- Bridge Gardens, Glasgow — Sat, 18 Jul 2026
 - Sala UNI Madrid, Madrid — Fri, 17 Jul 2026
 - Bolivar Beach Bar, Athens — Thu, 16 Jul 2026
 - Cova Santa, Ibiza — Thu, 9 Jul 2026
@@ -27,10 +27,9 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 - Stereo, Montreal — Fri, 3 Jul 2026
 - Fünk, Mexico City — Sat, 27 Jun 2026
 - Europa Boat, Budapest — Sun, 24 May 2026
-- Kassa Boat, Budapest — Sun, 24 May 2026
 
 ## Shares bills with
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

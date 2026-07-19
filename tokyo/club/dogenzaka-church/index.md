@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "re:ACCiDENTAL JaM" on Sat, 18 Jul 2026.
+Dogenzaka Church is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SALON" on Sun, 19 Jul 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 35DH-1, AMANE, Hironobu Jyounai and omeme_gangimari and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including AMANE, Hironobu Jyounai, omeme_gangimari and ReFuCafé and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | re:ACCiDENTAL JaM | 35DH-1 |
 | Sun, 19 Jul 2026 | SALON |  |
 | Sat, 25 Jul 2026 | GLOBAL DANCE |  |
 | Tue, 28 Jul 2026 | CANDELA OF MUSIC | YOSHI KANOU |
@@ -21,4 +20,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 8 upcoming nigh
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

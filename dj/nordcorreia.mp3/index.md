@@ -1,6 +1,6 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 24 Jul 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 24 Jul 2026.
 
 nordcorreia.mp3 is a techno and trance artist tracked on soundcheck, with 39 sets logged across Berlin, Budapest, Cologne and Frankfurt and 2 more. Often billed alongside Amøn, Rosilicious and ADEMES. Next up: Lokschuppen Berlin, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ nordcorreia.mp3 is a techno and trance artist tracked on soundcheck, with 39 set
 
 Amøn, Rosilicious, ADEMES
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

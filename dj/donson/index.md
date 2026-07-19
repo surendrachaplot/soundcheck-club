@@ -1,6 +1,6 @@
 # Don Son
 
-Don Son is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kaschemme Basel, Basel on Sat, 25 Jul 2026.
+Don Son is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kaschemme Basel, Basel on Sat, 25 Jul 2026.
 
 Don Son is a techno and electronica artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Barcelona, Basel, Berlin and London and 4 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Michael Ritter. Next up: Kaschemme Basel, Basel on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Don Son is a techno and electronica artist based in Switzerland, tracked on soun
 
 DMITRI ABSINTHE, MAX PELA, Michael Ritter
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*

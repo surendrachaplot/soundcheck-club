@@ -1,6 +1,6 @@
 # ADAM MUNNINGS
 
-ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Bangkok and Berlin and 7 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 69 sets l
 
 Elninodiablo, DJ Petite, Jonathan Apelbaum
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*

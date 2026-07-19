@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 8 Aug 2026.
+Matthias (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Platforma Wolff, Bucharest on Sat, 8 Aug 2026.
 
 Matthias (1) is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Platforma Wolff, Bucharest on Sat 8 Aug.
 
@@ -27,4 +27,4 @@ Matthias (1) is a house and techno artist tracked on soundcheck, with 100 sets l
 
 So-Fi, Ancut, Brasi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

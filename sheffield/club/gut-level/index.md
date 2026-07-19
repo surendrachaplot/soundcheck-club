@@ -1,14 +1,13 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Silicone Carbide: glosssd b2b Miss Sixty b2b TB-316" on Sat, 18 Jul 2026.
+Gut Level is a music venue in Sheffield with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "John T Gast (live), Abena & Ashley Holmes" on Fri, 24 Jul 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming nights, with line-ups including Abena, Ashley Holmes, Backseat Driver and Bubbles (UK) and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 7 upcoming nights, with line-ups including Abena, Ashley Holmes, Backseat Driver and Bubbles (UK) and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Silicone Carbide: glosssd b2b Miss Sixty b2b TB-316 | TB-316, glosssd |
 | Fri, 24 Jul 2026 | John T Gast (live), Abena & Ashley Holmes | Abena, Ashley Holmes, John T. Gast |
 | Sat, 25 Jul 2026 | Orange Room's 1st Birthday with Cáit | Backseat Driver, Bubbles (UK), Cáit, Paniolo |
 | Sun, 26 Jul 2026 | Vanity Projects presents: HTMLJONES (ish99ni) |  |
@@ -21,4 +20,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming nights,
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

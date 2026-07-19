@@ -1,14 +1,13 @@
 # DJ SOURCE
 
-DJ SOURCE is a Techno and Breakbeat artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+DJ SOURCE is a Techno and Breakbeat artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Else, Berlin on Sat, 8 Aug 2026.
 
-DJ SOURCE is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 113 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: MS Artville, Hamburg on Sat 18 Jul.
+DJ SOURCE is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 113 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Else, Berlin on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | MS Artville | Hamburg |
 | Sat, 8 Aug 2026 | Else | Berlin |
 | Sat, 15 Aug 2026 | Kampnagel | Hamburg |
 | Sat, 15 Aug 2026 | Kampnagel | Hamburg |
@@ -16,6 +15,7 @@ DJ SOURCE is a techno and breakbeat artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- MS Artville, Hamburg — Sat, 18 Jul 2026
 - Golden Pudel Club, Hamburg — Thu, 16 Jul 2026
 - Hafenklang, Hamburg — Fri, 10 Jul 2026
 - Golden Pudel Club, Hamburg — Thu, 18 Jun 2026
@@ -23,10 +23,9 @@ DJ SOURCE is a techno and breakbeat artist based in Germany, tracked on soundche
 - Flughafen Tegel, Berlin — Sat, 6 Jun 2026
 - Else, Berlin — Fri, 22 May 2026
 - Golden Pudel Club, Hamburg — Sat, 9 May 2026
-- Golden Pudel Club, Hamburg — Thu, 23 Apr 2026
 
 ## Shares bills with
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*

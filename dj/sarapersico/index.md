@@ -1,6 +1,6 @@
 # Sara Persico
 
-Sara Persico is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Sara Persico is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Sara Persico is an experimental and techno artist based in Italy, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Assyouti, Mika Oki and ABADIR. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Sara Persico is an experimental and techno artist based in Italy, tracked on sou
 
 Assyouti, Mika Oki, ABADIR
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*

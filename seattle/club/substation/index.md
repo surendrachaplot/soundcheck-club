@@ -1,14 +1,13 @@
 # Substation
 
-Substation is a music venue in Seattle with 16 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "all:Lo Collective with Alex Unger, parkbreezy, pheel., TF Marz" on Sat, 18 Jul 2026.
+Substation is a music venue in Seattle with 16 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Routine: Deep Dish" on Fri, 24 Jul 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 16 upcoming nights, with line-ups including Bushbaby, Craze, Dean Turnley and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 16 upcoming nights, with line-ups including Baauer, Bushbaby, Craze and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | all:Lo Collective with Alex Unger, parkbreezy, pheel., TF Marz |  |
 | Fri, 24 Jul 2026 | Routine: Deep Dish | Deep Dish, Eliogold |
 | Sat, 25 Jul 2026 | MUST DIE |  |
 | Thu, 30 Jul 2026 | PYKE: Paint the City Tour | Kiki |
@@ -18,9 +17,10 @@ Substation is a music venue in Seattle listed on soundcheck. 16 upcoming nights,
 | Sat, 8 Aug 2026 | Routine: X Club | Streeter, X CLUB. |
 | Fri, 21 Aug 2026 | Craze x Dieselboy: Create & Destroy Tour | Craze, Dieselboy |
 | Thu, 27 Aug 2026 | Star Monster |  |
+| Wed, 2 Sept 2026 | Routine: Quelza | Quelza, Yamanaka |
 
 ## Address
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

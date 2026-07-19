@@ -1,6 +1,6 @@
 # Azu Tiwaline
 
-Azu Tiwaline is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Azu Tiwaline is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck, with 97 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 33 more. Often billed alongside upsammy, DJ Plead and CCL. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -29,4 +29,4 @@ Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck,
 
 upsammy, DJ Plead, CCL
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*

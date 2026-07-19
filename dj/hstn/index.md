@@ -1,6 +1,6 @@
 # HSTN
 
-HSTN is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Bag Factory, Manchester on Fri, 24 Jul 2026.
+HSTN is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Bag Factory, Manchester on Fri, 24 Jul 2026.
 
 HSTN is a house and garage artist based in Australia, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside RYLO (UK), imad:re and D-LIA. Next up: The Bag Factory, Manchester on Fri 24 Jul.
 
@@ -25,4 +25,4 @@ HSTN is a house and garage artist based in Australia, tracked on soundcheck, wit
 
 RYLO (UK), imad:re, D-LIA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/hstn/)*

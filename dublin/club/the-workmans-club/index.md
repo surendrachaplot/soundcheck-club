@@ -1,6 +1,6 @@
 # The Workmans Club
 
-The Workmans Club is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "DublinTranceEvents 1 Year Special" on Sat, 1 Aug 2026.
+The Workmans Club is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "DublinTranceEvents 1 Year Special" on Sat, 1 Aug 2026.
 
 The Workmans Club is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including NILAAA and Phil Bass. Browse upcoming dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
 
@@ -15,4 +15,4 @@ The Workmans Club is a music venue in Dublin listed on soundcheck. 2 upcoming ni
 
 10 Wellington Quay, Dublin 2, Dublin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*

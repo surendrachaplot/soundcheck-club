@@ -1,6 +1,6 @@
 # San Holo
 
-San Holo is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Warfield, San Francisco/Oakland on Sat, 12 Sept 2026.
+San Holo is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Warfield, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 San Holo is a bass and experimental artist tracked on soundcheck, with 23 sets logged across Amsterdam, Austin, Boston and Chicago and 12 more. Often billed alongside 6EJOU, 999999999 and ALCATRAZ. Next up: The Warfield, Sanfrancisco on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ San Holo is a bass and experimental artist tracked on soundcheck, with 23 sets l
 
 6EJOU, 999999999, ALCATRAZ
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

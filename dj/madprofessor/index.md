@@ -1,6 +1,6 @@
 # Mad Professor
 
-Mad Professor is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Circle Park, Brussels on Sat, 25 Jul 2026.
+Mad Professor is a Dub and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Circle Park, Brussels on Sat, 25 Jul 2026.
 
 Mad Professor is a dub and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DjRUM, Beatrice M. and Dj Babatr. Next up: Circle Park, Brussels on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Mad Professor is a dub and house artist tracked on soundcheck, with 60 sets logg
 
 DjRUM, Beatrice M., Dj Babatr
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

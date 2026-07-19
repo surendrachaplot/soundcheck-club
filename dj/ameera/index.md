@@ -1,6 +1,6 @@
 # Ameera
 
-Ameera is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Jupiter Disco, New York City on Sun, 19 Jul 2026.
+Ameera is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Jupiter Disco, New York City on Sun, 19 Jul 2026.
 
 Ameera is a house and funk / soul artist tracked on soundcheck, with 55 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Billy Winters, Kindle and Meftah. Next up: Jupiter Disco, Newyorkcity on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Ameera is a house and funk / soul artist tracked on soundcheck, with 55 sets log
 
 Billy Winters, Kindle, Meftah
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ameera/)*

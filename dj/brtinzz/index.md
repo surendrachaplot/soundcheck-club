@@ -1,6 +1,6 @@
 # Brtinzz
 
-Brtinzz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at PNC Radio, Barcelona on Fri, 24 Jul 2026.
+Brtinzz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at PNC Radio, Barcelona on Fri, 24 Jul 2026.
 
 Brtinzz is a techno and house artist based in Slovenia, tracked on soundcheck, with 31 sets logged across Barcelona, Belgrade, Berlin and Cologne and 4 more. Often billed alongside GLIA, Manrick Stapez and PHLOXO. Next up: PNC Radio, Barcelona on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Brtinzz is a techno and house artist based in Slovenia, tracked on soundcheck, w
 
 GLIA, Manrick Stapez, PHLOXO
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*

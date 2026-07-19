@@ -1,14 +1,13 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Madam by Night invites: Robin Nicolas x Libero" on Sat, 18 Jul 2026.
+Madam is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow" on Fri, 24 Jul 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Abiba Sokoto, Dan Costello, Denoir and Dirk Schot and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Abiba Sokoto, Denoir, Dirk Schot and Divine Kaos and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Madam by Night invites: Robin Nicolas x Libero | Dan Costello, Mike Morrisey, Robin Nicolas |
 | Fri, 24 Jul 2026 | Madam by Night invites: DJ Tracksuit, Abiba Sokoto, Monrow | Abiba Sokoto, DJ Tracksuit |
 | Sat, 25 Jul 2026 | Madam by Night invites: Papi Tut Mir Leid | Katopodis, groovian peruvian, mafiii |
 | Sat, 25 Jul 2026 | papi in Amsterdam | Katopodis, Nicolas Caprile, groovian peruvian, mafiii |
@@ -18,9 +17,10 @@ Madam is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, wi
 | Sat, 8 Aug 2026 | Madam by Night invites: RAINVILLE invites | RAINVILLE |
 | Fri, 14 Aug 2026 | Madam by Night invites Divine Kaos | Divine Kaos |
 | Fri, 14 Aug 2026 | Madam by Night invites: A Divine Kaos | Divine Kaos |
+| Sat, 15 Aug 2026 | Madam by Night invites: Casa Très | Denoir |
 
 ## Address
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

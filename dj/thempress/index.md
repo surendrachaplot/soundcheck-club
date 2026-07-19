@@ -1,6 +1,6 @@
 # THEMPRESS
 
-THEMPRESS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Secret Location, London on Fri, 31 Jul 2026.
+THEMPRESS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Secret Location, London on Fri, 31 Jul 2026.
 
 THEMPRESS is a techno and house artist tracked on soundcheck, with 94 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside CHEZA LUCINA, Michelle Manetti and Princess Xixi. Next up: Secret Location, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ THEMPRESS is a techno and house artist tracked on soundcheck, with 94 sets logge
 
 CHEZA LUCINA, Michelle Manetti, Princess Xixi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thempress/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thempress/)*

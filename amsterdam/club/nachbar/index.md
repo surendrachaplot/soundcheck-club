@@ -1,14 +1,13 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Playhaus w/ Di² b2b rkeat, JØRDY & Prance" on Sat, 18 Jul 2026.
+nachbar is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY" on Wed, 22 Jul 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Berkan V8, Brian Fasano, Dino (2) and Itz3bby and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Berkan V8, Brian Fasano, Dino (2) and Itz3bby and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Playhaus w/ Di² b2b rkeat, JØRDY & Prance | Jordy, Prance |
 | Wed, 22 Jul 2026 | RAVING CHARLIE: Hard Techno / Rave w/ STN / KYNØ / MIKRYPT / DRTY |  |
 | Thu, 23 Jul 2026 | Mathiéux presents: Itz3bby & Seb Wes | Itz3bby, Mathiéux, Seb Wes |
 | Thu, 23 Jul 2026 | Mathiéux Presents: Itz3bby, Seb Wes | Itz3bby, Seb Wes |
@@ -18,9 +17,10 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, 
 | Thu, 30 Jul 2026 | Sweetlips |  |
 | Thu, 30 Jul 2026 | Sweetlips w/ Sirolf, Devo & Housekes, Dino & Brina | Dino (2) |
 | Fri, 31 Jul 2026 | Zombies in Miami | Zombies In Miami |
+| Sat, 1 Aug 2026 | Berkan V8 | Berkan V8 |
 
 ## Address
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

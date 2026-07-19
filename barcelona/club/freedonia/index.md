@@ -1,6 +1,6 @@
 # Freedonia
 
-Freedonia is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "SUW Riders W/ MelaQ & Miko Franconi" on Sat, 25 Jul 2026.
+Freedonia is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "SUW Riders W/ MelaQ & Miko Franconi" on Sat, 25 Jul 2026.
 
 Freedonia is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Mela Q and Miko Franconi. Browse upcoming dates, start times and who's playing. Carrer de la Lleialtat, 6, 08001 Raval, Barcelona.
 
@@ -14,4 +14,4 @@ Freedonia is a music venue in Barcelona listed on soundcheck. 1 upcoming night, 
 
 Carrer de la Lleialtat, 6, 08001 Raval, Barcelona, Barcelona
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*

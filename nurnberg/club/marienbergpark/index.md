@@ -1,6 +1,6 @@
 # Marienbergpark
 
-Marienbergpark is a music venue in Nürnberg with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Tanzen im Grünen" on Sat, 29 Aug 2026.
+Marienbergpark is a music venue in Nürnberg with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Tanzen im Grünen" on Sat, 29 Aug 2026.
 
 Marienbergpark is a music venue in Nurnberg listed on soundcheck. 1 upcoming night, with line-ups including 999999999, Aiden (DE), AKA AKA and Alfred Heinrichs and 2 more. Browse upcoming dates, start times and who's playing. Kilianstrasse, 90411 Nuremberg.
 
@@ -14,4 +14,4 @@ Marienbergpark is a music venue in Nurnberg listed on soundcheck. 1 upcoming nig
 
 Kilianstrasse, 90411 Nuremberg, Nürnberg
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/marienbergpark/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/marienbergpark/)*

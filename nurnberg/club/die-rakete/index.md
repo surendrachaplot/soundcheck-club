@@ -1,14 +1,13 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Why So Serious feat. Daniel Neuland x DONT BLINK + Stained Rec. Floor" on Sat, 18 Jul 2026.
+Die Rakete is a music venue in Nürnberg with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "KINKY ON Tour Nürnberg" on Fri, 24 Jul 2026.
 
-Die Rakete is a music venue in Nurnberg listed on soundcheck. 6 upcoming nights, with line-ups including Acid Foxy, Bee Lincoln, Bernhard Groeger and Daniel Neuland and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
+Die Rakete is a music venue in Nurnberg listed on soundcheck. 5 upcoming nights, with line-ups including Acid Foxy, Bee Lincoln, Bernhard Groeger and Konfusia and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Why So Serious feat. Daniel Neuland x DONT BLINK + Stained Rec. Floor | DONT BLINK, Daniel Neuland, Dario Milkovic, Thys |
 | Fri, 24 Jul 2026 | KINKY ON Tour Nürnberg | Acid Foxy, Bee Lincoln, MILLA LOU |
 | Sat, 25 Jul 2026 | Elektrisch pres. Konfusia | Bernhard Groeger, Konfusia, MILAN MILANO |
 | Sat, 1 Aug 2026 | NASTY pres The Reason Y | Bernhard Groeger, The Reason Y |
@@ -19,4 +18,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 6 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

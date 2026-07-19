@@ -1,6 +1,6 @@
 # Tammy Lakkis
 
-Tammy Lakkis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Mansions, New York City on Fri, 24 Jul 2026.
+Tammy Lakkis is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mansions, New York City on Fri, 24 Jul 2026.
 
 Tammy Lakkis is a house and techno artist tracked on soundcheck, with 261 sets logged across Amsterdam, Berlin, Boston and Chicago and 8 more. Often billed alongside Shigeto, Kenjiro and Ryan Spencer. Next up: Mansions, Newyorkcity on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Tammy Lakkis is a house and techno artist tracked on soundcheck, with 261 sets l
 
 Shigeto, Kenjiro, Ryan Spencer
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tammylakkis/)*

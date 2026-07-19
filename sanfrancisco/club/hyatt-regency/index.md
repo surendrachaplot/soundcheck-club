@@ -1,6 +1,6 @@
 # Hyatt Regency
 
-Hyatt Regency is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "DigiMarCon Florida 2026 - Digital Marketing, Media and Advertising Conference & Exhibition" on Wed, 14 Oct 2026.
+Hyatt Regency is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "DigiMarCon Florida 2026 - Digital Marketing, Media and Advertising Conference & Exhibition" on Wed, 14 Oct 2026.
 
 Hyatt Regency is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 5101 Great America Parkway, Santa Clara, CA.
 
@@ -14,4 +14,4 @@ Hyatt Regency is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming 
 
 5101 Great America Parkway, Santa Clara, CA, San Francisco/Oakland
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hyatt-regency/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hyatt-regency/)*

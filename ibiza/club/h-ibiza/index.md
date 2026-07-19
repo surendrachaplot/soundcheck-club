@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 82 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Black Coffee" on Sat, 18 Jul 2026.
+Hï Ibiza is a music venue in Ibiza with 81 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "CamelPhat present Summer of Love" on Sun, 19 Jul 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 82 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 81 upcoming nights, with line-ups including 8KAYS, Paolo Ferrara, AARON SEVILLA and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Black Coffee | Black Coffee, Djammin, Fiona Kraft, Henrik Schwarz, MAXImum, Meeshy, Ossie, SHAE REID (2), Skepta, The Menendez Brothers |
 | Sun, 19 Jul 2026 | CamelPhat present Summer of Love | BIIA, CamelPhat, Indira Paganotto, Marhu |
 | Mon, 20 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Francis Mercier, Kasango, Mambo Brothers, Marten Lou, Moeaike |
 | Mon, 20 Jul 2026 | Hi Ibiza | Alex Wann |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 82 upcoming nights, wi
 | Fri, 24 Jul 2026 | Dom Dolla | Dan Shake, Dom Dolla, Ewan McVicar, Tarzsa |
 | Sat, 25 Jul 2026 | Black Coffee | Ben Sterling, Black Coffee, Da Mike, Liva K, Shimza, Skepta, Skinny |
 | Sun, 26 Jul 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto |
+| Mon, 27 Jul 2026 | Francis Mercier presents Solèy | Alex Wann, Andrea Oliva, Argia, Francis Mercier, Henrik Schwarz |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

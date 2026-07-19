@@ -1,6 +1,6 @@
 # Ms. Mada
 
-Ms. Mada is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
+Ms. Mada is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Floyd, Miami on Fri, 31 Jul 2026.
 
 Ms. Mada is a house and tech house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Danyelino, Bakke and Dennis Cruz. Next up: Floyd, Miami on Fri 31 Jul.
 
@@ -30,4 +30,4 @@ Ms. Mada is a house and tech house artist tracked on soundcheck, with 224 sets l
 
 Danyelino, Bakke, Dennis Cruz
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*

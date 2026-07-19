@@ -1,14 +1,13 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Ritmo: ZEE-2 + Hirma + ZION + Marara Kelly + Wamheda + Awuni" on Sat, 18 Jul 2026.
+La Gravière is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "NoctamBar x Les Novas" on Thu, 23 Jul 2026.
 
-La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including Amal, Black Rave Culture, Braises de Velours and Carmen Electro and 2 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
+La Gravière is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with line-ups including Amal, Black Rave Culture, Braises de Velours and Carmen Electro and 2 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Ritmo: ZEE-2 + Hirma + ZION + Marara Kelly + Wamheda + Awuni | Hirma, ZEE-2 |
 | Thu, 23 Jul 2026 | NoctamBar x Les Novas |  |
 | Fri, 24 Jul 2026 | 808RAVE: Tatyana Jane + Mânaa + Braises de Velours + Sampaio | Braises de Velours, Sampaio, Tatyana Jane |
 | Thu, 30 Jul 2026 | NoctamBar x Z-APHYR |  |
@@ -19,4 +18,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming nights,
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

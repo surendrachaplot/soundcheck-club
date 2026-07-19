@@ -1,6 +1,6 @@
 # Script (GE)
 
-Script (GE) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Klein Phönix, Istanbul on Sat, 25 Jul 2026.
+Script (GE) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Klein Phönix, Istanbul on Sat, 25 Jul 2026.
 
 Script (GE) is a techno and tech house artist based in Georgia, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Buenosaires and Ibiza and 5 more. Often billed alongside Uväll, gwän and Yanamaste. Next up: Klein Phönix, Istanbul on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Script (GE) is a techno and tech house artist based in Georgia, tracked on sound
 
 Uväll, gwän, Yanamaste
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*

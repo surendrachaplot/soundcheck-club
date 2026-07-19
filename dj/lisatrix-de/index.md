@@ -1,6 +1,6 @@
 # Lisatrix
 
-Lisatrix is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
+Lisatrix is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ÆDEN, Berlin on Fri, 31 Jul 2026.
 
 Lisatrix is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin. Often billed alongside Pilar Jordan, Dj Sunflash and JUWLZ. Next up: ÆDEN, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Lisatrix is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Pilar Jordan, Dj Sunflash, JUWLZ
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatrix-de/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatrix-de/)*

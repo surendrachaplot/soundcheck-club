@@ -1,6 +1,6 @@
 # Khalil Suleman
 
-Khalil Suleman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lux Fragil, Lisbon on Thu, 23 Jul 2026.
+Khalil Suleman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lux Fragil, Lisbon on Thu, 23 Jul 2026.
 
 Khalil Suleman is a house and techno artist based in Portugal, tracked on soundcheck, with 48 sets logged across Lisbon and Porto. Often billed alongside XCI, Switchdance and Mike Stellar. Next up: Lux Fragil, Lisbon on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ Khalil Suleman is a house and techno artist based in Portugal, tracked on soundc
 
 XCI, Switchdance, Mike Stellar
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/khalilsuleman-pt/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/khalilsuleman-pt/)*

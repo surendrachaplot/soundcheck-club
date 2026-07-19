@@ -1,6 +1,6 @@
 # IFEMA
 
-IFEMA is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Time Warp Spain 2026" on Fri, 18 Sept 2026.
+IFEMA is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Time Warp Spain 2026" on Fri, 18 Sept 2026.
 
 IFEMA is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Adiel, Adriatique, Alarico and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Av. Partenón, 5, 28042 Madrid.
 
@@ -16,4 +16,4 @@ IFEMA is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with l
 
 Av. Partenón, 5, 28042 Madrid, Madrid
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ifema/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ifema/)*

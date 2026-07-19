@@ -1,14 +1,13 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Studio Stereo x Celo Rec x &Friends pres. Velvet Velour (until 4am)" on Sat, 18 Jul 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 19 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am)" on Thu, 23 Jul 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including .cosm, Adria (ES), Alexxx and Bastard Love and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 19 upcoming nights, with line-ups including .cosm, Adria (ES), Bastard Love and Breezy S and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Studio Stereo x Celo Rec x &Friends pres. Velvet Velour (until 4am) | Alexxx, Marcelo Cura, Rele, Velvet Velour |
 | Thu, 23 Jul 2026 | Studio Stereo x Bridge48 pres. IVAN POSEIDON (until 3am) | IVAN POSEIDON, JOCHI, Lowkey Loud, Miceli, Narima Satori, Pier Mood, Radio Vega |
 | Fri, 24 Jul 2026 | Studio Stereo x Capricho pres. Ethel, Mikolai (until 4am) | .cosm, Bastard Love, Ethel, Mikolai |
 | Sat, 25 Jul 2026 | Studio Stereo pres. DJ Serviced Records showcase | DJ Service |
@@ -18,5 +17,6 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Thu, 6 Aug 2026 | Studio Stereo TBA (until 3am) |  |
 | Fri, 7 Aug 2026 | Studio Stereo TBA (until 4am) |  |
 | Sat, 8 Aug 2026 | Studio Stereo TBA (until 4am) |  |
+| Thu, 13 Aug 2026 | Studio Stereo TBA (until 3am) |  |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

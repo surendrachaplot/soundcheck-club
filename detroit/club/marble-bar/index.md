@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "thrg x Auntie. present Plush Managements Inc. (D. Tiffany + Regularfantasy), Creams" on Sat, 18 Jul 2026.
+Marble Bar is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "(X) POSTPONED - (X) Techno Thursday - Signal Authority Jam Session [FREE]" on Thu, 23 Jul 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including The AM/AMX, ALEX PAN, Andrés and Ashton Swinton and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including The AM/AMX, ALEX PAN, Andrés and Ashton Swinton and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | thrg x Auntie. present Plush Managements Inc. (D. Tiffany + Regularfantasy), Creams | Creams, D. Tiffany, Ladylike, Plush Managements Inc., Regularfantasy, mirepoix |
 | Thu, 23 Jul 2026 | (X) POSTPONED - (X) Techno Thursday - Signal Authority Jam Session [FREE] |  |
 | Fri, 24 Jul 2026 | Raise The Flag 2026: Detroit's 325th Anniversary Party | Andrés, Ashton Swinton, Drummer B, Generation Next, The AM/AMX |
 | Sat, 25 Jul 2026 | 12 Hour Ensemble Party | Jon Dixon, Jorissen, Kate Simko, Lee Curtiss, Room 131, m.O.N.R.O.E. |
@@ -20,4 +19,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

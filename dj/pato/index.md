@@ -1,6 +1,6 @@
 # Pato
 
-Pato is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Crate Brewery, London on Sun, 2 Aug 2026.
+Pato is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Crate Brewery, London on Sun, 2 Aug 2026.
 
 Pato is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Berlin, Edinburgh, London and Manchester. Often billed alongside Jugin, DJ Bz and Doogi. Next up: Crate Brewery, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Pato is a house and minimal techno artist based in United Kingdom, tracked on so
 
 Jugin, DJ Bz, Doogi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pato/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pato/)*

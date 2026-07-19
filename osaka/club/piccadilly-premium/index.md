@@ -1,6 +1,6 @@
 # Piccadilly Premium
 
-Piccadilly Premium is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "'Universo Paralello 'Teaser Party in Osaka" on Sat, 1 Aug 2026.
+Piccadilly Premium is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "'Universo Paralello 'Teaser Party in Osaka" on Sat, 1 Aug 2026.
 
 Piccadilly Premium is a music venue in Osaka listed on soundcheck. 1 upcoming night, with line-ups including MASOI, PiERO and V.Falabella. Browse upcoming dates, start times and who's playing. 8-17, Taiyujicho, Kita-ku, Osaka-shi, Osaka, Japan,530-0051.
 
@@ -14,4 +14,4 @@ Piccadilly Premium is a music venue in Osaka listed on soundcheck. 1 upcoming ni
 
 8-17, Taiyujicho, Kita-ku, Osaka-shi, Osaka, Japan,530-0051, Osaka
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/piccadilly-premium/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/piccadilly-premium/)*

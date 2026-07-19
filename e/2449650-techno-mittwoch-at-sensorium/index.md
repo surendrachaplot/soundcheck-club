@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 16 Sept, Berlin. 1 act on the bill: FAUST (1). Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 16 Sept, Berlin. 4 acts on the bill: Blck-Swan, FAUST (1), NYCTO and SAAMO. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ TECHNO MITTWOCH at Sensorium on Wed 16 Sept, Berlin. 1 act on the bill: FAUST (1
 
 ## Line-up
 
+- Blck-Swan
 - FAUST (1)
+- NYCTO
+- SAAMO
 
 *Source: [soundcheck](https://soundcheck.club/e/2449650-techno-mittwoch-at-sensorium/)*

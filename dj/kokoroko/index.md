@@ -1,6 +1,6 @@
 # Kokoroko
 
-Kokoroko is a Jazz and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Grande Halle de la Villette, Paris on Sun, 6 Sept 2026.
+Kokoroko is a Jazz and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Grande Halle de la Villette, Paris on Sun, 6 Sept 2026.
 
 Kokoroko is a jazz and funk / soul artist tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 10 more. Often billed alongside Ezra Collective, Jamz Supernova and Setwun. Next up: Grande Halle de la Villette, Paris on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Kokoroko is a jazz and funk / soul artist tracked on soundcheck, with 18 sets lo
 
 Ezra Collective, Jamz Supernova, Setwun
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoroko/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoroko/)*

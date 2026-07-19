@@ -1,6 +1,6 @@
 # Merlin Discoclub
 
-Merlin Discoclub is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "House and Chic" on Wed, 2 Sept 2026.
+Merlin Discoclub is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "House and Chic" on Wed, 2 Sept 2026.
 
 Merlin Discoclub is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Carrer de la Diputació, 233, Eixample, 08007 Barcelona.
 
@@ -14,4 +14,4 @@ Merlin Discoclub is a music venue in Barcelona listed on soundcheck. 1 upcoming 
 
 Carrer de la Diputació, 233, Eixample, 08007 Barcelona, Barcelona
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/merlin-discoclub/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/merlin-discoclub/)*

@@ -1,6 +1,6 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+Fenrick is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
 
 Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Radius, Chicago on Sun 19 Jul.
 
@@ -34,4 +34,4 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 123 sets logge
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

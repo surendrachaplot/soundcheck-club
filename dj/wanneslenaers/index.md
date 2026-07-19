@@ -1,6 +1,6 @@
 # Wannes Lenaers
 
-Wannes Lenaers is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Funke, Ghent on Sun, 19 Jul 2026.
+Wannes Lenaers is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Funke, Ghent on Sun, 19 Jul 2026.
 
 Wannes Lenaers is a techno and psytrance artist tracked on soundcheck, with 45 sets logged across Berlin, Brussels and Ghent. Often billed alongside trillosta, Daesical and EMILIJA. Next up: Funke, Ghent on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Wannes Lenaers is a techno and psytrance artist tracked on soundcheck, with 45 s
 
 trillosta, Daesical, EMILIJA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wanneslenaers/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wanneslenaers/)*

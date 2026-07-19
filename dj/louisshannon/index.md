@@ -1,6 +1,6 @@
 # Louis Shannon
 
-Louis Shannon is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 22 Jul 2026.
+Louis Shannon is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Enter Shibuya, Tokyo on Wed, 22 Jul 2026.
 
 Louis Shannon is a tech house and house artist based in Japan, tracked on soundcheck, with 132 sets logged across Tokyo. Often billed alongside ALEXANDER M, JUNKO ONAGI and Rickey Shannon. Next up: Enter Shibuya, Tokyo on Wed 22 Jul.
 
@@ -27,4 +27,4 @@ Louis Shannon is a tech house and house artist based in Japan, tracked on soundc
 
 ALEXANDER M, JUNKO ONAGI, Rickey Shannon
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisshannon/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisshannon/)*

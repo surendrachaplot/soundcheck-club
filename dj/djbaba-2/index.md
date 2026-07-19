@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Dj Babatr is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 Dj Babatr is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Dj Babatr is a techno and house artist tracked on soundcheck, with 96 sets logge
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

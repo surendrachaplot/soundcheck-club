@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
+B.Love is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Gaffe, London on Sat, 25 Jul 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 12 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Gaffe, London on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

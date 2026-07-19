@@ -1,6 +1,6 @@
 # Øostil
 
-Øostil is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Fri, 24 Jul 2026.
+Øostil is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Fri, 24 Jul 2026.
 
 Øostil is a techno and electronica artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bali, Barcelona and Basel and 23 more. Often billed alongside Henri Bergmann, Mathame and The Element. Next up: TBA - AMK Club, Almagro, Buenosaires on Fri 24 Jul.
 
@@ -26,4 +26,4 @@
 
 Henri Bergmann, Mathame, The Element
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oostil/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oostil/)*

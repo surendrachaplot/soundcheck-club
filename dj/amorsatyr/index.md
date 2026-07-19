@@ -1,6 +1,6 @@
 # Amor Satyr
 
-Amor Satyr is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Location With Ticket, Denver on Fri, 31 Jul 2026.
+Amor Satyr is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Location With Ticket, Denver on Fri, 31 Jul 2026.
 
 Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Siu Mata (2), Bitter Babe and Von Riu. Next up: TBA - Location With Ticket, Denver on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, w
 
 Siu Mata (2), Bitter Babe, Von Riu
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*

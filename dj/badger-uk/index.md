@@ -1,6 +1,6 @@
 # Badger (UK)
 
-Badger (UK) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Thekla, Bristol on Fri, 2 Oct 2026.
+Badger (UK) is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Thekla, Bristol on Fri, 2 Oct 2026.
 
 Badger (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Auckland, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside Arthi, Main Phase and Mandidextrous. Next up: Thekla, Bristol on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Badger (UK) is a garage and bass artist based in United Kingdom, tracked on soun
 
 Arthi, Main Phase, Mandidextrous
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*

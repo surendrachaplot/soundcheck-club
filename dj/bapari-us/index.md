@@ -1,6 +1,6 @@
 # Bapari
 
-Bapari is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Paragon, New York City on Sat, 25 Jul 2026.
+Bapari is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Paragon, New York City on Sat, 25 Jul 2026.
 
 Bapari is a techno and club artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Austin and Basel and 18 more. Often billed alongside Sevyn 0000, Memphy and Stealth Angel. Next up: Paragon, Newyorkcity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Bapari is a techno and club artist tracked on soundcheck, with 91 sets logged ac
 
 Sevyn 0000, Memphy, Stealth Angel
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bapari-us/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bapari-us/)*

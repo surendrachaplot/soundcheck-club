@@ -1,6 +1,6 @@
 # Jevremovac Botanical Garden
 
-Jevremovac Botanical Garden is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Lovefest: Shimza at Botanical Garden Jevremovac" on Wed, 2 Sept 2026.
+Jevremovac Botanical Garden is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Lovefest: Shimza at Botanical Garden Jevremovac" on Wed, 2 Sept 2026.
 
 Jevremovac Botanical Garden is a music venue in Belgrade listed on soundcheck. 1 upcoming night, with line-ups including Shimza. Browse upcoming dates, start times and who's playing. Takovska 43, Belgrade, 11000, Serbia.
 
@@ -14,4 +14,4 @@ Jevremovac Botanical Garden is a music venue in Belgrade listed on soundcheck. 1
 
 Takovska 43, Belgrade, 11000, Serbia, Belgrade
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/jevremovac-botanical-garden/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/jevremovac-botanical-garden/)*

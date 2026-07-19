@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Special Delivery X DBT: Ouseburn Special #2" on Sat, 25 Jul 2026.
+Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Special Delivery X DBT: Ouseburn Special #2" on Sat, 25 Jul 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming nights, with line-ups including Adam Lance, Bobby O'Donnell, DJ Bz and Doogi and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -20,4 +20,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming n
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

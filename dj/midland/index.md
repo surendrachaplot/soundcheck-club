@@ -1,8 +1,8 @@
 # Midland
 
-Midland is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tunelowa, Warsaw on Sun, 19 Jul 2026.
+Midland is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tunelowa, Warsaw on Sun, 19 Jul 2026.
 
-Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: Tunelowa, Warsaw on Sun 19 Jul.
+Midland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: Tunelowa, Warsaw on Sun 19 Jul.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Midland is a house and techno artist based in United Kingdom, tracked on soundch
 | Sun, 19 Jul 2026 | Tunelowa | Warsaw |
 | Sat, 1 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sat, 17 Oct 2026 | FOLD | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Midland is a house and techno artist based in United Kingdom, tracked on soundch
 
 NIKS, Peach, Job Jobse
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

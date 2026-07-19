@@ -1,6 +1,6 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Hangaren, Copenhagen on Fri, 24 Jul 2026.
+ANNĒ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hangaren, Copenhagen on Fri, 24 Jul 2026.
 
 ANNĒ is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Hangaren, Copenhagen on Fri 24 Jul.
 
@@ -33,4 +33,4 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 171 sets logged a
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

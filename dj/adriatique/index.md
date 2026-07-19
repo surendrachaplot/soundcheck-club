@@ -1,14 +1,13 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Brooklyn Army Terminal, New York City on Sat, 18 Jul 2026.
+Adriatique is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Old Royal Naval College, London on Sat, 8 Aug 2026.
 
-Adriatique is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Brooklyn Army Terminal, Newyorkcity on Sat 18 Jul.
+Adriatique is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Old Royal Naval College, London on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Brooklyn Army Terminal | New York City |
 | Sat, 8 Aug 2026 | Old Royal Naval College | London |
 | Sat, 8 Aug 2026 | fabric | London |
 | Fri, 28 Aug 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
@@ -21,17 +20,17 @@ Adriatique is a techno and house artist tracked on soundcheck, with 149 sets log
 
 ## Recently played
 
+- Brooklyn Army Terminal, New York City — Sat, 18 Jul 2026
+- Brooklyn Storehouse, New York City — Sat, 18 Jul 2026
 - Union Park, Chicago — Fri, 17 Jul 2026
 - TBA - Château de Maisons, Paris — Sat, 4 Jul 2026
 - Petra, Rome — Fri, 3 Jul 2026
 - Carroponte, Milan — Sat, 20 Jun 2026
 - Volt Club Milano, Milan — Sat, 20 Jun 2026
 - TBA - Stazione Centrale, Milan — Sat, 20 Jun 2026
-- Poble Espanyol, Barcelona — Fri, 19 Jun 2026
-- Mtatsminda Park, Tbilisi — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Mind Against, Colyn, Âme
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

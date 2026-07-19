@@ -1,14 +1,13 @@
 # Salomé Le Chat
 
-Salomé Le Chat is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at La Clairière, Paris on Sat, 18 Jul 2026.
+Salomé Le Chat is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amnesia Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 21 more. Often billed alongside Ben Sterling, Jamie Jones and Marco Carola. Next up: La Clairière, Paris on Sat 18 Jul.
+Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 21 more. Often billed alongside Ben Sterling, Jamie Jones and Marco Carola. Next up: Amnesia Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | La Clairière | Paris |
 | Tue, 21 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 29 Jul 2026 | [UNVRS] | Ibiza |
 | Sat, 8 Aug 2026 | Hï Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104
 
 ## Recently played
 
+- La Clairière, Paris — Sat, 18 Jul 2026
 - Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
 - [UNVRS], Ibiza — Fri, 12 Jun 2026
 - StereoBar, Montreal — Fri, 5 Jun 2026
@@ -25,10 +25,9 @@ Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 104
 - Pacha Ibiza, Ibiza — Wed, 27 May 2026
 - Reunion DXB, Dubai — Sat, 9 May 2026
 - [UNVRS], Ibiza — Sat, 2 May 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Ben Sterling, Jamie Jones, Marco Carola
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*

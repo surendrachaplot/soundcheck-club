@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "RAUM invites Bassiani" on Sat, 18 Jul 2026.
+CLUB RAUM is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE" on Fri, 24 Jul 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including 36framez, Afra, Alienata and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including 36framez, Afra, Alienata and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | RAUM invites Bassiani | Dimi Angelis, Function, Sophie Phare, TITIA, Valody, Zitto |
 | Fri, 24 Jul 2026 | PRIDE KNIGHTS: RAUM INVITES SEXYLAND X BODY X NO LIMITS! ART CASTLE | Afra, Animistic Beliefs, ELMER, KITT, Maara, Manu Miran, UNAUNA, bebe bad, lis (5), mayo (2), mayo (NL) |
 | Sat, 25 Jul 2026 | RAUM invites NightClubbing | BADSISTA, FAFF, Jen Cardini, Slimfit, smother |
 | Fri, 31 Jul 2026 | RAUM invites Mala Junta | BARROSKINI, D. Tiffany, DIORA, DJ TOOL, Hyperaktivist, Yazzus |
@@ -23,4 +22,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

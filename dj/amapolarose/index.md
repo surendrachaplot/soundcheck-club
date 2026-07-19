@@ -1,6 +1,6 @@
 # Amapola Rose
 
-Amapola Rose is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Levu VIP, Mexico City on Sat, 25 Jul 2026.
+Amapola Rose is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Levu VIP, Mexico City on Sat, 25 Jul 2026.
 
 Amapola Rose is an electronica and techno artist based in Mexico, tracked on soundcheck, with 37 sets logged across Mexicocity and Newyorkcity. Often billed alongside Choi, Alexandria (MX) and Santa Bina. Next up: Levu VIP, Mexicocity on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Amapola Rose is an electronica and techno artist based in Mexico, tracked on sou
 
 Choi, Alexandria (MX), Santa Bina
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amapolarose/)*

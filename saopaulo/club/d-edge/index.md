@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "D-EDGE SP pres.: UNLIMITED. Adnan Sharif (BDAY). Anderson Noise (BDAY). JULA (BDAY) + + " on Sat, 18 Jul 2026.
+D-EDGE is a music venue in Sao Paulo with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "MOVING D-EDGE SP pres.: P1: PRAISE. PEDRADA. RIGOONI" on Thu, 23 Jul 2026.
 
-D-EDGE is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights, with line-ups including Adnan Sharif, Anderson Noise, ANGELLO (BR) and Bervon and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Saopaulo listed on soundcheck. 6 upcoming nights, with line-ups including ANGELLO (BR), Pedräda and Tim Baresko. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | D-EDGE SP pres.: UNLIMITED. Adnan Sharif (BDAY). Anderson Noise (BDAY). JULA (BDAY) + +  | Adnan Sharif, Anderson Noise, Bervon, Gabriel Brasil, Paola Vigorito, Villain Mode |
 | Thu, 23 Jul 2026 | MOVING D-EDGE SP pres.: P1: PRAISE. PEDRADA. RIGOONI | Pedräda |
 | Fri, 24 Jul 2026 | FREAK CHIC D-EDGE SP pres.: P1: ETTA. ROD BRITO. SONE X ZARO. SPECIAL GUEST |  |
 | Sat, 25 Jul 2026 | NAVE D-EDGE SP pres.: P1: ANØNIMAT. IAELL. KLARØ. PEROTE // P2: ANGELLO b2b CAHIO + +  | ANGELLO (BR) |
@@ -20,4 +19,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

@@ -1,6 +1,6 @@
 # Bill Kouligas
 
-Bill Kouligas is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Latraac, Athens on Fri, 24 Jul 2026.
+Bill Kouligas is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Latraac, Athens on Fri, 24 Jul 2026.
 
 Bill Kouligas is an experimental and techno artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside nunguja, Crystallmess and Tzusing. Next up: Latraac, Athens on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Bill Kouligas is an experimental and techno artist based in Germany, tracked on 
 
 nunguja, Crystallmess, Tzusing
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billkouligas/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/billkouligas/)*

@@ -1,6 +1,6 @@
 # A.M. Project
 
-A.M. Project is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
+A.M. Project is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
 A.M. Project is a house and electronica artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 9 more. Often billed alongside Samuel Deep, AZAAD and DJ Senc. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ A.M. Project is a house and electronica artist tracked on soundcheck, with 69 se
 
 Samuel Deep, AZAAD, DJ Senc
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/amproject/)*

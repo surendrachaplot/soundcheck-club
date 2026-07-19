@@ -1,6 +1,6 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Luigi Tozzi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Luigi Tozzi is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Laura BCR, Claudio PRC and Feral. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Luigi Tozzi is a techno and house artist tracked on soundcheck, with 92 sets log
 
 Laura BCR, Claudio PRC, Feral
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

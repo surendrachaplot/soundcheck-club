@@ -1,6 +1,6 @@
 # Sam Girling
 
-Sam Girling is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Night Tales Loft, London on Sat, 1 Aug 2026.
+Sam Girling is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Night Tales Loft, London on Sat, 1 Aug 2026.
 
 Sam Girling is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 14 more. Often billed alongside LAMMER, Body Clinic and CIAN__. Next up: Night Tales Loft, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ Sam Girling is a house and techno artist based in United Kingdom, tracked on sou
 
 LAMMER, Body Clinic, CIAN__
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*

@@ -1,6 +1,6 @@
 # Two Dots (FR)
 
-Two Dots (FR) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
+Two Dots (FR) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Virage, Paris on Fri, 31 Jul 2026.
 
 Two Dots (FR) is a trance and techno artist based in France, tracked on soundcheck, with 9 sets logged across Berlin, Budapest, Copenhagen and Marseille and 2 more. Often billed alongside 25EMEHEURE, ALIS. and ANNĒ. Next up: Virage, Paris on Fri 31 Jul.
 
@@ -25,4 +25,4 @@ Two Dots (FR) is a trance and techno artist based in France, tracked on soundche
 
 25EMEHEURE, ALIS., ANNĒ
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*

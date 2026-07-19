@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 26 Jul 2026.
+Ellia Jaya is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 528 Ibiza, Ibiza on Sun, 26 Jul 2026.
 
 Ellia Jaya is a house and tech house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Bali, Barcelona and Belfast and 17 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: 528 Ibiza, Ibiza on Sun 26 Jul.
 
@@ -32,4 +32,4 @@ Ellia Jaya is a house and tech house artist tracked on soundcheck, with 83 sets 
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

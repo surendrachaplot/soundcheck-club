@@ -1,6 +1,6 @@
 # IZIK
 
-IZIK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 24 Jul 2026.
+IZIK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Halcyon, San Francisco/Oakland on Fri, 24 Jul 2026.
 
 IZIK is a house and techno artist tracked on soundcheck, with 40 sets logged across Miami and Sanfrancisco. Often billed alongside Emanate, Vann Essa and Gru.di. Next up: Halcyon, Sanfrancisco on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ IZIK is a house and techno artist tracked on soundcheck, with 40 sets logged acr
 
 Emanate, Vann Essa, Gru.di
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*

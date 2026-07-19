@@ -1,6 +1,6 @@
 # TBA - DOMUS
 
-TBA - DOMUS is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Malevolent Demons Vol.6 - VORTEX" on Fri, 24 Jul 2026.
+TBA - DOMUS is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Malevolent Demons Vol.6 - VORTEX" on Fri, 24 Jul 2026.
 
 TBA - DOMUS is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - DOMUS is a music venue in Mexicocity listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Fri, 24 Jul 2026 | Malevolent Demons Vol.6 - VORTEX |  |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-domus/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-domus/)*

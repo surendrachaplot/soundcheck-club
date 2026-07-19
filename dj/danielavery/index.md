@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Secret Location, London on Thu, 23 Jul 2026.
+Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Secret Location, London on Thu, 23 Jul 2026.
 
 Daniel Avery is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: TBA - Secret Location, London on Thu 23 Jul.
 
@@ -36,4 +36,4 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 150 sets l
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

@@ -1,6 +1,6 @@
 # The Bug
 
-The Bug is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+The Bug is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 The Bug is a bass and dub artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -26,4 +26,4 @@ The Bug is a bass and dub artist tracked on soundcheck, with 46 sets logged acro
 
 Flowdan, Warrior Queen, CCL
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

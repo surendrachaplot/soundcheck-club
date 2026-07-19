@@ -1,6 +1,6 @@
 # bungo
 
-bungo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Red Bar, Tokyo on Sun, 19 Jul 2026.
+bungo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Red Bar, Tokyo on Sun, 19 Jul 2026.
 
 bungo is a house and techno artist based in Japan, tracked on soundcheck, with 133 sets logged across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, 5harpy and Leo Gabriel. Next up: Red Bar, Tokyo on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ bungo is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 YELLOWUHURU, 5harpy, Leo Gabriel
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bungo/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bungo/)*

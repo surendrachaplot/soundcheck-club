@@ -1,6 +1,6 @@
 # MoMA Ready
 
-MoMA Ready is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 24 Jul 2026.
+MoMA Ready is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 24 Jul 2026.
 
 MoMA Ready is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Boston, Chicago, London and Losangeles and 10 more. Often billed alongside AceMo, Kush Jones and DJ SWISHA. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ MoMA Ready is a techno and house artist based in United States of America, track
 
 AceMo, Kush Jones, DJ SWISHA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/momaready/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/momaready/)*

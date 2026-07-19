@@ -1,14 +1,13 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Rhythm presents: John Beltran (Placid Angles) with Ficilio" on Sat, 18 Jul 2026.
+Rhythm is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "La Sopa del Día: Sonic Sancocho at Rhythm + FIFA Watch Party" on Sun, 19 Jul 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including 999ADJ, Antwon Faulkner, AUX_ID and BOOTYCORNFED and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including 999ADJ, Antwon Faulkner, AUX_ID and BOOTYCORNFED and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Rhythm presents: John Beltran (Placid Angles) with Ficilio | Ficilio, John Beltran |
 | Sun, 19 Jul 2026 | La Sopa del Día: Sonic Sancocho at Rhythm + FIFA Watch Party | olasconola |
 | Wed, 22 Jul 2026 | Rhythm Workshop Series: Clubcheck |  |
 | Fri, 24 Jul 2026 | KONDUKTOR x PHILTHTRAX: Saligo [FR] | 999ADJ, BOOTYCORNFED, Saligo, moii-chan |
@@ -21,4 +20,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

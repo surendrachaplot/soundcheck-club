@@ -1,6 +1,6 @@
 # Lance Morgan
 
-Lance Morgan is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
+Lance Morgan is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at XOYO, London on Sat, 8 Aug 2026.
 
 Lance Morgan is a deep house and house artist tracked on soundcheck, with 50 sets logged across Birmingham, Leeds and London. Often billed alongside Mark Radford, B3 and Dominique Danielle. Next up: XOYO, London on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Lance Morgan is a deep house and house artist tracked on soundcheck, with 50 set
 
 Mark Radford, B3, Dominique Danielle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lancemorgan/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lancemorgan/)*

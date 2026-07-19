@@ -1,14 +1,13 @@
 # Panke
 
-Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "VENEZUELA EARTHQUAKE FUNDRAISER" on Sat, 18 Jul 2026.
+Panke is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Fertig" on Sun, 19 Jul 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including ALEX WANG, Alys, Andrea Ludovic and Antuum and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ALEX WANG, Alys, Antuum and Arni Vector and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | VENEZUELA EARTHQUAKE FUNDRAISER | AVtØmaty, Andrea Ludovic, Cashu, DJ Strawberry, Dj Quien, LUNA LIAS, Opium Hum, Sofaloader |
 | Sun, 19 Jul 2026 | Fertig | Antuum, Arni Vector, Ay Lak, Lü (Luis Küffner) |
 | Fri, 24 Jul 2026 | FOOLHARD | Gadutra, kupalua |
 | Sat, 25 Jul 2026 | Last Resort with Jonny From Space, DJ Fitness, Alys(Alys)Alys, Farsight, Viiaan and Retter | Alys, DJ Fitness, Farsight, Jonny From Space, Retter (DE), Viiaan |
@@ -18,9 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with 
 | Sat, 8 Aug 2026 | CALENTURA VINYL ALL STARS Vol. 2 | PAULAH, Simón JaVa, eÑe (1) |
 | Sat, 22 Aug 2026 | NOFUTURE 6 YEARS ANNIVERSARY | Dj Hidrataccioni, PAULAH, Paulawar, Some Guest, entecaliente |
 | Wed, 9 Sept 2026 | CONTAGIOUS - BEING album release concert | CONTAGIOUS, Mieko Suzuki, Rabih Beaini |
+| Sat, 10 Oct 2026 | Outside the BigMac, vol.5: October Edition | Chris Imler |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

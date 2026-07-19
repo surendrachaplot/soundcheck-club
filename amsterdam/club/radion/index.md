@@ -1,14 +1,13 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "RADION invites Antidote" on Sat, 18 Jul 2026.
+RADION is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Closer Milano - RADION CLUB TOUR" on Fri, 24 Jul 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Justine Perry, Aaron J, Afra and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Justine Perry, Aaron J, Afra and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | RADION invites Antidote | Akua, Bob Semp, Joya Astou, Mython |
 | Fri, 24 Jul 2026 | Closer Milano - RADION CLUB TOUR | AgainstMe, Connor Wall, Elisa Batti, Rorschack |
 | Sat, 25 Jul 2026 | Vault Sessions x Symbole x In.di.go WKNDR - NIGHT / RADION | Joya Astou, NDSTPS, ORBE, Patient (MT), SHE/HER, Sons Of Hidden, Toobris, exuvia |
 | Fri, 31 Jul 2026 | Dekmantel At Night - Friday | Afra, Blasha & Allatt, DJ Stingray 313, MARRØN, Mari Sakurai, Phase Fatale, Rene Wise |
@@ -23,4 +22,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, w
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

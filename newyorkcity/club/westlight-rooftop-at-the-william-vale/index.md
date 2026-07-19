@@ -1,6 +1,6 @@
 # Westlight Rooftop at The William Vale
 
-Westlight Rooftop at The William Vale is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Friends In High Places feat. Bakermat" on Fri, 24 Jul 2026.
+Westlight Rooftop at The William Vale is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Friends In High Places feat. Bakermat" on Fri, 24 Jul 2026.
 
 Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Bakermat, Chris Luno, LAVERN and Massane and 2 more. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
 
@@ -23,4 +23,4 @@ Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on 
 
 111 North 12th Street, Brooklyn, New York 11249, United States, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*

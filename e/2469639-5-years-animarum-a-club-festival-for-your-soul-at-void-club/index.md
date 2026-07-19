@@ -1,6 +1,6 @@
 # 5 Years Animarum – A Club Festival For Your Soul at Void Club
 
-5 Years Animarum – A Club Festival For Your Soul at Void Club on Fri 25 Sept, Berlin. 1 act on the bill: Mosher. Trance and Techno. Preview the line-up and save it on soundcheck.
+5 Years Animarum – A Club Festival For Your Soul at Void Club on Fri 25 Sept, Berlin. 2 acts on the bill: DJ Jordan and Mosher. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- DJ Jordan
 - Mosher
 
 *Source: [soundcheck](https://soundcheck.club/e/2469639-5-years-animarum-a-club-festival-for-your-soul-at-void-club/)*

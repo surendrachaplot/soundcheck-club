@@ -1,14 +1,13 @@
 # Club Leidse
 
-Club Leidse is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘" on Sat, 18 Jul 2026.
+Club Leidse is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗧𝗛𝗜𝗥𝗗 𝗪𝗔𝗩𝗘" on Fri, 24 Jul 2026.
 
-Club Leidse is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Oscar Osorio and Rishi Romero. Browse upcoming dates, start times and who's playing. Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam.
+Club Leidse is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Oscar Osorio and Rishi Romero. Browse upcoming dates, start times and who's playing. Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗖𝗢𝗡𝗗 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
 | Fri, 24 Jul 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗧𝗛𝗜𝗥𝗗 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
 | Sat, 25 Jul 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗧𝗛𝗜𝗥𝗗 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
 | Fri, 31 Jul 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗙𝗢𝗨𝗥𝗧𝗛 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
@@ -18,9 +17,10 @@ Club Leidse is a music venue in Amsterdam listed on soundcheck. 19 upcoming nigh
 | Fri, 14 Aug 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗜𝗫𝗧𝗛 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
 | Sat, 15 Aug 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗜𝗫𝗧𝗛 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
 | Fri, 21 Aug 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗩𝗘𝗡𝗧𝗛 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
+| Sat, 22 Aug 2026 | 𝗥&𝗕 𝗖𝗔𝗥𝗜𝗕𝗕𝗘𝗔𝗡 𝗦𝗨𝗠𝗠𝗘𝗥𝗩𝗜𝗕𝗘𝗦 - 𝗦𝗘𝗩𝗘𝗡𝗧𝗛 𝗪𝗔𝗩𝗘 | Oscar Osorio, Rishi Romero |
 
 ## Address
 
 Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*

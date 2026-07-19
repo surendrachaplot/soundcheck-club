@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mutations present: EKATA + FAUX NAÏF" on Sat, 18 Jul 2026.
+renae is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Resonance of Resistance" on Sun, 19 Jul 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including EKATA, Faux Naif, KAZIA and Mayss and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including KAZIA, Mayss, Melody RA+RE and Nony B and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Mutations present: EKATA + FAUX NAÏF | EKATA, Faux Naif, Rosie (UK) |
 | Sun, 19 Jul 2026 | The Resonance of Resistance | Mayss |
 | Fri, 24 Jul 2026 | Nony B B2B Tomi From Brockley: All Night Long | Nony B, Tomi From Brockley |
 | Thu, 30 Jul 2026 | Mellow Clo presents: Steady Stepping with Melody | Melody RA+RE |
@@ -20,4 +19,4 @@ renae is a music venue in Manchester listed on soundcheck. 7 upcoming nights, wi
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

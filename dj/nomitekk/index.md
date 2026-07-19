@@ -1,6 +1,6 @@
 # nomitekk
 
-nomitekk is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Airport Würzburg, Nürnberg on Fri, 24 Jul 2026.
+nomitekk is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Airport Würzburg, Nürnberg on Fri, 24 Jul 2026.
 
 nomitekk is a techno and trance artist tracked on soundcheck, with 18 sets logged across Frankfurt and Nurnberg. Often billed alongside Kacy, PENELOPE (DE) and CiKi. Next up: Airport Würzburg, Nurnberg on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ nomitekk is a techno and trance artist tracked on soundcheck, with 18 sets logge
 
 Kacy, PENELOPE (DE), CiKi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*

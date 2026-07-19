@@ -1,14 +1,13 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "astral.lab x Curiosity Pill x Speedgasm x vehemence (indoor + outdoor)" on Sat, 18 Jul 2026.
+Jonny Knüppel is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Knüppel Kollektiv-Sommernacht mit Disco Futurismo, Diskolusion und Schmeckt Auf Eis" on Fri, 24 Jul 2026.
 
-Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including AAMIROO, Aber DJ, Allynx and Ana Malo and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
+Jonny Knüppel is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including AAMIROO, Aber DJ, Allynx and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | astral.lab x Curiosity Pill x Speedgasm x vehemence (indoor + outdoor) | AWHM, Ana Malo, E.P.L.E., LUCKY4U, Mia Lund, SACID, Sioc, Surt, Tyrellativ, ch4r20tte, dawnbreaker, pnk pnthr, vSto, vp allowed |
 | Fri, 24 Jul 2026 | Knüppel Kollektiv-Sommernacht mit Disco Futurismo, Diskolusion und Schmeckt Auf Eis | Daniel Duese, Don Andres, Marc Machado, Martin Meyer, Moni von Pisani, Pointbliss, Zehlendorfer Disco Squad, hi beam, plattenpunani |
 | Sat, 25 Jul 2026 | JKs Höchstsommer |  |
 | Fri, 31 Jul 2026 | Wuza X | Allynx, Antaares, Bonnie Ford, CaMi, Caro Vola, Danca, Don Son, Dora Dox, Francesca, Garstique, Hot Oasis, Iva Bodul, Kahl & Kæmena, Kataya, Los Cabra, Maria Theresia von Eberg, NÚRIA (DE), Raphael Hofman, Rolandson, Sabura, Saraabb, TraumaMia, Urem, loufo |
@@ -19,4 +18,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

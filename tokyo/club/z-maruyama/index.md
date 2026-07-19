@@ -1,15 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Rezonance" on Sat, 18 Jul 2026.
+Z Maruyama is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "OMERTÀ SUPPORTED BY ADS" on Sun, 19 Jul 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including ASSIGN, ATAMI, CATRONICA and Funky Gong and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including ATAMI, CATRONICA, Funky Gong and Ken Ishii and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Rezonance | ASSIGN, Maozon, Velocity, kens:k |
-| Sat, 18 Jul 2026 | SYNTH | JUNKO ONAGI, Rickey Shannon, YOSHI KANOU |
 | Sun, 19 Jul 2026 | OMERTÀ SUPPORTED BY ADS | PONTA, WATARU |
 | Thu, 23 Jul 2026 | INFUSE_INTO | YOXIKI |
 | Fri, 24 Jul 2026 | The Odyssey -the house music experience- | Toshiyuki Goto |
@@ -23,4 +21,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, w
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

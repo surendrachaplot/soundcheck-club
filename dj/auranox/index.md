@@ -1,6 +1,6 @@
 # Aura Nox
 
-Aura Nox is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
+Aura Nox is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tresor / Globus, Berlin on Fri, 7 Aug 2026.
 
 Aura Nox is an electro and techno artist based in United States of America, tracked on soundcheck, with 44 sets logged across Athens, Barcelona, Berlin and Glasgow and 8 more. Often billed alongside Milan Hermess, ElectroDon and Mejle. Next up: Tresor / Globus, Berlin on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Aura Nox is an electro and techno artist based in United States of America, trac
 
 Milan Hermess, ElectroDon, Mejle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/auranox/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/auranox/)*

@@ -1,8 +1,8 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
+KIRSTY is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at MÄX, Zurich on Sat, 8 Aug 2026.
 
-KIRSTY is a techno and house artist tracked on soundcheck, with 58 sets logged across Auckland, Belfast, Belgrade and Berlin and 18 more. Often billed alongside Restricted, Lolalita and Stinny Stone. Next up: MÄX, Zurich on Sat 8 Aug.
+KIRSTY is a techno and house artist tracked on soundcheck, with 60 sets logged across Auckland, Belfast, Belgrade and Berlin and 18 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: MÄX, Zurich on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 58 sets logged a
 | Fri, 28 Aug 2026 | Wigwam | Dublin |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Tue, 22 Sept 2026 | The Clock Factory | Bristol |
+| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 
 ## Recently played
 
@@ -26,6 +28,6 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 ## Shares bills with
 
-Restricted, Lolalita, Stinny Stone
+Lolalita, KimberlaID, Restricted
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

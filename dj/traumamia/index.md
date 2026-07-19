@@ -1,6 +1,6 @@
 # TraumaMia
 
-TraumaMia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
+TraumaMia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Jonny Knüppel, Berlin on Fri, 31 Jul 2026.
 
 TraumaMia is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Ele Luz, Ciao 3lla and Katzengold. Next up: Jonny Knüppel, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ TraumaMia is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Ele Luz, Ciao 3lla, Katzengold
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*

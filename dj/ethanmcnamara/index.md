@@ -1,6 +1,6 @@
 # Ethan McNamara
 
-Ethan McNamara is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bar Shrimp, Manchester on Thu, 23 Jul 2026.
+Ethan McNamara is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bar Shrimp, Manchester on Thu, 23 Jul 2026.
 
 Ethan McNamara is an electro and techno artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Bucharest and Leeds and 4 more. Often billed alongside Ryan Ingleby, Louie G and A.L.C. Next up: Bar Shrimp, Manchester on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Ethan McNamara is an electro and techno artist tracked on soundcheck, with 65 se
 
 Ryan Ingleby, Louie G, A.L.C
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*

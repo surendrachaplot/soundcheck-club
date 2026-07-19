@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "23:59 – Dual Damage pres. BUILD 2 BREAK (Double DJ SET), FRAW, INCULT, NGL, nox, Glaskeen" on Sat, 18 Jul 2026.
+Mia Mao is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "THUNDER: Luca Agnelli, PARACEK, EPHESIS, JOVYNN & MORE" on Fri, 24 Jul 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, BabaBass3000, Blaame and Dual Damage and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Adam Beyer, BabaBass3000, Blaame and Hortense de Beauharnais and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | 23:59 – Dual Damage pres. BUILD 2 BREAK (Double DJ SET), FRAW, INCULT, NGL, nox, Glaskeen | Dual Damage, Glaskeen, NGL (NL), nox |
 | Fri, 24 Jul 2026 | THUNDER: Luca Agnelli, PARACEK, EPHESIS, JOVYNN & MORE | BabaBass3000, LUXX, Luca Agnelli |
 | Sat, 25 Jul 2026 | Adam Beyer, Voltaire, Tina Tornade · MIA MAO, Paris | Adam Beyer, Tina Tornade, Voltaire |
 | Fri, 31 Jul 2026 | THUNDER: IMHAPPY, Blaame, SLVL, HEARTREAVER & MORE | Blaame, Hortense de Beauharnais, SLVL |
@@ -22,4 +21,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 9 upcoming nights, with 
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

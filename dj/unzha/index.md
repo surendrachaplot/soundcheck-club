@@ -1,6 +1,6 @@
 # UNZHA
 
-UNZHA is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 23 Jul 2026.
+UNZHA is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Golden Pudel Club, Hamburg on Thu, 23 Jul 2026.
 
 UNZHA is a house and funk / soul artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside DJ SOURCE, Tana (2) and yamagucci42. Next up: Golden Pudel Club, Hamburg on Thu 23 Jul.
 
@@ -27,4 +27,4 @@ UNZHA is a house and funk / soul artist based in Germany, tracked on soundcheck,
 
 DJ SOURCE, Tana (2), yamagucci42
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*

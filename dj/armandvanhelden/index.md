@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 19 Jul 2026.
+Armand Van Helden is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Cavo Paradiso, Mykonos on Sun, 19 Jul 2026.
 
 Armand Van Helden is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 29 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Cavo Paradiso, Mykonos on Sun 19 Jul.
 
@@ -36,4 +36,4 @@ Armand Van Helden is a house and tech house artist tracked on soundcheck, with 1
 
 Fatzo, Oden, MiNNA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

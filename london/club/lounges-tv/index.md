@@ -1,6 +1,6 @@
 # Lounges tv
 
-Lounges tv is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Tour single" on Thu, 23 Jul 2026.
+Lounges tv is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Tour single" on Thu, 23 Jul 2026.
 
 Lounges tv is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Gonemili Grace. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Lounges tv is a music venue in London listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Thu, 23 Jul 2026 | Tour single | Gonemili Grace |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lounges-tv/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/lounges-tv/)*

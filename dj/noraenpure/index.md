@@ -1,14 +1,13 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Westhafen, Leipzig on Sat, 18 Jul 2026.
+Nora En Pure is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Thu, 6 Aug 2026.
 
-Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Westhafen, Leipzig on Sat 18 Jul.
+Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Hï Ibiza, Ibiza on Thu 6 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Westhafen | Leipzig |
 | Thu, 6 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 9 Aug 2026 | Křižíkova Fountain | Prague |
 | Fri, 14 Aug 2026 | Magazine Open–Air | London |
@@ -18,6 +17,7 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 se
 
 ## Recently played
 
+- Westhafen, Leipzig — Sat, 18 Jul 2026
 - Woodstock'69, Amsterdam — Sun, 28 Jun 2026
 - SAGE, Berlin — Sat, 27 Jun 2026
 - The Cause, London — Sun, 21 Jun 2026
@@ -25,10 +25,9 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 133 se
 - Hï Ibiza, Ibiza — Wed, 10 Jun 2026
 - Chinois Ibiza, Ibiza — Sat, 23 May 2026
 - Boat Cruise Summer Series, Boston — Fri, 8 May 2026
-- Boat Cruise Summer Series, Boston — Fri, 8 May 2026
 
 ## Shares bills with
 
 Paradoks, Claptone, Corren Cavini
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

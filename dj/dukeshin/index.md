@@ -1,6 +1,6 @@
 # Duke Shin
 
-Duke Shin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The California Clipper, Chicago on Sun, 19 Jul 2026.
+Duke Shin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The California Clipper, Chicago on Sun, 19 Jul 2026.
 
 Duke Shin is a house and techno artist based in United States of America, tracked on soundcheck, with 115 sets logged across Chicago, Detroit and Sandiego. Often billed alongside Gene Hunt, Adorio and Jevon Jackson. Next up: The California Clipper, Chicago on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ Duke Shin is a house and techno artist based in United States of America, tracke
 
 Gene Hunt, Adorio, Jevon Jackson
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*

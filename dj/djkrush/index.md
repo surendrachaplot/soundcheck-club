@@ -1,6 +1,6 @@
 # DJ Krush
 
-DJ Krush is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Sugar Club, Dublin on Sat, 3 Oct 2026.
+DJ Krush is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Sugar Club, Dublin on Sat, 3 Oct 2026.
 
 DJ Krush is a hip-hop and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Budapest and Dublin and 10 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: The Sugar Club, Dublin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ DJ Krush is a hip-hop and techno artist tracked on soundcheck, with 52 sets logg
 
 DJ Quietstorm, Herbalistek, Jomo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*

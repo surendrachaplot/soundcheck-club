@@ -1,6 +1,6 @@
 # Alif Hilal
 
-Alif Hilal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Deutsche Oper Berlin, Berlin on Sat, 29 Aug 2026.
+Alif Hilal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Deutsche Oper Berlin, Berlin on Sat, 29 Aug 2026.
 
 Alif Hilal is an experimental and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Fergus Jones, Amelia Holt and BLIP. Next up: Deutsche Oper Berlin, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Alif Hilal is an experimental and techno artist tracked on soundcheck, with 34 s
 
 Fergus Jones, Amelia Holt, BLIP
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lyrapramuk/)*

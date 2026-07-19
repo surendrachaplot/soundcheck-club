@@ -1,6 +1,6 @@
 # Ikonika
 
-Ikonika is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Ikonika is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Ikonika is a techno and club artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Bok Bok, Karen Nyame KG and State OFFF. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ Ikonika is a techno and club artist tracked on soundcheck, with 66 sets logged a
 
 Bok Bok, Karen Nyame KG, State OFFF
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*

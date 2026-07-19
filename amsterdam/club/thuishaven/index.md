@@ -1,14 +1,13 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "18 JUL - Thuishaven with Michel de Hey 10HRS" on Sat, 18 Jul 2026.
+Thuishaven is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "19 JUL - Thuishaven with Philou Louzolo 10HRS" on Sun, 19 Jul 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Maqossa, AAT (NL), Ale De Tuglie and Alexander Koning and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Maqossa, AAT (NL), Ale De Tuglie and Alexander Koning and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | 18 JUL - Thuishaven with Michel de Hey 10HRS | Bumpr, Danou P, Fabio Santos, Malin Genie, Michel de Hey |
 | Sun, 19 Jul 2026 | 19 JUL - Thuishaven with Philou Louzolo 10HRS | Ammé, Joëlla Jackson, LYLO (NL), Lyrae, Maqossa, Philou Louzolo, TINS |
 | Sat, 25 Jul 2026 | 25 JUL - Thuishaven with Tjade 10HRS SOLD OUT | Tjade |
 | Sat, 25 Jul 2026 | 25 JUL - Nachtshow with Tjade & Friends | IN2POL, Schwesta P, Tjade, WOLTERS |
@@ -18,9 +17,10 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming night
 | Sat, 8 Aug 2026 | 08 AUG - Thuishaven with Eelke Kleijn 10HRS | Eelke Kleijn |
 | Sun, 9 Aug 2026 | 09 AUG - Bella Claxton / Club Angel / Faster Horses B2B Milion | Bella Claxton, Club Angel, Faster Horses, Gabriel Muñoz, Jolani Jhones, Luis Ripa, Milion, Ned Bennett |
 | Sat, 15 Aug 2026 | 15 AUG - Thuishaven with Benny Rodrigues 10HRS SOLD OUT | Benny Rodrigues |
+| Sun, 16 Aug 2026 | 16 AUG - Thuishaven with Gaskin 5HRS | Ellia Jaya, Gaskin, Stef Davidse, Wildish |
 
 ## Address
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

@@ -1,18 +1,19 @@
 # Chunky
 
-Chunky is a Garage and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Golden Lion, Manchester on Sat, 18 Jul 2026.
+Chunky is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Freight Island Newcastle, Newcastle on Sun, 2 Aug 2026.
 
-Chunky is a garage and hip-hop artist tracked on soundcheck, with 92 sets logged across Antwerp, Barcelona, Brisbane and Bristol and 7 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: The Golden Lion, Manchester on Sat 18 Jul.
+Chunky is a garage and house artist tracked on soundcheck, with 93 sets logged across Antwerp, Barcelona, Brisbane and Bristol and 8 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: Freight Island Newcastle, Newcastle on Sun 2 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | The Golden Lion | Manchester |
+| Sun, 2 Aug 2026 | Freight Island Newcastle | Newcastle |
 | Sat, 5 Sept 2026 | Freight Brixton | London |
 
 ## Recently played
 
+- The Golden Lion, Manchester — Sat, 18 Jul 2026
 - Yamamori Tengu, Dublin — Fri, 17 Jul 2026
 - Freight Island, Manchester — Sun, 5 Jul 2026
 - Freight Brixton, London — Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ Chunky is a garage and hip-hop artist tracked on soundcheck, with 92 sets logged
 - Freight Island, Manchester — Sun, 17 May 2026
 - The Golden Lion, Manchester — Fri, 8 May 2026
 - The Blues Kitchen Manchester, Manchester — Sun, 3 May 2026
-- Freight Island, Manchester — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Rich Reason, Tom Boogizm, Chimpo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

@@ -1,14 +1,13 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Belasco Theater, Los Angeles on Sat, 18 Jul 2026.
+Max Cooper is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Maravilla Studios, Mexico City on Sun, 19 Jul 2026.
 
-Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Belasco Theater, Losangeles on Sat 18 Jul.
+Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Actress, Logic1000 and Or:la. Next up: Maravilla Studios, Mexicocity on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Belasco Theater | Los Angeles |
 | Sun, 19 Jul 2026 | Maravilla Studios | Mexico City |
 | Fri, 24 Jul 2026 | Haus der Visionäre | Berlin |
 | Thu, 24 Sept 2026 | Vrachon Theater | Athens |
@@ -16,6 +15,7 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 se
 
 ## Recently played
 
+- Belasco Theater, Los Angeles — Sat, 18 Jul 2026
 - Gray Area, San Francisco/Oakland — Fri, 17 Jul 2026
 - Gray Area, San Francisco/Oakland — Thu, 16 Jul 2026
 - BERHTA, Washington DC — Fri, 10 Jul 2026
@@ -23,10 +23,9 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 118 se
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Glendalough Estate, Dublin — Fri, 12 Jun 2026
 - The Glasshouse International Centre for Music, Newcastle — Thu, 21 May 2026
-- Usher Hall, Edinburgh, Edinburgh — Wed, 20 May 2026
 
 ## Shares bills with
 
 Actress, Logic1000, Or:la
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

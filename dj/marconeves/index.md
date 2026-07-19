@@ -1,6 +1,6 @@
 # Marco Neves
 
-Marco Neves is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Marco Neves is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Marco Neves is a techno and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Tlim Shug, /KATA/ and Lexicon. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Marco Neves is a techno and house artist based in United States of America, trac
 
 Tlim Shug, /KATA/, Lexicon
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marconeves/)*

@@ -1,14 +1,13 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 19 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SOULFUEL: House, Disco, Funk & Soul" on Sat, 18 Jul 2026.
+Night Tales Loft is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "NT's Loft: Full Crate" on Fri, 24 Jul 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Ash Lauryn, Ayanna Heaven, Dean Bryce and Delilah and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Ash Lauryn, Ayanna Heaven, Delilah and Ellie Scougall and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | SOULFUEL: House, Disco, Funk & Soul | Dean Bryce |
 | Fri, 24 Jul 2026 | NT's Loft: Full Crate | Full Crate |
 | Sat, 25 Jul 2026 | Ibiza Anthems Brunch Rooftop Party |  |
 | Sat, 25 Jul 2026 | Origins: Delilah & Friends | Delilah, Ellie Scougall, NEFER, Wodda |
@@ -18,9 +17,10 @@ Night Tales Loft is a music venue in London listed on soundcheck. 19 upcoming ni
 | Sun, 2 Aug 2026 | R Club- RnB Summer Day Party | KSHA |
 | Fri, 7 Aug 2026 | NT's Loft: Dave 'Love' Lee (All Night Long) | Dave Lee |
 | Sat, 8 Aug 2026 | NT's Loft: Ayanna Heaven & Danniella Dee | Ayanna Heaven |
+| Sat, 15 Aug 2026 | NT's Loft: Swoose (All Night Long) | Swoose |
 
 ## Address
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

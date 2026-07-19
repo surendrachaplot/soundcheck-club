@@ -1,14 +1,13 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
+Jimi Jules is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Pacha Ibiza, Ibiza on Tue, 21 Jul 2026.
 
-Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
+Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Pacha Ibiza, Ibiza on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Knockdown Center | New York City |
 | Tue, 21 Jul 2026 | Pacha Ibiza | Ibiza |
 | Thu, 30 Jul 2026 | Scorpios | Mykonos |
 | Sat, 1 Aug 2026 | Boston Manor Park | London |
@@ -22,6 +21,7 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets log
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 18 Jul 2026
 - Kiesgrube, Düsseldorf — Sun, 12 Jul 2026
 - TBA - Albisgütli, Zurich — Sat, 11 Jul 2026
 - Scorpios, Mykonos — Thu, 9 Jul 2026
@@ -29,10 +29,9 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 186 sets log
 - Hï Ibiza, Ibiza — Sat, 4 Jul 2026
 - Island Athens Riviera, Athens — Sun, 28 Jun 2026
 - Silencio, Paris — Thu, 25 Jun 2026
-- Chinois Ibiza, Ibiza — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Dixon, Âme, Trikk
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

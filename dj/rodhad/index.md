@@ -1,6 +1,6 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 1 Aug 2026.
+Rødhåd is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Den Anden Side, Copenhagen on Sat, 1 Aug 2026.
 
 Rødhåd is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Ben Klock, JakoJako and MARRØN. Next up: Den Anden Side, Copenhagen on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ Rødhåd is a techno and house artist tracked on soundcheck, with 207 sets logge
 
 Ben Klock, JakoJako, MARRØN
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

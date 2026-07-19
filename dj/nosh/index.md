@@ -1,6 +1,6 @@
 # Nosh
 
-Nosh is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bar Datcha, Montreal on Sat, 25 Jul 2026.
+Nosh is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bar Datcha, Montreal on Sat, 25 Jul 2026.
 
 Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal, Tbilisi and Tokyo. Often billed alongside dawny, SOBAKA and ANIIKA. Next up: Bar Datcha, Montreal on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 1
 
 dawny, SOBAKA, ANIIKA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

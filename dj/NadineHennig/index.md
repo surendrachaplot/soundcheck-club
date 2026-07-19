@@ -1,6 +1,6 @@
 # Nadine Hennig
 
-Nadine Hennig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Golden Gate, Berlin on Sat, 25 Jul 2026.
+Nadine Hennig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Golden Gate, Berlin on Sat, 25 Jul 2026.
 
 Nadine Hennig is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam and Berlin. Often billed alongside Bonjour Ben, MASCHA and Slurm McKenzie. Next up: Golden Gate, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Nadine Hennig is a house and techno artist based in Germany, tracked on soundche
 
 Bonjour Ben, MASCHA, Slurm McKenzie
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/NadineHennig/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/NadineHennig/)*

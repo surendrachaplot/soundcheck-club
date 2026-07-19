@@ -1,14 +1,13 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ONDA • Bradley Zero + Davide D'Amico, Angelo Perna, Pola" on Sat, 18 Jul 2026.
+Calatheabeachclub is a music venue in Naples with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "ONDA • Eternal Love + Esa live + more" on Sat, 25 Jul 2026.
 
-Calatheabeachclub is a music venue in Naples listed on soundcheck. 8 upcoming nights, with line-ups including Angelo Perna, Bassolino, Bradley Zero and Bulma Brief and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
+Calatheabeachclub is a music venue in Naples listed on soundcheck. 7 upcoming nights, with line-ups including Bassolino, Dirty Channels, Drunkdrivers and Esa and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | ONDA • Bradley Zero + Davide D'Amico, Angelo Perna, Pola | Angelo Perna, Bradley Zero, Bulma Brief, Davide D'Amico |
 | Sat, 25 Jul 2026 | ONDA • Eternal Love + Esa live + more | Esa, Eternal Love |
 | Sat, 1 Aug 2026 | ONDA • Habibi Funk + Bassolino (dj set) + more | Bassolino, Habibi Funk |
 | Sat, 8 Aug 2026 | ONDA x NEUHM • Tony Humphries + Gigi Testa, Drunkdrivers, Balbucea | Drunkdrivers, Gigi Testa, Tony Humphries |
@@ -21,4 +20,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 8 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

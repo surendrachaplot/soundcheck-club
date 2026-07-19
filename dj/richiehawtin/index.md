@@ -1,14 +1,13 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Serpentine Galleries, London on Sat, 18 Jul 2026.
+Richie Hawtin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amnesia Ibiza, Ibiza on Sun, 19 Jul 2026.
 
-Richie Hawtin is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Serpentine Galleries, London on Sat 18 Jul.
+Richie Hawtin is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Amnesia Ibiza, Ibiza on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Serpentine Galleries | London |
 | Sun, 19 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 19 Jul 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 1 Aug 2026 | Galopprennbahn | Munich |
@@ -21,6 +20,7 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 176 sets 
 
 ## Recently played
 
+- Serpentine Galleries, London — Sat, 18 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 28 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -28,10 +28,9 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 176 sets 
 - Mia Mao, Paris — Sat, 13 Jun 2026
 - Russell Industrial Center, Detroit — Sun, 24 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
-- Tresor / Globus, Berlin — Fri, 8 May 2026
 
 ## Shares bills with
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

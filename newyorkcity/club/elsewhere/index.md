@@ -1,15 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Noodles, Towfu, Jenno " on Sat, 18 Jul 2026.
+Elsewhere is a music venue in New York City with 47 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "WC Afterparty with Omar ؏, Maddylane, J.Surena" on Sun, 19 Jul 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including 444 (1), acloudyskye, Aku and alexander:louis and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 47 upcoming nights, with line-ups including 444 (1), Aku, alexander:louis and Amy Jor and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Noodles, Towfu, Jenno  | Jenno, Noodles |
-| Sat, 18 Jul 2026 | Young Franco, Slaycey, PHAT TRAX: Poolhaus, Miata Boys, Bella Mutino + more | Bella Mutino, Miata Boys, Poolhaus, Young Franco, acloudyskye, softsky |
 | Sun, 19 Jul 2026 | WC Afterparty with Omar ؏, Maddylane, J.Surena | Maddylane |
 | Fri, 24 Jul 2026 | Recondite, Kanykei, YokoO (Open To Close), Anna Collecta + Deo'jorge, alexander:louis + more | Anna Collecta, Deo'jorge, Kanykei, Recondite, YokoO, alexander:louis |
 | Sat, 25 Jul 2026 | Out & Abt |  |
@@ -18,9 +16,11 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nigh
 | Fri, 31 Jul 2026 | Bad Tuner, gabby cocco | Bad Tuner, gabby cocco |
 | Fri, 31 Jul 2026 | Locklead, Lance Savali, DELACOUR, Amy Jor b2b Connie, Eavesdrop Records | ANDI WALL, Amy Jor, Connie, DELACOUR, Locklead |
 | Sat, 1 Aug 2026 | Uffie (DJ Set) + CFCF (DJ Set), Doecaine, CLUB VS TRANCE + more | Aster, Malcolm XL, Soo Intoit, Uffie |
+| Sun, 2 Aug 2026 | Haza Summer Jam - DJ Sets by Carmen Sandiego, Myyuh, Fursa, Sarah Sadaka, Vibes by Sam Burriss | Fursa, Myyuh, Sarah Sadaka |
+| Thu, 6 Aug 2026 | San Junipero - A Retrowave Party: Valentine, Faith in the Glitch, GreenTeaWasted | Valentine |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

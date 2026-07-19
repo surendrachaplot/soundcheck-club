@@ -1,14 +1,13 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 17 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Kitchen Gaff Presents: JALO F2F DROS, CIRCO F2F CIRCO + MORE" on Sat, 18 Jul 2026.
+The Classic Grand is a music venue in Glasgow with 16 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "PEAK X APEX Presents: DEEZL + NVNS" on Fri, 24 Jul 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming nights, with line-ups including Carbon Based Lifeforms, George Bowie, Marc Smith and Purgatory and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 16 upcoming nights, with line-ups including Carbon Based Lifeforms, George Bowie, Marc Smith and Purgatory and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Kitchen Gaff Presents: JALO F2F DROS, CIRCO F2F CIRCO + MORE |  |
 | Fri, 24 Jul 2026 | PEAK X APEX Presents: DEEZL + NVNS |  |
 | Fri, 24 Jul 2026 | PEAK x APEX presents: DEEZL & NVNS (FREE TICKETS) |  |
 | Fri, 31 Jul 2026 | DISFUNCTION: Samuel Moriero | Samuel Moriero (2) |
@@ -18,9 +17,10 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 | Fri, 28 Aug 2026 | BOUNCE: Ueberrest | Ueberrest |
 | Sat, 29 Aug 2026 | Darkside: 27 Years |  |
 | Sat, 29 Aug 2026 | Darkside: 27 Years - Rage Cage | The Dark Horror, Yoshiko |
+| Sat, 5 Sept 2026 | Technodome - Event V - Dyewitness and much more | Marc Smith |
 
 ## Address
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

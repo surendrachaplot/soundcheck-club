@@ -1,6 +1,6 @@
 # Hidden Hall
 
-Hidden Hall is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Roni Size with Kid Hops and Alice Camille" on Fri, 4 Sept 2026.
+Hidden Hall is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Roni Size with Kid Hops and Alice Camille" on Fri, 4 Sept 2026.
 
 Hidden Hall is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Juan Maclean, Korra the Kid, Lusine and Matthew Dear and 1 more. Browse upcoming dates, start times and who's playing. 400 N 35th Street Seattle, WA 98103.
 
@@ -17,4 +17,4 @@ Hidden Hall is a music venue in Seattle listed on soundcheck. 4 upcoming nights,
 
 400 N 35th Street Seattle, WA 98103, Seattle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/hidden-hall/)*

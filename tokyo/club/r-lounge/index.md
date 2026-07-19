@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SPEEDTEST RAVE x /baile 1st anniversary with Chediak & Crosstalk" on Sat, 18 Jul 2026.
+R Lounge is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "FREQ" on Sun, 19 Jul 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, ceza and Chediak and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including AOI BLOOM, Ayana Pattra, Conures (DJ Tokunaga) and DJ endorphin and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | SPEEDTEST RAVE x /baile 1st anniversary with Chediak & Crosstalk | Chediak, Crosstalk (BR), DJ PS2 DESBLOQUEADO, ceza |
 | Sun, 19 Jul 2026 | FREQ | Holdyourcat, KanaK, Lupion, Neutran, Ryunosuke Urabe |
 | Thu, 23 Jul 2026 | on | AOI BLOOM |
 | Thu, 23 Jul 2026 | Resound | MOTOKA, SIGNAL (JP) |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, wit
 | Sun, 26 Jul 2026 | Live＆Dj Factory |  |
 | Fri, 31 Jul 2026 | EP 'PRISM' Elena Berry × SKYTOPIA Release Party | MOOTOE, VECSILLE |
 | Fri, 7 Aug 2026 | Peeps | JUN INAGAWA, ecec |
+| Sat, 8 Aug 2026 | PsynOpticz Records - Label Party |  |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

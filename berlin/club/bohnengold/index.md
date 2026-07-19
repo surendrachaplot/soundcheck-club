@@ -1,6 +1,6 @@
 # Bohnengold
 
-Bohnengold is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠)" on Fri, 14 Aug 2026.
+Bohnengold is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠)" on Fri, 14 Aug 2026.
 
 Bohnengold is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including anna G, Brian Ring, DAAS (1) and Danny Russell and 2 more. Browse upcoming dates, start times and who's playing. Reichenberger Str. 153, 10999 Berlin.
 
@@ -16,4 +16,4 @@ Bohnengold is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 Reichenberger Str. 153, 10999 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bohnengold/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bohnengold/)*

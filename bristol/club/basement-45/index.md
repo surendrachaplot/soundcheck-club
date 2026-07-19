@@ -1,6 +1,6 @@
 # Basement 45
 
-Basement 45 is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "7 Years of Deep Tempo" on Fri, 7 Aug 2026.
+Basement 45 is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "7 Years of Deep Tempo" on Fri, 7 Aug 2026.
 
 Basement 45 is a music venue in Bristol listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 8 Frogmore Street; Bristol; BS1 5NA, United Kingdom.
 
@@ -15,4 +15,4 @@ Basement 45 is a music venue in Bristol listed on soundcheck. 2 upcoming nights.
 
 8 Frogmore Street; Bristol; BS1 5NA, United Kingdom, Bristol
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/basement-45/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/basement-45/)*

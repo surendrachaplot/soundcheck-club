@@ -1,14 +1,13 @@
 # Captain Wallop
 
-Captain Wallop is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 11 Bromley Street, B9 4AN, Birmingham on Sat, 18 Jul 2026.
+Captain Wallop is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Shelter Amsterdam, Amsterdam on Fri, 7 Aug 2026.
 
-Captain Wallop is a house and garage artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside RTK Tarantino, Alec Falconer and DAISY. Next up: 11 Bromley Street, B9 4AN, Birmingham on Sat 18 Jul.
+Captain Wallop is a house and garage artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside RTK Tarantino, Alec Falconer and DAISY. Next up: Shelter Amsterdam, Amsterdam on Fri 7 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | 11 Bromley Street, B9 4AN | Birmingham |
 | Fri, 7 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 21 Aug 2026 | Distrikt | Leeds |
 | Sat, 26 Sept 2026 | Kapsule | Liverpool |
@@ -16,6 +15,7 @@ Captain Wallop is a house and garage artist tracked on soundcheck, with 39 sets 
 
 ## Recently played
 
+- 11 Bromley Street, B9 4AN, Birmingham — Sat, 18 Jul 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 - PROGRESS, Manchester — Sat, 6 Jun 2026
 - The Loft, Manchester — Sat, 6 Jun 2026
@@ -23,10 +23,9 @@ Captain Wallop is a house and garage artist tracked on soundcheck, with 39 sets 
 - Mint Warehouse, Leeds — Sun, 24 May 2026
 - Wigwam, Dublin — Sat, 23 May 2026
 - The Brickworks, Nottingham — Fri, 22 May 2026
-- Newsam Green Farm, Leeds — Sat, 2 May 2026
 
 ## Shares bills with
 
 RTK Tarantino, Alec Falconer, DAISY
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

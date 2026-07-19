@@ -1,14 +1,13 @@
 # Brooklyn Army Terminal
 
-Brooklyn Army Terminal is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Teksupport: Adriatique present X" on Sat, 18 Jul 2026.
+Brooklyn Army Terminal is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Sammy Virji" on Fri, 31 Jul 2026.
 
-Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Adam Sellouk, Adriatique, Alesso and Ben Sterling and 2 more. Browse upcoming dates, start times and who's playing. 58th St, Brooklyn, NY 11220.
+Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Alesso, Cloonee, Joseph Capriati and Mau P and 2 more. Browse upcoming dates, start times and who's playing. 58th St, Brooklyn, NY 11220.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Teksupport: Adriatique present X | Adam Sellouk, Adriatique, Ben Sterling, Lumia |
 | Fri, 31 Jul 2026 | Sammy Virji | Sam Gellaitry, Sammy Virji, X CLUB. |
 | Sat, 15 Aug 2026 | Teksupport: Cloonee (Hellbent) | Cloonee |
 | Sat, 22 Aug 2026 | Alesso Project 91 New York 2026 | Alesso |
@@ -20,4 +19,4 @@ Brooklyn Army Terminal is a music venue in Newyorkcity listed on soundcheck. 7 u
 
 58th St, Brooklyn, NY 11220, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-army-terminal/)*

@@ -1,14 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR " on Sat, 18 Jul 2026.
+Yellow House is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Portente Invites" on Fri, 24 Jul 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Becking, Benoît, DJ Crystal Bitch and Heritage Listed and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Benoît, Jordino, Julien Simmons and Mallie and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Kirilski BIRTHDAY BASH with Boogie House: OUTDOOR & INDOOR  | Becking, DJ Crystal Bitch, Heritage Listed, Holopine, Kirilski, Pao, Phil-o, Pura Pachanga, RAW/B |
 | Fri, 24 Jul 2026 | Portente Invites | Benoît, Jordino, Julien Simmons, Mallie, Maria Louisa, Portente, SOLIT |
 | Fri, 31 Jul 2026 | SINE OFF | Micky Hurts |
 | Sun, 2 Aug 2026 | Queer Aunties presents: Aunties in Amsterdam |  |
@@ -17,4 +16,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 4 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

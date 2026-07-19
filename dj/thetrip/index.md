@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
+The Trip is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lofi, Amsterdam on Fri, 14 Aug 2026.
 
 The Trip is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: Lofi, Amsterdam on Fri 14 Aug.
 
@@ -30,4 +30,4 @@ The Trip is a house and tech house artist tracked on soundcheck, with 81 sets lo
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

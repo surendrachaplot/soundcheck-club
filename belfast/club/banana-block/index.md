@@ -1,6 +1,6 @@
 # Banana Block
 
-Banana Block is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "EastSide Electronics by Night" on Sat, 25 Jul 2026.
+Banana Block is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "EastSide Electronics by Night" on Sat, 25 Jul 2026.
 
 Banana Block is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including Efa O'Neill, Jordan Nocturne and Timmy Stewart. Browse upcoming dates, start times and who's playing. Portview Trade Centre, 310 Newtownards Road BT4 1HE.
 
@@ -14,4 +14,4 @@ Banana Block is a music venue in Belfast listed on soundcheck. 1 upcoming night,
 
 Portview Trade Centre, 310 Newtownards Road BT4 1HE, Belfast
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/banana-block/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/banana-block/)*

@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
+Sybil is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Amsterdamse Bos, Amsterdam on Wed, 29 Jul 2026.
 
 Sybil is a techno and trance artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Kia (AU), Konduku and Marius Bø. Next up: Amsterdamse Bos, Amsterdam on Wed 29 Jul.
 
@@ -28,4 +28,4 @@ Sybil is a techno and trance artist tracked on soundcheck, with 124 sets logged 
 
 Kia (AU), Konduku, Marius Bø
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

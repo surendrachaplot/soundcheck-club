@@ -1,8 +1,8 @@
 # Chris Stussy
 
-Chris Stussy is a House and Techno artist with 20 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
+Chris Stussy is a House and Techno artist with 21 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Rebstockpark, Frankfurt on Sat, 25 Jul 2026.
 
-Chris Stussy is a house and techno artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
+Chris Stussy is a house and techno artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Rebstockpark, Frankfurt on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Chris Stussy is a house and techno artist tracked on soundcheck, with 268 sets l
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

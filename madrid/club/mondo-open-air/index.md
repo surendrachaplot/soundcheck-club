@@ -1,6 +1,6 @@
 # Mondo Open Air
 
-Mondo Open Air is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mondo OPEN AIR #06: Kyle Starkey B2B DART / LAMMER / Gerardo Niva / S3PPA" on Sat, 5 Sept 2026.
+Mondo Open Air is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Mondo OPEN AIR #06: Kyle Starkey B2B DART / LAMMER / Gerardo Niva / S3PPA" on Sat, 5 Sept 2026.
 
 Mondo Open Air is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Alba Franch, DART, DJ Cringey and EMILIJA and 2 more. Browse upcoming dates, start times and who's playing. Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid.
 
@@ -17,4 +17,4 @@ Mondo Open Air is a music venue in Madrid listed on soundcheck. 4 upcoming night
 
 Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid, Madrid
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*

@@ -1,6 +1,6 @@
 # CONCEPTUAL
 
-CONCEPTUAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 6 Aug 2026.
+CONCEPTUAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 6 Aug 2026.
 
 CONCEPTUAL is a techno and house artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside MOE (LB), Pâris. and Lewis Fautzi. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ CONCEPTUAL is a techno and house artist based in Italy, tracked on soundcheck, w
 
 MOE (LB), Pâris., Lewis Fautzi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*

@@ -1,8 +1,8 @@
 # jay york
 
-jay york is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 25 Jul 2026.
+jay york is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bossa Nova Civic Club, New York City on Sat, 25 Jul 2026.
 
-jay york is a techno and minimal techno artist tracked on soundcheck, with 65 sets logged across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Barbosa, Decoder and Adrian Hex. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 25 Jul.
+jay york is a techno and minimal techno artist tracked on soundcheck, with 66 sets logged across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Barbosa, Decoder and Adrian Hex. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ jay york is a techno and minimal techno artist tracked on soundcheck, with 65 se
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
+| Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ jay york is a techno and minimal techno artist tracked on soundcheck, with 65 se
 
 Barbosa, Decoder, Adrian Hex
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jayyork/)*

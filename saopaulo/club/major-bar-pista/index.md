@@ -1,14 +1,13 @@
 # Major Bar & Pista
 
-Major Bar & Pista is a music venue in Sao Paulo with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Major recebe Ana Convida Guga Roselli" on Sat, 18 Jul 2026.
+Major Bar & Pista is a music venue in Sao Paulo with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Major recebe Caio Muratore" on Wed, 22 Jul 2026.
 
-Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
+Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Rua Major Sertório, 347.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Major recebe Ana Convida Guga Roselli |  |
 | Wed, 22 Jul 2026 | Major recebe Caio Muratore |  |
 | Thu, 23 Jul 2026 | Major recebe Mimi da Silva |  |
 | Fri, 24 Jul 2026 | Major recebe DJ Chãnce da Silva |  |
@@ -21,4 +20,4 @@ Major Bar & Pista is a music venue in Saopaulo listed on soundcheck. 8 upcoming 
 
 Rua Major Sertório, 347, Sao Paulo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/major-bar-pista/)*

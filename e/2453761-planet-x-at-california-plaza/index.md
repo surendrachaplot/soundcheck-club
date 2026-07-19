@@ -1,6 +1,6 @@
 # Planet X at California Plaza
 
-Planet X at California Plaza on Sat 12 Sept, Losangeles. 3 acts on the bill: Ben Sterling, Dean Turnley and Rafael. Acid and Tech House. Preview the line-up and save it on soundcheck.
+Planet X at California Plaza on Sat 12 Sept, Losangeles. 3 acts on the bill: Ben Sterling, Dean Turnley and Rafael. Tech House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

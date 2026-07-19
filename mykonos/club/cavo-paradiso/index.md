@@ -1,14 +1,13 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Benny Benassi | Essentia | Squ4re | Terry" on Sat, 18 Jul 2026.
+Cavo Paradiso is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Cavo Paradiso ft. Armand Van Helden | Ministry of Sound 35 World Tour" on Sun, 19 Jul 2026.
 
-Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming nights, with line-ups including Afrojack, Agent Greg, Alesso and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
+Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Afrojack, Agent Greg, Alesso and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Benny Benassi / Essentia / Squ4re / Terry | Benny Benassi, Essentia (Duplicity), Terry |
 | Sun, 19 Jul 2026 | Cavo Paradiso ft. Armand Van Helden / Ministry of Sound 35 World Tour | Armand Van Helden, Freespirit, Paisley Jensen |
 | Mon, 20 Jul 2026 | Robin Schulz / Agent Greg | Agent Greg, Robin Schulz |
 | Tue, 21 Jul 2026 | Bunt / G.Siras |  |
@@ -22,4 +21,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 9 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

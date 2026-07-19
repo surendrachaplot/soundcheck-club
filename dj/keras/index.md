@@ -1,6 +1,6 @@
 # Keras
 
-Keras is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 25 Jul 2026.
+Keras is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sunseabar Beach Club, Barcelona on Sat, 25 Jul 2026.
 
 Keras is a house and techno artist tracked on soundcheck, with 40 sets logged across Antwerp, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Jorge Escribano, Cecilio and Desyn. Next up: Sunseabar Beach Club, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Keras is a house and techno artist tracked on soundcheck, with 40 sets logged ac
 
 Jorge Escribano, Cecilio, Desyn
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keras/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/keras/)*

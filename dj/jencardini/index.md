@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Palais de Tokyo, Paris on Sat, 18 Jul 2026.
+Jen Cardini is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
-Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Auckland and 55 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Palais de Tokyo, Paris on Sat 18 Jul.
+Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Athens and Auckland and 55 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Palais de Tokyo | Paris |
 | Tue, 21 Jul 2026 | Paléo Festival | Geneva |
 | Fri, 24 Jul 2026 | RSO.BERLIN | Berlin |
 | Sat, 25 Jul 2026 | CLUB RAUM | Amsterdam |
@@ -21,6 +20,7 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets lo
 
 ## Recently played
 
+- Palais de Tokyo, Paris — Sat, 18 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - But, Madrid — Sun, 5 Jul 2026
 - KREUZWERK, Berlin — Sat, 27 Jun 2026
@@ -28,10 +28,9 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 241 sets lo
 - TBA - Hôtel Amour Paris, Paris — Sun, 21 Jun 2026
 - TBA - Le Dauphin, Paris, Paris — Sun, 21 Jun 2026
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- BORIS CLUB, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

@@ -1,6 +1,6 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Else, Berlin on Sun, 19 Jul 2026.
+Viikatory is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Else, Berlin on Sun, 19 Jul 2026.
 
 Viikatory is a techno and electro artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Else, Berlin on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Viikatory is a techno and electro artist tracked on soundcheck, with 90 sets log
 
 Verde, Salut 80, DJ MELL G
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*

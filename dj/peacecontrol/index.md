@@ -1,6 +1,6 @@
 # Peace Control
 
-Peace Control is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - STRANGE HOUSE, Los Angeles on Sun, 19 Jul 2026.
+Peace Control is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - STRANGE HOUSE, Los Angeles on Sun, 19 Jul 2026.
 
 Peace Control is a house and afro house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Buenosaires and Chicago and 18 more. Often billed alongside Francis Mercier, Marten Lou and Bontan. Next up: TBA - STRANGE HOUSE, Losangeles on Sun 19 Jul.
 
@@ -29,4 +29,4 @@ Peace Control is a house and afro house artist based in United States of America
 
 Francis Mercier, Marten Lou, Bontan
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peacecontrol/)*

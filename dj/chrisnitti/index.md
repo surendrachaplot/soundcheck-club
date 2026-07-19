@@ -1,6 +1,6 @@
 # Chris Nitti
 
-Chris Nitti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Flash, Washington DC on Sun, 26 Jul 2026.
+Chris Nitti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Flash, Washington DC on Sun, 26 Jul 2026.
 
 Chris Nitti is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Washingtondc. Often billed alongside Rich Thomas, DR MILLER and KayLaSoul. Next up: Flash, Washingtondc on Sun 26 Jul.
 
@@ -26,4 +26,4 @@ Chris Nitti is a house and techno artist based in United States of America, trac
 
 Rich Thomas, DR MILLER, KayLaSoul
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisnitti/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisnitti/)*

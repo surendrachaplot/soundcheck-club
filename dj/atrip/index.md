@@ -1,6 +1,6 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
+ATRIP is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles on Sat, 1 Aug 2026.
 
 ATRIP is a house and garage artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Barcelona and Belfast and 36 more. Often billed alongside Oppidan, salute and Daria Kolosova. Next up: TBA - Hollywood Park adjacent to SoFi Stadium, Losangeles on Sat 1 Aug.
 
@@ -30,4 +30,4 @@ ATRIP is a house and garage artist tracked on soundcheck, with 76 sets logged ac
 
 Oppidan, salute, Daria Kolosova
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

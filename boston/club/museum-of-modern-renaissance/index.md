@@ -1,6 +1,6 @@
 # Museum of Modern Renaissance
 
-Museum of Modern Renaissance is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "A Journey into Sound x Light (EP 010)" on Sun, 26 Jul 2026.
+Museum of Modern Renaissance is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "A Journey into Sound x Light (EP 010)" on Sun, 26 Jul 2026.
 
 Museum of Modern Renaissance is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 115 College Ave, Somerville, MA 02144.
 
@@ -14,4 +14,4 @@ Museum of Modern Renaissance is a music venue in Boston listed on soundcheck. 1 
 
 115 College Ave, Somerville, MA 02144, Boston
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/museum-of-modern-renaissance/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/boston/club/museum-of-modern-renaissance/)*

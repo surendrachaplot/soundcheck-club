@@ -1,6 +1,6 @@
 # The Old Coal Yard
 
-The Old Coal Yard is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bend&Shake - Pride Party" on Sat, 25 Jul 2026.
+The Old Coal Yard is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Bend&Shake - Pride Party" on Sat, 25 Jul 2026.
 
 The Old Coal Yard is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Elizabeth St, Newcastle upon Tyne NE6 1JS.
 
@@ -14,4 +14,4 @@ The Old Coal Yard is a music venue in Newcastle listed on soundcheck. 1 upcoming
 
 Elizabeth St, Newcastle upon Tyne NE6 1JS, Newcastle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-old-coal-yard/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-old-coal-yard/)*

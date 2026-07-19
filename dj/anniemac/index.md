@@ -1,6 +1,6 @@
 # Annie Mac
 
-Annie Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Gunnersbury Park, London on Fri, 11 Sept 2026.
+Annie Mac is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Gunnersbury Park, London on Fri, 11 Sept 2026.
 
 Annie Mac is a house and techno artist tracked on soundcheck, with 27 sets logged across Belfast, Cardiff, Dublin and Glasgow and 5 more. Often billed alongside Honey Dijon, Shy FX and Skream. Next up: Gunnersbury Park, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Annie Mac is a house and techno artist tracked on soundcheck, with 27 sets logge
 
 Honey Dijon, Shy FX, Skream
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*

@@ -1,6 +1,6 @@
 # It's a Bar
 
-It's a Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Loone x KUJE Records" on Tue, 21 Jul 2026.
+It's a Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Loone x KUJE Records" on Tue, 21 Jul 2026.
 
 It's a Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including ALI3N, BUTZ, Carmen Electro and Chaz (IN) and 1 more. Browse upcoming dates, start times and who's playing. Spreewaldpl. 14, 10999 Berlin.
 
@@ -14,4 +14,4 @@ It's a Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, wi
 
 Spreewaldpl. 14, 10999 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/it-s-a-bar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/it-s-a-bar/)*

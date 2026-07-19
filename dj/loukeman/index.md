@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
+Loukeman is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Old Royal Naval College, London on Fri, 7 Aug 2026.
 
 Loukeman is a house and club artist tracked on soundcheck, with 22 sets logged across Brussels, Chicago, London and Losangeles and 6 more. Often billed alongside Marie Davidson, Vegyn and Arca. Next up: Old Royal Naval College, London on Fri 7 Aug.
 
@@ -27,4 +27,4 @@ Loukeman is a house and club artist tracked on soundcheck, with 22 sets logged a
 
 Marie Davidson, Vegyn, Arca
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

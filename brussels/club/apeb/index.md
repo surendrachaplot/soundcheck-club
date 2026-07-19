@@ -1,6 +1,6 @@
 # Apeb
 
-Apeb is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Roast & Beat" on Sat, 29 Aug 2026.
+Apeb is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Roast & Beat" on Sat, 29 Aug 2026.
 
 Apeb is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Jet Lazz. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Apeb is a music venue in Brussels listed on soundcheck. 1 upcoming night, with l
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Roast & Beat | Jet Lazz |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/apeb/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/apeb/)*

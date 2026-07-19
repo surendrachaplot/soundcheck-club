@@ -1,6 +1,6 @@
 # Bowmore
 
-Bowmore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Théâtre de L'Orangerie - TO!, Geneva on Fri, 24 Jul 2026.
+Bowmore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Théâtre de L'Orangerie - TO!, Geneva on Fri, 24 Jul 2026.
 
 Bowmore is a techno and trance artist tracked on soundcheck, with 34 sets logged across Geneva and Zurich. Often billed alongside Julian Muller, Maara and Pornopolis. Next up: Théâtre de L'Orangerie - TO!, Geneva on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Bowmore is a techno and trance artist tracked on soundcheck, with 34 sets logged
 
 Julian Muller, Maara, Pornopolis
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmore/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmore/)*

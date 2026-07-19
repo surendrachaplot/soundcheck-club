@@ -1,14 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 20 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "A4 PRESENTS: LB aka LABAT, De Grandi (live), Olympe4000, PPJ (live), HOUSEWIFE9" on Sat, 18 Jul 2026.
+Virage is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Maara, Djé Djé from the block: BAE Party x Le Virage du Mercredi " on Wed, 22 Jul 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 20 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and AMAYO and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including abs8lute, aerodynamisme, Ahadadream and AMAYO and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | A4 PRESENTS: LB aka LABAT, De Grandi (live), Olympe4000, PPJ (live), HOUSEWIFE9 | De Grandi, HOUSEWIFE 9, LB aka LABAT, Olympe4000, PPJ (1) |
 | Wed, 22 Jul 2026 | Maara, Djé Djé from the block: BAE Party x Le Virage du Mercredi  | AMAYO, Djé Djé from the block, MNBOO, Maara |
 | Thu, 23 Jul 2026 | SPACER: LILLY WOOD AND THE PRICK (LIVE), JEAN-BICHE & MORE | Pontcho |
 | Fri, 24 Jul 2026 | Virage Présente : HAAi, DJ BORING, RAG, Contrecoeur | Contrecoeur, DJ BORING, HAAi, RAG |
@@ -18,9 +17,10 @@ Virage is a music venue in Paris listed on soundcheck. 20 upcoming nights, with 
 | Fri, 31 Jul 2026 | Virage Présente: Patrick Mason, Bambounou, Two Dots, Amina | Amina, Bambounou, Patrick Mason, Two Dots (FR) |
 | Sat, 1 Aug 2026 | Dure Vie: Polygonia, DJ MARIA., abs8lute, Toscan Haas | DJ MARIA., Polygonia, Toscan Haas, abs8lute |
 | Sat, 1 Aug 2026 | Halfpipe Records Day Party: Ahadadream, Jaguar & more | Ahadadream, Jaguar, Swoush |
+| Wed, 5 Aug 2026 | More Girls Behind Decks x Le Virage du Mercredi: Bitter Babe, Maco Maria, Mayou Picchu | Bitter Babe, Carmen (5), Maco Maria |
 
 ## Address
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

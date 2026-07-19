@@ -1,18 +1,17 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Visionquest 15: Random Factor LIVE, Cassy, Shaun Reeves, Cesar Merveille, Clovis, Topper" on Sat, 18 Jul 2026.
+Sonnenraum is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "GROOVE x Studio Liberté" on Sun, 16 Aug 2026.
 
-Sonnenraum is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Carl Finlow, Cassy, Cesar Merveille and Clovis and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
+Sonnenraum is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Danny Daze, Detroit In Effect, DJ Assault and DJ Godfather and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Visionquest 15: Random Factor LIVE, Cassy, Shaun Reeves, Cesar Merveille, Clovis, Topper | Carl Finlow, Cassy, Cesar Merveille, Clovis, Random Factor, Shaun Reeves, Topper |
 | Sun, 16 Aug 2026 | GROOVE x Studio Liberté | DJ Assault, DJ Godfather, Danny Daze, Detroit In Effect, Modeselektor, SALOME, SLIC Unit, Viikatory |
 
 ## Address
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

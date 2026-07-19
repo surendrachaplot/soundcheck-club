@@ -1,6 +1,6 @@
 # Milian Dolla
 
-Milian Dolla is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
+Milian Dolla is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat, 25 Jul 2026.
 
 Milian Dolla is a house and baile funk artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Geneva and Leipzig and 7 more. Often billed alongside Delcu, Amowia and Andras_2020. Next up: ÆDEN x MARMORBAR: Fields & Spaces, Berlin on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Milian Dolla is a house and baile funk artist tracked on soundcheck, with 31 set
 
 Delcu, Amowia, Andras_2020
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miliandolla/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miliandolla/)*

@@ -1,14 +1,13 @@
 # Navider
 
-Navider is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Slow Club, Barcelona on Sat, 18 Jul 2026.
+Navider is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Slow Club, Barcelona on Thu, 23 Jul 2026.
 
-Navider is a house and techno artist tracked on soundcheck, with 244 sets logged across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Sat 18 Jul.
+Navider is a house and techno artist tracked on soundcheck, with 244 sets logged across Barcelona, Budapest, Ibiza and Madrid and 1 more. Often billed alongside D.T.H., Hermes Disco Eterno and Frankie G. Next up: Slow Club, Barcelona on Thu 23 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Slow Club | Barcelona |
 | Thu, 23 Jul 2026 | Slow Club | Barcelona |
 | Fri, 24 Jul 2026 | Slow Club | Barcelona |
 | Thu, 30 Jul 2026 | Slow Club | Barcelona |
@@ -20,9 +19,11 @@ Navider is a house and techno artist tracked on soundcheck, with 244 sets logged
 | Thu, 3 Sept 2026 | Slow Club | Barcelona |
 | Thu, 10 Sept 2026 | Slow Club | Barcelona |
 | Thu, 17 Sept 2026 | Slow Club | Barcelona |
+| Thu, 24 Sept 2026 | Slow Club | Barcelona |
 
 ## Recently played
 
+- Slow Club, Barcelona — Sat, 18 Jul 2026
 - Slow Club, Barcelona — Fri, 17 Jul 2026
 - Slow Club, Barcelona — Thu, 16 Jul 2026
 - Slow Club, Barcelona — Sat, 11 Jul 2026
@@ -30,10 +31,9 @@ Navider is a house and techno artist tracked on soundcheck, with 244 sets logged
 - Slow Club, Barcelona — Sat, 4 Jul 2026
 - Slow Club, Barcelona — Fri, 3 Jul 2026
 - Slow Club, Barcelona — Thu, 2 Jul 2026
-- Slow Club, Barcelona — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 D.T.H., Hermes Disco Eterno, Frankie G
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/navider/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/navider/)*

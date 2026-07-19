@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
+Oliver Koletzki is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Camp Summerdaze Montreal, Montreal on Thu, 30 Jul 2026.
 
 Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: TBA - Camp Summerdaze Montreal, Montreal on Thu 30 Jul.
 
@@ -32,4 +32,4 @@ Oliver Koletzki is a house and techno artist tracked on soundcheck, with 117 set
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

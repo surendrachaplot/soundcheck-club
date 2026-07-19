@@ -1,6 +1,6 @@
 # Pinch
 
-Pinch is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
+Pinch is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fort Vechten, Utrecht on Sat, 25 Jul 2026.
 
 Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 13 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: Fort Vechten, Utrecht on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundchec
 
 SGT Pokes, Yushh, Beatrice M.
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pinch/)*

@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
+Roni Size is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Paléo Festival, Geneva on Tue, 21 Jul 2026.
 
 Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 26 more. Often billed alongside LTJ Bukem, Bryan Gee and Dynamite MC. Next up: Paléo Festival, Geneva on Tue 21 Jul.
 
@@ -32,4 +32,4 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 71 sets
 
 LTJ Bukem, Bryan Gee, Dynamite MC
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

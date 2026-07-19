@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at XOYO, London on Sat, 25 Jul 2026.
+Goosey is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at XOYO, London on Sat, 25 Jul 2026.
 
 Goosey is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Bristol and 11 more. Often billed alongside Gaskin, Luca Pernice and Manda Moor. Next up: XOYO, London on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Goosey is a house and tech house artist tracked on soundcheck, with 66 sets logg
 
 Gaskin, Luca Pernice, Manda Moor
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

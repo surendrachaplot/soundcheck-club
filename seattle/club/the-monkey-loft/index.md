@@ -1,14 +1,13 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "THIS! with Rimarkable" on Sat, 18 Jul 2026.
+The Monkey Loft is a music venue in Seattle with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Deck'd Out #6 with Sassmouth (CHI), Nark, Anvil & Haus Cats" on Thu, 23 Jul 2026.
 
-The Monkey Loft is a music venue in Seattle listed on soundcheck. 10 upcoming nights, with line-ups including Aivilo, Cami Jones, Copeland and Dane Garfield and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
+The Monkey Loft is a music venue in Seattle listed on soundcheck. 9 upcoming nights, with line-ups including Aivilo, Cami Jones, Dane Garfield and DJ Garth and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | THIS! with Rimarkable | Copeland, Lucky Cheese, Rimarkable |
 | Thu, 23 Jul 2026 | Deck'd Out #6 with Sassmouth (CHI), Nark, Anvil & Haus Cats | Aivilo, Nark, Sassmouth |
 | Sat, 25 Jul 2026 | Tony H presents: Be My Guest [DAY PARTY] | Gettoblaster, James Scott (2), Missy, Tony H |
 | Thu, 30 Jul 2026 | Deck'd Out #7 with Mango & Ginger (LA), Sazon & DJs in a Dive Bar | La Mala Noche |
@@ -23,4 +22,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 10 upcoming ni
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

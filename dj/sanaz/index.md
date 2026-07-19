@@ -1,6 +1,6 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Left Bank, Tbilisi on Fri, 24 Jul 2026.
+Sanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Left Bank, Tbilisi on Fri, 24 Jul 2026.
 
 Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, London and Madrid and 2 more. Often billed alongside Immy, Jessica Nightlife and AAMIROO. Next up: Left Bank, Tbilisi on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Immy, Jessica Nightlife, AAMIROO
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

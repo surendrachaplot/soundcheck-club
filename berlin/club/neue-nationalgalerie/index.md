@@ -1,6 +1,6 @@
 # Neue Nationalgalerie
 
-Neue Nationalgalerie is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "CSD Warm-Up at Neue Nationalgalerie" on Sat, 25 Jul 2026.
+Neue Nationalgalerie is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "CSD Warm-Up at Neue Nationalgalerie" on Sat, 25 Jul 2026.
 
 Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Roi Perez and Sound Metaphors Djs. Browse upcoming dates, start times and who's playing. Potsdamer Straße 50, 10785 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Neue Nationalgalerie is a music venue in Berlin listed on soundcheck. 2 upcoming
 
 Potsdamer Straße 50, 10785 Berlin, Germany, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-nationalgalerie/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-nationalgalerie/)*

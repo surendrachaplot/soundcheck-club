@@ -1,14 +1,13 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Night Cult: Moderna, LATEX GIRL, Johanna Constantine" on Sat, 18 Jul 2026.
+House of Yes is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Club Cirque: Kenny Dope, DJ Spen, Kaper" on Fri, 24 Jul 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Atish, Benny Soto, Bridge (NY) and DJ Spen and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Atish, Benny Soto, Bridge (NY) and DJ Spen and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Night Cult: Moderna, LATEX GIRL, Johanna Constantine | LATEX GIRL, Moderna |
 | Fri, 24 Jul 2026 | Club Cirque: Kenny Dope, DJ Spen, Kaper | Benny Soto, DJ Spen, Kayper, Kenny Dope, Mx. Blaire, Zach Witness |
 | Fri, 31 Jul 2026 | Shore Thing: Spencer Brown | Spencer Brown |
 | Sat, 1 Aug 2026 | HYPERSPACE: Atish & friends | Atish |
@@ -18,9 +17,10 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 12 upcoming n
 | Sat, 22 Aug 2026 | Full Throttle: Township Rebellion | Township Rebellion |
 | Fri, 28 Aug 2026 | Slayyyland |  |
 | Sat, 29 Aug 2026 | ABC Party: Sponges & N2N | N2N (US) |
+| Fri, 4 Sept 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 
 ## Address
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

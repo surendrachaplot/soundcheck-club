@@ -1,6 +1,6 @@
 # JASSS
 
-JASSS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OHM, Berlin on Thu, 23 Jul 2026.
+JASSS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at OHM, Berlin on Thu, 23 Jul 2026.
 
 JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: OHM, Berlin on Thu 23 Jul.
 
@@ -31,4 +31,4 @@ JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 1
 
 CEM, MCMLXXXV, Dj Saliva
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*

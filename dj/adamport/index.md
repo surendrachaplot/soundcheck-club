@@ -1,6 +1,6 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Marina Sur, Valencia on Sun, 19 Jul 2026.
+Adam Port is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Marina Sur, Valencia on Sun, 19 Jul 2026.
 
 Adam Port is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside &ME, Rampa and Sossa. Next up: Marina Sur, Valencia on Sun 19 Jul.
 
@@ -30,4 +30,4 @@ Adam Port is a house and techno artist based in Germany, tracked on soundcheck, 
 
 &ME, Rampa, Sossa
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

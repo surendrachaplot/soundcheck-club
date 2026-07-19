@@ -1,6 +1,6 @@
 # TOSHIHISA HIRANO
 
-TOSHIHISA HIRANO is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Tokyo on Sun, 19 Jul 2026.
+TOSHIHISA HIRANO is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Tokyo on Sun, 19 Jul 2026.
 
 TOSHIHISA HIRANO is a techno and experimental artist tracked on soundcheck, with 48 sets logged across Tokyo. Often billed alongside Eda, Franzo Kolms and Oshi. Next up: TBA, Tokyo on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ TOSHIHISA HIRANO is a techno and experimental artist tracked on soundcheck, with
 
 Eda, Franzo Kolms, Oshi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toshihisahirano/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/toshihisahirano/)*

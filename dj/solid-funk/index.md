@@ -1,14 +1,13 @@
 # Solid-Funk
 
-Solid-Funk is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Collect LX Factory, Lisbon on Sat, 18 Jul 2026.
+Solid-Funk is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu, 30 Jul 2026.
 
-Solid-Funk is a techno and electronica artist tracked on soundcheck, with 55 sets logged across Berlin, Lisbon and Porto. Often billed alongside Mary B (2), Ze Salvador and Schlingen. Next up: Collect LX Factory, Lisbon on Sat 18 Jul.
+Solid-Funk is a techno and electronica artist tracked on soundcheck, with 55 sets logged across Berlin, Lisbon and Porto. Often billed alongside Mary B (2), Ze Salvador and Schlingen. Next up: TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Collect LX Factory | Lisbon |
 | Thu, 30 Jul 2026 | TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira | Lisbon |
 | Thu, 6 Aug 2026 | Lx Factory | Lisbon |
 | Thu, 10 Sept 2026 | Lx Factory | Lisbon |
@@ -16,6 +15,7 @@ Solid-Funk is a techno and electronica artist tracked on soundcheck, with 55 set
 
 ## Recently played
 
+- Collect LX Factory, Lisbon — Sat, 18 Jul 2026
 - Lx Factory, Lisbon — Thu, 16 Jul 2026
 - Lx Factory, Lisbon — Thu, 25 Jun 2026
 - Lx Factory, Lisbon — Thu, 21 May 2026
@@ -23,10 +23,9 @@ Solid-Funk is a techno and electronica artist tracked on soundcheck, with 55 set
 - Rūmu, Lisbon — Thu, 25 Dec 2025
 - Village Underground Lisboa, Lisbon — Thu, 2 Oct 2025
 - TBA - Anfiteatro Keil do Amaral, Lisbon — Fri, 27 Jun 2025
-- Carmo Rooftop, Lisbon — Thu, 12 Jun 2025
 
 ## Shares bills with
 
 Mary B (2), Ze Salvador, Schlingen
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-funk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/solid-funk/)*

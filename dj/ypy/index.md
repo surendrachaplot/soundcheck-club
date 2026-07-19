@@ -1,6 +1,6 @@
 # YPY
 
-YPY is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Club Daphnia, Osaka on Sat, 25 Jul 2026.
+YPY is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Club Daphnia, Osaka on Sat, 25 Jul 2026.
 
 YPY is an experimental and techno artist based in Japan, tracked on soundcheck, with 37 sets logged across Berlin, Dusseldorf, Kyoto and London and 3 more. Often billed alongside KA4U, Mark Fell and Rian Treanor. Next up: Club Daphnia, Osaka on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ YPY is an experimental and techno artist based in Japan, tracked on soundcheck, 
 
 KA4U, Mark Fell, Rian Treanor
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ypy/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ypy/)*

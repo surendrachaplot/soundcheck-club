@@ -1,8 +1,8 @@
 # Bombas Gens Centre d’Arts Digitals
 
-Bombas Gens Centre d’Arts Digitals is a music venue in Valencia with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Volumens at Bombas Gens (Day 1)" on Wed, 14 Oct 2026.
+Bombas Gens Centre d’Arts Digitals is a music venue in Valencia with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Volumens at Bombas Gens (Day 1)" on Wed, 14 Oct 2026.
 
-Bombas Gens Centre d’Arts Digitals is a music venue in Valencia listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Avenida de Burjassot, 54-56, 46009 València, Spain.
+Bombas Gens Centre d’Arts Digitals is a music venue in Valencia listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Avenida de Burjassot, 54-56, 46009 València, Spain.
 
 ## What's on
 
@@ -10,9 +10,11 @@ Bombas Gens Centre d’Arts Digitals is a music venue in Valencia listed on soun
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | Volumens at Bombas Gens (Day 1) |  |
 | Thu, 15 Oct 2026 | Volumens at Bombas Gens (Day 2) |  |
+| Fri, 16 Oct 2026 | Volumens at Bombas Gens (Day 3) |  |
+| Sat, 17 Oct 2026 | Volumens  at Bombas Gens (Day 4) |  |
 
 ## Address
 
 Avenida de Burjassot, 54-56, 46009 València, Spain, Valencia
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/bombas-gens-centre-d-arts-digitals/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/bombas-gens-centre-d-arts-digitals/)*

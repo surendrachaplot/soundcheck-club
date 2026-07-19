@@ -1,19 +1,19 @@
 # Marcus Visionary
 
-Marcus Visionary is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Coda, Toronto on Sat, 18 Jul 2026.
+Marcus Visionary is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Le Red Room, Montreal on Thu, 30 Jul 2026.
 
-Marcus Visionary is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Bristol, Leipzig, Losangeles and Montreal and 3 more. Often billed alongside Elixah, Rumbleton and SZETO. Next up: Coda, Toronto on Sat 18 Jul.
+Marcus Visionary is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Bristol, Leipzig, Losangeles and Montreal and 3 more. Often billed alongside Elixah, Rumbleton and SZETO. Next up: Le Red Room, Montreal on Thu 30 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Coda | Toronto |
 | Thu, 30 Jul 2026 | Le Red Room | Montreal |
 | Sat, 15 Aug 2026 | Bsmt 254 | Toronto |
 
 ## Recently played
 
+- Coda, Toronto — Sat, 18 Jul 2026
 - Acqua Supper Club, Toronto — Wed, 1 Jul 2026
 - Insomnia Lounge, Toronto — Thu, 28 May 2026
 - TBA - Toronto, Toronto — Sat, 25 Apr 2026
@@ -21,10 +21,9 @@ Marcus Visionary is a drum & bass and jungle artist tracked on soundcheck, with 
 - NØMAD, Toronto — Sat, 14 Feb 2026
 - Sound Machine, Toronto — Sat, 24 Jan 2026
 - The Smith House, Toronto — Fri, 26 Dec 2025
-- TBA - Toronto, Toronto — Wed, 17 Dec 2025
 
 ## Shares bills with
 
 Elixah, Rumbleton, SZETO
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusvisionary/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusvisionary/)*

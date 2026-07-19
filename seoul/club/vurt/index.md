@@ -1,14 +1,13 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "vurtnight Haruka" on Sat, 18 Jul 2026.
+vurt. is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "夜行性: nocturnal" on Fri, 24 Jul 2026.
 
-vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including ANSOL, Djilogue, GOBI and Haruka and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
+vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including ANSOL, Djilogue, GOBI and Inger and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | vurtnight Haruka | ANSOL, Haruka, SUZAN (2) |
 | Fri, 24 Jul 2026 | 夜行性: nocturnal | GOBI, Inger, SUNA |
 | Sat, 25 Jul 2026 | 17[seventeen] | ANSOL, SJK (1), SUZAN (2) |
 | Sun, 26 Jul 2026 | Ancient Moment (오래된 순간) Part 2 | Djilogue, Joyul, Siot |
@@ -19,4 +18,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with li
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

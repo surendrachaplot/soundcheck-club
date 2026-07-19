@@ -1,6 +1,6 @@
 # Above & Beyond
 
-Above & Beyond is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+Above & Beyond is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 Above & Beyond are a trance and progressive house duo based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Bali, Belfast and Berlin and 15 more. Often billed alongside Billy Gillies, Deadmau5 and Charlotte de Witte. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Above & Beyond are a trance and progressive house duo based in United Kingdom, t
 
 Billy Gillies, Deadmau5, Charlotte de Witte
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/above-beyond/)*

@@ -1,6 +1,6 @@
 # Brasserie Gallia
 
-Brasserie Gallia is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Cosmic Music Box: Martin Fusée + Céline B. aka Céline Technorama" on Fri, 24 Jul 2026.
+Brasserie Gallia is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Cosmic Music Box: Martin Fusée + Céline B. aka Céline Technorama" on Fri, 24 Jul 2026.
 
 Brasserie Gallia is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Céline Technorama and Martin Fusée. Browse upcoming dates, start times and who's playing. 35 Rue Méhul, 93500 Pantin, France.
 
@@ -14,4 +14,4 @@ Brasserie Gallia is a music venue in Paris listed on soundcheck. 1 upcoming nigh
 
 35 Rue Méhul, 93500 Pantin, France, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/brasserie-gallia/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/brasserie-gallia/)*

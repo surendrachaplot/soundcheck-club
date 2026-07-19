@@ -1,6 +1,6 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Xanadu, New York City on Sun, 19 Jul 2026.
+Joe Claussell is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Xanadu, New York City on Sun, 19 Jul 2026.
 
 Joe Claussell is a house and deep house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Xanadu, Newyorkcity on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 82 se
 
 Danny Krivit, Francois K, DJ Tennis
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

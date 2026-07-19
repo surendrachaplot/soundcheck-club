@@ -1,6 +1,6 @@
 # Von Riu
 
-Von Riu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
+Von Riu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kampnagel, Hamburg on Sat, 15 Aug 2026.
 
 Von Riu is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Basel, Berlin and Geneva and 11 more. Often billed alongside Maté, Amor Satyr and Jacky Jeane. Next up: Kampnagel, Hamburg on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Von Riu is a techno and trance artist tracked on soundcheck, with 67 sets logged
 
 Maté, Amor Satyr, Jacky Jeane
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vonriu/)*

@@ -1,14 +1,13 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "KETONIIEN - In einem Land nach unserer Zeit (Teil 7)" on Sat, 18 Jul 2026.
+Odonien is a music venue in Cologne with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "#MITTWOCHENENDE Day & Night Special" on Wed, 22 Jul 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 12 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming nights, with line-ups including Alarico, Angie (FR), Anja Schneider and Annemalie and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | KETONIIEN - In einem Land nach unserer Zeit (Teil 7) | Barnow, Tala Berg |
 | Wed, 22 Jul 2026 | #MITTWOCHENENDE Day & Night Special | MAURO, NIA (3), Paulina, Selunia, Shandy, Xenia, ZOMBIE1000 |
 | Fri, 24 Jul 2026 | Aura with FUMI, MARRØN | FORKLYFTER, MARRØN, Prossowski, Tschatsching, c00lm8, fumi (DE), mae.ly |
 | Fri, 31 Jul 2026 | Gewölbe | Annemalie, Elisen, HiHat, Lizzle, Ly Sas, Marcel Janovsky, Marco Hilbert (2), Mike Momburg, OLIVIA LENSEN, Shumi, pik (1) |
@@ -18,9 +17,10 @@ Odonien is a music venue in Cologne listed on soundcheck. 12 upcoming nights, wi
 | Sat, 22 Aug 2026 | VIBE TRIBE FEST | DJ Freegah |
 | Fri, 28 Aug 2026 | Moonbootica x Odonien | Moonbootica |
 | Sat, 29 Aug 2026 | Petrified Phoenix Showcase in Odonien | Avocado, Baerbel, Daniel Neuland, Danito, Dave Dinger, Justice, NUAH, Nic Lorenz, Pauli Pocket, Rallo, Susi&Paula, derderwandert, vivi, vom Feisten |
+| Fri, 4 Sept 2026 | Aura with ÜBERKIKZ & Alarico | Alarico, ÜBERKIKZ |
 
 ## Address
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

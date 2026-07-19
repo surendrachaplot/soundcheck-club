@@ -1,6 +1,6 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
+Julian Fijma is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at [UNVRS], Ibiza on Wed, 22 Jul 2026.
 
 Julian Fijma is a house and tech house artist tracked on soundcheck, with 106 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 28 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: [UNVRS], Ibiza on Wed 22 Jul.
 
@@ -36,4 +36,4 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 106 se
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

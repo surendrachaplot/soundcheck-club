@@ -1,6 +1,6 @@
 # Shen (2)
 
-Shen (2) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Paradise Grapevine Winery, Toronto on Sun, 19 Jul 2026.
+Shen (2) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Paradise Grapevine Winery, Toronto on Sun, 19 Jul 2026.
 
 Shen (2) is a deep house and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Cologne, London and Toronto. Often billed alongside SAWIFROMSPACE, Rami Nassif and Theysiii. Next up: Paradise Grapevine Winery, Toronto on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Shen (2) is a deep house and house artist tracked on soundcheck, with 47 sets lo
 
 SAWIFROMSPACE, Rami Nassif, Theysiii
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shen-2/)*

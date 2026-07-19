@@ -1,14 +1,13 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "resume - Admo / Melgar" on Sat, 18 Jul 2026.
+Resume Valencia is a music venue in Valencia with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "resume NIGHT - Blanch, IKAKO" on Fri, 24 Jul 2026.
 
-Resume Valencia is a music venue in Valencia listed on soundcheck. 5 upcoming nights, with line-ups including Admo, Blanch, Dirac and IKAKO and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
+Resume Valencia is a music venue in Valencia listed on soundcheck. 4 upcoming nights, with line-ups including Blanch, Dirac, IKAKO and Olean. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | resume - Admo / Melgar | Admo, Melgar |
 | Fri, 24 Jul 2026 | resume NIGHT - Blanch, IKAKO | Blanch, IKAKO |
 | Sat, 25 Jul 2026 | resume NIGHT - Dirac, DJ Grip | Dirac |
 | Fri, 31 Jul 2026 | resume NIGHT | IKAKO, Olean |
@@ -18,4 +17,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 5 upcoming ni
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

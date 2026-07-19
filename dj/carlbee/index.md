@@ -1,13 +1,14 @@
 # Carl Bee
 
-Carl Bee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
+Carl Bee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - NOMA ISLAND, Malta on Fri, 31 Jul 2026.
 
-Carl Bee is a techno and house artist based in Malta, tracked on soundcheck, with 52 sets logged across Amsterdam, Ibiza, Malta and Munich and 2 more. Often billed alongside Daniel Blade, Carl Lautier and Fresh Prince. Next up: UNO MALTA, Malta on Sat 8 Aug.
+Carl Bee is a techno and house artist based in Malta, tracked on soundcheck, with 53 sets logged across Amsterdam, Ibiza, Malta and Munich and 2 more. Often billed alongside Daniel Blade, Carl Lautier and Fresh Prince. Next up: TBA - NOMA ISLAND, Malta on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 31 Jul 2026 | TBA - NOMA ISLAND | Malta |
 | Sat, 8 Aug 2026 | UNO MALTA | Malta |
 | Thu, 20 Aug 2026 | Hï Ibiza | Ibiza |
 
@@ -26,4 +27,4 @@ Carl Bee is a techno and house artist based in Malta, tracked on soundcheck, wit
 
 Daniel Blade, Carl Lautier, Fresh Prince
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlbee/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/carlbee/)*

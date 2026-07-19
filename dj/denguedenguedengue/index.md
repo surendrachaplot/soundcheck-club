@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Dengue Dengue Dengue is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Dengue Dengue Dengue is a techno and electronica artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Basy Tropikalne, Phran and Dj Babatr. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Dengue Dengue Dengue is a techno and electronica artist based in Germany, tracke
 
 Basy Tropikalne, Phran, Dj Babatr
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

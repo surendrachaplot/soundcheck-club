@@ -1,6 +1,6 @@
 # Sala Urbana
 
-Sala Urbana is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Angerfist + KLOFAMA en MÉXICO" on Fri, 9 Oct 2026.
+Sala Urbana is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Angerfist + KLOFAMA en MÉXICO" on Fri, 9 Oct 2026.
 
 Sala Urbana is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Angerfist and KLOFAMA. Browse upcoming dates, start times and who's playing. Blvd. Toluca 115, El Conde, 53500 Naucalpan de Juárez, Méx..
 
@@ -14,4 +14,4 @@ Sala Urbana is a music venue in Mexicocity listed on soundcheck. 1 upcoming nigh
 
 Blvd. Toluca 115, El Conde, 53500 Naucalpan de Juárez, Méx., Mexico City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/sala-urbana/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/sala-urbana/)*

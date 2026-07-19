@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
+livwutang is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Else, Berlin on Fri, 24 Jul 2026.
 
 livwutang is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 39 more. Often billed alongside Kia (AU), Nick León and Mia Koden. Next up: Else, Berlin on Fri 24 Jul.
 
@@ -34,4 +34,4 @@ livwutang is a techno and house artist tracked on soundcheck, with 179 sets logg
 
 Kia (AU), Nick León, Mia Koden
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

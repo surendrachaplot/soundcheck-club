@@ -1,14 +1,13 @@
 # The Lion and Lamb
 
-The Lion and Lamb is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Lion & Lamb with Sugar Free + Residents" on Sat, 18 Jul 2026.
+The Lion and Lamb is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Lion & Lamb and Friends with Matteo Manzini (All Night Long)" on Thu, 23 Jul 2026.
 
-The Lion and Lamb is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Georgia Girl, Matteo Manzini, Oliver Moon and Sugar Free. Browse upcoming dates, start times and who's playing. 46 Fanshaw Street, N1 6LG, London.
+The Lion and Lamb is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Georgia Girl, Matteo Manzini and Oliver Moon. Browse upcoming dates, start times and who's playing. 46 Fanshaw Street, N1 6LG, London.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Lion & Lamb with Sugar Free + Residents | Sugar Free |
 | Thu, 23 Jul 2026 | Lion & Lamb and Friends with Matteo Manzini (All Night Long) | Matteo Manzini |
 | Sat, 25 Jul 2026 | Lion & Lamb with Georgia + Residents | Georgia Girl |
 | Thu, 30 Jul 2026 | Lion & Lamb and Friends with Oliver Moon (All Night Long) | Oliver Moon |
@@ -17,4 +16,4 @@ The Lion and Lamb is a music venue in London listed on soundcheck. 4 upcoming ni
 
 46 Fanshaw Street, N1 6LG, London, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lion-and-lamb/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lion-and-lamb/)*

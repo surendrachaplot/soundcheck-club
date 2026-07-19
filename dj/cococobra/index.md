@@ -1,6 +1,6 @@
 # Coco Cobra
 
-Coco Cobra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
+Coco Cobra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Südpol, Hamburg on Sat, 1 Aug 2026.
 
 Coco Cobra is a techno and house artist tracked on soundcheck, with 68 sets logged across Antwerp, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside Hanna Baertig, Sedaction and DJ Spit. Next up: Südpol, Hamburg on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Coco Cobra is a techno and house artist tracked on soundcheck, with 68 sets logg
 
 Hanna Baertig, Sedaction, DJ Spit
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cococobra/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cococobra/)*

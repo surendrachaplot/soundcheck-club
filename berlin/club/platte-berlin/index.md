@@ -1,6 +1,6 @@
 # Platte.Berlin
 
-Platte.Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "PLATTE FEIERABEND (PRIDE EDITION)" on Thu, 23 Jul 2026.
+Platte.Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "PLATTE FEIERABEND (PRIDE EDITION)" on Thu, 23 Jul 2026.
 
 Platte.Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Memhardstraße 8 10178 Berlin.
 
@@ -14,4 +14,4 @@ Platte.Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night.
 
 Memhardstraße 8 10178 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/platte-berlin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/platte-berlin/)*

@@ -1,6 +1,6 @@
 # African Caribbean Centre Liverpool
 
-African Caribbean Centre Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "So Me Like it 2026" on Sat, 25 Jul 2026.
+African Caribbean Centre Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "So Me Like it 2026" on Sat, 25 Jul 2026.
 
 African Caribbean Centre Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Amberley Street, Liverpool L8 1YJ.
 
@@ -14,4 +14,4 @@ African Caribbean Centre Liverpool is a music venue in Liverpool listed on sound
 
 1 Amberley Street, Liverpool L8 1YJ, Liverpool
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/african-caribbean-centre-liverpool/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/african-caribbean-centre-liverpool/)*

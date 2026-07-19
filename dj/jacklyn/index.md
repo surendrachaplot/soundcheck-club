@@ -1,6 +1,6 @@
 # Jacklyn
 
-Jacklyn is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
+Jacklyn is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at radial, London on Fri, 31 Jul 2026.
 
 Jacklyn is a techno and trance artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Boo, 1000raks and Blasha & Allatt. Next up: radial, London on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ Jacklyn is a techno and trance artist tracked on soundcheck, with 45 sets logged
 
 Boo, 1000raks, Blasha & Allatt
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*

@@ -1,14 +1,13 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 25 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Double Vision: Fresh Wax! ; Tech Collaborations : djmoca & Kanabis Stoned(6 hours Vinyl Set)" on Sat, 18 Jul 2026.
+Culture Cafe is a music venue in Bangkok with 24 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 19 Jul 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 25 upcoming nights, with line-ups including Adam Dado, Damon Rider, DJ Krit Morton and djmoca and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 24 upcoming nights, with line-ups including Adam Dado, Damon Rider, DJ Krit Morton and djmoca and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Double Vision: Fresh Wax! ; Tech Collaborations : djmoca & Kanabis Stoned(6 hours Vinyl Set) | Kanabis Stoned, djmoca |
 | Sun, 19 Jul 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 20 Jul 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 21 Jul 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM feat Adam Dado | Adam Dado, MOODYBOOM |
@@ -18,9 +17,10 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 25 upcoming night
 | Sat, 25 Jul 2026 | Groove Thailand presents'In Bed with The Vinyl Casanova' ; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
 | Sun, 26 Jul 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 27 Jul 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
+| Tue, 28 Jul 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
 
 ## Address
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

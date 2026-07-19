@@ -1,6 +1,6 @@
 # Shimrise
 
-Shimrise is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at renae, Manchester on Fri, 7 Aug 2026.
+Shimrise is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at renae, Manchester on Fri, 7 Aug 2026.
 
 Shimrise is a house and garage artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across London and Manchester. Often billed alongside Rich Reason, Chunky and Obeka. Next up: renae, Manchester on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Shimrise is a house and garage artist based in United Kingdom, tracked on soundc
 
 Rich Reason, Chunky, Obeka
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shimrise/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shimrise/)*

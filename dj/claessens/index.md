@@ -1,6 +1,6 @@
 # CLAESSENS
 
-CLAESSENS is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Insomnia, Berlin on Sat, 15 Aug 2026.
+CLAESSENS is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Insomnia, Berlin on Sat, 15 Aug 2026.
 
 CLAESSENS is a techno and trance artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Frankfurt and Rotterdam and 3 more. Often billed alongside RUL3, Rini Berlini and A.D.H.S.. Next up: Insomnia, Berlin on Sat 15 Aug.
 
@@ -27,4 +27,4 @@ CLAESSENS is a techno and trance artist based in Netherlands, tracked on soundch
 
 RUL3, Rini Berlini, A.D.H.S.
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*

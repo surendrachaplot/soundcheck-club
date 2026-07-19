@@ -1,14 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Sacré présente: Jafunk & Perle Ropers" on Sat, 18 Jul 2026.
+Sacré is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Sacré présente: Wondersun Festival Take Over" on Fri, 24 Jul 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Ams (FR), Autograf, Black Rave Culture and Camporeale (FR) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Ams (FR), Autograf, Black Rave Culture and Camporeale (FR) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Sacré présente: Jafunk & Perle Ropers | Jafunk, Perle Ropers |
 | Fri, 24 Jul 2026 | Sacré présente: Wondersun Festival Take Over | Da Fresh, Ferrari |
 | Sat, 25 Jul 2026 | Sacré présente: Basse Culture Festival Take Over | Ams (FR), Psycho Weazel (3) |
 | Fri, 31 Jul 2026 | Sacré présente: TWOFACED (Curated by Lumia) | Oskar (3) |
@@ -18,9 +17,10 @@ Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with 
 | Fri, 28 Aug 2026 | Sacré présente: Schak & Camporeale | Camporeale (FR), Schak |
 | Sat, 29 Aug 2026 | Sacré présente: Autograf & Orisha | Autograf |
 | Sat, 29 Aug 2026 | JOY (Anonymous) presents - Light In The Dark - LIVE |  |
+| Sat, 12 Sept 2026 | Sacré présente: The Disco Express | Crystal Touch, Magnolia, Monsieur Van Pratt |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

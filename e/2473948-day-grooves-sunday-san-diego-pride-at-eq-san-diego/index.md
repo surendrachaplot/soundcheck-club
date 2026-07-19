@@ -1,6 +1,6 @@
 # DAY GROOVES: Sunday San Diego Pride at EQ San Diego
 
-DAY GROOVES: Sunday San Diego Pride at EQ San Diego on Sun 19 Jul, Sandiego. 2 acts on the bill: Michelle Be Real and Paul Najera. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+DAY GROOVES: Sunday San Diego Pride at EQ San Diego on Sun 19 Jul, Sandiego. 3 acts on the bill: Mangú, Michelle Be Real and Paul Najera. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DAY GROOVES: Sunday San Diego Pride at EQ San Diego on Sun 19 Jul, Sandiego. 2 a
 
 ## Line-up
 
+- Mangú
 - Michelle Be Real
 - Paul Najera
 

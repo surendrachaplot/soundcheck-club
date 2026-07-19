@@ -1,6 +1,6 @@
 # AOI BLOOM
 
-AOI BLOOM is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Débris, Tokyo on Sun, 19 Jul 2026.
+AOI BLOOM is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Débris, Tokyo on Sun, 19 Jul 2026.
 
 AOI BLOOM is a house and electronica artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Naoki Iwata, Tatsuo Kitagawa and Issyo. Next up: Débris, Tokyo on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ AOI BLOOM is a house and electronica artist based in Japan, tracked on soundchec
 
 Naoki Iwata, Tatsuo Kitagawa, Issyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aoibloom/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aoibloom/)*

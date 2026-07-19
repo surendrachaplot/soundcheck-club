@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Superordinary, Brisbane on Fri, 24 Jul 2026.
+Danny Tenaglia is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Superordinary, Brisbane on Fri, 24 Jul 2026.
 
 Danny Tenaglia is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 24 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Superordinary, Brisbane on Fri 24 Jul.
 
@@ -31,4 +31,4 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 104 sets
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

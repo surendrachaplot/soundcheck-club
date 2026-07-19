@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "TEED: DJ-Kicks Tour with Ariel Zetina - Juan Izguerra" on Sat, 18 Jul 2026.
+smartbar is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Queen! feat. Derrick Carter - Jimpster - Michael Serafini" on Sun, 19 Jul 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Ariel Zetina, Blu9, CCTV and Chris Cruse and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including Ariel Zetina, Blu9, CCTV and Chris Cruse and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TEED: DJ-Kicks Tour with Ariel Zetina - Juan Izguerra | Ariel Zetina, Juan Izguerra, TEED |
 | Sun, 19 Jul 2026 | Queen! feat. Derrick Carter - Jimpster - Michael Serafini | Derrick Carter, Jimpster, Michael Serafini |
 | Fri, 24 Jul 2026 | Late Checkout feat. Tromac - Jana Rush - Final First - DJ Gaybash - YNH | Final First, Jana Rush, Tromac |
 | Sat, 25 Jul 2026 | Apart presents Robert Armani - K'Alexi Shelby - Blu 9 - Fortune | Blu9, Robert Armani |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, w
 | Sun, 2 Aug 2026 | Queen! feat. Derrick Carter - Tammy Lakkis - Michael Serafini | Derrick Carter, Michael Serafini, Tammy Lakkis |
 | Fri, 7 Aug 2026 | Chris Cruse - Harry Cross - Mister Hoochiemama | Chris Cruse, Harry Cross, Mister Hoochiemama |
 | Sat, 8 Aug 2026 | LADYBEAR feat. Kevin Aviance - Shaun J Wright - Rika B | Kevin Aviance, Shaun J. Wright |
+| Sun, 9 Aug 2026 | All-Building Market Daze Queen | Derrick Carter, Lorelei, MR.WHITE, Michael Serafini, Shaun J. Wright |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

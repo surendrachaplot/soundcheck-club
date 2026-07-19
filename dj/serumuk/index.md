@@ -1,6 +1,6 @@
 # Serum (UK)
 
-Serum (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - The Meadow at Cel7wet Festival Grounds  5653 Celewt Road, Pritchard, Vancouver on Thu, 6 Aug 2026.
+Serum (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - The Meadow at Cel7wet Festival Grounds  5653 Celewt Road, Pritchard, Vancouver on Thu, 6 Aug 2026.
 
 Serum (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Voltage, Turno and BassLayerz. Next up: TBA - The Meadow at Cel7wet Festival Grounds  5653 Celewt Road, Pritchard, Vancouver on Thu 6 Aug.
 
@@ -26,4 +26,4 @@ Serum (UK) is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Voltage, Turno, BassLayerz
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serumuk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/serumuk/)*

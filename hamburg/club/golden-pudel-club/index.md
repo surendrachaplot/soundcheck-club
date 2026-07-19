@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Aura w/Dypere" on Sun, 19 Jul 2026.
+Golden Pudel Club is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Aura w/Dypere" on Sun, 19 Jul 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including AGILY, DJ Babyblade, eshot (DE) and Laetizia and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -19,4 +19,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming n
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

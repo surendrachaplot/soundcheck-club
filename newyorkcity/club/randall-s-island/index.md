@@ -1,6 +1,6 @@
 # Randall's Island
 
-Randall's Island is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Experts Only Festival" on Sat, 19 Sept 2026.
+Randall's Island is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Experts Only Festival" on Sat, 19 Sept 2026.
 
 Randall's Island is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Airrica, Jackie Hollander, John Summit and Korolova and 2 more. Browse upcoming dates, start times and who's playing. Randall’s Island; New York, NY 10035; United States.
 
@@ -14,4 +14,4 @@ Randall's Island is a music venue in Newyorkcity listed on soundcheck. 1 upcomin
 
 Randall’s Island; New York, NY 10035; United States, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/randall-s-island/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/randall-s-island/)*

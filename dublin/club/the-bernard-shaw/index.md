@@ -1,6 +1,6 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Different Rhythm" on Sun, 19 Jul 2026.
+The Bernard Shaw is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Different Rhythm" on Sun, 19 Jul 2026.
 
 The Bernard Shaw is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Accomplice, eskay, L.ivory and Laughing Man and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
@@ -16,4 +16,4 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 3 upcoming nig
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

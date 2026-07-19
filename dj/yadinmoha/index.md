@@ -1,6 +1,6 @@
 # Yadin Moha
 
-Yadin Moha is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Mitsuki, Tokyo on Thu, 23 Jul 2026.
+Yadin Moha is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mitsuki, Tokyo on Thu, 23 Jul 2026.
 
 Yadin Moha is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Bangkok, Hamburg and Hongkong and 4 more. Often billed alongside Nanogram, Dan-neo and Guido Balboa. Next up: Mitsuki, Tokyo on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Yadin Moha is a techno and house artist tracked on soundcheck, with 38 sets logg
 
 Nanogram, Dan-neo, Guido Balboa
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*

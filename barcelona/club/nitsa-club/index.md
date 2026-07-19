@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mathame All Night Long / Chippy Nonstop · Mina Galán · Solsi" on Fri, 24 Jul 2026.
+Nitsa Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Mathame All Night Long / Chippy Nonstop · Mina Galán · Solsi" on Fri, 24 Jul 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Astin, Bob Moses, CANDADISMO and Carla Valenti and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -20,4 +20,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

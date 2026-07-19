@@ -1,6 +1,6 @@
 # SATYS FYRE
 
-SATYS FYRE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
+SATYS FYRE is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Westhafen, Leipzig on Sat, 25 Jul 2026.
 
 SATYS FYRE is a techno and trance artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside XIMA, YOVA and Carotin. Next up: Westhafen, Leipzig on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ SATYS FYRE is a techno and trance artist based in Germany, tracked on soundcheck
 
 XIMA, YOVA, Carotin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*

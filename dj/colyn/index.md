@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
+Colyn is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sloterpark, Amsterdam on Sat, 8 Aug 2026.
 
-Colyn is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Innellea, Adriatique and CamelPhat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
+Colyn is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Sloterpark, Amsterdam on Sat 8 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Colyn is a techno and house artist tracked on soundcheck, with 152 sets logged a
 
 ## Recently played
 
+- Brooklyn Storehouse, New York City — Sat, 18 Jul 2026
 - BERHTA, Washington DC — Fri, 17 Jul 2026
 - [UNVRS], Ibiza — Tue, 14 Jul 2026
 - [UNVRS], Ibiza — Mon, 13 Jul 2026
@@ -23,10 +24,9 @@ Colyn is a techno and house artist tracked on soundcheck, with 152 sets logged a
 - Poble Espanyol, Barcelona — Fri, 19 Jun 2026
 - Hï Ibiza, Ibiza — Wed, 17 Jun 2026
 - Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
-- Joule, Osaka — Fri, 29 May 2026
 
 ## Shares bills with
 
-Innellea, Adriatique, CamelPhat
+Adriatique, Innellea, CamelPhat
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

@@ -1,6 +1,6 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Motzstrassenfest at Nollendorfplatz, Berlin on Sun, 19 Jul 2026.
+LIZZN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Motzstrassenfest at Nollendorfplatz, Berlin on Sun, 19 Jul 2026.
 
 LIZZN is a house and techno artist tracked on soundcheck, with 76 sets logged across Berlin, Brussels, Cologne and Copenhagen and 5 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: Motzstrassenfest at Nollendorfplatz, Berlin on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ LIZZN is a house and techno artist tracked on soundcheck, with 76 sets logged ac
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

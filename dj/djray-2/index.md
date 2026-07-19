@@ -1,6 +1,6 @@
 # DJ Ray (2)
 
-DJ Ray (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Mad Radio Miami, Miami on Sat, 25 Jul 2026.
+DJ Ray (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Mad Radio Miami, Miami on Sat, 25 Jul 2026.
 
 DJ Ray (2) is a house and disco artist based in United States of America, tracked on soundcheck, with 55 sets logged across Chicago, Copenhagen, London and Miami and 2 more. Often billed alongside Bort, Carozilla and Souls Departed. Next up: Mad Radio Miami, Miami on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ DJ Ray (2) is a house and disco artist based in United States of America, tracke
 
 Bort, Carozilla, Souls Departed
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djray-2/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/djray-2/)*

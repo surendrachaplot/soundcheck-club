@@ -1,6 +1,6 @@
 # Guthrie
 
-Guthrie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sans Soleil, Montreal on Sun, 19 Jul 2026.
+Guthrie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sans Soleil, Montreal on Sun, 19 Jul 2026.
 
 Guthrie is a house and disco artist tracked on soundcheck, with 148 sets logged across Detroit, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Alina (MTL), Ferias and Kris Guilty. Next up: Sans Soleil, Montreal on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Guthrie is a house and disco artist tracked on soundcheck, with 148 sets logged 
 
 Alina (MTL), Ferias, Kris Guilty
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*

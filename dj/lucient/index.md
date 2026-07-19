@@ -1,6 +1,6 @@
 # Lucient
 
-Lucient is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at LAUT, Barcelona on Sat, 25 Jul 2026.
+Lucient is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at LAUT, Barcelona on Sat, 25 Jul 2026.
 
 Lucient is a techno and electronica artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Baldman, Nahoomie and Ylia. Next up: LAUT, Barcelona on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Lucient is a techno and electronica artist tracked on soundcheck, with 57 sets l
 
 Baldman, Nahoomie, Ylia
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucient/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lucient/)*

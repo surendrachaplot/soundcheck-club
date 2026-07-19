@@ -1,6 +1,6 @@
 # Miscmeg
 
-Miscmeg is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fitzroy, Berlin on Fri, 24 Jul 2026.
+Miscmeg is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fitzroy, Berlin on Fri, 24 Jul 2026.
 
 Miscmeg is a tech house and techno artist tracked on soundcheck, with 64 sets logged across Berlin, Melbourne and Newyorkcity. Often billed alongside Paper-Cuts, Reptant and Moopie. Next up: Fitzroy, Berlin on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Miscmeg is a tech house and techno artist tracked on soundcheck, with 64 sets lo
 
 Paper-Cuts, Reptant, Moopie
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/miscmeg/)*

@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Galop Galop" on Sat, 25 Jul 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Galop Galop" on Sat, 25 Jul 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including AREA ØNE, DURDENHAUER, Panteros666 and Paul Meier and 1 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -15,4 +15,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 2 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

@@ -1,6 +1,6 @@
 # Hausmania
 
-Hausmania is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Flux Festival 2026" on Thu, 13 Aug 2026.
+Hausmania is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Flux Festival 2026" on Thu, 13 Aug 2026.
 
 Hausmania is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Abo Abo, Anémi, Autogenesis and Brix and 2 more. Browse upcoming dates, start times and who's playing. Hausmannsgate 34; 0182 Oslo; Norway.
 
@@ -14,4 +14,4 @@ Hausmania is a music venue in Oslo listed on soundcheck. 1 upcoming night, with 
 
 Hausmannsgate 34; 0182 Oslo; Norway, Oslo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/hausmania/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/hausmania/)*

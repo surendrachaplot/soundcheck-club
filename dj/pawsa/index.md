@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Scorpios, Mykonos on Sun, 19 Jul 2026.
+PAWSA is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Scorpios, Mykonos on Sun, 19 Jul 2026.
 
 PAWSA is a house and tech house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Barcelona and 40 more. Often billed alongside Dennis Cruz, ANOTR and Chris Stussy. Next up: Scorpios, Mykonos on Sun 19 Jul.
 
@@ -31,4 +31,4 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 139 sets logg
 
 Dennis Cruz, ANOTR, Chris Stussy
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

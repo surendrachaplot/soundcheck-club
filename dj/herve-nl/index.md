@@ -1,6 +1,6 @@
 # Hervé
 
-Hervé is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
+Hervé is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
 Hervé is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Noord Loop, Oberman and Eris Drew. Next up: Milandia, Zurich on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Hervé is a techno and experimental artist based in Netherlands, tracked on soun
 
 Noord Loop, Oberman, Eris Drew
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*

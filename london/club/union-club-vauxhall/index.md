@@ -1,6 +1,6 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Orbit Sunday night / Monday morning after party" on Sun, 19 Jul 2026.
+Union Club, Vauxhall is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Orbit Sunday night / Monday morning after party" on Sun, 19 Jul 2026.
 
 Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 8108STN, Dhez, Duwat? and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
@@ -23,4 +23,4 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 11 upcomin
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

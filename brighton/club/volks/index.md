@@ -1,14 +1,13 @@
 # Volks
 
-Volks is a music venue in Brighton with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "On The Beach Official After Party: Stanton Warriors & Calyx" on Sat, 18 Jul 2026.
+Volks is a music venue in Brighton with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "On The Beach Official After Party: Fatboy Slim Closing Party" on Sun, 19 Jul 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 10 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Benny Page and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 9 upcoming nights, with line-ups including arawzi, Atoxyl, AUDIO DUNE and Benny Page and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | On The Beach Official After Party: Stanton Warriors & Calyx | Calyx, Deefa, Flakes, Stanton Warriors, nima (2) |
 | Sun, 19 Jul 2026 | On The Beach Official After Party: Fatboy Slim Closing Party | Flakes, Mini da Minx |
 | Thu, 23 Jul 2026 | On The Beach Official After Party: Beatles Dub Club & Flakes | Flakes |
 | Fri, 24 Jul 2026 | On The Beach Official After Party: Ska Train Soundsystem Takeover & Liquid Lunch |  |
@@ -23,4 +22,4 @@ Volks is a music venue in Brighton listed on soundcheck. 10 upcoming nights, wit
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

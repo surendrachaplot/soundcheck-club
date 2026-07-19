@@ -1,14 +1,15 @@
 # Rhiavas
 
-Rhiavas is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Fulham Pier, London on Sat, 25 Jul 2026.
+Rhiavas is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fulham Pier, London on Sat, 25 Jul 2026.
 
-Rhiavas is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside DRIA, FLORA THA EXPLORA and Duo. Next up: Fulham Pier, London on Sat 25 Jul.
+Rhiavas is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside FLORA THA EXPLORA, DRIA and Duo. Next up: Fulham Pier, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Fulham Pier | London |
+| Fri, 31 Jul 2026 | Club Cheek | London |
 | Fri, 7 Aug 2026 | The Jazz Cafe | London |
 | Fri, 7 Aug 2026 | The Jazz Cafe | London |
 | Sat, 12 Sept 2026 | Vittoria Wharf Studio | London |
@@ -23,6 +24,6 @@ Rhiavas is an afro house and house artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-DRIA, FLORA THA EXPLORA, Duo
+FLORA THA EXPLORA, DRIA, Duo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

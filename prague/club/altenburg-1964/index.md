@@ -1,14 +1,13 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "POSEIDON: Paralich, TRANSmisia, PAY2PLAY, Big Lil & XENEA LUMRA" on Sat, 18 Jul 2026.
+Altenburg 1964 is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "VEIL AMOR × EDEN Promo Shoot / Open Event: Become Part of the Film" on Sun, 19 Jul 2026.
 
-Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including 2NDRA, Adamatron, Ansea and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
+Altenburg 1964 is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including 2NDRA, Adamatron, Ansea and Arton (CZ) and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | POSEIDON: Paralich, TRANSmisia, PAY2PLAY, Big Lil & XENEA LUMRA | Big Lil, PAY2PLAY, Paralich, SJ Yellow, TRANSmisia, XENEA LUMRA, tmk (CZ) |
 | Sun, 19 Jul 2026 | VEIL AMOR × EDEN Promo Shoot / Open Event: Become Part of the Film | Diva, S.N.R.I. |
 | Thu, 23 Jul 2026 | SUN > ATG < SET: Axis Alpha & Cawum | Axis Alpha |
 | Sat, 25 Jul 2026 | Face2Funk | Blen (3), Opi (CZ), Whitetrip, tg_paul |
@@ -23,4 +22,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 10 upcoming nigh
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

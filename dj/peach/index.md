@@ -1,14 +1,13 @@
 # Peach
 
-Peach is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Copenhagen on Sat, 18 Jul 2026.
+Peach is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boston Manor Park, London on Sat, 25 Jul 2026.
 
-Peach is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: TBA, Copenhagen on Sat 18 Jul.
+Peach is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 51 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Boston Manor Park, London on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA | Copenhagen |
 | Sat, 25 Jul 2026 | Boston Manor Park | London |
 | Sat, 25 Jul 2026 | fabric | London |
 | Tue, 28 Jul 2026 | 528 Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Peach is a house and techno artist tracked on soundcheck, with 200 sets logged a
 
 ## Recently played
 
+- TBA, Copenhagen — Sat, 18 Jul 2026
 - Parque da Pasteleira, Porto — Fri, 3 Jul 2026
 - Pikes Ibiza, Ibiza — Sun, 28 Jun 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -27,10 +27,9 @@ Peach is a house and techno artist tracked on soundcheck, with 200 sets logged a
 - 528 Ibiza, Ibiza — Tue, 16 Jun 2026
 - Illegaal, Brussels — Sun, 31 May 2026
 - The DBA, Manchester — Sat, 30 May 2026
-- The White Hotel, Manchester — Fri, 29 May 2026
 
 ## Shares bills with
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

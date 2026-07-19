@@ -1,6 +1,6 @@
 # VLUNA
 
-VLUNA is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at elipamanoke, Leipzig on Wed, 22 Jul 2026.
+VLUNA is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at elipamanoke, Leipzig on Wed, 22 Jul 2026.
 
 VLUNA is a trance and techno artist tracked on soundcheck, with 54 sets logged across Berlin and Leipzig. Often billed alongside Raphus, CAVVØ and Scrappy Coco. Next up: elipamanoke, Leipzig on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ VLUNA is a trance and techno artist tracked on soundcheck, with 54 sets logged a
 
 Raphus, CAVVØ, Scrappy Coco
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vluna/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vluna/)*

@@ -1,6 +1,6 @@
 # Pōnky
 
-Pōnky is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Giri, Berlin on Thu, 30 Jul 2026.
+Pōnky is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Giri, Berlin on Thu, 30 Jul 2026.
 
 Pōnky is a techno and house artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Leipzig and Lyon and 6 more. Often billed alongside FENIM0RE, MADMAN (2) and BAUGRUPPE90. Next up: Giri, Berlin on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ Pōnky is a techno and house artist based in France, tracked on soundcheck, with
 
 FENIM0RE, MADMAN (2), BAUGRUPPE90
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*

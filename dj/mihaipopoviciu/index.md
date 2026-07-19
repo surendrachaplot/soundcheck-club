@@ -1,6 +1,6 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at StereoBar, Montreal on Fri, 24 Jul 2026.
+Mihai Popoviciu is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at StereoBar, Montreal on Fri, 24 Jul 2026.
 
 Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 28 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: StereoBar, Montreal on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 66 
 
 Andrey Pushkarev, Lola Palmer, Janeret
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

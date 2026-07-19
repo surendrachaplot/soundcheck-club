@@ -1,6 +1,6 @@
 # Nitefreak
 
-Nitefreak is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Spin, San Diego on Fri, 21 Aug 2026.
+Nitefreak is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Spin, San Diego on Fri, 21 Aug 2026.
 
 Nitefreak is an afro house and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Austin and Bali and 20 more. Often billed alongside Francis Mercier, MoBlack and Tiffy Vera. Next up: Spin, Sandiego on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Nitefreak is an afro house and house artist tracked on soundcheck, with 56 sets 
 
 Francis Mercier, MoBlack, Tiffy Vera
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefreak/)*

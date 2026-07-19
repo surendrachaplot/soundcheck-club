@@ -1,6 +1,6 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "GRUNT- DORE- Tixxx available at the door" on Sat, 25 Jul 2026.
+The Stud is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "GRUNT- DORE- Tixxx available at the door" on Sat, 25 Jul 2026.
 
 The Stud is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including ANDYLAND, arktoi, Booty Juice and Del (4) and 2 more. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
@@ -21,4 +21,4 @@ The Stud is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming night
 
 1123 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*

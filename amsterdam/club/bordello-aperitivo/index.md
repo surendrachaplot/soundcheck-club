@@ -1,6 +1,6 @@
 # Bordello Aperitivo
 
-Bordello Aperitivo is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Ouragan takeover" on Fri, 7 Aug 2026.
+Bordello Aperitivo is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ouragan takeover" on Fri, 7 Aug 2026.
 
 Bordello Aperitivo is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Frissonn, Giovane Filippo, tanggero and The Silentist. Browse upcoming dates, start times and who's playing. Zeedijk 41, 1012 AR, Amsterdam, The Netherlands.
 
@@ -14,4 +14,4 @@ Bordello Aperitivo is a music venue in Amsterdam listed on soundcheck. 1 upcomin
 
 Zeedijk 41, 1012 AR, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bordello-aperitivo/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bordello-aperitivo/)*

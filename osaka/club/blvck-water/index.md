@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "RINN-NE 輪廻 Last Dance in Osaka" on Sat, 18 Jul 2026.
+Blvck Water is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "'sutura' TECHNO ADDICT at Night Club Blvck Water" on Tue, 21 Jul 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | RINN-NE 輪廻 Last Dance in Osaka | FENGX2, Goodrug, KCD(JP), Rikuto |
 | Tue, 21 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP) |
 | Wed, 22 Jul 2026 | RHYTHM SHIFT Vol.9 // SPECIAL GUEST EDITION | Goodrug, WOLT |
 | Tue, 28 Jul 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with WOLT & OC | WOLT, ZAGUN, amor (JP) |
@@ -20,4 +19,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming nights, w
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

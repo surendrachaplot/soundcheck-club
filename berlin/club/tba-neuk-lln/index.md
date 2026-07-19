@@ -1,6 +1,6 @@
 # TBA - Neukölln
 
-TBA - Neukölln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "SUBSTRATE 04" on Fri, 14 Aug 2026.
+TBA - Neukölln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "SUBSTRATE 04" on Fri, 14 Aug 2026.
 
 TBA - Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Calcium Channel, Dress and IZZYA. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Fri, 14 Aug 2026 | SUBSTRATE 04 | Calcium Channel, Dress, IZZYA |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln/)*

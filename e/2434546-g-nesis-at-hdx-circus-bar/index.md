@@ -1,6 +1,6 @@
-# Génesis at HDX Circus Bar
+# GÉNESIS at HDX Circus Bar
 
-Génesis at HDX Circus Bar on Sat 29 Aug, Mexicocity. 1 act on the bill: YisusOnAcid. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+GÉNESIS at HDX Circus Bar on Sat 29 Aug, Mexicocity. 1 act on the bill: YisusOnAcid. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

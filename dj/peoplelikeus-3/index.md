@@ -1,6 +1,6 @@
 # People Like Us (3)
 
-People Like Us (3) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 29 Jul 2026.
+People Like Us (3) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Chinois Ibiza, Ibiza on Wed, 29 Jul 2026.
 
 People Like Us (3) is a house and afro house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Dusseldorf, Ibiza and Istanbul and 2 more. Often billed alongside Mahmut Orhan, 1TWO and AJNA. Next up: Chinois Ibiza, Ibiza on Wed 29 Jul.
 
@@ -27,4 +27,4 @@ People Like Us (3) is a house and afro house artist tracked on soundcheck, with 
 
 Mahmut Orhan, 1TWO, AJNA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*

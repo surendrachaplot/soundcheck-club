@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Signal, New York City on Fri, 31 Jul 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Signal, New York City on Fri, 31 Jul 2026.
 
 WTCHCRFT is a techno and club artist tracked on soundcheck, with 148 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, estoc and nextdimensional. Next up: Signal, Newyorkcity on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ WTCHCRFT is a techno and club artist tracked on soundcheck, with 148 sets logged
 
 KYRUH, estoc, nextdimensional
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

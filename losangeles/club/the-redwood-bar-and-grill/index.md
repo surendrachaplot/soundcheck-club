@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 38 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Ann the Raven Birthday Blues Bash" on Sat, 18 Jul 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 37 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Roswell Sisters" on Sun, 19 Jul 2026.
 
-The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 38 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 37 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Ann the Raven Birthday Blues Bash |  |
 | Sun, 19 Jul 2026 | The Roswell Sisters |  |
 | Sun, 19 Jul 2026 | 🏆 World Cup Final |  |
 | Mon, 20 Jul 2026 | 8pm to Close |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 3
 | Sat, 25 Jul 2026 | Jr Juggernaut |  |
 | Sun, 26 Jul 2026 | Tenement Rats |  |
 | Sun, 26 Jul 2026 | Kailey Duplechin |  |
+| Mon, 27 Jul 2026 | 8pm to Close |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

@@ -1,6 +1,6 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
+Vendex is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Radius, Chicago on Sun, 19 Jul 2026.
 
 Vendex is a techno and industrial artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside CARV, DYEN and Alignment. Next up: Radius, Chicago on Sun 19 Jul.
 
@@ -29,4 +29,4 @@ Vendex is a techno and industrial artist tracked on soundcheck, with 185 sets lo
 
 CARV, DYEN, Alignment
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

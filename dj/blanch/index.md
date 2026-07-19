@@ -1,6 +1,6 @@
 # Blanch
 
-Blanch is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Resume Valencia, Valencia on Fri, 24 Jul 2026.
+Blanch is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Resume Valencia, Valencia on Fri, 24 Jul 2026.
 
 Blanch is a house and tech house artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside blan.trrs, Pau Pérez and Pin. Next up: Resume Valencia, Valencia on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Blanch is a house and tech house artist tracked on soundcheck, with 58 sets logg
 
 blan.trrs, Pau Pérez, Pin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blanch/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/blanch/)*

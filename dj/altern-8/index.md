@@ -1,6 +1,6 @@
 # Altern-8
 
-Altern-8 is a Acid and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Superordinary, Brisbane on Fri, 24 Jul 2026.
+Altern-8 is a Acid and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Superordinary, Brisbane on Fri, 24 Jul 2026.
 
 Altern-8 is an acid and house artist tracked on soundcheck, with 30 sets logged across Belfast, Berlin, Birmingham and Brisbane and 10 more. Often billed alongside Slipmatt, 2 Bad Mice and Brandon Block. Next up: Superordinary, Brisbane on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Altern-8 is an acid and house artist tracked on soundcheck, with 30 sets logged 
 
 Slipmatt, 2 Bad Mice, Brandon Block
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altern-8/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altern-8/)*

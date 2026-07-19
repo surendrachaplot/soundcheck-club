@@ -1,6 +1,6 @@
 # James Bangura
 
-James Bangura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 24 Jul 2026.
+James Bangura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 24 Jul 2026.
 
 James Bangura is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Boston and Detroit and 15 more. Often billed alongside Nativesun, Black Rave Culture and Amal. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ James Bangura is a techno and house artist tracked on soundcheck, with 65 sets l
 
 Nativesun, Black Rave Culture, Amal
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbangura/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbangura/)*

@@ -1,6 +1,6 @@
 # Miss Bashful
 
-Miss Bashful is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
+Miss Bashful is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Komplex Berlin, Berlin on Sat, 25 Jul 2026.
 
 Miss Bashful is a techno and trance artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside DBBD, Miss Bashful x DBBD and MCR-T. Next up: Komplex Berlin, Berlin on Sat 25 Jul.
 
@@ -30,4 +30,4 @@ Miss Bashful is a techno and trance artist tracked on soundcheck, with 94 sets l
 
 DBBD, Miss Bashful x DBBD, MCR-T
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashful/)*

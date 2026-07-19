@@ -1,14 +1,13 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 19 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bassrush: ATLiens, Cyclops, Benda b2b Vastive, Blankface b2b Decimate" on Sat, 18 Jul 2026.
+Echostage is a music venue in Washington DC with 18 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SLANDER [Night One] with Moody Good, Prosecute, VARI, Redline" on Fri, 31 Jul 2026.
 
-Echostage is a music venue in Washingtondc listed on soundcheck. 19 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washingtondc listed on soundcheck. 18 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Bassrush: ATLiens, Cyclops, Benda b2b Vastive, Blankface b2b Decimate | Cyclops |
 | Fri, 31 Jul 2026 | SLANDER [Night One] with Moody Good, Prosecute, VARI, Redline |  |
 | Sat, 1 Aug 2026 | SLANDER [Night Two] with Jason Ross, Au5, Nejvex, Arman |  |
 | Sat, 8 Aug 2026 | Seven Lions with Andrew Bayer, Rad Cat | Seven Lions |
@@ -18,9 +17,10 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 19 upcoming nig
 | Sat, 29 Aug 2026 | William Black with Hoang, RYN | Hoang |
 | Fri, 4 Sept 2026 | Unreal: North America Tour: 999999999, Adrián Mills, Cara Elizabeth, Cloudy b2b KUKO, Winson | 999999999, Adrian Mills, Cara Elizabeth, Cloudy, KUKO, Winson |
 | Fri, 4 Sept 2026 | UNREAL NA TOUR: Washington DC | 999999999, Adrian Mills, Cara Elizabeth, Cloudy, KUKO, Winson |
+| Sat, 5 Sept 2026 | Hugel with Sama [LDW] [EARLY SHOW] | Hugel |
 
 ## Address
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

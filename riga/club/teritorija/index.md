@@ -1,14 +1,13 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Every day is Halloween" on Sat, 18 Jul 2026.
+Teritorija is a music venue in Riga with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Golden Habit // VLAD PHANGAN" on Fri, 24 Jul 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 10 upcoming nights, with line-ups including angelic waves, A$PHYXXXÏA, ARRISHA and B2BBASS and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming nights, with line-ups including angelic waves, A$PHYXXXÏA, B2BBASS and blissfuloverdose and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Every day is Halloween | ARRISHA, Grisha Nirgov, Herren Ivo, Ksenia Kamikaza, Levan., UZAY |
 | Fri, 24 Jul 2026 | Golden Habit // VLAD PHANGAN | Golden Habit, VLAD PHANGAN |
 | Sat, 25 Jul 2026 | Leksy // Notwelcome | Leksy, Notwelcome |
 | Sat, 25 Jul 2026 | UNDERGROUND GARDEN: TRAP RAV3 #001 | B2BBASS, PERCOSET, hitomori, maniken05, oshigakill, porfod |
@@ -23,4 +22,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 10 upcoming nights, wi
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

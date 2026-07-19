@@ -1,6 +1,6 @@
 # Faba
 
-Faba is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "FabaLOSO - After Hours" on Sat, 25 Jul 2026.
+Faba is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "FabaLOSO - After Hours" on Sat, 25 Jul 2026.
 
 Faba is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including DJezmo. Browse upcoming dates, start times and who's playing. Calle Chiapas 175, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Faba is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with
 
 Calle Chiapas 175, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/faba/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/faba/)*

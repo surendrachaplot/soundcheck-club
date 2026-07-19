@@ -1,6 +1,6 @@
 # lis (5)
 
-lis (5) is a Ambient and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
+lis (5) is a Ambient and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at CLUB RAUM, Amsterdam on Fri, 24 Jul 2026.
 
 lis (5) is an ambient and house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside ARCHANGEL (US), Afra and Ambu Bambu. Next up: CLUB RAUM, Amsterdam on Fri 24 Jul.
 
@@ -21,4 +21,4 @@ lis (5) is an ambient and house artist based in Netherlands, tracked on soundche
 
 ARCHANGEL (US), Afra, Ambu Bambu
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*

@@ -1,6 +1,6 @@
 # The White Swan
 
-The White Swan is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "CHARLI XCX MADE ME GAY (London)" on Fri, 31 Jul 2026.
+The White Swan is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "CHARLI XCX MADE ME GAY (London)" on Fri, 31 Jul 2026.
 
 The White Swan is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
 
@@ -15,4 +15,4 @@ The White Swan is a music venue in London listed on soundcheck. 2 upcoming night
 
 556 Commercial Road, Limehouse, E14 7JD, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*

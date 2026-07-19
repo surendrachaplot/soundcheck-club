@@ -1,6 +1,6 @@
 # Kulturlounge
 
-Kulturlounge is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "30 Hz // Drum & Bass" on Fri, 7 Aug 2026.
+Kulturlounge is a music venue in Leipzig with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "30 Hz // Drum & Bass" on Fri, 7 Aug 2026.
 
 Kulturlounge is a music venue in Leipzig listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dresdner Straße 25, 04103 Leipzig.
 
@@ -14,4 +14,4 @@ Kulturlounge is a music venue in Leipzig listed on soundcheck. 1 upcoming night.
 
 Dresdner Straße 25, 04103 Leipzig, Leipzig
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kulturlounge/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kulturlounge/)*

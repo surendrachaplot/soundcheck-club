@@ -1,6 +1,6 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 1 Aug 2026.
+Bustin' Loose is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Dead Letter No. 9, New York City on Sat, 1 Aug 2026.
 
 Bustin' Loose is a house and disco artist tracked on soundcheck, with 144 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 14 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Dead Letter No. 9, Newyorkcity on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 144 sets l
 
 Tatiana, Magnolia_, Roland & Brother Rich
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

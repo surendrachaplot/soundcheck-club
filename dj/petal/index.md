@@ -1,14 +1,13 @@
 # Pètal
 
-Pètal is a Club and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - GLYFADA AREA, Athens on Sat, 18 Jul 2026.
+Pètal is a Club and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Pianos, New York City on Sun, 19 Jul 2026.
 
-Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 87 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: TBA - GLYFADA AREA, Athens on Sat 18 Jul.
+Pètal is a club and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Athens and Newyorkcity. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE (3). Next up: Pianos, Newyorkcity on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA - GLYFADA AREA | Athens |
 | Sun, 19 Jul 2026 | Pianos | New York City |
 | Sun, 19 Jul 2026 | Pianos | New York City |
 | Thu, 23 Jul 2026 | TBA | New York City |
@@ -16,9 +15,11 @@ Pètal is a club and techno artist based in United States of America, tracked on
 | Sat, 1 Aug 2026 | SMUT Athens | Athens |
 | Wed, 5 Aug 2026 | Jupiter Disco | New York City |
 | Thu, 6 Aug 2026 | H0L0 | New York City |
+| Thu, 6 Aug 2026 | H0L0 | New York City |
 
 ## Recently played
 
+- TBA - GLYFADA AREA, Athens — Sat, 18 Jul 2026
 - Mood Ring, New York City — Wed, 15 Jul 2026
 - Mood Ring, New York City — Wed, 15 Jul 2026
 - Mood Ring, New York City — Wed, 8 Jul 2026
@@ -26,10 +27,9 @@ Pètal is a club and techno artist based in United States of America, tracked on
 - Mood Ring, New York City — Fri, 26 Jun 2026
 - TBA - Athens, Athens — Sun, 14 Jun 2026
 - Jade, New York City — Thu, 21 May 2026
-- Mood Ring, New York City — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 CMD+JAZMINE, BEYBLADE SHAWTY, EEVEE (3)
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/petal/)*

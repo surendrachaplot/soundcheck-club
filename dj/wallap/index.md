@@ -1,6 +1,6 @@
 # Walla P
 
-Walla P is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sans Soleil, Montreal on Mon, 20 Jul 2026.
+Walla P is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sans Soleil, Montreal on Mon, 20 Jul 2026.
 
 Walla P is a funk / soul and disco artist tracked on soundcheck, with 49 sets logged across Berlin, Lisbon, Montreal and Paris and 2 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: Sans Soleil, Montreal on Mon 20 Jul.
 
@@ -26,4 +26,4 @@ Walla P is a funk / soul and disco artist tracked on soundcheck, with 49 sets lo
 
 Kris Guilty, Alina (MTL), Guthrie
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*

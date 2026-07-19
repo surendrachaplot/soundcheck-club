@@ -1,6 +1,6 @@
 # The End
 
-The End is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "IMPULSE" on Thu, 23 Jul 2026.
+The End is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "IMPULSE" on Thu, 23 Jul 2026.
 
 The End is a music venue in Leeds listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Hirst's Yard, Leeds, LS1 6NJ.
 
@@ -16,4 +16,4 @@ The End is a music venue in Leeds listed on soundcheck. 3 upcoming nights. Brows
 
 Hirst's Yard, Leeds, LS1 6NJ, Leeds
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-end/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-end/)*

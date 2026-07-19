@@ -1,6 +1,6 @@
 # David Ponziano
 
-David Ponziano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at EL SÓTANO, Madrid on Sat, 8 Aug 2026.
+David Ponziano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at EL SÓTANO, Madrid on Sat, 8 Aug 2026.
 
 David Ponziano is a techno and house artist based in Spain, tracked on soundcheck, with 98 sets logged across Madrid. Often billed alongside Alvaro Cabana, Simon Garcia and TEEMON&POOMBA. Next up: EL SÓTANO, Madrid on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ David Ponziano is a techno and house artist based in Spain, tracked on soundchec
 
 Alvaro Cabana, Simon Garcia, TEEMON&POOMBA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidponziano/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/davidponziano/)*

@@ -1,18 +1,17 @@
 # Bad Bobs (Rooftop Terrace), Temple Bar
 
-Bad Bobs (Rooftop Terrace), Temple Bar is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Soulstice & Delay: 10H Day to Night Rooftop" on Sat, 18 Jul 2026.
+Bad Bobs (Rooftop Terrace), Temple Bar is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "[POSTPONED] ULTYMATUM EP007 (Rooftop Series)" on Sun, 19 Jul 2026.
 
-Bad Bobs (Rooftop Terrace), Temple Bar is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including Monnay, Nicole Spagnol, ShaunaDee and SOUZAC and 1 more. Browse upcoming dates, start times and who's playing. 35-37 Essex St E, Dublin 2, Dublin, D02 Y891.
+Bad Bobs (Rooftop Terrace), Temple Bar is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including Monnay and Ulty. Browse upcoming dates, start times and who's playing. 35-37 Essex St E, Dublin 2, Dublin, D02 Y891.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Soulstice & Delay: 10H Day to Night Rooftop | Nicole Spagnol, SOUZAC, ShaunaDee |
 | Sun, 19 Jul 2026 | [POSTPONED] ULTYMATUM EP007 (Rooftop Series) | Monnay, Ulty |
 
 ## Address
 
 35-37 Essex St E, Dublin 2, Dublin, D02 Y891, Dublin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/bad-bobs-rooftop-terrace-temple-bar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/bad-bobs-rooftop-terrace-temple-bar/)*

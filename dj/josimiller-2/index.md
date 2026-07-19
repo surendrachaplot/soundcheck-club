@@ -1,6 +1,6 @@
 # Josi Miller (2)
 
-Josi Miller (2) is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Marmorbar, Berlin on Fri, 31 Jul 2026.
+Josi Miller (2) is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Marmorbar, Berlin on Fri, 31 Jul 2026.
 
 Josi Miller (2) is a house and club artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Leipzig and Zurich. Often billed alongside DJ Luiser, ALBA (3) and Anton Gerden. Next up: Marmorbar, Berlin on Fri 31 Jul.
 
@@ -22,4 +22,4 @@ Josi Miller (2) is a house and club artist based in Germany, tracked on soundche
 
 DJ Luiser, ALBA (3), Anton Gerden
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/josimiller-2/)*

@@ -1,6 +1,6 @@
 # Old Royal Naval College
 
-Old Royal Naval College is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "The Kooks Inside In / Inside Out 20 year anniversary" on Fri, 31 Jul 2026.
+Old Royal Naval College is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Kooks Inside In / Inside Out 20 year anniversary" on Fri, 31 Jul 2026.
 
 Old Royal Naval College is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Adriatique, CARISTA, Catching Flies and Delilah and 2 more. Browse upcoming dates, start times and who's playing. London SE10 9NN.
 
@@ -22,4 +22,4 @@ Old Royal Naval College is a music venue in London listed on soundcheck. 9 upcom
 
 London SE10 9NN, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/old-royal-naval-college/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/old-royal-naval-college/)*

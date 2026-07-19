@@ -1,6 +1,6 @@
 # Anna Reusch
 
-Anna Reusch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Cologne on Sat, 25 Jul 2026.
+Anna Reusch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Cologne on Sat, 25 Jul 2026.
 
 Anna Reusch is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 22 more. Often billed alongside A.D.H.S., Thomas Schumacher and ASK:ME. Next up: TBA, Cologne on Sat 25 Jul.
 
@@ -28,4 +28,4 @@ Anna Reusch is a techno and house artist tracked on soundcheck, with 81 sets log
 
 A.D.H.S., Thomas Schumacher, ASK:ME
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*

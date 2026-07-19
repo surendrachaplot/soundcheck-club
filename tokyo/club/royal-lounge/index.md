@@ -1,14 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Life Parc.Lounge" on Sat, 18 Jul 2026.
+Royal Lounge is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "MUSIC IS ANSWER" on Sun, 19 Jul 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including Anri (2), Ayantula, HiToshi and Noa (DE) and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Anri (2), Ayantula, HiToshi and Noa (DE) and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Life Parc.Lounge |  |
 | Sun, 19 Jul 2026 | MUSIC IS ANSWER | Anri (2), Ayantula, Yamariki |
 | Sun, 19 Jul 2026 | Royal Sunday |  |
 | Mon, 20 Jul 2026 | KOUKASHITA GROOVES |  |
@@ -18,9 +17,10 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights,
 | Fri, 24 Jul 2026 | ROYAL BAR |  |
 | Sat, 25 Jul 2026 | Gina |  |
 | Sun, 26 Jul 2026 | ROYAL BAR |  |
+| Mon, 27 Jul 2026 | ROYAL MONDAY |  |
 
 ## Address
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

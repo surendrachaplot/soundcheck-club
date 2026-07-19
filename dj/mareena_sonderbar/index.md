@@ -1,14 +1,13 @@
 # Mareena
 
-Mareena is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 18 Jul 2026.
+Mareena is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Fuchs2, Prague on Fri, 24 Jul 2026.
 
-Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 18 Jul.
+Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: Fuchs2, Prague on Fri 24 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Fri, 24 Jul 2026 | Fuchs2 | Prague |
 | Sat, 1 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 5 Sept 2026 | SMUT Athens | Athens |
@@ -17,6 +16,7 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin — Sat, 18 Jul 2026
 - Tresor / Globus, Berlin — Fri, 3 Jul 2026
 - Bassiani, Tbilisi — Fri, 26 Jun 2026
 - Else, Berlin — Sat, 6 Jun 2026
@@ -24,10 +24,9 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 - Odonien, Cologne — Sun, 24 May 2026
 - Climax-Institutes, Stuttgart — Sat, 16 May 2026
 - Tresor / Globus, Berlin — Fri, 15 May 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

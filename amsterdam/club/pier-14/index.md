@@ -1,6 +1,6 @@
 # Pier 14
 
-Pier 14 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Hush Boatparty" on Fri, 14 Aug 2026.
+Pier 14 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Hush Boatparty" on Fri, 14 Aug 2026.
 
 Pier 14 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. PIER 14.
 
@@ -14,4 +14,4 @@ Pier 14 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Br
 
 PIER 14, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pier-14/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pier-14/)*

@@ -1,6 +1,6 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at smartbar, Chicago on Fri, 24 Jul 2026.
+Tromac is a Club and Ghetto Tech artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at smartbar, Chicago on Fri, 24 Jul 2026.
 
 Tromac is a club and ghetto tech artist tracked on soundcheck, with 100 sets logged across Austin, Boston, Chicago and Detroit and 8 more. Often billed alongside DJ-SUN, flotussin and Bodegaparty. Next up: smartbar, Chicago on Fri 24 Jul.
 
@@ -29,4 +29,4 @@ Tromac is a club and ghetto tech artist tracked on soundcheck, with 100 sets log
 
 DJ-SUN, flotussin, Bodegaparty
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

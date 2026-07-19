@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Dancehall artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Patricia, Stockholm on Wed, 29 Jul 2026.
+Seb Odyssey is a House and Dancehall artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Patricia, Stockholm on Wed, 29 Jul 2026.
 
 Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets logged across Leeds, London, Manchester and Stockholm. Often billed alongside Josh Caffé, Jade Seatle and FAFF. Next up: Patricia, Stockholm on Wed 29 Jul.
 
@@ -31,4 +31,4 @@ Seb Odyssey is a house and dancehall artist tracked on soundcheck, with 46 sets 
 
 Josh Caffé, Jade Seatle, FAFF
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

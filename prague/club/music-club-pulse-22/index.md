@@ -1,6 +1,6 @@
 # Music Club Pulse 22
 
-Music Club Pulse 22 is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Trance Family with Nitrous Oxide" on Sat, 8 Aug 2026.
+Music Club Pulse 22 is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Trance Family with Nitrous Oxide" on Sat, 8 Aug 2026.
 
 Music Club Pulse 22 is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including Ewelina Koll, Icarian PB1, Marc van Linden and Nitrous Oxide. Browse upcoming dates, start times and who's playing. Jilská 22, 110 00 Staré Město, Czechia.
 
@@ -16,4 +16,4 @@ Music Club Pulse 22 is a music venue in Prague listed on soundcheck. 3 upcoming 
 
 Jilská 22, 110 00 Staré Město, Czechia, Prague
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/music-club-pulse-22/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/music-club-pulse-22/)*

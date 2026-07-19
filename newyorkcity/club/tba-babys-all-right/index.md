@@ -1,6 +1,6 @@
 # TBA - Babys All Right
 
-TBA - Babys All Right is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Bbymutha, Sha Ray + DJ Haram, Archangel, JWords + Nappy Nina [Thot Daughter Tour]" on Thu, 20 Aug 2026.
+TBA - Babys All Right is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Bbymutha, Sha Ray + DJ Haram, Archangel, JWords + Nappy Nina [Thot Daughter Tour]" on Thu, 20 Aug 2026.
 
 TBA - Babys All Right is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Babys All Right is a music venue in Newyorkcity listed on soundcheck. 1 up
 | --- | --- | --- |
 | Thu, 20 Aug 2026 | Bbymutha, Sha Ray + DJ Haram, Archangel, JWords + Nappy Nina [Thot Daughter Tour] |  |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-babys-all-right/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-babys-all-right/)*

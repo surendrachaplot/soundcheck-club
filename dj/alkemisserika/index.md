@@ -1,6 +1,6 @@
 # Alkemiss Erika
 
-Alkemiss Erika is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Hotel Via, San Francisco/Oakland on Sun, 19 Jul 2026.
+Alkemiss Erika is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hotel Via, San Francisco/Oakland on Sun, 19 Jul 2026.
 
 Alkemiss Erika is a deep house and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Miami and Sanfrancisco. Often billed alongside Joseph Lee, IZIK and SAGMO. Next up: Hotel Via, Sanfrancisco on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Alkemiss Erika is a deep house and house artist based in United States of Americ
 
 Joseph Lee, IZIK, SAGMO
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alkemisserika/)*

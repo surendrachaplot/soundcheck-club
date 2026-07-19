@@ -1,6 +1,6 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
+Metrik is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bristol Amphitheatre & Waterfront Square, Bristol on Sat, 25 Jul 2026.
 
 Metrik is a drum & bass and bass artist tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 18 more. Often billed alongside Degs, P Money and Whiney. Next up: Bristol Amphitheatre & Waterfront Square, Bristol on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Metrik is a drum & bass and bass artist tracked on soundcheck, with 49 sets logg
 
 Degs, P Money, Whiney
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

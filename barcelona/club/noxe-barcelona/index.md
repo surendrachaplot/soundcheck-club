@@ -1,6 +1,6 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 20 Jul 2026.
+Noxe Barcelona is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Skylab at Noxe (26th floor W Barcelona)" on Mon, 20 Jul 2026.
 
 Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Alex Silva, Drunk At Vogue, Eric Yanguas and GIVIO and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
@@ -23,4 +23,4 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 13 upcoming n
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

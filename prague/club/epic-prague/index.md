@@ -1,6 +1,6 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "JULIAN JORDAN" on Sat, 25 Jul 2026.
+Epic Prague is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "JULIAN JORDAN" on Sat, 25 Jul 2026.
 
 Epic Prague is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Andrew Rayel, Deborah De Luca, Moksi and Radical Redemption and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
@@ -22,4 +22,4 @@ Epic Prague is a music venue in Prague listed on soundcheck. 9 upcoming nights, 
 
 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia, Prague
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*

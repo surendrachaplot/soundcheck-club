@@ -1,6 +1,6 @@
 # CLEO
 
-CLEO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tresor / Globus, Berlin on Wed, 22 Jul 2026.
+CLEO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tresor / Globus, Berlin on Wed, 22 Jul 2026.
 
 CLEO is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 3 more. Often billed alongside Cleo SNK, EROS IN FURS and End Train. Next up: Tresor / Globus, Berlin on Wed 22 Jul.
 
@@ -27,4 +27,4 @@ CLEO is a techno and house artist tracked on soundcheck, with 38 sets logged acr
 
 Cleo SNK, EROS IN FURS, End Train
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*

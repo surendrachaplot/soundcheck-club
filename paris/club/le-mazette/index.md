@@ -1,6 +1,6 @@
 # Le Mazette
 
-Le Mazette is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "La Grande Fête De Solarium" on Sat, 8 Aug 2026.
+Le Mazette is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "La Grande Fête De Solarium" on Sat, 8 Aug 2026.
 
 Le Mazette is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including KAZAM, Māokē, Naux and Victor Tomasi. Browse upcoming dates, start times and who's playing. 69 Port de la Rapée.
 
@@ -14,4 +14,4 @@ Le Mazette is a music venue in Paris listed on soundcheck. 1 upcoming night, wit
 
 69 Port de la Rapée, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-mazette/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-mazette/)*

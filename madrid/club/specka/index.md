@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "David el Niño I Incunables" on Sat, 18 Jul 2026.
+Specka is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Impossible Love I Specka Club" on Fri, 24 Jul 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including Akibeel, Anthony Rother, Brody (2) and Dani Durán and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including Akibeel, Anthony Rother, Brody (2) and Dani Durán and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | David el Niño I Incunables |  |
 | Fri, 24 Jul 2026 | Impossible Love I Specka Club | MVPDJ |
 | Sat, 25 Jul 2026 | Intensive 4.0 I Specka Club | Akibeel, Dani Durán, Nöle |
 | Fri, 31 Jul 2026 | Destruktion #07 - Industrial Attack #02 I Specka Club | Vernichter |
@@ -22,4 +21,4 @@ Specka is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with 
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

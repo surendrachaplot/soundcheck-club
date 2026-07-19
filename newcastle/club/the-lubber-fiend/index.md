@@ -1,6 +1,6 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "New Ruins: Lubber Fiend Festival" on Thu, 17 Sept 2026.
+The Lubber Fiend is a music venue in Newcastle with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "New Ruins: Lubber Fiend Festival" on Thu, 17 Sept 2026.
 
 The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 3 upcoming nights, with line-ups including Alyssa, Cowper, Devon Rexi and Elena Colombi and 2 more. Browse upcoming dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
@@ -16,4 +16,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 3 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

@@ -1,6 +1,6 @@
 # Patrice Bäumel [open-to-close] at Flash
 
-Patrice Bäumel [open-to-close] at Flash on Fri 24 Jul, Washingtondc. 4 acts on the bill: BE EZY, Cassia, E-QUE and Patrice Bäumel. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Patrice Bäumel [open-to-close] at Flash on Fri 24 Jul, Washingtondc. 5 acts on the bill: ANNYA, BE EZY, Cassia and E-QUE and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Patrice Bäumel [open-to-close] at Flash on Fri 24 Jul, Washingtondc. 4 acts on 
 
 ## Line-up
 
+- ANNYA
 - BE EZY
 - Cassia
 - E-QUE

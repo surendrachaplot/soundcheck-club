@@ -1,6 +1,6 @@
 # Monsieurmadam
 
-Monsieurmadam is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 19 Jul 2026.
+Monsieurmadam is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 19 Jul 2026.
 
 Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets logged across Montreal and Toronto. Often billed alongside Ekitwanda, CrisseMarqueur and nastygloss. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets lo
 
 Ekitwanda, CrisseMarqueur, nastygloss
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmadam/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmadam/)*

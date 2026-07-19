@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 14 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Prana Musik: Essa, Ro Escobar B2B Monclair, Quip, Sunthey, Elegant Hands" on Sat, 18 Jul 2026.
+Bar Oriente is a music venue in Mexico City with 14 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "ROTE: Quintos, Yams Yams, Jazo Razo, Ann García" on Wed, 22 Jul 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 14 upcoming nights, with line-ups including Andre VII, Ann García, Bobo and Borgetti and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -8,7 +8,6 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 14 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Prana Musik: Essa, Ro Escobar B2B Monclair, Quip, Sunthey, Elegant Hands | Elegant Hands, Essa |
 | Wed, 22 Jul 2026 | ROTE: Quintos, Yams Yams, Jazo Razo, Ann García | Ann García, Jazo Razo |
 | Thu, 23 Jul 2026 | Energy: Norm Sei, BUENDÍA & Pablvs, Tonerr & Ritmico, Morfia | BUENDÍA |
 | Fri, 24 Jul 2026 | Teleport presenta: Once We Were Ravers | Diego Palacios, Ramiro Puente |
@@ -18,9 +17,10 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 14 upcoming nig
 | Sat, 1 Aug 2026 | Boogie Room en Bar Oriente | Cazador de Discos, Cinema Paradisco, Dimaio, Sommer |
 | Fri, 7 Aug 2026 | Electrique Music: Andre VII, Moon Runner, ROCCO DESENTIS | Andre VII, ROCCO DESENTIS |
 | Sat, 8 Aug 2026 | Lee Foss (Dj Set) | Lee Foss |
+| Fri, 14 Aug 2026 | Mystery Affair, Zoe Malavida, All Matter | Mystery Affair, Zoemalavida |
 
 ## Address
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

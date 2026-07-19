@@ -1,6 +1,6 @@
 # Le Nocturne
 
-Le Nocturne is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "The Official After Party of House Music is Home at Navy Pier" on Sun, 19 Jul 2026.
+Le Nocturne is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Official After Party of House Music is Home at Navy Pier" on Sun, 19 Jul 2026.
 
 Le Nocturne is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Demuir, lego and MARRIO. Browse upcoming dates, start times and who's playing. 4810 N Brodway, Chicago IL - 60640.
 
@@ -15,4 +15,4 @@ Le Nocturne is a music venue in Chicago listed on soundcheck. 2 upcoming nights,
 
 4810 N Brodway, Chicago IL - 60640, Chicago
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/le-nocturne/)*

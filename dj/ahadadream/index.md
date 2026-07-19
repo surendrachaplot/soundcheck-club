@@ -1,6 +1,6 @@
 # Ahadadream
 
-Ahadadream is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
+Ahadadream is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Virage, Paris on Sat, 1 Aug 2026.
 
 Ahadadream is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside SHERELLE, salute and Interplanetary Criminal. Next up: Virage, Paris on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Ahadadream is a house and techno artist tracked on soundcheck, with 110 sets log
 
 SHERELLE, salute, Interplanetary Criminal
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ahadadream/)*

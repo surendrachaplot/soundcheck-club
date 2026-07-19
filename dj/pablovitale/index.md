@@ -1,6 +1,6 @@
 # Pablo Vitale
 
-Pablo Vitale is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
+Pablo Vitale is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bossa Nova Civic Club, New York City on Fri, 31 Jul 2026.
 
 Pablo Vitale is a techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside a.gar, AJACENT and shirlz. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 31 Jul.
 
@@ -16,4 +16,4 @@ Pablo Vitale is a techno artist based in United States of America, tracked on so
 
 a.gar, AJACENT, shirlz
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovitale/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pablovitale/)*

@@ -1,14 +1,13 @@
 # Café del Mar Malta
 
-Café del Mar Malta is a music venue in Malta with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "G7 presents MËSTIZA at Café del Mar" on Sat, 18 Jul 2026.
+Café del Mar Malta is a music venue in Malta with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Isle of MTV Malta Music Week Café del Mar Special feat. Gordo" on Sat, 25 Jul 2026.
 
-Café del Mar Malta is a music venue in Malta listed on soundcheck. 9 upcoming nights, with line-ups including Artbat, Argy, Bob Sinclar and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Malta Nation Aquarium, Triq it-Trunciera, Qawra, San Pawl il-Bahar.
+Café del Mar Malta is a music venue in Malta listed on soundcheck. 8 upcoming nights, with line-ups including Artbat, Argy, Bob Sinclar and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Malta Nation Aquarium, Triq it-Trunciera, Qawra, San Pawl il-Bahar.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | G7 presents MËSTIZA at Café del Mar | MËSTIZA |
 | Sat, 25 Jul 2026 | The Isle of MTV Malta Music Week Café del Mar Special feat. Gordo | Gordo |
 | Fri, 31 Jul 2026 | Robin Schulz | Robin Schulz |
 | Sat, 1 Aug 2026 | Spiral Festival Day 2 - Saturday at Café Del Mar Ft. Argy | Argy, Layla Benitez |
@@ -22,4 +21,4 @@ Café del Mar Malta is a music venue in Malta listed on soundcheck. 9 upcoming n
 
 Malta Nation Aquarium, Triq it-Trunciera, Qawra, San Pawl il-Bahar, Malta
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/caf-del-mar-malta/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/malta/club/caf-del-mar-malta/)*

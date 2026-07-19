@@ -1,14 +1,13 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 18 Jul 2026.
+Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Galopprennbahn, Munich on Sat, 1 Aug 2026.
 
-Pan-Pot is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Anfisa Letyago, Enrico Sangiuliano and Adam Beyer. Next up: Sparta Schwimmclub, Frankfurt on Sat 18 Jul.
+Pan-Pot is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Anfisa Letyago, Enrico Sangiuliano and Adam Beyer. Next up: Galopprennbahn, Munich on Sat 1 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Sparta Schwimmclub | Frankfurt |
 | Sat, 1 Aug 2026 | Galopprennbahn | Munich |
 | Sat, 1 Aug 2026 | Fridas Pier | Stuttgart |
 | Tue, 11 Aug 2026 | Obudai Island | Budapest |
@@ -18,6 +17,7 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 168 sets logged
 
 ## Recently played
 
+- Sparta Schwimmclub, Frankfurt — Sat, 18 Jul 2026
 - Halcyon, San Francisco/Oakland — Sat, 4 Jul 2026
 - TBA - Los Angeles, Los Angeles — Fri, 3 Jul 2026
 - Südbrücke, Cologne — Sun, 21 Jun 2026
@@ -25,10 +25,9 @@ Pan-Pot is a techno and house artist tracked on soundcheck, with 168 sets logged
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
 - TBA, Toronto — Fri, 29 May 2026
 - RSO.BERLIN, Berlin — Fri, 15 May 2026
-- TBA, Mallorca — Fri, 8 May 2026
 
 ## Shares bills with
 
 Anfisa Letyago, Enrico Sangiuliano, Adam Beyer
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

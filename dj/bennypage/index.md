@@ -1,8 +1,8 @@
 # Benny Page
 
-Benny Page is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Volks, Brighton on Sat, 25 Jul 2026.
+Benny Page is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Volks, Brighton on Sat, 25 Jul 2026.
 
-Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Bangkok, Birmingham and Boston and 14 more. Often billed alongside Deekline, Navigator and Burt Cope. Next up: Volks, Brighton on Sat 25 Jul.
+Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Bangkok, Birmingham and Boston and 14 more. Often billed alongside Deekline, Navigator and Burt Cope. Next up: Volks, Brighton on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked o
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Volks | Brighton |
 | Sat, 19 Sept 2026 | Howler | Melbourne |
+| Sat, 17 Oct 2026 | Jumunjy Bar | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Deekline, Navigator, Burt Cope
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennypage/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bennypage/)*

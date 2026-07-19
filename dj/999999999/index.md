@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
+999999999 is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Burgess Park, London on Sat, 1 Aug 2026.
 
 999999999 is a techno and house artist tracked on soundcheck, with 275 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Burgess Park, London on Sat 1 Aug.
 
@@ -36,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Nico Moreno
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

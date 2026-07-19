@@ -1,20 +1,20 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Yamamori Tengu, Dublin on Sat, 18 Jul 2026.
+I. JORDAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
-I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Yamamori Tengu, Dublin on Sat 18 Jul.
+I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Milandia, Zurich on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Yamamori Tengu | Dublin |
 | Sat, 25 Jul 2026 | Milandia | Zurich |
 | Sat, 1 Aug 2026 | Preston Park, Brighton | Berlin |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Yamamori Tengu, Dublin — Sat, 18 Jul 2026
 - Sawmills, Bristol — Sat, 11 Jul 2026
 - Ravenswood Industrial Estate, London — Sat, 11 Jul 2026
 - Palais, London — Sat, 4 Jul 2026
@@ -22,10 +22,9 @@ I. JORDAN is a techno and house artist based in United Kingdom, tracked on sound
 - Hidden, Manchester — Sat, 2 May 2026
 - FOLD, London — Sat, 2 May 2026
 - TBA - SECRET WAREHOUSE LOCATION, Philadelphia — Sat, 25 Apr 2026
-- Good Room, New York City — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

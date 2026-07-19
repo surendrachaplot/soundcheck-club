@@ -1,6 +1,6 @@
 # Zorza
 
-Zorza is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 131 Mccormack St, Toronto on Fri, 24 Jul 2026.
+Zorza is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 131 Mccormack St, Toronto on Fri, 24 Jul 2026.
 
 Zorza is a techno and trance artist tracked on soundcheck, with 93 sets logged across Austin, Barcelona, Berlin and Brussels and 29 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: 131 Mccormack St, Toronto on Fri 24 Jul.
 
@@ -26,4 +26,4 @@ Zorza is a techno and trance artist tracked on soundcheck, with 93 sets logged a
 
 TDJ, Shlømo, SIKOTI
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*

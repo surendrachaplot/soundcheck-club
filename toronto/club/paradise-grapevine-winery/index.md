@@ -1,6 +1,6 @@
 # Paradise Grapevine Winery
 
-Paradise Grapevine Winery is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SUNDAY BLISS at Paradise Grapevine GEARY" on Sun, 19 Jul 2026.
+Paradise Grapevine Winery is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SUNDAY BLISS at Paradise Grapevine GEARY" on Sun, 19 Jul 2026.
 
 Paradise Grapevine Winery is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including SAWIFROMSPACE, Shen (2), Theysii and Theysiii. Browse upcoming dates, start times and who's playing. 218 Geary Ave, M6H 2C3, Toronto, ON, Canada.
 
@@ -15,4 +15,4 @@ Paradise Grapevine Winery is a music venue in Toronto listed on soundcheck. 2 up
 
 218 Geary Ave, M6H 2C3, Toronto, ON, Canada, Toronto
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/paradise-grapevine-winery/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/paradise-grapevine-winery/)*

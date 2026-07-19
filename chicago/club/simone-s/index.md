@@ -1,6 +1,6 @@
 # Simone's
 
-Simone's is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "A TEKNOIR POP UP feat. Quicktastic, PHATMAN & ILLANOIZE" on Fri, 24 Jul 2026.
+Simone's is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "A TEKNOIR POP UP feat. Quicktastic, PHATMAN & ILLANOIZE" on Fri, 24 Jul 2026.
 
 Simone's is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Pat Fee, Quicktastic and samantha rad. Browse upcoming dates, start times and who's playing. 960 W 18th St, Chicago, IL 60608, USA.
 
@@ -14,4 +14,4 @@ Simone's is a music venue in Chicago listed on soundcheck. 1 upcoming night, wit
 
 960 W 18th St, Chicago, IL 60608, USA, Chicago
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/simone-s/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/simone-s/)*

@@ -1,6 +1,6 @@
 # Natuta
 
-Natuta is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Romantica, Stuttgart on Sat, 25 Jul 2026.
+Natuta is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Romantica, Stuttgart on Sat, 25 Jul 2026.
 
 Natuta is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, Leipzig, Losangeles and Newyorkcity and 2 more. Often billed alongside Citizens Union, Juliana Huxtable and Bekuchi. Next up: Romantica, Stuttgart on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Natuta is a techno and house artist tracked on soundcheck, with 45 sets logged a
 
 Citizens Union, Juliana Huxtable, Bekuchi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natuta/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/natuta/)*

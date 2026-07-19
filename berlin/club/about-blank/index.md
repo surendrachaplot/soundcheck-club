@@ -1,15 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 38 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "DUALISM with Stef de Haan, DJ Tallboy, CARGO" on Sat, 18 Jul 2026.
+://about blank is a music venue in Berlin with 37 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Brace Brace Day Rave im ://blank Garten - Free entry until 4PM " on Sun, 19 Jul 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 38 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and _minted and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 37 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and _minted and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | DUALISM with Stef de Haan, DJ Tallboy, CARGO | 5euroGoldi, Blossmbae, CARGO (DE), DJ Tallboy, Hang Aoki, Krash Cora, MSKD, Mareike Bautz, PASSA, Stef de Haan, alemiko, brvder jakob, jeanska, multivitaminmarie |
-| Sat, 18 Jul 2026 | ://sektgarten tanzt aus der reihe 2.0 by Insel der Jugend [free entry & open air] | Ric Piccolo, Unfunk |
 | Sun, 19 Jul 2026 | Brace Brace Day Rave im ://blank Garten - Free entry until 4PM  | Anne-Lu, Johænsson, OXOPOHA, _minted |
 | Tue, 21 Jul 2026 | ://sektgarten x vernissage: nature taking over [free entry & open air] | PCL (1), Rena Volvo |
 | Wed, 22 Jul 2026 | ://soli- sektgarten x rabies [free entry & open air] | Belen Zer |
@@ -18,9 +16,11 @@
 | Fri, 24 Jul 2026 | ://situationship: frauengedeck x magie noire | Esther, Jaszaloth, Parisha, Sabine Hoffmann, karete bu |
 | Fri, 24 Jul 2026 | ://sektgarten x Frauengedeck [free entry & open air] | Sabine Hoffmann, eva h. |
 | Sat, 25 Jul 2026 | ★ LOWKEY STARS ☆ CSD AFTERPARTY | ACIDG, AGAINS7, ANASTASÍA, Anna Konda, Annakonda, B.A.O., Bélavie, DASH (SLO), DJ Glitterelli, Dash (CZ), Domovnika, Eli Bot, GNEIXX, KAMA, KERT (DE), Kalimanda, M.I.T.C.H, Mitsuko, Olivia Swim, PHLOXO, PyjamaMama, SÆPHR, Westside Bass, WhoisAlice, vibemeister |
+| Sat, 25 Jul 2026 | antifaisland |  |
+| Sun, 26 Jul 2026 | Lustgarten (sex-positive, open air, daytime) | Akirahawks, ESSHAR, Shingo Suwa |
 
 ## Address
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

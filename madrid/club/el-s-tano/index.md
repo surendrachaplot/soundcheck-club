@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 28 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "BAKALAO: Michael Lapp, Monty, Gaskón" on Sat, 18 Jul 2026.
+EL SÓTANO is a music venue in Madrid with 28 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "RIOT CLUB: RIOT CLUB: Arzadous, Arok Shiva, Bigot3x" on Sun, 19 Jul 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming nights, with line-ups including Adrian Mart, Alejandro Fernandez, Alvaro Cabana and Arok Shiva and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -8,7 +8,6 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | BAKALAO: Michael Lapp, Monty, Gaskón |  |
 | Sun, 19 Jul 2026 | RIOT CLUB: RIOT CLUB: Arzadous, Arok Shiva, Bigot3x | Arok Shiva, Bigot3x (2) |
 | Thu, 23 Jul 2026 | DANZE AFRIKA: DJ Mois, DJ MBA | DJ MBA, DJ Mois |
 | Fri, 24 Jul 2026 | FARADAY MEETS Ü: Ángel De Miguel, Delasierra, Mamba Nera, 4lt3rn4tiv3 | Mamba Nera |
@@ -18,9 +17,10 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming nights, 
 | Fri, 31 Jul 2026 | KATÁRSIS ELECTRÓNIKA: Julia Cruz, Brisa Then, Evelyn Jaz B2b El Pájaro Negro, Tucu (Tucu) | Brisa Then, El Pájaro Negro, Evelyn Jaz, Tucu (Tucu) |
 | Sat, 1 Aug 2026 | TECHNODROME: PAULITTAHH, Paloma, Esther Summer | Esther Summer, PAULITTAHH, Paloma |
 | Sun, 2 Aug 2026 | RIOT CLUB: Zaphy, Arok Shiva, REBECA BEISTI | Arok Shiva, Zaphy |
+| Tue, 4 Aug 2026 | SAN CAYETANO: Jara, Savanna | Jara, Savanna |
 
 ## Address
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

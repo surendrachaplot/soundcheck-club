@@ -1,6 +1,6 @@
 # Laetizia
 
-Laetizia is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Golden Pudel Club, Hamburg on Sun, 19 Jul 2026.
+Laetizia is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Golden Pudel Club, Hamburg on Sun, 19 Jul 2026.
 
 Laetizia is a house and experimental artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Munich. Often billed alongside N:in (DE), Festnacht and Nika Son. Next up: Golden Pudel Club, Hamburg on Sun 19 Jul.
 
@@ -26,4 +26,4 @@ Laetizia is a house and experimental artist based in Germany, tracked on soundch
 
 N:in (DE), Festnacht, Nika Son
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laetizia/)*

@@ -1,6 +1,6 @@
 # Alex.Do
 
-Alex.Do is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
+Alex.Do is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ://about blank, Berlin on Sat, 1 Aug 2026.
 
 Alex.Do is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Leipzig. Often billed alongside Sylvie Maziarz, Hang Aoki and Jessamine. Next up: ://about blank, Berlin on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Alex.Do is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Sylvie Maziarz, Hang Aoki, Jessamine
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.do/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.do/)*

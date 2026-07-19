@@ -1,14 +1,13 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ARCH x Musubi" on Sat, 18 Jul 2026.
+Acud Macht NEU is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "DIY SYNTHS FROM SCRATCH — Edition 2" on Mon, 20 Jul 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Book and DJ B2B. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Book and DJ B2B. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | ARCH x Musubi |  |
 | Mon, 20 Jul 2026 | DIY SYNTHS FROM SCRATCH — Edition 2 | Book |
 | Mon, 10 Aug 2026 | MAKE SOME WAVES — Summer Intensive Edition 2 | DJ B2B |
 | Thu, 20 Aug 2026 | MUSIC BUSINESS: SELF MADE STORY — Edition 2 |  |
@@ -17,4 +16,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

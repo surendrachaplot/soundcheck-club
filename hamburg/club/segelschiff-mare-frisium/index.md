@@ -1,6 +1,6 @@
 # Segelschiff Mare Frisium
 
-Segelschiff Mare Frisium is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Wellenklang X Spielwiese" on Fri, 24 Jul 2026.
+Segelschiff Mare Frisium is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Wellenklang X Spielwiese" on Fri, 24 Jul 2026.
 
 Segelschiff Mare Frisium is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Boyos (1), David Bucka, Granular Heat and Nina Hepburn and 1 more. Browse upcoming dates, start times and who's playing. Am Sandtorkai 77, 20457 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Segelschiff Mare Frisium is a music venue in Hamburg listed on soundcheck. 3 upc
 
 Am Sandtorkai 77, 20457 Hamburg, Germany, Hamburg
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/segelschiff-mare-frisium/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/segelschiff-mare-frisium/)*

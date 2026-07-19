@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
+Altinbas is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at BASEMENT, New York City on Sat, 25 Jul 2026.
 
 Altinbas is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Phara, GiGi FM and Marie-Julie. Next up: BASEMENT, Newyorkcity on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Altinbas is a techno and house artist tracked on soundcheck, with 163 sets logge
 
 Phara, GiGi FM, Marie-Julie
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

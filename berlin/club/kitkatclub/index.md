@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Electric Monday@KitKat Club on 2 Floors" on Mon, 20 Jul 2026.
+KitKatClub is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Electric Monday@KitKat Club on 2 Floors" on Mon, 20 Jul 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including HANI DAKIN, Acid Foxy, Albin Brezlan and Alexander Paulski and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 25 upcoming nights, 
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

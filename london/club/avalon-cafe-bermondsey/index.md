@@ -1,6 +1,6 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "SLG International: Conrad Pack & Fig" on Fri, 24 Jul 2026.
+Avalon Cafe Bermondsey is a music venue in London with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "SLG International: Conrad Pack & Fig" on Fri, 24 Jul 2026.
 
 Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Amy  B, Blank Patrick, Calder and Conrad Pack and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
@@ -20,4 +20,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

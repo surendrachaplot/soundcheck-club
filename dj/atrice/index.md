@@ -1,6 +1,6 @@
 # Atrice
 
-Atrice is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Schwing und Stampf Festival Site, Zurich on Thu, 27 Aug 2026.
+Atrice is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Schwing und Stampf Festival Site, Zurich on Thu, 27 Aug 2026.
 
 Atrice is a bass and techno artist based in Switzerland, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Emilia Grima, Jan Swam and Stenny. Next up: TBA - Schwing und Stampf Festival Site, Zurich on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Atrice is a bass and techno artist based in Switzerland, tracked on soundcheck, 
 
 Emilia Grima, Jan Swam, Stenny
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrice/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/atrice/)*

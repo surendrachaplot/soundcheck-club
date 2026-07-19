@@ -1,6 +1,6 @@
 # Ximxim Bar
 
-Ximxim Bar is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "The Vanishing Point: Kaeno Korea Debut" on Sat, 8 Aug 2026.
+Ximxim Bar is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Vanishing Point: Kaeno Korea Debut" on Sat, 8 Aug 2026.
 
 Ximxim Bar is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Casepeat, Dalmoori, Kaeno and Kago Pengchi and 2 more. Browse upcoming dates, start times and who's playing. 11, Yeonmujang 15-gil, Seongdong-gu, Seoul.
 
@@ -14,4 +14,4 @@ Ximxim Bar is a music venue in Seoul listed on soundcheck. 1 upcoming night, wit
 
 11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*

@@ -1,6 +1,6 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at KALT, Strasbourg on Sat, 15 Aug 2026.
+Alex Nantaya is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at KALT, Strasbourg on Sat, 15 Aug 2026.
 
 Alex Nantaya is a techno and electro artist tracked on soundcheck, with 67 sets logged across Bangkok, Basel, Berlin and Geneva and 8 more. Often billed alongside Bours?, Doma and Gioski. Next up: KALT, Strasbourg on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ Alex Nantaya is a techno and electro artist tracked on soundcheck, with 67 sets 
 
 Bours?, Doma, Gioski
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

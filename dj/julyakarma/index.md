@@ -1,14 +1,13 @@
 # Julya Karma
 
-Julya Karma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Knockdown Center, New York City on Sat, 18 Jul 2026.
+Julya Karma is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Floyd, Miami on Sun, 19 Jul 2026.
 
-Julya Karma is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Dixon and Jimi Jules. Next up: Knockdown Center, Newyorkcity on Sat 18 Jul.
+Julya Karma is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Dixon and Jimi Jules. Next up: Floyd, Miami on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Knockdown Center | New York City |
 | Sun, 19 Jul 2026 | Floyd | Miami |
 | Thu, 30 Jul 2026 | Scorpios | Mykonos |
 | Fri, 31 Jul 2026 | Nitsa Club | Barcelona |
@@ -16,6 +15,7 @@ Julya Karma is a techno and house artist tracked on soundcheck, with 88 sets log
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 18 Jul 2026
 - Scorpios, Mykonos — Thu, 16 Jul 2026
 - Hive Club, Zurich — Sat, 11 Jul 2026
 - Poble Espanyol, Barcelona — Fri, 19 Jun 2026
@@ -23,10 +23,9 @@ Julya Karma is a techno and house artist tracked on soundcheck, with 88 sets log
 - TBA, Istanbul — Sat, 16 May 2026
 - Neo Química Arena, Sao Paulo — Fri, 1 May 2026
 - Flash, Washington DC — Sun, 26 Apr 2026
-- The 1896, New York City — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Âme, Dixon, Jimi Jules
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/julyakarma/)*

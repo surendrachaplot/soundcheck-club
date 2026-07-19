@@ -1,6 +1,6 @@
 # Zellers
 
-Zellers is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Soleil, Toronto on Sat, 25 Jul 2026.
+Zellers is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Soleil, Toronto on Sat, 25 Jul 2026.
 
 Zellers is a techno and house artist tracked on soundcheck, with 64 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: Soleil, Toronto on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Zellers is a techno and house artist tracked on soundcheck, with 64 sets logged 
 
 Marnigurl, Jaw Jones, DJ RATA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*

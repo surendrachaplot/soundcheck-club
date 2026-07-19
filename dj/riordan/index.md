@@ -1,6 +1,6 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Boomerang Beach, The Hague on Fri, 24 Jul 2026.
+Riordan is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boomerang Beach, The Hague on Fri, 24 Jul 2026.
 
 Riordan is a house and tech house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Barcelona and Belfast and 35 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Boomerang Beach, Thehague on Fri 24 Jul.
 
@@ -32,4 +32,4 @@ Riordan is a house and tech house artist tracked on soundcheck, with 115 sets lo
 
 Gorgon City, Prunk, Hot Since 82
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/riordan/)*

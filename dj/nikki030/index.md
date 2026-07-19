@@ -1,6 +1,6 @@
 # NIKKI030
 
-NIKKI030 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
+NIKKI030 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Near Berlin (Secret Forest), Berlin on Thu, 6 Aug 2026.
 
 NIKKI030 is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Vienna. Often billed alongside Anuuk, DonChoppa and Charleen Herzig. Next up: TBA - Near Berlin (Secret Forest), Berlin on Thu 6 Aug.
 
@@ -21,4 +21,4 @@ NIKKI030 is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Anuuk, DonChoppa, Charleen Herzig
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*

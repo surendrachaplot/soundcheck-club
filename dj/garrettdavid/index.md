@@ -1,14 +1,13 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at 11 Bromley Street, B9 4AN, Birmingham on Sat, 18 Jul 2026.
+Garrett David is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at DC-10, Ibiza on Mon, 10 Aug 2026.
 
-Garrett David is a house and disco artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 31 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: 11 Bromley Street, B9 4AN, Birmingham on Sat 18 Jul.
+Garrett David is a house and disco artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 31 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: DC-10, Ibiza on Mon 10 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | 11 Bromley Street, B9 4AN | Birmingham |
 | Mon, 10 Aug 2026 | DC-10 | Ibiza |
 | Sat, 15 Aug 2026 | Night Tales | London |
 | Fri, 4 Sept 2026 | The Loft | Manchester |
@@ -18,6 +17,7 @@ Garrett David is a house and disco artist tracked on soundcheck, with 194 sets l
 
 ## Recently played
 
+- 11 Bromley Street, B9 4AN, Birmingham — Sat, 18 Jul 2026
 - Shelter Amsterdam, Amsterdam — Fri, 17 Jul 2026
 - DC-10, Ibiza — Mon, 15 Jun 2026
 - Club der Visionaere, Berlin — Sun, 14 Jun 2026
@@ -25,10 +25,9 @@ Garrett David is a house and disco artist tracked on soundcheck, with 194 sets l
 - Outer Heaven, New York City — Fri, 12 Jun 2026
 - smartbar, Chicago — Sun, 7 Jun 2026
 - Jolene Downtown Miami, Miami — Fri, 5 Jun 2026
-- H0L0, New York City — Sat, 30 May 2026
 
 ## Shares bills with
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

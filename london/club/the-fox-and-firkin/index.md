@@ -1,15 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "XOTIC GLOBAL GARDEN PARTY" on Sat, 18 Jul 2026.
+The Fox and Firkin is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Tokyo Riddim Sunday" on Sun, 26 Jul 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 3 Minds, a life in space, ARLYSS and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | XOTIC GLOBAL GARDEN PARTY | HARUNA (2), Worldwidealicia |
-| Sat, 18 Jul 2026 | The South London Soul Train with Butter Funk Family [Live] | Butter Funk Family, Jazzheadchronic |
 | Sun, 26 Jul 2026 | Tokyo Riddim Sunday | Kay Suzuki, Nina Yamada |
 | Thu, 30 Jul 2026 | Benin International Musical |  |
 | Fri, 31 Jul 2026 | Mega Mega | Moina Moin, Phoebe Massey, Tekhole, veryt |
@@ -18,9 +16,11 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming 
 | Fri, 7 Aug 2026 | Congo Natty | Congo Natty |
 | Sat, 8 Aug 2026 | Day & Night Refugee Fundraiser (Skull Rub X High Hats X Felt Sound System) | ARLYSS, M.I.C (The Master of Inane Conversation), Nammy Wams, Rohan Rakhit, THEMPRESS, Yug (UK), a life in space, nasar |
 | Fri, 14 Aug 2026 | Fabio & Grooverider | Dj Essence, Fabio, Grooverider, Sweetpea |
+| Sat, 15 Aug 2026 | red room & No Brakes: Shifa Ligero, JVINCENT, ZEE-2, Sampii | JVINCENT, Shifa Ligero, ZEE-2 |
+| Sat, 22 Aug 2026 | Dubtendo Day Party |  |
 
 ## Address
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

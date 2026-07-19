@@ -1,6 +1,6 @@
 # Skillis
 
-Skillis is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
+Skillis is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Edinburgh, Edinburgh on Fri, 7 Aug 2026.
 
 Skillis is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 134 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Feena, Creep Woland and LWS. Next up: TBA - Edinburgh, Edinburgh on Fri 7 Aug.
 
@@ -26,4 +26,4 @@ Skillis is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Feena, Creep Woland, LWS
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skillis/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/skillis/)*

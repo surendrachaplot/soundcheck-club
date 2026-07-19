@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "BODIES x Sachsentrance" on Sat, 18 Jul 2026.
+ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Lilith" on Wed, 22 Jul 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 7CIRCLE, Alexa Fluor, Alex Pastore and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 7CIRCLE, Alexa Fluor, Alex Pastore and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | BODIES x Sachsentrance | Alviker, Bovskey, Only Fire, Sai, The Jakob Sister, vizionn |
 | Wed, 22 Jul 2026 | Lilith |  |
 | Thu, 23 Jul 2026 | Complice x Kluster — Prelude to CSD | Alfred Czital, Aurian, CLEO, EMIRA, Elvin, Equus Belli, Iris Leidenschaft, KEUT, Litoshka, Miro Von, The Camel |
 | Fri, 24 Jul 2026 | PUTI PRIDE 2026 | Clementaum, Isa GT, Lazy Rosario, MALAGÜERA |
@@ -18,9 +17,10 @@
 | Sat, 1 Aug 2026 | silikon w/ ALIS. • ELOISA • GIANNI • NASTYA NVRSLP • YENKOV  | ALIS., Alexa Fluor, DJ Gianni, ELOISA, Melanchromie, NASTYA NVRSLP, Razzle Dazzler, YENKOV |
 | Fri, 7 Aug 2026 | Ten Years SYNOID |  |
 | Sat, 8 Aug 2026 | TRINITY pt. IV w/ Lukas Meunier & David Strasser | BENDOM, David Strasser, FRËIHERR, Lukas Meunier, Nilinski, Phil Biehler, Schleo, SchokoZitrone, Yokio, kutscher, loumo |
+| Sun, 9 Aug 2026 | PALMAHOUSICA |  |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

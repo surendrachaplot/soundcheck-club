@@ -1,6 +1,6 @@
 # MRZ (1)
 
-MRZ (1) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Seoul on Thu, 30 Jul 2026.
+MRZ (1) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Seoul on Thu, 30 Jul 2026.
 
 MRZ (1) is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Bucharest and Budapest and 12 more. Often billed alongside dj poolboi, Baltra and DJ Houseplants. Next up: TBA, Seoul on Thu 30 Jul.
 
@@ -29,4 +29,4 @@ MRZ (1) is a techno and house artist tracked on soundcheck, with 135 sets logged
 
 dj poolboi, Baltra, DJ Houseplants
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrz-1/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mrz-1/)*

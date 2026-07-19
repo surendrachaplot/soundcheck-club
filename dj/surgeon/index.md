@@ -1,6 +1,6 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Signal, New York City on Fri, 24 Jul 2026.
+Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Signal, New York City on Fri, 24 Jul 2026.
 
 Surgeon is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: Signal, Newyorkcity on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Surgeon is a techno and house artist tracked on soundcheck, with 121 sets logged
 
 Speedy J, DJ Pete, Eris Drew
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

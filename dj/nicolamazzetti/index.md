@@ -1,6 +1,6 @@
 # Nicola Mazzetti
 
-Nicola Mazzetti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
+Nicola Mazzetti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
 
 Nicola Mazzetti is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Marcello (2), Simone de Kunovich and Pascal Moscheni. Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nicola Mazzetti is a techno and house artist tracked on soundcheck, with 74 sets
 
 Marcello (2), Simone de Kunovich, Pascal Moscheni
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamazzetti/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamazzetti/)*

@@ -1,14 +1,13 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ANTIDOTO x SIGURD CPH" on Sat, 18 Jul 2026.
+Sigurd CPH is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "FLOOR - FREE ALL NIGHT" on Thu, 23 Jul 2026.
 
-Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including Ave Maria, Diego Armando, John Vincent and Kaddi Sawaneh and 2 more. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
+Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including John Vincent, Kaddi Sawaneh and Sonia Sol. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | ANTIDOTO x SIGURD CPH | Ave Maria, Diego Armando, Yosef (ES) |
 | Thu, 23 Jul 2026 | FLOOR - FREE ALL NIGHT |  |
 | Fri, 24 Jul 2026 | 2200 | Kaddi Sawaneh |
 | Sat, 25 Jul 2026 | Sigurd presents: Sonia Sol (US) | John Vincent, Sonia Sol |
@@ -19,4 +18,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 6 upcoming night
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

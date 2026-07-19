@@ -1,8 +1,8 @@
 # DAZA
 
-DAZA is a Techno and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Minimal Bar, Berlin on Fri, 24 Jul 2026.
+DAZA is a Techno and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Minimal Bar, Berlin on Fri, 24 Jul 2026.
 
-DAZA is a techno and minimal artist tracked on soundcheck, with 128 sets logged across Barcelona, Berlin, Leipzig and Paris. Often billed alongside Daniel Jaramillo, Sika Akis and Basstronauten. Next up: Minimal Bar, Berlin on Fri 24 Jul.
+DAZA is a techno and minimal artist tracked on soundcheck, with 129 sets logged across Barcelona, Berlin, Leipzig and Paris. Often billed alongside Daniel Jaramillo, Sika Akis and Basstronauten. Next up: Minimal Bar, Berlin on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DAZA is a techno and minimal artist tracked on soundcheck, with 128 sets logged 
 | Sat, 8 Aug 2026 | Minimal Bar | Berlin |
 | Fri, 14 Aug 2026 | Bredouille | Berlin |
 | Fri, 28 Aug 2026 | Minimal Bar | Berlin |
+| Sat, 12 Sept 2026 | Minimal Bar | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DAZA is a techno and minimal artist tracked on soundcheck, with 128 sets logged 
 
 Daniel Jaramillo, Sika Akis, Basstronauten
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daza/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/daza/)*

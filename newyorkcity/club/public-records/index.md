@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Nabihah Iqbal [DJ], Jamie 3:26 / Ayanna Heaven, Michael Grant / vikmatic" on Sat, 18 Jul 2026.
+public records is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "The Nursery: Love From The Sun w/ Specter, Noshaluv, JADALAREIGN" on Sun, 19 Jul 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including 30000AD, 320 (1), Aaron Paar and A lana and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Nabihah Iqbal [DJ], Jamie 3:26 / Ayanna Heaven, Michael Grant / vikmatic | Ayanna Heaven, Jamie 3:26, Mike Grant, Nabihah Iqbal, vikmatic |
 | Sun, 19 Jul 2026 | The Nursery: Love From The Sun w/ Specter, Noshaluv, JADALAREIGN | JADALAREIGN, Noshaluv, Specter |
 | Fri, 24 Jul 2026 | Claudio PRC, Secret Raver / Tauceti, JUDY / Aaron Paar | Aaron Paar, Claudio PRC, Judy (ES), Secret Raver, Tauceti (FR) |
 | Sat, 25 Jul 2026 | Ali Berger [Live], Ciel / Shawn Dub, Jerome Derradji / A lana | A lana, Ali Berger, Ciel, Jerome Derradji, Shawn Dub |
@@ -18,9 +17,10 @@ public records is a music venue in Newyorkcity listed on soundcheck. 33 upcoming
 | Fri, 31 Jul 2026 | Ana Rs, Henry Chow / John Tejada, e-Lite / Jesse Dorris | Ana Rs, Henry Chow, John Tejada, e-Lite |
 | Sat, 1 Aug 2026 | Scott Grooves, Jenifa Mayanja / Julion D'Angelo, k.tea / DJ Nyack | Jenifa Mayanja, Julion De'Angelo, Scott Grooves, k.tea |
 | Sun, 2 Aug 2026 | The Nursery: Soul Summit All Day Long | Soul Summit Music |
+| Thu, 6 Aug 2026 | Deluge & Plural Artist Management present: Bobby Beethoven, Kumi James, Kelman Duran | BAE BAE, Kelman Duran, Total Freedom |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

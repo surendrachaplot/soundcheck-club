@@ -1,6 +1,6 @@
 # Nark
 
-Nark is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Monkey Loft, Seattle on Thu, 23 Jul 2026.
+Nark is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Monkey Loft, Seattle on Thu, 23 Jul 2026.
 
 Nark is a house and techno artist tracked on soundcheck, with 65 sets logged across Losangeles, Mexicocity, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, Succubass and Wax Witch. Next up: The Monkey Loft, Seattle on Thu 23 Jul.
 
@@ -26,4 +26,4 @@ Nark is a house and techno artist tracked on soundcheck, with 65 sets logged acr
 
 Sharlese, Succubass, Wax Witch
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/nark/)*

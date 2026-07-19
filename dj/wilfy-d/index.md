@@ -1,6 +1,6 @@
 # Wilfy D
 
-Wilfy D is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Wilfy D is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Wilfy D is a garage and house artist tracked on soundcheck, with 42 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Stolen, Tommy Gold and Elliot Schooling. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Wilfy D is a garage and house artist tracked on soundcheck, with 42 sets logged 
 
 DJ Stolen, Tommy Gold, Elliot Schooling
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*

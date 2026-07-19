@@ -1,8 +1,8 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
+Ouissam is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 25 Jul 2026.
 
-Ouissam is a house and techno artist tracked on soundcheck, with 58 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
+Ouissam is a house and techno artist tracked on soundcheck, with 59 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 25 Jul.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ouissam is a house and techno artist tracked on soundcheck, with 58 sets logged 
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 31 Jul 2026 | BLITZ | Munich |
+| Sat, 17 Oct 2026 | Horn | Bangkok |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ouissam is a house and techno artist tracked on soundcheck, with 58 sets logged 
 
 Emel, Di Linh, Saint Guel
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

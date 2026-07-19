@@ -1,6 +1,6 @@
 # Holding Patterns
 
-Holding Patterns is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Lift Your Feet" on Thu, 23 Jul 2026.
+Holding Patterns is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Lift Your Feet" on Thu, 23 Jul 2026.
 
 Holding Patterns is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including Cosmikuro, DARQGOLD and Harry Rook. Browse upcoming dates, start times and who's playing. 2 Albion Place, LS1 6JL.
 
@@ -18,4 +18,4 @@ Holding Patterns is a music venue in Leeds listed on soundcheck. 5 upcoming nigh
 
 2 Albion Place, LS1 6JL, Leeds
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*

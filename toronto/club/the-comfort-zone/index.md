@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "404: SHOGUN" on Fri, 31 Jul 2026.
+The Comfort Zone is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "404: SHOGUN" on Fri, 31 Jul 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including KAYN, KILL 9 1, Marzi (2) and Maul (2) and 2 more. Browse upcoming dates, start times and who's playing. 1369 Queen St. West.
 
@@ -15,4 +15,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 2 upcoming ni
 
 1369 Queen St. West, Toronto
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

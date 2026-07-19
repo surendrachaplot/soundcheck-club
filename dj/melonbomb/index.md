@@ -1,14 +1,13 @@
 # Melon Bomb
 
-Melon Bomb is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Joshua Brooks, Manchester on Sat, 18 Jul 2026.
+Melon Bomb is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at [UNVRS], Ibiza on Sun, 19 Jul 2026.
 
-Melon Bomb is a house and techno artist tracked on soundcheck, with 71 sets logged across Berlin, Dublin, Glasgow and Ibiza and 9 more. Often billed alongside Carl Cox, Sophie Lloyd and Melvo Baptiste. Next up: Joshua Brooks, Manchester on Sat 18 Jul.
+Melon Bomb is a house and techno artist tracked on soundcheck, with 71 sets logged across Berlin, Dublin, Glasgow and Ibiza and 9 more. Often billed alongside Carl Cox, Sophie Lloyd and Melvo Baptiste. Next up: [UNVRS], Ibiza on Sun 19 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Joshua Brooks | Manchester |
 | Sun, 19 Jul 2026 | [UNVRS] | Ibiza |
 | Sun, 26 Jul 2026 | [UNVRS] | Ibiza |
 | Sun, 9 Aug 2026 | [UNVRS] | Ibiza |
@@ -22,6 +21,7 @@ Melon Bomb is a house and techno artist tracked on soundcheck, with 71 sets logg
 
 ## Recently played
 
+- Joshua Brooks, Manchester — Sat, 18 Jul 2026
 - [UNVRS], Ibiza — Sun, 12 Jul 2026
 - ÆDEN, Berlin — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Sun, 5 Jul 2026
@@ -29,10 +29,9 @@ Melon Bomb is a house and techno artist tracked on soundcheck, with 71 sets logg
 - [UNVRS], Ibiza — Sun, 28 Jun 2026
 - [UNVRS], Ibiza — Sun, 21 Jun 2026
 - Hï Ibiza, Ibiza — Sat, 11 Oct 2025
-- Hï Ibiza, Ibiza — Sun, 5 Oct 2025
 
 ## Shares bills with
 
 Carl Cox, Sophie Lloyd, Melvo Baptiste
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/melonbomb/)*

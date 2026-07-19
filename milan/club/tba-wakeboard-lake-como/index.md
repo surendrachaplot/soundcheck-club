@@ -1,6 +1,6 @@
 # TBA - Wakeboard Lake Como
 
-TBA - Wakeboard Lake Como is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "TVB AT WAKEBOARD LAKE COMO" on Sat, 25 Jul 2026.
+TBA - Wakeboard Lake Como is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "TVB AT WAKEBOARD LAKE COMO" on Sat, 25 Jul 2026.
 
 TBA - Wakeboard Lake Como is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Astroloop and we.amps. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Wakeboard Lake Como is a music venue in Milan listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 25 Jul 2026 | TVB AT WAKEBOARD LAKE COMO | Astroloop, we.amps |
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-wakeboard-lake-como/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-wakeboard-lake-como/)*

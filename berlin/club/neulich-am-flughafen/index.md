@@ -1,6 +1,6 @@
 # Neulich am Flughafen
 
-Neulich am Flughafen is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Neulich Biergarten Day Rave" on Sun, 26 Jul 2026.
+Neulich am Flughafen is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Neulich Biergarten Day Rave" on Sun, 26 Jul 2026.
 
 Neulich am Flughafen is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Alexander Paulski, babxi, Eren (2) and Jeremy Reinhard and 2 more. Browse upcoming dates, start times and who's playing. Tempelhofer Damm 45, 12101 Berlin.
 
@@ -15,4 +15,4 @@ Neulich am Flughafen is a music venue in Berlin listed on soundcheck. 2 upcoming
 
 Tempelhofer Damm 45, 12101 Berlin, Berlin
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neulich-am-flughafen/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neulich-am-flughafen/)*

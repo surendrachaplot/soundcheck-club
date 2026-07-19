@@ -1,6 +1,6 @@
 # Club Catwalk
 
-Club Catwalk is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "club speed.star presents: RIRIA" on Fri, 25 Sept 2026.
+Club Catwalk is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "club speed.star presents: RIRIA" on Fri, 25 Sept 2026.
 
 Club Catwalk is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including RIRIA. Browse upcoming dates, start times and who's playing. 698 Harlem Pl, Los Angeles, CA 90014 USA.
 
@@ -14,4 +14,4 @@ Club Catwalk is a music venue in Losangeles listed on soundcheck. 1 upcoming nig
 
 698 Harlem Pl, Los Angeles, CA 90014 USA, Los Angeles
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/club-catwalk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/club-catwalk/)*

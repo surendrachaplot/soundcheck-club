@@ -1,6 +1,6 @@
 # Louise Chen
 
-Louise Chen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Point Ephémère, Paris on Sat, 29 Aug 2026.
+Louise Chen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Point Ephémère, Paris on Sat, 29 Aug 2026.
 
 Louise Chen is a house and disco artist based in Luxembourg, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Heléna Star, Bradley Zero and Tai Lokun. Next up: Point Ephémère, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Louise Chen is a house and disco artist based in Luxembourg, tracked on soundche
 
 Heléna Star, Bradley Zero, Tai Lokun
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*

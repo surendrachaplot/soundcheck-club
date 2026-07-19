@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
+Aiden (DE) is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Bowlers Exhibition Centre, Manchester on Sat, 1 Aug 2026.
 
 Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Bowlers Exhibition Centre, Manchester on Sat 1 Aug.
 
@@ -29,4 +29,4 @@ Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 80 sets
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

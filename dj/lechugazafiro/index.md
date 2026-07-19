@@ -1,6 +1,6 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
+Lechuga Zafiro is a Techno and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 31 Jul 2026.
 
 Lechuga Zafiro is a techno and uk funky artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Verraco, Animistic Beliefs and Gavsborg. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Lechuga Zafiro is a techno and uk funky artist tracked on soundcheck, with 59 se
 
 Verraco, Animistic Beliefs, Gavsborg
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

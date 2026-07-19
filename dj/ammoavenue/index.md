@@ -1,14 +1,13 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Flac, Seoul on Sat, 18 Jul 2026.
+Ammo Avenue is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Hï Ibiza, Ibiza on Tue, 11 Aug 2026.
 
-Ammo Avenue is a tech house and house artist based in Peru, tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: Flac, Seoul on Sat 18 Jul.
+Ammo Avenue is a tech house and house artist based in Peru, tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: Hï Ibiza, Ibiza on Tue 11 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Flac | Seoul |
 | Tue, 11 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 14 Aug 2026 | Knockdown Center | New York City |
 | Fri, 14 Aug 2026 | Floyd | Miami |
@@ -16,6 +15,7 @@ Ammo Avenue is a tech house and house artist based in Peru, tracked on soundchec
 
 ## Recently played
 
+- Flac, Seoul — Sat, 18 Jul 2026
 - Malaga Forum, Malaga — Sun, 28 Jun 2026
 - Bikini Club, Barcelona — Fri, 19 Jun 2026
 - Infinity Room Inside Future, Toronto — Sat, 6 Jun 2026
@@ -23,10 +23,9 @@ Ammo Avenue is a tech house and house artist based in Peru, tracked on soundchec
 - Factory Town, Miami — Sat, 28 Mar 2026
 - Ministry Of Sound, London — Sat, 2 Aug 2025
 - Avyca Ibiza, Ibiza — Tue, 29 Jul 2025
-- Bosc Tancat / Diverbosc, Barcelona — Thu, 12 Jun 2025
 
 ## Shares bills with
 
 Hector Couto, Pirate Copy, East End Dubs
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*

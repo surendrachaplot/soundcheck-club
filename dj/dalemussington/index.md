@@ -1,6 +1,6 @@
 # Dale Mussington
 
-Dale Mussington is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at fabric, London on Fri, 21 Aug 2026.
+Dale Mussington is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at fabric, London on Fri, 21 Aug 2026.
 
 Dale Mussington is a house and garage artist tracked on soundcheck, with 56 sets logged across Amsterdam, Leeds, London and Malaga and 1 more. Often billed alongside Sam Bangura, Harry McCanna and NorthSouth. Next up: fabric, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Dale Mussington is a house and garage artist tracked on soundcheck, with 56 sets
 
 Sam Bangura, Harry McCanna, NorthSouth
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*

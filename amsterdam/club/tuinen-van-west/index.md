@@ -1,6 +1,6 @@
 # Tuinen van West
 
-Tuinen van West is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "ZeeZout Festival 2026" on Sat, 29 Aug 2026.
+Tuinen van West is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "ZeeZout Festival 2026" on Sat, 29 Aug 2026.
 
 Tuinen van West is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including 36framez, Bad Boombox, Benwal and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Tom Scheursweg 48, 1067 MC Amsterdam.
 
@@ -14,4 +14,4 @@ Tuinen van West is a music venue in Amsterdam listed on soundcheck. 1 upcoming n
 
 Tom Scheursweg 48, 1067 MC Amsterdam, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tuinen-van-west/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tuinen-van-west/)*

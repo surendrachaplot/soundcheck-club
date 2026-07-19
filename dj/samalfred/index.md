@@ -1,14 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OLT Rivierenhof, Antwerp on Sat, 18 Jul 2026.
+Sam Alfred is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Le Sucre, Lyon on Sun, 26 Jul 2026.
 
-Sam Alfred is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside X CLUB., Club Angel and KETTAMA. Next up: OLT Rivierenhof, Antwerp on Sat 18 Jul.
+Sam Alfred is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside X CLUB., Club Angel and KETTAMA. Next up: Le Sucre, Lyon on Sun 26 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | OLT Rivierenhof | Antwerp |
 | Sun, 26 Jul 2026 | Le Sucre | Lyon |
 | Thu, 30 Jul 2026 | Hangaren | Copenhagen |
 | Wed, 12 Aug 2026 | Gianpula Village | Malta |
@@ -20,6 +19,7 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 126 sets log
 
 ## Recently played
 
+- OLT Rivierenhof, Antwerp — Sat, 18 Jul 2026
 - Shelter Amsterdam, Amsterdam — Fri, 3 Jul 2026
 - The Cause, London — Sat, 27 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -27,10 +27,9 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 126 sets log
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Riverside Museum, Glasgow — Fri, 22 May 2026
 - Wigwam, Dublin — Fri, 22 May 2026
-- DC-10, Ibiza — Mon, 18 May 2026
 
 ## Shares bills with
 
 X CLUB., Club Angel, KETTAMA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

@@ -1,6 +1,6 @@
 # RHR
 
-RHR is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at KREUZWERK, Berlin on Fri, 24 Jul 2026.
+RHR is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at KREUZWERK, Berlin on Fri, 24 Jul 2026.
 
 RHR is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: KREUZWERK, Berlin on Fri 24 Jul.
 
@@ -33,4 +33,4 @@ RHR is a techno and house artist tracked on soundcheck, with 108 sets logged acr
 
 Cashu, upsammy, BADSISTA
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

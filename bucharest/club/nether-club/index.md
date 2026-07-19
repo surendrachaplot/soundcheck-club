@@ -1,8 +1,8 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "HAILAFTER with MANEFIU,ERAROCCI, Cetateanu" on Sun, 19 Jul 2026.
+Nether Club is a music venue in Bucharest with 11 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "HAILAFTER with MANEFIU,ERAROCCI, Cetateanu" on Sun, 19 Jul 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and Cetateanu and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 11 upcoming nights, with line-ups including AMEDEUS, Amnesico, BUTCHER BABY and Cetateanu and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming night
 | Sat, 8 Aug 2026 | THE DEVIL IS BACK |  |
 | Fri, 14 Aug 2026 | M.I.L.K - MILAN RUNWAY | AMEDEUS, Amnesico, KATHERYNE, LVUR, Olimpia, Stefan Hernandez |
 | Sat, 22 Aug 2026 | THE DEVIL IS BACK |  |
+| Fri, 4 Sept 2026 | ALPHA SPECTRUM: PRØJECT MORPHEUS ALL NIGHT LONG | Project Morpheus |
 | Sat, 5 Sept 2026 | Zenyth III | BUTCHER BABY |
 | Sat, 12 Sept 2026 | some.techno@ Nether Club : blackout |  |
 | Fri, 18 Sept 2026 | M.I.L.K - GERMAN ENGINEERING | AMEDEUS, Amnesico, KATHERYNE, LVUR, Stefan Hernandez, Trancelate |
@@ -22,4 +23,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 9 upcoming night
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

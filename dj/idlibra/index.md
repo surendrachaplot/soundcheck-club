@@ -1,6 +1,6 @@
 # IDLIBRA
 
-IDLIBRA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at OHM, Berlin on Fri, 31 Jul 2026.
+IDLIBRA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at OHM, Berlin on Fri, 31 Jul 2026.
 
 IDLIBRA is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Leipzig and Lisbon and 6 more. Often billed alongside Alírio, Cashu and Kontronatura. Next up: OHM, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ IDLIBRA is a house and techno artist tracked on soundcheck, with 39 sets logged 
 
 Alírio, Cashu, Kontronatura
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idlibra/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/idlibra/)*

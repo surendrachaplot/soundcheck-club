@@ -1,6 +1,6 @@
 # D I N
 
-D I N is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 25 Jul 2026.
+D I N is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 25 Jul 2026.
 
 D I N is a house and minimal artist based in Latvia, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Budapest and London and 1 more. Often billed alongside iOAN (LV), Adroit and Ikss. Next up: Kaņepes Kultūras Centrs, Riga on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ D I N is a house and minimal artist based in Latvia, tracked on soundcheck, with
 
 iOAN (LV), Adroit, Ikss
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/din-lv/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/din-lv/)*

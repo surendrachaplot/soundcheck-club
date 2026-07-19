@@ -1,6 +1,6 @@
 # Arman John
 
-Arman John is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
+Arman John is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Lokschuppen Berlin, Berlin on Fri, 31 Jul 2026.
 
 Arman John is a trance and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Basel and Belfast and 28 more. Often billed alongside Kø:lab, BNZN and Cara Elizabeth. Next up: Lokschuppen Berlin, Berlin on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Arman John is a trance and techno artist tracked on soundcheck, with 109 sets lo
 
 Kø:lab, BNZN, Cara Elizabeth
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/armanjohn/)*

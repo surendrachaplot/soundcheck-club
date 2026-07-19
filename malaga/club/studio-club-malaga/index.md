@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 9 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Studio Club Invites: CRISTINA LAZIC & Alci" on Sat, 18 Jul 2026.
+Studio Club Malaga is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "STUDIOCLUB X RAWPPL" on Fri, 24 Jul 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 9 upcoming nights, with line-ups including Alci, Alvaro Medina, Arcfilter and Bambi-S and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 8 upcoming nights, with line-ups including Alvaro Medina, Arcfilter, Bambi-S and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Studio Club Invites: CRISTINA LAZIC & Alci | Alci, Cristina Lazic, Felipe Bravo |
 | Fri, 24 Jul 2026 | STUDIOCLUB X RAWPPL | Arcfilter, Danny Wabbit, Nastia, OZA |
 | Sat, 25 Jul 2026 | Studio Club Invites: Roi Perez & FRIENDS | Biesmans, Roi Perez, fka.m4a |
 | Fri, 31 Jul 2026 | Studio Club Invites: SHDW | ORBE, SHDW, Supergloss |
@@ -22,4 +21,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 9 upcoming n
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

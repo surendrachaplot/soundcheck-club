@@ -1,6 +1,6 @@
 # The Melrose House
 
-The Melrose House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mahragan Party" on Sat, 25 Jul 2026.
+The Melrose House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Mahragan Party" on Sat, 25 Jul 2026.
 
 The Melrose House is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including BAE BAE, Mansaf Mama, sadie ibrahim and SARITA LINDA. Browse upcoming dates, start times and who's playing. 4216 Melrose ave. Los Angeles, CA 90029.
 
@@ -14,4 +14,4 @@ The Melrose House is a music venue in Losangeles listed on soundcheck. 1 upcomin
 
 4216 Melrose ave. Los Angeles, CA 90029, Los Angeles
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-melrose-house/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-melrose-house/)*

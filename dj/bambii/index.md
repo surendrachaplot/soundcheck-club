@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
+Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Sønder Hoved, Copenhagen on Thu, 30 Jul 2026.
 
 Bambii is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Austin and Barcelona and 25 more. Often billed alongside Young Teesh, Nino Brown (2) and Chinelo. Next up: Sønder Hoved, Copenhagen on Thu 30 Jul.
 
@@ -27,4 +27,4 @@ Bambii is a techno and house artist tracked on soundcheck, with 97 sets logged a
 
 Young Teesh, Nino Brown (2), Chinelo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

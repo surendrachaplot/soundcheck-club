@@ -1,6 +1,6 @@
 # Aphøtic
 
-Aphøtic is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
+Aphøtic is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
 
 Aphøtic is a techno and industrial artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Cynthia Spiering, XRTN and KARAH. Next up: Beton-T, Utrecht on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Aphøtic is a techno and industrial artist tracked on soundcheck, with 81 sets l
 
 Cynthia Spiering, XRTN, KARAH
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/aphotic/)*

@@ -1,6 +1,6 @@
 # Tropikali BY NIGHT | Worldpride Amsterdam at Paradiso
 
-Tropikali BY NIGHT | Worldpride Amsterdam at Paradiso on Sat 8 Aug, Amsterdam. 7 acts on the bill: ASHTATTZ, Absoluut, DHC and Doppelgang and 3 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Tropikali BY NIGHT | Worldpride Amsterdam at Paradiso on Sat 8 Aug, Amsterdam. 8 acts on the bill: ASHTATTZ, Absoluut, DHC and Disk Cartel and 4 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Tropikali BY NIGHT | Worldpride Amsterdam at Paradiso on Sat 8 Aug, Amsterdam. 7
 - ASHTATTZ
 - Absoluut
 - DHC
+- Disk Cartel
 - Doppelgang
 - Protopapa
 - S-candalo

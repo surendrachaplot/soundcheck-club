@@ -1,6 +1,6 @@
 # Felix Reichelt
 
-Felix Reichelt is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Der Weiße Hase, Berlin on Tue, 28 Jul 2026.
+Felix Reichelt is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Der Weiße Hase, Berlin on Tue, 28 Jul 2026.
 
 Felix Reichelt is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bangkok, Berlin and Hamburg. Often billed alongside Cat Vermillion, Ronny Luft and Kaminka Merel. Next up: Der Weiße Hase, Berlin on Tue 28 Jul.
 
@@ -28,4 +28,4 @@ Felix Reichelt is a techno and tech house artist tracked on soundcheck, with 88 
 
 Cat Vermillion, Ronny Luft, Kaminka Merel
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixreichelt/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/felixreichelt/)*

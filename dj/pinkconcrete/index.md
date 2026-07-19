@@ -1,6 +1,6 @@
 # Pink Concrete
 
-Pink Concrete is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at TBA, Amsterdam on Sun, 19 Jul 2026.
+Pink Concrete is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at TBA, Amsterdam on Sun, 19 Jul 2026.
 
 Pink Concrete is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Berlin and Chicago and 22 more. Often billed alongside Adamatron, Raketa95 and aláya. Next up: TBA, Amsterdam on Sun 19 Jul.
 
@@ -28,4 +28,4 @@ Pink Concrete is a techno and house artist tracked on soundcheck, with 141 sets 
 
 Adamatron, Raketa95, aláya
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*

@@ -1,6 +1,6 @@
 # Daniele Baldelli
 
-Daniele Baldelli is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Jazz Cafe, London on Sat, 25 Jul 2026.
+Daniele Baldelli is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Jazz Cafe, London on Sat, 25 Jul 2026.
 
 Daniele Baldelli is a disco and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 9 more. Often billed alongside Giuseppe Fava, Alexander Robotnick and Budino. Next up: The Jazz Cafe, London on Sat 25 Jul.
 
@@ -27,4 +27,4 @@ Daniele Baldelli is a disco and house artist tracked on soundcheck, with 40 sets
 
 Giuseppe Fava, Alexander Robotnick, Budino
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*

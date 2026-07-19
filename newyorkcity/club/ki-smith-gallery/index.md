@@ -1,6 +1,6 @@
 # Ki Smith Gallery
 
-Ki Smith Gallery is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "ALI'S STORY An Evening of Film, Conversation & Community - A Curated Cultural Experience" on Fri, 28 Aug 2026.
+Ki Smith Gallery is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "ALI'S STORY An Evening of Film, Conversation & Community - A Curated Cultural Experience" on Fri, 28 Aug 2026.
 
 Ki Smith Gallery is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Ali Coleman. Browse upcoming dates, start times and who's playing. 170 Forsyth St, New York, NY 10002.
 
@@ -14,4 +14,4 @@ Ki Smith Gallery is a music venue in Newyorkcity listed on soundcheck. 1 upcomin
 
 170 Forsyth St, New York, NY 10002, New York City
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/ki-smith-gallery/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/ki-smith-gallery/)*

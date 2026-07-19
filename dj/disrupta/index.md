@@ -1,6 +1,6 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
+Disrupta is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Boston Manor Park, London on Fri, 24 Jul 2026.
 
 Disrupta is a drum & bass and jungle artist tracked on soundcheck, with 72 sets logged across Antwerp, Auckland, Bali and Birmingham and 21 more. Often billed alongside Kanine, Camo & Krooked and K Motionz. Next up: Boston Manor Park, London on Fri 24 Jul.
 
@@ -28,4 +28,4 @@ Disrupta is a drum & bass and jungle artist tracked on soundcheck, with 72 sets 
 
 Kanine, Camo & Krooked, K Motionz
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*

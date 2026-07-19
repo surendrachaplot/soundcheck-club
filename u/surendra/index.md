@@ -1,11 +1,11 @@
 # u/surendra (@surendra)
 
-u/surendra (@surendra) has logged 30 club nights across 21 venues in 9 cities on soundcheck, based in London.
+u/surendra (@surendra) has logged 31 club nights across 22 venues in 9 cities on soundcheck, based in London.
 
-- Nights logged: 30
-- Venues: 21
+- Nights logged: 31
+- Venues: 22
 - Cities: 9
-- Seen live: 112
+- Seen live: 113
 
 ## Most seen
 

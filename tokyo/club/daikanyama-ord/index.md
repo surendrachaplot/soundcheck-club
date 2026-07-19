@@ -1,6 +1,6 @@
 # Daikanyama ORD.
 
-Daikanyama ORD. is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Ontai Media Showcase" on Fri, 31 Jul 2026.
+Daikanyama ORD. is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ontai Media Showcase" on Fri, 31 Jul 2026.
 
 Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DAIY, Jellyf!sh, Kensuke Fukushima and SOICHI and 1 more. Browse upcoming dates, start times and who's playing. za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo.
 
@@ -14,4 +14,4 @@ Daikanyama ORD. is a music venue in Tokyo listed on soundcheck. 1 upcoming night
 
 za HOUSE 2F 1-34-17 ebisu-nishi shibuyaku tokyo, Tokyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/daikanyama-ord/)*

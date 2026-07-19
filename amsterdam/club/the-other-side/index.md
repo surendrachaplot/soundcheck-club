@@ -1,14 +1,13 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "RESTART Events 002 - Sepp'S BIRTHDAY BASH" on Sat, 18 Jul 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Constantmo Summer edition" on Sat, 25 Jul 2026.
 
-THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including 1000raks, Absoluut, Andy Luff and Daniele Temperilli and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
+THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including 1000raks, Absoluut, Jay Jay Revlon and Mitch de Klein and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | RESTART Events 002 - Sepp'S BIRTHDAY BASH | Andy Luff, Daniele Temperilli, David Gtronic, Dimitris Anagnostou, Ferro, Herra, Izak Jules, Kreutziger, Kreutziger Kollektiv, SOLIT, Sepp, Shanne, Vasko Parisis |
 | Sat, 25 Jul 2026 | Constantmo Summer edition |  |
 | Wed, 29 Jul 2026 | F U L L C Y C L E presents: FUSE |  |
 | Thu, 30 Jul 2026 | HustlaBall Amsterdam World Pride 2026 |  |
@@ -20,4 +19,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 7 upcoming ni
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

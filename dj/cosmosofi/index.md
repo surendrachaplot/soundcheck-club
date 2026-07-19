@@ -1,6 +1,6 @@
 # Cosmo Sofi
 
-Cosmo Sofi is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Grow, London on Sat, 29 Aug 2026.
+Cosmo Sofi is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Grow, London on Sat, 29 Aug 2026.
 
 Cosmo Sofi is a house and jazz artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Coco Maria, Joseph Russell and Macca.. Next up: Grow, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Cosmo Sofi is a house and jazz artist tracked on soundcheck, with 57 sets logged
 
 Coco Maria, Joseph Russell, Macca.
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmosofi/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmosofi/)*

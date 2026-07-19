@@ -1,14 +1,13 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Garchinger See, Munich on Sat, 18 Jul 2026.
+Octo Octa is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Milandia, Zurich on Sat, 25 Jul 2026.
 
-Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and ISAbella. Next up: Garchinger See, Munich on Sat 18 Jul.
+Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and ISAbella. Next up: Milandia, Zurich on Sat 25 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Garchinger See | Munich |
 | Sat, 25 Jul 2026 | Milandia | Zurich |
 | Sun, 26 Jul 2026 | The White Hotel | Manchester |
 | Wed, 29 Jul 2026 | Amsterdamse Bos | Amsterdam |
@@ -22,6 +21,7 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logg
 
 ## Recently played
 
+- Garchinger See, Munich — Sat, 18 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
@@ -29,10 +29,9 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 190 sets logg
 - Sloterpark, Amsterdam — Sat, 20 Jun 2026
 - The Cause, London — Fri, 19 Jun 2026
 - Prince Charles, Berlin — Sat, 13 Jun 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
 
 ## Shares bills with
 
 Eris Drew, CCL, ISAbella
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

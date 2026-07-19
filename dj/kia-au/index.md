@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Unité.22, Marseille on Fri, 31 Jul 2026.
+Kia (AU) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Unité.22, Marseille on Fri, 31 Jul 2026.
 
 Kia (AU) is a techno and house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 46 more. Often billed alongside Reptant, DjRUM and livwutang. Next up: Unité.22, Marseille on Fri 31 Jul.
 
@@ -32,4 +32,4 @@ Kia (AU) is a techno and house artist tracked on soundcheck, with 192 sets logge
 
 Reptant, DjRUM, livwutang
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

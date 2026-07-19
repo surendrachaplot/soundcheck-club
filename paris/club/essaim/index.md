@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Rhadoo - all night long" on Sat, 18 Jul 2026.
+essaim is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "tribalism - Liza Rivs, Reeko, SHXCXCHCXSH Live" on Fri, 24 Jul 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Askkin, Audrey Danza, Ben Sims and Céline Technorama and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Askkin, Audrey Danza, Ben Sims and Céline Technorama and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Rhadoo - all night long | Rhadoo |
 | Fri, 24 Jul 2026 | tribalism - Liza Rivs, Reeko, SHXCXCHCXSH Live | Liza Rivs, Reeko, SHXCXCHCXSH |
 | Sat, 25 Jul 2026 | cocoon - Mel, tINI | Mel (FR), tINI |
 | Fri, 31 Jul 2026 | tribalism - Askkin, Nastia | Askkin, Nastia |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Fri, 14 Aug 2026 | tribalism - Christie, Daniel Avery | Christie, Daniel Avery |
 | Sat, 15 Aug 2026 | cocoon - Melody, Nicola Cruz | Melody RA+RE, Nicola Cruz |
 | Fri, 21 Aug 2026 | tribalism - Ben Sims, Céline B | Ben Sims, Céline Technorama |
+| Sat, 22 Aug 2026 | cocoon - Hunee b2b Mattias El Mansouri - all night long | Hunee, Mattias El Mansouri |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

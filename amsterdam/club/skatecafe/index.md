@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "ROOTED X BOUNCE THAT BOOTY" on Sat, 18 Jul 2026.
+Skatecafe is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS" on Tue, 21 Jul 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Alec Dienaar, Aniko, Bibtiana and Ecstasya and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Alec Dienaar, Aniko, Ecstasya and EVER and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | ROOTED X BOUNCE THAT BOOTY | Bibtiana, Eurowitch, Jarreau Vandal, River (1), River (2), Tida Kamara, Zena-Rae, milliyen |
 | Tue, 21 Jul 2026 | Skatecafe & PIP DEN HAAG PRESENTS: SEPPUKU PISTOLS |  |
 | Fri, 24 Jul 2026 | PRIDE - LET'S STRUT |  |
 | Sat, 25 Jul 2026 | PRIDE - PLUG & PLAY | EVER, Ecstasya, Krai, SISSY MISFIT, kimmah |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights
 | Sat, 8 Aug 2026 | DE GROTE VRIJDAG AVOND SHOW MAAR DAN OP ZATERDAG MET HERMAN BROOD | Alec Dienaar, Zeldenrust |
 | Sat, 15 Aug 2026 | LAGOS IN NL XXL | Aniko, Godsendo |
 | Fri, 28 Aug 2026 | AZÚCAR |  |
+| Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

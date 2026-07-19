@@ -1,6 +1,6 @@
 # Jonny From Space
 
-Jonny From Space is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Panke, Berlin on Sat, 25 Jul 2026.
+Jonny From Space is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Panke, Berlin on Sat, 25 Jul 2026.
 
 Jonny From Space is a techno and house artist tracked on soundcheck, with 91 sets logged across Berlin, Chicago, Denver and Detroit and 7 more. Often billed alongside Sister System, Nick León and Danny Daze. Next up: Panke, Berlin on Sat 25 Jul.
 
@@ -29,4 +29,4 @@ Jonny From Space is a techno and house artist tracked on soundcheck, with 91 set
 
 Sister System, Nick León, Danny Daze
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfromspace/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyfromspace/)*

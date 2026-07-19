@@ -1,6 +1,6 @@
 # KREAM
 
-KREAM is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
+KREAM is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Downsview Park, Toronto on Fri, 31 Jul 2026.
 
 KREAM is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Berlin and Boston and 28 more. Often billed alongside James Hype (UK), Adam Beyer and Armin van Buuren. Next up: Downsview Park, Toronto on Fri 31 Jul.
 
@@ -27,4 +27,4 @@ KREAM is a house and techno artist tracked on soundcheck, with 65 sets logged ac
 
 James Hype (UK), Adam Beyer, Armin van Buuren
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*

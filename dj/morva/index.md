@@ -1,6 +1,6 @@
 # Morva
 
-Morva is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tempio del Futuro Perduto, Milan on Fri, 7 Aug 2026.
+Morva is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tempio del Futuro Perduto, Milan on Fri, 7 Aug 2026.
 
 Morva is an electronic artist tracked on soundcheck, with 9 sets logged across Milan. Often billed alongside SHŪ (1), ZHAZHA WANG and DÅwN. Next up: Tempio del Futuro Perduto, Milan on Fri 7 Aug.
 
@@ -25,4 +25,4 @@ Morva is an electronic artist tracked on soundcheck, with 9 sets logged across M
 
 SHŪ (1), ZHAZHA WANG, DÅwN
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morva/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/morva/)*

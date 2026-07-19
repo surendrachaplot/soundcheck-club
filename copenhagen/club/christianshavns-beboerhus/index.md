@@ -1,6 +1,6 @@
 # Christianshavns Beboerhus
 
-Christianshavns Beboerhus is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Alle koncert" on Fri, 28 Aug 2026.
+Christianshavns Beboerhus is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Alle koncert" on Fri, 28 Aug 2026.
 
 Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dronningensgade 34, 1420 Copenhagen K.
 
@@ -14,4 +14,4 @@ Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 1
 
 Dronningensgade 34, 1420 Copenhagen K, Copenhagen
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*

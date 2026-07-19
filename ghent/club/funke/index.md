@@ -1,14 +1,13 @@
 # Funke
 
-Funke is a music venue in Ghent with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FUNKE_GF_DAY02_Ojoo" on Sat, 18 Jul 2026.
+Funke is a music venue in Ghent with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ninety Three Collective with BLUME, Autogenesis [Live], instar & trillosta " on Sun, 19 Jul 2026.
 
-Funke is a music venue in Ghent listed on soundcheck. 8 upcoming nights, with line-ups including Adrian (FR), Al Wootton, Ampe and Autogenesis and 2 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
+Funke is a music venue in Ghent listed on soundcheck. 7 upcoming nights, with line-ups including Adrian (FR), Al Wootton, Ampe and Autogenesis and 2 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | FUNKE_GF_DAY02_Ojoo | Boudewijn Ericx, Harold mp1 |
 | Sun, 19 Jul 2026 | Ninety Three Collective with BLUME, Autogenesis [Live], instar & trillosta  | Autogenesis, BLUME, Wannes Lenaers, instar, trillosta |
 | Mon, 20 Jul 2026 | FUNKE_GF_DAY04_Matendraaiers |  |
 | Wed, 22 Jul 2026 | FUNKE_GF_DAY06_Black Teeth Radio & Third Floor | Al Wootton, Nefeli, SP1N |
@@ -21,4 +20,4 @@ Funke is a music venue in Ghent listed on soundcheck. 8 upcoming nights, with li
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

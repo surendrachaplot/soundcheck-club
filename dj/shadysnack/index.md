@@ -1,6 +1,6 @@
 # Shadysnack
 
-Shadysnack is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Tresor / Globus, Berlin on Wed, 22 Jul 2026.
+Shadysnack is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Tresor / Globus, Berlin on Wed, 22 Jul 2026.
 
 Shadysnack is an electronic artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside BOYCA, Khloe and Cristian Marras. Next up: Tresor / Globus, Berlin on Wed 22 Jul.
 
@@ -28,4 +28,4 @@ Shadysnack is an electronic artist tracked on soundcheck, with 31 sets logged ac
 
 BOYCA, Khloe, Cristian Marras
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*

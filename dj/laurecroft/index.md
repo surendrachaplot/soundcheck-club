@@ -1,8 +1,8 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
+Laure Croft is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Beton-T, Utrecht on Sat, 1 Aug 2026.
 
-Laure Croft is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Lacchesi, Carmen Electro and Lorenzo Lacchesi. Next up: Beton-T, Utrecht on Sat 1 Aug.
+Laure Croft is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Basel and 47 more. Often billed alongside Lacchesi, Carmen Electro and Lorenzo Lacchesi. Next up: Beton-T, Utrecht on Sat 1 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 174 sets lo
 | Thu, 13 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 28 Aug 2026 | Sub Club | Glasgow |
 | Sat, 5 Sept 2026 | The Steel Yard | London |
+| Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 174 sets lo
 
 Lacchesi, Carmen Electro, Lorenzo Lacchesi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

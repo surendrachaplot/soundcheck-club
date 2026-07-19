@@ -1,6 +1,6 @@
 # Human Safari
 
-Human Safari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Yard, Manchester on Sat, 25 Jul 2026.
+Human Safari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Yard, Manchester on Sat, 25 Jul 2026.
 
 Human Safari is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Buenosaires and Cologne and 13 more. Often billed alongside Budg, Kyle Cortis and SHDW. Next up: The Yard, Manchester on Sat 25 Jul.
 
@@ -26,4 +26,4 @@ Human Safari is a techno and house artist tracked on soundcheck, with 56 sets lo
 
 Budg, Kyle Cortis, SHDW
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/humansafari/)*

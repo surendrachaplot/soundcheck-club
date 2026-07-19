@@ -1,8 +1,8 @@
 # Kander
 
-Kander is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 24 Jul 2026.
+Kander is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 24 Jul 2026.
 
-Kander is a techno and trance artist tracked on soundcheck, with 135 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 24 Jul.
+Kander is a techno and trance artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 24 Jul.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Kander is a techno and trance artist tracked on soundcheck, with 135 sets logged
 | Sat, 1 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 15 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 5 Sept 2026 | Spook Club | Valencia |
+| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Kander is a techno and trance artist tracked on soundcheck, with 135 sets logged
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

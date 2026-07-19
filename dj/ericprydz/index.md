@@ -1,6 +1,6 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
+Eric Prydz is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Donauinsel, Vienna on Sat, 1 Aug 2026.
 
 Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Donauinsel, Vienna on Sat 1 Aug.
 
@@ -31,4 +31,4 @@ Eric Prydz is a techno and house artist based in Sweden, tracked on soundcheck, 
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

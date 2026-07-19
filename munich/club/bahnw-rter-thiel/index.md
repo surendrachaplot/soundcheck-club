@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "CFU Open Air & Club | Bahnwärter Thiel" on Sat, 18 Jul 2026.
+Bahnwärter Thiel is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "135+ mit Unikat & Collapse" on Thu, 23 Jul 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including 9LALEY, ACE, ÆNN and Alex Volta and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including 9LALEY, ACE, ÆNN and Alex Volta and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | CFU Open Air & Club / Bahnwärter Thiel | Dykstra, Marcel Dusk, SASHTY, SILSAN, Shishmish, Thea (BG) |
 | Thu, 23 Jul 2026 | 135+ mit Unikat & Collapse | ACE, Cottí Larje, Encountear, HIVEMIND |
 | Fri, 24 Jul 2026 | Freitag mit Konfusia | ANXA, Blake Strange, Konfusia, sayuara |
 | Sat, 25 Jul 2026 | Sound Salon Sommerfest mit Kotoe – Open Air & Club | Alex Volta, DEYST, Kotoe, Mawu, Moritz Butschek, NICI NICE, Tom Appl |
@@ -23,4 +22,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming n
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

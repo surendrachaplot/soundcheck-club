@@ -1,14 +1,13 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Stay Acid presents 54Hz w/JOKESONYOU" on Sat, 18 Jul 2026.
+Das Werk is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "MACH 1 with Dxpe" on Fri, 24 Jul 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including Albin Brezlan, AliA, Arman Shadow and Bangerfabrique and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Albin Brezlan, AliA, Arman Shadow and Bangerfabrique and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Stay Acid presents 54Hz w/JOKESONYOU | Arman Shadow, DJ Wolle, JOKESONYOU, Qaoz, SUITSIDE, Soda, ZEQ (1) |
 | Fri, 24 Jul 2026 | MACH 1 with Dxpe | AliA, Arman Shadow, Dxpe, LEANNE, Stendhal Syndrome, Suave |
 | Sat, 25 Jul 2026 | PSYTRANCE UNIVERSE Extended - Open Air & Indoor | Hannah mit Hut, VIBECHEN |
 | Sat, 1 Aug 2026 | TECHNO OBSCENE #32 - NINE O NINE x LSH - Das Werk Wien | Albin Brezlan, Huebl |
@@ -21,4 +20,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

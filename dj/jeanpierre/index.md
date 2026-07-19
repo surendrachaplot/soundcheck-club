@@ -1,6 +1,6 @@
 # Jean Pierre
 
-Jean Pierre is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 31 Jul 2026.
+Jean Pierre is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Pacha Ibiza, Ibiza on Fri, 31 Jul 2026.
 
 Jean Pierre is a tech house and house artist based in United States of America, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Birmingham and Frankfurt and 19 more. Often billed alongside Jesse Calosso, The Martinez Brothers and Mason Collective. Next up: Pacha Ibiza, Ibiza on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Jean Pierre is a tech house and house artist based in United States of America, 
 
 Jesse Calosso, The Martinez Brothers, Mason Collective
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*

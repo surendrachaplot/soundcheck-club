@@ -1,6 +1,6 @@
 # Romy
 
-Romy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at The Berkeley Suite, Glasgow on Sun, 19 Jul 2026.
+Romy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at The Berkeley Suite, Glasgow on Sun, 19 Jul 2026.
 
 Romy is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside Romy Mats, Your Muther and HAAi. Next up: The Berkeley Suite, Glasgow on Sun 19 Jul.
 
@@ -27,4 +27,4 @@ Romy is a techno and house artist tracked on soundcheck, with 128 sets logged ac
 
 Romy Mats, Your Muther, HAAi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*

@@ -1,6 +1,6 @@
 # NOIA
 
-NOIA is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at ZEROTOKYO, Tokyo on Sun, 16 Aug 2026.
+NOIA is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at ZEROTOKYO, Tokyo on Sun, 16 Aug 2026.
 
 NOIA is a bass and house artist based in Portugal, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Bristol and Kualalumpur and 9 more. Often billed alongside Torres, CASH FROM HASH and Juvenil Angústia. Next up: ZEROTOKYO, Tokyo on Sun 16 Aug.
 
@@ -26,4 +26,4 @@ NOIA is a bass and house artist based in Portugal, tracked on soundcheck, with 6
 
 Torres, CASH FROM HASH, Juvenil Angústia
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noia-pt/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/noia-pt/)*

@@ -1,6 +1,6 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
+Xiaolin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Port del Comte, Barcelona on Fri, 24 Jul 2026.
 
 Xiaolin is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Sunsiaré, Rødhåd and Wata Igarashi. Next up: Port del Comte, Barcelona on Fri 24 Jul.
 
@@ -27,4 +27,4 @@ Xiaolin is a house and techno artist tracked on soundcheck, with 75 sets logged 
 
 Sunsiaré, Rødhåd, Wata Igarashi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

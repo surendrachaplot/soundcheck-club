@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Plans After Fest - Euro Summer" on Sat, 18 Jul 2026.
+The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Dawn Patrol Open Air: Maz & Antdot extended set" on Fri, 24 Jul 2026.
 
 The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 4am Kru, 7ip7o3, KT and Aba Shanti-I and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -8,7 +8,6 @@ The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Plans After Fest - Euro Summer | BEN GERRANS, Flamingo Pier, Flava D, Hyan (2), Little Fritter, No Work, THIRZA, Ted Tables |
 | Fri, 24 Jul 2026 | Dawn Patrol Open Air: Maz & Antdot extended set | Antdot, Maz (BR) |
 | Sat, 25 Jul 2026 | The Cause FM: New Frequency | 7ip7o3, Big Hands, Cousin, Didi Han, Elijah, Fantastic Man, HOLY C, JAMESON JAMESON, Jonny Rock, Kim Ann Foxman, L-Vis 1990, Melati ESP, Nihal, No Plastic, Pouya Ehsaei, Sansibar, Sophie McAlister, Stella Zekri, Teki Latex, Tornado Wallace, Toumba, Yemz, dj sweet6teen, sooyeon, upsammy |
 | Sun, 26 Jul 2026 | SYNC - London | Bappy, Coco Em, Crybaby, DJ Travella, JUPiTA, K2RAH, Miss Tacacá, Moonshine, Nadine Noor, NegoO, Ramnik, Ricky Sahota, San Farafina, Saphe, Seksu, Yung Singh, harpriya |
@@ -18,9 +17,10 @@ The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, w
 | Fri, 7 Aug 2026 | TraTraTrax: Verraco, Nick León, Tasha, Beatrice M., Shackleton Live & Colombian Drone Mafia | Beatrice M., Colombian Drone Mafia, Nick León, Shackleton, Tasha, Verraco |
 | Sat, 8 Aug 2026 | Boat Club Open Air | G CHASE, HARTY, Mazos, Mike Younger, Ninetree, Sonny Kane |
 | Sun, 9 Aug 2026 | Summer 90s & 00s R&B Outdoor Festival | DJ Ace |
+| Sun, 9 Aug 2026 | Gin & Juice: Old School Hip-Hop Outdoor Summer Festival |  |
 
 ## Address
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

@@ -1,6 +1,6 @@
 # Justin Robertson
 
-Justin Robertson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Piccadilly Central, Manchester on Sat, 1 Aug 2026.
+Justin Robertson is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Piccadilly Central, Manchester on Sat, 1 Aug 2026.
 
 Justin Robertson is a house and acid artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Belfast, Brighton, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Graeme Park and Erol Alkan. Next up: Piccadilly Central, Manchester on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ Justin Robertson is a house and acid artist based in United Kingdom, tracked on 
 
 DJ Paulette, Graeme Park, Erol Alkan
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*

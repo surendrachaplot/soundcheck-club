@@ -1,6 +1,6 @@
 # they at Mastak
 
-they at Mastak on Sat 8 Aug, Warsaw. 1 act on the bill: Lyor Kalt. Techno. Preview the line-up and save it on soundcheck.
+they at Mastak on Sat 8 Aug, Warsaw. 2 acts on the bill: Lyor Kalt and SBCSLY. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ they at Mastak on Sat 8 Aug, Warsaw. 1 act on the bill: Lyor Kalt. Techno. Previ
 ## Line-up
 
 - Lyor Kalt
+- SBCSLY
 
 *Source: [soundcheck](https://soundcheck.club/e/2479864-they-at-mastak/)*

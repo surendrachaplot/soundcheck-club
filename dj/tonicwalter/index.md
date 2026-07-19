@@ -1,6 +1,6 @@
 # Tonic Walter
 
-Tonic Walter is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
+Tonic Walter is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Munich Beach Resort, Munich on Sat, 8 Aug 2026.
 
 Tonic Walter is a techno and deep house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside Montee, Angara and Philipp Wolf. Next up: Munich Beach Resort, Munich on Sat 8 Aug.
 
@@ -26,4 +26,4 @@ Tonic Walter is a techno and deep house artist tracked on soundcheck, with 38 se
 
 Montee, Angara, Philipp Wolf
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonicwalter/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/tonicwalter/)*

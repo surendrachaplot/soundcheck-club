@@ -1,6 +1,6 @@
 # Mosai
 
-Mosai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
+Mosai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Distillery N17, London on Fri, 31 Jul 2026.
 
 Mosai is a techno and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Barcelona, Liverpool, London and Manchester. Often billed alongside Tasman-UK, Debbie. and Kessie. Next up: Distillery N17, London on Fri 31 Jul.
 
@@ -26,4 +26,4 @@ Mosai is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Tasman-UK, Debbie., Kessie
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/mosai/)*

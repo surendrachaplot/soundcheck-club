@@ -1,6 +1,6 @@
 # Sub Focus
 
-Sub Focus is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
+Sub Focus is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Finsbury Park, London on Sun, 2 Aug 2026.
 
 Sub Focus is a drum & bass and bass artist tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: Finsbury Park, London on Sun 2 Aug.
 
@@ -26,4 +26,4 @@ Sub Focus is a drum & bass and bass artist tracked on soundcheck, with 71 sets l
 
 Culture Shock, Dimension, Hedex
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*

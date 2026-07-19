@@ -1,15 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Night Service: Day Edition w/ Ryan Elliott (4 hour set), Ty Naug & 2 boots (FOLD, Steam Room)" on Sat, 18 Jul 2026.
+FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "UNFOLD CXXVII" on Sun, 19 Jul 2026.
 
-FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 2 boots, Alarico, Alba Heidari and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including Alarico, Alba Heidari, Alien Communications and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Night Service: Day Edition w/ Ryan Elliott (4 hour set), Ty Naug & 2 boots (FOLD, Steam Room) | 2 boots, Paige (Night Service), Ryan Elliott, Ty Naug |
-| Sat, 18 Jul 2026 | FJAAK - FOLD | FJAAK, S Ruston |
 | Sun, 19 Jul 2026 | UNFOLD CXXVII |  |
 | Sat, 25 Jul 2026 | Origins: MARRØN, Prance & Gloria Rose | Gloria Rose, MARRØN, Prance |
 | Fri, 31 Jul 2026 | Origins: Ignez, STERAC, Wala & Desireè [Somov Showcase] | Desiree', Ignez, STERAC, Wala |
@@ -18,9 +16,11 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with l
 | Sat, 8 Aug 2026 | Origins: Nicola Cruz [Extended Set] Willow & Pato | Nicola Cruz, Pato, Willow |
 | Sat, 8 Aug 2026 | SLIVER • 004 | ANNX, Matriark, Mona Sage, Slinky Kinky, Tangela |
 | Fri, 14 Aug 2026 | Origins: Pangaea, Or:la & Pariah  | Or:la, Pangaea, Pariah |
+| Sat, 15 Aug 2026 | Art Of Dark - Summer Heights | Colin Chiddle, DJ Masda, Detroit In Effect, Katya, Matthias (1), Samuel Jabba, mad miran |
+| Sat, 15 Aug 2026 | Probe. Rebloom. Revival. with Peter Van Hoesen, Lynne & JJ b2b Jay Galligan | JJ (Rebloom), Jay Galligan, Lynne, Peter Van Hoesen |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

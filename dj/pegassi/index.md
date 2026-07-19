@@ -1,14 +1,13 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at MS Artville, Hamburg on Sat, 18 Jul 2026.
+Pegassi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 31 Jul 2026.
 
-Pegassi is a techno and trance artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 43 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: MS Artville, Hamburg on Sat 18 Jul.
+Pegassi is a techno and trance artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 43 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: 1015 Folsom, Sanfrancisco on Fri 31 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | MS Artville | Hamburg |
 | Fri, 31 Jul 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 1 Aug 2026 | TBA - Hollywood Park adjacent to SoFi Stadium | Los Angeles |
 | Sat, 1 Aug 2026 | Exchange LA | Los Angeles |
@@ -20,9 +19,11 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 160 sets logge
 | Sun, 13 Sept 2026 | Else | Berlin |
 | Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 19 Sept 2026 | Mondo | Madrid |
+| Sat, 3 Oct 2026 | The Limelight | Belfast |
 
 ## Recently played
 
+- MS Artville, Hamburg — Sat, 18 Jul 2026
 - Mdlr, Singapore — Sat, 4 Jul 2026
 - Soho House Hong Kong, Hong Kong — Tue, 30 Jun 2026
 - Amnesia Ibiza, Ibiza — Sun, 7 Jun 2026
@@ -30,10 +31,9 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 160 sets logge
 - Titanic Slipways, Belfast — Fri, 29 May 2026
 - E1, London — Fri, 29 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
-- TBA - Port of Belgrade, Belgrade — Fri, 8 May 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

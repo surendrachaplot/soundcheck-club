@@ -1,8 +1,8 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
+Dr Dubplate is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Gianpula Village, Malta on Wed, 12 Aug 2026.
 
-Dr Dubplate is a garage and bass artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Soul Mass Transit System. Next up: Gianpula Village, Malta on Wed 12 Aug.
+Dr Dubplate is a garage and bass artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Soul Mass Transit System. Next up: Gianpula Village, Malta on Wed 12 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dr Dubplate is a garage and bass artist tracked on soundcheck, with 142 sets log
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 17 Oct 2026 | The Dome | Liverpool |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Dr Dubplate is a garage and bass artist tracked on soundcheck, with 142 sets log
 
 Bakey, Yemz, Soul Mass Transit System
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

@@ -1,14 +1,13 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "LAVERN" on Sat, 18 Jul 2026.
+Audio SF is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Jody Wisternoff & Nox Vahn (All Night Long)" on Fri, 24 Jul 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including EMBRZ (IE), LAVERN, Special Guest (US) and Tommy Phillips. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including EMBRZ (IE), Special Guest (US) and Tommy Phillips. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | LAVERN | LAVERN, Special Guest (US) |
 | Fri, 24 Jul 2026 | Jody Wisternoff & Nox Vahn (All Night Long) |  |
 | Sat, 25 Jul 2026 | Soul Clap |  |
 | Sat, 25 Jul 2026 | SAM FELDT |  |
@@ -18,9 +17,10 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nigh
 | Fri, 14 Aug 2026 | JAMBACK |  |
 | Sat, 15 Aug 2026 | EMBRZ (Day Party) | EMBRZ (IE) |
 | Sat, 15 Aug 2026 | Tommy Phillips | Tommy Phillips |
+| Sat, 22 Aug 2026 | KARABA |  |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

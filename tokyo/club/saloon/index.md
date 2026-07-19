@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "NewMatch curated by Mana Online" on Sun, 19 Jul 2026.
+Saloon is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "NewMatch curated by Mana Online" on Sun, 19 Jul 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including C-KAY, ecec, HIMAWARI and Neutran and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -20,4 +20,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with l
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

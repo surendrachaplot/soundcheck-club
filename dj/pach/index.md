@@ -1,6 +1,6 @@
 # PACH
 
-PACH is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 1 Aug 2026.
+PACH is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Shelter Amsterdam, Amsterdam on Sat, 1 Aug 2026.
 
 PACH is a house and minimal artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: Shelter Amsterdam, Amsterdam on Sat 1 Aug.
 
@@ -26,4 +26,4 @@ PACH is a house and minimal artist tracked on soundcheck, with 63 sets logged ac
 
 Marlie, ADMNTi, Rossi
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*

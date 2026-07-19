@@ -1,6 +1,6 @@
 # Trillium Park
 
-Trillium Park is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 18 Jul 2026; the next is "Mixto Festival" on Sat, 25 Jul 2026.
+Trillium Park is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 19 Jul 2026; the next is "Mixto Festival" on Sat, 25 Jul 2026.
 
 Trillium Park is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Murderith, Raf Reza, Sandwavv and The Scientist. Browse upcoming dates, start times and who's playing. 955 Lake Shore Blvd W, Toronto, ON M6K 3B9.
 
@@ -14,4 +14,4 @@ Trillium Park is a music venue in Toronto listed on soundcheck. 1 upcoming night
 
 955 Lake Shore Blvd W, Toronto, ON M6K 3B9, Toronto
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/trillium-park/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/trillium-park/)*

@@ -1,14 +1,13 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Flava Beach, Naples on Sat, 18 Jul 2026.
+Cera Khin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at UNO MALTA, Malta on Sat, 8 Aug 2026.
 
-Cera Khin is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Shlømo, Charlie Sparks and I Hate Models. Next up: Flava Beach, Naples on Sat 18 Jul.
+Cera Khin is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Shlømo, Charlie Sparks and I Hate Models. Next up: UNO MALTA, Malta on Sat 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Flava Beach | Naples |
 | Sat, 8 Aug 2026 | UNO MALTA | Malta |
 | Sat, 8 Aug 2026 | Kilomètre25 | Paris |
 | Thu, 20 Aug 2026 | Ministerium Club | Lisbon |
@@ -18,6 +17,7 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 172 sets logg
 
 ## Recently played
 
+- Flava Beach, Naples — Sat, 18 Jul 2026
 - Eden, Ibiza — Tue, 14 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 14 Jun 2026
 - Barraca, Valencia — Sat, 13 Jun 2026
@@ -25,10 +25,9 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 172 sets logg
 - INPUT High Fidelity Dance Club, Barcelona — Sat, 30 May 2026
 - TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 - Parc Floral De Paris, Paris — Fri, 8 May 2026
-- Slaktkyrkan, Stockholm — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Shlømo, Charlie Sparks, I Hate Models
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

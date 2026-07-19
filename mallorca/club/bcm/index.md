@@ -1,6 +1,6 @@
 # BCM
 
-BCM is a music venue in Mallorca with 14 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Ewan McVicar" on Sun, 19 Jul 2026.
+BCM is a music venue in Mallorca with 14 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "Ewan McVicar" on Sun, 19 Jul 2026.
 
 BCM is a music venue in Mallorca listed on soundcheck. 14 upcoming nights, with line-ups including Armand Van Helden, Bob Sinclar, Disclosure and Ewan McVicar and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
@@ -23,4 +23,4 @@ BCM is a music venue in Mallorca listed on soundcheck. 14 upcoming nights, with 
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

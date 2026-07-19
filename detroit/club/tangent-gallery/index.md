@@ -1,6 +1,6 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "FLASHBACK" on Fri, 24 Jul 2026.
+Tangent Gallery is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "FLASHBACK" on Fri, 24 Jul 2026.
 
 Tangent Gallery is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Aluna, britty., Dantiez and DEEPFAKE and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
@@ -19,4 +19,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 6 upcoming nig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

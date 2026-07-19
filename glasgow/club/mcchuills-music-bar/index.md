@@ -1,14 +1,13 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Wrong Party! at McChuills" on Sat, 18 Jul 2026.
+McChuills Music Bar is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "ACID ~ LEFTFIELD ~ DUB — Acid Boner - LOVELL - Illogical Operator" on Sun, 26 Jul 2026.
 
-McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Acid Boner, Chris Hewitt, Deepbass and Fernie and 2 more. Browse upcoming dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
+McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Acid Boner, Chris Hewitt, Deepbass and Fernie and 2 more. Browse upcoming dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Wrong Party! at McChuills | GK Machine, Illogical Operator, Wrong Party! |
 | Sun, 26 Jul 2026 | ACID ~ LEFTFIELD ~ DUB — Acid Boner - LOVELL - Illogical Operator | Acid Boner, Illogical Operator, LOVELL |
 | Sat, 1 Aug 2026 | Phil Kieran presents: Leatherette | Phil Kieran |
 | Sun, 27 Sept 2026 | Orbits: Deep Hypnotic Techno with Kairogen | Deepbass, Fernie, Kairogen, Repart |
@@ -18,4 +17,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 5 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

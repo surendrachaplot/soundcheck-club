@@ -1,15 +1,13 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 18 Jul 2026; the next is "Spirit of the Boogie: Funk, Soul & Disco" on Sat, 18 Jul 2026.
+Oslo Hackney is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 19 Jul 2026; the next is "heylucas (live)" on Wed, 16 Sept 2026.
 
-Oslo Hackney is a music venue in London listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
+Oslo Hackney is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 18 Jul 2026 | Spirit of the Boogie: Funk, Soul & Disco |  |
-| Sat, 18 Jul 2026 | AFTERS: Late night bar in Hackney Central |  |
 | Wed, 16 Sept 2026 | heylucas (live) |  |
 | Thu, 17 Sept 2026 | heylucas (live)  [SOLD OUT] |  |
 | Thu, 8 Oct 2026 | Test Dept / Sophie Sirota |  |
@@ -18,4 +16,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 5 upcoming nights.
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

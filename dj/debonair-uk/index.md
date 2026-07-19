@@ -1,6 +1,6 @@
 # DEBONAIR
 
-DEBONAIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 18 Jul 2026, next at Ormside Projects, London on Sat, 1 Aug 2026.
+DEBONAIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 19 Jul 2026, next at Ormside Projects, London on Sat, 1 Aug 2026.
 
 DEBONAIR is a techno and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe (1). Next up: Ormside Projects, London on Sat 1 Aug.
 
@@ -27,4 +27,4 @@ DEBONAIR is a techno and house artist tracked on soundcheck, with 55 sets logged
 
 Jubilee, Objekt, Coe (1)
 
-*Updated Sat, 18 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*
+*Updated Sun, 19 Jul 2026 · source: [soundcheck](https://soundcheck.club/dj/debonair-uk/)*
